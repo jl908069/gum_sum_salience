@@ -5,8 +5,8 @@ from align import align
 from serialize import serialize
 
 def main():
-    parser = argparse.ArgumentParser(description="GUM Summary and Salience Annotation")
-    parser.add_argument("input_file", type=str, help="Path to the input GUM document")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("input_file", type=str, help="Path to gumsum.xlsx")
     parser.add_argument("output_tsv", type=str, help="Path to the output TSV file")
     parser.add_argument("output_xml", type=str, help="Path to the output XML file")
     parser.add_argument("--format", type=str, choices=["tsv", "conllu", "xml"], default="tsv", help="Input file format")
