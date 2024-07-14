@@ -1,0 +1,45 @@
+import argparse
+from get_summary import get_summary, read_documents_from_excel
+from parse import parse
+from align import align
+from serialize import serialize
+
+def main():
+    parser = argparse.ArgumentParser(description="GUM Summary and Salience Annotation")
+    parser.add_argument("input_file", type=str, help="Path to the input GUM document")
+    parser.add_argument("output_tsv", type=str, help="Path to the output TSV file")
+    parser.add_argument("output_xml", type=str, help="Path to the output XML file")
+    parser.add_argument("--format", type=str, choices=["tsv", "conllu", "xml"], default="tsv", help="Input file format")
+    parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate")
+    parser.add_argument("--alignment_component", type=str, choices=["LLM", "string_match", "coref_system"], default="LLM", help="Component to use for alignment")
+    parser.add_argument("--model_name", type=str, default="flan-t5-xl", help="Huggingface model name to use for summarization")
+
+    args = parser.parse_args()
+    
+    doc_ids, doc_texts = read_documents_from_excel(args.input_file)
+    
+    summaries = get_summary(doc_texts, model_name=args.model_name, n=args.n_summaries)
+    
+    all_mentions = []
+    for summary_set in summaries:
+        summary_mentions = []
+        for summary in summary_set:
+            mentions = parse(summary)
+            summary_mentions.append(mentions)
+        all_mentions.append(summary_mentions)
+    
+    alignments = []
+    for i, mentions_set in enumerate(all_mentions):
+        doc_alignments = []
+        for mentions in mentions_set:
+            summary_alignments = []
+            for mention in mentions:
+                alignment = align(doc_texts[i], mentions, component=args.alignment_component)
+                summary_alignments.append(alignment)
+            doc_alignments.append(summary_alignments)
+        alignments.append(doc_alignments)
+    
+    serialize(args.output_tsv, args.output_xml, alignments, summaries)
+
+if __name__ == "__main__":
+    main()
