@@ -22,10 +22,7 @@ def main():
     
     all_mentions = []
     for summary_set in summaries:
-        summary_mentions = []
-        for summary in summary_set:
-            mentions = parse(summary)
-            summary_mentions.append(mentions)
+        summary_mentions = parse(summary_set)
         all_mentions.append(summary_mentions)
     
     alignments = []
@@ -34,7 +31,7 @@ def main():
         for mentions in mentions_set:
             summary_alignments = []
             for mention in mentions:
-                alignment = align(doc_texts[i], mentions, component=args.alignment_component)
+                alignment = align(doc_texts[i], summaries[i], mention, component=args.alignment_component)
                 summary_alignments.append(alignment)
             doc_alignments.append(summary_alignments)
         alignments.append(doc_alignments)
