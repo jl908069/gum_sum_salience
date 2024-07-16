@@ -1,10 +1,10 @@
 import argparse
 import os
 from get_summary import get_summary, read_documents_from_excel
-from parse import parse
+from parse import parse_summaries
 from align import align, extract_mentions_from_gold_tsv
 from serialize import serialize
-
+#from generate_conll import generate_conll_files
 
 def main():
     parser = argparse.ArgumentParser()
