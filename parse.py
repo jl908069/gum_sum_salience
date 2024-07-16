@@ -1,11 +1,28 @@
-import spacy
+import stanza
 
-nlp = spacy.load("en_core_web_sm")
+stanza.download('en')  # Download English models
+nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,constituency')
 
-def parse(summaries):
-    all_mentions = []
-    for summary in summaries:
-        doc = nlp(summary)
-        mentions = [chunk.text for chunk in doc.noun_chunks if chunk.root.pos_ in {"NOUN", "PROPN"}]
-        all_mentions.append(mentions)
-    return all_mentions
+def extract_noun_phrases(tree):
+    noun_phrases = []
+    for subtree in tree.subtrees():
+        if subtree.label() == 'NP':
+            leaves = subtree.leaves()
+            # Filter out pronouns: should think of better ways
+            if all(not word.lower() in ['i', 'me', 'my', 'mine', 'we', 'us', 'our', 'ours', 
+                                        'you', 'your', 'yours', 'he', 'him', 'his', 'she', 
+                                        'her', 'hers', 'it', 'its', 'they', 'them', 'their', 
+                                        'theirs', 'this', 'that', 'these', 'those'] for word in leaves):
+                noun_phrases.append(' '.join(leaves))
+    return noun_phrases
+
+
+def parse_summaries(summaries):
+    all_noun_phrases = []
+    for summary_list in summaries:
+        summary_noun_phrases = []
+        for summary in summary_list:
+            doc = nlp(summary)
+            summary_noun_phrases.append([extract_noun_phrases(Tree.fromstring(str(sent.constituency))) for sent in doc.sentences])
+        all_noun_phrases.append(summary_noun_phrases)
+    return all_noun_phrases
