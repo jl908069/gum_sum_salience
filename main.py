@@ -1,8 +1,10 @@
 import argparse
+import os
 from get_summary import get_summary, read_documents_from_excel
 from parse import parse
-from align import align
+from align import align, extract_mentions_from_gold_tsv
 from serialize import serialize
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -13,10 +15,15 @@ def main():
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate")
     parser.add_argument("--alignment_component", type=str, choices=["LLM", "string_match", "coref_system"], default="LLM", help="Component to use for alignment")
     parser.add_argument("--model_name", type=str, default="flan-t5-xl", help="Huggingface model name to use for summarization")
+    parser.add_argument("--data_folder", type=str, required=True, help="Path to the folder containing TSV, conllu or xml files")
+
 
     args = parser.parse_args()
     
     doc_ids, doc_texts = read_documents_from_excel(args.input_file)
+    
+    # Extract mentions from TSV folder
+    all_mentions_from_tsv = extract_mentions_from_gold_tsv(args.tsv_folder)
     
     summaries = get_summary(doc_texts, model_name=args.model_name, n=args.n_summaries)
     
@@ -31,12 +38,17 @@ def main():
         for mentions in mentions_set:
             summary_alignments = []
             for mention in mentions:
-                alignment = align(doc_texts[i], summaries[i], mention, component=args.alignment_component)
+                alignment = align(
+                    all_mentions_from_tsv[i], 
+                    summaries[i], 
+                    mention, 
+                    component=args.alignment_component
+                )
                 summary_alignments.append(alignment)
             doc_alignments.append(summary_alignments)
         alignments.append(doc_alignments)
     
     serialize(args.output_tsv, args.output_xml, alignments, summaries)
-
+    
 if __name__ == "__main__":
     main()
