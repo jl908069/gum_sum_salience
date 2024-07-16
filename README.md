@@ -18,3 +18,7 @@
   - Define a function serialize(tsv, xml, alignments) that takes the alignments and produces:
       - A TSV file with new annotations for salience
       - An XML file with new summaries embedded in the <text> element
+   
+### `generate_conll.py`
+  - Generates the merged conll files (document+summary) needed for running the [coref-mtl](https://github.com/yilunzhu/coref-mtl)
+  - Follow the instructions there to generate the prediction tsv files needed for running `align.py`. Put the prediction files under `./data/pred_tsv`
