@@ -27,10 +27,7 @@ def main():
     
     summaries = get_summary(doc_texts, model_name=args.model_name, n=args.n_summaries)
     
-    all_mentions = []
-    for summary_set in summaries:
-        summary_mentions = parse(summary_set)
-        all_mentions.append(summary_mentions)
+    all_mentions = parse_summaries(summaries)
     
     alignments = []
     for i, mentions_set in enumerate(all_mentions):
