@@ -3,9 +3,11 @@ import sys
 import subprocess
 import spacy
 import json
+import openai
 
 # Add coref-mtl to the Python path
 #sys.path.append(os.path.abspath("coref-mtl"))
+openai.api_key = "your_openai_api_key"
 
 nlp = spacy.load("en_core_web_sm") #for function word detection
 
@@ -139,9 +141,72 @@ def extract_mentions_from_pred_tsv(data_folder):
 
     return all_mentions
 
-def align_llm(doc_mentions, summary_text, mention_text):
-    # Implementation for alignment using LLM (Huggingface API)
-    pass
+def align_llm(doc_mentions, summary_text): #could come up with a better prompt
+    """
+    Align mentions using GPT-4 API.
+
+    Args:
+        doc_mentions (list of list of tuples): List of lists of tuples where each tuple contains (word_span, word_index, coref_index).
+        summary_text (list of list of str): List of lists of summaries.
+
+    Returns:
+        list of list of list of tuples: A list of lists of lists of tuples where each tuple's `word_span` is found in the corresponding document.
+    """
+    client = openai.OpenAI()
+    
+    assistant = client.beta.assistants.create(
+        name="Document Aligner",
+        instructions="You are an assistant for aligning mentions from summary text with document text. For each mention in the summary, determine if it aligns with any word span in the document.",
+        model="gpt-4o"
+    )
+    
+    prompt_template = (
+        "Document: {doc_text}\n"
+        "Summary: {summary}\n"
+        "For each mention in the summary, determine if it aligns with (or make an equivalent reference to) any word span in the document. "
+        "Return a list of matching word spans from the document for each mention, or 'No match' if no match is found."
+    )
+
+    results = []
+
+    # Extract each summary through all documents to a list of summaries
+    num_summaries = len(summary_text[0])
+    summaries_by_index = [[] for _ in range(num_summaries)]
+    
+    for doc_summaries in summary_text:
+        for i, summary in enumerate(doc_summaries):
+            summaries_by_index[i].append(summary)
+    
+    # Process each list of summaries
+    for summaries in summaries_by_index:
+        summary_results = []
+        for doc, summary in zip(doc_mentions, summaries):
+            prompt = prompt_template.format(
+                doc_text=" ".join([span for span, _, _ in doc]),
+                summary=summary
+            )
+
+            response = client.completions.create(
+                assistant=assistant,
+                prompt=prompt,
+                max_tokens=150  # Adjust as necessary to handle multiple mentions
+            )
+
+            answer = response.choices[0].text.strip().split("\n")
+            extracted_mentions = []
+
+            for ans in answer:
+                if ans != "No match":
+                    for span, idx, coref in doc:
+                        if ans in span:
+                            extracted_mentions.append((span, idx, coref))
+                            break
+
+            summary_results.append(extracted_mentions)
+        
+        results.append(summary_results)
+
+    return results
 
 def align_string_match(doc_mentions, mention_text):
     """
@@ -149,43 +214,42 @@ def align_string_match(doc_mentions, mention_text):
 
     Args:
         doc_mentions (list of list of tuples): List of lists of tuples where each tuple contains (word_span, word_index, coref_index).
-        mention_text (list of str): List of mention strings from the summary.
+        mention_text (list of list of str): List of lists of mention strings from the summary.
 
     Returns:
         list of list of tuples: A new list of lists of tuples where each tuple's `word_span` is found in the corresponding document.
     """
     doc_mentions = [[(span.lower(), idx, coref) for span, idx, coref in mentions] for mentions in doc_mentions]
-    mention_text = [text.lower() for text in mention_text]
+    mention_text = [[text.lower() for text in mentions] for mentions in mention_text]
 
     # Automatically detect function words using spacy
-    stop_words = {word for word in nlp.Defaults.stop_words}
+    stop_words = {word for word in spacy_nlp.Defaults.stop_words}
 
     results = []
 
     for doc, mentions in zip(doc_mentions, mention_text):
         extracted_mentions = []
         for mention in mentions:
-            word_span = mention[0]
-            words = word_span.split()
+            words = mention.split()
             if len(words) < 2:
-                if word_span in doc:
-                    extracted_mentions.append(mention)
+                if mention in mentions and mention not in stop_words:
+                    extracted_mentions.append((mention, doc[0][1], doc[0][2]))
             elif len(words) == 2:
-                if word_span in doc:
-                    extracted_mentions.append(mention)
+                if mention in mentions:
+                    extracted_mentions.append((mention, doc[0][1], doc[0][2]))
                 else:
                     for word in words:
                         if word in doc and word not in stop_words:
-                            extracted_mentions.append(mention)
+                            extracted_mentions.append((mention, doc[0][1], doc[0][2]))
                             break
             else:
-                if word_span in doc:
-                    extracted_mentions.append(mention)
+                if mention in mentions:
+                    extracted_mentions.append((mention, doc[0][1], doc[0][2]))
                 else:
                     for i in range(len(words) - 1):
                         match_span = ' '.join(words[i:i + 3])
                         if match_span in doc:
-                            extracted_mentions.append(mention)
+                            extracted_mentions.append((mention, doc[0][1], doc[0][2]))
                             break
         results.append(extracted_mentions)
 
@@ -200,7 +264,7 @@ def align_coref_system(data_folder):
 
 def align(doc_mentions, summary_text, mention_text, data_folder, component="LLM"):
     if component == "LLM":
-        return align_llm(doc_mentions, summary_text, mention_text)
+        return align_llm(doc_mentions, summary_text)
     elif component == "string_match":
         return align_string_match(doc_mentions, mention_text)
     elif component == "coref_system":
