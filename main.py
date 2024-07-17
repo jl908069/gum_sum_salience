@@ -30,21 +30,19 @@ def main():
     all_mentions = parse_summaries(summaries)
     
     alignments = []
-    for i, mentions_set in enumerate(all_mentions):
-        doc_alignments = []
-        for mentions in mentions_set:
-            summary_alignments = []
-            for mention in mentions:
-                alignment = align(
-                    all_mentions_from_tsv[i], 
-                    summaries[i], 
-                    mention, 
-                    component=args.alignment_component
-                )
-                summary_alignments.append(alignment)
-            doc_alignments.append(summary_alignments)
-        alignments.append(doc_alignments)
-    
+    for i in range(len(all_mentions_from_tsv)):
+        summary_alignments = []
+        for summary_index in range(args.n_summaries):
+            alignment = align(
+                all_mentions_from_tsv[i],
+                summary_text=summaries,
+                mention_text=all_mentions,
+                data_folder=args.data_folder,
+                component=args.alignment_component
+            )
+            summary_alignments.append(alignment)
+        alignments.append(summary_alignments)
+
     serialize(args.output_tsv, args.output_xml, alignments, summaries)
     
 if __name__ == "__main__":
