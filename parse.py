@@ -25,5 +25,4 @@ def parse_summaries(summaries):
             doc = nlp(summary)
             summary_noun_phrases.append([extract_noun_phrases(Tree.fromstring(str(sent.constituency))) for sent in doc.sentences])
         all_noun_phrases.append(summary_noun_phrases)
-        flattened_data = [item for sublist in all_noun_phrases for subsublist in sublist for item in subsublist] # a list of lists
-    return flattened_data
+    return all_noun_phrases
