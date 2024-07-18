@@ -25,7 +25,7 @@ def main():
     # Extract mentions from TSV folder
     all_mentions_from_tsv = extract_mentions_from_gold_tsv(args.tsv_folder)
     
-    summaries = get_summary(doc_texts, model_name=args.model_name, n=args.n_summaries)
+    summaries = get_summary(doc_texts, doc_ids, model_name=args.model_name, n=args.n_summaries)
     
     all_mentions = parse_summaries(list(summaries.values()))
     
