@@ -141,7 +141,7 @@ def extract_mentions_from_pred_tsv(data_folder):
 
     return all_mentions
 
-def align_llm(doc_mentions, summary_text): #could come up with a better prompt
+def align_llm(doc_mentions, summary_text):
     """
     Align mentions using GPT-4 API.
 
@@ -214,60 +214,111 @@ def align_string_match(doc_mentions, mention_text):
 
     Args:
         doc_mentions (list of list of tuples): List of lists of tuples where each tuple contains (word_span, word_index, coref_index).
-        mention_text (list of list of str): List of lists of mention strings from the summary.
+        mention_text (list of list of list of list of str): List of lists of lists of mention strings from the summary.
 
     Returns:
-        list of list of tuples: A new list of lists of tuples where each tuple's `word_span` is found in the corresponding document.
+        list of list of list of tuples: A new list of lists of lists of tuples where each tuple's `word_span` is found in the corresponding document.
     """
+    # Ensure doc_mentions is in lower case
     doc_mentions = [[(span.lower(), idx, coref) for span, idx, coref in mentions] for mentions in doc_mentions]
-    mention_text = [[text.lower() for text in mentions] for mentions in mention_text]
+
+    # Flatten mention_text structure and convert to lower case
+    mention_text = [[[[mention.lower() for mention in summary] for summary in document_summaries] for document_summaries in document] for document in mention_text]
 
     # Automatically detect function words using spacy
     stop_words = {word for word in spacy_nlp.Defaults.stop_words}
 
     results = []
 
-    for doc, mentions in zip(doc_mentions, mention_text):
-        extracted_mentions = []
-        for mention in mentions:
-            words = mention.split()
-            if len(words) < 2:
-                if mention in mentions and mention not in stop_words:
-                    extracted_mentions.append((mention, doc[0][1], doc[0][2]))
-            elif len(words) == 2:
-                if mention in mentions:
-                    extracted_mentions.append((mention, doc[0][1], doc[0][2]))
-                else:
-                    for word in words:
-                        if word in doc and word not in stop_words:
-                            extracted_mentions.append((mention, doc[0][1], doc[0][2]))
-                            break
-            else:
-                if mention in mentions:
-                    extracted_mentions.append((mention, doc[0][1], doc[0][2]))
-                else:
-                    for i in range(len(words) - 1):
-                        match_span = ' '.join(words[i:i + 3])
-                        if match_span in doc:
-                            extracted_mentions.append((mention, doc[0][1], doc[0][2]))
-                            break
-        results.append(extracted_mentions)
+    num_summaries = len(mention_text[0])
+    for summary_idx in range(num_summaries):
+        summary_alignments = []
+        for doc_idx, doc in enumerate(doc_mentions):
+            mentions = mention_text[doc_idx][summary_idx]  # Extract the list of mentions for the summary
+            extracted_mentions = []
+
+            for summary in mentions:
+                for mention in summary:
+                    words = mention.split()
+                    if len(words) < 2:
+                        if mention in [span for span, _, _ in doc] and mention not in stop_words:
+                            for span, idx, coref in doc:
+                                if span == mention:
+                                    extracted_mentions.append((span, idx, coref))
+                    elif len(words) == 2:
+                        if mention in [span for span, _, _ in doc]:
+                            for span, idx, coref in doc:
+                                if span == mention:
+                                    extracted_mentions.append((span, idx, coref))
+                        else:
+                            for word in words:
+                                if word in [span for span, _, _ in doc] and word not in stop_words:
+                                    for span, idx, coref in doc:
+                                        if word in span:
+                                            extracted_mentions.append((span, idx, coref))
+                                            break
+                    else:
+                        if mention in [span for span, _, _ in doc]:
+                            for span, idx, coref in doc:
+                                if span == mention:
+                                    extracted_mentions.append((span, idx, coref))
+                        else:
+                            for i in range(len(words) - 1):
+                                match_span = ' '.join(words[i:i + 3])
+                                if match_span in [span for span, _, _ in doc]:
+                                    for span, idx, coref in doc:
+                                        if match_span in span:
+                                            extracted_mentions.append((span, idx, coref))
+                                            break
+
+            if not extracted_mentions:  # Add "No match" if no matches found
+                extracted_mentions.append("No match")
+
+            summary_alignments.append(extracted_mentions)
+        
+        results.append(summary_alignments)
 
     return results
 
-def align_coref_system(data_folder):
+def align_coref_system(data_folders, n_summaries):
+    """
+    Align mentions using a coreference system.
 
-    # Extract mentions from TSV folder
-    predictions = extract_mentions_from_pred_tsv(data_folder) # "path/to/predictions tsv files" 
+    Args:
+        data_folders (list of str): List of paths to folders containing TSV files with predictions for each summary.
+        n_summaries (int): Number of summaries to use.
 
-    return predictions
+    Returns:
+        list of list of list of tuples: Organized predictions.
+    """
+    predictions_list = []
 
-def align(doc_mentions, summary_text, mention_text, data_folder, component="LLM"):
+    for i in range(n_summaries):
+        folder_path = data_folders[i]
+        predictions = extract_mentions_from_pred_tsv(folder_path)
+        predictions_list.append(predictions)
+
+    num_documents = len(predictions_list[0])  # Number of documents
+    organized_predictions = [[[] for _ in range(num_documents)] for _ in range(n_summaries)]
+
+    for summary_idx, predictions in enumerate(predictions_list):
+        for doc_idx, doc_predictions in enumerate(predictions):
+            organized_predictions[summary_idx][doc_idx] = doc_predictions
+
+    # Fill "No match" where there are empty lists
+    for summary_idx in range(n_summaries):
+        for doc_idx in range(num_documents):
+            if not organized_predictions[summary_idx][doc_idx]:
+                organized_predictions[summary_idx][doc_idx] = ["No match"]
+
+    return organized_predictions
+
+def align(doc_mentions, summary_text, mention_text, data_folder, n_summaries, component="LLM"):
     if component == "LLM":
         return align_llm(doc_mentions, summary_text)
     elif component == "string_match":
         return align_string_match(doc_mentions, mention_text)
     elif component == "coref_system":
-        return align_coref_system(data_folder)
+        return align_coref_system(data_folder, n_summaries)
     else:
         raise ValueError(f"Unknown alignment component: {component}")
