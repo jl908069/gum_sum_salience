@@ -29,21 +29,7 @@ def main():
     
     all_mentions = parse_summaries(list(summaries.values()))
     
-    alignments = []
-
-    for i in range(len(all_mentions_from_tsv)):
-        doc_alignments = []
-        for j in range(len(all_mentions[i])):
-            summary_mention = all_mentions[i][j][0]  
-            alignment = align(
-                [all_mentions_from_tsv[i]],
-                summary_text=list(summaries.values()),  
-                mention_text=[summary_mention],
-                data_folder=args.data_folder,
-                component=args.alignment_component  
-            )
-            doc_alignments.append(alignment[0]) 
-        alignments.append(doc_alignments)
+    alignments= align(all_mentions_from_tsv, summaries, all_mentions, data_folder=args.data_folder, n_summaries=args.n_summaries , component=args.alignment_component)
 
     serialize(args.output_tsv, args.output_xml, alignments, summaries)
     
