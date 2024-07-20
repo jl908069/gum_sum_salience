@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 import re
-from get_summary import get_summary
+#from get_summary import get_summary
 import argparse
 
 def add_summaries_to_xml(xml_folder, summaries, output_folder):
@@ -50,20 +50,70 @@ def add_summaries_to_xml(xml_folder, summaries, output_folder):
             output_path = os.path.join(output_folder, f"{doc_id}.xml")
             tree.write(output_path, encoding="utf-8", xml_declaration=True)
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--data_folder", type=str, help="Path to the XML files")
-    parser.add_argument("--output_xml", , type=str, help="Path to the output XML file")
-    parser.add_argument("--file_path", type=str, default="gumsum.xlsx", help="Path to the Excel file containing GUM documents")
-    parser.add_argument("--model_name", type=str, default="google/flan-t5-base", help="Huggingface model name to use for summarization")
-    parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate per document")
+def add_anno_to_tsv(input_dir, output_dir, alignments):
+    """
+    Process TSV files to modify salience columns and mark tokens based on alignments.
 
-    args = parser.parse_args()
+    Args:
+        input_dir (str): Directory containing input TSV files.
+        output_dir (str): Directory to save output TSV files.
+        alignments (list): List of alignments for each summary.
+    """
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    # Read documents from the Excel file
-    doc_ids, doc_texts = read_documents_from_excel(args.file_path)
+    # Loop through each file in the input directory
+    for filename in os.listdir(input_dir):
+        if filename.endswith(".tsv"):
+            input_file = os.path.join(input_dir, filename)
+            output_file = os.path.join(output_dir, filename)
+            with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
+                lines = infile.readlines()
+                for line in lines:
+                    if line.startswith('#') or not line.strip():
+                        outfile.write(line)
+                        continue
+                    columns = line.strip().split('\t')
+                    if len(columns) < 10:
+                        outfile.write(line)
+                        continue
+                    token = columns[2]
+                    salience = columns[5]
 
-    # Get summaries
-    summaries = get_summary(doc_texts, doc_ids, model_name=args.model_name, n=args.n_summaries)
+                    if salience == "_":
+                        outfile.write(line)
+                        continue
 
-    add_summaries_to_xml(args.data_folder, summaries, args.output_xml)
+                    # Split and replace salience values
+                    salience_parts = salience.split('|')
+                    new_salience_parts = []
+
+                    for part in salience_parts:
+                        if part.startswith('sal'):
+                            new_salience_parts.append('s')
+                        elif part.startswith('nonsal'):
+                            new_salience_parts.append('n')
+                        else:
+                            new_salience_parts.append(part)
+
+                    # Initialize the salience marks for each token
+                    salience_marks = new_salience_parts[:1]  # Keep the first summary annotation as it is
+
+                    # Check alignments and mark tokens
+                    for summary_idx, summary_alignment in enumerate(alignments):
+                        found = False
+                        for doc_alignment in summary_alignment:
+                            for mention, _, _ in doc_alignment:
+                                if token.lower() in mention.split():
+                                    salience_marks.append('s')
+                                    found = True
+                                    break
+                            if found:
+                                break
+                        if not found:
+                            salience_marks.append('n')
+
+                    # Join all salience marks to form the new salience column value
+                    columns[5] = ''.join(salience_marks)
+                    
+                    outfile.write('\t'.join(columns) + '\n')
