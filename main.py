@@ -14,7 +14,7 @@ def main():
     #parser.add_argument("--format", type=str, choices=["tsv", "conllu", "xml"], default="tsv", help="Input file format")
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate")
     parser.add_argument("--alignment_component", type=str, choices=["LLM", "string_match", "coref_system"], default="LLM", help="Component to use for alignment")
-    parser.add_argument("--model_name", type=str, default="flan-t5-xl", help="Huggingface model name to use for summarization")
+    parser.add_argument("--model_name", type=str, default="google/flan-t5-base", help="Huggingface model name to use for summarization")
     parser.add_argument("--data_folder", type=str, required=True, help="Path to the data folder containing TSV, conllu or xml files")
 
 
