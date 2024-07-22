@@ -129,7 +129,7 @@ if __name__ == "__main__":
     parser.add_argument("conll_file", type=str, default="./data/train.gum.english.v4_gold_conll", help="Path to the gold CoNLL file")
     parser.add_argument("tsv_folder", type=str, default= "./data/tsv/train", help="Path to the folder containing TSV files")
     parser.add_argument("final_output_folder", type=str, help="Path to the folder to save final output files")
-    parser.add_argument("--model_name", type=str, default="flan-t5-xl", help="Huggingface model name to use for summarization")
+    parser.add_argument("--model_name", type=str, default="google/flan-t5-base", help="Huggingface model name to use for summarization")
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate per document")
 
     args = parser.parse_args()
@@ -143,8 +143,8 @@ if __name__ == "__main__":
     # Process each summary
     for i in range(args.n_summaries):
         current_summaries = [doc_summaries[i] for doc_summaries in summaries]
-        final_output_file = os.path.join(args.final_output_folder, f"train{i + 1}.gum.english.v4_eval_xconll")
+        final_output_file = os.path.join(args.final_output_folder, f"train{i + 1}.gum.english.v4_eval_conll")
         process_tsv_to_conll(args.tsv_folder, current_summaries, args.conll_file, final_output_file)
 
 #Example usage:
-# python generate_conll.py gumsum.xlsx ./data/train.gum.english.v4_gold_conll ./data/tsv/train ./merged_conll_output --model_name flan-t5-xl --n_summaries 4
+# python generate_conll.py gumsum.xlsx ./data/train.gum.english.v4_gold_conll ./data/tsv/train ./merged_conll_output --model_name google/flan-t5-base --n_summaries 4
