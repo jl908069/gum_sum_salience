@@ -78,7 +78,7 @@ def get_summary(doc_texts, doc_ids, model_name="google/flan-t5-base", n=4, dummy
     return all_summaries
 
 def read_documents_from_excel(file_path):
-    df = pd.read_excel(file_path, sheet_name='full')
+    df = pd.read_excel(file_path, sheet_name='train') #default to 'train'
     doc_texts = df['fulltext'].tolist()
     doc_ids = df['doc_id'].tolist()
     return doc_ids, doc_texts
@@ -104,8 +104,8 @@ if __name__ == "__main__":
 
     summaries = get_summary(doc_texts, doc_ids, model_name=args.model_name, n=args.n_summaries)
 
-    for doc_id, doc_summaries in zip(doc_ids, summaries):
-        print(f"Document ID: {doc_id}")
+    for doc_id, doc_summaries in summaries.items():
+        print(f"Document ID: {doc_id}\n")
         for i, summary in enumerate(doc_summaries, 1):
             print(f"Summary {i}: {summary}")
-        print()
+            print()
