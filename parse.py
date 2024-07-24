@@ -1,4 +1,5 @@
 import stanza
+from nltk.tree import Tree
 
 stanza.download('en')  # Download English models
 nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,constituency')
