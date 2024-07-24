@@ -50,12 +50,12 @@ def add_summaries_to_xml(xml_folder, summaries, output_folder):
             output_path = os.path.join(output_folder, f"{doc_id}.xml")
             tree.write(output_path, encoding="utf-8", xml_declaration=True)
 
-def add_anno_to_tsv(input_dir, output_dir, alignments):
+def add_anno_to_tsv(tsv_dir, output_dir, alignments):
     """
-    Process TSV files to modify salience columns and mark tokens based on alignments.
+    Modify the salience columns in TSV files and add alignments.
 
     Args:
-        input_dir (str): Directory containing input TSV files.
+        tsv_dir (str): Directory containing input TSV files.
         output_dir (str): Directory to save output TSV files.
         alignments (list): List of alignments for each summary.
     """
@@ -63,9 +63,9 @@ def add_anno_to_tsv(input_dir, output_dir, alignments):
         os.makedirs(output_dir)
 
     # Loop through each file in the input directory
-    for filename in os.listdir(input_dir):
+    for filename in os.listdir(tsv_dir):
         if filename.endswith(".tsv"):
-            input_file = os.path.join(input_dir, filename)
+            input_file = os.path.join(tsv_dir, filename)
             output_file = os.path.join(output_dir, filename)
             with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
                 lines = infile.readlines()
@@ -89,31 +89,54 @@ def add_anno_to_tsv(input_dir, output_dir, alignments):
                     new_salience_parts = []
 
                     for part in salience_parts:
-                        if part.startswith('sal'):
-                            new_salience_parts.append('s')
-                        elif part.startswith('nonsal'):
-                            new_salience_parts.append('n')
+                        bracket_idx = part.find('[')
+                        base = part[:bracket_idx] if bracket_idx != -1 else part
+                        if base.startswith('sal'):
+                            new_part = 's'
+                        elif base.startswith('nonsal'):
+                            new_part = 'n'
                         else:
-                            new_salience_parts.append(part)
+                            new_part = base
+                        if bracket_idx != -1:
+                            new_part += part[bracket_idx:]
+                        new_salience_parts.append(new_part)
 
-                    # Initialize the salience marks for each token
-                    salience_marks = new_salience_parts[:1]  # Keep the first summary annotation as it is
+                    # Initial salience marks from the original TSV file
+                    salience_marks_list = [""] * len(new_salience_parts)
 
-                    # Check alignments and mark tokens
+                    for i in range(len(new_salience_parts)):
+                        if new_salience_parts[i][0] in ['s', 'n']:
+                            salience_marks_list[i] = new_salience_parts[i][0]
+
+                    # Add initial salience annotation
+                    for i in range(len(salience_marks_list)):
+                        if not salience_marks_list[i]:
+                            salience_marks_list[i] = 'n'  # Default to 'n' if no initial annotation found
+
+                    # Loop through alignments for all summaries
                     for summary_idx, summary_alignment in enumerate(alignments):
-                        found = False
                         for doc_alignment in summary_alignment:
+                            found = False
                             for mention, _, _ in doc_alignment:
                                 if token.lower() in mention.split():
-                                    salience_marks.append('s')
+                                    for i in range(len(salience_marks_list)):
+                                        salience_marks_list[i] += 's'
                                     found = True
                                     break
-                            if found:
-                                break
-                        if not found:
-                            salience_marks.append('n')
+                            if not found:
+                                for i in range(len(salience_marks_list)):
+                                    salience_marks_list[i] += 'n'
+
+                    # Ensure each part has exactly 5 annotations and keep the original bracketed number
+                    for i in range(len(salience_marks_list)):
+                        bracket_idx = new_salience_parts[i].find('[')
+                        if bracket_idx != -1:
+                            salience_marks_list[i] = salience_marks_list[i][:5] + new_salience_parts[i][bracket_idx:]
+                        else:
+                            salience_marks_list[i] = salience_marks_list[i][:5]
 
                     # Join all salience marks to form the new salience column value
-                    columns[5] = ''.join(salience_marks)
-                    
+                    salience_marks_str = '|'.join(salience_marks_list)
+                    columns[5] = salience_marks_str
+
                     outfile.write('\t'.join(columns) + '\n')
