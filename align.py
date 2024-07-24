@@ -15,10 +15,10 @@ def extract_mentions_from_gold_tsv(data_folder):
     all_mentions = []
 
     # List all TSV files in the folder
-    tsv_files = sorted([f for f in os.listdir(folder_path) if f.endswith(".tsv")])
+    tsv_files = sorted([f for f in os.listdir(data_folder) if f.endswith(".tsv")])
 
     for tsv_file in tsv_files:
-        file_path = os.path.join(folder_path, tsv_file)
+        file_path = os.path.join(data_folder, tsv_file)
         mentions = []
 
         with open(file_path, 'r') as file:
@@ -73,10 +73,10 @@ def extract_mentions_from_pred_tsv(data_folder):
     all_mentions = []
 
     # List all TSV files in the folder
-    tsv_files = sorted([f for f in os.listdir(folder_path) if f.endswith(".tsv")])
+    tsv_files = sorted([f for f in os.listdir(data_folder) if f.endswith(".tsv")])
 
     for tsv_file in tsv_files:
-        file_path = os.path.join(folder_path, tsv_file)
+        file_path = os.path.join(data_folder, tsv_file)
         mentions = []
 
         with open(file_path, 'r') as file:
