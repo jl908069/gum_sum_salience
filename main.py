@@ -20,8 +20,8 @@ def main():
 
     args = parser.parse_args()
     # Input data folder
-    xml_folder = args.data_folder + '/xml'
-    tsv_folder = args.data_folder + '/tsv'
+    xml_folder = args.data_folder + '/xml/train' #default to train
+    tsv_folder = args.data_folder + '/tsv/train' #default to train
     pred_tsv_folder =args.data_folder + '/pred_tsv'
     
     doc_ids, doc_texts = read_documents_from_excel(args.input_file)
