@@ -164,23 +164,29 @@ def align_llm(doc_mentions, summary_text):
         "Document: {doc_text}\n"
         "Summary: {summary}\n"
         "For each mention in the summary, determine if it aligns with (or make an equivalent reference to) any word span in the document. "
-        "Return a list of matching word spans from the document for each mention, or 'No match' if no match is found."
+        "Return a list of matching word spans from the document."
     )
 
     results = []
 
+    # Lowercase all words in doc_mentions and summary_text
+    doc_mentions_lower = [[(span.lower(), idx, coref) for span, idx, coref in mentions] for mentions in doc_mentions]
+    summary_text_lower = [[summary.lower() for summary in summaries] for summaries in summary_text]
+
     # Extract each summary through all documents to a list of summaries
-    num_summaries = len(summary_text[0])
+    num_summaries = len(summary_text_lower[0])
     summaries_by_index = [[] for _ in range(num_summaries)]
     
-    for doc_summaries in summary_text:
+    for doc_summaries in summary_text_lower:
         for i, summary in enumerate(doc_summaries):
             summaries_by_index[i].append(summary)
     
     # Process each list of summaries
-    for summaries in summaries_by_index:
+    for summary_idx in range(num_summaries):
         summary_results = []
-        for doc, summary in zip(doc_mentions, summaries):
+        for doc_idx in range(len(doc_mentions_lower)):
+            summary = summaries_by_index[summary_idx][doc_idx]
+            doc = doc_mentions_lower[doc_idx]
             prompt = prompt_template.format(
                 doc_text=" ".join([span for span, _, _ in doc]),
                 summary=summary
@@ -196,15 +202,81 @@ def align_llm(doc_mentions, summary_text):
             extracted_mentions = []
 
             for ans in answer:
-                if ans != "No match":
-                    for span, idx, coref in doc:
-                        if ans in span:
-                            extracted_mentions.append((span, idx, coref))
-                            break
+                for span, idx, coref in doc:
+                    if ans in span:
+                        extracted_mentions.append((span, idx, coref))
+                        break
+
+            if extracted_mentions:
+                summary_results.append(extracted_mentions)
+        
+        results.append(summary_results)
+
+    return results
+
+def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # Make user specify this
+    """
+    Align mentions using a Huggingface model.
+
+    Args:
+        doc_mentions (list of list of tuples): List of lists of tuples where each tuple contains (word_span, word_index, coref_index).
+        summary_text (list of list of str): List of lists of summaries.
+        model_name (str): Name of the Huggingface model to use.
+
+    Returns:
+        list of list of list of tuples: A list of lists of lists of tuples where each tuple's `word_span` is found in the corresponding document.
+    """
+    aligner = pipeline("text2text-generation", model=model_name)
+    
+    prompt_template = (
+        "Document: {doc_text}\n"
+        "Summary: {summary}\n"
+        "For each mention in the summary, determine if it aligns with (or make an equivalent reference to) any word span in the document. "
+        "Return a list of matching word spans from the document."
+    )
+
+    results = []
+
+    # Lowercase all words in doc_mentions and summary_text
+    doc_mentions_lower = [[(span.lower(), idx, coref) for span, idx, coref in mentions] for mentions in doc_mentions]
+    summary_text_lower = [[summary.lower() for summary in summaries] for summaries in summary_text]
+
+    # Extract each summary through all documents to a list of summaries
+    num_summaries = len(summary_text_lower[0])
+    summaries_by_index = [[] for _ in range(num_summaries)]
+    
+    for doc_summaries in summary_text_lower:
+        for i, summary in enumerate(doc_summaries):
+            summaries_by_index[i].append(summary)
+    
+    # Process each list of summaries
+    for summary_idx in range(num_summaries):
+        summary_results = []
+        for doc_idx in range(len(doc_mentions_lower)):
+            summary = summaries_by_index[summary_idx][doc_idx]
+            doc = doc_mentions_lower[doc_idx]
+            prompt = prompt_template.format(
+                doc_text=" ".join([span for span, _, _ in doc]),
+                summary=summary
+            )
+
+            response = aligner(prompt, max_length=150, num_return_sequences=1)
+
+            answer = response[0]['generated_text'].strip().split("\n")
+            extracted_mentions = []
+
+            for ans in answer:
+                for span, idx, coref in doc:
+                    if ans in span:
+                        extracted_mentions.append((span, idx, coref))
+                        break
 
             summary_results.append(extracted_mentions)
         
         results.append(summary_results)
+
+    # Remove empty lists from results
+    results = [[mentions for mentions in doc_results if mentions] for doc_results in results]
 
     return results
 
