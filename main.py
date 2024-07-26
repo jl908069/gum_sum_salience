@@ -23,6 +23,8 @@ def main():
     xml_folder = args.data_folder + '/xml/train' #default to train
     tsv_folder = args.data_folder + '/tsv/train' #default to train
     pred_tsv_folder =args.data_folder + '/pred_tsv'
+
+    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_train{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_train{i}', '*.tsv'))] #default to train
     
     doc_ids, doc_texts = read_documents_from_excel(args.input_file)
     
@@ -33,7 +35,7 @@ def main():
     
     all_mentions = parse_summaries(list(summaries.values()))
     
-    alignments= align(all_mentions_from_tsv, summaries, all_mentions, data_folder=pred_tsv_folder, n_summaries=args.n_summaries , component=args.alignment_component)
+    alignments= align(all_mentions_from_tsv, list(summaries.values()), all_mentions, data_folder=folders_with_pred_tsv, n_summaries=args.n_summaries , component=args.alignment_component)
 
     add_summaries_to_xml(xml_folder, summaries, args.output_xml)
     add_anno_to_tsv(tsv_folder, args.output_tsv, alignments)
