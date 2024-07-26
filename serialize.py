@@ -14,7 +14,8 @@ def add_summaries_to_xml(xml_folder, summaries, output_folder):
         output_folder (str): Path to the output folder to save modified XML files.
     """
     # Ensure output directory exists
-    os.makedirs(output_folder, exist_ok=True)
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
 
     # Regex to match "Summary {n}:" pattern
     summary_pattern = re.compile(r"^Summary \d+:\s*")
