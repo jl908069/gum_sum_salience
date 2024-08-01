@@ -1,0 +1,1492 @@
+<text id="GUM_whow_basil" partition="train" type="whow" sourceURL="https://www.wikihow.com/Grow-Basil" dateCreated="2005-03-08" dateCollected="2014-09-15" dateModified="2014-06-24" speakerCount="0" speakerList="none" author="Malvika, Chris Hadley, Teresa and others (see URL)" title="How to Grow Basil" shortTitle="basil" summary="This basil growing guide recommends varieties (Cinnamon, Lemon, Purple, African Blue or Thai Basil), planting seed in containers with perlite, vermiculite, peat and soil before transfering sprouts to bigger containers or a garden, watering each morning and removing flower buds before plants bolt, and finally using basil for salads and pesto and freezing basil puree.">
+<head rend="bold">
+<s type="inf" transition="establishment">
+How	WRB	how	AVQ	ADV	root	_
+to	TO	to	TO0	PART	mark	_
+Grow	VV	grow	VVB	VERB	acl	_
+Basil	NN	basil	NN1	NOUN	obj	_
+</s>
+</head>
+<p>
+<s type="frag" transition="establishment">
+<hi rend="bold">
+Three	CD	three	CRD	NUM	nummod	_
+Methods	NNS	method	NN2	NOUN	root	Method-s
+:	:	:	PUN	PUNCT	punct	_
+Starting	NN	starting	NN1	NOUN	compound	Start-ing
+Seeds	NNS	seed	NN2	NOUN	appos	See-d-s
+Caring	VVG	care	VVG	VERB	conj	Car-ing
+for	IN	for	PRP	ADP	case	_
+Basil	NN	basil	NN1	NOUN	obl	_
+Harvesting	VVG	harvest	VVG	VERB	conj	Harvest-ing
+and	CC	and	CJC	CCONJ	cc	_
+Using	VVG	use	VVG	VERB	conj	Us-ing
+Basil	NN	basil	NN1	NOUN	obj	_
+</hi>
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+Basil	NN	basil	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+easy	JJ	easy	AJ0	ADJ	root	eas-y
+to	TO	to	TO0	PART	mark	_
+grow	VV	grow	VVI	VERB	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+transforms	VVZ	transform	VVZ	VERB	conj	trans-form-s
+ordinary	JJ	ordinary	AJ0	ADJ	amod	_
+meals	NNS	meal	NN2	NOUN	obj	meal-s
+into	IN	into	PRP	ADP	case	in-to
+culinary	JJ	culinary	AJ0	ADJ	amod	_
+treasures	NNS	treasure	NN2	NOUN	obl	treasure-s
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+Fresh	JJ	fresh	AJ0	ADJ	amod	_
+basil	NN	basil	NN1	NOUN	nsubj	_
+not	RB	not	XX0	PART	advmod	_
+only	RB	only	AV0	ADV	advmod	_
+tastes	VVZ	taste	VVZ	VERB	root	taste-s
+better	RBR	well	AJC	ADV	xcomp	bett-er
+than	IN	than	CJS	ADP	case	_
+dried	VVN	dry	VVN	VERB	obl	dri-ed
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+tastes	VVZ	taste	VVZ	VERB	conj	taste-s
+different	JJ	different	AJ0	ADJ	xcomp	differ-ent
+,	,	,	PUN	PUNCT	punct	_
+almost	RB	almost	AV0	ADV	advmod	al-most
+as	IN	as	CJS	SCONJ	mark	_
+if	IN	if	CJS	ADP	fixed	_
+it	PP	it	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+herb	NN	herb	NN1	NOUN	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+This	DT	this	DT0	DET	det	_
+article	NN	article	NN1	NOUN	nsubj	_
+outlines	VVZ	outline	VVZ	VERB	root	out-line-s
+how	WRB	how	AVQ	ADV	obj	_
+to	TO	to	TO0	PART	mark	_
+plant	VV	plant	VVI	VERB	acl	_
+and	CC	and	CJC	CCONJ	cc	_
+harvest	VV	harvest	VVI	VERB	conj	_
+basil	NN	basil	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head rend="bold">
+<s type="frag" transition="zero">
+Method	NN	method	NN1	NOUN	root	_
+1	CD	1	CRD	NUM	dep	_
+of	IN	of	PRF	ADP	case	_
+3	CD	3	CRD	NUM	nmod	_
+:	:	:	PUN	PUNCT	punct	_
+Starting	NN	starting	NN1	NOUN	compound	Start-ing
+Seeds	NNS	seed	NN2	NOUN	appos	See-d-s
+</s>
+</head>
+<figure rend="Basil plant">
+</figure>
+<list type="ordered">
+<item n="1">
+<p>
+<s type="imp" transition="null">
+1	LS	1	CRD	X	dep	_
+Choose	VV	choose	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+kind	NN	kind	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+basil	NN	basil	NN1	NOUN	nmod	_
+you	PP	you	PNP	PRON	nsubj	_
+wish	VVP	wish	VVB	VERB	acl:relcl	_
+to	TO	to	TO0	PART	mark	_
+grow	VV	grow	VVI	VERB	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Basil	NN	basil	NN1	NOUN	nsubj	_
+comes	VVZ	come	VVZ	VERB	root	come-s
+in	IN	in	PRP	ADP	case	_
+many	JJ	many	DT0	ADJ	amod	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+varieties	NNS	variety	NN2	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+each	DT	each	DT0	DET	nsubj	_
+of	IN	of	PRF	ADP	case	_
+which	WDT	which	DTQ	PRON	nmod	_
+have	VHP	have	VHB	VERB	acl:relcl	_
+a	DT	a	AT0	DET	det	_
+unique	JJ	unique	AJ0	ADJ	amod	_
+flavor	NN	flavor	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+smell	NN	smell	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Read	VV	read	VVB	VERB	root	_
+up	RP	up	AVP	ADP	compound:prt	_
+on	IN	on	PRP	ADP	case	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+types	NNS	type	NN2	NOUN	obl	type-s
+of	IN	of	PRF	ADP	case	_
+basil	NN	basil	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+pick	VV	pick	VVB	VERB	conj	_
+out	RP	out	AVP	ADP	compound:prt	_
+one	CD	one	CRD	NUM	obj	_
+-	:	-	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+several	JJ	several	DT0	ADJ	dep	_
+-	:	-	PUN	PUNCT	punct	_
+that	WDT	that	DT0	PRON	nsubj	_
+appeal	VVP	appeal	VVB	VERB	acl:relcl	_
+to	IN	to	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+then	RB	then	AV0	ADV	advmod	_
+order	VV	order	VVB	VERB	parataxis	_
+the	DT	the	AT0	DET	det	_
+seeds	NNS	seed	NN2	NOUN	obj	see-d-s
+or	CC	or	CJC	CCONJ	cc	_
+buy	VV	buy	VVB	VERB	conj	_
+them	PP	they	PNP	PRON	obj	_
+at	IN	at	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+garden	NN	garden	NN1	NOUN	compound	_
+store	NN	store	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Here	RB	here	AV0	ADV	dep	_
+are	VBP	be	VBB	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+few	JJ	few	DT0	ADJ	amod	_
+ideas	NNS	idea	NN2	NOUN	root	idea-s
+:	:	:	PUN	PUNCT	punct	_
+</s>
+</p>
+<list type="unordered">
+<item>
+<s type="decl" transition="null">
+Cinnamon	NN	cinnamon	NN1	NOUN	compound	_
+basil	NN	basil	NN1	NOUN	nsubj	_
+really	RB	really	AV0	ADV	advmod	real-ly
+does	VVZ	do	VDZ	AUX	aux	doe-s
+smell	VV	smell	VVI	VERB	root	_
+like	IN	like	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+sweet	JJ	sweet	AJ0	ADJ	amod	_
+spice	NN	spice	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+has	VHZ	have	VHZ	VERB	conj	ha-s
+unusually	RB	unusually	AV0	ADV	advmod	un-usual-ly
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+and	CC	and	CJC	CCONJ	cc	_
+fragrant	JJ	fragrant	AJ0	ADJ	conj	_
+flowers	NNS	flower	NN2	NOUN	obj	flow-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+<item>
+<s type="decl" transition="null">
+Lemon	NN	lemon	NN1	NOUN	compound	_
+basil	NN	basil	NN1	NOUN	nsubj	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+contains	VVZ	contain	VVZ	VERB	root	contain-s
+citral	NN	citral	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+an	DT	a	AT0	DET	det	_
+aromatic	JJ	aromatic	AJ0	ADJ	amod	aromat-ic
+compound	NN	compound	NN1	NOUN	appos	_
+found	VVN	find	VVN	VERB	acl	_
+in	IN	in	PRP	ADP	case	_
+citrus	JJ	citrus	AJ0	ADJ	amod	_
+fruit	NN	fruit	NN0	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+smells	VVZ	smell	VVZ	VERB	conj	smell-s
+very	RB	very	AJ0	ADV	advmod	_
+lemony	JJ	lemony	AJ0	ADJ	xcomp	lemon-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+<item>
+<s type="decl" transition="null">
+Purple	JJ	purple	AJ0	ADJ	amod	_
+basil	NN	basil	NN1	NOUN	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+often	RB	often	AV0	ADV	advmod	_
+grown	VVN	grow	VVN	VERB	root	grow-n
+for	IN	for	PRP	ADP	case	_
+decoration	NN	decoration	NN1	NOUN	obl	decor-at-ion
+,	,	,	PUN	PUNCT	punct	_
+as	RB	as	CJS	ADV	cc	_
+well	RB	well	AV0	ADV	fixed	_
+as	IN	as	CJS	ADP	fixed	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+scent	NN	scent	NN1	NOUN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+flowers	NNS	flower	NN2	NOUN	conj	flow-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+<item>
+<s type="decl" transition="null">
+There	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	root	_
+perennial	JJ	perennial	AJ0	ADJ	amod	_
+basils	NNS	basil	NN2	NOUN	nsubj	basil-s
+which	WDT	which	DTQ	PRON	nsubj	_
+come	VVP	come	VVB	VERB	acl:relcl	_
+back	RB	back	AVP	ADV	advmod	_
+year	NN	year	NN1	NOUN	obl:tmod	_
+after	IN	after	PRP	ADP	case	_
+year	NN	year	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+African	NP	African	NP0	PROPN	compound	Afric-an
+Blue	NP	Blue	NP0	PROPN	compound	_
+Basil	NP	Basil	NP0	PROPN	nmod	_
+(	(	(	PUL	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+has	VHZ	have	VHZ	VERB	dep	ha-s
+pretty	JJ	pretty	AJ0	ADJ	amod	_
+blue	JJ	blue	AJ0	ADJ	amod	_
+veins	NNS	vein	NN2	NOUN	obj	vein-s
+on	IN	on	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+leaves	NNS	leave	NN2	NOUN	nmod	leave-s
+)	)	)	PUR	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+Thai	NP	Thai	NP0	PROPN	compound	_
+Basil	NN	basil	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+while	IN	while	CJS	SCONJ	mark	_
+most	RBS	most	DT0	ADV	advmod	_
+other	JJ	other	AJ0	ADJ	amod	_
+varieties	NNS	variety	NN2	NOUN	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+annuals	NNS	annual	NN2	NOUN	advcl	annual-s
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+have	VH	have	VHI	VERB	acl:relcl	_
+to	TO	to	TO0	PART	mark	_
+plant	VV	plant	VVI	VERB	xcomp	_
+year	NN	year	NN1	NOUN	obl:tmod	_
+after	IN	after	PRP	ADP	case	_
+year	NN	year	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Globe	NP	Globe	NP0	PROPN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+Greek	JJ	Greek	AJ0	ADJ	amod	_
+basil	NN	basil	NN1	NOUN	conj	_
+are	VBP	be	VBB	AUX	cop	_
+much	RB	much	AV0	ADV	advmod	_
+more	RBR	more	AV0	ADV	advmod	_
+difficult	JJ	difficult	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	mark	_
+grow	VV	grow	VVI	VERB	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+form	VV	form	VVB	VERB	conj	_
+pretty	JJ	pretty	AJ0	ADJ	amod	_
+little	JJ	little	DT0	ADJ	amod	_
+bushes	NNS	bush	NN2	NOUN	obj	bushe-s
+which	WDT	which	DTQ	PRON	nsubj	_
+stay	VVP	stay	VVB	VERB	acl:relcl	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+contained	VVN	contain	VVN	VERB	xcomp	contain-ed
+</w>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+</list>
+</item>
+<figure rend="Drawing of planting supplies">
+</figure>
+<item n="2">
+<p>
+<s type="imp" transition="null">
+2	LS	2	CRD	X	dep	_
+<ref>
+<hi rend="bold,green">
+Start	VV	start	VVB	VERB	root	_
+seed	NN	seed	NN1	NOUN	obj	see-d
+indoors	RB	indoors	AV0	ADV	advmod	in-door-s
+</hi>
+</ref>
+four	CD	four	CRD	NUM	nummod	_
+to	IN	to	PRP	ADP	case	_
+six	CD	six	CRD	NUM	nmod	_
+weeks	NNS	week	NN2	NOUN	obl:tmod	week-s
+before	IN	before	PRP	ADP	case	_
+last	JJ	last	ORD	ADJ	amod	_
+frost	NN	frost	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Basil	NN	basil	NN1	NOUN	nsubj	_
+needs	VVZ	need	VVZ	VERB	root	need-s
+warm	JJ	warm	AJ0	ADJ	amod	_
+air	NN	air	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+sun	NN	sun	NN1	NOUN	conj	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	advcl	_
+well	RB	well	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	expl	_
+'s	VBZ	be	VBZ	AUX	cop	_
+often	RB	often	AV0	ADV	advmod	_
+easiest	JJS	easy	AJS	ADJ	parataxis	_
+to	TO	to	TO0	PART	mark	_
+start	VV	start	VVI	VERB	csubj	_
+the	DT	the	AT0	DET	det	_
+seeds	NNS	seed	NN2	NOUN	obj	see-d-s
+indoors	RB	indoors	AV0	ADV	advmod	in-door-s
+instead	RB	instead	AV0	ADV	mark	in-stead
+of	IN	of	PRF	ADP	fixed	_
+risking	VVG	risk	VVG	VERB	advcl	risk-ing
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj:pass	_
+'ll	MD	will	VM0	AUX	aux	_
+get	VV	get	VVI	AUX	aux:pass	_
+damaged	VVN	damage	VVN	VERB	ccomp	damag-ed
+by	IN	by	PRP	ADP	case	_
+frost	NN	frost	NN1	NOUN	obl:agent	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<list type="unordered">
+<item>
+<s type="sub" transition="retain">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+live	VVP	live	VVB	VERB	advcl	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+hot	JJ	hot	AJ0	ADJ	amod	_
+climate	NN	climate	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+start	VV	start	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+seeds	NNS	seed	NN2	NOUN	obj	see-d-s
+outside	IN	outside	PRP	ADP	obl	out-side
+instead	RB	instead	AV0	ADV	advmod	in-stead
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+<item>
+<s type="imp" transition="smooth-shift">
+To	TO	to	TO0	PART	mark	_
+figure	VV	figure	VVI	VERB	advcl	_
+out	RP	out	AVP	ADP	compound:prt	_
+when	WRB	when	CJS	ADV	ccomp	_
+the	DT	the	AT0	DET	det	_
+last	JJ	last	ORD	ADJ	amod	_
+frost	NN	frost	NN1	NOUN	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+,	,	,	PUN	PUNCT	punct	_
+consult	VV	consult	VVB	VERB	root	_
+an	DT	a	AT0	DET	det	_
+almanac	NN	almanac	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+talk	VV	talk	VVB	VERB	conj	_
+with	IN	with	PRP	ADP	case	_
+other	JJ	other	AJ0	ADJ	amod	_
+gardeners	NNS	gardener	NN2	NOUN	obl	garden-er-s
+in	IN	in	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+area	NN	area	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+</list>
+</item>
+<figure rend="Drawing of piles of dirt">
+</figure>
+<item n="3">
+<p>
+<s type="imp" transition="zero">
+3	LS	3	CRD	X	dep	_
+<hi rend="bold">
+Prepare	VV	prepare	VVB	VERB	root	_
+seed	NN	seed	NN1	NOUN	compound	see-d
+containers	NNS	container	NN2	NOUN	obj	contain-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="imp" transition="establishment">
+Fill	VV	fill	VVB	VERB	root	_
+flats	NNS	flat	NN2	NOUN	obj	flat-s
+or	CC	or	CJC	CCONJ	cc	_
+individual	JJ	individual	AJ0	ADJ	amod	_
+seed	NN	seed	NN1	NOUN	compound	see-d
+containers	NNS	container	NN2	NOUN	conj	contain-er-s
+with	IN	with	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+mixture	NN	mixture	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+equal	JJ	equal	AJ0	ADJ	amod	_
+parts	NNS	part	NN2	NOUN	compound	part-s
+perlite	NN	perlite	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+vermiculite	NN	vermiculite	NN1	NOUN	conj	vermiculite
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+peat	NN	peat	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="smooth-shift">
+Press	VV	press	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+mixture	NN	mixture	NN1	NOUN	obj	_
+slightly	RB	slightly	AV0	ADV	advmod	slight-ly
+to	TO	to	TO0	PART	mark	_
+eliminate	VV	eliminate	VVI	VERB	advcl	_
+air	NN	air	NN1	NOUN	compound	_
+pockets	NNS	pocket	NN2	NOUN	obj	pocket-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+Dampen	VV	dampen	VVB	VERB	root	Damp-en
+the	DT	the	AT0	DET	det	_
+mixture	NN	mixture	NN1	NOUN	obj	_
+with	IN	with	PRP	ADP	case	_
+water	NN	water	NN1	NOUN	nmod	_
+so	IN	so	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+ready	JJ	ready	AJ0	ADJ	advcl	_
+to	TO	to	TO0	PART	mark	_
+provide	VV	provide	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+right	JJ	right	AJ0	ADJ	amod	_
+environment	NN	environment	NN1	NOUN	obj	environ-ment
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	compound	_
+seeds	NNS	seed	NN2	NOUN	nmod	see-d-s
+to	TO	to	TO0	PART	mark	_
+germinate	VV	germinate	VVI	VERB	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+<figure rend="Drawing of a hand planting seeds">
+</figure>
+<item n="4">
+<p>
+<s type="imp" transition="smooth-shift">
+4	LS	4	CRD	X	dep	_
+<hi rend="bold">
+Plant	VV	plant	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+seeds	NNS	seed	NN2	NOUN	obj	see-d-s
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="imp" transition="zero">
+Drop	VV	drop	VVB	VERB	root	_
+one	CD	one	PNI	NUM	nummod	_
+to	IN	to	PRP	ADP	case	_
+two	CD	two	CRD	NUM	nmod	_
+seeds	NNS	seed	NN2	NOUN	obj	see-d-s
+into	IN	into	PRP	ADP	case	in-to
+each	DT	each	DT0	DET	det	_
+container	NN	container	NN1	NOUN	obl	contain-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Cover	VV	cover	VVB	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+lightly	RB	lightly	AV0	ADV	advmod	light-ly
+with	IN	with	PRP	ADP	case	_
+soil	NN	soil	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+Cover	VV	cover	VVB	VERB	root	_
+containers	NNS	container	NN2	NOUN	obj	contain-er-s
+with	IN	with	PRP	ADP	case	_
+clear	JJ	clear	AJ0	ADJ	amod	_
+plastic	JJ	plastic	AJ0	ADJ	amod	_
+kitchen	NN	kitchen	NN1	NOUN	compound	_
+wrap	NN	wrap	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+so	IN	so	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+stay	VVP	stay	VVB	VERB	advcl	_
+moist	JJ	moist	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Leave	VV	leave	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+containers	NNS	container	NN2	NOUN	obj	contain-er-s
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+sunny	JJ	sunny	AJ0	ADJ	amod	sunn-y
+window	NN	window	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Twice	RB	twice	AV0	ADV	advmod	_
+daily	RB	daily	AJ0	ADV	advmod	dai-ly
+,	,	,	PUN	PUNCT	punct	_
+remove	VV	remove	VVB	VERB	root	re-move
+the	DT	the	AT0	DET	det	_
+plastic	NN	plastic	NN1	NOUN	compound	_
+wrap	NN	wrap	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+sprinkle	VV	sprinkle	VVB	VERB	conj	sprink-le
+the	DT	the	AT0	DET	det	_
+containers	NNS	container	NN2	NOUN	obj	contain-er-s
+with	IN	with	PRP	ADP	case	_
+more	JJR	more	DT0	ADJ	amod	_
+water	NN	water	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+<figure rend="Drawing of seeds growing">
+</figure>
+<item n="5">
+<p>
+<s type="imp" transition="smooth-shift">
+5	LS	5	CRD	X	dep	_
+<hi rend="bold">
+Remove	VV	remove	VVB	VERB	root	Re-move
+the	DT	the	AT0	DET	det	_
+plastic	NN	plastic	NN1	NOUN	compound	_
+wrap	NN	wrap	NN1	NOUN	obj	_
+when	WRB	when	CJS	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+sprouts	NNS	sprout	NN2	NOUN	nsubj	sprout-s
+emerge	VVP	emerge	VVB	VERB	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="decl" transition="smooth-shift">
+When	WRB	when	CJS	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+green	JJ	green	AJ0	ADJ	amod	_
+tendrils	NNS	tendril	NN2	NOUN	obj	tendril-s
+push	VV	push	VVI	VERB	xcomp	_
+up	RP	up	AVP	ADP	compound:prt	_
+through	IN	through	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+soil	NN	soil	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+time	NN	time	NN1	NOUN	root	_
+to	TO	to	TO0	PART	mark	_
+remove	VV	remove	VVI	VERB	acl	re-move
+the	DT	the	AT0	DET	det	_
+plastic	NN	plastic	NN1	NOUN	compound	_
+wrap	NN	wrap	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+Keep	VV	keep	VVB	VERB	root	_
+watering	VVG	water	VVG	VERB	xcomp	water-ing
+the	DT	the	AT0	DET	det	_
+sprouts	NNS	sprout	NN2	NOUN	obj	sprout-s
+twice	RB	twice	AV0	ADV	advmod	_
+daily	RB	daily	AJ0	ADV	advmod	dai-ly
+,	,	,	PUN	PUNCT	punct	_
+never	RB	never	AV0	ADV	advmod	_
+letting	VVG	let	VVG	VERB	advcl	lett-ing
+the	DT	the	AT0	DET	det	_
+soil	NN	soil	NN1	NOUN	obj	_
+dry	VV	dry	VVI	VERB	xcomp	_
+out	RP	out	AVP	ADP	compound:prt	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+When	WRB	when	CJS	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+plants	NNS	plant	NN2	NOUN	nsubj	plant-s
+become	VVP	become	VVB	VERB	advcl	be-come
+a	DT	a	AT0	DET	det	_
+few	JJ	few	DT0	ADJ	amod	_
+inches	NNS	inch	NN2	NOUN	obl:npmod	inche-s
+tall	JJ	tall	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+leaves	NNS	leave	NN2	NOUN	nsubj	leave-s
+mature	VVP	mature	VVB	VERB	conj	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+time	NN	time	NN1	NOUN	root	_
+to	TO	to	TO0	PART	mark	_
+transplant	VV	transplant	VVI	VERB	acl	trans-plant
+them	PP	they	PNP	PRON	obj	_
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+larger	JJR	large	AJC	ADJ	amod	larg-er
+container	NN	container	NN1	NOUN	obl	contain-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+</list>
+<head rend="bold">
+<s type="multiple" transition="null">
+Method	NN	method	NN1	NOUN	root	_
+2	CD	2	CRD	NUM	dep	_
+of	IN	of	PRF	ADP	case	_
+3	CD	3	CRD	NUM	nmod	_
+:	:	:	PUN	PUNCT	punct	_
+Caring	VVG	care	VVG	VERB	appos	Car-ing
+for	IN	for	PRP	ADP	case	_
+Basil	NN	basil	NN1	NOUN	obl	_
+</s>
+</head>
+<figure rend="Drawing of seedlings in and out of a pot">
+</figure>
+<list type="ordered">
+<item n="1">
+<p>
+<s type="imp" transition="null">
+1	LS	1	CRD	X	dep	_
+<hi rend="bold, green">
+Transplant	VV	transplant	VVB	VERB	root	Trans-plant
+</hi>
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	compound	_
+plants	NNS	plant	NN2	NOUN	obj	plant-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="null">
+Once	RB	once	AV0	ADV	advmod	_
+two	CD	two	CRD	NUM	nummod	_
+sets	NNS	set	NN2	NOUN	nsubj	set-s
+of	IN	of	PRF	ADP	case	_
+leaves	NNS	leave	NN2	NOUN	nmod	leave-s
+have	VHP	have	VHB	AUX	aux	_
+formed	VVN	form	VVN	VERB	advcl	form-ed
+,	,	,	PUN	PUNCT	punct	_
+basil	NN	basil	NN1	NOUN	nsubj:pass	_
+can	MD	can	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+planted	VVN	plant	VVN	VERB	root	plant-ed
+into	IN	into	PRP	ADP	case	in-to
+the	DT	the	AT0	DET	det	_
+garden	NN	garden	NN1	NOUN	obl	_
+or	CC	or	CJC	CCONJ	cc	_
+permanent	JJ	permanent	AJ0	ADJ	amod	_
+containers	NNS	container	NN2	NOUN	conj	contain-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="establishment">
+Basil	NN	basil	NN1	NOUN	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+not	RB	not	XX0	PART	advmod	_
+tolerate	VV	tolerate	VVI	VERB	root	_
+frost	NN	frost	NN1	NOUN	obj	_
+so	RB	so	AV0	ADV	advmod	_
+do	VV	do	VDB	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+plant	VV	plant	VVI	VERB	parataxis	_
+too	RB	too	AV0	ADV	advmod	_
+early	JJ	early	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	expl	_
+'s	VBZ	be	VBZ	AUX	cop	_
+best	JJS	good	AJS	ADJ	root	be-st
+to	TO	to	TO0	PART	mark	_
+put	VV	put	VVI	VERB	csubj	_
+basil	NN	basil	NN1	NOUN	obj	_
+somewhere	RB	somewhere	AV0	ADV	advmod	_
+where	WRB	where	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+get	VV	get	VVI	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+good	JJ	good	AJ0	ADJ	amod	_
+deal	NN	deal	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+sunshine	NN	sunshine	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+have	VHP	have	VHB	VERB	conj	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+drained	VVN	drain	VVN	VERB	amod	drain-ed
+</w>
+soil	NN	soil	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<list type="unordered">
+<item>
+<s type="imp" transition="continue">
+To	TO	to	TO0	PART	mark	_
+plant	VV	plant	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+garden	NN	garden	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+dig	VV	dig	VVB	VERB	root	_
+holes	NNS	hole	NN2	NOUN	obj	hole-s
+spaced	VVN	space	VVN	VERB	acl	spac-ed
+at	IN	at	PRP	ADP	case	_
+least	JJS	least	AJS	ADJ	nmod	_
+6	CD	6	CRD	NUM	nummod	_
+inches	NNS	inch	NN2	NOUN	obl:npmod	inche-s
+apart	RB	apart	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="smooth-shift">
+Place	VV	place	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+roots	NNS	root	NN2	NOUN	obj	root-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+holes	NNS	hole	NN2	NOUN	nmod	hole-s
+and	CC	and	CJC	CCONJ	cc	_
+place	VV	place	NN1	VERB	conj	_
+soil	NN	soil	NN1	NOUN	obj	_
+around	IN	around	PRP	ADP	case	a-round
+the	DT	the	AT0	DET	det	_
+stems	NNS	stem	NN2	NOUN	nmod	stem-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="smooth-shift">
+Pat	VV	pat	VVB	VERB	root	_
+down	RP	down	AVP	ADP	compound:prt	_
+soil	NN	soil	NN1	NOUN	obj	_
+around	IN	around	PRP	ADP	case	a-round
+the	DT	the	AT0	DET	det	_
+plants	NNS	plant	NN2	NOUN	nmod	plant-s
+to	TO	to	TO0	PART	mark	_
+eliminate	VV	eliminate	VVI	VERB	advcl	_
+air	NN	air	NN1	NOUN	compound	_
+pockets	NNS	pocket	NN2	NOUN	obj	pocket-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+<item>
+<s type="imp" transition="zero">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	advcl	_
+to	TO	to	TO0	PART	mark	_
+plant	VV	plant	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+container	NN	container	NN1	NOUN	nmod	contain-er
+,	,	,	PUN	PUNCT	punct	_
+make	VV	make	VVB	VERB	root	_
+sure	JJ	sure	AJ0	ADJ	xcomp	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+large	JJ	large	AJ0	ADJ	ccomp	_
+enough	RB	enough	AV0	ADV	advmod	_
+to	TO	to	TO0	PART	mark	_
+accommodate	VV	accommodate	VVI	VERB	advcl	accommodate
+the	DT	the	AT0	DET	det	_
+number	NN	number	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+plants	NNS	plant	NN2	NOUN	nmod	plant-s
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+growing	VVG	grow	VVG	VERB	acl	grow-ing
+;	:	;	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+they	PP	they	PNP	PRON	nsubj:pass	_
+need	VVP	need	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	aux:pass	_
+planted	VVN	plant	VVN	VERB	xcomp	plant-ed
+6	CD	6	CRD	NUM	nummod	_
+inches	NNS	inch	NN2	NOUN	obl:npmod	inche-s
+apart	RB	apart	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+since	IN	since	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+grow	VVP	grow	VVB	VERB	advcl	_
+quite	RB	quite	AV0	ADV	advmod	_
+large	JJ	large	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+</list>
+</item>
+<figure rend="Drawing of watering seedlings">
+</figure>
+<item n="2">
+<p>
+<s type="imp" transition="null">
+2	LS	2	CRD	X	dep	_
+<hi rend="bold">
+Keep	VV	keep	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+soil	NN	soil	NN1	NOUN	obj	_
+damp	JJ	damp	AJ0	ADJ	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	advmod	_
+soaked	VVN	soak	VVN	VERB	conj	soak-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="decl" transition="null">
+Basil	NN	basil	NN1	NOUN	nsubj	_
+does	VVZ	do	VDZ	VERB	root	doe-s
+best	RBS	well	AV0	ADV	advmod	be-st
+in	IN	in	PRP	ADP	case	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+drained	VVN	drain	VVN	VERB	amod	drain-ed
+</w>
+soil	NN	soil	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+should	MD	should	VM0	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	aux:pass	_
+subjected	VVN	subject	VVN	VERB	conj	subject-ed
+to	IN	to	PRP	ADP	case	_
+standing	VVG	stand	VVG	VERB	amod	stand-ing
+water	NN	water	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Water	VV	water	NN1	VERB	root	_
+the	DT	the	AT0	DET	det	_
+mature	JJ	mature	AJ0	ADJ	amod	_
+basil	NN	basil	NN1	NOUN	compound	_
+plants	NNS	plant	NN2	NOUN	obj	plant-s
+once	RB	once	CJS	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+day	NN	day	NN1	NOUN	obl:tmod	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+morning	NN	morning	NN1	NOUN	obl	morn-ing
+,	,	,	PUN	PUNCT	punct	_
+so	IN	so	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+water	NN	water	NN1	NOUN	nsubj	_
+has	VHZ	have	VHZ	VERB	advcl	ha-s
+time	NN	time	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+soak	VV	soak	VVI	VERB	acl	_
+in	RP	in	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+evaporate	VV	evaporate	VVB	VERB	conj	_
+rather	RB	rather	AV0	ADV	cc	rath-er
+than	IN	than	CJS	ADP	fixed	_
+sitting	VVG	sit	VVG	VERB	conj	sitt-ing
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+plants	NNS	plant	NN2	NOUN	obl	plant-s
+overnight	RB	overnight	AV0	ADV	advmod	over-night
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+<figure rend="Drawing of removing flower buds">
+</figure>
+<item n="3">
+<p>
+<s type="imp" transition="null">
+3	LS	3	CRD	X	dep	_
+<hi rend="bold">
+Pinch	VV	pinch	NN1	VERB	root	_
+off	RP	off	AVP	ADP	compound:prt	_
+flower	NN	flower	NN1	NOUN	compound	flow-er
+heads	NNS	head	NN2	NOUN	obj	head-s
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="imp" transition="establishment">
+When	WRB	when	CJS	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	advcl	_
+flower	NN	flower	NN1	NOUN	compound	flow-er
+buds	NNS	bud	NN2	NOUN	obj	bud-s
+,	,	,	PUN	PUNCT	punct	_
+pinch	VV	pinch	VVB	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+two	CD	two	CRD	NUM	nummod	_
+pairs	NNS	pair	NN2	NOUN	conj	pair-s
+of	IN	of	PRF	ADP	case	_
+leaves	NNS	leave	NN2	NOUN	nmod	leave-s
+under	IN	under	PRP	ADP	case	_
+them	PP	they	PNP	PRON	nmod	_
+off	RP	off	AVP	ADP	compound:prt	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Flowers	NNS	flower	NN2	NOUN	nsubj	Flow-er-s
+blooming	VVG	bloom	VVG	VERB	acl	bloom-ing
+create	VVP	create	VVB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+hormone	NN	hormone	NN1	NOUN	compound	_
+change	NN	change	NN1	NOUN	obj	_
+which	WDT	which	DTQ	PRON	nsubj	_
+dramatically	RB	dramatically	AV0	ADV	advmod	dramat-ic-ally
+reduces	VVZ	reduce	VVZ	VERB	acl:relcl	reduce-s
+the	DT	the	AT0	DET	det	_
+flavor	NN	flavor	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+leaves	NNS	leave	NN2	NOUN	nmod	leave-s
+,	,	,	PUN	PUNCT	punct	_
+as	RB	as	CJS	ADV	cc	_
+well	RB	well	AV0	ADV	fixed	_
+as	IN	as	CJS	ADP	fixed	_
+reducing	VVG	reduce	VVG	VERB	conj	reduc-ing
+the	DT	the	AT0	DET	det	_
+amount	NN	amount	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+foliage	NN	foliage	NN1	NOUN	nmod	_
+which	WDT	which	DTQ	PRON	nsubj	_
+grows	VVZ	grow	VVZ	VERB	acl:relcl	grow-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+called	VVN	call	VVN	VERB	root	call-ed
+"	''	''	PUQ	PUNCT	punct	_
+bolting	VVG	bolt	VVG	VERB	xcomp	bolt-ing
+"	''	''	PUQ	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+is	VBZ	be	VBZ	AUX	cop	_
+more	RBR	more	AV0	ADV	advmod	_
+likely	JJ	likely	AJ0	ADJ	conj	like-ly
+to	TO	to	TO0	PART	mark	_
+happen	VV	happen	VVI	VERB	xcomp	happ-en
+when	WRB	when	CJS	ADV	advmod	_
+there	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	advcl	_
+extra	JJ	extra	AJ0	ADJ	amod	_
+sunshine	NN	sunshine	NN1	NOUN	nsubj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+notice	VV	notice	VVI	VERB	root	_
+that	IN/that	that	CJT	SCONJ	mark	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+leave	VVP	leave	VVB	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+flowers	NNS	flower	NN2	NOUN	obj	flow-er-s
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+plant	NN	plant	NN1	NOUN	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+become	VV	become	VVI	VERB	ccomp	be-come
+lanky	JJ	lanky	AJ0	ADJ	xcomp	lank-y
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+leaves	NNS	leave	NN2	NOUN	nsubj	leave-s
+wo	MD	will	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	cop	_
+as	RB	as	AV0	ADV	advmod	_
+full	JJ	full	AJ0	ADJ	conj	_
+or	CC	or	CJC	CCONJ	cc	_
+tasty	JJ	tasty	AJ0	ADJ	conj	tast-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+<figure rend="Drawing of removing insects">
+</figure>
+<item n="4">
+<p>
+<s type="imp" transition="null">
+4	LS	4	CRD	X	dep	_
+<hi rend="bold">
+Watch	VV	watch	VVB	VERB	root	_
+for	IN	for	PRP	ADP	case	_
+pests	NNS	pest	NN2	NOUN	obl	pest-s
+and	CC	and	CJC	CCONJ	cc	_
+mold	NN	mold	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="decl" transition="null">
+Basil	NN	basil	NN1	NOUN	compound	_
+plants	NNS	plant	NN2	NOUN	nsubj	plant-s
+are	VBP	be	VBB	AUX	cop	_
+attractive	JJ	attractive	AJ0	ADJ	root	attract-ive
+to	IN	to	PRP	ADP	case	_
+Japanese	JJ	Japanese	AJ0	ADJ	amod	Japan-ese
+beetles	NNS	beetle	NN2	NOUN	obl	beet-le-s
+</s>
+<s type="decl" transition="establishment">
+the	DT	the	AT0	DET	det	_
+best	JJS	good	AJS	ADJ	amod	be-st
+way	NN	way	NN1	NOUN	nsubj:outer	_
+to	TO	to	TO0	PART	mark	_
+control	VV	control	VVI	VERB	acl	_
+these	DT	this	DT0	DET	det	_
+pests	NNS	pest	NN2	NOUN	obj	pest-s
+is	VBZ	be	VBZ	AUX	cop	_
+to	TO	to	TO0	PART	mark	_
+pick	VV	pick	VVI	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+off	IN	off	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+plants	NNS	plant	NN2	NOUN	obl	plant-s
+by	IN	by	PRP	ADP	case	_
+hand	NN	hand	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="smooth-shift">
+If	IN	if	CJS	SCONJ	mark	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+plants	NNS	plant	NN2	NOUN	nsubj	plant-s
+show	VVP	show	VVB	VERB	advcl	_
+signs	NNS	sign	NN2	NOUN	obj	sign-s
+of	IN	of	PRF	ADP	case	_
+mold	NN	mold	NN1	NOUN	compound	_
+growth	NN	growth	NN1	NOUN	nmod	grow-th
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+may	MD	may	VM0	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	aux	_
+getting	VVG	get	VVG	VERB	root	gett-ing
+adequate	JJ	adequate	AJ0	ADJ	amod	_
+sunlight	NN	sunlight	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+may	MD	may	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+too	RB	too	AV0	ADV	advmod	_
+close	JJ	close	AJ0	ADJ	conj	_
+together	RB	together	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Weed	VV	weed	NN1	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+smaller	JJR	small	AJC	ADJ	amod	small-er
+plants	NNS	plant	NN2	NOUN	obj	plant-s
+to	TO	to	TO0	PART	mark	_
+give	VV	give	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+larger	JJR	large	AJC	ADJ	amod	larg-er
+ones	NNS	one	NN2	NOUN	iobj	one-s
+more	JJR	more	DT0	ADJ	amod	_
+space	NN	space	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+</list>
+<head rend="bold">
+<s type="frag" transition="null">
+Method	NN	method	NN1	NOUN	root	_
+3	CD	3	CRD	NUM	dep	_
+of	IN	of	PRF	ADP	case	_
+3	CD	3	CRD	NUM	nmod	_
+:	:	:	PUN	PUNCT	punct	_
+Harvesting	VVG	harvest	VVG	VERB	appos	Harvest-ing
+and	CC	and	CJC	CCONJ	cc	_
+Using	VVG	use	VVG	VERB	conj	Us-ing
+Basil	NN	basil	NN1	NOUN	obj	_
+</s>
+</head>
+<figure rend="Drawing of harvesting basil">
+</figure>
+<list type="ordered">
+<item n="1">
+<p>
+<s type="imp" transition="null">
+1	LS	1	CRD	X	dep	_
+<hi rend="bold">
+Harvest	VV	harvest	VVB	VERB	root	_
+and	CC	and	CJC	CCONJ	cc	_
+prune	VV	prune	VVB	VERB	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="imp" transition="null">
+As	IN	as	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+plant	NN	plant	NN1	NOUN	nsubj	_
+matures	VVZ	mature	VVZ	VERB	advcl	mature-s
+,	,	,	PUN	PUNCT	punct	_
+pinch	VV	pinch	VVB	VERB	root	_
+off	RP	off	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+top	JJ	top	AJ0	ADJ	amod	_
+two	CD	two	CRD	NUM	nummod	_
+pairs	NNS	pair	NN2	NOUN	obj	pair-s
+of	IN	of	PRF	ADP	case	_
+leaves	NNS	leave	NN2	NOUN	nmod	leave-s
+once	IN	once	CJS	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+stalk	NN	stalk	NN1	NOUN	nsubj	_
+reaches	VVZ	reach	VVZ	VERB	advcl	reache-s
+a	DT	a	AT0	DET	det	_
+reasonable	JJ	reasonable	AJ0	ADJ	amod	reason-able
+height	NN	height	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+look	VVP	look	VVB	VERB	advcl	_
+closely	RB	closely	AV0	ADV	advmod	close-ly
+,	,	,	PUN	PUNCT	punct	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+base	NN	base	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+every	DT	every	AT0	DET	det	_
+leaf	NN	leaf	NN1	NOUN	nmod	_
+are	VBP	be	VBB	AUX	root	_
+two	CD	two	CRD	NUM	nummod	_
+tiny	JJ	tiny	AJ0	ADJ	amod	tin-y
+little	JJ	little	AJ0	ADJ	amod	_
+leaves	NNS	leave	NN2	NOUN	nsubj	leave-s
+that	WDT	that	CJT	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+grow	VV	grow	VVI	VERB	acl:relcl	_
+outwards	RB	outwards	AV0	ADV	advmod	out-ward-s
+if	IN	if	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+stem	NN	stem	NN1	NOUN	nsubj:pass	_
+growing	VVG	grow	VVG	VERB	acl	grow-ing
+between	IN	between	PRP	ADP	case	be-tween
+them	PP	they	PNP	PRON	obl	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+cut	VVN	cut	VVN	VERB	advcl	_
+off	RP	off	AVP	ADP	compound:prt	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Cut	VV	cut	VVB	VERB	root	_
+close	RB	close	AV0	ADV	advmod	_
+to	IN	to	PRP	ADP	case	_
+those	DT	that	DT0	DET	det	_
+tiny	JJ	tiny	AJ0	ADJ	amod	tin-y
+leaves	NNS	leave	NN2	NOUN	obl	leave-s
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+be	VB	be	VBI	AUX	cop	_
+sure	JJ	sure	AJ0	ADJ	conj	_
+not	RB	not	XX0	PART	advmod	_
+to	TO	to	TO0	PART	mark	_
+damage	VV	damage	VVI	VERB	xcomp	_
+them	PP	they	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<list type="unordered">
+<item>
+<s type="decl" transition="zero">
+Pinching	VVG	pinch	VVG	VERB	csubj	Pinch-ing
+encourages	VVZ	encourage	VVZ	VERB	root	en-courage-s
+the	DT	the	AT0	DET	det	_
+plant	NN	plant	NN1	NOUN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+energy	NN	energy	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	aux:pass	_
+directed	VVN	direct	VVN	VERB	xcomp	direct-ed
+into	IN	into	PRP	ADP	case	in-to
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+stronger	JJR	strong	AJC	ADJ	amod	strong-er
+stems	NNS	stem	NN2	NOUN	obl	stem-s
+and	CC	and	CJC	CCONJ	cc	_
+leaves	NNS	leave	NN2	NOUN	conj	leave-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+helps	VVZ	help	VVZ	VERB	root	help-s
+the	DT	the	AT0	DET	det	_
+plants	NNS	plant	NN2	NOUN	obj	plant-s
+grow	VV	grow	VVI	VERB	xcomp	_
+bushy	JJ	bushy	AJ0	ADJ	xcomp	bush-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+<item>
+<s type="imp" transition="smooth-shift">
+Do	VV	do	VDB	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+pinch	VV	pinch	VVI	VERB	root	_
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+lower	JJR	low	AJC	ADJ	amod	low-er
+part	NN	part	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+stem	NN	stem	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	compound	_
+plants	NNS	plant	NN2	NOUN	nsubj	plant-s
+will	MD	will	VM0	AUX	aux	_
+grow	VV	grow	VVI	VERB	conj	_
+tall	JJ	tall	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+reedy	JJ	reedy	AJ0	ADJ	conj	reed-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+You	PP	you	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+to	TO	to	TO0	PART	mark	_
+get	VV	get	VVI	VERB	dep	_
+bushy	JJ	bushy	AJ0	ADJ	xcomp	bush-y
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+pinch	VV	pinch	VVB	VERB	parataxis	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+top	NN	top	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</item>
+</list>
+</item>
+<figure rend="Drawing of watering harvested basil leaves">
+</figure>
+<item n="2">
+<p>
+<s type="imp" transition="zero">
+2	LS	2	CRD	X	dep	_
+<hi rend="bold">
+Enjoy	VV	enjoy	VVB	VERB	root	En-joy
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+fresh	JJ	fresh	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="imp" transition="establishment">
+Rinse	VV	rinse	VVB	VERB	root	_
+off	RP	off	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+leaves	NNS	leave	NN2	NOUN	obj	leave-s
+and	CC	and	CJC	CCONJ	cc	_
+use	VV	use	VVB	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+<ref>
+<hi rend="green">
+make	VV	make	VVI	VERB	advcl	_
+pesto	NN	pesto	NN1	NOUN	obj	_
+</hi>
+</ref>
+or	CC	or	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+<ref>
+<hi rend="green">
+Caprese	NP	Caprese	NP0	PROPN	compound	_
+salad	NN	salad	NN1	NOUN	conj	_
+</hi>
+</ref>
+with	IN	with	PRP	ADP	case	_
+tomatoes	NNS	tomato	NN2	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+fresh	JJ	fresh	AJ0	ADJ	amod	_
+mozzarella	NN	mozzarella	NN1	NOUN	compound	_
+cheese	NN	cheese	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+<figure rend="Drawing of how to preserve fresh basil leaves">
+</figure>
+<item n="3">
+<p>
+<s type="imp" transition="continue">
+3	LS	3	CRD	X	dep	_
+<hi rend="bold">
+Store	VV	store	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+refrigerator	NN	refrigerator	NN1	NOUN	obl	refrigerat-or
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="multiple" transition="rough-shift">
+You	PP	you	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+have	VH	have	VHI	VERB	root	_
+more	JJR	more	DT0	ADJ	amod	_
+basil	NN	basil	NN1	NOUN	obj	_
+than	IN	than	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+possibly	RB	possibly	AV0	ADV	advmod	possib-ly
+eat	VV	eat	VVI	VERB	acl	_
+fresh	JJ	fresh	AJ0	ADJ	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+plan	VV	plan	VVB	VERB	parataxis	_
+on	IN	on	PRP	SCONJ	mark	_
+storing	VVG	store	VVG	VERB	advcl	stor-ing
+some	DT	some	DT0	DET	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+fridge	NN	fridge	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Wash	VV	wash	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+leaves	NNS	leave	NN2	NOUN	obj	leave-s
+,	,	,	PUN	PUNCT	punct	_
+dry	VV	dry	VVB	VERB	conj	_
+them	PP	they	PNP	PRON	obj	_
+well	RB	well	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+wrap	VV	wrap	VVB	VERB	conj	_
+them	PP	they	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+paper	NN	paper	NN1	NOUN	compound	_
+towels	NNS	towel	NN2	NOUN	obl	towel-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Place	VV	place	VVB	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+food	NN	food	NN1	NOUN	compound	_
+storage	NN	storage	NN1	NOUN	compound	stor-age
+container	NN	container	NN1	NOUN	obl	contain-er
+with	IN	with	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+airtight	JJ	airtight	AJ0	ADJ	amod	_
+lid	NN	lid	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+<figure rend="Drawing of pureeing basil leaves">
+</figure>
+<item n="4">
+<p>
+<s type="imp" transition="zero">
+4	LS	4	CRD	X	dep	_
+<hi rend="bold">
+Freeze	VV	freeze	NN1	VERB	root	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="decl" transition="establishment">
+Freezing	VVG	freeze	VVG	VERB	csubj	Freez-ing
+the	DT	the	AT0	DET	det	_
+leaves	NNS	leave	NN2	NOUN	obj	leave-s
+whole	RB	whole	NN1	ADV	advmod	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n't	RB	not	XX0	PART	advmod	_
+work	VV	work	VVI	VERB	root	_
+very	RB	very	AV0	ADV	advmod	_
+well	RB	well	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+puree	VVP	puree	VVB	VERB	advcl	_
+it	PP	it	PNP	PRON	obj	_
+first	RB	first	ORD	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+freeze	VV	freeze	VVI	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+for	IN	for	PRP	ADP	case	_
+months	NNS	month	NN2	NOUN	obl	mon-th-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+Place	VV	place	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+blender	NN	blender	NN1	NOUN	obl	blend-er
+with	IN	with	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+little	JJ	little	AJ0	ADJ	amod	_
+water	NN	water	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="continue">
+Puree	VV	puree	AV0	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+until	IN	until	CJS	SCONJ	mark	un-til
+smooth	JJ	smooth	AJ0	ADJ	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+then	RB	then	AV0	ADV	advmod	_
+put	VV	put	VVB	VERB	parataxis	_
+it	PP	it	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+food	NN	food	NN1	NOUN	compound	_
+storage	NN	storage	NN1	NOUN	compound	stor-age
+bag	NN	bag	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+freeze	VV	freeze	NN1	VERB	conj	_
+until	IN	until	CJS	SCONJ	mark	un-til
+you	PP	you	PNP	PRON	nsubj	_
+need	VVP	need	VVB	VERB	advcl	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</item>
+</list>
+</text>

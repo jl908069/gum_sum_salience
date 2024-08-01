@@ -1,0 +1,1308 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Frank Messina : An Interview with the ' Mets Poet '
+1-1	_	Frank	abstract[1]	new[1]	coref	1-7[1_2]
+1-2	_	Messina	abstract[1]	new[1]	_	_
+1-3	_	:	_	_	_	_
+1-4	_	An	_	_	_	_
+1-5	_	Interview	_	_	_	_
+1-6	_	with	_	_	_	_
+1-7	_	the	abstract[2]	new[2]	coref	3-1[2_3]
+1-8	_	'	abstract[2]	new[2]	_	_
+1-9	_	Mets	abstract[2]|abstract[71]	new[2]|new[71]	coref	18-21[71_72]
+1-10	_	Poet	abstract[2]	new[2]	_	_
+1-11	_	'	abstract[2]	new[2]	_	_
+
+#Text=Wednesday , October 3 , 2007
+2-1	_	Wednesday	_	_	_	_
+2-2	_	,	_	_	_	_
+2-3	_	October	_	_	_	_
+2-4	_	3	_	_	_	_
+2-5	_	,	_	_	_	_
+2-6	_	2007	abstract[128]	new[128]	coref	51-3[128_129]
+
+#Text=You have received a good deal of attention recently .
+3-1	_	You	abstract[3]	new[3]	coref	4-3[3_4]
+3-2	_	have	_	_	_	_
+3-3	_	received	_	_	_	_
+3-4	_	a	_	_	_	_
+3-5	_	good	_	_	_	_
+3-6	_	deal	_	_	_	_
+3-7	_	of	_	_	_	_
+3-8	_	attention	_	_	_	_
+3-9	_	recently	_	_	_	_
+3-10	_	.	_	_	_	_
+
+#Text=Even though I m not Michael Jackson or somebody , when people come up to me and introduce themselves and say , ' Hey Frank , my name is John , ' I say , ' Hey John , my name is Frank ' and they laugh .
+4-1	_	Even	_	_	_	_
+4-2	_	though	_	_	_	_
+4-3	_	I	abstract[4]	new[4]	coref	4-16[4_5]
+4-4	_	m	_	_	_	_
+4-5	_	not	_	_	_	_
+4-6	_	Michael	_	_	_	_
+4-7	_	Jackson	_	_	_	_
+4-8	_	or	_	_	_	_
+4-9	_	somebody	_	_	_	_
+4-10	_	,	_	_	_	_
+4-11	_	when	_	_	_	_
+4-12	_	people	abstract[56]	new[56]	coref	4-19[56_57]
+4-13	_	come	_	_	_	_
+4-14	_	up	_	_	_	_
+4-15	_	to	_	_	_	_
+4-16	_	me	abstract[5]	new[5]	coref	4-25[5_6]
+4-17	_	and	_	_	_	_
+4-18	_	introduce	_	_	_	_
+4-19	_	themselves	abstract[57]	new[57]	_	_
+4-20	_	and	_	_	_	_
+4-21	_	say	_	_	_	_
+4-22	_	,	_	_	_	_
+4-23	_	'	_	_	_	_
+4-24	_	Hey	_	_	_	_
+4-25	_	Frank	abstract[6]	new[6]	coref	4-33[6_7]
+4-26	_	,	_	_	_	_
+4-27	_	my	abstract[58]	new[58]	coref	4-38[58_59]
+4-28	_	name	_	_	_	_
+4-29	_	is	_	_	_	_
+4-30	_	John	_	_	_	_
+4-31	_	,	_	_	_	_
+4-32	_	'	_	_	_	_
+4-33	_	I	abstract[7]	new[7]	coref	4-40[7_8]
+4-34	_	say	_	_	_	_
+4-35	_	,	_	_	_	_
+4-36	_	'	_	_	_	_
+4-37	_	Hey	_	_	_	_
+4-38	_	John	abstract[59]	new[59]	coref	4-46[59_60]
+4-39	_	,	_	_	_	_
+4-40	_	my	abstract[8]	new[8]	coref	6-4[8_9]
+4-41	_	name	_	_	_	_
+4-42	_	is	_	_	_	_
+4-43	_	Frank	_	_	_	_
+4-44	_	'	_	_	_	_
+4-45	_	and	_	_	_	_
+4-46	_	they	abstract[60]	new[60]	_	_
+4-47	_	laugh	_	_	_	_
+4-48	_	.	_	_	_	_
+
+#Text=It 's a funny phenomenon .
+5-1	_	It	abstract[61]	new[61]	coref	6-7[61_62]
+5-2	_	's	_	_	_	_
+5-3	_	a	_	_	_	_
+5-4	_	funny	_	_	_	_
+5-5	_	phenomenon	_	_	_	_
+5-6	_	.	_	_	_	_
+
+#Text=What goes through your head when that happens ?
+6-1	_	What	_	_	_	_
+6-2	_	goes	_	_	_	_
+6-3	_	through	_	_	_	_
+6-4	_	your	abstract[9]	new[9]	coref	7-1[9_10]
+6-5	_	head	_	_	_	_
+6-6	_	when	_	_	_	_
+6-7	_	that	abstract[62]	new[62]	coref	7-3[62_63]
+6-8	_	happens	_	_	_	_
+6-9	_	?	_	_	_	_
+
+#Text=I understand it .
+7-1	_	I	abstract[10]	new[10]	coref	8-1[10_11]
+7-2	_	understand	_	_	_	_
+7-3	_	it	abstract[63]	new[63]	coref	9-4[63_64]
+7-4	_	.	_	_	_	_
+
+#Text=I 've gone to readings and concerts .
+8-1	_	I	abstract[11]	new[11]	coref	9-1[11_12]
+8-2	_	've	_	_	_	_
+8-3	_	gone	_	_	_	_
+8-4	_	to	_	_	_	_
+8-5	_	readings	_	_	_	_
+8-6	_	and	_	_	_	_
+8-7	_	concerts	_	_	_	_
+8-8	_	.	_	_	_	_
+
+#Text=I look at it as human interaction .
+9-1	_	I	abstract[12]	new[12]	coref	10-4[12_13]
+9-2	_	look	_	_	_	_
+9-3	_	at	_	_	_	_
+9-4	_	it	abstract[64]	new[64]	_	_
+9-5	_	as	_	_	_	_
+9-6	_	human	_	_	_	_
+9-7	_	interaction	_	_	_	_
+9-8	_	.	_	_	_	_
+
+#Text=Over the years I have performed in 32 countries and 40 states .
+10-1	_	Over	_	_	_	_
+10-2	_	the	_	_	_	_
+10-3	_	years	_	_	_	_
+10-4	_	I	abstract[13]	new[13]	coref	11-1[13_14]
+10-5	_	have	_	_	_	_
+10-6	_	performed	_	_	_	_
+10-7	_	in	_	_	_	_
+10-8	_	32	_	_	_	_
+10-9	_	countries	_	_	_	_
+10-10	_	and	_	_	_	_
+10-11	_	40	_	_	_	_
+10-12	_	states	_	_	_	_
+10-13	_	.	_	_	_	_
+
+#Text=I 've been doing this professionally since I was in my twenties , and before that since I was sixteen doing little tidbit poetry readings in coffeehouses .
+11-1	_	I	abstract[14]	new[14]	coref	11-8[14_15]
+11-2	_	've	_	_	_	_
+11-3	_	been	_	_	_	_
+11-4	_	doing	_	_	_	_
+11-5	_	this	_	_	_	_
+11-6	_	professionally	_	_	_	_
+11-7	_	since	_	_	_	_
+11-8	_	I	abstract[15]	new[15]	coref	11-11[15_16]
+11-9	_	was	_	_	_	_
+11-10	_	in	_	_	_	_
+11-11	_	my	abstract[16]	new[16]	coref	11-18[16_17]
+11-12	_	twenties	_	_	_	_
+11-13	_	,	_	_	_	_
+11-14	_	and	_	_	_	_
+11-15	_	before	_	_	_	_
+11-16	_	that	_	_	_	_
+11-17	_	since	_	_	_	_
+11-18	_	I	abstract[17]	new[17]	coref	12-3[17_18]
+11-19	_	was	_	_	_	_
+11-20	_	sixteen	_	_	_	_
+11-21	_	doing	_	_	_	_
+11-22	_	little	_	_	_	_
+11-23	_	tidbit	_	_	_	_
+11-24	_	poetry	_	_	_	_
+11-25	_	readings	_	_	_	_
+11-26	_	in	_	_	_	_
+11-27	_	coffeehouses	_	_	_	_
+11-28	_	.	_	_	_	_
+
+#Text=The band I started in 1993 , Spoken Motion , received a lot of recognition as a spoken word band born out of the New York spoken word scene .
+12-1	_	The	abstract[65]	new[65]	coref	12-17[65_66]
+12-2	_	band	abstract[65]	new[65]	_	_
+12-3	_	I	abstract[18]|abstract[65]	new[18]|new[65]	coref	13-1[18_19]
+12-4	_	started	abstract[65]	new[65]	_	_
+12-5	_	in	abstract[65]	new[65]	_	_
+12-6	_	1993	abstract[65]	new[65]	_	_
+12-7	_	,	abstract[65]	new[65]	_	_
+12-8	_	Spoken	abstract[65]	new[65]	_	_
+12-9	_	Motion	abstract[65]	new[65]	_	_
+12-10	_	,	_	_	_	_
+12-11	_	received	_	_	_	_
+12-12	_	a	_	_	_	_
+12-13	_	lot	_	_	_	_
+12-14	_	of	_	_	_	_
+12-15	_	recognition	_	_	_	_
+12-16	_	as	_	_	_	_
+12-17	_	a	abstract[66]	new[66]	_	_
+12-18	_	spoken	abstract[66]	new[66]	_	_
+12-19	_	word	abstract[66]	new[66]	_	_
+12-20	_	band	abstract[66]	new[66]	_	_
+12-21	_	born	abstract[66]	new[66]	_	_
+12-22	_	out	abstract[66]	new[66]	_	_
+12-23	_	of	abstract[66]	new[66]	_	_
+12-24	_	the	abstract[66]	new[66]	_	_
+12-25	_	New	abstract[66]	new[66]	_	_
+12-26	_	York	abstract[66]	new[66]	_	_
+12-27	_	spoken	abstract[66]	new[66]	_	_
+12-28	_	word	abstract[66]	new[66]	_	_
+12-29	_	scene	abstract[66]	new[66]	_	_
+12-30	_	.	_	_	_	_
+
+#Text=I worked with some great musicians and performed around the world .
+13-1	_	I	abstract[19]	new[19]	coref	14-1[19_20]
+13-2	_	worked	_	_	_	_
+13-3	_	with	_	_	_	_
+13-4	_	some	_	_	_	_
+13-5	_	great	_	_	_	_
+13-6	_	musicians	_	_	_	_
+13-7	_	and	_	_	_	_
+13-8	_	performed	_	_	_	_
+13-9	_	around	_	_	_	_
+13-10	_	the	abstract[106]	new[106]	coref	31-14[106_107]
+13-11	_	world	abstract[106]	new[106]	_	_
+13-12	_	.	_	_	_	_
+
+#Text=I remember signing my first autograph to a kid when I was 25 years old .
+14-1	_	I	abstract[20]	new[20]	coref	14-4[20_21]
+14-2	_	remember	_	_	_	_
+14-3	_	signing	_	_	_	_
+14-4	_	my	abstract[21]	new[21]	coref	14-11[21_22]
+14-5	_	first	_	_	_	_
+14-6	_	autograph	_	_	_	_
+14-7	_	to	_	_	_	_
+14-8	_	a	_	_	_	_
+14-9	_	kid	_	_	_	_
+14-10	_	when	_	_	_	_
+14-11	_	I	abstract[22]	new[22]	coref	15-6[22_23]
+14-12	_	was	_	_	_	_
+14-13	_	25	_	_	_	_
+14-14	_	years	_	_	_	_
+14-15	_	old	_	_	_	_
+14-16	_	.	_	_	_	_
+
+#Text=As time went on , I came out with books and CDs , and I became used to that kind of thing .
+15-1	_	As	_	_	_	_
+15-2	_	time	_	_	_	_
+15-3	_	went	_	_	_	_
+15-4	_	on	_	_	_	_
+15-5	_	,	_	_	_	_
+15-6	_	I	abstract[23]	new[23]	coref	15-15[23_24]
+15-7	_	came	_	_	_	_
+15-8	_	out	_	_	_	_
+15-9	_	with	_	_	_	_
+15-10	_	books	_	_	_	_
+15-11	_	and	_	_	_	_
+15-12	_	CDs	_	_	_	_
+15-13	_	,	_	_	_	_
+15-14	_	and	_	_	_	_
+15-15	_	I	abstract[24]	new[24]	coref	16-2[24_25]
+15-16	_	became	_	_	_	_
+15-17	_	used	_	_	_	_
+15-18	_	to	_	_	_	_
+15-19	_	that	_	_	_	_
+15-20	_	kind	_	_	_	_
+15-21	_	of	_	_	_	_
+15-22	_	thing	_	_	_	_
+15-23	_	.	_	_	_	_
+
+#Text=To me , the ultimate feeling of success as an artist , is to move somebody enough where they thank you .
+16-1	_	To	_	_	_	_
+16-2	_	me	abstract[25]	new[25]	coref	17-9[25_26]
+16-3	_	,	_	_	_	_
+16-4	_	the	_	_	_	_
+16-5	_	ultimate	_	_	_	_
+16-6	_	feeling	_	_	_	_
+16-7	_	of	_	_	_	_
+16-8	_	success	_	_	_	_
+16-9	_	as	_	_	_	_
+16-10	_	an	abstract[69]	new[69]	coref	16-21[69_70]
+16-11	_	artist	abstract[69]	new[69]	_	_
+16-12	_	,	_	_	_	_
+16-13	_	is	_	_	_	_
+16-14	_	to	_	_	_	_
+16-15	_	move	_	_	_	_
+16-16	_	somebody	abstract[67]	new[67]	coref	16-19[67_68]
+16-17	_	enough	_	_	_	_
+16-18	_	where	_	_	_	_
+16-19	_	they	abstract[68]	new[68]	_	_
+16-20	_	thank	_	_	_	_
+16-21	_	you	abstract[70]	new[70]	_	_
+16-22	_	.	_	_	_	_
+
+#Text=When someone comes up and says , ' Frank , thank you , your work is great . "
+17-1	_	When	_	_	_	_
+17-2	_	someone	_	_	_	_
+17-3	_	comes	_	_	_	_
+17-4	_	up	_	_	_	_
+17-5	_	and	_	_	_	_
+17-6	_	says	_	_	_	_
+17-7	_	,	_	_	_	_
+17-8	_	'	_	_	_	_
+17-9	_	Frank	abstract[26]	new[26]	coref	17-12[26_27]
+17-10	_	,	_	_	_	_
+17-11	_	thank	_	_	_	_
+17-12	_	you	abstract[27]	new[27]	coref	17-14[27_28]
+17-13	_	,	_	_	_	_
+17-14	_	your	abstract[28]|abstract[83]	new[28]|new[83]	coref|coref	18-1[28_29]|19-10[83_84]
+17-15	_	work	abstract[83]	new[83]	_	_
+17-16	_	is	_	_	_	_
+17-17	_	great	_	_	_	_
+17-18	_	.	_	_	_	_
+17-19	_	"	_	_	_	_
+
+#Text=You have a long career in poetry , but as of late the attention you have garnered is for the Mets - inspired work .
+18-1	_	You	abstract[29]	new[29]	coref	18-15[29_30]
+18-2	_	have	_	_	_	_
+18-3	_	a	_	_	_	_
+18-4	_	long	_	_	_	_
+18-5	_	career	_	_	_	_
+18-6	_	in	_	_	_	_
+18-7	_	poetry	_	_	_	_
+18-8	_	,	_	_	_	_
+18-9	_	but	_	_	_	_
+18-10	_	as	_	_	_	_
+18-11	_	of	_	_	_	_
+18-12	_	late	_	_	_	_
+18-13	_	the	_	_	_	_
+18-14	_	attention	_	_	_	_
+18-15	_	you	abstract[30]	new[30]	coref	19-3[30_31]
+18-16	_	have	_	_	_	_
+18-17	_	garnered	_	_	_	_
+18-18	_	is	_	_	_	_
+18-19	_	for	_	_	_	_
+18-20	_	the	abstract[85]	new[85]	coref	19-14[85_86]
+18-21	_	Mets	abstract[72]|abstract[85]	new[72]|new[85]	coref	19-15[72_73]
+18-22	_	-	abstract[85]	new[85]	_	_
+18-23	_	inspired	abstract[85]	new[85]	_	_
+18-24	_	work	abstract[85]	new[85]	_	_
+18-25	_	.	_	_	_	_
+
+#Text=How do you feel about having a lot of your work overshadowed by the Mets work ?
+19-1	_	How	_	_	_	_
+19-2	_	do	_	_	_	_
+19-3	_	you	abstract[31]	new[31]	coref	19-10[31_32]
+19-4	_	feel	_	_	_	_
+19-5	_	about	_	_	_	_
+19-6	_	having	_	_	_	_
+19-7	_	a	_	_	_	_
+19-8	_	lot	_	_	_	_
+19-9	_	of	_	_	_	_
+19-10	_	your	abstract[32]|abstract[84]	new[32]|new[84]	coref	29-1[32_33]
+19-11	_	work	abstract[84]	new[84]	_	_
+19-12	_	overshadowed	_	_	_	_
+19-13	_	by	_	_	_	_
+19-14	_	the	abstract[86]	new[86]	coref	46-11[86_87]
+19-15	_	Mets	abstract[73]|abstract[86]	new[73]|new[86]	coref	37-9[73_74]
+19-16	_	work	abstract[86]	new[86]	_	_
+19-17	_	?	_	_	_	_
+
+#Text=It 's ironic .
+20-1	_	It	_	_	_	_
+20-2	_	's	_	_	_	_
+20-3	_	ironic	_	_	_	_
+20-4	_	.	_	_	_	_
+
+#Text=Some of the greatest poetry has been born out of failure and the depths of adversity in the human experience .
+21-1	_	Some	_	_	_	_
+21-2	_	of	_	_	_	_
+21-3	_	the	_	_	_	_
+21-4	_	greatest	_	_	_	_
+21-5	_	poetry	_	_	_	_
+21-6	_	has	_	_	_	_
+21-7	_	been	_	_	_	_
+21-8	_	born	_	_	_	_
+21-9	_	out	_	_	_	_
+21-10	_	of	_	_	_	_
+21-11	_	failure	_	_	_	_
+21-12	_	and	_	_	_	_
+21-13	_	the	_	_	_	_
+21-14	_	depths	_	_	_	_
+21-15	_	of	_	_	_	_
+21-16	_	adversity	_	_	_	_
+21-17	_	in	_	_	_	_
+21-18	_	the	_	_	_	_
+21-19	_	human	_	_	_	_
+21-20	_	experience	_	_	_	_
+21-21	_	.	_	_	_	_
+
+#Text=Walt Whitman , the first great American poet , wrote about the Civil War .
+22-1	_	Walt	abstract[90]	new[90]	coref	23-1[90_91]
+22-2	_	Whitman	abstract[90]	new[90]	_	_
+22-3	_	,	abstract[90]	new[90]	_	_
+22-4	_	the	abstract[90]	new[90]	_	_
+22-5	_	first	abstract[90]	new[90]	_	_
+22-6	_	great	abstract[90]	new[90]	_	_
+22-7	_	American	abstract[90]	new[90]	_	_
+22-8	_	poet	abstract[90]	new[90]	_	_
+22-9	_	,	_	_	_	_
+22-10	_	wrote	_	_	_	_
+22-11	_	about	_	_	_	_
+22-12	_	the	_	_	_	_
+22-13	_	Civil	_	_	_	_
+22-14	_	War	_	_	_	_
+22-15	_	.	_	_	_	_
+
+#Text=He went looking for his brother , George Whitman , after he a telegram telling him his brother was injured in the South .
+23-1	_	He	abstract[91]	new[91]	coref	23-5[91_92]
+23-2	_	went	_	_	_	_
+23-3	_	looking	_	_	_	_
+23-4	_	for	_	_	_	_
+23-5	_	his	abstract[92]|abstract[103]	new[92]|new[103]	coref|coref	23-12[92_93]|23-17[103_104]
+23-6	_	brother	abstract[103]	new[103]	_	_
+23-7	_	,	abstract[103]	new[103]	_	_
+23-8	_	George	abstract[103]	new[103]	_	_
+23-9	_	Whitman	abstract[103]	new[103]	_	_
+23-10	_	,	_	_	_	_
+23-11	_	after	_	_	_	_
+23-12	_	he	abstract[93]	new[93]	coref	23-16[93_94]
+23-13	_	a	_	_	_	_
+23-14	_	telegram	_	_	_	_
+23-15	_	telling	_	_	_	_
+23-16	_	him	abstract[94]	new[94]	coref	23-17[94_95]
+23-17	_	his	abstract[95]|abstract[104]	new[95]|new[104]	coref|coref	24-2[95_96]|28-5[104_105]
+23-18	_	brother	abstract[104]	new[104]	_	_
+23-19	_	was	_	_	_	_
+23-20	_	injured	_	_	_	_
+23-21	_	in	_	_	_	_
+23-22	_	the	_	_	_	_
+23-23	_	South	_	_	_	_
+23-24	_	.	_	_	_	_
+
+#Text=When he started out his poems were about beating drums , and blow , bugle , blow .
+24-1	_	When	_	_	_	_
+24-2	_	he	abstract[96]	new[96]	coref	24-5[96_97]
+24-3	_	started	_	_	_	_
+24-4	_	out	_	_	_	_
+24-5	_	his	abstract[97]	new[97]	coref	26-2[97_98]
+24-6	_	poems	_	_	_	_
+24-7	_	were	_	_	_	_
+24-8	_	about	_	_	_	_
+24-9	_	beating	_	_	_	_
+24-10	_	drums	_	_	_	_
+24-11	_	,	_	_	_	_
+24-12	_	and	_	_	_	_
+24-13	_	blow	_	_	_	_
+24-14	_	,	_	_	_	_
+24-15	_	bugle	_	_	_	_
+24-16	_	,	_	_	_	_
+24-17	_	blow	_	_	_	_
+24-18	_	.	_	_	_	_
+
+#Text=Real patriotic .
+25-1	_	Real	_	_	_	_
+25-2	_	patriotic	_	_	_	_
+25-3	_	.	_	_	_	_
+
+#Text=Then he started to see the real horrors of war .
+26-1	_	Then	_	_	_	_
+26-2	_	he	abstract[98]	new[98]	coref	27-1[98_99]
+26-3	_	started	_	_	_	_
+26-4	_	to	_	_	_	_
+26-5	_	see	_	_	_	_
+26-6	_	the	_	_	_	_
+26-7	_	real	_	_	_	_
+26-8	_	horrors	_	_	_	_
+26-9	_	of	_	_	_	_
+26-10	_	war	_	_	_	_
+26-11	_	.	_	_	_	_
+
+#Text=He was able to tap into the human condition and the situation at that time .
+27-1	_	He	abstract[99]	new[99]	coref	28-3[99_100]
+27-2	_	was	_	_	_	_
+27-3	_	able	_	_	_	_
+27-4	_	to	_	_	_	_
+27-5	_	tap	_	_	_	_
+27-6	_	into	_	_	_	_
+27-7	_	the	_	_	_	_
+27-8	_	human	_	_	_	_
+27-9	_	condition	_	_	_	_
+27-10	_	and	_	_	_	_
+27-11	_	the	_	_	_	_
+27-12	_	situation	_	_	_	_
+27-13	_	at	_	_	_	_
+27-14	_	that	_	_	_	_
+27-15	_	time	_	_	_	_
+27-16	_	.	_	_	_	_
+
+#Text=Eventually when he found his brother he had resolution .
+28-1	_	Eventually	_	_	_	_
+28-2	_	when	_	_	_	_
+28-3	_	he	abstract[100]	new[100]	coref	28-7[100_101]
+28-4	_	found	_	_	_	_
+28-5	_	his	abstract[105]	new[105]	_	_
+28-6	_	brother	abstract[105]	new[105]	_	_
+28-7	_	he	abstract[101]	new[101]	coref	31-4[101_102]
+28-8	_	had	_	_	_	_
+28-9	_	resolution	_	_	_	_
+28-10	_	.	_	_	_	_
+
+#Text=I experienced that kind of adversity during 9/11 being a civilian volunteer .
+29-1	_	I	abstract[33]	new[33]	coref	30-1[33_34]
+29-2	_	experienced	_	_	_	_
+29-3	_	that	_	_	_	_
+29-4	_	kind	_	_	_	_
+29-5	_	of	_	_	_	_
+29-6	_	adversity	_	_	_	_
+29-7	_	during	_	_	_	_
+29-8	_	9/11	_	_	_	_
+29-9	_	being	_	_	_	_
+29-10	_	a	_	_	_	_
+29-11	_	civilian	_	_	_	_
+29-12	_	volunteer	_	_	_	_
+29-13	_	.	_	_	_	_
+
+#Text=I loaded ferry boats in Jersey City across the river to deliver goods to Ground Zero .
+30-1	_	I	abstract[34]	new[34]	coref	31-1[34_35]
+30-2	_	loaded	_	_	_	_
+30-3	_	ferry	_	_	_	_
+30-4	_	boats	_	_	_	_
+30-5	_	in	_	_	_	_
+30-6	_	Jersey	_	_	_	_
+30-7	_	City	_	_	_	_
+30-8	_	across	_	_	_	_
+30-9	_	the	_	_	_	_
+30-10	_	river	_	_	_	_
+30-11	_	to	_	_	_	_
+30-12	_	deliver	_	_	_	_
+30-13	_	goods	_	_	_	_
+30-14	_	to	_	_	_	_
+30-15	_	Ground	_	_	_	_
+30-16	_	Zero	_	_	_	_
+30-17	_	.	_	_	_	_
+
+#Text=I turned to Whitman to find some understanding of what is happening in the world right now .
+31-1	_	I	abstract[35]	new[35]	coref	32-3[35_36]
+31-2	_	turned	_	_	_	_
+31-3	_	to	_	_	_	_
+31-4	_	Whitman	abstract[102]	new[102]	_	_
+31-5	_	to	_	_	_	_
+31-6	_	find	_	_	_	_
+31-7	_	some	_	_	_	_
+31-8	_	understanding	_	_	_	_
+31-9	_	of	_	_	_	_
+31-10	_	what	_	_	_	_
+31-11	_	is	_	_	_	_
+31-12	_	happening	_	_	_	_
+31-13	_	in	_	_	_	_
+31-14	_	the	abstract[107]	new[107]	_	_
+31-15	_	world	abstract[107]	new[107]	_	_
+31-16	_	right	_	_	_	_
+31-17	_	now	_	_	_	_
+31-18	_	.	_	_	_	_
+
+#Text=When I wrote my 9/11 - related poems , that was true adversity .
+32-1	_	When	_	_	_	_
+32-2	_	I	abstract[36]	new[36]	coref	32-5[36_37]
+32-3	_	wrote	_	_	_	_
+32-4	_	my	abstract[37]	new[37]	coref	33-1[37_38]
+32-5	_	9/11	_	_	_	_
+32-6	_	-	_	_	_	_
+32-7	_	related	_	_	_	_
+32-8	_	poems	_	_	_	_
+32-9	_	,	_	_	_	_
+32-10	_	that	_	_	_	_
+32-11	_	was	_	_	_	_
+32-12	_	true	_	_	_	_
+32-13	_	adversity	_	_	_	_
+32-14	_	.	_	_	_	_
+
+#Text=I realize baseball is just a game .
+33-1	_	I	abstract[38]	new[38]	coref	34-2[38_39]
+33-2	_	realize	_	_	_	_
+33-3	_	baseball	_	_	_	_
+33-4	_	is	_	_	_	_
+33-5	_	just	_	_	_	_
+33-6	_	a	_	_	_	_
+33-7	_	game	_	_	_	_
+33-8	_	.	_	_	_	_
+
+#Text=Can you recite a stanza that expresses how you feel right now ?
+34-1	_	Can	_	_	_	_
+34-2	_	you	abstract[39]	new[39]	coref	34-9[39_40]
+34-3	_	recite	_	_	_	_
+34-4	_	a	_	_	_	_
+34-5	_	stanza	_	_	_	_
+34-6	_	that	_	_	_	_
+34-7	_	expresses	_	_	_	_
+34-8	_	how	_	_	_	_
+34-9	_	you	abstract[40]	new[40]	coref	44-3[40_41]
+34-10	_	feel	_	_	_	_
+34-11	_	right	_	_	_	_
+34-12	_	now	_	_	_	_
+34-13	_	?	_	_	_	_
+
+#Text=This was a piece that the Times only quoted one stanza , but it 's about preparation for a battle , and being prepared to either rise to the occasion , or go down :
+35-1	_	This	_	_	_	_
+35-2	_	was	_	_	_	_
+35-3	_	a	_	_	_	_
+35-4	_	piece	_	_	_	_
+35-5	_	that	_	_	_	_
+35-6	_	the	_	_	_	_
+35-7	_	Times	_	_	_	_
+35-8	_	only	_	_	_	_
+35-9	_	quoted	_	_	_	_
+35-10	_	one	_	_	_	_
+35-11	_	stanza	_	_	_	_
+35-12	_	,	_	_	_	_
+35-13	_	but	_	_	_	_
+35-14	_	it	_	_	_	_
+35-15	_	's	_	_	_	_
+35-16	_	about	_	_	_	_
+35-17	_	preparation	_	_	_	_
+35-18	_	for	_	_	_	_
+35-19	_	a	_	_	_	_
+35-20	_	battle	_	_	_	_
+35-21	_	,	_	_	_	_
+35-22	_	and	_	_	_	_
+35-23	_	being	_	_	_	_
+35-24	_	prepared	_	_	_	_
+35-25	_	to	_	_	_	_
+35-26	_	either	_	_	_	_
+35-27	_	rise	_	_	_	_
+35-28	_	to	_	_	_	_
+35-29	_	the	_	_	_	_
+35-30	_	occasion	_	_	_	_
+35-31	_	,	_	_	_	_
+35-32	_	or	_	_	_	_
+35-33	_	go	_	_	_	_
+35-34	_	down	_	_	_	_
+35-35	_	:	_	_	_	_
+
+#Text=Do you know what it 's like to be chased by the Ghost of Failure while staring through Victory 's door ?
+36-1	_	Do	_	_	_	_
+36-2	_	you	abstract[108]	new[108]	coref	37-3[108_109]
+36-3	_	know	_	_	_	_
+36-4	_	what	_	_	_	_
+36-5	_	it	_	_	_	_
+36-6	_	's	_	_	_	_
+36-7	_	like	_	_	_	_
+36-8	_	to	_	_	_	_
+36-9	_	be	_	_	_	_
+36-10	_	chased	_	_	_	_
+36-11	_	by	_	_	_	_
+36-12	_	the	_	_	_	_
+36-13	_	Ghost	_	_	_	_
+36-14	_	of	_	_	_	_
+36-15	_	Failure	_	_	_	_
+36-16	_	while	_	_	_	_
+36-17	_	staring	_	_	_	_
+36-18	_	through	_	_	_	_
+36-19	_	Victory	_	_	_	_
+36-20	_	's	_	_	_	_
+36-21	_	door	_	_	_	_
+36-22	_	?	_	_	_	_
+
+#Text=Of course you do , you 're a Mets fan caught in a do - or - die moment in late September at Shea
+37-1	_	Of	_	_	_	_
+37-2	_	course	_	_	_	_
+37-3	_	you	abstract[109]	new[109]	coref	37-6[109_110]
+37-4	_	do	_	_	_	_
+37-5	_	,	_	_	_	_
+37-6	_	you	abstract[110]	new[110]	coref	38-24[110_111]
+37-7	_	're	_	_	_	_
+37-8	_	a	_	_	_	_
+37-9	_	Mets	abstract[74]	new[74]	coref	42-4[74_75]
+37-10	_	fan	_	_	_	_
+37-11	_	caught	_	_	_	_
+37-12	_	in	_	_	_	_
+37-13	_	a	_	_	_	_
+37-14	_	do	_	_	_	_
+37-15	_	-	_	_	_	_
+37-16	_	or	_	_	_	_
+37-17	_	-	_	_	_	_
+37-18	_	die	_	_	_	_
+37-19	_	moment	_	_	_	_
+37-20	_	in	_	_	_	_
+37-21	_	late	abstract[118]	new[118]	coref	42-7[118_119]
+37-22	_	September	abstract[118]	new[118]	_	_
+37-23	_	at	_	_	_	_
+37-24	_	Shea	_	_	_	_
+
+#Text=As one that s battled hard through many a broken dream Let me say , " in order to rise to the occasion you must be willing to go down with the ship " ,
+38-1	_	As	_	_	_	_
+38-2	_	one	_	_	_	_
+38-3	_	that	_	_	_	_
+38-4	_	s	_	_	_	_
+38-5	_	battled	_	_	_	_
+38-6	_	hard	_	_	_	_
+38-7	_	through	_	_	_	_
+38-8	_	many	_	_	_	_
+38-9	_	a	_	_	_	_
+38-10	_	broken	_	_	_	_
+38-11	_	dream	_	_	_	_
+38-12	_	Let	_	_	_	_
+38-13	_	me	_	_	_	_
+38-14	_	say	_	_	_	_
+38-15	_	,	_	_	_	_
+38-16	_	"	_	_	_	_
+38-17	_	in	_	_	_	_
+38-18	_	order	_	_	_	_
+38-19	_	to	_	_	_	_
+38-20	_	rise	_	_	_	_
+38-21	_	to	_	_	_	_
+38-22	_	the	_	_	_	_
+38-23	_	occasion	_	_	_	_
+38-24	_	you	abstract[111]	new[111]	coref	40-7[111_112]
+38-25	_	must	_	_	_	_
+38-26	_	be	_	_	_	_
+38-27	_	willing	_	_	_	_
+38-28	_	to	_	_	_	_
+38-29	_	go	_	_	_	_
+38-30	_	down	_	_	_	_
+38-31	_	with	_	_	_	_
+38-32	_	the	_	_	_	_
+38-33	_	ship	_	_	_	_
+38-34	_	"	_	_	_	_
+38-35	_	,	_	_	_	_
+
+#Text=Have no fear , no hesitation , for Winning shall be it's reward !
+39-1	_	Have	_	_	_	_
+39-2	_	no	_	_	_	_
+39-3	_	fear	_	_	_	_
+39-4	_	,	_	_	_	_
+39-5	_	no	_	_	_	_
+39-6	_	hesitation	_	_	_	_
+39-7	_	,	_	_	_	_
+39-8	_	for	_	_	_	_
+39-9	_	Winning	_	_	_	_
+39-10	_	shall	_	_	_	_
+39-11	_	be	_	_	_	_
+39-12	_	it's	_	_	_	_
+39-13	_	reward	_	_	_	_
+39-14	_	!	_	_	_	_
+
+#Text=Do n't let them get in your head !
+40-1	_	Do	_	_	_	_
+40-2	_	n't	_	_	_	_
+40-3	_	let	_	_	_	_
+40-4	_	them	_	_	_	_
+40-5	_	get	_	_	_	_
+40-6	_	in	_	_	_	_
+40-7	_	your	abstract[112]	new[112]	coref	41-1[112_113]
+40-8	_	head	_	_	_	_
+40-9	_	!	_	_	_	_
+
+#Text=you 've kept it up this long
+41-1	_	you	abstract[113]	new[113]	coref	42-1[113_114]
+41-2	_	've	_	_	_	_
+41-3	_	kept	_	_	_	_
+41-4	_	it	_	_	_	_
+41-5	_	up	_	_	_	_
+41-6	_	this	_	_	_	_
+41-7	_	long	_	_	_	_
+
+#Text=You 're a Mets fan in late September and you ll fight til the glorious end
+42-1	_	You	abstract[114]	new[114]	coref	42-10[114_115]
+42-2	_	're	_	_	_	_
+42-3	_	a	_	_	_	_
+42-4	_	Mets	abstract[75]	new[75]	coref	43-2[75_76]
+42-5	_	fan	_	_	_	_
+42-6	_	in	_	_	_	_
+42-7	_	late	abstract[119]	new[119]	_	_
+42-8	_	September	abstract[119]	new[119]	_	_
+42-9	_	and	_	_	_	_
+42-10	_	you	abstract[115]	new[115]	coref	43-7[115_116]
+42-11	_	ll	_	_	_	_
+42-12	_	fight	_	_	_	_
+42-13	_	til	_	_	_	_
+42-14	_	the	_	_	_	_
+42-15	_	glorious	_	_	_	_
+42-16	_	end	_	_	_	_
+
+#Text=Cheer the team today ; ( your boys in orange and blue ) Let them hear you shout as they fight for what 's mightily due
+43-1	_	Cheer	_	_	_	_
+43-2	_	the	abstract[76]	new[76]	coref	43-7[76_77]
+43-3	_	team	abstract[76]	new[76]	_	_
+43-4	_	today	_	_	_	_
+43-5	_	;	_	_	_	_
+43-6	_	(	_	_	_	_
+43-7	_	your	abstract[77]|abstract[116]	new[77]|new[116]	coref|coref	43-15[77_78]|43-17[116_117]
+43-8	_	boys	abstract[77]	new[77]	_	_
+43-9	_	in	abstract[77]	new[77]	_	_
+43-10	_	orange	abstract[77]	new[77]	_	_
+43-11	_	and	abstract[77]	new[77]	_	_
+43-12	_	blue	abstract[77]	new[77]	_	_
+43-13	_	)	_	_	_	_
+43-14	_	Let	_	_	_	_
+43-15	_	them	abstract[78]	new[78]	coref	43-20[78_79]
+43-16	_	hear	_	_	_	_
+43-17	_	you	abstract[117]	new[117]	_	_
+43-18	_	shout	_	_	_	_
+43-19	_	as	_	_	_	_
+43-20	_	they	abstract[79]	new[79]	coref	46-12[79_80]
+43-21	_	fight	_	_	_	_
+43-22	_	for	_	_	_	_
+43-23	_	what	_	_	_	_
+43-24	_	's	_	_	_	_
+43-25	_	mightily	_	_	_	_
+43-26	_	due	_	_	_	_
+
+#Text=( copyright Frank Messina ; reprinted with permission ) "
+44-1	_	(	_	_	_	_
+44-2	_	copyright	_	_	_	_
+44-3	_	Frank	abstract[41]	new[41]	coref	46-2[41_42]
+44-4	_	Messina	abstract[41]	new[41]	_	_
+44-5	_	;	_	_	_	_
+44-6	_	reprinted	_	_	_	_
+44-7	_	with	_	_	_	_
+44-8	_	permission	_	_	_	_
+44-9	_	)	_	_	_	_
+44-10	_	"	_	_	_	_
+
+#Text=Sports fans are n't known as patrons of poetry .
+45-1	_	Sports	_	_	_	_
+45-2	_	fans	_	_	_	_
+45-3	_	are	_	_	_	_
+45-4	_	n't	_	_	_	_
+45-5	_	known	_	_	_	_
+45-6	_	as	_	_	_	_
+45-7	_	patrons	_	_	_	_
+45-8	_	of	_	_	_	_
+45-9	_	poetry	_	_	_	_
+45-10	_	.	_	_	_	_
+
+#Text=Have you had interaction with " new readers ' through your Mets work ?
+46-1	_	Have	_	_	_	_
+46-2	_	you	abstract[42]	new[42]	coref	46-11[42_43]
+46-3	_	had	_	_	_	_
+46-4	_	interaction	_	_	_	_
+46-5	_	with	_	_	_	_
+46-6	_	"	_	_	_	_
+46-7	_	new	_	_	_	_
+46-8	_	readers	_	_	_	_
+46-9	_	'	_	_	_	_
+46-10	_	through	_	_	_	_
+46-11	_	your	abstract[43]|abstract[87]	new[43]|new[87]	coref|coref	47-5[43_44]|48-26[87_88]
+46-12	_	Mets	abstract[80]|abstract[87]	new[80]|new[87]	coref	54-1[80_81]
+46-13	_	work	abstract[87]	new[87]	_	_
+46-14	_	?	_	_	_	_
+
+#Text=This one person who I never met took a picture of me and sent it to me in an e-mail .
+47-1	_	This	abstract[124]	new[124]	coref	48-8[124_125]
+47-2	_	one	abstract[124]	new[124]	_	_
+47-3	_	person	abstract[124]	new[124]	_	_
+47-4	_	who	abstract[124]	new[124]	_	_
+47-5	_	I	abstract[44]|abstract[124]	new[44]|new[124]	coref	47-12[44_45]
+47-6	_	never	abstract[124]	new[124]	_	_
+47-7	_	met	abstract[124]	new[124]	_	_
+47-8	_	took	_	_	_	_
+47-9	_	a	abstract[120]	new[120]	coref	47-15[120_121]
+47-10	_	picture	abstract[120]	new[120]	_	_
+47-11	_	of	abstract[120]	new[120]	_	_
+47-12	_	me	abstract[45]|abstract[120]	new[45]|new[120]	coref	47-17[45_46]
+47-13	_	and	_	_	_	_
+47-14	_	sent	_	_	_	_
+47-15	_	it	abstract[121]	new[121]	_	_
+47-16	_	to	_	_	_	_
+47-17	_	me	abstract[46]	new[46]	coref	48-6[46_47]
+47-18	_	in	_	_	_	_
+47-19	_	an	abstract[122]	new[122]	coref	48-1[122_123]
+47-20	_	e-mail	abstract[122]	new[122]	_	_
+47-21	_	.	_	_	_	_
+
+#Text=The e-mail said , ' Frank , I have never bothered you during the game , but I just wanted to say thank you for your work and thank you for making some sense of the successes and failures and I wish you much success with your work . '
+48-1	_	The	abstract[123]	new[123]	_	_
+48-2	_	e-mail	abstract[123]	new[123]	_	_
+48-3	_	said	_	_	_	_
+48-4	_	,	_	_	_	_
+48-5	_	'	_	_	_	_
+48-6	_	Frank	abstract[47]	new[47]	coref	48-12[47_48]
+48-7	_	,	_	_	_	_
+48-8	_	I	abstract[125]	new[125]	coref	48-18[125_126]
+48-9	_	have	_	_	_	_
+48-10	_	never	_	_	_	_
+48-11	_	bothered	_	_	_	_
+48-12	_	you	abstract[48]	new[48]	coref	48-24[48_49]
+48-13	_	during	_	_	_	_
+48-14	_	the	_	_	_	_
+48-15	_	game	_	_	_	_
+48-16	_	,	_	_	_	_
+48-17	_	but	_	_	_	_
+48-18	_	I	abstract[126]	new[126]	coref	48-41[126_127]
+48-19	_	just	_	_	_	_
+48-20	_	wanted	_	_	_	_
+48-21	_	to	_	_	_	_
+48-22	_	say	_	_	_	_
+48-23	_	thank	_	_	_	_
+48-24	_	you	abstract[49]	new[49]	coref	48-26[49_50]
+48-25	_	for	_	_	_	_
+48-26	_	your	abstract[50]|abstract[88]	new[50]|new[88]	coref|coref	48-30[50_51]|48-47[88_89]
+48-27	_	work	abstract[88]	new[88]	_	_
+48-28	_	and	_	_	_	_
+48-29	_	thank	_	_	_	_
+48-30	_	you	abstract[51]	new[51]	coref	48-43[51_52]
+48-31	_	for	_	_	_	_
+48-32	_	making	_	_	_	_
+48-33	_	some	_	_	_	_
+48-34	_	sense	_	_	_	_
+48-35	_	of	_	_	_	_
+48-36	_	the	_	_	_	_
+48-37	_	successes	_	_	_	_
+48-38	_	and	_	_	_	_
+48-39	_	failures	_	_	_	_
+48-40	_	and	_	_	_	_
+48-41	_	I	abstract[127]	new[127]	_	_
+48-42	_	wish	_	_	_	_
+48-43	_	you	abstract[52]	new[52]	coref	48-47[52_53]
+48-44	_	much	_	_	_	_
+48-45	_	success	_	_	_	_
+48-46	_	with	_	_	_	_
+48-47	_	your	abstract[53]|abstract[89]	new[53]|new[89]	coref	49-4[53_54]
+48-48	_	work	abstract[89]	new[89]	_	_
+48-49	_	.	_	_	_	_
+48-50	_	'	_	_	_	_
+
+#Text=Last year in my section at the stadium I had a banner that read We Know ' .
+49-1	_	Last	_	_	_	_
+49-2	_	year	_	_	_	_
+49-3	_	in	_	_	_	_
+49-4	_	my	abstract[54]	new[54]	coref	49-9[54_55]
+49-5	_	section	_	_	_	_
+49-6	_	at	_	_	_	_
+49-7	_	the	abstract[182]	new[182]	coref	62-9[182_183]
+49-8	_	stadium	abstract[182]	new[182]	_	_
+49-9	_	I	abstract[55]	new[55]	_	_
+49-10	_	had	_	_	_	_
+49-11	_	a	_	_	_	_
+49-12	_	banner	_	_	_	_
+49-13	_	that	_	_	_	_
+49-14	_	read	_	_	_	_
+49-15	_	We	abstract[133]	new[133]	coref	51-17[133_134]
+49-16	_	Know	_	_	_	_
+49-17	_	'	_	_	_	_
+49-18	_	.	_	_	_	_
+
+#Text=That 's all it said .
+50-1	_	That	_	_	_	_
+50-2	_	's	_	_	_	_
+50-3	_	all	_	_	_	_
+50-4	_	it	abstract[146]	new[146]	coref	53-5[146_147]
+50-5	_	said	_	_	_	_
+50-6	_	.	_	_	_	_
+
+#Text=Then earlier this year these shirts started to come out that said , " Poet says We Know " .
+51-1	_	Then	_	_	_	_
+51-2	_	earlier	_	_	_	_
+51-3	_	this	abstract[129]	new[129]	coref	53-7[129_130]
+51-4	_	year	abstract[129]	new[129]	_	_
+51-5	_	these	_	_	_	_
+51-6	_	shirts	_	_	_	_
+51-7	_	started	_	_	_	_
+51-8	_	to	_	_	_	_
+51-9	_	come	_	_	_	_
+51-10	_	out	_	_	_	_
+51-11	_	that	_	_	_	_
+51-12	_	said	_	_	_	_
+51-13	_	,	_	_	_	_
+51-14	_	"	_	_	_	_
+51-15	_	Poet	abstract[157]	new[157]	coref	60-8[157_158]
+51-16	_	says	_	_	_	_
+51-17	_	We	abstract[134]	new[134]	coref	53-1[134_135]
+51-18	_	Know	_	_	_	_
+51-19	_	"	_	_	_	_
+51-20	_	.	_	_	_	_
+
+#Text=It was amazing .
+52-1	_	It	_	_	_	_
+52-2	_	was	_	_	_	_
+52-3	_	amazing	_	_	_	_
+52-4	_	.	_	_	_	_
+
+#Text=We did n't use the banner this year , though , because we did n't know .
+53-1	_	We	abstract[135]	new[135]	coref	53-13[135_136]
+53-2	_	did	_	_	_	_
+53-3	_	n't	_	_	_	_
+53-4	_	use	_	_	_	_
+53-5	_	the	abstract[147]	new[147]	_	_
+53-6	_	banner	abstract[147]	new[147]	_	_
+53-7	_	this	abstract[130]	new[130]	coref	56-1[130_131]
+53-8	_	year	abstract[130]	new[130]	_	_
+53-9	_	,	_	_	_	_
+53-10	_	though	_	_	_	_
+53-11	_	,	_	_	_	_
+53-12	_	because	_	_	_	_
+53-13	_	we	abstract[136]	new[136]	coref	54-9[136_137]
+53-14	_	did	_	_	_	_
+53-15	_	n't	_	_	_	_
+53-16	_	know	_	_	_	_
+53-17	_	.	_	_	_	_
+
+#Text=The team was n't so far ahead that we knew .
+54-1	_	The	abstract[81]	new[81]	coref	67-24[81_82]
+54-2	_	team	abstract[81]	new[81]	_	_
+54-3	_	was	_	_	_	_
+54-4	_	n't	_	_	_	_
+54-5	_	so	_	_	_	_
+54-6	_	far	_	_	_	_
+54-7	_	ahead	_	_	_	_
+54-8	_	that	_	_	_	_
+54-9	_	we	abstract[137]	new[137]	coref	55-3[137_138]
+54-10	_	knew	_	_	_	_
+54-11	_	.	_	_	_	_
+
+#Text=Last year we just knew we were going to the playoffs ; we knew we were going post-season .
+55-1	_	Last	_	_	_	_
+55-2	_	year	_	_	_	_
+55-3	_	we	abstract[138]	new[138]	coref	55-6[138_139]
+55-4	_	just	_	_	_	_
+55-5	_	knew	_	_	_	_
+55-6	_	we	abstract[139]	new[139]	coref	55-13[139_140]
+55-7	_	were	_	_	_	_
+55-8	_	going	_	_	_	_
+55-9	_	to	_	_	_	_
+55-10	_	the	_	_	_	_
+55-11	_	playoffs	_	_	_	_
+55-12	_	;	_	_	_	_
+55-13	_	we	abstract[140]	new[140]	coref	55-15[140_141]
+55-14	_	knew	_	_	_	_
+55-15	_	we	abstract[141]	new[141]	coref	56-3[141_142]
+55-16	_	were	_	_	_	_
+55-17	_	going	_	_	_	_
+55-18	_	post-season	abstract[177]	new[177]	coref	60-27[177_178]
+55-19	_	.	_	_	_	_
+
+#Text=This year we were n't sure .
+56-1	_	This	abstract[131]	new[131]	coref	67-2[131_132]
+56-2	_	year	abstract[131]	new[131]	_	_
+56-3	_	we	abstract[142]	new[142]	coref	57-1[142_143]
+56-4	_	were	_	_	_	_
+56-5	_	n't	_	_	_	_
+56-6	_	sure	_	_	_	_
+56-7	_	.	_	_	_	_
+
+#Text=We were walking on eggshells .
+57-1	_	We	abstract[143]	new[143]	coref	60-23[143_144]
+57-2	_	were	_	_	_	_
+57-3	_	walking	_	_	_	_
+57-4	_	on	_	_	_	_
+57-5	_	eggshells	_	_	_	_
+57-6	_	.	_	_	_	_
+
+#Text=There was a woman , a season ticket holder and a die hard fan .
+58-1	_	There	_	_	_	_
+58-2	_	was	_	_	_	_
+58-3	_	a	abstract[148]	new[148]	coref	59-1[148_149]
+58-4	_	woman	abstract[148]	new[148]	_	_
+58-5	_	,	abstract[148]	new[148]	_	_
+58-6	_	a	abstract[148]	new[148]	_	_
+58-7	_	season	abstract[148]	new[148]	_	_
+58-8	_	ticket	abstract[148]	new[148]	_	_
+58-9	_	holder	abstract[148]	new[148]	_	_
+58-10	_	and	abstract[148]	new[148]	_	_
+58-11	_	a	abstract[148]	new[148]	_	_
+58-12	_	die	abstract[148]	new[148]	_	_
+58-13	_	hard	abstract[148]	new[148]	_	_
+58-14	_	fan	abstract[148]	new[148]	_	_
+58-15	_	.	_	_	_	_
+
+#Text=She was staggered by the loss last year to the Cardinals .
+59-1	_	She	abstract[149]	new[149]	coref	60-4[149_150]
+59-2	_	was	_	_	_	_
+59-3	_	staggered	_	_	_	_
+59-4	_	by	_	_	_	_
+59-5	_	the	_	_	_	_
+59-6	_	loss	_	_	_	_
+59-7	_	last	_	_	_	_
+59-8	_	year	_	_	_	_
+59-9	_	to	_	_	_	_
+59-10	_	the	_	_	_	_
+59-11	_	Cardinals	_	_	_	_
+59-12	_	.	_	_	_	_
+
+#Text=Last year she came up to me during one of the games late in the season ; she was so happy we were going to the post season .
+60-1	_	Last	_	_	_	_
+60-2	_	year	_	_	_	_
+60-3	_	she	abstract[150]	new[150]	coref	60-19[150_151]
+60-4	_	came	_	_	_	_
+60-5	_	up	_	_	_	_
+60-6	_	to	_	_	_	_
+60-7	_	me	abstract[158]	new[158]	coref	62-3[158_159]
+60-8	_	during	_	_	_	_
+60-9	_	one	abstract[180]	new[180]	coref	61-2[180_181]
+60-10	_	of	abstract[180]	new[180]	_	_
+60-11	_	the	abstract[180]	new[180]	_	_
+60-12	_	games	abstract[180]	new[180]	_	_
+60-13	_	late	abstract[180]	new[180]	_	_
+60-14	_	in	abstract[180]	new[180]	_	_
+60-15	_	the	abstract[180]	new[180]	_	_
+60-16	_	season	abstract[180]	new[180]	_	_
+60-17	_	;	_	_	_	_
+60-18	_	she	abstract[151]	new[151]	coref	62-1[151_152]
+60-19	_	was	_	_	_	_
+60-20	_	so	_	_	_	_
+60-21	_	happy	_	_	_	_
+60-22	_	we	abstract[144]	new[144]	coref	61-4[144_145]
+60-23	_	were	_	_	_	_
+60-24	_	going	_	_	_	_
+60-25	_	to	_	_	_	_
+60-26	_	the	abstract[178]	new[178]	coref	61-7[178_179]
+60-27	_	post	abstract[178]	new[178]	_	_
+60-28	_	season	abstract[178]	new[178]	_	_
+60-29	_	.	_	_	_	_
+
+#Text=By that point we had clinched it .
+61-1	_	By	_	_	_	_
+61-2	_	that	abstract[181]	new[181]	_	_
+61-3	_	point	abstract[181]	new[181]	_	_
+61-4	_	we	abstract[145]	new[145]	_	_
+61-5	_	had	_	_	_	_
+61-6	_	clinched	_	_	_	_
+61-7	_	it	abstract[179]	new[179]	_	_
+61-8	_	.	_	_	_	_
+
+#Text=She handed me a shirt she bought at the stadium and she gave me a big hug .
+62-1	_	She	abstract[152]	new[152]	coref	62-6[152_153]
+62-2	_	handed	_	_	_	_
+62-3	_	me	abstract[159]	new[159]	coref	62-14[159_160]
+62-4	_	a	_	_	_	_
+62-5	_	shirt	_	_	_	_
+62-6	_	she	abstract[153]	new[153]	coref	62-12[153_154]
+62-7	_	bought	_	_	_	_
+62-8	_	at	_	_	_	_
+62-9	_	the	abstract[183]	new[183]	_	_
+62-10	_	stadium	abstract[183]	new[183]	_	_
+62-11	_	and	_	_	_	_
+62-12	_	she	abstract[154]	new[154]	coref	63-4[154_155]
+62-13	_	gave	_	_	_	_
+62-14	_	me	abstract[160]	new[160]	coref	63-11[160_161]
+62-15	_	a	_	_	_	_
+62-16	_	big	_	_	_	_
+62-17	_	hug	_	_	_	_
+62-18	_	.	_	_	_	_
+
+#Text=With tears in her eyes she said , " Thank you , Mets Poet , thank you . "
+63-1	_	With	_	_	_	_
+63-2	_	tears	_	_	_	_
+63-3	_	in	_	_	_	_
+63-4	_	her	abstract[155]	new[155]	coref	63-6[155_156]
+63-5	_	eyes	_	_	_	_
+63-6	_	she	abstract[156]	new[156]	_	_
+63-7	_	said	_	_	_	_
+63-8	_	,	_	_	_	_
+63-9	_	"	_	_	_	_
+63-10	_	Thank	_	_	_	_
+63-11	_	you	abstract[161]	new[161]	coref	63-17[161_162]
+63-12	_	,	abstract[161]	new[161]	_	_
+63-13	_	Mets	abstract[161]	new[161]	_	_
+63-14	_	Poet	abstract[161]	new[161]	_	_
+63-15	_	,	_	_	_	_
+63-16	_	thank	_	_	_	_
+63-17	_	you	abstract[162]	new[162]	coref	65-6[162_163]
+63-18	_	.	_	_	_	_
+63-19	_	"	_	_	_	_
+
+#Text=It 's cool ... it 's like another family .
+64-1	_	It	abstract[184]	new[184]	coref	64-5[184_185]
+64-2	_	's	_	_	_	_
+64-3	_	cool	_	_	_	_
+64-4	_	...	_	_	_	_
+64-5	_	it	abstract[185]	new[185]	coref	65-3[185_186]
+64-6	_	's	_	_	_	_
+64-7	_	like	_	_	_	_
+64-8	_	another	_	_	_	_
+64-9	_	family	_	_	_	_
+64-10	_	.	_	_	_	_
+
+#Text=Moments like that must make you realize you have touched people who are n't normally touched by poetry .
+65-1	_	Moments	_	_	_	_
+65-2	_	like	_	_	_	_
+65-3	_	that	abstract[186]	new[186]	_	_
+65-4	_	must	_	_	_	_
+65-5	_	make	_	_	_	_
+65-6	_	you	abstract[163]	new[163]	coref	67-10[163_164]
+65-7	_	realize	_	_	_	_
+65-8	_	you	_	_	_	_
+65-9	_	have	_	_	_	_
+65-10	_	touched	_	_	_	_
+65-11	_	people	_	_	_	_
+65-12	_	who	_	_	_	_
+65-13	_	are	_	_	_	_
+65-14	_	n't	_	_	_	_
+65-15	_	normally	_	_	_	_
+65-16	_	touched	_	_	_	_
+65-17	_	by	_	_	_	_
+65-18	_	poetry	_	_	_	_
+65-19	_	.	_	_	_	_
+
+#Text=It 's opened up a new fan base , so to speak .
+66-1	_	It	_	_	_	_
+66-2	_	's	_	_	_	_
+66-3	_	opened	_	_	_	_
+66-4	_	up	_	_	_	_
+66-5	_	a	_	_	_	_
+66-6	_	new	_	_	_	_
+66-7	_	fan	_	_	_	_
+66-8	_	base	_	_	_	_
+66-9	_	,	_	_	_	_
+66-10	_	so	_	_	_	_
+66-11	_	to	_	_	_	_
+66-12	_	speak	_	_	_	_
+66-13	_	.	_	_	_	_
+
+#Text=For the last year SNY has broadcast footage of me with my poems , so quite a few fans known about the " Mets Poet ' .
+67-1	_	For	_	_	_	_
+67-2	_	the	abstract[132]	new[132]	_	_
+67-3	_	last	abstract[132]	new[132]	_	_
+67-4	_	year	abstract[132]	new[132]	_	_
+67-5	_	SNY	_	_	_	_
+67-6	_	has	_	_	_	_
+67-7	_	broadcast	_	_	_	_
+67-8	_	footage	_	_	_	_
+67-9	_	of	_	_	_	_
+67-10	_	me	abstract[164]	new[164]	coref	67-22[164_165]
+67-11	_	with	_	_	_	_
+67-12	_	my	_	_	_	_
+67-13	_	poems	_	_	_	_
+67-14	_	,	_	_	_	_
+67-15	_	so	_	_	_	_
+67-16	_	quite	_	_	_	_
+67-17	_	a	_	_	_	_
+67-18	_	few	_	_	_	_
+67-19	_	fans	_	_	_	_
+67-20	_	known	_	_	_	_
+67-21	_	about	_	_	_	_
+67-22	_	the	abstract[165]	new[165]	coref	68-1[165_166]
+67-23	_	"	abstract[165]	new[165]	_	_
+67-24	_	Mets	abstract[82]|abstract[165]	new[82]|new[165]	_	_
+67-25	_	Poet	abstract[165]	new[165]	_	_
+67-26	_	'	abstract[165]	new[165]	_	_
+67-27	_	.	_	_	_	_
+
+#Text=I have never called myself that , by the way .
+68-1	_	I	abstract[166]	new[166]	coref	68-5[166_167]
+68-2	_	have	_	_	_	_
+68-3	_	never	_	_	_	_
+68-4	_	called	_	_	_	_
+68-5	_	myself	abstract[167]	new[167]	coref	68-6[167_168]
+68-6	_	that	abstract[168]	new[168]	coref	69-4[168_169]
+68-7	_	,	_	_	_	_
+68-8	_	by	_	_	_	_
+68-9	_	the	_	_	_	_
+68-10	_	way	_	_	_	_
+68-11	_	.	_	_	_	_
+
+#Text=The back of my jersey says " The Poet ' because growing up that was my nickname .
+69-1	_	The	_	_	_	_
+69-2	_	back	_	_	_	_
+69-3	_	of	_	_	_	_
+69-4	_	my	abstract[169]	new[169]	coref	69-16[169_170]
+69-5	_	jersey	_	_	_	_
+69-6	_	says	_	_	_	_
+69-7	_	"	abstract[187]	new[187]	coref	69-14[187_188]
+69-8	_	The	abstract[187]	new[187]	_	_
+69-9	_	Poet	abstract[187]	new[187]	_	_
+69-10	_	'	abstract[187]	new[187]	_	_
+69-11	_	because	_	_	_	_
+69-12	_	growing	_	_	_	_
+69-13	_	up	_	_	_	_
+69-14	_	that	abstract[188]	new[188]	_	_
+69-15	_	was	_	_	_	_
+69-16	_	my	abstract[170]	new[170]	coref	70-1[170_171]
+69-17	_	nickname	_	_	_	_
+69-18	_	.	_	_	_	_
+
+#Text=My brother was a runner and they used to call him The Birdman -- Birdie -- and they called me The Poet .
+70-1	_	My	abstract[171]|abstract[189]	new[171]|new[189]	coref|coref	70-20[171_172]|70-11[189_190]
+70-2	_	brother	abstract[189]	new[189]	_	_
+70-3	_	was	_	_	_	_
+70-4	_	a	_	_	_	_
+70-5	_	runner	_	_	_	_
+70-6	_	and	_	_	_	_
+70-7	_	they	abstract[191]	new[191]	coref	70-18[191_192]
+70-8	_	used	_	_	_	_
+70-9	_	to	_	_	_	_
+70-10	_	call	_	_	_	_
+70-11	_	him	abstract[190]	new[190]	_	_
+70-12	_	The	_	_	_	_
+70-13	_	Birdman	_	_	_	_
+70-14	_	--	_	_	_	_
+70-15	_	Birdie	_	_	_	_
+70-16	_	--	_	_	_	_
+70-17	_	and	_	_	_	_
+70-18	_	they	abstract[192]	new[192]	_	_
+70-19	_	called	_	_	_	_
+70-20	_	me	abstract[172]	new[172]	coref	70-21[172_173]
+70-21	_	The	abstract[173]	new[173]	coref	71-8[173_174]
+70-22	_	Poet	abstract[173]	new[173]	_	_
+70-23	_	.	_	_	_	_
+
+#Text=It was a natural thing , but I never coined myself as ' The Mets Poet . '
+71-1	_	It	_	_	_	_
+71-2	_	was	_	_	_	_
+71-3	_	a	_	_	_	_
+71-4	_	natural	_	_	_	_
+71-5	_	thing	_	_	_	_
+71-6	_	,	_	_	_	_
+71-7	_	but	_	_	_	_
+71-8	_	I	abstract[174]	new[174]	coref	71-11[174_175]
+71-9	_	never	_	_	_	_
+71-10	_	coined	_	_	_	_
+71-11	_	myself	abstract[175]	new[175]	coref	71-14[175_176]
+71-12	_	as	_	_	_	_
+71-13	_	'	_	_	_	_
+71-14	_	The	abstract[176]	new[176]	_	_
+71-15	_	Mets	abstract[176]	new[176]	_	_
+71-16	_	Poet	abstract[176]	new[176]	_	_
+71-17	_	.	_	_	_	_
+71-18	_	'	_	_	_	_
+

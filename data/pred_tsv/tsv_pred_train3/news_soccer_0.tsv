@@ -1,0 +1,1040 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=FIFA World Cup 2018 day five : Sweden , Belgium , England win three points
+1-1	_	FIFA	abstract[1]|abstract[4]	new[1]|new[4]	coref|coref	3-6[1_2]|3-8[4_5]
+1-2	_	World	abstract[1]	new[1]	_	_
+1-3	_	Cup	abstract[1]	new[1]	_	_
+1-4	_	2018	abstract[1]	new[1]	_	_
+1-5	_	day	_	_	_	_
+1-6	_	five	_	_	_	_
+1-7	_	:	_	_	_	_
+1-8	_	Sweden	abstract[6]	new[6]	coref	3-13[6_7]
+1-9	_	,	_	_	_	_
+1-10	_	Belgium	abstract[12]	new[12]	coref	3-21[12_13]
+1-11	_	,	_	_	_	_
+1-12	_	England	abstract[24]	new[24]	coref	3-36[24_25]
+1-13	_	win	_	_	_	_
+1-14	_	three	_	_	_	_
+1-15	_	points	_	_	_	_
+
+#Text=Tuesday , June 19 , 2018
+2-1	_	Tuesday	_	_	_	_
+2-2	_	,	_	_	_	_
+2-3	_	June	_	_	_	_
+2-4	_	19	_	_	_	_
+2-5	_	,	_	_	_	_
+2-6	_	2018	_	_	_	_
+
+#Text=Yesterday , day five of the 2018 FIFA football World Cup , Sweden defeated South Korea 1 – 0 ; Belgium defeated debutants Panama 3 – 0 ; and Tunisia lost 1 – 2 to England , with a late goal from English captain Harry Kane .
+3-1	_	Yesterday	abstract[36]	new[36]	coref	5-6[36_37]
+3-2	_	,	abstract[36]	new[36]	_	_
+3-3	_	day	abstract[36]	new[36]	_	_
+3-4	_	five	abstract[36]	new[36]	_	_
+3-5	_	of	abstract[36]	new[36]	_	_
+3-6	_	the	abstract[2]|abstract[36]	new[2]|new[36]	coref	17-12[2_3]
+3-7	_	2018	abstract[2]|abstract[36]	new[2]|new[36]	_	_
+3-8	_	FIFA	abstract[2]|abstract[5]|abstract[36]	new[2]|new[5]|new[36]	_	_
+3-9	_	football	abstract[2]|abstract[36]	new[2]|new[36]	_	_
+3-10	_	World	abstract[2]|abstract[36]	new[2]|new[36]	_	_
+3-11	_	Cup	abstract[2]|abstract[36]	new[2]|new[36]	_	_
+3-12	_	,	_	_	_	_
+3-13	_	Sweden	abstract[7]	new[7]	coref	4-4[7_8]
+3-14	_	defeated	_	_	_	_
+3-15	_	South	abstract[31]	new[31]	coref	4-8[31_32]
+3-16	_	Korea	abstract[31]	new[31]	_	_
+3-17	_	1	_	_	_	_
+3-18	_	–	_	_	_	_
+3-19	_	0	_	_	_	_
+3-20	_	;	_	_	_	_
+3-21	_	Belgium	abstract[13]	new[13]	coref	18-4[13_14]
+3-22	_	defeated	_	_	_	_
+3-23	_	debutants	abstract[58]	new[58]	coref	18-8[58_59]
+3-24	_	Panama	abstract[58]	new[58]	_	_
+3-25	_	3	_	_	_	_
+3-26	_	–	_	_	_	_
+3-27	_	0	_	_	_	_
+3-28	_	;	_	_	_	_
+3-29	_	and	_	_	_	_
+3-30	_	Tunisia	abstract[97]	new[97]	coref	37-4[97_98]
+3-31	_	lost	_	_	_	_
+3-32	_	1	_	_	_	_
+3-33	_	–	_	_	_	_
+3-34	_	2	_	_	_	_
+3-35	_	to	_	_	_	_
+3-36	_	England	abstract[25]	new[25]	coref	37-8[25_26]
+3-37	_	,	_	_	_	_
+3-38	_	with	_	_	_	_
+3-39	_	a	_	_	_	_
+3-40	_	late	_	_	_	_
+3-41	_	goal	_	_	_	_
+3-42	_	from	_	_	_	_
+3-43	_	English	_	_	_	_
+3-44	_	captain	_	_	_	_
+3-45	_	Harry	_	_	_	_
+3-46	_	Kane	_	_	_	_
+3-47	_	.	_	_	_	_
+
+#Text=Group F — Sweden 1 – 0 Korea Republic
+4-1	_	Group	_	_	_	_
+4-2	_	F	_	_	_	_
+4-3	_	—	_	_	_	_
+4-4	_	Sweden	abstract[8]	new[8]	coref	5-9[8_9]
+4-5	_	1	_	_	_	_
+4-6	_	–	_	_	_	_
+4-7	_	0	_	_	_	_
+4-8	_	Korea	abstract[32]	new[32]	coref	5-11[32_33]
+4-9	_	Republic	abstract[32]	new[32]	_	_
+
+#Text=In the first game of the day , Sweden faced South Korea at the Nizhny Novgorod Stadium .
+5-1	_	In	_	_	_	_
+5-2	_	the	abstract[41]	new[41]	coref	6-7[41_42]
+5-3	_	first	abstract[41]	new[41]	_	_
+5-4	_	game	abstract[41]	new[41]	_	_
+5-5	_	of	abstract[41]	new[41]	_	_
+5-6	_	the	abstract[37]|abstract[41]	new[37]|new[41]	coref	33-9[37_38]
+5-7	_	day	abstract[37]|abstract[41]	new[37]|new[41]	_	_
+5-8	_	,	_	_	_	_
+5-9	_	Sweden	abstract[9]	new[9]	coref	6-1[9_10]
+5-10	_	faced	_	_	_	_
+5-11	_	South	abstract[33]	new[33]	coref	7-1[33_34]
+5-12	_	Korea	abstract[33]	new[33]	_	_
+5-13	_	at	_	_	_	_
+5-14	_	the	_	_	_	_
+5-15	_	Nizhny	_	_	_	_
+5-16	_	Novgorod	_	_	_	_
+5-17	_	Stadium	_	_	_	_
+5-18	_	.	_	_	_	_
+
+#Text=Sweden had higher ball possession in the game .
+6-1	_	Sweden	abstract[10]	new[10]	coref	8-13[10_11]
+6-2	_	had	_	_	_	_
+6-3	_	higher	_	_	_	_
+6-4	_	ball	_	_	_	_
+6-5	_	possession	_	_	_	_
+6-6	_	in	_	_	_	_
+6-7	_	the	abstract[42]	new[42]	coref	7-12[42_43]
+6-8	_	game	abstract[42]	new[42]	_	_
+6-9	_	.	_	_	_	_
+
+#Text=Korea 's Kim Shin-Wook was shown a yellow card early in the game .
+7-1	_	Korea	abstract[34]	new[34]	coref	9-1[34_35]
+7-2	_	's	abstract[34]	new[34]	_	_
+7-3	_	Kim	_	_	_	_
+7-4	_	Shin-Wook	_	_	_	_
+7-5	_	was	_	_	_	_
+7-6	_	shown	_	_	_	_
+7-7	_	a	_	_	_	_
+7-8	_	yellow	_	_	_	_
+7-9	_	card	_	_	_	_
+7-10	_	early	_	_	_	_
+7-11	_	in	_	_	_	_
+7-12	_	the	abstract[43]	new[43]	_	_
+7-13	_	game	abstract[43]	new[43]	_	_
+7-14	_	.	_	_	_	_
+
+#Text=In the 20th minute , Marcus Berg missed a chance to put Sweden in the lead .
+8-1	_	In	_	_	_	_
+8-2	_	the	_	_	_	_
+8-3	_	20th	_	_	_	_
+8-4	_	minute	_	_	_	_
+8-5	_	,	_	_	_	_
+8-6	_	Marcus	_	_	_	_
+8-7	_	Berg	_	_	_	_
+8-8	_	missed	_	_	_	_
+8-9	_	a	_	_	_	_
+8-10	_	chance	_	_	_	_
+8-11	_	to	_	_	_	_
+8-12	_	put	_	_	_	_
+8-13	_	Sweden	abstract[11]	new[11]	_	_
+8-14	_	in	_	_	_	_
+8-15	_	the	_	_	_	_
+8-16	_	lead	_	_	_	_
+8-17	_	.	_	_	_	_
+
+#Text=Korea substituted Park Joo-Ho in the 28th minute of the game due to injury and was replaced by Kim Min-Woo .
+9-1	_	Korea	abstract[35]	new[35]	_	_
+9-2	_	substituted	_	_	_	_
+9-3	_	Park	_	_	_	_
+9-4	_	Joo-Ho	_	_	_	_
+9-5	_	in	_	_	_	_
+9-6	_	the	_	_	_	_
+9-7	_	28th	_	_	_	_
+9-8	_	minute	_	_	_	_
+9-9	_	of	_	_	_	_
+9-10	_	the	_	_	_	_
+9-11	_	game	_	_	_	_
+9-12	_	due	_	_	_	_
+9-13	_	to	_	_	_	_
+9-14	_	injury	_	_	_	_
+9-15	_	and	_	_	_	_
+9-16	_	was	_	_	_	_
+9-17	_	replaced	_	_	_	_
+9-18	_	by	_	_	_	_
+9-19	_	Kim	abstract[46]	new[46]	coref	12-5[46_47]
+9-20	_	Min-Woo	abstract[46]	new[46]	_	_
+9-21	_	.	_	_	_	_
+
+#Text=Despite their attempts , neither side could open the scoring in the first half as it ended 0 – 0 .
+10-1	_	Despite	_	_	_	_
+10-2	_	their	_	_	_	_
+10-3	_	attempts	_	_	_	_
+10-4	_	,	_	_	_	_
+10-5	_	neither	_	_	_	_
+10-6	_	side	_	_	_	_
+10-7	_	could	_	_	_	_
+10-8	_	open	_	_	_	_
+10-9	_	the	_	_	_	_
+10-10	_	scoring	_	_	_	_
+10-11	_	in	_	_	_	_
+10-12	_	the	abstract[44]	new[44]	coref	10-16[44_45]
+10-13	_	first	abstract[44]	new[44]	_	_
+10-14	_	half	abstract[44]	new[44]	_	_
+10-15	_	as	_	_	_	_
+10-16	_	it	abstract[45]	new[45]	_	_
+10-17	_	ended	_	_	_	_
+10-18	_	0	_	_	_	_
+10-19	_	–	_	_	_	_
+10-20	_	0	_	_	_	_
+10-21	_	.	_	_	_	_
+
+#Text=In the second half , Hwang Hee-Chan was booked for a bad foul .
+11-1	_	In	_	_	_	_
+11-2	_	the	_	_	_	_
+11-3	_	second	_	_	_	_
+11-4	_	half	_	_	_	_
+11-5	_	,	_	_	_	_
+11-6	_	Hwang	abstract[52]	new[52]	coref	14-6[52_53]
+11-7	_	Hee-Chan	abstract[52]	new[52]	_	_
+11-8	_	was	_	_	_	_
+11-9	_	booked	_	_	_	_
+11-10	_	for	_	_	_	_
+11-11	_	a	_	_	_	_
+11-12	_	bad	_	_	_	_
+11-13	_	foul	_	_	_	_
+11-14	_	.	_	_	_	_
+
+#Text=In the 62nd minute Kim Min-Woo conceded a penalty which the match referee Joel Aguilar awarded Sweden after confirming with the video assistant referee .
+12-1	_	In	_	_	_	_
+12-2	_	the	_	_	_	_
+12-3	_	62nd	_	_	_	_
+12-4	_	minute	_	_	_	_
+12-5	_	Kim	abstract[47]	new[47]	_	_
+12-6	_	Min-Woo	abstract[47]	new[47]	_	_
+12-7	_	conceded	_	_	_	_
+12-8	_	a	_	_	_	_
+12-9	_	penalty	_	_	_	_
+12-10	_	which	_	_	_	_
+12-11	_	the	_	_	_	_
+12-12	_	match	_	_	_	_
+12-13	_	referee	_	_	_	_
+12-14	_	Joel	_	_	_	_
+12-15	_	Aguilar	_	_	_	_
+12-16	_	awarded	_	_	_	_
+12-17	_	Sweden	abstract[48]	new[48]	coref	13-12[48_49]
+12-18	_	after	_	_	_	_
+12-19	_	confirming	_	_	_	_
+12-20	_	with	_	_	_	_
+12-21	_	the	_	_	_	_
+12-22	_	video	_	_	_	_
+12-23	_	assistant	_	_	_	_
+12-24	_	referee	_	_	_	_
+12-25	_	.	_	_	_	_
+
+#Text=Swedish captain Andreas Granqvist scored from the penalty spot , putting Sweden 1 – 0 up .
+13-1	_	Swedish	_	_	_	_
+13-2	_	captain	_	_	_	_
+13-3	_	Andreas	_	_	_	_
+13-4	_	Granqvist	_	_	_	_
+13-5	_	scored	_	_	_	_
+13-6	_	from	_	_	_	_
+13-7	_	the	_	_	_	_
+13-8	_	penalty	_	_	_	_
+13-9	_	spot	_	_	_	_
+13-10	_	,	_	_	_	_
+13-11	_	putting	_	_	_	_
+13-12	_	Sweden	abstract[49]	new[49]	coref	15-5[49_50]
+13-13	_	1	_	_	_	_
+13-14	_	–	_	_	_	_
+13-15	_	0	_	_	_	_
+13-16	_	up	_	_	_	_
+13-17	_	.	_	_	_	_
+
+#Text=In the injury time , Hwang Hee-Chan 's header went wide to the left , missing a chance to equalise for Korea .
+14-1	_	In	_	_	_	_
+14-2	_	the	_	_	_	_
+14-3	_	injury	_	_	_	_
+14-4	_	time	_	_	_	_
+14-5	_	,	_	_	_	_
+14-6	_	Hwang	abstract[53]	new[53]	_	_
+14-7	_	Hee-Chan	abstract[53]	new[53]	_	_
+14-8	_	's	abstract[53]	new[53]	_	_
+14-9	_	header	_	_	_	_
+14-10	_	went	_	_	_	_
+14-11	_	wide	_	_	_	_
+14-12	_	to	_	_	_	_
+14-13	_	the	_	_	_	_
+14-14	_	left	_	_	_	_
+14-15	_	,	_	_	_	_
+14-16	_	missing	_	_	_	_
+14-17	_	a	_	_	_	_
+14-18	_	chance	_	_	_	_
+14-19	_	to	_	_	_	_
+14-20	_	equalise	_	_	_	_
+14-21	_	for	_	_	_	_
+14-22	_	Korea	_	_	_	_
+14-23	_	.	_	_	_	_
+
+#Text=The match ended with Sweden winning three points .
+15-1	_	The	abstract[56]	new[56]	coref	16-10[56_57]
+15-2	_	match	abstract[56]	new[56]	_	_
+15-3	_	ended	_	_	_	_
+15-4	_	with	_	_	_	_
+15-5	_	Sweden	abstract[50]	new[50]	coref	17-3[50_51]
+15-6	_	winning	_	_	_	_
+15-7	_	three	_	_	_	_
+15-8	_	points	_	_	_	_
+15-9	_	.	_	_	_	_
+
+#Text=Swedish captain Andreas Granqvist won the Budweiser Man of the Match award .
+16-1	_	Swedish	abstract[54]	new[54]	coref	16-8[54_55]
+16-2	_	captain	abstract[54]	new[54]	_	_
+16-3	_	Andreas	abstract[54]	new[54]	_	_
+16-4	_	Granqvist	abstract[54]	new[54]	_	_
+16-5	_	won	_	_	_	_
+16-6	_	the	_	_	_	_
+16-7	_	Budweiser	abstract[82]	new[82]	coref	31-4[82_83]
+16-8	_	Man	abstract[55]	new[55]	_	_
+16-9	_	of	abstract[55]	new[55]	_	_
+16-10	_	the	abstract[55]|abstract[57]	new[55]|new[57]	_	_
+16-11	_	Match	abstract[55]|abstract[57]	new[55]|new[57]	_	_
+16-12	_	award	_	_	_	_
+16-13	_	.	_	_	_	_
+
+#Text=This was Sweden 's first victory in the opening match of the World Cup since 1958 .
+17-1	_	This	_	_	_	_
+17-2	_	was	_	_	_	_
+17-3	_	Sweden	abstract[51]	new[51]	_	_
+17-4	_	's	abstract[51]	new[51]	_	_
+17-5	_	first	_	_	_	_
+17-6	_	victory	_	_	_	_
+17-7	_	in	_	_	_	_
+17-8	_	the	_	_	_	_
+17-9	_	opening	_	_	_	_
+17-10	_	match	_	_	_	_
+17-11	_	of	_	_	_	_
+17-12	_	the	abstract[3]	new[3]	_	_
+17-13	_	World	abstract[3]	new[3]	_	_
+17-14	_	Cup	abstract[3]	new[3]	_	_
+17-15	_	since	_	_	_	_
+17-16	_	1958	_	_	_	_
+17-17	_	.	_	_	_	_
+
+#Text=Group G — Belgium 3 – 0 Panama
+18-1	_	Group	abstract[63]	new[63]	coref	19-6[63_64]
+18-2	_	G	abstract[63]	new[63]	_	_
+18-3	_	—	_	_	_	_
+18-4	_	Belgium	abstract[14]	new[14]	coref	19-9[14_15]
+18-5	_	3	_	_	_	_
+18-6	_	–	_	_	_	_
+18-7	_	0	_	_	_	_
+18-8	_	Panama	abstract[59]	new[59]	coref	19-11[59_60]
+
+#Text=In the first game of Group G , Belgium faced Panama at the Fisht Stadium in Sochi .
+19-1	_	In	_	_	_	_
+19-2	_	the	abstract[66]	new[66]	coref	20-7[66_67]
+19-3	_	first	abstract[66]	new[66]	_	_
+19-4	_	game	abstract[66]	new[66]	_	_
+19-5	_	of	abstract[66]	new[66]	_	_
+19-6	_	Group	abstract[64]|abstract[66]	new[64]|new[66]	coref	37-1[64_65]
+19-7	_	G	abstract[64]|abstract[66]	new[64]|new[66]	_	_
+19-8	_	,	_	_	_	_
+19-9	_	Belgium	abstract[15]	new[15]	coref	20-1[15_16]
+19-10	_	faced	_	_	_	_
+19-11	_	Panama	abstract[60]	new[60]	coref	21-28[60_61]
+19-12	_	at	_	_	_	_
+19-13	_	the	_	_	_	_
+19-14	_	Fisht	_	_	_	_
+19-15	_	Stadium	_	_	_	_
+19-16	_	in	_	_	_	_
+19-17	_	Sochi	_	_	_	_
+19-18	_	.	_	_	_	_
+
+#Text=Belgium had greater ball possession in the match .
+20-1	_	Belgium	abstract[16]	new[16]	coref	21-1[16_17]
+20-2	_	had	_	_	_	_
+20-3	_	greater	_	_	_	_
+20-4	_	ball	_	_	_	_
+20-5	_	possession	_	_	_	_
+20-6	_	in	_	_	_	_
+20-7	_	the	abstract[67]	new[67]	coref	21-3[67_68]
+20-8	_	match	abstract[67]	new[67]	_	_
+20-9	_	.	_	_	_	_
+
+#Text=Belgium started the game with attacking style with Romelu Lukaku , Yannick Carrasco , and Dries Mertens making early attempts to put Belgium into the lead against debutans Panama .
+21-1	_	Belgium	abstract[17]	new[17]	coref	21-23[17_18]
+21-2	_	started	_	_	_	_
+21-3	_	the	abstract[68]	new[68]	_	_
+21-4	_	game	abstract[68]	new[68]	_	_
+21-5	_	with	_	_	_	_
+21-6	_	attacking	_	_	_	_
+21-7	_	style	_	_	_	_
+21-8	_	with	_	_	_	_
+21-9	_	Romelu	abstract[75]	new[75]	coref	26-7[75_76]
+21-10	_	Lukaku	abstract[75]	new[75]	_	_
+21-11	_	,	_	_	_	_
+21-12	_	Yannick	_	_	_	_
+21-13	_	Carrasco	_	_	_	_
+21-14	_	,	_	_	_	_
+21-15	_	and	_	_	_	_
+21-16	_	Dries	abstract[69]	new[69]	coref	22-1[69_70]
+21-17	_	Mertens	abstract[69]	new[69]	_	_
+21-18	_	making	_	_	_	_
+21-19	_	early	_	_	_	_
+21-20	_	attempts	_	_	_	_
+21-21	_	to	_	_	_	_
+21-22	_	put	_	_	_	_
+21-23	_	Belgium	abstract[18]	new[18]	coref	24-19[18_19]
+21-24	_	into	_	_	_	_
+21-25	_	the	abstract[72]	new[72]	coref	24-22[72_73]
+21-26	_	lead	abstract[72]	new[72]	_	_
+21-27	_	against	_	_	_	_
+21-28	_	debutans	abstract[61]	new[61]	coref	25-1[61_62]
+21-29	_	Panama	abstract[61]	new[61]	_	_
+21-30	_	.	_	_	_	_
+
+#Text=Dries Mertens 's attempt in the 18th minute failed .
+22-1	_	Dries	abstract[70]	new[70]	coref	24-9[70_71]
+22-2	_	Mertens	abstract[70]	new[70]	_	_
+22-3	_	's	abstract[70]	new[70]	_	_
+22-4	_	attempt	_	_	_	_
+22-5	_	in	_	_	_	_
+22-6	_	the	_	_	_	_
+22-7	_	18th	_	_	_	_
+22-8	_	minute	_	_	_	_
+22-9	_	failed	_	_	_	_
+22-10	_	.	_	_	_	_
+
+#Text=The first half ended with 0 – 0 on the scoreboard .
+23-1	_	The	_	_	_	_
+23-2	_	first	_	_	_	_
+23-3	_	half	_	_	_	_
+23-4	_	ended	_	_	_	_
+23-5	_	with	_	_	_	_
+23-6	_	0	_	_	_	_
+23-7	_	–	_	_	_	_
+23-8	_	0	_	_	_	_
+23-9	_	on	_	_	_	_
+23-10	_	the	_	_	_	_
+23-11	_	scoreboard	_	_	_	_
+23-12	_	.	_	_	_	_
+
+#Text=Just two minutes in the second half , Dries Mertens scored a goal from a volley , putting the Belgians in the lead .
+24-1	_	Just	_	_	_	_
+24-2	_	two	_	_	_	_
+24-3	_	minutes	_	_	_	_
+24-4	_	in	_	_	_	_
+24-5	_	the	abstract[80]	new[80]	coref	29-1[80_81]
+24-6	_	second	abstract[80]	new[80]	_	_
+24-7	_	half	abstract[80]	new[80]	_	_
+24-8	_	,	_	_	_	_
+24-9	_	Dries	abstract[71]	new[71]	_	_
+24-10	_	Mertens	abstract[71]	new[71]	_	_
+24-11	_	scored	_	_	_	_
+24-12	_	a	_	_	_	_
+24-13	_	goal	_	_	_	_
+24-14	_	from	_	_	_	_
+24-15	_	a	_	_	_	_
+24-16	_	volley	_	_	_	_
+24-17	_	,	_	_	_	_
+24-18	_	putting	_	_	_	_
+24-19	_	the	abstract[19]	new[19]	coref	26-13[19_20]
+24-20	_	Belgians	abstract[19]	new[19]	_	_
+24-21	_	in	_	_	_	_
+24-22	_	the	abstract[73]	new[73]	coref	26-10[73_74]
+24-23	_	lead	abstract[73]	new[73]	_	_
+24-24	_	.	_	_	_	_
+
+#Text=Panama 's attempt in the 54th minute , by Michael Murillo , was saved by Thibaut Courtois .
+25-1	_	Panama	abstract[62]	new[62]	_	_
+25-2	_	's	abstract[62]	new[62]	_	_
+25-3	_	attempt	_	_	_	_
+25-4	_	in	_	_	_	_
+25-5	_	the	_	_	_	_
+25-6	_	54th	_	_	_	_
+25-7	_	minute	_	_	_	_
+25-8	_	,	_	_	_	_
+25-9	_	by	_	_	_	_
+25-10	_	Michael	_	_	_	_
+25-11	_	Murillo	_	_	_	_
+25-12	_	,	_	_	_	_
+25-13	_	was	_	_	_	_
+25-14	_	saved	_	_	_	_
+25-15	_	by	_	_	_	_
+25-16	_	Thibaut	_	_	_	_
+25-17	_	Courtois	_	_	_	_
+25-18	_	.	_	_	_	_
+
+#Text=In the 69th minute , Romelu Lukaku doubled the lead for Belgium , scoring a header from Kevin De Bruyne 's assist .
+26-1	_	In	_	_	_	_
+26-2	_	the	_	_	_	_
+26-3	_	69th	_	_	_	_
+26-4	_	minute	_	_	_	_
+26-5	_	,	_	_	_	_
+26-6	_	Romelu	abstract[76]	new[76]	coref	27-5[76_77]
+26-7	_	Lukaku	abstract[76]	new[76]	_	_
+26-8	_	doubled	_	_	_	_
+26-9	_	the	abstract[74]	new[74]	_	_
+26-10	_	lead	abstract[74]	new[74]	_	_
+26-11	_	for	_	_	_	_
+26-12	_	Belgium	abstract[20]	new[20]	coref	27-11[20_21]
+26-13	_	,	_	_	_	_
+26-14	_	scoring	_	_	_	_
+26-15	_	a	_	_	_	_
+26-16	_	header	_	_	_	_
+26-17	_	from	_	_	_	_
+26-18	_	Kevin	_	_	_	_
+26-19	_	De	_	_	_	_
+26-20	_	Bruyne	_	_	_	_
+26-21	_	's	_	_	_	_
+26-22	_	assist	_	_	_	_
+26-23	_	.	_	_	_	_
+
+#Text=Six minutes later , Lukaku scored a third goal for Belgium , this time from Eden Hazard 's assist .
+27-1	_	Six	_	_	_	_
+27-2	_	minutes	_	_	_	_
+27-3	_	later	_	_	_	_
+27-4	_	,	_	_	_	_
+27-5	_	Lukaku	abstract[77]	new[77]	coref	31-1[77_78]
+27-6	_	scored	_	_	_	_
+27-7	_	a	_	_	_	_
+27-8	_	third	_	_	_	_
+27-9	_	goal	_	_	_	_
+27-10	_	for	_	_	_	_
+27-11	_	Belgium	abstract[21]	new[21]	coref	28-6[21_22]
+27-12	_	,	_	_	_	_
+27-13	_	this	_	_	_	_
+27-14	_	time	_	_	_	_
+27-15	_	from	_	_	_	_
+27-16	_	Eden	_	_	_	_
+27-17	_	Hazard	_	_	_	_
+27-18	_	's	_	_	_	_
+27-19	_	assist	_	_	_	_
+27-20	_	.	_	_	_	_
+
+#Text=In the 90th minute , Belgium made a change , as Nacer Chadli replaced Axel Witsel .
+28-1	_	In	_	_	_	_
+28-2	_	the	_	_	_	_
+28-3	_	90th	_	_	_	_
+28-4	_	minute	_	_	_	_
+28-5	_	,	_	_	_	_
+28-6	_	Belgium	abstract[22]	new[22]	coref	29-6[22_23]
+28-7	_	made	_	_	_	_
+28-8	_	a	_	_	_	_
+28-9	_	change	_	_	_	_
+28-10	_	,	_	_	_	_
+28-11	_	as	_	_	_	_
+28-12	_	Nacer	_	_	_	_
+28-13	_	Chadli	_	_	_	_
+28-14	_	replaced	_	_	_	_
+28-15	_	Axel	_	_	_	_
+28-16	_	Witsel	_	_	_	_
+28-17	_	.	_	_	_	_
+
+#Text=The second half ended with the Belgians winning three points .
+29-1	_	The	abstract[81]	new[81]	_	_
+29-2	_	second	abstract[81]	new[81]	_	_
+29-3	_	half	abstract[81]	new[81]	_	_
+29-4	_	ended	_	_	_	_
+29-5	_	with	_	_	_	_
+29-6	_	the	abstract[23]	new[23]	_	_
+29-7	_	Belgians	abstract[23]	new[23]	_	_
+29-8	_	winning	_	_	_	_
+29-9	_	three	_	_	_	_
+29-10	_	points	_	_	_	_
+29-11	_	.	_	_	_	_
+
+#Text=Five Panamanian players were booked in the match .
+30-1	_	Five	_	_	_	_
+30-2	_	Panamanian	_	_	_	_
+30-3	_	players	_	_	_	_
+30-4	_	were	_	_	_	_
+30-5	_	booked	_	_	_	_
+30-6	_	in	_	_	_	_
+30-7	_	the	abstract[85]	new[85]	coref	31-7[85_86]
+30-8	_	match	abstract[85]	new[85]	_	_
+30-9	_	.	_	_	_	_
+
+#Text=Lukaku won the Budweiser Man of the Match award .
+31-1	_	Lukaku	abstract[78]	new[78]	coref	31-5[78_79]
+31-2	_	won	_	_	_	_
+31-3	_	the	_	_	_	_
+31-4	_	Budweiser	abstract[83]	new[83]	coref	49-5[83_84]
+31-5	_	Man	abstract[79]	new[79]	_	_
+31-6	_	of	abstract[79]	new[79]	_	_
+31-7	_	the	abstract[79]|abstract[86]	new[79]|new[86]	coref	32-2[86_87]
+31-8	_	Match	abstract[79]|abstract[86]	new[79]|new[86]	_	_
+31-9	_	award	_	_	_	_
+31-10	_	.	_	_	_	_
+
+#Text=After the match , Hernan Dario Gomez , Panama coach , said , " A woman who has also been the victim of scandal after pleading for help in destroying a satellite by stealing in a car .
+32-1	_	After	_	_	_	_
+32-2	_	the	abstract[87]	new[87]	_	_
+32-3	_	match	abstract[87]	new[87]	_	_
+32-4	_	,	_	_	_	_
+32-5	_	Hernan	abstract[88]	new[88]	coref	33-1[88_89]
+32-6	_	Dario	abstract[88]	new[88]	_	_
+32-7	_	Gomez	abstract[88]	new[88]	_	_
+32-8	_	,	abstract[88]	new[88]	_	_
+32-9	_	Panama	abstract[88]|abstract[91]	new[88]|new[91]	coref	33-3[91_92]
+32-10	_	coach	abstract[88]	new[88]	_	_
+32-11	_	,	_	_	_	_
+32-12	_	said	_	_	_	_
+32-13	_	,	_	_	_	_
+32-14	_	"	_	_	_	_
+32-15	_	A	_	_	_	_
+32-16	_	woman	_	_	_	_
+32-17	_	who	_	_	_	_
+32-18	_	has	_	_	_	_
+32-19	_	also	_	_	_	_
+32-20	_	been	_	_	_	_
+32-21	_	the	_	_	_	_
+32-22	_	victim	_	_	_	_
+32-23	_	of	_	_	_	_
+32-24	_	scandal	_	_	_	_
+32-25	_	after	_	_	_	_
+32-26	_	pleading	_	_	_	_
+32-27	_	for	_	_	_	_
+32-28	_	help	_	_	_	_
+32-29	_	in	_	_	_	_
+32-30	_	destroying	_	_	_	_
+32-31	_	a	_	_	_	_
+32-32	_	satellite	_	_	_	_
+32-33	_	by	_	_	_	_
+32-34	_	stealing	_	_	_	_
+32-35	_	in	_	_	_	_
+32-36	_	a	_	_	_	_
+32-37	_	car	_	_	_	_
+32-38	_	.	_	_	_	_
+
+#Text=I think we have learned a lot from today 's game .
+33-1	_	I	abstract[89]	new[89]	coref	35-6[89_90]
+33-2	_	think	_	_	_	_
+33-3	_	we	abstract[92]	new[92]	coref	36-1[92_93]
+33-4	_	have	_	_	_	_
+33-5	_	learned	_	_	_	_
+33-6	_	a	_	_	_	_
+33-7	_	lot	_	_	_	_
+33-8	_	from	_	_	_	_
+33-9	_	today	abstract[38]|abstract[95]	new[38]|new[95]	coref|coref	34-1[38_39]|36-11[95_96]
+33-10	_	's	abstract[38]|abstract[95]	new[38]|new[95]	_	_
+33-11	_	game	abstract[95]	new[95]	_	_
+33-12	_	.	_	_	_	_
+
+#Text=It was a very emotional day .
+34-1	_	It	abstract[39]	new[39]	coref	38-6[39_40]
+34-2	_	was	_	_	_	_
+34-3	_	a	_	_	_	_
+34-4	_	very	_	_	_	_
+34-5	_	emotional	_	_	_	_
+34-6	_	day	_	_	_	_
+34-7	_	.	_	_	_	_
+
+#Text=This is the fifth time I 've been at a World Cup but it felt like the first .
+35-1	_	This	_	_	_	_
+35-2	_	is	_	_	_	_
+35-3	_	the	_	_	_	_
+35-4	_	fifth	_	_	_	_
+35-5	_	time	_	_	_	_
+35-6	_	I	abstract[90]	new[90]	_	_
+35-7	_	've	_	_	_	_
+35-8	_	been	_	_	_	_
+35-9	_	at	_	_	_	_
+35-10	_	a	_	_	_	_
+35-11	_	World	_	_	_	_
+35-12	_	Cup	_	_	_	_
+35-13	_	but	_	_	_	_
+35-14	_	it	_	_	_	_
+35-15	_	felt	_	_	_	_
+35-16	_	like	_	_	_	_
+35-17	_	the	_	_	_	_
+35-18	_	first	_	_	_	_
+35-19	_	.	_	_	_	_
+
+#Text=The team was still very emotional at the start of the match but as time went by , they were able to focus better . "
+36-1	_	The	abstract[93]	new[93]	coref	36-19[93_94]
+36-2	_	team	abstract[93]	new[93]	_	_
+36-3	_	was	_	_	_	_
+36-4	_	still	_	_	_	_
+36-5	_	very	_	_	_	_
+36-6	_	emotional	_	_	_	_
+36-7	_	at	_	_	_	_
+36-8	_	the	_	_	_	_
+36-9	_	start	_	_	_	_
+36-10	_	of	_	_	_	_
+36-11	_	the	abstract[96]	new[96]	_	_
+36-12	_	match	abstract[96]	new[96]	_	_
+36-13	_	but	_	_	_	_
+36-14	_	as	_	_	_	_
+36-15	_	time	_	_	_	_
+36-16	_	went	_	_	_	_
+36-17	_	by	_	_	_	_
+36-18	_	,	_	_	_	_
+36-19	_	they	abstract[94]	new[94]	_	_
+36-20	_	were	_	_	_	_
+36-21	_	able	_	_	_	_
+36-22	_	to	_	_	_	_
+36-23	_	focus	_	_	_	_
+36-24	_	better	_	_	_	_
+36-25	_	.	_	_	_	_
+36-26	_	"	_	_	_	_
+
+#Text=Group G — Tunisia 1 – 2 England
+37-1	_	Group	abstract[65]	new[65]	_	_
+37-2	_	G	abstract[65]	new[65]	_	_
+37-3	_	—	_	_	_	_
+37-4	_	Tunisia	abstract[98]	new[98]	coref	38-9[98_99]
+37-5	_	1	_	_	_	_
+37-6	_	–	_	_	_	_
+37-7	_	2	_	_	_	_
+37-8	_	England	abstract[26]	new[26]	coref	38-11[26_27]
+
+#Text=In the last match of the day , Tunisia faced England at the Volgograd Arena .
+38-1	_	In	_	_	_	_
+38-2	_	the	abstract[103]	new[103]	coref	39-7[103_104]
+38-3	_	last	abstract[103]	new[103]	_	_
+38-4	_	match	abstract[103]	new[103]	_	_
+38-5	_	of	abstract[103]	new[103]	_	_
+38-6	_	the	abstract[40]|abstract[103]	new[40]|new[103]	_	_
+38-7	_	day	abstract[40]|abstract[103]	new[40]|new[103]	_	_
+38-8	_	,	_	_	_	_
+38-9	_	Tunisia	abstract[99]	new[99]	coref	42-5[99_100]
+38-10	_	faced	_	_	_	_
+38-11	_	England	abstract[27]	new[27]	coref	39-1[27_28]
+38-12	_	at	_	_	_	_
+38-13	_	the	_	_	_	_
+38-14	_	Volgograd	_	_	_	_
+38-15	_	Arena	_	_	_	_
+38-16	_	.	_	_	_	_
+
+#Text=England had better ball possession in the game .
+39-1	_	England	abstract[28]	new[28]	coref	40-1[28_29]
+39-2	_	had	_	_	_	_
+39-3	_	better	_	_	_	_
+39-4	_	ball	_	_	_	_
+39-5	_	possession	_	_	_	_
+39-6	_	in	_	_	_	_
+39-7	_	the	abstract[104]	new[104]	coref	40-3[104_105]
+39-8	_	game	abstract[104]	new[104]	_	_
+39-9	_	.	_	_	_	_
+
+#Text=England started the match with attacking style , with attempts from Jesse Lingard , Harry Maguire , Harry Kane , and John Stones early in the game .
+40-1	_	England	abstract[29]	new[29]	coref	41-2[29_30]
+40-2	_	started	_	_	_	_
+40-3	_	the	abstract[105]	new[105]	coref	40-26[105_106]
+40-4	_	match	abstract[105]	new[105]	_	_
+40-5	_	with	_	_	_	_
+40-6	_	attacking	_	_	_	_
+40-7	_	style	_	_	_	_
+40-8	_	,	_	_	_	_
+40-9	_	with	_	_	_	_
+40-10	_	attempts	_	_	_	_
+40-11	_	from	_	_	_	_
+40-12	_	Jesse	_	_	_	_
+40-13	_	Lingard	_	_	_	_
+40-14	_	,	_	_	_	_
+40-15	_	Harry	_	_	_	_
+40-16	_	Maguire	_	_	_	_
+40-17	_	,	_	_	_	_
+40-18	_	Harry	abstract[107]	new[107]	coref	41-8[107_108]
+40-19	_	Kane	abstract[107]	new[107]	_	_
+40-20	_	,	_	_	_	_
+40-21	_	and	_	_	_	_
+40-22	_	John	_	_	_	_
+40-23	_	Stones	_	_	_	_
+40-24	_	early	_	_	_	_
+40-25	_	in	_	_	_	_
+40-26	_	the	abstract[106]	new[106]	_	_
+40-27	_	game	abstract[106]	new[106]	_	_
+40-28	_	.	_	_	_	_
+
+#Text=Then England opened the scoring , when Harry Kane scored a close - ranged shot .
+41-1	_	Then	_	_	_	_
+41-2	_	England	abstract[30]	new[30]	_	_
+41-3	_	opened	_	_	_	_
+41-4	_	the	_	_	_	_
+41-5	_	scoring	_	_	_	_
+41-6	_	,	_	_	_	_
+41-7	_	when	_	_	_	_
+41-8	_	Harry	abstract[108]	new[108]	coref	47-6[108_109]
+41-9	_	Kane	abstract[108]	new[108]	_	_
+41-10	_	scored	_	_	_	_
+41-11	_	a	_	_	_	_
+41-12	_	close	_	_	_	_
+41-13	_	-	_	_	_	_
+41-14	_	ranged	_	_	_	_
+41-15	_	shot	_	_	_	_
+41-16	_	.	_	_	_	_
+
+#Text=Four minutes later , Tunisia 's goalkeeper Mouez Hassen was substituted off due to injury and replaced by Farouk Ben Mustapha .
+42-1	_	Four	_	_	_	_
+42-2	_	minutes	_	_	_	_
+42-3	_	later	_	_	_	_
+42-4	_	,	_	_	_	_
+42-5	_	Tunisia	abstract[100]	new[100]	coref	43-1[100_101]
+42-6	_	's	abstract[100]	new[100]	_	_
+42-7	_	goalkeeper	_	_	_	_
+42-8	_	Mouez	_	_	_	_
+42-9	_	Hassen	_	_	_	_
+42-10	_	was	_	_	_	_
+42-11	_	substituted	_	_	_	_
+42-12	_	off	_	_	_	_
+42-13	_	due	_	_	_	_
+42-14	_	to	_	_	_	_
+42-15	_	injury	_	_	_	_
+42-16	_	and	_	_	_	_
+42-17	_	replaced	_	_	_	_
+42-18	_	by	_	_	_	_
+42-19	_	Farouk	_	_	_	_
+42-20	_	Ben	_	_	_	_
+42-21	_	Mustapha	_	_	_	_
+42-22	_	.	_	_	_	_
+
+#Text=Tunisia won a penalty kick in the 33rd minute .
+43-1	_	Tunisia	abstract[101]	new[101]	coref	44-23[101_102]
+43-2	_	won	_	_	_	_
+43-3	_	a	_	_	_	_
+43-4	_	penalty	_	_	_	_
+43-5	_	kick	_	_	_	_
+43-6	_	in	_	_	_	_
+43-7	_	the	_	_	_	_
+43-8	_	33rd	_	_	_	_
+43-9	_	minute	_	_	_	_
+43-10	_	.	_	_	_	_
+
+#Text=English defender Kyle Walker was booked for his bad foul , and Ferjani Sassi scored from the penalty spot , equalising for the African side .
+44-1	_	English	abstract[113]	new[113]	coref	44-8[113_114]
+44-2	_	defender	abstract[113]	new[113]	_	_
+44-3	_	Kyle	abstract[113]	new[113]	_	_
+44-4	_	Walker	abstract[113]	new[113]	_	_
+44-5	_	was	_	_	_	_
+44-6	_	booked	_	_	_	_
+44-7	_	for	_	_	_	_
+44-8	_	his	abstract[114]	new[114]	_	_
+44-9	_	bad	_	_	_	_
+44-10	_	foul	_	_	_	_
+44-11	_	,	_	_	_	_
+44-12	_	and	_	_	_	_
+44-13	_	Ferjani	_	_	_	_
+44-14	_	Sassi	_	_	_	_
+44-15	_	scored	_	_	_	_
+44-16	_	from	_	_	_	_
+44-17	_	the	_	_	_	_
+44-18	_	penalty	_	_	_	_
+44-19	_	spot	_	_	_	_
+44-20	_	,	_	_	_	_
+44-21	_	equalising	_	_	_	_
+44-22	_	for	_	_	_	_
+44-23	_	the	abstract[102]	new[102]	_	_
+44-24	_	African	abstract[102]	new[102]	_	_
+44-25	_	side	abstract[102]	new[102]	_	_
+44-26	_	.	_	_	_	_
+
+#Text=The first half ended 1 – 1 on the scoreboard .
+45-1	_	The	abstract[122]	new[122]	coref	50-6[122_123]
+45-2	_	first	abstract[122]	new[122]	_	_
+45-3	_	half	abstract[122]	new[122]	_	_
+45-4	_	ended	_	_	_	_
+45-5	_	1	_	_	_	_
+45-6	_	–	_	_	_	_
+45-7	_	1	_	_	_	_
+45-8	_	on	_	_	_	_
+45-9	_	the	_	_	_	_
+45-10	_	scoreboard	_	_	_	_
+45-11	_	.	_	_	_	_
+
+#Text=In the second half , both sides had attempts for goals , but none crossing the goal line .
+46-1	_	In	_	_	_	_
+46-2	_	the	_	_	_	_
+46-3	_	second	_	_	_	_
+46-4	_	half	_	_	_	_
+46-5	_	,	_	_	_	_
+46-6	_	both	_	_	_	_
+46-7	_	sides	_	_	_	_
+46-8	_	had	_	_	_	_
+46-9	_	attempts	_	_	_	_
+46-10	_	for	_	_	_	_
+46-11	_	goals	_	_	_	_
+46-12	_	,	_	_	_	_
+46-13	_	but	_	_	_	_
+46-14	_	none	_	_	_	_
+46-15	_	crossing	_	_	_	_
+46-16	_	the	_	_	_	_
+46-17	_	goal	_	_	_	_
+46-18	_	line	_	_	_	_
+46-19	_	.	_	_	_	_
+
+#Text=In the injury time , English captain Harry Kane scored a second goal as England won a corner kick .
+47-1	_	In	_	_	_	_
+47-2	_	the	_	_	_	_
+47-3	_	injury	_	_	_	_
+47-4	_	time	_	_	_	_
+47-5	_	,	_	_	_	_
+47-6	_	English	abstract[109]	new[109]	coref	49-1[109_110]
+47-7	_	captain	abstract[109]	new[109]	_	_
+47-8	_	Harry	abstract[109]	new[109]	_	_
+47-9	_	Kane	abstract[109]	new[109]	_	_
+47-10	_	scored	_	_	_	_
+47-11	_	a	_	_	_	_
+47-12	_	second	_	_	_	_
+47-13	_	goal	_	_	_	_
+47-14	_	as	_	_	_	_
+47-15	_	England	abstract[115]	new[115]	coref	48-7[115_116]
+47-16	_	won	_	_	_	_
+47-17	_	a	_	_	_	_
+47-18	_	corner	_	_	_	_
+47-19	_	kick	_	_	_	_
+47-20	_	.	_	_	_	_
+
+#Text=The match came to end with England winning 2 – 1 and collecting three points .
+48-1	_	The	abstract[118]	new[118]	coref	49-8[118_119]
+48-2	_	match	abstract[118]	new[118]	_	_
+48-3	_	came	_	_	_	_
+48-4	_	to	_	_	_	_
+48-5	_	end	_	_	_	_
+48-6	_	with	_	_	_	_
+48-7	_	England	abstract[116]	new[116]	coref	51-1[116_117]
+48-8	_	winning	_	_	_	_
+48-9	_	2	_	_	_	_
+48-10	_	–	_	_	_	_
+48-11	_	1	_	_	_	_
+48-12	_	and	_	_	_	_
+48-13	_	collecting	_	_	_	_
+48-14	_	three	_	_	_	_
+48-15	_	points	_	_	_	_
+48-16	_	.	_	_	_	_
+
+#Text=Harry Kane won the Budweiser Man of the Match award .
+49-1	_	Harry	abstract[110]	new[110]	coref	49-6[110_111]
+49-2	_	Kane	abstract[110]	new[110]	_	_
+49-3	_	won	_	_	_	_
+49-4	_	the	_	_	_	_
+49-5	_	Budweiser	abstract[84]	new[84]	_	_
+49-6	_	Man	abstract[111]	new[111]	coref	50-1[111_112]
+49-7	_	of	abstract[111]	new[111]	_	_
+49-8	_	the	abstract[111]|abstract[119]	new[111]|new[119]	coref	51-15[119_120]
+49-9	_	Match	abstract[111]|abstract[119]	new[111]|new[119]	_	_
+49-10	_	award	_	_	_	_
+49-11	_	.	_	_	_	_
+
+#Text=He said , " In the first half it felt good out there .
+50-1	_	He	abstract[112]	new[112]	_	_
+50-2	_	said	_	_	_	_
+50-3	_	,	_	_	_	_
+50-4	_	"	_	_	_	_
+50-5	_	In	_	_	_	_
+50-6	_	the	abstract[123]	new[123]	coref	51-10[123_124]
+50-7	_	first	abstract[123]	new[123]	_	_
+50-8	_	half	abstract[123]	new[123]	_	_
+50-9	_	it	_	_	_	_
+50-10	_	felt	_	_	_	_
+50-11	_	good	_	_	_	_
+50-12	_	out	_	_	_	_
+50-13	_	there	_	_	_	_
+50-14	_	.	_	_	_	_
+
+#Text=We could 've scored two or three goals in the first half and put the game to bed early . "
+51-1	_	We	abstract[117]	new[117]	_	_
+51-2	_	could	_	_	_	_
+51-3	_	've	_	_	_	_
+51-4	_	scored	_	_	_	_
+51-5	_	two	_	_	_	_
+51-6	_	or	_	_	_	_
+51-7	_	three	_	_	_	_
+51-8	_	goals	_	_	_	_
+51-9	_	in	_	_	_	_
+51-10	_	the	abstract[124]	new[124]	_	_
+51-11	_	first	abstract[124]	new[124]	_	_
+51-12	_	half	abstract[124]	new[124]	_	_
+51-13	_	and	_	_	_	_
+51-14	_	put	_	_	_	_
+51-15	_	the	abstract[120]	new[120]	coref	52-3[120_121]
+51-16	_	game	abstract[120]	new[120]	_	_
+51-17	_	to	_	_	_	_
+51-18	_	bed	_	_	_	_
+51-19	_	early	_	_	_	_
+51-20	_	.	_	_	_	_
+51-21	_	"	_	_	_	_
+
+#Text=After the match , Tunisia 's coach Nabil Maaloul said , " We were playing against a highly - skilled and highly co-ordinated team in terms of their forward players .
+52-1	_	After	_	_	_	_
+52-2	_	the	abstract[121]	new[121]	_	_
+52-3	_	match	abstract[121]	new[121]	_	_
+52-4	_	,	_	_	_	_
+52-5	_	Tunisia	abstract[125]	new[125]	coref	52-14[125_126]
+52-6	_	's	abstract[125]	new[125]	_	_
+52-7	_	coach	_	_	_	_
+52-8	_	Nabil	_	_	_	_
+52-9	_	Maaloul	_	_	_	_
+52-10	_	said	_	_	_	_
+52-11	_	,	_	_	_	_
+52-12	_	"	_	_	_	_
+52-13	_	We	abstract[126]	new[126]	coref	53-2[126_127]
+52-14	_	were	_	_	_	_
+52-15	_	playing	_	_	_	_
+52-16	_	against	_	_	_	_
+52-17	_	a	abstract[129]	new[129]	coref	52-29[129_130]
+52-18	_	highly	abstract[129]	new[129]	_	_
+52-19	_	-	abstract[129]	new[129]	_	_
+52-20	_	skilled	abstract[129]	new[129]	_	_
+52-21	_	and	abstract[129]	new[129]	_	_
+52-22	_	highly	abstract[129]	new[129]	_	_
+52-23	_	co-ordinated	abstract[129]	new[129]	_	_
+52-24	_	team	abstract[129]	new[129]	_	_
+52-25	_	in	_	_	_	_
+52-26	_	terms	_	_	_	_
+52-27	_	of	_	_	_	_
+52-28	_	their	abstract[130]	new[130]	_	_
+52-29	_	forward	_	_	_	_
+52-30	_	players	_	_	_	_
+52-31	_	.	_	_	_	_
+
+#Text=If we were to get a draw it would have been an excellent result for us .
+53-1	_	If	_	_	_	_
+53-2	_	we	abstract[127]	new[127]	coref	53-16[127_128]
+53-3	_	were	_	_	_	_
+53-4	_	to	_	_	_	_
+53-5	_	get	_	_	_	_
+53-6	_	a	abstract[131]	new[131]	coref	53-8[131_132]
+53-7	_	draw	abstract[131]	new[131]	_	_
+53-8	_	it	abstract[132]	new[132]	_	_
+53-9	_	would	_	_	_	_
+53-10	_	have	_	_	_	_
+53-11	_	been	_	_	_	_
+53-12	_	an	_	_	_	_
+53-13	_	excellent	_	_	_	_
+53-14	_	result	_	_	_	_
+53-15	_	for	_	_	_	_
+53-16	_	us	abstract[128]	new[128]	_	_
+53-17	_	.	_	_	_	_
+
+#Text=But hopefully this will lead to higher levels of concentration in the coming games . "
+54-1	_	But	_	_	_	_
+54-2	_	hopefully	_	_	_	_
+54-3	_	this	_	_	_	_
+54-4	_	will	_	_	_	_
+54-5	_	lead	_	_	_	_
+54-6	_	to	_	_	_	_
+54-7	_	higher	_	_	_	_
+54-8	_	levels	_	_	_	_
+54-9	_	of	_	_	_	_
+54-10	_	concentration	_	_	_	_
+54-11	_	in	_	_	_	_
+54-12	_	the	_	_	_	_
+54-13	_	coming	_	_	_	_
+54-14	_	games	_	_	_	_
+54-15	_	.	_	_	_	_
+54-16	_	"	_	_	_	_
+

@@ -1,0 +1,1243 @@
+<text id="GUM_interview_chomsky" partition="train" type="interview" sourceURL="https://en.wikinews.org/wiki/Interview_with_US_political_activist_and_philosopher_Noam_Chomsky" dateCreated="2009-04-04" dateCollected="2016-09-19" dateModified="2014-03-07" speakerCount="2" speakerList="#MichaelDranove, #NoamChomsky" author="Wikinews" title="Interview with US political activist and philosopher Noam Chomsky" shortTitle="chomsky" summary="Michael Dranove interviews political activist, linguist and philosopher Noam Chomsky about the background of protests against the 60th NATO conference, as well as the revival of leftwing labor actions such as mass strikes in the US and around the world.">
+<head rend="bold">
+<s type="frag" transition="establishment">
+Interview	NN	interview	NN1	NOUN	root	_
+with	IN	with	PRP	ADP	case	_
+US	NP	US	NP0	PROPN	compound	_
+political	JJ	political	AJ0	ADJ	amod	politic-al
+activist	NN	activist	NN1	NOUN	compound	activ-ist
+and	CC	and	CJC	CCONJ	cc	_
+philosopher	NN	philosopher	NN1	NOUN	conj	philosoph-er
+Noam	NP	Noam	NP0	PROPN	nmod	_
+Chomsky	NP	Chomsky	NP0	PROPN	flat	_
+</s>
+</head>
+<p>
+<s type="frag" transition="null">
+<date when="2009-04-04" rend="bold">
+Saturday	NP	Saturday	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+April	NP	April	NP0	PROPN	compound	_
+4	CD	4	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2009	CD	2009	CRD	NUM	nmod:tmod	_
+</date>
+</s>
+</p>
+<figure rend="A picture of Noam Chomsky">
+<caption>
+<s type="frag" transition="null">
+Political	JJ	political	AJ0	ADJ	amod	Politic-al
+activist	NN	activist	NN1	NOUN	compound	activ-ist
+and	CC	and	CJC	CCONJ	cc	_
+philosopher	NN	philosopher	NN1	NOUN	conj	philosoph-er
+Noam	NP	Noam	NP0	PROPN	root	_
+Chomsky	NP	Chomsky	NP0	PROPN	flat	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="establishment">
+Noam	NP	Noam	NP0	PROPN	nsubj	_
+Chomsky	NP	Chomsky	NP0	PROPN	flat	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+professor	NN	professor	NN1	NOUN	root	profess-or
+emeritus	JJ	emeritus	AJ0	ADJ	amod	_
+at	IN	at	PRP	ADP	case	_
+Massachusetts	NP	Massachusetts	NP0	PROPN	compound	Massachusetts
+Institute	NP	Institute	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Technology	NP	Technology	NP0	PROPN	nmod	Techno-logy
+in	IN	in	PRP	ADP	case	_
+Linguistics	NN	linguistics	NN1	NOUN	nmod	Linguist-ic-s
+and	CC	and	CJC	CCONJ	cc	_
+Philosophy	NN	philosophy	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+At	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+age	NN	age	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+40	CD	40	CRD	NUM	nmod	_
+he	PP	he	PNP	PRON	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+credited	VVN	credit	VVN	VERB	root	credit-ed
+with	IN	with	PRP	SCONJ	mark	_
+revolutionizing	VVG	revolutionize	VVG	VERB	advcl	revolution-iz-ing
+the	DT	the	AT0	DET	det	_
+field	NN	field	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+modern	JJ	modern	AJ0	ADJ	amod	_
+linguistics	NN	linguistics	NN1	NOUN	nmod	linguist-ic-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+He	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+one	CD	one	CRD	NUM	root	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+opponents	NNS	opponent	NN2	NOUN	nmod	opponent-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Vietnam	NP	Vietnam	NP0	PROPN	compound	_
+War	NP	War	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+<w>
+self	NN	self	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+described	VVN	describe	VVN	VERB	amod	describ-ed
+</w>
+Libertarian	JJ	Libertarian	AJ0	ADJ	amod	Libert-arian
+Socialist	NN	socialist	NN1	NOUN	conj	Social-ist
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+At	IN	at	PRP	ADP	case	_
+age	NN	age	NN1	NOUN	obl	_
+80	CD	80	CRD	NUM	nummod	_
+he	PP	he	PNP	PRON	nsubj	_
+continues	VVZ	continue	VVZ	VERB	root	continue-s
+to	TO	to	TO0	PART	mark	_
+write	VV	write	VVI	VERB	xcomp	_
+books	NNS	book	NN2	NOUN	obj	book-s
+;	:	;	PUN	PUNCT	punct	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+latest	JJS	late	AJS	ADJ	amod	lat-est
+book	NN	book	NN1	NOUN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+Hegemony	NP	Hegemony	NP0	PROPN	appos	Hegemon-y
+or	CC	or	CJC	CCONJ	cc	_
+Survival	NP	Survival	NP0	PROPN	conj	Surviv-al
+,	,	,	PUN	PUNCT	punct	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+bestseller	NN	bestseller	NN1	NOUN	parataxis	_
+in	IN	in	PRP	ADP	case	_
+non-fiction	NN	non-fiction	NN1	NOUN	nmod	non-fiction
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+According	VVG	accord	VVG	VERB	case	Accord-ing
+to	IN	to	PRP	ADP	fixed	_
+the	DT	the	AT0	DET	det	_
+Arts	NPS	Art	NP0	PROPN	compound	Art-s
+and	CC	and	CJC	CCONJ	cc	_
+Humanities	NPS	Humanity	NP0	PROPN	conj	Human-itie-s
+Citation	NP	Citation	NP0	PROPN	compound	Cit-ation
+Index	NP	Index	NP0	PROPN	nmod	_
+Professor	NP	Professor	NP0	PROPN	nsubj	Profess-or
+Chomsky	NP	Chomsky	NP0	PROPN	flat	_
+is	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+eighth	RB	eighth	ORD	ADV	advmod	eigh-th
+most	RBS	most	AV0	ADV	advmod	_
+cited	VVN	cite	VVN	VERB	amod	cit-ed
+scholar	NN	scholar	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+all	DT	all	DT0	DET	det	_
+time	NN	time	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+On	IN	on	PRP	ADP	case	_
+<date when="-2009-03-13">
+March	NP	March	NP0	PROPN	compound	_
+13	CD	13	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Professor	NP	Professor	NP0	PROPN	nsubj	Profess-or
+Chomsky	NP	Chomsky	NP0	PROPN	flat	_
+sat	VVD	sit	VVD	VERB	root	_
+down	RP	down	AVP	ADP	compound:prt	_
+with	IN	with	PRP	ADP	case	_
+Michael	NP	Michael	NP0	PROPN	obl	_
+Dranove	NP	Dranove	NP0	PROPN	flat	_
+for	IN	for	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+interview	NN	interview	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+MIT	NP	MIT	NP0	PROPN	compound	_
+office	NN	office	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+Cambridge	NP	Cambridge	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Massachusetts	NP	Massachusetts	NP0	PROPN	appos	Massachusetts
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="A picture of Noam Chomsky linked to a video of a segment of the interview">
+<caption>
+<s type="frag" transition="zero">
+On	IN	on	PRP	ADP	case	_
+NATO	NP	NATO	NP0	PROPN	root	_
+</s>
+</caption>
+</figure>
+<sp who="#MichaelDranove">
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+wanted	VVD	want	VVD	VERB	root	want-ed
+to	TO	to	TO0	PART	mark	_
+know	VV	know	VVI	VERB	xcomp	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	ccomp	_
+any	DT	any	DT0	DET	det	_
+thoughts	NNS	thought	NN2	NOUN	obj	thought-s
+on	IN	on	PRP	ADP	case	_
+recent	JJ	recent	AJ0	ADJ	amod	_
+NATO	NP	NATO	NP0	PROPN	compound	_
+actions	NNS	action	NN2	NOUN	nmod	act-ion-s
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+protests	NNS	protest	NN2	NOUN	conj	protest-s
+coming	VVG	come	VVG	VERB	acl	com-ing
+up	RP	up	AVP	ADP	compound:prt	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+60th	JJ	100th	ORD	ADJ	amod	_
+NATO	NP	NATO	NP0	PROPN	compound	_
+conference	NN	conference	NN1	NOUN	obl	confer-ence
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	parataxis	_
+you	PP	you	PNP	PRON	nsubj	_
+’re	VBP	be	AJ0	AUX	aux	_
+speaking	VVG	speak	VVG	VERB	ccomp	speak-ing
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+counter-conference	NN	counter-conference	NN1	NOUN	obl	counter-conference
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#NoamChomsky">
+<s type="other" transition="smooth-shift">
+Could	MD	could	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	root	_
+I	PP	I	PNP	PRON	nsubj	_
+give	VVP	give	VVB	VERB	parataxis	_
+so	RB	so	AV0	ADV	advmod	_
+many	JJ	many	DT0	ADJ	amod	_
+talks	NNS	talk	NN2	NOUN	obj	talk-s
+I	PP	I	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+remember	VV	remember	VVB	VERB	advcl	_
+<incident who="#NoamChomsky" type="laugh">
+.	SENT	.	PUN	PUNCT	punct	_
+</incident>
+</s>
+<s type="decl" transition="continue">
+On	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+NATO	NP	NATO	NP0	PROPN	compound	_
+conference	NN	conference	NN1	NOUN	nmod	confer-ence
+,	,	,	PUN	PUNCT	punct	_
+well	UH	well	ITJ	INTJ	discourse	_
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+the	DT	the	AT0	DET	det	_
+obvious	JJ	obvious	AJ0	ADJ	amod	_
+question	NN	question	NN1	NOUN	nsubj:outer	_
+is	VBZ	be	VBZ	AUX	cop	_
+why	WRB	why	AVQ	ADV	advmod	_
+should	MD	should	VM0	AUX	aux	_
+NATO	NP	NATO	NP0	PROPN	nsubj	_
+exist	VV	exist	VVB	VERB	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="smooth-shift">
+In	IN	in	PRP	ADP	case	_
+fact	NN	fact	NN1	NOUN	obl	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+ask	VV	ask	VVI	VERB	root	_
+questions	NNS	question	NN2	NOUN	obj	question-s
+about	IN	about	PRP	ADP	case	_
+why	WRB	why	AVQ	ADV	obl	_
+it	PP	it	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+ever	RB	ever	AV0	ADV	advmod	_
+have	VH	have	VHI	AUX	aux	_
+existed	VVN	exist	VVN	VERB	advcl:relcl	exist-ed
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+now	RB	now	AV0	ADV	advmod	_
+why	WRB	why	AVQ	ADV	advmod	_
+should	MD	should	VM0	AUX	aux	_
+it	PP	it	PNP	PRON	nsubj	_
+exist	VV	exist	VVI	VERB	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+the	DT	the	AT0	DET	det	_
+theory	NN	theory	NN1	NOUN	nsubj:outer	_
+was	VBD	be	VBD	AUX	cop	_
+,	,	,	PUN	PUNCT	punct	_
+whether	IN	whether	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+believe	VVP	believe	VVB	VERB	advcl	_
+it	PP	it	PNP	PRON	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	conj	_
+,	,	,	PUN	PUNCT	punct	_
+that	IN/that	that	CJT	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+defensive	JJ	defensive	AJ0	ADJ	amod	defens-ive
+alliance	NN	alliance	NN1	NOUN	root	alli-ance
+against	IN	against	PRP	ADP	case	a-gainst
+potential	JJ	potential	AJ0	ADJ	amod	potent-ial
+Soviet	JJ	Soviet	AJ0	ADJ	amod	_
+aggression	NN	aggression	NN1	NOUN	nmod	aggress-ion
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+basic	JJ	basic	AJ0	ADJ	amod	bas-ic
+doctrine	NN	doctrine	NN1	NOUN	parataxis	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Well	UH	well	ITJ	INTJ	discourse	_
+there	EX	there	EX0	PRON	expl	_
+’s	VBZ	be	VVZ	VERB	root	_
+no	DT	no	AT0	DET	det	_
+defense	NN	defense	NN1	NOUN	nsubj	_
+against	IN	against	PRP	ADP	case	a-gainst
+Soviet	JJ	Soviet	AJ0	ADJ	amod	_
+aggression	NN	aggression	NN1	NOUN	nmod	aggress-ion
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+whether	IN	whether	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+believe	VVP	believe	VVB	VERB	advcl	_
+that	DT	that	DT0	DET	det	_
+doctrine	NN	doctrine	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	conj	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	NN2	AUX	cop	_
+gone	JJ	gone	AJ0	ADJ	parataxis	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+When	WRB	when	CJS	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+Soviet	NP	Soviet	NP0	PROPN	compound	_
+Union	NP	Union	NP0	PROPN	nsubj	_
+collapsed	VVD	collapse	VVD	VERB	advcl	collaps-ed
+there	EX	there	EX0	PRON	expl	_
+had	VHD	have	VHD	AUX	aux	_
+been	VBN	be	VBN	VERB	root	_
+an	DT	a	AT0	DET	det	_
+agreement	NN	agreement	NN1	NOUN	nsubj	agree-ment
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+recent	JJ	recent	AJ0	ADJ	amod	_
+agreement	NN	agreement	NN1	NOUN	appos	agree-ment
+,	,	,	PUN	PUNCT	punct	_
+between	IN	between	PRP	ADP	case	be-tween
+Gorbachev	NP	Gorbachev	NP0	PROPN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+U.S	NP	U.S	NP0	PROPN	compound	_
+government	NN	government	NN1	NOUN	conj	govern-ment
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+Bush	NP	Bush	NP0	PROPN	compound	_
+administration	NN	administration	NN1	NOUN	conj	administrat-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+agreement	NN	agreement	NN1	NOUN	nsubj:outer	agree-ment
+was	VBD	be	VBD	AUX	cop	_
+that	IN/that	that	CJT	SCONJ	mark	_
+Gorbachev	NP	Gorbachev	NP0	PROPN	nsubj	_
+agreed	VVD	agree	VVD	VERB	root	agre-ed
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+quite	RB	quite	AV0	ADV	advmod	_
+remarkable	JJ	remarkable	AJ0	ADJ	amod	re-mark-able
+concession	NN	concession	NN1	NOUN	obl	_
+:	:	:	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+agreed	VVD	agree	VVD	VERB	parataxis	agre-ed
+to	TO	to	TO0	PART	mark	_
+let	VV	let	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+united	VVN	unite	VVN	VERB	amod	unit-ed
+Germany	NP	Germany	NP0	PROPN	obj	German-y
+join	VV	join	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+NATO	NP	NATO	NP0	PROPN	compound	_
+military	JJ	military	AJ0	ADJ	amod	_
+alliance	NN	alliance	NN1	NOUN	obj	alli-ance
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Now	RB	now	AV0	ADV	discourse	_
+it	PP	it	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+remarkable	JJ	remarkable	AJ0	ADJ	root	re-mark-able
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+light	NN	light	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+history	NN	history	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+history	NN	history	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+<date from="1900-01-01" to="1999-12-31">
+the	DT	the	AT0	DET	det	_
+past	JJ	past	AJ0	ADJ	amod	_
+century	NN	century	NN1	NOUN	nmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Germany	NP	Germany	NP0	PROPN	nsubj	German-y
+alone	RB	alone	AV0	ADV	advmod	a-lone
+had	VHD	have	VHD	AUX	aux	_
+virtually	RB	virtually	AV0	ADV	advmod	virtual-ly
+destroyed	VVN	destroy	VVN	VERB	parataxis	destroy-ed
+Russia	NP	Russia	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+twice	RB	twice	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+Germany	NP	Germany	NP0	PROPN	dislocated	German-y
+backed	VVD	back	VVD	VERB	acl	back-ed
+by	IN	by	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+hostile	JJ	hostile	AJ0	ADJ	amod	_
+military	JJ	military	AJ0	ADJ	amod	_
+alliance	NN	alliance	NN1	NOUN	obl	alli-ance
+,	,	,	PUN	PUNCT	punct	_
+centered	VVN	center	VVN	VERB	acl	center-ed
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+most	RBS	most	AV0	ADV	advmod	_
+phenomenal	JJ	phenomenal	AJ0	ADJ	amod	phenomen-al
+military	JJ	military	AJ0	ADJ	amod	_
+power	NN	power	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+history	NN	history	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+real	JJ	real	AJ0	ADJ	amod	_
+threat	NN	threat	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Nevertheless	RB	nevertheless	AV0	ADV	advmod	Never-the-less
+he	PP	he	PNP	PRON	nsubj	_
+agreed	VVD	agree	VVD	VERB	root	agre-ed
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+there	EX	there	EX0	PRON	expl	_
+was	VBD	be	VBD	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+quid	FW	quid	NN0	X	nsubj	_
+pro	FW	pro	UNC	X	case	_
+quo	FW	quo	UNC	X	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+namely	RB	namely	AV0	ADV	advmod	name-ly
+that	IN/that	that	DT0	SCONJ	mark	_
+NATO	NP	NATO	NP0	PROPN	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+expand	VV	expand	VVI	VERB	acl	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+east	NN	east	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+so	IN	so	CJS	SCONJ	mark	_
+Russia	NP	Russia	NP0	PROPN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+at	IN	at	PRP	ADP	advmod	_
+least	JJS	least	AJS	ADJ	fixed	_
+have	VH	have	VHB	VERB	parataxis	_
+a	DT	a	AT0	DET	det	_
+kind	NN	kind	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+security	NN	security	NN1	NOUN	compound	secur-ity
+zone	NN	zone	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+And	CC	and	CJC	CCONJ	cc	_
+George	NP	George	NP0	PROPN	nsubj	_
+Bush	NP	Bush	NP0	PROPN	flat	_
+and	CC	and	CJC	CCONJ	cc	_
+James	NP	James	NP0	PROPN	conj	_
+Baker	NP	Baker	NP0	PROPN	flat	Bak-er
+,	,	,	PUN	PUNCT	punct	_
+secretary	NN	secretary	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+state	NN	state	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+agreed	VVD	agree	VVD	VERB	root	agre-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+NATO	NP	NATO	NP0	PROPN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+expand	VV	expand	VVI	VERB	ccomp	_
+one	CD	one	CRD	NUM	nummod	_
+inch	NN	inch	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+east	NN	east	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Gorbachev	NP	Gorbachev	NP0	PROPN	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+proposed	VVD	propose	VVD	VERB	root	propos-ed
+a	DT	a	AT0	DET	det	_
+nuclear	JJ	nuclear	AJ0	ADJ	compound	nucle-ar
+free	JJ	free	AJ0	ADJ	amod	_
+weapons	NNS	weapon	NN2	NOUN	compound	weapon-s
+zone	NN	zone	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+region	NN	region	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+U.S	NP	U.S	NP0	PROPN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+consider	VV	consider	VVB	VERB	conj	_
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Okay	UH	okay	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+that	DT	that	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+basis	NN	basis	NN1	NOUN	root	_
+on	IN	on	PRP	ADP	case	_
+which	WDT	which	DTQ	PRON	obl	_
+then	RB	then	AV0	ADV	advmod	_
+shortly	RB	shortly	AV0	ADV	advmod	short-ly
+after	IN	after	PRP	ADP	obl	_
+the	DT	the	AT0	DET	det	_
+Soviet	NP	Soviet	NP0	PROPN	compound	_
+Union	NP	Union	NP0	PROPN	nsubj	_
+collapsed	VVD	collapse	VVD	VERB	acl:relcl	collaps-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Well	UH	well	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+Clinton	NP	Clinton	NP0	PROPN	nsubj	_
+came	VVD	come	VVD	VERB	root	_
+into	IN	into	PRP	ADP	case	in-to
+office	NN	office	NN1	NOUN	obl	_
+what	WP	what	PNQ	PRON	obj	_
+did	VVD	do	VDD	AUX	aux	_
+he	PP	he	PNP	PRON	nsubj	_
+do	VV	do	VDI	VERB	parataxis	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Well	UH	well	ITJ	INTJ	discourse	_
+one	CD	one	CRD	NUM	nsubj:outer	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+things	NNS	thing	NN2	NOUN	nmod	thing-s
+he	PP	he	PNP	PRON	nsubj	_
+did	VVD	do	VDD	VERB	acl:relcl	_
+was	VBD	be	VBD	AUX	cop	_
+to	TO	to	TO0	PART	mark	_
+back	VV	back	VVI	VERB	root	_
+down	RP	down	AVP	ADP	compound:prt	_
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+promise	NN	promise	NN1	NOUN	obl	_
+of	IN	of	PRF	SCONJ	mark	_
+not	RB	not	XX0	PART	advmod	_
+expanding	VVG	expand	VVG	VERB	acl	expand-ing
+NATO	NP	NATO	NP0	PROPN	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+east	NN	east	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Well	UH	well	ITJ	INTJ	discourse	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	NN2	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+significant	JJ	significant	AJ0	ADJ	amod	signific-ant
+threat	NN	threat	NN1	NOUN	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Soviet	NP	Soviet	NP0	PROPN	compound	_
+Union	NP	Union	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+to	IN	to	PRP	ADP	case	_
+Russia	NP	Russia	NP0	PROPN	nmod	_
+now	RB	now	AV0	ADV	advmod	_
+that	IN/that	that	CJT	SCONJ	mark	_
+there	EX	there	EX0	PRON	expl	_
+was	VBD	be	VBD	VERB	advcl	_
+no	RB	no	PNI	ADV	advmod	_
+longer	RBR	long	AV0	ADV	advmod	long-er
+any	DT	any	DT0	DET	det	_
+Soviet	NP	Soviet	NP0	PROPN	compound	_
+Union	NP	Union	NP0	PROPN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+significant	JJ	significant	AJ0	ADJ	amod	signific-ant
+threat	NN	threat	NN1	NOUN	parataxis	_
+to	IN	to	PRP	ADP	case	_
+Russia	NP	Russia	NP0	PROPN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	advmod	_
+surprisingly	RB	surprisingly	AV0	ADV	advmod	surpris-ing-ly
+they	PP	they	PNP	PRON	nsubj	_
+responded	VVD	respond	VVD	VERB	conj	respond-ed
+by	IN	by	PRP	SCONJ	mark	_
+beefing	VVG	beef	VVG	VERB	advcl	beef-ing
+up	RP	up	AVP	ADP	compound:prt	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+offensive	JJ	offensive	AJ0	ADJ	amod	offens-ive
+capacity	NN	capacity	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+not	RB	not	XX0	PART	advmod	_
+much	RB	much	DT0	ADV	advmod	_
+but	CC	but	CJC	CCONJ	cc	_
+some	RB	some	DT0	ADV	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+So	RB	so	AV0	ADV	advmod	_
+they	PP	they	PNP	PRON	nsubj	_
+rescinded	VVD	rescind	VVD	VERB	root	rescind-ed
+their	PP$	their	DPS	PRON	nmod:poss	_
+pledge	NN	pledge	NN1	NOUN	obj	_
+not	RB	not	XX0	PART	advmod	_
+to	TO	to	TO0	PART	mark	_
+use	VV	use	VVI	VERB	acl	_
+nuclear	JJ	nuclear	AJ0	ADJ	amod	nucle-ar
+weapons	NNS	weapon	NN2	NOUN	obj	weapon-s
+on	IN	on	PRP	ADP	case	_
+first	JJ	first	ORD	ADJ	amod	_
+strike	NN	strike	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+NATO	NP	NATO	NP0	PROPN	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+never	RB	never	AV0	ADV	advmod	_
+rescinded	VVN	rescind	VVN	VERB	parataxis	rescind-ed
+it	PP	it	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+started	VVD	start	VVD	VERB	conj	start-ed
+some	DT	some	DT0	DET	det	_
+remilitarization	NN	remilitarization	NN1	NOUN	obj	re-militariz-ation
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+With	IN	with	PRP	ADP	case	_
+Bush	NP	Bush	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+aggressive	JJ	aggressive	AJ0	ADJ	amod	aggress-ive
+militarism	NN	militarism	NN1	NOUN	nsubj	militar-ism
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Bush	NP	Bush	NP0	PROPN	compound	_
+administration	NN	administration	NN1	NOUN	nmod	administrat-ion
+,	,	,	PUN	PUNCT	punct	_
+as	IN	as	CJS	SCONJ	mark	_
+predicted	VVN	predict	VVN	VERB	advcl	predict-ed
+,	,	,	PUN	PUNCT	punct	_
+induced	VVD	induce	VVD	VERB	root	induc-ed
+Russia	NP	Russia	NP0	PROPN	obj	_
+to	TO	to	TO0	PART	mark	_
+extend	VV	extend	VVI	VERB	xcomp	_
+further	RBR	far	AV0	ADV	advmod	furth-er
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+offensive	JJ	offensive	AJ0	ADJ	amod	offens-ive
+military	JJ	military	AJ0	ADJ	amod	_
+capacity	NN	capacity	NN1	NOUN	obj	_
+;	:	;	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	aux	_
+still	RB	still	AV0	ADV	advmod	_
+going	VVG	go	VVG	VERB	parataxis	go-ing
+on	RP	on	AVP	ADP	compound:prt	_
+right	RB	right	AV0	ADV	advmod	_
+now	RB	now	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+When	WRB	when	CJS	ADV	advmod	_
+Bush	NP	Bush	NP0	PROPN	nsubj	_
+proposed	VVD	propose	VVD	VERB	advcl	propos-ed
+the	DT	the	AT0	DET	det	_
+missile	NN	missile	NN1	NOUN	compound	_
+defense	NN	defense	NN1	NOUN	compound	_
+systems	NNS	system	NN2	NOUN	obj	system-s
+in	IN	in	PRP	ADP	case	_
+Eastern	NP	Eastern	NP0	ADJ	amod	_
+Europe	NP	Europe	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Poland	NP	Poland	NP0	PROPN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+Czechoslovakia	NP	Czechoslovakia	NP0	PROPN	conj	Czecho-slovakia
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+real	JJ	real	AJ0	ADJ	amod	_
+provocation	NN	provocation	NN1	NOUN	root	provoc-ation
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Soviet	NP	Soviet	NP0	PROPN	compound	_
+Union	NP	Union	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+that	DT	that	CJT	PRON	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+discussed	VVN	discuss	VVN	VERB	root	discuss-ed
+in	IN	in	PRP	ADP	case	_
+U.S	NP	U.S	NP0	PROPN	compound	_
+arms	NNS	arm	NN2	NOUN	compound	arm-s
+control	NN	control	NN1	NOUN	compound	_
+journals	NNS	journal	NN2	NOUN	obl	journal-s
+,	,	,	PUN	PUNCT	punct	_
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+have	VH	have	VHI	VERB	dislocated	_
+to	TO	to	TO0	PART	mark	_
+regard	VV	regard	VVI	VERB	xcomp	_
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+potential	JJ	potential	AJ0	ADJ	amod	potent-ial
+threat	NN	threat	NN1	NOUN	obl	_
+to	IN	to	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+strategic	JJ	strategic	AJ0	ADJ	amod	strateg-ic
+deterrent	NN	deterrent	NN1	NOUN	nmod	deterr-ent
+,	,	,	PUN	PUNCT	punct	_
+meaning	VVG	mean	VVG	VERB	advcl	mean-ing
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+strike	NN	strike	NN1	NOUN	compound	_
+weapon	NN	weapon	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="null">
+And	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+claim	NN	claim	NN1	NOUN	nsubj:outer	_
+was	VBD	be	VBD	AUX	cop	_
+that	IN/that	that	CJT	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	xcomp	_
+with	IN	with	PRP	ADP	case	_
+Iranian	JJ	Iranian	AJ0	ADJ	amod	Iran-ian
+missiles	NNS	missile	NN2	NOUN	obl	missile-s
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+forget	VV	forget	VVB	VERB	conj	for-get
+about	IN	about	PRP	ADP	case	_
+that	DT	that	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="null">
+Take	VV	take	VVB	VERB	root	_
+say	VV	say	VVB	VERB	discourse	_
+on	IN	on	PRP	ADP	case	_
+Obama	NP	Obama	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+Obama	NP	Obama	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+national	JJ	national	AJ0	ADJ	amod	nation-al
+security	NN	security	NN1	NOUN	compound	secur-ity
+advisor	NN	advisor	NN1	NOUN	nsubj	advis-or
+James	NP	James	NP0	PROPN	appos	_
+Jones	NP	Jones	NP0	PROPN	flat	_
+former	JJ	former	DT0	ADJ	amod	form-er
+Marine	NP	Marine	NP0	PROPN	compound	_
+commandant	NN	commandant	NN1	NOUN	appos	_
+is	VBZ	be	VBZ	AUX	cop	_
+on	IN	on	PRP	ADP	case	_
+record	NN	record	NN1	NOUN	parataxis	_
+of	IN	of	PRF	SCONJ	mark	_
+favoring	VVG	favor	VVG	VERB	acl	favor-ing
+expansion	NN	expansion	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+NATO	NP	NATO	NP0	PROPN	nmod	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+south	NN	south	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+east	NN	east	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+further	JJR	further	AJC	ADJ	amod	furth-er
+expansion	NN	expansion	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+NATO	NP	NATO	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+also	RB	also	AV0	ADV	advmod	_
+making	VVG	make	VVG	VERB	conj	mak-ing
+it	PP	it	PNP	PRON	obj	_
+an	DT	a	AT0	DET	det	_
+intervention	NN	intervention	NN1	NOUN	compound	interven-tion
+force	NN	force	NN1	NOUN	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+And	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+head	NN	head	NN1	NOUN	dep	_
+of	IN	of	PRF	ADP	case	_
+NATO	NP	NATO	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Hoop	NP	Hoop	NP0	PROPN	appos	_
+Scheffer	NP	Scheffer	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+explained	VVN	explain	VVN	VERB	root	explain-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+NATO	NP	NATO	NP0	PROPN	nsubj	_
+must	MD	must	VM0	AUX	aux	_
+take	VV	take	VVI	VERB	ccomp	_
+on	RP	on	AVP	ADP	compound:prt	_
+responsibility	NN	responsibility	NN1	NOUN	obj	responsibil-ity
+for	IN	for	PRP	SCONJ	mark	_
+ensuring	VVG	ensure	VVG	VERB	acl	en-sur-ing
+the	DT	the	AT0	DET	det	_
+security	NN	security	NN1	NOUN	obj	secur-ity
+of	IN	of	PRF	ADP	case	_
+pipelines	NNS	pipeline	NN2	NOUN	nmod	pipel-ine-s
+and	CC	and	CJC	CCONJ	cc	_
+sea	NN	sea	NN1	NOUN	compound	_
+lanes	NNS	lane	NN2	NOUN	conj	lane-s
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	PRON	advmod	_
+is	VBZ	be	VBZ	AUX	fixed	_
+NATO	NP	NATO	NP0	PROPN	nsubj	_
+must	MD	must	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+guarantor	NN	guarantor	NN1	NOUN	parataxis	guarant-or
+of	IN	of	PRF	ADP	case	_
+energy	NN	energy	NN1	NOUN	compound	_
+supplies	NNS	supply	NN2	NOUN	nmod	supp-lie-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+West	NP	West	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+Well	UH	well	ITJ	INTJ	discourse	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	AJ0	AUX	cop	_
+kind	NN	kind	NN1	NOUN	advmod	_
+of	IN	of	PRF	ADP	fixed	_
+an	DT	a	AT0	DET	det	_
+unending	JJ	unending	AJ0	ADJ	amod	un-end-ing
+war	NN	war	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+we	PP	we	PNP	PRON	nsubj	_
+want	VV	want	VVI	VERB	parataxis	_
+NATO	NP	NATO	NP0	PROPN	obj	_
+to	TO	to	TO0	PART	mark	_
+exist	VV	exist	VVI	VERB	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+do	VVP	do	VD	AUX	aux	_
+we	PP	we	PNP	PRON	nsubj	_
+want	VV	want	VVI	VERB	parataxis	_
+there	EX	there	AV0	PRON	expl	_
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+Western	JJ	Western	AJ0	ADJ	amod	_
+military	JJ	military	AJ0	ADJ	amod	_
+alliance	NN	alliance	NN1	NOUN	nsubj	alli-ance
+that	WDT	that	CJT	PRON	nsubj	_
+carries	VVZ	carry	VVZ	VERB	acl:relcl	carrie-s
+out	RP	out	AVP	ADP	compound:prt	_
+these	DT	this	DT0	DET	det	_
+activities	NNS	activity	NN2	NOUN	obj	act-iv-itie-s
+,	,	,	PUN	PUNCT	punct	_
+with	IN	with	PRP	ADP	case	_
+no	DT	no	AT0	DET	det	_
+pretense	NN	pretense	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+defense	NN	defense	NN1	NOUN	nmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+Well	UH	well	ITJ	INTJ	discourse	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+that	DT	that	CJT	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+pretty	RB	pretty	AJ0	ADV	advmod	_
+good	JJ	good	AJ0	ADJ	amod	_
+question	NN	question	NN1	NOUN	ccomp	_
+;	:	;	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+see	VV	see	VVB	VERB	parataxis	_
+why	WRB	why	AVQ	ADV	obj	_
+it	PP	it	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	advcl:relcl	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+there	EX	there	AV0	PRON	expl	_
+happens	VVZ	happen	VVZ	VERB	parataxis	happ-en-s
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	VERB	xcomp	_
+no	DT	no	AT0	DET	det	_
+other	JJ	other	AJ0	ADJ	amod	_
+military	JJ	military	AJ0	ADJ	amod	_
+alliance	NN	alliance	NN1	NOUN	nsubj	alli-ance
+remotely	RB	remotely	AV0	ADV	advmod	remote-ly
+comparable	JJ	comparable	AJ0	ADJ	amod	compar-able
+—	:	—	AJ0	PUNCT	punct	_
+if	IN	if	CJS	SCONJ	mark	_
+there	EX	there	EX0	PRON	expl	_
+happened	VVD	happen	VVD	VERB	advcl	happen-ed
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	VERB	xcomp	_
+one	CD	one	PNI	NUM	nsubj	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+’d	MD	would	AJ0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+opposed	VVN	oppose	VVN	VERB	parataxis	oppos-ed
+to	IN	to	PRP	ADP	case	_
+that	DT	that	DT0	PRON	obl	_
+too	RB	too	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+So	RB	so	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+question	NN	question	NN1	NOUN	nsubj:outer	_
+is	VBZ	be	VBZ	AUX	cop	_
+,	,	,	PUN	PUNCT	punct	_
+what	WP	what	PNQ	PRON	ccomp	_
+is	VBZ	be	VBZ	AUX	cop	_
+this	DT	this	DT0	PRON	nsubj	_
+all	RB	all	DT0	ADV	advmod	_
+about	RB	about	AV0	ADV	case	_
+,	,	,	PUN	PUNCT	punct	_
+why	WRB	why	AVQ	ADV	advmod	_
+should	MD	should	VM0	AUX	aux	_
+we	PP	we	PNP	PRON	nsubj	_
+even	RB	even	AV0	ADV	advmod	_
+be	VB	be	VBI	AUX	aux	_
+debating	VVG	debate	VVG	VERB	parataxis	debat-ing
+NATO	NP	NATO	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	VERB	parataxis	_
+there	EX	there	EX0	PRON	expl	_
+any	DT	any	DT0	DET	det	_
+reason	NN	reason	NN1	NOUN	nsubj	_
+why	WRB	why	AVQ	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+exist	VV	exist	VVI	VERB	acl:relcl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<figure rend="Picture of Noam Chomsky linked to a video of a segment of the interview">
+<caption>
+<s type="frag" transition="zero">
+Labor	NN	labor	NN1	NOUN	compound	_
+actions	NNS	action	NN2	NOUN	root	act-ion-s
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+revival	NN	revival	NN1	NOUN	nmod	reviv-al
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Left	NP	Left	NP0	PROPN	nmod	_
+</s>
+</caption>
+</figure>
+<sp who="#MichaelDranove">
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+’ve	VHP	have	AJ0	AUX	aux	_
+seen	VVN	see	VVN	VERB	root	see-n
+mass	JJ	mass	AJ0	ADJ	amod	_
+strikes	NNS	strike	NN2	NOUN	obj	strike-s
+all	RB	all	AV0	ADV	advmod	_
+around	IN	around	PRP	ADP	case	a-round
+the	DT	the	AT0	DET	det	_
+world	NN	world	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+countries	NNS	country	NN2	NOUN	nmod	countrie-s
+<sic ana="where">
+that	IN/that	that	CJT	SCONJ	mark	_
+</sic>
+we	PP	we	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+expect	VV	expect	VVI	VERB	acl:relcl	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="establishment">
+Do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VV	think	VVI	VERB	root	_
+this	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+revival	NN	revival	NN1	NOUN	ccomp	reviv-al
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Left	NP	Left	NP0	PROPN	nmod	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+West	NP	West	NP0	PROPN	nmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="smooth-shift">
+Or	CC	or	CJC	CCONJ	cc	_
+do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VV	think	VVI	VERB	root	_
+it	PP	it	PNP	PRON	nsubj	_
+’s	VBZ	be	AJ0	AUX	cop	_
+nothing	NN	nothing	NN1	PRON	ccomp	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#NoamChomsky">
+<s type="decl" transition="zero">
+It	PP	it	PNP	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+really	RB	really	AV0	ADV	advmod	real-ly
+hard	JJ	hard	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	mark	_
+tell	VV	tell	VVI	VERB	acl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+there	EX	there	AV0	PRON	expl	_
+’s	VBZ	be	AJ0	VERB	root	_
+certainly	RB	certainly	AV0	ADV	advmod	certain-ly
+signs	NNS	sign	NN2	NOUN	nsubj	sign-s
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	conj	State-s
+too	RB	too	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+fact	NN	fact	NN1	NOUN	obl	_
+we	PP	we	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	parataxis	_
+a	DT	a	AV0	DET	det	_
+sit	VV	sit	VVI	VERB	compound	_
+down	RP	down	AVP	ADP	compound:prt	_
+strike	NN	strike	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	obl	State-s
+not	RB	not	XX0	PART	advmod	_
+long	RB	long	AV0	ADV	advmod	_
+ago	RB	ago	AV0	ADV	advmod	a-go
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+very	RB	very	AV0	ADV	advmod	_
+militant	JJ	militant	AJ0	ADJ	amod	_
+labor	NN	labor	NN1	NOUN	compound	_
+action	NN	action	NN1	NOUN	acl:relcl	act-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Sit	VV	sit	VVB	VERB	compound	_
+down	RP	down	AVP	ADP	compound:prt	_
+strikes	NNS	strike	NN2	NOUN	nsubj	strike-s
+which	WDT	which	DTQ	PRON	nsubj	_
+began	VVD	begin	VVD	VERB	acl:relcl	_
+at	IN	at	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+significant	JJ	significant	AJ0	ADJ	amod	signific-ant
+level	NN	level	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<date from="1930-01-01" to="1939-12-31">
+1930’s	NPS	1930s	NP0	PROPN	obl	_
+</date>
+were	VBD	be	VBD	AUX	cop	_
+very	RB	very	AV0	ADV	advmod	_
+threatening	JJ	threatening	AJ0	ADJ	root	threat-en-ing
+to	IN	to	PRP	ADP	case	_
+management	NN	management	NN1	NOUN	obl	manage-ment
+and	CC	and	CJC	CCONJ	cc	_
+ownership	NN	ownership	NN1	NOUN	conj	own-er-ship
+,	,	,	PUN	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+sit	VV	sit	NN1	VERB	compound	_
+down	RP	down	AVP	ADP	compound:prt	_
+strike	NN	strike	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+one	CD	one	CRD	NUM	nummod	_
+step	NN	step	NN1	NOUN	advcl	_
+before	IN	before	PRP	SCONJ	mark	_
+workers	NNS	worker	NN2	NOUN	nsubj	work-er-s
+taking	VVG	take	VVG	VERB	acl	tak-ing
+over	RP	over	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+factory	NN	factory	NN1	NOUN	obj	factor-y
+and	CC	and	CJC	CCONJ	cc	_
+running	VVG	run	VVG	VERB	conj	runn-ing
+it	PP	it	PNP	PRON	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+kicking	VVG	kick	VVG	VERB	conj	kick-ing
+out	RP	out	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+management	NN	management	NN1	NOUN	obj	manage-ment
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+doing	VVG	do	VDG	VERB	conj	do-ing
+a	DT	a	AT0	DET	det	_
+better	JJR	good	AJC	ADJ	amod	bett-er
+job	NN	job	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+So	RB	so	CJS	ADV	advmod	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	NN2	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+frightening	JJ	frightening	AJ0	ADJ	amod	fright-en-ing
+idea	NN	idea	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+police	NNS	police	NN2	NOUN	nsubj:pass	_
+were	VBD	be	VBD	AUX	aux:pass	_
+called	VVN	call	VVN	VERB	conj	call-ed
+in	RP	in	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+so	RB	so	AV0	ADV	advmod	_
+on	RB	on	AVP	ADV	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Well	UH	well	ITJ	INTJ	discourse	_
+we	PP	we	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+had	VHD	have	VHD	VERB	root	_
+one	CD	one	PNI	NUM	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	obl	State-s
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Republic	NP	Republic	NP0	PROPN	compound	Re-public
+Windows	NPS	window	NP0	PROPN	compound	Window-s
+and	CC	and	CJC	CCONJ	cc	_
+Doors	NPS	door	NP0	PROPN	conj	Door-s
+Factory	NP	Factory	NP0	PROPN	obl	Factor-y
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+hard	JJ	hard	AJ0	ADJ	parataxis	_
+to	TO	to	TO0	PART	mark	_
+know	VV	know	VVI	VERB	acl	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+these	DT	this	DT0	DET	det	_
+things	NNS	thing	NN2	NOUN	nsubj	thing-s
+are	VBP	be	VBB	AUX	cop	_
+just	RB	just	AV0	ADV	advmod	_
+hard	JJ	hard	AJ0	ADJ	parataxis	_
+to	TO	to	TO0	PART	mark	_
+predict	VV	predict	VVI	VERB	acl	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+may	MD	may	VM0	AUX	aux	_
+take	VV	take	VVI	VERB	parataxis	_
+off	RP	off	AVP	ADP	compound:prt	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+may	MD	may	VM0	AUX	aux	_
+take	VV	take	VVI	VERB	conj	_
+on	RP	on	AVP	ADP	compound:prt	_
+a	DT	a	AT0	DET	det	_
+broader	JJR	broad	AJC	ADJ	amod	broad-er
+scope	NN	scope	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+may	MD	may	VM0	AUX	aux	_
+fizzle	VV	fizzle	NN1	VERB	parataxis	_
+away	RB	away	AV0	ADV	advmod	a-way
+or	CC	or	CJC	CCONJ	cc	_
+be	VB	be	VBI	AUX	aux:pass	_
+diverted	VVN	divert	VVN	VERB	conj	divert-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+</text>

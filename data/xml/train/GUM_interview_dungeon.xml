@@ -1,0 +1,1514 @@
+<text id="GUM_interview_dungeon" partition="train" type="interview" sourceURL="https://en.wikinews.org/wiki/BDSM_as_business:_An_interview_with_the_owners_of_a_dungeon" dateCreated="2007-10-21" dateCollected="2014-09-15" dateModified="2012-11-29" speakerCount="3" speakerList="#Bill, #Rebecca, #DavidShankbone" author="Wikinews" title="BDSM as business: An interview with the owners of a dungeon" shortTitle="dungeon" summary="Two owners of a BDSM dungeon in New York talk about their business in an interview, explaining about how they choose who to hire, the costs of operating the business, and how it is advertised.">
+<head>
+<s type="frag" transition="establishment">
+BDSM	NN	BDSM	NN1	NOUN	root	_
+as	IN	as	PRP	ADP	case	_
+business	NN	business	NN1	NOUN	nmod	busi-ness
+:	:	:	PUN	PUNCT	punct	_
+An	DT	a	AT0	DET	det	_
+interview	NN	interview	NN1	NOUN	parataxis	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+owners	NNS	owner	NN2	NOUN	nmod	own-er-s
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+dungeon	NN	dungeon	NN1	NOUN	nmod	_
+</s>
+</head>
+<s type="frag" transition="null">
+<date when="2007-10-21" rend="bold">
+Sunday	NP	Sunday	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+October	NP	October	NP0	PROPN	compound	_
+21	CD	21	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2007	CD	2007	CRD	NUM	nmod:tmod	_
+</date>
+</s>
+<head>
+<s type="ger" transition="null">
+Operating	VVG	operate	VVG	VERB	root	Oper-at-ing
+the	DT	the	AT0	DET	det	_
+business	NN	business	NN1	NOUN	obj	busi-ness
+</s>
+</head>
+<head>
+<s type="frag" transition="null">
+The	DT	the	AT0	DET	det	_
+costs	NNS	cost	NN2	NOUN	root	cost-s
+</s>
+</head>
+<figure>
+<caption>
+<s type="frag" transition="null">
+Clothing	NN	clothing	NN1	NOUN	compound	Cloth-ing
+supply	NN	supply	NN1	NOUN	compound	supp-ly
+closet	NN	closet	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+There	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	root	_
+a	DT	a	AT0	DET	det	_
+misconception	NN	misconception	NN1	NOUN	nsubj	mis-concept-ion
+in	IN	in	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+industry	NN	industry	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Your	PP$	your	DPS	PRON	nmod:poss	_
+exposure	NN	exposure	NN1	NOUN	nsubj	expos-ure
+to	IN	to	PRP	ADP	case	_
+this	DT	this	DT0	PRON	nmod	_
+is	VBZ	be	VBZ	AUX	cop	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+primarily	RB	primarily	AV0	ADV	advmod	prim-ari-ly
+what	WP	what	PNQ	PRON	root	_
+you	PP	you	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	acl:relcl	_
+in	IN	in	PRP	ADP	case	_
+movies	NNS	movie	NN2	NOUN	obl	mov-ie-s
+,	,	,	PUN	PUNCT	punct	_
+scanning	VVG	scan	VVG	VERB	advcl	scann-ing
+magazines	NNS	magazine	NN2	NOUN	obj	magazine-s
+,	,	,	PUN	PUNCT	punct	_
+scanning	VVG	scan	VVG	VERB	parataxis	scann-ing
+the	DT	the	AT0	DET	det	_
+Internet	NP	Internet	NP0	PROPN	obj	Inter-net
+,	,	,	PUN	PUNCT	punct	_
+just	RB	just	AV0	ADV	advmod	_
+snippets	NNS	snippet	NN2	NOUN	parataxis	snipp-et-s
+everywhere	RB	everywhere	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj:pass	_
+'s	VBZ	be	VBZ	AUX	aux:pass	_
+portrayed	VVN	portray	VVN	VERB	root	portray-ed
+as	IN	as	CJS	SCONJ	mark	_
+though	IN	though	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+dark	JJ	dark	AJ0	ADJ	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+black	JJ	black	AJ0	ADJ	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+evil	JJ	evil	AJ0	ADJ	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="zero">
+And	CC	and	CJC	CCONJ	root	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="intj" transition="null">
+Oh	UH	oh	ITJ	INTJ	root	_
+man	UH	man	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+well	UH	well	ITJ	INTJ	discourse	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="wh" transition="null">
+What	WP	what	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+up	RB	up	AVP	ADV	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+wear	VV	wear	VVI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+black	NN	black	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<incident type="chuckle" who="#DavidShankbone">
+</incident>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+anything	NN	anything	NN1	PRON	root	_
+but	IN	but	CJC	ADP	case	_
+that	DT	that	DT0	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+look	VVP	look	VVB	VERB	advcl	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+rooms	NNS	room	NN2	NOUN	obl	room-s
+,	,	,	PUN	PUNCT	punct	_
+there	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	root	_
+all	PDT	all	DT0	DET	det:predet	_
+the	DT	the	AT0	DET	det	_
+accouterments	NNS	accouterment	NN2	NOUN	nsubj	accouterment-s
+you	PP	you	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+find	VV	find	VVI	VERB	acl:relcl	_
+in	IN	in	PRP	ADP	case	_
+these	DT	this	DT0	DET	det	_
+types	NNS	type	NN2	NOUN	obl	type-s
+of	IN	of	PRF	ADP	case	_
+places	NNS	place	NN2	NOUN	nmod	place-s
+--	:	-	AJ0	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+more	RBR	more	AV0	ADV	advmod	_
+than	IN	than	CJS	ADP	case	_
+anything	NN	anything	NN1	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+there	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+good	JJ	good	AJ0	ADJ	amod	_
+feeling	NN	feeling	NN1	NOUN	nmod	feel-ing
+around	IN	around	PRP	ADP	case	a-round
+here	RB	here	AV0	ADV	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+hire	VVP	hire	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+opposite	NN	opposite	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+what	WP	what	PNQ	PRON	nmod	_
+you	PP	you	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+think	VV	think	VVI	VERB	acl:relcl	_
+we	PP	we	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+hire	VV	hire	VVI	VERB	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+what	WP	what	PNQ	PRON	parataxis	_
+the	DT	the	AT0	DET	det	_
+average	JJ	average	AJ0	ADJ	amod	_
+person	NN	person	NN1	NOUN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+think	VV	think	VVI	VERB	acl:relcl	_
+we	PP	we	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+hire	VV	hire	VVI	VERB	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+hire	VVP	hire	VVB	VERB	root	_
+educated	VVN	educate	VVN	VERB	amod	educat-ed
+,	,	,	PUN	PUNCT	punct	_
+nice	JJ	nice	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="decl" transition="retain">
+I	PP	I	PNP	PRON	nsubj	_
+remember	VVP	remember	VVB	VERB	root	_
+one	CD	one	PNI	NUM	nsubj	_
+of	IN	of	PRF	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+ads	NNS	ad	NN2	NOUN	nmod	ad-s
+that	WDT	that	CJT	PRON	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+put	VVN	put	VVN	VERB	acl:relcl	_
+in	RP	in	AVP	ADP	compound:prt	_
+said	VVD	say	VVD	VERB	ccomp	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	ccomp	_
+nice	JJ	nice	AJ0	ADJ	amod	_
+girls	NNS	girl	NN2	NOUN	nsubj	girl-s
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+do	VV	do	VDI	VERB	ccomp	_
+S&amp;M	NN	S&amp;M	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+--	:	-	AJ0	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+forgot	VVD	forget	VVD	VERB	parataxis	for-got
+what	WP	what	PNQ	PRON	obj	_
+the	DT	the	AT0	DET	det	_
+rest	NN	rest	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+said	VVD	say	VVD	VERB	acl:relcl	sai-d
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="imp" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+--	:	-	AJ0	PUNCT	punct	_
+think	VV	think	VVB	VERB	root	_
+again	RB	again	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="other" transition="establishment">
+Yeah	UH	yeah	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+think	VV	think	VVB	VERB	root	_
+again	RB	again	AV0	ADV	advmod	_
+"	''	''	PUQ	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+something	NN	something	NN1	PRON	conj	_
+like	IN	like	PRP	ADP	case	_
+that	DT	that	DT0	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+And	CC	and	CJC	CCONJ	cc	_
+that	DT	that	DT0	DET	det	_
+ad	NN	ad	NN1	NOUN	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+pulled	VVN	pull	VVN	VERB	root	pull-ed
+so	RB	so	AV0	ADV	advmod	_
+many	JJ	many	DT0	ADJ	amod	_
+girls	NNS	girl	NN2	NOUN	obj	girl-s
+,	,	,	PUN	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	reparandum	_
+--	:	-	AJ0	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	advcl	_
+they	PP	they	PNP	PRON	nsubj	_
+all	DT	all	AV0	DET	det	_
+thought	VVD	think	VVD	VERB	ccomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+nice	JJ	nice	AJ0	ADJ	amod	_
+girls	NNS	girl	NN2	NOUN	nsubj	girl-s
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+do	VV	do	VDI	VERB	ccomp	_
+this	DT	this	DT0	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+And	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+bunch	NN	bunch	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+them	PP	they	PNP	PRON	nmod	_
+had	VHD	have	VHD	AUX	aux	_
+called	VVN	call	VVN	VERB	root	call-ed
+and	CC	and	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+said	VVD	say	VVD	VERB	conj	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+Wow	NN	wow	NN1	NOUN	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+And	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+I	PP	I	PNP	PRON	nsubj	_
+remember	VVP	remember	VVB	VERB	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+bunch	NN	bunch	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+guys	NNS	guy	NN2	NOUN	nmod	guy-s
+called	VVN	call	VVN	VERB	ccomp	call-ed
+because	IN	because	CJS	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+that	DT	that	DT0	PRON	obl	_
+also	RB	also	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+Do	VV	do	VDB	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+remember	VV	remember	VVI	VERB	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+sure	RB	sure	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	root	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+sure	RB	sure	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	parataxis	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="wh" transition="zero">
+What	WP	what	PNQ	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+startup	NN	startup	NN1	NOUN	compound	_
+costs	NNS	cost	NN2	NOUN	root	cost-s
+involved	VVN	involve	VVN	VERB	acl	involv-ed
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="multiple" transition="establishment">
+It	PP	it	PNP	PRON	nsubj	_
+varies	VVZ	vary	VVZ	VERB	root	varie-s
+;	:	;	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	parataxis	_
+around	IN	around	PRP	ADP	case	a-round
+Manhattan	NP	Manhattan	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	parataxis	_
+around	IN	around	PRP	ADP	case	a-round
+rents	NNS	rent	NN2	NOUN	obl	rent-s
+,	,	,	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	parataxis	_
+around	IN	around	PRP	ADP	case	a-round
+build-outs	NNS	build-out	NN2	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	parataxis	_
+around	IN	around	PRP	ADP	case	a-round
+hiring	NN	hiring	NN1	NOUN	obl	hir-ing
+,	,	,	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	parataxis	_
+around	IN	around	PRP	ADP	case	a-round
+advertising	NN	advertising	NN1	NOUN	obl	advertis-ing
+...	SENT	…	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="wh" transition="zero">
+What	WP	what	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+greatest	JJS	great	AJS	ADJ	amod	great-est
+non-fixed	JJ	non-fixed	AJ0	ADJ	amod	non-fix-ed
+cost	NN	cost	NN1	NOUN	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+single	JJ	single	AJ0	ADJ	amod	_
+most	RBS	most	DT0	ADV	advmod	_
+costly	JJ	costly	AJ0	ADJ	amod	cost-ly
+thing	NN	thing	NN1	NOUN	nsubj	_
+we	PP	we	PNP	PRON	nsubj	_
+spend	VVP	spend	VVB	VERB	acl:relcl	_
+on	IN	on	PRP	ADP	obl	_
+is	VBZ	be	VBZ	AUX	cop	_
+rent	NN	rent	NN1	NOUN	root	_
+and	CC	and	CJC	CCONJ	cc	_
+advertising	NN	advertising	NN1	NOUN	conj	advertis-ing
+,	,	,	PUN	PUNCT	punct	_
+those	DT	that	DT0	DET	det	_
+two	CD	two	CRD	NUM	nsubj	_
+together	RB	together	AV0	ADV	advmod	_
+make	VVP	make	VVB	VERB	parataxis	_
+up	RP	up	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+bulk	NN	bulk	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+what	WP	what	PNQ	PRON	nmod	_
+we	PP	we	PNP	PRON	nsubj	_
+spend	VVP	spend	VVB	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+There	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	root	_
+supplies	NNS	supply	NN2	NOUN	nsubj	supp-lie-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+there	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	conj	_
+wear	NN	wear	NN1	NOUN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+tear	NN	tear	NN1	NOUN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+maintenance	NN	maintenance	NN1	NOUN	conj	mainten-ance
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+bookkeeping	NN	bookkeeping	NN1	NOUN	conj	bookkeep-ing
+and	CC	and	CJC	CCONJ	cc	_
+things	NNS	thing	NN2	NOUN	conj	thing-s
+like	IN	like	PRP	ADP	case	_
+that	DT	that	DT0	PRON	nmod	_
+that	WDT	that	CJT	PRON	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	acl:relcl	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+That	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+about	RB	about	PRP	ADV	advmod	_
+it	PP	it	PNP	PRON	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+hardest	JJS	hard	AJS	ADJ	amod	hard-est
+thing	NN	thing	NN1	NOUN	nsubj	_
+in	IN	in	PRP	SCONJ	mark	_
+running	VVG	run	VVG	VERB	acl	runn-ing
+this	DT	this	DT0	DET	det	_
+business	NN	business	NN1	NOUN	obj	busi-ness
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+why	WRB	why	AVQ	ADV	acl:relcl	_
+people	NNS	person	NN0	NOUN	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+do	VV	do	VDI	VERB	advcl:relcl	_
+it	PP	it	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+relationship	NN	relationship	NN1	NOUN	root	relat-ion-ship
+that	WDT	that	CJT	PRON	obj	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+wife	NN	wife	NN1	NOUN	nsubj	_
+has	VHZ	have	VHZ	VERB	acl:relcl	ha-s
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+gals	NNS	gal	NN2	NOUN	obl	gal-s
+and	CC	and	CJC	CCONJ	cc	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+customers	NNS	customer	NN2	NOUN	conj	custom-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="wh" transition="null">
+Where	WRB	where	AVQ	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+advertise	VV	advertise	VVI	VERB	root	advert-ise
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="other" transition="establishment">
+A	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	root	_
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+web	NN	web	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+used	VVN	use	VVN	VERB	parataxis	us-ed
+most	JJS	most	DT0	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+local	JJ	local	AJ0	ADJ	amod	loc-al
+city	NN	city	NN1	NOUN	compound	_
+papers	NNS	paper	NN2	NOUN	obl	paper-s
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+<hi rend="italic">
+New	NP	New	NP0	PROPN	compound	_
+York	NP	York	NP0	PROPN	compound	_
+Press	NP	Press	NP0	PROPN	appos	_
+</hi>
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+things	NNS	thing	NN2	NOUN	appos	thing-s
+like	IN	like	PRP	ADP	case	_
+that	DT	that	DT0	PRON	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+<hi rend="italic">
+L	NP	L	NP0	PROPN	compound	_
+Magazine	NP	Magazine	NP0	PROPN	appos	_
+</hi>
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="q" transition="zero">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+back	NN	back	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+paper	NN	paper	NN1	NOUN	nmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="frag" transition="establishment">
+Typically	RB	typically	AV0	ADV	advmod	Typ-ical-ly
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+back	NN	back	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+paper	NN	paper	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Magazines	NNS	magazine	NN2	NOUN	nsubj	Magazine-s
+constantly	RB	constantly	AV0	ADV	advmod	constant-ly
+change	VVP	change	VVB	VERB	root	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+policy	NN	policy	NN1	NOUN	obj	_
+on	IN	on	PRP	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+;	:	;	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	parataxis	_
+it	PP	it	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+want	VV	want	VVI	VERB	parataxis	_
+it	PP	it	PNP	PRON	obj	_
+...	SENT	…	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="ger" transition="null">
+Depending	VVG	depend	VVG	VERB	case	De-pend-ing
+on	IN	on	PRP	ADP	fixed	_
+the	DT	the	AT0	DET	det	_
+election	NN	election	NN1	NOUN	compound	elect-ion
+year	NN	year	NN1	NOUN	root	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+Who	WP	who	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	aux	_
+buying	VVG	buy	VVG	VERB	root	buy-ing
+the	DT	the	AT0	DET	det	_
+paper	NN	paper	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+who	WP	who	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	aux	_
+selling	VVG	sell	VVG	VERB	parataxis	sell-ing
+the	DT	the	AT0	DET	det	_
+paper	NN	paper	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+So	RB	so	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+changes	VVZ	change	VVZ	VERB	root	change-s
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+one	CD	one	CRD	NUM	nummod	_
+year	NN	year	NN1	NOUN	obl:tmod	_
+we	PP	we	PNP	PRON	nsubj	_
+got	VVD	get	VVD	VERB	parataxis	_
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Press	NP	Press	NP0	PROPN	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+now	RB	now	AV0	ADV	advmod	_
+stopped	VVN	stop	VVN	VERB	conj	stopp-ed
+adult	NN	adult	NN1	NOUN	compound	_
+ads	NNS	ad	NN2	NOUN	obj	ad-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="frag" transition="null">
+Completely	RB	completely	AV0	ADV	root	Complete-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+So	RB	so	AV0	ADV	advmod	_
+now	RB	now	AV0	ADV	advmod	_
+we	PP	we	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<hi rend="italic">
+Voice	NP	Voice	NP0	PROPN	root	_
+</hi>
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+while	NN	while	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+moving	VVG	move	VVG	VERB	root	mov-ing
+more	RBR	more	AV0	ADV	advmod	_
+towards	IN	towards	PRP	ADP	case	to-ward-s
+the	DT	the	AT0	DET	det	_
+Internet	NP	Internet	NP0	PROPN	obl	Inter-net
+at	IN	at	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+point	NN	point	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+Internet	NP	Internet	NP0	PROPN	nsubj	Inter-net
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+much	RB	much	AV0	ADV	advmod	_
+easier	JJR	easy	AJC	ADJ	amod	_
+,	,	,	PUN	PUNCT	punct	_
+safer	JJR	safe	AJC	ADJ	amod	_
+way	NN	way	NN1	NOUN	advcl	_
+for	IN	for	PRP	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+person	NN	person	NN1	NOUN	nsubj	_
+to	TO	to	TO0	PART	mark	_
+look	VV	look	VVI	VERB	acl	_
+at	IN	at	PRP	ADP	case	_
+sensitive	JJ	sensitive	AJ0	ADJ	amod	_
+material	NN	material	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	advmod	_
+get	VV	get	VVI	AUX	aux:pass	_
+caught	VVN	catch	VVN	VERB	conj	_
+with	IN	with	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<head>
+<s type="ger" transition="zero">
+Hiring	VVG	hire	VVG	VERB	root	Hir-ing
+employees	NNS	employee	NN2	NOUN	obj	employ-ee-s
+</s>
+</head>
+<figure>
+<caption>
+<s type="frag" transition="null">
+Personality	NN	personality	NN1	NOUN	compound	Person-al-ity
+test	NN	test	NN1	NOUN	compound	_
+questions	NNS	question	NN2	NOUN	root	question-s
+given	VVN	give	VVN	VERB	acl	giv-en
+to	IN	to	PRP	ADP	case	_
+prospective	JJ	prospective	AJ0	ADJ	amod	prospect-ive
+mistresses	NNS	mistress	NN2	NOUN	obl	mistresse-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+Pursuant	JJ	pursuant	AJ0	ADJ	dep	Pursu-ant
+to	IN	to	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+business	NN	business	NN1	NOUN	compound	busi-ness
+question	NN	question	NN1	NOUN	obl	_
+:	:	:	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+only	RB	only	AV0	ADV	advmod	_
+hire	VVP	hire	VVB	VERB	root	_
+nice	JJ	nice	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+care	VV	care	VVI	VERB	root	_
+if	IN	if	CJS	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+girl	NN	girl	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+absolutely	RB	absolutely	AV0	ADV	advmod	absolute-ly
+exquisite	JJ	exquisite	AJ0	ADJ	amod	_
+looking	JJ	looking	AJ0	ADJ	advcl	look-ing
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="decl" transition="establishment">
+My	PP$	my	DPS	PRON	nmod:poss	_
+husband	NN	husband	NN1	NOUN	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+met	VVN	meet	VVN	VERB	root	_
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+,	,	,	PUN	PUNCT	punct	_
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+girls	NNS	girl	NN2	NOUN	obj	girl-s
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="frag" transition="smooth-shift">
+--	:	-	AJ0	PUNCT	punct	_
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+girls	NNS	girl	NN2	NOUN	root	girl-s
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="other" transition="retain">
+--	:	-	AJ0	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+he	PP	he	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	reparandum	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+say	VV	say	VVI	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+Well	UH	well	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+wo	MD	will	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+hire	VV	hire	VVI	VERB	ccomp	_
+them	PP	they	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	VERB	root	_
+like	RP	like	AVP	ADP	compound:prt	_
+,	,	,	PUN	PUNCT	punct	_
+‘	``	'	PUQ	PUNCT	punct	_
+Are	VBP	be	VBB	AUX	cop	_
+you	PP	you	PNP	PRON	nsubj	_
+insane	JJ	insane	AJ0	ADJ	ccomp	in-sane
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+wo	MD	will	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+hire	VV	hire	VVI	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+hire	VVP	hire	VVB	VERB	root	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="wh" transition="zero">
+Why	WRB	why	AVQ	ADV	advmod	_
+not	RB	not	XX0	PART	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="zero">
+Because	IN	because	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	root	_
+someone	NN	someone	NN1	PRON	obj	_
+who	WP	who	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	aux	_
+going	VVG	go	VVG	VERB	acl:relcl	go-ing
+to	TO	to	TO0	PART	mark	_
+treat	VV	treat	VVI	VERB	xcomp	_
+people	NNS	person	NN0	NOUN	obj	_
+nicely	RB	nicely	AV0	ADV	advmod	nice-ly
+and	CC	and	CJC	CCONJ	cc	_
+well	RB	well	AV0	ADV	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	root	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="wh" transition="null">
+How	WRB	how	AVQ	ADV	advmod	_
+can	MD	can	VM0	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+tell	VV	tell	VVI	VERB	root	_
+whether	IN	whether	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	ccomp	_
+or	CC	or	CJC	CCONJ	cc	_
+will	MD	will	VM0	AUX	conj	_
+not	RB	not	XX0	PART	advmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="establishment">
+Just	RB	just	AV0	ADV	advmod	_
+by	IN	by	PRP	SCONJ	mark	_
+talking	VVG	talk	VVG	VERB	root	talk-ing
+to	IN	to	PRP	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="zero">
+Having	VHG	have	VHG	AUX	aux	Hav-ing
+been	VBN	be	VBN	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+psychologist	NN	psychologist	NN1	NOUN	csubj	psycholog-ist
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+number	NN	number	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+years	NNS	year	NN2	NOUN	nmod	year-s
+gives	VVZ	give	VVZ	VERB	root	give-s
+me	PP	I	PNP	PRON	iobj	_
+a	DT	a	AT0	DET	det	_
+leg	NN	leg	NN1	NOUN	obj	_
+up	RB	up	AVP	ADV	advmod	_
+on	IN	on	PRP	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="decl" transition="establishment">
+And	CC	and	CJC	CCONJ	cc	_
+he	PP	he	PNP	PRON	nsubj	_
+'s	VHZ	have	VHZ	AUX	aux	_
+been	VBN	be	VBN	AUX	cop	_
+right	JJ	right	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+And	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+made	VVN	make	VVN	VERB	root	_
+him	PP	he	PNP	PRON	obj	_
+hire	VV	hire	VVI	VERB	xcomp	_
+these	DT	this	DT0	DET	det	_
+girls	NNS	girl	NN2	NOUN	obj	girl-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+ultimately	RB	ultimately	AV0	ADV	advmod	ultimate-ly
+he	PP	he	PNP	PRON	nsubj	_
+'s	VHZ	have	VHZ	AUX	aux	_
+been	VBN	be	VBN	AUX	cop	_
+right	JJ	right	AJ0	ADJ	conj	_
+</s>
+<s type="decl" transition="smooth-shift">
+They	PP	they	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+been	VBN	be	VBN	AUX	cop	_
+complete	JJ	complete	AJ0	ADJ	amod	_
+pain	NN	pain	NN1	NOUN	root	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+asses	NNS	ass	NN2	NOUN	nmod	asse-s
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+have	VHP	have	VHB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+profile	NN	profile	NN1	NOUN	obj	_
+they	PP	they	PNP	PRON	nsubj	_
+fill	VVP	fill	VVB	VERB	acl:relcl	_
+out	RP	out	AVP	ADP	compound:prt	_
+for	IN	for	PRP	ADP	case	_
+me	PP	I	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+mini-MMPI	NP	mini-MMPI	NP0	PROPN	appos	mini-MMPI
+that	WDT	that	CJT	PRON	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+developed	VVD	develop	VVD	VERB	acl:relcl	develop-ed
+,	,	,	PUN	PUNCT	punct	_
+so	IN	so	PRP	SCONJ	mark	_
+that	IN/that	that	CJT	SCONJ	fixed	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	advcl	_
+an	DT	a	AT0	DET	det	_
+idea	NN	idea	NN1	NOUN	obj	_
+--	:	-	AJ0	PUNCT	punct	_
+Rebecca	NP	Rebecca	NP0	PROPN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	conj	_
+put	VVD	put	VVD	VERB	parataxis	_
+it	PP	it	PNP	PRON	obj	_
+together	RP	together	AVP	ADP	compound:prt	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	root	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+like	VV	like	VVI	VERB	ccomp	_
+to	TO	to	TO0	PART	mark	_
+see	VV	see	VVI	VERB	xcomp	_
+one	CD	one	PNI	NUM	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="intj" transition="zero">
+No	UH	no	ITJ	INTJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+no	UH	no	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+no	UH	no	ITJ	INTJ	discourse	_
+.	SENT	.	PUN	PUNCT	punct	_
+Just	RB	just	AV0	ADV	parataxis	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="sub" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+show	VV	show	VVI	VERB	root	_
+you	PP	you	PNP	PRON	iobj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+So	RB	so	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+mini-MMPI	NP	mini-MMPI	NP0	PROPN	obj	mini-MMPI
+that	WDT	that	CJT	PRON	dep	_
+I	PP	I	PNP	PRON	acl:relcl	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="q" transition="establishment">
+Could	MD	could	VM0	AUX	aux	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VH	have	VHI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+sample	NN	sample	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+not	RB	not	XX0	PART	advmod	_
+necessarily	RB	necessarily	AV0	ADV	advmod	necessari-ly
+one	CD	one	PNI	NUM	appos	_
+that	WDT	that	CJT	PRON	nsubj:pass	_
+'s	VBZ	be	VBZ	AUX	aux:pass	_
+filled	VVN	fill	VVN	VERB	acl:relcl	fill-ed
+out	RP	out	AVP	ADP	compound:prt	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+just	RB	just	AV0	ADV	advmod	_
+one	CD	one	PNI	NUM	conj	_
+that	WDT	that	CJT	PRON	dep	_
+you	PP	you	PNP	PRON	acl:relcl	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+show	VV	show	VVI	VERB	root	_
+you	PP	you	PNP	PRON	iobj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+questions	NNS	question	NN2	NOUN	nsubj	question-s
+are	VBP	be	VBB	AUX	root	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="imp" transition="null">
+Be	VB	be	VBB	AUX	cop	_
+careful	JJ	careful	AJ0	ADJ	root	care-ful
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+He	PP	he	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+make	VV	make	VVI	VERB	root	_
+you	PP	you	PNP	PRON	obj	_
+fill	VV	fill	VVI	VERB	xcomp	_
+one	CD	one	PNI	NUM	obj	_
+out	RP	out	AVP	ADP	compound:prt	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<incident type="laugh" who="#DavidShankbone">
+</incident>
+<s type="sub" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+scared	JJ	scared	AJ0	ADJ	root	scar-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="continue">
+You	PP	you	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+hire	VV	hire	VVI	VERB	root	_
+me	PP	I	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="continue">
+Is	VBZ	be	VBZ	AUX	cop	_
+it	PP	it	PNP	PRON	nsubj	_
+only	RB	only	AJ0	ADV	advmod	_
+girls	NNS	girl	NN2	NOUN	root	girl-s
+you	PP	you	PNP	PRON	nsubj	_
+hire	VVP	hire	VVB	VERB	acl:relcl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="intj" transition="zero">
+Yeah	UH	yeah	ITJ	INTJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<incident type="looking at list of questions" who="#DavidShankbone">
+</incident>
+<s type="wh" transition="zero">
+What	WP	what	PNQ	PRON	obj	_
+would	MD	would	VM0	AUX	aux	_
+a	DT	a	AT0	DET	det	_
+question	NN	question	NN1	NOUN	nsubj	_
+like	IN	like	PRP	ADP	case	_
+"	``	''	PUQ	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+greatest	JJS	great	AJS	ADJ	amod	great-est
+woman	NN	woman	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+world	NN	world	NN1	NOUN	nmod	_
+"	''	''	PUQ	PUNCT	punct	_
+reveal	VV	reveal	VVB	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="sub" transition="null">
+No	DT	no	AT0	DET	det	_
+question	NN	question	NN1	NOUN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+reveal	VV	reveal	VVI	VERB	root	_
+anything	NN	anything	NN1	PRON	obj	_
+independently	RB	independently	AV0	ADV	advmod	in-de-pend-ent-ly
+of	IN	of	PRF	ADP	case	_
+all	PDT	all	DT0	DET	det:predet	_
+the	DT	the	AT0	DET	det	_
+questions	NNS	question	NN2	NOUN	obl	question-s
+together	RB	together	AV0	ADV	advmod	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="frag" transition="null">
+Sure	JJ	sure	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+--	:	-	AJ0	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+chart	NN	chart	NN1	NOUN	obj	_
+that	WDT	that	CJT	PRON	obl	_
+I	PP	I	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+go	VV	go	VVI	VERB	acl:relcl	_
+through	IN	through	PRP	ADP	case	_
+;	:	;	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+<ref>
+MMPI	NP	MMPI	NP0	PROPN	appos	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="establishment">
+The	DT	the	AT0	DET	det	_
+baseline	NN	baseline	NN1	NOUN	compound	basel-ine
+data	NNS	datum	NN0	NOUN	root	dat-a
+that	WDT	that	CJT	PRON	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+use	VVP	use	VVB	VERB	acl:relcl	_
+to	TO	to	TO0	PART	advcl	_
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="wh" transition="continue">
+How	WRB	how	AVQ	ADV	advmod	_
+did	VVD	do	VDD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+originate	VV	originate	VVI	VERB	root	origin-ate
+these	DT	this	DT0	DET	det	_
+questions	NNS	question	NN2	NOUN	obj	question-s
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="wh" transition="continue">
+Where	WRB	where	AVQ	ADV	advmod	_
+did	VVD	do	VDD	AUX	aux	_
+I	PP	I	PNP	PRON	nsubj	_
+make	VV	make	VVI	VERB	root	_
+them	PP	they	PNP	PRON	obj	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+get	VVP	get	VVB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+baseline	NN	baseline	NN1	NOUN	obj	basel-ine
+from	IN	from	PRP	SCONJ	mark	_
+asking	VVG	ask	VVG	VERB	advcl	ask-ing
+girls	NNS	girl	NN2	NOUN	iobj	girl-s
+and	CC	and	CJC	CCONJ	cc	_
+refining	VVG	refine	VVG	VERB	conj	re-fin-ing
+profiles	NNS	profile	NN2	NOUN	obj	profile-s
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="decl" transition="null">
+And	CC	and	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+amalgamation	NN	amalgamation	NN1	NOUN	root	amalgamat-ion
+of	IN	of	PRF	ADP	case	_
+questions	NNS	question	NN2	NOUN	nmod	question-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="frag" transition="establishment">
+Of	IN	of	PRF	ADP	case	_
+many	JJ	many	DT0	ADJ	amod	_
+,	,	,	PUN	PUNCT	punct	_
+many	JJ	many	DT0	ADJ	amod	_
+questions	NNS	question	NN2	NOUN	root	question-s
+--	:	-	AJ0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Rebecca">
+<p>
+<s type="wh" transition="zero">
+What	WP	what	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+favorite	JJ	favorite	AJ0	ADJ	amod	favor-ite
+question	NN	question	NN1	NOUN	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+O.J.	NP	O.J.	NP0	PROPN	compound	_
+Simpson	NP	Simpson	NP0	PROPN	appos	_
+….	SENT	.	NP0	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="decl" transition="smooth-shift">
+Yeah	UH	yeah	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	root	_
+O.J.	NP	O.J.	NP0	PROPN	compound	_
+Simpson	NP	Simpson	NP0	PROPN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="zero">
+What	WP	what	PNQ	PRON	nmod	_
+would	MD	would	VM0	AUX	aux	_
+that	DT	that	AV0	PRON	nsubj	_
+be	VB	be	VBI	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+indicator	NN	indicator	NN1	NOUN	root	indicat-or
+of	IN	of	PRF	ADP	case	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+sure	JJ	sure	AJ0	ADJ	root	_
+which	WDT	which	DTQ	DET	det	_
+one	NN	one	NN1	NOUN	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+gave	VVD	give	VVD	VERB	ccomp	_
+him	PP	he	PNP	PRON	iobj	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+there	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+brief	JJ	brief	AJ0	ADJ	amod	_
+,	,	,	PUN	PUNCT	punct	_
+brief	JJ	brief	AJ0	ADJ	amod	_
+,	,	,	PUN	PUNCT	punct	_
+brief	JJ	brief	AJ0	ADJ	amod	_
+IQ	NN	IQ	NN1	NOUN	compound	_
+test	NN	test	NN1	NOUN	nsubj	_
+there	RB	there	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Very	RB	very	AV0	ADV	advmod	_
+brief	JJ	brief	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#DavidShankbone">
+<p>
+<hi rend="bold">
+<s type="q" transition="null">
+Do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+ask	VV	ask	VVI	VERB	root	_
+for	IN	for	PRP	ADP	case	_
+references	NNS	reference	NN2	NOUN	obl	refer-ence-s
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</hi>
+</p>
+</sp>
+<sp who="#Bill">
+<p>
+<s type="other" transition="establishment">
+No	UH	no	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+really	RB	really	AV0	ADV	advmod	real-ly
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+call	VV	call	VVI	VERB	root	_
+and	CC	and	CJC	CCONJ	cc	_
+tell	VV	tell	VVI	VERB	conj	_
+them	PP	they	PNP	PRON	iobj	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+<incident type="laugh" who="#Bill">
+</incident>
+yeah	UH	yeah	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+<w>
+so	RB	so	AV0	ADV	nsubj	_
+-	HYPH	-	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+-	HYPH	-	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	conj	_
+</w>
+'s	VBZ	be	VBZ	AUX	aux	_
+applying	VVG	apply	VVG	VERB	ccomp	appl-y-ing
+here	RB	here	AV0	ADV	advmod	_
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+position	NN	position	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

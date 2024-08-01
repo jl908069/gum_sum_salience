@@ -1,0 +1,1492 @@
+<text id="GUM_reddit_social" partition="train" author="Reddit community (see URL)" dateCollected="2019-09-11" dateCreated="2019-09-11" dateModified="2019-09-14" shortTitle="social" sourceURL="https://www.reddit.com/r/GradSchool/comments/d1qy3g/social_requirements/" speakerCount="16" speakerList="#the_bio, #UnspectacularAim, #GhostofHowardHughes, #riotous_jocundity, #fishliz, #kittysezrelax, #leejh06, #resorcinarene, #carlgorn, #HobbitWithShoes, #Burner0700, #icebugs, #moonraze_maelstrom, #regulardegularr, #I_just_made, #athousandplusone" title="Social Requirements?" type="reddit" summary="An introvert PhD student receives advice on socializing from several people who say that while it is not required, it is important to go to some departmental events for networking, CV building, talking about research, and finding out about conferences and fellowships.">
+<head>
+<s type="q" transition="establishment">
+Social	JJ	social	AJ0	ADJ	amod	_
+Requirements	NNS	requirement	NN2	NOUN	root	Require-ment-s
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</head>
+<sp who="#the_bio">
+<p>
+<s type="decl" transition="null">
+TL;DR	UH	TL;DR	ITJ	INTJ	root	_
+:	:	:	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+36	CD	36	CRD	NUM	parataxis	_
+,	,	,	PUN	PUNCT	punct	_
+married	JJ	married	AJ0	ADJ	conj	marri-ed
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<sic ana="an introvert">
+introvert	JJ	introvert	AJ0	ADJ	conj	_
+</sic>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	aux	_
+going	VVG	go	VVG	VERB	root	go-ing
+into	IN	into	PRP	ADP	case	in-to
+my	PP$	my	DPS	PRON	nmod:poss	_
+second	JJ	second	ORD	ADJ	amod	_
+year	NN	year	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+PhD	JJ	PhD	AJ0	ADJ	amod	_
+program	NN	program	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+found	VVN	find	VVN	VERB	conj	_
+myself	PP	myself	PNP	PRON	obj	my-self
+being	VBG	be	VBG	AUX	aux:pass	be-ing
+subjected	VVN	subject	VVN	VERB	xcomp	subject-ed
+to	IN	to	PRP	ADP	case	_
+numerous	JJ	numerous	AJ0	ADJ	amod	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+things	NNS	thing	NN2	NOUN	obl	thing-s
+that	WDT	that	CJT	PRON	obl	_
+I	PP	I	PNP	PRON	nsubj	_
+feel	VVP	feel	VVB	VERB	acl:relcl	_
+obligated	VVN	obligate	VVN	VERB	xcomp	oblig-at-ed
+to	TO	to	TO0	PART	mark	_
+contend	VV	contend	VVI	VERB	xcomp	_
+with	IN	with	PRP	ADP	case	_
+,	,	,	PUN	PUNCT	punct	_
+primarily	RB	primarily	AV0	ADV	advmod	prim-ari-ly
+due	JJ	due	AJ0	ADJ	case	_
+to	IN	to	PRP	ADP	fixed	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+pressure	NN	pressure	NN1	NOUN	obl	_
+-	:	-	PUN	PUNCT	punct	_
+club	NN	club	NN1	NOUN	compound	_
+meetings	NNS	meeting	NN2	NOUN	conj	meet-ing-s
+,	,	,	PUN	PUNCT	punct	_
+happy	JJ	happy	AJ0	ADJ	amod	happ-y
+hours	NNS	hour	NN2	NOUN	conj	hour-s
+,	,	,	PUN	PUNCT	punct	_
+BBQs	NNS	barbecue	NN2	NOUN	conj	BBQ-s
+,	,	,	PUN	PUNCT	punct	_
+etc.	FW	etc.	UNC	NOUN	conj	_
+</s>
+<s type="multiple" transition="continue">
+Long	JJ	long	AJ0	ADJ	amod	_
+story	NN	story	NN1	NOUN	discourse	_
+short	JJ	short	AJ0	ADJ	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+older	JJR	old	AJC	ADJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+would	MD	would	VM0	AUX	aux	_
+rather	RB	rather	AV0	ADV	advmod	rath-er
+spend	VV	spend	VVI	VERB	conj	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+time	NN	time	NN1	NOUN	obj	_
+at	IN	at	PRP	ADP	case	_
+home	NN	home	NN1	NOUN	obl	_
+with	IN	with	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+video	JJ	video	AJ0	ADJ	amod	_
+game	NN	game	NN1	NOUN	obl	_
+than	IN	than	CJS	ADP	case	_
+basically	RB	basically	AV0	ADV	advmod	bas-ic-ally
+any	DT	any	DT0	DET	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+people	NNS	person	NN0	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+department	NN	department	NN1	NOUN	nmod	depart-ment
+,	,	,	PUN	PUNCT	punct	_
+save	IN	save	PRP	ADP	case	_
+very	RB	very	AV0	ADV	advmod	_
+few	JJ	few	DT0	ADJ	obl	_
+(	(	(	PUL	PUNCT	punct	_
+who	WP	who	PNQ	PRON	obl	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	acl:relcl	_
+no	DT	no	AT0	DET	det	_
+problem	NN	problem	NN1	NOUN	obj	_
+hanging	VVG	hang	VVG	VERB	advcl	hang-ing
+out	RP	out	AVP	ADP	compound:prt	_
+with	IN	with	PRP	ADP	case	_
+outside	RB	outside	NN1	ADV	advmod	out-side
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+academic	JJ	academic	AJ0	ADJ	amod	academ-ic
+setting	NN	setting	NN1	NOUN	obl	sett-ing
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="zero">
+Does	VVZ	do	VDZ	AUX	aux	Doe-s
+anyone	NN	anyone	NN1	PRON	nsubj	any-one
+else	RB	else	AV0	ADV	advmod	_
+deal	VV	deal	VVB	VERB	root	_
+with	IN	with	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="establishment">
+Does	VVZ	do	VDZ	AUX	aux	Doe-s
+the	DT	the	AT0	DET	det	_
+guilt	NN	guilt	NN1	NOUN	nsubj	_
+get	VV	get	VVB	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#UnspectacularAim" whom="#the_bio">
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+23	CD	23	CRD	NUM	root	_
+,	,	,	PUN	PUNCT	punct	_
+single	JJ	single	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+an	DT	a	AT0	DET	det	_
+introvert	NN	introvert	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+try	VVP	try	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+show	VV	show	VVI	VERB	xcomp	_
+up	RP	up	AVP	ADP	compound:prt	_
+every	DT	every	AT0	DET	det	_
+once	RB	once	AV0	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+while	NN	while	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+remind	VV	remind	VVI	VERB	advcl	re-mind
+people	NNS	person	NN0	NOUN	iobj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+exist	VVP	exist	VVB	VERB	ccomp	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+go	VV	go	VVI	VERB	conj	_
+to	IN	to	PRP	ADP	case	_
+most	JJS	most	DT0	ADJ	amod	_
+parties	NNS	party	NN2	NOUN	obl	partie-s
+and	CC	and	CJC	CCONJ	cc	_
+happy	JJ	happy	AJ0	ADJ	amod	happ-y
+hours	NNS	hour	NN2	NOUN	conj	hour-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+great	JJ	great	AJ0	ADJ	amod	_
+excuse	NN	excuse	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+family	NN	family	NN1	NOUN	nmod	_
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	acl	_
+home	RB	home	AV0	ADV	advmod	_
+to	IN	to	PRP	ADP	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Use	VV	use	VVB	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#GhostofHowardHughes" whom="#the_bio">
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+it	PP	it	PNP	PRON	expl	_
+'s	VBZ	be	VBZ	AUX	cop	_
+important	JJ	important	AJ0	ADJ	ccomp	import-ant
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	csubj	at-tend
+<hi rend="italic">
+some	DT	some	DT0	DET	obj	_
+</hi>
+of	IN	of	PRF	ADP	case	_
+these	DT	this	DT0	DET	det	_
+engagements	NNS	engagement	NN2	NOUN	nmod	en-gage-ment-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+never	RB	never	AV0	ADV	advmod	_
+know	VVP	know	VVB	VERB	root	_
+who	WP	who	PNQ	PRON	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+meet	VV	meet	VVI	VERB	acl:relcl	_
+or	CC	or	CJC	CCONJ	cc	_
+what	WP	what	PNQ	PRON	conj	_
+you	PP	you	PNP	PRON	nsubj	_
+may	MD	may	VM0	AUX	aux	_
+miss	VV	miss	VVI	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+too	RB	too	AV0	ADV	advmod	_
+am	VBP	be	VBB	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+older	JJR	old	AJC	ADJ	amod	_
+grad	NN	grad	NN1	NOUN	compound	_
+student	NN	student	NN1	NOUN	root	stud-ent
+and	CC	and	CJC	CCONJ	cc	_
+am	VBP	be	VBB	AUX	aux:pass	_
+engaged	VVN	engage	VVN	VERB	conj	en-gag-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Socially	RB	socially	AV0	ADV	advmod	Social-ly
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+no	DT	no	AT0	DET	det	_
+reason	NN	reason	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	acl	at-tend
+these	DT	this	DT0	DET	det	_
+events	NNS	event	NN2	NOUN	obj	event-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+<w>
+I	PP	I	PNP	PRON	nsubj	_
+</w>
+remind	VVP	remind	VVB	VERB	root	re-mind
+my	PP$	my	DPS	PRON	nmod:poss	_
+fiancé	NN	fiancé	NN1	NOUN	iobj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+it	PP	it	PNP	PRON	expl	_
+is	VBZ	be	VBZ	AUX	cop	_
+imperative	JJ	imperative	AJ0	ADJ	ccomp	_
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	csubj	at-tend
+at	IN	at	PRP	ADP	case	_
+least	JJS	least	AJS	ADJ	obl	_
+a	DT	a	AT0	DET	det	_
+few	JJ	few	DT0	ADJ	obj	_
+a	DT	a	AT0	DET	det	_
+year	NN	year	NN1	NOUN	nmod:tmod	_
+for	IN	for	PRP	ADP	case	_
+those	DT	that	DT0	DET	det	_
+<sic ana="purposes">
+purpose	NN	purpose	NN1	NOUN	obl	_
+</sic>
+of	IN	of	PRF	SCONJ	mark	_
+networking	VVG	network	VVG	VERB	acl	net-work-ing
+and	CC	and	CJC	CCONJ	cc	_
+reminding	VVG	remind	VVG	VERB	conj	re-mind-ing
+people	NNS	person	NN0	NOUN	iobj	_
+I	PP	I	PNP	PRON	nsubj	_
+exist	VVP	exist	VVB	VERB	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="zero">
+Remember	VV	remember	VVB	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+at	IN	at	PRP	ADP	case	_
+present	NN	present	NN1	NOUN	obl	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+cohort	NN	cohort	NN1	NOUN	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+fellow	JJ	fellow	AJ0	ADJ	amod	_
+students	NNS	student	NN2	NOUN	ccomp	stud-ent-s
+<w>
+<sic ana="... ">
+...	:	…	PUN	PUNCT	punct	_
+</sic>
+in	IN	in	PRP	ADP	case	_
+</w>
+the	DT	the	AT0	DET	det	_
+future	NN	future	NN1	NOUN	nmod	_
+they	PP	they	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+coworkers	NNS	coworker	NN2	NOUN	parataxis	co-work-er-s
+or	CC	or	CJC	CCONJ	cc	_
+colleagues	NNS	colleague	NN2	NOUN	conj	colleague-s
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+professional	JJ	professional	AJ0	ADJ	amod	profession-al
+setting	NN	setting	NN1	NOUN	nmod	sett-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#riotous_jocundity" whom="#GhostofHowardHughes">
+<p>
+<s type="multiple" transition="null">
+Totally	RB	totally	AV0	ADV	advmod	Total-ly
+agree	VVP	agree	VVB	VERB	root	_
+(	(	(	PUL	PUNCT	punct	_
+though	IN	though	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+very	RB	very	AV0	ADV	advmod	_
+social	JJ	social	AJ0	ADJ	advcl	soci-al
+and	CC	and	CJC	CCONJ	cc	_
+also	RB	also	AV0	ADV	advmod	_
+organize	VVP	organize	VVB	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+these	DT	this	DT0	DET	det	_
+kinds	NNS	kind	NN2	NOUN	nmod	kind-s
+of	IN	of	PRF	ADP	case	_
+events	NNS	event	NN2	NOUN	nmod	event-s
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="null">
+People	NNS	person	NN0	NOUN	nsubj	_
+who	WP	who	PNQ	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+attend	VV	attend	VVI	VERB	acl:relcl	at-tend
+departmental	JJ	departmental	AJ0	ADJ	amod	depart-ment-al
+events	NNS	event	NN2	NOUN	obj	event-s
+at	IN	at	PRP	ADP	case	_
+all	DT	all	DT0	DET	obl	_
+or	CC	or	CJC	CCONJ	cc	_
+put	VVP	put	VVB	VERB	conj	_
+in	RP	in	AVP	ADP	compound:prt	_
+face	NN	face	NN1	NOUN	compound	_
+time	NN	time	NN1	NOUN	obj	_
+can	MD	can	VM0	AUX	aux	_
+miss	VV	miss	VVI	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+opportunities	NNS	opportunity	NN2	NOUN	nmod	opportun-itie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+position	NN	position	NN1	NOUN	root	_
+where	WRB	where	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+am	VBP	be	VBB	AUX	aux:pass	_
+often	RB	often	AV0	ADV	advmod	_
+asked	VVN	ask	VVN	VERB	acl:relcl	ask-ed
+to	TO	to	TO0	PART	mark	_
+recommend	VV	recommend	VVI	VERB	xcomp	re-commend
+fellow	JJ	fellow	AJ0	ADJ	amod	_
+students	NNS	student	NN2	NOUN	obj	stud-ent-s
+for	IN	for	PRP	ADP	case	_
+awards	NNS	award	NN2	NOUN	obl	award-s
+,	,	,	PUN	PUNCT	punct	_
+grant	NN	grant	NN1	NOUN	compound	_
+opportunities	NNS	opportunity	NN2	NOUN	conj	opportun-itie-s
+,	,	,	PUN	PUNCT	punct	_
+jobs	NNS	job	NN2	NOUN	conj	job-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+publishing	NN	publishing	NN1	NOUN	compound	publish-ing
+opportunities	NNS	opportunity	NN2	NOUN	conj	opportun-itie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+If	IN	if	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+only	RB	only	AV0	ADV	advmod	_
+see	VVP	see	VVB	VERB	advcl	_
+you	PP	you	PNP	PRON	obj	_
+once	RB	once	CJS	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+year	NN	year	NN1	NOUN	obl:tmod	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	conj	_
+or	CC	or	CJC	CCONJ	cc	_
+trust	VV	trust	VVI	VERB	conj	_
+you	PP	you	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+wo	MD	will	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	aux	_
+recommending	VVG	recommend	VVG	VERB	root	recommend-ing
+you	PP	you	PNP	PRON	obj	_
+for	IN	for	PRP	ADP	case	_
+anything	NN	anything	NN1	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+imagine	VVP	imagine	VVB	VERB	root	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	ccomp	_
+for	IN	for	PRP	ADP	case	_
+faculty	NN	faculty	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+If	IN	if	CJS	SCONJ	mark	_
+people	NNS	person	NN0	NOUN	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+see	VV	see	VVI	VERB	advcl	_
+you	PP	you	PNP	PRON	obj	_
+often	RB	often	AV0	ADV	advmod	_
+enough	RB	enough	AV0	ADV	advmod	_
+to	TO	to	TO0	PART	mark	_
+build	VV	build	VVI	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+relationship	NN	relationship	NN1	NOUN	obj	relat-ion-ship
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+going	VVG	go	VVG	VERB	root	go-ing
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	xcomp	_
+out	IN	out	PRP	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+way	NN	way	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+help	VV	help	VVI	VERB	advcl	_
+you	PP	you	PNP	PRON	obj	_
+succeed	VV	succeed	VVI	VERB	xcomp	succe-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#fishliz" whom="#GhostofHowardHughes">
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+agree	VVP	agree	VVB	VERB	root	_
+with	IN	with	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+And	CC	and	CJC	CCONJ	cc	_
+making	VVG	make	VVG	VERB	csubj	mak-ing
+appearances	NNS	appearance	NN2	NOUN	obj	appear-ance-s
+at	IN	at	PRP	ADP	case	_
+things	NNS	thing	NN2	NOUN	obl	thing-s
+like	IN	like	PRP	ADP	case	_
+department	NN	department	NN1	NOUN	compound	depart-ment
+BBQs	NNS	barbecue	NN2	NOUN	nmod	BBQ-s
+and	CC	and	CJC	CCONJ	cc	_
+club	NN	club	NN1	NOUN	compound	_
+meetings	NNS	meeting	NN2	NOUN	conj	meet-ing-s
+will	MD	will	VM0	AUX	aux	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+earn	VV	earn	VVI	VERB	root	_
+you	PP	you	PNP	PRON	iobj	_
+points	NNS	point	NN2	NOUN	obj	point-s
+with	IN	with	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+<w>
+adviser	NN	adviser	NN1	NOUN	obl	advis-er
+/	SYM	/	UNC	SYM	cc	_
+other	JJ	other	AJ0	ADJ	amod	_
+</w>
+faculty	NN	faculty	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+friends	NNS	friend	NN2	NOUN	xcomp	friend-s
+with	IN	with	PRP	ADP	case	_
+everyone	NN	everyone	NN1	PRON	nmod	every-one
+but	CC	but	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+make	VV	make	VVI	VERB	conj	_
+an	DT	a	AT0	DET	det	_
+effort	NN	effort	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+get	VV	get	VVI	VERB	acl	_
+to	TO	to	TO0	PART	mark	_
+know	VV	know	VVI	VERB	xcomp	_
+people	NNS	person	NN0	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+make	VV	make	VVB	VERB	conj	_
+connections	NNS	connection	NN2	NOUN	obj	connect-ion-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="other" transition="smooth-shift">
+edit	NN	edit	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+Just	RB	just	AV0	ADV	advmod	_
+to	TO	to	TO0	PART	mark	_
+build	VV	build	VVI	VERB	parataxis	_
+on	IN	on	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+feel	VV	feel	VVI	VERB	root	_
+guilty	JJ	guilty	AJ0	ADJ	xcomp	guilt-y
+about	IN	about	PRP	SCONJ	mark	_
+not	RB	not	XX0	PART	advmod	_
+going	VVG	go	VVG	VERB	advcl	go-ing
+to	IN	to	PRP	ADP	case	_
+something	NN	something	NN1	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+If	IN	if	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+important	JJ	important	AJ0	ADJ	advcl	import-ant
+to	IN	to	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+important	JJ	important	AJ0	ADJ	root	import-ant
+to	IN	to	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Just	RB	just	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+feel	VV	feel	VVI	VERB	root	_
+obligated	VVN	obligate	VVN	VERB	xcomp	oblig-at-ed
+to	IN	to	PRP	ADP	case	_
+every	DT	every	AT0	DET	det	_
+single	JJ	single	AJ0	ADJ	amod	_
+meeting	NN	meeting	NN1	NOUN	obl	meet-ing
+,	,	,	PUN	PUNCT	punct	_
+BBQ	NN	barbecue	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+happy	JJ	happy	AJ0	ADJ	amod	happ-y
+hour	NN	hour	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#kittysezrelax" whom="#the_bio">
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+it	PP	it	PNP	PRON	expl	_
+’s	VBZ	be	AJ0	AUX	cop	_
+important	JJ	important	AJ0	ADJ	ccomp	import-ant
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	csubj	_
+to	IN	to	PRP	ADP	case	_
+<hi rend="caps">
+SOME	DT	some	DT0	DET	det	_
+</hi>
+events	NNS	event	NN2	NOUN	obl	event-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+name	NN	name	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+collegiality	NN	collegiality	NN1	NOUN	nmod	collegial-ity
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+under	IN	under	PRP	ADP	case	_
+no	DT	no	AT0	DET	det	_
+obligation	NN	obligation	NN1	NOUN	conj	oblig-ation
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	acl	_
+to	IN	to	PRP	ADP	case	_
+all	DT	all	DT0	DET	obl	_
+of	IN	of	PRF	ADP	case	_
+them	PP	they	PNP	PRON	nmod	_
+or	CC	or	CJC	CCONJ	cc	_
+feel	VV	feel	VVB	VERB	conj	_
+guilty	JJ	guilty	AJ0	ADJ	xcomp	guilt-y
+for	IN	for	PRP	SCONJ	mark	_
+declining	VVG	decline	VVG	VERB	advcl	declin-ing
+things	NNS	thing	NN2	NOUN	obj	thing-s
+like	IN	like	PRP	ADP	case	_
+happy	JJ	happy	AJ0	ADJ	amod	happ-y
+hours	NNS	hour	NN2	NOUN	nmod	hour-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="establishment">
+Grad	NN	grad	NN1	NOUN	compound	_
+school	NN	school	NN1	NOUN	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+very	RB	very	AJ0	ADV	advmod	_
+isolating	JJ	isolating	AJ0	ADJ	amod	isolat-ing
+experience	NN	experience	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+after	IN	after	PRP	ADP	case	_
+work	NN	work	NN1	NOUN	compound	_
+events	NNS	event	NN2	NOUN	nsubj	event-s
+are	VBP	be	VBB	AUX	cop	_
+good	JJ	good	AJ0	ADJ	parataxis	_
+for	IN	for	PRP	ADP	case	_
+people	NNS	person	NN0	NOUN	obl	_
+without	IN	without	PRP	ADP	case	_
+local	JJ	local	AJ0	ADJ	amod	loc-al
+support	NN	support	NN1	NOUN	compound	_
+networks	NNS	network	NN2	NOUN	nmod	net-work-s
+(	(	(	PUL	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+girl	NN	girl	NN1	NOUN	nsubj	_
+in	IN	in	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+program	NN	program	NN1	NOUN	nmod	_
+told	VVD	tell	VVD	VERB	parataxis	tol-d
+me	PP	I	PNP	PRON	iobj	_
+last	JJ	last	ORD	ADJ	amod	_
+week	NN	week	NN1	NOUN	obl:tmod	_
+that	IN/that	that	CJT	SCONJ	mark	_
+she	PP	she	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+talk	VV	talk	NN1	VERB	ccomp	_
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+single	JJ	single	AJ0	ADJ	amod	_
+person	NN	person	NN1	NOUN	obl	_
+over	IN	over	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+weekend	NN	weekend	NN1	NOUN	obl	_
+)	)	)	PUR	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+are	VBP	be	VBB	AUX	aux:pass	_
+not	RB	not	XX0	PART	advmod	_
+required	VVN	require	VVN	VERB	conj	requir-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+make	VVP	make	VVB	VERB	root	_
+sure	JJ	sure	AJ0	ADJ	xcomp	_
+to	TO	to	TO0	PART	mark	_
+put	VV	put	VVI	VERB	xcomp	_
+in	RP	in	AVP	ADP	compound:prt	_
+an	DT	a	AT0	DET	det	_
+appearance	NN	appearance	NN1	NOUN	obl	appear-ance
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+major	JJ	major	AJ0	ADJ	amod	_
+events	NNS	event	NN2	NOUN	nmod	event-s
+(	(	(	PUL	PUNCT	punct	_
+back	RB	back	AVP	ADV	compound	_
+to	IN	to	PRP	ADP	case	_
+school	NN	school	NN1	NOUN	obl	_
+reception	NN	reception	NN1	NOUN	appos	recept-ion
+,	,	,	PUN	PUNCT	punct	_
+holiday	NN	holiday	NN1	NOUN	compound	_
+party	NN	party	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+end	NN	end	NN1	NOUN	compound	_
+of	IN	of	PRF	ADP	case	_
+year	NN	year	NN1	NOUN	nmod	_
+reception	NN	reception	NN1	NOUN	conj	recept-ion
+)	)	)	PUR	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+do	VVP	do	VD	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+let	VV	let	PRP	VERB	conj	_
+people	NNS	person	NN0	NOUN	obj	_
+guilt	VV	guilt	VVI	VERB	xcomp	_
+me	PP	I	PNP	PRON	obj	_
+into	IN	into	PRP	ADP	case	in-to
+other	JJ	other	AJ0	ADJ	amod	_
+things	NNS	thing	NN2	NOUN	obl	thing-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+<q>
+“	``	''	PUQ	PUNCT	punct	_
+Thanks	NNS	thanks	NN2	NOUN	csubj	Thank-s
+for	IN	for	PRP	SCONJ	mark	_
+inviting	VVG	invite	VVG	VERB	acl	invit-ing
+me	PP	I	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	conj	_
+other	JJ	other	AJ0	ADJ	amod	_
+plans	NNS	plan	NN2	NOUN	obj	plan-s
+”	''	''	PUQ	PUNCT	punct	_
+</q>
+is	VBZ	be	VBZ	AUX	cop	_
+all	DT	all	DT0	DET	root	_
+you	PP	you	PNP	PRON	nsubj	_
+need	VVP	need	VVB	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#leejh06" whom="#the_bio">
+<p>
+<s type="imp" transition="null">
+Then	RB	then	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+go	VV	go	VVB	VERB	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+There	EX	there	EX0	PRON	expl	_
+’s	VBZ	be	VVZ	VERB	root	_
+no	DT	no	AT0	DET	det	_
+shame	NN	shame	NN1	NOUN	nsubj	_
+in	IN	in	PRP	SCONJ	mark	_
+not	RB	not	XX0	PART	advmod	_
+participating	VVG	participate	VVG	VERB	advcl	participat-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#resorcinarene" whom="#leejh06">
+<p>
+<s type="multiple" transition="null">
+No	UH	no	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+there	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	root	_
+downsides	NNS	downside	NN2	NOUN	nsubj	downside-s
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	CJS	SCONJ	mark	_
+not	RB	not	XX0	PART	advmod	_
+building	VVG	build	VVG	VERB	acl	build-ing
+a	DT	a	AT0	DET	det	_
+network	NN	network	NN1	NOUN	obj	net-work
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#carlgorn" whom="#leejh06">
+<p>
+<s type="other" transition="null">
+Unless	IN	unless	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+department	NN	department	NN1	NOUN	root	depart-ment
+full	JJ	full	AJ0	ADJ	amod	_
+of	IN	of	PRF	ADP	case	_
+extroverts	NNS	extrovert	NN2	NOUN	obl	extro-vert-s
+that	WDT	that	CJT	PRON	nsubj	_
+shame	VVP	shame	VVB	VERB	acl:relcl	_
+you	PP	you	PNP	PRON	obj	_
+for	IN	for	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+</s>
+</p>
+</sp>
+<sp who="#HobbitWithShoes" whom="#carlgorn">
+<p>
+<s type="decl" transition="null">
+Plus	CC	plus	NN1	CCONJ	cc	_
+networking	NN	networking	NN1	NOUN	nsubj	net-work-ing
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+thing	NN	thing	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Getting	VVG	get	VVG	VERB	csubj	Gett-ing
+in	RP	in	AVP	ADP	compound:prt	_
+appearances	NNS	appearance	NN2	NOUN	obj	appear-ance-s
+with	IN	with	PRP	ADP	case	_
+professors	NNS	professor	NN2	NOUN	nmod	profess-or-s
+that	WDT	that	CJT	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+hold	VV	hold	VVI	VERB	acl:relcl	_
+job	NN	job	NN1	NOUN	compound	_
+opportunities	NNS	opportunity	NN2	NOUN	obj	opportun-itie-s
+is	VBZ	be	VBZ	AUX	cop	_
+vital	JJ	vital	AJ0	ADJ	root	_
+depending	VVG	depend	VVG	VERB	case	de-pend-ing
+on	IN	on	PRP	ADP	fixed	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+field	NN	field	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Though	IN	though	CJS	SCONJ	mark	_
+balance	NN	balance	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+key	JJ	key	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	xcomp	_
+to	IN	to	PRP	ADP	case	_
+all	DT	all	DT0	DET	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+socials	NNS	social	NN2	NOUN	nmod	social-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Some	DT	some	DT0	DET	nsubj	_
+of	IN	of	PRF	ADP	case	_
+them	PP	they	PNP	PRON	nmod	_
+are	VBP	be	VBB	AUX	cop	_
+for	IN	for	PRP	ADP	case	_
+us	PP	we	PNP	PRON	root	_
+lonely	JJ	lonely	AJ0	ADJ	amod	lone-ly
+,	,	,	PUN	PUNCT	punct	_
+single	JJ	single	AJ0	ADJ	amod	_
+extroverts	NNS	extrovert	NN2	NOUN	appos	extro-vert-s
+that	WDT	that	CJT	PRON	nsubj	_
+need	VVP	need	VVB	VERB	acl:relcl	_
+a	DT	a	AT0	DET	det	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+life	NN	life	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Focus	VV	focus	NN1	VERB	root	_
+on	IN	on	PRP	ADP	case	_
+club	NN	club	NN1	NOUN	compound	_
+meetings	NNS	meeting	NN2	NOUN	obl	meet-ing-s
+that	WDT	that	CJT	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+look	VV	look	VVI	VERB	acl:relcl	_
+good	JJ	good	AJ0	ADJ	xcomp	_
+on	IN	on	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+CV	NP	CV	NP0	PROPN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+happy	JJ	happy	AJ0	ADJ	amod	happ-y
+hours	NNS	hour	NN2	NOUN	conj	hour-s
+that	WDT	that	CJT	PRON	nsubj	_
+have	VHP	have	VHB	VERB	acl:relcl	_
+important	JJ	important	AJ0	ADJ	amod	import-ant
+professionals	NNS	professional	NN2	NOUN	obj	profession-al-s
+attending	VVG	attend	VVG	VERB	acl	at-tend-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Burner0700" whom="#HobbitWithShoes">
+<p>
+<s type="wh" transition="null">
+Yeah	UH	yeah	ITJ	INTJ	discourse	_
+why	WRB	why	AVQ	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+I	PP	I	PNP	PRON	nsubj	_
+<sic ana="have">
+fave	VH	have	VVI	VERB	root	_
+</sic>
+the	DT	the	AT0	DET	det	_
+feeling	NN	feeling	NN1	NOUN	obj	feel-ing
+<sic>
+mist	JJ	mist	AJ0	ADJ	amod	_
+</sic>
+profs	NNS	prof	NN2	NOUN	nsubj	prof-s
+ca	MD	can	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+help	VV	help	NN1	VERB	acl	_
+<sic ana="you">
+u	PP	you	PNP	PRON	obj	_
+</sic>
+get	VV	get	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+job	NN	job	NN1	NOUN	obj	_
+through	IN	through	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+connections	NNS	connection	NN2	NOUN	obl	connect-ion-s
+</s>
+</p>
+</sp>
+<sp who="#icebugs" whom="#the_bio">
+<p>
+<s type="multiple" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+say	VVP	say	VVB	VERB	root	_
+this	DT	this	DT0	PRON	obj	_
+as	IN	as	CJS	ADP	case	_
+a	DT	a	AT0	DET	det	_
+pretty	RB	pretty	AJ0	ADV	advmod	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+member	NN	member	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+pretty	JJ	pretty	AJ0	ADJ	advmod	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+dept	NN	dept	NN1	NOUN	nmod	_
+-	:	-	PUN	PUNCT	punct	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+burn	VV	burn	VVI	VERB	parataxis	_
+bridges	NNS	bridge	NN2	NOUN	obj	bridge-s
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+go	VV	go	VVI	VERB	conj	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+want	VV	want	VVI	VERB	advcl	_
+to	TO	to	TO0	PART	xcomp	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+events	NNS	event	NN2	NOUN	nmod	event-s
+help	VVP	help	VVB	VERB	ccomp	_
+new	JJ	new	AJ0	ADJ	amod	_
+students	NNS	student	NN2	NOUN	obj	stud-ent-s
+find	VV	find	VVI	VERB	xcomp	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+friends	NNS	friend	NN2	NOUN	obj	friend-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+help	VVP	help	VVB	VERB	conj	_
+maintain	VV	maintain	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+wide	JJ	wide	AJ0	ADJ	amod	_
+network	NN	network	NN1	NOUN	obj	net-work
+of	IN	of	PRF	ADP	case	_
+camaraderie	NN	camaraderie	NN1	NOUN	nmod	camarad-erie
+and	CC	and	CJC	CCONJ	cc	_
+support	NN	support	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="rough-shift">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+feel	VV	feel	VVI	VERB	advcl	_
+like	IN	like	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+need	VVP	need	VVB	VERB	advcl	_
+those	DT	that	DT0	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+then	RB	then	AV0	ADV	advmod	_
+stay	VV	stay	VVB	VERB	root	_
+friendly	JJ	friendly	AJ0	ADJ	xcomp	friend-ly
+with	IN	with	PRP	ADP	case	_
+people	NNS	person	NN0	NOUN	obl	_
+but	CC	but	CJC	CCONJ	cc	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+feel	VV	feel	VVI	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+need	NN	need	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	acl	at-tend
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="rough-shift">
+Maybe	RB	maybe	AV0	ADV	advmod	_
+go	VV	go	VVB	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+particularly	RB	particularly	AV0	ADV	advmod	particul-ar-ly
+big	JJ	big	AJ0	ADJ	amod	_
+events	NNS	event	NN2	NOUN	obl	event-s
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+thing	NN	thing	NN1	NOUN	conj	_
+or	CC	or	CJC	CCONJ	cc	_
+two	CD	two	CRD	NUM	conj	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+beginning	NN	beginning	NN1	NOUN	nmod	beginn-ing
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+semester	NN	semester	NN1	NOUN	nmod	_
+to	TO	to	TO0	PART	mark	_
+meet	VV	meet	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+new	JJ	new	AJ0	ADJ	amod	_
+students	NNS	student	NN2	NOUN	obj	stud-ent-s
+(	(	(	PUL	PUNCT	punct	_
+considering	VVG	consider	VVG	VERB	advcl	consider-ing
+that	IN/that	that	CJT	SCONJ	mark	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+existing	VVG	exist	VVG	VERB	amod	exist-ing
+friends	NNS	friend	NN2	NOUN	nsubj	friend-s
+may	MD	may	VM0	AUX	aux	_
+graduate	VV	graduate	VVI	VERB	ccomp	gradu-ate
+before	IN	before	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+!	SENT	!	PUN	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+call	VV	call	VVB	VERB	conj	_
+that	DT	that	CJT	PRON	obj	_
+good	JJ	good	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#moonraze_maelstrom" whom="#the_bio">
+<p>
+<s type="decl" transition="continue">
+Well	UH	well	ITJ	INTJ	discourse	_
+at	IN	at	PRP	ADP	advmod	_
+least	JJS	least	AJS	ADJ	fixed	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+married	JJ	married	AJ0	ADJ	root	marri-ed
+and	CC	and	CJC	CCONJ	cc	_
+have	VH	have	VHB	VERB	conj	_
+someone	NN	someone	NN1	PRON	obj	_
+who	WP	who	PNQ	PRON	nsubj	_
+gets	VVZ	get	VVZ	VERB	acl:relcl	get-s
+you	PP	you	PNP	PRON	obj	_
+to	TO	to	TO0	PART	mark	_
+hang	VV	hang	VVI	VERB	acl	_
+out	RP	out	AVP	ADP	compound:prt	_
+with	IN	with	PRP	ADP	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+30	CD	30	CRD	NUM	root	_
+,	,	,	PUN	PUNCT	punct	_
+also	RB	also	AV0	ADV	advmod	_
+going	VVG	go	VVG	VERB	conj	go-ing
+into	IN	into	PRP	ADP	case	in-to
+my	PP$	my	DPS	PRON	nmod:poss	_
+second	JJ	second	ORD	ADJ	amod	_
+<sic ana="year">
+yr	NN	year	NN1	NOUN	obl	_
+</sic>
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+already	RB	already	AV0	ADV	advmod	al-ready
+passed	VVN	pass	VVN	VERB	conj	pass-ed
+on	IN	on	PRP	ADP	case	_
+several	JJ	several	DT0	ADJ	amod	_
+invites	NNS	invite	NN2	NOUN	obl	invite-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+straight	RB	straight	AV0	ADV	advmod	_
+up	RB	up	AV0	ADV	advmod	_
+tell	VVP	tell	VVB	VERB	root	_
+them	PP	they	PNP	PRON	iobj	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	aux	_
+going	VVG	go	VVG	VERB	ccomp	go-ing
+home	RB	home	AV0	ADV	advmod	_
+if	IN	if	CJS	SCONJ	mark	_
+asked	VVN	ask	VVN	VERB	advcl	ask-ed
+or	CC	or	CJC	CCONJ	cc	_
+ignore	VVP	ignore	VVB	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+invite	NN	invite	NN1	NOUN	obj	_
+completely	RB	completely	AV0	ADV	advmod	complete-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+feel	VVP	feel	VVB	VERB	root	_
+like	IN	like	PRP	SCONJ	mark	_
+everybody	NN	everybody	NN1	PRON	nsubj	every-body
+got	VVD	get	VVD	VERB	advcl	_
+to	TO	to	TO0	PART	mark	_
+know	VV	know	VVI	VERB	xcomp	_
+me	PP	I	PNP	PRON	obj	_
+<date notBefore="2018" notAfter="2019">
+last	JJ	last	ORD	ADJ	amod	_
+year	NN	year	NN1	NOUN	obl:tmod	_
+</date>
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+pleasant	JJ	pleasant	AJ0	ADJ	amod	_
+enough	RB	enough	DT0	ADV	advmod	_
+coworker	NN	coworker	NN1	NOUN	conj	co-work-er
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	acl	_
+around	RB	around	AVP	ADV	advmod	a-round
+but	CC	but	CJC	CCONJ	cc	_
+there	EX	there	EX0	PRON	expl	_
+was	VBD	be	VBD	VERB	conj	_
+no	DT	no	AT0	DET	det	_
+real	JJ	real	AJ0	ADJ	amod	_
+connection	NN	connection	NN1	NOUN	nsubj	connect-ion
+there	RB	there	AV0	ADV	advmod	_
+and	CC	and	CJC	CCONJ	cc	_
+tbh	RB	tbh	NN1	ADV	discourse	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	conj	_
+everyone	NN	everyone	NN1	PRON	nsubj	every-one
+is	VBZ	be	VBZ	AUX	cop	_
+okay	JJ	okay	AJ0	ADJ	ccomp	_
+with	IN	with	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+particularly	RB	particularly	AV0	ADV	advmod	particul-ar-ly
+special	JJ	special	AJ0	ADJ	root	_
+so	RB	so	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+doubt	VVP	doubt	VVB	VERB	parataxis	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+'m	VBP	be	VBB	AUX	aux:pass	_
+missed	VVN	miss	VVN	VERB	ccomp	miss-ed
+that	RB	that	CJT	ADV	advmod	_
+much	JJ	much	DT0	ADJ	advmod	_
+lol	UH	lol	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+feel	VV	feel	VVI	VERB	parataxis	_
+<sic ana="guilty">
+quilty	JJ	guilty	AJ0	ADJ	xcomp	quilt-y
+</sic>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="continue">
+The	DT	the	AT0	DET	det	_
+big	JJ	big	AJ0	ADJ	amod	_
+events	NNS	event	NN2	NOUN	obl	event-s
+I	PP	I	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+go	VV	go	VVI	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+like	IN	like	PRP	ADP	case	_
+end	NN	end	NN1	NOUN	compound	_
+of	IN	of	PRF	ADP	case	_
+summer	NN	summer	NN1	NOUN	nmod	_
+BBQ	NN	barbecue	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+like	UH	like	ITJ	INTJ	discourse	_
+coffee	NN	coffee	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+lunch	NN	lunch	NN1	NOUN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+happy	JJ	happy	AJ0	ADJ	amod	happ-y
+hour	NN	hour	NN1	NOUN	conj	_
+(	(	(	PUL	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+hate	VVP	hate	VVB	VERB	parataxis	_
+beer	NN	beer	NN1	NOUN	obj	be-er
+)	)	)	PUR	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+MIA	VVP	MIA	VVB	VERB	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+everyone	NN	everyone	NN1	PRON	nsubj	every-one
+seems	VVZ	seem	VVZ	VERB	conj	seem-s
+cool	JJ	cool	AJ0	ADJ	xcomp	_
+with	IN	with	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#I_just_made" whom="#moonraze_maelstrom">
+<p>
+<s type="multiple" transition="smooth-shift">
+Weird	JJ	weird	AJ0	ADJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+remember	VV	remember	VVI	VERB	root	_
+writing	VVG	write	VVG	VERB	ccomp	writ-ing
+this	DT	this	DT0	DET	det	_
+post	NN	post	NN1	NOUN	obj	_
+...	:	…	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+way	NN	way	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#athousandplusone" whom="#moonraze_maelstrom">
+<p>
+<s type="multiple" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+n't	RB	not	XX0	PART	advmod	_
+under	IN	under	PRP	ADP	case	_
+any	DT	any	DT0	DET	det	_
+obligation	NN	obligation	NN1	NOUN	root	oblig-ation
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	acl	at-tend
+social	JJ	social	AJ0	ADJ	amod	soci-al
+events	NNS	event	NN2	NOUN	obj	event-s
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+completely	RB	completely	AV0	ADV	advmod	complete-ly
+write	VV	write	VVI	VERB	conj	_
+them	PP	they	PNP	PRON	obj	_
+off	RP	off	AVP	ADP	compound:prt	_
+either	RB	either	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="establishment">
+No	DT	no	ITJ	DET	det	_
+one	NN	one	NN1	PRON	nsubj	_
+goes	VVZ	go	VVZ	VERB	root	goe-s
+to	IN	to	PRP	ADP	case	_
+every	DT	every	AT0	DET	det	_
+event	NN	event	NN1	NOUN	obl	_
+but	CC	but	CJC	CCONJ	cc	_
+find	VV	find	VVB	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+timeline	NN	timeline	NN1	NOUN	obj	_
+that	WDT	that	CJT	PRON	nsubj	_
+fits	VVZ	fit	VVZ	VERB	acl:relcl	fit-s
+with	IN	with	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+other	JJ	other	AJ0	ADJ	amod	_
+obligations	NNS	obligation	NN2	NOUN	obl	oblig-ation-s
+and	CC	and	CJC	CCONJ	cc	_
+see	VV	see	VVB	VERB	conj	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+make	VV	make	VVI	VERB	ccomp	_
+it	PP	it	PNP	PRON	obj	_
+to	IN	to	PRP	ADP	case	_
+one	CD	one	CRD	NUM	obl	_
+a	DT	a	AT0	DET	det	_
+month	NN	month	NN1	NOUN	nmod:tmod	mon-th
+or	CC	or	CJC	CCONJ	cc	_
+something	NN	something	NN1	PRON	conj	_
+like	IN	like	PRP	ADP	case	_
+that	DT	that	DT0	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+I	PP	I	PNP	PRON	nsubj	_
+went	VVD	go	VVD	VERB	root	_
+into	IN	into	PRP	ADP	case	in-to
+my	PP$	my	DPS	PRON	nmod:poss	_
+program	NN	program	NN1	NOUN	obl	_
+thinking	VVG	think	VVG	VERB	advcl	think-ing
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+degree	NN	degree	NN1	NOUN	obl	_
+as	IN	as	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	compound	_
+goal	NN	goal	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+there	EX	there	EX0	PRON	expl	_
+is	VBZ	be	VBZ	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	nsubj	_
+more	JJR	more	AJC	ADJ	amod	_
+to	TO	to	TO0	PART	mark	_
+gain	VV	gain	VVI	VERB	advcl	_
+from	IN	from	PRP	ADP	case	_
+graduate	JJ	graduate	AJ0	ADJ	amod	gradu-ate
+school	NN	school	NN1	NOUN	obl	_
+than	IN	than	CJS	SCONJ	mark	_
+more	JJR	more	DT0	ADJ	amod	_
+letters	NNS	letter	NN2	NOUN	obl	lett-er-s
+after	IN	after	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+name	NN	name	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Socializing	VVG	socialize	VVG	VERB	csubj	Social-iz-ing
+can	MD	can	VM0	AUX	aux	_
+help	VV	help	VVI	VERB	root	_
+you	PP	you	PNP	PRON	obj	_
+get	VV	get	VVI	VERB	xcomp	_
+more	RBR	more	AV0	ADV	obj	_
+out	IN	out	PRP	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+program	NN	program	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+have	VH	have	VHB	VERB	conj	_
+friends	NNS	friend	NN2	NOUN	obj	friend-s
+to	TO	to	TO0	PART	mark	_
+talk	VV	talk	VVI	VERB	acl	_
+about	IN	about	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+research	NN	research	NN1	NOUN	obl	re-search
+with	IN	with	PRP	ADP	obl	_
+who	WP	who	PNQ	PRON	nsubj	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+care	VVP	care	VVB	VERB	acl:relcl	_
+and	CC	and	CJC	CCONJ	cc	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+interested	JJ	interested	AJ0	ADJ	conj	interest-ed
+in	IN	in	PRP	SCONJ	mark	_
+talking	VVG	talk	VVG	VERB	advcl	talk-ing
+out	RP	out	AVP	ADP	compound:prt	_
+complex	JJ	complex	AJ0	ADJ	amod	_
+points	NNS	point	NN2	NOUN	obj	point-s
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+stuck	JJ	stuck	AJ0	ADJ	acl:relcl	_
+on	IN	on	PRP	ADP	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+These	DT	this	DT0	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+also	RB	also	AV0	ADV	advmod	_
+people	NNS	person	NN0	NOUN	root	_
+who	WP	who	PNQ	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+let	VV	let	VVI	VERB	acl:relcl	_
+you	PP	you	PNP	PRON	obj	_
+know	VV	know	VVI	VERB	xcomp	_
+about	IN	about	PRP	ADP	case	_
+fellowships	NNS	fellowship	NN2	NOUN	obl	fellow-ship-s
+,	,	,	PUN	PUNCT	punct	_
+conferences	NNS	conference	NN2	NOUN	conj	confer-ence-s
+etc.	FW	etc.	UNC	NOUN	conj	_
+that	WDT	that	CJT	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+enhance	VV	enhance	VVI	VERB	acl:relcl	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+experience	NN	experience	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="smooth-shift">
+Overall	RB	overall	AV0	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+find	VV	find	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+balance	NN	balance	NN1	NOUN	obj	_
+that	WDT	that	CJT	PRON	nsubj	_
+works	VVZ	work	VVZ	VERB	acl:relcl	work-s
+for	IN	for	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+but	CC	but	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+PhD	NN	PhD	NN1	NOUN	nsubj	_
+comes	VVZ	come	VVZ	VERB	conj	come-s
+with	IN	with	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+huge	JJ	huge	AJ0	ADJ	amod	_
+opportunity	NN	opportunity	NN1	NOUN	compound	opportun-ity
+cost	NN	cost	NN1	NOUN	obl	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+rest	NN	rest	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+life	NN	life	NN1	NOUN	nmod	_
+regardless	RB	regardless	AV0	ADV	advmod	regard-less
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	expl	_
+might	MD	might	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+worth	JJ	worth	AJ0	ADJ	parataxis	_
+it	PP	it	PNP	PRON	obj	_
+to	TO	to	TO0	PART	mark	_
+look	VV	look	VVI	VERB	csubj	_
+at	IN	at	PRP	ADP	case	_
+these	DT	this	DT0	DET	det	_
+events	NNS	event	NN2	NOUN	obl	event-s
+and	CC	and	CJC	CCONJ	cc	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+peers	NNS	peer	NN2	NOUN	conj	pe-er-s
+as	IN	as	PRP	ADP	case	_
+part	NN	part	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+what	WP	what	PNQ	PRON	nmod	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+getting	VVG	get	VVG	VERB	acl:relcl	gett-ing
+out	IN	out	PRP	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+program	NN	program	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

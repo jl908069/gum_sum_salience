@@ -1,0 +1,1065 @@
+<text id="GUM_speech_austria" partition="test" author="Michael Spindelegger" dateCollected="2020-12-02" dateCreated="2011-09-24" dateModified="2011-09-24" shortTitle="austria" sourcePublication="Alexander Baturo, Niheer Dasandi, and Slava Mikhaylov, &quot;Understanding State Preferences With Text As Data: Introducing the UN General Debate Corpus&quot; Research &amp; Politics, 2017" sourceURL="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y" speakerCount="1" speakerList="#MichaelSpindelegger" title="Statement by H.E. Dr. Michael Spindelegger Vice-Chancellor and Federal Minister for European and International Affairs of the Republic of Austria at the 66th Session of the General Assembly of the United Nations" type="speech" summary="In a 2011 speech to the UN General Assembly in the wake of the Arab Spring, Austria calls for action in the Arab world against violence and human rights violations, for the promotion of peace in the Middle East and the development of energy efficiency and renewable energy." summary2="With recent fights for human rights in the Middle East, Austria encourages dialogue and reforms for meaningful change rather than violence, as well as vocalizes support in providing humanitarian assistance and access to modern energy services.">
+<p>
+<s type="decl" transition="establishment">
+<date when="2011">
+This	DT	this	DT0	DET	det	_
+year	NN	year	NN1	NOUN	nsubj	_
+</date>
+has	VHZ	have	VHZ	AUX	aux	ha-s
+once	RB	once	AV0	ADV	advmod	_
+again	RB	again	AV0	ADV	advmod	_
+confirmed	VVN	confirm	VVN	VERB	root	confirm-ed
+the	DT	the	AT0	DET	det	_
+importance	NN	importance	NN1	NOUN	obj	import-ance
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	nmod	Nation-s
+as	IN	as	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+truly	RB	truly	AV0	ADV	advmod	tru-ly
+indispensable	JJ	indispensable	AJ0	ADJ	amod	in-dispens-able
+multilateral	JJ	multilateral	AJ0	ADJ	amod	multi-lateral
+forum	NN	forum	NN1	NOUN	nmod	_
+for	IN	for	PRP	SCONJ	mark	_
+addressing	VVG	address	VVG	VERB	acl	address-ing
+<date when="2011-09-24">
+today	NN	today	NN1	NOUN	nmod:poss	to-day
+</date>
+’s	POS	's	POS	PART	case	_
+global	JJ	global	AJ0	ADJ	amod	glob-al
+problems	NNS	problem	NN2	NOUN	obj	problem-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+humanitarian	JJ	humanitarian	AJ0	ADJ	amod	humanit-arian
+crisis	NN	crisis	NN1	NOUN	nsubj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Horn	NP	Horn	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Africa	NP	Africa	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+ecological	JJ	ecological	AJ0	ADJ	amod	ecolog-ic-al
+disasters	NNS	disaster	NN2	NOUN	conj	disaster-s
+such	JJ	such	DT0	ADJ	case	_
+as	IN	as	CJS	ADP	fixed	_
+Fukushima	NP	Fukushima	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+political	JJ	political	AJ0	ADJ	amod	politic-al
+developments	NNS	development	NN2	NOUN	conj	develop-ment-s
+like	IN	like	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Arab	NP	Arab	NP0	ADJ	amod	_
+Spring	NP	Spring	NP0	PROPN	nmod	Spring
+and	CC	and	CJC	CCONJ	cc	_
+terrorist	JJ	terrorist	AJ0	ADJ	amod	terror-ist
+attacks	NNS	attack	NN2	NOUN	conj	attack-s
+such	JJ	such	DT0	ADJ	case	_
+as	IN	as	CJS	ADP	fixed	_
+the	DT	the	AT0	DET	det	_
+assault	NN	assault	NN1	NOUN	nmod	_
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	compound	Nation-s
+building	NN	building	NN1	NOUN	nmod	build-ing
+in	IN	in	PRP	ADP	case	_
+Abuja	NP	Abuja	NP0	PROPN	nmod	_
+<date when="2011-08">
+last	JJ	last	ORD	ADJ	amod	_
+August	NP	August	NP0	PROPN	nmod:tmod	_
+</date>
+require	VVP	require	VVB	VERB	root	_
+concerted	JJ	concerted	AJ0	ADJ	amod	concert-ed
+action	NN	action	NN1	NOUN	obj	act-ion
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	nmod	Nation-s
+and	CC	and	CJC	CCONJ	cc	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+Member	NP	Member	NP0	PROPN	compound	_
+States	NPS	State	NP0	PROPN	conj	State-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Ten	CD	ten	CRD	NUM	nummod	_
+years	NNS	year	NN2	NOUN	obl:tmod	year-s
+after	IN	after	PRP	ADP	case	_
+<date when="2001-09-11">
+9/11	NP	9/11	NP0	PROPN	nmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+joint	JJ	joint	AJ0	ADJ	amod	join-t
+action	NN	action	NN1	NOUN	nsubj	act-ion
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+fight	NN	fight	NN1	NOUN	nmod	_
+against	IN	against	PRP	ADP	case	a-gainst
+terrorism	NN	terrorism	NN1	NOUN	nmod	terror-ism
+continues	VVZ	continue	VVZ	VERB	root	continue-s
+to	TO	to	TO0	PART	mark	_
+remain	VV	remain	VVI	VERB	xcomp	_
+central	JJ	central	AJ0	ADJ	xcomp	centr-al
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+multilateral	JJ	multilateral	AJ0	ADJ	amod	multi-lateral
+agenda	NN	agenda	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+<date from="2011-01" to="2011-09">
+the	DT	the	AT0	DET	det	_
+past	JJ	past	AJ0	ADJ	amod	_
+nine	CD	nine	CRD	NUM	nummod	_
+months	NNS	month	NN2	NOUN	obl	mon-th-s
+</date>
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+witnessed	VVN	witness	VVN	VERB	root	wit-ness-ed
+momentous	JJ	momentous	AJ0	ADJ	amod	moment-ous
+changes	NNS	change	NN2	NOUN	obj	change-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Arab	JJ	Arab	AJ0	ADJ	amod	_
+world	NN	world	NN1	NOUN	nmod	_
+that	WDT	that	CJT	PRON	obj	_
+nobody	NN	nobody	NN1	PRON	nsubj	no-body
+expected	VVD	expect	VVD	VERB	acl:relcl	expect-ed
+when	WRB	when	CJS	ADV	advmod	_
+we	PP	we	PNP	PRON	nsubj	_
+met	VVD	meet	VVD	VERB	advcl	_
+<date when="2010">
+one	CD	one	CRD	NUM	nummod	_
+year	NN	year	NN1	NOUN	obl:tmod	_
+ago	RB	ago	AV0	ADV	advmod	a-go
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Pressure	NN	pressure	NN1	NOUN	nsubj:pass	_
+for	IN	for	PRP	ADP	case	_
+change	NN	change	NN1	NOUN	nmod	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+driven	VVN	drive	VVN	VERB	root	driv-en
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+wish	NN	wish	NN1	NOUN	obl:agent	_
+of	IN	of	PRF	ADP	case	_
+women	NNS	woman	NN2	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+men	NNS	man	NN2	NOUN	conj	_
+to	TO	to	TO0	PART	mark	_
+choose	VV	choose	VVI	VERB	acl	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	amod	_
+fate	NN	fate	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+to	TO	to	TO0	PART	mark	_
+improve	VV	improve	VVI	VERB	conj	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+chances	NNS	chance	NN2	NOUN	obj	chance-s
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+better	JJR	good	AJC	ADJ	amod	bett-er
+life	NN	life	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+These	DT	this	DT0	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+legitimate	JJ	legitimate	AJ0	ADJ	amod	_
+demands	NNS	demand	NN2	NOUN	root	demand-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+An	DT	a	AT0	DET	det	_
+overwhelming	JJ	overwhelming	AJ0	ADJ	amod	over-whelm-ing
+number	NN	number	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+young	JJ	young	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nmod	_
+were	VBD	be	VBD	AUX	cop	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+forefront	NN	forefront	NN1	NOUN	root	fore-front
+of	IN	of	PRF	ADP	case	_
+this	DT	this	DT0	DET	det	_
+enormous	JJ	enormous	AJ0	ADJ	amod	_
+tide	NN	tide	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+started	VVD	start	VVD	VERB	acl:relcl	start-ed
+in	IN	in	PRP	ADP	case	_
+Tunisia	NP	Tunisia	NP0	PROPN	obl	Tunis-ia
+and	CC	and	CJC	CCONJ	cc	_
+Egypt	NP	Egypt	NP0	PROPN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+pay	VV	pay	VVI	VERB	root	_
+tribute	NN	tribute	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+courage	NN	courage	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+In	IN	in	PRP	ADP	case	_
+Libya	NP	Libya	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+thousands	NNS	thousand	NN2	NOUN	nsubj	thousand-s
+lost	VVD	lose	VVD	VERB	root	los-t
+their	PP$	their	DPS	PRON	nmod:poss	_
+lives	NNS	life	NN2	NOUN	obj	live-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+struggle	NN	struggle	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+freedom	NN	freedom	NN1	NOUN	nmod	free-dom
+and	CC	and	CJC	CCONJ	cc	_
+democracy	NN	democracy	NN1	NOUN	conj	democra-cy
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+Syria	NP	Syria	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+to	IN	to	PRP	ADP	case	_
+some	DT	some	DT0	DET	det	_
+extent	NN	extent	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+Yemen	NP	Yemen	NP0	PROPN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+suppression	NN	suppression	NN1	NOUN	nsubj	suppress-ion
+is	VBZ	be	VBZ	AUX	cop	_
+ongoing	JJ	ongoing	AJ0	ADJ	root	on-go-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+strongly	RB	strongly	AV0	ADV	advmod	strong-ly
+condemns	VVZ	condemn	VVZ	VERB	root	condemn-s
+the	DT	the	AT0	DET	det	_
+systematic	JJ	systematic	AJ0	ADJ	amod	system-atic
+human	JJ	human	AJ0	ADJ	amod	_
+rights	NNS	right	NN2	NOUN	compound	right-s
+violations	NNS	violation	NN2	NOUN	obj	violat-ion-s
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+violence	NN	violence	NN1	NOUN	conj	viol-ence
+against	IN	against	PRP	ADP	case	a-gainst
+peaceful	JJ	peaceful	AJ0	ADJ	amod	peace-ful
+demonstrators	NNS	demonstrator	NN2	NOUN	nmod	demonstrat-or-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+strongly	RB	strongly	AV0	ADV	advmod	strong-ly
+urge	VVP	urge	VVB	VERB	root	_
+those	DT	that	DT0	PRON	obj	_
+responsible	JJ	responsible	AJ0	ADJ	amod	respons-ible
+to	TO	to	TO0	PART	mark	_
+immediately	RB	immediately	AV0	ADV	advmod	im-mediate-ly
+stop	VV	stop	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+bloodshed	NN	bloodshed	NN1	NOUN	obj	blood-shed
+and	CC	and	CJC	CCONJ	cc	_
+to	TO	to	TO0	PART	mark	_
+engage	VV	engage	VVI	VERB	conj	en-gage
+in	IN	in	PRP	ADP	case	_
+meaningful	JJ	meaningful	AJ0	ADJ	amod	mean-ing-ful
+dialogue	NN	dialogue	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+reforms	NNS	reform	NN2	NOUN	conj	reform-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+supports	VVZ	support	VVZ	VERB	root	support-s
+the	DT	the	AT0	DET	det	_
+Libyan	JJ	Libyan	AJ0	ADJ	amod	Liby-an
+people	NN	people	NN0	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+struggle	NN	struggle	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+freedom	NN	freedom	NN1	NOUN	nmod	free-dom
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Over	RB	over	PRP	ADV	advmod	_
+€	$	€	NP0	SYM	nsubj:pass	_
+150	CD	150	CRD	NUM	compound	_
+million	CD	million	CRD	NUM	nummod	_
+blocked	VVN	block	VVN	VERB	acl	block-ed
+in	IN	in	PRP	ADP	case	_
+Austrian	JJ	Austrian	AJ0	ADJ	amod	Austri-an
+bank	NN	bank	NN1	NOUN	compound	_
+accounts	NNS	account	NN2	NOUN	obl	account-s
+has	VHZ	have	VHZ	AUX	aux	ha-s
+been	VBN	be	VBN	AUX	aux:pass	_
+de-frozen	VVN	de-freeze	VVN	VERB	root	_
+for	IN	for	PRP	ADP	case	_
+humanitarian	JJ	humanitarian	AJ0	ADJ	amod	humanit-arian
+use	NN	use	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Both	CC	both	AV0	CCONJ	cc:preconj	_
+the	DT	the	AT0	DET	det	_
+Austrian	NP	Austrian	NP0	ADJ	amod	Austri-an
+Government	NP	Government	NP0	PROPN	nsubj	Govern-ment
+and	CC	and	CJC	CCONJ	cc	_
+private	JJ	private	AJ0	ADJ	amod	_
+sector	NN	sector	NN1	NOUN	conj	_
+have	VHP	have	VHB	AUX	aux	_
+provided	VVN	provide	VVN	VERB	root	provid-ed
+medicine	NN	medicine	NN1	NOUN	obj	medic-ine
+,	,	,	PUN	PUNCT	punct	_
+relief	NN	relief	NN1	NOUN	compound	_
+supplies	NNS	supply	NN2	NOUN	conj	supp-lie-s
+and	CC	and	CJC	CCONJ	cc	_
+desperately	RB	desperately	AV0	ADV	advmod	desperate-ly
+needed	VVN	need	VVN	VERB	amod	need-ed
+fuel	NN	fuel	NN1	NOUN	conj	_
+to	IN	to	PRP	ADP	case	_
+Libya	NP	Libya	NP0	PROPN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="establishment">
+The	DT	the	AT0	DET	det	_
+international	JJ	international	AJ0	ADJ	amod	inter-nation-al
+community	NN	community	NN1	NOUN	nsubj	commun-ity
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	conj	Nation-s
+have	VHP	have	VHB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+support	VV	support	VVI	VERB	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+assist	VV	assist	VVI	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+transition	NN	transition	NN1	NOUN	compound	_
+process	NN	process	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Arab	JJ	Arab	AJ0	ADJ	amod	_
+world	NN	world	NN1	NOUN	nmod	_
+as	IN	as	PRP	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	nsubj	Nation-s
+does	VVZ	do	VDZ	AUX	advcl	doe-s
+now	RB	now	AV0	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+Libya	NP	Libya	NP0	PROPN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="zero">
+This	DT	this	DT0	DET	det	_
+period	NN	period	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+change	NN	change	NN1	NOUN	nmod	_
+may	MD	may	VM0	AUX	aux	_
+last	VV	last	VVI	VERB	root	_
+for	IN	for	PRP	ADP	case	_
+some	DT	some	DT0	DET	det	_
+time	NN	time	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+full	JJ	full	AJ0	ADJ	conj	_
+of	IN	of	PRF	ADP	case	_
+challenges	NNS	challenge	NN2	NOUN	obl	challenge-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+welcomes	VVZ	welcome	VVZ	VERB	root	welcome-s
+all	DT	all	DT0	DET	det	_
+efforts	NNS	effort	NN2	NOUN	obj	effort-s
+undertaken	VVN	undertake	VVN	VERB	acl	under-tak-en
+by	IN	by	PRP	ADP	case	_
+Governments	NNS	government	NN2	NOUN	obl:agent	Govern-ment-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+region	NN	region	NN1	NOUN	nmod	_
+for	IN	for	PRP	ADP	case	_
+peaceful	JJ	peaceful	AJ0	ADJ	amod	peace-ful
+and	CC	and	CJC	CCONJ	cc	_
+credible	JJ	credible	AJ0	ADJ	conj	_
+change	NN	change	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+encourage	VVP	encourage	VVB	VERB	root	en-courage
+the	DT	the	AT0	DET	det	_
+newly	RB	newly	AV0	ADV	advmod	new-ly
+empowered	VVN	empower	VVN	VERB	amod	empower-ed
+authorities	NNS	authority	NN2	NOUN	obj	authoritie-s
+to	TO	to	TO0	PART	mark	_
+create	VV	create	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+constitutional	JJ	constitutional	AJ0	ADJ	amod	constitut-ion-al
+framework	NN	framework	NN1	NOUN	obj	frame-work
+based	VVN	base	VVN	VERB	acl	bas-ed
+on	IN	on	PRP	ADP	case	_
+democracy	NN	democracy	NN1	NOUN	obl	democra-cy
+and	CC	and	CJC	CCONJ	cc	_
+human	JJ	human	AJ0	ADJ	amod	_
+rights	NNS	right	NN2	NOUN	conj	right-s
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	SCONJ	mark	_
+order	NN	order	NN1	NOUN	fixed	_
+to	TO	to	TO0	PART	mark	_
+fulfil	VV	fulfil	VVI	VERB	advcl	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+mandate	NN	mandate	NN1	NOUN	obj	_
+for	IN	for	PRP	ADP	case	_
+democratic	JJ	democratic	AJ0	ADJ	amod	democrat-ic
+change	NN	change	NN1	NOUN	nmod	_
+responsibly	RB	responsibly	AV0	ADV	advmod	responsib-ly
+and	CC	and	CJC	CCONJ	cc	_
+peacefully	RB	peacefully	AV0	ADV	conj	peace-ful-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="establishment">
+The	DT	the	AT0	DET	det	_
+events	NNS	event	NN2	NOUN	obl	event-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Arab	JJ	Arab	AJ0	ADJ	amod	_
+world	NN	world	NN1	NOUN	nmod	_
+notwithstanding	IN	notwithstanding	PRP	ADP	case	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+must	MD	must	VM0	AUX	aux	_
+continue	VV	continue	VVI	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+focus	VV	focus	VVI	VERB	xcomp	_
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Middle	NP	Middle	NP0	PROPN	compound	_
+East	NP	East	NP0	PROPN	compound	_
+peace	NN	peace	NN1	NOUN	compound	_
+process	NN	process	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+Middle	NP	Middle	NP0	PROPN	compound	_
+East	NP	East	NP0	PROPN	nsubj	_
+took	VVD	take	VVD	VERB	root	_
+centre	NN	centre	NN1	NOUN	compound	_
+stage	NN	stage	NN1	NOUN	obj	_
+<date from="2011-09-19" to="2011-09-24">
+this	DT	this	DT0	DET	det	_
+week	NN	week	NN1	NOUN	obl:tmod	_
+</date>
+here	RB	here	AV0	ADV	advmod	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+General	NP	General	NP0	PROPN	compound	_
+Assembly	NP	Assembly	NP0	PROPN	obl	Assembl-y
+—	:	—	UNC	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+rightly	RB	rightly	AV0	ADV	advmod	right-ly
+so	RB	so	AV0	ADV	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+We	PP	we	PNP	PRON	nsubj	_
+must	MD	must	VM0	AUX	aux	_
+build	VV	build	VVI	VERB	root	_
+trust	NN	trust	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+we	PP	we	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	conj	_
+to	TO	to	TO0	PART	mark	_
+foster	VV	foster	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+belief	NN	belief	NN1	NOUN	obj	_
+among	IN	among	PRP	ADP	case	a-mong
+Israelis	NPS	Israeli	NP0	PROPN	nmod	Israel-i-s
+and	CC	and	CJC	CCONJ	cc	_
+Palestinians	NPS	Palestinian	NP0	PROPN	conj	Palestin-ian-s
+that	IN/that	that	CJT	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+negotiated	VVN	negotiate	VVN	VERB	amod	negotiat-ed
+settlement	NN	settlement	NN1	NOUN	nsubj:pass	settle-ment
+can	MD	can	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+achieved	VVN	achieve	VVN	VERB	acl	achiev-ed
+—	:	—	UNC	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+sustainable	JJ	sustainable	AJ0	ADJ	amod	sustain-able
+solution	NN	solution	NN1	NOUN	dislocated	_
+based	VVN	base	VVN	VERB	acl	bas-ed
+on	IN	on	PRP	ADP	case	_
+two	CD	two	CRD	NUM	nummod	_
+States	NNS	state	NN2	NOUN	obl	State-s
+living	VVG	live	VVG	VERB	acl	liv-ing
+side	NN	side	NN1	NOUN	obl:npmod	_
+by	IN	by	PRP	ADP	case	_
+side	NN	side	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+secure	JJ	secure	AJ0	ADJ	amod	_
+and	CC	and	CJC	CCONJ	cc	_
+peaceful	JJ	peaceful	AJ0	ADJ	conj	peace-ful
+neighbourhood	NN	neighbourhood	NN1	NOUN	obl	neighbour-hood
+within	IN	within	PRP	ADP	case	_
+mutually	RB	mutually	AV0	ADV	advmod	mutual-ly
+recognized	VVN	recognize	VVN	VERB	amod	re-cogniz-ed
+borders	NNS	border	NN2	NOUN	obl	border-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+no	DT	no	AT0	DET	det	_
+choice	NN	choice	NN1	NOUN	obj	_
+but	IN	but	CJS	SCONJ	mark	_
+to	TO	to	TO0	PART	mark	_
+return	VV	return	VVI	VERB	acl	re-turn
+to	IN	to	PRP	ADP	case	_
+direct	JJ	direct	AJ0	ADJ	amod	_
+negotiations	NNS	negotiation	NN2	NOUN	obl	negotiat-ion-s
+between	IN	between	PRP	ADP	case	be-tween
+the	DT	the	AT0	DET	det	_
+two	CD	two	CRD	NUM	nummod	_
+parties	NNS	party	NN2	NOUN	nmod	partie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+Quartet	NP	Quartet	NP0	PROPN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+statement	NN	statement	NN1	NOUN	obl	state-ment
+<date when="2011-09-23">
+yesterday	NN	yesterday	NN1	NOUN	nmod:tmod	yester-day
+</date>
+,	,	,	PUN	PUNCT	punct	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+shown	VVN	show	VVN	VERB	root	show-n
+a	DT	a	AT0	DET	det	_
+way	NN	way	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	acl	_
+that	DT	that	DT0	PRON	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+also	RB	also	AV0	ADV	advmod	_
+proposed	VVN	propose	VVN	VERB	conj	propos-ed
+concrete	JJ	concrete	AJ0	ADJ	amod	_
+timelines	NNS	timeline	NN2	NOUN	obj	timeline-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+fully	RB	fully	AV0	ADV	advmod	ful-ly
+supports	VVZ	support	VVZ	VERB	root	support-s
+the	DT	the	AT0	DET	det	_
+Quartet	NP	Quartet	NP0	PROPN	compound	_
+statement	NN	statement	NN1	NOUN	obj	state-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+There	EX	there	EX0	PRON	expl	_
+is	VBZ	be	VBZ	VERB	root	_
+no	DT	no	AT0	DET	det	_
+time	NN	time	NN1	NOUN	nsubj	_
+to	TO	to	TO0	PART	mark	_
+lose	VV	lose	VVI	VERB	acl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+welcomes	VVZ	welcome	VVZ	VERB	root	welcome-s
+President	NP	President	NP0	PROPN	nmod:poss	Presid-ent
+<w>
+Al	NP	Al	NP0	PROPN	flat	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Nasser	NP	Nasser	NP0	PROPN	flat	_
+</w>
+’s	POS	's	POS	PART	case	_
+choice	NN	choice	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+theme	NN	theme	NN1	NOUN	nmod	_
+for	IN	for	PRP	ADP	case	_
+<date when="2011">
+this	DT	this	DT0	DET	det	_
+year	NN	year	NN1	NOUN	nmod:poss	_
+</date>
+’s	POS	's	POS	PART	case	_
+general	JJ	general	AJ0	ADJ	amod	general
+debate	NN	debate	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+appreciate	VVP	appreciate	VVB	VERB	root	_
+Qatar	NP	Qatar	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+strong	JJ	strong	AJ0	ADJ	amod	_
+track	NN	track	NN1	NOUN	compound	_
+record	NN	record	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+regard	NN	regard	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+<date when="2010">
+Last	JJ	last	ORD	ADJ	amod	_
+year	NN	year	NN1	NOUN	nmod:poss	_
+</date>
+’s	POS	's	POS	PART	case	_
+tenth	JJ	tenth	ORD	ADJ	amod	ten-th
+anniversary	NN	anniversary	NN1	NOUN	nsubj	anniversary
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+adoption	NN	adoption	NN1	NOUN	nmod	ad-opt-ion
+of	IN	of	PRF	ADP	case	_
+Security	NP	Security	NP0	PROPN	compound	Secur-ity
+Council	NP	Council	NP0	PROPN	compound	_
+resolution	NN	resolution	NN1	NOUN	nmod	resolut-ion
+1325	CD	1325	CRD	NUM	dep	_
+(	(	(	PUL	PUNCT	punct	_
+<date when="2000">
+2000	CD	2000	CRD	NUM	nmod:tmod	_
+</date>
+)	)	)	PUR	PUNCT	punct	_
+on	IN	on	PRP	ADP	case	_
+women	NNS	woman	NN2	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+peace	NN	peace	NN1	NOUN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+security	NN	security	NN1	NOUN	conj	secur-ity
+reminded	VVD	remind	VVD	VERB	root	remind-ed
+us	PP	we	PNP	PRON	iobj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+promise	NN	promise	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+women	NNS	woman	NN2	NOUN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+full	JJ	full	AJ0	ADJ	amod	_
+and	CC	and	CJC	CCONJ	cc	_
+equal	JJ	equal	AJ0	ADJ	conj	_
+participation	NN	participation	NN1	NOUN	nmod	participat-ion
+in	IN	in	PRP	ADP	case	_
+all	DT	all	DT0	DET	det	_
+efforts	NNS	effort	NN2	NOUN	nmod	effort-s
+of	IN	of	PRF	SCONJ	mark	_
+maintaining	VVG	maintain	VVG	VERB	acl	maintain-ing
+peace	NN	peace	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+security	NN	security	NN1	NOUN	conj	secur-ity
+,	,	,	PUN	PUNCT	punct	_
+including	VVG	include	VVG	VERB	case	includ-ing
+in	IN	in	PRP	ADP	case	_
+mediation	NN	mediation	NN1	NOUN	compound	mediat-ion
+processes	NNS	process	NN2	NOUN	obl	processe-s
+,	,	,	PUN	PUNCT	punct	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+not	RB	not	XX0	PART	advmod	_
+yet	RB	yet	AV0	ADV	advmod	_
+come	VV	come	VVI	VERB	ccomp	_
+true	JJ	true	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+that	IN/that	that	CJT	SCONJ	mark	_
+we	PP	we	PNP	PRON	nsubj	_
+all	DT	all	AV0	DET	det	_
+need	VVP	need	VVB	VERB	conj	_
+to	TO	to	TO0	PART	mark	_
+intensify	VV	intensify	VVI	VERB	xcomp	intens-ify
+our	PP$	our	DPS	PRON	nmod:poss	_
+efforts	NNS	effort	NN2	NOUN	obj	effort-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="smooth-shift">
+In	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+context	NN	context	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+let	VV	let	VVB	VERB	root	_
+me	PP	I	PNP	PRON	obj	_
+also	RB	also	AV0	ADV	advmod	_
+mention	VV	mention	VVI	VERB	xcomp	_
+an	DT	a	AT0	DET	det	_
+Austrian	JJ	Austrian	AJ0	ADJ	amod	Austri-an
+contribution	NN	contribution	NN1	NOUN	obj	contribut-ion
+to	IN	to	PRP	ADP	case	_
+international	JJ	international	AJ0	ADJ	amod	inter-nation-al
+mediation	NN	mediation	NN1	NOUN	compound	mediat-ion
+efforts	NNS	effort	NN2	NOUN	nmod	effort-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+By	IN	by	PRP	SCONJ	mark	_
+inviting	VVG	invite	VVG	VERB	advcl	invit-ing
+political	JJ	political	AJ0	ADJ	amod	politic-al
+<w>
+decision	NN	decision	NN1	NOUN	compound	decis-ion
+-	HYPH	-	PUN	PUNCT	punct	_
+makers	NNS	maker	NN2	NOUN	obj	mak-er-s
+</w>
+from	IN	from	PRP	ADP	case	_
+both	CC	both	DT0	CCONJ	cc:preconj	_
+Khartoum	NP	Khartoum	NP0	PROPN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+Juba	NP	Juba	NP0	PROPN	conj	_
+to	IN	to	PRP	ADP	case	_
+Vienna	NP	Vienna	NP0	PROPN	obl	_
+in	IN	in	PRP	ADP	case	_
+recent	JJ	recent	AJ0	ADJ	amod	_
+years	NNS	year	NN2	NOUN	obl	year-s
+,	,	,	PUN	PUNCT	punct	_
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+managed	VVN	manage	VVN	VERB	root	manag-ed
+to	TO	to	TO0	PART	mark	_
+offer	VV	offer	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+two	CD	two	CRD	NUM	nummod	_
+sides	NNS	side	NN2	NOUN	iobj	side-s
+a	DT	a	AT0	DET	det	_
+platform	NN	platform	NN1	NOUN	obj	_
+for	IN	for	PRP	ADP	case	_
+discussion	NN	discussion	NN1	NOUN	nmod	discuss-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+ready	JJ	ready	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	mark	_
+continue	VV	continue	VVI	VERB	xcomp	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	xcomp	_
+so	RB	so	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="zero">
+The	DT	the	AT0	DET	det	_
+Sudan	NP	Sudan	NP0	PROPN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+South	NP	South	NP0	PROPN	compound	_
+Sudan	NP	Sudan	NP0	PROPN	conj	_
+have	VHP	have	VHB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+shared	VVN	share	VVN	VERB	amod	shar-ed
+past	NN	past	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+must	MD	must	VM0	AUX	aux	_
+resolve	VV	resolve	VVI	VERB	conj	re-solve
+their	PP$	their	DPS	PRON	nmod:poss	_
+remaining	VVG	remain	VVG	VERB	amod	remain-ing
+problems	NNS	problem	NN2	NOUN	obj	problem-s
+peacefully	RB	peacefully	AV0	ADV	advmod	peace-ful-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	compound	Nation-s
+headquarters	NN	headquarters	NN0	NOUN	nsubj	headquarter-s
+in	IN	in	PRP	ADP	case	_
+Vienna	NP	Vienna	NP0	PROPN	nmod	_
+serves	VVZ	serve	VVZ	VERB	root	serve-s
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+dynamic	JJ	dynamic	AJ0	ADJ	amod	_
+hub	NN	hub	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+promotion	NN	promotion	NN1	NOUN	nmod	promot-ion
+of	IN	of	PRF	ADP	case	_
+peace	NN	peace	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+security	NN	security	NN1	NOUN	conj	secur-ity
+and	CC	and	CJC	CCONJ	cc	_
+sustainable	JJ	sustainable	AJ0	ADJ	amod	sustain-able
+development	NN	development	NN1	NOUN	conj	develop-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+am	VBP	be	VBB	AUX	cop	_
+proud	JJ	proud	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	mark	_
+announce	VV	announce	VVI	VERB	xcomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+liaison	NN	liaison	NN1	NOUN	compound	_
+office	NN	office	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	compound	Nation-s
+Office	NP	Office	NP0	PROPN	nmod	_
+for	IN	for	PRP	ADP	case	_
+Disarmament	NP	Disarmament	NP0	PROPN	compound	Dis-arma-ment
+Affairs	NPS	Affair	NP0	PROPN	nmod	Affair-s
+will	MD	will	VM0	AUX	aux	_
+open	VV	open	VVI	VERB	ccomp	_
+in	IN	in	PRP	ADP	case	_
+Vienna	NP	Vienna	NP0	PROPN	obl	_
+soon	RB	soon	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+Over	IN	over	PRP	ADP	case	_
+<date from="2011-01-01" to="2011-09-24">
+the	DT	the	AT0	DET	det	_
+past	JJ	past	AJ0	ADJ	amod	_
+year	NN	year	NN1	NOUN	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+International	NP	International	NP0	ADJ	amod	Inter-nation-al
+Anti-Corruption	NP	Anti-Corruption	NP0	PROPN	compound	Anti-Corrupt-ion
+Academy	NP	Academy	NP0	PROPN	nsubj	_
+set	VVD	set	VVD	VERB	root	_
+up	RP	up	AVP	ADP	compound:prt	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+headquarters	NN	headquarters	NN0	NOUN	obj	headquarter-s
+near	IN	near	PRP	ADP	case	_
+Vienna	NP	Vienna	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Vienna	NP	Vienna	NP0	PROPN	compound	_
+Centre	NP	Centre	NP0	PROPN	nsubj:pass	_
+for	IN	for	PRP	ADP	case	_
+Disarmament	NP	Disarmament	NP0	PROPN	nmod	Dis-arma-ment
+and	CC	and	CJC	CCONJ	cc	_
+Non-Proliferation	NP	Non-Proliferation	NP0	PROPN	conj	Non-Proliferat-ion
+and	CC	and	CJC	CCONJ	cc	_
+an	DT	a	AT0	DET	det	_
+office	NN	office	NN1	NOUN	conj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+International	NP	International	NP0	ADJ	amod	Inter-nation-al
+Peace	NP	Peace	NP0	PROPN	compound	_
+Institute	NP	Institute	NP0	PROPN	nmod	_
+were	VBD	be	VBD	AUX	aux:pass	_
+established	VVN	establish	VVN	VERB	conj	establish-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+fully	RB	fully	AV0	ADV	advmod	ful-ly
+stands	VVZ	stand	VVZ	VERB	root	stand-s
+behind	IN	behind	PRP	ADP	case	be-hind
+the	DT	the	AT0	DET	det	_
+campaign	NN	campaign	NN1	NOUN	obl	_
+launched	VVN	launch	VVN	VERB	acl	launch-ed
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<w>
+Secretary	NP	Secretary	NP0	PROPN	obl:agent	_
+-	HYPH	-	PUN	PUNCT	punct	_
+General	NP	General	NP0	PROPN	flat	_
+</w>
+on	IN	on	PRP	ADP	case	_
+<date when="2011-09-19">
+Monday	NP	Monday	NP0	PROPN	obl	_
+</date>
+to	TO	to	TO0	PART	mark	_
+achieve	VV	achieve	VVI	VERB	acl	_
+universal	JJ	universal	AJ0	ADJ	amod	univers-al
+access	NN	access	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+modern	JJ	modern	AJ0	ADJ	amod	_
+energy	NN	energy	NN1	NOUN	compound	_
+services	NNS	service	NN2	NOUN	nmod	service-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+support	VVP	support	VVB	VERB	root	_
+doubling	VVG	double	VVG	VERB	ccomp	doubl-ing
+the	DT	the	AT0	DET	det	_
+rate	NN	rate	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+improvement	NN	improvement	NN1	NOUN	nmod	improve-ment
+in	IN	in	PRP	ADP	case	_
+energy	NN	energy	NN1	NOUN	compound	_
+efficiency	NN	efficiency	NN1	NOUN	nmod	efficien-cy
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+share	NN	share	NN1	NOUN	conj	_
+of	IN	of	PRF	ADP	case	_
+renewable	JJ	renewable	AJ0	ADJ	amod	re-new-able
+energy	NN	energy	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+global	JJ	global	AJ0	ADJ	amod	glob-al
+energy	NN	energy	NN1	NOUN	compound	_
+mix	NN	mix	NN1	NOUN	nmod	_
+by	IN	by	PRP	ADP	case	_
+<date when="2030">
+2030	CD	2030	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+provides	VVZ	provide	VVZ	VERB	root	provide-s
+substantial	JJ	substantial	AJ0	ADJ	amod	substant-ial
+support	NN	support	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+energy	NN	energy	NN1	NOUN	compound	_
+and	CC	and	CJC	CCONJ	cc	_
+environment	NN	environment	NN1	NOUN	conj	environ-ment
+efforts	NNS	effort	NN2	NOUN	obl	effort-s
+undertaken	VVN	undertake	VVN	VERB	acl	under-tak-en
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	compound	Nation-s
+Industrial	NP	Industrial	NP0	ADJ	amod	Industri-al
+Development	NP	Development	NP0	PROPN	compound	Develop-ment
+Organization	NP	Organization	NP0	PROPN	obl:agent	Organiz-ation
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+<date when="2011-06">
+Last	JJ	last	ORD	ADJ	compound	_
+June	NP	June	NP0	PROPN	obl:tmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+hosted	VVD	host	VVD	VERB	root	host-ed
+the	DT	the	AT0	DET	det	_
+Vienna	NP	Vienna	NP0	PROPN	compound	_
+Energy	NP	Energy	NP0	PROPN	compound	_
+Forum	NP	Forum	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+where	WRB	where	AVQ	ADV	advmod	_
+about	RB	about	PRP	ADV	advmod	_
+1,400	CD	1400	CRD	NUM	nummod	_
+participants	NNS	participant	NN2	NOUN	nsubj	particip-ant-s
+discussed	VVD	discuss	VVD	VERB	acl:relcl	discuss-ed
+alternative	JJ	alternative	AJ0	ADJ	amod	alternat-ive
+energy	NN	energy	NN1	NOUN	compound	_
+concepts	NNS	concept	NN2	NOUN	obj	concept-s
+to	TO	to	TO0	PART	mark	_
+reach	VV	reach	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+energy	NN	energy	NN1	NOUN	compound	_
+goals	NNS	goal	NN2	NOUN	obj	goal-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+Nations	NPS	Nation	NP0	PROPN	nmod	Nation-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+Fukushima	NP	Fukushima	NP0	PROPN	compound	_
+nuclear	JJ	nuclear	AJ0	ADJ	amod	nucle-ar
+catastrophe	NN	catastrophe	NN1	NOUN	nsubj	catastrophe
+should	MD	should	VM0	AUX	aux	_
+become	VV	become	VVI	VERB	root	be-come
+a	DT	a	AT0	DET	det	_
+turning	NN	turning	NN1	NOUN	compound	turn-ing
+point	NN	point	NN1	NOUN	xcomp	_
+in	IN	in	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+approach	NN	approach	NN1	NOUN	nmod	_
+to	IN	to	PRP	ADP	case	_
+nuclear	JJ	nuclear	AJ0	ADJ	amod	nucle-ar
+safety	NN	safety	NN1	NOUN	nmod	safe-ty
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+We	PP	we	PNP	PRON	nsubj:outer	_
+owe	VVP	owe	VVB	VERB	root	_
+it	PP	it	PNP	PRON	expl	_
+to	IN	to	PRP	ADP	case	_
+future	JJ	future	AJ0	ADJ	amod	_
+generations	NNS	generation	NN2	NOUN	obl	generat-ion-s
+to	TO	to	TO0	PART	mark	_
+make	VV	make	VVI	VERB	ccomp	_
+safety	NN	safety	NN1	NOUN	compound	safe-ty
+concerns	NNS	concern	NN2	NOUN	obj	concern-s
+come	VV	come	VVI	VERB	xcomp	_
+first	RB	first	ORD	ADV	advmod	_
+when	WRB	when	CJS	ADV	advmod	_
+using	VVG	use	VVG	VERB	advcl	us-ing
+nuclear	JJ	nuclear	AJ0	ADJ	amod	nucle-ar
+power	NN	power	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Austria	NP	Austria	NP0	PROPN	nsubj	_
+decided	VVD	decide	VVD	VERB	root	decid-ed
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+<date when="1978">
+1978	CD	1978	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+to	TO	to	TO0	PART	mark	_
+forgo	VV	forgo	VVI	VERB	xcomp	for-go
+the	DT	the	AT0	DET	det	_
+use	NN	use	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+nuclear	JJ	nuclear	AJ0	ADJ	amod	nucle-ar
+energy	NN	energy	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Some	DT	some	DT0	DET	det	_
+countries	NNS	country	NN2	NOUN	nsubj	countrie-s
+have	VHP	have	VHB	AUX	aux	_
+recently	RB	recently	AV0	ADV	advmod	recent-ly
+adopted	VVN	adopt	VVN	VERB	root	ad-opt-ed
+a	DT	a	AT0	DET	det	_
+similar	JJ	similar	AJ0	ADJ	amod	_
+course	NN	course	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	obj	_
+we	PP	we	PNP	PRON	nsubj	_
+welcome	VVP	welcome	VVB	VERB	advcl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>

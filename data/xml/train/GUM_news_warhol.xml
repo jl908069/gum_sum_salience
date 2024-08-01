@@ -1,0 +1,2310 @@
+<text id="GUM_news_warhol" partition="train" type="news" sourceURL="https://en.wikinews.org/wiki/Warhol%27s_photo_legacy_spread_by_university_exhibits" dateCreated="2014-01-28" dateCollected="2014-09-15" dateModified="2014-04-15" speakerCount="0" speakerList="none" author="Wikinews" title="Warhol&apos;s photo legacy spread by university exhibits" shortTitle="warhol" summary="A new exhibit of Andy Warhol's Polaroids and prints at the University of Southern Indiana is running from January 23 to March 9, 2014, featuring roughly 100 polaroids donated by the Andy Warhol Foundation, an installation of balloons called Silver Clouds, an installation taking Polaroid pictures of visitors, and Warhol themed food and music.">
+<head>
+<s type="other" transition="establishment">
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+photo	NN	photo	NN1	NOUN	compound	_
+legacy	NN	legacy	NN1	NOUN	root	_
+spread	VVN	spread	VVN	VERB	acl	_
+by	IN	by	PRP	ADP	case	_
+university	NN	university	NN1	NOUN	compound	_
+exhibits	NNS	exhibit	NN2	NOUN	obl:agent	exhibit-s
+</s>
+</head>
+<p>
+<s type="frag" transition="null">
+<date when="2014-01-28">
+Tuesday	NP	Tuesday	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+January	NP	January	NP0	PROPN	compound	_
+28	CD	28	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2014	CD	2014	CRD	NUM	nmod:tmod	_
+</date>
+</s>
+</p>
+<figure>
+<caption>
+<s type="frag" transition="null">
+Portrait	NN	portrait	NN1	NOUN	compound	_
+shot	NN	shot	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+Dennis	NP	Dennis	NP0	PROPN	nmod	_
+Hopper	NP	Hopper	NP0	PROPN	flat	Hopp-er
+,	,	,	PUN	PUNCT	punct	_
+famous	JJ	famous	AJ0	ADJ	amod	fam-ous
+for	IN	for	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+role	NN	role	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<date when="1969">
+1969	CD	1969	CRD	NUM	compound	_
+</date>
+film	NN	film	NN1	NOUN	nmod	_
+Easy	NP	Easy	NP0	ADJ	amod	Eas-y
+Rider	NP	Rider	NP0	PROPN	appos	Rid-er
+,	,	,	PUN	PUNCT	punct	_
+amongst	IN	amongst	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+Polaroids	NNS	Polaroid	NN2	NOUN	nmod	Polaroid-s
+donated	VVN	donate	VVN	VERB	acl	donat-ed
+to	IN	to	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	obl	_
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<hi rend="italic">
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Foundation	NP	Foundation	NP0	PROPN	obl:agent	Found-ation
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Visual	NP	Visual	NP0	ADJ	amod	Vis-ual
+Arts	NPS	Art	NP0	PROPN	nmod	Art-s
+.	SENT	.	PUN	PUNCT	punct	_
+</hi>
+</s>
+<s type="frag" transition="establishment">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+Andy	NP	Andy	NP0	PROPN	dep	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<figure>
+<caption>
+<s type="frag" transition="continue">
+<date when="2014-01-23">
+Opening	VVG	open	VVG	VERB	amod	Open-ing
+night	NN	night	NN1	NOUN	root	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+<date when="2014-01-23">
+January	NP	January	NP0	PROPN	compound	_
+23	CD	23	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2014	CD	2014	CRD	NUM	nmod:tmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+exhibit	NN	exhibit	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Polaroids	NNS	Polaroid	NN2	NOUN	nmod	Polaroid-s
+and	CC	and	CJC	CCONJ	cc	_
+screen	NN	screen	NN1	NOUN	compound	_
+prints	NNS	print	NN2	NOUN	conj	print-s
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Southern	NP	Southern	NP0	ADJ	amod	_
+Indiana	NP	Indiana	NP0	PROPN	nmod	Indi-ana
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+Video	NN	video	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+Miharris	NP	Miharris	NP0	PROPN	dep	_
+&amp;	CC	&amp;	CJC	CCONJ	cc	_
+Acphillips	NP	Acphillips	NP0	PROPN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="frag" transition="null">
+<ref>
+Evansville	NP	Evansville	NP0	PROPN	root	Evans-ville
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Indiana	NP	Indiana	NP0	PROPN	appos	Indi-ana
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	appos	State-s
+</ref>
+-	:	-	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+<date from="2014-01-20" to="2014-01-26">
+This	DT	this	DT0	DET	det	_
+past	JJ	past	AJ0	ADJ	amod	_
+week	NN	week	NN1	NOUN	nsubj	_
+</date>
+marked	VVD	mark	VVD	VERB	root	mark-ed
+<date when="2014-01-28">
+the	DT	the	AT0	DET	det	_
+opening	VVG	open	VVG	VERB	amod	open-ing
+night	NN	night	NN1	NOUN	obj	_
+</date>
+of	IN	of	PRF	ADP	case	_
+an	DT	a	AT0	DET	det	_
+<ref>
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+</ref>
+exhibit	NN	exhibit	NN1	NOUN	nmod	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Southern	NP	Southern	NP0	ADJ	amod	_
+Indiana	NP	Indiana	NP0	PROPN	nmod	Indi-ana
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+USI	NP	USI	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+art	NN	art	NN1	NOUN	compound	_
+gallery	NN	gallery	NN1	NOUN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+189	CD	189	CRD	NUM	nummod	_
+other	JJ	other	AJ0	ADJ	amod	_
+educational	JJ	educational	AJ0	ADJ	amod	educat-ion-al
+galleries	NNS	gallery	NN2	NOUN	nmod	gallerie-s
+and	CC	and	CJC	CCONJ	cc	_
+museums	NNS	museum	NN2	NOUN	conj	museum-s
+around	IN	around	PRP	ADP	case	a-round
+the	DT	the	AT0	DET	det	_
+country	NN	country	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+recipient	NN	recipient	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+major	JJ	major	AJ0	ADJ	amod	_
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+donor	NN	donor	NN1	NOUN	compound	_
+program	NN	program	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+this	DT	this	DT0	DET	det	_
+program	NN	program	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	aux	_
+cultivating	VVG	cultivate	VVG	VERB	conj	cultivat-ing
+new	JJ	new	AJ0	ADJ	amod	_
+interest	NN	interest	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+photographic	JJ	photographic	AJ0	ADJ	amod	photograph-ic
+legacy	NN	legacy	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	compound	Wiki-new-s
+</hi>
+reporters	NNS	reporter	NN2	NOUN	nsubj	re-port-er-s
+attended	VVD	attend	VVD	VERB	root	attend-ed
+the	DT	the	AT0	DET	det	_
+opening	NN	opening	NN1	NOUN	obj	open-ing
+and	CC	and	CJC	CCONJ	cc	_
+spoke	VVD	speak	VVD	VERB	conj	_
+to	IN	to	PRP	ADP	case	_
+donors	NNS	donor	NN2	NOUN	obl	donor-s
+,	,	,	PUN	PUNCT	punct	_
+exhibit	NN	exhibit	NN1	NOUN	compound	_
+organizers	NNS	organizer	NN2	NOUN	conj	organiz-er-s
+and	CC	and	CJC	CCONJ	cc	_
+patrons	NNS	patron	NN2	NOUN	conj	patron-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+USI	NP	USI	NP0	PROPN	compound	_
+art	NN	art	NN1	NOUN	compound	_
+gallery	NN	gallery	NN1	NOUN	nsubj	_
+celebrated	VVD	celebrate	VVD	VERB	root	celebrat-ed
+the	DT	the	AT0	DET	det	_
+<date when="2014-01-23">
+Thursday	NP	Thursday	NP0	PROPN	compound	_
+</date>
+opening	NN	opening	NN1	NOUN	obj	open-ing
+with	IN	with	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+display	NN	display	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+Polaroids	NNS	Polaroid	NN2	NOUN	nmod	Polaroid-s
+,	,	,	PUN	PUNCT	punct	_
+gelatin	NN	gelatin	NN1	NOUN	compound	_
+silver	NN	silver	NN1	NOUN	compound	_
+prints	NNS	print	NN2	NOUN	conj	print-s
+and	CC	and	CJC	CCONJ	cc	_
+several	JJ	several	DT0	ADJ	amod	_
+colored	VVN	color	VVN	VERB	amod	color-ed
+screen	NN	screen	NN1	NOUN	compound	_
+prints	NNS	print	NN2	NOUN	conj	print-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+USI	NP	USI	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+exhibit	NN	exhibit	NN1	NOUN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+located	VVN	locate	VVN	VERB	acl:relcl	locat-ed
+in	IN	in	PRP	ADP	case	_
+Evansville	NP	Evansville	NP0	PROPN	obl	Evans-ville
+,	,	,	PUN	PUNCT	punct	_
+Indiana	NP	Indiana	NP0	PROPN	appos	Indi-ana
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	AUX	aux	_
+to	TO	to	TO0	PART	mark	_
+run	VV	run	VVI	VERB	root	_
+from	IN	from	PRP	ADP	case	_
+<date when="2014-01-23">
+January	NP	January	NP0	PROPN	compound	_
+23	CD	23	CRD	NUM	obl	_
+</date>
+through	IN	through	PRP	ADP	case	_
+<date when="2014-03-09">
+March	NP	March	NP0	PROPN	compound	_
+9	CD	9	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure>
+<caption>
+<s type="frag" transition="smooth-shift">
+Full	JJ	full	AJ0	ADJ	amod	_
+interview	NN	interview	NN1	NOUN	root	_
+with	IN	with	PRP	ADP	case	_
+Kristin	NP	Kristin	NP0	PROPN	nmod	_
+Wilkins	NP	Wilkins	NP0	PROPN	flat	Wil-kin-s
+,	,	,	PUN	PUNCT	punct	_
+curator	NN	curator	NN1	NOUN	appos	cur-at-or
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+exhibition	NN	exhibition	NN1	NOUN	nmod	exhibit-ion
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Southern	NP	Southern	NP0	ADJ	amod	_
+Indiana	NP	Indiana	NP0	PROPN	nmod	Indi-ana
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+Audio	NN	audio	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+Jkthom	NN	Jkthom	NN1	NOUN	dep	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+McCutchan	NP	Mccutchan	NP0	PROPN	compound	_
+Art	NP	Art	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	nsubj	_
+/	SYM	/	UNC	SYM	cc	_
+Pace	NP	Pace	NP0	PROPN	compound	_
+Galleries	NPS	Gallery	NP0	PROPN	conj	Gallerie-s
+at	IN	at	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	nmod	_
+bases	VVZ	base	VVZ	VERB	root	base-s
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+exhibit	NN	exhibit	NN1	NOUN	obj	_
+around	IN	around	PRP	ADP	case	a-round
+roughly	RB	roughly	AV0	ADV	advmod	rough-ly
+100	CD	100	CRD	NUM	nummod	_
+Polaroids	NNS	Polaroid	NN2	NOUN	obl	Polaroid-s
+selected	VVN	select	VVN	VERB	acl	select-ed
+from	IN	from	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+collection	NN	collection	NN1	NOUN	obl	collect-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+Polaroids	NNS	Polaroid	NN2	NOUN	nsubj:pass	Polaroid-s
+were	VBD	be	VBD	AUX	aux:pass	_
+all	RB	all	AV0	ADV	advmod	_
+donated	VVN	donate	VVN	VERB	root	donat-ed
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Photographic	NP	Photographic	NP0	ADJ	amod	Photograph-ic
+Legacy	NP	Legacy	NP0	PROPN	compound	_
+Program	NP	Program	NP0	PROPN	obl:agent	_
+,	,	,	PUN	PUNCT	punct	_
+according	VVG	accord	VVG	VERB	case	accord-ing
+to	IN	to	PRP	ADP	fixed	_
+Kristen	NP	Kristen	NP0	PROPN	obl	_
+Wilkins	NP	Wilkins	NP0	PROPN	flat	Wil-kin-s
+,	,	,	PUN	PUNCT	punct	_
+assistant	JJ	assistant	AJ0	ADJ	amod	assist-ant
+professor	NN	professor	NN1	NOUN	appos	profess-or
+of	IN	of	PRF	ADP	case	_
+photography	NN	photography	NN1	NOUN	nmod	photograph-y
+and	CC	and	CJC	CCONJ	cc	_
+curator	NN	curator	NN1	NOUN	conj	cur-at-or
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+exhibit	NN	exhibit	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Foundation	NP	Foundation	NP0	PROPN	nsubj	Found-ation
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Visual	NP	Visual	NP0	ADJ	amod	Vis-ual
+Arts	NPS	Art	NP0	PROPN	nmod	Art-s
+made	VVD	make	VVD	VERB	root	_
+two	CD	two	CRD	NUM	nummod	_
+donations	NNS	donation	NN2	NOUN	obj	donat-ion-s
+to	IN	to	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	compound	_
+Art	NP	Art	NP0	PROPN	compound	_
+Collections	NNS	collection	NN2	NOUN	nmod	Collect-ion-s
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+<date when="2007">
+2007	CD	2007	CRD	NUM	nmod	_
+</date>
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+second	NN	second	NN1	NOUN	conj	_
+recently	RB	recently	AV0	ADV	advmod	recent-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+Kathryn	NP	Kathryn	NP0	PROPN	nsubj	_
+Waters	NP	Waters	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+director	NN	director	NN1	NOUN	appos	direct-or
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+gallery	NN	gallery	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+expressed	VVD	express	VVD	VERB	root	express-ed
+interest	NN	interest	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+further	JJR	further	AJC	ADJ	amod	furth-er
+donations	NNS	donation	NN2	NOUN	obl	donat-ion-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+foundation	NN	foundation	NN1	NOUN	nmod	found-ation
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+future	NN	future	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Since	IN	since	CJS	ADP	case	_
+<date when="2007">
+2007	CD	2007	CRD	NUM	obl	_
+</date>
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Photographic	NP	Photographic	NP0	ADJ	amod	Photograph-ic
+Legacy	NP	Legacy	NP0	PROPN	compound	_
+Program	NP	Program	NP0	PROPN	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+seeded	VVN	seed	VVN	VERB	root	seed-ed
+university	NN	university	NN1	NOUN	compound	_
+art	NN	art	NN1	NOUN	compound	_
+galleries	NNS	gallery	NN2	NOUN	obj	gallerie-s
+throughout	IN	throughout	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	obl	State-s
+with	IN	with	PRP	ADP	case	_
+over	RB	over	AV0	ADV	advmod	_
+28,000	CD	28000	CRD	NUM	nummod	_
+<ref>
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+</ref>
+photographs	NNS	photograph	NN2	NOUN	nmod	photograph-s
+and	CC	and	CJC	CCONJ	cc	_
+other	JJ	other	AJ0	ADJ	amod	_
+artifacts	NNS	artifact	NN2	NOUN	conj	artifact-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+program	NN	program	NN1	NOUN	nsubj	_
+takes	VVZ	take	VVZ	VERB	root	take-s
+a	DT	a	AT0	DET	det	_
+decentralized	VVN	decentralize	VVN	VERB	amod	de-centr-al-iz-ed
+approach	NN	approach	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+photography	NN	photography	NN1	NOUN	compound	photograph-y
+collection	NN	collection	NN1	NOUN	nmod	collect-ion
+and	CC	and	CJC	CCONJ	cc	_
+encourages	VVZ	encourage	VVZ	VERB	conj	en-courage-s
+university	NN	university	NN1	NOUN	compound	_
+art	NN	art	NN1	NOUN	compound	_
+galleries	NNS	gallery	NN2	NOUN	obj	gallerie-s
+to	TO	to	TO0	PART	mark	_
+regularly	RB	regularly	AV0	ADV	advmod	regular-ly
+disseminate	VV	disseminate	VVI	VERB	xcomp	disseminate
+and	CC	and	CJC	CCONJ	cc	_
+educate	VV	educate	VVB	VERB	conj	_
+audiences	NNS	audience	NN2	NOUN	obj	audience-s
+about	IN	about	PRP	ADP	case	_
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+artistic	JJ	artistic	AJ0	ADJ	amod	art-ist-ic
+vision	NN	vision	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+especially	RB	especially	AV0	ADV	advmod	especial-ly
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+area	NN	area	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+photography	NN	photography	NN1	NOUN	nmod	photograph-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="zero">
+University	NN	university	NN1	NOUN	compound	_
+exhibits	NNS	exhibit	NN2	NOUN	root	exhibit-s
+</s>
+</head>
+<figure>
+<caption>
+<s type="frag" transition="establishment">
+Kristen	NP	Kristen	NP0	PROPN	root	_
+Wilkins	NP	Wilkins	NP0	PROPN	flat	Wil-kin-s
+,	,	,	PUN	PUNCT	punct	_
+curator	NN	curator	NN1	NOUN	appos	cur-at-or
+of	IN	of	PRF	ADP	case	_
+"	``	''	PUQ	PUNCT	punct	_
+Andy	NP	Andy	NP0	PROPN	nmod	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+:	:	:	PUN	PUNCT	punct	_
+Photographs	NPS	photograph	NP0	PROPN	dep	Photograph-s
+and	CC	and	CJC	CCONJ	cc	_
+Prints	NPS	print	NP0	PROPN	conj	Print-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+University	NP	University	NP0	PROPN	compound	_
+Collection	NP	Collection	NP0	PROPN	nmod	Collect-ion
+"	''	''	PUQ	PUNCT	punct	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Southern	NP	Southern	NP0	ADJ	amod	_
+Indiana	NP	Indiana	NP0	PROPN	nmod	Indi-ana
+,	,	,	PUN	PUNCT	punct	_
+<date when="2014-01-23">
+January	NP	January	NP0	PROPN	compound	_
+23	CD	23	CRD	NUM	nmod:tmod	_
+</date>
+-	SYM	-	PUN	SYM	case	_
+<date when="2014-03-09">
+March	NP	March	NP0	PROPN	compound	_
+9	CD	9	CRD	NUM	nmod	_
+2014	CD	2014	CRD	NUM	nmod:tmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+Snbehnke	NP	Snbehnke	NP0	PROPN	dep	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="null">
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	nsubj	Wiki-new-s
+</hi>
+provides	VVZ	provide	VVZ	VERB	root	provide-s
+additional	JJ	additional	AJ0	ADJ	amod	add-ition-al
+video	NN	video	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+audio	NN	audio	NN1	NOUN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+photographs	NNS	photograph	NN2	NOUN	conj	photograph-s
+so	IN	so	CJS	SCONJ	mark	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+readers	NNS	reader	NN2	NOUN	nsubj	read-er-s
+may	MD	may	VM0	AUX	aux	_
+learn	VV	learn	VVI	VERB	advcl	_
+more	RBR	more	AV0	ADV	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Wilkins	NP	Wilkins	NP0	PROPN	nsubj	Wil-kin-s
+observed	VVD	observe	VVD	VERB	root	observ-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<date when="2007">
+2007	CD	2007	CRD	NUM	compound	_
+</date>
+starting	VVG	start	VVG	VERB	amod	start-ing
+date	NN	date	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+donation	NN	donation	NN1	NOUN	compound	donat-ion
+program	NN	program	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+part	NN	part	NN1	NOUN	acl:relcl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Foundation	NP	Foundation	NP0	PROPN	nmod	Found-ation
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Visual	NP	Visual	NP0	ADJ	amod	Vis-ual
+Arts	NPS	Art	NP0	PROPN	nmod	Art-s
+,	,	,	PUN	PUNCT	punct	_
+coincided	VVD	coincide	VVD	VERB	ccomp	coincid-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+20th	JJ	20th	ORD	ADJ	amod	_
+anniversary	NN	anniversary	NN1	NOUN	obl	anniversary
+of	IN	of	PRF	ADP	case	_
+Andy	NP	Andy	NP0	PROPN	nmod:poss	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+'s	POS	's	POS	PART	case	_
+death	NN	death	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+<date when="1987">
+1987	CD	1987	CRD	NUM	nmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+USI	NP	USI	NP0	PROPN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+alone	JJ	alone	AJ0	ADJ	root	a-lone
+in	IN	in	PRP	SCONJ	mark	_
+receiving	VVG	receive	VVG	VERB	advcl	receiv-ing
+a	DT	a	AT0	DET	det	_
+donation	NN	donation	NN1	NOUN	obj	donat-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+K.C.	NP	K.C.	NP0	PROPN	nsubj	_
+Maurer	NP	Maurer	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+chief	JJ	chief	AJ0	ADJ	amod	_
+financial	JJ	financial	AJ0	ADJ	amod	financ-ial
+officer	NN	officer	NN1	NOUN	appos	offic-er
+and	CC	and	CJC	CCONJ	cc	_
+treasurer	NN	treasurer	NN1	NOUN	conj	treasur-er
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Foundation	NP	Foundation	NP0	PROPN	nmod	Found-ation
+,	,	,	PUN	PUNCT	punct	_
+said	VVD	say	VVD	VERB	root	sai-d
+500	CD	500	CRD	NUM	nummod	_
+institutions	NNS	institution	NN2	NOUN	nsubj	institut-ion-s
+received	VVD	receive	VVD	VERB	ccomp	receiv-ed
+the	DT	the	AT0	DET	det	_
+initial	JJ	initial	AJ0	ADJ	amod	_
+invitation	NN	invitation	NN1	NOUN	obj	invit-ation
+and	CC	and	CJC	CCONJ	cc	_
+currently	RB	currently	AV0	ADV	advmod	current-ly
+190	CD	190	CRD	NUM	nummod	_
+universities	NNS	university	NN2	NOUN	nsubj	universitie-s
+have	VHP	have	VHB	AUX	aux	_
+accepted	VVN	accept	VVN	VERB	conj	accept-ed
+one	CD	one	CRD	NUM	nummod	_
+or	CC	or	CJC	CCONJ	cc	_
+more	JJR	more	DT0	ADJ	conj	_
+donations	NNS	donation	NN2	NOUN	obj	donat-ion-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Institutional	JJ	institutional	AJ0	ADJ	amod	Institut-ion-al
+recipients	NNS	recipient	NN2	NOUN	nsubj:pass	recipient-s
+,	,	,	PUN	PUNCT	punct	_
+said	VVD	say	VVD	VERB	discourse	sai-d
+Mauer	NP	Mauer	NP0	PROPN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+are	VBP	be	VBB	AUX	aux:pass	_
+required	VVN	require	VVN	VERB	root	requir-ed
+to	TO	to	TO0	PART	mark	_
+exhibit	VV	exhibit	VVI	VERB	xcomp	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+donated	VVN	donate	VVN	VERB	amod	donat-ed
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+photographs	NNS	photograph	NN2	NOUN	obj	photograph-s
+every	DT	every	AT0	DET	det	_
+ten	CD	ten	CRD	NUM	nummod	_
+years	NNS	year	NN2	NOUN	obl:tmod	year-s
+as	IN	as	PRP	ADP	case	_
+one	CD	one	CRD	NUM	nummod	_
+stipulation	NN	stipulation	NN1	NOUN	obl	stipul-at-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="rough-shift">
+While	IN	while	CJS	SCONJ	mark	_
+USI	NP	USI	NP0	PROPN	nsubj	_
+is	VBZ	be	VBZ	AUX	aux	_
+holding	VVG	hold	VVG	VERB	advcl	hold-ing
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+exhibit	NN	exhibit	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+there	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	root	_
+also	RB	also	AV0	ADV	advmod	_
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+Polaroid	NN	Polaroid	NN1	NOUN	compound	_
+exhibits	NNS	exhibit	NN2	NOUN	nsubj	exhibit-s
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Tang	NP	Tang	NP0	PROPN	compound	_
+Teaching	NP	Teaching	NP0	PROPN	compound	Teach-ing
+Museum	NP	Museum	NP0	PROPN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+Art	NP	Art	NP0	PROPN	compound	_
+Gallery	NP	Gallery	NP0	PROPN	conj	_
+at	IN	at	PRP	ADP	case	_
+<ref>
+Skidmore	NP	Skidmore	NP0	PROPN	compound	_
+College	NP	College	NP0	PROPN	nmod	_
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Saratoga	NP	Saratoga	NP0	PROPN	compound	_
+Springs	NP	Springs	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+New	NP	New	NP0	ADJ	amod	_
+York	NP	York	NP0	PROPN	appos	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+an	DT	a	AT0	DET	det	_
+<ref>
+Edward	NP	Edward	NP0	PROPN	compound	_
+Steichen	NP	Steichen	NP0	PROPN	compound	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+Andy	NP	Andy	NP0	PROPN	conj	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+exhibit	NN	exhibit	NN1	NOUN	conj	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Mary	NP	Mary	NP0	PROPN	compound	_
+&amp;	CC	&amp;	CJC	CCONJ	cc	_
+Leigh	NP	Leigh	NP0	PROPN	conj	_
+Block	NP	Block	NP0	PROPN	compound	_
+Museum	NP	Museum	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Art	NP	Art	NP0	PROPN	nmod	_
+at	IN	at	PRP	ADP	case	_
+<ref>
+Northwestern	NP	Northwestern	NP0	PROPN	compound	North-west-ern
+University	NP	University	NP0	PROPN	nmod	_
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Evanston	NP	Evanston	NP0	PROPN	nmod	Evans-ton
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Illinois	NP	Illinois	NP0	PROPN	appos	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+All	DT	all	DT0	DET	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+received	VVN	receive	VVN	VERB	root	receiv-ed
+Polaroids	NNS	Polaroid	NN2	NOUN	obj	Polaroid-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+foundation	NN	foundation	NN1	NOUN	obl	found-ation
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="null">
+University	NN	university	NN1	NOUN	compound	_
+exhibits	NNS	exhibit	NN2	NOUN	nsubj	exhibit-s
+can	MD	can	VM0	AUX	aux	_
+reach	VV	reach	VVI	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+attract	VV	attract	VVI	VERB	conj	_
+large	JJ	large	AJ0	ADJ	amod	_
+audiences	NNS	audience	NN2	NOUN	obj	audience-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+For	IN	for	PRP	ADP	case	_
+example	NN	example	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+Weatherspoon	NP	Weatherspoon	NP0	PROPN	compound	Weather-spoon
+Art	NP	Art	NP0	PROPN	compound	_
+Museum	NP	Museum	NP0	PROPN	nsubj	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+North	NP	North	NP0	PROPN	compound	_
+Carolina	NP	Carolina	NP0	PROPN	nmod	_
+at	IN	at	PRP	ADP	case	_
+Greensboro	NP	Greensboro	NP0	PROPN	nmod	_
+</ref>
+saw	VVD	see	VVD	VERB	root	_
+attendance	NN	attendance	NN1	NOUN	compound	at-tend-ance
+levels	NNS	level	NN2	NOUN	nsubj	level-s
+reach	VVP	reach	VVB	VERB	ccomp	_
+11,000	CD	11000	CRD	NUM	nummod	_
+visitors	NNS	visitor	NN2	NOUN	obj	visit-or-s
+when	WRB	when	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+exhibited	VVN	exhibit	VVN	VERB	advcl	exhibit-ed
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+collection	NN	collection	NN1	NOUN	obj	collect-ion
+in	IN	in	PRP	ADP	case	_
+<date when="2010">
+2010	CD	2010	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+according	VVG	accord	VVG	VERB	case	accord-ing
+to	IN	to	PRP	ADP	fixed	_
+curator	NN	curator	NN1	NOUN	obl	cur-at-or
+Elaine	NP	Elaine	NP0	PROPN	flat	_
+Gustafon	NP	Gustafon	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+That	DT	that	DT0	DET	det	_
+exhibit	NN	exhibit	NN1	NOUN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+part	NN	part	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+collaboration	NN	collaboration	NN1	NOUN	nmod	collaborat-ion
+combining	VVG	combine	VVG	VERB	acl	combin-ing
+the	DT	the	AT0	DET	det	_
+collections	NNS	collection	NN2	NOUN	obj	collect-ion-s
+from	IN	from	PRP	ADP	case	_
+<ref>
+Duke	NP	Duke	NP0	PROPN	compound	_
+University	NP	University	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+located	VVN	locate	VVN	VERB	acl	locat-ed
+in	IN	in	PRP	ADP	case	_
+<ref>
+Durham	NP	Durham	NP0	PROPN	obl	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+North	NP	North	NP0	PROPN	compound	_
+Carolina	NP	Carolina	NP0	PROPN	appos	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<ref>
+University	NP	University	NP0	PROPN	conj	_
+of	IN	of	PRF	ADP	case	_
+North	NP	North	NP0	PROPN	compound	_
+Carolina	NP	Carolina	NP0	PROPN	nmod	_
+at	IN	at	PRP	ADP	case	_
+Chapel	NP	Chapel	NP0	PROPN	compound	_
+Hill	NP	Hill	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+were	VBD	be	VBD	AUX	cop	_
+recipients	NNS	recipient	NN2	NOUN	acl:relcl	recipient-s
+of	IN	of	PRF	ADP	case	_
+donated	VVN	donate	VVN	VERB	amod	donat-ed
+items	NNS	item	NN2	NOUN	nmod	item-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Photographic	NP	Photographic	NP0	ADJ	amod	Photograph-ic
+Legacy	NP	Legacy	NP0	PROPN	compound	_
+Program	NP	Program	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="zero">
+Superstars	NNS	superstar	NN2	NOUN	root	Super-star-s
+</s>
+</head>
+<p>
+<s type="decl" transition="establishment">
+Each	DT	each	DT0	DET	det	_
+collection	NN	collection	NN1	NOUN	nsubj	collect-ion
+donated	VVN	donate	VVN	VERB	acl	donat-ed
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Andy	NP	Andy	NP0	PROPN	compound	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+Photographic	NP	Photographic	NP0	ADJ	amod	Photograph-ic
+Legacy	NP	Legacy	NP0	PROPN	compound	_
+Program	NP	Program	NP0	PROPN	obl:agent	_
+holds	VVZ	hold	VVZ	VERB	root	hold-s
+Polaroids	NNS	Polaroid	NN2	NOUN	obj	Polaroid-s
+of	IN	of	PRF	ADP	case	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+known	VVN	know	VVN	VERB	amod	know-n
+</w>
+celebrities	NNS	celebrity	NN2	NOUN	nmod	celebr-itie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+successful	JJ	successful	AJ0	ADJ	amod	success-ful
+UNC	NP	UNC	NP0	PROPN	compound	_
+Greensboro	NP	Greensboro	NP0	PROPN	nmod:npmod	_
+exhibit	NN	exhibit	NN1	NOUN	nsubj	_
+included	VVD	include	VVD	VERB	root	includ-ed
+Polaroids	NNS	Polaroid	NN2	NOUN	obj	Polaroid-s
+of	IN	of	PRF	ADP	case	_
+author	NN	author	NN1	NOUN	nmod	_
+<ref>
+Truman	NP	Truman	NP0	PROPN	flat	_
+Capote	NP	Capote	NP0	PROPN	flat	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+<w>
+singer	NN	singer	NN1	NOUN	compound	sing-er
+-	HYPH	-	PUN	PUNCT	punct	_
+songwriter	NN	songwriter	NN1	NOUN	conj	_
+</w>
+<ref>
+Carly	NP	Carly	NP0	PROPN	flat	_
+Simon	NP	Simon	NP0	PROPN	flat	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	ccomp	_
+America	NP	America	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+obsession	NN	obsession	NN1	NOUN	nsubj	obsess-ion
+with	IN	with	PRP	ADP	case	_
+celebrity	NN	celebrity	NN1	NOUN	compound	_
+culture	NN	culture	NN1	NOUN	nmod	_
+is	VBZ	be	VBZ	AUX	cop	_
+as	RB	as	AV0	ADV	advmod	_
+strong	JJ	strong	AJ0	ADJ	ccomp	_
+today	NN	today	NN1	NOUN	obl:tmod	to-day
+as	IN	as	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	advcl	_
+when	WRB	when	CJS	ADV	advmod	_
+Warhol	NP	Warhol	NP0	PROPN	nsubj	_
+was	VBD	be	VBD	AUX	aux	_
+living	VVG	live	VVG	VERB	advcl	liv-ing
+"	''	''	PUQ	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+said	VVD	say	VVD	VERB	root	sai-d
+Gustafon	NP	Gustafon	NP0	PROPN	nsubj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+People	NNS	person	NN0	NOUN	nsubj:pass	_
+are	VBP	be	VBB	AUX	aux:pass	_
+still	RB	still	AV0	ADV	advmod	_
+intrigued	VVN	intrigue	VVN	VERB	root	intrigu-ed
+by	IN	by	PRP	ADP	case	_
+how	WRB	how	AVQ	ADV	obl:agent	_
+stars	NNS	star	NN2	NOUN	nsubj	star-s
+live	VVP	live	VVB	VERB	advcl:relcl	_
+,	,	,	PUN	PUNCT	punct	_
+dress	VVP	dress	VVB	VERB	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+socialize	VVP	socialize	VVB	VERB	conj	social-ize
+,	,	,	PUN	PUNCT	punct	_
+since	IN	since	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+so	RB	so	AV0	ADV	advmod	_
+different	JJ	different	AJ0	ADJ	advcl	differ-ent
+from	IN	from	PRP	ADP	case	_
+most	JJS	most	AJS	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+every	DT	every	AT0	DET	det	_
+day	NN	day	NN1	NOUN	compound	_
+lives	NNS	life	NN2	NOUN	obl	live-s
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+Wilkins	NP	Wilkins	NP0	PROPN	nsubj	Wil-kin-s
+explained	VVD	explain	VVD	VERB	root	explain-ed
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+obsession	NN	obsession	NN1	NOUN	nsubj	obsess-ion
+with	IN	with	PRP	ADP	case	_
+celebrities	NNS	celebrity	NN2	NOUN	nmod	celebr-itie-s
+began	VVD	begin	VVD	VERB	ccomp	_
+when	WRB	when	CJS	ADV	advmod	_
+he	PP	he	PNP	PRON	nsubj	_
+first	RB	first	ORD	ADV	advmod	_
+collected	VVD	collect	VVD	VERB	advcl	collect-ed
+head	NN	head	NN1	NOUN	compound	_
+shots	NNS	shot	NN2	NOUN	obj	shot-s
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+kid	NN	kid	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+continued	VVD	continue	VVD	VERB	conj	continu-ed
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+passion	NN	passion	NN1	NOUN	obl	_
+throughout	IN	throughout	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+life	NN	life	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+He	PP	he	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	aux	_
+hanging	VVG	hang	VVG	VERB	ccomp	hang-ing
+out	RP	out	AVP	ADP	compound:prt	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+celebrities	NNS	celebrity	NN2	NOUN	obl	celebr-itie-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+kind	NN	kind	NN1	NOUN	advmod	_
+of	IN	of	PRF	ADP	fixed	_
+become	VVN	become	VVN	VERB	conj	be-come
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+sort	NN	sort	NN1	NOUN	xcomp	_
+of	IN	of	PRF	ADP	case	_
+celebrity	NN	celebrity	NN1	NOUN	nmod	_
+he	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+interested	JJ	interested	AJ0	ADJ	acl:relcl	interest-ed
+in	IN	in	PRP	SCONJ	mark	_
+documenting	VVG	document	VVG	VERB	advcl	document-ing
+earlier	RBR	early	AV0	ADV	advmod	earli-er
+in	IN	in	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+career	NN	career	NN1	NOUN	obl	_
+"	''	''	PUQ	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+Wilkins	NP	Wilkins	NP0	PROPN	nsubj	Wil-kin-s
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+exhibit	NN	exhibit	NN1	NOUN	nsubj	_
+at	IN	at	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	nmod	_
+includes	VVZ	include	VVZ	VERB	root	include-s
+Polaroids	NNS	Polaroid	NN2	NOUN	obj	Polaroid-s
+of	IN	of	PRF	ADP	case	_
+actor	NN	actor	NN1	NOUN	nmod	act-or
+<ref>
+Dennis	NP	Dennis	NP0	PROPN	flat	_
+Hopper	NP	Hopper	NP0	PROPN	flat	Hopp-er
+</ref>
+;	:	;	PUN	PUNCT	punct	_
+musician	NN	musician	NN1	NOUN	conj	music-ian
+<ref>
+Nick	NP	Nick	NP0	PROPN	flat	_
+Rhodes	NP	Rhodes	NP0	PROPN	flat	_
+</ref>
+of	IN	of	PRF	ADP	case	_
+<ref>
+Duran	NP	Duran	NP0	PROPN	nmod	_
+Duran	NP	Duran	NP0	PROPN	flat	_
+</ref>
+;	:	;	PUN	PUNCT	punct	_
+publishers	NNS	publisher	NN2	NOUN	conj	publish-er-s
+<ref>
+Jann	NP	Jann	NP0	PROPN	flat	_
+Wenner	NP	Wenner	NP0	PROPN	flat	_
+</ref>
+of	IN	of	PRF	ADP	case	_
+<ref>
+Rolling	NP	Roll	NP0	VERB	amod	Roll-ing
+Stone	NP	Stone	NP0	PROPN	compound	_
+Magazine	NP	Magazine	NP0	PROPN	nmod	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+<ref>
+Carlo	NP	Carlo	NP0	PROPN	conj	_
+De	NP	De	NP0	PROPN	flat	_
+Benedetti	NP	Benedetti	NP0	PROPN	flat	_
+</ref>
+of	IN	of	PRF	ADP	case	_
+<ref>
+Italy	NP	Italy	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+</ref>
+<ref>
+la	NP	la	NP0	PROPN	nmod	_
+Repubblica	NP	Repubblica	NP0	PROPN	flat	Repubblica
+</ref>
+;	:	;	PUN	PUNCT	punct	_
+disco	NN	disco	NN1	NOUN	compound	_
+club	NN	club	NN1	NOUN	compound	_
+owner	NN	owner	NN1	NOUN	conj	own-er
+<ref>
+Steve	NP	Steve	NP0	PROPN	flat	_
+Rubell	NP	Rubell	NP0	PROPN	flat	_
+</ref>
+of	IN	of	PRF	ADP	case	_
+<ref>
+Studio	NN	studio	NN1	NOUN	nmod	_
+54	CD	54	CRD	NUM	nummod	_
+</ref>
+;	:	;	PUN	PUNCT	punct	_
+photographers	NNS	photographer	NN2	NOUN	conj	photograph-er-s
+<ref>
+Nat	NP	Nat	NP0	PROPN	flat	_
+Finkelstein	NP	Finkelstein	NP0	PROPN	flat	Finkelstein
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Christopher	NP	Christopher	NP0	PROPN	conj	Christopher
+Makos	NP	Makos	NP0	PROPN	flat	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+<ref>
+Felice	NP	Felice	NP0	PROPN	conj	_
+Quinto	NP	Quinto	NP0	PROPN	flat	_
+</ref>
+;	:	;	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+athletes	NNS	athlete	NN2	NOUN	conj	athlete-s
+<ref>
+Vitas	NP	Vitas	NP0	PROPN	flat	_
+Gerulaitis	NP	Gerulaitis	NP0	PROPN	flat	_
+</ref>
+(	(	(	PUL	PUNCT	punct	_
+tennis	NN	tennis	NN1	NOUN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<ref>
+Jack	NP	Jack	NP0	PROPN	conj	_
+Nicklaus	NP	Nicklaus	NP0	PROPN	flat	_
+</ref>
+(	(	(	PUL	PUNCT	punct	_
+golf	NN	golf	NN1	NOUN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	nsubj	Wiki-new-s
+</hi>
+observed	VVD	observe	VVD	VERB	root	observ-ed
+the	DT	the	AT0	DET	det	_
+USI	NP	USI	NP0	PROPN	compound	_
+exhibit	NN	exhibit	NN1	NOUN	nsubj	_
+identifies	VVZ	identify	VVZ	VERB	ccomp	ident-ifie-s
+and	CC	and	CJC	CCONJ	cc	_
+features	VVZ	feature	VVZ	VERB	conj	feature-s
+Polaroids	NNS	Polaroid	NN2	NOUN	obj	Polaroid-s
+of	IN	of	PRF	ADP	case	_
+fashion	NN	fashion	NN1	NOUN	compound	_
+designer	NN	designer	NN1	NOUN	compound	design-er
+<ref>
+Halston	NP	Halston	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+former	JJ	former	DT0	ADJ	amod	form-er
+resident	NN	resident	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+Evansville	NP	Evansville	NP0	PROPN	nmod	Evans-ville
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+University	NP	University	NP0	PROPN	compound	_
+collections	NNS	collection	NN2	NOUN	nsubj	collect-ion-s
+across	IN	across	PRP	ADP	case	a-cross
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	nmod	State-s
+also	RB	also	AV0	ADV	advmod	_
+include	VVP	include	VVB	VERB	root	_
+Polaroids	NNS	Polaroid	NN2	NOUN	obj	Polaroid-s
+of	IN	of	PRF	ADP	case	_
+"	``	''	PUQ	PUNCT	punct	_
+unknowns	NNS	unknown	NN2	NOUN	nmod	un-know-n-s
+"	''	''	PUQ	PUNCT	punct	_
+who	WP	who	PNQ	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+yet	RB	yet	AV0	ADV	advmod	_
+had	VHN	have	VHN	VERB	acl:relcl	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+fifteen	CD	fifteen	CRD	NUM	nummod	_
+minutes	NNS	minute	NN2	NOUN	obj	minute-s
+of	IN	of	PRF	ADP	case	_
+fame	NN	fame	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Cynthia	NP	Cynthia	NP0	PROPN	nsubj	_
+Thompson	NP	Thompson	NP0	PROPN	flat	Thomp-son
+,	,	,	PUN	PUNCT	punct	_
+curator	NN	curator	NN1	NOUN	appos	cur-at-or
+and	CC	and	CJC	CCONJ	cc	_
+director	NN	director	NN1	NOUN	conj	direct-or
+of	IN	of	PRF	ADP	case	_
+exhibits	NNS	exhibit	NN2	NOUN	nmod	exhibit-s
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Arkansas	NP	Arkansas	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Fayetteville	NP	Fayetteville	NP0	PROPN	appos	Fayette-ville
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+said	VVD	say	VVD	VERB	root	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+These	DT	this	DT0	DET	det	_
+images	NNS	image	NN2	NOUN	nsubj	image-s
+serve	VVP	serve	VVB	VERB	ccomp	_
+as	IN	as	PRP	ADP	case	_
+documentation	NN	documentation	NN1	NOUN	obl	document-ation
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+every	DT	every	AT0	DET	det	_
+day	NN	day	NN1	NOUN	compound	_
+life	NN	life	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+art	NN	art	NN1	NOUN	conj	_
+-	:	-	PUN	PUNCT	punct	_
+one	CD	one	PNI	NUM	appos	_
+which	WDT	which	DTQ	PRON	nmod	_
+many	JJ	many	DT0	ADJ	nsubj	_
+of	IN	of	PRF	ADP	case	_
+us	PP	we	PNP	PRON	obl	_
+enjoy	VVP	enjoy	VVB	VERB	acl:relcl	en-joy
+a	DT	a	AT0	DET	det	_
+glimpse	NN	glimpse	NN1	NOUN	obj	_
+into	IN	into	PRP	ADP	case	in-to
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="smooth-shift">
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+photographic	JJ	photographic	AJ0	ADJ	amod	photograph-ic
+legacy	NN	legacy	NN1	NOUN	root	_
+</s>
+</head>
+<p>
+<s type="decl" transition="continue">
+Warhol	NP	Warhol	NP0	PROPN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+close	RB	close	AJ0	ADV	root	_
+to	IN	to	PRP	ADP	case	_
+important	JJ	important	AJ0	ADJ	amod	import-ant
+touchstones	NNS	touchstone	NN2	NOUN	obl	touchstone-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<date from="1960-01-01" to="1969-12-31">
+1960s	NNS	1960s	NN2	NOUN	nmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+including	VVG	include	VVG	VERB	case	includ-ing
+art	NN	art	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+music	NN	music	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+consumer	NN	consumer	NN1	NOUN	compound	consum-er
+culture	NN	culture	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+fashion	NN	fashion	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+celebrity	NN	celebrity	NN1	NOUN	compound	_
+worship	NN	worship	NN1	NOUN	conj	wor-ship
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+all	RB	all	DT0	ADV	advmod	_
+buzzwords	NNS	buzzword	NN2	NOUN	acl:relcl	buzzword-s
+and	CC	and	CJC	CCONJ	cc	_
+images	NNS	image	NN2	NOUN	conj	image-s
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	nsubj	Wiki-new-s
+</hi>
+observed	VVD	observe	VVD	VERB	acl:relcl	observ-ed
+at	IN	at	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+opening	VVG	open	VVG	VERB	amod	open-ing
+exhibit	NN	exhibit	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+He	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+also	RB	also	AV0	ADV	advmod	_
+an	DT	a	AT0	DET	det	_
+influential	JJ	influential	AJ0	ADJ	amod	influent-ial
+figure	NN	figure	NN1	NOUN	root	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+pop	NN	pop	NN1	NOUN	compound	_
+art	NN	art	NN1	NOUN	compound	_
+movement	NN	movement	NN1	NOUN	nmod	move-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+Pop	NN	pop	NN1	NOUN	compound	_
+art	NN	art	NN1	NOUN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+about	IN	about	PRP	ADP	case	_
+what	WP	what	PNQ	PRON	ccomp	_
+popular	JJ	popular	AJ0	ADJ	amod	popul-ar
+American	JJ	American	AJ0	ADJ	amod	America-n
+culture	NN	culture	NN1	NOUN	nsubj	_
+really	RB	really	AV0	ADV	advmod	real-ly
+thought	VVD	think	VVD	VERB	acl:relcl	_
+was	VBD	be	VBD	AUX	cop	_
+important	JJ	important	AJ0	ADJ	ccomp	import-ant
+"	''	''	PUQ	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+Kathryn	NP	Kathryn	NP0	PROPN	nsubj	_
+Waters	NP	Waters	NP0	PROPN	flat	_
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+That	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+why	WRB	why	AVQ	ADV	root	_
+he	PP	he	PNP	PRON	nsubj	_
+did	VVD	do	VDD	VERB	advcl:relcl	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Campbell	NP	Campbell	NP0	PROPN	compound	_
+Soup	NP	Soup	NP0	PROPN	compound	_
+</ref>
+cans	NNS	can	NN2	NOUN	obj	can-s
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Marilyn	NP	Marilyn	NP0	PROPN	compound	_
+</ref>
+pictures	NNS	picture	NN2	NOUN	conj	picture-s
+,	,	,	PUN	PUNCT	punct	_
+these	DT	this	DT0	DET	det	_
+iconic	JJ	iconic	AJ0	ADJ	amod	icon-ic
+products	NNS	product	NN2	NOUN	appos	produc-t-s
+of	IN	of	PRF	ADP	case	_
+American	JJ	American	AJ0	ADJ	amod	America-n
+culture	NN	culture	NN1	NOUN	nmod	_
+whether	IN	whether	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+be	VB	be	VBB	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+film	NN	film	NN1	NOUN	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+video	NN	video	NN1	NOUN	conj	_
+or	CC	or	CJC	CCONJ	cc	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+products	NNS	product	NN2	NOUN	conj	produc-t-s
+we	PP	we	PNP	PRON	nsubj	_
+consumed	VVD	consume	VVD	VERB	acl:relcl	consum-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+So	RB	so	AV0	ADV	advmod	_
+even	RB	even	AV0	ADV	advmod	_
+back	RB	back	AVP	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+<date from="1960-01-01" to="1969-12-31">
+the	DT	the	AT0	DET	det	_
+sixties	NNS	sixties	NN2	NOUN	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+very	RB	very	AV0	ADV	advmod	_
+aware	JJ	aware	AJ0	ADJ	root	a-ware
+of	IN	of	PRF	ADP	case	_
+this	DT	this	DT0	DET	det	_
+part	NN	part	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+culture	NN	culture	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Which	WDT	which	DTQ	PRON	nsubj	_
+as	IN	as	CJS	SCONJ	mark	_
+we	PP	we	PNP	PRON	nsubj	_
+all	DT	all	AV0	DET	det	_
+know	VVP	know	VVB	VERB	advcl	_
+in	IN	in	PRP	ADP	case	_
+<date when="2014">
+2014	CD	2014	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+only	RB	only	AV0	ADV	advmod	_
+increased	VVN	increase	VVN	VERB	root	increas-ed
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+a	DT	a	AT0	DET	det	_
+thousand	CD	thousand	CRD	NUM	compound	_
+fold	NN	fold	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	ccomp	_
+everybody	NN	everybody	NN1	PRON	nsubj	every-body
+knows	VVZ	know	VVZ	VERB	ccomp	know-s
+Andy	NP	Andy	NP0	PROPN	nmod:poss	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+'s	POS	's	POS	PART	case	_
+name	NN	name	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+even	RB	even	AV0	ADV	advmod	_
+non-art	NN	non-art	NN1	NOUN	compound	non-art
+people	NNS	person	NN0	NOUN	appos	_
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+name	NN	name	NN1	NOUN	conj	_
+they	PP	they	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+know	VV	know	VVI	VERB	acl:relcl	_
+because	IN	because	CJS	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+such	PDT	such	PRP	DET	det:predet	_
+a	DT	a	AT0	DET	det	_
+personality	NN	personality	NN1	NOUN	advcl	person-al-ity
+"	''	''	PUQ	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+<sic ana="Waters">
+Water	NP	Waters	NP0	ADJ	nsubj	_
+</sic>
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+Hilary	NP	Hilary	NP0	PROPN	nsubj	_
+Braysmith	NP	Braysmith	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+USI	NP	USI	NP0	PROPN	compound	_
+associate	NN	associate	NN1	NOUN	compound	_
+professor	NN	professor	NN1	NOUN	appos	profess-or
+of	IN	of	PRF	ADP	case	_
+art	NN	art	NN1	NOUN	compound	_
+history	NN	history	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+said	VVD	say	VVD	VERB	root	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	ccomp	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+photography	NN	photography	NN1	NOUN	nsubj	photograph-y
+is	VBZ	be	VBZ	AUX	cop	_
+equally	RB	equally	AV0	ADV	advmod	equal-ly
+influential	JJ	influential	AJ0	ADJ	ccomp	influent-ial
+as	IN	as	CJS	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+graphic	JJ	graphic	AJ0	ADJ	amod	_
+works	NNS	work	NN0	NOUN	obl	work-s
+,	,	,	PUN	PUNCT	punct	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+more	RBR	more	DT0	ADV	advmod	_
+famous	JJ	famous	AJ0	ADJ	amod	fam-ous
+pictures	NNS	picture	NN2	NOUN	appos	picture-s
+of	IN	of	PRF	ADP	case	_
+Marilyn	NP	Marilyn	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+In	IN	in	PRP	ADP	case	_
+terms	NNS	term	NN2	NOUN	obl	term-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+evolution	NN	evolution	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+photography	NN	photography	NN1	NOUN	nmod	photograph-y
+and	CC	and	CJC	CCONJ	cc	_
+experimentation	NN	experimentation	NN1	NOUN	conj	experiment-ation
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	SCONJ	mark	_
+painting	VVG	paint	VVG	VERB	acl	paint-ing
+on	IN	on	PRP	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+celebrity	NN	celebrity	NN1	NOUN	compound	_
+fascination	NN	fascination	NN1	NOUN	conj	fascinat-ion
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+he	PP	he	PNP	PRON	nsubj:outer	_
+was	VBD	be	VBD	AUX	cop	_
+really	RB	really	AV0	ADV	advmod	real-ly
+<w>
+ground	NN	ground	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+breaking	VVG	break	VVG	VERB	ccomp	break-ing
+</w>
+in	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+regard	NN	regard	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+Polaroid	NP	Polaroid	NP0	PROPN	compound	_
+format	NN	format	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+what	WP	what	PNQ	PRON	root	_
+made	VVD	make	VVD	VERB	acl:relcl	_
+Warhol	NP	Warhol	NP0	PROPN	obj	_
+famous	JJ	famous	AJ0	ADJ	xcomp	fam-ous
+,	,	,	PUN	PUNCT	punct	_
+however	RB	however	AV0	ADV	advmod	how-ever
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+company	NN	company	NN1	NOUN	parataxis	_
+of	IN	of	PRF	ADP	case	_
+other	JJ	other	AJ0	ADJ	amod	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+known	VVN	know	VVN	VERB	amod	know-n
+</w>
+photographers	NNS	photographer	NN2	NOUN	nmod	photograph-er-s
+who	WP	who	PNQ	PRON	nsubj	_
+used	VVD	use	VVD	VERB	acl:relcl	us-ed
+the	DT	the	AT0	DET	det	_
+camera	NN	camera	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+such	JJ	such	DT0	ADJ	case	_
+as	IN	as	CJS	ADP	fixed	_
+<ref>
+Ansel	NP	Ansel	NP0	PROPN	nmod	_
+Adams	NP	Adams	NP0	PROPN	flat	Adam-s
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Chuck	NP	Chuck	NP0	PROPN	conj	_
+Close	NP	Close	NP0	PROPN	flat	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Walker	NP	Walker	NP0	PROPN	conj	Walk-er
+Evans	NP	Evans	NP0	PROPN	flat	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Robert	NP	Robert	NP0	PROPN	conj	_
+Mapplethorpe	NP	Mapplethorpe	NP0	PROPN	flat	Mapplethorpe
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<ref>
+Helmut	NP	Helmut	NP0	PROPN	conj	_
+Newton	NP	Newton	NP0	PROPN	flat	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+Wilkins	NP	Wilkins	NP0	PROPN	nsubj	Wil-kin-s
+said	VVD	say	VVD	VERB	root	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+[	(	[	PUL	PUNCT	punct	_
+Warhol	NP	Warhol	NP0	PROPN	nsubj	_
+]	)	]	PUR	PUNCT	punct	_
+liked	VVD	like	VVD	VERB	ccomp	lik-ed
+the	DT	the	AT0	DET	det	_
+way	NN	way	NN1	NOUN	obj	_
+photo	NN	photo	NN1	NOUN	compound	_
+booths	NNS	booth	NN2	NOUN	nsubj	booth-s
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Polaroid	NP	Polaroid	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+front	JJ	front	AJ0	ADJ	amod	_
+flash	NN	flash	NN1	NOUN	conj	_
+looked	VVN	look	VVN	VERB	acl:relcl	look-ed
+"	''	''	PUQ	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+She	PP	she	PNP	PRON	nsubj	_
+explained	VVD	explain	VVD	VERB	root	explain-ed
+how	WRB	how	AVQ	ADV	obj	_
+Warhol	NP	Warhol	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+adoption	NN	adoption	NN1	NOUN	nsubj	ad-opt-ion
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Polaroid	NP	Polaroid	NP0	PROPN	compound	_
+camera	NN	camera	NN1	NOUN	nmod	_
+revealed	VVD	reveal	VVD	VERB	advcl:relcl	reveal-ed
+his	PP$	his	DPS	PRON	nmod:poss	_
+process	NN	process	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+According	VVG	accord	VVG	VERB	case	Accord-ing
+to	IN	to	PRP	ADP	fixed	_
+Wilkins	NP	Wilkins	NP0	PROPN	obl	Wil-kin-s
+,	,	,	PUN	PUNCT	punct	_
+Warhol	NP	Warhol	NP0	PROPN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+able	JJ	able	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	mark	_
+reproduce	VV	reproduce	VVI	VERB	xcomp	re-produce
+the	DT	the	AT0	DET	det	_
+Polaroid	NP	Polaroid	NP0	PROPN	compound	_
+photograph	NN	photograph	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+create	VV	create	VVB	VERB	conj	_
+an	DT	a	AT0	DET	det	_
+enlargement	NN	enlargement	NN1	NOUN	obj	en-large-ment
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	obj	_
+he	PP	he	PNP	PRON	nsubj	_
+then	RB	then	AV0	ADV	advmod	_
+could	MD	could	VM0	AUX	aux	_
+use	VV	use	VVI	VERB	acl:relcl	_
+to	TO	to	TO0	PART	mark	_
+commit	VV	commit	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+image	NN	image	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+silk	NN	silk	NN1	NOUN	compound	_
+screen	NN	screen	NN1	NOUN	compound	_
+medium	NN	medium	NN1	NOUN	obl	_
+by	IN	by	PRP	SCONJ	mark	_
+applying	VVG	apply	VVG	VERB	advcl	appl-y-ing
+paint	NN	paint	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+manipulating	VVG	manipulate	VVG	VERB	conj	manipulat-ing
+them	PP	they	PNP	PRON	obj	_
+further	RBR	far	AV0	ADV	advmod	furth-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+One	CD	one	CRD	NUM	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+silk	NN	silk	NN1	NOUN	compound	_
+screens	NNS	screen	NN2	NOUN	nmod	screen-s
+exhibited	VVN	exhibit	VVN	VERB	acl	exhibit-ed
+at	IN	at	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	obl	_
+this	DT	this	DT0	DET	det	_
+time	NN	time	NN1	NOUN	obl:tmod	_
+was	VBD	be	VBD	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Annie	NP	Annie	NP0	PROPN	compound	Ann-ie
+Oakley	NP	Oakley	NP0	PROPN	flat	_
+</ref>
+screen	NN	screen	NN1	NOUN	compound	_
+print	NN	print	NN1	NOUN	root	_
+called	VVN	call	VVN	VERB	acl	call-ed
+"	``	''	PUQ	PUNCT	punct	_
+Cowboys	NPS	Cowboy	NP0	PROPN	obj	Cowboy-s
+and	CC	and	CJC	CCONJ	cc	_
+Indians	NPS	Indian	NP0	PROPN	conj	Indi-an-s
+"	''	''	PUQ	PUNCT	punct	_
+from	IN	from	PRP	ADP	case	_
+<date when="1987">
+1987	CD	1987	CRD	NUM	nmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Wilkins	NP	Wilkins	NP0	PROPN	nsubj	Wil-kin-s
+also	RB	also	AV0	ADV	advmod	_
+said	VVD	say	VVD	VERB	root	sai-d
+Warhol	NP	Warhol	NP0	PROPN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+both	CC	both	AV0	CCONJ	cc:preconj	_
+an	DT	a	AT0	DET	det	_
+artist	NN	artist	NN1	NOUN	ccomp	art-ist
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+businessperson	NN	businessperson	NN1	NOUN	conj	busi-ness-person
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+As	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+way	NN	way	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+commercialize	VV	commercialize	VVI	VERB	acl	commerc-ial-ize
+his	PP$	his	DPS	PRON	nmod:poss	_
+work	NN	work	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+make	VV	make	VVI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+blue	JJ	blue	AJ0	ADJ	amod	_
+Marilyn	NP	Marilyn	NP0	PROPN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+pink	JJ	pink	AJ0	ADJ	amod	_
+Marilyn	NP	Marilyn	NP0	PROPN	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+yellow	JJ	yellow	AJ0	ADJ	amod	_
+Marilyn	NP	Marilyn	NP0	PROPN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+then	RB	then	AV0	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+pick	VV	pick	VVI	VERB	conj	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+favorite	JJ	favorite	AJ0	ADJ	amod	favor-ite
+color	NN	color	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+buy	VV	buy	VVB	VERB	conj	_
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+It	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+very	RB	very	AV0	ADV	advmod	_
+practical	JJ	practical	AJ0	ADJ	amod	practic-al
+salesman	NN	salesman	NN1	NOUN	compound	sale-s-man
+approach	NN	approach	NN1	NOUN	root	_
+to	IN	to	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+work	NN	work	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+He	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+very	RB	very	AV0	ADV	advmod	_
+prolific	JJ	prolific	AJ0	ADJ	root	_
+but	CC	but	CJC	CCONJ	cc	_
+very	RB	very	AJ0	ADV	advmod	_
+business	NN	business	NN1	NOUN	compound	busi-ness
+minded	JJ	minded	AJ0	ADJ	conj	mind-ed
+about	IN	about	PRP	ADP	case	_
+that	DT	that	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+He	PP	he	PNP	PRON	nsubj	_
+wanted	VVD	want	VVD	VERB	ccomp	want-ed
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+rich	JJ	rich	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+famous	JJ	famous	AJ0	ADJ	conj	fam-ous
+and	CC	and	CJC	CCONJ	cc	_
+he	PP	he	PNP	PRON	nsubj	_
+made	VVD	make	VVD	VERB	conj	_
+lots	NNS	lot	NN2	NOUN	obj	lot-s
+of	IN	of	PRF	ADP	case	_
+choices	NNS	choice	NN2	NOUN	nmod	choice-s
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	advcl	_
+that	DT	that	DT0	DET	det	_
+way	NN	way	NN1	NOUN	obj	_
+"	''	''	PUQ	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+Wilkins	NP	Wilkins	NP0	PROPN	nsubj	Wil-kin-s
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="zero">
+USI	NP	USI	NP0	PROPN	compound	_
+exhibit	NN	exhibit	NN1	NOUN	root	_
+</s>
+</head>
+<p>
+<s type="decl" transition="establishment">
+Kiara	NP	Kiara	NP0	PROPN	nsubj	_
+Perkins	NP	Perkins	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+second	JJ	second	ORD	ADJ	amod	_
+year	NN	year	NN1	NOUN	compound	_
+USI	NP	USI	NP0	PROPN	compound	_
+art	NN	art	NN1	NOUN	compound	_
+major	NN	major	NN1	NOUN	appos	_
+,	,	,	PUN	PUNCT	punct	_
+admitted	VVD	admit	VVD	VERB	root	admitt-ed
+she	PP	she	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+willing	JJ	willing	AJ0	ADJ	ccomp	will-ing
+to	TO	to	TO0	PART	mark	_
+skip	VV	skip	VVI	VERB	xcomp	_
+class	NN	class	NN1	NOUN	obj	_
+<date when="2014-01-23">
+Thursday	NP	Thursday	NP0	PROPN	compound	_
+</date>
+night	NN	night	NN1	NOUN	obl:tmod	_
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	advcl	at-tend
+the	DT	the	AT0	DET	det	_
+opening	VVG	open	VVG	VERB	amod	open-ing
+exhibit	NN	exhibit	NN1	NOUN	obj	_
+but	CC	but	CJC	CCONJ	cc	_
+then	RB	then	AV0	ADV	advmod	_
+circumstances	NNS	circumstance	NN2	NOUN	nsubj	circumstance-s
+allowed	VVD	allow	VVD	VERB	conj	allow-ed
+for	IN	for	PRP	SCONJ	mark	_
+her	PP	she	PNP	PRON	nsubj	_
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	advcl	at-tend
+the	DT	the	AT0	DET	det	_
+exhibit	NN	exhibit	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="smooth-shift">
+Why	WRB	why	AVQ	ADV	advmod	_
+did	VVD	do	VDD	AUX	aux	_
+she	PP	she	PNP	PRON	nsubj	_
+so	RB	so	AV0	ADV	advmod	_
+badly	RB	badly	AV0	ADV	advmod	bad-ly
+want	VV	want	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	xcomp	at-tend
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+Warhol	NP	Warhol	NP0	PROPN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+He	PP	he	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+legend	NN	legend	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+For	IN	for	PRP	ADP	case	_
+Kevin	NP	Kevin	NP0	PROPN	nmod	_
+Allton	NP	Allton	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+USI	NP	USI	NP0	PROPN	compound	_
+instructor	NN	instructor	NN1	NOUN	appos	instruct-or
+in	IN	in	PRP	ADP	case	_
+English	NP	English	NP0	PROPN	nmod	Engl-ish
+,	,	,	PUN	PUNCT	punct	_
+Warhol	NP	Warhol	NP0	PROPN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+also	RB	also	AV0	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+legend	NN	legend	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+He	PP	he	PNP	PRON	nsubj	_
+said	VVD	say	VVD	VERB	root	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+Andy	NP	Andy	NP0	PROPN	nsubj	And-y
+Warhol	NP	Warhol	NP0	PROPN	flat	_
+was	VBD	be	VBD	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+center	NN	center	NN1	NOUN	ccomp	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Zeitgeist	NN	Zeitgeist	NN1	NOUN	nmod	_
+for	IN	for	PRP	ADP	case	_
+<date from="1900-01-01" to="1999-12-31">
+the	DT	the	AT0	DET	det	_
+20th	JJ	20th	ORD	ADJ	amod	_
+century	NN	century	NN1	NOUN	nmod	_
+</date>
+and	CC	and	CJC	CCONJ	cc	_
+everything	NN	everything	NN1	PRON	conj	_
+since	RB	since	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+He	PP	he	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+post-modern	JJ	post-modern	AJ0	ADJ	amod	_
+diety	NN	diety	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Allton	NP	Allton	NP0	PROPN	nsubj	_
+said	VVD	say	VVD	VERB	root	sai-d
+he	PP	he	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+only	RB	only	AV0	ADV	advmod	_
+seen	VVN	see	VVN	VERB	ccomp	see-n
+the	DT	the	AT0	DET	det	_
+Silver	NP	Silver	NP0	ADJ	amod	_
+Clouds	NPS	Cloud	NP0	PROPN	compound	Cloud-s
+installation	NN	installation	NN1	NOUN	obj	install-ation
+before	RB	before	CJS	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+film	NN	film	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+Silver	NP	Silver	NP0	ADJ	amod	_
+Clouds	NPS	Cloud	NP0	PROPN	compound	Cloud-s
+installation	NN	installation	NN1	NOUN	nsubj	install-ation
+were	VBD	be	VBD	AUX	cop	_
+silver	JJ	silver	AJ0	ADJ	amod	_
+balloons	NNS	balloon	NN2	NOUN	root	balloon-s
+blown	VVN	blow	VVN	VERB	acl	blow-n
+up	RP	up	AVP	ADP	compound:prt	_
+with	IN	with	PRP	ADP	case	_
+helium	NN	helium	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+those	DT	that	DT0	DET	det	_
+balloons	NNS	balloon	NN2	NOUN	nsubj	balloon-s
+filled	VVD	fill	VVD	VERB	conj	fill-ed
+one	CD	one	PNI	NUM	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+smaller	JJR	small	AJC	ADJ	amod	small-er
+rooms	NNS	room	NN2	NOUN	nmod	room-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+gallery	NN	gallery	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+thought	VVD	think	VVD	VERB	ccomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+in	IN	in	PRP	ADP	case	_
+real	JJ	real	AJ0	ADJ	amod	_
+life	NN	life	NN1	NOUN	obl	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+really	RB	really	AV0	ADV	advmod	real-ly
+kind	NN	kind	NN1	NOUN	advmod	_
+of	IN	of	PRF	ADP	fixed	_
+magical	JJ	magical	AJ0	ADJ	ccomp	magic-al
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+Allton	NP	Allton	NP0	PROPN	nsubj	_
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+smacked	VVD	smack	VVD	VERB	root	smack-ed
+them	PP	they	PNP	PRON	obj	_
+around	RB	around	AVP	ADV	advmod	a-round
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Elements	NNS	element	NN2	NOUN	nsubj:pass	Element-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Zeitgeist	NN	Zeitgeist	NN1	NOUN	nmod	_
+were	VBD	be	VBD	AUX	aux:pass	_
+also	RB	also	AV0	ADV	advmod	_
+playfully	RB	playfully	AV0	ADV	advmod	play-ful-ly
+recreated	VVN	recreate	VVN	VERB	root	re-creat-ed
+on	IN	on	PRP	ADP	case	_
+USI	NP	USI	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+<date when="2014-01-23">
+opening	VVG	open	VVG	VERB	amod	open-ing
+night	NN	night	NN1	NOUN	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+her	PP$	her	DPS	PRON	nmod:poss	_
+opening	JJ	opening	AJ0	ADJ	amod	open-ing
+remarks	NNS	remark	NN2	NOUN	obl	re-mark-s
+for	IN	for	PRP	ADP	case	_
+attendees	NNS	attendee	NN2	NOUN	nmod	at-tend-ee-s
+,	,	,	PUN	PUNCT	punct	_
+Waters	NP	Waters	NP0	PROPN	nsubj	_
+pointed	VVD	point	VVD	VERB	root	point-ed
+out	RP	out	AVP	ADP	compound:prt	_
+those	DT	that	DT0	DET	det	_
+features	NNS	feature	NN2	NOUN	obj	feature-s
+to	IN	to	PRP	ADP	case	_
+attendees	NNS	attendee	NN2	NOUN	obl	at-tend-ee-s
+,	,	,	PUN	PUNCT	punct	_
+noting	VVG	note	VVG	VERB	advcl	not-ing
+the	DT	the	AT0	DET	det	_
+touches	NNS	touch	NN2	NOUN	obj	touche-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+Factory	NP	Factory	NP0	PROPN	nmod	Factor-y
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+studio	NN	studio	NN1	NOUN	conj	_
+where	WRB	where	CJS	ADV	advmod	_
+he	PP	he	PNP	PRON	nsubj	_
+worked	VVD	work	VVD	VERB	acl:relcl	work-ed
+,	,	,	PUN	PUNCT	punct	_
+that	WDT	that	DT0	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+present	JJ	present	AJ0	ADJ	acl:relcl	_
+around	IN	around	PRP	ADP	case	a-round
+them	PP	they	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+She	PP	she	PNP	PRON	nsubj	_
+pointed	VVD	point	VVD	VERB	root	point-ed
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+refreshment	NN	refreshment	NN1	NOUN	compound	re-fresh-ment
+table	NN	table	NN1	NOUN	obl	_
+with	IN	with	PRP	SCONJ	mark	_
+<ref>
+Campbell	NP	Campbell	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+Soup	NP	Soup	NP0	PROPN	nsubj:pass	_
+</ref>
+served	VVN	serve	VVN	VERB	acl	serv-ed
+with	IN	with	PRP	ADP	case	_
+"	``	''	PUQ	PUNCT	punct	_
+electric	JJ	electric	AJ0	ADJ	amod	_
+"	''	''	PUQ	PUNCT	punct	_
+<ref>
+Kool	NP	Kool	NP0	PROPN	compound	_
+Aid	NP	Aid	NP0	PROPN	obl	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+tables	NNS	table	NN2	NOUN	nsubj:pass	table-s
+adorned	VVN	adorn	VVN	VERB	conj	adorn-ed
+with	IN	with	PRP	ADP	case	_
+colorful	JJ	colorful	AJ0	ADJ	amod	color-ful
+gumball	NN	gumball	NN1	NOUN	compound	_
+"	``	''	PUQ	PUNCT	punct	_
+pills	NNS	pill	NN2	NOUN	obl	pill-s
+"	''	''	PUQ	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+music	NN	music	NN1	NOUN	nsubj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+background	NN	background	NN1	NOUN	nmod	_
+was	VBD	be	VBD	AUX	cop	_
+from	IN	from	PRP	ADP	case	_
+such	JJ	such	DT0	ADJ	amod	_
+bands	NNS	band	NN2	NOUN	root	band-s
+as	IN	as	PRP	ADP	case	_
+<ref>
+The	DT	the	AT0	DET	det	_
+Velvet	NP	Velvet	NP0	PROPN	compound	_
+Underground	NP	Underground	NP0	PROPN	nmod	Under-ground
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+big	JJ	big	AJ0	ADJ	amod	_
+hit	NN	hit	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+evening	NN	evening	NN1	NOUN	nmod	even-ing
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	nsubj	Wiki-new-s
+</hi>
+observed	VVD	observe	VVD	VERB	discourse	observ-ed
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+long	JJ	long	AJ0	ADJ	amod	_
+line	NN	line	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+was	VBD	be	VBD	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+<w>
+Polaroid	NP	Polaroid	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+room	NN	room	NN1	NOUN	root	_
+</w>
+where	WRB	where	CJS	ADV	advmod	_
+attendees	NNS	attendee	NN2	NOUN	nsubj	at-tend-ee-s
+could	MD	could	VM0	AUX	aux	_
+wear	VV	wear	VVI	VERB	acl:relcl	_
+a	DT	a	AT0	DET	det	_
+<w>
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+like	JJ	like	AJ0	ADJ	amod	_
+</w>
+wig	NN	wig	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+don	VV	don	VVB	VERB	conj	_
+crazy	JJ	crazy	AJ0	ADJ	amod	craz-y
+glasses	NNS	glasses	NN2	NOUN	obj	glasse-s
+and	CC	and	CJC	CCONJ	cc	_
+have	VHP	have	VHB	VERB	conj	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	amod	_
+Polaroid	NP	Polaroid	NP0	PROPN	obj	_
+taken	VVN	take	VVN	VERB	xcomp	tak-en
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+Polaroids	NNS	Polaroid	NN2	NOUN	nsubj	Polaroid-s
+were	VBD	be	VBD	AUX	cop	_
+ready	JJ	ready	AJ0	ADJ	root	_
+in	IN	in	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+instant	NN	instant	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+immediately	RB	immediately	AV0	ADV	advmod	im-mediate-ly
+displayed	VVN	display	VVN	VERB	conj	display-ed
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+entry	NN	entry	NN1	NOUN	obl	entr-y
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+exhibit	NN	exhibit	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+Exhibit	NN	exhibit	NN1	NOUN	compound	_
+goers	NNS	goer	NN2	NOUN	nsubj	go-er-s
+then	RB	then	AV0	ADV	advmod	_
+became	VVD	become	VVD	VERB	root	_
+part	NN	part	NN1	NOUN	xcomp	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+very	JJ	very	AJ0	ADJ	amod	_
+exhibit	NN	exhibit	NN1	NOUN	nmod	_
+they	PP	they	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+wanted	VVN	want	VVN	VERB	acl:relcl	want-ed
+to	TO	to	TO0	PART	mark	_
+attend	VV	attend	VVI	VERB	xcomp	at-tend
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+In	IN	in	PRP	ADP	case	_
+fact	NN	fact	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+many	JJ	many	DT0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nsubj	_
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	nsubj	Wiki-new-s
+</hi>
+observed	VVD	observe	VVD	VERB	acl:relcl	observ-ed
+took	VVD	take	VVD	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+<ref>
+mobiles	NNS	mobile	NN2	NOUN	obj	mobile-s
+</ref>
+as	IN	as	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+left	VVD	leave	VVD	VERB	advcl	_
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+evening	NN	evening	NN1	NOUN	obl	even-ing
+and	CC	and	CJC	CCONJ	cc	_
+used	VVD	use	VVD	VERB	conj	us-ed
+their	PP$	their	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	amod	_
+phone	NN	phone	NN1	NOUN	compound	_
+cameras	NNS	camera	NN2	NOUN	obj	camera-s
+to	TO	to	TO0	PART	mark	_
+make	VV	make	VVI	VERB	advcl	_
+one	CD	one	PNI	NUM	nummod	_
+further	JJR	further	AJC	ADJ	amod	furth-er
+record	NN	record	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+moment	NN	moment	NN1	NOUN	nmod	_
+-	:	-	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+photo	NN	photo	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+photo	NN	photo	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Perhaps	RB	perhaps	AV0	ADV	advmod	_
+they	PP	they	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+learned	VVN	learn	VVN	VERB	root	learn-ed
+an	DT	a	AT0	DET	det	_
+important	JJ	important	AJ0	ADJ	amod	import-ant
+lesson	NN	lesson	NN1	NOUN	obj	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Warhol	NP	Warhol	NP0	PROPN	compound	_
+exhibit	NN	exhibit	NN1	NOUN	obl	_
+that	IN/that	that	CJT	SCONJ	mark	_
+cultural	JJ	cultural	AJ0	ADJ	amod	cultur-al
+events	NNS	event	NN2	NOUN	nsubj	event-s
+like	IN	like	PRP	ADP	case	_
+these	DT	this	DT0	PRON	nmod	_
+were	VBD	be	VBD	AUX	cop	_
+ripe	JJ	ripe	AJ0	ADJ	acl	_
+for	IN	for	PRP	ADP	case	_
+use	NN	use	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+reuse	NN	reuse	NN1	NOUN	conj	re-use
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+We	PP	we	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+even	RB	even	AV0	ADV	advmod	_
+call	VV	call	VVI	VERB	root	_
+these	DT	this	DT0	DET	det	_
+exit	NN	exit	NN1	NOUN	compound	_
+instant	JJ	instant	AJ0	ADJ	amod	_
+snap	NN	snap	NN1	NOUN	compound	_
+shots	NNS	shot	NN2	NOUN	obj	shot-s
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+self	NN	self	NN1	NOUN	compound	_
+selfie	NN	selfie	NN1	NOUN	xcomp	self-ie
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>

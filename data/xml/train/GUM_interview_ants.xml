@@ -1,0 +1,1364 @@
+<text id="GUM_interview_ants" partition="train" type="interview" sourceURL="https://en.wikinews.org/wiki/Biologist_Nick_Bos_tells_Wikinews_about_%27self-medicating%27_ants" dateCreated="2015-09-01" dateCollected="2015-09-21" dateModified="2015-09-16" speakerCount="2" speakerList="#Wikinews, #NickBos" author="Wikinews" title="Biologist Nick Bos tells Wikinews about &apos;self-medicating&apos; ants" shortTitle="ants" summary="Wikinews interviews biologist Nick Bos from the University of Helsinki about his experiments with ants, which show that ants 'self-medicate' by selecting food contaminated with toxic hydrogen peroxide when they are infected with fungus that can be treated using the chemical.">
+<head rend="bold">
+<s type="decl" transition="establishment">
+Biologist	NN	biologist	NN1	NOUN	nsubj	Bio-log-ist
+Nick	NP	Nick	NP0	PROPN	flat	_
+Bos	NP	Bos	NP0	PROPN	flat	_
+tells	VVZ	tell	VVZ	VERB	root	tell-s
+Wikinews	NP	Wikinews	NP0	PROPN	iobj	Wiki-new-s
+about	IN	about	PRP	ADP	case	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+<w>
+self	NN	self	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+medicating	VVG	medicate	VVG	VERB	amod	medicat-ing
+</w>
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+ants	NNS	ant	NN2	NOUN	obl	ant-s
+</s>
+</head>
+<s type="frag" transition="null">
+<date when="2015-09-01">
+Tuesday	NP	Tuesday	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+September	NP	September	NP0	PROPN	compound	_
+1	CD	1	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2015	CD	2015	CRD	NUM	nmod:tmod	_
+</date>
+</s>
+<figure rend="Photo of a Formica fusca ant">
+<caption>
+<s type="frag" transition="null">
+<hi rend="italic">
+Formica	FW	Formica	UNC	X	compound	_
+fusca	FW	fusca	UNC	X	root	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+from	IN	from	PRP	ADP	case	_
+file	NN	file	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+Mathias	NP	Mathias	NP0	PROPN	dep	_
+Krumbholz	NP	Krumbholz	NP0	PROPN	flat	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="null">
+Nick	NP	Nick	NP0	PROPN	nsubj	_
+Bos	NP	Bos	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Helsinki	NP	Helsinki	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+studies	VVZ	study	VVZ	VERB	root	studie-s
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+amazing	JJ	amazing	AJ0	ADJ	amod	amaz-ing
+adaptations	NNS	adaptation	NN2	NOUN	obj	adapt-ation-s
+social	JJ	social	AJ0	ADJ	amod	soci-al
+insects	NNS	insect	NN2	NOUN	nsubj	insect-s
+have	VHP	have	VHB	AUX	aux	_
+evolved	VVN	evolve	VVN	VERB	acl:relcl	evolv-ed
+in	IN	in	PRP	SCONJ	mark	_
+order	NN	order	NN1	NOUN	fixed	_
+to	TO	to	TO0	PART	mark	_
+fight	VV	fight	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+extreme	JJ	extreme	AJ0	ADJ	amod	_
+parasite	NN	parasite	NN1	NOUN	compound	_
+pressure	NN	pressure	NN1	NOUN	obj	_
+they	PP	they	PNP	PRON	nsubj	_
+experience	VVP	experience	VVB	VERB	acl:relcl	_
+"	''	''	PUQ	PUNCT	punct	_
+</quote>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+<w>
+recently	RB	recently	AV0	ADV	advmod	recent-ly
+-	HYPH	-	PUN	PUNCT	punct	_
+accepted	VVN	accept	VVN	VERB	amod	accept-ed
+</w>
+Evolution	NP	Evolution	NP0	PROPN	compound	_
+paper	NN	paper	NN1	NOUN	obl	_
+Bos	NP	Bos	NP0	PROPN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+colleagues	NNS	colleague	NN2	NOUN	conj	colleague-s
+describe	VVP	describe	VVB	VERB	root	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+appearing	VVG	appear	VVG	VERB	acl	appear-ing
+to	TO	to	TO0	PART	mark	_
+<w>
+self	NN	self	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+medicate	VV	medicate	VVI	VERB	xcomp	_
+</w>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<quote rend="block">
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+no	DT	no	AT0	DET	det	_
+doubt	NN	doubt	NN1	NOUN	obj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+as	IN	as	CJS	SCONJ	mark	_
+time	NN	time	NN1	NOUN	nsubj	_
+goes	VVZ	go	VVZ	VERB	advcl	goe-s
+on	RP	on	AVP	ADP	compound:prt	_
+,	,	,	PUN	PUNCT	punct	_
+there	EX	there	EX0	PRON	expl	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	VERB	acl	_
+more	JJR	more	AJC	ADJ	amod	_
+and	CC	and	CJC	CCONJ	cc	_
+more	JJR	more	AJC	ADJ	conj	_
+cases	NNS	case	NN2	NOUN	nsubj	case-s
+documented	VVN	document	VVN	VERB	acl	document-ed
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+team	NN	team	NN1	NOUN	nsubj	_
+used	VVD	use	VVD	VERB	root	us-ed
+<hi rend="italic">
+<ref>
+Formica	FW	Formica	UNC	X	compound	_
+fusca	FW	fusca	UNC	X	obj	_
+</ref>
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+an	DT	a	AT0	DET	det	_
+<ref>
+ant	NN	ant	NN1	NOUN	compound	_
+</ref>
+species	NN	species	NN0	NOUN	appos	_
+that	WDT	that	CJT	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+form	VV	form	VVI	VERB	acl:relcl	_
+<w>
+thousand	CD	thousand	CRD	NUM	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+strong	JJ	strong	AJ0	ADJ	amod	_
+</w>
+colonies	NNS	colony	NN2	NOUN	obj	colonie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	DET	det	_
+common	JJ	common	AJ0	ADJ	amod	_
+black	JJ	black	AJ0	ADJ	amod	_
+ant	NN	ant	NN1	NOUN	nsubj	_
+eats	VVZ	eat	VVZ	VERB	root	eat-s
+other	JJ	other	AJ0	ADJ	amod	_
+insects	NNS	insect	NN2	NOUN	obj	insect-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+also	RB	also	AV0	ADV	advmod	_
+<ref>
+aphid	NN	aphid	NN1	NOUN	compound	_
+honeydew	NN	honeydew	NN1	NOUN	conj	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	nsubj	_
+often	RB	often	AV0	ADV	advmod	_
+nests	VVZ	nest	VVZ	VERB	root	nest-s
+in	IN	in	PRP	ADP	case	_
+tree	NN	tree	NN1	NOUN	compound	_
+stumps	NNS	stump	NN2	NOUN	obl	stump-s
+or	CC	or	CJC	CCONJ	cc	_
+under	IN	under	PRP	ADP	case	_
+rocks	NNS	rock	NN2	NOUN	conj	rock-s
+and	CC	and	CJC	CCONJ	cc	_
+foraging	VVG	forage	VVG	VERB	amod	forag-ing
+workers	NNS	worker	NN2	NOUN	nsubj:pass	work-er-s
+can	MD	can	VM0	AUX	aux	_
+sometimes	RB	sometimes	AV0	ADV	advmod	sometime-s
+be	VB	be	VBI	AUX	aux:pass	_
+spotted	VVN	spot	VVN	VERB	conj	spott-ed
+climbing	VVG	climb	VVG	VERB	xcomp	climb-ing
+trees	NNS	tree	NN2	NOUN	obj	tree-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Some	DT	some	DT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	nsubj:pass	ant-s
+were	VBD	be	VBD	AUX	aux:pass	_
+infected	VVN	infect	VVN	VERB	root	infect-ed
+with	IN	with	PRP	ADP	case	_
+<hi rend="italic">
+<ref>
+Beauveria	FW	Beauveria	UNC	X	compound	_
+bassiana	FW	bassiana	UNC	X	obl	_
+</ref>
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+<ref>
+fungus	NN	fungus	NN1	NOUN	appos	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Infected	VVN	infect	VVN	VERB	amod	Infect-ed
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+chose	VVD	choose	VVD	VERB	root	_
+food	NN	food	NN1	NOUN	obj	_
+laced	VVN	lace	VVN	VERB	acl	lac-ed
+with	IN	with	PRP	ADP	case	_
+toxic	JJ	toxic	AJ0	ADJ	amod	_
+<ref>
+hydrogen	NN	hydrogen	NN1	NOUN	compound	_
+peroxide	NN	peroxide	NN1	NOUN	obl	per-oxide
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+whereas	IN	whereas	CJS	SCONJ	mark	_
+healthy	JJ	healthy	AJ0	ADJ	amod	heal-th-y
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+avoided	VVD	avoid	VVD	VERB	advcl	avoid-ed
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Hydrogen	NN	hydrogen	NN1	NOUN	compound	_
+peroxide	NN	peroxide	NN1	NOUN	nsubj	per-oxide
+reduced	VVD	reduce	VVD	VERB	root	reduc-ed
+infected	JJ	infected	AJ0	ADJ	amod	infect-ed
+ant	NN	ant	NN1	NOUN	compound	_
+fatalities	NNS	fatality	NN2	NOUN	obj	fat-al-itie-s
+by	IN	by	PRP	ADP	case	_
+15	CD	15	CRD	NUM	nummod	_
+%	NN	%	NN1	SYM	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+varied	VVD	vary	VVD	VERB	conj	vari-ed
+their	PP$	their	DPS	PRON	nmod:poss	_
+intake	NN	intake	NN1	NOUN	obj	in-take
+depending	VVG	depend	VVG	VERB	case	de-pend-ing
+upon	IN	upon	PRP	ADP	fixed	up-on
+how	WRB	how	AVQ	ADV	advmod	_
+high	JJ	high	AJ0	ADJ	obl	_
+the	DT	the	AT0	DET	det	_
+peroxide	NN	peroxide	NN1	NOUN	compound	per-oxide
+concentration	NN	concentration	NN1	NOUN	nsubj	concentrat-ion
+was	VBD	be	VBD	AUX	advcl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+wild	NN	wild	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="italic">
+Formica	FW	Formica	UNC	X	compound	_
+fusca	FW	fusca	UNC	X	nsubj	_
+</hi>
+can	MD	can	VM0	AUX	aux	_
+encounter	VV	encounter	VVI	VERB	root	_
+similar	JJ	similar	AJ0	ADJ	amod	_
+chemicals	NNS	chemical	NN2	NOUN	obj	chemic-al-s
+in	IN	in	PRP	ADP	case	_
+aphids	NNS	aphid	NN2	NOUN	nmod	aphid-s
+and	CC	and	CJC	CCONJ	cc	_
+dead	JJ	dead	AJ0	ADJ	amod	_
+ants	NNS	ant	NN2	NOUN	conj	ant-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+<ref>
+<hi rend="italic">
+The	DT	the	AT0	DET	det	_
+Independent	NP	Independent	NP0	PROPN	nsubj	In-de-pend-ent
+</hi>
+</ref>
+reported	VVD	report	VVD	VERB	root	re-port-ed
+<w>
+self	NN	self	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+medicating	VVG	medicate	VVG	VERB	amod	medicat-ing
+</w>
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+a	DT	a	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	ccomp	_
+among	IN	among	PRP	ADP	case	a-mong
+insects	NNS	insect	NN2	NOUN	obl	insect-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Bos	NP	Bos	NP0	PROPN	nsubj	_
+obtained	VVD	obtain	VVD	VERB	root	obtain-ed
+his	PP$	his	DPS	PRON	nmod:poss	_
+doctorate	NN	doctorate	NN1	NOUN	obj	doctor-ate
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+University	NP	University	NP0	PROPN	obl	_
+of	IN	of	PRF	ADP	case	_
+Copenhagen	NP	Copenhagen	NP0	PROPN	nmod	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+He	PP	he	PNP	PRON	nsubj	_
+began	VVD	begin	VVD	VERB	root	_
+postdoctoral	JJ	postdoctoral	AJ0	ADJ	amod	post-doctor-al
+research	NN	research	NN1	NOUN	obj	re-search
+at	IN	at	PRP	ADP	case	_
+Helsinki	NP	Helsinki	NP0	PROPN	obl	_
+in	IN	in	PRP	ADP	case	_
+<date when="2012">
+2012	CD	2012	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+He	PP	he	PNP	PRON	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+runs	VVZ	run	VVZ	VERB	root	run-s
+the	DT	the	AT0	DET	det	_
+AntyScience	NP	AntyScience	NP0	PROPN	compound	Ant-y-Science
+blog	NN	blog	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+blog	NN	blog	NN1	NOUN	nsubj	_
+aims	VVZ	aim	VVZ	VERB	root	aim-s
+to	TO	to	TO0	PART	mark	_
+help	VV	help	VVI	VERB	xcomp	_
+address	VV	address	VVI	VERB	xcomp	_
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+gap	NN	gap	NN1	NOUN	obj	_
+between	IN	between	PRP	ADP	case	be-tween
+scientists	NNS	scientist	NN2	NOUN	nmod	scient-ist-s
+and	CC	and	CJC	CCONJ	cc	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+general	JJ	general	AJ0	ADJ	amod	general
+public	NN	public	NN1	NOUN	conj	publ-ic
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</quote>
+</s>
+<s type="decl" transition="continue">
+The	DT	the	AT0	DET	det	_
+name	NN	name	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+pun	NN	pun	NN1	NOUN	root	_
+referencing	VVG	reference	VVG	VERB	acl	refer-enc-ing
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+,	,	,	PUN	PUNCT	punct	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+primary	JJ	primary	AJ0	ADJ	amod	prim-ary
+topic	NN	topic	NN1	NOUN	appos	_
+,	,	,	PUN	PUNCT	punct	_
+science	NN	science	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<q>
+"	``	''	PUQ	PUNCT	punct	_
+non-scientific	JJ	non-scientific	AJ0	ADJ	amod	non-scientific
+"	''	''	PUQ	PUNCT	punct	_
+</q>
+<w>
+jargon	NN	jargon	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+free	JJ	free	AJ0	ADJ	amod	_
+</w>
+communication	NN	communication	NN1	NOUN	conj	communicat-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+He	PP	he	PNP	PRON	nsubj	_
+now	RB	now	AV0	ADV	advmod	_
+discusses	VVZ	discuss	VVZ	VERB	root	discusse-s
+his	PP$	his	DPS	PRON	nmod:poss	_
+work	NN	work	NN1	NOUN	obj	_
+with	IN	with	PRP	ADP	case	_
+<hi rend="italic">
+Wikinews	NP	Wikinews	NP0	PROPN	obl	Wiki-new-s
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="Beauveria bassiana">
+<caption>
+<s type="frag" transition="null">
+Beauveria	FW	Beauveria	UNC	X	compound	_
+bassiana	FW	bassiana	UNC	X	root	_
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+cicada	NN	cicada	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+Bolivia	NP	Bolivia	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+Danny	NP	Danny	NP0	PROPN	dep	Dann-y
+Newman	NP	Newman	NP0	PROPN	flat	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<sp who="#Wikinews">
+<p>
+<s type="wh" transition="null">
+What	WP	what	PNQ	PRON	nsubj	_
+first	RB	first	ORD	ADV	advmod	_
+attracted	VVD	attract	VVD	VERB	root	attract-ed
+you	PP	you	PNP	PRON	obj	_
+to	IN	to	PRP	SCONJ	mark	_
+researching	VVG	research	VVG	VERB	advcl	re-search-ing
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#NickBos">
+<p>
+<s type="decl" transition="establishment">
+Me	PP	I	PNP	PRON	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+studymate	NN	studymate	NN1	NOUN	conj	_
+were	VBD	be	VBD	AUX	aux	_
+keeping	VVG	keep	VVG	VERB	root	keep-ing
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+animals	NNS	animal	NN2	NOUN	nmod	animal-s
+during	IN	during	PRP	ADP	case	dur-ing
+our	PP$	our	DPS	PRON	nmod:poss	_
+studies	NNS	study	NN2	NOUN	obl	studie-s
+,	,	,	PUN	PUNCT	punct	_
+from	IN	from	PRP	ADP	case	_
+beetles	NNS	beetle	NN2	NOUN	nmod	beet-le-s
+,	,	,	PUN	PUNCT	punct	_
+to	IN	to	PRP	ADP	case	_
+butterflies	NNS	butterfly	NN2	NOUN	nmod	butterflie-s
+and	CC	and	CJC	CCONJ	cc	_
+mantids	NNS	mantid	NN2	NOUN	conj	mantid-s
+,	,	,	PUN	PUNCT	punct	_
+to	IN	to	PRP	ADP	case	_
+ants	NNS	ant	NN2	NOUN	nmod	ant-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+We	PP	we	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	root	_
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+in	IN	in	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+observation	NN	observation	NN1	NOUN	compound	observ-ation
+nest	NN	nest	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+just	RB	just	AV0	ADV	advmod	_
+look	VV	look	VVI	VERB	conj	_
+at	IN	at	PRP	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+for	IN	for	PRP	ADP	case	_
+hours	NNS	hour	NN2	NOUN	obl	hour-s
+,	,	,	PUN	PUNCT	punct	_
+watching	VVG	watch	VVG	VERB	advcl	watch-ing
+them	PP	they	PNP	PRON	obj	_
+go	VV	go	VVI	VERB	xcomp	_
+about	RB	about	AVP	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+This	DT	this	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+third	JJ	third	ORD	ADJ	amod	_
+year	NN	year	NN1	NOUN	ccomp	_
+of	IN	of	PRF	ADP	case	_
+Biology	NN	biology	NN1	NOUN	compound	Bio-logy
+study	NN	study	NN1	NOUN	nmod	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+After	IN	after	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+while	NN	while	NN1	NOUN	obl	_
+I	PP	I	PNP	PRON	nsubj	_
+needed	VVD	need	VVD	VERB	root	need-ed
+to	TO	to	TO0	PART	mark	_
+start	VV	start	VVI	VERB	xcomp	_
+thinking	VVG	think	VVG	VERB	xcomp	think-ing
+about	IN	about	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+internship	NN	internship	NN1	NOUN	obl	intern-ship
+for	IN	for	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+M.Sc.	NP	M.Sc.	NP0	PROPN	compound	_
+studies	NNS	study	NN2	NOUN	nmod	studie-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+decided	VVD	decide	VVD	VERB	conj	decid-ed
+to	TO	to	TO0	PART	mark	_
+write	VV	write	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+couple	NN	couple	NN1	NOUN	iobj	_
+of	IN	of	PRF	ADP	case	_
+professors	NNS	professor	NN2	NOUN	nmod	profess-or-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+ended	VVD	end	VVD	VERB	root	end-ed
+up	RP	up	AVP	ADP	compound:prt	_
+going	VVG	go	VVG	VERB	xcomp	go-ing
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Centre	NP	Centre	NP0	PROPN	obl	_
+for	IN	for	PRP	ADP	case	_
+Social	NP	Social	NP0	ADJ	amod	_
+Evolution	NP	Evolution	NP0	PROPN	nmod	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+University	NP	University	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Copenhagen	NP	Copenhagen	NP0	PROPN	nmod	_
+where	WRB	where	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+project	NN	project	NN1	NOUN	obj	_
+on	IN	on	PRP	SCONJ	mark	_
+learning	VVG	learn	VVG	VERB	acl	learn-ing
+in	IN	in	PRP	ADP	case	_
+Ants	NNS	ant	NN2	NOUN	obl	Ant-s
+under	IN	under	PRP	ADP	case	_
+supervision	NN	supervision	NN1	NOUN	obl	supervis-ion
+of	IN	of	PRF	ADP	case	_
+Prof.	NP	Prof.	NP0	PROPN	nmod	_
+Patrizia	NP	Patrizia	NP0	PROPN	flat	_
+d'Ettorre	NP	d'Ettorre	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+liked	VVD	like	VVD	VERB	root	lik-ed
+it	PP	it	PNP	PRON	obj	_
+so	RB	so	AV0	ADV	advmod	_
+much	RB	much	AV0	ADV	advmod	_
+there	RB	there	AV0	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+ended	VVD	end	VVD	VERB	advcl	end-ed
+up	RP	up	AVP	ADP	compound:prt	_
+doing	VVG	do	VDG	VERB	xcomp	do-ing
+a	DT	a	AT0	DET	det	_
+PhD	NN	PhD	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+been	VBN	be	VBN	AUX	aux	_
+working	VVG	work	VVG	VERB	conj	work-ing
+on	IN	on	PRP	ADP	case	_
+social	JJ	social	AJ0	ADJ	amod	soci-al
+insects	NNS	insect	NN2	NOUN	obl	insect-s
+ever	RB	ever	AV0	ADV	advmod	_
+since	RB	since	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Wikinews">
+<p>
+<s type="wh" transition="zero">
+What	WP	what	PNQ	PRON	amod	_
+methods	NNS	method	NN2	NOUN	nsubj:pass	method-s
+and	CC	and	CJC	CCONJ	cc	_
+equipment	NN	equipment	NN1	NOUN	conj	equip-ment
+were	VBD	be	VBD	AUX	aux:pass	_
+used	VVN	use	VVN	VERB	root	us-ed
+for	IN	for	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+investigation	NN	investigation	NN1	NOUN	obl	investigat-ion
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#NickBos">
+<p>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+fun	JJ	fun	AJ0	ADJ	amod	_
+one	NN	one	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+try	VVP	try	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+work	VV	work	VVI	VERB	xcomp	_
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+very	RB	very	AV0	ADV	advmod	_
+low	JJ	low	AJ0	ADJ	amod	_
+budget	NN	budget	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+like	VVP	like	VVB	VERB	conj	_
+to	TO	to	TO0	PART	mark	_
+build	VV	build	VVI	VERB	xcomp	_
+most	JJS	most	DT0	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+experimental	JJ	experimental	AJ0	ADJ	amod	experiment-al
+setups	NNS	setup	NN2	NOUN	obl	setup-s
+myself	PP	myself	PNP	PRON	obl:npmod	my-self
+(	(	(	PUL	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+have	VHP	have	VHB	VERB	parataxis	_
+equipment	NN	equipment	NN1	NOUN	obj	equip-ment
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+lab	NN	lab	NN1	NOUN	obl	_
+nicknamed	VVN	nickname	VVN	VERB	acl	nicknam-ed
+the	DT	the	AT0	DET	det	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+Nickinator	NP	Nickinator	NP0	PROPN	obj	_
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+,	,	,	PUN	PUNCT	punct	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+i-Nick	NP	i-Nick	NP0	PROPN	conj	_
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+Nicktendo64	NP	Nicktendo64	NP0	PROPN	conj	Nick-tendo-64
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+There	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	root	_
+not	RB	not	XX0	PART	advmod	_
+that	DT	that	CJT	PRON	obl:npmod	_
+much	JJ	much	DT0	ADJ	amod	_
+money	NN	money	NN1	NOUN	nsubj	_
+in	IN	in	PRP	ADP	case	_
+fundamental	JJ	fundamental	AJ0	ADJ	amod	fundament-al
+science	NN	science	NN1	NOUN	obl	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+moment	NN	moment	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+try	VVP	try	VVB	VERB	parataxis	_
+to	TO	to	TO0	PART	mark	_
+cut	VV	cut	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+costs	NNS	cost	NN2	NOUN	obj	cost-s
+wherever	WRB	wherever	AVQ	ADV	advmod	_
+possible	JJ	possible	AJ0	ADJ	advcl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+We	PP	we	PNP	PRON	nsubj	_
+collected	VVD	collect	VVD	VERB	root	collect-ed
+wild	JJ	wild	AJ0	ADJ	amod	_
+colonies	NNS	colony	NN2	NOUN	obj	colonie-s
+of	IN	of	PRF	ADP	case	_
+Formica	FW	Formica	UNC	X	compound	_
+fusca	FW	fusca	UNC	X	nmod	_
+by	IN	by	PRP	SCONJ	mark	_
+searching	VVG	search	VVG	VERB	advcl	search-ing
+through	IN	through	PRP	ADP	case	_
+old	JJ	old	AJ0	ADJ	amod	_
+<w>
+tree	NN	tree	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+trunks	NNS	trunk	NN2	NOUN	obl	trunk-s
+</w>
+in	IN	in	PRP	ADP	case	_
+old	JJ	old	AJ0	ADJ	amod	_
+logging	NN	logging	NN1	NOUN	compound	logg-ing
+sites	NNS	site	NN2	NOUN	nmod	site-s
+in	IN	in	PRP	ADP	case	_
+southern	JJ	southern	AJ0	ADJ	amod	_
+Finland	NP	Finland	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+then	RB	then	AV0	ADV	advmod	_
+housed	VVD	house	VVD	VERB	root	hous-ed
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+in	IN	in	PRP	ADP	case	_
+nests	NNS	nest	NN2	NOUN	obl	nest-s
+I	PP	I	PNP	PRON	nsubj	_
+made	VVD	make	VVD	VERB	acl:relcl	_
+using	VVG	use	VVG	VERB	xcomp	us-ing
+<w>
+Y	NP	Y	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+tong	NP	tong	NP0	PROPN	obj	_
+</w>
+<add>
+[	(	[	PUL	PUNCT	punct	_
+<ref>
+aerated	VVN	aerate	VVN	VERB	amod	aerat-ed
+concrete	NN	concrete	NN1	NOUN	appos	_
+</ref>
+]	)	]	PUR	PUNCT	punct	_
+</add>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+very	RB	very	AV0	ADV	advmod	_
+soft	JJ	soft	AJ0	ADJ	amod	_
+stone	NN	stone	NN1	NOUN	root	_
+that	WDT	that	CJT	PRON	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+easily	RB	easily	AV0	ADV	advmod	easi-ly
+carve	VV	carve	VVI	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+We	PP	we	PNP	PRON	nsubj	_
+carved	VVD	carve	VVD	VERB	root	carv-ed
+out	RP	out	AVP	ADP	compound:prt	_
+little	JJ	little	DT0	ADJ	amod	_
+squares	NNS	square	NN2	NOUN	obj	square-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	nmod	ant-s
+to	TO	to	TO0	PART	mark	_
+live	VV	live	VVI	VERB	acl	_
+in	IN	in	PRP	ADP	obl	_
+(	(	(	PUL	PUNCT	punct	_
+covered	VVN	cover	VVN	VERB	acl	cover-ed
+with	IN	with	PRP	ADP	case	_
+old	JJ	old	AJ0	ADJ	amod	_
+CD	NN	CD	NN1	NOUN	compound	_
+covers	NNS	cover	NN2	NOUN	obl	cover-s
+to	TO	to	TO0	PART	mark	_
+prevent	VV	prevent	VVI	VERB	advcl	_
+them	PP	they	PNP	PRON	obj	_
+escaping	VVG	escape	VVG	VERB	xcomp	escap-ing
+!	SENT	!	PUN	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+then	RB	then	AV0	ADV	advmod	_
+drilled	VVD	drill	VVD	VERB	root	drill-ed
+a	DT	a	AT0	DET	det	_
+tunnel	NN	tunnel	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+pot	NN	pot	NN1	NOUN	obl	_
+(	(	(	PUL	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+foraging	NN	foraging	NN1	NOUN	compound	forag-ing
+arena	NN	arena	NN1	NOUN	appos	_
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+where	WRB	where	CJS	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+got	VVD	get	VVD	VERB	acl:relcl	_
+the	DT	the	AT0	DET	det	_
+choice	NN	choice	NN1	NOUN	obj	_
+between	IN	between	PRP	ADP	case	be-tween
+the	DT	the	AT0	DET	det	_
+food	NN	food	NN1	NOUN	nmod	_
+with	IN	with	PRP	ADP	case	_
+medicine	NN	medicine	NN1	NOUN	nmod	medic-ine
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+food	NN	food	NN1	NOUN	conj	_
+without	IN	without	PRP	ADP	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+We	PP	we	PNP	PRON	nsubj	_
+infected	VVD	infect	VVD	VERB	root	infect-ed
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+by	IN	by	PRP	SCONJ	mark	_
+preparing	VVG	prepare	VVG	VERB	advcl	prepar-ing
+a	DT	a	AT0	DET	det	_
+solution	NN	solution	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+fungus	NN	fungus	NN1	NOUN	nmod	_
+Beauveria	FW	Beauveria	UNC	X	compound	_
+bassiana	FW	bassiana	UNC	X	appos	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Afterwards	RB	afterwards	AV0	ADV	advmod	After-wards
+,	,	,	PUN	PUNCT	punct	_
+each	DT	each	DT0	DET	det	_
+ant	NN	ant	NN1	NOUN	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+dipped	VVN	dip	VVN	VERB	root	dipp-ed
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+solution	NN	solution	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+couple	NN	couple	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+seconds	NNS	second	NN2	NOUN	nmod	second-s
+,	,	,	PUN	PUNCT	punct	_
+dried	VVN	dry	VVN	VERB	conj	dri-ed
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+cloth	NN	cloth	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+put	VVD	put	VVD	VERB	conj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+nest	NN	nest	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+After	IN	after	PRP	SCONJ	mark	_
+exposing	VVG	expose	VVG	VERB	advcl	expos-ing
+the	DT	the	AT0	DET	det	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+fungus	NN	fungus	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+took	VVD	take	VVD	VERB	root	_
+pictures	NNS	picture	NN2	NOUN	obj	picture-s
+of	IN	of	PRF	ADP	case	_
+each	DT	each	DT0	DET	det	_
+foraging	NN	foraging	NN1	NOUN	compound	forag-ing
+arena	NN	arena	NN1	NOUN	nmod	_
+three	CD	three	CRD	NUM	nummod	_
+times	NNS	time	NN2	NOUN	obl:tmod	time-s
+per	IN	per	PRP	ADP	case	_
+day	NN	day	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+counted	VVD	count	VVD	VERB	conj	count-ed
+how	WRB	how	AVQ	ADV	mark	_
+many	JJ	many	DT0	ADJ	amod	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+were	VBD	be	VBD	AUX	cop	_
+present	JJ	present	AJ0	ADJ	acl:relcl	_
+on	IN	on	PRP	ADP	case	_
+each	DT	each	DT0	DET	det	_
+<w>
+food	NN	food	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+source	NN	source	NN1	NOUN	obl	_
+</w>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<figure rend="Aerated concrete">
+<caption>
+<s type="frag" transition="continue">
+Example	NN	example	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+aerated	VVN	aerate	VVN	VERB	amod	aerat-ed
+concrete	NN	concrete	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+provided	VVD	provide	VVD	VERB	acl:relcl	provid-ed
+a	DT	a	AT0	DET	det	_
+home	NN	home	NN1	NOUN	obj	_
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+subjects	NNS	subject	NN2	NOUN	nmod	subject-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+Marco	NP	Marco	NP0	PROPN	dep	_
+Bernardini	NP	Bernardini	NP0	PROPN	flat	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<sp who="#NickBos">
+<p>
+<s type="decl" transition="null">
+This	DT	this	DT0	PRON	nsubj	_
+gave	VVD	give	VVD	VERB	root	_
+us	PP	we	PNP	PRON	iobj	_
+the	DT	the	AT0	DET	det	_
+data	NNS	datum	NN0	NOUN	obj	dat-a
+that	IN/that	that	CJT	SCONJ	mark	_
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+choose	VVP	choose	VVB	VERB	acl	_
+more	JJR	more	DT0	ADJ	amod	_
+medicine	NN	medicine	NN1	NOUN	obj	medic-ine
+after	IN	after	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj:pass	_
+have	VHP	have	VHB	AUX	aux	_
+been	VBN	be	VBN	AUX	aux:pass	_
+infected	VVN	infect	VVN	VERB	advcl	infect-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+result	NN	result	NN1	NOUN	nsubj:pass	_
+that	IN/that	that	CJT	SCONJ	mark	_
+healthy	JJ	healthy	AJ0	ADJ	amod	heal-th-y
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+die	VVP	die	VVB	VERB	acl	_
+sooner	RBR	soon	AV0	ADV	advmod	soon-er
+when	WRB	when	CJS	ADV	advmod	_
+ingesting	VVG	ingest	VVG	VERB	advcl	ingest-ing
+ROS	NP	Ros	NP0	PROPN	obj	_
+<add>
+[	(	[	PUL	PUNCT	punct	_
+<ref>
+Reactive	JJ	reactive	AJ0	ADJ	amod	Re-act-ive
+Oxygen	NN	oxygen	NN1	NOUN	compound	_
+</ref>
+Species	NP	Species	NP0	PROPN	appos	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+group	NN	group	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+chemicals	NNS	chemical	NN2	NOUN	nmod	chemic-al-s
+that	WDT	that	CJT	PRON	nsubj	_
+includes	VVZ	include	VVZ	VERB	acl:relcl	include-s
+hydrogen	NN	hydrogen	NN1	NOUN	compound	_
+peroxide	NN	peroxide	NN1	NOUN	obj	per-oxide
+]	)	]	PUR	PUNCT	punct	_
+</add>
+but	CC	but	CJC	CCONJ	cc	_
+infected	JJ	infected	AJ0	ADJ	amod	infect-ed
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+die	VVP	die	VVB	VERB	conj	_
+less	RBR	less	DT0	ADV	advmod	_
+was	VBD	be	VBD	AUX	aux:pass	_
+obtained	VVN	obtain	VVN	VERB	root	obtain-ed
+in	IN	in	PRP	ADP	case	_
+another	DT	another	DT0	DET	det	an-other
+way	NN	way	NN1	NOUN	obl	_
+(	(	(	PUL	PUNCT	punct	_
+as	IN	as	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	advcl	_
+to	TO	to	TO0	PART	mark	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+force	RB	force	VVI	ADV	advmod	_
+feed	VV	feed	VVI	VERB	xcomp	_
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+the	DT	the	AT0	DET	det	_
+ROS	NPS	ROS	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+as	IN	as	CJS	SCONJ	mark	_
+healthy	JJ	healthy	AJ0	ADJ	amod	heal-th-y
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+,	,	,	PUN	PUNCT	punct	_
+when	WRB	when	CJS	ADV	advmod	_
+given	VVN	give	VVN	VERB	advcl	giv-en
+the	DT	the	AT0	DET	det	_
+choice	NN	choice	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+ignore	VVP	ignore	VVB	VERB	advcl	_
+that	DT	that	DT0	DET	det	_
+<w>
+food	NN	food	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+source	NN	source	NN1	NOUN	obj	_
+</w>
+.	SENT	.	PUN	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+For	IN	for	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+we	PP	we	PNP	PRON	nsubj	_
+basically	RB	basically	AV0	ADV	advmod	bas-ic-ally
+put	VVD	put	VVD	VERB	root	_
+colonies	NNS	colony	NN2	NOUN	obj	colonie-s
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+diet	NN	diet	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+either	CC	either	DT0	CCONJ	cc:preconj	_
+food	NN	food	NN1	NOUN	nmod	_
+with	IN	with	PRP	ADP	case	_
+medicine	NN	medicine	NN1	NOUN	nmod	medic-ine
+or	CC	or	CJC	CCONJ	cc	_
+without	IN	without	PRP	ADP	conj	_
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+while	NN	while	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+And	CC	and	CJC	CCONJ	cc	_
+afterwards	RB	afterwards	AV0	ADV	advmod	after-wards
+either	CC	either	AV0	CCONJ	cc:preconj	_
+infected	VVD	infect	VVD	VERB	root	infect-ed
+them	PP	they	PNP	PRON	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Then	RB	then	AV0	ADV	advmod	_
+for	IN	for	PRP	ADP	case	_
+about	RB	about	AV0	ADV	advmod	_
+two	CD	two	CRD	NUM	nummod	_
+weeks	NNS	week	NN2	NOUN	obl	week-s
+we	PP	we	PNP	PRON	nsubj	_
+count	VVP	count	VVB	VERB	root	_
+every	DT	every	AT0	DET	det	_
+day	NN	day	NN1	NOUN	obl:tmod	_
+how	WRB	how	AVQ	ADV	mark	_
+many	JJ	many	DT0	ADJ	amod	_
+ants	NNS	ant	NN2	NOUN	obj	ant-s
+died	VVD	die	VVD	VERB	acl:relcl	di-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+gives	VVZ	give	VVZ	VERB	root	give-s
+us	PP	we	PNP	PRON	iobj	_
+the	DT	the	AT0	DET	det	_
+data	NNS	datum	NN0	NOUN	obj	dat-a
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	acl	_
+a	DT	a	AT0	DET	det	_
+<w>
+so	RB	so	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+called	VVN	call	VVN	VERB	amod	call-ed
+</w>
+survival	NN	survival	NN1	NOUN	compound	surviv-al
+analysis	NN	analysis	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+We	PP	we	PNP	PRON	nsubj	_
+measured	VVD	measure	VVD	VERB	root	measur-ed
+the	DT	the	AT0	DET	det	_
+<w>
+ROS	NN	ros	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+concentration	NN	concentration	NN1	NOUN	obj	concentrat-ion
+</w>
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+bodies	NNS	body	NN2	NOUN	nmod	bodie-s
+of	IN	of	PRF	ADP	case	_
+ants	NNS	ant	NN2	NOUN	nmod	ant-s
+after	IN	after	PRP	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+ingested	VVD	ingest	VVD	VERB	advcl	ingest-ed
+the	DT	the	AT0	DET	det	_
+food	NN	food	NN1	NOUN	obj	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+medicine	NN	medicine	NN1	NOUN	nmod	medic-ine
+using	VVG	use	VVG	VERB	advcl	us-ing
+a	DT	a	AT0	DET	det	_
+<ref>
+spectrophotometer	NN	spectrophotometer	NN1	NOUN	obj	spectro-photometer
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+By	IN	by	PRP	SCONJ	mark	_
+adding	VVG	add	VVG	VERB	advcl	add-ing
+certain	JJ	certain	AJ0	ADJ	amod	_
+chemicals	NNS	chemical	NN2	NOUN	obj	chemic-al-s
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+ROS	NPS	ROS	NP0	PROPN	nsubj:pass	_
+can	MD	can	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+measured	VVN	measure	VVN	VERB	root	measur-ed
+using	VVG	use	VVG	VERB	xcomp	us-ing
+the	DT	the	AT0	DET	det	_
+emission	NN	emission	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+light	NN	light	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+certain	JJ	certain	AJ0	ADJ	amod	_
+<w>
+wave	NN	wave	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+length	NN	length	NN1	NOUN	nmod	leng-th
+</w>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+The	DT	the	AT0	DET	det	_
+detrimental	JJ	detrimental	AJ0	ADJ	amod	detriment-al
+effect	NN	effect	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+ROS	NPS	ROS	NP0	PROPN	nmod	_
+on	IN	on	PRP	ADP	case	_
+spores	NNS	spore	NN2	NOUN	nmod	spore-s
+was	VBD	be	VBD	AUX	cop	_
+easy	JJ	easy	AJ0	ADJ	root	eas-y
+to	TO	to	TO0	PART	mark	_
+measure	VV	measure	VVI	VERB	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+We	PP	we	PNP	PRON	nsubj	_
+mixed	VVD	mix	VVD	VERB	root	mix-ed
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+concentrations	NNS	concentration	NN2	NOUN	obj	concentrat-ion-s
+of	IN	of	PRF	ADP	case	_
+ROS	NPS	ROS	NP0	PROPN	nmod	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+spores	NNS	spore	NN2	NOUN	obl	spore-s
+,	,	,	PUN	PUNCT	punct	_
+plated	VVD	plate	VVD	VERB	conj	plat-ed
+them	PP	they	PNP	PRON	obj	_
+out	RP	out	AVP	ADP	compound:prt	_
+on	IN	on	PRP	ADP	case	_
+<ref>
+<sic ana="Petri dishes">
+<w>
+petri	NP	Petri	NP0	PROPN	compound	_
+dishes	NNS	dish	NN2	NOUN	obl	dishe-s
+</w>
+</sic>
+</ref>
+with	IN	with	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+<ref>
+<w>
+agar	NN	agar	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+solution	NN	solution	NN1	NOUN	nmod	_
+</w>
+</ref>
+where	WRB	where	CJS	ADV	obl	_
+fungus	NN	fungus	NN1	NOUN	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+grow	VV	grow	VVI	VERB	acl:relcl	_
+on	IN	on	PRP	ADP	case	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+A	DT	a	AT0	DET	det	_
+day	NN	day	NN1	NOUN	obl:tmod	_
+after	RB	after	PRP	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+counted	VVD	count	VVD	VERB	root	count-ed
+how	WRB	how	AVQ	ADV	mark	_
+many	JJ	many	DT0	ADJ	amod	_
+spores	NNS	spore	NN2	NOUN	obj	spore-s
+were	VBD	be	VBD	AUX	aux	_
+still	RB	still	AV0	ADV	advmod	_
+alive	JJ	alive	AJ0	ADJ	acl:relcl	a-live
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Wikinews">
+<p>
+<s type="wh" transition="continue">
+How	WRB	how	AVQ	ADV	advmod	_
+<ref>
+reliable	JJ	reliable	AJ0	ADJ	xcomp	reli-able
+</ref>
+do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+consider	VV	consider	VVI	VERB	root	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+results	NNS	result	NN2	NOUN	obj	result-s
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#NickBos">
+<p>
+<s type="decl" transition="continue">
+The	DT	the	AT0	DET	det	_
+results	NNS	result	NN2	NOUN	nsubj	result-s
+we	PP	we	PNP	PRON	nsubj	_
+got	VVD	get	VVD	VERB	acl:relcl	_
+are	VBP	be	VBB	AUX	cop	_
+very	RB	very	AV0	ADV	advmod	_
+reliable	JJ	reliable	AJ0	ADJ	root	reli-able
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+We	PP	we	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+colonies	NNS	colony	NN2	NOUN	nmod	colonie-s
+containing	VVG	contain	VVG	VERB	acl	contain-ing
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+ants	NNS	ant	NN2	NOUN	nmod	ant-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+wherever	WRB	wherever	AVQ	ADV	advmod	_
+possible	JJ	possible	AJ0	ADJ	advcl:relcl	_
+we	PP	we	PNP	PRON	nsubj	_
+conducted	VVD	conduct	VVD	VERB	conj	conduct-ed
+the	DT	the	AT0	DET	det	_
+experiment	NN	experiment	NN1	NOUN	obj	_
+blind	JJ	blind	AJ0	ADJ	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+This	DT	this	DT0	PRON	nsubj	_
+means	VVZ	mean	VVZ	VERB	root	mean-s
+the	DT	the	AT0	DET	det	_
+experimenter	NN	experimenter	NN1	NOUN	nsubj	experiment-er
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	ccomp	_
+which	WDT	which	DTQ	DET	det	_
+ants	NNS	ant	NN2	NOUN	nsubj	ant-s
+belong	VVP	belong	VVB	VERB	ccomp	be-long
+to	IN	to	PRP	ADP	case	_
+which	WDT	which	DTQ	DET	det	_
+treatment	NN	treatment	NN1	NOUN	obl	treat-ment
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	expl	_
+'s	VBZ	be	VBZ	AUX	cop	_
+impossible	JJ	impossible	AJ0	ADJ	parataxis	im-possible
+to	TO	to	TO0	PART	mark	_
+influence	VV	influence	VVI	VERB	csubj	_
+the	DT	the	AT0	DET	det	_
+results	NNS	result	NN2	NOUN	obj	result-s
+with	IN	with	PRP	ADP	case	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+<ref>
+observer	NN	observer	NN1	NOUN	compound	observ-er
+bias	NN	bias	NN1	NOUN	obl	_
+</ref>
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+However	RB	however	AV0	ADV	advmod	How-ever
+,	,	,	PUN	PUNCT	punct	_
+of	IN	of	PRF	ADP	advmod	_
+course	NN	course	NN1	NOUN	fixed	_
+this	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+proof	NN	proof	NN1	NOUN	root	_
+in	IN	in	PRP	ADP	case	_
+just	RB	just	AV0	ADV	advmod	_
+one	CD	one	CRD	NUM	nummod	_
+species	NN	species	NN0	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+It	PP	it	PNP	PRON	expl	_
+is	VBZ	be	VBZ	AUX	cop	_
+hard	JJ	hard	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	mark	_
+extrapolate	VV	extrapolate	VVI	VERB	csubj	extra-polate
+to	IN	to	PRP	ADP	case	_
+other	JJ	other	AJ0	ADJ	amod	_
+ants	NNS	ant	NN2	NOUN	obl	ant-s
+,	,	,	PUN	PUNCT	punct	_
+as	IN	as	CJS	SCONJ	mark	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+species	NNS	species	NN0	NOUN	nsubj	_
+lead	VVP	lead	VVB	VERB	advcl	_
+very	RB	very	AV0	ADV	advmod	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+lives	NNS	life	NN2	NOUN	obj	live-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

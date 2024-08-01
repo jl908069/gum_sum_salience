@@ -1,0 +1,1623 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Prologue
+1-1	_	Prologue	_	_	_	_
+
+#Text=" Try to touch the past .
+2-1	_	"	_	_	_	_
+2-2	_	Try	_	_	_	_
+2-3	_	to	_	_	_	_
+2-4	_	touch	_	_	_	_
+2-5	_	the	abstract[1]	new[1]	coref	3-5[1_2]
+2-6	_	past	abstract[1]	new[1]	_	_
+2-7	_	.	_	_	_	_
+
+#Text=Try to deal with the past .
+3-1	_	Try	_	_	_	_
+3-2	_	to	_	_	_	_
+3-3	_	deal	_	_	_	_
+3-4	_	with	_	_	_	_
+3-5	_	the	abstract[2]	new[2]	coref	4-1[2_3]
+3-6	_	past	abstract[2]	new[2]	_	_
+3-7	_	.	_	_	_	_
+
+#Text=It 's not real .
+4-1	_	It	abstract[3]	new[3]	coref	5-1[3_4]
+4-2	_	's	_	_	_	_
+4-3	_	not	_	_	_	_
+4-4	_	real	_	_	_	_
+4-5	_	.	_	_	_	_
+
+#Text=It 's just a dream . "
+5-1	_	It	abstract[4]	new[4]	_	_
+5-2	_	's	_	_	_	_
+5-3	_	just	_	_	_	_
+5-4	_	a	_	_	_	_
+5-5	_	dream	_	_	_	_
+5-6	_	.	_	_	_	_
+5-7	_	"	_	_	_	_
+
+#Text=— Ted Bundy
+6-1	_	—	_	_	_	_
+6-2	_	Ted	_	_	_	_
+6-3	_	Bundy	_	_	_	_
+
+#Text=It did n't start out here .
+7-1	_	It	abstract[5]	new[5]	coref	9-5[5_6]
+7-2	_	did	_	_	_	_
+7-3	_	n't	_	_	_	_
+7-4	_	start	_	_	_	_
+7-5	_	out	_	_	_	_
+7-6	_	here	_	_	_	_
+7-7	_	.	_	_	_	_
+
+#Text=Not with the scramblers or Rorschach , not with Big Ben or Theseus or the vampires .
+8-1	_	Not	_	_	_	_
+8-2	_	with	_	_	_	_
+8-3	_	the	_	_	_	_
+8-4	_	scramblers	_	_	_	_
+8-5	_	or	_	_	_	_
+8-6	_	Rorschach	_	_	_	_
+8-7	_	,	_	_	_	_
+8-8	_	not	_	_	_	_
+8-9	_	with	_	_	_	_
+8-10	_	Big	abstract[11]	new[11]	coref	10-4[11_12]
+8-11	_	Ben	abstract[11]	new[11]	_	_
+8-12	_	or	abstract[11]	new[11]	_	_
+8-13	_	Theseus	abstract[11]	new[11]	_	_
+8-14	_	or	abstract[11]	new[11]	_	_
+8-15	_	the	abstract[11]	new[11]	_	_
+8-16	_	vampires	abstract[11]	new[11]	_	_
+8-17	_	.	_	_	_	_
+
+#Text=Most people would say it started with the Fireflies , but they 'd be wrong .
+9-1	_	Most	abstract[9]	new[9]	coref	9-12[9_10]
+9-2	_	people	abstract[9]	new[9]	_	_
+9-3	_	would	_	_	_	_
+9-4	_	say	_	_	_	_
+9-5	_	it	abstract[6]	new[6]	coref	10-1[6_7]
+9-6	_	started	_	_	_	_
+9-7	_	with	_	_	_	_
+9-8	_	the	_	_	_	_
+9-9	_	Fireflies	_	_	_	_
+9-10	_	,	_	_	_	_
+9-11	_	but	_	_	_	_
+9-12	_	they	abstract[10]	new[10]	_	_
+9-13	_	'd	_	_	_	_
+9-14	_	be	_	_	_	_
+9-15	_	wrong	_	_	_	_
+9-16	_	.	_	_	_	_
+
+#Text=It ended with all those things .
+10-1	_	It	abstract[7]	new[7]	coref	11-4[7_8]
+10-2	_	ended	_	_	_	_
+10-3	_	with	_	_	_	_
+10-4	_	all	abstract[12]	new[12]	_	_
+10-5	_	those	abstract[12]	new[12]	_	_
+10-6	_	things	abstract[12]	new[12]	_	_
+10-7	_	.	_	_	_	_
+
+#Text=For me , it began with Robert Paglino .
+11-1	_	For	_	_	_	_
+11-2	_	me	abstract[38]	new[38]	coref	12-9[38_39]
+11-3	_	,	_	_	_	_
+11-4	_	it	abstract[8]	new[8]	_	_
+11-5	_	began	_	_	_	_
+11-6	_	with	_	_	_	_
+11-7	_	Robert	abstract[13]	new[13]	coref	12-7[13_14]
+11-8	_	Paglino	abstract[13]	new[13]	_	_
+11-9	_	.	_	_	_	_
+
+#Text=At the age of eight , he was my best and only friend .
+12-1	_	At	_	_	_	_
+12-2	_	the	abstract[132]	new[132]	coref	22-5[132_133]
+12-3	_	age	abstract[132]	new[132]	_	_
+12-4	_	of	abstract[132]	new[132]	_	_
+12-5	_	eight	abstract[132]	new[132]	_	_
+12-6	_	,	_	_	_	_
+12-7	_	he	abstract[14]	new[14]	coref	15-1[14_15]
+12-8	_	was	_	_	_	_
+12-9	_	my	abstract[39]	new[39]	coref	14-1[39_40]
+12-10	_	best	_	_	_	_
+12-11	_	and	_	_	_	_
+12-12	_	only	_	_	_	_
+12-13	_	friend	_	_	_	_
+12-14	_	.	_	_	_	_
+
+#Text=We were fellow outcasts , bound by complementary misfortune .
+13-1	_	We	abstract[124]	new[124]	coref	18-3[124_125]
+13-2	_	were	_	_	_	_
+13-3	_	fellow	_	_	_	_
+13-4	_	outcasts	_	_	_	_
+13-5	_	,	_	_	_	_
+13-6	_	bound	_	_	_	_
+13-7	_	by	_	_	_	_
+13-8	_	complementary	_	_	_	_
+13-9	_	misfortune	_	_	_	_
+13-10	_	.	_	_	_	_
+
+#Text=Mine was developmental .
+14-1	_	Mine	abstract[40]	new[40]	coref	19-1[40_41]
+14-2	_	was	_	_	_	_
+14-3	_	developmental	_	_	_	_
+14-4	_	.	_	_	_	_
+
+#Text=His was genetic : an uncontrolled genotype that left him predisposed to nearsightedness , acne , and ( as it later turned out ) a susceptibility to narcotics .
+15-1	_	His	abstract[15]	new[15]	coref	15-10[15_16]
+15-2	_	was	_	_	_	_
+15-3	_	genetic	_	_	_	_
+15-4	_	:	_	_	_	_
+15-5	_	an	_	_	_	_
+15-6	_	uncontrolled	_	_	_	_
+15-7	_	genotype	_	_	_	_
+15-8	_	that	_	_	_	_
+15-9	_	left	_	_	_	_
+15-10	_	him	abstract[16]	new[16]	coref	16-1[16_17]
+15-11	_	predisposed	_	_	_	_
+15-12	_	to	_	_	_	_
+15-13	_	nearsightedness	_	_	_	_
+15-14	_	,	_	_	_	_
+15-15	_	acne	_	_	_	_
+15-16	_	,	_	_	_	_
+15-17	_	and	_	_	_	_
+15-18	_	(	_	_	_	_
+15-19	_	as	_	_	_	_
+15-20	_	it	_	_	_	_
+15-21	_	later	_	_	_	_
+15-22	_	turned	_	_	_	_
+15-23	_	out	_	_	_	_
+15-24	_	)	_	_	_	_
+15-25	_	a	_	_	_	_
+15-26	_	susceptibility	_	_	_	_
+15-27	_	to	_	_	_	_
+15-28	_	narcotics	_	_	_	_
+15-29	_	.	_	_	_	_
+
+#Text=His parents had never had him optimized .
+16-1	_	His	abstract[17]	new[17]	coref	16-6[17_18]
+16-2	_	parents	_	_	_	_
+16-3	_	had	_	_	_	_
+16-4	_	never	_	_	_	_
+16-5	_	had	_	_	_	_
+16-6	_	him	abstract[18]	new[18]	coref	19-8[18_19]
+16-7	_	optimized	_	_	_	_
+16-8	_	.	_	_	_	_
+
+#Text=Those few TwenCen relics who still believed in God also held that one should n't try to improve upon His handiwork .
+17-1	_	Those	_	_	_	_
+17-2	_	few	_	_	_	_
+17-3	_	TwenCen	_	_	_	_
+17-4	_	relics	_	_	_	_
+17-5	_	who	_	_	_	_
+17-6	_	still	_	_	_	_
+17-7	_	believed	_	_	_	_
+17-8	_	in	_	_	_	_
+17-9	_	God	abstract[122]	new[122]	coref	17-20[122_123]
+17-10	_	also	_	_	_	_
+17-11	_	held	_	_	_	_
+17-12	_	that	_	_	_	_
+17-13	_	one	_	_	_	_
+17-14	_	should	_	_	_	_
+17-15	_	n't	_	_	_	_
+17-16	_	try	_	_	_	_
+17-17	_	to	_	_	_	_
+17-18	_	improve	_	_	_	_
+17-19	_	upon	_	_	_	_
+17-20	_	His	abstract[123]	new[123]	_	_
+17-21	_	handiwork	_	_	_	_
+17-22	_	.	_	_	_	_
+
+#Text=So although both of us could have been repaired , only one of us had been .
+18-1	_	So	_	_	_	_
+18-2	_	although	_	_	_	_
+18-3	_	both	abstract[125]	new[125]	coref	18-5[125_126]
+18-4	_	of	abstract[125]	new[125]	_	_
+18-5	_	us	abstract[125]|abstract[126]	new[125]|new[126]	coref	18-14[126_127]
+18-6	_	could	_	_	_	_
+18-7	_	have	_	_	_	_
+18-8	_	been	_	_	_	_
+18-9	_	repaired	_	_	_	_
+18-10	_	,	_	_	_	_
+18-11	_	only	_	_	_	_
+18-12	_	one	_	_	_	_
+18-13	_	of	_	_	_	_
+18-14	_	us	abstract[127]	new[127]	_	_
+18-15	_	had	_	_	_	_
+18-16	_	been	_	_	_	_
+18-17	_	.	_	_	_	_
+
+#Text=I arrived at the playground to find Pag the center of attention for some half - dozen kids , those lucky few in front punching him in the head , the others making do with taunts of mongrel and polly while waiting their turn .
+19-1	_	I	abstract[41]	new[41]	coref	20-1[41_42]
+19-2	_	arrived	_	_	_	_
+19-3	_	at	_	_	_	_
+19-4	_	the	_	_	_	_
+19-5	_	playground	_	_	_	_
+19-6	_	to	_	_	_	_
+19-7	_	find	_	_	_	_
+19-8	_	Pag	abstract[19]	new[19]	coref	19-26[19_20]
+19-9	_	the	_	_	_	_
+19-10	_	center	_	_	_	_
+19-11	_	of	_	_	_	_
+19-12	_	attention	_	_	_	_
+19-13	_	for	_	_	_	_
+19-14	_	some	_	_	_	_
+19-15	_	half	_	_	_	_
+19-16	_	-	_	_	_	_
+19-17	_	dozen	_	_	_	_
+19-18	_	kids	_	_	_	_
+19-19	_	,	_	_	_	_
+19-20	_	those	_	_	_	_
+19-21	_	lucky	_	_	_	_
+19-22	_	few	_	_	_	_
+19-23	_	in	_	_	_	_
+19-24	_	front	_	_	_	_
+19-25	_	punching	_	_	_	_
+19-26	_	him	abstract[20]	new[20]	coref	20-3[20_21]
+19-27	_	in	_	_	_	_
+19-28	_	the	_	_	_	_
+19-29	_	head	_	_	_	_
+19-30	_	,	_	_	_	_
+19-31	_	the	abstract[128]	new[128]	coref	19-43[128_129]
+19-32	_	others	abstract[128]	new[128]	_	_
+19-33	_	making	_	_	_	_
+19-34	_	do	_	_	_	_
+19-35	_	with	_	_	_	_
+19-36	_	taunts	_	_	_	_
+19-37	_	of	_	_	_	_
+19-38	_	mongrel	_	_	_	_
+19-39	_	and	_	_	_	_
+19-40	_	polly	_	_	_	_
+19-41	_	while	_	_	_	_
+19-42	_	waiting	_	_	_	_
+19-43	_	their	abstract[129]	new[129]	_	_
+19-44	_	turn	_	_	_	_
+19-45	_	.	_	_	_	_
+
+#Text=I watched him raise his arms , almost hesitantly , to ward off the worst of the blows .
+20-1	_	I	abstract[42]	new[42]	coref	21-1[42_43]
+20-2	_	watched	_	_	_	_
+20-3	_	him	abstract[21]	new[21]	coref	20-5[21_22]
+20-4	_	raise	_	_	_	_
+20-5	_	his	abstract[22]	new[22]	coref	21-5[22_23]
+20-6	_	arms	_	_	_	_
+20-7	_	,	_	_	_	_
+20-8	_	almost	_	_	_	_
+20-9	_	hesitantly	_	_	_	_
+20-10	_	,	_	_	_	_
+20-11	_	to	_	_	_	_
+20-12	_	ward	_	_	_	_
+20-13	_	off	_	_	_	_
+20-14	_	the	_	_	_	_
+20-15	_	worst	_	_	_	_
+20-16	_	of	_	_	_	_
+20-17	_	the	_	_	_	_
+20-18	_	blows	_	_	_	_
+20-19	_	.	_	_	_	_
+
+#Text=I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more .
+21-1	_	I	abstract[43]	new[43]	coref	21-9[43_44]
+21-2	_	could	_	_	_	_
+21-3	_	see	_	_	_	_
+21-4	_	into	_	_	_	_
+21-5	_	his	abstract[23]	new[23]	coref	21-16[23_24]
+21-6	_	head	_	_	_	_
+21-7	_	better	_	_	_	_
+21-8	_	than	_	_	_	_
+21-9	_	I	abstract[44]	new[44]	coref	21-13[44_45]
+21-10	_	could	_	_	_	_
+21-11	_	see	_	_	_	_
+21-12	_	into	_	_	_	_
+21-13	_	my	abstract[45]	new[45]	coref	22-13[45_46]
+21-14	_	own	_	_	_	_
+21-15	_	;	_	_	_	_
+21-16	_	he	abstract[24]	new[24]	coref	21-20[24_25]
+21-17	_	was	_	_	_	_
+21-18	_	scared	_	_	_	_
+21-19	_	that	_	_	_	_
+21-20	_	his	abstract[25]|abstract[130]	new[25]|new[130]	coref|coref	21-45[25_26]|21-34[130_131]
+21-21	_	attackers	abstract[130]	new[130]	_	_
+21-22	_	might	_	_	_	_
+21-23	_	think	_	_	_	_
+21-24	_	those	_	_	_	_
+21-25	_	hands	_	_	_	_
+21-26	_	were	_	_	_	_
+21-27	_	coming	_	_	_	_
+21-28	_	up	_	_	_	_
+21-29	_	to	_	_	_	_
+21-30	_	hit	_	_	_	_
+21-31	_	back	_	_	_	_
+21-32	_	,	_	_	_	_
+21-33	_	that	_	_	_	_
+21-34	_	they	abstract[131]	new[131]	_	_
+21-35	_	'd	_	_	_	_
+21-36	_	read	_	_	_	_
+21-37	_	it	_	_	_	_
+21-38	_	as	_	_	_	_
+21-39	_	an	_	_	_	_
+21-40	_	act	_	_	_	_
+21-41	_	of	_	_	_	_
+21-42	_	defiance	_	_	_	_
+21-43	_	and	_	_	_	_
+21-44	_	hurt	_	_	_	_
+21-45	_	him	abstract[26]	new[26]	coref	24-7[26_27]
+21-46	_	even	_	_	_	_
+21-47	_	more	_	_	_	_
+21-48	_	.	_	_	_	_
+
+#Text=Even then , at the tender age of eight and with half my mind gone , I was becoming a superlative observer .
+22-1	_	Even	_	_	_	_
+22-2	_	then	_	_	_	_
+22-3	_	,	_	_	_	_
+22-4	_	at	_	_	_	_
+22-5	_	the	abstract[133]	new[133]	_	_
+22-6	_	tender	abstract[133]	new[133]	_	_
+22-7	_	age	abstract[133]	new[133]	_	_
+22-8	_	of	abstract[133]	new[133]	_	_
+22-9	_	eight	abstract[133]	new[133]	_	_
+22-10	_	and	_	_	_	_
+22-11	_	with	_	_	_	_
+22-12	_	half	_	_	_	_
+22-13	_	my	abstract[46]	new[46]	coref	22-17[46_47]
+22-14	_	mind	_	_	_	_
+22-15	_	gone	_	_	_	_
+22-16	_	,	_	_	_	_
+22-17	_	I	abstract[47]	new[47]	coref	23-2[47_48]
+22-18	_	was	_	_	_	_
+22-19	_	becoming	_	_	_	_
+22-20	_	a	_	_	_	_
+22-21	_	superlative	_	_	_	_
+22-22	_	observer	_	_	_	_
+22-23	_	.	_	_	_	_
+
+#Text=But I did n't know what to do .
+23-1	_	But	_	_	_	_
+23-2	_	I	abstract[48]	new[48]	coref	24-1[48_49]
+23-3	_	did	_	_	_	_
+23-4	_	n't	_	_	_	_
+23-5	_	know	_	_	_	_
+23-6	_	what	_	_	_	_
+23-7	_	to	_	_	_	_
+23-8	_	do	_	_	_	_
+23-9	_	.	_	_	_	_
+
+#Text=I had n't seen much of Pag lately .
+24-1	_	I	abstract[49]	new[49]	coref	25-1[49_50]
+24-2	_	had	_	_	_	_
+24-3	_	n't	_	_	_	_
+24-4	_	seen	_	_	_	_
+24-5	_	much	_	_	_	_
+24-6	_	of	_	_	_	_
+24-7	_	Pag	abstract[27]	new[27]	coref	25-5[27_28]
+24-8	_	lately	_	_	_	_
+24-9	_	.	_	_	_	_
+
+#Text=I was pretty sure he 'd been avoiding me .
+25-1	_	I	abstract[50]	new[50]	coref	25-9[50_51]
+25-2	_	was	_	_	_	_
+25-3	_	pretty	_	_	_	_
+25-4	_	sure	_	_	_	_
+25-5	_	he	abstract[28]	new[28]	coref	26-4[28_29]
+25-6	_	'd	_	_	_	_
+25-7	_	been	_	_	_	_
+25-8	_	avoiding	_	_	_	_
+25-9	_	me	abstract[51]	new[51]	coref	30-1[51_52]
+25-10	_	.	_	_	_	_
+
+#Text=Still , when your best friend 's in trouble you help out , right ?
+26-1	_	Still	_	_	_	_
+26-2	_	,	_	_	_	_
+26-3	_	when	_	_	_	_
+26-4	_	your	abstract[29]|abstract[30]	new[29]|new[30]	coref|coref	26-4[29_30]|26-10[30_31]
+26-5	_	best	abstract[30]	new[30]	_	_
+26-6	_	friend	abstract[30]	new[30]	_	_
+26-7	_	's	_	_	_	_
+26-8	_	in	_	_	_	_
+26-9	_	trouble	_	_	_	_
+26-10	_	you	abstract[31]	new[31]	coref	27-31[31_32]
+26-11	_	help	_	_	_	_
+26-12	_	out	_	_	_	_
+26-13	_	,	_	_	_	_
+26-14	_	right	_	_	_	_
+26-15	_	?	_	_	_	_
+
+#Text=Even if the odds are impossible — and how many eight - year - olds would go up against six bigger kids for a sandbox buddy ? — at least you call for backup .
+27-1	_	Even	_	_	_	_
+27-2	_	if	_	_	_	_
+27-3	_	the	_	_	_	_
+27-4	_	odds	_	_	_	_
+27-5	_	are	_	_	_	_
+27-6	_	impossible	_	_	_	_
+27-7	_	—	_	_	_	_
+27-8	_	and	_	_	_	_
+27-9	_	how	_	_	_	_
+27-10	_	many	_	_	_	_
+27-11	_	eight	_	_	_	_
+27-12	_	-	_	_	_	_
+27-13	_	year	_	_	_	_
+27-14	_	-	_	_	_	_
+27-15	_	olds	_	_	_	_
+27-16	_	would	_	_	_	_
+27-17	_	go	_	_	_	_
+27-18	_	up	_	_	_	_
+27-19	_	against	_	_	_	_
+27-20	_	six	_	_	_	_
+27-21	_	bigger	_	_	_	_
+27-22	_	kids	_	_	_	_
+27-23	_	for	_	_	_	_
+27-24	_	a	_	_	_	_
+27-25	_	sandbox	_	_	_	_
+27-26	_	buddy	_	_	_	_
+27-27	_	?	_	_	_	_
+27-28	_	—	_	_	_	_
+27-29	_	at	_	_	_	_
+27-30	_	least	_	_	_	_
+27-31	_	you	abstract[32]	new[32]	coref	31-9[32_33]
+27-32	_	call	_	_	_	_
+27-33	_	for	_	_	_	_
+27-34	_	backup	_	_	_	_
+27-35	_	.	_	_	_	_
+
+#Text=Flag a sentry .
+28-1	_	Flag	_	_	_	_
+28-2	_	a	_	_	_	_
+28-3	_	sentry	_	_	_	_
+28-4	_	.	_	_	_	_
+
+#Text=Something .
+29-1	_	Something	_	_	_	_
+29-2	_	.	_	_	_	_
+
+#Text=I just stood there .
+30-1	_	I	abstract[52]	new[52]	coref	31-1[52_53]
+30-2	_	just	_	_	_	_
+30-3	_	stood	_	_	_	_
+30-4	_	there	_	_	_	_
+30-5	_	.	_	_	_	_
+
+#Text=I did n't even especially want to help him .
+31-1	_	I	abstract[53]	new[53]	coref	33-8[53_54]
+31-2	_	did	_	_	_	_
+31-3	_	n't	_	_	_	_
+31-4	_	even	_	_	_	_
+31-5	_	especially	_	_	_	_
+31-6	_	want	_	_	_	_
+31-7	_	to	_	_	_	_
+31-8	_	help	_	_	_	_
+31-9	_	him	abstract[33]	new[33]	coref	33-4[33_34]
+31-10	_	.	_	_	_	_
+
+#Text=That did n't make sense .
+32-1	_	That	_	_	_	_
+32-2	_	did	_	_	_	_
+32-3	_	n't	_	_	_	_
+32-4	_	make	_	_	_	_
+32-5	_	sense	_	_	_	_
+32-6	_	.	_	_	_	_
+
+#Text=Even if he had n't been my best friend , I should at least have empathized .
+33-1	_	Even	_	_	_	_
+33-2	_	if	_	_	_	_
+33-3	_	he	abstract[34]	new[34]	coref	34-6[34_35]
+33-4	_	had	_	_	_	_
+33-5	_	n't	_	_	_	_
+33-6	_	been	_	_	_	_
+33-7	_	my	abstract[54]	new[54]	coref	33-12[54_55]
+33-8	_	best	_	_	_	_
+33-9	_	friend	_	_	_	_
+33-10	_	,	_	_	_	_
+33-11	_	I	abstract[55]	new[55]	coref	34-1[55_56]
+33-12	_	should	_	_	_	_
+33-13	_	at	_	_	_	_
+33-14	_	least	_	_	_	_
+33-15	_	have	_	_	_	_
+33-16	_	empathized	_	_	_	_
+33-17	_	.	_	_	_	_
+
+#Text=I 'd suffered less than Pag in the way of overt violence ; my seizures tended to keep the other kids at a distance , scared them even as they incapacitated me .
+34-1	_	I	abstract[56]	new[56]	coref	34-14[56_57]
+34-2	_	'd	_	_	_	_
+34-3	_	suffered	_	_	_	_
+34-4	_	less	_	_	_	_
+34-5	_	than	_	_	_	_
+34-6	_	Pag	abstract[35]	new[35]	coref	36-20[35_36]
+34-7	_	in	_	_	_	_
+34-8	_	the	_	_	_	_
+34-9	_	way	_	_	_	_
+34-10	_	of	_	_	_	_
+34-11	_	overt	_	_	_	_
+34-12	_	violence	_	_	_	_
+34-13	_	;	_	_	_	_
+34-14	_	my	abstract[57]|abstract[136]	new[57]|new[136]	coref|coref	34-32[57_58]|34-30[136_137]
+34-15	_	seizures	abstract[136]	new[136]	_	_
+34-16	_	tended	_	_	_	_
+34-17	_	to	_	_	_	_
+34-18	_	keep	_	_	_	_
+34-19	_	the	abstract[134]	new[134]	coref	34-27[134_135]
+34-20	_	other	abstract[134]	new[134]	_	_
+34-21	_	kids	abstract[134]	new[134]	_	_
+34-22	_	at	_	_	_	_
+34-23	_	a	_	_	_	_
+34-24	_	distance	_	_	_	_
+34-25	_	,	_	_	_	_
+34-26	_	scared	_	_	_	_
+34-27	_	them	abstract[135]	new[135]	_	_
+34-28	_	even	_	_	_	_
+34-29	_	as	_	_	_	_
+34-30	_	they	abstract[137]	new[137]	_	_
+34-31	_	incapacitated	_	_	_	_
+34-32	_	me	abstract[58]	new[58]	coref	36-1[58_59]
+34-33	_	.	_	_	_	_
+
+#Text=Still .
+35-1	_	Still	_	_	_	_
+35-2	_	.	_	_	_	_
+
+#Text=I was no stranger to the taunts and insults , or the foot that appears from nowhere to trip you up en route from A to B .
+36-1	_	I	abstract[59]	new[59]	coref	37-1[59_60]
+36-2	_	was	_	_	_	_
+36-3	_	no	_	_	_	_
+36-4	_	stranger	_	_	_	_
+36-5	_	to	_	_	_	_
+36-6	_	the	abstract[138]	new[138]	coref	37-4[138_139]
+36-7	_	taunts	abstract[138]	new[138]	_	_
+36-8	_	and	abstract[138]	new[138]	_	_
+36-9	_	insults	abstract[138]	new[138]	_	_
+36-10	_	,	abstract[138]	new[138]	_	_
+36-11	_	or	abstract[138]	new[138]	_	_
+36-12	_	the	abstract[138]	new[138]	_	_
+36-13	_	foot	abstract[138]	new[138]	_	_
+36-14	_	that	abstract[138]	new[138]	_	_
+36-15	_	appears	abstract[138]	new[138]	_	_
+36-16	_	from	abstract[138]	new[138]	_	_
+36-17	_	nowhere	abstract[138]	new[138]	_	_
+36-18	_	to	abstract[138]	new[138]	_	_
+36-19	_	trip	abstract[138]	new[138]	_	_
+36-20	_	you	abstract[36]|abstract[138]	new[36]|new[138]	coref	44-4[36_37]
+36-21	_	up	abstract[138]	new[138]	_	_
+36-22	_	en	abstract[138]	new[138]	_	_
+36-23	_	route	abstract[138]	new[138]	_	_
+36-24	_	from	abstract[138]	new[138]	_	_
+36-25	_	A	abstract[138]	new[138]	_	_
+36-26	_	to	abstract[138]	new[138]	_	_
+36-27	_	B	abstract[138]	new[138]	_	_
+36-28	_	.	_	_	_	_
+
+#Text=I knew how that felt .
+37-1	_	I	abstract[60]	new[60]	coref	38-2[60_61]
+37-2	_	knew	_	_	_	_
+37-3	_	how	_	_	_	_
+37-4	_	that	abstract[139]	new[139]	_	_
+37-5	_	felt	_	_	_	_
+37-6	_	.	_	_	_	_
+
+#Text=Or I had , once .
+38-1	_	Or	_	_	_	_
+38-2	_	I	abstract[61]	new[61]	coref	39-5[61_62]
+38-3	_	had	_	_	_	_
+38-4	_	,	_	_	_	_
+38-5	_	once	_	_	_	_
+38-6	_	.	_	_	_	_
+
+#Text=But that part of me had been cut out along with the bad wiring .
+39-1	_	But	_	_	_	_
+39-2	_	that	abstract[140]	new[140]	coref	40-10[140_141]
+39-3	_	part	abstract[140]	new[140]	_	_
+39-4	_	of	abstract[140]	new[140]	_	_
+39-5	_	me	abstract[62]|abstract[140]	new[62]|new[140]	coref	40-1[62_63]
+39-6	_	had	_	_	_	_
+39-7	_	been	_	_	_	_
+39-8	_	cut	_	_	_	_
+39-9	_	out	_	_	_	_
+39-10	_	along	_	_	_	_
+39-11	_	with	_	_	_	_
+39-12	_	the	_	_	_	_
+39-13	_	bad	_	_	_	_
+39-14	_	wiring	_	_	_	_
+39-15	_	.	_	_	_	_
+
+#Text=I was still working up the algorithms to get it back , still learning by observation .
+40-1	_	I	abstract[63]	new[63]	coref	43-2[63_64]
+40-2	_	was	_	_	_	_
+40-3	_	still	_	_	_	_
+40-4	_	working	_	_	_	_
+40-5	_	up	_	_	_	_
+40-6	_	the	_	_	_	_
+40-7	_	algorithms	_	_	_	_
+40-8	_	to	_	_	_	_
+40-9	_	get	_	_	_	_
+40-10	_	it	abstract[141]	new[141]	_	_
+40-11	_	back	_	_	_	_
+40-12	_	,	_	_	_	_
+40-13	_	still	_	_	_	_
+40-14	_	learning	_	_	_	_
+40-15	_	by	_	_	_	_
+40-16	_	observation	_	_	_	_
+40-17	_	.	_	_	_	_
+
+#Text=Pack animals always tear apart the weaklings in their midst .
+41-1	_	Pack	abstract[142]	new[142]	coref	41-9[142_143]
+41-2	_	animals	abstract[142]	new[142]	_	_
+41-3	_	always	_	_	_	_
+41-4	_	tear	_	_	_	_
+41-5	_	apart	_	_	_	_
+41-6	_	the	_	_	_	_
+41-7	_	weaklings	_	_	_	_
+41-8	_	in	_	_	_	_
+41-9	_	their	abstract[143]	new[143]	_	_
+41-10	_	midst	_	_	_	_
+41-11	_	.	_	_	_	_
+
+#Text=Every child knows that much instinctively .
+42-1	_	Every	_	_	_	_
+42-2	_	child	_	_	_	_
+42-3	_	knows	_	_	_	_
+42-4	_	that	abstract[144]	new[144]	coref	43-6[144_145]
+42-5	_	much	abstract[144]	new[144]	_	_
+42-6	_	instinctively	_	_	_	_
+42-7	_	.	_	_	_	_
+
+#Text=Maybe I should just let that process unfold , maybe I should n't try to mess with nature .
+43-1	_	Maybe	_	_	_	_
+43-2	_	I	abstract[64]	new[64]	coref	43-11[64_65]
+43-3	_	should	_	_	_	_
+43-4	_	just	_	_	_	_
+43-5	_	let	_	_	_	_
+43-6	_	that	abstract[145]	new[145]	_	_
+43-7	_	process	abstract[145]	new[145]	_	_
+43-8	_	unfold	_	_	_	_
+43-9	_	,	_	_	_	_
+43-10	_	maybe	_	_	_	_
+43-11	_	I	abstract[65]	new[65]	coref	46-3[65_66]
+43-12	_	should	_	_	_	_
+43-13	_	n't	_	_	_	_
+43-14	_	try	_	_	_	_
+43-15	_	to	_	_	_	_
+43-16	_	mess	_	_	_	_
+43-17	_	with	_	_	_	_
+43-18	_	nature	_	_	_	_
+43-19	_	.	_	_	_	_
+
+#Text=Then again , Pag 's parents had n't messed with nature , and look what it got them : a son curled up in the dirt while a bunch of engineered superboys kicked in his ribs .
+44-1	_	Then	_	_	_	_
+44-2	_	again	_	_	_	_
+44-3	_	,	_	_	_	_
+44-4	_	Pag	abstract[37]|abstract[146]	new[37]|new[146]	coref	44-18[146_147]
+44-5	_	's	abstract[37]|abstract[146]	new[37]|new[146]	_	_
+44-6	_	parents	abstract[146]	new[146]	_	_
+44-7	_	had	_	_	_	_
+44-8	_	n't	_	_	_	_
+44-9	_	messed	_	_	_	_
+44-10	_	with	_	_	_	_
+44-11	_	nature	_	_	_	_
+44-12	_	,	_	_	_	_
+44-13	_	and	_	_	_	_
+44-14	_	look	_	_	_	_
+44-15	_	what	_	_	_	_
+44-16	_	it	_	_	_	_
+44-17	_	got	_	_	_	_
+44-18	_	them	abstract[147]	new[147]	_	_
+44-19	_	:	_	_	_	_
+44-20	_	a	abstract[148]	new[148]	coref	47-16[148_149]
+44-21	_	son	abstract[148]	new[148]	_	_
+44-22	_	curled	abstract[148]	new[148]	_	_
+44-23	_	up	abstract[148]	new[148]	_	_
+44-24	_	in	abstract[148]	new[148]	_	_
+44-25	_	the	abstract[148]	new[148]	_	_
+44-26	_	dirt	abstract[148]	new[148]	_	_
+44-27	_	while	abstract[148]	new[148]	_	_
+44-28	_	a	abstract[148]|abstract[169]	new[148]|new[169]	coref	50-4[169_170]
+44-29	_	bunch	abstract[148]|abstract[169]	new[148]|new[169]	_	_
+44-30	_	of	abstract[148]|abstract[169]	new[148]|new[169]	_	_
+44-31	_	engineered	abstract[148]|abstract[169]	new[148]|new[169]	_	_
+44-32	_	superboys	abstract[148]|abstract[169]	new[148]|new[169]	_	_
+44-33	_	kicked	abstract[148]	new[148]	_	_
+44-34	_	in	abstract[148]	new[148]	_	_
+44-35	_	his	abstract[148]	new[148]	_	_
+44-36	_	ribs	abstract[148]	new[148]	_	_
+44-37	_	.	_	_	_	_
+
+#Text=In the end , propaganda worked where empathy failed .
+45-1	_	In	_	_	_	_
+45-2	_	the	_	_	_	_
+45-3	_	end	_	_	_	_
+45-4	_	,	_	_	_	_
+45-5	_	propaganda	_	_	_	_
+45-6	_	worked	_	_	_	_
+45-7	_	where	_	_	_	_
+45-8	_	empathy	_	_	_	_
+45-9	_	failed	_	_	_	_
+45-10	_	.	_	_	_	_
+
+#Text=Back then I did n't so much think as observe , did n't deduce so much as remember — and what I remembered was a thousand inspirational stories lauding anyone who ever stuck up for the underdog .
+46-1	_	Back	_	_	_	_
+46-2	_	then	_	_	_	_
+46-3	_	I	abstract[66]	new[66]	coref	46-22[66_67]
+46-4	_	did	_	_	_	_
+46-5	_	n't	_	_	_	_
+46-6	_	so	_	_	_	_
+46-7	_	much	_	_	_	_
+46-8	_	think	_	_	_	_
+46-9	_	as	_	_	_	_
+46-10	_	observe	_	_	_	_
+46-11	_	,	_	_	_	_
+46-12	_	did	_	_	_	_
+46-13	_	n't	_	_	_	_
+46-14	_	deduce	_	_	_	_
+46-15	_	so	_	_	_	_
+46-16	_	much	_	_	_	_
+46-17	_	as	_	_	_	_
+46-18	_	remember	_	_	_	_
+46-19	_	—	_	_	_	_
+46-20	_	and	_	_	_	_
+46-21	_	what	_	_	_	_
+46-22	_	I	abstract[67]	new[67]	coref	47-2[67_68]
+46-23	_	remembered	_	_	_	_
+46-24	_	was	_	_	_	_
+46-25	_	a	_	_	_	_
+46-26	_	thousand	_	_	_	_
+46-27	_	inspirational	_	_	_	_
+46-28	_	stories	_	_	_	_
+46-29	_	lauding	_	_	_	_
+46-30	_	anyone	_	_	_	_
+46-31	_	who	_	_	_	_
+46-32	_	ever	_	_	_	_
+46-33	_	stuck	_	_	_	_
+46-34	_	up	_	_	_	_
+46-35	_	for	_	_	_	_
+46-36	_	the	_	_	_	_
+46-37	_	underdog	_	_	_	_
+46-38	_	.	_	_	_	_
+
+#Text=So I picked up a rock the size of my fist and hit two of Pag 's assailants across the backs of their heads before anyone even knew I was in the game .
+47-1	_	So	_	_	_	_
+47-2	_	I	abstract[68]	new[68]	coref	47-10[68_69]
+47-3	_	picked	_	_	_	_
+47-4	_	up	_	_	_	_
+47-5	_	a	abstract[185]	new[185]	coref	82-2[185_186]
+47-6	_	rock	abstract[185]	new[185]	_	_
+47-7	_	the	abstract[185]	new[185]	_	_
+47-8	_	size	abstract[185]	new[185]	_	_
+47-9	_	of	abstract[185]	new[185]	_	_
+47-10	_	my	abstract[69]|abstract[185]	new[69]|new[185]	coref	47-29[69_70]
+47-11	_	fist	abstract[185]	new[185]	_	_
+47-12	_	and	_	_	_	_
+47-13	_	hit	_	_	_	_
+47-14	_	two	abstract[165]	new[165]	coref	47-23[165_166]
+47-15	_	of	abstract[165]	new[165]	_	_
+47-16	_	Pag	abstract[149]|abstract[165]	new[149]|new[165]	coref	55-1[149_150]
+47-17	_	's	abstract[149]|abstract[165]	new[149]|new[165]	_	_
+47-18	_	assailants	abstract[165]	new[165]	_	_
+47-19	_	across	_	_	_	_
+47-20	_	the	_	_	_	_
+47-21	_	backs	_	_	_	_
+47-22	_	of	_	_	_	_
+47-23	_	their	abstract[166]	new[166]	_	_
+47-24	_	heads	_	_	_	_
+47-25	_	before	_	_	_	_
+47-26	_	anyone	_	_	_	_
+47-27	_	even	_	_	_	_
+47-28	_	knew	_	_	_	_
+47-29	_	I	abstract[70]	new[70]	coref	48-7[70_71]
+47-30	_	was	_	_	_	_
+47-31	_	in	_	_	_	_
+47-32	_	the	_	_	_	_
+47-33	_	game	_	_	_	_
+47-34	_	.	_	_	_	_
+
+#Text=A third , turning to face the new threat , took a blow to the face that audibly crunched the bones of his cheek .
+48-1	_	A	_	_	_	_
+48-2	_	third	_	_	_	_
+48-3	_	,	_	_	_	_
+48-4	_	turning	_	_	_	_
+48-5	_	to	_	_	_	_
+48-6	_	face	_	_	_	_
+48-7	_	the	abstract[71]	new[71]	coref	49-1[71_72]
+48-8	_	new	abstract[71]	new[71]	_	_
+48-9	_	threat	abstract[71]	new[71]	_	_
+48-10	_	,	_	_	_	_
+48-11	_	took	_	_	_	_
+48-12	_	a	_	_	_	_
+48-13	_	blow	_	_	_	_
+48-14	_	to	_	_	_	_
+48-15	_	the	_	_	_	_
+48-16	_	face	_	_	_	_
+48-17	_	that	_	_	_	_
+48-18	_	audibly	_	_	_	_
+48-19	_	crunched	_	_	_	_
+48-20	_	the	_	_	_	_
+48-21	_	bones	_	_	_	_
+48-22	_	of	_	_	_	_
+48-23	_	his	_	_	_	_
+48-24	_	cheek	_	_	_	_
+48-25	_	.	_	_	_	_
+
+#Text=I remember wondering why I did n't take any satisfaction from that sound , why it meant nothing beyond the fact I had one less opponent to worry about .
+49-1	_	I	abstract[72]	new[72]	coref	49-5[72_73]
+49-2	_	remember	_	_	_	_
+49-3	_	wondering	_	_	_	_
+49-4	_	why	_	_	_	_
+49-5	_	I	abstract[73]	new[73]	coref	49-22[73_74]
+49-6	_	did	_	_	_	_
+49-7	_	n't	_	_	_	_
+49-8	_	take	_	_	_	_
+49-9	_	any	_	_	_	_
+49-10	_	satisfaction	_	_	_	_
+49-11	_	from	_	_	_	_
+49-12	_	that	abstract[167]	new[167]	coref	49-16[167_168]
+49-13	_	sound	abstract[167]	new[167]	_	_
+49-14	_	,	_	_	_	_
+49-15	_	why	_	_	_	_
+49-16	_	it	abstract[168]	new[168]	_	_
+49-17	_	meant	_	_	_	_
+49-18	_	nothing	_	_	_	_
+49-19	_	beyond	_	_	_	_
+49-20	_	the	_	_	_	_
+49-21	_	fact	_	_	_	_
+49-22	_	I	abstract[74]	new[74]	coref	51-6[74_75]
+49-23	_	had	_	_	_	_
+49-24	_	one	_	_	_	_
+49-25	_	less	_	_	_	_
+49-26	_	opponent	_	_	_	_
+49-27	_	to	_	_	_	_
+49-28	_	worry	_	_	_	_
+49-29	_	about	_	_	_	_
+49-30	_	.	_	_	_	_
+
+#Text=The rest of them ran at the sight of blood .
+50-1	_	The	_	_	_	_
+50-2	_	rest	_	_	_	_
+50-3	_	of	_	_	_	_
+50-4	_	them	abstract[170]	new[170]	coref	53-3[170_171]
+50-5	_	ran	_	_	_	_
+50-6	_	at	_	_	_	_
+50-7	_	the	_	_	_	_
+50-8	_	sight	_	_	_	_
+50-9	_	of	_	_	_	_
+50-10	_	blood	_	_	_	_
+50-11	_	.	_	_	_	_
+
+#Text=One of the braver promised me I was dead , shouted " Fucking zombie ! " over his shoulder as he disappeared around the corner .
+51-1	_	One	abstract[174]	new[174]	coref	51-18[174_175]
+51-2	_	of	abstract[174]	new[174]	_	_
+51-3	_	the	abstract[174]	new[174]	_	_
+51-4	_	braver	abstract[174]	new[174]	_	_
+51-5	_	promised	_	_	_	_
+51-6	_	me	abstract[75]	new[75]	coref	51-7[75_76]
+51-7	_	I	abstract[76]	new[76]	coref	53-7[76_77]
+51-8	_	was	_	_	_	_
+51-9	_	dead	_	_	_	_
+51-10	_	,	_	_	_	_
+51-11	_	shouted	_	_	_	_
+51-12	_	"	_	_	_	_
+51-13	_	Fucking	_	_	_	_
+51-14	_	zombie	_	_	_	_
+51-15	_	!	_	_	_	_
+51-16	_	"	_	_	_	_
+51-17	_	over	_	_	_	_
+51-18	_	his	abstract[175]	new[175]	coref	51-21[175_176]
+51-19	_	shoulder	_	_	_	_
+51-20	_	as	_	_	_	_
+51-21	_	he	abstract[176]	new[176]	_	_
+51-22	_	disappeared	_	_	_	_
+51-23	_	around	_	_	_	_
+51-24	_	the	_	_	_	_
+51-25	_	corner	_	_	_	_
+51-26	_	.	_	_	_	_
+
+#Text=Three decades it took , to see the irony in that remark .
+52-1	_	Three	_	_	_	_
+52-2	_	decades	_	_	_	_
+52-3	_	it	_	_	_	_
+52-4	_	took	_	_	_	_
+52-5	_	,	_	_	_	_
+52-6	_	to	_	_	_	_
+52-7	_	see	_	_	_	_
+52-8	_	the	_	_	_	_
+52-9	_	irony	_	_	_	_
+52-10	_	in	_	_	_	_
+52-11	_	that	_	_	_	_
+52-12	_	remark	_	_	_	_
+52-13	_	.	_	_	_	_
+
+#Text=Two of the enemy twitched at my feet .
+53-1	_	Two	abstract[183]	new[183]	coref	71-12[183_184]
+53-2	_	of	abstract[183]	new[183]	_	_
+53-3	_	the	abstract[171]|abstract[183]	new[171]|new[183]	coref	70-2[171_172]
+53-4	_	enemy	abstract[171]|abstract[183]	new[171]|new[183]	_	_
+53-5	_	twitched	_	_	_	_
+53-6	_	at	_	_	_	_
+53-7	_	my	abstract[77]	new[77]	coref	54-1[77_78]
+53-8	_	feet	_	_	_	_
+53-9	_	.	_	_	_	_
+
+#Text=I kicked one in the head until it stopped moving , turned to the other .
+54-1	_	I	abstract[78]	new[78]	coref	55-3[78_79]
+54-2	_	kicked	_	_	_	_
+54-3	_	one	_	_	_	_
+54-4	_	in	_	_	_	_
+54-5	_	the	_	_	_	_
+54-6	_	head	_	_	_	_
+54-7	_	until	_	_	_	_
+54-8	_	it	_	_	_	_
+54-9	_	stopped	_	_	_	_
+54-10	_	moving	_	_	_	_
+54-11	_	,	_	_	_	_
+54-12	_	turned	_	_	_	_
+54-13	_	to	_	_	_	_
+54-14	_	the	abstract[177]	new[177]	coref	59-1[177_178]
+54-15	_	other	abstract[177]	new[177]	_	_
+54-16	_	.	_	_	_	_
+
+#Text=Something grabbed my arm and I swung without thinking , without looking until Pag yelped and ducked out of reach .
+55-1	_	Something	abstract[150]	new[150]	coref	55-14[150_151]
+55-2	_	grabbed	_	_	_	_
+55-3	_	my	abstract[79]	new[79]	coref	55-6[79_80]
+55-4	_	arm	_	_	_	_
+55-5	_	and	_	_	_	_
+55-6	_	I	abstract[80]	new[80]	coref	56-5[80_81]
+55-7	_	swung	_	_	_	_
+55-8	_	without	_	_	_	_
+55-9	_	thinking	_	_	_	_
+55-10	_	,	_	_	_	_
+55-11	_	without	_	_	_	_
+55-12	_	looking	_	_	_	_
+55-13	_	until	_	_	_	_
+55-14	_	Pag	abstract[151]	new[151]	coref	60-7[151_152]
+55-15	_	yelped	_	_	_	_
+55-16	_	and	_	_	_	_
+55-17	_	ducked	_	_	_	_
+55-18	_	out	_	_	_	_
+55-19	_	of	_	_	_	_
+55-20	_	reach	_	_	_	_
+55-21	_	.	_	_	_	_
+
+#Text=" Oh , " I said .
+56-1	_	"	_	_	_	_
+56-2	_	Oh	_	_	_	_
+56-3	_	,	_	_	_	_
+56-4	_	"	_	_	_	_
+56-5	_	I	abstract[81]	new[81]	coref	64-1[81_82]
+56-6	_	said	_	_	_	_
+56-7	_	.	_	_	_	_
+
+#Text=" Sorry . "
+57-1	_	"	_	_	_	_
+57-2	_	Sorry	_	_	_	_
+57-3	_	.	_	_	_	_
+57-4	_	"	_	_	_	_
+
+#Text=One thing lay motionless .
+58-1	_	One	_	_	_	_
+58-2	_	thing	_	_	_	_
+58-3	_	lay	_	_	_	_
+58-4	_	motionless	_	_	_	_
+58-5	_	.	_	_	_	_
+
+#Text=The other moaned and held its head and curled up in a ball .
+59-1	_	The	abstract[178]	new[178]	coref	59-6[178_179]
+59-2	_	other	abstract[178]	new[178]	_	_
+59-3	_	moaned	_	_	_	_
+59-4	_	and	_	_	_	_
+59-5	_	held	_	_	_	_
+59-6	_	its	abstract[179]	new[179]	coref	72-1[179_180]
+59-7	_	head	_	_	_	_
+59-8	_	and	_	_	_	_
+59-9	_	curled	_	_	_	_
+59-10	_	up	_	_	_	_
+59-11	_	in	_	_	_	_
+59-12	_	a	_	_	_	_
+59-13	_	ball	_	_	_	_
+59-14	_	.	_	_	_	_
+
+#Text=" Oh shit , " Pag panted .
+60-1	_	"	_	_	_	_
+60-2	_	Oh	_	_	_	_
+60-3	_	shit	_	_	_	_
+60-4	_	,	_	_	_	_
+60-5	_	"	_	_	_	_
+60-6	_	Pag	abstract[152]	new[152]	coref	61-5[152_153]
+60-7	_	panted	_	_	_	_
+60-8	_	.	_	_	_	_
+
+#Text=Blood coursed unheeded from his nose and splattered down his shirt .
+61-1	_	Blood	_	_	_	_
+61-2	_	coursed	_	_	_	_
+61-3	_	unheeded	_	_	_	_
+61-4	_	from	_	_	_	_
+61-5	_	his	abstract[153]	new[153]	coref	61-10[153_154]
+61-6	_	nose	_	_	_	_
+61-7	_	and	_	_	_	_
+61-8	_	splattered	_	_	_	_
+61-9	_	down	_	_	_	_
+61-10	_	his	abstract[154]	new[154]	coref	62-1[154_155]
+61-11	_	shirt	_	_	_	_
+61-12	_	.	_	_	_	_
+
+#Text=His cheek was turning blue and yellow .
+62-1	_	His	abstract[155]	new[155]	coref	65-2[155_156]
+62-2	_	cheek	_	_	_	_
+62-3	_	was	_	_	_	_
+62-4	_	turning	_	_	_	_
+62-5	_	blue	_	_	_	_
+62-6	_	and	_	_	_	_
+62-7	_	yellow	_	_	_	_
+62-8	_	.	_	_	_	_
+
+#Text=" Oh shit oh shit oh shit ... "
+63-1	_	"	_	_	_	_
+63-2	_	Oh	_	_	_	_
+63-3	_	shit	_	_	_	_
+63-4	_	oh	_	_	_	_
+63-5	_	shit	_	_	_	_
+63-6	_	oh	_	_	_	_
+63-7	_	shit	_	_	_	_
+63-8	_	...	_	_	_	_
+63-9	_	"	_	_	_	_
+
+#Text=I thought of something to say .
+64-1	_	I	abstract[82]	new[82]	coref	66-5[82_83]
+64-2	_	thought	_	_	_	_
+64-3	_	of	_	_	_	_
+64-4	_	something	_	_	_	_
+64-5	_	to	_	_	_	_
+64-6	_	say	_	_	_	_
+64-7	_	.	_	_	_	_
+
+#Text=" You all right ? "
+65-1	_	"	_	_	_	_
+65-2	_	You	abstract[156]	new[156]	coref	66-7[156_157]
+65-3	_	all	_	_	_	_
+65-4	_	right	_	_	_	_
+65-5	_	?	_	_	_	_
+65-6	_	"	_	_	_	_
+
+#Text=" Oh shit , you — I mean , you never ... "
+66-1	_	"	_	_	_	_
+66-2	_	Oh	_	_	_	_
+66-3	_	shit	_	_	_	_
+66-4	_	,	_	_	_	_
+66-5	_	you	abstract[83]	new[83]	coref	66-10[83_84]
+66-6	_	—	_	_	_	_
+66-7	_	I	abstract[157]	new[157]	coref	67-1[157_158]
+66-8	_	mean	_	_	_	_
+66-9	_	,	_	_	_	_
+66-10	_	you	abstract[84]	new[84]	coref	71-5[84_85]
+66-11	_	never	_	_	_	_
+66-12	_	...	_	_	_	_
+66-13	_	"	_	_	_	_
+
+#Text=He wiped his mouth .
+67-1	_	He	abstract[158]	new[158]	coref	67-3[158_159]
+67-2	_	wiped	_	_	_	_
+67-3	_	his	abstract[159]	new[159]	coref	68-6[159_160]
+67-4	_	mouth	_	_	_	_
+67-5	_	.	_	_	_	_
+
+#Text=Blood smeared the back of his hand .
+68-1	_	Blood	_	_	_	_
+68-2	_	smeared	_	_	_	_
+68-3	_	the	_	_	_	_
+68-4	_	back	_	_	_	_
+68-5	_	of	_	_	_	_
+68-6	_	his	abstract[160]	new[160]	coref	71-7[160_161]
+68-7	_	hand	_	_	_	_
+68-8	_	.	_	_	_	_
+
+#Text=" Oh man are we in trouble . "
+69-1	_	"	_	_	_	_
+69-2	_	Oh	_	_	_	_
+69-3	_	man	_	_	_	_
+69-4	_	are	_	_	_	_
+69-5	_	we	_	_	_	_
+69-6	_	in	_	_	_	_
+69-7	_	trouble	_	_	_	_
+69-8	_	.	_	_	_	_
+69-9	_	"	_	_	_	_
+
+#Text=" They started it . "
+70-1	_	"	_	_	_	_
+70-2	_	They	abstract[172]	new[172]	coref	79-2[172_173]
+70-3	_	started	_	_	_	_
+70-4	_	it	_	_	_	_
+70-5	_	.	_	_	_	_
+70-6	_	"	_	_	_	_
+
+#Text=" Yeah , but you — I mean , look at them ! "
+71-1	_	"	_	_	_	_
+71-2	_	Yeah	_	_	_	_
+71-3	_	,	_	_	_	_
+71-4	_	but	_	_	_	_
+71-5	_	you	abstract[85]	new[85]	coref	73-1[85_86]
+71-6	_	—	_	_	_	_
+71-7	_	I	abstract[161]	new[161]	coref	75-11[161_162]
+71-8	_	mean	_	_	_	_
+71-9	_	,	_	_	_	_
+71-10	_	look	_	_	_	_
+71-11	_	at	_	_	_	_
+71-12	_	them	abstract[184]	new[184]	_	_
+71-13	_	!	_	_	_	_
+71-14	_	"	_	_	_	_
+
+#Text=The moaning thing was crawling away on all fours .
+72-1	_	The	abstract[180]	new[180]	coref	73-9[180_181]
+72-2	_	moaning	abstract[180]	new[180]	_	_
+72-3	_	thing	abstract[180]	new[180]	_	_
+72-4	_	was	_	_	_	_
+72-5	_	crawling	_	_	_	_
+72-6	_	away	_	_	_	_
+72-7	_	on	_	_	_	_
+72-8	_	all	_	_	_	_
+72-9	_	fours	_	_	_	_
+72-10	_	.	_	_	_	_
+
+#Text=I wondered how long it would be before it found reinforcements .
+73-1	_	I	abstract[86]	new[86]	coref	74-1[86_87]
+73-2	_	wondered	_	_	_	_
+73-3	_	how	_	_	_	_
+73-4	_	long	_	_	_	_
+73-5	_	it	_	_	_	_
+73-6	_	would	_	_	_	_
+73-7	_	be	_	_	_	_
+73-8	_	before	_	_	_	_
+73-9	_	it	abstract[181]	new[181]	coref	74-7[181_182]
+73-10	_	found	_	_	_	_
+73-11	_	reinforcements	_	_	_	_
+73-12	_	.	_	_	_	_
+
+#Text=I wondered if I should kill it before then .
+74-1	_	I	abstract[87]	new[87]	coref	74-4[87_88]
+74-2	_	wondered	_	_	_	_
+74-3	_	if	_	_	_	_
+74-4	_	I	abstract[88]	new[88]	coref	75-2[88_89]
+74-5	_	should	_	_	_	_
+74-6	_	kill	_	_	_	_
+74-7	_	it	abstract[182]	new[182]	_	_
+74-8	_	before	_	_	_	_
+74-9	_	then	_	_	_	_
+74-10	_	.	_	_	_	_
+
+#Text=" You 'd a never done that before , " Pag said .
+75-1	_	"	_	_	_	_
+75-2	_	You	abstract[89]	new[89]	coref	77-1[89_90]
+75-3	_	'd	_	_	_	_
+75-4	_	a	_	_	_	_
+75-5	_	never	_	_	_	_
+75-6	_	done	_	_	_	_
+75-7	_	that	_	_	_	_
+75-8	_	before	_	_	_	_
+75-9	_	,	_	_	_	_
+75-10	_	"	_	_	_	_
+75-11	_	Pag	abstract[162]	new[162]	coref	76-5[162_163]
+75-12	_	said	_	_	_	_
+75-13	_	.	_	_	_	_
+
+#Text=Before the operation , he meant .
+76-1	_	Before	_	_	_	_
+76-2	_	the	_	_	_	_
+76-3	_	operation	_	_	_	_
+76-4	_	,	_	_	_	_
+76-5	_	he	abstract[163]	new[163]	coref	80-1[163_164]
+76-6	_	meant	_	_	_	_
+76-7	_	.	_	_	_	_
+
+#Text=I actually did feel something then — faint , distant , but unmistakable .
+77-1	_	I	abstract[90]	new[90]	coref	78-1[90_91]
+77-2	_	actually	_	_	_	_
+77-3	_	did	_	_	_	_
+77-4	_	feel	_	_	_	_
+77-5	_	something	_	_	_	_
+77-6	_	then	_	_	_	_
+77-7	_	—	_	_	_	_
+77-8	_	faint	_	_	_	_
+77-9	_	,	_	_	_	_
+77-10	_	distant	_	_	_	_
+77-11	_	,	_	_	_	_
+77-12	_	but	_	_	_	_
+77-13	_	unmistakable	_	_	_	_
+77-14	_	.	_	_	_	_
+
+#Text=I felt angry .
+78-1	_	I	abstract[91]	new[91]	coref	81-4[91_92]
+78-2	_	felt	_	_	_	_
+78-3	_	angry	_	_	_	_
+78-4	_	.	_	_	_	_
+
+#Text=" They started — "
+79-1	_	"	_	_	_	_
+79-2	_	They	abstract[173]	new[173]	_	_
+79-3	_	started	_	_	_	_
+79-4	_	—	_	_	_	_
+79-5	_	"	_	_	_	_
+
+#Text=Pag backed away , eyes wide .
+80-1	_	Pag	abstract[164]	new[164]	_	_
+80-2	_	backed	_	_	_	_
+80-3	_	away	_	_	_	_
+80-4	_	,	_	_	_	_
+80-5	_	eyes	_	_	_	_
+80-6	_	wide	_	_	_	_
+80-7	_	.	_	_	_	_
+
+#Text=" What are you doing ?
+81-1	_	"	_	_	_	_
+81-2	_	What	_	_	_	_
+81-3	_	are	_	_	_	_
+81-4	_	you	abstract[92]	new[92]	coref	83-1[92_93]
+81-5	_	doing	_	_	_	_
+81-6	_	?	_	_	_	_
+
+#Text=Put that down ! "
+82-1	_	Put	_	_	_	_
+82-2	_	that	abstract[186]	new[186]	coref	88-1[186_187]
+82-3	_	down	_	_	_	_
+82-4	_	!	_	_	_	_
+82-5	_	"	_	_	_	_
+
+#Text=I 'd raised my fists .
+83-1	_	I	abstract[93]	new[93]	coref	83-4[93_94]
+83-2	_	'd	_	_	_	_
+83-3	_	raised	_	_	_	_
+83-4	_	my	abstract[94]|abstract[188]	new[94]|new[188]	coref|coref	84-1[94_95]|85-3[188_189]
+83-5	_	fists	abstract[188]	new[188]	_	_
+83-6	_	.	_	_	_	_
+
+#Text=I did n't remember doing that .
+84-1	_	I	abstract[95]	new[95]	coref	85-1[95_96]
+84-2	_	did	_	_	_	_
+84-3	_	n't	_	_	_	_
+84-4	_	remember	_	_	_	_
+84-5	_	doing	_	_	_	_
+84-6	_	that	_	_	_	_
+84-7	_	.	_	_	_	_
+
+#Text=I unclenched them .
+85-1	_	I	abstract[96]	new[96]	coref	87-1[96_97]
+85-2	_	unclenched	_	_	_	_
+85-3	_	them	abstract[189]	new[189]	_	_
+85-4	_	.	_	_	_	_
+
+#Text=It took a while .
+86-1	_	It	_	_	_	_
+86-2	_	took	_	_	_	_
+86-3	_	a	_	_	_	_
+86-4	_	while	_	_	_	_
+86-5	_	.	_	_	_	_
+
+#Text=I had to look at my hands very hard for a long , long time .
+87-1	_	I	abstract[97]	new[97]	coref	87-6[97_98]
+87-2	_	had	_	_	_	_
+87-3	_	to	_	_	_	_
+87-4	_	look	_	_	_	_
+87-5	_	at	_	_	_	_
+87-6	_	my	abstract[98]	new[98]	coref	89-2[98_99]
+87-7	_	hands	_	_	_	_
+87-8	_	very	_	_	_	_
+87-9	_	hard	_	_	_	_
+87-10	_	for	_	_	_	_
+87-11	_	a	_	_	_	_
+87-12	_	long	_	_	_	_
+87-13	_	,	_	_	_	_
+87-14	_	long	_	_	_	_
+87-15	_	time	_	_	_	_
+87-16	_	.	_	_	_	_
+
+#Text=The rock dropped to the ground , blood - slick and glistening .
+88-1	_	The	abstract[187]	new[187]	_	_
+88-2	_	rock	abstract[187]	new[187]	_	_
+88-3	_	dropped	_	_	_	_
+88-4	_	to	_	_	_	_
+88-5	_	the	_	_	_	_
+88-6	_	ground	_	_	_	_
+88-7	_	,	_	_	_	_
+88-8	_	blood	_	_	_	_
+88-9	_	-	_	_	_	_
+88-10	_	slick	_	_	_	_
+88-11	_	and	_	_	_	_
+88-12	_	glistening	_	_	_	_
+88-13	_	.	_	_	_	_
+
+#Text=" I was trying to help . "
+89-1	_	"	_	_	_	_
+89-2	_	I	abstract[99]	new[99]	coref	90-1[99_100]
+89-3	_	was	_	_	_	_
+89-4	_	trying	_	_	_	_
+89-5	_	to	_	_	_	_
+89-6	_	help	_	_	_	_
+89-7	_	.	_	_	_	_
+89-8	_	"	_	_	_	_
+
+#Text=I did n't understand why he could n't see that .
+90-1	_	I	abstract[100]	new[100]	coref	91-2[100_101]
+90-2	_	did	_	_	_	_
+90-3	_	n't	_	_	_	_
+90-4	_	understand	_	_	_	_
+90-5	_	why	_	_	_	_
+90-6	_	he	abstract[190]	new[190]	coref	91-12[190_191]
+90-7	_	could	_	_	_	_
+90-8	_	n't	_	_	_	_
+90-9	_	see	_	_	_	_
+90-10	_	that	_	_	_	_
+90-11	_	.	_	_	_	_
+
+#Text=" You 're , you 're not the same , " Pag said from a safe distance .
+91-1	_	"	_	_	_	_
+91-2	_	You	abstract[101]	new[101]	coref	91-5[101_102]
+91-3	_	're	_	_	_	_
+91-4	_	,	_	_	_	_
+91-5	_	you	abstract[102]	new[102]	coref	92-2[102_103]
+91-6	_	're	_	_	_	_
+91-7	_	not	_	_	_	_
+91-8	_	the	_	_	_	_
+91-9	_	same	_	_	_	_
+91-10	_	,	_	_	_	_
+91-11	_	"	_	_	_	_
+91-12	_	Pag	abstract[191]	new[191]	coref	98-2[191_192]
+91-13	_	said	_	_	_	_
+91-14	_	from	_	_	_	_
+91-15	_	a	_	_	_	_
+91-16	_	safe	_	_	_	_
+91-17	_	distance	_	_	_	_
+91-18	_	.	_	_	_	_
+
+#Text=" You 're not even Siri any more . "
+92-1	_	"	_	_	_	_
+92-2	_	You	abstract[103]	new[103]	coref	93-2[103_104]
+92-3	_	're	_	_	_	_
+92-4	_	not	_	_	_	_
+92-5	_	even	_	_	_	_
+92-6	_	Siri	_	_	_	_
+92-7	_	any	_	_	_	_
+92-8	_	more	_	_	_	_
+92-9	_	.	_	_	_	_
+92-10	_	"	_	_	_	_
+
+#Text=" I am too .
+93-1	_	"	_	_	_	_
+93-2	_	I	abstract[104]	new[104]	coref	95-5[104_105]
+93-3	_	am	_	_	_	_
+93-4	_	too	_	_	_	_
+93-5	_	.	_	_	_	_
+
+#Text=Do n't be a fuckwad . "
+94-1	_	Do	_	_	_	_
+94-2	_	n't	_	_	_	_
+94-3	_	be	_	_	_	_
+94-4	_	a	_	_	_	_
+94-5	_	fuckwad	_	_	_	_
+94-6	_	.	_	_	_	_
+94-7	_	"	_	_	_	_
+
+#Text=" They cut out your brain ! "
+95-1	_	"	_	_	_	_
+95-2	_	They	abstract[206]	new[206]	coref	107-7[206_207]
+95-3	_	cut	_	_	_	_
+95-4	_	out	_	_	_	_
+95-5	_	your	abstract[105]	new[105]	coref	99-1[105_106]
+95-6	_	brain	_	_	_	_
+95-7	_	!	_	_	_	_
+95-8	_	"	_	_	_	_
+
+#Text=" Only half .
+96-1	_	"	_	_	_	_
+96-2	_	Only	_	_	_	_
+96-3	_	half	abstract[200]	new[200]	coref	100-5[200_201]
+96-4	_	.	_	_	_	_
+
+#Text=For the ep — "
+97-1	_	For	_	_	_	_
+97-2	_	the	abstract[198]	new[198]	coref	98-5[198_199]
+97-3	_	ep	abstract[198]	new[198]	_	_
+97-4	_	—	_	_	_	_
+97-5	_	"	_	_	_	_
+
+#Text=" I know for the epilepsy !
+98-1	_	"	_	_	_	_
+98-2	_	I	abstract[192]	new[192]	coref	99-3[192_193]
+98-3	_	know	_	_	_	_
+98-4	_	for	_	_	_	_
+98-5	_	the	abstract[199]	new[199]	_	_
+98-6	_	epilepsy	abstract[199]	new[199]	_	_
+98-7	_	!	_	_	_	_
+
+#Text=You think I do n't know ?
+99-1	_	You	abstract[106]	new[106]	coref	100-2[106_107]
+99-2	_	think	_	_	_	_
+99-3	_	I	abstract[193]	new[193]	coref	101-1[193_194]
+99-4	_	do	_	_	_	_
+99-5	_	n't	_	_	_	_
+99-6	_	know	_	_	_	_
+99-7	_	?	_	_	_	_
+
+#Text=But you were in that half — or , like , part of you was ... "
+100-1	_	But	_	_	_	_
+100-2	_	you	abstract[107]	new[107]	coref	100-14[107_108]
+100-3	_	were	_	_	_	_
+100-4	_	in	_	_	_	_
+100-5	_	that	abstract[201]	new[201]	_	_
+100-6	_	half	abstract[201]	new[201]	_	_
+100-7	_	—	_	_	_	_
+100-8	_	or	_	_	_	_
+100-9	_	,	_	_	_	_
+100-10	_	like	_	_	_	_
+100-11	_	,	_	_	_	_
+100-12	_	part	_	_	_	_
+100-13	_	of	_	_	_	_
+100-14	_	you	abstract[108]	new[108]	coref	102-4[108_109]
+100-15	_	was	_	_	_	_
+100-16	_	...	_	_	_	_
+100-17	_	"	_	_	_	_
+
+#Text=He struggled with the words , with the concept behind them .
+101-1	_	He	abstract[194]	new[194]	coref	106-2[194_195]
+101-2	_	struggled	_	_	_	_
+101-3	_	with	_	_	_	_
+101-4	_	the	abstract[202]	new[202]	coref	101-11[202_203]
+101-5	_	words	abstract[202]	new[202]	_	_
+101-6	_	,	_	_	_	_
+101-7	_	with	_	_	_	_
+101-8	_	the	_	_	_	_
+101-9	_	concept	_	_	_	_
+101-10	_	behind	_	_	_	_
+101-11	_	them	abstract[203]	new[203]	_	_
+101-12	_	.	_	_	_	_
+
+#Text=" And now you 're different .
+102-1	_	"	_	_	_	_
+102-2	_	And	_	_	_	_
+102-3	_	now	_	_	_	_
+102-4	_	you	abstract[109]	new[109]	coref	103-5[109_110]
+102-5	_	're	_	_	_	_
+102-6	_	different	_	_	_	_
+102-7	_	.	_	_	_	_
+
+#Text=It 's like , your mom and dad murdered you — "
+103-1	_	It	_	_	_	_
+103-2	_	's	_	_	_	_
+103-3	_	like	_	_	_	_
+103-4	_	,	_	_	_	_
+103-5	_	your	abstract[110]|abstract[204]	new[110]|new[204]	coref|coref	103-10[110_111]|104-2[204_205]
+103-6	_	mom	abstract[204]	new[204]	_	_
+103-7	_	and	abstract[204]	new[204]	_	_
+103-8	_	dad	abstract[204]	new[204]	_	_
+103-9	_	murdered	_	_	_	_
+103-10	_	you	abstract[111]	new[111]	coref	104-2[111_112]
+103-11	_	—	_	_	_	_
+103-12	_	"	_	_	_	_
+
+#Text=" My mom and dad , " I said , suddenly quiet , " saved my life .
+104-1	_	"	_	_	_	_
+104-2	_	My	abstract[112]|abstract[205]	new[112]|new[205]	coref	104-8[112_113]
+104-3	_	mom	abstract[205]	new[205]	_	_
+104-4	_	and	abstract[205]	new[205]	_	_
+104-5	_	dad	abstract[205]	new[205]	_	_
+104-6	_	,	_	_	_	_
+104-7	_	"	_	_	_	_
+104-8	_	I	abstract[113]	new[113]	coref	104-16[113_114]
+104-9	_	said	_	_	_	_
+104-10	_	,	_	_	_	_
+104-11	_	suddenly	_	_	_	_
+104-12	_	quiet	_	_	_	_
+104-13	_	,	_	_	_	_
+104-14	_	"	_	_	_	_
+104-15	_	saved	_	_	_	_
+104-16	_	my	abstract[114]	new[114]	coref	105-1[114_115]
+104-17	_	life	_	_	_	_
+104-18	_	.	_	_	_	_
+
+#Text=I would have died . "
+105-1	_	I	abstract[115]	new[115]	coref	106-4[115_116]
+105-2	_	would	_	_	_	_
+105-3	_	have	_	_	_	_
+105-4	_	died	_	_	_	_
+105-5	_	.	_	_	_	_
+105-6	_	"	_	_	_	_
+
+#Text=" I think you did die , " said my best and only friend .
+106-1	_	"	_	_	_	_
+106-2	_	I	abstract[195]	new[195]	coref	106-10[195_196]
+106-3	_	think	_	_	_	_
+106-4	_	you	abstract[116]	new[116]	coref	106-10[116_117]
+106-5	_	did	_	_	_	_
+106-6	_	die	_	_	_	_
+106-7	_	,	_	_	_	_
+106-8	_	"	_	_	_	_
+106-9	_	said	_	_	_	_
+106-10	_	my	abstract[117]|abstract[196]	new[117]|new[196]	coref|coref	107-4[117_118]|107-2[196_197]
+106-11	_	best	abstract[196]	new[196]	_	_
+106-12	_	and	abstract[196]	new[196]	_	_
+106-13	_	only	abstract[196]	new[196]	_	_
+106-14	_	friend	abstract[196]	new[196]	_	_
+106-15	_	.	_	_	_	_
+
+#Text=" I think Siri died , they scooped him out and threw him away and you 're some whole other kid that just , just grew back out of what was left .
+107-1	_	"	_	_	_	_
+107-2	_	I	abstract[197]	new[197]	_	_
+107-3	_	think	_	_	_	_
+107-4	_	Siri	abstract[118]	new[118]	coref	107-9[118_119]
+107-5	_	died	_	_	_	_
+107-6	_	,	_	_	_	_
+107-7	_	they	abstract[207]	new[207]	_	_
+107-8	_	scooped	_	_	_	_
+107-9	_	him	abstract[119]	new[119]	coref	107-13[119_120]
+107-10	_	out	_	_	_	_
+107-11	_	and	_	_	_	_
+107-12	_	threw	_	_	_	_
+107-13	_	him	abstract[120]	new[120]	coref	107-16[120_121]
+107-14	_	away	_	_	_	_
+107-15	_	and	_	_	_	_
+107-16	_	you	abstract[121]	new[121]	_	_
+107-17	_	're	_	_	_	_
+107-18	_	some	_	_	_	_
+107-19	_	whole	_	_	_	_
+107-20	_	other	_	_	_	_
+107-21	_	kid	_	_	_	_
+107-22	_	that	_	_	_	_
+107-23	_	just	_	_	_	_
+107-24	_	,	_	_	_	_
+107-25	_	just	_	_	_	_
+107-26	_	grew	_	_	_	_
+107-27	_	back	_	_	_	_
+107-28	_	out	_	_	_	_
+107-29	_	of	_	_	_	_
+107-30	_	what	_	_	_	_
+107-31	_	was	_	_	_	_
+107-32	_	left	_	_	_	_
+107-33	_	.	_	_	_	_
+
+#Text=You 're not the same .
+108-1	_	You	_	_	_	_
+108-2	_	're	_	_	_	_
+108-3	_	not	_	_	_	_
+108-4	_	the	_	_	_	_
+108-5	_	same	_	_	_	_
+108-6	_	.	_	_	_	_
+
+#Text=Ever since .
+109-1	_	Ever	_	_	_	_
+109-2	_	since	_	_	_	_
+109-3	_	.	_	_	_	_
+
+#Text=You 're not the same . "
+110-1	_	You	_	_	_	_
+110-2	_	're	_	_	_	_
+110-3	_	not	_	_	_	_
+110-4	_	the	_	_	_	_
+110-5	_	same	_	_	_	_
+110-6	_	.	_	_	_	_
+110-7	_	"	_	_	_	_
+
+#Text=One woman reflects on the painful transition between the life of a family member to a lifetime and in what was a life like when it was so difficult .
+111-1	_	One	_	_	_	_
+111-2	_	woman	_	_	_	_
+111-3	_	reflects	_	_	_	_
+111-4	_	on	_	_	_	_
+111-5	_	the	_	_	_	_
+111-6	_	painful	_	_	_	_
+111-7	_	transition	_	_	_	_
+111-8	_	between	_	_	_	_
+111-9	_	the	_	_	_	_
+111-10	_	life	_	_	_	_
+111-11	_	of	_	_	_	_
+111-12	_	a	_	_	_	_
+111-13	_	family	_	_	_	_
+111-14	_	member	_	_	_	_
+111-15	_	to	_	_	_	_
+111-16	_	a	_	_	_	_
+111-17	_	lifetime	_	_	_	_
+111-18	_	and	_	_	_	_
+111-19	_	in	_	_	_	_
+111-20	_	what	_	_	_	_
+111-21	_	was	_	_	_	_
+111-22	_	a	_	_	_	_
+111-23	_	life	_	_	_	_
+111-24	_	like	_	_	_	_
+111-25	_	when	_	_	_	_
+111-26	_	it	_	_	_	_
+111-27	_	was	_	_	_	_
+111-28	_	so	_	_	_	_
+111-29	_	difficult	_	_	_	_
+111-30	_	.	_	_	_	_
+

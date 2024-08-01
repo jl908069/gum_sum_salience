@@ -1,0 +1,617 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Wikinews interviews President of the International Brotherhood of Magicians
+1-1	_	Wikinews	abstract[1]	new[1]	coref	4-1[1_2]
+1-2	_	interviews	_	_	_	_
+1-3	_	President	abstract[3]	new[3]	coref	4-4[3_4]
+1-4	_	of	abstract[3]	new[3]	_	_
+1-5	_	the	abstract[3]|abstract[5]	new[3]|new[5]	coref	4-9[5_6]
+1-6	_	International	abstract[3]|abstract[5]	new[3]|new[5]	_	_
+1-7	_	Brotherhood	abstract[3]|abstract[5]	new[3]|new[5]	_	_
+1-8	_	of	abstract[3]|abstract[5]	new[3]|new[5]	_	_
+1-9	_	Magicians	abstract[3]|abstract[5]|abstract[7]	new[3]|new[5]|new[7]	coref	4-13[7_8]
+
+#Text=Wednesday , October 9 , 2013
+2-1	_	Wednesday	_	_	_	_
+2-2	_	,	_	_	_	_
+2-3	_	October	_	_	_	_
+2-4	_	9	_	_	_	_
+2-5	_	,	_	_	_	_
+2-6	_	2013	_	_	_	_
+
+#Text=October is National Magic Month in the United States .
+3-1	_	October	abstract[42]	new[42]	coref	12-1[42_43]
+3-2	_	is	_	_	_	_
+3-3	_	National	_	_	_	_
+3-4	_	Magic	abstract[11]	new[11]	coref	4-20[11_12]
+3-5	_	Month	_	_	_	_
+3-6	_	in	_	_	_	_
+3-7	_	the	abstract[47]	new[47]	coref	12-7[47_48]
+3-8	_	United	abstract[47]	new[47]	_	_
+3-9	_	States	abstract[47]	new[47]	_	_
+3-10	_	.	_	_	_	_
+
+#Text=Wikinews spoke with William Evans , president of the International Brotherhood of Magicians , about the current state of magic and what its future looks like in the world of entertainment .
+4-1	_	Wikinews	abstract[2]	new[2]	_	_
+4-2	_	spoke	_	_	_	_
+4-3	_	with	_	_	_	_
+4-4	_	William	abstract[4]	new[4]	_	_
+4-5	_	Evans	abstract[4]	new[4]	_	_
+4-6	_	,	abstract[4]	new[4]	_	_
+4-7	_	president	abstract[4]	new[4]	_	_
+4-8	_	of	abstract[4]	new[4]	_	_
+4-9	_	the	abstract[4]|abstract[6]	new[4]|new[6]	_	_
+4-10	_	International	abstract[4]|abstract[6]	new[4]|new[6]	_	_
+4-11	_	Brotherhood	abstract[4]|abstract[6]	new[4]|new[6]	_	_
+4-12	_	of	abstract[4]|abstract[6]	new[4]|new[6]	_	_
+4-13	_	Magicians	abstract[4]|abstract[6]|abstract[8]	new[4]|new[6]|new[8]	coref	20-1[8_9]
+4-14	_	,	_	_	_	_
+4-15	_	about	_	_	_	_
+4-16	_	the	_	_	_	_
+4-17	_	current	_	_	_	_
+4-18	_	state	_	_	_	_
+4-19	_	of	_	_	_	_
+4-20	_	magic	abstract[12]	new[12]	coref	4-23[12_13]
+4-21	_	and	_	_	_	_
+4-22	_	what	_	_	_	_
+4-23	_	its	abstract[13]	new[13]	_	_
+4-24	_	future	_	_	_	_
+4-25	_	looks	_	_	_	_
+4-26	_	like	_	_	_	_
+4-27	_	in	_	_	_	_
+4-28	_	the	_	_	_	_
+4-29	_	world	_	_	_	_
+4-30	_	of	_	_	_	_
+4-31	_	entertainment	_	_	_	_
+4-32	_	.	_	_	_	_
+
+#Text=For how long have you been involved in performing / studying magic ?
+5-1	_	For	_	_	_	_
+5-2	_	how	_	_	_	_
+5-3	_	long	_	_	_	_
+5-4	_	have	_	_	_	_
+5-5	_	you	abstract[14]	new[14]	coref	7-1[14_15]
+5-6	_	been	_	_	_	_
+5-7	_	involved	_	_	_	_
+5-8	_	in	_	_	_	_
+5-9	_	performing	_	_	_	_
+5-10	_	/	_	_	_	_
+5-11	_	studying	_	_	_	_
+5-12	_	magic	abstract[44]	new[44]	coref	12-4[44_45]
+5-13	_	?	_	_	_	_
+
+#Text=Over 50 years .
+6-1	_	Over	_	_	_	_
+6-2	_	50	_	_	_	_
+6-3	_	years	_	_	_	_
+6-4	_	.	_	_	_	_
+
+#Text=I am 61 now so I really started when I was about 10 years old even though I had seen and worked with some basic tricks a few years earlier .
+7-1	_	I	abstract[15]	new[15]	coref	7-6[15_16]
+7-2	_	am	_	_	_	_
+7-3	_	61	_	_	_	_
+7-4	_	now	_	_	_	_
+7-5	_	so	_	_	_	_
+7-6	_	I	abstract[16]	new[16]	coref	7-10[16_17]
+7-7	_	really	_	_	_	_
+7-8	_	started	_	_	_	_
+7-9	_	when	_	_	_	_
+7-10	_	I	abstract[17]	new[17]	coref	7-18[17_18]
+7-11	_	was	_	_	_	_
+7-12	_	about	_	_	_	_
+7-13	_	10	_	_	_	_
+7-14	_	years	_	_	_	_
+7-15	_	old	_	_	_	_
+7-16	_	even	_	_	_	_
+7-17	_	though	_	_	_	_
+7-18	_	I	abstract[18]	new[18]	coref	8-1[18_19]
+7-19	_	had	_	_	_	_
+7-20	_	seen	_	_	_	_
+7-21	_	and	_	_	_	_
+7-22	_	worked	_	_	_	_
+7-23	_	with	_	_	_	_
+7-24	_	some	_	_	_	_
+7-25	_	basic	_	_	_	_
+7-26	_	tricks	_	_	_	_
+7-27	_	a	_	_	_	_
+7-28	_	few	_	_	_	_
+7-29	_	years	_	_	_	_
+7-30	_	earlier	_	_	_	_
+7-31	_	.	_	_	_	_
+
+#Text=I remember going into Hollywood Magic and wanting that big red box with the dragons on it and I did n't even know what it did .
+8-1	_	I	abstract[19]	new[19]	coref	8-19[19_20]
+8-2	_	remember	_	_	_	_
+8-3	_	going	_	_	_	_
+8-4	_	into	_	_	_	_
+8-5	_	Hollywood	_	_	_	_
+8-6	_	Magic	_	_	_	_
+8-7	_	and	_	_	_	_
+8-8	_	wanting	_	_	_	_
+8-9	_	that	abstract[37]	new[37]	coref	8-25[37_38]
+8-10	_	big	abstract[37]	new[37]	_	_
+8-11	_	red	abstract[37]	new[37]	_	_
+8-12	_	box	abstract[37]	new[37]	_	_
+8-13	_	with	abstract[37]	new[37]	_	_
+8-14	_	the	abstract[37]	new[37]	_	_
+8-15	_	dragons	abstract[37]	new[37]	_	_
+8-16	_	on	abstract[37]	new[37]	_	_
+8-17	_	it	abstract[37]	new[37]	_	_
+8-18	_	and	_	_	_	_
+8-19	_	I	abstract[20]	new[20]	coref	9-14[20_21]
+8-20	_	did	_	_	_	_
+8-21	_	n't	_	_	_	_
+8-22	_	even	_	_	_	_
+8-23	_	know	_	_	_	_
+8-24	_	what	_	_	_	_
+8-25	_	it	abstract[38]	new[38]	coref	9-12[38_39]
+8-26	_	did	_	_	_	_
+8-27	_	.	_	_	_	_
+
+#Text=The magician behind the counter was wise enough not to sell it to me , but instead sold me two books which I still own today - " Scarne on Card Tricks " and " Scarne on Magic Tricks " .
+9-1	_	The	_	_	_	_
+9-2	_	magician	_	_	_	_
+9-3	_	behind	_	_	_	_
+9-4	_	the	_	_	_	_
+9-5	_	counter	_	_	_	_
+9-6	_	was	_	_	_	_
+9-7	_	wise	_	_	_	_
+9-8	_	enough	_	_	_	_
+9-9	_	not	_	_	_	_
+9-10	_	to	_	_	_	_
+9-11	_	sell	_	_	_	_
+9-12	_	it	abstract[39]	new[39]	_	_
+9-13	_	to	_	_	_	_
+9-14	_	me	abstract[21]	new[21]	coref	9-19[21_22]
+9-15	_	,	_	_	_	_
+9-16	_	but	_	_	_	_
+9-17	_	instead	_	_	_	_
+9-18	_	sold	_	_	_	_
+9-19	_	me	abstract[22]	new[22]	coref	9-23[22_23]
+9-20	_	two	_	_	_	_
+9-21	_	books	_	_	_	_
+9-22	_	which	_	_	_	_
+9-23	_	I	abstract[23]	new[23]	coref	10-3[23_24]
+9-24	_	still	_	_	_	_
+9-25	_	own	_	_	_	_
+9-26	_	today	_	_	_	_
+9-27	_	-	_	_	_	_
+9-28	_	"	_	_	_	_
+9-29	_	Scarne	abstract[40]	new[40]	coref	9-36[40_41]
+9-30	_	on	_	_	_	_
+9-31	_	Card	_	_	_	_
+9-32	_	Tricks	_	_	_	_
+9-33	_	"	_	_	_	_
+9-34	_	and	_	_	_	_
+9-35	_	"	_	_	_	_
+9-36	_	Scarne	abstract[41]	new[41]	_	_
+9-37	_	on	_	_	_	_
+9-38	_	Magic	_	_	_	_
+9-39	_	Tricks	_	_	_	_
+9-40	_	"	_	_	_	_
+9-41	_	.	_	_	_	_
+
+#Text=That started me out on books and I have amassed quite a few since then .
+10-1	_	That	_	_	_	_
+10-2	_	started	_	_	_	_
+10-3	_	me	abstract[24]	new[24]	coref	10-8[24_25]
+10-4	_	out	_	_	_	_
+10-5	_	on	_	_	_	_
+10-6	_	books	_	_	_	_
+10-7	_	and	_	_	_	_
+10-8	_	I	abstract[25]	new[25]	coref	11-1[25_26]
+10-9	_	have	_	_	_	_
+10-10	_	amassed	_	_	_	_
+10-11	_	quite	_	_	_	_
+10-12	_	a	_	_	_	_
+10-13	_	few	_	_	_	_
+10-14	_	since	_	_	_	_
+10-15	_	then	_	_	_	_
+10-16	_	.	_	_	_	_
+
+#Text=My major influences on performance are Eugene Burger and Michael Skinner .
+11-1	_	My	abstract[26]	new[26]	coref	13-2[26_27]
+11-2	_	major	_	_	_	_
+11-3	_	influences	_	_	_	_
+11-4	_	on	_	_	_	_
+11-5	_	performance	_	_	_	_
+11-6	_	are	_	_	_	_
+11-7	_	Eugene	_	_	_	_
+11-8	_	Burger	_	_	_	_
+11-9	_	and	_	_	_	_
+11-10	_	Michael	_	_	_	_
+11-11	_	Skinner	_	_	_	_
+11-12	_	.	_	_	_	_
+
+#Text=October is National Magic Month in the US .
+12-1	_	October	abstract[43]	new[43]	_	_
+12-2	_	is	_	_	_	_
+12-3	_	National	_	_	_	_
+12-4	_	Magic	abstract[45]	new[45]	coref	13-4[45_46]
+12-5	_	Month	_	_	_	_
+12-6	_	in	_	_	_	_
+12-7	_	the	abstract[48]	new[48]	_	_
+12-8	_	US	abstract[48]	new[48]	_	_
+12-9	_	.	_	_	_	_
+
+#Text=Do you think magic is alive as a viable form of entertainment today ?
+13-1	_	Do	_	_	_	_
+13-2	_	you	abstract[27]	new[27]	coref	19-1[27_28]
+13-3	_	think	_	_	_	_
+13-4	_	magic	abstract[46]	new[46]	_	_
+13-5	_	is	_	_	_	_
+13-6	_	alive	_	_	_	_
+13-7	_	as	_	_	_	_
+13-8	_	a	_	_	_	_
+13-9	_	viable	_	_	_	_
+13-10	_	form	_	_	_	_
+13-11	_	of	_	_	_	_
+13-12	_	entertainment	_	_	_	_
+13-13	_	today	_	_	_	_
+13-14	_	?	_	_	_	_
+
+#Text=Absolutely .
+14-1	_	Absolutely	_	_	_	_
+14-2	_	.	_	_	_	_
+
+#Text=There are more magicians working today than ever before .
+15-1	_	There	_	_	_	_
+15-2	_	are	_	_	_	_
+15-3	_	more	_	_	_	_
+15-4	_	magicians	_	_	_	_
+15-5	_	working	_	_	_	_
+15-6	_	today	_	_	_	_
+15-7	_	than	_	_	_	_
+15-8	_	ever	_	_	_	_
+15-9	_	before	_	_	_	_
+15-10	_	.	_	_	_	_
+
+#Text=There will always be an audience for good magicians doing good magic .
+16-1	_	There	_	_	_	_
+16-2	_	will	_	_	_	_
+16-3	_	always	_	_	_	_
+16-4	_	be	_	_	_	_
+16-5	_	an	_	_	_	_
+16-6	_	audience	_	_	_	_
+16-7	_	for	_	_	_	_
+16-8	_	good	_	_	_	_
+16-9	_	magicians	_	_	_	_
+16-10	_	doing	_	_	_	_
+16-11	_	good	_	_	_	_
+16-12	_	magic	_	_	_	_
+16-13	_	.	_	_	_	_
+
+#Text=Has the internet helped or hurt magic ?
+17-1	_	Has	_	_	_	_
+17-2	_	the	abstract[49]	new[49]	coref	19-3[49_50]
+17-3	_	internet	abstract[49]	new[49]	_	_
+17-4	_	helped	_	_	_	_
+17-5	_	or	_	_	_	_
+17-6	_	hurt	_	_	_	_
+17-7	_	magic	_	_	_	_
+17-8	_	?	_	_	_	_
+
+#Text=Both .
+18-1	_	Both	_	_	_	_
+18-2	_	.	_	_	_	_
+
+#Text=I think it has helped draw younger people to magic as a hobby , but I think it has hurt the ability of young magicians to think because so many rely on the internet for everything and they are n't reading the books .
+19-1	_	I	abstract[28]	new[28]	coref	19-16[28_29]
+19-2	_	think	_	_	_	_
+19-3	_	it	abstract[50]	new[50]	coref	19-18[50_51]
+19-4	_	has	_	_	_	_
+19-5	_	helped	_	_	_	_
+19-6	_	draw	_	_	_	_
+19-7	_	younger	_	_	_	_
+19-8	_	people	_	_	_	_
+19-9	_	to	_	_	_	_
+19-10	_	magic	_	_	_	_
+19-11	_	as	_	_	_	_
+19-12	_	a	_	_	_	_
+19-13	_	hobby	_	_	_	_
+19-14	_	,	_	_	_	_
+19-15	_	but	_	_	_	_
+19-16	_	I	abstract[29]	new[29]	coref	23-2[29_30]
+19-17	_	think	_	_	_	_
+19-18	_	it	abstract[51]	new[51]	coref	19-33[51_52]
+19-19	_	has	_	_	_	_
+19-20	_	hurt	_	_	_	_
+19-21	_	the	_	_	_	_
+19-22	_	ability	_	_	_	_
+19-23	_	of	_	_	_	_
+19-24	_	young	_	_	_	_
+19-25	_	magicians	_	_	_	_
+19-26	_	to	_	_	_	_
+19-27	_	think	_	_	_	_
+19-28	_	because	_	_	_	_
+19-29	_	so	abstract[54]	new[54]	coref	19-38[54_55]
+19-30	_	many	abstract[54]	new[54]	_	_
+19-31	_	rely	_	_	_	_
+19-32	_	on	_	_	_	_
+19-33	_	the	abstract[52]	new[52]	coref	21-7[52_53]
+19-34	_	internet	abstract[52]	new[52]	_	_
+19-35	_	for	_	_	_	_
+19-36	_	everything	_	_	_	_
+19-37	_	and	_	_	_	_
+19-38	_	they	abstract[55]	new[55]	_	_
+19-39	_	are	_	_	_	_
+19-40	_	n't	_	_	_	_
+19-41	_	reading	_	_	_	_
+19-42	_	the	_	_	_	_
+19-43	_	books	_	_	_	_
+19-44	_	.	_	_	_	_
+
+#Text=We have to have knowledge of the history of magic and what has been done before .
+20-1	_	We	abstract[9]	new[9]	coref	21-14[9_10]
+20-2	_	have	_	_	_	_
+20-3	_	to	_	_	_	_
+20-4	_	have	_	_	_	_
+20-5	_	knowledge	_	_	_	_
+20-6	_	of	_	_	_	_
+20-7	_	the	_	_	_	_
+20-8	_	history	_	_	_	_
+20-9	_	of	_	_	_	_
+20-10	_	magic	_	_	_	_
+20-11	_	and	_	_	_	_
+20-12	_	what	_	_	_	_
+20-13	_	has	_	_	_	_
+20-14	_	been	_	_	_	_
+20-15	_	done	_	_	_	_
+20-16	_	before	_	_	_	_
+20-17	_	.	_	_	_	_
+
+#Text=Moreover , seeing someone perform on the internet takes away the use of our senses , originality and imagination that reading and thinking about magic can produce .
+21-1	_	Moreover	_	_	_	_
+21-2	_	,	_	_	_	_
+21-3	_	seeing	_	_	_	_
+21-4	_	someone	_	_	_	_
+21-5	_	perform	_	_	_	_
+21-6	_	on	_	_	_	_
+21-7	_	the	abstract[53]	new[53]	_	_
+21-8	_	internet	abstract[53]	new[53]	_	_
+21-9	_	takes	_	_	_	_
+21-10	_	away	_	_	_	_
+21-11	_	the	_	_	_	_
+21-12	_	use	_	_	_	_
+21-13	_	of	_	_	_	_
+21-14	_	our	abstract[10]	new[10]	_	_
+21-15	_	senses	_	_	_	_
+21-16	_	,	_	_	_	_
+21-17	_	originality	_	_	_	_
+21-18	_	and	_	_	_	_
+21-19	_	imagination	_	_	_	_
+21-20	_	that	_	_	_	_
+21-21	_	reading	_	_	_	_
+21-22	_	and	_	_	_	_
+21-23	_	thinking	_	_	_	_
+21-24	_	about	_	_	_	_
+21-25	_	magic	abstract[56]	new[56]	coref	25-35[56_57]
+21-26	_	can	_	_	_	_
+21-27	_	produce	_	_	_	_
+21-28	_	.	_	_	_	_
+
+#Text=Anyone can become a monkey ; it takes serious study to become a magician .
+22-1	_	Anyone	_	_	_	_
+22-2	_	can	_	_	_	_
+22-3	_	become	_	_	_	_
+22-4	_	a	_	_	_	_
+22-5	_	monkey	_	_	_	_
+22-6	_	;	_	_	_	_
+22-7	_	it	_	_	_	_
+22-8	_	takes	_	_	_	_
+22-9	_	serious	_	_	_	_
+22-10	_	study	_	_	_	_
+22-11	_	to	_	_	_	_
+22-12	_	become	_	_	_	_
+22-13	_	a	_	_	_	_
+22-14	_	magician	_	_	_	_
+22-15	_	.	_	_	_	_
+
+#Text=Do you travel much in your current role ?
+23-1	_	Do	_	_	_	_
+23-2	_	you	abstract[30]	new[30]	coref	23-6[30_31]
+23-3	_	travel	_	_	_	_
+23-4	_	much	_	_	_	_
+23-5	_	in	_	_	_	_
+23-6	_	your	abstract[31]	new[31]	coref	24-3[31_32]
+23-7	_	current	_	_	_	_
+23-8	_	role	_	_	_	_
+23-9	_	?	_	_	_	_
+
+#Text=Yes , I am traveling quite a bit .
+24-1	_	Yes	_	_	_	_
+24-2	_	,	_	_	_	_
+24-3	_	I	abstract[32]	new[32]	coref	25-2[32_33]
+24-4	_	am	_	_	_	_
+24-5	_	traveling	_	_	_	_
+24-6	_	quite	_	_	_	_
+24-7	_	a	_	_	_	_
+24-8	_	bit	_	_	_	_
+24-9	_	.	_	_	_	_
+
+#Text=After I was inducted as International President in Phoenix in July , I have been to the Jeff McBride Experience in Eureka Springs , Arkansas , Magic Live in Las Vegas , The Midwest Magic Jubilee in St. Louis , the TAOM in Dallas , the British Ring Convention in Buxton , England and the Magic Circle in London .
+25-1	_	After	_	_	_	_
+25-2	_	I	abstract[33]	new[33]	coref	25-6[33_34]
+25-3	_	was	_	_	_	_
+25-4	_	inducted	_	_	_	_
+25-5	_	as	_	_	_	_
+25-6	_	International	abstract[34]	new[34]	coref	25-13[34_35]
+25-7	_	President	abstract[34]	new[34]	_	_
+25-8	_	in	_	_	_	_
+25-9	_	Phoenix	_	_	_	_
+25-10	_	in	_	_	_	_
+25-11	_	July	_	_	_	_
+25-12	_	,	_	_	_	_
+25-13	_	I	abstract[35]	new[35]	coref	26-2[35_36]
+25-14	_	have	_	_	_	_
+25-15	_	been	_	_	_	_
+25-16	_	to	_	_	_	_
+25-17	_	the	_	_	_	_
+25-18	_	Jeff	_	_	_	_
+25-19	_	McBride	_	_	_	_
+25-20	_	Experience	_	_	_	_
+25-21	_	in	_	_	_	_
+25-22	_	Eureka	abstract[66]	new[66]	coref	26-45[66_67]
+25-23	_	Springs	abstract[66]	new[66]	_	_
+25-24	_	,	abstract[66]	new[66]	_	_
+25-25	_	Arkansas	abstract[66]	new[66]	_	_
+25-26	_	,	_	_	_	_
+25-27	_	Magic	_	_	_	_
+25-28	_	Live	_	_	_	_
+25-29	_	in	_	_	_	_
+25-30	_	Las	abstract[61]	new[61]	coref	26-6[61_62]
+25-31	_	Vegas	abstract[61]	new[61]	_	_
+25-32	_	,	_	_	_	_
+25-33	_	The	_	_	_	_
+25-34	_	Midwest	_	_	_	_
+25-35	_	Magic	abstract[57]	new[57]	coref	25-56[57_58]
+25-36	_	Jubilee	_	_	_	_
+25-37	_	in	_	_	_	_
+25-38	_	St.	_	_	_	_
+25-39	_	Louis	_	_	_	_
+25-40	_	,	_	_	_	_
+25-41	_	the	_	_	_	_
+25-42	_	TAOM	_	_	_	_
+25-43	_	in	_	_	_	_
+25-44	_	Dallas	_	_	_	_
+25-45	_	,	_	_	_	_
+25-46	_	the	_	_	_	_
+25-47	_	British	_	_	_	_
+25-48	_	Ring	_	_	_	_
+25-49	_	Convention	_	_	_	_
+25-50	_	in	_	_	_	_
+25-51	_	Buxton	_	_	_	_
+25-52	_	,	_	_	_	_
+25-53	_	England	_	_	_	_
+25-54	_	and	_	_	_	_
+25-55	_	the	_	_	_	_
+25-56	_	Magic	abstract[58]	new[58]	coref	26-39[58_59]
+25-57	_	Circle	_	_	_	_
+25-58	_	in	_	_	_	_
+25-59	_	London	_	_	_	_
+25-60	_	.	_	_	_	_
+
+#Text=I am going to Las Vegas and Los Angeles next month , Italy in November , back to Las Vegas in December , Mexico in January , Magi - Fest in February , the Winter Carnival of Magic in Tennessee in March , Eureka Springs Cavalcade of Magic in March , and the FFFF in April .
+26-1	_	I	abstract[36]	new[36]	_	_
+26-2	_	am	_	_	_	_
+26-3	_	going	_	_	_	_
+26-4	_	to	_	_	_	_
+26-5	_	Las	abstract[62]	new[62]	coref	26-20[62_63]
+26-6	_	Vegas	abstract[62]	new[62]	_	_
+26-7	_	and	_	_	_	_
+26-8	_	Los	_	_	_	_
+26-9	_	Angeles	_	_	_	_
+26-10	_	next	abstract[64]	new[64]	coref	26-16[64_65]
+26-11	_	month	abstract[64]	new[64]	_	_
+26-12	_	,	_	_	_	_
+26-13	_	Italy	_	_	_	_
+26-14	_	in	_	_	_	_
+26-15	_	November	abstract[65]	new[65]	_	_
+26-16	_	,	_	_	_	_
+26-17	_	back	_	_	_	_
+26-18	_	to	_	_	_	_
+26-19	_	Las	abstract[63]	new[63]	_	_
+26-20	_	Vegas	abstract[63]	new[63]	_	_
+26-21	_	in	_	_	_	_
+26-22	_	December	_	_	_	_
+26-23	_	,	_	_	_	_
+26-24	_	Mexico	_	_	_	_
+26-25	_	in	_	_	_	_
+26-26	_	January	_	_	_	_
+26-27	_	,	_	_	_	_
+26-28	_	Magi	_	_	_	_
+26-29	_	-	_	_	_	_
+26-30	_	Fest	_	_	_	_
+26-31	_	in	_	_	_	_
+26-32	_	February	_	_	_	_
+26-33	_	,	_	_	_	_
+26-34	_	the	_	_	_	_
+26-35	_	Winter	_	_	_	_
+26-36	_	Carnival	_	_	_	_
+26-37	_	of	_	_	_	_
+26-38	_	Magic	abstract[59]	new[59]	coref	26-49[59_60]
+26-39	_	in	_	_	_	_
+26-40	_	Tennessee	_	_	_	_
+26-41	_	in	_	_	_	_
+26-42	_	March	abstract[68]	new[68]	coref	26-51[68_69]
+26-43	_	,	_	_	_	_
+26-44	_	Eureka	abstract[67]	new[67]	_	_
+26-45	_	Springs	abstract[67]	new[67]	_	_
+26-46	_	Cavalcade	_	_	_	_
+26-47	_	of	_	_	_	_
+26-48	_	Magic	abstract[60]	new[60]	_	_
+26-49	_	in	_	_	_	_
+26-50	_	March	abstract[69]	new[69]	_	_
+26-51	_	,	_	_	_	_
+26-52	_	and	_	_	_	_
+26-53	_	the	_	_	_	_
+26-54	_	FFFF	_	_	_	_
+26-55	_	in	_	_	_	_
+26-56	_	April	_	_	_	_
+26-57	_	.	_	_	_	_
+
+#Text=That 's as of now .
+27-1	_	That	_	_	_	_
+27-2	_	's	_	_	_	_
+27-3	_	as	_	_	_	_
+27-4	_	of	_	_	_	_
+27-5	_	now	_	_	_	_
+27-6	_	.	_	_	_	_
+
+#Text=File photo of magician David Gish displaying magic props for a young child .
+28-1	_	File	_	_	_	_
+28-2	_	photo	_	_	_	_
+28-3	_	of	_	_	_	_
+28-4	_	magician	_	_	_	_
+28-5	_	David	_	_	_	_
+28-6	_	Gish	_	_	_	_
+28-7	_	displaying	_	_	_	_
+28-8	_	magic	_	_	_	_
+28-9	_	props	_	_	_	_
+28-10	_	for	_	_	_	_
+28-11	_	a	_	_	_	_
+28-12	_	young	_	_	_	_
+28-13	_	child	_	_	_	_
+28-14	_	.	_	_	_	_
+
+#Text=Image : Paul Budd .
+29-1	_	Image	_	_	_	_
+29-2	_	:	_	_	_	_
+29-3	_	Paul	_	_	_	_
+29-4	_	Budd	_	_	_	_
+29-5	_	.	_	_	_	_
+
+#Text=We 're chatting about how Nick Bos , of the University of Helsinki , found his inspiration for the research of wild ants in an Estonian foraging arena .
+30-1	_	We	_	_	_	_
+30-2	_	're	_	_	_	_
+30-3	_	chatting	_	_	_	_
+30-4	_	about	_	_	_	_
+30-5	_	how	_	_	_	_
+30-6	_	Nick	abstract[70]	new[70]	coref	30-16[70_71]
+30-7	_	Bos	abstract[70]	new[70]	_	_
+30-8	_	,	abstract[70]	new[70]	_	_
+30-9	_	of	abstract[70]	new[70]	_	_
+30-10	_	the	abstract[70]	new[70]	_	_
+30-11	_	University	abstract[70]	new[70]	_	_
+30-12	_	of	abstract[70]	new[70]	_	_
+30-13	_	Helsinki	abstract[70]	new[70]	_	_
+30-14	_	,	_	_	_	_
+30-15	_	found	_	_	_	_
+30-16	_	his	abstract[71]	new[71]	_	_
+30-17	_	inspiration	_	_	_	_
+30-18	_	for	_	_	_	_
+30-19	_	the	_	_	_	_
+30-20	_	research	_	_	_	_
+30-21	_	of	_	_	_	_
+30-22	_	wild	_	_	_	_
+30-23	_	ants	_	_	_	_
+30-24	_	in	_	_	_	_
+30-25	_	an	_	_	_	_
+30-26	_	Estonian	_	_	_	_
+30-27	_	foraging	_	_	_	_
+30-28	_	arena	_	_	_	_
+30-29	_	.	_	_	_	_
+

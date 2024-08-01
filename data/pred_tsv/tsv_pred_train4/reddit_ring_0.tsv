@@ -1,0 +1,1166 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Is this ring ?
+1-1	_	Is	_	_	_	_
+1-2	_	this	_	_	_	_
+1-3	_	ring	_	_	_	_
+1-4	_	?	_	_	_	_
+
+#Text=http://vocaroo.com/i/s1tDCvWpykHC
+2-1	_	http://vocaroo.com/i/s1tDCvWpykHC	abstract[47]	new[47]	coref	4-7[47_48]
+
+#Text=Is that ring I 'm hearing ?
+3-1	_	Is	_	_	_	_
+3-2	_	that	_	_	_	_
+3-3	_	ring	_	_	_	_
+3-4	_	I	abstract[1]	new[1]	coref	4-1[1_2]
+3-5	_	'm	_	_	_	_
+3-6	_	hearing	_	_	_	_
+3-7	_	?	_	_	_	_
+
+#Text=I feel I sang quite well here , but then it 's often hard to find back to this voice .
+4-1	_	I	abstract[2]	new[2]	coref	4-3[2_3]
+4-2	_	feel	_	_	_	_
+4-3	_	I	abstract[3]	new[3]	coref	5-2[3_4]
+4-4	_	sang	_	_	_	_
+4-5	_	quite	_	_	_	_
+4-6	_	well	_	_	_	_
+4-7	_	here	abstract[48]	new[48]	_	_
+4-8	_	,	_	_	_	_
+4-9	_	but	_	_	_	_
+4-10	_	then	_	_	_	_
+4-11	_	it	_	_	_	_
+4-12	_	's	_	_	_	_
+4-13	_	often	_	_	_	_
+4-14	_	hard	_	_	_	_
+4-15	_	to	_	_	_	_
+4-16	_	find	_	_	_	_
+4-17	_	back	_	_	_	_
+4-18	_	to	_	_	_	_
+4-19	_	this	abstract[69]	new[69]	coref	45-7[69_70]
+4-20	_	voice	abstract[69]	new[69]	_	_
+4-21	_	.	_	_	_	_
+
+#Text=Are you an opera singer ?
+5-1	_	Are	_	_	_	_
+5-2	_	you	abstract[4]	new[4]	coref	6-3[4_5]
+5-3	_	an	_	_	_	_
+5-4	_	opera	_	_	_	_
+5-5	_	singer	_	_	_	_
+5-6	_	?	_	_	_	_
+
+#Text=Why are you concerned about " ring " ?
+6-1	_	Why	_	_	_	_
+6-2	_	are	_	_	_	_
+6-3	_	you	abstract[5]	new[5]	coref	7-1[5_6]
+6-4	_	concerned	_	_	_	_
+6-5	_	about	_	_	_	_
+6-6	_	"	_	_	_	_
+6-7	_	ring	abstract[49]	new[49]	coref	7-8[49_50]
+6-8	_	"	_	_	_	_
+6-9	_	?	_	_	_	_
+
+#Text=I 've been instructed to try developing it .
+7-1	_	I	abstract[6]	new[6]	coref	8-1[6_7]
+7-2	_	've	_	_	_	_
+7-3	_	been	_	_	_	_
+7-4	_	instructed	_	_	_	_
+7-5	_	to	_	_	_	_
+7-6	_	try	_	_	_	_
+7-7	_	developing	_	_	_	_
+7-8	_	it	abstract[50]	new[50]	_	_
+7-9	_	.	_	_	_	_
+
+#Text=I am trying to develop a generally pleasant voice , I have no clear idea about style .
+8-1	_	I	abstract[7]	new[7]	coref	8-11[7_8]
+8-2	_	am	_	_	_	_
+8-3	_	trying	_	_	_	_
+8-4	_	to	_	_	_	_
+8-5	_	develop	_	_	_	_
+8-6	_	a	_	_	_	_
+8-7	_	generally	_	_	_	_
+8-8	_	pleasant	_	_	_	_
+8-9	_	voice	_	_	_	_
+8-10	_	,	_	_	_	_
+8-11	_	I	abstract[8]	new[8]	coref	16-4[8_9]
+8-12	_	have	_	_	_	_
+8-13	_	no	_	_	_	_
+8-14	_	clear	_	_	_	_
+8-15	_	idea	_	_	_	_
+8-16	_	about	_	_	_	_
+8-17	_	style	_	_	_	_
+8-18	_	.	_	_	_	_
+
+#Text=Ring is one of those things , IMO , that some dweeb voice teacher heard sitting in an audience from a real opera singer .
+9-1	_	Ring	_	_	_	_
+9-2	_	is	_	_	_	_
+9-3	_	one	_	_	_	_
+9-4	_	of	_	_	_	_
+9-5	_	those	_	_	_	_
+9-6	_	things	_	_	_	_
+9-7	_	,	_	_	_	_
+9-8	_	IMO	_	_	_	_
+9-9	_	,	_	_	_	_
+9-10	_	that	_	_	_	_
+9-11	_	some	abstract[51]	new[51]	coref	10-1[51_52]
+9-12	_	dweeb	abstract[51]	new[51]	_	_
+9-13	_	voice	abstract[51]	new[51]	_	_
+9-14	_	teacher	abstract[51]	new[51]	_	_
+9-15	_	heard	_	_	_	_
+9-16	_	sitting	_	_	_	_
+9-17	_	in	_	_	_	_
+9-18	_	an	_	_	_	_
+9-19	_	audience	_	_	_	_
+9-20	_	from	_	_	_	_
+9-21	_	a	_	_	_	_
+9-22	_	real	_	_	_	_
+9-23	_	opera	_	_	_	_
+9-24	_	singer	_	_	_	_
+9-25	_	.	_	_	_	_
+
+#Text=He heard a " ring " and decided to make it into a technique .
+10-1	_	He	abstract[52]	new[52]	_	_
+10-2	_	heard	_	_	_	_
+10-3	_	a	abstract[53]	new[53]	coref	10-11[53_54]
+10-4	_	"	abstract[53]	new[53]	_	_
+10-5	_	ring	abstract[53]	new[53]	_	_
+10-6	_	"	abstract[53]	new[53]	_	_
+10-7	_	and	_	_	_	_
+10-8	_	decided	_	_	_	_
+10-9	_	to	_	_	_	_
+10-10	_	make	_	_	_	_
+10-11	_	it	abstract[54]	new[54]	_	_
+10-12	_	into	_	_	_	_
+10-13	_	a	_	_	_	_
+10-14	_	technique	_	_	_	_
+10-15	_	.	_	_	_	_
+
+#Text=First of all the term is poorly defined .
+11-1	_	First	_	_	_	_
+11-2	_	of	_	_	_	_
+11-3	_	all	_	_	_	_
+11-4	_	the	abstract[55]	new[55]	coref	12-2[55_56]
+11-5	_	term	abstract[55]	new[55]	_	_
+11-6	_	is	_	_	_	_
+11-7	_	poorly	_	_	_	_
+11-8	_	defined	_	_	_	_
+11-9	_	.	_	_	_	_
+
+#Text=Does it mean twang ?
+12-1	_	Does	_	_	_	_
+12-2	_	it	abstract[56]	new[56]	_	_
+12-3	_	mean	_	_	_	_
+12-4	_	twang	_	_	_	_
+12-5	_	?	_	_	_	_
+
+#Text=Singer formant ?
+13-1	_	Singer	_	_	_	_
+13-2	_	formant	_	_	_	_
+13-3	_	?	_	_	_	_
+
+#Text=Which harmonic ?
+14-1	_	Which	_	_	_	_
+14-2	_	harmonic	_	_	_	_
+14-3	_	?	_	_	_	_
+
+#Text=Chiaroscuro ?
+15-1	_	Chiaroscuro	_	_	_	_
+15-2	_	?	_	_	_	_
+
+#Text=Second of all you 're not an opera singer !
+16-1	_	Second	_	_	_	_
+16-2	_	of	_	_	_	_
+16-3	_	all	_	_	_	_
+16-4	_	you	abstract[9]	new[9]	coref	18-2[9_10]
+16-5	_	're	_	_	_	_
+16-6	_	not	_	_	_	_
+16-7	_	an	_	_	_	_
+16-8	_	opera	_	_	_	_
+16-9	_	singer	_	_	_	_
+16-10	_	!	_	_	_	_
+
+#Text=Ring is characteristic of operatic voices .
+17-1	_	Ring	_	_	_	_
+17-2	_	is	_	_	_	_
+17-3	_	characteristic	_	_	_	_
+17-4	_	of	_	_	_	_
+17-5	_	operatic	_	_	_	_
+17-6	_	voices	_	_	_	_
+17-7	_	.	_	_	_	_
+
+#Text=Have you ever heard a contemporary pop or rock singer with a " ring " in their voice ?
+18-1	_	Have	_	_	_	_
+18-2	_	you	abstract[10]	new[10]	coref	20-18[10_11]
+18-3	_	ever	_	_	_	_
+18-4	_	heard	_	_	_	_
+18-5	_	a	abstract[57]	new[57]	coref	18-17[57_58]
+18-6	_	contemporary	abstract[57]	new[57]	_	_
+18-7	_	pop	abstract[57]	new[57]	_	_
+18-8	_	or	abstract[57]	new[57]	_	_
+18-9	_	rock	abstract[57]	new[57]	_	_
+18-10	_	singer	abstract[57]	new[57]	_	_
+18-11	_	with	_	_	_	_
+18-12	_	a	_	_	_	_
+18-13	_	"	_	_	_	_
+18-14	_	ring	_	_	_	_
+18-15	_	"	_	_	_	_
+18-16	_	in	_	_	_	_
+18-17	_	their	abstract[58]	new[58]	_	_
+18-18	_	voice	_	_	_	_
+18-19	_	?	_	_	_	_
+
+#Text=No !
+19-1	_	No	_	_	_	_
+19-2	_	!	_	_	_	_
+
+#Text=I would just stop worrying about trying to do shit which is not relevant to the style you 're trying to learn .
+20-1	_	I	_	_	_	_
+20-2	_	would	_	_	_	_
+20-3	_	just	_	_	_	_
+20-4	_	stop	_	_	_	_
+20-5	_	worrying	_	_	_	_
+20-6	_	about	_	_	_	_
+20-7	_	trying	_	_	_	_
+20-8	_	to	_	_	_	_
+20-9	_	do	_	_	_	_
+20-10	_	shit	_	_	_	_
+20-11	_	which	_	_	_	_
+20-12	_	is	_	_	_	_
+20-13	_	not	_	_	_	_
+20-14	_	relevant	_	_	_	_
+20-15	_	to	_	_	_	_
+20-16	_	the	_	_	_	_
+20-17	_	style	_	_	_	_
+20-18	_	you	abstract[11]	new[11]	coref	21-7[11_12]
+20-19	_	're	_	_	_	_
+20-20	_	trying	_	_	_	_
+20-21	_	to	_	_	_	_
+20-22	_	learn	_	_	_	_
+20-23	_	.	_	_	_	_
+
+#Text=Focus on singing whatever it is you want to sing ... not on singing opera !
+21-1	_	Focus	_	_	_	_
+21-2	_	on	_	_	_	_
+21-3	_	singing	_	_	_	_
+21-4	_	whatever	_	_	_	_
+21-5	_	it	_	_	_	_
+21-6	_	is	_	_	_	_
+21-7	_	you	abstract[12]	new[12]	coref	23-5[12_13]
+21-8	_	want	_	_	_	_
+21-9	_	to	_	_	_	_
+21-10	_	sing	_	_	_	_
+21-11	_	...	_	_	_	_
+21-12	_	not	_	_	_	_
+21-13	_	on	_	_	_	_
+21-14	_	singing	_	_	_	_
+21-15	_	opera	_	_	_	_
+21-16	_	!	_	_	_	_
+
+#Text=Alright .
+22-1	_	Alright	_	_	_	_
+22-2	_	.	_	_	_	_
+
+#Text=Do you notice anything I should work on in particular ?
+23-1	_	Do	_	_	_	_
+23-2	_	you	_	_	_	_
+23-3	_	notice	_	_	_	_
+23-4	_	anything	_	_	_	_
+23-5	_	I	abstract[13]	new[13]	coref	25-4[13_14]
+23-6	_	should	_	_	_	_
+23-7	_	work	_	_	_	_
+23-8	_	on	_	_	_	_
+23-9	_	in	_	_	_	_
+23-10	_	particular	_	_	_	_
+23-11	_	?	_	_	_	_
+
+#Text=Is it possible from just a recording ?
+24-1	_	Is	_	_	_	_
+24-2	_	it	_	_	_	_
+24-3	_	possible	_	_	_	_
+24-4	_	from	_	_	_	_
+24-5	_	just	_	_	_	_
+24-6	_	a	abstract[82]	new[82]	coref	52-33[82_83]
+24-7	_	recording	abstract[82]	new[82]	_	_
+24-8	_	?	_	_	_	_
+
+#Text=How much do you practice ? =p .
+25-1	_	How	_	_	_	_
+25-2	_	much	_	_	_	_
+25-3	_	do	_	_	_	_
+25-4	_	you	abstract[14]	new[14]	coref	27-2[14_15]
+25-5	_	practice	_	_	_	_
+25-6	_	?	_	_	_	_
+25-7	_	=p	_	_	_	_
+25-8	_	.	_	_	_	_
+
+#Text=How many days a week and hour many hours ?
+26-1	_	How	_	_	_	_
+26-2	_	many	_	_	_	_
+26-3	_	days	_	_	_	_
+26-4	_	a	_	_	_	_
+26-5	_	week	_	_	_	_
+26-6	_	and	_	_	_	_
+26-7	_	hour	_	_	_	_
+26-8	_	many	_	_	_	_
+26-9	_	hours	_	_	_	_
+26-10	_	?	_	_	_	_
+
+#Text=Whenever I have the apartment to myself .
+27-1	_	Whenever	_	_	_	_
+27-2	_	I	abstract[15]	new[15]	coref	27-7[15_16]
+27-3	_	have	_	_	_	_
+27-4	_	the	_	_	_	_
+27-5	_	apartment	_	_	_	_
+27-6	_	to	_	_	_	_
+27-7	_	myself	abstract[16]	new[16]	coref	29-5[16_17]
+27-8	_	.	_	_	_	_
+
+#Text=Usually twenty - thirty minutes .
+28-1	_	Usually	_	_	_	_
+28-2	_	twenty	_	_	_	_
+28-3	_	-	_	_	_	_
+28-4	_	thirty	_	_	_	_
+28-5	_	minutes	_	_	_	_
+28-6	_	.	_	_	_	_
+
+#Text=Couple times a week I get several sessions that are longer .
+29-1	_	Couple	_	_	_	_
+29-2	_	times	_	_	_	_
+29-3	_	a	_	_	_	_
+29-4	_	week	_	_	_	_
+29-5	_	I	abstract[17]	new[17]	coref	34-2[17_18]
+29-6	_	get	_	_	_	_
+29-7	_	several	_	_	_	_
+29-8	_	sessions	_	_	_	_
+29-9	_	that	_	_	_	_
+29-10	_	are	_	_	_	_
+29-11	_	longer	_	_	_	_
+29-12	_	.	_	_	_	_
+
+#Text=Do more practicing .
+30-1	_	Do	_	_	_	_
+30-2	_	more	_	_	_	_
+30-3	_	practicing	abstract[59]	new[59]	coref	32-1[59_60]
+30-4	_	.	_	_	_	_
+
+#Text=Got ta get over not wanting to practice when people are around =p .
+31-1	_	Got	_	_	_	_
+31-2	_	ta	_	_	_	_
+31-3	_	get	_	_	_	_
+31-4	_	over	_	_	_	_
+31-5	_	not	_	_	_	_
+31-6	_	wanting	_	_	_	_
+31-7	_	to	_	_	_	_
+31-8	_	practice	_	_	_	_
+31-9	_	when	_	_	_	_
+31-10	_	people	_	_	_	_
+31-11	_	are	_	_	_	_
+31-12	_	around	_	_	_	_
+31-13	_	=p	_	_	_	_
+31-14	_	.	_	_	_	_
+
+#Text=That 's really the only proven way to get results .
+32-1	_	That	abstract[60]	new[60]	_	_
+32-2	_	's	_	_	_	_
+32-3	_	really	_	_	_	_
+32-4	_	the	_	_	_	_
+32-5	_	only	_	_	_	_
+32-6	_	proven	_	_	_	_
+32-7	_	way	_	_	_	_
+32-8	_	to	_	_	_	_
+32-9	_	get	_	_	_	_
+32-10	_	results	_	_	_	_
+32-11	_	.	_	_	_	_
+
+#Text=Practice .
+33-1	_	Practice	_	_	_	_
+33-2	_	.	_	_	_	_
+
+#Text=If you want a ring ... I believe you have to use a strong chest dominant sound .
+34-1	_	If	_	_	_	_
+34-2	_	you	abstract[18]	new[18]	coref	34-9[18_19]
+34-3	_	want	_	_	_	_
+34-4	_	a	abstract[63]	new[63]	coref	40-11[63_64]
+34-5	_	ring	abstract[63]	new[63]	_	_
+34-6	_	...	_	_	_	_
+34-7	_	I	abstract[65]	new[65]	coref	40-17[65_66]
+34-8	_	believe	_	_	_	_
+34-9	_	you	abstract[19]	new[19]	coref	35-10[19_20]
+34-10	_	have	_	_	_	_
+34-11	_	to	_	_	_	_
+34-12	_	use	_	_	_	_
+34-13	_	a	_	_	_	_
+34-14	_	strong	_	_	_	_
+34-15	_	chest	_	_	_	_
+34-16	_	dominant	_	_	_	_
+34-17	_	sound	_	_	_	_
+34-18	_	.	_	_	_	_
+
+#Text=Try an EE vowel in the comfortable area of your voice .
+35-1	_	Try	_	_	_	_
+35-2	_	an	abstract[61]	new[61]	coref	38-7[61_62]
+35-3	_	EE	abstract[61]	new[61]	_	_
+35-4	_	vowel	abstract[61]	new[61]	_	_
+35-5	_	in	_	_	_	_
+35-6	_	the	_	_	_	_
+35-7	_	comfortable	_	_	_	_
+35-8	_	area	_	_	_	_
+35-9	_	of	_	_	_	_
+35-10	_	your	abstract[20]	new[20]	coref	37-1[20_21]
+35-11	_	voice	_	_	_	_
+35-12	_	.	_	_	_	_
+
+#Text=Like right here .
+36-1	_	Like	_	_	_	_
+36-2	_	right	_	_	_	_
+36-3	_	here	_	_	_	_
+36-4	_	.	_	_	_	_
+
+#Text=You have to do these alternate vowels right here in this ipa chart .
+37-1	_	You	abstract[21]	new[21]	coref	40-2[21_22]
+37-2	_	have	_	_	_	_
+37-3	_	to	_	_	_	_
+37-4	_	do	_	_	_	_
+37-5	_	these	_	_	_	_
+37-6	_	alternate	_	_	_	_
+37-7	_	vowels	_	_	_	_
+37-8	_	right	_	_	_	_
+37-9	_	here	_	_	_	_
+37-10	_	in	_	_	_	_
+37-11	_	this	_	_	_	_
+37-12	_	ipa	_	_	_	_
+37-13	_	chart	_	_	_	_
+37-14	_	.	_	_	_	_
+
+#Text=so instead of ' i ' it 'd be ' Y ' ( ee as in sweet = i ) .
+38-1	_	so	_	_	_	_
+38-2	_	instead	_	_	_	_
+38-3	_	of	_	_	_	_
+38-4	_	'	_	_	_	_
+38-5	_	i	abstract[78]	new[78]	coref	47-7[78_79]
+38-6	_	'	_	_	_	_
+38-7	_	it	abstract[62]	new[62]	_	_
+38-8	_	'd	_	_	_	_
+38-9	_	be	_	_	_	_
+38-10	_	'	_	_	_	_
+38-11	_	Y	_	_	_	_
+38-12	_	'	_	_	_	_
+38-13	_	(	_	_	_	_
+38-14	_	ee	_	_	_	_
+38-15	_	as	_	_	_	_
+38-16	_	in	_	_	_	_
+38-17	_	sweet	_	_	_	_
+38-18	_	=	_	_	_	_
+38-19	_	i	_	_	_	_
+38-20	_	)	_	_	_	_
+38-21	_	.	_	_	_	_
+
+#Text=a -> [UNK] .
+39-1	_	a	_	_	_	_
+39-2	_	->	_	_	_	_
+39-3	_	[UNK]	_	_	_	_
+39-4	_	.	_	_	_	_
+
+#Text=If you try to sound like an opera singer , it 'll just come to you I guess ( if you have the ear ) .
+40-1	_	If	_	_	_	_
+40-2	_	you	abstract[22]	new[22]	coref	40-16[22_23]
+40-3	_	try	_	_	_	_
+40-4	_	to	_	_	_	_
+40-5	_	sound	_	_	_	_
+40-6	_	like	_	_	_	_
+40-7	_	an	_	_	_	_
+40-8	_	opera	_	_	_	_
+40-9	_	singer	_	_	_	_
+40-10	_	,	_	_	_	_
+40-11	_	it	abstract[64]	new[64]	_	_
+40-12	_	'll	_	_	_	_
+40-13	_	just	_	_	_	_
+40-14	_	come	_	_	_	_
+40-15	_	to	_	_	_	_
+40-16	_	you	abstract[23]	new[23]	coref	40-21[23_24]
+40-17	_	I	abstract[66]	new[66]	_	_
+40-18	_	guess	_	_	_	_
+40-19	_	(	_	_	_	_
+40-20	_	if	_	_	_	_
+40-21	_	you	abstract[24]	new[24]	coref	41-6[24_25]
+40-22	_	have	_	_	_	_
+40-23	_	the	_	_	_	_
+40-24	_	ear	_	_	_	_
+40-25	_	)	_	_	_	_
+40-26	_	.	_	_	_	_
+
+#Text=Wo n't really happen if you try to sound like a pop singer unless you 're like Josh Groban , which many say he 's a popera singer .
+41-1	_	Wo	_	_	_	_
+41-2	_	n't	_	_	_	_
+41-3	_	really	_	_	_	_
+41-4	_	happen	_	_	_	_
+41-5	_	if	_	_	_	_
+41-6	_	you	abstract[25]	new[25]	coref	41-15[25_26]
+41-7	_	try	_	_	_	_
+41-8	_	to	_	_	_	_
+41-9	_	sound	_	_	_	_
+41-10	_	like	_	_	_	_
+41-11	_	a	_	_	_	_
+41-12	_	pop	_	_	_	_
+41-13	_	singer	_	_	_	_
+41-14	_	unless	_	_	_	_
+41-15	_	you	abstract[26]	new[26]	coref	43-10[26_27]
+41-16	_	're	_	_	_	_
+41-17	_	like	_	_	_	_
+41-18	_	Josh	_	_	_	_
+41-19	_	Groban	_	_	_	_
+41-20	_	,	_	_	_	_
+41-21	_	which	_	_	_	_
+41-22	_	many	_	_	_	_
+41-23	_	say	_	_	_	_
+41-24	_	he	_	_	_	_
+41-25	_	's	_	_	_	_
+41-26	_	a	_	_	_	_
+41-27	_	popera	_	_	_	_
+41-28	_	singer	_	_	_	_
+41-29	_	.	_	_	_	_
+
+#Text=lol
+42-1	_	lol	_	_	_	_
+
+#Text=Is there a particular specific example or explaination your can give on the type of ' ring ' you are referring to ?
+43-1	_	Is	_	_	_	_
+43-2	_	there	_	_	_	_
+43-3	_	a	_	_	_	_
+43-4	_	particular	_	_	_	_
+43-5	_	specific	_	_	_	_
+43-6	_	example	_	_	_	_
+43-7	_	or	_	_	_	_
+43-8	_	explaination	_	_	_	_
+43-9	_	your	abstract[27]	new[27]	coref	43-20[27_28]
+43-10	_	can	_	_	_	_
+43-11	_	give	_	_	_	_
+43-12	_	on	_	_	_	_
+43-13	_	the	_	_	_	_
+43-14	_	type	_	_	_	_
+43-15	_	of	_	_	_	_
+43-16	_	'	_	_	_	_
+43-17	_	ring	_	_	_	_
+43-18	_	'	_	_	_	_
+43-19	_	you	abstract[28]	new[28]	coref	44-2[28_29]
+43-20	_	are	_	_	_	_
+43-21	_	referring	_	_	_	_
+43-22	_	to	_	_	_	_
+43-23	_	?	_	_	_	_
+
+#Text=Are you referring to the slight ping in certain people 's voices that give it a clarity or you talking about the slight ' oomph ' in certain people 's voices ?
+44-1	_	Are	_	_	_	_
+44-2	_	you	abstract[29]	new[29]	coref	46-1[29_30]
+44-3	_	referring	_	_	_	_
+44-4	_	to	_	_	_	_
+44-5	_	the	_	_	_	_
+44-6	_	slight	_	_	_	_
+44-7	_	ping	_	_	_	_
+44-8	_	in	_	_	_	_
+44-9	_	certain	abstract[67]	new[67]	coref	44-15[67_68]
+44-10	_	people	abstract[67]	new[67]	_	_
+44-11	_	's	abstract[67]	new[67]	_	_
+44-12	_	voices	abstract[67]	new[67]	_	_
+44-13	_	that	_	_	_	_
+44-14	_	give	_	_	_	_
+44-15	_	it	abstract[68]	new[68]	_	_
+44-16	_	a	_	_	_	_
+44-17	_	clarity	_	_	_	_
+44-18	_	or	_	_	_	_
+44-19	_	you	_	_	_	_
+44-20	_	talking	_	_	_	_
+44-21	_	about	_	_	_	_
+44-22	_	the	_	_	_	_
+44-23	_	slight	_	_	_	_
+44-24	_	'	_	_	_	_
+44-25	_	oomph	_	_	_	_
+44-26	_	'	_	_	_	_
+44-27	_	in	_	_	_	_
+44-28	_	certain	_	_	_	_
+44-29	_	people	_	_	_	_
+44-30	_	's	_	_	_	_
+44-31	_	voices	_	_	_	_
+44-32	_	?	_	_	_	_
+
+#Text=Either way , yeah i think it is a pretty decent sounding voice .
+45-1	_	Either	_	_	_	_
+45-2	_	way	_	_	_	_
+45-3	_	,	_	_	_	_
+45-4	_	yeah	_	_	_	_
+45-5	_	i	abstract[71]	new[71]	coref	46-14[71_72]
+45-6	_	think	_	_	_	_
+45-7	_	it	abstract[70]	new[70]	_	_
+45-8	_	is	_	_	_	_
+45-9	_	a	_	_	_	_
+45-10	_	pretty	_	_	_	_
+45-11	_	decent	_	_	_	_
+45-12	_	sounding	_	_	_	_
+45-13	_	voice	_	_	_	_
+45-14	_	.	_	_	_	_
+
+#Text=You mentioned that your teacher is asking you to open the throat and i would like to know what he / she said to instruct you to open the throat .
+46-1	_	You	abstract[30]	new[30]	coref	46-8[30_31]
+46-2	_	mentioned	_	_	_	_
+46-3	_	that	_	_	_	_
+46-4	_	your	_	_	_	_
+46-5	_	teacher	_	_	_	_
+46-6	_	is	_	_	_	_
+46-7	_	asking	_	_	_	_
+46-8	_	you	abstract[31]	new[31]	coref	46-26[31_32]
+46-9	_	to	_	_	_	_
+46-10	_	open	_	_	_	_
+46-11	_	the	abstract[75]	new[75]	coref	46-29[75_76]
+46-12	_	throat	abstract[75]	new[75]	_	_
+46-13	_	and	_	_	_	_
+46-14	_	i	abstract[72]	new[72]	coref	47-2[72_73]
+46-15	_	would	_	_	_	_
+46-16	_	like	_	_	_	_
+46-17	_	to	_	_	_	_
+46-18	_	know	_	_	_	_
+46-19	_	what	_	_	_	_
+46-20	_	he	_	_	_	_
+46-21	_	/	_	_	_	_
+46-22	_	she	_	_	_	_
+46-23	_	said	_	_	_	_
+46-24	_	to	_	_	_	_
+46-25	_	instruct	_	_	_	_
+46-26	_	you	abstract[32]	new[32]	coref	48-6[32_33]
+46-27	_	to	_	_	_	_
+46-28	_	open	_	_	_	_
+46-29	_	the	abstract[76]	new[76]	coref	47-29[76_77]
+46-30	_	throat	abstract[76]	new[76]	_	_
+46-31	_	.	_	_	_	_
+
+#Text=What i am noticing is that the vowel is tending towards the ' pushed ' and spread side possibly from a slight over emphasis on the opening of the throat .
+47-1	_	What	_	_	_	_
+47-2	_	i	abstract[73]	new[73]	coref	63-4[73_74]
+47-3	_	am	_	_	_	_
+47-4	_	noticing	_	_	_	_
+47-5	_	is	_	_	_	_
+47-6	_	that	_	_	_	_
+47-7	_	the	abstract[79]	new[79]	_	_
+47-8	_	vowel	abstract[79]	new[79]	_	_
+47-9	_	is	_	_	_	_
+47-10	_	tending	_	_	_	_
+47-11	_	towards	_	_	_	_
+47-12	_	the	_	_	_	_
+47-13	_	'	_	_	_	_
+47-14	_	pushed	_	_	_	_
+47-15	_	'	_	_	_	_
+47-16	_	and	_	_	_	_
+47-17	_	spread	_	_	_	_
+47-18	_	side	_	_	_	_
+47-19	_	possibly	_	_	_	_
+47-20	_	from	_	_	_	_
+47-21	_	a	_	_	_	_
+47-22	_	slight	_	_	_	_
+47-23	_	over	_	_	_	_
+47-24	_	emphasis	_	_	_	_
+47-25	_	on	_	_	_	_
+47-26	_	the	abstract[80]	new[80]	coref	50-6[80_81]
+47-27	_	opening	abstract[80]	new[80]	_	_
+47-28	_	of	abstract[80]	new[80]	_	_
+47-29	_	the	abstract[77]|abstract[80]	new[77]|new[80]	_	_
+47-30	_	throat	abstract[77]|abstract[80]	new[77]|new[80]	_	_
+47-31	_	.	_	_	_	_
+
+#Text=Here is the key , you need to both have an open / relaxed throat with a clear sound .
+48-1	_	Here	_	_	_	_
+48-2	_	is	_	_	_	_
+48-3	_	the	_	_	_	_
+48-4	_	key	_	_	_	_
+48-5	_	,	_	_	_	_
+48-6	_	you	abstract[33]	new[33]	coref	50-3[33_34]
+48-7	_	need	_	_	_	_
+48-8	_	to	_	_	_	_
+48-9	_	both	_	_	_	_
+48-10	_	have	_	_	_	_
+48-11	_	an	_	_	_	_
+48-12	_	open	_	_	_	_
+48-13	_	/	_	_	_	_
+48-14	_	relaxed	_	_	_	_
+48-15	_	throat	_	_	_	_
+48-16	_	with	_	_	_	_
+48-17	_	a	_	_	_	_
+48-18	_	clear	_	_	_	_
+48-19	_	sound	_	_	_	_
+48-20	_	.	_	_	_	_
+
+#Text=A clear sound being a sound with clarity and focus or some would term to as ' ping ' .
+49-1	_	A	_	_	_	_
+49-2	_	clear	_	_	_	_
+49-3	_	sound	_	_	_	_
+49-4	_	being	_	_	_	_
+49-5	_	a	_	_	_	_
+49-6	_	sound	_	_	_	_
+49-7	_	with	_	_	_	_
+49-8	_	clarity	abstract[98]	new[98]	coref	61-6[98_99]
+49-9	_	and	_	_	_	_
+49-10	_	focus	_	_	_	_
+49-11	_	or	_	_	_	_
+49-12	_	some	_	_	_	_
+49-13	_	would	_	_	_	_
+49-14	_	term	_	_	_	_
+49-15	_	to	_	_	_	_
+49-16	_	as	_	_	_	_
+49-17	_	'	_	_	_	_
+49-18	_	ping	_	_	_	_
+49-19	_	'	_	_	_	_
+49-20	_	.	_	_	_	_
+
+#Text=One way you can do it is pretty simple .
+50-1	_	One	_	_	_	_
+50-2	_	way	_	_	_	_
+50-3	_	you	abstract[34]	new[34]	coref	52-30[34_35]
+50-4	_	can	_	_	_	_
+50-5	_	do	_	_	_	_
+50-6	_	it	abstract[81]	new[81]	_	_
+50-7	_	is	_	_	_	_
+50-8	_	pretty	_	_	_	_
+50-9	_	simple	_	_	_	_
+50-10	_	.	_	_	_	_
+
+#Text=Simply do 2 sets of scales on the same key .
+51-1	_	Simply	_	_	_	_
+51-2	_	do	_	_	_	_
+51-3	_	2	_	_	_	_
+51-4	_	sets	_	_	_	_
+51-5	_	of	_	_	_	_
+51-6	_	scales	_	_	_	_
+51-7	_	on	_	_	_	_
+51-8	_	the	_	_	_	_
+51-9	_	same	_	_	_	_
+51-10	_	key	_	_	_	_
+51-11	_	.	_	_	_	_
+
+#Text=The do - mi - re - fa - mi - so - fa - re - mi - do - re - ti - do ( the one you do on the recording ) .
+52-1	_	The	_	_	_	_
+52-2	_	do	_	_	_	_
+52-3	_	-	_	_	_	_
+52-4	_	mi	_	_	_	_
+52-5	_	-	_	_	_	_
+52-6	_	re	_	_	_	_
+52-7	_	-	_	_	_	_
+52-8	_	fa	_	_	_	_
+52-9	_	-	_	_	_	_
+52-10	_	mi	_	_	_	_
+52-11	_	-	_	_	_	_
+52-12	_	so	_	_	_	_
+52-13	_	-	_	_	_	_
+52-14	_	fa	_	_	_	_
+52-15	_	-	_	_	_	_
+52-16	_	re	_	_	_	_
+52-17	_	-	_	_	_	_
+52-18	_	mi	_	_	_	_
+52-19	_	-	_	_	_	_
+52-20	_	do	_	_	_	_
+52-21	_	-	_	_	_	_
+52-22	_	re	_	_	_	_
+52-23	_	-	_	_	_	_
+52-24	_	ti	_	_	_	_
+52-25	_	-	_	_	_	_
+52-26	_	do	_	_	_	_
+52-27	_	(	_	_	_	_
+52-28	_	the	_	_	_	_
+52-29	_	one	_	_	_	_
+52-30	_	you	abstract[35]	new[35]	coref	56-6[35_36]
+52-31	_	do	_	_	_	_
+52-32	_	on	_	_	_	_
+52-33	_	the	abstract[83]	new[83]	_	_
+52-34	_	recording	abstract[83]	new[83]	_	_
+52-35	_	)	_	_	_	_
+52-36	_	.	_	_	_	_
+
+#Text=Do it twice .
+53-1	_	Do	_	_	_	_
+53-2	_	it	_	_	_	_
+53-3	_	twice	_	_	_	_
+53-4	_	.	_	_	_	_
+
+#Text=First on a hum / ng sound and then on the second scale open the vowel in either an ' EE ' or an ' Ah ' .
+54-1	_	First	_	_	_	_
+54-2	_	on	_	_	_	_
+54-3	_	a	abstract[84]	new[84]	coref	55-3[84_85]
+54-4	_	hum	abstract[84]	new[84]	_	_
+54-5	_	/	abstract[84]	new[84]	_	_
+54-6	_	ng	abstract[84]|abstract[88]	new[84]|new[88]	coref	55-6[88_89]
+54-7	_	sound	abstract[84]|abstract[88]	new[84]|new[88]	_	_
+54-8	_	and	_	_	_	_
+54-9	_	then	_	_	_	_
+54-10	_	on	_	_	_	_
+54-11	_	the	_	_	_	_
+54-12	_	second	_	_	_	_
+54-13	_	scale	_	_	_	_
+54-14	_	open	_	_	_	_
+54-15	_	the	_	_	_	_
+54-16	_	vowel	_	_	_	_
+54-17	_	in	_	_	_	_
+54-18	_	either	_	_	_	_
+54-19	_	an	_	_	_	_
+54-20	_	'	_	_	_	_
+54-21	_	EE	_	_	_	_
+54-22	_	'	_	_	_	_
+54-23	_	or	_	_	_	_
+54-24	_	an	_	_	_	_
+54-25	_	'	_	_	_	_
+54-26	_	Ah	_	_	_	_
+54-27	_	'	_	_	_	_
+54-28	_	.	_	_	_	_
+
+#Text=Do either the hum or the ' ng ' .
+55-1	_	Do	_	_	_	_
+55-2	_	either	_	_	_	_
+55-3	_	the	abstract[85]|abstract[92]	new[85]|new[92]	coref|coref	59-3[85_86]|59-3[92_93]
+55-4	_	hum	abstract[85]|abstract[92]	new[85]|new[92]	_	_
+55-5	_	or	abstract[85]	new[85]	_	_
+55-6	_	the	abstract[85]|abstract[89]	new[85]|new[89]	coref	57-1[89_90]
+55-7	_	'	abstract[85]|abstract[89]	new[85]|new[89]	_	_
+55-8	_	ng	abstract[85]|abstract[89]	new[85]|new[89]	_	_
+55-9	_	'	abstract[85]|abstract[89]	new[85]|new[89]	_	_
+55-10	_	.	_	_	_	_
+
+#Text=Whichever is more comfortable for you .
+56-1	_	Whichever	_	_	_	_
+56-2	_	is	_	_	_	_
+56-3	_	more	_	_	_	_
+56-4	_	comfortable	_	_	_	_
+56-5	_	for	_	_	_	_
+56-6	_	you	abstract[36]	new[36]	coref	59-19[36_37]
+56-7	_	.	_	_	_	_
+
+#Text=The ' ng ' is basically a sustained ' ng ' pronunciation as in the word ' sing ' or ' ring ' .
+57-1	_	The	abstract[90]	new[90]	coref	58-5[90_91]
+57-2	_	'	abstract[90]	new[90]	_	_
+57-3	_	ng	abstract[90]	new[90]	_	_
+57-4	_	'	abstract[90]	new[90]	_	_
+57-5	_	is	_	_	_	_
+57-6	_	basically	_	_	_	_
+57-7	_	a	_	_	_	_
+57-8	_	sustained	_	_	_	_
+57-9	_	'	_	_	_	_
+57-10	_	ng	_	_	_	_
+57-11	_	'	_	_	_	_
+57-12	_	pronunciation	_	_	_	_
+57-13	_	as	_	_	_	_
+57-14	_	in	_	_	_	_
+57-15	_	the	_	_	_	_
+57-16	_	word	_	_	_	_
+57-17	_	'	_	_	_	_
+57-18	_	sing	_	_	_	_
+57-19	_	'	_	_	_	_
+57-20	_	or	_	_	_	_
+57-21	_	'	_	_	_	_
+57-22	_	ring	_	_	_	_
+57-23	_	'	_	_	_	_
+57-24	_	.	_	_	_	_
+
+#Text=Some also would call this an open hum .
+58-1	_	Some	_	_	_	_
+58-2	_	also	_	_	_	_
+58-3	_	would	_	_	_	_
+58-4	_	call	_	_	_	_
+58-5	_	this	abstract[91]	new[91]	_	_
+58-6	_	an	_	_	_	_
+58-7	_	open	_	_	_	_
+58-8	_	hum	_	_	_	_
+58-9	_	.	_	_	_	_
+
+#Text=Then on the hum / ng , try to find a clear buzzing sensation in the front of your face and at the lips if you are doing a hum .
+59-1	_	Then	_	_	_	_
+59-2	_	on	_	_	_	_
+59-3	_	the	abstract[86]|abstract[93]	new[86]|new[93]	coref	65-20[86_87]
+59-4	_	hum	abstract[86]|abstract[93]	new[86]|new[93]	_	_
+59-5	_	/	abstract[86]	new[86]	_	_
+59-6	_	ng	abstract[86]	new[86]	_	_
+59-7	_	,	_	_	_	_
+59-8	_	try	_	_	_	_
+59-9	_	to	_	_	_	_
+59-10	_	find	_	_	_	_
+59-11	_	a	abstract[94]	new[94]	coref	60-4[94_95]
+59-12	_	clear	abstract[94]	new[94]	_	_
+59-13	_	buzzing	abstract[94]	new[94]	_	_
+59-14	_	sensation	abstract[94]	new[94]	_	_
+59-15	_	in	abstract[94]	new[94]	_	_
+59-16	_	the	abstract[94]	new[94]	_	_
+59-17	_	front	abstract[94]	new[94]	_	_
+59-18	_	of	abstract[94]	new[94]	_	_
+59-19	_	your	abstract[37]|abstract[94]	new[37]|new[94]	coref	59-26[37_38]
+59-20	_	face	abstract[94]	new[94]	_	_
+59-21	_	and	_	_	_	_
+59-22	_	at	_	_	_	_
+59-23	_	the	_	_	_	_
+59-24	_	lips	_	_	_	_
+59-25	_	if	_	_	_	_
+59-26	_	you	abstract[38]	new[38]	coref	61-14[38_39]
+59-27	_	are	_	_	_	_
+59-28	_	doing	_	_	_	_
+59-29	_	a	abstract[104]	new[104]	coref	65-20[104_105]
+59-30	_	hum	abstract[104]	new[104]	_	_
+59-31	_	.	_	_	_	_
+
+#Text=Do not force the sensation , focus on simply humming and the sensation should materialize by itself .
+60-1	_	Do	_	_	_	_
+60-2	_	not	_	_	_	_
+60-3	_	force	_	_	_	_
+60-4	_	the	abstract[95]	new[95]	coref	60-12[95_96]
+60-5	_	sensation	abstract[95]	new[95]	_	_
+60-6	_	,	_	_	_	_
+60-7	_	focus	_	_	_	_
+60-8	_	on	_	_	_	_
+60-9	_	simply	_	_	_	_
+60-10	_	humming	abstract[100]	new[100]	coref	62-9[100_101]
+60-11	_	and	_	_	_	_
+60-12	_	the	abstract[96]	new[96]	coref	60-17[96_97]
+60-13	_	sensation	abstract[96]	new[96]	_	_
+60-14	_	should	_	_	_	_
+60-15	_	materialize	_	_	_	_
+60-16	_	by	_	_	_	_
+60-17	_	itself	abstract[97]	new[97]	_	_
+60-18	_	.	_	_	_	_
+
+#Text=Then simply try to keep this same clarity or ' buzz ' when you open the mouth into the EE / AH vowel .
+61-1	_	Then	_	_	_	_
+61-2	_	simply	_	_	_	_
+61-3	_	try	_	_	_	_
+61-4	_	to	_	_	_	_
+61-5	_	keep	_	_	_	_
+61-6	_	this	abstract[99]	new[99]	_	_
+61-7	_	same	abstract[99]	new[99]	_	_
+61-8	_	clarity	abstract[99]	new[99]	_	_
+61-9	_	or	_	_	_	_
+61-10	_	'	_	_	_	_
+61-11	_	buzz	_	_	_	_
+61-12	_	'	_	_	_	_
+61-13	_	when	_	_	_	_
+61-14	_	you	abstract[39]	new[39]	coref	62-1[39_40]
+61-15	_	open	_	_	_	_
+61-16	_	the	_	_	_	_
+61-17	_	mouth	_	_	_	_
+61-18	_	into	_	_	_	_
+61-19	_	the	_	_	_	_
+61-20	_	EE	_	_	_	_
+61-21	_	/	_	_	_	_
+61-22	_	AH	_	_	_	_
+61-23	_	vowel	_	_	_	_
+61-24	_	.	_	_	_	_
+
+#Text=You may need to record yourself while doing this .
+62-1	_	You	abstract[40]	new[40]	coref	62-6[40_41]
+62-2	_	may	_	_	_	_
+62-3	_	need	_	_	_	_
+62-4	_	to	_	_	_	_
+62-5	_	record	_	_	_	_
+62-6	_	yourself	abstract[41]	new[41]	coref	65-3[41_42]
+62-7	_	while	_	_	_	_
+62-8	_	doing	_	_	_	_
+62-9	_	this	abstract[101]	new[101]	_	_
+62-10	_	.	_	_	_	_
+
+#Text=Many a times i have notice that people can produce a relatively focused and clean hum / ng .
+63-1	_	Many	_	_	_	_
+63-2	_	a	_	_	_	_
+63-3	_	times	_	_	_	_
+63-4	_	i	abstract[74]	new[74]	_	_
+63-5	_	have	_	_	_	_
+63-6	_	notice	_	_	_	_
+63-7	_	that	_	_	_	_
+63-8	_	people	abstract[102]	new[102]	coref	64-3[102_103]
+63-9	_	can	_	_	_	_
+63-10	_	produce	_	_	_	_
+63-11	_	a	_	_	_	_
+63-12	_	relatively	_	_	_	_
+63-13	_	focused	_	_	_	_
+63-14	_	and	_	_	_	_
+63-15	_	clean	_	_	_	_
+63-16	_	hum	_	_	_	_
+63-17	_	/	_	_	_	_
+63-18	_	ng	_	_	_	_
+63-19	_	.	_	_	_	_
+
+#Text=But when they open the mouth to produce a vowel , the tone quality drastically changes into something way less focused and clear .
+64-1	_	But	_	_	_	_
+64-2	_	when	_	_	_	_
+64-3	_	they	abstract[103]	new[103]	_	_
+64-4	_	open	_	_	_	_
+64-5	_	the	_	_	_	_
+64-6	_	mouth	_	_	_	_
+64-7	_	to	_	_	_	_
+64-8	_	produce	_	_	_	_
+64-9	_	a	_	_	_	_
+64-10	_	vowel	_	_	_	_
+64-11	_	,	_	_	_	_
+64-12	_	the	_	_	_	_
+64-13	_	tone	_	_	_	_
+64-14	_	quality	_	_	_	_
+64-15	_	drastically	_	_	_	_
+64-16	_	changes	_	_	_	_
+64-17	_	into	_	_	_	_
+64-18	_	something	_	_	_	_
+64-19	_	way	_	_	_	_
+64-20	_	less	_	_	_	_
+64-21	_	focused	_	_	_	_
+64-22	_	and	_	_	_	_
+64-23	_	clear	_	_	_	_
+64-24	_	.	_	_	_	_
+
+#Text=So when you record yourself , see if you can produce the cleanest most ' forward ' sound on the hum / ng and see that if you open to the vowel , does the tone quality drastically change .
+65-1	_	So	_	_	_	_
+65-2	_	when	_	_	_	_
+65-3	_	you	abstract[42]	new[42]	coref	65-5[42_43]
+65-4	_	record	_	_	_	_
+65-5	_	yourself	abstract[43]	new[43]	coref	65-9[43_44]
+65-6	_	,	_	_	_	_
+65-7	_	see	_	_	_	_
+65-8	_	if	_	_	_	_
+65-9	_	you	abstract[44]	new[44]	coref	65-28[44_45]
+65-10	_	can	_	_	_	_
+65-11	_	produce	_	_	_	_
+65-12	_	the	abstract[111]	new[111]	coref	68-17[111_112]
+65-13	_	cleanest	abstract[111]	new[111]	_	_
+65-14	_	most	abstract[111]	new[111]	_	_
+65-15	_	'	abstract[111]	new[111]	_	_
+65-16	_	forward	abstract[111]	new[111]	_	_
+65-17	_	'	abstract[111]	new[111]	_	_
+65-18	_	sound	abstract[111]	new[111]	_	_
+65-19	_	on	_	_	_	_
+65-20	_	the	abstract[87]|abstract[105]	new[87]|new[105]	coref	67-22[105_106]
+65-21	_	hum	abstract[87]|abstract[105]	new[87]|new[105]	_	_
+65-22	_	/	abstract[87]	new[87]	_	_
+65-23	_	ng	abstract[87]	new[87]	_	_
+65-24	_	and	_	_	_	_
+65-25	_	see	_	_	_	_
+65-26	_	that	_	_	_	_
+65-27	_	if	_	_	_	_
+65-28	_	you	abstract[45]	new[45]	coref	67-4[45_46]
+65-29	_	open	_	_	_	_
+65-30	_	to	_	_	_	_
+65-31	_	the	_	_	_	_
+65-32	_	vowel	_	_	_	_
+65-33	_	,	_	_	_	_
+65-34	_	does	_	_	_	_
+65-35	_	the	abstract[107]	new[107]	coref	66-6[107_108]
+65-36	_	tone	abstract[107]	new[107]	_	_
+65-37	_	quality	abstract[107]	new[107]	_	_
+65-38	_	drastically	_	_	_	_
+65-39	_	change	_	_	_	_
+65-40	_	.	_	_	_	_
+
+#Text=The goal is to keep the tone quality relatively consistent .
+66-1	_	The	_	_	_	_
+66-2	_	goal	_	_	_	_
+66-3	_	is	_	_	_	_
+66-4	_	to	_	_	_	_
+66-5	_	keep	_	_	_	_
+66-6	_	the	abstract[108]	new[108]	_	_
+66-7	_	tone	abstract[108]	new[108]	_	_
+66-8	_	quality	abstract[108]	new[108]	_	_
+66-9	_	relatively	_	_	_	_
+66-10	_	consistent	_	_	_	_
+66-11	_	.	_	_	_	_
+
+#Text=Remember that you are trying to keep the same clarity and focus , different people sound different when the open the hum depending on the physiology of the vocal tract and cords .
+67-1	_	Remember	_	_	_	_
+67-2	_	that	_	_	_	_
+67-3	_	you	abstract[46]	new[46]	_	_
+67-4	_	are	_	_	_	_
+67-5	_	trying	_	_	_	_
+67-6	_	to	_	_	_	_
+67-7	_	keep	_	_	_	_
+67-8	_	the	_	_	_	_
+67-9	_	same	_	_	_	_
+67-10	_	clarity	_	_	_	_
+67-11	_	and	_	_	_	_
+67-12	_	focus	_	_	_	_
+67-13	_	,	_	_	_	_
+67-14	_	different	abstract[109]	new[109]	coref	67-20[109_110]
+67-15	_	people	abstract[109]	new[109]	_	_
+67-16	_	sound	_	_	_	_
+67-17	_	different	_	_	_	_
+67-18	_	when	_	_	_	_
+67-19	_	the	abstract[110]	new[110]	_	_
+67-20	_	open	_	_	_	_
+67-21	_	the	abstract[106]	new[106]	_	_
+67-22	_	hum	abstract[106]	new[106]	_	_
+67-23	_	depending	_	_	_	_
+67-24	_	on	_	_	_	_
+67-25	_	the	_	_	_	_
+67-26	_	physiology	_	_	_	_
+67-27	_	of	_	_	_	_
+67-28	_	the	_	_	_	_
+67-29	_	vocal	_	_	_	_
+67-30	_	tract	_	_	_	_
+67-31	_	and	_	_	_	_
+67-32	_	cords	_	_	_	_
+67-33	_	.	_	_	_	_
+
+#Text=So it is more important to focus on the forward clarity so as to not make the sound overly nasal or squeezed .
+68-1	_	So	_	_	_	_
+68-2	_	it	_	_	_	_
+68-3	_	is	_	_	_	_
+68-4	_	more	_	_	_	_
+68-5	_	important	_	_	_	_
+68-6	_	to	_	_	_	_
+68-7	_	focus	_	_	_	_
+68-8	_	on	_	_	_	_
+68-9	_	the	_	_	_	_
+68-10	_	forward	_	_	_	_
+68-11	_	clarity	_	_	_	_
+68-12	_	so	_	_	_	_
+68-13	_	as	_	_	_	_
+68-14	_	to	_	_	_	_
+68-15	_	not	_	_	_	_
+68-16	_	make	_	_	_	_
+68-17	_	the	abstract[112]	new[112]	_	_
+68-18	_	sound	abstract[112]	new[112]	_	_
+68-19	_	overly	_	_	_	_
+68-20	_	nasal	_	_	_	_
+68-21	_	or	_	_	_	_
+68-22	_	squeezed	_	_	_	_
+68-23	_	.	_	_	_	_
+
+#Text=Hope this helped !
+69-1	_	Hope	_	_	_	_
+69-2	_	this	_	_	_	_
+69-3	_	helped	_	_	_	_
+69-4	_	!	_	_	_	_
+
+#Text=I 'm surprised by the recent outrage over racial issues in the US , and I 'm wondering how much we 're wrong and how much do we blame other countries for making it .
+70-1	_	I	abstract[113]	new[113]	coref	70-16[113_114]
+70-2	_	'm	_	_	_	_
+70-3	_	surprised	_	_	_	_
+70-4	_	by	_	_	_	_
+70-5	_	the	abstract[117]	new[117]	coref	70-34[117_118]
+70-6	_	recent	abstract[117]	new[117]	_	_
+70-7	_	outrage	abstract[117]	new[117]	_	_
+70-8	_	over	abstract[117]	new[117]	_	_
+70-9	_	racial	abstract[117]	new[117]	_	_
+70-10	_	issues	abstract[117]	new[117]	_	_
+70-11	_	in	abstract[117]	new[117]	_	_
+70-12	_	the	abstract[117]	new[117]	_	_
+70-13	_	US	abstract[117]	new[117]	_	_
+70-14	_	,	_	_	_	_
+70-15	_	and	_	_	_	_
+70-16	_	I	abstract[114]	new[114]	_	_
+70-17	_	'm	_	_	_	_
+70-18	_	wondering	_	_	_	_
+70-19	_	how	_	_	_	_
+70-20	_	much	_	_	_	_
+70-21	_	we	abstract[115]	new[115]	coref	70-28[115_116]
+70-22	_	're	_	_	_	_
+70-23	_	wrong	_	_	_	_
+70-24	_	and	_	_	_	_
+70-25	_	how	_	_	_	_
+70-26	_	much	_	_	_	_
+70-27	_	do	_	_	_	_
+70-28	_	we	abstract[116]	new[116]	_	_
+70-29	_	blame	_	_	_	_
+70-30	_	other	_	_	_	_
+70-31	_	countries	_	_	_	_
+70-32	_	for	_	_	_	_
+70-33	_	making	_	_	_	_
+70-34	_	it	abstract[118]	new[118]	_	_
+70-35	_	.	_	_	_	_
+

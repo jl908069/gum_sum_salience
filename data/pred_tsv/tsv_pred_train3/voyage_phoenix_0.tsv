@@ -1,0 +1,1015 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Phoenix
+1-1	_	Phoenix	abstract[1]	new[1]	coref	2-1[1_2]
+
+#Text=Phoenix is the capital of the state of Arizona as well as the most populous city in the American Southwest and sixth largest city in the United States .
+2-1	_	Phoenix	abstract[2]	new[2]	coref	3-5[2_3]
+2-2	_	is	_	_	_	_
+2-3	_	the	_	_	_	_
+2-4	_	capital	_	_	_	_
+2-5	_	of	_	_	_	_
+2-6	_	the	_	_	_	_
+2-7	_	state	_	_	_	_
+2-8	_	of	_	_	_	_
+2-9	_	Arizona	_	_	_	_
+2-10	_	as	_	_	_	_
+2-11	_	well	_	_	_	_
+2-12	_	as	_	_	_	_
+2-13	_	the	_	_	_	_
+2-14	_	most	_	_	_	_
+2-15	_	populous	_	_	_	_
+2-16	_	city	_	_	_	_
+2-17	_	in	_	_	_	_
+2-18	_	the	abstract[4]	new[4]	coref	3-8[4_5]
+2-19	_	American	abstract[4]	new[4]	_	_
+2-20	_	Southwest	abstract[4]	new[4]	_	_
+2-21	_	and	_	_	_	_
+2-22	_	sixth	_	_	_	_
+2-23	_	largest	_	_	_	_
+2-24	_	city	_	_	_	_
+2-25	_	in	_	_	_	_
+2-26	_	the	abstract[39]	new[39]	coref	24-12[39_40]
+2-27	_	United	abstract[39]	new[39]	_	_
+2-28	_	States	abstract[39]	new[39]	_	_
+2-29	_	.	_	_	_	_
+
+#Text=Founded in 1871 , it has become the region 's primary political , cultural , economic , and transportation center .
+3-1	_	Founded	_	_	_	_
+3-2	_	in	_	_	_	_
+3-3	_	1871	_	_	_	_
+3-4	_	,	_	_	_	_
+3-5	_	it	abstract[3]	new[3]	_	_
+3-6	_	has	_	_	_	_
+3-7	_	become	_	_	_	_
+3-8	_	the	abstract[5]|abstract[6]	new[5]|new[6]	coref	4-12[6_7]
+3-9	_	region	abstract[5]|abstract[6]	new[5]|new[6]	_	_
+3-10	_	's	abstract[5]|abstract[6]	new[5]|new[6]	_	_
+3-11	_	primary	abstract[6]	new[6]	_	_
+3-12	_	political	abstract[6]	new[6]	_	_
+3-13	_	,	abstract[6]	new[6]	_	_
+3-14	_	cultural	abstract[6]	new[6]	_	_
+3-15	_	,	abstract[6]	new[6]	_	_
+3-16	_	economic	abstract[6]	new[6]	_	_
+3-17	_	,	abstract[6]	new[6]	_	_
+3-18	_	and	abstract[6]	new[6]	_	_
+3-19	_	transportation	abstract[6]	new[6]	_	_
+3-20	_	center	abstract[6]	new[6]	_	_
+3-21	_	.	_	_	_	_
+
+#Text=At an elevation of 1100 ft ( 335 m ) , it is situated in the biologically unique Sonoran Desert .
+4-1	_	At	_	_	_	_
+4-2	_	an	_	_	_	_
+4-3	_	elevation	_	_	_	_
+4-4	_	of	_	_	_	_
+4-5	_	1100	_	_	_	_
+4-6	_	ft	_	_	_	_
+4-7	_	(	_	_	_	_
+4-8	_	335	_	_	_	_
+4-9	_	m	_	_	_	_
+4-10	_	)	_	_	_	_
+4-11	_	,	_	_	_	_
+4-12	_	it	abstract[7]	new[7]	coref	5-3[7_8]
+4-13	_	is	_	_	_	_
+4-14	_	situated	_	_	_	_
+4-15	_	in	_	_	_	_
+4-16	_	the	_	_	_	_
+4-17	_	biologically	_	_	_	_
+4-18	_	unique	_	_	_	_
+4-19	_	Sonoran	_	_	_	_
+4-20	_	Desert	_	_	_	_
+4-21	_	.	_	_	_	_
+
+#Text=Over time it has merged with the neighboring cities of Scottsdale , Tempe , Glendale , Peoria , Chandler , and Gilbert to form the Greater Phoenix Metropolitan Area .
+5-1	_	Over	_	_	_	_
+5-2	_	time	_	_	_	_
+5-3	_	it	abstract[8]	new[8]	coref	5-27[8_9]
+5-4	_	has	_	_	_	_
+5-5	_	merged	_	_	_	_
+5-6	_	with	_	_	_	_
+5-7	_	the	_	_	_	_
+5-8	_	neighboring	_	_	_	_
+5-9	_	cities	_	_	_	_
+5-10	_	of	_	_	_	_
+5-11	_	Scottsdale	_	_	_	_
+5-12	_	,	_	_	_	_
+5-13	_	Tempe	abstract[65]	new[65]	coref	48-34[65_66]
+5-14	_	,	_	_	_	_
+5-15	_	Glendale	_	_	_	_
+5-16	_	,	_	_	_	_
+5-17	_	Peoria	_	_	_	_
+5-18	_	,	_	_	_	_
+5-19	_	Chandler	_	_	_	_
+5-20	_	,	_	_	_	_
+5-21	_	and	_	_	_	_
+5-22	_	Gilbert	_	_	_	_
+5-23	_	to	_	_	_	_
+5-24	_	form	_	_	_	_
+5-25	_	the	abstract[18]	new[18]	coref	6-21[18_19]
+5-26	_	Greater	abstract[18]	new[18]	_	_
+5-27	_	Phoenix	abstract[9]|abstract[18]	new[9]|new[18]	coref	7-1[9_10]
+5-28	_	Metropolitan	abstract[18]	new[18]	_	_
+5-29	_	Area	abstract[18]	new[18]	_	_
+5-30	_	.	_	_	_	_
+
+#Text=Currently exurbs such as Apache Junction , Fountain Hills , Queen Creek , and Sun City are becoming part of this metropolitan area as well .
+6-1	_	Currently	_	_	_	_
+6-2	_	exurbs	_	_	_	_
+6-3	_	such	_	_	_	_
+6-4	_	as	_	_	_	_
+6-5	_	Apache	_	_	_	_
+6-6	_	Junction	_	_	_	_
+6-7	_	,	_	_	_	_
+6-8	_	Fountain	_	_	_	_
+6-9	_	Hills	_	_	_	_
+6-10	_	,	_	_	_	_
+6-11	_	Queen	_	_	_	_
+6-12	_	Creek	_	_	_	_
+6-13	_	,	_	_	_	_
+6-14	_	and	_	_	_	_
+6-15	_	Sun	_	_	_	_
+6-16	_	City	_	_	_	_
+6-17	_	are	_	_	_	_
+6-18	_	becoming	_	_	_	_
+6-19	_	part	_	_	_	_
+6-20	_	of	_	_	_	_
+6-21	_	this	abstract[19]	new[19]	_	_
+6-22	_	metropolitan	abstract[19]	new[19]	_	_
+6-23	_	area	abstract[19]	new[19]	_	_
+6-24	_	as	_	_	_	_
+6-25	_	well	_	_	_	_
+6-26	_	.	_	_	_	_
+
+#Text=Phoenix is extremely hot and dry in the summertime , so always have sunscreen with you !
+7-1	_	Phoenix	abstract[10]	new[10]	coref	12-6[10_11]
+7-2	_	is	_	_	_	_
+7-3	_	extremely	_	_	_	_
+7-4	_	hot	_	_	_	_
+7-5	_	and	_	_	_	_
+7-6	_	dry	_	_	_	_
+7-7	_	in	_	_	_	_
+7-8	_	the	abstract[47]	new[47]	coref	27-2[47_48]
+7-9	_	summertime	abstract[47]	new[47]	_	_
+7-10	_	,	_	_	_	_
+7-11	_	so	_	_	_	_
+7-12	_	always	_	_	_	_
+7-13	_	have	_	_	_	_
+7-14	_	sunscreen	_	_	_	_
+7-15	_	with	_	_	_	_
+7-16	_	you	abstract[24]	new[24]	coref	14-29[24_25]
+7-17	_	!	_	_	_	_
+
+#Text=Understand
+8-1	_	Understand	_	_	_	_
+
+#Text=Why would anybody want to start a city in the middle of a desert ?
+9-1	_	Why	_	_	_	_
+9-2	_	would	_	_	_	_
+9-3	_	anybody	_	_	_	_
+9-4	_	want	_	_	_	_
+9-5	_	to	_	_	_	_
+9-6	_	start	_	_	_	_
+9-7	_	a	_	_	_	_
+9-8	_	city	_	_	_	_
+9-9	_	in	_	_	_	_
+9-10	_	the	_	_	_	_
+9-11	_	middle	_	_	_	_
+9-12	_	of	_	_	_	_
+9-13	_	a	_	_	_	_
+9-14	_	desert	_	_	_	_
+9-15	_	?	_	_	_	_
+
+#Text=The answer is , surprisingly , agriculture .
+10-1	_	The	_	_	_	_
+10-2	_	answer	_	_	_	_
+10-3	_	is	_	_	_	_
+10-4	_	,	_	_	_	_
+10-5	_	surprisingly	_	_	_	_
+10-6	_	,	_	_	_	_
+10-7	_	agriculture	_	_	_	_
+10-8	_	.	_	_	_	_
+
+#Text=The Salt and Verde Rivers of central Arizona were exploited for large - scale agriculture by Native Americans as early as the 11th century .
+11-1	_	The	_	_	_	_
+11-2	_	Salt	_	_	_	_
+11-3	_	and	_	_	_	_
+11-4	_	Verde	_	_	_	_
+11-5	_	Rivers	_	_	_	_
+11-6	_	of	_	_	_	_
+11-7	_	central	_	_	_	_
+11-8	_	Arizona	_	_	_	_
+11-9	_	were	_	_	_	_
+11-10	_	exploited	_	_	_	_
+11-11	_	for	_	_	_	_
+11-12	_	large	_	_	_	_
+11-13	_	-	_	_	_	_
+11-14	_	scale	_	_	_	_
+11-15	_	agriculture	_	_	_	_
+11-16	_	by	_	_	_	_
+11-17	_	Native	_	_	_	_
+11-18	_	Americans	_	_	_	_
+11-19	_	as	_	_	_	_
+11-20	_	early	_	_	_	_
+11-21	_	as	_	_	_	_
+11-22	_	the	_	_	_	_
+11-23	_	11th	_	_	_	_
+11-24	_	century	_	_	_	_
+11-25	_	.	_	_	_	_
+
+#Text=The area that now encompasses Phoenix was a center of the Hohokam culture , which built large canal systems and a network of towns and villages , whose remains may be viewed in the city to this day .
+12-1	_	The	abstract[26]	new[26]	coref	16-6[26_27]
+12-2	_	area	abstract[26]	new[26]	_	_
+12-3	_	that	abstract[26]	new[26]	_	_
+12-4	_	now	abstract[26]	new[26]	_	_
+12-5	_	encompasses	abstract[26]	new[26]	_	_
+12-6	_	Phoenix	abstract[11]|abstract[26]	new[11]|new[26]	coref	12-34[11_12]
+12-7	_	was	_	_	_	_
+12-8	_	a	_	_	_	_
+12-9	_	center	_	_	_	_
+12-10	_	of	_	_	_	_
+12-11	_	the	_	_	_	_
+12-12	_	Hohokam	_	_	_	_
+12-13	_	culture	_	_	_	_
+12-14	_	,	_	_	_	_
+12-15	_	which	_	_	_	_
+12-16	_	built	_	_	_	_
+12-17	_	large	_	_	_	_
+12-18	_	canal	_	_	_	_
+12-19	_	systems	_	_	_	_
+12-20	_	and	_	_	_	_
+12-21	_	a	_	_	_	_
+12-22	_	network	_	_	_	_
+12-23	_	of	_	_	_	_
+12-24	_	towns	_	_	_	_
+12-25	_	and	_	_	_	_
+12-26	_	villages	_	_	_	_
+12-27	_	,	_	_	_	_
+12-28	_	whose	abstract[20]	new[20]	coref	13-4[20_21]
+12-29	_	remains	abstract[20]	new[20]	_	_
+12-30	_	may	_	_	_	_
+12-31	_	be	_	_	_	_
+12-32	_	viewed	_	_	_	_
+12-33	_	in	_	_	_	_
+12-34	_	the	abstract[12]	new[12]	coref	14-1[12_13]
+12-35	_	city	abstract[12]	new[12]	_	_
+12-36	_	to	_	_	_	_
+12-37	_	this	_	_	_	_
+12-38	_	day	_	_	_	_
+12-39	_	.	_	_	_	_
+
+#Text=White settlers discovered the remnants of the Hohokam culture in the 19th century .
+13-1	_	White	_	_	_	_
+13-2	_	settlers	_	_	_	_
+13-3	_	discovered	_	_	_	_
+13-4	_	the	abstract[21]	new[21]	_	_
+13-5	_	remnants	abstract[21]	new[21]	_	_
+13-6	_	of	abstract[21]	new[21]	_	_
+13-7	_	the	abstract[21]	new[21]	_	_
+13-8	_	Hohokam	abstract[21]	new[21]	_	_
+13-9	_	culture	abstract[21]	new[21]	_	_
+13-10	_	in	_	_	_	_
+13-11	_	the	_	_	_	_
+13-12	_	19th	_	_	_	_
+13-13	_	century	_	_	_	_
+13-14	_	.	_	_	_	_
+
+#Text=The city 's name reflects its history as a city " Visit the city of Isfahan , Iran 's most picturesque historical city . See the city for yourself .
+14-1	_	The	abstract[13]	new[13]	coref	14-6[13_14]
+14-2	_	city	abstract[13]	new[13]	_	_
+14-3	_	's	abstract[13]	new[13]	_	_
+14-4	_	name	_	_	_	_
+14-5	_	reflects	_	_	_	_
+14-6	_	its	abstract[14]	new[14]	coref	14-9[14_15]
+14-7	_	history	_	_	_	_
+14-8	_	as	_	_	_	_
+14-9	_	a	abstract[15]	new[15]	coref	16-32[15_16]
+14-10	_	city	abstract[15]	new[15]	_	_
+14-11	_	"	_	_	_	_
+14-12	_	Visit	_	_	_	_
+14-13	_	the	abstract[22]	new[22]	coref	14-26[22_23]
+14-14	_	city	abstract[22]	new[22]	_	_
+14-15	_	of	abstract[22]	new[22]	_	_
+14-16	_	Isfahan	abstract[22]	new[22]	_	_
+14-17	_	,	abstract[22]	new[22]	_	_
+14-18	_	Iran	abstract[22]	new[22]	_	_
+14-19	_	's	abstract[22]	new[22]	_	_
+14-20	_	most	abstract[22]	new[22]	_	_
+14-21	_	picturesque	abstract[22]	new[22]	_	_
+14-22	_	historical	abstract[22]	new[22]	_	_
+14-23	_	city	abstract[22]	new[22]	_	_
+14-24	_	.	_	_	_	_
+14-25	_	See	_	_	_	_
+14-26	_	the	abstract[23]	new[23]	_	_
+14-27	_	city	abstract[23]	new[23]	_	_
+14-28	_	for	_	_	_	_
+14-29	_	yourself	abstract[25]	new[25]	_	_
+14-30	_	.	_	_	_	_
+
+#Text=reborn from the ashes " of the previous settlement .
+15-1	_	reborn	_	_	_	_
+15-2	_	from	_	_	_	_
+15-3	_	the	_	_	_	_
+15-4	_	ashes	_	_	_	_
+15-5	_	"	_	_	_	_
+15-6	_	of	_	_	_	_
+15-7	_	the	_	_	_	_
+15-8	_	previous	_	_	_	_
+15-9	_	settlement	_	_	_	_
+15-10	_	.	_	_	_	_
+
+#Text=European - American settlement of the area commenced in the 1860s , and in 1911 the completion of the first of several large reservoirs in the mountains north and east of Phoenix insured its success as a center for irrigation - based agriculture .
+16-1	_	European	_	_	_	_
+16-2	_	-	_	_	_	_
+16-3	_	American	_	_	_	_
+16-4	_	settlement	_	_	_	_
+16-5	_	of	_	_	_	_
+16-6	_	the	abstract[27]	new[27]	coref	21-25[27_28]
+16-7	_	area	abstract[27]	new[27]	_	_
+16-8	_	commenced	_	_	_	_
+16-9	_	in	_	_	_	_
+16-10	_	the	_	_	_	_
+16-11	_	1860s	_	_	_	_
+16-12	_	,	_	_	_	_
+16-13	_	and	_	_	_	_
+16-14	_	in	_	_	_	_
+16-15	_	1911	_	_	_	_
+16-16	_	the	_	_	_	_
+16-17	_	completion	_	_	_	_
+16-18	_	of	_	_	_	_
+16-19	_	the	_	_	_	_
+16-20	_	first	_	_	_	_
+16-21	_	of	_	_	_	_
+16-22	_	several	_	_	_	_
+16-23	_	large	_	_	_	_
+16-24	_	reservoirs	_	_	_	_
+16-25	_	in	_	_	_	_
+16-26	_	the	_	_	_	_
+16-27	_	mountains	_	_	_	_
+16-28	_	north	_	_	_	_
+16-29	_	and	_	_	_	_
+16-30	_	east	_	_	_	_
+16-31	_	of	_	_	_	_
+16-32	_	Phoenix	abstract[16]	new[16]	coref	16-34[16_17]
+16-33	_	insured	_	_	_	_
+16-34	_	its	abstract[17]	new[17]	_	_
+16-35	_	success	_	_	_	_
+16-36	_	as	_	_	_	_
+16-37	_	a	abstract[29]	new[29]	coref	18-19[29_30]
+16-38	_	center	abstract[29]	new[29]	_	_
+16-39	_	for	abstract[29]	new[29]	_	_
+16-40	_	irrigation	abstract[29]	new[29]	_	_
+16-41	_	-	abstract[29]	new[29]	_	_
+16-42	_	based	abstract[29]	new[29]	_	_
+16-43	_	agriculture	abstract[29]	new[29]	_	_
+16-44	_	.	_	_	_	_
+
+#Text=Many tens of thousands of acres were planted in citrus and cotton and other crops , and for many years , intensive , year - round irrigated agriculture formed the basis of the economy .
+17-1	_	Many	_	_	_	_
+17-2	_	tens	_	_	_	_
+17-3	_	of	_	_	_	_
+17-4	_	thousands	_	_	_	_
+17-5	_	of	_	_	_	_
+17-6	_	acres	_	_	_	_
+17-7	_	were	_	_	_	_
+17-8	_	planted	_	_	_	_
+17-9	_	in	_	_	_	_
+17-10	_	citrus	_	_	_	_
+17-11	_	and	_	_	_	_
+17-12	_	cotton	_	_	_	_
+17-13	_	and	_	_	_	_
+17-14	_	other	_	_	_	_
+17-15	_	crops	_	_	_	_
+17-16	_	,	_	_	_	_
+17-17	_	and	_	_	_	_
+17-18	_	for	_	_	_	_
+17-19	_	many	_	_	_	_
+17-20	_	years	_	_	_	_
+17-21	_	,	_	_	_	_
+17-22	_	intensive	_	_	_	_
+17-23	_	,	_	_	_	_
+17-24	_	year	_	_	_	_
+17-25	_	-	_	_	_	_
+17-26	_	round	_	_	_	_
+17-27	_	irrigated	_	_	_	_
+17-28	_	agriculture	_	_	_	_
+17-29	_	formed	_	_	_	_
+17-30	_	the	_	_	_	_
+17-31	_	basis	_	_	_	_
+17-32	_	of	_	_	_	_
+17-33	_	the	_	_	_	_
+17-34	_	economy	_	_	_	_
+17-35	_	.	_	_	_	_
+
+#Text=Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making it a place to be again .
+18-1	_	Recent	_	_	_	_
+18-2	_	years	_	_	_	_
+18-3	_	are	_	_	_	_
+18-4	_	seeing	_	_	_	_
+18-5	_	a	_	_	_	_
+18-6	_	revival	_	_	_	_
+18-7	_	,	_	_	_	_
+18-8	_	and	_	_	_	_
+18-9	_	trendy	_	_	_	_
+18-10	_	hotels	_	_	_	_
+18-11	_	,	_	_	_	_
+18-12	_	bars	_	_	_	_
+18-13	_	,	_	_	_	_
+18-14	_	shops	_	_	_	_
+18-15	_	and	_	_	_	_
+18-16	_	restaurants	_	_	_	_
+18-17	_	are	_	_	_	_
+18-18	_	making	_	_	_	_
+18-19	_	it	abstract[30]	new[30]	coref	18-23[30_31]
+18-20	_	a	_	_	_	_
+18-21	_	place	_	_	_	_
+18-22	_	to	_	_	_	_
+18-23	_	be	abstract[31]	new[31]	coref	19-22[31_32]
+18-24	_	again	_	_	_	_
+18-25	_	.	_	_	_	_
+
+#Text=Warm and sunny winter weather also ensured a thriving tourism industry , and encouraged many Easterners and Midwesterners to relocate to Phoenix .
+19-1	_	Warm	_	_	_	_
+19-2	_	and	_	_	_	_
+19-3	_	sunny	_	_	_	_
+19-4	_	winter	_	_	_	_
+19-5	_	weather	_	_	_	_
+19-6	_	also	_	_	_	_
+19-7	_	ensured	_	_	_	_
+19-8	_	a	_	_	_	_
+19-9	_	thriving	_	_	_	_
+19-10	_	tourism	_	_	_	_
+19-11	_	industry	_	_	_	_
+19-12	_	,	_	_	_	_
+19-13	_	and	_	_	_	_
+19-14	_	encouraged	_	_	_	_
+19-15	_	many	_	_	_	_
+19-16	_	Easterners	_	_	_	_
+19-17	_	and	_	_	_	_
+19-18	_	Midwesterners	_	_	_	_
+19-19	_	to	_	_	_	_
+19-20	_	relocate	_	_	_	_
+19-21	_	to	_	_	_	_
+19-22	_	Phoenix	abstract[32]	new[32]	coref	20-20[32_33]
+19-23	_	.	_	_	_	_
+
+#Text=High - tech industry began to flourish after World War II , and since that time the growth of Phoenix has been explosive .
+20-1	_	High	_	_	_	_
+20-2	_	-	_	_	_	_
+20-3	_	tech	_	_	_	_
+20-4	_	industry	_	_	_	_
+20-5	_	began	_	_	_	_
+20-6	_	to	_	_	_	_
+20-7	_	flourish	_	_	_	_
+20-8	_	after	_	_	_	_
+20-9	_	World	_	_	_	_
+20-10	_	War	_	_	_	_
+20-11	_	II	_	_	_	_
+20-12	_	,	_	_	_	_
+20-13	_	and	_	_	_	_
+20-14	_	since	_	_	_	_
+20-15	_	that	_	_	_	_
+20-16	_	time	_	_	_	_
+20-17	_	the	_	_	_	_
+20-18	_	growth	_	_	_	_
+20-19	_	of	_	_	_	_
+20-20	_	Phoenix	abstract[33]	new[33]	coref	23-1[33_34]
+20-21	_	has	_	_	_	_
+20-22	_	been	_	_	_	_
+20-23	_	explosive	_	_	_	_
+20-24	_	.	_	_	_	_
+
+#Text=As a result , a population of just over 100,000 in 1950 has given way to a 2014 estimate of 1,537,058 ( with the metro area estimated at 4,489,109 ) .
+21-1	_	As	_	_	_	_
+21-2	_	a	_	_	_	_
+21-3	_	result	_	_	_	_
+21-4	_	,	_	_	_	_
+21-5	_	a	_	_	_	_
+21-6	_	population	_	_	_	_
+21-7	_	of	_	_	_	_
+21-8	_	just	_	_	_	_
+21-9	_	over	_	_	_	_
+21-10	_	100,000	_	_	_	_
+21-11	_	in	_	_	_	_
+21-12	_	1950	_	_	_	_
+21-13	_	has	_	_	_	_
+21-14	_	given	_	_	_	_
+21-15	_	way	_	_	_	_
+21-16	_	to	_	_	_	_
+21-17	_	a	_	_	_	_
+21-18	_	2014	_	_	_	_
+21-19	_	estimate	_	_	_	_
+21-20	_	of	_	_	_	_
+21-21	_	1,537,058	_	_	_	_
+21-22	_	(	_	_	_	_
+21-23	_	with	_	_	_	_
+21-24	_	the	abstract[28]	new[28]	_	_
+21-25	_	metro	abstract[28]	new[28]	_	_
+21-26	_	area	abstract[28]	new[28]	_	_
+21-27	_	estimated	abstract[28]	new[28]	_	_
+21-28	_	at	abstract[28]	new[28]	_	_
+21-29	_	4,489,109	abstract[28]	new[28]	_	_
+21-30	_	)	_	_	_	_
+21-31	_	.	_	_	_	_
+
+#Text=Climate
+22-1	_	Climate	_	_	_	_
+
+#Text=Phoenix has an arid climate with long , hot summers and very mild winters .
+23-1	_	Phoenix	abstract[34]	new[34]	coref	24-1[34_35]
+23-2	_	has	_	_	_	_
+23-3	_	an	_	_	_	_
+23-4	_	arid	_	_	_	_
+23-5	_	climate	_	_	_	_
+23-6	_	with	_	_	_	_
+23-7	_	long	_	_	_	_
+23-8	_	,	_	_	_	_
+23-9	_	hot	_	_	_	_
+23-10	_	summers	_	_	_	_
+23-11	_	and	_	_	_	_
+23-12	_	very	_	_	_	_
+23-13	_	mild	_	_	_	_
+23-14	_	winters	_	_	_	_
+23-15	_	.	_	_	_	_
+
+#Text=It has the highest average temperature of any metropolitan area in the States .
+24-1	_	It	abstract[35]	new[35]	coref	33-7[35_36]
+24-2	_	has	_	_	_	_
+24-3	_	the	_	_	_	_
+24-4	_	highest	_	_	_	_
+24-5	_	average	_	_	_	_
+24-6	_	temperature	_	_	_	_
+24-7	_	of	_	_	_	_
+24-8	_	any	_	_	_	_
+24-9	_	metropolitan	_	_	_	_
+24-10	_	area	_	_	_	_
+24-11	_	in	_	_	_	_
+24-12	_	the	abstract[40]	new[40]	_	_
+24-13	_	States	abstract[40]	new[40]	_	_
+24-14	_	.	_	_	_	_
+
+#Text=The weather varies enormously from one season to the next .
+25-1	_	The	abstract[41]	new[41]	coref	26-2[41_42]
+25-2	_	weather	abstract[41]	new[41]	_	_
+25-3	_	varies	_	_	_	_
+25-4	_	enormously	_	_	_	_
+25-5	_	from	_	_	_	_
+25-6	_	one	_	_	_	_
+25-7	_	season	_	_	_	_
+25-8	_	to	_	_	_	_
+25-9	_	the	_	_	_	_
+25-10	_	next	_	_	_	_
+25-11	_	.	_	_	_	_
+
+#Text=While it 's not as cold as in the northern states during the winter , it does freeze sometimes , and temperatures in the 30s ° F ( that 's around or slightly above 0 ° C ) are not unheard of .
+26-1	_	While	_	_	_	_
+26-2	_	it	abstract[42]	new[42]	coref	26-16[42_43]
+26-3	_	's	_	_	_	_
+26-4	_	not	_	_	_	_
+26-5	_	as	_	_	_	_
+26-6	_	cold	_	_	_	_
+26-7	_	as	_	_	_	_
+26-8	_	in	_	_	_	_
+26-9	_	the	_	_	_	_
+26-10	_	northern	_	_	_	_
+26-11	_	states	_	_	_	_
+26-12	_	during	_	_	_	_
+26-13	_	the	_	_	_	_
+26-14	_	winter	_	_	_	_
+26-15	_	,	_	_	_	_
+26-16	_	it	abstract[43]	new[43]	coref	28-6[43_44]
+26-17	_	does	_	_	_	_
+26-18	_	freeze	_	_	_	_
+26-19	_	sometimes	_	_	_	_
+26-20	_	,	_	_	_	_
+26-21	_	and	_	_	_	_
+26-22	_	temperatures	_	_	_	_
+26-23	_	in	_	_	_	_
+26-24	_	the	abstract[45]	new[45]	coref	26-29[45_46]
+26-25	_	30s	abstract[45]	new[45]	_	_
+26-26	_	°	abstract[45]	new[45]	_	_
+26-27	_	F	abstract[45]	new[45]	_	_
+26-28	_	(	_	_	_	_
+26-29	_	that	abstract[46]	new[46]	_	_
+26-30	_	's	_	_	_	_
+26-31	_	around	_	_	_	_
+26-32	_	or	_	_	_	_
+26-33	_	slightly	_	_	_	_
+26-34	_	above	_	_	_	_
+26-35	_	0	_	_	_	_
+26-36	_	°	_	_	_	_
+26-37	_	C	_	_	_	_
+26-38	_	)	_	_	_	_
+26-39	_	are	_	_	_	_
+26-40	_	not	_	_	_	_
+26-41	_	unheard	_	_	_	_
+26-42	_	of	_	_	_	_
+26-43	_	.	_	_	_	_
+
+#Text=In the summer , very hot and dry heat is the norm .
+27-1	_	In	_	_	_	_
+27-2	_	the	abstract[48]	new[48]	_	_
+27-3	_	summer	abstract[48]	new[48]	_	_
+27-4	_	,	_	_	_	_
+27-5	_	very	_	_	_	_
+27-6	_	hot	_	_	_	_
+27-7	_	and	_	_	_	_
+27-8	_	dry	_	_	_	_
+27-9	_	heat	_	_	_	_
+27-10	_	is	_	_	_	_
+27-11	_	the	_	_	_	_
+27-12	_	norm	_	_	_	_
+27-13	_	.	_	_	_	_
+
+#Text=On the hottest days , it can get up to 115 ° F ( 46 ° C ) or more .
+28-1	_	On	_	_	_	_
+28-2	_	the	_	_	_	_
+28-3	_	hottest	_	_	_	_
+28-4	_	days	_	_	_	_
+28-5	_	,	_	_	_	_
+28-6	_	it	abstract[44]	new[44]	_	_
+28-7	_	can	_	_	_	_
+28-8	_	get	_	_	_	_
+28-9	_	up	_	_	_	_
+28-10	_	to	_	_	_	_
+28-11	_	115	_	_	_	_
+28-12	_	°	_	_	_	_
+28-13	_	F	_	_	_	_
+28-14	_	(	_	_	_	_
+28-15	_	46	_	_	_	_
+28-16	_	°	_	_	_	_
+28-17	_	C	_	_	_	_
+28-18	_	)	_	_	_	_
+28-19	_	or	_	_	_	_
+28-20	_	more	_	_	_	_
+28-21	_	.	_	_	_	_
+
+#Text=Monsoon rains with lightning occur regularly from July to September during the late afternoon and evening , occasionally overnight also .
+29-1	_	Monsoon	_	_	_	_
+29-2	_	rains	_	_	_	_
+29-3	_	with	_	_	_	_
+29-4	_	lightning	_	_	_	_
+29-5	_	occur	_	_	_	_
+29-6	_	regularly	_	_	_	_
+29-7	_	from	_	_	_	_
+29-8	_	July	_	_	_	_
+29-9	_	to	_	_	_	_
+29-10	_	September	_	_	_	_
+29-11	_	during	_	_	_	_
+29-12	_	the	_	_	_	_
+29-13	_	late	_	_	_	_
+29-14	_	afternoon	_	_	_	_
+29-15	_	and	_	_	_	_
+29-16	_	evening	_	_	_	_
+29-17	_	,	_	_	_	_
+29-18	_	occasionally	_	_	_	_
+29-19	_	overnight	_	_	_	_
+29-20	_	also	_	_	_	_
+29-21	_	.	_	_	_	_
+
+#Text=April is the most ideal month .
+30-1	_	April	_	_	_	_
+30-2	_	is	_	_	_	_
+30-3	_	the	_	_	_	_
+30-4	_	most	_	_	_	_
+30-5	_	ideal	_	_	_	_
+30-6	_	month	_	_	_	_
+30-7	_	.	_	_	_	_
+
+#Text=In some neighborhoods , cicada insects make loud sounds from sunset to sunrise .
+31-1	_	In	_	_	_	_
+31-2	_	some	_	_	_	_
+31-3	_	neighborhoods	_	_	_	_
+31-4	_	,	_	_	_	_
+31-5	_	cicada	_	_	_	_
+31-6	_	insects	_	_	_	_
+31-7	_	make	_	_	_	_
+31-8	_	loud	_	_	_	_
+31-9	_	sounds	_	_	_	_
+31-10	_	from	_	_	_	_
+31-11	_	sunset	_	_	_	_
+31-12	_	to	_	_	_	_
+31-13	_	sunrise	_	_	_	_
+31-14	_	.	_	_	_	_
+
+#Text=Talk
+32-1	_	Talk	_	_	_	_
+
+#Text=English is the dominant language in Phoenix .
+33-1	_	English	abstract[51]	new[51]	coref	35-19[51_52]
+33-2	_	is	_	_	_	_
+33-3	_	the	_	_	_	_
+33-4	_	dominant	_	_	_	_
+33-5	_	language	_	_	_	_
+33-6	_	in	_	_	_	_
+33-7	_	Phoenix	abstract[36]	new[36]	coref	34-20[36_37]
+33-8	_	.	_	_	_	_
+
+#Text=However , like much of the Southwest with a large Hispanic population , Spanish is very widely spoken in Phoenix .
+34-1	_	However	_	_	_	_
+34-2	_	,	_	_	_	_
+34-3	_	like	_	_	_	_
+34-4	_	much	_	_	_	_
+34-5	_	of	_	_	_	_
+34-6	_	the	_	_	_	_
+34-7	_	Southwest	_	_	_	_
+34-8	_	with	_	_	_	_
+34-9	_	a	_	_	_	_
+34-10	_	large	_	_	_	_
+34-11	_	Hispanic	_	_	_	_
+34-12	_	population	_	_	_	_
+34-13	_	,	_	_	_	_
+34-14	_	Spanish	abstract[49]	new[49]	coref	35-1[49_50]
+34-15	_	is	_	_	_	_
+34-16	_	very	_	_	_	_
+34-17	_	widely	_	_	_	_
+34-18	_	spoken	_	_	_	_
+34-19	_	in	_	_	_	_
+34-20	_	Phoenix	abstract[37]	new[37]	coref	39-1[37_38]
+34-21	_	.	_	_	_	_
+
+#Text=Spanish is a language often used for day - to - day discourse in many places , although English is the language of preference , especially when dealing with businesses and government .
+35-1	_	Spanish	abstract[50]	new[50]	_	_
+35-2	_	is	_	_	_	_
+35-3	_	a	_	_	_	_
+35-4	_	language	_	_	_	_
+35-5	_	often	_	_	_	_
+35-6	_	used	_	_	_	_
+35-7	_	for	_	_	_	_
+35-8	_	day	_	_	_	_
+35-9	_	-	_	_	_	_
+35-10	_	to	_	_	_	_
+35-11	_	-	_	_	_	_
+35-12	_	day	_	_	_	_
+35-13	_	discourse	_	_	_	_
+35-14	_	in	_	_	_	_
+35-15	_	many	_	_	_	_
+35-16	_	places	_	_	_	_
+35-17	_	,	_	_	_	_
+35-18	_	although	_	_	_	_
+35-19	_	English	abstract[52]	new[52]	_	_
+35-20	_	is	_	_	_	_
+35-21	_	the	_	_	_	_
+35-22	_	language	_	_	_	_
+35-23	_	of	_	_	_	_
+35-24	_	preference	_	_	_	_
+35-25	_	,	_	_	_	_
+35-26	_	especially	_	_	_	_
+35-27	_	when	_	_	_	_
+35-28	_	dealing	_	_	_	_
+35-29	_	with	_	_	_	_
+35-30	_	businesses	_	_	_	_
+35-31	_	and	_	_	_	_
+35-32	_	government	_	_	_	_
+35-33	_	.	_	_	_	_
+
+#Text=Get in
+36-1	_	Get	_	_	_	_
+36-2	_	in	_	_	_	_
+
+#Text=By plane
+37-1	_	By	_	_	_	_
+37-2	_	plane	_	_	_	_
+
+#Text=Wikimedia Maps
+38-1	_	Wikimedia	_	_	_	_
+38-2	_	Maps	_	_	_	_
+
+#Text=Phoenix Sky Harbor International Airport ( IATA : PHX ) +1602275-4958 is the main air gateway to Arizona .
+39-1	_	Phoenix	abstract[38]|abstract[53]	new[38]|new[53]	coref	40-1[53_54]
+39-2	_	Sky	abstract[53]	new[53]	_	_
+39-3	_	Harbor	abstract[53]	new[53]	_	_
+39-4	_	International	abstract[53]	new[53]	_	_
+39-5	_	Airport	abstract[53]	new[53]	_	_
+39-6	_	(	abstract[53]	new[53]	_	_
+39-7	_	IATA	abstract[53]	new[53]	_	_
+39-8	_	:	abstract[53]	new[53]	_	_
+39-9	_	PHX	abstract[53]	new[53]	_	_
+39-10	_	)	abstract[53]	new[53]	_	_
+39-11	_	+1602275-4958	_	_	_	_
+39-12	_	is	_	_	_	_
+39-13	_	the	_	_	_	_
+39-14	_	main	_	_	_	_
+39-15	_	air	_	_	_	_
+39-16	_	gateway	_	_	_	_
+39-17	_	to	_	_	_	_
+39-18	_	Arizona	_	_	_	_
+39-19	_	.	_	_	_	_
+
+#Text=It is at the southeast end of Downtown .
+40-1	_	It	abstract[54]	new[54]	coref	41-1[54_55]
+40-2	_	is	_	_	_	_
+40-3	_	at	_	_	_	_
+40-4	_	the	_	_	_	_
+40-5	_	southeast	_	_	_	_
+40-6	_	end	_	_	_	_
+40-7	_	of	_	_	_	_
+40-8	_	Downtown	abstract[70]	new[70]	coref	48-83[70_71]
+40-9	_	.	_	_	_	_
+
+#Text=It is a hub for American Airlines and Southwest Airlines .
+41-1	_	It	abstract[55]	new[55]	_	_
+41-2	_	is	_	_	_	_
+41-3	_	a	_	_	_	_
+41-4	_	hub	_	_	_	_
+41-5	_	for	_	_	_	_
+41-6	_	American	abstract[61]	new[61]	coref	46-9[61_62]
+41-7	_	Airlines	abstract[61]	new[61]	_	_
+41-8	_	and	_	_	_	_
+41-9	_	Southwest	abstract[63]	new[63]	coref	46-14[63_64]
+41-10	_	Airlines	abstract[63]	new[63]	_	_
+41-11	_	.	_	_	_	_
+
+#Text=Terminals are numbered from 2 - 4 .
+42-1	_	Terminals	_	_	_	_
+42-2	_	are	_	_	_	_
+42-3	_	numbered	_	_	_	_
+42-4	_	from	_	_	_	_
+42-5	_	2	abstract[56]	new[56]	coref	44-1[56_57]
+42-6	_	-	_	_	_	_
+42-7	_	4	abstract[59]	new[59]	coref	46-1[59_60]
+42-8	_	.	_	_	_	_
+
+#Text=There is no Terminal 1 .
+43-1	_	There	_	_	_	_
+43-2	_	is	_	_	_	_
+43-3	_	no	_	_	_	_
+43-4	_	Terminal	_	_	_	_
+43-5	_	1	_	_	_	_
+43-6	_	.	_	_	_	_
+
+#Text=Terminal 2 : Alaska ( Gates 10 & 11 ) , Great Lakes ( Gates C & D ) , Spirit , Sun Country , United
+44-1	_	Terminal	abstract[57]	new[57]	coref	47-19[57_58]
+44-2	_	2	abstract[57]	new[57]	_	_
+44-3	_	:	_	_	_	_
+44-4	_	Alaska	_	_	_	_
+44-5	_	(	_	_	_	_
+44-6	_	Gates	_	_	_	_
+44-7	_	10	_	_	_	_
+44-8	_	&	_	_	_	_
+44-9	_	11	_	_	_	_
+44-10	_	)	_	_	_	_
+44-11	_	,	_	_	_	_
+44-12	_	Great	_	_	_	_
+44-13	_	Lakes	_	_	_	_
+44-14	_	(	_	_	_	_
+44-15	_	Gates	_	_	_	_
+44-16	_	C	_	_	_	_
+44-17	_	&	_	_	_	_
+44-18	_	D	_	_	_	_
+44-19	_	)	_	_	_	_
+44-20	_	,	_	_	_	_
+44-21	_	Spirit	_	_	_	_
+44-22	_	,	_	_	_	_
+44-23	_	Sun	_	_	_	_
+44-24	_	Country	_	_	_	_
+44-25	_	,	_	_	_	_
+44-26	_	United	_	_	_	_
+
+#Text=Terminal 3 : Delta , Frontier , Hawaiian , JetBlue
+45-1	_	Terminal	_	_	_	_
+45-2	_	3	_	_	_	_
+45-3	_	:	_	_	_	_
+45-4	_	Delta	_	_	_	_
+45-5	_	,	_	_	_	_
+45-6	_	Frontier	_	_	_	_
+45-7	_	,	_	_	_	_
+45-8	_	Hawaiian	_	_	_	_
+45-9	_	,	_	_	_	_
+45-10	_	JetBlue	_	_	_	_
+
+#Text=Terminal 4 : Aeroméxico , Air Canada , American , British Airways , Southwest , Volaris , WestJet
+46-1	_	Terminal	abstract[60]	new[60]	_	_
+46-2	_	4	abstract[60]	new[60]	_	_
+46-3	_	:	_	_	_	_
+46-4	_	Aeroméxico	_	_	_	_
+46-5	_	,	_	_	_	_
+46-6	_	Air	_	_	_	_
+46-7	_	Canada	_	_	_	_
+46-8	_	,	_	_	_	_
+46-9	_	American	abstract[62]	new[62]	_	_
+46-10	_	,	_	_	_	_
+46-11	_	British	_	_	_	_
+46-12	_	Airways	_	_	_	_
+46-13	_	,	_	_	_	_
+46-14	_	Southwest	abstract[64]	new[64]	_	_
+46-15	_	,	_	_	_	_
+46-16	_	Volaris	_	_	_	_
+46-17	_	,	_	_	_	_
+46-18	_	WestJet	_	_	_	_
+
+#Text=Valley Metro #13 goes west to S 75th Ave along S Buckeye ( via Greyhound depot ) from Terminal 2 .
+47-1	_	Valley	_	_	_	_
+47-2	_	Metro	_	_	_	_
+47-3	_	#13	_	_	_	_
+47-4	_	goes	_	_	_	_
+47-5	_	west	_	_	_	_
+47-6	_	to	_	_	_	_
+47-7	_	S	_	_	_	_
+47-8	_	75th	_	_	_	_
+47-9	_	Ave	_	_	_	_
+47-10	_	along	_	_	_	_
+47-11	_	S	_	_	_	_
+47-12	_	Buckeye	_	_	_	_
+47-13	_	(	_	_	_	_
+47-14	_	via	_	_	_	_
+47-15	_	Greyhound	_	_	_	_
+47-16	_	depot	_	_	_	_
+47-17	_	)	_	_	_	_
+47-18	_	from	_	_	_	_
+47-19	_	Terminal	abstract[58]	new[58]	_	_
+47-20	_	2	abstract[58]	new[58]	_	_
+47-21	_	.	_	_	_	_
+
+#Text=Likewise one can take the PHX skytrain over to the nearby 44th & Washington St Station to catch the #1 ( west to the downtown Central Station and Priest & Washington in Tempe to the east along Washington St ) ; #44 bus ( north to the Desert Ridge Marriott Resort in Deer Valley along N 44th St & Tatum ) ; and the light rail ( east to Tempe & Mesa and to Midtown ( along Central Ave ) via downtown in the other direction ) .
+48-1	_	Likewise	_	_	_	_
+48-2	_	one	_	_	_	_
+48-3	_	can	_	_	_	_
+48-4	_	take	_	_	_	_
+48-5	_	the	_	_	_	_
+48-6	_	PHX	_	_	_	_
+48-7	_	skytrain	_	_	_	_
+48-8	_	over	_	_	_	_
+48-9	_	to	_	_	_	_
+48-10	_	the	_	_	_	_
+48-11	_	nearby	_	_	_	_
+48-12	_	44th	_	_	_	_
+48-13	_	&	_	_	_	_
+48-14	_	Washington	abstract[68]	new[68]	coref	48-39[68_69]
+48-15	_	St	abstract[68]	new[68]	_	_
+48-16	_	Station	_	_	_	_
+48-17	_	to	_	_	_	_
+48-18	_	catch	_	_	_	_
+48-19	_	the	_	_	_	_
+48-20	_	#1	_	_	_	_
+48-21	_	(	_	_	_	_
+48-22	_	west	_	_	_	_
+48-23	_	to	_	_	_	_
+48-24	_	the	_	_	_	_
+48-25	_	downtown	_	_	_	_
+48-26	_	Central	_	_	_	_
+48-27	_	Station	_	_	_	_
+48-28	_	and	_	_	_	_
+48-29	_	Priest	_	_	_	_
+48-30	_	&	_	_	_	_
+48-31	_	Washington	_	_	_	_
+48-32	_	in	_	_	_	_
+48-33	_	Tempe	abstract[66]	new[66]	coref	48-71[66_67]
+48-34	_	to	_	_	_	_
+48-35	_	the	_	_	_	_
+48-36	_	east	_	_	_	_
+48-37	_	along	_	_	_	_
+48-38	_	Washington	abstract[69]	new[69]	_	_
+48-39	_	St	abstract[69]	new[69]	_	_
+48-40	_	)	_	_	_	_
+48-41	_	;	_	_	_	_
+48-42	_	#44	_	_	_	_
+48-43	_	bus	_	_	_	_
+48-44	_	(	_	_	_	_
+48-45	_	north	_	_	_	_
+48-46	_	to	_	_	_	_
+48-47	_	the	_	_	_	_
+48-48	_	Desert	_	_	_	_
+48-49	_	Ridge	_	_	_	_
+48-50	_	Marriott	_	_	_	_
+48-51	_	Resort	_	_	_	_
+48-52	_	in	_	_	_	_
+48-53	_	Deer	_	_	_	_
+48-54	_	Valley	_	_	_	_
+48-55	_	along	_	_	_	_
+48-56	_	N	_	_	_	_
+48-57	_	44th	_	_	_	_
+48-58	_	St	_	_	_	_
+48-59	_	&	_	_	_	_
+48-60	_	Tatum	_	_	_	_
+48-61	_	)	_	_	_	_
+48-62	_	;	_	_	_	_
+48-63	_	and	_	_	_	_
+48-64	_	the	_	_	_	_
+48-65	_	light	_	_	_	_
+48-66	_	rail	_	_	_	_
+48-67	_	(	_	_	_	_
+48-68	_	east	_	_	_	_
+48-69	_	to	_	_	_	_
+48-70	_	Tempe	abstract[67]	new[67]	_	_
+48-71	_	&	_	_	_	_
+48-72	_	Mesa	_	_	_	_
+48-73	_	and	_	_	_	_
+48-74	_	to	_	_	_	_
+48-75	_	Midtown	_	_	_	_
+48-76	_	(	_	_	_	_
+48-77	_	along	_	_	_	_
+48-78	_	Central	_	_	_	_
+48-79	_	Ave	_	_	_	_
+48-80	_	)	_	_	_	_
+48-81	_	via	_	_	_	_
+48-82	_	downtown	abstract[71]	new[71]	_	_
+48-83	_	in	_	_	_	_
+48-84	_	the	_	_	_	_
+48-85	_	other	_	_	_	_
+48-86	_	direction	_	_	_	_
+48-87	_	)	_	_	_	_
+48-88	_	.	_	_	_	_
+

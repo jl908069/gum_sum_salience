@@ -1,0 +1,676 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Friday , January 3 , 2014
+1-1	_	Friday	_	_	_	_
+1-2	_	,	_	_	_	_
+1-3	_	January	_	_	_	_
+1-4	_	3	_	_	_	_
+1-5	_	,	_	_	_	_
+1-6	_	2014	_	_	_	_
+
+#Text=Preston , Victoria , Australia
+2-1	_	Preston	abstract[17]	new[17]	coref	5-10[17_18]
+2-2	_	,	abstract[17]	new[17]	_	_
+2-3	_	Victoria	abstract[17]	new[17]	_	_
+2-4	_	,	abstract[17]	new[17]	_	_
+2-5	_	Australia	abstract[1]|abstract[17]	new[1]|new[17]	coref	3-14[1_2]
+
+#Text=On Saturday , Wikinews interviewed Tina McKenzie , a former member of the Australia women 's national wheelchair basketball team , known as the Gliders .
+3-1	_	On	_	_	_	_
+3-2	_	Saturday	_	_	_	_
+3-3	_	,	_	_	_	_
+3-4	_	Wikinews	abstract[15]	new[15]	coref	5-1[15_16]
+3-5	_	interviewed	_	_	_	_
+3-6	_	Tina	abstract[4]	new[4]	coref	4-1[4_5]
+3-7	_	McKenzie	abstract[4]	new[4]	_	_
+3-8	_	,	abstract[4]	new[4]	_	_
+3-9	_	a	abstract[4]	new[4]	_	_
+3-10	_	former	abstract[4]	new[4]	_	_
+3-11	_	member	abstract[4]	new[4]	_	_
+3-12	_	of	abstract[4]	new[4]	_	_
+3-13	_	the	abstract[4]|abstract[25]	new[4]|new[25]	coref	7-8[25_26]
+3-14	_	Australia	abstract[2]|abstract[4]|abstract[25]	new[2]|new[4]|new[25]	coref	13-13[2_3]
+3-15	_	women	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-16	_	's	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-17	_	national	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-18	_	wheelchair	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-19	_	basketball	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-20	_	team	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-21	_	,	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-22	_	known	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-23	_	as	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-24	_	the	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-25	_	Gliders	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-26	_	.	_	_	_	_
+
+#Text=McKenzie , a silver and bronze Paralympic medalist in wheelchair basketball , retired from the game after the 2012 Summer Paralympics in London .
+4-1	_	McKenzie	abstract[5]	new[5]	coref	5-5[5_6]
+4-2	_	,	abstract[5]	new[5]	_	_
+4-3	_	a	abstract[5]	new[5]	_	_
+4-4	_	silver	abstract[5]	new[5]	_	_
+4-5	_	and	abstract[5]	new[5]	_	_
+4-6	_	bronze	abstract[5]	new[5]	_	_
+4-7	_	Paralympic	abstract[5]	new[5]	_	_
+4-8	_	medalist	abstract[5]	new[5]	_	_
+4-9	_	in	abstract[5]	new[5]	_	_
+4-10	_	wheelchair	abstract[5]	new[5]	_	_
+4-11	_	basketball	abstract[5]	new[5]	_	_
+4-12	_	,	_	_	_	_
+4-13	_	retired	_	_	_	_
+4-14	_	from	_	_	_	_
+4-15	_	the	_	_	_	_
+4-16	_	game	_	_	_	_
+4-17	_	after	_	_	_	_
+4-18	_	the	_	_	_	_
+4-19	_	2012	_	_	_	_
+4-20	_	Summer	_	_	_	_
+4-21	_	Paralympics	_	_	_	_
+4-22	_	in	_	_	_	_
+4-23	_	London	_	_	_	_
+4-24	_	.	_	_	_	_
+
+#Text=Wikinews caught up with her in a cafe in the leafy Melbourne suburb of Preston .
+5-1	_	Wikinews	abstract[16]	new[16]	_	_
+5-2	_	caught	_	_	_	_
+5-3	_	up	_	_	_	_
+5-4	_	with	_	_	_	_
+5-5	_	her	abstract[6]	new[6]	coref	7-6[6_7]
+5-6	_	in	_	_	_	_
+5-7	_	a	_	_	_	_
+5-8	_	cafe	_	_	_	_
+5-9	_	in	_	_	_	_
+5-10	_	the	abstract[18]	new[18]	_	_
+5-11	_	leafy	abstract[18]	new[18]	_	_
+5-12	_	Melbourne	abstract[18]	new[18]	_	_
+5-13	_	suburb	abstract[18]	new[18]	_	_
+5-14	_	of	abstract[18]	new[18]	_	_
+5-15	_	Preston	abstract[18]	new[18]	_	_
+5-16	_	.	_	_	_	_
+
+#Text=[ The Spitfire Tournament in Canada ] was a really good tournament actually .
+6-1	_	[	_	_	_	_
+6-2	_	The	abstract[19]	new[19]	coref	7-1[19_20]
+6-3	_	Spitfire	abstract[19]	new[19]	_	_
+6-4	_	Tournament	abstract[19]	new[19]	_	_
+6-5	_	in	abstract[19]	new[19]	_	_
+6-6	_	Canada	abstract[19]	new[19]	_	_
+6-7	_	]	_	_	_	_
+6-8	_	was	_	_	_	_
+6-9	_	a	_	_	_	_
+6-10	_	really	_	_	_	_
+6-11	_	good	_	_	_	_
+6-12	_	tournament	_	_	_	_
+6-13	_	actually	_	_	_	_
+6-14	_	.	_	_	_	_
+
+#Text=It was a tournament that I wish we 'd actually gone back to more often .
+7-1	_	It	abstract[20]	new[20]	coref	8-4[20_21]
+7-2	_	was	_	_	_	_
+7-3	_	a	_	_	_	_
+7-4	_	tournament	_	_	_	_
+7-5	_	that	_	_	_	_
+7-6	_	I	abstract[7]	new[7]	coref	19-6[7_8]
+7-7	_	wish	_	_	_	_
+7-8	_	we	abstract[26]	new[26]	coref	9-11[26_27]
+7-9	_	'd	_	_	_	_
+7-10	_	actually	_	_	_	_
+7-11	_	gone	_	_	_	_
+7-12	_	back	_	_	_	_
+7-13	_	to	_	_	_	_
+7-14	_	more	_	_	_	_
+7-15	_	often	_	_	_	_
+7-16	_	.	_	_	_	_
+
+#Text=Who plays in that one ?
+8-1	_	Who	_	_	_	_
+8-2	_	plays	_	_	_	_
+8-3	_	in	_	_	_	_
+8-4	_	that	abstract[21]	new[21]	coref	9-1[21_22]
+8-5	_	one	abstract[21]	new[21]	_	_
+8-6	_	?	_	_	_	_
+
+#Text=It 's quite a large Canadian tournament , and so we went as the Gliders team .
+9-1	_	It	abstract[22]	new[22]	coref	17-4[22_23]
+9-2	_	's	_	_	_	_
+9-3	_	quite	_	_	_	_
+9-4	_	a	_	_	_	_
+9-5	_	large	_	_	_	_
+9-6	_	Canadian	_	_	_	_
+9-7	_	tournament	_	_	_	_
+9-8	_	,	_	_	_	_
+9-9	_	and	_	_	_	_
+9-10	_	so	_	_	_	_
+9-11	_	we	abstract[27]	new[27]	coref	9-14[27_28]
+9-12	_	went	_	_	_	_
+9-13	_	as	_	_	_	_
+9-14	_	the	abstract[28]	new[28]	coref	10-2[28_29]
+9-15	_	Gliders	abstract[28]	new[28]	_	_
+9-16	_	team	abstract[28]	new[28]	_	_
+9-17	_	.	_	_	_	_
+
+#Text=So we were trying to get as many international games as possible .
+10-1	_	So	_	_	_	_
+10-2	_	we	abstract[29]	new[29]	coref	11-6[29_30]
+10-3	_	were	_	_	_	_
+10-4	_	trying	_	_	_	_
+10-5	_	to	_	_	_	_
+10-6	_	get	_	_	_	_
+10-7	_	as	_	_	_	_
+10-8	_	many	_	_	_	_
+10-9	_	international	_	_	_	_
+10-10	_	games	_	_	_	_
+10-11	_	as	_	_	_	_
+10-12	_	possible	_	_	_	_
+10-13	_	.	_	_	_	_
+
+#Text=Cause that 's one of our problems really , to compete .
+11-1	_	Cause	_	_	_	_
+11-2	_	that	_	_	_	_
+11-3	_	's	_	_	_	_
+11-4	_	one	_	_	_	_
+11-5	_	of	_	_	_	_
+11-6	_	our	abstract[30]	new[30]	coref	12-3[30_31]
+11-7	_	problems	_	_	_	_
+11-8	_	really	_	_	_	_
+11-9	_	,	_	_	_	_
+11-10	_	to	_	_	_	_
+11-11	_	compete	_	_	_	_
+11-12	_	.	_	_	_	_
+
+#Text=It costs us so much money to for us to travel overseas and to compete internationally .
+12-1	_	It	_	_	_	_
+12-2	_	costs	_	_	_	_
+12-3	_	us	abstract[31]	new[31]	coref	13-3[31_32]
+12-4	_	so	_	_	_	_
+12-5	_	much	_	_	_	_
+12-6	_	money	_	_	_	_
+12-7	_	to	_	_	_	_
+12-8	_	for	_	_	_	_
+12-9	_	us	_	_	_	_
+12-10	_	to	_	_	_	_
+12-11	_	travel	_	_	_	_
+12-12	_	overseas	_	_	_	_
+12-13	_	and	_	_	_	_
+12-14	_	to	_	_	_	_
+12-15	_	compete	_	_	_	_
+12-16	_	internationally	_	_	_	_
+12-17	_	.	_	_	_	_
+
+#Text=And so we can compete against each other all the time within Australia but we really need to be able to ...
+13-1	_	And	_	_	_	_
+13-2	_	so	_	_	_	_
+13-3	_	we	abstract[32]	new[32]	_	_
+13-4	_	can	_	_	_	_
+13-5	_	compete	_	_	_	_
+13-6	_	against	_	_	_	_
+13-7	_	each	abstract[33]	new[33]	coref	13-15[33_34]
+13-8	_	other	abstract[33]	new[33]	_	_
+13-9	_	all	_	_	_	_
+13-10	_	the	_	_	_	_
+13-11	_	time	_	_	_	_
+13-12	_	within	_	_	_	_
+13-13	_	Australia	abstract[3]	new[3]	_	_
+13-14	_	but	_	_	_	_
+13-15	_	we	abstract[34]	new[34]	coref	15-28[34_35]
+13-16	_	really	_	_	_	_
+13-17	_	need	_	_	_	_
+13-18	_	to	_	_	_	_
+13-19	_	be	_	_	_	_
+13-20	_	able	_	_	_	_
+13-21	_	to	_	_	_	_
+13-22	_	...	_	_	_	_
+
+#Text=It 's not the same .
+14-1	_	It	abstract[48]	new[48]	coref	15-3[48_49]
+14-2	_	's	_	_	_	_
+14-3	_	not	_	_	_	_
+14-4	_	the	_	_	_	_
+14-5	_	same	_	_	_	_
+14-6	_	.	_	_	_	_
+
+#Text=No , it 's really not , so it 's really important to be able to get as a many international trips throughout the year to continue our improvement .
+15-1	_	No	_	_	_	_
+15-2	_	,	_	_	_	_
+15-3	_	it	abstract[49]	new[49]	_	_
+15-4	_	's	_	_	_	_
+15-5	_	really	_	_	_	_
+15-6	_	not	_	_	_	_
+15-7	_	,	_	_	_	_
+15-8	_	so	_	_	_	_
+15-9	_	it	_	_	_	_
+15-10	_	's	_	_	_	_
+15-11	_	really	_	_	_	_
+15-12	_	important	_	_	_	_
+15-13	_	to	_	_	_	_
+15-14	_	be	_	_	_	_
+15-15	_	able	_	_	_	_
+15-16	_	to	_	_	_	_
+15-17	_	get	_	_	_	_
+15-18	_	as	_	_	_	_
+15-19	_	a	_	_	_	_
+15-20	_	many	_	_	_	_
+15-21	_	international	_	_	_	_
+15-22	_	trips	_	_	_	_
+15-23	_	throughout	_	_	_	_
+15-24	_	the	_	_	_	_
+15-25	_	year	_	_	_	_
+15-26	_	to	_	_	_	_
+15-27	_	continue	_	_	_	_
+15-28	_	our	abstract[35]	new[35]	coref	18-1[35_36]
+15-29	_	improvement	_	_	_	_
+15-30	_	.	_	_	_	_
+
+#Text=Also see where all the other teams are at as well .
+16-1	_	Also	_	_	_	_
+16-2	_	see	_	_	_	_
+16-3	_	where	_	_	_	_
+16-4	_	all	_	_	_	_
+16-5	_	the	_	_	_	_
+16-6	_	other	_	_	_	_
+16-7	_	teams	_	_	_	_
+16-8	_	are	_	_	_	_
+16-9	_	at	_	_	_	_
+16-10	_	as	_	_	_	_
+16-11	_	well	_	_	_	_
+16-12	_	.	_	_	_	_
+
+#Text=But yes , Spitfire was good .
+17-1	_	But	_	_	_	_
+17-2	_	yes	_	_	_	_
+17-3	_	,	_	_	_	_
+17-4	_	Spitfire	abstract[23]	new[23]	coref	18-9[23_24]
+17-5	_	was	_	_	_	_
+17-6	_	good	_	_	_	_
+17-7	_	.	_	_	_	_
+
+#Text=We took quite a few new girls over there back then in 2005 , leading into the World Cup in the Netherlands .
+18-1	_	We	abstract[36]	new[36]	coref	19-11[36_37]
+18-2	_	took	_	_	_	_
+18-3	_	quite	_	_	_	_
+18-4	_	a	_	_	_	_
+18-5	_	few	_	_	_	_
+18-6	_	new	_	_	_	_
+18-7	_	girls	_	_	_	_
+18-8	_	over	_	_	_	_
+18-9	_	there	abstract[24]	new[24]	_	_
+18-10	_	back	_	_	_	_
+18-11	_	then	_	_	_	_
+18-12	_	in	_	_	_	_
+18-13	_	2005	_	_	_	_
+18-14	_	,	_	_	_	_
+18-15	_	leading	_	_	_	_
+18-16	_	into	_	_	_	_
+18-17	_	the	abstract[50]	new[50]	coref	19-2[50_51]
+18-18	_	World	abstract[50]	new[50]	_	_
+18-19	_	Cup	abstract[50]	new[50]	_	_
+18-20	_	in	abstract[50]	new[50]	_	_
+18-21	_	the	abstract[50]	new[50]	_	_
+18-22	_	Netherlands	abstract[50]	new[50]	_	_
+18-23	_	.	_	_	_	_
+
+#Text=Was that the one where you were the captain of the team , in 2005 ?
+19-1	_	Was	_	_	_	_
+19-2	_	that	abstract[51]	new[51]	_	_
+19-3	_	the	_	_	_	_
+19-4	_	one	_	_	_	_
+19-5	_	where	_	_	_	_
+19-6	_	you	abstract[8]	new[8]	coref	21-3[8_9]
+19-7	_	were	_	_	_	_
+19-8	_	the	_	_	_	_
+19-9	_	captain	_	_	_	_
+19-10	_	of	_	_	_	_
+19-11	_	the	abstract[37]	new[37]	coref	24-1[37_38]
+19-12	_	team	abstract[37]	new[37]	_	_
+19-13	_	,	_	_	_	_
+19-14	_	in	_	_	_	_
+19-15	_	2005	_	_	_	_
+19-16	_	?	_	_	_	_
+
+#Text=Or was that a later one ?
+20-1	_	Or	_	_	_	_
+20-2	_	was	_	_	_	_
+20-3	_	that	_	_	_	_
+20-4	_	a	_	_	_	_
+20-5	_	later	_	_	_	_
+20-6	_	one	_	_	_	_
+20-7	_	?	_	_	_	_
+
+#Text=No , I captained in 2010 .
+21-1	_	No	_	_	_	_
+21-2	_	,	_	_	_	_
+21-3	_	I	abstract[9]	new[9]	coref	23-3[9_10]
+21-4	_	captained	_	_	_	_
+21-5	_	in	_	_	_	_
+21-6	_	2010	_	_	_	_
+21-7	_	.	_	_	_	_
+
+#Text=So 2009 , 2010 World Cup .
+22-1	_	So	_	_	_	_
+22-2	_	2009	_	_	_	_
+22-3	_	,	_	_	_	_
+22-4	_	2010	_	_	_	_
+22-5	_	World	_	_	_	_
+22-6	_	Cup	_	_	_	_
+22-7	_	.	_	_	_	_
+
+#Text=And then I had a bit of some time off in 2011 .
+23-1	_	And	_	_	_	_
+23-2	_	then	_	_	_	_
+23-3	_	I	abstract[10]	new[10]	coref	26-1[10_11]
+23-4	_	had	_	_	_	_
+23-5	_	a	_	_	_	_
+23-6	_	bit	_	_	_	_
+23-7	_	of	_	_	_	_
+23-8	_	some	_	_	_	_
+23-9	_	time	_	_	_	_
+23-10	_	off	_	_	_	_
+23-11	_	in	_	_	_	_
+23-12	_	2011	_	_	_	_
+23-13	_	.	_	_	_	_
+
+#Text=The Gliders have never won the World Championship .
+24-1	_	The	abstract[38]	new[38]	coref	25-1[38_39]
+24-2	_	Gliders	abstract[38]	new[38]	_	_
+24-3	_	have	_	_	_	_
+24-4	_	never	_	_	_	_
+24-5	_	won	_	_	_	_
+24-6	_	the	abstract[52]	new[52]	coref	25-15[52_53]
+24-7	_	World	abstract[52]	new[52]	_	_
+24-8	_	Championship	abstract[52]	new[52]	_	_
+24-9	_	.	_	_	_	_
+
+#Text=We always seem to have just a little bit of a chill out at the World Cup .
+25-1	_	We	abstract[39]	new[39]	coref	28-5[39_40]
+25-2	_	always	_	_	_	_
+25-3	_	seem	_	_	_	_
+25-4	_	to	_	_	_	_
+25-5	_	have	_	_	_	_
+25-6	_	just	_	_	_	_
+25-7	_	a	_	_	_	_
+25-8	_	little	_	_	_	_
+25-9	_	bit	_	_	_	_
+25-10	_	of	_	_	_	_
+25-11	_	a	_	_	_	_
+25-12	_	chill	_	_	_	_
+25-13	_	out	_	_	_	_
+25-14	_	at	_	_	_	_
+25-15	_	the	abstract[53]	new[53]	coref	36-3[53_54]
+25-16	_	World	abstract[53]	new[53]	_	_
+25-17	_	Cup	abstract[53]	new[53]	_	_
+25-18	_	.	_	_	_	_
+
+#Text=I do n't know why .
+26-1	_	I	abstract[11]	new[11]	coref	31-8[11_12]
+26-2	_	do	_	_	_	_
+26-3	_	n't	_	_	_	_
+26-4	_	know	_	_	_	_
+26-5	_	why	_	_	_	_
+26-6	_	.	_	_	_	_
+
+#Text=It 's really strange occurrence , over the years .
+27-1	_	It	_	_	_	_
+27-2	_	's	_	_	_	_
+27-3	_	really	_	_	_	_
+27-4	_	strange	_	_	_	_
+27-5	_	occurrence	_	_	_	_
+27-6	_	,	_	_	_	_
+27-7	_	over	_	_	_	_
+27-8	_	the	_	_	_	_
+27-9	_	years	_	_	_	_
+27-10	_	.	_	_	_	_
+
+#Text=2002 World Cup , we won bronze .
+28-1	_	2002	_	_	_	_
+28-2	_	World	_	_	_	_
+28-3	_	Cup	_	_	_	_
+28-4	_	,	_	_	_	_
+28-5	_	we	abstract[40]	new[40]	coref	29-4[40_41]
+28-6	_	won	_	_	_	_
+28-7	_	bronze	_	_	_	_
+28-8	_	.	_	_	_	_
+
+#Text=Then in 2006 we ended up fourth .
+29-1	_	Then	_	_	_	_
+29-2	_	in	_	_	_	_
+29-3	_	2006	_	_	_	_
+29-4	_	we	abstract[41]	new[41]	coref	30-9[41_42]
+29-5	_	ended	_	_	_	_
+29-6	_	up	_	_	_	_
+29-7	_	fourth	_	_	_	_
+29-8	_	.	_	_	_	_
+
+#Text=It was one of the worst World Cups we 've played actually .
+30-1	_	It	_	_	_	_
+30-2	_	was	_	_	_	_
+30-3	_	one	_	_	_	_
+30-4	_	of	_	_	_	_
+30-5	_	the	_	_	_	_
+30-6	_	worst	_	_	_	_
+30-7	_	World	_	_	_	_
+30-8	_	Cups	_	_	_	_
+30-9	_	we	abstract[42]	new[42]	coref	31-5[42_43]
+30-10	_	've	_	_	_	_
+30-11	_	played	_	_	_	_
+30-12	_	actually	_	_	_	_
+30-13	_	.	_	_	_	_
+
+#Text=And then in 2010 we just ... I do n't know what happened .
+31-1	_	And	_	_	_	_
+31-2	_	then	_	_	_	_
+31-3	_	in	_	_	_	_
+31-4	_	2010	_	_	_	_
+31-5	_	we	abstract[43]	new[43]	coref	32-1[43_44]
+31-6	_	just	_	_	_	_
+31-7	_	...	_	_	_	_
+31-8	_	I	abstract[12]	new[12]	coref	44-1[12_13]
+31-9	_	do	_	_	_	_
+31-10	_	n't	_	_	_	_
+31-11	_	know	_	_	_	_
+31-12	_	what	_	_	_	_
+31-13	_	happened	_	_	_	_
+31-14	_	.	_	_	_	_
+
+#Text=We just did n't play as well as we thought we would .
+32-1	_	We	abstract[44]	new[44]	coref	32-9[44_45]
+32-2	_	just	_	_	_	_
+32-3	_	did	_	_	_	_
+32-4	_	n't	_	_	_	_
+32-5	_	play	_	_	_	_
+32-6	_	as	_	_	_	_
+32-7	_	well	_	_	_	_
+32-8	_	as	_	_	_	_
+32-9	_	we	abstract[45]	new[45]	coref	35-2[45_46]
+32-10	_	thought	_	_	_	_
+32-11	_	we	_	_	_	_
+32-12	_	would	_	_	_	_
+32-13	_	.	_	_	_	_
+
+#Text=Came fourth .
+33-1	_	Came	_	_	_	_
+33-2	_	fourth	_	_	_	_
+33-3	_	.	_	_	_	_
+
+#Text=But you know what ?
+34-1	_	But	_	_	_	_
+34-2	_	you	abstract[61]	new[61]	coref	37-16[61_62]
+34-3	_	know	_	_	_	_
+34-4	_	what	_	_	_	_
+34-5	_	?	_	_	_	_
+
+#Text=Fired us up for the actual Paralympics .
+35-1	_	Fired	_	_	_	_
+35-2	_	us	abstract[46]	new[46]	coref	37-20[46_47]
+35-3	_	up	_	_	_	_
+35-4	_	for	_	_	_	_
+35-5	_	the	_	_	_	_
+35-6	_	actual	_	_	_	_
+35-7	_	Paralympics	_	_	_	_
+35-8	_	.	_	_	_	_
+
+#Text=So the World Cup is ... it 's good to be able to do well at the World Cup , to be placed , but it also means that you get a really good opportunity to know where you 're at in that two year gap between the Paralympics .
+36-1	_	So	_	_	_	_
+36-2	_	the	abstract[54]	new[54]	coref	36-18[54_55]
+36-3	_	World	abstract[54]	new[54]	_	_
+36-4	_	Cup	abstract[54]	new[54]	_	_
+36-5	_	is	_	_	_	_
+36-6	_	...	_	_	_	_
+36-7	_	it	_	_	_	_
+36-8	_	's	_	_	_	_
+36-9	_	good	_	_	_	_
+36-10	_	to	_	_	_	_
+36-11	_	be	_	_	_	_
+36-12	_	able	_	_	_	_
+36-13	_	to	_	_	_	_
+36-14	_	do	_	_	_	_
+36-15	_	well	_	_	_	_
+36-16	_	at	_	_	_	_
+36-17	_	the	abstract[55]	new[55]	coref	39-8[55_56]
+36-18	_	World	abstract[55]	new[55]	_	_
+36-19	_	Cup	abstract[55]	new[55]	_	_
+36-20	_	,	_	_	_	_
+36-21	_	to	_	_	_	_
+36-22	_	be	_	_	_	_
+36-23	_	placed	_	_	_	_
+36-24	_	,	_	_	_	_
+36-25	_	but	_	_	_	_
+36-26	_	it	_	_	_	_
+36-27	_	also	_	_	_	_
+36-28	_	means	_	_	_	_
+36-29	_	that	_	_	_	_
+36-30	_	you	abstract[58]	new[58]	coref	37-2[58_59]
+36-31	_	get	_	_	_	_
+36-32	_	a	_	_	_	_
+36-33	_	really	_	_	_	_
+36-34	_	good	_	_	_	_
+36-35	_	opportunity	_	_	_	_
+36-36	_	to	_	_	_	_
+36-37	_	know	_	_	_	_
+36-38	_	where	_	_	_	_
+36-39	_	you	_	_	_	_
+36-40	_	're	_	_	_	_
+36-41	_	at	_	_	_	_
+36-42	_	in	_	_	_	_
+36-43	_	that	_	_	_	_
+36-44	_	two	_	_	_	_
+36-45	_	year	_	_	_	_
+36-46	_	gap	_	_	_	_
+36-47	_	between	_	_	_	_
+36-48	_	the	abstract[63]	new[63]	coref	39-17[63_64]
+36-49	_	Paralympics	abstract[63]	new[63]	_	_
+36-50	_	.	_	_	_	_
+
+#Text=So you can come back home and revisit what you need to do and , you know , where the team 's at .
+37-1	_	So	_	_	_	_
+37-2	_	you	abstract[59]	new[59]	coref	37-10[59_60]
+37-3	_	can	_	_	_	_
+37-4	_	come	_	_	_	_
+37-5	_	back	_	_	_	_
+37-6	_	home	_	_	_	_
+37-7	_	and	_	_	_	_
+37-8	_	revisit	_	_	_	_
+37-9	_	what	_	_	_	_
+37-10	_	you	abstract[60]	new[60]	_	_
+37-11	_	need	_	_	_	_
+37-12	_	to	_	_	_	_
+37-13	_	do	_	_	_	_
+37-14	_	and	_	_	_	_
+37-15	_	,	_	_	_	_
+37-16	_	you	abstract[62]	new[62]	_	_
+37-17	_	know	_	_	_	_
+37-18	_	,	_	_	_	_
+37-19	_	where	_	_	_	_
+37-20	_	the	abstract[47]	new[47]	_	_
+37-21	_	team	abstract[47]	new[47]	_	_
+37-22	_	's	_	_	_	_
+37-23	_	at	_	_	_	_
+37-24	_	.	_	_	_	_
+
+#Text=And all that sort of stuff .
+38-1	_	And	_	_	_	_
+38-2	_	all	_	_	_	_
+38-3	_	that	_	_	_	_
+38-4	_	sort	_	_	_	_
+38-5	_	of	_	_	_	_
+38-6	_	stuff	_	_	_	_
+38-7	_	.	_	_	_	_
+
+#Text=Unfortunately , they are talking about moving it so it will be on the year before the Paralympics .
+39-1	_	Unfortunately	_	_	_	_
+39-2	_	,	_	_	_	_
+39-3	_	they	_	_	_	_
+39-4	_	are	_	_	_	_
+39-5	_	talking	_	_	_	_
+39-6	_	about	_	_	_	_
+39-7	_	moving	_	_	_	_
+39-8	_	it	abstract[56]	new[56]	coref	39-10[56_57]
+39-9	_	so	_	_	_	_
+39-10	_	it	abstract[57]	new[57]	_	_
+39-11	_	will	_	_	_	_
+39-12	_	be	_	_	_	_
+39-13	_	on	_	_	_	_
+39-14	_	the	_	_	_	_
+39-15	_	year	_	_	_	_
+39-16	_	before	_	_	_	_
+39-17	_	the	abstract[64]	new[64]	_	_
+39-18	_	Paralympics	abstract[64]	new[64]	_	_
+39-19	_	.	_	_	_	_
+
+#Text=Oh really .
+40-1	_	Oh	_	_	_	_
+40-2	_	really	_	_	_	_
+40-3	_	.	_	_	_	_
+
+#Text=The competition from the [ FIFA ] World Cup and all .
+41-1	_	The	_	_	_	_
+41-2	_	competition	_	_	_	_
+41-3	_	from	_	_	_	_
+41-4	_	the	_	_	_	_
+41-5	_	[	_	_	_	_
+41-6	_	FIFA	_	_	_	_
+41-7	_	]	_	_	_	_
+41-8	_	World	_	_	_	_
+41-9	_	Cup	_	_	_	_
+41-10	_	and	_	_	_	_
+41-11	_	all	_	_	_	_
+41-12	_	.	_	_	_	_
+
+#Text=Right .
+42-1	_	Right	_	_	_	_
+42-2	_	.	_	_	_	_
+
+#Text=Well , that would be sad .
+43-1	_	Well	_	_	_	_
+43-2	_	,	_	_	_	_
+43-3	_	that	_	_	_	_
+43-4	_	would	_	_	_	_
+43-5	_	be	_	_	_	_
+43-6	_	sad	_	_	_	_
+43-7	_	.	_	_	_	_
+
+#Text=Tina McKenzie .
+44-1	_	Tina	abstract[13]	new[13]	coref	46-3[13_14]
+44-2	_	McKenzie	abstract[13]	new[13]	_	_
+44-3	_	.	_	_	_	_
+
+#Text=Image : Australian Paralympic Committee .
+45-1	_	Image	_	_	_	_
+45-2	_	:	_	_	_	_
+45-3	_	Australian	_	_	_	_
+45-4	_	Paralympic	_	_	_	_
+45-5	_	Committee	_	_	_	_
+45-6	_	.	_	_	_	_
+
+#Text=What do you think about the LibriVox site ?
+46-1	_	What	_	_	_	_
+46-2	_	do	_	_	_	_
+46-3	_	you	abstract[14]	new[14]	_	_
+46-4	_	think	_	_	_	_
+46-5	_	about	_	_	_	_
+46-6	_	the	_	_	_	_
+46-7	_	LibriVox	_	_	_	_
+46-8	_	site	_	_	_	_
+46-9	_	?	_	_	_	_
+

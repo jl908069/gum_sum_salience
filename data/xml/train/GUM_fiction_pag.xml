@@ -1,0 +1,1812 @@
+<text id="GUM_fiction_pag" partition="train" author="Peter Watts" dateCollected="2018-08-29" dateCreated="2006-10-03" dateModified="2006-10-03" shortTitle="pag" sourceURL="http://www.rifters.com/real/Blindsight.htm" speakerCount="0" speakerList="#Kid, #Pag, #Siri" title="Blingsight, Prologue" type="fiction" summary="Siri tells about an incident from his childhood, when, after recovering from brain surgery to treat epilepsy, he saved his friend Pag from bullies hitting him by brutally beating three of them with a rock.">
+<head>
+<s type="frag" transition="establishment">
+Prologue	NN	prologue	NN1	NOUN	root	_
+</s>
+</head>
+<p>
+<quote>
+<s type="imp" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+Try	VV	try	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+touch	VV	touch	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+past	NN	past	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Try	VV	try	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+deal	VV	deal	VVI	VERB	xcomp	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+past	NN	past	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+real	JJ	real	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+just	RB	just	AV0	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+dream	NN	dream	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+<s type="frag" transition="zero">
+—	:	—	UNC	PUNCT	punct	_
+Ted	NP	Ted	NP0	PROPN	root	_
+Bundy	NP	Bundy	NP0	PROPN	flat	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+start	VV	start	VVI	VERB	root	_
+out	IN	out	PRP	ADP	case	_
+here	RB	here	AV0	ADV	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Not	RB	not	XX0	PART	advmod	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+scramblers	NNS	scrambler	NN2	NOUN	root	scrambl-er-s
+or	CC	or	CJC	CCONJ	cc	_
+<hi rend="italic">
+Rorschach	NP	Rorschach	NP0	PROPN	conj	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+not	RB	not	XX0	PART	advmod	_
+with	IN	with	PRP	ADP	case	_
+Big	NP	Big	NP0	ADJ	amod	_
+Ben	NP	Ben	NP0	PROPN	parataxis	Be-n
+or	CC	or	CJC	CCONJ	cc	_
+<hi rend="italic">
+Theseus	NP	Theseus	NP0	PROPN	conj	_
+</hi>
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+vampires	NNS	vampire	NN2	NOUN	conj	vampire-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="null">
+Most	JJS	most	DT0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+say	VV	say	VVI	VERB	root	_
+it	PP	it	PNP	PRON	nsubj	_
+started	VVD	start	VVD	VERB	ccomp	start-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Fireflies	NPS	Firefly	NP0	PROPN	obl	Fireflie-s
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+wrong	JJ	wrong	AJ0	ADJ	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj	_
+<hi rend="italic">
+ended	VVD	end	VVD	VERB	root	end-ed
+</hi>
+with	IN	with	PRP	ADP	case	_
+all	PDT	all	DT0	DET	det:predet	_
+those	DT	that	DT0	DET	det	_
+things	NNS	thing	NN2	NOUN	obl	thing-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+For	IN	for	PRP	ADP	case	_
+me	PP	I	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+began	VVD	begin	VVD	VERB	root	_
+with	IN	with	PRP	ADP	case	_
+Robert	NP	Robert	NP0	PROPN	obl	_
+Paglino	NP	Paglino	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+At	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+age	NN	age	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+eight	CD	eight	CRD	NUM	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+best	JJS	good	AJS	ADJ	amod	be-st
+and	CC	and	CJC	CCONJ	cc	_
+only	JJ	only	AJ0	ADJ	conj	_
+friend	NN	friend	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+We	PP	we	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+fellow	JJ	fellow	AJ0	ADJ	amod	_
+outcasts	NNS	outcast	NN2	NOUN	root	out-cast-s
+,	,	,	PUN	PUNCT	punct	_
+bound	VVN	bind	VVN	VERB	acl	_
+by	IN	by	PRP	ADP	case	_
+complementary	JJ	complementary	AJ0	ADJ	amod	complement-ary
+misfortune	NN	misfortune	NN1	NOUN	obl:agent	mis-fortune
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Mine	PP	mine	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+developmental	JJ	developmental	AJ0	ADJ	root	develop-ment-al
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+His	PP	his	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+genetic	JJ	genetic	AJ0	ADJ	root	gen-et-ic
+:	:	:	PUN	PUNCT	punct	_
+an	DT	a	AT0	DET	det	_
+uncontrolled	JJ	uncontrolled	AJ0	ADJ	amod	un-controlled
+genotype	NN	genotype	NN1	NOUN	obl:npmod	geno-type
+that	WDT	that	CJT	PRON	nsubj	_
+left	VVD	leave	VVD	VERB	acl:relcl	_
+him	PP	he	PNP	PRON	obj	_
+predisposed	JJ	predisposed	AJ0	ADJ	xcomp	pre-disposed
+to	IN	to	PRP	ADP	case	_
+nearsightedness	NN	nearsightedness	NN1	NOUN	obl	nearsighted-ness
+,	,	,	PUN	PUNCT	punct	_
+acne	NN	acne	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+(	(	(	PUL	PUNCT	punct	_
+as	IN	as	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+later	RBR	late	AV0	ADV	advmod	lat-er
+turned	VVD	turn	VVD	VERB	orphan	turn-ed
+out	RP	out	AVP	ADP	compound:prt	_
+)	)	)	PUR	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+susceptibility	NN	susceptibility	NN1	NOUN	conj	susceptibil-ity
+to	IN	to	PRP	ADP	case	_
+narcotics	NNS	narcotic	NN2	NOUN	nmod	narcotic-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+His	PP$	his	DPS	PRON	nmod:poss	_
+parents	NNS	parent	NN2	NOUN	nsubj	parent-s
+had	VHD	have	VHD	AUX	aux	_
+never	RB	never	AV0	ADV	advmod	_
+had	VHN	have	VHN	VERB	root	_
+him	PP	he	PNP	PRON	obj	_
+optimized	VVN	optimize	VVN	VERB	xcomp	optimiz-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Those	DT	that	DT0	DET	det	_
+few	JJ	few	DT0	ADJ	amod	_
+TwenCen	NP	TwenCen	NP0	PROPN	compound	_
+relics	NNS	relic	NN2	NOUN	nsubj	relic-s
+who	WP	who	PNQ	PRON	nsubj	_
+still	RB	still	AV0	ADV	advmod	_
+believed	VVD	believe	VVD	VERB	acl:relcl	believ-ed
+in	IN	in	PRP	ADP	case	_
+God	NP	God	NP0	PROPN	obl	_
+also	RB	also	AV0	ADV	advmod	_
+held	VVD	hold	VVD	VERB	root	_
+that	IN/that	that	CJT	SCONJ	mark	_
+one	PP	one	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+try	VV	try	VVI	VERB	ccomp	_
+to	TO	to	TO0	PART	mark	_
+improve	VV	improve	VVI	VERB	xcomp	_
+upon	RP	upon	AVP	ADP	compound:prt	up-on
+His	PP$	his	DPS	PRON	nmod:poss	_
+handiwork	NN	handiwork	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+So	RB	so	AV0	ADV	advmod	_
+although	IN	although	CJS	SCONJ	mark	_
+both	DT	both	DT0	DET	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+us	PP	we	PNP	PRON	nmod	_
+<hi rend="italic">
+could	MD	could	VM0	AUX	aux	_
+</hi>
+have	VH	have	VHI	AUX	aux	_
+been	VBN	be	VBN	AUX	aux:pass	_
+repaired	VVN	repair	VVN	VERB	advcl	re-pair-ed
+,	,	,	PUN	PUNCT	punct	_
+only	RB	only	AV0	ADV	advmod	_
+one	CD	one	CRD	NUM	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+us	PP	we	PNP	PRON	nmod	_
+<hi rend="italic">
+had	VHD	have	VHD	AUX	aux	_
+</hi>
+been	VBN	be	VBN	AUX	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+arrived	VVD	arrive	VVD	VERB	root	arriv-ed
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+playground	NN	playground	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+find	VV	find	VVI	VERB	advcl	_
+Pag	NP	Pag	NP0	PROPN	obj	_
+the	DT	the	AT0	DET	det	_
+center	NN	center	NN1	NOUN	xcomp	_
+of	IN	of	PRF	ADP	case	_
+attention	NN	attention	NN1	NOUN	nmod	atten-tion
+for	IN	for	PRP	ADP	case	_
+some	DT	some	DT0	DET	det	_
+<w>
+half	NN	half	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+dozen	CD	dozen	CRD	NUM	nummod	_
+</w>
+kids	NNS	kid	NN2	NOUN	nmod	kid-s
+,	,	,	PUN	PUNCT	punct	_
+those	DT	that	DT0	DET	det	_
+lucky	JJ	lucky	AJ0	ADJ	amod	luck-y
+few	JJ	few	DT0	ADJ	nsubj	_
+in	IN	in	PRP	ADP	case	_
+front	NN	front	NN1	NOUN	obl	_
+punching	VVG	punch	VVG	VERB	acl	punch-ing
+him	PP	he	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+head	NN	head	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+others	NNS	other	NN2	NOUN	nsubj	other-s
+making	VVG	make	VVG	VERB	acl	mak-ing
+do	VV	do	VDI	VERB	xcomp	_
+with	IN	with	PRP	ADP	case	_
+taunts	NNS	taunt	NN2	NOUN	obl	taunt-s
+of	IN	of	PRF	ADP	case	_
+<hi rend="italic">
+mongrel	NN	mongrel	NN1	NOUN	nmod	mong-rel
+</hi>
+and	CC	and	CJC	CCONJ	cc	_
+<hi rend="italic">
+polly	NN	polly	NN1	NOUN	conj	_
+</hi>
+while	IN	while	CJS	SCONJ	mark	_
+waiting	VVG	wait	VVG	VERB	advcl	wait-ing
+their	PP$	their	DPS	PRON	nmod:poss	_
+turn	NN	turn	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+watched	VVD	watch	VVD	VERB	root	watch-ed
+him	PP	he	PNP	PRON	obj	_
+raise	VV	raise	VVI	VERB	xcomp	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+arms	NNS	arm	NN2	NOUN	obj	arm-s
+,	,	,	PUN	PUNCT	punct	_
+almost	RB	almost	AV0	ADV	advmod	al-most
+hesitantly	RB	hesitantly	AV0	ADV	advmod	hesit-ant-ly
+,	,	,	PUN	PUNCT	punct	_
+to	TO	to	TO0	PART	mark	_
+ward	VV	ward	VVI	VERB	advcl	_
+off	RP	off	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+worst	JJS	bad	AJS	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+blows	NNS	blow	NN2	NOUN	obl	blow-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+see	VV	see	VVI	VERB	root	_
+into	IN	into	PRP	ADP	case	in-to
+his	PP$	his	DPS	PRON	nmod:poss	_
+head	NN	head	NN1	NOUN	obl	_
+better	RBR	well	AV0	ADV	advmod	bett-er
+than	IN	than	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+see	VV	see	VVI	VERB	advcl	_
+into	IN	into	PRP	ADP	case	in-to
+my	PP$	my	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	obl	_
+;	:	;	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+scared	JJ	scared	AJ0	ADJ	parataxis	scar-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+attackers	NNS	attacker	NN2	NOUN	nsubj	attack-er-s
+might	MD	might	VM0	AUX	aux	_
+think	VV	think	VVI	VERB	ccomp	_
+those	DT	that	DT0	DET	det	_
+hands	NNS	hand	NN2	NOUN	nsubj	hand-s
+were	VBD	be	VBD	AUX	aux	_
+coming	VVG	come	VVG	VERB	ccomp	com-ing
+up	RB	up	AVP	ADV	advmod	_
+to	TO	to	TO0	PART	mark	_
+hit	VV	hit	VVI	VERB	advcl	_
+<hi rend="italic">
+back	RB	back	AVP	ADV	advmod	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+read	VV	read	VVI	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+as	IN	as	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+act	NN	act	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+defiance	NN	defiance	NN1	NOUN	nmod	defian-ce
+and	CC	and	CJC	CCONJ	cc	_
+hurt	VV	hurt	VVD	VERB	conj	_
+him	PP	he	PNP	PRON	obj	_
+even	RB	even	AV0	ADV	advmod	_
+more	RBR	more	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Even	RB	even	AV0	ADV	advmod	_
+then	RB	then	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+tender	JJ	tender	AJ0	ADJ	amod	tend-er
+age	NN	age	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+eight	CD	eight	CRD	NUM	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+with	IN	with	PRP	SCONJ	mark	_
+half	PDT	half	DT0	DET	det:predet	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+mind	NN	mind	NN1	NOUN	nsubj	_
+gone	JJ	gone	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	aux	_
+becoming	VVG	become	VVG	VERB	root	be-com-ing
+a	DT	a	AT0	DET	det	_
+superlative	JJ	superlative	AJ0	ADJ	amod	super-lat-ive
+observer	NN	observer	NN1	NOUN	xcomp	observ-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+But	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	root	_
+what	WP	what	PNQ	PRON	obj	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	acl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+seen	VVN	see	VVN	VERB	root	see-n
+much	JJ	much	DT0	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+Pag	NP	Pag	NP0	PROPN	nmod	_
+lately	RB	lately	AV0	ADV	advmod	late-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+pretty	RB	pretty	AV0	ADV	advmod	_
+sure	JJ	sure	AJ0	ADJ	root	_
+he	PP	he	PNP	PRON	nsubj	_
+'d	VHD	have	VHD	AUX	aux	_
+been	VBN	be	VBN	AUX	aux	_
+avoiding	VVG	avoid	VVG	VERB	ccomp	avoid-ing
+me	PP	I	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="zero">
+Still	RB	still	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+when	WRB	when	CJS	ADV	advmod	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+best	JJS	good	AJS	ADJ	amod	be-st
+friend	NN	friend	NN1	NOUN	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+trouble	NN	trouble	NN1	NOUN	advcl	_
+you	PP	you	PNP	PRON	nsubj	_
+help	VVP	help	VVB	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+,	,	,	PUN	PUNCT	punct	_
+right	JJ	right	AJ0	ADJ	discourse	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Even	RB	even	AV0	ADV	advmod	_
+if	IN	if	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+odds	NNS	odd	NN2	NOUN	nsubj	odd-s
+are	VBP	be	VBB	AUX	cop	_
+impossible	JJ	impossible	AJ0	ADJ	advcl	im-possible
+—	:	—	AJ0	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+how	WRB	how	AVQ	ADV	advmod	_
+many	JJ	many	DT0	ADJ	amod	_
+<w>
+eight	CD	eight	CRD	NUM	nummod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+year	NN	year	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+olds	NNS	old	NN2	NOUN	nsubj	old-s
+</w>
+would	MD	would	VM0	AUX	aux	_
+go	VV	go	VVI	VERB	conj	_
+up	RB	up	AVP	ADV	advmod	_
+against	IN	against	PRP	ADP	case	a-gainst
+six	CD	six	CRD	NUM	nummod	_
+bigger	JJR	big	AJC	ADJ	amod	bigg-er
+kids	NNS	kid	NN2	NOUN	obl	kid-s
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+sandbox	NN	sandbox	NN1	NOUN	compound	_
+buddy	NN	buddy	NN1	NOUN	obl	budd-y
+?	SENT	?	PUN	PUNCT	punct	_
+—	:	—	NP0	PUNCT	punct	_
+at	IN	at	PRP	ADP	advmod	_
+least	RBS	least	AV0	ADV	fixed	_
+you	PP	you	PNP	PRON	nsubj	_
+call	VVP	call	VVB	VERB	root	_
+for	IN	for	PRP	ADP	case	_
+backup	NN	backup	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="zero">
+Flag	VVP	flag	VVB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+sentry	NN	sentry	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+<hi rend="italic">
+Something	NN	something	NN1	PRON	root	_
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+stood	VVD	stand	VVD	VERB	root	_
+there	RB	there	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+even	RB	even	AV0	ADV	advmod	_
+especially	RB	especially	AV0	ADV	advmod	especial-ly
+<hi rend="italic">
+want	VV	want	VVB	VERB	root	_
+</hi>
+to	TO	to	TO0	PART	mark	_
+help	VV	help	VVI	VERB	xcomp	_
+him	PP	he	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+That	DT	that	DT0	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+make	VV	make	VVI	VERB	root	_
+sense	NN	sense	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+Even	RB	even	AV0	ADV	advmod	_
+if	IN	if	CJS	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+been	VBN	be	VBN	AUX	cop	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+best	JJS	good	AJS	ADJ	amod	be-st
+friend	NN	friend	NN1	NOUN	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+at	IN	at	PRP	ADP	advmod	_
+least	RBS	least	AV0	ADV	fixed	_
+have	VH	have	VHB	AUX	aux	_
+empathized	VVN	empathize	VVN	VERB	root	empath-iz-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+'d	VHD	have	VHD	AUX	aux	_
+suffered	VVN	suffer	VVN	VERB	root	suffer-ed
+less	RBR	less	AV0	ADV	advmod	_
+than	IN	than	CJS	ADP	case	_
+Pag	NP	Pag	NP0	PROPN	obl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+way	NN	way	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+overt	JJ	overt	AJ0	ADJ	amod	_
+violence	NN	violence	NN1	NOUN	nmod	viol-ence
+;	:	;	PUN	PUNCT	punct	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+seizures	NNS	seizure	NN2	NOUN	nsubj	seiz-ure-s
+tended	VVD	tend	VVD	VERB	parataxis	tend-ed
+to	TO	to	TO0	PART	mark	_
+keep	VV	keep	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+other	JJ	other	AJ0	ADJ	amod	_
+kids	NNS	kid	NN2	NOUN	obj	kid-s
+at	IN	at	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+distance	NN	distance	NN1	NOUN	obl	distan-ce
+,	,	,	PUN	PUNCT	punct	_
+scared	VVD	scare	VVD	VERB	parataxis	scar-ed
+<hi rend="italic">
+them	PP	they	PNP	PRON	obj	_
+</hi>
+even	RB	even	AV0	ADV	advmod	_
+as	IN	as	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+incapacitated	VVD	incapacitate	VVD	VERB	advcl	in-capacit-at-ed
+<hi rend="italic">
+me	PP	I	PNP	PRON	obj	_
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="zero">
+Still	RB	still	AV0	ADV	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+no	DT	no	AT0	DET	det	_
+stranger	NN	stranger	NN1	NOUN	root	strang-er
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+taunts	NNS	taunt	NN2	NOUN	nmod	taunt-s
+and	CC	and	CJC	CCONJ	cc	_
+insults	NNS	insult	NN2	NOUN	conj	insult-s
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+foot	NN	foot	NN1	NOUN	conj	_
+that	WDT	that	CJT	PRON	nsubj	_
+appears	VVZ	appear	VVZ	VERB	acl:relcl	appear-s
+from	IN	from	PRP	ADP	case	_
+nowhere	RB	nowhere	AV0	ADV	obl	_
+to	TO	to	TO0	PART	mark	_
+trip	VV	trip	VVI	VERB	advcl	_
+you	PP	you	PNP	PRON	obj	_
+up	RP	up	AVP	ADP	compound:prt	_
+en	IN	en	PRP	ADP	case	_
+route	NN	route	NN1	NOUN	obl	_
+from	IN	from	PRP	ADP	case	_
+A	NN	A	NN1	NOUN	nmod	_
+to	IN	to	PRP	ADP	case	_
+B	NN	B	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+knew	VVD	know	VVD	VERB	root	_
+how	WRB	how	AVQ	ADV	obj	_
+that	DT	that	CJT	PRON	nsubj	_
+felt	VVD	feel	VVD	VERB	advcl:relcl	fel-t
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+Or	CC	or	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	root	_
+,	,	,	PUN	PUNCT	punct	_
+once	RB	once	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+But	CC	but	CJC	CCONJ	cc	_
+that	DT	that	DT0	DET	det	_
+part	NN	part	NN1	NOUN	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+me	PP	I	PNP	PRON	nmod	_
+had	VHD	have	VHD	AUX	aux	_
+been	VBN	be	VBN	AUX	aux:pass	_
+cut	VVN	cut	VVN	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+along	IN	along	PRP	ADP	case	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+bad	JJ	bad	AJ0	ADJ	amod	_
+wiring	NN	wiring	NN1	NOUN	advcl	wir-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	aux	_
+still	RB	still	AV0	ADV	advmod	_
+working	VVG	work	VVG	VERB	root	work-ing
+up	RP	up	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+algorithms	NNS	algorithm	NN2	NOUN	obj	algorithm-s
+to	TO	to	TO0	PART	mark	_
+get	VV	get	VVI	VERB	acl	_
+it	PP	it	PNP	PRON	obj	_
+back	RB	back	AVP	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+still	RB	still	AV0	ADV	advmod	_
+learning	VVG	learn	VVG	VERB	parataxis	learn-ing
+by	IN	by	PRP	ADP	case	_
+observation	NN	observation	NN1	NOUN	obl	observ-ation
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Pack	NN	pack	NN1	NOUN	compound	_
+animals	NNS	animal	NN2	NOUN	nsubj	animal-s
+always	RB	always	AV0	ADV	advmod	_
+tear	VVP	tear	VVB	VERB	root	_
+apart	RB	apart	PRP	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+weaklings	NNS	weakling	NN2	NOUN	obj	weak-ling-s
+in	IN	in	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+midst	NN	midst	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Every	DT	every	AT0	DET	det	_
+child	NN	child	NN1	NOUN	nsubj	_
+knows	VVZ	know	VVZ	VERB	root	know-s
+that	RB	that	CJT	ADV	advmod	_
+much	JJ	much	DT0	ADJ	obj	_
+instinctively	RB	instinctively	AV0	ADV	advmod	instinct-ive-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="retain">
+Maybe	RB	maybe	AV0	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+just	RB	just	AV0	ADV	advmod	_
+let	VV	let	VVI	VERB	root	_
+that	DT	that	DT0	DET	det	_
+process	NN	process	NN1	NOUN	obj	_
+unfold	VV	unfold	VVI	VERB	xcomp	un-fold
+,	,	,	PUN	PUNCT	punct	_
+maybe	RB	maybe	AV0	ADV	advmod	may-be
+I	PP	I	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+try	VV	try	VVI	VERB	parataxis	_
+to	TO	to	TO0	PART	mark	_
+mess	VV	mess	VVI	VERB	xcomp	_
+with	IN	with	PRP	ADP	case	_
+nature	NN	nature	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="rough-shift">
+Then	RB	then	AV0	ADV	advmod	_
+again	RB	again	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+Pag	NP	Pag	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+parents	NNS	parent	NN2	NOUN	nsubj	parent-s
+had	VHD	have	VHD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+messed	VVN	mess	VVN	VERB	root	mess-ed
+with	IN	with	PRP	ADP	case	_
+nature	NN	nature	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+look	VV	look	VVB	VERB	conj	_
+what	WP	what	PNQ	PRON	obj	_
+it	PP	it	PNP	PRON	nsubj	_
+got	VVD	get	VVD	VERB	ccomp	_
+them	PP	they	PNP	PRON	iobj	_
+:	:	:	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+son	NN	son	NN1	NOUN	parataxis	_
+curled	VVN	curl	VVN	VERB	acl	curl-ed
+up	RP	up	AVP	ADP	compound:prt	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+dirt	NN	dirt	NN1	NOUN	obl	_
+while	IN	while	CJS	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+bunch	NN	bunch	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+engineered	VVN	engineer	VVN	VERB	amod	engin-eer-ed
+superboys	NNS	superboy	NN2	NOUN	nmod	super-boy-s
+kicked	VVD	kick	VVD	VERB	advcl	kick-ed
+in	RP	in	AVP	ADP	compound:prt	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+ribs	NNS	rib	NN2	NOUN	obj	rib-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+propaganda	NN	propaganda	NN1	NOUN	nsubj	_
+worked	VVD	work	VVD	VERB	root	work-ed
+where	WRB	where	AVQ	ADV	advmod	_
+empathy	NN	empathy	NN1	NOUN	nsubj	_
+failed	VVD	fail	VVD	VERB	advcl	fail-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Back	RB	back	AVP	ADV	advmod	_
+then	RB	then	AV0	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+so	RB	so	AV0	ADV	advmod	_
+much	RB	much	AV0	ADV	advmod	_
+think	VV	think	VVB	VERB	root	_
+as	IN	as	PRP	SCONJ	mark	_
+observe	VV	observe	VVB	VERB	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+deduce	VV	deduce	VVI	VERB	parataxis	_
+so	RB	so	AV0	ADV	advmod	_
+much	RB	much	AV0	ADV	advmod	_
+as	IN	as	PRP	SCONJ	mark	_
+<hi rend="italic">
+remember	VV	remember	VVB	VERB	advcl	_
+</hi>
+—	:	—	AJ0	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+what	WP	what	PNQ	PRON	nsubj	_
+I	PP	I	PNP	PRON	nsubj	_
+remembered	VVD	remember	VVD	VERB	acl:relcl	remember-ed
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+thousand	CD	thousand	CRD	NUM	nummod	_
+inspirational	JJ	inspirational	AJ0	ADJ	amod	inspir-ation-al
+stories	NNS	story	NN2	NOUN	conj	storie-s
+lauding	VVG	laud	VVG	VERB	acl	laud-ing
+anyone	NN	anyone	NN1	PRON	obj	any-one
+who	WP	who	PNQ	PRON	nsubj	_
+ever	RB	ever	AV0	ADV	advmod	_
+stuck	VVD	stick	VVD	VERB	acl:relcl	_
+up	RP	up	AVP	ADP	compound:prt	_
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+underdog	NN	underdog	NN1	NOUN	obl	under-dog
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+So	RB	so	CJS	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+picked	VVD	pick	VVD	VERB	root	pick-ed
+up	RP	up	AVP	ADP	compound:prt	_
+a	DT	a	AT0	DET	det	_
+rock	NN	rock	NN1	NOUN	obj	_
+the	DT	the	AT0	DET	det	_
+size	NN	size	NN1	NOUN	acl	_
+of	IN	of	PRF	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+fist	NN	fist	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+hit	VVD	hit	VVD	VERB	conj	_
+two	CD	two	CRD	NUM	obj	_
+of	IN	of	PRF	ADP	case	_
+Pag	NP	Pag	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+assailants	NNS	assailant	NN2	NOUN	nmod	assail-ant-s
+across	IN	across	PRP	ADP	case	a-cross
+the	DT	the	AT0	DET	det	_
+backs	NNS	back	NN2	NOUN	obl	back-s
+of	IN	of	PRF	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+heads	NNS	head	NN2	NOUN	nmod	head-s
+before	IN	before	PRP	SCONJ	mark	_
+anyone	NN	anyone	NN1	PRON	nsubj	any-one
+even	RB	even	AV0	ADV	advmod	_
+knew	VVD	know	VVD	VERB	advcl	_
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+game	NN	game	NN1	NOUN	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="retain">
+A	DT	a	AT0	DET	det	_
+third	JJ	third	ORD	ADJ	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+turning	VVG	turn	VVG	VERB	acl	turn-ing
+to	TO	to	TO0	PART	mark	_
+face	VV	face	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+new	JJ	new	AJ0	ADJ	amod	_
+threat	NN	threat	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+took	VVD	take	VVD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+blow	NN	blow	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+face	NN	face	NN1	NOUN	nmod	_
+that	WDT	that	CJT	PRON	nsubj	_
+audibly	RB	audibly	AV0	ADV	advmod	audib-ly
+crunched	VVD	crunch	VVD	VERB	acl:relcl	crunch-ed
+the	DT	the	AT0	DET	det	_
+bones	NNS	bone	NN2	NOUN	obj	bone-s
+of	IN	of	PRF	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+cheek	NN	cheek	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+remember	VVP	remember	VVB	VERB	root	_
+wondering	VVG	wonder	VVG	VERB	xcomp	wonder-ing
+why	WRB	why	AVQ	ADV	advmod	_
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+take	VV	take	VVI	VERB	ccomp	_
+any	DT	any	DT0	DET	det	_
+satisfaction	NN	satisfaction	NN1	NOUN	obj	satisfac-tion
+from	IN	from	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+sound	NN	sound	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+why	WRB	why	AVQ	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+meant	VVD	mean	VVD	VERB	conj	_
+nothing	NN	nothing	NN1	PRON	obj	_
+beyond	IN	beyond	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+fact	NN	fact	NN1	NOUN	nmod	_
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	acl	_
+one	CD	one	PNI	NUM	nummod	_
+less	JJR	less	DT0	ADJ	amod	_
+opponent	NN	opponent	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+worry	VV	worry	VVI	VERB	acl	_
+about	IN	about	PRP	ADP	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+rest	NN	rest	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+them	PP	they	PNP	PRON	nmod	_
+ran	VVD	run	VVD	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+sight	NN	sight	NN1	NOUN	obl	sigh-t
+of	IN	of	PRF	ADP	case	_
+blood	NN	blood	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+One	CD	one	CRD	NUM	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+braver	JJR	brave	AJC	ADJ	nmod	brav-er
+promised	VVD	promise	VVD	VERB	root	promis-ed
+me	PP	I	PNP	PRON	iobj	_
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+dead	JJ	dead	AJ0	ADJ	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+shouted	VVD	shout	VVD	VERB	parataxis	shout-ed
+<sp who="#Kid">
+"	``	''	PUQ	PUNCT	punct	_
+<hi rend="italic">
+Fucking	UH	fucking	ITJ	INTJ	discourse	Fuck-ing
+zombie	NN	zombie	NN1	NOUN	ccomp	_
+!	SENT	!	PUN	PUNCT	punct	_
+</hi>
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+over	IN	over	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+shoulder	NN	shoulder	NN1	NOUN	obl	_
+as	IN	as	CJS	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+disappeared	VVD	disappear	VVD	VERB	advcl	dis-appear-ed
+around	IN	around	PRP	ADP	case	a-round
+the	DT	the	AT0	DET	det	_
+corner	NN	corner	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+Three	CD	three	CRD	NUM	nummod	_
+decades	NNS	decade	NN2	NOUN	obj	decade-s
+it	PP	it	PNP	PRON	expl	_
+took	VVD	take	VVD	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+to	TO	to	TO0	PART	mark	_
+see	VV	see	VVI	VERB	csubj	_
+the	DT	the	AT0	DET	det	_
+irony	NN	irony	NN1	NOUN	obj	iron-y
+in	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+remark	NN	remark	NN1	NOUN	nmod	re-mark
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Two	CD	two	CRD	NUM	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+enemy	NN	enemy	NN1	NOUN	nmod	_
+twitched	VVD	twitch	VVD	VERB	root	twitch-ed
+at	IN	at	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+feet	NNS	foot	NN2	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+kicked	VVD	kick	VVD	VERB	root	kick-ed
+one	CD	one	PNI	NUM	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+head	NN	head	NN1	NOUN	obl	_
+until	IN	until	CJS	SCONJ	mark	un-til
+it	PP	it	PNP	PRON	nsubj	_
+stopped	VVD	stop	VVD	VERB	advcl	stopp-ed
+moving	VVG	move	VVG	VERB	xcomp	mov-ing
+,	,	,	PUN	PUNCT	punct	_
+turned	VVD	turn	VVD	VERB	parataxis	turn-ed
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+other	NN	other	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Something	NN	something	NN1	PRON	nsubj	_
+grabbed	VVD	grab	VVD	VERB	root	grabb-ed
+my	PP$	my	DPS	PRON	nmod:poss	_
+arm	NN	arm	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+swung	VVD	swing	VVD	VERB	conj	_
+without	IN	without	PRP	SCONJ	mark	_
+thinking	VVG	think	VVG	VERB	advcl	think-ing
+,	,	,	PUN	PUNCT	punct	_
+without	IN	without	PRP	SCONJ	mark	_
+<hi rend="italic">
+looking	VVG	look	VVG	VERB	advcl	look-ing
+</hi>
+until	IN	until	CJS	SCONJ	mark	un-til
+Pag	NP	Pag	NP0	PROPN	nsubj	_
+yelped	VVD	yelp	VVD	VERB	advcl	yelp-ed
+and	CC	and	CJC	CCONJ	cc	_
+ducked	VVD	duck	VVD	VERB	conj	duck-ed
+out	IN	out	PRP	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+reach	NN	reach	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+<sp who="#Siri">
+"	``	''	PUQ	PUNCT	punct	_
+Oh	UH	oh	ITJ	INTJ	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+I	PP	I	PNP	PRON	nsubj	_
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Siri">
+<s type="intj" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+Sorry	JJ	sorry	AJ0	ADJ	root	Sorr-y
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<s type="decl" transition="zero">
+One	CD	one	CRD	NUM	nummod	_
+thing	NN	thing	NN1	NOUN	nsubj	_
+lay	VVD	lie	VVD	VERB	root	_
+motionless	JJ	motionless	AJ0	ADJ	advcl	motion-less
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+other	NN	other	NN1	NOUN	nsubj	_
+moaned	VVD	moan	VVD	VERB	root	moan-ed
+and	CC	and	CJC	CCONJ	cc	_
+held	VVD	hold	VVD	VERB	conj	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+head	NN	head	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+curled	VVD	curl	VVD	VERB	conj	curl-ed
+up	RP	up	AVP	ADP	compound:prt	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+ball	NN	ball	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+<sp who="#Pag">
+"	``	''	PUQ	PUNCT	punct	_
+Oh	UH	oh	ITJ	INTJ	discourse	_
+<hi rend="italic">
+shit	UH	shit	ITJ	INTJ	ccomp	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+Pag	NP	Pag	NP0	PROPN	nsubj	_
+panted	VVD	pant	VVD	VERB	root	pant-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Blood	NN	blood	NN1	NOUN	nsubj	_
+coursed	VVD	course	VVD	VERB	root	cours-ed
+unheeded	JJ	unheeded	AJ0	ADJ	advcl	un-heeded
+from	IN	from	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+nose	NN	nose	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+splattered	VVD	splatter	VVD	VERB	conj	splatter-ed
+down	IN	down	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+shirt	NN	shirt	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+His	PP$	his	DPS	PRON	nmod:poss	_
+cheek	NN	cheek	NN1	NOUN	nsubj	_
+was	VBD	be	VBD	AUX	aux	_
+turning	VVG	turn	VVG	VERB	root	turn-ing
+blue	JJ	blue	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+yellow	JJ	yellow	AJ0	ADJ	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Pag">
+<s type="intj" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+Oh	UH	oh	ITJ	INTJ	discourse	_
+<hi rend="italic">
+shit	UH	shit	ITJ	INTJ	root	_
+</hi>
+oh	UH	oh	ITJ	INTJ	discourse	_
+shit	UH	shit	ITJ	INTJ	parataxis	_
+oh	UH	oh	ITJ	INTJ	discourse	_
+<hi rend="italic">
+shit	UH	shit	ITJ	INTJ	parataxis	_
+</hi>
+...	:	…	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+thought	VVD	think	VVD	VERB	root	_
+of	IN	of	PRF	ADP	case	_
+something	NN	something	NN1	PRON	obl	_
+to	TO	to	TO0	PART	mark	_
+say	VV	say	VVI	VERB	acl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Siri">
+<s type="q" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+You	PP	you	PNP	PRON	nsubj	_
+all	RB	all	DT0	ADV	advmod	_
+right	JJ	right	AJ0	ADJ	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<sp who="#Pag">
+<s type="other" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+Oh	UH	oh	ITJ	INTJ	discourse	_
+<hi rend="italic">
+shit	UH	shit	ITJ	INTJ	discourse	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	dislocated	_
+—	:	—	UNC	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+<hi rend="italic">
+never	RB	never	AV0	ADV	root	_
+</hi>
+...	:	…	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+<s type="decl" transition="continue">
+He	PP	he	PNP	PRON	nsubj	_
+wiped	VVD	wipe	VVD	VERB	root	wip-ed
+his	PP$	his	DPS	PRON	nmod:poss	_
+mouth	NN	mouth	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Blood	NN	blood	NN1	NOUN	nsubj	_
+smeared	VVD	smear	VVD	VERB	root	smear-ed
+the	DT	the	AT0	DET	det	_
+back	NN	back	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+hand	NN	hand	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Pag">
+<s type="decl" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+Oh	UH	oh	ITJ	INTJ	discourse	_
+<hi rend="italic">
+man	UH	man	ITJ	INTJ	discourse	_
+</hi>
+are	VBP	be	VBB	AUX	cop	_
+we	PP	we	PNP	PRON	nsubj	_
+in	IN	in	PRP	ADP	case	_
+trouble	NN	trouble	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<sp who="#Siri">
+<p>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+They	PP	they	PNP	PRON	nsubj	_
+started	VVD	start	VVD	VERB	root	start-ed
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Pag">
+<p>
+<s type="other" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+Yeah	UH	yeah	ITJ	INTJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	conj	_
+—	:	—	UNC	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="italic">
+look	VV	look	VVB	VERB	parataxis	_
+</hi>
+at	IN	at	PRP	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+!	SENT	!	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+moaning	VVG	moan	VVG	VERB	amod	moan-ing
+thing	NN	thing	NN1	NOUN	nsubj	_
+was	VBD	be	VBD	AUX	aux	_
+crawling	VVG	crawl	VVG	VERB	root	crawl-ing
+away	RB	away	AV0	ADV	advmod	a-way
+on	IN	on	PRP	ADP	case	_
+all	DT	all	DT0	DET	det	_
+fours	NNS	four	NN2	NOUN	obl	four-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+wondered	VVD	wonder	VVD	VERB	root	wonder-ed
+how	WRB	how	AVQ	ADV	advmod	_
+long	RB	long	AV0	ADV	ccomp	_
+it	PP	it	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+before	IN	before	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+found	VVD	find	VVD	VERB	advcl	_
+reinforcements	NNS	reinforcement	NN2	NOUN	obj	re-inforce-ment-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+wondered	VVD	wonder	VVD	VERB	root	wonder-ed
+if	IN	if	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+kill	VV	kill	VVI	VERB	ccomp	_
+it	PP	it	PNP	PRON	obj	_
+before	IN	before	CJS	ADP	case	_
+then	RB	then	AV0	ADV	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+<sp who="#Pag">
+"	``	''	PUQ	PUNCT	punct	_
+<w>
+You	PP	you	PNP	PRON	nsubj	_
+'d	MD	would	VHD	AUX	aux	_
+a	VH	have	AT0	AUX	aux	_
+</w>
+<hi rend="italic">
+never	RB	never	AV0	ADV	advmod	_
+</hi>
+done	VVN	do	VDN	VERB	ccomp	_
+that	DT	that	CJT	PRON	obj	_
+before	RB	before	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+Pag	NP	Pag	NP0	PROPN	nsubj	_
+said	VVD	say	VVD	VERB	root	sai-d
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+Before	IN	before	CJS	ADP	case	_
+the	DT	the	AT0	DET	det	_
+operation	NN	operation	NN1	NOUN	ccomp	oper-at-ion
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+meant	VVD	mean	VVD	VERB	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+did	VVD	do	VDD	AUX	aux	_
+feel	VV	feel	VVI	VERB	root	_
+something	NN	something	NN1	PRON	obj	_
+then	RB	then	AV0	ADV	advmod	_
+—	:	—	AJ0	PUNCT	punct	_
+faint	JJ	faint	AJ0	ADJ	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+distant	JJ	distant	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+unmistakable	JJ	unmistakable	AJ0	ADJ	conj	un-mistak-able
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+felt	VVD	feel	VVD	VERB	root	fel-t
+angry	JJ	angry	AJ0	ADJ	xcomp	angr-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Siri">
+<s type="decl" transition="zero">
+"	``	''	PUQ	PUNCT	punct	_
+They	PP	they	PNP	PRON	nsubj	_
+<hi rend="italic">
+started	VVD	start	VVD	VERB	root	start-ed
+</hi>
+—	:	—	UNC	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<s type="decl" transition="null">
+Pag	NP	Pag	NP0	PROPN	nsubj	_
+backed	VVD	back	VVD	VERB	root	back-ed
+away	RB	away	AV0	ADV	advmod	a-way
+,	,	,	PUN	PUNCT	punct	_
+eyes	NNS	eye	NN2	NOUN	nsubj	eye-s
+wide	JJ	wide	AJ0	ADJ	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Pag">
+<s type="wh" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+What	WP	what	PNQ	PRON	obj	_
+are	VBP	be	VBB	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+<hi rend="italic">
+doing	VVG	do	VDG	VERB	root	do-ing
+</hi>
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Put	VV	put	VVB	VERB	root	_
+that	DT	that	DT0	PRON	obj	_
+<hi rend="italic">
+down	RB	down	AVP	ADV	advmod	_
+</hi>
+!	SENT	!	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+'d	VHD	have	VHD	AUX	aux	_
+raised	VVN	raise	VVN	VERB	root	rais-ed
+my	PP$	my	DPS	PRON	nmod:poss	_
+fists	NNS	fist	NN2	NOUN	obj	fist-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+remember	VV	remember	VVI	VERB	root	_
+doing	VVG	do	VDG	VERB	xcomp	do-ing
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+unclenched	VVD	unclench	VVD	VERB	root	un-clench-ed
+them	PP	they	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+It	PP	it	PNP	PRON	nsubj	_
+took	VVD	take	VVD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+while	NN	while	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+look	VV	look	VVI	VERB	xcomp	_
+at	IN	at	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+hands	NNS	hand	NN2	NOUN	obl	hand-s
+very	RB	very	AV0	ADV	advmod	_
+hard	RB	hard	AJ0	ADV	advmod	_
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+long	JJ	long	AJ0	ADJ	amod	_
+,	,	,	PUN	PUNCT	punct	_
+long	JJ	long	AJ0	ADJ	amod	_
+time	NN	time	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+rock	NN	rock	NN1	NOUN	nsubj	_
+dropped	VVD	drop	VVD	VERB	root	dropp-ed
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ground	NN	ground	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+<w>
+blood	NN	blood	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+slick	JJ	slick	AJ0	ADJ	advcl	_
+</w>
+and	CC	and	CJC	CCONJ	cc	_
+glistening	VVG	glisten	VVG	VERB	conj	glisten-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<sp who="#Siri">
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	aux	_
+trying	VVG	try	VVG	VERB	root	try-ing
+to	TO	to	TO0	PART	mark	_
+help	VV	help	VVI	VERB	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+understand	VV	understand	VVI	VERB	root	under-stand
+why	WRB	why	AVQ	ADV	obj	_
+he	PP	he	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+<hi rend="italic">
+see	VV	see	VVI	VERB	advcl:relcl	_
+</hi>
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+<sp who="#Pag">
+"	``	''	PUQ	PUNCT	punct	_
+You	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	dep	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+the	DT	the	AT0	DET	det	_
+<hi rend="italic">
+same	JJ	same	DT0	ADJ	ccomp	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+Pag	NP	Pag	NP0	PROPN	nsubj	_
+said	VVD	say	VVD	VERB	root	sai-d
+from	IN	from	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+safe	JJ	safe	AJ0	ADJ	amod	_
+distance	NN	distance	NN1	NOUN	obl	distan-ce
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Pag">
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+You	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+even	RB	even	AV0	ADV	advmod	_
+<hi rend="italic">
+Siri	NP	Siri	NP0	PROPN	root	_
+</hi>
+any	DT	any	DT0	DET	det	_
+more	RBR	more	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<sp who="#Siri">
+<p>
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+am	VBP	be	VBB	AUX	root	_
+too	RB	too	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Do	VV	do	VDB	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+fuckwad	NN	fuckwad	NN1	NOUN	root	fuck-wad
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Pag">
+<p>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+<hi rend="italic">
+They	PP	they	PNP	PRON	nsubj	_
+cut	VVD	cut	VVD	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+brain	NN	brain	NN1	NOUN	obj	_
+</hi>
+!	SENT	!	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Siri">
+<p>
+<s type="frag" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+Only	RB	only	AV0	ADV	advmod	_
+half	NN	half	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+For	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ep	NN	ep	NN1	NOUN	root	_
+—	:	—	UNC	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<p>
+<sp who="#Pag">
+<s type="decl" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+<hi rend="italic">
+know	VVP	know	VVB	VERB	root	_
+</hi>
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+epilepsy	NN	epilepsy	NN1	NOUN	ccomp	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="smooth-shift">
+You	PP	you	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	ccomp	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+But	CC	but	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+<hi rend="italic">
+in	IN	in	PRP	ADP	case	_
+</hi>
+that	DT	that	DT0	DET	det	_
+half	NN	half	NN1	NOUN	root	_
+—	:	—	AJ0	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="italic">
+part	NN	part	NN1	NOUN	nsubj	_
+</hi>
+of	IN	of	PRF	ADP	case	_
+you	PP	you	PNP	PRON	nmod	_
+was	VBD	be	VBD	AUX	conj	_
+...	:	…	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+<s type="decl" transition="zero">
+He	PP	he	PNP	PRON	nsubj	_
+struggled	VVD	struggle	VVD	VERB	root	struggl-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+words	NNS	word	NN2	NOUN	obl	word-s
+,	,	,	PUN	PUNCT	punct	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+concept	NN	concept	NN1	NOUN	obl	_
+behind	IN	behind	PRP	ADP	case	be-hind
+them	PP	they	PNP	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Pag">
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+And	CC	and	CJC	CCONJ	cc	_
+now	RB	now	AV0	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+<hi rend="italic">
+different	JJ	different	AJ0	ADJ	root	differ-ent
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj:outer	_
+'s	VBZ	be	VBZ	AUX	cop	_
+like	IN	like	PRP	SCONJ	mark	_
+,	,	,	PUN	PUNCT	punct	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+mom	NN	mom	NN1	NOUN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+dad	NN	dad	NN1	NOUN	conj	_
+<hi rend="italic">
+murdered	VVD	murder	VVD	VERB	root	murder-ed
+</hi>
+you	PP	you	PNP	PRON	obj	_
+—	:	—	UNC	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<s type="decl" transition="continue">
+<sp who="#Siri">
+"	``	''	PUQ	PUNCT	punct	_
+My	PP$	my	DPS	PRON	nmod:poss	_
+mom	NN	mom	NN1	NOUN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+dad	NN	dad	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+I	PP	I	PNP	PRON	nsubj	_
+said	VVD	say	VVD	VERB	parataxis	sai-d
+,	,	,	PUN	PUNCT	punct	_
+suddenly	RB	suddenly	AV0	ADV	advmod	sudden-ly
+quiet	JJ	quiet	AJ0	ADJ	acl	_
+,	,	,	PUN	PUNCT	punct	_
+<sp who="#Siri">
+"	``	''	PUQ	PUNCT	punct	_
+saved	VVD	save	VVD	VERB	root	sav-ed
+my	PP$	my	DPS	PRON	nmod:poss	_
+life	NN	life	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</sp>
+</s>
+<sp who="#Siri">
+<s type="sub" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+have	VH	have	VHI	AUX	aux	_
+<hi rend="italic">
+died	VVN	die	VVN	VERB	root	di-ed
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+<p>
+<s type="decl" transition="continue">
+<sp who="#Pag">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	ccomp	_
+you	PP	you	PNP	PRON	nsubj	_
+<hi rend="italic">
+did	VVD	do	VDD	AUX	aux	_
+</hi>
+die	VV	die	VVI	VERB	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</sp>
+said	VVD	say	VVD	VERB	root	sai-d
+my	PP$	my	DPS	PRON	nmod:poss	_
+best	JJS	good	AJS	ADJ	amod	be-st
+and	CC	and	CJC	CCONJ	cc	_
+only	JJ	only	AJ0	ADJ	conj	_
+friend	NN	friend	NN1	NOUN	nsubj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<sp who="#Pag">
+<s type="decl" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+<hi rend="italic">
+Siri	NP	Siri	NP0	PROPN	nsubj	_
+</hi>
+died	VVD	die	VVD	VERB	ccomp	di-ed
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+scooped	VVD	scoop	VVD	VERB	conj	scoop-ed
+him	PP	he	PNP	PRON	obj	_
+out	RP	out	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+threw	VVD	throw	VVD	VERB	conj	_
+him	PP	he	PNP	PRON	obj	_
+away	RB	away	AV0	ADV	advmod	a-way
+and	CC	and	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+some	DT	some	DT0	DET	det	_
+whole	RB	whole	AJ0	ADV	advmod	_
+other	JJ	other	AJ0	ADJ	amod	_
+kid	NN	kid	NN1	NOUN	conj	_
+that	WDT	that	CJT	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+just	RB	just	AV0	ADV	advmod	_
+<hi rend="italic">
+grew	VVD	grow	VVD	VERB	acl:relcl	_
+back	RB	back	AVP	ADV	advmod	_
+</hi>
+out	IN	out	PRP	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+what	WP	what	PNQ	PRON	obl	_
+was	VBD	be	VBD	AUX	aux:pass	_
+left	VVN	leave	VVN	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+You	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+the	DT	the	AT0	DET	det	_
+<hi rend="italic">
+same	JJ	same	DT0	ADJ	root	_
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+Ever	RB	ever	AV0	ADV	advmod	_
+since	RB	since	AV0	ADV	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+the	DT	the	AT0	DET	det	_
+<hi rend="italic">
+same	JJ	same	DT0	ADJ	root	_
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</sp>
+</p>
+</text>

@@ -1,0 +1,1353 @@
+<text id="GUM_reddit_macroeconomics" partition="dev" author="Anjabe96, cchoe1" dateCollected="2017-09-13" dateCreated="2017-09-12" dateModified="2017-09-12" shortTitle="macroeconomics" sourceURL="https://www.reddit.com/r/explainlikeimfive/comments/6zm74h/eli5_if_every_major_country_is_in_billions_if_not/" speakerCount="2" speakerList="#Anjabe96, #cchoe1" title="ELI5: If every major country is in billions (if not trillions) of debt, where are they borrowing from?" type="reddit" summary="In a post answering the question how and to whom countries can be in debt, the author explains how money is a form of debt whose value depends on the amount of money in circulation, and how fiat currency developed as a substitute for gold reserves which formerly backed bank debt certificates.">
+<sp who="#Anjabe96">
+<head>
+<s type="frag" transition="establishment">
+ELI5	NP	ELI5	NP0	PROPN	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="null">
+If	IN	if	CJS	SCONJ	mark	_
+every	DT	every	AT0	DET	det	_
+major	JJ	major	AJ0	ADJ	amod	_
+country	NN	country	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+billions	NNS	billion	NN2	NOUN	advcl	billion-s
+(	(	(	PUL	PUNCT	punct	_
+if	IN	if	CJS	SCONJ	mark	_
+not	RB	not	XX0	PART	advmod	_
+trillions	NNS	trillion	NN2	NOUN	acl	trillion-s
+)	)	)	PUR	PUNCT	punct	_
+of	IN	of	PRF	ADP	case	_
+debt	NN	debt	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+where	WRB	where	CJS	ADV	obl	_
+are	VBP	be	VBB	AUX	aux	_
+they	PP	they	PNP	PRON	nsubj	_
+borrowing	VVG	borrow	VVG	VERB	root	borrow-ing
+from	IN	from	PRP	ADP	case	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</head>
+</sp>
+<sp who="#CChoe" whom="#Anjabe96">
+<p>
+<s type="sub" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+borrow	VV	borrow	VVI	VERB	root	_
+from	IN	from	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+money	NN	money	NN1	NOUN	nsubj	_
+that	WDT	that	CJT	PRON	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+printed	VVN	print	VVN	VERB	acl:relcl	print-ed
+is	VBZ	be	VBZ	AUX	cop	_
+<hi rend="bold">
+FEDERAL	NP	Federal	NP0	ADJ	amod	_
+RESERVE	NP	Reserve	NP0	PROPN	compound	_
+</hi>
+(	(	(	PUL	PUNCT	punct	_
+thanks	NNS	thanks	NN2	NOUN	parataxis	thank-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+corrections	NNS	correction	NN2	NOUN	nmod	correct-ion-s
+)	)	)	PUR	PUNCT	punct	_
+notes	NNS	note	NN2	NOUN	root	note-s
+--	:	-	AJ0	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+<hi rend="italic">
+technically	RB	technically	AV0	ADV	advmod	technical-ly
+</hi>
+a	DT	a	AT0	DET	det	_
+debt	NN	debt	NN1	NOUN	parataxis	_
+that	WDT	that	CJT	PRON	obj	_
+the	DT	the	AT0	DET	det	_
+Reserve	NP	Reserve	NP0	PROPN	nsubj	_
+owes	VVZ	owe	VVZ	VERB	acl:relcl	owe-s
+the	DT	the	AT0	DET	det	_
+bearer	NN	bearer	NN1	NOUN	iobj	bear-er
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+note	NN	note	NN1	NOUN	nmod	_
+(	(	(	PUL	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+printing	VVG	print	VVG	VERB	csubj	print-ing
+money	NN	money	NN1	NOUN	obj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+not	RB	not	XX0	PART	advmod	_
+technically	RB	technically	AV0	ADV	advmod	technical-ly
+increase	VV	increase	VVI	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+debt	NN	debt	NN1	NOUN	compound	_
+supply	NN	supply	NN1	NOUN	obj	supp-ly
+--	:	-	AJ0	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+role	NN	role	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+money	NN	money	NN1	NOUN	nmod	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+changed	VVN	change	VVN	VERB	parataxis	chang-ed
+since	IN	since	PRP	ADP	case	_
+fiat	NN	fiat	NN1	NOUN	compound	_
+currency	NN	currency	NN1	NOUN	obl	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+When	WRB	when	CJS	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+print	VVP	print	VVB	VERB	advcl	_
+more	JJR	more	DT0	ADJ	amod	_
+money	NN	money	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	aux	_
+devaluing	VVG	devalue	VVG	VERB	root	de-valu-ing
+the	DT	the	AT0	DET	det	_
+rest	NN	rest	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+currency	NN	currency	NN1	NOUN	nmod	_
+that	WDT	that	CJT	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+already	RB	already	AV0	ADV	acl:relcl	al-ready
+in	IN	in	PRP	ADP	case	_
+circulation	NN	circulation	NN1	NOUN	obl	circulat-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+means	VVZ	mean	VVZ	VERB	root	mean-s
+that	IN/that	that	CJT	SCONJ	mark	_
+if	IN	if	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+govt	NN	government	NN1	NOUN	nsubj	_
+</sic>
+decided	VVD	decide	VVD	VERB	advcl	decid-ed
+to	TO	to	TO0	PART	mark	_
+print	VV	print	VVI	VERB	xcomp	_
+$	$	$	UNC	SYM	obj	_
+100,000,000,000,000,000	CD	100000000000000000	UNC	NUM	nummod	_
+(	(	(	PUL	PUNCT	punct	_
+1	CD	1	CRD	NUM	compound	_
+quadrillion	NN	quadrillion	NN1	NOUN	nummod	quadrillion
+dollars	NNS	dollar	NN2	NOUN	appos	dollar-s
+)	)	)	PUR	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+span	NN	span	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+week	NN	week	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+value	NN	value	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+dollar	NN	dollar	NN1	NOUN	nmod	_
+would	MD	would	VM0	AUX	aux	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+crash	VV	crash	VVI	VERB	ccomp	_
+pretty	RB	pretty	AV0	ADV	advmod	_
+hard	RB	hard	AJ0	ADV	advmod	_
+(	(	(	PUL	PUNCT	punct	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+...	:	…	PUN	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+related	JJ	related	AJ0	ADJ	root	relat-ed
+because	IN	because	PRP	SCONJ	mark	_
+people	NNS	person	NN0	NOUN	nsubj	_
+use	VVP	use	VVB	VERB	advcl	_
+money	NN	money	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+buy	VV	buy	VVI	VERB	advcl	_
+US	NP	US	NP0	PROPN	compound	_
+debt	NN	debt	NN1	NOUN	obj	_
+--	:	-	AJ0	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+loaning	VVG	loan	VVG	VERB	parataxis	loan-ing
+the	DT	the	AT0	DET	det	_
+US	NP	US	NP0	PROPN	compound	_
+<sic ana="government">
+govt	NN	government	NN1	NOUN	iobj	_
+</sic>
+the	DT	the	AT0	DET	det	_
+very	JJ	very	AJ0	ADJ	amod	_
+money	NN	money	NN1	NOUN	obj	_
+it	PP	it	PNP	PRON	nsubj	_
+prints	VVZ	print	VVZ	VERB	acl:relcl	print-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+only	JJ	only	AJ0	ADJ	amod	_
+reason	NN	reason	NN1	NOUN	nsubj:outer	_
+that	IN/that	that	CJT	SCONJ	mark	_
+this	DT	this	DT0	PRON	nsubj	_
+results	VVZ	result	VVZ	VERB	acl	result-s
+in	IN	in	PRP	ADP	case	_
+anything	NN	anything	NN1	PRON	obl	_
+favorable	JJ	favorable	AJ0	ADJ	amod	favor-able
+is	VBZ	be	VBZ	AUX	cop	_
+because	IN	because	PRP	SCONJ	mark	_
+people	NNS	person	NN0	NOUN	nsubj	_
+all	RB	all	AV0	ADV	advmod	_
+over	IN	over	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+world	NN	world	NN1	NOUN	nmod	_
+value	VVP	value	VVB	VERB	root	_
+USD	NP	USD	NP0	PROPN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+that	DT	that	DT0	DET	det	_
+paper	NN	paper	NN1	NOUN	compound	_
+currency	NN	currency	NN1	NOUN	nsubj	_
+represents	VVZ	represent	VVZ	VERB	conj	re-present-s
+potential	JJ	potential	AJ0	ADJ	amod	potent-ial
+labor	NN	labor	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+new	JJ	new	AJ0	ADJ	amod	_
+assets	NNS	asset	NN2	NOUN	conj	asset-s
+,	,	,	PUN	PUNCT	punct	_
+etc.	FW	etc.	UNC	NOUN	conj	_
+</s>
+</p>
+<p>
+<s type="sub" transition="zero">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+own	VVP	own	VVB	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+baseball	NN	baseball	NN1	NOUN	compound	base-ball
+card	NN	card	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+Sammy	NP	Sammy	NP0	PROPN	nmod	Samm-y
+Sosa	NP	Sosa	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+there	EX	there	EX0	PRON	expl	_
+is	VBZ	be	VBZ	VERB	root	_
+a	DT	a	AT0	DET	det	_
+chance	NN	chance	NN1	NOUN	nsubj	_
+it	PP	it	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+worth	JJ	worth	AJ0	ADJ	acl:relcl	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+money	NN	money	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="establishment">
+Now	RB	now	AV0	ADV	advmod	_
+imagine	VV	imagine	VVB	VERB	root	_
+if	IN	if	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+card	NN	card	NN1	NOUN	compound	_
+company	NN	company	NN1	NOUN	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+mails	VVZ	mail	VVZ	VERB	ccomp	mail-s
+a	DT	a	AT0	DET	det	_
+Sammy	NP	Sammy	NP0	PROPN	compound	Samm-y
+Sosa	NP	Sosa	NP0	PROPN	flat	_
+card	NN	card	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+every	DT	every	AT0	DET	det	_
+family	NN	family	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+America	NP	America	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+Your	PP$	your	DPS	PRON	nmod:poss	_
+Sammy	NP	Sammy	NP0	PROPN	compound	Samm-y
+Sosa	NP	Sosa	NP0	PROPN	flat	_
+card	NN	card	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+n't	RB	not	XX0	PART	advmod	_
+worth	JJ	worth	AJ0	ADJ	root	_
+anything	NN	anything	NN1	PRON	obj	_
+anymore	RB	anymore	AV0	ADV	advmod	_
+because	IN	because	CJS	SCONJ	mark	_
+there	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	advcl	_
+so	RB	so	AV0	ADV	advmod	_
+many	JJ	many	DT0	ADJ	nsubj	_
+of	IN	of	PRF	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+everyone	NN	everyone	NN1	PRON	nsubj	every-one
+has	VHZ	have	VHZ	VERB	conj	ha-s
+it	PP	it	PNP	PRON	obj	_
+now	RB	now	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="smooth-shift">
+Now	RB	now	AV0	ADV	advmod	_
+imagine	VV	imagine	VVB	VERB	root	_
+if	IN	if	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+mailed	VVD	mail	VVD	VERB	ccomp	mail-ed
+another	DT	another	DT0	DET	det	an-other
+5	CD	5	CRD	NUM	obj	_
+to	IN	to	PRP	ADP	case	_
+everyone	NN	everyone	NN1	PRON	obl	every-one
+--	:	-	AJ0	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+value	NN	value	NN1	NOUN	nsubj	_
+crashes	VVZ	crash	VVZ	VERB	parataxis	crashe-s
+even	RB	even	AV0	ADV	advmod	_
+harder	RBR	hard	AJC	ADV	advmod	hard-er
+because	IN	because	CJS	SCONJ	mark	_
+there	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	advcl	_
+<hi rend="bold">
+SO	RB	so	AV0	ADV	advmod	_
+</hi>
+many	JJ	many	DT0	ADJ	nsubj	_
+of	IN	of	PRF	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+now	RB	now	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+That	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+idea	NN	idea	NN1	NOUN	root	_
+with	IN	with	PRP	ADP	case	_
+money	NN	money	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+keep	VV	keep	VVI	VERB	root	_
+printing	VVG	print	VVG	VERB	xcomp	print-ing
+more	JJR	more	DT0	ADJ	amod	_
+money	NN	money	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+else	RB	else	AV0	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+value	NN	value	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+will	MD	will	VM0	AUX	aux	_
+deteriorate	VV	deteriorate	VVI	VERB	conj	deteriorate
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="null">
+But	CC	but	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+keeps	VVZ	keep	VVZ	VERB	root	keep-s
+issuing	VVG	issue	VVG	VERB	xcomp	issu-ing
+more	JJR	more	DT0	ADJ	amod	_
+debt	NN	debt	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+we	PP	we	PNP	PRON	nsubj	_
+still	RB	still	AV0	ADV	advmod	_
+look	VVP	look	VVB	VERB	conj	_
+at	IN	at	PRP	ADP	case	_
+$	$	$	NP0	SYM	obl	_
+20	CD	20	CRD	NUM	nummod	_
+like	IN	like	PRP	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+$	$	$	NP0	SYM	advcl	_
+20	CD	20	CRD	NUM	nummod	_
+,	,	,	PUN	PUNCT	punct	_
+right	JJ	right	AJ0	ADJ	discourse	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+Eventually	RB	eventually	AV0	ADV	advmod	Event-ual-ly
+,	,	,	PUN	PUNCT	punct	_
+there	EX	there	EX0	PRON	expl	_
+could	MD	could	VM0	AUX	aux	_
+come	VV	come	VVI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+time	NN	time	NN1	NOUN	nsubj	_
+when	WRB	when	CJS	ADV	advmod	_
+we	PP	we	PNP	PRON	nsubj	_
+look	VVP	look	VVB	VERB	acl:relcl	_
+at	IN	at	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+$	$	$	AJ0	SYM	compound	_
+20	CD	20	CRD	NUM	nummod	_
+bill	NN	bill	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+means	VVZ	mean	VVZ	VERB	conj	mean-s
+nothing	NN	nothing	NN1	PRON	obj	_
+to	IN	to	PRP	ADP	case	_
+us	PP	we	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+what	WP	what	PNQ	PRON	root	_
+happened	VVD	happen	VVD	VERB	acl:relcl	happen-ed
+in	IN	in	PRP	ADP	case	_
+Zimbabwe	NP	Zimbabwe	NP0	PROPN	obl	_
+where	WRB	where	AVQ	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+billion	CD	billion	CRD	NUM	nummod	_
+dollar	NN	dollar	NN1	NOUN	compound	_
+transaction	NN	transaction	NN1	NOUN	nsubj	transact-ion
+might	MD	might	VM0	AUX	aux	_
+happen	VV	happen	VVI	VERB	acl:relcl	happ-en
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+loaf	NN	loaf	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+bread	NN	bread	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+They	PP	they	PNP	PRON	nsubj	_
+printed	VVD	print	VVD	VERB	root	print-ed
+so	RB	so	AV0	ADV	advmod	_
+much	JJ	much	DT0	ADJ	amod	_
+money	NN	money	NN1	NOUN	obj	_
+(	(	(	PUL	PUNCT	punct	_
+without	IN	without	PRP	ADP	case	_
+proper	JJ	proper	AJ0	ADJ	amod	_
+secure	JJ	secure	AJ0	ADJ	amod	_
+backing	NN	backing	NN1	NOUN	obl	back-ing
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nmod	_
+</sic>
+)	)	)	PUR	PUNCT	punct	_
+that	IN/that	that	CJT	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+became	VVD	become	VVD	VERB	advcl	_
+worthless	JJ	worthless	AJ0	ADJ	xcomp	worth-less
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+So	RB	so	CJS	ADV	advmod	_
+they	PP	they	PNP	PRON	nsubj	_
+started	VVD	start	VVD	VERB	root	start-ed
+to	TO	to	TO0	PART	mark	_
+just	RB	just	AV0	ADV	advmod	_
+increase	VV	increase	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+numbers	NNS	number	NN2	NOUN	obj	number-s
+on	IN	on	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+currency	NN	currency	NN1	NOUN	nmod	_
+so	IN	so	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+pay	VV	pay	VVI	VERB	advcl	_
+for	IN	for	PRP	ADP	case	_
+something	NN	something	NN1	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+Because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+theoretically	RB	theoretically	AV0	ADV	advmod	theoretic-al-ly
+owes	VVZ	owe	VVZ	VERB	advcl	owe-s
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+population	NN	population	NN1	NOUN	iobj	populat-ion
+money	NN	money	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+issue	VVP	issue	VVB	VERB	root	_
+paper	NN	paper	NN1	NOUN	obj	_
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+certificate	NN	certificate	NN1	NOUN	obl	cert-ifi-cate
+of	IN	of	PRF	ADP	case	_
+this	DT	this	DT0	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="rough-shift">
+You	PP	you	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	AUX	aux	_
+physically	RB	physically	AV0	ADV	advmod	physic-al-ly
+went	VVN	go	VVN	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+bank	NN	bank	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+traded	VVN	trade	VVN	VERB	conj	trad-ed
+something	NN	something	NN1	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+return	NN	return	NN1	NOUN	obl	re-turn
+for	IN	for	PRP	ADP	case	_
+paper	NN	paper	NN1	NOUN	nmod	_
+but	CC	but	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	nsubj	_
+did	VVD	do	VDD	VERB	conj	_
+something	NN	something	NN1	PRON	obj	_
+that	WDT	that	CJT	PRON	nsubj	_
+warranted	VVD	warrant	VVD	VERB	acl:relcl	warrant-ed
+the	DT	the	AT0	DET	det	_
+earning	NN	earning	NN1	NOUN	obj	earn-ing
+of	IN	of	PRF	ADP	case	_
+that	DT	that	DT0	DET	det	_
+dollar	NN	dollar	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+work	VVP	work	VVB	VERB	advcl	_
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+company	NN	company	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+pay	VVP	pay	VVB	VERB	root	_
+you	PP	you	PNP	PRON	iobj	_
+that	DT	that	DT0	DET	det	_
+money	NN	money	NN1	NOUN	obj	_
+because	IN	because	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+has	VHZ	have	VHZ	VERB	advcl	ha-s
+value	NN	value	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+buy	VV	buy	VVI	VERB	conj	_
+things	NNS	thing	NN2	NOUN	obj	thing-s
+with	IN	with	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+only	JJ	only	AJ0	ADJ	amod	_
+reason	NN	reason	NN1	NOUN	nsubj:outer	_
+it	PP	it	PNP	PRON	nsubj	_
+has	VHZ	have	VHZ	VERB	acl	ha-s
+value	NN	value	NN1	NOUN	obj	_
+is	VBZ	be	VBZ	AUX	cop	_
+because	IN	because	PRP	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+US	NP	US	NP0	PROPN	compound	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+says	VVZ	say	VVZ	VERB	root	say-s
+it	PP	it	PNP	PRON	nsubj	_
+does	VVZ	do	VDZ	AUX	ccomp	doe-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="smooth-shift">
+You	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+pay	VV	pay	VVI	VERB	root	_
+<w>
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	compound	_
+</sic>
+-	HYPH	-	PUN	PUNCT	punct	_
+related	JJ	related	AJ0	ADJ	amod	relat-ed
+</w>
+fees	NNS	fee	NN2	NOUN	obj	fee-s
+and	CC	and	CJC	CCONJ	cc	_
+bills	NNS	bill	NN2	NOUN	conj	bill-s
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+money	NN	money	NN1	NOUN	obl	_
+they	PP	they	PNP	PRON	nsubj	_
+issue	VVP	issue	VVB	VERB	acl:relcl	_
+and	CC	and	CJC	CCONJ	cc	_
+because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj:outer	_
+</sic>
+is	VBZ	be	VBZ	AUX	cop	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+secured	VVN	secure	VVN	VERB	advcl	secur-ed
+</w>
+,	,	,	PUN	PUNCT	punct	_
+people	NNS	person	NN0	NOUN	nsubj	_
+accept	VVP	accept	VVB	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="retain">
+If	IN	if	CJS	SCONJ	mark	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+was	VBD	be	VBD	AUX	cop	_
+unstable	JJ	unstable	AJ0	ADJ	advcl	un-stable
+,	,	,	PUN	PUNCT	punct	_
+no	DT	no	ITJ	DET	det	_
+one	NN	one	NN1	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+trust	VV	trust	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+dollars	NNS	dollar	NN2	NOUN	iobj	dollar-s
+they	PP	they	PNP	PRON	nsubj	_
+slept	VVD	sleep	VVD	VERB	acl:relcl	_
+under	IN	under	PRP	ADP	obl	_
+for	IN	for	PRP	ADP	case	_
+warmth	NN	warmth	NN1	NOUN	obl	warm-th
+because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+could	MD	could	VM0	AUX	aux	_
+just	RB	just	AV0	ADV	advmod	_
+come	VV	come	VVI	VERB	advcl	_
+out	RP	out	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+say	VV	say	VVB	VERB	conj	_
+,	,	,	PUN	PUNCT	punct	_
+<quote>
+'	``	'	PUQ	PUNCT	punct	_
+Sorry	JJ	sorry	AJ0	ADJ	discourse	Sorr-y
+we	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+paying	VVG	pay	VVG	VERB	ccomp	pay-ing
+you	PP	you	PNP	PRON	dep	_
+guys	NNS	guy	NN2	NOUN	iobj	guy-s
+back	RP	back	AVP	ADP	compound:prt	_
+'	''	'	PUQ	PUNCT	punct	_
+</quote>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="wh" transition="continue">
+Well	UH	well	ITJ	INTJ	discourse	_
+what	WP	what	PNQ	PRON	obj	_
+would	MD	would	VM0	AUX	aux	_
+they	PP	they	PNP	PRON	nsubj	_
+be	VB	be	VBI	AUX	aux	_
+paying	VVG	pay	VVG	VERB	root	pay-ing
+back	RP	back	AVP	ADP	compound:prt	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="continue">
+To	IN	to	PRP	ADP	case	_
+whom	WP	who	PNQ	PRON	obl	_
+are	VBP	be	VBB	AUX	aux	_
+they	PP	they	PNP	PRON	nsubj	_
+paying	VVG	pay	VVG	VERB	root	pay-ing
+back	RP	back	AVP	ADP	compound:prt	_
+<sic ana="">
+to	IN	to	PRP	ADP	obl	_
+</sic>
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+It	PP	it	PNP	PRON	nsubj	_
+used	VVD	use	VVD	VERB	root	us-ed
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+gold	NN	gold	NN1	NOUN	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+But	CC	but	CJC	CCONJ	cc	_
+as	IN	as	CJS	SCONJ	mark	_
+we	PP	we	PNP	PRON	nsubj	_
+grew	VVD	grow	VVD	VERB	advcl	_
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+planet	NN	planet	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+ran	VVD	run	VVD	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+of	IN	of	PRF	ADP	case	_
+gold	NN	gold	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+back	VV	back	VVI	VERB	acl	_
+every	DT	every	AT0	DET	det	_
+dollar	NN	dollar	NN1	NOUN	obj	_
+with	IN	with	PRP	ADP	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+became	VVD	become	VVD	VERB	conj	_
+a	DT	a	AT0	DET	det	_
+nightmare	NN	nightmare	NN1	NOUN	xcomp	_
+to	TO	to	TO0	PART	mark	_
+handle	VV	handle	VVI	VERB	acl	hand-le
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="zero">
+Enter	VV	enter	VVB	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+fiat	NN	fiat	NN1	NOUN	compound	_
+currency	NN	currency	NN1	NOUN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+piece	NN	piece	NN1	NOUN	appos	_
+of	IN	of	PRF	ADP	case	_
+paper	NN	paper	NN1	NOUN	nmod	_
+that	WDT	that	CJT	PRON	nsubj	_
+means	VVZ	mean	VVZ	VERB	acl:relcl	mean-s
+nothing	NN	nothing	NN1	PRON	obj	_
+except	IN	except	PRP	ADP	case	_
+what	WP	what	PNQ	PRON	nmod	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+says	VVZ	say	VVZ	VERB	acl:relcl	say-s
+it	PP	it	PNP	PRON	nsubj	_
+means	VVZ	mean	VVZ	VERB	ccomp	mean-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+People	NNS	person	NN0	NOUN	nsubj	_
+used	VVD	use	VVD	VERB	root	us-ed
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	xcomp	_
+to	IN	to	PRP	ADP	case	_
+banks	NNS	bank	NN2	NOUN	obl	bank-s
+with	IN	with	PRP	ADP	case	_
+gold	NN	gold	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+receive	VV	receive	VVB	VERB	conj	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+money	NN	money	NN1	NOUN	obj	_
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+for	IN	for	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+banks	NNS	bank	NN2	NOUN	nsubj	bank-s
+would	MD	would	VM0	AUX	aux	_
+literally	RB	literally	AV0	ADV	advmod	literal-ly
+hold	VV	hold	VVI	VERB	root	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+gold	NN	gold	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+give	VV	give	VVB	VERB	conj	_
+them	PP	they	PNP	PRON	iobj	_
+an	DT	a	AT0	DET	det	_
+certificate	NN	certificate	NN1	NOUN	obj	cert-ifi-cate
+that	WDT	that	CJT	PRON	nsubj	_
+says	VVZ	say	VVZ	VERB	acl:relcl	say-s
+they	PP	they	PNP	PRON	nsubj	_
+own	VVP	own	VVB	VERB	ccomp	_
+a	DT	a	AT0	DET	det	_
+claim	NN	claim	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+gold	NN	gold	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+vaults	NNS	vault	NN2	NOUN	nmod	vault-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="rough-shift">
+If	IN	if	CJS	SCONJ	mark	_
+<hi rend="bold">
+ANYONE	NN	anyone	NN1	PRON	nsubj	ANY-ONE
+</hi>
+brought	VVD	bring	VVD	VERB	advcl	_
+that	DT	that	DT0	DET	det	_
+certificate	NN	certificate	NN1	NOUN	obj	cert-ifi-cate
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+bank	NN	bank	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+expect	VV	expect	VVI	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+receive	VV	receive	VVI	VERB	xcomp	_
+gold	NN	gold	NN1	NOUN	obj	_
+for	IN	for	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+That	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+what	WP	what	PNQ	PRON	root	_
+gave	VVD	give	VVD	VERB	acl:relcl	_
+it	PP	it	PNP	PRON	iobj	_
+value	NN	value	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+say	VV	say	VVI	VERB	root	_
+you	PP	you	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	ccomp	_
+that	DT	that	DT0	DET	det	_
+farmer	NN	farmer	NN1	NOUN	nmod:poss	farm-er
+'s	POS	's	POS	PART	case	_
+potatoes	NNS	potato	NN2	NOUN	obj	potatoe-s
+and	CC	and	CJC	CCONJ	cc	_
+he	PP	he	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+go	VV	go	VVI	VERB	conj	_
+get	VV	get	VVI	VERB	xcomp	_
+$	$	$	UNC	SYM	obj	_
+1	CD	1	CRD	NUM	nummod	_
+of	IN	of	PRF	ADP	case	_
+gold	NN	gold	NN1	NOUN	nmod	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+bankers	NNS	banker	NN2	NOUN	obl	bank-er-s
+at	IN	at	PRP	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+convenience	NN	convenience	NN1	NOUN	obl	conveni-ence
+or	CC	or	CJC	CCONJ	cc	_
+he	PP	he	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+hold	VV	hold	VVI	VERB	conj	_
+onto	IN	onto	PRP	ADP	case	on-to
+it	PP	it	PNP	PRON	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+use	VV	use	VVB	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+just	RB	just	AV0	ADV	advmod	_
+like	IN	like	PRP	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+person	NN	person	NN1	NOUN	nsubj	_
+did	VVD	do	VDD	AUX	advcl	_
+before	IN	before	CJS	ADP	case	_
+him	PP	he	PNP	PRON	obl	_
+--	:	-	AJ0	PUNCT	punct	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+trade	VV	trade	NN1	VERB	parataxis	_
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+it	PP	it	PNP	PRON	obj	_
+for	IN	for	PRP	ADP	case	_
+something	NN	something	NN1	PRON	obl	_
+else	RB	else	AV0	ADV	advmod	_
+like	IN	like	PRP	ADP	case	_
+new	JJ	new	AJ0	ADJ	amod	_
+shoes	NNS	shoe	NN2	NOUN	nmod	shoe-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="null">
+Why	WRB	why	AVQ	ADV	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Because	IN	because	CJS	SCONJ	mark	_
+everyone	NN	everyone	NN1	PRON	nsubj	every-one
+liked	VVD	like	VVD	VERB	root	lik-ed
+gold	NN	gold	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+everyone	NN	everyone	NN1	PRON	nsubj	every-one
+believed	VVD	believe	VVD	VERB	conj	believ-ed
+gold	NN	gold	NN1	NOUN	nsubj	_
+had	VHD	have	VHD	VERB	ccomp	_
+value	NN	value	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Eventually	RB	eventually	AV0	ADV	advmod	Event-ual-ly
+,	,	,	PUN	PUNCT	punct	_
+this	DT	this	DT0	PRON	nsubj	_
+took	VVD	take	VVD	VERB	root	_
+off	RP	off	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+people	NNS	person	NN0	NOUN	nsubj	_
+stopped	VVD	stop	VVD	VERB	conj	stopp-ed
+trading	VVG	trade	VVG	VERB	xcomp	trad-ing
+for	IN	for	PRP	ADP	case	_
+things	NNS	thing	NN2	NOUN	obl	thing-s
+and	CC	and	CJC	CCONJ	cc	_
+we	PP	we	PNP	PRON	nsubj	_
+developed	VVD	develop	VVD	VERB	conj	develop-ed
+currency	NN	currency	NN1	NOUN	obj	_
+with	IN	with	PRP	ADP	case	_
+quantitative	JJ	quantitative	AJ0	ADJ	amod	quantit-ative
+values	NNS	value	NN2	NOUN	nmod	value-s
+that	WDT	that	CJT	PRON	nsubj	_
+allowed	VVD	allow	VVD	VERB	acl:relcl	allow-ed
+for	IN	for	PRP	SCONJ	mark	_
+easy	JJ	easy	AJ0	ADJ	amod	eas-y
+exchanges	NNS	exchange	NN2	NOUN	nsubj	exchange-s
+to	TO	to	TO0	PART	mark	_
+take	VV	take	VVI	VERB	advcl	_
+place	NN	place	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="null">
+So	RB	so	CJS	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+think	VV	think	VVI	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+<quote>
+'	''	'	PUQ	PUNCT	punct	_
+Well	UH	well	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+now	RB	now	AV0	ADV	advmod	_
+that	IN/that	that	CJT	SCONJ	mark	_
+there	EX	there	EX0	PRON	expl	_
+is	VBZ	be	VBZ	VERB	advcl	_
+n't	RB	not	XX0	PART	advmod	_
+gold	NN	gold	NN1	NOUN	nsubj	_
+behind	IN	behind	PRP	ADP	case	be-hind
+my	PP$	my	DPS	PRON	nmod:poss	_
+dollar	NN	dollar	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+how	WRB	how	AVQ	ADV	advmod	_
+is	VBZ	be	VBZ	AUX	cop	_
+it	PP	it	PNP	PRON	nsubj	_
+worth	JJ	worth	AJ0	ADJ	ccomp	_
+anything	NN	anything	NN1	PRON	obj	_
+even	RB	even	AV0	ADV	advmod	_
+if	IN	if	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+say	VVP	say	VVB	VERB	advcl	_
+it	PP	it	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	ccomp	_
+?	SENT	?	PUN	PUNCT	punct	_
+They	PP	they	PNP	PRON	nsubj	_
+wo	MD	will	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+give	VV	give	VVI	VERB	parataxis	_
+me	PP	I	PNP	PRON	iobj	_
+anything	NN	anything	NN1	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+return	NN	return	NN1	NOUN	obl	re-turn
+for	IN	for	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+"	''	''	PUQ	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</quote>
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+thing	NN	thing	NN1	NOUN	nsubj	_
+applies	VVZ	apply	VVZ	VERB	root	appl-ie-s
+to	IN	to	PRP	ADP	case	_
+gold	NN	gold	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+No	DT	no	ITJ	DET	det	_
+one	NN	one	NN1	PRON	nsubj	_
+wants	VVZ	want	VVZ	VERB	root	want-s
+gold	NN	gold	NN1	NOUN	obj	_
+unless	IN	unless	CJS	SCONJ	mark	_
+other	JJ	other	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nsubj	_
+want	VVP	want	VVB	VERB	advcl	_
+gold	NN	gold	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="zero">
+If	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+reasonably	RB	reasonably	AV0	ADV	advmod	reasonab-ly
+trade	VV	trade	VVI	VERB	advcl	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+gold	NN	gold	NN1	NOUN	obj	_
+for	IN	for	PRP	ADP	case	_
+something	NN	something	NN1	PRON	obl	_
+else	RB	else	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+then	RB	then	AV0	ADV	advmod	_
+what	WDT	what	DTQ	DET	det	_
+value	NN	value	NN1	NOUN	obj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+it	PP	it	PNP	PRON	nsubj	_
+have	VH	have	VHB	VERB	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+(	(	(	PUL	PUNCT	punct	_
+Someone	NN	someone	NN1	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+point	VV	point	VVI	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+shave	VV	shave	VVI	VERB	ccomp	_
+gold	NN	gold	NN1	NOUN	compound	_
+flakes	NNS	flake	NN2	NOUN	obj	flake-s
+into	IN	into	PRP	ADP	case	in-to
+your	PP$	your	DPS	PRON	nmod:poss	_
+water	NN	water	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+drink	VV	drink	VVB	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	SCONJ	mark	_
+some	DT	some	DT0	DET	det	_
+companies	NNS	company	NN2	NOUN	nsubj	companie-s
+have	VHP	have	VHB	AUX	aux	_
+chosen	VVN	choose	VVN	VERB	advcl	chos-en
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+that	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	conj	_
+on	IN	on	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+)	)	)	PUR	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+As	RB	as	CJS	ADV	advmod	_
+long	RB	long	AV0	ADV	advmod	_
+as	IN	as	PRP	SCONJ	mark	_
+people	NNS	person	NN0	NOUN	nsubj	_
+continue	VVP	continue	VVB	VERB	advcl	_
+to	TO	to	TO0	PART	mark	_
+value	VV	value	VVI	VERB	xcomp	_
+dollars	NNS	dollar	NN2	NOUN	obj	dollar-s
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n't	RB	not	XX0	PART	advmod	_
+matter	VV	matter	VVI	VERB	root	_
+what	WP	what	PNQ	PRON	dislocated	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+worth	JJ	worth	AJ0	ADJ	acl:relcl	_
+,	,	,	PUN	PUNCT	punct	_
+sans	IN	sans	PRP	ADP	case	_
+some	DT	some	DT0	DET	det	_
+certain	JJ	certain	AJ0	ADJ	amod	_
+supply	NN	supply	NN1	NOUN	compound	supp-ly
+and	CC	and	CJC	CCONJ	cc	_
+demand	NN	demand	NN1	NOUN	conj	_
+laws	NNS	law	NN2	NOUN	obl	law-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+So	RB	so	CJS	ADV	advmod	_
+gold	NN	gold	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+no	RB	no	AV0	ADV	advmod	_
+different	JJ	different	AJ0	ADJ	root	differ-ent
+in	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+regard	NN	regard	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+<hi rend="bold">
+ONE	CD	one	CRD	NUM	nummod	_
+</hi>
+difference	NN	difference	NN1	NOUN	nsubj:outer	differ-ence
+between	IN	between	PRP	ADP	case	be-tween
+paper	NN	paper	NN1	NOUN	compound	_
+currency	NN	currency	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+gold	NN	gold	NN1	NOUN	conj	_
+is	VBZ	be	VBZ	AUX	cop	_
+that	IN/that	that	CJT	SCONJ	mark	_
+$	$	$	NP0	SYM	nsubj	_
+100,000	CD	100000	CRD	NUM	nummod	_
+in	IN	in	PRP	ADP	case	_
+cash	NN	cash	NN1	NOUN	nmod	_
+weighs	VVZ	weigh	VVZ	VERB	root	weigh-s
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obl:npmod	_
+less	RBR	less	AV0	ADV	advmod	_
+than	IN	than	CJS	ADP	fixed	_
+$	$	$	NP0	SYM	obj	_
+100,000	CD	100000	CRD	NUM	nummod	_
+in	IN	in	PRP	ADP	case	_
+gold	NN	gold	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obl:npmod	_
+easier	JJR	easy	AJC	ADJ	conj	_
+to	TO	to	TO0	PART	mark	_
+hide	VV	hide	VVI	VERB	xcomp	_
+too	RB	too	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="frag" transition="zero">
+EDIT	NN	edit	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+made	VVD	make	VVD	VERB	root	_
+some	DT	some	DT0	DET	det	_
+slight	JJ	slight	AJ0	ADJ	amod	_
+revisions	NNS	revision	NN2	NOUN	obj	revis-ion-s
+to	TO	to	TO0	PART	mark	_
+correct	VV	correct	AJ0	VERB	advcl	_
+errors	NNS	error	NN2	NOUN	obj	err-or-s
+and	CC	and	CJC	CCONJ	cc	_
+to	TO	to	TO0	PART	mark	_
+try	VV	try	VVI	VERB	conj	_
+and	CC	and	CJC	CCONJ	cc	_
+relate	VV	relate	VVI	VERB	conj	_
+things	NNS	thing	NN2	NOUN	obj	thing-s
+better	RBR	well	AV0	ADV	advmod	bett-er
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+main	JJ	main	AJ0	ADJ	amod	_
+topic	NN	topic	NN1	NOUN	obl	_
+at	IN	at	PRP	ADP	case	_
+hand	NN	hand	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="establishment">
+Sorry	JJ	sorry	AJ0	ADJ	discourse	Sorr-y
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+kinda	RB	kinda	AV0	ADV	advmod	_
+started	VVD	start	VVD	VERB	root	start-ed
+rambling	VVG	ramble	VVG	VERB	xcomp	ramb-l-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+also	RB	also	AV0	ADV	advmod	_
+posted	VVN	post	VVN	VERB	root	post-ed
+below	RB	below	AV0	ADV	advmod	be-low
+in	IN	in	PRP	ADP	case	_
+response	NN	response	NN1	NOUN	obl	_
+to	IN	to	PRP	ADP	case	_
+<ref target="https://www.reddit.com/user/penny_eater">
+u/penny_eater	NP	u/penny_eater	NP0	PROPN	nmod	_
+</ref>
+to	TO	to	TO0	PART	mark	_
+correct	VV	correct	VVI	VERB	advcl	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+errors	NNS	error	NN2	NOUN	obj	err-or-s
+and	CC	and	CJC	CCONJ	cc	_
+explain	VV	explain	VVB	VERB	conj	_
+them	PP	they	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+little	JJ	little	AJ0	ADJ	amod	_
+bit	NN	bit	NN1	NOUN	obl:npmod	_
+further	JJR	further	AJC	ADJ	amod	furth-er
+detail	NN	detail	NN1	NOUN	obl	_
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+kinda	RB	kinda	AV0	ADV	advmod	_
+strays	VVZ	stray	VVZ	VERB	conj	stray-s
+away	RB	away	AV0	ADV	advmod	a-way
+from	IN	from	PRP	ADP	case	_
+ELI5	NP	ELI5	NP0	PROPN	compound	_
+territory	NN	territory	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+This	DT	this	DT0	PRON	nsubj	_
+kinda	RB	kinda	AV0	ADV	advmod	_
+seems	VVZ	seem	VVZ	VERB	root	seem-s
+all	RB	all	DT0	ADV	advmod	_
+over	IN	over	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+place	NN	place	NN1	NOUN	obl	_
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+good	JJ	good	AJ0	ADJ	amod	_
+starter	NN	starter	NN1	NOUN	compound	start-er
+information	NN	information	NN1	NOUN	conj	in-form-ation
+for	IN	for	PRP	ADP	case	_
+someone	NN	someone	NN1	PRON	nmod	_
+trying	VVG	try	VVG	VERB	acl	try-ing
+to	TO	to	TO0	PART	mark	_
+understand	VV	understand	VVI	VERB	xcomp	under-stand
+debt	NN	debt	NN1	NOUN	compound	_
+markets	NNS	market	NN2	NOUN	obj	market-s
+and	CC	and	CJC	CCONJ	cc	_
+macroeconomics	NN	macroeconomics	NN1	NOUN	conj	macro-econom-ic-s
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+general	NN	general	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Monetary	JJ	monetary	AJ0	ADJ	amod	_
+supply	NN	supply	NN1	NOUN	nsubj	supp-ly
+and	CC	and	CJC	CCONJ	cc	_
+debt	NN	debt	NN1	NOUN	conj	_
+are	VBP	be	VBB	AUX	cop	_
+pretty	RB	pretty	AJ0	ADV	advmod	_
+<w>
+hand	NN	hand	NN1	NOUN	root	_
+-	HYPH	-	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+-	HYPH	-	PUN	PUNCT	punct	_
+hand	NN	hand	NN1	NOUN	nmod	_
+</w>
+,	,	,	PUN	PUNCT	punct	_
+even	RB	even	AV0	ADV	advmod	_
+if	IN	if	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+exactly	RB	exactly	AV0	ADV	advmod	exact-ly
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+thing	NN	thing	NN1	NOUN	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Larger	JJR	large	AJC	ADJ	amod	Larg-er
+and	CC	and	CJC	CCONJ	cc	_
+more	RBR	more	AV0	ADV	advmod	_
+complex	JJ	complex	AJ0	ADJ	conj	_
+economies	NNS	economy	NN2	NOUN	nsubj	_
+warranted	VVD	warrant	VVD	VERB	root	warrant-ed
+the	DT	the	AT0	DET	det	_
+development	NN	development	NN1	NOUN	obj	develop-ment
+of	IN	of	PRF	ADP	case	_
+fiat	NN	fiat	NN1	NOUN	compound	_
+currency	NN	currency	NN1	NOUN	nmod	_
+which	WDT	which	DTQ	PRON	nsubj	_
+ultimately	RB	ultimately	AV0	ADV	advmod	ultimate-ly
+changed	VVD	change	VVD	VERB	acl:relcl	chang-ed
+the	DT	the	AT0	DET	det	_
+role	NN	role	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+currency	NN	currency	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+general	NN	general	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj	_
+no	RB	no	AV0	ADV	advmod	_
+longer	RBR	long	AV0	ADV	advmod	long-er
+represents	VVZ	represent	VVZ	VERB	root	re-present-s
+a	DT	a	AT0	DET	det	_
+claim	NN	claim	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+per	FW	per	NN0	X	case	_
+se	FW	se	UNC	X	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+represents	VVZ	represent	VVZ	VERB	conj	re-present-s
+value	NN	value	NN1	NOUN	obj	_
+because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	nsubj	_
+</sic>
+says	VVZ	say	VVZ	VERB	advcl	say-s
+it	PP	it	PNP	PRON	nsubj	_
+has	VHZ	have	VHZ	VERB	ccomp	ha-s
+value	NN	value	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+will	MD	will	VM0	AUX	aux	_
+accept	VV	accept	VVI	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+for	IN	for	PRP	ADP	case	_
+<sic ana="government">
+gov't	NN	government	NN1	NOUN	compound	_
+</sic>
+related	JJ	related	AJ0	ADJ	amod	relat-ed
+transactions	NNS	transaction	NN2	NOUN	obl	transact-ion-s
+and	CC	and	CJC	CCONJ	cc	_
+business	NN	business	NN1	NOUN	conj	busi-ness
+with	IN	with	PRP	ADP	case	_
+foreign	JJ	foreign	AJ0	ADJ	amod	_
+entities	NNS	entity	NN2	NOUN	nmod	entitie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="zero">
+Also	RB	also	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+do	VV	do	VDB	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+get	VV	get	VVI	VERB	root	_
+me	PP	I	PNP	PRON	nsubj:pass	_
+started	VVN	start	VVN	VERB	xcomp	start-ed
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+petrodollar	NN	petrodollar	NN1	NOUN	obl	petro-dollar
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

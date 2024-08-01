@@ -1,0 +1,879 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=The Cost to Be Wise
+1-1	_	The	_	_	_	_
+1-2	_	Cost	_	_	_	_
+1-3	_	to	_	_	_	_
+1-4	_	Be	_	_	_	_
+1-5	_	Wise	_	_	_	_
+
+#Text=Veronique stayed with me that night , lying next to me in my blankets and furs .
+2-1	_	Veronique	abstract[34]	new[34]	coref	3-1[34_35]
+2-2	_	stayed	_	_	_	_
+2-3	_	with	_	_	_	_
+2-4	_	me	abstract[1]	new[1]	coref	2-11[1_2]
+2-5	_	that	_	_	_	_
+2-6	_	night	_	_	_	_
+2-7	_	,	_	_	_	_
+2-8	_	lying	_	_	_	_
+2-9	_	next	_	_	_	_
+2-10	_	to	_	_	_	_
+2-11	_	me	abstract[2]	new[2]	coref	2-13[2_3]
+2-12	_	in	_	_	_	_
+2-13	_	my	abstract[3]	new[3]	coref	3-6[3_4]
+2-14	_	blankets	_	_	_	_
+2-15	_	and	_	_	_	_
+2-16	_	furs	_	_	_	_
+2-17	_	.	_	_	_	_
+
+#Text=She did n't sleep , I do n't think .
+3-1	_	She	abstract[35]	new[35]	coref	4-5[35_36]
+3-2	_	did	_	_	_	_
+3-3	_	n't	_	_	_	_
+3-4	_	sleep	_	_	_	_
+3-5	_	,	_	_	_	_
+3-6	_	I	abstract[4]	new[4]	coref	4-1[4_5]
+3-7	_	do	_	_	_	_
+3-8	_	n't	_	_	_	_
+3-9	_	think	_	_	_	_
+3-10	_	.	_	_	_	_
+
+#Text=I was listening to her breath .
+4-1	_	I	abstract[5]	new[5]	coref	5-1[5_6]
+4-2	_	was	_	_	_	_
+4-3	_	listening	_	_	_	_
+4-4	_	to	_	_	_	_
+4-5	_	her	abstract[36]	new[36]	coref	5-8[36_37]
+4-6	_	breath	_	_	_	_
+4-7	_	.	_	_	_	_
+
+#Text=I felt as if I should help her sleep .
+5-1	_	I	abstract[6]	new[6]	coref	5-5[6_7]
+5-2	_	felt	_	_	_	_
+5-3	_	as	_	_	_	_
+5-4	_	if	_	_	_	_
+5-5	_	I	abstract[7]	new[7]	coref	6-1[7_8]
+5-6	_	should	_	_	_	_
+5-7	_	help	_	_	_	_
+5-8	_	her	abstract[37]	new[37]	coref	6-15[37_38]
+5-9	_	sleep	_	_	_	_
+5-10	_	.	_	_	_	_
+
+#Text=I lay there and tried to think if I should put my arm around her , but I did n't know .
+6-1	_	I	abstract[8]	new[8]	coref	6-9[8_9]
+6-2	_	lay	_	_	_	_
+6-3	_	there	_	_	_	_
+6-4	_	and	_	_	_	_
+6-5	_	tried	_	_	_	_
+6-6	_	to	_	_	_	_
+6-7	_	think	_	_	_	_
+6-8	_	if	_	_	_	_
+6-9	_	I	abstract[9]	new[9]	coref	6-12[9_10]
+6-10	_	should	_	_	_	_
+6-11	_	put	_	_	_	_
+6-12	_	my	abstract[10]	new[10]	coref	6-18[10_11]
+6-13	_	arm	_	_	_	_
+6-14	_	around	_	_	_	_
+6-15	_	her	abstract[38]	new[38]	coref	7-2[38_39]
+6-16	_	,	_	_	_	_
+6-17	_	but	_	_	_	_
+6-18	_	I	abstract[11]	new[11]	coref	11-10[11_12]
+6-19	_	did	_	_	_	_
+6-20	_	n't	_	_	_	_
+6-21	_	know	_	_	_	_
+6-22	_	.	_	_	_	_
+
+#Text=Maybe she did n't want to be touched .
+7-1	_	Maybe	_	_	_	_
+7-2	_	she	abstract[39]	new[39]	coref	8-2[39_40]
+7-3	_	did	_	_	_	_
+7-4	_	n't	_	_	_	_
+7-5	_	want	_	_	_	_
+7-6	_	to	_	_	_	_
+7-7	_	be	_	_	_	_
+7-8	_	touched	_	_	_	_
+7-9	_	.	_	_	_	_
+
+#Text=And she had been a stupid girl , anyway .
+8-1	_	And	_	_	_	_
+8-2	_	she	abstract[40]	new[40]	coref	9-1[40_41]
+8-3	_	had	_	_	_	_
+8-4	_	been	_	_	_	_
+8-5	_	a	_	_	_	_
+8-6	_	stupid	_	_	_	_
+8-7	_	girl	_	_	_	_
+8-8	_	,	_	_	_	_
+8-9	_	anyway	_	_	_	_
+8-10	_	.	_	_	_	_
+
+#Text=She lay tense in the dark .
+9-1	_	She	abstract[41]	new[41]	coref	10-2[41_42]
+9-2	_	lay	_	_	_	_
+9-3	_	tense	_	_	_	_
+9-4	_	in	_	_	_	_
+9-5	_	the	abstract[88]	new[88]	coref	29-6[88_89]
+9-6	_	dark	abstract[88]	new[88]	_	_
+9-7	_	.	_	_	_	_
+
+#Text=" I was reminiscing on a week - long night when I was woken by a pixie .
+10-1	_	"	_	_	_	_
+10-2	_	I	abstract[42]	new[42]	coref	10-12[42_43]
+10-3	_	was	_	_	_	_
+10-4	_	reminiscing	_	_	_	_
+10-5	_	on	_	_	_	_
+10-6	_	a	_	_	_	_
+10-7	_	week	_	_	_	_
+10-8	_	-	_	_	_	_
+10-9	_	long	_	_	_	_
+10-10	_	night	_	_	_	_
+10-11	_	when	_	_	_	_
+10-12	_	I	abstract[43]	new[43]	coref	11-2[43_44]
+10-13	_	was	_	_	_	_
+10-14	_	woken	_	_	_	_
+10-15	_	by	_	_	_	_
+10-16	_	a	_	_	_	_
+10-17	_	pixie	_	_	_	_
+10-18	_	.	_	_	_	_
+
+#Text=Are you going to be a teacher ? " I asked .
+11-1	_	Are	_	_	_	_
+11-2	_	you	abstract[44]	new[44]	coref	12-1[44_45]
+11-3	_	going	_	_	_	_
+11-4	_	to	_	_	_	_
+11-5	_	be	_	_	_	_
+11-6	_	a	_	_	_	_
+11-7	_	teacher	_	_	_	_
+11-8	_	?	_	_	_	_
+11-9	_	"	_	_	_	_
+11-10	_	I	abstract[12]	new[12]	coref	14-1[12_13]
+11-11	_	asked	_	_	_	_
+11-12	_	.	_	_	_	_
+
+#Text=She laughed .
+12-1	_	She	abstract[45]	new[45]	coref	13-3[45_46]
+12-2	_	laughed	_	_	_	_
+12-3	_	.	_	_	_	_
+
+#Text=" If I get out of here . "
+13-1	_	"	_	_	_	_
+13-2	_	If	_	_	_	_
+13-3	_	I	abstract[46]	new[46]	coref	14-4[46_47]
+13-4	_	get	_	_	_	_
+13-5	_	out	_	_	_	_
+13-6	_	of	_	_	_	_
+13-7	_	here	_	_	_	_
+13-8	_	.	_	_	_	_
+13-9	_	"	_	_	_	_
+
+#Text=I waited for her to say more , but she did n't .
+14-1	_	I	abstract[13]	new[13]	coref	17-9[13_14]
+14-2	_	waited	_	_	_	_
+14-3	_	for	_	_	_	_
+14-4	_	her	abstract[47]	new[47]	coref	14-10[47_48]
+14-5	_	to	_	_	_	_
+14-6	_	say	_	_	_	_
+14-7	_	more	_	_	_	_
+14-8	_	,	_	_	_	_
+14-9	_	but	_	_	_	_
+14-10	_	she	abstract[48]	new[48]	coref	16-2[48_49]
+14-11	_	did	_	_	_	_
+14-12	_	n't	_	_	_	_
+14-13	_	.	_	_	_	_
+
+#Text=" Get out of here " meant to make someone leave .
+15-1	_	"	_	_	_	_
+15-2	_	Get	_	_	_	_
+15-3	_	out	_	_	_	_
+15-4	_	of	_	_	_	_
+15-5	_	here	_	_	_	_
+15-6	_	"	_	_	_	_
+15-7	_	meant	_	_	_	_
+15-8	_	to	_	_	_	_
+15-9	_	make	_	_	_	_
+15-10	_	someone	_	_	_	_
+15-11	_	leave	_	_	_	_
+15-12	_	.	_	_	_	_
+
+#Text=Maybe she meant if she made herself .
+16-1	_	Maybe	_	_	_	_
+16-2	_	she	abstract[49]	new[49]	coref	16-5[49_50]
+16-3	_	meant	_	_	_	_
+16-4	_	if	_	_	_	_
+16-5	_	she	abstract[50]	new[50]	coref	16-7[50_51]
+16-6	_	made	_	_	_	_
+16-7	_	herself	abstract[51]	new[51]	coref	17-2[51_52]
+16-8	_	.	_	_	_	_
+
+#Text=" You come here from Earth ? " I asked .
+17-1	_	"	_	_	_	_
+17-2	_	You	abstract[52]	new[52]	coref	18-3[52_53]
+17-3	_	come	_	_	_	_
+17-4	_	here	_	_	_	_
+17-5	_	from	_	_	_	_
+17-6	_	Earth	abstract[71]	new[71]	coref	19-7[71_72]
+17-7	_	?	_	_	_	_
+17-8	_	"	_	_	_	_
+17-9	_	I	abstract[14]	new[14]	coref	18-8[14_15]
+17-10	_	asked	_	_	_	_
+17-11	_	.	_	_	_	_
+
+#Text=To get her to talk , although I was tired of lingua and I did n't really want to think about anything .
+18-1	_	To	_	_	_	_
+18-2	_	get	_	_	_	_
+18-3	_	her	abstract[53]	new[53]	coref	19-2[53_54]
+18-4	_	to	_	_	_	_
+18-5	_	talk	_	_	_	_
+18-6	_	,	_	_	_	_
+18-7	_	although	_	_	_	_
+18-8	_	I	abstract[15]	new[15]	coref	18-14[15_16]
+18-9	_	was	_	_	_	_
+18-10	_	tired	_	_	_	_
+18-11	_	of	_	_	_	_
+18-12	_	lingua	_	_	_	_
+18-13	_	and	_	_	_	_
+18-14	_	I	abstract[16]	new[16]	coref	22-3[16_17]
+18-15	_	did	_	_	_	_
+18-16	_	n't	_	_	_	_
+18-17	_	really	_	_	_	_
+18-18	_	want	_	_	_	_
+18-19	_	to	_	_	_	_
+18-20	_	think	_	_	_	_
+18-21	_	about	_	_	_	_
+18-22	_	anything	_	_	_	_
+18-23	_	.	_	_	_	_
+
+#Text=" My family came here from Earth , " she said .
+19-1	_	"	_	_	_	_
+19-2	_	My	abstract[54]	new[54]	coref	19-10[54_55]
+19-3	_	family	_	_	_	_
+19-4	_	came	_	_	_	_
+19-5	_	here	_	_	_	_
+19-6	_	from	_	_	_	_
+19-7	_	Earth	abstract[72]	new[72]	coref	27-9[72_73]
+19-8	_	,	_	_	_	_
+19-9	_	"	_	_	_	_
+19-10	_	she	abstract[55]	new[55]	coref	21-2[55_56]
+19-11	_	said	_	_	_	_
+19-12	_	.	_	_	_	_
+
+#Text=" Why ? "
+20-1	_	"	_	_	_	_
+20-2	_	Why	_	_	_	_
+20-3	_	?	_	_	_	_
+20-4	_	"	_	_	_	_
+
+#Text=" My father , he 's an anthropologist , " she said .
+21-1	_	"	_	_	_	_
+21-2	_	My	abstract[56]|abstract[82]	new[56]|new[82]	coref|coref	21-11[56_57]|21-5[82_83]
+21-3	_	father	abstract[82]	new[82]	_	_
+21-4	_	,	_	_	_	_
+21-5	_	he	abstract[83]	new[83]	coref	24-2[83_84]
+21-6	_	's	_	_	_	_
+21-7	_	an	_	_	_	_
+21-8	_	anthropologist	_	_	_	_
+21-9	_	,	_	_	_	_
+21-10	_	"	_	_	_	_
+21-11	_	she	abstract[57]	new[57]	coref	28-18[57_58]
+21-12	_	said	_	_	_	_
+21-13	_	.	_	_	_	_
+
+#Text=" Do you know anthropologist ? "
+22-1	_	"	_	_	_	_
+22-2	_	Do	_	_	_	_
+22-3	_	you	abstract[17]	new[17]	coref	23-5[17_18]
+22-4	_	know	_	_	_	_
+22-5	_	anthropologist	_	_	_	_
+22-6	_	?	_	_	_	_
+22-7	_	"	_	_	_	_
+
+#Text=" No , " I said .
+23-1	_	"	_	_	_	_
+23-2	_	No	_	_	_	_
+23-3	_	,	_	_	_	_
+23-4	_	"	_	_	_	_
+23-5	_	I	abstract[18]	new[18]	coref	26-4[18_19]
+23-6	_	said	_	_	_	_
+23-7	_	.	_	_	_	_
+
+#Text=" He is a person who studies the way people live .
+24-1	_	"	_	_	_	_
+24-2	_	He	abstract[84]	new[84]	coref	25-2[84_85]
+24-3	_	is	_	_	_	_
+24-4	_	a	_	_	_	_
+24-5	_	person	_	_	_	_
+24-6	_	who	_	_	_	_
+24-7	_	studies	_	_	_	_
+24-8	_	the	_	_	_	_
+24-9	_	way	_	_	_	_
+24-10	_	people	_	_	_	_
+24-11	_	live	_	_	_	_
+24-12	_	.	_	_	_	_
+
+#Text=And he is a teacher . "
+25-1	_	And	_	_	_	_
+25-2	_	he	abstract[85]	new[85]	coref	28-18[85_86]
+25-3	_	is	_	_	_	_
+25-4	_	a	_	_	_	_
+25-5	_	teacher	_	_	_	_
+25-6	_	.	_	_	_	_
+25-7	_	"	_	_	_	_
+
+#Text=All the offworlders I had ever met were teachers .
+26-1	_	All	_	_	_	_
+26-2	_	the	_	_	_	_
+26-3	_	offworlders	_	_	_	_
+26-4	_	I	abstract[19]	new[19]	coref	27-1[19_20]
+26-5	_	had	_	_	_	_
+26-6	_	ever	_	_	_	_
+26-7	_	met	_	_	_	_
+26-8	_	were	_	_	_	_
+26-9	_	teachers	_	_	_	_
+26-10	_	.	_	_	_	_
+
+#Text=I wondered who did all the work on Earth .
+27-1	_	I	abstract[20]	new[20]	coref	28-8[20_21]
+27-2	_	wondered	_	_	_	_
+27-3	_	who	_	_	_	_
+27-4	_	did	_	_	_	_
+27-5	_	all	_	_	_	_
+27-6	_	the	_	_	_	_
+27-7	_	work	_	_	_	_
+27-8	_	on	_	_	_	_
+27-9	_	Earth	abstract[73]	new[73]	coref	28-3[73_74]
+27-10	_	.	_	_	_	_
+
+#Text=" Because Earth had lost touch with your world , the people here are very interesting to my father , " she said .
+28-1	_	"	_	_	_	_
+28-2	_	Because	_	_	_	_
+28-3	_	Earth	abstract[74]	new[74]	coref	40-3[74_75]
+28-4	_	had	_	_	_	_
+28-5	_	lost	_	_	_	_
+28-6	_	touch	_	_	_	_
+28-7	_	with	_	_	_	_
+28-8	_	your	abstract[21]	new[21]	coref	29-16[21_22]
+28-9	_	world	_	_	_	_
+28-10	_	,	_	_	_	_
+28-11	_	the	_	_	_	_
+28-12	_	people	_	_	_	_
+28-13	_	here	abstract[92]	new[92]	coref	36-8[92_93]
+28-14	_	are	_	_	_	_
+28-15	_	very	_	_	_	_
+28-16	_	interesting	_	_	_	_
+28-17	_	to	_	_	_	_
+28-18	_	my	abstract[58]|abstract[86]	new[58]|new[86]	coref|coref	28-22[58_59]|45-2[86_87]
+28-19	_	father	abstract[86]	new[86]	_	_
+28-20	_	,	_	_	_	_
+28-21	_	"	_	_	_	_
+28-22	_	she	abstract[59]	new[59]	coref	29-1[59_60]
+28-23	_	said	_	_	_	_
+28-24	_	.	_	_	_	_
+
+#Text=Her voice was listless in the dark and she was even harder to understand when I could n't see her properly .
+29-1	_	Her	abstract[60]	new[60]	coref	29-9[60_61]
+29-2	_	voice	_	_	_	_
+29-3	_	was	_	_	_	_
+29-4	_	listless	_	_	_	_
+29-5	_	in	_	_	_	_
+29-6	_	the	abstract[89]	new[89]	_	_
+29-7	_	dark	abstract[89]	new[89]	_	_
+29-8	_	and	_	_	_	_
+29-9	_	she	abstract[61]	new[61]	coref	29-20[61_62]
+29-10	_	was	_	_	_	_
+29-11	_	even	_	_	_	_
+29-12	_	harder	_	_	_	_
+29-13	_	to	_	_	_	_
+29-14	_	understand	_	_	_	_
+29-15	_	when	_	_	_	_
+29-16	_	I	abstract[22]	new[22]	coref	30-1[22_23]
+29-17	_	could	_	_	_	_
+29-18	_	n't	_	_	_	_
+29-19	_	see	_	_	_	_
+29-20	_	her	abstract[62]	new[62]	coref	31-7[62_63]
+29-21	_	properly	_	_	_	_
+29-22	_	.	_	_	_	_
+
+#Text=I did n't understand so I did n't say anything .
+30-1	_	I	abstract[23]	new[23]	coref	30-6[23_24]
+30-2	_	did	_	_	_	_
+30-3	_	n't	_	_	_	_
+30-4	_	understand	_	_	_	_
+30-5	_	so	_	_	_	_
+30-6	_	I	abstract[24]	new[24]	coref	31-1[24_25]
+30-7	_	did	_	_	_	_
+30-8	_	n't	_	_	_	_
+30-9	_	say	_	_	_	_
+30-10	_	anything	_	_	_	_
+30-11	_	.	_	_	_	_
+
+#Text=I was sorry I 'd started her talking .
+31-1	_	I	abstract[25]	new[25]	coref	31-4[25_26]
+31-2	_	was	_	_	_	_
+31-3	_	sorry	_	_	_	_
+31-4	_	I	abstract[26]	new[26]	coref	32-5[26_27]
+31-5	_	'd	_	_	_	_
+31-6	_	started	_	_	_	_
+31-7	_	her	abstract[63]	new[63]	coref	32-14[63_64]
+31-8	_	talking	_	_	_	_
+31-9	_	.	_	_	_	_
+
+#Text=" History , do you know the word ' history ' ? " she asked .
+32-1	_	"	_	_	_	_
+32-2	_	History	_	_	_	_
+32-3	_	,	_	_	_	_
+32-4	_	do	_	_	_	_
+32-5	_	you	abstract[27]	new[27]	coref	33-3[27_28]
+32-6	_	know	_	_	_	_
+32-7	_	the	_	_	_	_
+32-8	_	word	_	_	_	_
+32-9	_	'	_	_	_	_
+32-10	_	history	_	_	_	_
+32-11	_	'	_	_	_	_
+32-12	_	?	_	_	_	_
+32-13	_	"	_	_	_	_
+32-14	_	she	abstract[64]	new[64]	coref	44-14[64_65]
+32-15	_	asked	_	_	_	_
+32-16	_	.	_	_	_	_
+
+#Text=Of course I knew the word " history . "
+33-1	_	Of	_	_	_	_
+33-2	_	course	_	_	_	_
+33-3	_	I	abstract[28]	new[28]	coref	34-2[28_29]
+33-4	_	knew	_	_	_	_
+33-5	_	the	abstract[90]	new[90]	coref	35-5[90_91]
+33-6	_	word	abstract[90]	new[90]	_	_
+33-7	_	"	abstract[90]	new[90]	_	_
+33-8	_	history	abstract[90]	new[90]	_	_
+33-9	_	.	_	_	_	_
+33-10	_	"	_	_	_	_
+
+#Text=" I study history in school , " I said .
+34-1	_	"	_	_	_	_
+34-2	_	I	abstract[29]	new[29]	coref	34-9[29_30]
+34-3	_	study	_	_	_	_
+34-4	_	history	_	_	_	_
+34-5	_	in	_	_	_	_
+34-6	_	school	_	_	_	_
+34-7	_	,	_	_	_	_
+34-8	_	"	_	_	_	_
+34-9	_	I	abstract[30]	new[30]	coref	36-3[30_31]
+34-10	_	said	_	_	_	_
+34-11	_	.	_	_	_	_
+
+#Text=Anneal and Kumar taught it .
+35-1	_	Anneal	_	_	_	_
+35-2	_	and	_	_	_	_
+35-3	_	Kumar	_	_	_	_
+35-4	_	taught	_	_	_	_
+35-5	_	it	abstract[91]	new[91]	_	_
+35-6	_	.	_	_	_	_
+
+#Text=" Do you know the history of this world ? "
+36-1	_	"	_	_	_	_
+36-2	_	Do	_	_	_	_
+36-3	_	you	abstract[31]	new[31]	coref	37-3[31_32]
+36-4	_	know	_	_	_	_
+36-5	_	the	_	_	_	_
+36-6	_	history	_	_	_	_
+36-7	_	of	_	_	_	_
+36-8	_	this	abstract[93]	new[93]	_	_
+36-9	_	world	abstract[93]	new[93]	_	_
+36-10	_	?	_	_	_	_
+36-11	_	"	_	_	_	_
+
+#Text=It took my tired head a long time to sort that out .
+37-1	_	It	_	_	_	_
+37-2	_	took	_	_	_	_
+37-3	_	my	abstract[32]	new[32]	coref	38-5[32_33]
+37-4	_	tired	_	_	_	_
+37-5	_	head	_	_	_	_
+37-6	_	a	_	_	_	_
+37-7	_	long	_	_	_	_
+37-8	_	time	_	_	_	_
+37-9	_	to	_	_	_	_
+37-10	_	sort	_	_	_	_
+37-11	_	that	_	_	_	_
+37-12	_	out	_	_	_	_
+37-13	_	.	_	_	_	_
+
+#Text=" Yes , " I said .
+38-1	_	"	_	_	_	_
+38-2	_	Yes	_	_	_	_
+38-3	_	,	_	_	_	_
+38-4	_	"	_	_	_	_
+38-5	_	I	abstract[33]	new[33]	_	_
+38-6	_	said	_	_	_	_
+38-7	_	.	_	_	_	_
+
+#Text=" We are a colony .
+39-1	_	"	_	_	_	_
+39-2	_	We	abstract[96]	new[96]	coref	41-16[96_97]
+39-3	_	are	_	_	_	_
+39-4	_	a	_	_	_	_
+39-5	_	colony	_	_	_	_
+39-6	_	.	_	_	_	_
+
+#Text=People from Earth come here to live .
+40-1	_	People	abstract[94]	new[94]	coref	41-11[94_95]
+40-2	_	from	abstract[94]	new[94]	_	_
+40-3	_	Earth	abstract[75]|abstract[94]	new[75]|new[94]	coref	41-8[75_76]
+40-4	_	come	_	_	_	_
+40-5	_	here	_	_	_	_
+40-6	_	to	_	_	_	_
+40-7	_	live	_	_	_	_
+40-8	_	.	_	_	_	_
+
+#Text=Then there is a big problem on Earth , and the people of Earth forget we are here .
+41-1	_	Then	_	_	_	_
+41-2	_	there	_	_	_	_
+41-3	_	is	_	_	_	_
+41-4	_	a	_	_	_	_
+41-5	_	big	_	_	_	_
+41-6	_	problem	_	_	_	_
+41-7	_	on	_	_	_	_
+41-8	_	Earth	abstract[76]	new[76]	coref	41-14[76_77]
+41-9	_	,	_	_	_	_
+41-10	_	and	_	_	_	_
+41-11	_	the	abstract[95]	new[95]	_	_
+41-12	_	people	abstract[95]	new[95]	_	_
+41-13	_	of	abstract[95]	new[95]	_	_
+41-14	_	Earth	abstract[77]|abstract[95]	new[77]|new[95]	coref	42-6[77_78]
+41-15	_	forget	_	_	_	_
+41-16	_	we	abstract[97]	new[97]	coref	42-1[97_98]
+41-17	_	are	_	_	_	_
+41-18	_	here	_	_	_	_
+41-19	_	.	_	_	_	_
+
+#Text=We forget we are from Earth .
+42-1	_	We	abstract[98]	new[98]	coref	42-3[98_99]
+42-2	_	forget	_	_	_	_
+42-3	_	we	abstract[99]	new[99]	coref	43-4[99_100]
+42-4	_	are	_	_	_	_
+42-5	_	from	_	_	_	_
+42-6	_	Earth	abstract[78]	new[78]	coref	43-2[78_79]
+42-7	_	.	_	_	_	_
+
+#Text=Then Earth finds us again . "
+43-1	_	Then	_	_	_	_
+43-2	_	Earth	abstract[79]	new[79]	coref	44-10[79_80]
+43-3	_	finds	_	_	_	_
+43-4	_	us	abstract[100]	new[100]	_	_
+43-5	_	again	_	_	_	_
+43-6	_	.	_	_	_	_
+43-7	_	"	_	_	_	_
+
+#Text=" Some people have stories about coming from the Earth , " Veronique said .
+44-1	_	"	_	_	_	_
+44-2	_	Some	_	_	_	_
+44-3	_	people	_	_	_	_
+44-4	_	have	_	_	_	_
+44-5	_	stories	abstract[101]	new[101]	coref	45-6[101_102]
+44-6	_	about	abstract[101]	new[101]	_	_
+44-7	_	coming	abstract[101]	new[101]	_	_
+44-8	_	from	abstract[101]	new[101]	_	_
+44-9	_	the	abstract[80]|abstract[101]	new[80]|new[101]	coref	47-11[80_81]
+44-10	_	Earth	abstract[80]|abstract[101]	new[80]|new[101]	_	_
+44-11	_	,	_	_	_	_
+44-12	_	"	_	_	_	_
+44-13	_	Veronique	abstract[65]	new[65]	coref	45-2[65_66]
+44-14	_	said	_	_	_	_
+44-15	_	.	_	_	_	_
+
+#Text=" My father is collecting those stories from different peoples .
+45-1	_	"	_	_	_	_
+45-2	_	My	abstract[66]|abstract[87]	new[66]|new[87]	coref	46-1[66_67]
+45-3	_	father	abstract[87]	new[87]	_	_
+45-4	_	is	_	_	_	_
+45-5	_	collecting	_	_	_	_
+45-6	_	those	abstract[102]	new[102]	coref	47-6[102_103]
+45-7	_	stories	abstract[102]	new[102]	_	_
+45-8	_	from	_	_	_	_
+45-9	_	different	_	_	_	_
+45-10	_	peoples	_	_	_	_
+45-11	_	.	_	_	_	_
+
+#Text=I 'm a graduate student . "
+46-1	_	I	abstract[67]	new[67]	coref	50-9[67_68]
+46-2	_	'm	_	_	_	_
+46-3	_	a	_	_	_	_
+46-4	_	graduate	_	_	_	_
+46-5	_	student	_	_	_	_
+46-6	_	.	_	_	_	_
+46-7	_	"	_	_	_	_
+
+#Text=The clans did n't have any stories about coming from Earth .
+47-1	_	The	abstract[104]	new[104]	coref	48-1[104_105]
+47-2	_	clans	abstract[104]	new[104]	_	_
+47-3	_	did	_	_	_	_
+47-4	_	n't	_	_	_	_
+47-5	_	have	_	_	_	_
+47-6	_	any	abstract[103]	new[103]	_	_
+47-7	_	stories	abstract[103]	new[103]	_	_
+47-8	_	about	abstract[103]	new[103]	_	_
+47-9	_	coming	abstract[103]	new[103]	_	_
+47-10	_	from	abstract[103]	new[103]	_	_
+47-11	_	Earth	abstract[81]|abstract[103]	new[81]|new[103]	_	_
+47-12	_	.	_	_	_	_
+
+#Text=We said the first people came out of the sun .
+48-1	_	We	abstract[105]	new[105]	_	_
+48-2	_	said	_	_	_	_
+48-3	_	the	_	_	_	_
+48-4	_	first	_	_	_	_
+48-5	_	people	_	_	_	_
+48-6	_	came	_	_	_	_
+48-7	_	out	_	_	_	_
+48-8	_	of	_	_	_	_
+48-9	_	the	_	_	_	_
+48-10	_	sun	_	_	_	_
+48-11	_	.	_	_	_	_
+
+#Text=This somehow seemed embarrassing .
+49-1	_	This	_	_	_	_
+49-2	_	somehow	_	_	_	_
+49-3	_	seemed	_	_	_	_
+49-4	_	embarrassing	_	_	_	_
+49-5	_	.	_	_	_	_
+
+#Text=I did n't understand what kind of student she was .
+50-1	_	I	abstract[106]	new[106]	coref	51-9[106_107]
+50-2	_	did	_	_	_	_
+50-3	_	n't	_	_	_	_
+50-4	_	understand	_	_	_	_
+50-5	_	what	_	_	_	_
+50-6	_	kind	_	_	_	_
+50-7	_	of	_	_	_	_
+50-8	_	student	_	_	_	_
+50-9	_	she	abstract[68]	new[68]	coref	51-3[68_69]
+50-10	_	was	_	_	_	_
+50-11	_	.	_	_	_	_
+
+#Text=" Are you here for stories ? " I asked .
+51-1	_	"	_	_	_	_
+51-2	_	Are	_	_	_	_
+51-3	_	you	abstract[69]	new[69]	coref	52-5[69_70]
+51-4	_	here	_	_	_	_
+51-5	_	for	_	_	_	_
+51-6	_	stories	_	_	_	_
+51-7	_	?	_	_	_	_
+51-8	_	"	_	_	_	_
+51-9	_	I	abstract[107]	new[107]	coref	53-7[107_108]
+51-10	_	asked	_	_	_	_
+51-11	_	.	_	_	_	_
+
+#Text=" No , " she said .
+52-1	_	"	_	_	_	_
+52-2	_	No	_	_	_	_
+52-3	_	,	_	_	_	_
+52-4	_	"	_	_	_	_
+52-5	_	she	abstract[70]	new[70]	_	_
+52-6	_	said	_	_	_	_
+52-7	_	.	_	_	_	_
+
+#Text=" Ian is old friends with your teacher , from back when they were both with the survey .
+53-1	_	"	_	_	_	_
+53-2	_	Ian	_	_	_	_
+53-3	_	is	_	_	_	_
+53-4	_	old	_	_	_	_
+53-5	_	friends	_	_	_	_
+53-6	_	with	_	_	_	_
+53-7	_	your	abstract[108]	new[108]	coref	55-1[108_109]
+53-8	_	teacher	_	_	_	_
+53-9	_	,	_	_	_	_
+53-10	_	from	_	_	_	_
+53-11	_	back	_	_	_	_
+53-12	_	when	_	_	_	_
+53-13	_	they	_	_	_	_
+53-14	_	were	_	_	_	_
+53-15	_	both	_	_	_	_
+53-16	_	with	_	_	_	_
+53-17	_	the	_	_	_	_
+53-18	_	survey	_	_	_	_
+53-19	_	.	_	_	_	_
+
+#Text=We just came to visit . "
+54-1	_	We	abstract[110]	new[110]	coref	55-11[110_111]
+54-2	_	just	_	_	_	_
+54-3	_	came	_	_	_	_
+54-4	_	to	_	_	_	_
+54-5	_	visit	_	_	_	_
+54-6	_	.	_	_	_	_
+54-7	_	"	_	_	_	_
+
+#Text=I did n't understand what she 'd said except that they were visiting .
+55-1	_	I	abstract[109]	new[109]	_	_
+55-2	_	did	_	_	_	_
+55-3	_	n't	_	_	_	_
+55-4	_	understand	_	_	_	_
+55-5	_	what	_	_	_	_
+55-6	_	she	_	_	_	_
+55-7	_	'd	_	_	_	_
+55-8	_	said	_	_	_	_
+55-9	_	except	_	_	_	_
+55-10	_	that	_	_	_	_
+55-11	_	they	abstract[111]	new[111]	_	_
+55-12	_	were	_	_	_	_
+55-13	_	visiting	_	_	_	_
+55-14	_	.	_	_	_	_
+
+#Text=We were quiet after that .
+56-1	_	We	_	_	_	_
+56-2	_	were	_	_	_	_
+56-3	_	quiet	_	_	_	_
+56-4	_	after	_	_	_	_
+56-5	_	that	_	_	_	_
+56-6	_	.	_	_	_	_
+
+#Text=I pretended to sleep .
+57-1	_	I	abstract[118]	new[118]	coref	61-1[118_119]
+57-2	_	pretended	_	_	_	_
+57-3	_	to	_	_	_	_
+57-4	_	sleep	_	_	_	_
+57-5	_	.	_	_	_	_
+
+#Text=Sometimes there was gunfire outside and we jumped , even Mam on the bed .
+58-1	_	Sometimes	_	_	_	_
+58-2	_	there	_	_	_	_
+58-3	_	was	_	_	_	_
+58-4	_	gunfire	_	_	_	_
+58-5	_	outside	_	_	_	_
+58-6	_	and	_	_	_	_
+58-7	_	we	abstract[112]	new[112]	coref	59-1[112_113]
+58-8	_	jumped	_	_	_	_
+58-9	_	,	_	_	_	_
+58-10	_	even	_	_	_	_
+58-11	_	Mam	_	_	_	_
+58-12	_	on	_	_	_	_
+58-13	_	the	_	_	_	_
+58-14	_	bed	_	_	_	_
+58-15	_	.	_	_	_	_
+
+#Text=Everyone but Bet .
+59-1	_	Everyone	abstract[113]	new[113]	coref	65-7[113_114]
+59-2	_	but	abstract[113]	new[113]	_	_
+59-3	_	Bet	abstract[113]|abstract[115]	new[113]|new[115]	coref	60-2[115_116]
+59-4	_	.	_	_	_	_
+
+#Text=Once Bet was asleep it was impossible to wake her up .
+60-1	_	Once	_	_	_	_
+60-2	_	Bet	abstract[116]	new[116]	coref	60-10[116_117]
+60-3	_	was	_	_	_	_
+60-4	_	asleep	_	_	_	_
+60-5	_	it	_	_	_	_
+60-6	_	was	_	_	_	_
+60-7	_	impossible	_	_	_	_
+60-8	_	to	_	_	_	_
+60-9	_	wake	_	_	_	_
+60-10	_	her	abstract[117]	new[117]	_	_
+60-11	_	up	_	_	_	_
+60-12	_	.	_	_	_	_
+
+#Text=I fell asleep thinking about how I wished that the Scathalos outrunners were gone .
+61-1	_	I	abstract[119]	new[119]	coref	61-7[119_120]
+61-2	_	fell	_	_	_	_
+61-3	_	asleep	_	_	_	_
+61-4	_	thinking	_	_	_	_
+61-5	_	about	_	_	_	_
+61-6	_	how	_	_	_	_
+61-7	_	I	abstract[120]	new[120]	coref	62-1[120_121]
+61-8	_	wished	_	_	_	_
+61-9	_	that	_	_	_	_
+61-10	_	the	_	_	_	_
+61-11	_	Scathalos	_	_	_	_
+61-12	_	outrunners	_	_	_	_
+61-13	_	were	_	_	_	_
+61-14	_	gone	_	_	_	_
+61-15	_	.	_	_	_	_
+
+#Text=I dreamed that I was at the offworlder 's home , where it was summer but no one was taking care of the stabros , and they were all glad , and so I was a hero - and I was startled awake by gunfire .
+62-1	_	I	abstract[121]	new[121]	coref	62-4[121_122]
+62-2	_	dreamed	_	_	_	_
+62-3	_	that	_	_	_	_
+62-4	_	I	abstract[122]	new[122]	coref	62-34[122_123]
+62-5	_	was	_	_	_	_
+62-6	_	at	_	_	_	_
+62-7	_	the	_	_	_	_
+62-8	_	offworlder	_	_	_	_
+62-9	_	's	_	_	_	_
+62-10	_	home	_	_	_	_
+62-11	_	,	_	_	_	_
+62-12	_	where	_	_	_	_
+62-13	_	it	_	_	_	_
+62-14	_	was	_	_	_	_
+62-15	_	summer	_	_	_	_
+62-16	_	but	_	_	_	_
+62-17	_	no	abstract[127]	new[127]	coref	62-27[127_128]
+62-18	_	one	abstract[127]	new[127]	_	_
+62-19	_	was	_	_	_	_
+62-20	_	taking	_	_	_	_
+62-21	_	care	_	_	_	_
+62-22	_	of	_	_	_	_
+62-23	_	the	_	_	_	_
+62-24	_	stabros	_	_	_	_
+62-25	_	,	_	_	_	_
+62-26	_	and	_	_	_	_
+62-27	_	they	abstract[128]	new[128]	_	_
+62-28	_	were	_	_	_	_
+62-29	_	all	_	_	_	_
+62-30	_	glad	_	_	_	_
+62-31	_	,	_	_	_	_
+62-32	_	and	_	_	_	_
+62-33	_	so	_	_	_	_
+62-34	_	I	abstract[123]	new[123]	coref	62-40[123_124]
+62-35	_	was	_	_	_	_
+62-36	_	a	_	_	_	_
+62-37	_	hero	_	_	_	_
+62-38	_	-	_	_	_	_
+62-39	_	and	_	_	_	_
+62-40	_	I	abstract[124]	new[124]	coref	64-1[124_125]
+62-41	_	was	_	_	_	_
+62-42	_	startled	_	_	_	_
+62-43	_	awake	_	_	_	_
+62-44	_	by	_	_	_	_
+62-45	_	gunfire	_	_	_	_
+62-46	_	.	_	_	_	_
+
+#Text=Just more drinking and shooting .
+63-1	_	Just	_	_	_	_
+63-2	_	more	_	_	_	_
+63-3	_	drinking	_	_	_	_
+63-4	_	and	_	_	_	_
+63-5	_	shooting	_	_	_	_
+63-6	_	.	_	_	_	_
+
+#Text=I wished my da would come home .
+64-1	_	I	abstract[125]	new[125]	coref	64-3[125_126]
+64-2	_	wished	_	_	_	_
+64-3	_	my	abstract[126]	new[126]	_	_
+64-4	_	da	_	_	_	_
+64-5	_	would	_	_	_	_
+64-6	_	come	_	_	_	_
+64-7	_	home	_	_	_	_
+64-8	_	.	_	_	_	_
+
+#Text=It did n't seem fair that we should lie here and be afraid while the men were getting drunk and singing .
+65-1	_	It	_	_	_	_
+65-2	_	did	_	_	_	_
+65-3	_	n't	_	_	_	_
+65-4	_	seem	_	_	_	_
+65-5	_	fair	_	_	_	_
+65-6	_	that	_	_	_	_
+65-7	_	we	abstract[114]	new[114]	_	_
+65-8	_	should	_	_	_	_
+65-9	_	lie	_	_	_	_
+65-10	_	here	_	_	_	_
+65-11	_	and	_	_	_	_
+65-12	_	be	_	_	_	_
+65-13	_	afraid	_	_	_	_
+65-14	_	while	_	_	_	_
+65-15	_	the	_	_	_	_
+65-16	_	men	_	_	_	_
+65-17	_	were	_	_	_	_
+65-18	_	getting	_	_	_	_
+65-19	_	drunk	_	_	_	_
+65-20	_	and	_	_	_	_
+65-21	_	singing	_	_	_	_
+65-22	_	.	_	_	_	_
+
