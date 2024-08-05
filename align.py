@@ -1,7 +1,7 @@
 import os
 import sys
 import subprocess
-import spacy
+#import spacy
 import json
 import openai
 
@@ -9,9 +9,10 @@ import openai
 #sys.path.append(os.path.abspath("coref-mtl"))
 openai.api_key = "your_openai_api_key"
 
-nlp = spacy.load("en_core_web_sm") #for function word detection
+#nlp = spacy.load("en_core_web_sm") #for function word detection
 
-def extract_mentions_from_gold_tsv(data_folder):
+
+def extract_mentions_from_gold_tsv(data_folder, docnames=None):
     all_mentions = []
 
     # List all TSV files in the folder
@@ -19,6 +20,10 @@ def extract_mentions_from_gold_tsv(data_folder):
 
     for tsv_file in tsv_files:
         file_path = os.path.join(data_folder, tsv_file)
+        docname = os.path.basename(tsv_file).split(".")[0]
+        if docnames is not None:
+            if docname not in docnames:
+                continue
         mentions = []
 
         with open(file_path, 'r') as file:
@@ -141,6 +146,7 @@ def extract_mentions_from_pred_tsv(data_folder):
 
     return all_mentions
 
+
 def align_llm(doc_mentions, summary_text):
     """
     Align mentions using GPT-4 API.
@@ -155,15 +161,15 @@ def align_llm(doc_mentions, summary_text):
     client = openai.OpenAI()
     
     assistant = client.beta.assistants.create(
-        name="Document Aligner",
-        instructions="You are an assistant for aligning mentions from summary text with document text. For each mention in the summary, determine if it aligns with any word span in the document.",
+        name="Entity Mention Aligner",
+        instructions="You are an assistant for aligning entity mentions from summary text with entities mentioned in document text. For each noun phrase mention in the summary, determine whether it aligns with any word span in the document, and if so, return that span.",
         model="gpt-4o"
     )
     
     prompt_template = (
         "Document: {doc_text}\n"
         "Summary: {summary}\n"
-        "For each mention in the summary, determine if it aligns with (or make an equivalent reference to) any word span in the document. "
+        "For each mention in the summary, determine if it aligns with (or makes an equivalent reference to) any word span in the document. "
         "Return a list of matching word spans from the document."
     )
 
@@ -214,6 +220,7 @@ def align_llm(doc_mentions, summary_text):
 
     return results
 
+
 def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # Make user specify this
     """
     Align mentions using a Huggingface model.
@@ -231,7 +238,7 @@ def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # 
     prompt_template = (
         "Document: {doc_text}\n"
         "Summary: {summary}\n"
-        "For each mention in the summary, determine if it aligns with (or make an equivalent reference to) any word span in the document. "
+        "For each mention in the summary, determine if it aligns with (or makes an equivalent reference to) any word span in the document. "
         "Return a list of matching word spans from the document."
     )
 
@@ -280,6 +287,7 @@ def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # 
 
     return results
 
+
 def align_string_match(doc_mentions, mention_text):
     """
     Extracts tuples from `doc_mentions` where `mention_text` is found in the corresponding document.
@@ -298,14 +306,15 @@ def align_string_match(doc_mentions, mention_text):
     mention_text = [[[[mention.lower() for mention in summary] for summary in document_summaries] for document_summaries in document] for document in mention_text]
 
     # Automatically detect function words using spacy
-    stop_words = {word for word in spacy_nlp.Defaults.stop_words}
+    #stop_words = {word for word in spacy.lang.en.stop_words.STOP_WORDS}
+    stop_words = {'should', 'my', 'because', 'yourselves', 'not', 'made', '‘ve', 'even', 'almost', 'more', 'mine', 'from', 'nor', "'d", 'six', 'whence', 'they', 'due', 'twenty', 'serious', 'could', 'fifty', 'whoever', 'put', 'move', 'an', 'back', 'meanwhile', 'used', 'next', 'somewhere', 'unless', 'once', 'somehow', 'other', 'amount', 'rather', 'elsewhere', 'at', 'indeed', 'were', 'mostly', 'top', 'bottom', 'enough', 'anything', 'never', 'beyond', 'than', 'thru', 'about', 'either', 'wherein', 'itself', 'until', 'hundred', 'per', 'except', 'is', 'becomes', 'below', 'toward', 'therein', '’s', 'doing', 'nobody', 'so', 'seemed', 'over', 'them', 'during', 'eight', '’ve', 'anyone', 'have', 'yourself', 'much', 'nevertheless', 'then', 'towards', 'was', 'least', 'while', 'i', 'namely', 'since', 'well', "'m", 'been', 'where', 'which', "n't", 'such', 'yours', 'ca', 'nothing', 'name', 'something', 'five', 'really', 'whose', 'else', 'seeming', 're', 'of', 'thereby', 'but', 'under', 'show', 'being', 'neither', 'thereafter', 'whether', 'thereupon', 'it', 'every', 'again', '’m', 'noone', 'you', 'take', 'only', 'hers', 'already', 'out', 'into', 'wherever', 'down', 'within', 'also', 'there', 'now', 'say', "'ll", 'him', 'its', '’d', 'himself', 'former', 'another', 'any', 'empty', '‘s', 'however', 'their', 'besides', 'by', 'her', 'how', 'one', 'cannot', 'afterwards', 'front', 'seems', 'would', 'herein', 'anyway', 'yet', 'n‘t', 'will', 'does', '’re', 'anywhere', 'those', 'between', "'s", 'the', 'above', 'around', 'none', 'when', 'sixty', 'keep', 'everyone', 'done', 'sometime', 'whole', 'she', 'further', 'anyhow', 'for', 'upon', 'someone', 'us', 'whereupon', '‘ll', 'n’t', 'among', 'nine', 'see', 'twelve', 'go', 'become', 'regarding', 'through', 'therefore', 'ours', 'beside', 'together', 'first', 'everything', 'must', 'alone', 'very', 'two', 'amongst', 'using', 'ever', 'beforehand', 'thus', 'before', '‘d', 'whenever', 'many', '’ll', 'always', 'whereas', 'hereafter', 'if', 'everywhere', 'on', 'has', 'nowhere', 'throughout', 'thence', 'without', 'may', 'still', 'along', 'whatever', 'please', 'that', "'ve", 'in', 'hereby', 'me', 'he', 'or', 'part', 'your', 'third', 'as', 'perhaps', 'various', 'although', 'against', 'formerly', 'full', 'off', 'eleven', 'too', 'with', 'herself', 'had', 'themselves', 'are', 'myself', 'though', 'ten', 'his', 'what', 'make', 'own', 'be', 'and', 'forty', 'whom', 'moreover', 'hereupon', 'ourselves', 'who', 'some', 'these', 'last', 'just', 'others', 'each', 'might', 'call', 'no', 'becoming', 'all', 'did', '‘re', 'to', 'can', 'less', 'few', 'same', 'why', 'most', 'fifteen', 'do', '‘m', 'onto', 'whereafter', 'our', 'four', 'often', 'am', 'via', 'latterly', 'hence', 'we', 'whereby', 'whither', 'a', 'side', 'several', 'after', 'three', 'seem', 'behind', 'here', "'re", 'latter', 'otherwise', 'quite', 'this', 'get', 'both', 'became', 'sometimes', 'across', 'give', 'up'}
 
     results = []
 
     num_summaries = len(mention_text[0])
-    for summary_idx in range(num_summaries):
+    for doc_idx, doc in enumerate(doc_mentions):
         summary_alignments = []
-        for doc_idx, doc in enumerate(doc_mentions):
+        for summary_idx in range(num_summaries):
             mentions = mention_text[doc_idx][summary_idx]  # Extract the list of mentions for the summary
             extracted_mentions = []
 
@@ -330,27 +339,27 @@ def align_string_match(doc_mentions, mention_text):
                                             extracted_mentions.append((span, idx, coref))
                                             break
                     else:
-                        if mention in [span for span, _, _ in doc]:
+                        candidates = [span for span, _, _ in doc]
+                        if mention in candidates:
                             for span, idx, coref in doc:
                                 if span == mention:
                                     extracted_mentions.append((span, idx, coref))
                         else:
                             for i in range(len(words) - 1):
                                 match_span = ' '.join(words[i:i + 3])
-                                if match_span in [span for span, _, _ in doc]:
+                                if match_span in candidates:
                                     for span, idx, coref in doc:
                                         if match_span in span:
                                             extracted_mentions.append((span, idx, coref))
                                             break
 
-            if not extracted_mentions:  # Add "No match" if no matches found
-                extracted_mentions.append("No match")
-
+            # If no matches found this will append an empty list for that summary
             summary_alignments.append(extracted_mentions)
         
         results.append(summary_alignments)
 
     return results
+
 
 def align_coref_system(data_folders, n_summaries):
     """
@@ -385,9 +394,12 @@ def align_coref_system(data_folders, n_summaries):
 
     return organized_predictions
 
-def align(doc_mentions, summary_text, mention_text, data_folder, n_summaries, component="LLM"):
+
+def align(doc_mentions, summary_text, mention_text, data_folder, n_summaries, component="string_match"):
     if component == "LLM":
         return align_llm(doc_mentions, summary_text)
+    elif component == "LLM_hf":
+        return align_llm_hf(doc_mentions, summary_text)
     elif component == "string_match":
         return align_string_match(doc_mentions, mention_text)
     elif component == "coref_system":
