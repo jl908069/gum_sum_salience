@@ -1,18 +1,19 @@
 import xml.etree.ElementTree as ET
 import os
 import re
-#from get_summary import get_summary
-import argparse
 
-def add_summaries_to_xml(xml_folder, summaries, output_folder):
+
+def add_summaries_to_xml(data_folder, summaries):
     """
     Adds summaries to XML files.
 
     Args:
-        xml_folder (str): Path to the folder containing XML files.
+        data_folder (str): Directory containing input and output folders.
         summaries (dict): Dictionary where keys are doc_ids and values are lists of summaries.
-        output_folder (str): Path to the output folder to save modified XML files.
     """
+    xml_folder = os.path.join(data_folder, "input/xml")
+    output_folder = os.path.join(data_folder, "output/xml")
+
     # Ensure output directory exists
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -51,15 +52,18 @@ def add_summaries_to_xml(xml_folder, summaries, output_folder):
             output_path = os.path.join(output_folder, f"{doc_id}.xml")
             tree.write(output_path, encoding="utf-8", xml_declaration=True)
 
-def add_anno_to_tsv(tsv_dir, output_dir, alignments):
+
+def add_anno_to_tsv(data_folder, alignments):
     """
     Modify the salience columns in TSV files and add alignments.
 
     Args:
-        tsv_dir (str): Directory containing input TSV files.
-        output_dir (str): Directory to save output TSV files.
+        data_folder (str): Directory containing input and output folders.
         alignments (list): List of alignments for each summary.
     """
+    tsv_dir = os.path.join(data_folder, "input/tsv")
+    output_dir = os.path.join(data_folder, "output/tsv")
+
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
