@@ -1,0 +1,1326 @@
+<text id="GUM_vlog_pizzeria" partition="train" author="Giuliana Calascibetta" dateCollected="2022-09-05" dateCreated="2021-08-21" dateModified="2021-08-25" shortTitle="pizzeria" sourceURL="https://www.youtube.com/watch?v=FhBPEhgHMm0" speakerCount="4" speakerList="#Coworker, #Giuliana, #MrsPellegrino, #Nonna" title="just a lowkey saturday | is this a vlog? | giuliana" type="vlog" summary="Giuliana shows a low-key Saturday in her vlog, in which she invites her grandmother Nonna Lina and her grandmother’s friend Mrs. Pellegrino to the pizza shop where she works to teach them how to make pizzas along with the help of her co-worker.">
+<sp who="#Giuliana" whom="#Coworker">
+<s type="wh" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	reparandum	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+...	:	…	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+a	DT	a	AT0	DET	det	_
+pizza	NN	pizza	NN1	NOUN	compound	_
+vlog	NN	vlog	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+what	WP	what	PNQ	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+this	DT	this	DT0	PRON	parataxis	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#Giuliana">
+<s type="decl" transition="establishment">
+<w>
+Low	JJ	lo	AJ0	ADJ	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+key	NN	key	NN1	NOUN	compound	_
+</w>
+<date when="2021-08-21">
+Saturday	NP	Saturday	NP0	PROPN	compound	_
+</date>
+vlog	NN	vlog	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="continue">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+like	UH	like	ITJ	INTJ	discourse	_
+a	DT	a	AT0	DET	det	_
+<w>
+low	JJ	low	AJ0	ADJ	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+key	NN	key	NN1	NOUN	compound	_
+</w>
+<date when="2021-08-21">
+Saturday	NP	Saturday	NP0	PROPN	compound	_
+</date>
+vlog	NN	vlog	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+never	RB	never	AV0	ADV	advmod	_
+know	VVP	know	VVB	VERB	root	_
+what	WP	what	PNQ	PRON	obj	_
+'s	VBZ	be	VBZ	AUX	aux	_
+<w>
+gon	VVG	go	VVG	VERB	acl:relcl	_
+na	TO	to	TO0	PART	mark	_
+</w>
+happen	VV	happen	VVI	VERB	xcomp	happ-en
+on	IN	on	PRP	ADP	case	_
+Saturdays	NPS	Saturday	NP0	PROPN	obl	Saturday-s
+for	IN	for	PRP	ADP	case	_
+me	PP	I	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#Giuliana">
+<s type="decl" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+vlog	VV	vlog	NN1	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+taking	VVG	take	VVG	VERB	ccomp	tak-ing
+your	PP$	your	DPS	PRON	nmod:poss	_
+dogs	NNS	dog	NN2	NOUN	obj	dog-s
+out	RP	out	AVP	ADP	compound:prt	_
+and	CC	and	CJC	CCONJ	cc	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+getting	VVG	get	VVG	VERB	conj	gett-ing
+cereal	NN	cereal	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+morning	NN	morning	NN1	NOUN	obl	morn-ing
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+just	RB	just	AV0	ADV	advmod	_
+chilling	VVG	chill	VVG	VERB	conj	chill-ing
+at	IN	at	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+counter	NN	counter	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="continue">
+That	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+what	WP	what	PNQ	PRON	root	_
+I	PP	I	PNP	PRON	nsubj	_
+did	VVD	do	VDD	VERB	acl:relcl	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="imp" transition="zero">
+Look	VV	look	VVB	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+basil	NN	basil	NN1	NOUN	compound	_
+plants	NNS	plant	NN2	NOUN	obl	plant-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+They	PP	they	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+flourishing	VVG	flourish	VVG	VERB	root	flourish-ing
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#Giuliana">
+<s type="decl" transition="continue">
+Yeah	UH	yeah	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+big	JJ	big	AJ0	ADJ	root	_
+right	RB	right	AV0	ADV	advmod	_
+now	RB	now	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	aux	_
+<w>
+gon	VVG	go	VVG	VERB	root	_
+na	TO	to	TO0	PART	mark	_
+</w>
+be	VB	be	VBI	AUX	cop	_
+like	IN	like	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+basil	NN	basil	NN1	NOUN	compound	_
+plant	NN	plant	NN1	NOUN	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#Giuliana">
+<s type="decl" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+prettier	JJR	pretty	AJC	ADJ	root	pretti-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="zero">
+It	PP	it	PNP	PRON	nsubj	_
+smells	VVZ	smell	VVZ	VERB	root	smell-s
+insanely	RB	insanely	AV0	ADV	advmod	in-sane-ly
+good	JJ	good	AJ0	ADJ	xcomp	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj:pass	_
+'re	VBP	be	VBB	AUX	aux:pass	_
+supposed	VVN	suppose	VVN	VERB	root	suppos-ed
+to	TO	to	TO0	PART	mark	_
+take	VV	take	VVI	VERB	xcomp	_
+basil	NN	basil	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+put	VV	put	VVB	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+up	IN	up	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+nose	NN	nose	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#Giuliana">
+<s type="intj" transition="null">
+Yeah	UH	yeah	ITJ	INTJ	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+No	UH	no	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+never	RB	never	AV0	ADV	advmod	_
+seen	VVN	see	VVN	VERB	root	see-n
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj:pass	_
+'re	VBP	be	VBB	AUX	aux:pass	_
+supposed	VVN	suppose	VVN	VERB	root	suppos-ed
+to	TO	to	TO0	PART	mark	_
+roll	VV	roll	VVI	VERB	xcomp	_
+up	RP	up	AVP	ADP	compound:prt	_
+the	DT	the	AT0	DET	det	_
+basil	NN	basil	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+put	VV	put	VVB	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+nose	NN	nose	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#Giuliana">
+<s type="imp" transition="establishment">
+Do	VV	do	VDB	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+<w>
+wan	VVP	want	VVB	VERB	root	_
+na	TO	to	TO0	PART	mark	_
+</w>
+put	VV	put	VVI	VERB	xcomp	_
+this	DT	this	DT0	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+hair	NN	hair	NN1	NOUN	obl	_
+so	RB	so	AV0	ADV	advmod	_
+bad	RB	bad	AJ0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="establishment">
+How	WRB	how	AVQ	ADV	advmod	_
+beautiful	JJ	beautiful	AJ0	ADJ	root	beauti-ful
+would	MD	would	VM0	AUX	aux	_
+that	DT	that	AV0	PRON	nsubj	_
+be	VB	be	VBI	AUX	cop	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="intj" transition="zero">
+Good	JJ	good	AJ0	ADJ	amod	_
+job	NN	job	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+Mrs.	NP	Mrs.	NP0	PROPN	root	_
+Pellegrino	NP	Pellegrino	NP0	PROPN	flat	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino">
+<s type="intj" transition="null">
+<foreign xml:lang="ita">
+Ciao	FW	ciao	UNC	X	root	_
+</foreign>
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="intj" transition="null">
+And	CC	and	CJC	CCONJ	cc	_
+Nonna	NP	Nonna	NP0	PROPN	root	_
+Lina	NP	Lina	NP0	PROPN	flat	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Nonna	NP	Nonna	NP0	PROPN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+father	NN	father	NN1	NOUN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+mother	NN	mother	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+She	PP	she	PNP	PRON	nsubj	_
+gave	VVD	give	VVD	VERB	root	_
+birth	NN	birth	NN1	NOUN	obj	bir-th
+to	IN	to	PRP	ADP	case	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+father	NN	father	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+who	WP	who	PNQ	PRON	nsubj	_
+gave	VVD	give	VVD	VERB	acl:relcl	_
+birth	NN	birth	NN1	NOUN	obj	bir-th
+to	IN	to	PRP	ADP	case	_
+me	PP	I	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Well	UH	well	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+mother	NN	mother	NN1	NOUN	nsubj	_
+gave	VVD	give	VVD	VERB	root	_
+...	:	…	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	dep	_
+guys	NNS	guy	NN2	NOUN	nsubj	guy-s
+know	VVP	know	VVB	VERB	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Nonna">
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+put	VVP	put	VVB	VERB	root	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+hand	NN	hand	NN1	NOUN	obj	_
+here	RB	here	AV0	ADV	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	expl	_
+'s	VBZ	be	VBZ	AUX	cop	_
+weird	JJ	weird	AJ0	ADJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+teaching	VVG	teach	VVG	VERB	csubj	teach-ing
+them	PP	they	PNP	PRON	iobj	_
+because	IN	because	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+teach	VVP	teach	VVB	VERB	advcl	_
+me	PP	I	PNP	PRON	iobj	_
+everything	NN	everything	NN1	PRON	obj	_
+about	IN	about	PRP	ADP	case	_
+cooking	NN	cooking	NN1	NOUN	obl	cook-ing
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+so	RB	so	AV0	ADV	advmod	_
+wholesome	JJ	wholesome	AJ0	ADJ	root	whole-some
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+love	VVP	love	VVB	VERB	parataxis	_
+it	PP	it	PNP	PRON	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+This	DT	this	DT0	PRON	nsubj	_
+makes	VVZ	make	VVZ	VERB	root	make-s
+me	PP	I	PNP	PRON	obj	_
+so	RB	so	AV0	ADV	advmod	_
+happy	JJ	happy	AJ0	ADJ	xcomp	happ-y
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Nonna">
+<s type="intj" transition="zero">
+Okay	UH	okay	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="null">
+So	UH	so	ITJ	INTJ	root	_
+...	:	…	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino,#Nonna">
+<s type="decl" transition="zero">
+Yes	UH	yes	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+<w>
+wan	VVP	want	VVB	VERB	root	_
+na	TO	to	TO0	PART	mark	_
+</w>
+see	VV	see	VVI	VERB	xcomp	_
+you	PP	you	PNP	PRON	dep	_
+guys	NNS	guy	NN2	NOUN	obj	guy-s
+throw	VV	throw	VVI	VERB	xcomp	_
+it	PP	it	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+air	NN	air	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino,#Nonna">
+<s type="decl" transition="establishment">
+So	UH	so	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+hold	VVP	hold	VVB	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+like	IN	like	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+And	CC	and	CJC	CCONJ	cc	_
+then	RB	then	AV0	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+do	VVP	do	VD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+little	JJ	little	AJ0	ADJ	amod	_
+toss	NN	toss	NN1	NOUN	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+So	UH	so	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+like	IN	like	PRP	ADP	case	_
+,	,	,	PUN	PUNCT	punct	_
+uhh	UH	uhh	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	DET	det	_
+motion	NN	motion	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Nonna">
+<s type="decl" transition="zero">
+If	IN	if	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+falls	VVZ	fall	VVZ	VERB	advcl	fall-s
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+floor	NN	floor	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+okay	JJ	okay	AJ0	ADJ	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino,#Nonna">
+<s type="intj" transition="null">
+No	UH	no	ITJ	INTJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+no	UH	no	ITJ	INTJ	discourse	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+mean	VVP	mean	VVB	VERB	parataxis	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+pizza	NN	pizza	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+throw	VV	throw	VVB	VERB	conj	_
+it	PP	it	PNP	PRON	obj	_
+right	RB	right	AV0	ADV	advmod	_
+over	IN	over	PRP	ADP	obl	_
+...	:	…	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="null">
+Yaay	UH	Yaay	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+That	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+great	JJ	great	AJ0	ADJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Get	VV	get	VVB	VERB	root	_
+some	DT	some	DT0	DET	det	_
+more	JJR	more	DT0	ADJ	amod	_
+air	NN	air	NN1	NOUN	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="establishment">
+There	EX	there	AV0	PRON	expl	_
+you	PP	you	PNP	PRON	nsubj	_
+go	VVP	go	VVB	VERB	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Throw	VV	throw	VVB	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+up	RB	up	AVP	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+up	RB	up	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+up	RB	up	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+up	RB	up	AV0	ADV	advmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana,#Nonna">
+<s type="intj" transition="null">
+Yeah	UH	yeah	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Look	VV	look	VVB	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+that	DT	that	DT0	PRON	obl	_
+<incident type="Caption appears saying 'my pizza's about to be BOMB'" who="#Giuliana">
+!	SENT	!	PUN	PUNCT	punct	_
+</incident>
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="multiple" transition="null">
+See	VV	see	VVB	VERB	root	_
+how	WRB	how	AVQ	ADV	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+even	RB	even	AV0	ADV	advmod	_
+have	VH	have	VHI	VERB	advcl:relcl	_
+to	TO	to	TO0	PART	mark	_
+tell	VV	tell	VVI	VERB	xcomp	_
+Nonna	NP	Nonna	NP0	PROPN	iobj	_
+to	TO	to	TO0	PART	mark	_
+get	VV	get	VVI	VERB	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+all	RB	all	DT0	ADV	advmod	_
+close	RB	close	AJ0	ADV	xcomp	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+crust	NN	crust	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+she	PP	she	PNP	PRON	nsubj	_
+already	RB	already	AV0	ADV	advmod	al-ready
+knows	VVZ	know	VVZ	VERB	parataxis	know-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+pizza	NN	pizza	NN1	NOUN	compound	_
+sauce	NN	sauce	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+Nonna	NP	Nonna	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+blood	NN	blood	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+where	WRB	where	AVQ	ADV	parataxis	_
+it	PP	it	PNP	PRON	nsubj	_
+started	VVD	start	VVD	VERB	advcl:relcl	start-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+That	DT	that	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+quick	JJ	quick	AJ0	ADJ	root	_
+too	RB	too	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	parataxis	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+'m	VBP	be	VBB	AUX	aux:pass	_
+surprised	VVN	surprise	VVN	VERB	root	surpris-ed
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+fat	JJ	fat	AJ0	ADJ	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="decl" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+always	RB	always	AV0	ADV	advmod	_
+say	VVP	say	VVB	VERB	root	_
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Pizza">
+<s type="intj" transition="zero">
+There	EX	there	AV0	PRON	expl	_
+we	PP	we	PNP	PRON	nsubj	_
+go	VVP	go	VVB	VERB	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino,#Nonna">
+<s type="intj" transition="null">
+Nice	JJ	nice	AJ0	ADJ	amod	_
+job	NN	job	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="null">
+<foreign xml:lang="ita">
+Brava	FW	Brava	UNC	X	root	_
+</foreign>
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="decl" transition="null">
+<incident type="indistinguishable speech in Italian" who="#Nonna">
+Nonna	NP	Nonna	NP0	PROPN	nsubj	_
+</incident>
+goes	VVZ	go	VVZ	VERB	root	goe-s
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+What	WP	what	PNQ	PRON	obj	_
+do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VV	think	VVI	VERB	ccomp	_
+?	SENT	?	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</quote>
+</s>
+</sp>
+<sp who="#Nonna" whom="#Giuliana">
+<s type="decl" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+good	JJ	good	AJ0	ADJ	amod	_
+teacher	NN	teacher	NN1	NOUN	root	teach-er
+,	,	,	PUN	PUNCT	punct	_
+Giuliana	NP	Giuliana	NP0	PROPN	vocative	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Nonna">
+<s type="decl" transition="null">
+<foreign xml:lang="ita">
+Grazie	FW	Grazie	UNC	X	root	_
+</foreign>
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="wh" transition="null">
+What	WP	what	PNQ	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+pizza	NN	pizza	NN1	NOUN	root	_
+without	IN	without	PRP	ADP	case	_
+cheese	NN	cheese	NN1	NOUN	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	parataxis	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="imp" transition="null">
+Wow-eee	UH	Wow-eee	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+that	DT	that	DT0	PRON	obl	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	root	_
+onions	NNS	onion	NN2	NOUN	obj	onion-s
+on	IN	on	PRP	ADP	case	_
+yours	PP$	yours	DPS	PRON	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="intj" transition="null">
+No	UH	no	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="q" transition="null">
+No	UH	no	ITJ	INTJ	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+Anything	NN	anything	NN1	PRON	root	_
+else	RB	else	AV0	ADV	advmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="null">
+No	UH	no	ITJ	INTJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Coworker">
+<s type="intj" transition="null">
+Alright	UH	alright	ITJ	INTJ	root	Al-right
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Perfect	JJ	perfect	AJ0	ADJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="wh" transition="null">
+How	WRB	how	AVQ	ADV	advmod	_
+'d	MD	would	VM0	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VV	think	VVI	VERB	root	_
+it	PP	it	PNP	PRON	nsubj	_
+went	VVD	go	VVD	VERB	ccomp	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+it	PP	it	PNP	PRON	nsubj	_
+went	VVD	go	VVD	VERB	ccomp	_
+well	RB	well	AV0	ADV	advmod	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+proud	JJ	proud	AJ0	ADJ	conj	_
+of	IN	of	PRF	ADP	case	_
+myself	PP	myself	PNP	PRON	obl	my-self
+too	RB	too	AV0	ADV	advmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino,#Nonna">
+<s type="q" transition="zero">
+Do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	dep	_
+guys	NNS	guy	NN2	NOUN	nsubj	guy-s
+<w>
+wan	VV	want	VVB	VERB	root	_
+na	TO	to	TO0	PART	mark	_
+</w>
+say	VV	say	VVI	VERB	xcomp	_
+anything	NN	anything	NN1	PRON	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+vlog	NN	vlog	NN1	NOUN	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana,#Nonna">
+<s type="decl" transition="null">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+<date when="2021-08-21">
+the	DT	the	AT0	DET	det	_
+best	JJS	good	AJS	ADJ	amod	be-st
+day	NN	day	NN1	NOUN	root	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+long	JJ	long	AJ0	ADJ	amod	_
+time	NN	time	NN1	NOUN	obl	_
+</date>
+for	IN	for	PRP	ADP	case	_
+me	PP	I	PNP	PRON	obl	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="wh" transition="null">
+Why	WRB	why	AVQ	ADV	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="null">
+Because	IN	because	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	reparandum	_
+...	:	…	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+cook	NN	cook	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+pizza	NN	pizza	NN1	NOUN	compound	_
+maker	NN	maker	NN1	NOUN	root	mak-er
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="q" transition="continue">
+People	NNS	person	NN0	NOUN	nsubj	_
+call	VVP	call	VVB	VERB	root	_
+me	PP	I	PNP	PRON	obj	_
+Pizza	NP	Pizza	NP0	PROPN	compound	_
+Princess	NP	Princess	NP0	PROPN	xcomp	Princ-ess
+,	,	,	PUN	PUNCT	punct	_
+did	VVD	do	VDD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+know	VV	know	VVI	VERB	parataxis	_
+this	DT	this	DT0	PRON	obj	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="smooth-shift">
+No	UH	no	ITJ	INTJ	root	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+right	JJ	right	AJ0	ADJ	conj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+And	CC	and	CJC	CCONJ	cc	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+beautiful	JJ	beautiful	AJ0	ADJ	amod	beauti-ful
+friend	NN	friend	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+Lina	NP	Lina	NP0	PROPN	appos	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#Nonna">
+<s type="frag" transition="establishment">
+Nonna!	NP	Nonna!	NP0	PROPN	root	_
+</s>
+</sp>
+<sp who="#Coworker">
+<s type="decl" transition="zero">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+so	RB	so	AV0	ADV	advmod	_
+cute	JJ	cute	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="decl" transition="null">
+They	PP	they	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+most	RBS	most	AV0	ADV	advmod	_
+Italian	JJ	Italian	AJ0	ADJ	amod	Ital-ian
+women	NNS	woman	NN2	NOUN	root	_
+you	PP	you	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+ever	RB	ever	AV0	ADV	advmod	_
+met	VVN	meet	VVN	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino">
+<s type="intj" transition="null">
+Oh	UH	oh	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+yeah	UH	yeah	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+So	RB	so	AV0	ADV	advmod	_
+Italian	JJ	Italian	AJ0	ADJ	root	Ital-ian
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="imp" transition="null">
+Look	VV	look	VVB	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+<w>
+wan	VVP	want	VVB	VERB	root	_
+na	TO	to	TO0	PART	mark	_
+</w>
+try	VV	try	VVI	VERB	xcomp	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="null">
+No	UH	no	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="q" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+sure	JJ	sure	AJ0	ADJ	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Nonna	NP	Nonna	NP0	PROPN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Twist	VV	Twist	VVB	VERB	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Nonna" whom="#Giuliana">
+<s type="intj" transition="null">
+Oh	UH	oh	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+You	PP	you	PNP	PRON	nsubj	_
+<w>
+got	VVD	get	VVD	VERB	root	_
+ta	TO	to	TO0	PART	mark	_
+</w>
+twist	VV	twist	VVI	VERB	xcomp	_
+it	PP	it	PNP	PRON	obj	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="decl" transition="null">
+There	EX	there	AV0	PRON	expl	_
+you	PP	you	PNP	PRON	nsubj	_
+go	VVP	go	VVB	VERB	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#MrsPellegrino">
+<s type="frag" transition="null">
+Nice	JJ	nice	AJ0	ADJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="intj" transition="null">
+Oh	UH	oh	ITJ	INTJ	discourse	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+god	NN	god	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+get	VV	get	VVI	VERB	root	_
+down	RB	down	AVP	ADV	advmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker">
+<s type="q" transition="null">
+Is	VBZ	be	VBZ	AUX	cop	_
+n't	RB	not	XX0	PART	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+fun	JJ	fun	AJ0	ADJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+And	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	VERB	root	_
+these	DT	this	DT0	PRON	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#MrsPellegrino">
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+like	VVP	like	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+toss	VV	toss	VVI	VERB	xcomp	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="q" transition="zero">
+So	UH	so	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+playing	NN	playing	NN1	NOUN	nmod	play-ing
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#MrsPellegrino">
+<s type="decl" transition="establishment">
+Oh	UH	oh	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+yeah	UH	yeah	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+fun	JJ	fun	AJ0	ADJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+<w>
+got	VVD	get	VVD	VERB	root	_
+ta	TO	to	TO0	PART	mark	_
+</w>
+have	VH	have	VHI	VERB	xcomp	_
+fun	NN	fun	NN1	NOUN	obj	_
+at	IN	at	PRP	ADP	case	_
+work	NN	work	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#MrsPellegrino">
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj	_
+makes	VVZ	make	VVZ	VERB	root	make-s
+it	PP	it	PNP	PRON	obj	_
+more	RBR	more	AV0	ADV	advmod	_
+enjoyable	JJ	enjoyable	AJ0	ADJ	xcomp	en-joy-able
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+here	RB	here	AV0	ADV	parataxis	_
+all	PDT	all	DT0	DET	det:predet	_
+the	DT	the	AT0	DET	det	_
+time	NN	time	NN1	NOUN	obl:tmod	_
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+we	PP	we	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+have	VHP	have	VHB	VERB	parataxis	_
+fun	NN	fun	NN1	NOUN	obj	_
+together	RB	together	AV0	ADV	advmod	_
+and	CC	and	CJC	CCONJ	cc	_
+do	VVP	do	VD	VERB	conj	_
+this	DT	this	DT0	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+I	PP	I	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+pick	VV	pick	VVI	VERB	root	_
+this	DT	this	DT0	PRON	obj	_
+up	RP	up	AVP	ADP	compound:prt	_
+without	IN	without	PRP	SCONJ	mark	_
+doing	VVG	do	VDG	VERB	advcl	do-ing
+that	DT	that	CJT	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	parataxis	_
+why	WRB	why	AVQ	ADV	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+just	RB	just	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+little	JJ	little	AJ0	ADJ	amod	_
+twist	NN	twist	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino">
+<s type="decl" transition="zero">
+Oh	UH	oh	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+god	NN	god	NN1	NOUN	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+this	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+beautiful	JJ	beautiful	AJ0	ADJ	root	beauti-ful
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Listen	VV	listen	VVB	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+crunch	NN	crunch	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+good	JJ	good	AJ0	ADJ	amod	_
+one	NN	one	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Nonna">
+<s type="decl" transition="zero">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+nice	JJ	nice	AJ0	ADJ	root	_
+and	CC	and	CJC	CCONJ	cc	_
+crunchy	JJ	crunchy	AJ0	ADJ	conj	crunch-y
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+love	VVP	love	VVB	VERB	root	_
+how	WRB	how	AVQ	ADV	obj	_
+they	PP	they	PNP	PRON	nsubj:pass	_
+'re	VBP	be	VBB	AUX	aux:pass	_
+,	,	,	PUN	PUNCT	punct	_
+like	UH	like	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+mesmerized	VVN	mesmerize	VVN	VERB	advcl:relcl	mesmer-iz-ed
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+pizza	NN	pizza	NN1	NOUN	obl:agent	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+always	RB	always	AV0	ADV	advmod	_
+wanted	VVD	want	VVD	VERB	root	want-ed
+to	TO	to	TO0	PART	mark	_
+work	VV	work	VVI	VERB	xcomp	_
+here	RB	here	AV0	ADV	advmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="sub" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+work	VV	work	VVI	VERB	root	_
+here	RB	here	AV0	ADV	advmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+You	PP	you	PNP	PRON	nsubj:pass	_
+'re	VBP	be	VBB	AUX	aux:pass	_
+hired	VVN	hire	VVN	VERB	root	hir-ed
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Coworker" whom="#MrsPellegrino">
+<s type="frag" transition="zero">
+Nice	JJ	nice	AJ0	ADJ	amod	_
+job	NN	job	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Nonna">
+<s type="wh" transition="null">
+What	WP	what	PNQ	PRON	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Nonna" whom="#MrsPellegrino">
+<s type="intj" transition="null">
+No	UH	no	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+looks	VVZ	look	VVZ	VERB	root	look-s
+beautiful	JJ	beautiful	AJ0	ADJ	xcomp	beauti-ful
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="imp" transition="null">
+Aww	UH	aww	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+look	VV	look	VVB	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+got	VVD	get	VVD	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Just	RB	just	AV0	ADV	advmod	_
+do	VV	do	VDB	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+drop	VV	drop	VVI	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+grab	VV	grab	VVI	VERB	root	_
+us	PP	we	PNP	PRON	iobj	_
+some	DT	some	DT0	DET	det	_
+plates	NNS	plate	NN2	NOUN	obj	plate-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Nonna">
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+looks	VVZ	look	VVZ	VERB	root	look-s
+beautiful	JJ	beautiful	AJ0	ADJ	xcomp	beauti-ful
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="null">
+Yeah	UH	yeah	ITJ	INTJ	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana">
+<s type="intj" transition="null">
+<foreign xml:lang="ita">
+Ciao	FW	ciao	UNC	X	root	_
+</foreign>
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="null">
+Thank	VVP	thank	VVB	VERB	root	_
+you	PP	you	PNP	PRON	obj	_
+for	IN	for	PRP	SCONJ	mark	_
+watching	VVG	watch	VVG	VERB	advcl	watch-ing
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="frag" transition="null">
+Justin	NP	Justin	NP0	PROPN	root	_
+Bieber	NP	Bieber	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#MrsPellegrino" whom="#Giuliana">
+<s type="decl" transition="null">
+Ohh	UH	ohh	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+thought	VVD	think	VVD	VERB	root	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+V	NN	V	NN1	NOUN	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</sp>
+<sp who="#Giuliana" whom="#MrsPellegrino">
+<s type="decl" transition="null">
+Bieber	NP	Bieber	NP0	PROPN	root	_
+not	RB	not	XX0	PART	advmod	_
+like	IN	like	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+animal	NN	animal	NN1	NOUN	nmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+</sp>
+</text>

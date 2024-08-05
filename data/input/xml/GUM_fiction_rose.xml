@@ -1,0 +1,889 @@
+<text id="GUM_fiction_rose" author="Kelly Link" dateCollected="2017-09-13" dateCreated="2005-07-01" dateModified="2016-12-01" shortTitle="back" sourceURL="http://smallbeerpress.com/wp-content/uploads/kelly_link_stranger_things2.htm" speakerCount="2" speakerList="#Rachel, #Carroll" title="Strange Things Happen - Water Off a Black Dog's Back" type="fiction" summary="Jellicoh College student Rachel Rook speaks with her boyfriend Carroll, whom she met a few months earlier at Jellicoh College library where he works, about meeting her parents for the first time on the farm where they live together.">
+<head>
+<s type="decl">
+Stranger	JJR	strange
+Things	NNS	thing
+Happen	VVP	happen
+-	:	-
+</s>
+<s type="frag">
+Water	NN	water
+Off	IN	off
+a	DT	a
+Black	JJ	black
+Dog	NN	dog
+’s	POS	's
+Back	NN	back
+</s>
+</head>
+<p>
+<s type="decl">
+Rachel	NP	Rachel
+Rook	NP	Rook
+took	VVD	take
+Carroll	NP	Carroll
+home	RB	home
+to	TO	to
+meet	VV	meet
+her	PP$	her
+parents	NNS	parent
+two	CD	two
+months	NNS	month
+after	IN	after
+she	PP	she
+first	RB	first
+slept	VVD	sleep
+with	IN	with
+him	PP	he
+.	SENT	.
+</s>
+<s type="decl">
+For	IN	for
+a	DT	a
+generous	JJ	generous
+girl	NN	girl
+,	,	,
+a	DT	a
+girl	NN	girl
+who	WP	who
+took	VVD	take
+off	RP	off
+her	PP$	her
+clothes	NNS	clothes
+with	IN	with
+abandon	NN	abandon
+,	,	,
+she	PP	she
+was	VBD	be
+remarkably	RB	remarkably
+<w>
+close	JJ	close
+-	HYPH	-
+mouthed	JJ	mouthed
+</w>
+about	IN	about
+some	DT	some
+things	NNS	thing
+.	SENT	.
+</s>
+<s type="decl">
+In	IN	in
+two	CD	two
+months	NNS	month
+Carroll	NP	Carroll
+had	VHD	have
+learned	VVN	learn
+that	IN/that	that
+her	PP$	her
+parents	NNS	parent
+lived	VVD	live
+on	IN	on
+a	DT	a
+farm	NN	farm
+several	JJ	several
+miles	NNS	mile
+outside	RB	outside
+of	IN	of
+town	NN	town
+;	:	;
+that	IN/that	that
+they	PP	they
+sold	VVD	sell
+strawberries	NNS	strawberry
+in	IN	in
+<date from="--06" to="--09">
+summer	NN	summer
+</date>
+,	,	,
+and	CC	and
+Christmas	NP	Christmas
+trees	NNS	tree
+in	IN	in
+the	DT	the
+<date from="--12" to="--03">
+winter	NN	winter
+</date>
+.	SENT	.
+</s>
+<s type="decl">
+He	PP	he
+knew	VVD	know
+that	IN/that	that
+they	PP	they
+never	RB	never
+left	VVD	leave
+the	DT	the
+farm	NN	farm
+;	:	;
+instead	RB	instead
+,	,	,
+the	DT	the
+world	NN	world
+came	VVD	come
+to	IN	to
+them	PP	they
+in	IN	in
+the	DT	the
+shape	NN	shape
+of	IN	of
+weekend	NN	weekend
+picnickers	NNS	picnicker
+and	CC	and
+driveby	JJ	driveby
+tourists	NNS	tourist
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<sp who="#Carroll">
+Do	VV	do
+you	PP	you
+think	VV	think
+your	PP$	your
+parents	NNS	parent
+will	MD	will
+like	VV	like
+me	PP	I
+?	SENT	?
+"	''	''
+</sp>
+he	PP	he
+said	VVD	say
+.	SENT	.
+</s>
+<s type="decl">
+He	PP	he
+had	VHD	have
+spent	VVN	spend
+the	DT	the
+afternoon	NN	afternoon
+preparing	VVG	prepare
+for	IN	for
+this	DT	this
+visit	NN	visit
+as	RB	as
+carefully	RB	carefully
+as	IN	as
+if	IN	if
+he	PP	he
+were	VBD	be
+preparing	VVG	prepare
+for	IN	for
+an	DT	a
+exam	NN	exam
+.	SENT	.
+</s>
+<s type="decl">
+He	PP	he
+had	VHD	have
+gotten	VVN	get
+his	PP$	his
+hair	NN	hair
+cut	NN	cut
+,	,	,
+trimmed	VVN	trim
+his	PP$	his
+nails	NNS	nail
+,	,	,
+washed	VVN	wash
+his	PP$	his
+neck	NN	neck
+and	CC	and
+behind	IN	behind
+his	PP$	his
+ears	NNS	ear
+.	SENT	.
+</s>
+<s type="decl">
+The	DT	the
+outfit	NN	outfit
+he	PP	he
+had	VHD	have
+chosen	VVN	choose
+,	,	,
+khaki	JJ	khaki
+pants	NNS	pants
+and	CC	and
+a	DT	a
+blue	JJ	blue
+<w>
+button	NN	button
+-	HYPH	-
+down	RB	down
+</w>
+shirt	NN	shirt
+--	:	-
+no	DT	no
+tie	NN	tie
+--	:	-
+lay	VVP	lay
+neatly	RB	neatly
+folded	VVN	fold
+on	IN	on
+the	DT	the
+bed	NN	bed
+.	SENT	.
+</s>
+<s type="decl">
+He	PP	he
+stood	VVD	stand
+before	IN	before
+Rachel	NP	Rachel
+in	IN	in
+his	PP$	his
+plain	JJ	plain
+white	JJ	white
+underwear	NN	underwear
+and	CC	and
+white	JJ	white
+socks	NNS	sock
+,	,	,
+gazing	VVG	gaze
+at	IN	at
+her	PP	she
+as	IN	as
+if	IN	if
+she	PP	she
+were	VBD	be
+a	DT	a
+mirror	NN	mirror
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<sp who="#Rachel">
+"	``	''
+No	UH	no
+,	,	,
+"	''	''
+</sp>
+she	PP	she
+said	VVD	say
+.	SENT	.
+</s>
+<s type="decl">
+It	PP	it
+was	VBD	be
+the	DT	the
+first	JJ	first
+time	NN	time
+she	PP	she
+had	VHD	have
+been	VBN	be
+to	IN	to
+his	PP$	his
+apartment	NN	apartment
+,	,	,
+and	CC	and
+she	PP	she
+stood	VVD	stand
+square	RB	square
+in	IN	in
+the	DT	the
+center	NN	center
+of	IN	of
+his	PP$	his
+bedroom	NN	bedroom
+,	,	,
+her	PP$	her
+arms	NNS	arm
+folded	VVN	fold
+against	IN	against
+her	PP$	her
+body	NN	body
+as	IN	as
+if	IN	if
+she	PP	she
+was	VBD	be
+afraid	JJ	afraid
+to	TO	to
+sit	VV	sit
+down	RP	down
+,	,	,
+to	TO	to
+touch	VV	touch
+something	NN	something
+.	SENT	.
+</s>
+</p>
+<sp who="#Carroll">
+<p>
+<s type="wh">
+"	``	''
+Why	WRB	why
+?	SENT	?
+"	''	''
+</s>
+</p>
+</sp>
+<p>
+<s type="decl">
+<sp who="#Rachel">
+"	``	''
+My	PP$	my
+father	NN	father
+will	MD	will
+like	VV	like
+you	PP	you
+,	,	,
+"	''	''
+</sp>
+she	PP	she
+said	VVD	say
+.	SENT	.
+</s>
+<sp who="#Rachel">
+<s type="decl">
+"	``	''
+But	CC	but
+he	PP	he
+likes	VVZ	like
+everyone	NN	everyone
+.	SENT	.
+</s>
+<s type="decl">
+My	PP$	my
+mother	NN	mother
+'s	VBZ	be
+more	RBR	more
+particular	JJ	particular
+--	:	-
+</s>
+<s type="decl">
+she	PP	she
+thinks	VVZ	think
+that	IN/that	that
+you	PP	you
+lack	VVP	lack
+a	DT	a
+serious	JJ	serious
+nature	NN	nature
+.	SENT	.
+"	''	''
+</s>
+</sp>
+</p>
+<p>
+<s type="decl">
+Carroll	NP	Carroll
+put	VVD	put
+on	IN	on
+his	PP$	his
+pants	NNS	pants
+,	,	,
+admiring	VVG	admire
+the	DT	the
+crease	NN	crease
+.	SENT	.
+</s>
+<sp who="#Carroll">
+<s type="decl">
+"	``	''
+So	RB	so
+you	PP	you
+'ve	VHP	have
+talked	VVN	talk
+to	IN	to
+her	PP	she
+about	IN	about
+me	PP	I
+.	SENT	.
+"	''	''
+</s>
+</sp>
+</p>
+<sp who="#Rachel">
+<p>
+<s type="intj">
+"	``	''
+Yes	UH	yes
+.	SENT	.
+"	''	''
+</s>
+</p>
+</sp>
+<sp who="#Carroll">
+<p>
+<s type="decl">
+"	``	''
+But	CC	but
+you	PP	you
+have	VHP	have
+n't	RB	not
+talked	VVN	talk
+about	IN	about
+her	PP	she
+to	IN	to
+me	PP	I
+.	SENT	.
+"	''	''
+</s>
+</p>
+</sp>
+<sp who="#Rachel">
+<p>
+<s type="intj">
+"	``	''
+No	UH	no
+.	SENT	.
+"	''	''
+</s>
+</p>
+</sp>
+<sp who="#Carroll">
+<p>
+<s type="q">
+"	``	''
+Are	VBP	be
+you	PP	you
+ashamed	JJ	ashamed
+of	IN	of
+her	PP	she
+?	SENT	?
+"	''	''
+</s>
+</p>
+</sp>
+<p>
+<s type="decl">
+Rachel	NP	Rachel
+snorted	VVD	snort
+.	SENT	.
+</s>
+<s type="decl">
+Then	RB	then
+she	PP	she
+sighed	VVD	sigh
+in	IN	in
+a	DT	a
+way	NN	way
+that	WDT	that
+seemed	VVD	seem
+to	TO	to
+suggest	VV	suggest
+she	PP	she
+was	VBD	be
+regretting	VVG	regret
+her	PP$	her
+decision	NN	decision
+to	TO	to
+take	VV	take
+him	PP	he
+home	RB	home
+.	SENT	.
+</s>
+<s type="decl">
+"	``	''
+You	PP	you
+'re	VBP	be
+ashamed	JJ	ashamed
+of	IN	of
+me	PP	I
+,	,	,
+"	''	''
+he	PP	he
+guessed	VVD	guess
+,	,	,
+and	CC	and
+Rachel	NP	Rachel
+kissed	VVD	kiss
+him	PP	he
+and	CC	and
+smiled	VVD	smile
+and	CC	and
+did	VVD	do
+n't	RB	not
+say	VV	say
+anything	NN	anything
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Rachel	NP	Rachel
+still	RB	still
+lived	VVD	live
+on	IN	on
+her	PP$	her
+parents	NNS	parent
+'	POS	's
+farm	NN	farm
+,	,	,
+which	WDT	which
+made	VVD	make
+it	PP	it
+all	RB	all
+the	DT	the
+more	RBR	more
+remarkable	JJ	remarkable
+that	IN/that	that
+she	PP	she
+had	VHD	have
+kept	VVN	keep
+Carroll	NP	Carroll
+and	CC	and
+her	PP$	her
+parents	NNS	parent
+apart	RB	apart
+for	IN	for
+so	RB	so
+long	JJ	long
+.	SENT	.
+</s>
+<s type="decl">
+It	PP	it
+suggested	VVD	suggest
+a	DT	a
+talent	NN	talent
+for	IN	for
+daily	JJ	daily
+organization	NN	organization
+that	WDT	that
+filled	VVD	fill
+Carroll	NP	Carroll
+'s	POS	's
+heart	NN	heart
+with	IN	with
+admiration	NN	admiration
+and	CC	and
+lust	NN	lust
+.	SENT	.
+</s>
+<s type="decl">
+She	PP	she
+was	VBD	be
+nineteen	CD	nineteen
+,	,	,
+two	CD	two
+years	NNS	year
+younger	JJR	young
+than	IN	than
+Carroll	NP	Carroll
+;	:	;
+she	PP	she
+was	VBD	be
+a	DT	a
+student	NN	student
+at	IN	at
+Jellicoh	NP	Jellicoh
+College	NP	College
+and	CC	and
+every	DT	every
+weekday	NN	weekday
+she	PP	she
+rose	VVD	rise
+at	IN	at
+<time when="07:00:00">
+seven	CD	seven
+</time>
+and	CC	and
+biked	VVD	bike
+four	CD	four
+miles	NNS	mile
+into	IN	into
+town	NN	town
+,	,	,
+and	CC	and
+then	RB	then
+back	RB	back
+again	RB	again
+on	IN	on
+her	PP$	her
+bike	NN	bike
+,	,	,
+four	CD	four
+miles	NNS	mile
+uphill	RB	uphill
+to	IN	to
+the	DT	the
+farm	NN	farm
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Carroll	NP	Carroll
+met	VVD	meet
+Rachel	NP	Rachel
+in	IN	in
+the	DT	the
+Jellicoh	NP	Jellicoh
+College	NP	College
+library	NN	library
+,	,	,
+where	WRB	where
+he	PP	he
+had	VHD	have
+a	DT	a
+<w>
+part	NN	part
+-	HYPH	-
+time	NN	time
+</w>
+job	NN	job
+.	SENT	.
+</s>
+<s type="decl">
+He	PP	he
+sat	VVD	sit
+at	IN	at
+the	DT	the
+checkout	NN	checkout
+desk	NN	desk
+,	,	,
+stamping	VVG	stamp
+books	NNS	book
+and	CC	and
+reading	VVG	read
+Tristram	NP	Tristram
+Shandy	NP	Shandy
+for	IN	for
+a	DT	a
+graduate	NN	graduate
+class	NN	class
+;	:	;
+he	PP	he
+was	VBD	be
+almost	RB	almost
+asleep	JJ	asleep
+when	WRB	when
+someone	NN	someone
+said	VVD	say
+,	,	,
+<sp who="#Rachel">
+"	``	''
+Excuse	VV	excuse
+me	PP	I
+.	SENT	.
+"	''	''
+</sp>
+</s>
+</p>
+<p>
+<s type="decl">
+He	PP	he
+looked	VVD	look
+up	RB	up
+.	SENT	.
+</s>
+<s type="decl">
+The	DT	the
+girl	NN	girl
+who	WP	who
+stood	VVD	stand
+before	IN	before
+the	DT	the
+tall	JJ	tall
+desk	NN	desk
+was	VBD	be
+<w>
+red	JJ	red
+-	HYPH	-
+headed	JJ	headed
+</w>
+.	SENT	.
+</s>
+<s type="decl">
+Sunlight	NN	sunlight
+streaming	VVG	stream
+in	RB	in
+through	IN	through
+a	DT	a
+high	JJ	high
+window	NN	window
+opposite	IN	opposite
+her	PP	she
+lit	VVD	light
+up	RP	up
+the	DT	the
+fine	JJ	fine
+hairs	NNS	hair
+on	IN	on
+her	PP$	her
+arm	NN	arm
+,	,	,
+the	DT	the
+embroidered	VVN	embroider
+flowers	NNS	flower
+on	IN	on
+the	DT	the
+collar	NN	collar
+of	IN	of
+her	PP$	her
+white	JJ	white
+shirt	NN	shirt
+.	SENT	.
+</s>
+<s type="decl">
+The	DT	the
+sunlight	NN	sunlight
+turned	VVD	turn
+her	PP$	her
+hair	NN	hair
+to	IN	to
+fire	NN	fire
+and	CC	and
+Carroll	NP	Carroll
+found	VVD	find
+it	PP	it
+difficult	JJ	difficult
+to	TO	to
+look	VV	look
+directly	RB	directly
+at	IN	at
+her	PP	she
+.	SENT	.
+</s>
+<s type="decl">
+<sp who="#Carroll">
+"	``	''
+Can	MD	can
+I	PP	I
+help	VV	help
+you	PP	you
+?	SENT	?
+"	''	''
+</sp>
+he	PP	he
+said	VVD	say
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+She	PP	she
+placed	VVD	place
+a	DT	a
+shredded	JJ	shredded
+rectangle	NN	rectangle
+on	IN	on
+the	DT	the
+desk	NN	desk
+,	,	,
+and	CC	and
+Carroll	NP	Carroll
+picked	VVD	pick
+it	PP	it
+up	RP	up
+between	IN	between
+his	PP$	his
+thumb	NN	thumb
+and	CC	and
+forefinger	NN	forefinger
+.	SENT	.
+</s>
+<s type="decl">
+Pages	NNS	page
+hung	VVD	hang
+in	IN	in
+tatters	NNS	tatter
+from	IN	from
+the	DT	the
+sodden	JJ	sodden
+blue	JJ	blue
+spine	NN	spine
+.	SENT	.
+</s>
+<s type="decl">
+Title	NN	Title
+,	,	,
+binding	NN	binding
+,	,	,
+and	CC	and
+covers	NNS	cover
+had	VHD	have
+been	VBN	be
+gnawed	VVN	gnaw
+away	RB	away
+.	SENT	.
+</s>
+<s type="decl">
+<sp who="#Rachel">
+"	``	''
+I	PP	I
+need	VVP	need
+to	TO	to
+pay	VV	pay
+for	IN	for
+a	DT	a
+damaged	JJ	damaged
+book	NN	book
+,	,	,
+"	''	''
+</sp>
+she	PP	she
+said	VVD	say
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<sp who="#Carroll">
+"	``	''
+What	WP	what
+happened	VVD	happen
+?	SENT	?
+Did	VVD	do
+your	PP$	your
+dog	NN	dog
+eat	VV	eat
+it	PP	it
+?	SENT	?
+"	''	''
+</sp>
+he	PP	he
+said	VVD	say
+,	,	,
+making	VVG	make
+a	DT	a
+joke	NN	joke
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<sp who="#Rachel">
+"	``	''
+Yes	UH	yes
+,	,	,
+"	''	''
+</sp>
+she	PP	she
+said	VVD	say
+,	,	,
+and	CC	and
+smiled	VVD	smile
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<sp who="#Carroll">
+"	``	''
+What	WP	what
+'s	VBZ	be
+your	PP$	your
+name	NN	name
+?	SENT	?
+"	''	''
+</sp>
+Carroll	NP	Carroll
+said	VVD	say
+.	SENT	.
+</s>
+<s type="decl">
+Already	RB	already
+,	,	,
+he	PP	he
+thought	VVD	think
+he	PP	he
+might	MD	might
+be	VB	be
+in	IN	in
+love	NN	love
+.	SENT	.
+</s>
+</p>
+</text>

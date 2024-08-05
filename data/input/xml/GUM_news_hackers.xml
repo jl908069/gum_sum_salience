@@ -1,0 +1,848 @@
+<text id="GUM_news_hackers" type="news" sourceURL="https://en.wikinews.org/wiki/Hackers_attack_Church_of_Scientology_website" dateCreated="2008-01-20" dateCollected="2014-09-15" dateModified="2012-12-03" speakerCount="0" speakerList="none" author="Wikinews" title="Hackers attack Church of Scientology website" shortTitle="hackers" summary="Following the removal of a promotional video featuring Scientologist Tom Cruise from YouTube at the request of the Church of Scientology, hackers attacked the Scientology.org website, making it inaccessible for a number of days in January 2008.">
+<head>
+<s type="decl">
+Hackers	NNS	hacker
+attack	VVP	attack
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+website	NN	website
+</s>
+</head>
+<p>
+<s type="frag">
+<date when="2008-01-20" rend="bold">
+Sunday	NP	Sunday
+,	,	,
+January	NP	January
+20	CD	20
+,	,	,
+2008	CD	2008
+</date>
+</s>
+</p>
+<p>
+<s type="decl">
+<ref>
+<hi rend="italic">
+Wikinews	NP	Wikinews
+</hi>
+</ref>
+has	VHZ	have
+learned	VVN	learn
+that	IN/that	that
+according	VVG	accord
+to	IN	to
+an	DT	a
+Internet	NP	Internet
+posting	NN	posting
+made	VVN	make
+just	RB	just
+over	RB	over
+<date notAfter="2008-01-19">
+24	CD	24
+hours	NNS	hour
+ago	RB	ago
+</date>
+,	,	,
+the	DT	the
+<ref>
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+</ref>
+'s	POS	's
+website	NN	website
+is	VBZ	be
+being	VBG	be
+attacked	VVN	attack
+by	IN	by
+hackers	NNS	hacker
+,	,	,
+causing	VVG	cause
+the	DT	the
+site	NN	site
+to	TO	to
+shut	VV	shut
+down	RP	down
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+attack	NN	attack
+was	VBD	be
+launched	VVN	launch
+on	IN	on
+<date when="2008-01-16">
+Wednesday	NP	Wednesday
+</date>
+by	IN	by
+a	DT	a
+user	NN	user
+labelled	VVN	label
+"	``	''
+Anonymous	NP	Anonymous
+"	''	''
+,	,	,
+on	IN	on
+the	DT	the
+website	NN	website
+"	``	''
+Insurgency	NP	Insurgency
+Wiki	NP	Wiki
+"	''	''
+,	,	,
+a	DT	a
+spinoff	NN	spinoff
+of	IN	of
+<ref>
+4chan	NP	4chan
+</ref>
+.	SENT	.
+</s>
+<s type="decl">
+The	DT	the
+"	``	''
+History	NP	History
+"	''	''
+section	NN	section
+of	IN	of
+the	DT	the
+site	NN	site
+explains	VVZ	explain
+,	,	,
+in	IN	in
+a	DT	a
+satirical	JJ	satirical
+fashion	NN	fashion
+,	,	,
+that	IN/that	that
+the	DT	the
+incident	NN	incident
+was	VBD	be
+prompted	VVN	prompt
+by	IN	by
+the	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+'s	POS	's
+attempts	NNS	attempt
+to	TO	to
+remove	VV	remove
+a	DT	a
+promotional	JJ	promotional
+video	NN	video
+featuring	VVG	feature
+<ref>
+Scientologist	NP	Scientologist
+Tom	NP	Tom
+Cruise	NP	Cruise
+</ref>
+from	IN	from
+<ref>
+YouTube	NP	YouTube
+</ref>
+.	SENT	.
+</s>
+<s type="decl">
+Though	IN	though
+YouTube	NP	YouTube
+is	VBZ	be
+complying	VVG	comply
+with	IN	with
+the	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+'s	POS	's
+requests	NNS	request
+to	TO	to
+take	VV	take
+down	RP	down
+the	DT	the
+video	NN	video
+,	,	,
+other	JJ	other
+sites	NNS	site
+such	JJ	such
+as	IN	as
+<ref>
+Gawker.com	NP	Gawker.com
+</ref>
+have	VHP	have
+stated	VVN	state
+that	IN/that	that
+they	PP	they
+will	MD	will
+keep	VV	keep
+hosting	VVG	host
+the	DT	the
+video	NN	video
+.	SENT	.
+</s>
+</p>
+<figure>
+<caption>
+<s type="decl">
+"	``	''
+So	RB	so
+far	RB	far
+,	,	,
+it	PP	it
+'s	VBZ	be
+the	DT	the
+Internet	NP	Internet
+:	:	:
+1	CD	1
+,	,	,
+Scientology	NP	Scientology
+:	:	:
+0	CD	0
+.	SENT	.
+But	CC	but
+it	PP	it
+'s	VBZ	be
+a	DT	a
+long	JJ	long
+game	NN	game
+.	SENT	.
+"	''	''
+-	:	-
+Matthew	NP	Matthew
+Ingram	NP	Ingram
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl">
+Writing	VVG	write
+in	IN	in
+a	DT	a
+blog	NN	blog
+post	NN	post
+,	,	,
+Matthew	NP	Matthew
+Ingram	NP	Ingram
+of	IN	of
+<hi rend="italic">
+The	DT	the
+Globe	NP	Globe
+and	CC	and
+Mail	NP	Mail
+</hi>
+dubbed	VVD	dub
+the	DT	the
+ongoing	JJ	ongoing
+conflict	NN	conflict
+involving	VVG	involve
+the	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+'s	POS	's
+attempts	NNS	attempt
+to	TO	to
+remove	VV	remove
+the	DT	the
+Cruise	NP	Cruise
+video	NN	video
+from	IN	from
+the	DT	the
+Internet	NP	Internet
+:	:	:
+"	``	''
+Scientology	NP	Scientology
+vs.	IN	versus
+the	DT	the
+Internet	NP	Internet
+,	,	,
+part	NN	part
+XVII	CD	XVII
+"	''	''
+.	SENT	.
+</s>
+<s type="decl">
+He	PP	he
+characterized	VVD	characterize
+the	DT	the
+conflict	NN	conflict
+between	IN	between
+the	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+and	CC	and
+anonymous	JJ	anonymous
+posters	NNS	poster
+of	IN	of
+the	DT	the
+Cruise	NP	Cruise
+video	NN	video
+as	IN	as
+"	``	''
+another	DT	another
+small	JJ	small
+skirmish	NN	skirmish
+in	IN	in
+a	DT	a
+war	NN	war
+that	WDT	that
+Scientology	NP	Scientology
+has	VHZ	have
+been	VBN	be
+waging	VVG	wage
+for	IN	for
+almost	RB	almost
+<date notBefore="1994" notAfter="2008">
+15	CD	15
+years	NNS	year
+</date>
+,	,	,
+since	IN	since
+the	DT	the
+early	JJ	early
+days	NNS	day
+of	IN	of
+newsgroups	NNS	newsgroup
+such	JJ	such
+as	IN	as
+alt.religion.scientology	NP	alt.religion.scientology
+,	,	,
+which	WDT	which
+posted	VVD	post
+internal	JJ	internal
+church	NN	church
+documents	NNS	document
+in	IN	in
+<date when="1994">
+1994	CD	1994
+</date>
+.	SENT	.
+</s>
+<s type="decl">
+Lawsuits	NNS	lawsuit
+have	VHP	have
+been	VBN	be
+filed	VVN	file
+,	,	,
+mailing	VVG	mail
+lists	NNS	list
+have	VHP	have
+been	VBN	be
+shut	VVN	shut
+down	RP	down
+,	,	,
+homes	NNS	home
+of	IN	of
+discussion	NN	discussion
+group	NN	group
+participants	NNS	participant
+have	VHP	have
+been	VBN	be
+raided	VVN	raid
+and	CC	and
+their	PP$	their
+computers	NNS	computer
+seized	VVN	seize
+--	:	-
+an	DT	a
+<w>
+all	RB	all
+-	HYPH	-
+out	JJ	out
+</w>
+war	NN	war
+.	SENT	.
+"	''	''
+</s>
+</p>
+<figure>
+<caption>
+<s type="other">
+"	``	''
+Prompted	VVN	prompt
+I	PP	I
+think	VVP	think
+by	IN	by
+the	DT	the
+Tom	NP	Tom
+Cruise	NP	Cruise
+video	NN	video
+,	,	,
+a	DT	a
+new	JJ	new
+obsession	NN	obsession
+is	VBZ	be
+taking	VVG	take
+hold	NN	hold
+on	IN	on
+the	DT	the
+internet	NN	internet
+.	SENT	.
+An	DT	a
+insurgency	NN	insurgency
+against	IN	against
+The	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+.	SENT	.
+"	''	''
+Anonymous	JJ	anonymous
+blogger	NN	blogger
+,	,	,
+"	``	''
+Anon	NP	Anon
+declares	VVZ	declare
+war	NN	war
+on	IN	on
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+"	''	''
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl">
+One	CD	one
+poster	NN	poster
+admitted	VVD	admit
+to	IN	to
+being	VBG	be
+a	DT	a
+part	NN	part
+of	IN	of
+the	DT	the
+effort	NN	effort
+,	,	,
+writing	VVG	write
+in	IN	in
+a	DT	a
+blog	NN	blog
+post	NN	post
+"	``	''
+I	PP	I
+have	VHP	have
+myself	PP	myself
+,	,	,
+as	IN	as
+per	IN	per
+instructions	NNS	instruction
+,	,	,
+loaded	VVN	load
+up	RP	up
+Gigaloader	NP	Gigaloader
+and	CC	and
+started	VVN	start
+bombarding	VVG	bombard
+the	DT	the
+Scientology	NP	Scientology
+homepage	NN	homepage
+.	SENT	.
+</s>
+<s type="decl">
+There	EX	there
+<sic ana="'s">
+s	VBZ	be
+</sic>
+[	(	[
+<hi rend="italic">
+sic	RB	sic
+</hi>
+]	)	]
+something	NN	something
+in	IN	in
+the	DT	the
+hilarious	JJ	hilarious
+anarchy	NN	anarchy
+of	IN	of
+the	DT	the
+net	NN	net
+that	WDT	that
+produces	VVZ	produce
+these	DT	this
+'	``	'
+events	NNS	event
+'	''	'
+every	DT	every
+now	RB	now
+and	CC	and
+again	RB	again
+.	SENT	.
+"	''	''
+</s>
+<s type="decl">
+The	DT	the
+poster	NN	poster
+wrote	VVD	write
+that	IN/that	that
+"	``	''
+Prompted	VVN	prompt
+I	PP	I
+think	VVP	think
+by	IN	by
+the	DT	the
+Tom	NP	Tom
+Cruise	NP	Cruise
+video	NN	video
+,	,	,
+a	DT	a
+new	JJ	new
+obsession	NN	obsession
+is	VBZ	be
+taking	VVG	take
+hold	NN	hold
+on	IN	on
+the	DT	the
+internet	NN	internet
+.	SENT	.
+An	DT	a
+insurgency	NN	insurgency
+against	IN	against
+The	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+.	SENT	.
+"	''	''
+</s>
+</p>
+<p>
+<s type="decl">
+"	``	''
+Someone	NN	someone
+emailed	VVD	email
+me	PP	I
+earlier	RBR	early
+today	NN	today
+talking	VVG	talk
+about	IN	about
+a	DT	a
+tool	NN	tool
+a	DT	a
+group	NN	group
+’s	VHZ	have
+been	VBN	be
+using	VVG	use
+to	TO	to
+attack	VV	attack
+the	DT	the
+scientology	NN	scientology
+website	NN	website
+.	SENT	.
+</s>
+<s type="decl">
+It	PP	it
+’s	VBZ	be
+an	DT	a
+interesting	JJ	interesting
+tool	NN	tool
+,	,	,
+created	VVN	create
+to	TO	to
+<w>
+overload	VV	overload
+/	SYM	/
+create	VV	create
+</w>
+malformed	JJ	malformed
+strings	NNS	string
+and	CC	and
+crash	VV	crash
+a	DT	a
+website	NN	website
+’s	POS	's
+database	NN	database
+,	,	,
+"	''	''
+said	VVD	say
+the	DT	the
+post	NN	post
+by	IN	by
+an	DT	a
+unknown	JJ	unknown
+author	NN	author
+on	IN	on
+<hi rend="italic">
+pigmy	NN	pigmy
+</hi>
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+Church	NP	Church
+'s	POS	's
+website	NN	website
+is	VBZ	be
+currently	RB	currently
+unreachable	JJ	unreachable
+.	SENT	.
+</s>
+<s type="decl">
+Some	DT	some
+individuals	NNS	individual
+reported	VVD	report
+that	IN/that	that
+when	WRB	when
+they	PP	they
+are	VBP	be
+able	JJ	able
+to	TO	to
+reach	VV	reach
+the	DT	the
+site	NN	site
+,	,	,
+all	DT	all
+they	PP	they
+get	VVP	get
+is	VBZ	be
+a	DT	a
+message	NN	message
+stating	VVG	state
+,	,	,
+<hi rend="italic">
+"	``	''
+The	DT	the
+word	NN	word
+scientology	NN	scientology
+means	VVZ	mean
+search	NN	search
+for	IN	for
+truth	NN	truth
+...	:	…
+"	''	''
+</hi>
+.	SENT	.
+</s>
+<s type="decl">
+As	IN	as
+of	IN	of
+<time when="15:11:00">
+15:11	CD	15:11
+GMT	NN	GMT
+</time>
+the	DT	the
+site	NN	site
+was	VBD	be
+accessible	JJ	accessible
+again	RB	again
+,	,	,
+but	CC	but
+only	RB	only
+loads	VVZ	load
+at	IN	at
+relatively	RB	relatively
+slow	JJ	slow
+speeds	NNS	speed
+,	,	,
+and	CC	and
+by	IN	by
+the	DT	the
+end	NN	end
+of	IN	of
+the	DT	the
+day	NN	day
+<date when="2008-01-19">
+Saturday	NP	Saturday
+</date>
+the	DT	the
+site	NN	site
+was	VBD	be
+not	RB	not
+loading	VVG	load
+at	IN	at
+all	DT	all
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Posts	NNS	post
+on	IN	on
+the	DT	the
+message	NN	message
+board	NN	board
+for	IN	for
+the	DT	the
+<w>
+Scientology	NP	Scientology
+-	HYPH	-
+critic	NP	critic
+</w>
+site	NN	site
+<ref>
+Operation	NP	Operation
+Clambake	NP	Clambake
+</ref>
+from	IN	from
+<date when="2008-01-18">
+Friday	NP	Friday
+</date>
+theorized	VVD	theorize
+that	IN/that	that
+a	DT	a
+<ref>
+<w>
+denial	NN	denial
+-	HYPH	-
+of	IN	of
+-	HYPH	-
+service	NN	service
+</w>
+attack	NN	attack
+</ref>
+had	VHD	have
+occurred	VVN	occur
+,	,	,
+and	CC	and
+wrote	VVD	write
+that	IN/that	that
+as	IN	as
+of	IN	of
+<date when="2008-01-18">
+Friday	NP	Friday
+</date>
+the	DT	the
+Scientology.org	NP	Scientology.org
+site	NN	site
+was	VBD	be
+either	CC	either
+not	RB	not
+loading	VVG	load
+at	IN	at
+all	DT	all
+,	,	,
+or	CC	or
+loading	VVG	load
+very	RB	very
+slowly	RB	slowly
+.	SENT	.
+</s>
+<s type="decl">
+Critics	NNS	critic
+of	IN	of
+Scientology	NP	Scientology
+at	IN	at
+the	DT	the
+Internet	NP	Internet
+newsgroup	NN	newsgroup
+<ref>
+alt.religion.scientology	NN	alt.religion.scientology
+</ref>
+were	VBD	be
+critical	JJ	critical
+of	IN	of
+the	DT	the
+attacks	NNS	attack
+to	IN	to
+the	DT	the
+Church	NP	Church
+of	IN	of
+Scientology	NP	Scientology
+website	NN	website
+,	,	,
+with	IN	with
+one	CD	one
+poster	NN	poster
+writing	VVG	write
+"	``	''
+How	WRB	how
+can	MD	can
+people	NNS	person
+look	VV	look
+at	IN	at
+both	DT	both
+sides	NNS	side
+if	IN	if
+one	CD	one
+side	NN	side
+is	VBZ	be
+gone	JJ	gone
+?	SENT	?
+"	''	''
+</s>
+</p>
+<p>
+<s type="decl">
+Traffic	NN	traffic
+to	IN	to
+the	DT	the
+Scientology	NP	Scientology
+website	NN	website
+had	VHD	have
+already	RB	already
+increased	VVN	increase
+<w>
+18	CD	18
+-	HYPH	-
+fold	NN	fold
+</w>
+prior	RB	prior
+to	IN	to
+the	DT	the
+attack	NN	attack
+,	,	,
+following	VVG	follow
+increased	VVN	increase
+attention	NN	attention
+after	IN	after
+the	DT	the
+Tom	NP	Tom
+Cruise	NP	Cruise
+video	NN	video
+appeared	VVD	appear
+on	IN	on
+the	DT	the
+Internet	NP	Internet
+.	SENT	.
+</s>
+<s type="decl">
+At	IN	at
+that	DT	that
+time	NN	time
+,	,	,
+one	CD	one
+in	IN	in
+three	CD	three
+visits	NNS	visit
+to	IN	to
+the	DT	the
+site	NN	site
+came	VVD	come
+from	IN	from
+<ref>
+<hi rend="italic">
+BBC	NP	BBC
+News	NP	News
+</hi>
+</ref>
+,	,	,
+and	CC	and
+the	DT	the
+website	NN	website
+increased	VVD	increase
+to	IN	to
+number	NN	number
+3	CD	3
+in	IN	in
+the	DT	the
+company	NN	company
+Hitwise	NP	Hitwise
+UK	NP	UK
+'s	POS	's
+<w>
+Lifestyle	NP	Lifestyle
+-	HYPH	-
+Religion	NP	religion
+</w>
+category	NN	category
+.	SENT	.
+</s>
+</p>
+</text>

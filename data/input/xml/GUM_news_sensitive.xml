@@ -1,0 +1,851 @@
+<text id="GUM_news_sensitive" type="news" sourceURL="https://en.wikinews.org/wiki/Sensitive_Canadian_document_found_on_rainy_streets" dateCreated="2008-08-15" dateCollected="2015-09-21" dateModified="2014-05-11" speakerCount="0" speakerList="none" author="Wikinews" title="Sensitive Canadian document found on rainy streets" shortTitle="sensitive" summary="On August 15, 2008, a classified Environment Canada document detailing security vulnerabilities of the NEMESIS database used by Canadian law enforcement to prosecute environmental law-breakers was found on the street in Kanata, Ontario, leading to controversy about how it wound up there and how classified it actually is." summary2="After a classified Environment Canada document was found in an Ottawa street (the third recent document mismanagement incident), the Environment Minister and two spokespeople for Environment Canada downplayed the sensitivity of the document while reiterating the importance of document security, as Paul Dewar, an MP, questioned the Conservative government's document management.">
+<head rend="large">
+<s type="decl">
+Sensitive	JJ	sensitive
+Canadian	JJ	Canadian
+document	NN	document
+found	VVN	find
+on	IN	on
+rainy	JJ	rainy
+streets	NNS	street
+</s>
+</head>
+<p>
+<s type="frag">
+<date when="2008-08-15">
+Friday	NP	Friday
+,	,	,
+August	NP	August
+15	CD	15
+,	,	,
+2008	CD	2008
+</date>
+</s>
+</p>
+<p>
+<s type="decl">
+A	DT	a
+sensitive	JJ	sensitive
+<ref>
+Environment	NP	Environment
+Canada	NP	Canada
+</ref>
+document	NN	document
+was	VBD	be
+found	VVN	find
+wet	JJ	wet
+on	IN	on
+an	DT	a
+<ref>
+Ottawa	NP	Ottawa
+</ref>
+street	NN	street
+by	IN	by
+someone	NN	someone
+who	WP	who
+gave	VVD	give
+it	PP	it
+to	IN	to
+the	DT	the
+<ref>
+CBC	NP	CBC
+</ref>
+<date when="2008-08-15">
+today	NN	today
+</date>
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+<w>
+131	CD	131
+-	HYPH	-
+page	NN	page
+</w>
+document	NN	document
+was	VBD	be
+found	VVN	find
+on	IN	on
+Castlefrank	NP	Castlefrank
+Road	NP	Road
+in	IN	in
+Kanata	NP	Kanata
+,	,	,
+Ontario	NP	Ontario
+in	IN	in
+a	DT	a
+<w>
+rain	NN	rain
+-	HYPH	-
+stained	VVN	stain
+</w>
+,	,	,
+<w>
+tire	NN	tire
+-	HYPH	-
+marked	VVN	mark
+</w>
+brown	JJ	brown
+envelope	NN	envelope
+by	IN	by
+a	DT	a
+passerby	NN	passerby
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+document	NN	document
+which	WDT	which
+had	VHD	have
+the	DT	the
+stamp	NN	stamp
+<ref>
+Protected	NP	Protect
+B	NP	B
+</ref>
+on	IN	on
+every	DT	every
+page	NN	page
+detailed	VVD	detail
+various	JJ	various
+security	NN	security
+vulnerabilities	NNS	vulnerability
+of	IN	of
+the	DT	the
+NEMISIS	NP	NEMISIS
+database	NN	database
+which	WDT	which
+is	VBZ	be
+used	VVN	use
+by	IN	by
+officers	NNS	officer
+to	TO	to
+track	VV	track
+and	CC	and
+prosecute	VV	prosecute
+environmental	JJ	environmental
+<w>
+law	NN	law
+-	HYPH	-
+breakers	NNS	breaker
+</w>
+.	SENT	.
+</s>
+<s type="sub">
+If	IN	if
+someone	NN	someone
+were	VBD	be
+able	JJ	able
+to	TO	to
+shut	VV	shut
+the	DT	the
+system	NN	system
+down	RP	down
+,	,	,
+or	CC	or
+hack	VV	hack
+inside	RB	inside
+and	CC	and
+delete	VV	delete
+or	CC	or
+corrupt	VV	corrupt
+the	DT	the
+information	NN	information
+,	,	,
+it	PP	it
+could	MD	could
+affect	VV	affect
+the	DT	the
+prosecution	NN	prosecution
+of	IN	of
+the	DT	the
+lawbreakers	NNS	lawbreaker
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+database	NN	database
+was	VBD	be
+unveiled	VVN	unveil
+in	IN	in
+<date when="1999">
+1999	CD	1999
+</date>
+as	IN	as
+the	DT	the
+National	NP	National
+Enforcement	NP	Enforcement
+Management	NP	Management
+Information	NP	Information
+System	NP	System
+and	CC	and
+Intelligence	NP	Intelligence
+System	NP	System
+.	SENT	.
+</s>
+<s type="decl">
+However	RB	however
+,	,	,
+on	IN	on
+the	DT	the
+document	NN	document
+,	,	,
+it	PP	it
+referred	VVD	refer
+to	IN	to
+the	DT	the
+database	NN	database
+as	IN	as
+National	NP	National
+Enforcement	NP	Enforcement
+and	CC	and
+Emergency	NP	Emergency
+Management	NP	Management
+Information	NP	Information
+System	NP	System
+and	CC	and
+Intelligence	NP	Intelligence
+System	NP	System
+,	,	,
+adding	VVG	add
+the	DT	the
+words	NNS	word
+<q>
+"	``	''
+and	CC	and
+Emergency	NN	emergency
+"	''	''
+</q>
+to	IN	to
+the	DT	the
+name	NN	name
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Protection	NP	Protection
+B	NP	B
+documents	NNS	document
+are	VBP	be
+the	DT	the
+second	JJ	second
+lowest	JJS	low
+grade	NN	grade
+of	IN	of
+classified	VVN	classify
+government	NN	government
+documents	NNS	document
+.	SENT	.
+</s>
+<s type="decl">
+Environment	NP	Environment
+Canada	NP	Canada
+spokesperson	NN	spokesperson
+Julie	NP	Julie
+Hahn	NP	Hahn
+said	VVD	say
+they	PP	they
+apply	VVP	apply
+to	IN	to
+letters	NNS	letter
+of	IN	of
+complaint	NN	complaint
+,	,	,
+criticism	NN	criticism
+or	CC	or
+injury	NN	injury
+,	,	,
+research	NN	research
+or	CC	or
+scientific	JJ	scientific
+notes	NNS	note
+and	CC	and
+findings	NNS	finding
+that	WDT	that
+do	VVP	do
+n`t	RB	not
+have	VH	have
+any	DT	any
+conclusion	NN	conclusion
+,	,	,
+and	CC	and
+Treasury	NP	Treasury
+Board	NP	Board
+letters	NNS	letter
+,	,	,
+agendas	NNS	agenda
+and	CC	and
+minutes	NNS	minute
+that	WDT	that
+do	VVP	do
+n`t	RB	not
+deal	VV	deal
+with	IN	with
+subjects	NNS	subject
+of	IN	of
+national	JJ	national
+interest	NN	interest
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Environment	NP	Environment
+Minister	NP	Minister
+<ref>
+John	NP	John
+Baird	NP	Baird
+</ref>
+has	VHZ	have
+asked	VVN	ask
+government	NN	government
+officials	NNS	official
+how	WRB	how
+such	JJ	such
+documents	NNS	document
+that	WDT	that
+are	VBP	be
+supposed	VVN	suppose
+to	TO	to
+be	VB	be
+stored	VVN	store
+in	IN	in
+<quote>
+"	``	''
+approved	VVN	approve
+security	NN	security
+cabinets	NNS	cabinet
+"	''	''
+</quote>
+wound	VVD	wind
+up	RP	up
+on	IN	on
+the	DT	the
+street	NN	street
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<quote>
+"	``	''
+I	PP	I
+'m	VBP	be
+told	VVN	tell
+two	CD	two
+things	NNS	thing
+:	:	:
+that	IN/that	that
+it	PP	it
+'s	VBZ	be
+neither	CC	neither
+classified	VVN	classify
+nor	CC	nor
+secret	JJ	secret
+and	CC	and
+that	IN/that	that
+it	PP	it
+'s	VBZ	be
+stuff	NN	stuff
+that	WDT	that
+could	MD	could
+be	VB	be
+available	JJ	available
+under	IN	under
+access	NN	access
+to	IN	to
+information	NN	information
+,	,	,
+"	''	''
+</quote>
+Baird	NP	Baird
+said	VVD	say
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Environment	NP	Environment
+Canada	NP	Canada
+spokeswoman	NN	spokeswoman
+Sujata	NP	Sujata
+Raisinghani	NP	Raisinghani
+told	VVD	tell
+CBC	NP	CBC
+News	NP	News
+the	DT	the
+department	NN	department
+will	MD	will
+look	VV	look
+into	IN	into
+the	DT	the
+incident	NN	incident
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<quote>
+"	``	''
+We	PP	we
+take	VVP	take
+document	NN	document
+security	NN	security
+seriously	RB	seriously
+,	,	,
+"	''	''
+</quote>
+she	PP	she
+said	VVD	say
+,	,	,
+but	CC	but
+refused	VVD	refuse
+to	TO	to
+give	VV	give
+any	DT	any
+more	JJR	more
+details	NNS	detail
+about	IN	about
+how	WRB	how
+the	DT	the
+papers	NNS	paper
+came	VVD	come
+to	TO	to
+be	VB	be
+on	IN	on
+a	DT	a
+road	NN	road
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<ref>
+Paul	NP	Paul
+Dewar	NP	Dewar
+</ref>
+,	,	,
+an	DT	a
+<ref>
+Ottawa	NP	Ottawa
+New	NP	New
+Democrat	NP	Democrat
+MP	NP	MP
+</ref>
+,	,	,
+said	VVD	say
+the	DT	the
+combined	VVN	combine
+security	NN	security
+lapses	NNS	lapse
+raise	VVP	raise
+serious	JJ	serious
+questions	NNS	question
+about	IN	about
+the	DT	the
+government	NN	government
+'s	POS	's
+ability	NN	ability
+to	TO	to
+secure	VV	secure
+sensitive	JJ	sensitive
+documents	NNS	document
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Dewar	NP	Dewar
+says	VVZ	say
+that	IN/that	that
+bureaucrats	NNS	bureaucrat
+of	IN	of
+the	DT	the
+<ref>
+Conservative	JJ	Conservative
+government	NN	government
+</ref>
+have	VHP	have
+complained	VVN	complain
+to	IN	to
+him	PP	he
+about	IN	about
+document	NN	document
+security	NN	security
+to	IN	to
+the	DT	the
+point	NN	point
+that	IN/that	that
+they	PP	they
+ca	MD	can
+n`t	RB	not
+share	VV	share
+the	DT	the
+information	NN	information
+with	IN	with
+their	PP$	their
+own	JJ	own
+colleagues	NNS	colleague
+.	SENT	.
+</s>
+<s type="decl">
+However	RB	however
+,	,	,
+when	WRB	when
+a	DT	a
+government	NN	government
+document	NN	document
+has	VHZ	have
+been	VBN	be
+found	VVN	find
+on	IN	on
+the	DT	the
+streets	NNS	street
+,	,	,
+the	DT	the
+government	NN	government
+then	RB	then
+says	VVZ	say
+it	PP	it
+was	VBD	be
+n't	RB	not
+particularly	RB	particularly
+sensitive	JJ	sensitive
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<quote>
+"	``	''
+This	DT	this
+government	NN	government
+is	VBZ	be
+so	RB	so
+consumed	VVN	consume
+with	IN	with
+control	NN	control
+of	IN	of
+information	NN	information
+and	CC	and
+secrecy	NN	secrecy
+yet	CC	yet
+they	PP	they
+do	VVP	do
+n't	RB	not
+seem	VV	seem
+to	TO	to
+be	VB	be
+able	JJ	able
+to	TO	to
+get	VV	get
+the	DT	the
+fundamentals	NNS	fundamental
+right	JJ	right
+,	,	,
+"	''	''
+</quote>
+Dewar	NP	Dewar
+said	VVD	say
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+incident	NN	incident
+is	VBZ	be
+a	DT	a
+reminiscent	JJ	reminiscent
+of	IN	of
+two	CD	two
+other	JJ	other
+incidents	NNS	incident
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+In	IN	in
+<date when="2008-03">
+March	NP	March
+</date>
+,	,	,
+a	DT	a
+bundle	NN	bundle
+of	IN	of
+blueprints	NNS	blueprint
+for	IN	for
+a	DT	a
+new	JJ	new
+headquarters	NN	headquarters
+for	IN	for
+the	DT	the
+military	NN	military
+'s	POS	's
+counterterrorism	NN	counterterrorism
+unit	NN	unit
+were	VBD	be
+found	VVN	find
+stuffed	VVN	stuff
+in	IN	in
+the	DT	the
+trash	NN	trash
+on	IN	on
+a	DT	a
+downtown	NN	downtown
+street	NN	street
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+In	IN	in
+<date when="2008-05">
+May	NP	May
+</date>
+,	,	,
+<ref>
+Maxime	NP	Maxime
+Bernier	NP	Bernier
+</ref>
+was	VBD	be
+forced	VVN	force
+to	TO	to
+<ref>
+resign	VV	resign
+</ref>
+as	IN	as
+Foreign	NP	Foreign
+Affairs	NPS	Affair
+minister	NN	minister
+after	IN	after
+it	PP	it
+became	VVD	become
+known	VVN	know
+that	IN/that	that
+he	PP	he
+left	VVD	leave
+sensitive	JJ	sensitive
+documents	NNS	document
+at	IN	at
+the	DT	the
+apartment	NN	apartment
+of	IN	of
+his	PP$	his
+<w>
+then	RB	then
+-	HYPH	-
+girlfriend	NN	girlfriend
+</w>
+Julie	NP	Julie
+Couillard	NP	Couillard
+who	WP	who
+had	VHD	have
+ties	NNS	tie
+to	IN	to
+the	DT	the
+<ref>
+Hells	NP	Hells
+Angels	NPS	Angel
+</ref>
+biker	NN	biker
+gang	NN	gang
+.	SENT	.
+</s>
+</p>
+<head rend="large">
+<s type="frag">
+Sources	NNS	source
+</s>
+</head>
+<list type="unordered">
+<item>
+<p>
+<s type="other">
+<q>
+"	``	''
+<ref>
+Sensitive	JJ	sensitive
+government	NN	government
+document	NN	document
+found	VVN	find
+on	IN	on
+rainy	JJ	rainy
+Ottawa	NP	Ottawa
+street	NN	street
+</ref>
+"	''	''
+</q>
+—	:	—
+<ref>
+CBC.ca	NP	CBC.ca
+</ref>
+,	,	,
+<date when="2008-08-15">
+August	NP	August
+15	CD	15
+,	,	,
+2008	CD	2008
+</date>
+</s>
+</p>
+</item>
+<item>
+<p>
+<s type="other">
+<q>
+<ref>
+"	``	''
+Document	NN	document
+found	VVN	find
+on	IN	on
+street	NN	street
+not	RB	not
+secret	JJ	secret
+,	,	,
+say	VVP	say
+feds	NNS	fed
+</ref>
+"	''	''
+</q>
+—	:	—
+<ref rend="italic">
+The	DT	the
+Canadian	NP	Canadian
+Press	NP	Press
+</ref>
+,	,	,
+<date when="2008-08-15">
+August	NP	August
+15	CD	15
+,	,	,
+2008	CD	2008
+</date>
+</s>
+</p>
+</item>
+<item>
+<p>
+<s type="other">
+<q>
+"	``	''
+<ref>
+Environment	NP	Environment
+Canada	NP	Canada
+security	NN	security
+report	NN	report
+found	VVN	find
+on	IN	on
+street	NN	street
+</ref>
+"	''	''
+</q>
+—	:	—
+<ref rend="italic">
+Toronto	NP	Toronto
+Star	NP	Star
+</ref>
+,	,	,
+<date when="2008-08-15">
+August	NP	August
+15	CD	15
+,	,	,
+2008	CD	2008
+</date>
+</s>
+</p>
+</item>
+<item>
+<p>
+<s type="frag">
+Peter	NP	Peter
+Zimonjic	NP	Zimonjic
+.	SENT	.
+</s>
+<s type="other">
+<q>
+"	``	''
+<ref rend="italic">
+MP	NP	MP
+calls	VVZ	call
+for	IN	for
+probe	NN	probe
+into	IN	into
+misplaced	VVN	misplace
+documents	NNS	document
+</ref>
+"	''	''
+</q>
+—	:	—
+Edmonton	NP	Edmonton
+Sun	NP	Sun
+,	,	,
+<date when="2008-08-16">
+August	NP	August
+16	CD	16
+,	,	,
+2008	CD	2008
+</date>
+</s>
+</p>
+</item>
+</list>
+<p>
+<s type="frag">
+<ref>
+Categories	NNS	category
+</ref>
+:	:	:
+</s>
+<s type="frag">
+<date when="2008-08-15">
+August	NP	August
+15	CD	15
+,	,	,
+2008	CD	2008
+</date>
+</s>
+<s type="frag">
+<ref>
+Canada	NP	Canada
+</ref>
+</s>
+<s type="frag">
+<ref>
+Published	VVN	publish
+</ref>
+</s>
+<s type="frag">
+<ref>
+North	NP	North
+America	NP	America
+</ref>
+</s>
+<s type="frag">
+<ref>
+Politics	NN	politics
+and	CC	and
+conflicts	NNS	conflict
+</ref>
+</s>
+<s type="frag">
+<ref>
+Environment	NP	Environment
+Canada	NP	Canada
+</ref>
+</s>
+<s type="frag">
+<ref>
+Archived	VVN	archive
+</ref>
+</s>
+</p>
+</text>

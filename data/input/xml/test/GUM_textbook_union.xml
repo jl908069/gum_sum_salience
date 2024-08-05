@@ -1,0 +1,1300 @@
+<text id="GUM_textbook_union" partition="test" author="P. Scott Corbett, Volker Janssen, John M. Lund, Todd Pfannestiel, Sylvie Waskiewicz, Paul Vickery" dateCollected="2021-09-02" dateCreated="2014-12-30" dateModified="2021-07-19" shortTitle="union" sourceURL="https://openstax.org/books/us-history/pages/15-4-the-union-triumphant" speakerCount="0" speakerList="none" title="U.S. History" type="textbook" summary="This excerpt from a history book tells about the American Civil War, describing economic hardships for the Confederacy, its failure to obtain support from Great Britain and France, and the role of African American Union soldiers in the war." summary2="This section of a textbook describes the political and economic reasons behind the triumph of the Union over the Confederacy during the Civil War, including railroad lines, industry, and British support, before detailing the involvement of African-American soldiers in the Union war effort and the hardships they faced due to racism.">
+<head>
+<s type="other" transition="establishment">
+15.4	CD	15.4	CRD	NUM	dep	_
+The	DT	the	AT0	DET	det	_
+Union	NN	Union	NN1	NOUN	nsubj	_
+Triumphant	JJ	triumphant	AJ0	ADJ	root	Triumph-ant
+</s>
+</head>
+<head>
+<s type="frag" transition="null">
+Learning	NN	learning	NN1	NOUN	compound	Learn-ing
+Objectives	NNS	objective	NN2	NOUN	root	Object-ive-s
+</s>
+</head>
+<p>
+<s type="decl" transition="null">
+By	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+this	DT	this	DT0	DET	det	_
+section	NN	section	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+able	JJ	able	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	xcomp	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+</p>
+<list type="unordered">
+<item>
+<s type="inf" transition="null">
+Describe	VV	describe	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+reasons	NNS	reason	NN2	NOUN	obj	reason-s
+why	WRB	why	AVQ	ADV	advmod	_
+many	JJ	many	DT0	ADJ	amod	_
+Americans	NPS	American	NP0	PROPN	nsubj	America-n-s
+doubted	VVD	doubt	VVD	VERB	acl	doubt-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+Abraham	NP	Abraham	NP0	PROPN	nsubj:pass	_
+Lincoln	NP	Lincoln	NP0	PROPN	flat	_
+would	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+reelected	VVN	reelect	VVN	VERB	ccomp	re-elect-ed
+</s>
+</item>
+<item>
+<s type="inf" transition="null">
+Explain	VV	explain	NN1	VERB	root	_
+how	WRB	how	AVQ	ADV	obj	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+forces	NNS	force	NN2	NOUN	nsubj	force-s
+overpowered	VVD	overpower	VVD	VERB	advcl:relcl	over-power-ed
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	obj	Con-federacy
+</s>
+</item>
+<item>
+<s type="inf" transition="null">
+Describe	VV	describe	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+contributions	NNS	contribution	NN2	NOUN	obj	contribut-ion-s
+and	CC	and	CJC	CCONJ	cc	_
+experiences	NNS	experience	NN2	NOUN	conj	experience-s
+of	IN	of	PRF	ADP	case	_
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+Americans	NPS	American	NP0	PROPN	nmod	America-n-s
+serving	VVG	serve	VVG	VERB	acl	serv-ing
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Civil	NP	Civil	NP0	ADJ	amod	_
+War	NP	War	NP0	PROPN	obl	_
+</s>
+</item>
+</list>
+<p>
+<s type="decl" transition="establishment">
+By	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+outset	NN	outset	NN1	NOUN	obl	out-set
+of	IN	of	PRF	ADP	case	_
+<date when="1864">
+1864	CD	1864	CRD	NUM	nmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+after	IN	after	PRP	ADP	case	_
+three	CD	three	CRD	NUM	nummod	_
+years	NNS	year	NN2	NOUN	obl	year-s
+of	IN	of	PRF	ADP	case	_
+war	NN	war	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+mobilized	VVN	mobilize	VVN	VERB	root	mobil-iz-ed
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+resources	NNS	resource	NN2	NOUN	obj	re-source-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ongoing	JJ	ongoing	AJ0	ADJ	amod	on-go-ing
+struggle	NN	struggle	NN1	NOUN	obl	_
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+massive	JJ	massive	AJ0	ADJ	amod	_
+scale	NN	scale	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+government	NN	government	NN1	NOUN	nsubj	govern-ment
+had	VHD	have	VHD	AUX	aux	_
+overseen	VVN	oversee	VVN	VERB	root	over-se-en
+the	DT	the	AT0	DET	det	_
+construction	NN	construction	NN1	NOUN	obj	construct-ion
+of	IN	of	PRF	ADP	case	_
+new	JJ	new	AJ0	ADJ	amod	_
+railroad	NN	railroad	NN1	NOUN	compound	_
+lines	NNS	line	NN2	NOUN	nmod	line-s
+and	CC	and	CJC	CCONJ	cc	_
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+time	NN	time	NN1	NOUN	obl	_
+used	VVD	use	VVD	VERB	conj	us-ed
+standardized	VVN	standardize	VVN	VERB	amod	stand-ard-iz-ed
+rail	NN	rail	NN1	NOUN	compound	_
+tracks	NNS	track	NN2	NOUN	obj	track-s
+that	WDT	that	CJT	PRON	nsubj	_
+allowed	VVD	allow	VVD	VERB	acl:relcl	allow-ed
+the	DT	the	AT0	DET	det	_
+North	NP	North	NP0	PROPN	iobj	_
+to	TO	to	TO0	PART	mark	_
+move	VV	move	VVI	VERB	xcomp	_
+men	NNS	man	NN2	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+materials	NNS	material	NN2	NOUN	conj	material-s
+with	IN	with	PRP	ADP	case	_
+greater	JJR	great	AJC	ADJ	amod	great-er
+ease	NN	ease	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+The	DT	the	AT0	DET	det	_
+North	NP	North	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+economy	NN	economy	NN1	NOUN	nsubj	econom-y
+had	VHD	have	VHD	AUX	aux	_
+shifted	VVN	shift	VVN	VERB	root	shift-ed
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+wartime	NN	wartime	NN1	NOUN	compound	_
+model	NN	model	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+The	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nsubj	Con-federacy
+also	RB	also	AV0	ADV	advmod	_
+mobilized	VVD	mobilize	VVD	VERB	root	mobil-iz-ed
+,	,	,	PUN	PUNCT	punct	_
+perhaps	RB	perhaps	AV0	ADV	advmod	_
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+greater	JJR	great	AJC	ADJ	amod	great-er
+degree	NN	degree	NN1	NOUN	obl	_
+than	IN	than	CJS	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+efforts	NNS	effort	NN2	NOUN	obj	effort-s
+to	TO	to	TO0	PART	mark	_
+secure	VV	secure	VVI	VERB	acl	_
+independence	NN	independence	NN1	NOUN	obj	independ-ence
+and	CC	and	CJC	CCONJ	cc	_
+maintain	VV	maintain	VVB	VERB	conj	_
+slavery	NN	slavery	NN1	NOUN	obj	slave-ry
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Yet	CC	yet	AV0	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nsubj	Con-federacy
+experienced	VVD	experience	VVD	VERB	root	experienc-ed
+ever	RB	ever	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+greater	JJR	great	AJC	ADJ	amod	great-er
+hardships	NNS	hardship	NN2	NOUN	obj	hard-ship-s
+after	IN	after	PRP	ADP	case	_
+years	NNS	year	NN2	NOUN	obl	year-s
+of	IN	of	PRF	ADP	case	_
+war	NN	war	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Without	IN	without	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+population	NN	population	NN1	NOUN	obl	populat-ion
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+North	NP	North	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+faced	VVD	face	VVD	VERB	root	fac-ed
+a	DT	a	AT0	DET	det	_
+shortage	NN	shortage	NN1	NOUN	obj	short-age
+of	IN	of	PRF	ADP	case	_
+manpower	NN	manpower	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+lack	NN	lack	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+industry	NN	industry	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+compared	VVN	compare	VVN	VERB	acl	compar-ed
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+North	NP	North	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+undercut	VVD	undercut	VVD	VERB	root	under-cut
+the	DT	the	AT0	DET	det	_
+ability	NN	ability	NN1	NOUN	obj	abil-ity
+to	TO	to	TO0	PART	mark	_
+sustain	VV	sustain	VVI	VERB	acl	_
+and	CC	and	CJC	CCONJ	cc	_
+wage	VV	wage	VVI	VERB	conj	_
+war	NN	war	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Rampant	JJ	Rampant	AJ0	ADJ	amod	_
+inflation	NN	inflation	NN1	NOUN	nsubj	inflat-ion
+as	RB	as	CJS	ADV	cc	_
+well	RB	well	AV0	ADV	fixed	_
+as	IN	as	PRP	ADP	fixed	_
+food	NN	food	NN1	NOUN	compound	_
+shortages	NNS	shortage	NN2	NOUN	conj	short-age-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+South	NP	South	NP0	PROPN	nmod	_
+lowered	VVD	lower	VVD	VERB	root	low-er-ed
+morale	NN	morale	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="null">
+<hi rend="caps">
+THE	DT	the	AT0	DET	det	_
+RELATIONSHIP	NN	relationship	NN1	NOUN	root	RELAT-ION-SHIP
+WITH	IN	with	PRP	ADP	case	_
+EUROPE	NP	Europe	NP0	PROPN	nmod	_
+</hi>
+</s>
+</head>
+<p>
+<s type="decl" transition="null">
+From	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+beginning	NN	beginning	NN1	NOUN	obl	beginn-ing
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+war	NN	war	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nsubj	Con-federacy
+placed	VVD	place	VVD	VERB	root	plac-ed
+great	JJ	great	AJ0	ADJ	amod	_
+hope	NN	hope	NN1	NOUN	obj	_
+in	IN	in	PRP	SCONJ	mark	_
+being	VBG	be	VBG	AUX	aux:pass	be-ing
+recognized	VVN	recognize	VVN	VERB	advcl	re-cogniz-ed
+and	CC	and	CJC	CCONJ	cc	_
+supported	VVN	support	VVN	VERB	conj	support-ed
+by	IN	by	PRP	ADP	case	_
+Great	NP	Great	NP0	ADJ	amod	_
+Britain	NP	Britain	NP0	PROPN	obl:agent	_
+and	CC	and	CJC	CCONJ	cc	_
+France	NP	France	NP0	PROPN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+European	JJ	European	AJ0	ADJ	amod	Europe-an
+intervention	NN	intervention	NN1	NOUN	nsubj	interven-tion
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+conflict	NN	conflict	NN1	NOUN	nmod	_
+remained	VVD	remain	VVD	VERB	root	remain-ed
+a	DT	a	AT0	DET	det	_
+strong	JJ	strong	AJ0	ADJ	amod	_
+possibility	NN	possibility	NN1	NOUN	xcomp	possibil-ity
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+when	WRB	when	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+occur	VV	occur	VVI	VERB	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+way	NN	way	NN1	NOUN	conj	_
+anticipated	VVN	anticipate	VVN	VERB	acl	anticipat-ed
+by	IN	by	PRP	ADP	case	_
+either	CC	either	AV0	CCONJ	cc:preconj	_
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	obl:agent	Con-federacy
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="retain">
+Napoleon	NP	Napoleon	NP0	PROPN	nsubj	_
+III	CD	III	CRD	NUM	dep	_
+of	IN	of	PRF	ADP	case	_
+France	NP	France	NP0	PROPN	nmod	_
+believed	VVD	believe	VVD	VERB	root	believ-ed
+the	DT	the	AT0	DET	det	_
+Civil	NP	Civil	NP0	ADJ	amod	_
+War	NP	War	NP0	PROPN	nsubj	_
+presented	VVD	present	VVD	VERB	ccomp	present-ed
+an	DT	a	AT0	DET	det	_
+opportunity	NN	opportunity	NN1	NOUN	obj	opportun-ity
+for	IN	for	PRP	SCONJ	mark	_
+him	PP	he	PNP	PRON	nsubj	_
+to	TO	to	TO0	PART	mark	_
+restore	VV	restore	VVI	VERB	acl	_
+a	DT	a	AT0	DET	det	_
+French	NP	French	NP0	ADJ	amod	_
+empire	NN	empire	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Americas	NPS	America	NP0	PROPN	nmod	America-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+With	IN	with	PRP	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NP	State	NP0	PROPN	nsubj	_
+preoccupied	VVN	preoccupy	VVN	VERB	advcl	pre-occupi-ed
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+time	NN	time	NN1	NOUN	nsubj	_
+seemed	VVD	seem	VVD	VERB	root	seem-ed
+ripe	JJ	ripe	AJ0	ADJ	xcomp	_
+for	IN	for	PRP	ADP	case	_
+action	NN	action	NN1	NOUN	obl	act-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Napoleon	NP	Napoleon	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+target	NN	target	NN1	NOUN	nsubj	targ-et
+was	VBD	be	VBD	AUX	cop	_
+Mexico	NP	Mexico	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+in	IN	in	PRP	ADP	case	_
+<date when="1861">
+1861	CD	1861	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+large	JJ	large	AJ0	ADJ	amod	_
+French	NP	French	NP0	ADJ	amod	_
+fleet	NN	fleet	NN1	NOUN	nsubj	_
+took	VVD	take	VVD	VERB	conj	_
+Veracruz	NP	Veracruz	NP0	PROPN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+French	NPS	French	NP0	PROPN	nsubj	_
+then	RB	then	AV0	ADV	advmod	_
+moved	VVD	move	VVD	VERB	root	mov-ed
+to	TO	to	TO0	PART	mark	_
+capture	VV	capture	VVI	VERB	advcl	_
+Mexico	NP	Mexico	NP0	PROPN	compound	_
+City	NP	City	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+advance	NN	advance	NN1	NOUN	nsubj	_
+came	VVD	come	VVD	VERB	conj	_
+to	IN	to	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+when	WRB	when	CJS	ADV	advmod	_
+Mexican	JJ	Mexican	AJ0	ADJ	amod	Mexic-an
+forces	NNS	force	NN2	NOUN	nsubj	force-s
+defeated	VVD	defeat	VVD	VERB	advcl	defeat-ed
+the	DT	the	AT0	DET	det	_
+French	NPS	French	NP0	PROPN	obj	_
+in	IN	in	PRP	ADP	case	_
+<date when="1862">
+1862	CD	1862	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Despite	IN	despite	PRP	ADP	case	De-spite
+this	DT	this	DT0	DET	det	_
+setback	NN	setback	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+France	NP	France	NP0	PROPN	nsubj	_
+eventually	RB	eventually	AV0	ADV	advmod	event-ual-ly
+did	VVD	do	VDD	AUX	aux	_
+conquer	VV	conquer	VVI	VERB	root	_
+Mexico	NP	Mexico	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+establishing	VVG	establish	VVG	VERB	advcl	establish-ing
+a	DT	a	AT0	DET	det	_
+regime	NN	regime	NN1	NOUN	obj	_
+that	WDT	that	CJT	PRON	nsubj	_
+lasted	VVD	last	VVD	VERB	acl:relcl	last-ed
+until	IN	until	PRP	ADP	case	un-til
+<date when="1867">
+1867	CD	1867	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Rather	RB	rather	AV0	ADV	mark	Rath-er
+than	IN	than	CJS	ADP	fixed	_
+coming	VVG	come	VVG	VERB	advcl	com-ing
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+aid	NN	aid	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nmod	Con-federacy
+,	,	,	PUN	PUNCT	punct	_
+France	NP	France	NP0	PROPN	nsubj	_
+used	VVD	use	VVD	VERB	root	us-ed
+the	DT	the	AT0	DET	det	_
+Civil	NP	Civil	NP0	ADJ	amod	_
+War	NP	War	NP0	PROPN	obj	_
+to	TO	to	TO0	PART	mark	_
+provide	VV	provide	VVI	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+pretext	NN	pretext	NN1	NOUN	obj	pre-text
+for	IN	for	PRP	ADP	case	_
+efforts	NNS	effort	NN2	NOUN	nmod	effort-s
+to	TO	to	TO0	PART	mark	_
+reestablish	VV	reestablish	VVI	VERB	acl	re-establish
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+former	JJ	former	DT0	ADJ	amod	form-er
+eighteenth	JJ	eighteenth	ORD	ADJ	amod	eigh-teen-th
+-	HYPH	-	PUN	PUNCT	punct	_
+century	NN	century	NN1	NOUN	compound	_
+colonial	JJ	colonial	AJ0	ADJ	amod	coloni-al
+holdings	NNS	holding	NN2	NOUN	obj	hold-ing-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+Still	RB	still	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nsubj	Con-federacy
+had	VHD	have	VHD	VERB	root	_
+great	JJ	great	AJ0	ADJ	amod	_
+confidence	NN	confidence	NN1	NOUN	obj	confid-ence
+that	IN/that	that	CJT	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+find	VV	find	VVI	VERB	acl	_
+an	DT	a	AT0	DET	det	_
+ally	NN	ally	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+Great	NP	Great	NP0	ADJ	amod	_
+Britain	NP	Britain	NP0	PROPN	obl	_
+despite	IN	despite	PRP	ADP	case	de-spite
+the	DT	the	AT0	DET	det	_
+antislavery	JJ	antislavery	AJ0	ADJ	amod	anti-slave-ry
+sentiment	NN	sentiment	NN1	NOUN	obl	_
+there	RB	there	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+Southerners	NPS	Southerner	NP0	PROPN	nsubj	Southern-er-s
+hoped	VVD	hope	VVD	VERB	root	hop-ed
+Britain	NP	Britain	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+dependence	NN	dependence	NN1	NOUN	nsubj	de-pend-ence
+on	IN	on	PRP	ADP	case	_
+cotton	NN	cotton	NN1	NOUN	nmod	_
+for	IN	for	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+textile	NN	textile	NN1	NOUN	compound	_
+mills	NNS	mill	NN2	NOUN	nmod	mill-s
+would	MD	would	VM0	AUX	aux	_
+keep	VV	keep	VVI	VERB	ccomp	_
+the	DT	the	AT0	DET	det	_
+country	NN	country	NN1	NOUN	obj	_
+on	IN	on	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+side	NN	side	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+fact	NN	fact	NN1	NOUN	nsubj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+British	NPS	British	NP0	PROPN	nsubj	Brit-ish
+proved	VVD	prove	VVD	VERB	acl	prov-ed
+willing	JJ	willing	AJ0	ADJ	xcomp	will-ing
+to	TO	to	TO0	PART	mark	_
+build	VV	build	VVI	VERB	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+sell	VV	sell	VVI	VERB	conj	_
+ironclad	JJ	ironclad	AJ0	ADJ	amod	_
+ships	NNS	ship	NN2	NOUN	obj	ship-s
+intended	VVN	intend	VVN	VERB	acl	intend-ed
+to	TO	to	TO0	PART	mark	_
+smash	VV	smash	VVI	VERB	xcomp	_
+through	IN	through	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+naval	JJ	naval	AJ0	ADJ	amod	nav-al
+blockade	NN	blockade	NN1	NOUN	obl	block-ade
+further	RBR	far	AV0	ADV	advmod	furth-er
+raised	VVD	raise	VVD	VERB	root	rais-ed
+Southern	JJ	Southern	AJ0	ADJ	amod	_
+hopes	NNS	hope	NN2	NOUN	obj	hope-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nsubj	Con-federacy
+purchased	VVD	purchase	VVD	VERB	root	purchas-ed
+two	CD	two	CRD	NUM	obj	_
+of	IN	of	PRF	ADP	case	_
+these	DT	this	DT0	DET	det	_
+armored	JJ	armored	AJ0	ADJ	amod	arm-or-ed
+blockade	NN	blockade	NN1	NOUN	compound	block-ade
+runners	NNS	runner	NN2	NOUN	nmod	runn-er-s
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+CSS	NP	CSS	NP0	PROPN	appos	_
+Florida	NP	Florida	NP0	PROPN	flat	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+CSS	NP	CSS	NP0	PROPN	conj	_
+Alabama	NP	Alabama	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Both	DT	both	DT0	DET	nsubj:pass	_
+were	VBD	be	VBD	AUX	aux:pass	_
+destroyed	VVN	destroy	VVN	VERB	root	destroy-ed
+during	IN	during	PRP	ADP	case	dur-ing
+the	DT	the	AT0	DET	det	_
+war	NN	war	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nmod:poss	Con-federacy
+’s	POS	's	POS	PART	case	_
+staunch	JJ	staunch	AJ0	ADJ	amod	_
+commitment	NN	commitment	NN1	NOUN	nsubj	commit-ment
+to	IN	to	PRP	ADP	case	_
+slavery	NN	slavery	NN1	NOUN	nmod	slave-ry
+eventually	RB	eventually	AV0	ADV	advmod	event-ual-ly
+worked	VVD	work	VVD	VERB	root	work-ed
+against	IN	against	PRP	ADP	case	a-gainst
+British	JJ	British	AJ0	ADJ	amod	Brit-ish
+recognition	NN	recognition	NN1	NOUN	obl	re-cognition
+and	CC	and	CJC	CCONJ	cc	_
+support	NN	support	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+since	IN	since	CJS	SCONJ	mark	_
+Great	NP	Great	NP0	ADJ	amod	_
+Britain	NP	Britain	NP0	PROPN	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+abolished	VVN	abolish	VVN	VERB	advcl	abolish-ed
+slavery	NN	slavery	NN1	NOUN	obj	slave-ry
+in	IN	in	PRP	ADP	case	_
+<date when="1833">
+1833	CD	1833	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+<date when="1863">
+1863	CD	1863	CRD	NUM	compound	_
+</date>
+Emancipation	NP	Emancipation	NP0	PROPN	compound	Emancipa-tion
+Proclamation	NP	Proclamation	NP0	PROPN	nsubj	Proclam-ation
+ended	VVD	end	VVD	VERB	root	end-ed
+any	DT	any	DT0	DET	det	_
+doubts	NNS	doubt	NN2	NOUN	obj	doubt-s
+the	DT	the	AT0	DET	det	_
+British	NPS	British	NP0	PROPN	nsubj	Brit-ish
+had	VHD	have	VHD	VERB	acl:relcl	_
+about	IN	about	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+goals	NNS	goal	NN2	NOUN	nmod	goal-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+cause	NN	cause	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+aftermath	NN	aftermath	NN1	NOUN	obl	after-ma-th
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+proclamation	NN	proclamation	NN1	NOUN	nmod	proclam-ation
+,	,	,	PUN	PUNCT	punct	_
+many	JJ	many	DT0	ADJ	nsubj	_
+in	IN	in	PRP	ADP	case	_
+Great	NP	Great	NP0	ADJ	amod	_
+Britain	NP	Britain	NP0	PROPN	nmod	_
+cheered	VVD	cheer	VVD	VERB	root	cheer-ed
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+victory	NN	victory	NN1	NOUN	obl	victor-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+Ultimately	RB	ultimately	AV0	ADV	advmod	Ultimate-ly
+,	,	,	PUN	PUNCT	punct	_
+Great	NP	Great	NP0	ADJ	amod	_
+Britain	NP	Britain	NP0	PROPN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+France	NP	France	NP0	PROPN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+disappointed	VVD	disappoint	VVD	VERB	root	dis-appoint-ed
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nmod:poss	Con-federacy
+’s	POS	's	POS	PART	case	_
+hope	NN	hope	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+an	DT	a	AT0	DET	det	_
+alliance	NN	alliance	NN1	NOUN	nmod	alli-ance
+,	,	,	PUN	PUNCT	punct	_
+leaving	VVG	leave	VVG	VERB	advcl	leav-ing
+the	DT	the	AT0	DET	det	_
+outnumbered	VVN	outnumber	VVN	VERB	amod	out-number-ed
+and	CC	and	CJC	CCONJ	cc	_
+out	RB	out	AVP	ADV	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+resourced	JJ	resourced	AJ0	ADJ	conj	resourc-ed
+states	NNS	state	NN2	NOUN	obj	state-s
+that	WDT	that	CJT	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+left	VVN	leave	VVN	VERB	acl:relcl	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	obj	_
+to	TO	to	TO0	PART	mark	_
+fend	VV	fend	VVI	VERB	xcomp	_
+for	IN	for	PRP	ADP	case	_
+themselves	PP	themselves	PNP	PRON	obl	them-selve-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="zero">
+<hi rend="caps">
+AFRICAN	JJ	African	AJ0	ADJ	amod	_
+AMERICAN	JJ	American	AJ0	ADJ	amod	_
+SOLDIERS	NNS	soldier	NN2	NOUN	root	SOLDIER-S
+</hi>
+</s>
+</head>
+<p>
+<s type="decl" transition="null">
+At	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+beginning	NN	beginning	NN1	NOUN	obl	beginn-ing
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+war	NN	war	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+<date when="1861">
+1861	CD	1861	CRD	NUM	obl	_
+</date>
+and	CC	and	CJC	CCONJ	cc	_
+<date when="1862">
+1862	CD	1862	CRD	NUM	conj	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Union	NP	Union	NP0	PROPN	compound	_
+forces	NNS	force	NN2	NOUN	nsubj	force-s
+had	VHD	have	VHD	AUX	aux	_
+used	VVN	use	VVN	VERB	root	us-ed
+contrabands	NN	contraband	NN1	NOUN	obj	contra-band-s
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+escaped	JJ	escaped	AJ0	ADJ	amod	escap-ed
+enslaved	VVN	enslave	VVN	VERB	amod	en-slav-ed
+people	NNS	person	NN0	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+for	IN	for	PRP	ADP	case	_
+manual	JJ	manual	AJ0	ADJ	amod	_
+labor	NN	labor	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+Emancipation	NP	Emancipation	NP0	PROPN	compound	Emancipa-tion
+Proclamation	NP	Proclamation	NP0	PROPN	nsubj	Proclam-ation
+,	,	,	PUN	PUNCT	punct	_
+however	RB	however	AV0	ADV	advmod	how-ever
+,	,	,	PUN	PUNCT	punct	_
+led	VVD	lead	VVD	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+enrollment	NN	enrollment	NN1	NOUN	obl	enroll-ment
+of	IN	of	PRF	ADP	case	_
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+men	NNS	man	NN2	NOUN	nmod	_
+as	IN	as	PRP	ADP	case	_
+Union	NP	Union	NP0	PROPN	compound	_
+soldiers	NNS	soldier	NN2	NOUN	nmod	soldier-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Huge	JJ	huge	AJ0	ADJ	amod	_
+numbers	NNS	number	NN2	NOUN	nsubj	number-s
+of	IN	of	PRF	ADP	case	_
+formerly	RB	formerly	AV0	ADV	advmod	form-er-ly
+enslaved	VVN	enslave	VVN	VERB	amod	en-slav-ed
+as	RB	as	CJS	ADV	cc	_
+well	RB	well	AV0	ADV	fixed	_
+as	IN	as	CJS	ADP	fixed	_
+free	JJ	free	AJ0	ADJ	conj	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nmod	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+North	NP	North	NP0	PROPN	nmod	_
+enlisted	VVD	enlist	VVD	VERB	root	en-list-ed
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+war	NN	war	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+<date when="1865">
+1865	CD	1865	CRD	NUM	nmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+numbers	NNS	number	NN2	NOUN	nsubj	number-s
+had	VHD	have	VHD	AUX	aux	_
+swelled	VVN	swell	VVN	VERB	conj	swell-ed
+to	IN	to	PRP	ADP	case	_
+over	RB	over	AV0	ADV	advmod	_
+190,000	CD	190000	CRD	NUM	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Racism	NN	Racism	NN1	NOUN	nsubj	Rac-ism
+among	IN	among	PRP	ADP	case	a-mong
+White	JJ	White	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+army	NN	army	NN1	NOUN	nmod	arm-y
+ran	VVD	run	VVD	VERB	root	_
+deep	RB	deep	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+however	RB	however	AV0	ADV	advmod	how-ever
+,	,	,	PUN	PUNCT	punct	_
+fueling	VVG	fuel	VVG	VERB	advcl	fuel-ing
+the	DT	the	AT0	DET	det	_
+belief	NN	belief	NN1	NOUN	obj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+could	MD	could	VM0	AUX	aux	_
+never	RB	never	AV0	ADV	advmod	_
+be	VB	be	VBI	AUX	cop	_
+effective	JJ	effective	AJ0	ADJ	acl	effect-ive
+or	CC	or	CJC	CCONJ	cc	_
+trustworthy	JJ	trustworthy	AJ0	ADJ	conj	trust-worthy
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+feared	VVD	fear	VVD	VERB	root	fear-ed
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+fate	NN	fate	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+captured	VVN	capture	VVN	VERB	amod	captur-ed
+Black	JJ	Black	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nmod	soldier-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Although	IN	although	CJS	SCONJ	mark	_
+many	JJ	many	DT0	ADJ	amod	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+saw	VVD	see	VVD	VERB	advcl	_
+combat	NN	combat	NN1	NOUN	compound	_
+duty	NN	duty	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+these	DT	this	DT0	DET	det	_
+factors	NNS	factor	NN2	NOUN	nsubj	factor-s
+affected	VVD	affect	VVD	VERB	root	affect-ed
+the	DT	the	AT0	DET	det	_
+types	NNS	type	NN2	NOUN	obj	type-s
+of	IN	of	PRF	ADP	case	_
+tasks	NNS	task	NN2	NOUN	nmod	task-s
+assigned	VVN	assign	VVN	VERB	acl	assign-ed
+to	IN	to	PRP	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Many	JJ	many	DT0	ADJ	amod	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+regiments	NNS	regiment	NN2	NOUN	nsubj:pass	regiment-s
+were	VBD	be	VBD	AUX	aux:pass	_
+limited	VVN	limit	VVN	VERB	root	limit-ed
+to	IN	to	PRP	SCONJ	mark	_
+hauling	VVG	haul	VVG	VERB	advcl	haul-ing
+supplies	NNS	supply	NN2	NOUN	obj	supp-lie-s
+,	,	,	PUN	PUNCT	punct	_
+serving	VVG	serve	VVG	VERB	conj	serv-ing
+as	IN	as	PRP	ADP	case	_
+cooks	NNS	cook	NN2	NOUN	obl	cook-s
+,	,	,	PUN	PUNCT	punct	_
+digging	VVG	dig	VVG	VERB	conj	digg-ing
+trenches	NNS	trench	NN2	NOUN	obj	trenche-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+doing	VVG	do	VDG	VERB	conj	do-ing
+other	JJ	other	AJ0	ADJ	amod	_
+types	NNS	type	NN2	NOUN	obj	type-s
+of	IN	of	PRF	ADP	case	_
+labor	NN	labor	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+rather	RB	rather	AV0	ADV	cc	rath-er
+than	IN	than	CJS	ADP	fixed	_
+serving	VVG	serve	VVG	VERB	conj	serv-ing
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+battlefield	NN	battlefield	NN1	NOUN	obl	battle-field
+(	(	(	PUL	PUNCT	punct	_
+<ref>
+Figure	NP	Figure	NP0	PROPN	dep	_
+15.16	CD	15.16	CRD	NUM	dep	_
+</ref>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="figure of African American soliders">
+<caption>
+<s type="frag" transition="establishment">
+<hi rend="bold">
+Figure	NP	Figure	NP0	PROPN	root	_
+15.16	CD	15.16	CRD	NUM	dep	_
+</hi>
+</s>
+<s type="decl" transition="continue">
+This	DT	this	DT0	DET	det	_
+<date when="1865">
+1865	CD	1865	CRD	NUM	compound	_
+</date>
+daguerreotype	NN	daguerreotype	NN1	NOUN	nsubj	daguerreo-type
+illustrates	VVZ	illustrate	VVZ	VERB	root	illustrate-s
+three	CD	three	CRD	NUM	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+distinct	JJ	distinct	AJ0	ADJ	amod	_
+advantages	NNS	advantage	NN2	NOUN	nmod	ad-vantage-s
+:	:	:	PUN	PUNCT	punct	_
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+soldiers	NNS	soldier	NN2	NOUN	appos	soldier-s
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+stream	NN	stream	NN1	NOUN	conj	_
+of	IN	of	PRF	ADP	case	_
+cannons	NNS	cannon	NN2	NOUN	nmod	cannon-s
+and	CC	and	CJC	CCONJ	cc	_
+supplies	NNS	supply	NN2	NOUN	conj	supp-lie-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+an	DT	a	AT0	DET	det	_
+extensive	JJ	extensive	AJ0	ADJ	amod	extens-ive
+railroad	NN	railroad	NN1	NOUN	compound	_
+grid	NN	grid	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+credit	NN	credit	NN1	NOUN	dep	_
+:	:	:	PUN	PUNCT	punct	_
+Library	NP	Library	NP0	PROPN	dep	_
+of	IN	of	PRF	ADP	case	_
+Congress	NP	Congress	NP0	PROPN	nmod	_
+)	)	)	PUR	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="smooth-shift">
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+also	RB	also	AV0	ADV	advmod	_
+received	VVD	receive	VVD	VERB	root	receiv-ed
+lower	JJR	low	AJC	ADJ	amod	low-er
+wages	NNS	wage	NN2	NOUN	obj	wage-s
+than	IN	than	CJS	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+White	JJ	White	AJ0	ADJ	amod	_
+counterparts	NNS	counterpart	NN2	NOUN	nmod	counter-part-s
+:	:	:	PUN	PUNCT	punct	_
+ten	CD	ten	CRD	NUM	nummod	_
+dollars	NNS	dollar	NN2	NOUN	appos	dollar-s
+per	IN	per	PRP	ADP	case	_
+month	NN	month	NN1	NOUN	nmod	mon-th
+,	,	,	PUN	PUNCT	punct	_
+with	IN	with	PRP	SCONJ	mark	_
+three	CD	three	CRD	NUM	nummod	_
+dollars	NNS	dollar	NN2	NOUN	nsubj	dollar-s
+deducted	VVN	deduct	VVN	VERB	acl	deduct-ed
+for	IN	for	PRP	ADP	case	_
+clothing	NN	clothing	NN1	NOUN	obl	cloth-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+White	JJ	White	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+contrast	NN	contrast	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+received	VVD	receive	VVD	VERB	root	receiv-ed
+thirteen	CD	thirteen	CRD	NUM	nummod	_
+dollars	NNS	dollar	NN2	NOUN	obj	dollar-s
+monthly	RB	monthly	AJ0	ADV	advmod	mon-th-ly
+,	,	,	PUN	PUNCT	punct	_
+with	IN	with	PRP	ADP	case	_
+no	DT	no	AT0	DET	det	_
+deductions	NNS	deduction	NN2	NOUN	obl	deduct-ion-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="rough-shift">
+Abolitionists	NNS	abolitionist	NN2	NOUN	nsubj	Aboli-tion-ist-s
+and	CC	and	CJC	CCONJ	cc	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+Republican	JJ	Republican	AJ0	ADJ	amod	Re-public-an
+supporters	NNS	supporter	NN2	NOUN	conj	support-er-s
+in	IN	in	PRP	ADP	case	_
+Congress	NP	Congress	NP0	PROPN	nmod	_
+worked	VVD	work	VVD	VERB	root	work-ed
+to	TO	to	TO0	PART	mark	_
+correct	VV	correct	VVI	VERB	advcl	_
+this	DT	this	DT0	DET	det	_
+discriminatory	JJ	discriminatory	AJ0	ADJ	amod	discriminat-ory
+practice	NN	practice	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+in	IN	in	PRP	ADP	case	_
+<date when="1864">
+1864	CD	1864	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+began	VVD	begin	VVD	VERB	conj	_
+to	TO	to	TO0	PART	mark	_
+receive	VV	receive	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+same	JJ	same	DT0	ADJ	amod	_
+pay	NN	pay	NN1	NOUN	obj	_
+as	IN	as	PRP	ADP	case	_
+White	JJ	White	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nmod	soldier-s
+plus	CC	plus	PRP	CCONJ	cc	_
+retroactive	JJ	retroactive	AJ0	ADJ	amod	retro-act-ive
+pay	NN	pay	NN1	NOUN	conj	_
+to	IN	to	PRP	ADP	case	_
+<date when="1863">
+1863	CD	1863	CRD	NUM	nmod	_
+</date>
+(	(	(	PUL	PUNCT	punct	_
+<ref>
+Figure	NP	Figure	NP0	PROPN	dep	_
+15.17	CD	15.17	CRD	NUM	dep	_
+</ref>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="figure of African American and white soldiers">
+<caption>
+<s type="frag" transition="smooth-shift">
+<hi rend="bold">
+Figure	NP	Figure	NP0	PROPN	root	_
+15.17	CD	15.17	CRD	NUM	dep	_
+</hi>
+</s>
+<s type="decl" transition="continue">
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+and	CC	and	CJC	CCONJ	cc	_
+White	JJ	White	AJ0	ADJ	conj	_
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+army	NN	army	NN1	NOUN	nmod	arm-y
+pose	VVP	pose	VVB	VERB	root	_
+together	RB	together	AV0	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+photograph	NN	photograph	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+although	IN	although	CJS	SCONJ	mark	_
+in	IN	in	PRP	ADP	case	_
+reality	NN	reality	NN1	NOUN	obl	real-ity
+,	,	,	PUN	PUNCT	punct	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	nsubj:pass	soldier-s
+were	VBD	be	VBD	AUX	aux:pass	_
+often	RB	often	AV0	ADV	advmod	_
+kept	VVN	keep	VVN	VERB	advcl	_
+separate	JJ	separate	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+given	VVN	give	VVN	VERB	conj	giv-en
+only	RB	only	AJ0	ADV	advmod	_
+menial	JJ	menial	AJ0	ADJ	amod	_
+jobs	NNS	job	NN2	NOUN	obj	job-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="smooth-shift">
+For	IN	for	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+part	NN	part	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+soldiers	NNS	soldier	NN2	NOUN	nsubj	soldier-s
+welcomed	VVD	welcome	VVD	VERB	root	welcom-ed
+the	DT	the	AT0	DET	det	_
+opportunity	NN	opportunity	NN1	NOUN	obj	opportun-ity
+to	TO	to	TO0	PART	mark	_
+prove	VV	prove	VVI	VERB	acl	_
+themselves	PP	themselves	PNP	PRON	obj	them-selve-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Some	RB	some	DT0	ADV	advmod	_
+85	CD	85	CRD	NUM	nummod	_
+percent	NN	percent	NN0	NOUN	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+formerly	RB	formerly	AV0	ADV	advmod	form-er-ly
+enslaved	VVN	enslave	VVN	VERB	amod	en-slav-ed
+people	NNS	person	NN0	NOUN	root	_
+who	WP	who	PNQ	PRON	nsubj	_
+were	VBD	be	VBD	AUX	aux	_
+fighting	VVG	fight	VVG	VERB	acl:relcl	fight-ing
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+liberation	NN	liberation	NN1	NOUN	obl	liberat-ion
+of	IN	of	PRF	ADP	case	_
+all	DT	all	DT0	DET	nmod	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+enslaved	VVN	enslave	VVN	VERB	nmod	en-slav-ed
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	conj	_
+of	IN	of	PRF	ADP	case	_
+slavery	NN	slavery	NN1	NOUN	nmod	slave-ry
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+When	WRB	when	CJS	ADV	advmod	_
+given	VVN	give	VVN	VERB	advcl	giv-en
+the	DT	the	AT0	DET	det	_
+opportunity	NN	opportunity	NN1	NOUN	obj	opportun-ity
+to	TO	to	TO0	PART	mark	_
+serve	VV	serve	VVI	VERB	acl	_
+,	,	,	PUN	PUNCT	punct	_
+many	JJ	many	DT0	ADJ	amod	_
+Black	JJ	Black	AJ0	ADJ	amod	_
+regiments	NNS	regiment	NN2	NOUN	nsubj	regiment-s
+did	VVD	do	VDD	VERB	root	_
+so	RB	so	AV0	ADV	advmod	_
+heroically	RB	heroically	AV0	ADV	advmod	hero-ic-al-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+One	CD	one	PNI	NUM	nummod	_
+such	JJ	such	DT0	ADJ	amod	_
+regiment	NN	regiment	NN1	NOUN	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+<w>
+Fifty	NP	Fifty	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Fourth	NP	Fourth	NP0	ADJ	amod	Four-th
+</w>
+Regiment	NP	Regiment	NP0	PROPN	appos	_
+of	IN	of	PRF	ADP	case	_
+Massachusetts	NP	Massachusetts	NP0	PROPN	compound	Massachusetts
+Volunteers	NPS	Volunteer	NP0	PROPN	nmod	Volunt-eer-s
+,	,	,	PUN	PUNCT	punct	_
+distinguished	VVD	distinguish	VVD	VERB	root	distinguish-ed
+itself	PP	itself	PNP	PRON	obj	it-self
+at	IN	at	PRP	ADP	case	_
+Fort	NP	Fort	NP0	PROPN	obl	_
+Wagner	NP	Wagner	NP0	PROPN	flat	_
+in	IN	in	PRP	ADP	case	_
+South	NP	South	NP0	PROPN	compound	_
+Carolina	NP	Carolina	NP0	PROPN	nmod	_
+by	IN	by	PRP	SCONJ	mark	_
+fighting	VVG	fight	VVG	VERB	advcl	fight-ing
+valiantly	RB	valiantly	AV0	ADV	advmod	valiant-ly
+against	IN	against	PRP	ADP	case	a-gainst
+an	DT	a	AT0	DET	det	_
+entrenched	VVN	entrench	VVN	VERB	amod	en-trench-ed
+Confederate	NP	Confederate	NP0	ADJ	amod	Confederate
+position	NN	position	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+They	PP	they	PNP	PRON	nsubj	_
+willingly	RB	willingly	AV0	ADV	advmod	will-ing-ly
+gave	VVD	give	VVD	VERB	root	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+lives	NNS	life	NN2	NOUN	obj	live-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+cause	NN	cause	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nsubj	Con-federacy
+,	,	,	PUN	PUNCT	punct	_
+not	RB	not	XX0	PART	advmod	_
+surprisingly	RB	surprisingly	AV0	ADV	advmod	surpris-ing-ly
+,	,	,	PUN	PUNCT	punct	_
+showed	VVD	show	VVD	VERB	root	show-ed
+no	DT	no	AT0	DET	det	_
+mercy	NN	mercy	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+troops	NNS	troop	NN2	NOUN	obl	troop-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+<date when="1864-04">
+April	NP	April	NP0	PROPN	obl	_
+1864	CD	1864	CRD	NUM	nmod:tmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Southern	JJ	Southern	AJ0	ADJ	amod	_
+forces	NNS	force	NN2	NOUN	nsubj	force-s
+attempted	VVD	attempt	VVD	VERB	root	attempt-ed
+to	TO	to	TO0	PART	mark	_
+take	VV	take	VVI	VERB	xcomp	_
+Fort	NP	Fort	NP0	PROPN	obj	_
+Pillow	NP	Pillow	NP0	PROPN	flat	_
+in	IN	in	PRP	ADP	case	_
+Tennessee	NP	Tennessee	NP0	PROPN	nmod	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+forces	NNS	force	NN2	NOUN	obl	force-s
+that	WDT	that	CJT	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+captured	VVN	capture	VVN	VERB	acl:relcl	captur-ed
+it	PP	it	PNP	PRON	obj	_
+in	IN	in	PRP	ADP	case	_
+<date when="1862">
+1862	CD	1862	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Confederate	NP	Confederate	NP0	ADJ	amod	Confederate
+troops	NNS	troop	NN2	NOUN	nsubj	troop-s
+under	IN	under	PRP	ADP	case	_
+Major	NP	Major	NP0	ADJ	amod	_
+General	NP	General	NP0	PROPN	nmod	_
+Nathan	NP	Nathan	NP0	PROPN	flat	_
+Bedford	NP	Bedford	NP0	PROPN	flat	_
+Forrest	NP	Forrest	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+future	JJ	future	AJ0	ADJ	amod	_
+founder	NN	founder	NN1	NOUN	appos	found-er
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Ku	NP	Ku	NP0	PROPN	compound	_
+Klux	NP	Klux	NP0	PROPN	flat	_
+Klan	NP	Klan	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+quickly	RB	quickly	AV0	ADV	advmod	quick-ly
+overran	VVD	overrun	VVD	VERB	root	_
+the	DT	the	AT0	DET	det	_
+fort	NN	fort	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	compound	_
+defenders	NNS	defender	NN2	NOUN	nsubj	defend-er-s
+surrendered	VVD	surrender	VVD	VERB	conj	surrender-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Instead	RB	instead	AV0	ADV	mark	In-stead
+of	IN	of	PRF	ADP	fixed	_
+taking	VVG	take	VVG	VERB	advcl	tak-ing
+the	DT	the	AT0	DET	det	_
+African	JJ	African	AJ0	ADJ	amod	Afric-an
+American	JJ	American	AJ0	ADJ	amod	America-n
+soldiers	NNS	soldier	NN2	NOUN	obj	soldier-s
+prisoner	NN	prisoner	NN1	NOUN	xcomp	prison-er
+,	,	,	PUN	PUNCT	punct	_
+as	IN	as	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+did	VVD	do	VDD	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+White	JJ	White	AJ0	ADJ	amod	_
+soldiers	NNS	soldier	NN2	NOUN	obj	soldier-s
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+Confederates	NPS	Confederate	NP0	PROPN	nsubj	Confederate-s
+executed	VVD	execute	VVD	VERB	root	execut-ed
+them	PP	they	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+massacre	NN	massacre	NN1	NOUN	nsubj	_
+outraged	VVD	outrage	VVD	VERB	root	out-rag-ed
+the	DT	the	AT0	DET	det	_
+North	NP	North	NP0	PROPN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Union	NP	Union	NP0	PROPN	nsubj	_
+refused	VVD	refuse	VVD	VERB	conj	re-fus-ed
+to	TO	to	TO0	PART	mark	_
+engage	VV	engage	VVI	VERB	xcomp	en-gage
+in	IN	in	PRP	ADP	case	_
+any	DT	any	DT0	DET	det	_
+future	JJ	future	AJ0	ADJ	amod	_
+exchanges	NNS	exchange	NN2	NOUN	obl	exchange-s
+of	IN	of	PRF	ADP	case	_
+prisoners	NNS	prisoner	NN2	NOUN	nmod	prison-er-s
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Confederacy	NP	Confederacy	NP0	PROPN	nmod	Con-federacy
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>

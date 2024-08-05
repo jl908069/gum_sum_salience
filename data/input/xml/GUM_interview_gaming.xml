@@ -1,0 +1,875 @@
+<text id="GUM_interview_gaming" type="interview" sourceURL="https://en.wikinews.org/wiki/Wikinews_interviews_Mario_J._Lucero_and_Isabel_Ruiz_of_Heaven_Sent_Gaming" dateCreated="2014-11-07" dateCollected="2015-09-21" dateModified="2014-11-27" speakerCount="3" speakerList="#Wikinews, #MarioJLucero, #IsabelRuiz" author="Wikinews" title="Wikinews interviews Mario J. Lucero and Isabel Ruiz of Heaven Sent Gaming" shortTitle="gaming" summary="In an interview with Wikinews, Mario J. Lucero and Isabel Ruiz, who run a website called Heaven Sent Gaming, talk about how they met in school, the people involved in their project and the motivation for their work.">
+<head rend="bold">
+<s type="decl">
+Wikinews	NP	Wikinews
+interviews	VVZ	interview
+Mario	NP	Mario
+J.	NP	J.
+Lucero	NP	Lucero
+and	CC	and
+Isabel	NP	Isabel
+Ruiz	NP	Ruiz
+of	IN	of
+Heaven	NP	Heaven
+Sent	NP	Send
+Gaming	NP	Gaming
+</s>
+</head>
+<head rend="bold">
+<s type="frag">
+General	JJ	general
+questions	NNS	question
+</s>
+</head>
+<sp who="#Wikinews">
+<s type="wh">
+What	WP	what
+is	VBZ	be
+Heaven	NP	Heaven
+Sent	NP	Send
+Gaming	NP	Gaming
+?	SENT	?
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="decl">
+Heaven	NP	Heaven
+Sent	NP	Send
+Gaming	NP	Gaming
+is	VBZ	be
+basically	RB	basically
+me	PP	I
+and	CC	and
+Isabel	NP	Isabel
+,	,	,
+I	PP	I
+'m	VBP	be
+Mario	NP	Mario
+J.	NP	J.
+Lucero	NP	Lucero
+.	SENT	.
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="decl">
+And	CC	and
+,	,	,
+I	PP	I
+'m	VBP	be
+Isabel	NP	Isabel
+Ruiz	NP	Ruiz
+.	SENT	.
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="decl">
+And	CC	and
+,	,	,
+together	RB	together
+we	PP	we
+formed	VVD	form
+this	DT	this
+thing	NN	thing
+,	,	,
+it	PP	it
+'s	VBZ	be
+sort	NN	sort
+of	IN	of
+like	IN	like
+an	DT	a
+entertainment	NN	entertainment
+team	NN	team
+.	SENT	.
+</s>
+<s type="decl">
+We	PP	we
+started	VVD	start
+it	PP	it
+basically	RB	basically
+,	,	,
+because	IN	because
+I	PP	I
+wanted	VVD	want
+to	TO	to
+-	:	-
+I	PP	I
+wanted	VVD	want
+to	TO	to
+work	VV	work
+with	IN	with
+Isabel	NP	Isabel
+on	IN	on
+a	DT	a
+lot	NN	lot
+of	IN	of
+projects	NNS	project
+that	WDT	that
+we	PP	we
+had	VHD	have
+going	VVG	go
+on	RP	on
+together	RB	together
+.	SENT	.
+</s>
+<s type="decl">
+We	PP	we
+were	VBD	be
+coming	VVG	come
+with	IN	with
+comics	NNS	comic
+,	,	,
+like	UH	like
+,	,	,
+left	RB	left
+and	CC	and
+right	RB	right
+,	,	,
+we	PP	we
+were	VBD	be
+coming	VVG	come
+up	RP	up
+with	IN	with
+things	NNS	thing
+like	IN	like
+<hi rend="italic">
+Karis	NP	Karis
+</hi>
+,	,	,
+in	IN	in
+high	JJ	high
+school	NN	school
+she	PP	she
+came	VVD	come
+up	RP	up
+with	IN	with
+that	DT	that
+one	NN	one
+,	,	,
+I	PP	I
+came	VVD	come
+up	RP	up
+with	IN	with
+an	DT	a
+individual	JJ	individual
+story	NN	story
+called	VVN	call
+<hi rend="italic">
+Thad	NP	Thad
+'s	POS	's
+World	NP	World
+Destruction	NP	Destruction
+</hi>
+and	CC	and
+,	,	,
+she	PP	she
+wanted	VVD	want
+to	TO	to
+illustrate	VV	illustrate
+it	PP	it
+,	,	,
+and	CC	and
+so	RB	so
+,	,	,
+that	DT	that
+'s	VBZ	be
+the	DT	the
+way	NN	way
+we	PP	we
+ended	VVD	end
+up	RP	up
+doing	VVG	do
+it	PP	it
+.	SENT	.
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="decl">
+Yep	UH	yep
+,	,	,
+we	PP	we
+like	VVP	like
+to	TO	to
+just	RB	just
+make	VV	make
+our	PP$	our
+own	JJ	own
+original	JJ	original
+content	NN	content
+,	,	,
+and	CC	and
+,	,	,
+yep	UH	yep
+,	,	,
+that	DT	that
+'s	VBZ	be
+what	WP	what
+we	PP	we
+wanted	VVD	want
+to	TO	to
+do	VV	do
+.	SENT	.
+</s>
+</sp>
+<sp who="#Wikinews">
+<s type="wh">
+How	WRB	how
+did	VVD	do
+you	PP	you
+two	CD	two
+meet	VV	meet
+?	SENT	?
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="decl">
+We	PP	we
+met	VVD	meet
+back	RB	back
+in	IN	in
+high	JJ	high
+school	NN	school
+.	SENT	.
+</s>
+<s type="frag">
+In	IN	in
+this	DT	this
+private	JJ	private
+,	,	,
+<w>
+tiny	JJ	tiny
+-	HYPH	-
+tiny	JJ	tiny
+</w>
+private	JJ	private
+school	NN	school
+of	IN	of
+50	CD	50
+students	NNS	student
+.	SENT	.
+</s>
+<s type="decl">
+But	CC	but
+,	,	,
+<sic ana="beforehand">
+before	RB	beforehand
+hand	NN	_
+</sic>
+in	IN	in
+middle	JJ	middle
+school	NN	school
+,	,	,
+I	PP	I
+kept	VVD	keep
+on	RP	on
+hearing	VVG	hear
+about	IN	about
+this	DT	this
+guy	NN	guy
+named	VVN	name
+Mario	NP	Mario
+,	,	,
+and	CC	and
+he	PP	he
+kept	VVD	keep
+on	RP	on
+hearing	VVG	hear
+about	IN	about
+me	PP	I
+,	,	,
+this	DT	this
+girl	NN	girl
+named	VVN	name
+Isabel	NP	Isabel
+.	SENT	.
+</s>
+<s type="decl">
+And	CC	and
+,	,	,
+everyone	NN	everyone
+,	,	,
+all	DT	all
+of	IN	of
+our	PP$	our
+friends	NNS	friend
+and	CC	and
+all	DT	all
+of	IN	of
+our	PP$	our
+acquaintances	NNS	acquaintance
+would	MD	would
+say	VV	say
+,	,	,
+"	``	''
+Hey	UH	hey
+,	,	,
+you	PP	you
+'d	MD	would
+get	VV	get
+along	RP	along
+with	IN	with
+him	PP	he
+really	RB	really
+well	RB	well
+.	SENT	.
+"	''	''
+</s>
+<s type="decl">
+So	RB	so
+<sic ana="beforehand">
+before	RB	beforehand
+hand	NN	_
+</sic>
+I	PP	I
+kinda	RB	kinda
+knew	VVD	know
+about	IN	about
+him	PP	he
+,	,	,
+but	CC	but
+I	PP	I
+never	RB	never
+met	VVD	meet
+him	PP	he
+.	SENT	.
+</s>
+<s type="decl">
+And	CC	and
+one	CD	one
+of	IN	of
+our	PP$	our
+friends	NNS	friend
+,	,	,
+our	PP$	our
+common	JJ	common
+friends	NNS	friend
+,	,	,
+he	PP	he
+introduced	VVD	introduce
+us	PP	we
+during	IN	during
+<ref>
+study	NN	study
+hall	NN	hall
+</ref>
+,	,	,
+and	CC	and
+we	PP	we
+just	RB	just
+kind	NN	kind
+of	IN	of
+hit	VVD	hit
+it	PP	it
+off	RP	off
+from	IN	from
+there	RB	there
+.	SENT	.
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="decl">
+It	PP	it
+'s	VBZ	be
+true	JJ	true
+.	SENT	.
+</s>
+</sp>
+<sp who="#Wikinews">
+<s type="wh">
+Who	WP	who
+else	RB	else
+is	VBZ	be
+involved	VVN	involve
+in	IN	in
+this	DT	this
+project	NN	project
+?	SENT	?
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="decl">
+Currently	RB	currently
+,	,	,
+we	PP	we
+'re	VBP	be
+in	IN	in
+talks	NNS	talk
+with	IN	with
+people	NNS	person
+.	SENT	.
+</s>
+<s type="decl">
+There	EX	there
+'s	VBZ	be
+Jeff	NP	Jeff
+[	(	[
+Drake	NP	Drake
+]	)	]
+,	,	,
+who	WP	who
+is	VBZ	be
+behind	IN	behind
+the	DT	the
+camera	NN	camera
+.	SENT	.
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="decl">
+Right	RB	right
+now	RB	now
+,	,	,
+yeah	UH	yeah
+,	,	,
+he	PP	he
+'s	VBZ	be
+helping	VVG	help
+us	PP	we
+right	RB	right
+now	RB	now
+.	SENT	.
+</s>
+<s type="decl">
+We	PP	we
+'re	VBP	be
+talking	VVG	talk
+about	IN	about
+doing	VVG	do
+some	DT	some
+individual	JJ	individual
+web	NN	web
+series	NNS	series
+,	,	,
+video	NN	video
+series	NNS	series
+.	SENT	.
+</s>
+<s type="decl">
+Josh	NP	Josh
+Kindig	NP	Kindig
+,	,	,
+he	PP	he
+'s	VBZ	be
+coming	VVG	come
+on	IN	on
+board	NN	board
+,	,	,
+he	PP	he
+has	VHZ	have
+some	DT	some
+ideas	NNS	idea
+for	IN	for
+that	DT	that
+too	RB	too
+,	,	,
+he	PP	he
+wants	VVZ	want
+to	TO	to
+take	VV	take
+over	RP	over
+"	``	''
+aywv	NP	aywv
+"	''	''
+and	CC	and
+do	VV	do
+more	JJR	more
+gaming	NN	gaming
+news	NN	news
+.	SENT	.
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="decl">
+There	EX	there
+'s	VBZ	be
+of	IN	of
+course	NN	course
+Jason	NP	Jason
+,	,	,
+who	WP	who
+is	VBZ	be
+our	PP$	our
+editor	NN	editor
+and	CC	and
+he	PP	he
+'s	VBZ	be
+the	DT	the
+one	NN	one
+who	WP	who
+writes	VVZ	write
+<hi rend="italic">
+dD	NP	dD
+</hi>
+.	SENT	.
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="frag">
+<hi rend="italic">
+Digital	NP	Digital
+Domain	NP	Domain
+</hi>
+</s>
+</sp>
+<sp who="#Wikinews">
+<s type="wh">
+What	WP	what
+is	VBZ	be
+your	PP$	your
+purpose	NN	purpose
+behind	IN	behind
+this	DT	this
+venture	NN	venture
+?	SENT	?
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="decl">
+Well	UH	well
+,	,	,
+back	RB	back
+in	IN	in
+college	NN	college
+,	,	,
+back	RB	back
+in	IN	in
+<ref>
+Collins	NP	Collins
+College	NP	College
+</ref>
+,	,	,
+Isabel	NP	Isabel
+and	CC	and
+I	PP	I
+,	,	,
+we	PP	we
+had	VHD	have
+met	VVN	meet
+like	IN	like
+she	PP	she
+said	VVD	say
+at	IN	at
+<ref>
+Sandia	NP	Sandia
+View	NP	View
+Academy	NP	Academy
+</ref>
+,	,	,
+and	CC	and
+we	PP	we
+went	VVD	go
+off	RP	off
+to	IN	to
+college	NN	college
+together	RB	together
+in	IN	in
+<ref>
+Arizona	NP	Arizona
+</ref>
+;	:	;
+</s>
+<s type="wh">
+and	CC	and
+...	:	…
+(	(	(
+how	WRB	how
+do	VVP	do
+I	PP	I
+best	RBS	well
+explain	VV	explain
+this	DT	this
+?	SENT	?
+)	)	)
+</s>
+<s type="decl">
+Basically	RB	basically
+,	,	,
+she	PP	she
+came	VVD	come
+up	RP	up
+with	IN	with
+a	DT	a
+few	JJ	few
+class	NN	class
+projects	NNS	project
+,	,	,
+and	CC	and
+I	PP	I
+came	VVD	come
+up	RP	up
+with	IN	with
+a	DT	a
+few	JJ	few
+class	NN	class
+projects	NNS	project
+;	:	;
+</s>
+<s type="decl">
+we	PP	we
+started	VVD	start
+working	VVG	work
+with	IN	with
+a	DT	a
+few	JJ	few
+of	IN	of
+our	PP$	our
+friends	NNS	friend
+,	,	,
+and	CC	and
+colleagues	NNS	colleague
+and	CC	and
+whatnot	NN	whatnot
+.	SENT	.
+</s>
+<s type="decl">
+Those	DT	that
+included	VVD	include
+Drew	NP	Drew
+Cass	NP	Cass
+,	,	,
+Devin	NP	Devin
+Thurlow	NP	Thurlow
+,	,	,
+people	NNS	person
+like	IN	like
+that	DT	that
+.	SENT	.
+</s>
+<s type="decl">
+She	PP	she
+had	VHD	have
+several	JJ	several
+ideas	NNS	idea
+,	,	,
+and	CC	and
+she	PP	she
+used	VVD	use
+to	TO	to
+draw	VV	draw
+a	DT	a
+lot	NN	lot
+in	IN	in
+the	DT	the
+sketchbook	NN	sketchbook
+,	,	,
+she	PP	she
+used	VVD	use
+to	TO	to
+have	VH	have
+this	DT	this
+thick	JJ	thick
+sketchbook	NN	sketchbook
+that	WDT	that
+she	PP	she
+used	VVD	use
+to	TO	to
+carry	VV	carry
+around	RB	around
+with	IN	with
+her	PP	she
+everywhere	RB	everywhere
+,	,	,
+where	WRB	where
+she	PP	she
+'d	MD	would
+draw	VV	draw
+these	DT	this
+different	JJ	different
+characters	NNS	character
+and	CC	and
+whatnot	NN	whatnot
+;	:	;
+</s>
+<s type="decl">
+and	CC	and
+she	PP	she
+was	VBD	be
+always	RB	always
+really	RB	really
+shy	JJ	shy
+to	TO	to
+show	VV	show
+that	DT	that
+off	RP	off
+to	IN	to
+people	NNS	person
+,	,	,
+and	CC	and
+I	PP	I
+wanted	VVD	want
+to	TO	to
+help	VV	help
+her	PP	she
+show	VV	show
+that	DT	that
+stuff	NN	stuff
+,	,	,
+and	CC	and
+I	PP	I
+wanted	VVD	want
+to	TO	to
+bring	VV	bring
+it	PP	it
+out	RP	out
+to	IN	to
+the	DT	the
+world	NN	world
+.	SENT	.
+</s>
+<s type="decl">
+I	PP	I
+was	VBD	be
+a	DT	a
+writer	NN	writer
+,	,	,
+and	CC	and
+she	PP	she
+always	RB	always
+liked	VVD	like
+my	PP$	my
+writings	NNS	writing
+,	,	,
+so	RB	so
+I	PP	I
+was	VBD	be
+like	RP	like
+,	,	,
+let	VV	let
+'s	PP	we
+just	RB	just
+get	VV	get
+both	DT	both
+of	IN	of
+our	PP$	our
+things	NNS	thing
+together	RB	together
+,	,	,
+and	CC	and
+let	VV	let
+'s	PP	we
+get	VV	get
+this	DT	this
+done	VVN	do
+.	SENT	.
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="decl">
+And	CC	and
+for	IN	for
+me	PP	I
+,	,	,
+what	WP	what
+I	PP	I
+want	VVP	want
+the	DT	the
+purpose	NN	purpose
+to	TO	to
+be	VB	be
+,	,	,
+is	VBZ	be
+to	TO	to
+inspire	VV	inspire
+people	NNS	person
+.	SENT	.
+</s>
+<s type="decl">
+To	TO	to
+bring	VV	bring
+a	DT	a
+little	JJ	little
+more	JJR	more
+light	NN	light
+to	IN	to
+the	DT	the
+world	NN	world
+is	VBZ	be
+what	WP	what
+I	PP	I
+want	VVP	want
+,	,	,
+out	IN	out
+of	IN	of
+all	DT	all
+of	IN	of
+this	DT	this
+.	SENT	.
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="wh">
+And	CC	and
+what	WP	what
+was	VBD	be
+the	DT	the
+verse	NN	verse
+that	WDT	that
+we	PP	we
+have	VHP	have
+?	SENT	?
+</s>
+<s type="q">
+<ref>
+First	NP	First
+Corinthians	NPS	Corinthian
+</ref>
+<w>
+9	CD	9
+:	:	:
+25	CD	25
+</w>
+?	SENT	?
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="intj">
+Yes	UH	yes
+.	SENT	.
+</s>
+</sp>
+<sp who="#MarioJLucero">
+<s type="intj">
+Yeah	UH	yeah
+,	,	,
+exactly	RB	exactly
+.	SENT	.
+</s>
+<s type="decl">
+We	PP	we
+just	RB	just
+want	VVP	want
+to	TO	to
+be	VB	be
+able	JJ	able
+to	TO	to
+bring	VV	bring
+,	,	,
+like	IN	like
+she	PP	she
+said	VVD	say
+,	,	,
+bring	VV	bring
+light	NN	light
+into	IN	into
+the	DT	the
+entertainment	NN	entertainment
+and	CC	and
+into	IN	into
+the	DT	the
+media	NNS	medium
+industry	NN	industry
+,	,	,
+specifically	RB	specifically
+is	VBZ	be
+what	WP	what
+we	PP	we
+do	VVP	do
+.	SENT	.
+</s>
+</sp>
+<sp who="#IsabelRuiz">
+<s type="intj">
+Yeah	UH	yeah
+.	SENT	.
+</s>
+</sp>
+</text>

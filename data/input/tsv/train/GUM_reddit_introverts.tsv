@@ -1,0 +1,986 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat|salience|identity|centering
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Introverts of Reddit , what are the most annoying things extroverts do ?
+1-1	0-10	Introverts	person[1]	new[1]	sal[1]	_	cf4[1]	coref	2-1[7_1]	
+1-2	11-13	of	person[1]	new[1]	sal[1]	_	cf4[1]	_	_	
+1-3	14-20	Reddit	person[1]|place[2]	new[1]|new[2]	sal[1]|sal[2]	Reddit[2]	cf4[1]|cf3[2]	coref	2-3[8_2]	
+1-4	21-22	,	_	_	_	_		_	_	
+1-5	23-27	what	_	_	_	_		_	_	
+1-6	28-31	are	_	_	_	_		_	_	
+1-7	32-35	the	abstract[4]	new[4]	nonsal[4]	_	cf2[4]	coref	2-7[10_4]	
+1-8	36-40	most	abstract[4]	new[4]	nonsal[4]	_	cf2[4]	_	_	
+1-9	41-49	annoying	abstract[4]	new[4]	nonsal[4]	_	cf2[4]	_	_	
+1-10	50-56	things	abstract[4]	new[4]	nonsal[4]	_	cf2[4]	_	_	
+1-11	57-67	extroverts	abstract[4]|person[5]	new[4]|new[5]	nonsal[4]|nonsal[5]	_	cf2[4]|cf1[5]	coref	2-11[11_5]	
+1-12	68-70	do	abstract[4]	new[4]	nonsal[4]	_	cf2[4]	_	_	
+1-13	71-72	?	_	_	_	_		_	_	
+
+#Text=Introverts of Reddit , what are the most annoying things extroverts do ?
+2-1	73-83	Introverts	person[7]	giv:act[7]	sal[7]	_	cf4[7]	_	_	
+2-2	84-86	of	person[7]	giv:act[7]	sal[7]	_	cf4[7]	_	_	
+2-3	87-93	Reddit	person[7]|place[8]	giv:act[7]|giv:act[8]	sal[7]|sal[8]	Reddit[8]	cf4[7]|cf3[8]	_	_	
+2-4	94-95	,	_	_	_	_		_	_	
+2-5	96-100	what	_	_	_	_		_	_	
+2-6	101-104	are	_	_	_	_		_	_	
+2-7	105-108	the	abstract[10]	giv:act[10]	nonsal[10]	_	cf2[10]	_	_	
+2-8	109-113	most	abstract[10]	giv:act[10]	nonsal[10]	_	cf2[10]	_	_	
+2-9	114-122	annoying	abstract[10]	giv:act[10]	nonsal[10]	_	cf2[10]	_	_	
+2-10	123-129	things	abstract[10]	giv:act[10]	nonsal[10]	_	cf2[10]	_	_	
+2-11	130-140	extroverts	abstract[10]|person[11]	giv:act[10]|giv:act[11]	nonsal[10]|nonsal[11]	_	cf2[10]|cf1*[11]	_	_	
+2-12	141-143	do	abstract[10]	giv:act[10]	nonsal[10]	_	cf2[10]	_	_	
+2-13	144-145	?	_	_	_	_		_	_	
+
+#Text=Try to force you to be extroverted
+3-1	146-149	Try	_	_	_	_		_	_	
+3-2	150-152	to	_	_	_	_		_	_	
+3-3	153-158	force	_	_	_	_		_	_	
+3-4	159-162	you	person[12]	acc:com[12]	nonsal[12]	_	cf1[12]	ana	8-1[43_12]	
+3-5	163-165	to	_	_	_	_		_	_	
+3-6	166-168	be	_	_	_	_		_	_	
+3-7	169-180	extroverted	_	_	_	_		_	_	
+
+#Text=Every self - help article about how to date when you are an introvert can be summarized as " be an extrovert " .
+4-1	181-186	Every	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-2	187-191	self	abstract[15]|abstract[16]	new[15]|new[16]	nonsal[15]|nonsal[16]	_	cf2[15]|cf4[16]	_	_	
+4-3	192-193	-	abstract[15]|abstract[16]	new[15]|new[16]	nonsal[15]|nonsal[16]	_	cf2[15]|cf4[16]	_	_	
+4-4	194-198	help	abstract[15]|abstract[16]	new[15]|new[16]	nonsal[15]|nonsal[16]	_	cf2[15]|cf4[16]	_	_	
+4-5	199-206	article	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-6	207-212	about	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-7	213-216	how	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-8	217-219	to	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-9	220-224	date	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-10	225-229	when	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-11	230-233	you	abstract[15]|person[17]	new[15]|acc:com[17]	nonsal[15]|nonsal[17]	_	cf2[15]|cf1[17]	pred	4-13[19_17]	
+4-12	234-237	are	abstract[15]	new[15]	nonsal[15]	_	cf2[15]	_	_	
+4-13	238-240	an	abstract[15]|person[19]	new[15]|giv:act[19]	nonsal[15]|nonsal[19]	_	cf2[15]|cf1[19]	_	_	
+4-14	241-250	introvert	abstract[15]|person[19]	new[15]|giv:act[19]	nonsal[15]|nonsal[19]	_	cf2[15]|cf1[19]	_	_	
+4-15	251-254	can	_	_	_	_		_	_	
+4-16	255-257	be	_	_	_	_		_	_	
+4-17	258-268	summarized	_	_	_	_		_	_	
+4-18	269-271	as	_	_	_	_		_	_	
+4-19	272-273	"	_	_	_	_		_	_	
+4-20	274-276	be	_	_	_	_		_	_	
+4-21	277-279	an	person[20]	new[20]	nonsal[20]	_	cf3[20]	_	_	
+4-22	280-289	extrovert	person[20]	new[20]	nonsal[20]	_	cf3[20]	_	_	
+4-23	290-291	"	_	_	_	_		_	_	
+4-24	292-293	.	_	_	_	_		_	_	
+
+#Text=Am introvert , have successfully dated .
+5-1	294-296	Am	_	_	_	_		_	_	
+5-2	297-306	introvert	person[21]	new[21]	nonsal[21]	_	cf1[21]	ana	6-17[27_21]	
+5-3	307-308	,	_	_	_	_		_	_	
+5-4	309-313	have	_	_	_	_		_	_	
+5-5	314-326	successfully	_	_	_	_		_	_	
+5-6	327-332	dated	_	_	_	_		_	_	
+5-7	333-334	.	_	_	_	_		_	_	
+
+#Text=It of course helps to be attractive , but the other thing that really works for me , is just to accept that dating takes effort , and will tire me out even if I have a good time .
+6-1	335-337	It	abstract[22]	new[22]	nonsal[22]	_	cf3[22]	_	_	
+6-2	338-340	of	_	_	_	_		_	_	
+6-3	341-347	course	_	_	_	_		_	_	
+6-4	348-353	helps	_	_	_	_		_	_	
+6-5	354-356	to	abstract[25]	acc:com[25]	nonsal[25]	_	cf3[25]	cata	6-1[22_25]	
+6-6	357-359	be	abstract[25]	acc:com[25]	nonsal[25]	_	cf3[25]	_	_	
+6-7	360-370	attractive	abstract[25]	acc:com[25]	nonsal[25]	_	cf3[25]	_	_	
+6-8	371-372	,	_	_	_	_		_	_	
+6-9	373-376	but	_	_	_	_		_	_	
+6-10	377-380	the	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	coref	6-21[29_26]	
+6-11	381-386	other	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	_	_	
+6-12	387-392	thing	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	_	_	
+6-13	393-397	that	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	_	_	
+6-14	398-404	really	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	_	_	
+6-15	405-410	works	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	_	_	
+6-16	411-414	for	abstract[26]	new[26]	nonsal[26]	_	cf2[26]	_	_	
+6-17	415-417	me	abstract[26]|person[27]	new[26]|giv:act[27]	nonsal[26]|nonsal[27]	_	cf2[26]|cf1*[27]	ana	6-31[33_27]	
+6-18	418-419	,	_	_	_	_		_	_	
+6-19	420-422	is	_	_	_	_		_	_	
+6-20	423-427	just	_	_	_	_		_	_	
+6-21	428-430	to	abstract[29]	giv:act[29]	nonsal[29]	_	cf2[29]	_	_	
+6-22	431-437	accept	abstract[29]	giv:act[29]	nonsal[29]	_	cf2[29]	_	_	
+6-23	438-442	that	abstract[29]	giv:act[29]	nonsal[29]	_	cf2[29]	_	_	
+6-24	443-449	dating	abstract[29]|event[30]|event[31]	giv:act[29]|new[30]|new[31]	nonsal[29]|nonsal[30]|sal[31]	_	cf2[29]|cf7[30]|cf4[31]	disc|disc	7-2[40_30]|12-4[107_31]	
+6-25	450-455	takes	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-26	456-462	effort	abstract[29]|event[30]|abstract[32]	giv:act[29]|new[30]|new[32]	nonsal[29]|nonsal[30]|nonsal[32]	_	cf2[29]|cf7[30]|cf5[32]	_	_	
+6-27	463-464	,	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-28	465-468	and	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-29	469-473	will	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-30	474-478	tire	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-31	479-481	me	abstract[29]|event[30]|person[33]	giv:act[29]|new[30]|giv:act[33]	nonsal[29]|nonsal[30]|nonsal[33]	_	cf2[29]|cf7[30]|cf1*[33]	ana	6-35[34_33]	
+6-32	482-485	out	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-33	486-490	even	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-34	491-493	if	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-35	494-495	I	abstract[29]|event[30]|person[34]	giv:act[29]|new[30]|giv:act[34]	nonsal[29]|nonsal[30]|nonsal[34]	_	cf2[29]|cf7[30]|cf1*[34]	_	_	
+6-36	496-500	have	abstract[29]|event[30]	giv:act[29]|new[30]	nonsal[29]|nonsal[30]	_	cf2[29]|cf7[30]	_	_	
+6-37	501-502	a	abstract[29]|event[30]|event[39]	giv:act[29]|new[30]|new[39]	nonsal[29]|nonsal[30]|nonsal[39]	_	cf2[29]|cf7[30]|cf6[39]	_	_	
+6-38	503-507	good	abstract[29]|event[30]|event[39]	giv:act[29]|new[30]|new[39]	nonsal[29]|nonsal[30]|nonsal[39]	_	cf2[29]|cf7[30]|cf6[39]	_	_	
+6-39	508-512	time	abstract[29]|event[30]|event[39]	giv:act[29]|new[30]|new[39]	nonsal[29]|nonsal[30]|nonsal[39]	_	cf2[29]|cf7[30]|cf6[39]	_	_	
+6-40	513-514	.	_	_	_	_		_	_	
+
+#Text=And that 's okay .
+7-1	515-518	And	_	_	_	_		_	_	
+7-2	519-523	that	event[40]	giv:act[40]	nonsal[40]	_	cf1*[40]	_	_	
+7-3	524-526	's	_	_	_	_		_	_	
+7-4	527-531	okay	_	_	_	_		_	_	
+7-5	532-533	.	_	_	_	_		_	_	
+
+#Text=You do n't go to the gym and expect not to be tired afterwards , but that does n't mean that you ca n't enjoy working out
+8-1	534-537	You	event[42]|person[43]	new[42]|giv:inact[43]	nonsal[42]|nonsal[43]	_	cf2[42]|cf1[43]	disc|ana	8-17[46_42]|8-22[47_43]	
+8-2	538-540	do	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-3	541-544	n't	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-4	545-547	go	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-5	548-550	to	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-6	551-554	the	event[42]|place[45]	new[42]|new[45]	nonsal[42]|nonsal[45]	_	cf2[42]|cf3[45]	_	_	
+8-7	555-558	gym	event[42]|place[45]	new[42]|new[45]	nonsal[42]|nonsal[45]	_	cf2[42]|cf3[45]	_	_	
+8-8	559-562	and	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-9	563-569	expect	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-10	570-573	not	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-11	574-576	to	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-12	577-579	be	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-13	580-585	tired	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-14	586-596	afterwards	event[42]	new[42]	nonsal[42]	_	cf2[42]	_	_	
+8-15	597-598	,	_	_	_	_		_	_	
+8-16	599-602	but	_	_	_	_		_	_	
+8-17	603-607	that	event[46]	giv:act[46]	nonsal[46]	_	cf2[46]	_	_	
+8-18	608-612	does	_	_	_	_		_	_	
+8-19	613-616	n't	_	_	_	_		_	_	
+8-20	617-621	mean	_	_	_	_		_	_	
+8-21	622-626	that	_	_	_	_		_	_	
+8-22	627-630	you	person[47]	giv:act[47]	nonsal[47]	_	cf1[47]	ana	16-5[145_47]	
+8-23	631-633	ca	_	_	_	_		_	_	
+8-24	634-637	n't	_	_	_	_		_	_	
+8-25	638-643	enjoy	_	_	_	_		_	_	
+8-26	644-651	working	_	_	_	_		_	_	
+8-27	652-655	out	_	_	_	_		_	_	
+
+#Text=Agreed - am a serious introvert , but my life would be way less fullfilling and way less rich with great life experiences in the realm of friends , partying , girls , etc if I had n't made a conscious effort get good at behaving in a more extroverted manner enough of the time to have the experiences I want to be a part of my life .
+9-1	656-662	Agreed	_	_	_	_		_	_	
+9-2	663-664	-	_	_	_	_		_	_	
+9-3	665-667	am	_	_	_	_		_	_	
+9-4	668-669	a	person[50]	new[50]	sal[50]	_	cf1[50]	ana	9-9[52_50]	
+9-5	670-677	serious	person[50]	new[50]	sal[50]	_	cf1[50]	_	_	
+9-6	678-687	introvert	person[50]	new[50]	sal[50]	_	cf1[50]	_	_	
+9-7	688-689	,	_	_	_	_		_	_	
+9-8	690-693	but	_	_	_	_		_	_	
+9-9	694-696	my	abstract[51]|person[52]	new[51]|giv:act[52]	sal[51]|sal[52]	_	cf2[51]|cf1[52]	coref|ana	9-22[55_51]|9-36[61_52]	
+9-10	697-701	life	abstract[51]	new[51]	sal[51]	_	cf2[51]	_	_	
+9-11	702-707	would	_	_	_	_		_	_	
+9-12	708-710	be	_	_	_	_		_	_	
+9-13	711-714	way	_	_	_	_		_	_	
+9-14	715-719	less	_	_	_	_		_	_	
+9-15	720-731	fullfilling	_	_	_	_		_	_	
+9-16	732-735	and	_	_	_	_		_	_	
+9-17	736-739	way	_	_	_	_		_	_	
+9-18	740-744	less	_	_	_	_		_	_	
+9-19	745-749	rich	_	_	_	_		_	_	
+9-20	750-754	with	_	_	_	_		_	_	
+9-21	755-760	great	abstract[54]	new[54]	sal[54]	_	cf9[54]	_	_	
+9-22	761-765	life	abstract[54]|abstract[55]	new[54]|giv:act[55]	sal[54]|sal[55]	_	cf9[54]|cf2[55]	_	_	
+9-23	766-777	experiences	abstract[54]	new[54]	sal[54]	_	cf9[54]	_	_	
+9-24	778-780	in	abstract[54]	new[54]	sal[54]	_	cf9[54]	_	_	
+9-25	781-784	the	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-26	785-790	realm	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-27	791-793	of	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-28	794-801	friends	abstract[54]|abstract[57]|person[58]	new[54]|new[57]|new[58]	sal[54]|nonsal[57]|nonsal[58]	_	cf9[54]|cf5[57]|cf7[58]	_	_	
+9-29	802-803	,	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-30	804-812	partying	abstract[54]|abstract[57]|event[59]	new[54]|new[57]|new[59]	sal[54]|nonsal[57]|nonsal[59]	_	cf9[54]|cf5[57]|cf12[59]	_	_	
+9-31	813-814	,	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-32	815-820	girls	abstract[54]|abstract[57]|person[60]	new[54]|new[57]|new[60]	sal[54]|nonsal[57]|nonsal[60]	_	cf9[54]|cf5[57]|cf8[60]	_	_	
+9-33	821-822	,	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-34	823-826	etc	abstract[54]|abstract[57]	new[54]|new[57]	sal[54]|nonsal[57]	_	cf9[54]|cf5[57]	_	_	
+9-35	827-829	if	_	_	_	_		_	_	
+9-36	830-831	I	person[61]	giv:act[61]	sal[61]	_	cf1[61]	ana	9-60[71_61]	
+9-37	832-835	had	_	_	_	_		_	_	
+9-38	836-839	n't	_	_	_	_		_	_	
+9-39	840-844	made	event[66]	new[66]	sal[66]	_	cf13[66]	disc	10-9[78_66]	
+9-40	845-846	a	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-41	847-856	conscious	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-42	857-863	effort	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-43	864-867	get	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-44	868-872	good	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-45	873-875	at	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-46	876-884	behaving	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-47	885-887	in	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-48	888-889	a	event[66]|abstract[67]|abstract[68]	new[66]|new[67]|new[68]	sal[66]|nonsal[67]|nonsal[68]	_	cf13[66]|cf4[67]|cf10[68]	_	_	
+9-49	890-894	more	event[66]|abstract[67]|abstract[68]	new[66]|new[67]|new[68]	sal[66]|nonsal[67]|nonsal[68]	_	cf13[66]|cf4[67]|cf10[68]	_	_	
+9-50	895-906	extroverted	event[66]|abstract[67]|abstract[68]	new[66]|new[67]|new[68]	sal[66]|nonsal[67]|nonsal[68]	_	cf13[66]|cf4[67]|cf10[68]	_	_	
+9-51	907-913	manner	event[66]|abstract[67]|abstract[68]	new[66]|new[67]|new[68]	sal[66]|nonsal[67]|nonsal[68]	_	cf13[66]|cf4[67]|cf10[68]	_	_	
+9-52	914-920	enough	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-53	921-923	of	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-54	924-927	the	event[66]|abstract[67]|time[69]	new[66]|new[67]|new[69]	sal[66]|nonsal[67]|nonsal[69]	_	cf13[66]|cf4[67]|cf6[69]	_	_	
+9-55	928-932	time	event[66]|abstract[67]|time[69]	new[66]|new[67]|new[69]	sal[66]|nonsal[67]|nonsal[69]	_	cf13[66]|cf4[67]|cf6[69]	_	_	
+9-56	933-935	to	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-57	936-940	have	event[66]|abstract[67]	new[66]|new[67]	sal[66]|nonsal[67]	_	cf13[66]|cf4[67]	_	_	
+9-58	941-944	the	event[66]|abstract[67]|abstract[70]	new[66]|new[67]|new[70]	sal[66]|nonsal[67]|sal[70]	_	cf13[66]|cf4[67]|cf3[70]	_	_	
+9-59	945-956	experiences	event[66]|abstract[67]|abstract[70]	new[66]|new[67]|new[70]	sal[66]|nonsal[67]|sal[70]	_	cf13[66]|cf4[67]|cf3[70]	_	_	
+9-60	957-958	I	event[66]|abstract[67]|abstract[70]|person[71]	new[66]|new[67]|new[70]|giv:act[71]	sal[66]|nonsal[67]|sal[70]|sal[71]	_	cf13[66]|cf4[67]|cf3[70]|cf1[71]	ana	9-67[74_71]	
+9-61	959-963	want	event[66]|abstract[67]|abstract[70]	new[66]|new[67]|new[70]	sal[66]|nonsal[67]|sal[70]	_	cf13[66]|cf4[67]|cf3[70]	_	_	
+9-62	964-966	to	event[66]|abstract[67]|abstract[70]	new[66]|new[67]|new[70]	sal[66]|nonsal[67]|sal[70]	_	cf13[66]|cf4[67]|cf3[70]	_	_	
+9-63	967-969	be	event[66]|abstract[67]|abstract[70]	new[66]|new[67]|new[70]	sal[66]|nonsal[67]|sal[70]	_	cf13[66]|cf4[67]|cf3[70]	_	_	
+9-64	970-971	a	event[66]|abstract[67]|abstract[70]|abstract[73]	new[66]|new[67]|new[70]|new[73]	sal[66]|nonsal[67]|sal[70]|nonsal[73]	_	cf13[66]|cf4[67]|cf3[70]|cf11[73]	_	_	
+9-65	972-976	part	event[66]|abstract[67]|abstract[70]|abstract[73]	new[66]|new[67]|new[70]|new[73]	sal[66]|nonsal[67]|sal[70]|nonsal[73]	_	cf13[66]|cf4[67]|cf3[70]|cf11[73]	_	_	
+9-66	977-979	of	event[66]|abstract[67]|abstract[70]|abstract[73]	new[66]|new[67]|new[70]|new[73]	sal[66]|nonsal[67]|sal[70]|nonsal[73]	_	cf13[66]|cf4[67]|cf3[70]|cf11[73]	_	_	
+9-67	980-982	my	event[66]|abstract[67]|abstract[70]|abstract[73]|person[74]	new[66]|new[67]|new[70]|new[73]|giv:act[74]	sal[66]|nonsal[67]|sal[70]|nonsal[73]|sal[74]	_	cf13[66]|cf4[67]|cf3[70]|cf11[73]|cf1[74]	ana	11-2[82_74]	
+9-68	983-987	life	event[66]|abstract[67]|abstract[70]|abstract[73]	new[66]|new[67]|new[70]|new[73]	sal[66]|nonsal[67]|sal[70]|nonsal[73]	_	cf13[66]|cf4[67]|cf3[70]|cf11[73]	_	_	
+9-69	988-989	.	_	_	_	_		_	_	
+
+#Text=Obviously different people have different priorities , and it is n't something that will work or be possible for everyone .
+10-1	990-999	Obviously	_	_	_	_		_	_	
+10-2	1000-1009	different	person[76]	new[76]	nonsal[76]	_	cf2[76]	_	_	
+10-3	1010-1016	people	person[76]	new[76]	nonsal[76]	_	cf2[76]	_	_	
+10-4	1017-1021	have	_	_	_	_		_	_	
+10-5	1022-1031	different	abstract[77]	new[77]	nonsal[77]	_	cf3[77]	_	_	
+10-6	1032-1042	priorities	abstract[77]	new[77]	nonsal[77]	_	cf3[77]	_	_	
+10-7	1043-1044	,	_	_	_	_		_	_	
+10-8	1045-1048	and	_	_	_	_		_	_	
+10-9	1049-1051	it	event[78]	giv:act[78]	sal[78]	_	cf1*[78]	_	_	
+10-10	1052-1054	is	_	_	_	_		_	_	
+10-11	1055-1058	n't	_	_	_	_		_	_	
+10-12	1059-1068	something	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-13	1069-1073	that	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-14	1074-1078	will	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-15	1079-1083	work	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-16	1084-1086	or	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-17	1087-1089	be	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-18	1090-1098	possible	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-19	1099-1102	for	abstract[80]	new[80]	nonsal[80]	_	cf5[80]	_	_	
+10-20	1103-1111	everyone	abstract[80]|person[81]	new[80]|new[81]	nonsal[80]|nonsal[81]	_	cf5[80]|cf4[81]	_	_	
+10-21	1112-1113	.	_	_	_	_		_	_	
+
+#Text=But I hate to think of someone just being like , " I 'm an introvert , and therefore I need to accept that I will never have the experience of being a charismatic fun person who is good with people and the opposite sex . " , and not even trying to make those things happen , if that is something they would like in their life .
+11-1	1114-1117	But	_	_	_	_		_	_	
+11-2	1118-1119	I	person[82]	giv:inact[82]	sal[82]	_	cf3[82]	_	_	
+11-3	1120-1124	hate	_	_	_	_		_	_	
+11-4	1125-1127	to	_	_	_	_		_	_	
+11-5	1128-1133	think	_	_	_	_		_	_	
+11-6	1134-1136	of	_	_	_	_		_	_	
+11-7	1137-1144	someone	person[83]	new[83]	nonsal[83]	_	cf1[83]	ana	11-13[84_83]	
+11-8	1145-1149	just	_	_	_	_		_	_	
+11-9	1150-1155	being	_	_	_	_		_	_	
+11-10	1156-1160	like	_	_	_	_		_	_	
+11-11	1161-1162	,	_	_	_	_		_	_	
+11-12	1163-1164	"	_	_	_	_		_	_	
+11-13	1165-1166	I	person[84]	giv:act[84]	nonsal[84]	_	cf1[84]	pred	11-15[89_84]	
+11-14	1167-1169	'm	_	_	_	_		_	_	
+11-15	1170-1172	an	person[89]	giv:act[89]	nonsal[89]	_	cf1[89]	ana	11-20[90_89]	
+11-16	1173-1182	introvert	person[89]	giv:act[89]	nonsal[89]	_	cf1[89]	_	_	
+11-17	1183-1184	,	_	_	_	_		_	_	
+11-18	1185-1188	and	_	_	_	_		_	_	
+11-19	1189-1198	therefore	_	_	_	_		_	_	
+11-20	1199-1200	I	person[90]	giv:act[90]	nonsal[90]	_	cf1[90]	ana	11-25[91_90]	
+11-21	1201-1205	need	_	_	_	_		_	_	
+11-22	1206-1208	to	_	_	_	_		_	_	
+11-23	1209-1215	accept	_	_	_	_		_	_	
+11-24	1216-1220	that	_	_	_	_		_	_	
+11-25	1221-1222	I	person[91]	giv:act[91]	nonsal[91]	_	cf1[91]	ana	11-63[103_91]	
+11-26	1223-1227	will	_	_	_	_		_	_	
+11-27	1228-1233	never	_	_	_	_		_	_	
+11-28	1234-1238	have	_	_	_	_		_	_	
+11-29	1239-1242	the	abstract[94]	new[94]	nonsal[94]	_	cf2[94]	coref	11-55[99_94]	
+11-30	1243-1253	experience	abstract[94]	new[94]	nonsal[94]	_	cf2[94]	_	_	
+11-31	1254-1256	of	abstract[94]	new[94]	nonsal[94]	_	cf2[94]	_	_	
+11-32	1257-1262	being	abstract[94]	new[94]	nonsal[94]	_	cf2[94]	_	_	
+11-33	1263-1264	a	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-34	1265-1276	charismatic	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-35	1277-1280	fun	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-36	1281-1287	person	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-37	1288-1291	who	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-38	1292-1294	is	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-39	1295-1299	good	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-40	1300-1304	with	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-41	1305-1311	people	abstract[94]|person[95]|person[96]	new[94]|new[95]|new[96]	nonsal[94]|nonsal[95]|nonsal[96]	_	cf2[94]|cf5[95]|cf6[96]	_	_	
+11-42	1312-1315	and	abstract[94]|person[95]	new[94]|new[95]	nonsal[94]|nonsal[95]	_	cf2[94]|cf5[95]	_	_	
+11-43	1316-1319	the	abstract[94]|person[95]|person[98]	new[94]|new[95]|new[98]	nonsal[94]|nonsal[95]|nonsal[98]	_	cf2[94]|cf5[95]|cf4[98]	_	_	
+11-44	1320-1328	opposite	abstract[94]|person[95]|person[98]	new[94]|new[95]|new[98]	nonsal[94]|nonsal[95]|nonsal[98]	_	cf2[94]|cf5[95]|cf4[98]	_	_	
+11-45	1329-1332	sex	abstract[94]|person[95]|person[98]	new[94]|new[95]|new[98]	nonsal[94]|nonsal[95]|nonsal[98]	_	cf2[94]|cf5[95]|cf4[98]	_	_	
+11-46	1333-1334	.	_	_	_	_		_	_	
+11-47	1335-1336	"	_	_	_	_		_	_	
+11-48	1337-1338	,	_	_	_	_		_	_	
+11-49	1339-1342	and	_	_	_	_		_	_	
+11-50	1343-1346	not	_	_	_	_		_	_	
+11-51	1347-1351	even	_	_	_	_		_	_	
+11-52	1352-1358	trying	_	_	_	_		_	_	
+11-53	1359-1361	to	_	_	_	_		_	_	
+11-54	1362-1366	make	_	_	_	_		_	_	
+11-55	1367-1372	those	abstract[99]	giv:act[99]	nonsal[99]	_	cf2[99]	ana	11-60[100_99]	
+11-56	1373-1379	things	abstract[99]	giv:act[99]	nonsal[99]	_	cf2[99]	_	_	
+11-57	1380-1386	happen	_	_	_	_		_	_	
+11-58	1387-1388	,	_	_	_	_		_	_	
+11-59	1389-1391	if	_	_	_	_		_	_	
+11-60	1392-1396	that	abstract[100]	giv:act[100]	nonsal[100]	_	cf2[100]	_	_	
+11-61	1397-1399	is	_	_	_	_		_	_	
+11-62	1400-1409	something	abstract[102]	new[102]	nonsal[102]	_	cf7[102]	_	_	
+11-63	1410-1414	they	abstract[102]|person[103]	new[102]|giv:act[103]	nonsal[102]|nonsal[103]	_	cf7[102]|cf1[103]	ana	11-67[106_103]	
+11-64	1415-1420	would	abstract[102]	new[102]	nonsal[102]	_	cf7[102]	_	_	
+11-65	1421-1425	like	abstract[102]	new[102]	nonsal[102]	_	cf7[102]	_	_	
+11-66	1426-1428	in	abstract[102]	new[102]	nonsal[102]	_	cf7[102]	_	_	
+11-67	1429-1434	their	abstract[102]|abstract[105]|person[106]	new[102]|new[105]|giv:act[106]	nonsal[102]|nonsal[105]|nonsal[106]	_	cf7[102]|cf8[105]|cf1[106]	_	_	
+11-68	1435-1439	life	abstract[102]|abstract[105]	new[102]|new[105]	nonsal[102]|nonsal[105]	_	cf7[102]|cf8[105]	_	_	
+11-69	1440-1441	.	_	_	_	_		_	_	
+
+#Text=In terms of dating , it is nice to find someone , as I have been fortunate enough to , who is on the same page in terms of being an introvert , who also likes to sometimes be social , party , etc.
+12-1	1442-1444	In	_	_	_	_		_	_	
+12-2	1445-1450	terms	_	_	_	_		_	_	
+12-3	1451-1453	of	_	_	_	_		_	_	
+12-4	1454-1460	dating	event[107]	giv:inact[107]	sal[107]	_	cf2[107]	_	_	
+12-5	1461-1462	,	_	_	_	_		_	_	
+12-6	1463-1465	it	event[108]	new[108]	nonsal[108]	_	cf4[108]	_	_	
+12-7	1466-1468	is	_	_	_	_		_	_	
+12-8	1469-1473	nice	_	_	_	_		_	_	
+12-9	1474-1476	to	event[112]	acc:com[112]	nonsal[112]	_	cf4[112]	cata	12-6[108_112]	
+12-10	1477-1481	find	event[112]	acc:com[112]	nonsal[112]	_	cf4[112]	_	_	
+12-11	1482-1489	someone	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	disc	12-31[117_113]	
+12-12	1490-1491	,	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-13	1492-1494	as	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-14	1495-1496	I	event[112]|person[113]|person[114]	acc:com[112]|new[113]|acc:com[114]	nonsal[112]|nonsal[113]|sal[114]	_	cf4[112]|cf1[113]|cf3[114]	ana	13-2[118_114]	
+12-15	1497-1501	have	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-16	1502-1506	been	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-17	1507-1516	fortunate	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-18	1517-1523	enough	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-19	1524-1526	to	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-20	1527-1528	,	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-21	1529-1532	who	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-22	1533-1535	is	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-23	1536-1538	on	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-24	1539-1542	the	event[112]|person[113]|abstract[116]	acc:com[112]|new[113]|new[116]	nonsal[112]|nonsal[113]|nonsal[116]	_	cf4[112]|cf1[113]|cf5[116]	_	_	
+12-25	1543-1547	same	event[112]|person[113]|abstract[116]	acc:com[112]|new[113]|new[116]	nonsal[112]|nonsal[113]|nonsal[116]	_	cf4[112]|cf1[113]|cf5[116]	_	_	
+12-26	1548-1552	page	event[112]|person[113]|abstract[116]	acc:com[112]|new[113]|new[116]	nonsal[112]|nonsal[113]|nonsal[116]	_	cf4[112]|cf1[113]|cf5[116]	_	_	
+12-27	1553-1555	in	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-28	1556-1561	terms	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-29	1562-1564	of	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-30	1565-1570	being	event[112]|person[113]	acc:com[112]|new[113]	nonsal[112]|nonsal[113]	_	cf4[112]|cf1[113]	_	_	
+12-31	1571-1573	an	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	disc	13-7[120_117]	
+12-32	1574-1583	introvert	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-33	1584-1585	,	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-34	1586-1589	who	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-35	1590-1594	also	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-36	1595-1600	likes	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-37	1601-1603	to	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-38	1604-1613	sometimes	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-39	1614-1616	be	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-40	1617-1623	social	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-41	1624-1625	,	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-42	1626-1631	party	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-43	1632-1633	,	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+12-44	1634-1638	etc.	event[112]|person[113]|person[117]	acc:com[112]|new[113]|giv:act[117]	nonsal[112]|nonsal[113]|nonsal[117]	_	cf4[112]|cf1[113]|cf1[117]	_	_	
+
+#Text=But I would n't have found that person if at the time that we met I had n't been making a real effort to be outgoing and fun and so on .
+13-1	1639-1642	But	_	_	_	_		_	_	
+13-2	1643-1644	I	person[118]	giv:act[118]	sal[118]	_	cf1*[118]	ana|bridge:aggr	13-16[123_118]|13-14[122_118]	
+13-3	1645-1650	would	_	_	_	_		_	_	
+13-4	1651-1654	n't	_	_	_	_		_	_	
+13-5	1655-1659	have	_	_	_	_		_	_	
+13-6	1660-1665	found	_	_	_	_		_	_	
+13-7	1666-1670	that	person[120]	giv:act[120]	nonsal[120]	_	cf2[120]	bridge:aggr	13-14[122_120]	
+13-8	1671-1677	person	person[120]	giv:act[120]	nonsal[120]	_	cf2[120]	_	_	
+13-9	1678-1680	if	_	_	_	_		_	_	
+13-10	1681-1683	at	_	_	_	_		_	_	
+13-11	1684-1687	the	time[121]	new[121]	nonsal[121]	_	cf5[121]	_	_	
+13-12	1688-1692	time	time[121]	new[121]	nonsal[121]	_	cf5[121]	_	_	
+13-13	1693-1697	that	time[121]	new[121]	nonsal[121]	_	cf5[121]	_	_	
+13-14	1698-1700	we	time[121]|person[122]	new[121]|acc:aggr[122]	nonsal[121]|nonsal[122]	_	cf5[121]|cf3[122]	_	_	
+13-15	1701-1704	met	time[121]	new[121]	nonsal[121]	_	cf5[121]	_	_	
+13-16	1705-1706	I	person[123]	giv:act[123]	sal[123]	_	cf1*[123]	_	_	
+13-17	1707-1710	had	_	_	_	_		_	_	
+13-18	1711-1714	n't	_	_	_	_		_	_	
+13-19	1715-1719	been	_	_	_	_		_	_	
+13-20	1720-1726	making	_	_	_	_		_	_	
+13-21	1727-1728	a	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-22	1729-1733	real	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-23	1734-1740	effort	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-24	1741-1743	to	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-25	1744-1746	be	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-26	1747-1755	outgoing	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-27	1756-1759	and	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-28	1760-1763	fun	abstract[126]	new[126]	nonsal[126]	_	cf4[126]	_	_	
+13-29	1764-1767	and	_	_	_	_		_	_	
+13-30	1768-1770	so	_	_	_	_		_	_	
+13-31	1771-1773	on	_	_	_	_		_	_	
+13-32	1774-1775	.	_	_	_	_		_	_	
+
+#Text=I think the big thing is people assume introvert = poor people skills .
+14-1	1776-1777	I	person[127]	acc:com[127]	nonsal[127]	_	cf1[127]	_	_	
+14-2	1778-1783	think	_	_	_	_		_	_	
+14-3	1784-1787	the	abstract[129]	new[129]	nonsal[129]	_	cf2[129]	_	_	
+14-4	1788-1791	big	abstract[129]	new[129]	nonsal[129]	_	cf2[129]	_	_	
+14-5	1792-1797	thing	abstract[129]	new[129]	nonsal[129]	_	cf2[129]	_	_	
+14-6	1798-1800	is	_	_	_	_		_	_	
+14-7	1801-1807	people	person[130]	new[130]	nonsal[130]	_	cf3[130]	_	_	
+14-8	1808-1814	assume	_	_	_	_		_	_	
+14-9	1815-1824	introvert	abstract[132]|person[133]	new[132]|new[133]	nonsal[132]|nonsal[133]	_	cf6[132]|cf4[133]	coref	17-13[152_132]	
+14-10	1825-1826	=	abstract[132]	new[132]	nonsal[132]	_	cf6[132]	_	_	
+14-11	1827-1831	poor	abstract[132]|abstract[135]	new[132]|new[135]	nonsal[132]|nonsal[135]	_	cf6[132]|cf5[135]	coref	18-1[156_135]	
+14-12	1832-1838	people	abstract[132]|abstract[135]|person[136]	new[132]|new[135]|new[136]	nonsal[132]|nonsal[135]|nonsal[136]	_	cf6[132]|cf5[135]|cf7[136]	coref	18-1[157_136]	
+14-13	1839-1845	skills	abstract[132]|abstract[135]	new[132]|new[135]	nonsal[132]|nonsal[135]	_	cf6[132]|cf5[135]	_	_	
+14-14	1846-1847	.	_	_	_	_		_	_	
+
+#Text=There are a lot of introverts that are super fun and cool people that can talk and do whatever and plenty of extroverts that are awkard and get anxious in social situations .
+15-1	1848-1853	There	_	_	_	_		_	_	
+15-2	1854-1857	are	_	_	_	_		_	_	
+15-3	1858-1859	a	person[138]	new[138]	nonsal[138]	_	cf1[138]	coref	15-9[139_138]	
+15-4	1860-1863	lot	person[138]	new[138]	nonsal[138]	_	cf1[138]	_	_	
+15-5	1864-1866	of	person[138]	new[138]	nonsal[138]	_	cf1[138]	_	_	
+15-6	1867-1877	introverts	person[138]	new[138]	nonsal[138]	_	cf1[138]	_	_	
+15-7	1878-1882	that	person[138]	new[138]	nonsal[138]	_	cf1[138]	_	_	
+15-8	1883-1886	are	person[138]	new[138]	nonsal[138]	_	cf1[138]	_	_	
+15-9	1887-1892	super	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-10	1893-1896	fun	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-11	1897-1900	and	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-12	1901-1905	cool	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-13	1906-1912	people	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-14	1913-1917	that	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-15	1918-1921	can	person[138]|person[139]	new[138]|giv:act[139]	nonsal[138]|nonsal[139]	_	cf1[138]|cf1[139]	_	_	
+15-16	1922-1926	talk	person[138]|person[139]|event[140]	new[138]|giv:act[139]|new[140]	nonsal[138]|nonsal[139]|nonsal[140]	_	cf1[138]|cf1[139]|cf4[140]	disc	16-12[146_140]	
+15-17	1927-1930	and	person[138]|person[139]|event[140]	new[138]|giv:act[139]|new[140]	nonsal[138]|nonsal[139]|nonsal[140]	_	cf1[138]|cf1[139]|cf4[140]	_	_	
+15-18	1931-1933	do	person[138]|person[139]|event[140]	new[138]|giv:act[139]|new[140]	nonsal[138]|nonsal[139]|nonsal[140]	_	cf1[138]|cf1[139]|cf4[140]	_	_	
+15-19	1934-1942	whatever	person[138]|person[139]|event[140]	new[138]|giv:act[139]|new[140]	nonsal[138]|nonsal[139]|nonsal[140]	_	cf1[138]|cf1[139]|cf4[140]	_	_	
+15-20	1943-1946	and	_	_	_	_		_	_	
+15-21	1947-1953	plenty	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-22	1954-1956	of	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-23	1957-1967	extroverts	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-24	1968-1972	that	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-25	1973-1976	are	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-26	1977-1983	awkard	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-27	1984-1987	and	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-28	1988-1991	get	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-29	1992-1999	anxious	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-30	2000-2002	in	person[141]	new[141]	nonsal[141]	_	cf2[141]	_	_	
+15-31	2003-2009	social	person[141]|abstract[142]	new[141]|new[142]	nonsal[141]|nonsal[142]	_	cf2[141]|cf3[142]	_	_	
+15-32	2010-2020	situations	person[141]|abstract[142]	new[141]|new[142]	nonsal[141]|nonsal[142]	_	cf2[141]|cf3[142]	_	_	
+15-33	2021-2022	.	_	_	_	_		_	_	
+
+#Text=The difference is wether you become drained or energized when doing it
+16-1	2023-2026	The	abstract[143]|abstract[144]	new[143]|new[144]	nonsal[143]|nonsal[144]	_	cf4[143]|cf3[144]	disc	34-1[340_143]	
+16-2	2027-2037	difference	abstract[143]|abstract[144]	new[143]|new[144]	nonsal[143]|nonsal[144]	_	cf4[143]|cf3[144]	_	_	
+16-3	2038-2040	is	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-4	2041-2047	wether	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-5	2048-2051	you	abstract[143]|person[145]	new[143]|giv:inact[145]	nonsal[143]|nonsal[145]	_	cf4[143]|cf2[145]	_	_	
+16-6	2052-2058	become	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-7	2059-2066	drained	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-8	2067-2069	or	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-9	2070-2079	energized	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-10	2080-2084	when	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-11	2085-2090	doing	abstract[143]	new[143]	nonsal[143]	_	cf4[143]	_	_	
+16-12	2091-2093	it	abstract[143]|event[146]	new[143]|giv:act[146]	nonsal[143]|nonsal[146]	_	cf4[143]|cf1*[146]	_	_	
+
+#Text=To be fair , as far as my own experience goes , that assumption is not entirely without merits .
+17-1	2094-2096	To	_	_	_	_		_	_	
+17-2	2097-2099	be	_	_	_	_		_	_	
+17-3	2100-2104	fair	_	_	_	_		_	_	
+17-4	2105-2106	,	_	_	_	_		_	_	
+17-5	2107-2109	as	_	_	_	_		_	_	
+17-6	2110-2113	far	_	_	_	_		_	_	
+17-7	2114-2116	as	_	_	_	_		_	_	
+17-8	2117-2119	my	abstract[149]|person[150]	new[149]|acc:com[150]	nonsal[149]|sal[150]	_	cf3[149]|cf2[150]	ana	19-8[177_150]	
+17-9	2120-2123	own	abstract[149]	new[149]	nonsal[149]	_	cf3[149]	_	_	
+17-10	2124-2134	experience	abstract[149]	new[149]	nonsal[149]	_	cf3[149]	_	_	
+17-11	2135-2139	goes	_	_	_	_		_	_	
+17-12	2140-2141	,	_	_	_	_		_	_	
+17-13	2142-2146	that	abstract[152]	giv:inact[152]	nonsal[152]	_	cf1[152]	_	_	
+17-14	2147-2157	assumption	abstract[152]	giv:inact[152]	nonsal[152]	_	cf1[152]	_	_	
+17-15	2158-2160	is	_	_	_	_		_	_	
+17-16	2161-2164	not	_	_	_	_		_	_	
+17-17	2165-2173	entirely	_	_	_	_		_	_	
+17-18	2174-2181	without	_	_	_	_		_	_	
+17-19	2182-2188	merits	abstract[153]	new[153]	nonsal[153]	_	cf4[153]	_	_	
+17-20	2189-2190	.	_	_	_	_		_	_	
+
+#Text=People skills are skills , learned and maintained through use - be introverted enough that you do n't do either of these and at some point your social skills are probably going to suffer .
+18-1	2191-2197	People	abstract[155]|abstract[156]|person[157]	new[155]|giv:inact[156]|giv:inact[157]	nonsal[155]|nonsal[156]|nonsal[157]	_	cf7[155]|cf2[156]|cf3[157]	disc|coref|coref	37-2[354_155]|37-3[355_156]|37-3[356_157]	
+18-2	2198-2204	skills	abstract[155]|abstract[156]	new[155]|giv:inact[156]	nonsal[155]|nonsal[156]	_	cf7[155]|cf2[156]	_	_	
+18-3	2205-2208	are	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-4	2209-2215	skills	abstract[155]|abstract[158]	new[155]|new[158]	nonsal[155]|nonsal[158]	_	cf7[155]|cf8[158]	_	_	
+18-5	2216-2217	,	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-6	2218-2225	learned	abstract[155]|event[159]	new[155]|new[159]	nonsal[155]|nonsal[159]	_	cf7[155]|cf11[159]	bridge:aggr	18-22[170_159]	
+18-7	2226-2229	and	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-8	2230-2240	maintained	abstract[155]|event[160]	new[155]|new[160]	nonsal[155]|nonsal[160]	_	cf7[155]|cf12[160]	bridge:aggr	18-22[170_160]	
+18-9	2241-2248	through	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-10	2249-2252	use	abstract[155]|abstract[161]	new[155]|new[161]	nonsal[155]|nonsal[161]	_	cf7[155]|cf9[161]	_	_	
+18-11	2253-2254	-	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-12	2255-2257	be	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-13	2258-2269	introverted	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-14	2270-2276	enough	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-15	2277-2281	that	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-16	2282-2285	you	abstract[155]|person[162]	new[155]|acc:com[162]	nonsal[155]|nonsal[162]	_	cf7[155]|cf1[162]	ana	18-27[174_162]	
+18-17	2286-2288	do	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-18	2289-2292	n't	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-19	2293-2295	do	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-20	2296-2302	either	abstract[155]|event[169]	new[155]|acc:com[169]	nonsal[155]|nonsal[169]	_	cf7[155]|cf5[169]	_	_	
+18-21	2303-2305	of	abstract[155]|event[169]	new[155]|acc:com[169]	nonsal[155]|nonsal[169]	_	cf7[155]|cf5[169]	_	_	
+18-22	2306-2311	these	abstract[155]|event[169]|event[170]	new[155]|acc:com[169]|acc:aggr[170]	nonsal[155]|nonsal[169]|nonsal[170]	_	cf7[155]|cf5[169]|cf4[170]	_	_	
+18-23	2312-2315	and	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-24	2316-2318	at	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-25	2319-2323	some	abstract[155]|abstract[172]	new[155]|new[172]	nonsal[155]|nonsal[172]	_	cf7[155]|cf10[172]	_	_	
+18-26	2324-2329	point	abstract[155]|abstract[172]	new[155]|new[172]	nonsal[155]|nonsal[172]	_	cf7[155]|cf10[172]	_	_	
+18-27	2330-2334	your	abstract[155]|abstract[173]|person[174]	new[155]|new[173]|giv:act[174]	nonsal[155]|nonsal[173]|nonsal[174]	_	cf7[155]|cf6[173]|cf1[174]	_	_	
+18-28	2335-2341	social	abstract[155]|abstract[173]	new[155]|new[173]	nonsal[155]|nonsal[173]	_	cf7[155]|cf6[173]	_	_	
+18-29	2342-2348	skills	abstract[155]|abstract[173]	new[155]|new[173]	nonsal[155]|nonsal[173]	_	cf7[155]|cf6[173]	_	_	
+18-30	2349-2352	are	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-31	2353-2361	probably	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-32	2362-2367	going	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-33	2368-2370	to	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-34	2371-2377	suffer	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+18-35	2378-2379	.	abstract[155]	new[155]	nonsal[155]	_	cf7[155]	_	_	
+
+#Text=Obviously not true for every introvert but I feel like the assumption that every introvert is secretly socially awesome , funny and overall the life of the party but just does n't want to right now can be damaging as well .
+19-1	2380-2389	Obviously	_	_	_	_		_	_	
+19-2	2390-2393	not	_	_	_	_		_	_	
+19-3	2394-2398	true	_	_	_	_		_	_	
+19-4	2399-2402	for	_	_	_	_		_	_	
+19-5	2403-2408	every	person[176]	new[176]	nonsal[176]	_	cf1[176]	coref	19-14[180_176]	
+19-6	2409-2418	introvert	person[176]	new[176]	nonsal[176]	_	cf1[176]	_	_	
+19-7	2419-2422	but	_	_	_	_		_	_	
+19-8	2423-2424	I	person[177]	giv:inact[177]	sal[177]	_	cf2[177]	coref	20-1[183_177]	
+19-9	2425-2429	feel	_	_	_	_		_	_	
+19-10	2430-2434	like	_	_	_	_		_	_	
+19-11	2435-2438	the	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-12	2439-2449	assumption	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-13	2450-2454	that	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-14	2455-2460	every	abstract[179]|person[180]	new[179]|giv:act[180]	nonsal[179]|nonsal[180]	_	cf3[179]|cf1[180]	_	_	
+19-15	2461-2470	introvert	abstract[179]|person[180]	new[179]|giv:act[180]	nonsal[179]|nonsal[180]	_	cf3[179]|cf1[180]	_	_	
+19-16	2471-2473	is	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-17	2474-2482	secretly	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-18	2483-2491	socially	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-19	2492-2499	awesome	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-20	2500-2501	,	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-21	2502-2507	funny	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-22	2508-2511	and	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-23	2512-2519	overall	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-24	2520-2523	the	abstract[179]|abstract[181]	new[179]|new[181]	nonsal[179]|nonsal[181]	_	cf3[179]|cf4[181]	_	_	
+19-25	2524-2528	life	abstract[179]|abstract[181]	new[179]|new[181]	nonsal[179]|nonsal[181]	_	cf3[179]|cf4[181]	_	_	
+19-26	2529-2531	of	abstract[179]|abstract[181]	new[179]|new[181]	nonsal[179]|nonsal[181]	_	cf3[179]|cf4[181]	_	_	
+19-27	2532-2535	the	abstract[179]|abstract[181]|event[182]	new[179]|new[181]|new[182]	nonsal[179]|nonsal[181]|nonsal[182]	_	cf3[179]|cf4[181]|cf5[182]	_	_	
+19-28	2536-2541	party	abstract[179]|abstract[181]|event[182]	new[179]|new[181]|new[182]	nonsal[179]|nonsal[181]|nonsal[182]	_	cf3[179]|cf4[181]|cf5[182]	_	_	
+19-29	2542-2545	but	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-30	2546-2550	just	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-31	2551-2555	does	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-32	2556-2559	n't	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-33	2560-2564	want	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-34	2565-2567	to	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-35	2568-2573	right	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-36	2574-2577	now	abstract[179]	new[179]	nonsal[179]	_	cf3[179]	_	_	
+19-37	2578-2581	can	_	_	_	_		_	_	
+19-38	2582-2584	be	_	_	_	_		_	_	
+19-39	2585-2593	damaging	_	_	_	_		_	_	
+19-40	2594-2596	as	_	_	_	_		_	_	
+19-41	2597-2601	well	_	_	_	_		_	_	
+19-42	2602-2603	.	_	_	_	_		_	_	
+
+#Text=Source : Am awkward introvert redditor .
+20-1	2604-2610	Source	person[183]	giv:act[183]	sal[183]	_	cf1*[183]	coref	20-4[185_183]	
+20-2	2611-2612	:	_	_	_	_		_	_	
+20-3	2613-2615	Am	_	_	_	_		_	_	
+20-4	2616-2623	awkward	person[185]	giv:act[185]	sal[185]	_	cf1*[185]	_	_	
+20-5	2624-2633	introvert	person[185]	giv:act[185]	sal[185]	_	cf1*[185]	_	_	
+20-6	2634-2642	redditor	person[185]	giv:act[185]	sal[185]	_	cf1*[185]	_	_	
+20-7	2643-2644	.	_	_	_	_		_	_	
+
+#Text=Introverts are different between themselves .
+21-1	2645-2655	Introverts	person[186]	new[186]	nonsal[186]	_	cf1[186]	ana	21-5[187_186]	
+21-2	2656-2659	are	_	_	_	_		_	_	
+21-3	2660-2669	different	_	_	_	_		_	_	
+21-4	2670-2677	between	_	_	_	_		_	_	
+21-5	2678-2688	themselves	person[187]	giv:act[187]	nonsal[187]	_	cf1[187]	_	_	
+21-6	2689-2690	.	_	_	_	_		_	_	
+
+#Text=For example I consider myself an introvert with " short range extroversion capabilities " .
+22-1	2691-2694	For	_	_	_	_		_	_	
+22-2	2695-2702	example	_	_	_	_		_	_	
+22-3	2703-2704	I	person[188]	acc:com[188]	sal[188]	_	cf1[188]	ana	22-5[189_188]	
+22-4	2705-2713	consider	_	_	_	_		_	_	
+22-5	2714-2720	myself	person[189]	giv:act[189]	sal[189]	_	cf1[189]	coref	22-6[194_189]	
+22-6	2721-2723	an	person[194]	giv:act[194]	sal[194]	_	cf1[194]	ana	23-1[197_194]	
+22-7	2724-2733	introvert	person[194]	giv:act[194]	sal[194]	_	cf1[194]	_	_	
+22-8	2734-2738	with	person[194]	giv:act[194]	sal[194]	_	cf1[194]	_	_	
+22-9	2739-2740	"	person[194]	giv:act[194]	sal[194]	_	cf1[194]	_	_	
+22-10	2741-2746	short	person[194]|abstract[195]	giv:act[194]|new[195]	sal[194]|nonsal[195]	_	cf1[194]|cf2[195]	_	_	
+22-11	2747-2752	range	person[194]|abstract[195]	giv:act[194]|new[195]	sal[194]|nonsal[195]	_	cf1[194]|cf2[195]	_	_	
+22-12	2753-2765	extroversion	person[194]|abstract[195]|abstract[196]	giv:act[194]|new[195]|new[196]	sal[194]|nonsal[195]|nonsal[196]	_	cf1[194]|cf2[195]|cf3[196]	_	_	
+22-13	2766-2778	capabilities	person[194]|abstract[195]	giv:act[194]|new[195]	sal[194]|nonsal[195]	_	cf1[194]|cf2[195]	_	_	
+22-14	2779-2780	"	person[194]	giv:act[194]	sal[194]	_	cf1[194]	_	_	
+22-15	2781-2782	.	_	_	_	_		_	_	
+
+#Text=I can go to a party , have fun while there , can be talkative and likeable .
+23-1	2783-2784	I	person[197]	giv:act[197]	sal[197]	_	cf1*[197]	ana	24-7[206_197]	
+23-2	2785-2788	can	_	_	_	_		_	_	
+23-3	2789-2791	go	_	_	_	_		_	_	
+23-4	2792-2794	to	_	_	_	_		_	_	
+23-5	2795-2796	a	event[200]	new[200]	nonsal[200]	_	cf3[200]	coref	24-12[208_200]	
+23-6	2797-2802	party	event[200]	new[200]	nonsal[200]	_	cf3[200]	_	_	
+23-7	2803-2804	,	_	_	_	_		_	_	
+23-8	2805-2809	have	_	_	_	_		_	_	
+23-9	2810-2813	fun	abstract[201]	new[201]	nonsal[201]	_	cf2[201]	_	_	
+23-10	2814-2819	while	_	_	_	_		_	_	
+23-11	2820-2825	there	_	_	_	_		_	_	
+23-12	2826-2827	,	_	_	_	_		_	_	
+23-13	2828-2831	can	_	_	_	_		_	_	
+23-14	2832-2834	be	_	_	_	_		_	_	
+23-15	2835-2844	talkative	_	_	_	_		_	_	
+23-16	2845-2848	and	_	_	_	_		_	_	
+23-17	2849-2857	likeable	_	_	_	_		_	_	
+23-18	2858-2859	.	_	_	_	_		_	_	
+
+#Text=New people often get the idea I 'm kinda soul of the party because of my jokes , etc.
+24-1	2860-2863	New	event[203]|person[204]	new[203]|new[204]	nonsal[203]|nonsal[204]	_	cf6[203]|cf3[204]	disc	25-1[211_203]	
+24-2	2864-2870	people	event[203]|person[204]	new[203]|new[204]	nonsal[203]|nonsal[204]	_	cf6[203]|cf3[204]	_	_	
+24-3	2871-2876	often	event[203]	new[203]	nonsal[203]	_	cf6[203]	_	_	
+24-4	2877-2880	get	event[203]	new[203]	nonsal[203]	_	cf6[203]	_	_	
+24-5	2881-2884	the	event[203]|abstract[205]	new[203]|new[205]	nonsal[203]|nonsal[205]	_	cf6[203]|cf4[205]	_	_	
+24-6	2885-2889	idea	event[203]|abstract[205]	new[203]|new[205]	nonsal[203]|nonsal[205]	_	cf6[203]|cf4[205]	_	_	
+24-7	2890-2891	I	event[203]|abstract[205]|person[206]	new[203]|new[205]|giv:act[206]	nonsal[203]|nonsal[205]|sal[206]	_	cf6[203]|cf4[205]|cf1*[206]	ana	24-16[210_206]	
+24-8	2892-2894	'm	event[203]|abstract[205]	new[203]|new[205]	nonsal[203]|nonsal[205]	_	cf6[203]|cf4[205]	_	_	
+24-9	2895-2900	kinda	event[203]|abstract[205]	new[203]|new[205]	nonsal[203]|nonsal[205]	_	cf6[203]|cf4[205]	_	_	
+24-10	2901-2905	soul	event[203]|abstract[205]	new[203]|new[205]	nonsal[203]|nonsal[205]	_	cf6[203]|cf4[205]	_	_	
+24-11	2906-2908	of	event[203]|abstract[205]	new[203]|new[205]	nonsal[203]|nonsal[205]	_	cf6[203]|cf4[205]	_	_	
+24-12	2909-2912	the	event[203]|abstract[205]|event[208]	new[203]|new[205]|giv:act[208]	nonsal[203]|nonsal[205]|nonsal[208]	_	cf6[203]|cf4[205]|cf2[208]	_	_	
+24-13	2913-2918	party	event[203]|abstract[205]|event[208]	new[203]|new[205]|giv:act[208]	nonsal[203]|nonsal[205]|nonsal[208]	_	cf6[203]|cf4[205]|cf2[208]	_	_	
+24-14	2919-2926	because	event[203]	new[203]	nonsal[203]	_	cf6[203]	_	_	
+24-15	2927-2929	of	event[203]	new[203]	nonsal[203]	_	cf6[203]	_	_	
+24-16	2930-2932	my	event[203]|abstract[209]|person[210]	new[203]|new[209]|giv:act[210]	nonsal[203]|nonsal[209]|sal[210]	_	cf6[203]|cf5[209]|cf1*[210]	ana	25-5[212_210]	
+24-17	2933-2938	jokes	event[203]|abstract[209]	new[203]|new[209]	nonsal[203]|nonsal[209]	_	cf6[203]|cf5[209]	_	_	
+24-18	2939-2940	,	event[203]	new[203]	nonsal[203]	_	cf6[203]	_	_	
+24-19	2941-2945	etc.	event[203]	new[203]	nonsal[203]	_	cf6[203]	_	_	
+
+#Text=That being said , I 'm usually the first one to leave any party ( extremely rarely go anywhere for longer than 3 - 4 hours ) , I hate sleepovers , prefering to drive home alone at night for two hours if needed , and I do n't want another party for a month or two .
+25-1	2946-2950	That	event[211]	giv:act[211]	nonsal[211]	_	cf2[211]	_	_	
+25-2	2951-2956	being	_	_	_	_		_	_	
+25-3	2957-2961	said	_	_	_	_		_	_	
+25-4	2962-2963	,	_	_	_	_		_	_	
+25-5	2964-2965	I	person[212]	giv:act[212]	sal[212]	_	cf1*[212]	coref	25-8[216_212]	
+25-6	2966-2968	'm	_	_	_	_		_	_	
+25-7	2969-2976	usually	_	_	_	_		_	_	
+25-8	2977-2980	the	person[216]	giv:act[216]	sal[216]	_	cf1*[216]	ana	25-29[222_216]	
+25-9	2981-2986	first	person[216]	giv:act[216]	sal[216]	_	cf1*[216]	_	_	
+25-10	2987-2990	one	person[216]	giv:act[216]	sal[216]	_	cf1*[216]	_	_	
+25-11	2991-2993	to	person[216]	giv:act[216]	sal[216]	_	cf1*[216]	_	_	
+25-12	2994-2999	leave	person[216]	giv:act[216]	sal[216]	_	cf1*[216]	_	_	
+25-13	3000-3003	any	person[216]|event[217]	giv:act[216]|new[217]	sal[216]|nonsal[217]	_	cf1*[216]|cf4[217]	_	_	
+25-14	3004-3009	party	person[216]|event[217]	giv:act[216]|new[217]	sal[216]|nonsal[217]	_	cf1*[216]|cf4[217]	_	_	
+25-15	3010-3011	(	_	_	_	_		_	_	
+25-16	3012-3021	extremely	_	_	_	_		_	_	
+25-17	3022-3028	rarely	_	_	_	_		_	_	
+25-18	3029-3031	go	_	_	_	_		_	_	
+25-19	3032-3040	anywhere	place[218]	new[218]	nonsal[218]	_	cf12[218]	_	_	
+25-20	3041-3044	for	_	_	_	_		_	_	
+25-21	3045-3051	longer	time[220]	new[220]	nonsal[220]	_	cf7[220]	_	_	
+25-22	3052-3056	than	time[220]	new[220]	nonsal[220]	_	cf7[220]	_	_	
+25-23	3057-3058	3	time[220]|time[221]	new[220]|new[221]	nonsal[220]|nonsal[221]	_	cf7[220]|cf8[221]	_	_	
+25-24	3059-3060	-	time[220]|time[221]	new[220]|new[221]	nonsal[220]|nonsal[221]	_	cf7[220]|cf8[221]	_	_	
+25-25	3061-3062	4	time[220]|time[221]	new[220]|new[221]	nonsal[220]|nonsal[221]	_	cf7[220]|cf8[221]	_	_	
+25-26	3063-3068	hours	time[220]|time[221]	new[220]|new[221]	nonsal[220]|nonsal[221]	_	cf7[220]|cf8[221]	_	_	
+25-27	3069-3070	)	_	_	_	_		_	_	
+25-28	3071-3072	,	_	_	_	_		_	_	
+25-29	3073-3074	I	person[222]	giv:act[222]	sal[222]	_	cf1*[222]	ana	25-47[231_222]	
+25-30	3075-3079	hate	_	_	_	_		_	_	
+25-31	3080-3090	sleepovers	event[223]	new[223]	nonsal[223]	_	cf5[223]	_	_	
+25-32	3091-3092	,	_	_	_	_		_	_	
+25-33	3093-3102	prefering	_	_	_	_		_	_	
+25-34	3103-3105	to	_	_	_	_		_	_	
+25-35	3106-3111	drive	_	_	_	_		_	_	
+25-36	3112-3116	home	place[224]	new[224]	nonsal[224]	_	cf13[224]	_	_	
+25-37	3117-3122	alone	_	_	_	_		_	_	
+25-38	3123-3125	at	_	_	_	_		_	_	
+25-39	3126-3131	night	time[225]	new[225]	nonsal[225]	_	cf9[225]	_	_	
+25-40	3132-3135	for	_	_	_	_		_	_	
+25-41	3136-3139	two	time[230]	new[230]	nonsal[230]	_	cf10[230]	_	_	
+25-42	3140-3145	hours	time[230]	new[230]	nonsal[230]	_	cf10[230]	_	_	
+25-43	3146-3148	if	_	_	_	_		_	_	
+25-44	3149-3155	needed	_	_	_	_		_	_	
+25-45	3156-3157	,	_	_	_	_		_	_	
+25-46	3158-3161	and	_	_	_	_		_	_	
+25-47	3162-3163	I	person[231]	giv:act[231]	sal[231]	_	cf1*[231]	ana	26-3[237_231]	
+25-48	3164-3166	do	_	_	_	_		_	_	
+25-49	3167-3170	n't	_	_	_	_		_	_	
+25-50	3171-3175	want	_	_	_	_		_	_	
+25-51	3176-3183	another	event[233]	new[233]	nonsal[233]	_	cf6[233]	_	_	
+25-52	3184-3189	party	event[233]	new[233]	nonsal[233]	_	cf6[233]	_	_	
+25-53	3190-3193	for	_	_	_	_		_	_	
+25-54	3194-3195	a	time[234]	new[234]	nonsal[234]	_	cf11[234]	bridge:other	25-57[235_234]	
+25-55	3196-3201	month	time[234]	new[234]	nonsal[234]	_	cf11[234]	_	_	
+25-56	3202-3204	or	_	_	_	_		_	_	
+25-57	3205-3208	two	time[235]	acc:inf[235]	nonsal[235]	_	cf3[235]	_	_	
+25-58	3209-3210	.	_	_	_	_		_	_	
+
+#Text=At work I have luck to sit alone in my office ( two colleagues of mine took maternity leave and they wo n't return in more than a year ; it 's not the US ) .
+26-1	3211-3213	At	_	_	_	_		_	_	
+26-2	3214-3218	work	place[236]	new[236]	nonsal[236]	_	cf6[236]	_	_	
+26-3	3219-3220	I	person[237]	giv:act[237]	sal[237]	_	cf1*[237]	ana	26-10[244_237]	
+26-4	3221-3225	have	_	_	_	_		_	_	
+26-5	3226-3230	luck	abstract[238]	new[238]	nonsal[238]	_	cf4[238]	_	_	
+26-6	3231-3233	to	_	_	_	_		_	_	
+26-7	3234-3237	sit	_	_	_	_		_	_	
+26-8	3238-3243	alone	_	_	_	_		_	_	
+26-9	3244-3246	in	_	_	_	_		_	_	
+26-10	3247-3249	my	place[243]|person[244]	new[243]|giv:act[244]	nonsal[243]|sal[244]	_	cf7[243]|cf1*[244]	ana	26-16[247_244]	
+26-11	3250-3256	office	place[243]	new[243]	nonsal[243]	_	cf7[243]	_	_	
+26-12	3257-3258	(	_	_	_	_		_	_	
+26-13	3259-3262	two	person[246]	new[246]	nonsal[246]	_	cf2[246]	ana	26-21[251_246]	
+26-14	3263-3273	colleagues	person[246]	new[246]	nonsal[246]	_	cf2[246]	_	_	
+26-15	3274-3276	of	person[246]	new[246]	nonsal[246]	_	cf2[246]	_	_	
+26-16	3277-3281	mine	person[246]|person[247]	new[246]|giv:act[247]	nonsal[246]|sal[247]	_	cf2[246]|cf1*[247]	ana	27-6[259_247]	
+26-17	3282-3286	took	_	_	_	_		_	_	
+26-18	3287-3296	maternity	event[249]|abstract[250]	new[249]|new[250]	nonsal[249]|nonsal[250]	_	cf5[249]|cf9[250]	_	_	
+26-19	3297-3302	leave	event[249]	new[249]	nonsal[249]	_	cf5[249]	_	_	
+26-20	3303-3306	and	_	_	_	_		_	_	
+26-21	3307-3311	they	person[251]	giv:act[251]	nonsal[251]	_	cf2[251]	_	_	
+26-22	3312-3314	wo	_	_	_	_		_	_	
+26-23	3315-3318	n't	_	_	_	_		_	_	
+26-24	3319-3325	return	_	_	_	_		_	_	
+26-25	3326-3328	in	_	_	_	_		_	_	
+26-26	3329-3333	more	_	_	_	_		_	_	
+26-27	3334-3338	than	_	_	_	_		_	_	
+26-28	3339-3340	a	time[254]	new[254]	nonsal[254]	_	cf8[254]	_	_	
+26-29	3341-3345	year	time[254]	new[254]	nonsal[254]	_	cf8[254]	_	_	
+26-30	3346-3347	;	_	_	_	_		_	_	
+26-31	3348-3350	it	place[255]	new[255]	nonsal[255]	United_States[255]	cf3[255]	_	_	
+26-32	3351-3353	's	_	_	_	_		_	_	
+26-33	3354-3357	not	_	_	_	_		_	_	
+26-34	3358-3361	the	place[257]	new[257]	nonsal[257]	United_States[257]	cf3[257]	cata	26-31[255_257]	
+26-35	3362-3364	US	place[257]	new[257]	nonsal[257]	United_States[257]	cf3[257]	_	_	
+26-36	3365-3366	)	_	_	_	_		_	_	
+26-37	3367-3368	.	_	_	_	_		_	_	
+
+#Text=Other colleagues often disturb visit me to ask if it 's not sad for me to sit alone .
+27-1	3369-3374	Other	person[258]	new[258]	nonsal[258]	_	cf3[258]	_	_	
+27-2	3375-3385	colleagues	person[258]	new[258]	nonsal[258]	_	cf3[258]	_	_	
+27-3	3386-3391	often	_	_	_	_		_	_	
+27-4	3392-3399	disturb	_	_	_	_		_	_	
+27-5	3400-3405	visit	_	_	_	_		_	_	
+27-6	3406-3408	me	person[259]	giv:act[259]	sal[259]	_	cf1*[259]	ana	27-15[261_259]	
+27-7	3409-3411	to	_	_	_	_		_	_	
+27-8	3412-3415	ask	_	_	_	_		_	_	
+27-9	3416-3418	if	_	_	_	_		_	_	
+27-10	3419-3421	it	event[260]	new[260]	nonsal[260]	_	cf2[260]	_	_	
+27-11	3422-3424	's	_	_	_	_		_	_	
+27-12	3425-3428	not	_	_	_	_		_	_	
+27-13	3429-3432	sad	_	_	_	_		_	_	
+27-14	3433-3436	for	_	_	_	_		_	_	
+27-15	3437-3439	me	person[261]	giv:act[261]	sal[261]	_	cf1*[261]	_	_	
+27-16	3440-3442	to	event[265]	acc:com[265]	nonsal[265]	_	cf2[265]	disc|cata	28-5[266_265]|27-10[260_265]	
+27-17	3443-3446	sit	event[265]	acc:com[265]	nonsal[265]	_	cf2[265]	_	_	
+27-18	3447-3452	alone	event[265]	acc:com[265]	nonsal[265]	_	cf2[265]	_	_	
+27-19	3453-3454	.	_	_	_	_		_	_	
+
+#Text=No , God , it 's fantastic .
+28-1	3455-3457	No	_	_	_	_		_	_	
+28-2	3458-3459	,	_	_	_	_		_	_	
+28-3	3460-3463	God	_	_	_	_		_	_	
+28-4	3464-3465	,	_	_	_	_		_	_	
+28-5	3466-3468	it	event[266]	giv:act[266]	nonsal[266]	_	cf1*[266]	_	_	
+28-6	3469-3471	's	_	_	_	_		_	_	
+28-7	3472-3481	fantastic	_	_	_	_		_	_	
+28-8	3482-3483	.	_	_	_	_		_	_	
+
+#Text=My battery depends on how I feel overall but that usually means I can do 10 mins in the kitchen with my roommates before I 'm tapped , or I can spend a night with 5 people in a smallish room while crushing them in gaming for a few hours .
+29-1	3484-3486	My	abstract[268]|abstract[269]|person[270]	new[268]|new[269]|acc:com[270]	nonsal[268]|nonsal[269]|sal[270]	_	cf2[268]|cf4[269]|cf1[270]	disc|coref|ana	29-10[272_268]|32-3[315_269]|29-6[271_270]	
+29-2	3487-3494	battery	abstract[268]|abstract[269]	new[268]|new[269]	nonsal[268]|nonsal[269]	_	cf2[268]|cf4[269]	_	_	
+29-3	3495-3502	depends	abstract[268]	new[268]	nonsal[268]	_	cf2[268]	_	_	
+29-4	3503-3505	on	abstract[268]	new[268]	nonsal[268]	_	cf2[268]	_	_	
+29-5	3506-3509	how	abstract[268]	new[268]	nonsal[268]	_	cf2[268]	_	_	
+29-6	3510-3511	I	abstract[268]|person[271]	new[268]|giv:act[271]	nonsal[268]|sal[271]	_	cf2[268]|cf1[271]	ana	29-13[273_271]	
+29-7	3512-3516	feel	abstract[268]	new[268]	nonsal[268]	_	cf2[268]	_	_	
+29-8	3517-3524	overall	abstract[268]	new[268]	nonsal[268]	_	cf2[268]	_	_	
+29-9	3525-3528	but	_	_	_	_		_	_	
+29-10	3529-3533	that	abstract[272]	giv:act[272]	nonsal[272]	_	cf2[272]	_	_	
+29-11	3534-3541	usually	_	_	_	_		_	_	
+29-12	3542-3547	means	_	_	_	_		_	_	
+29-13	3548-3549	I	person[273]	giv:act[273]	sal[273]	_	cf1[273]	ana	29-22[282_273]	
+29-14	3550-3553	can	_	_	_	_		_	_	
+29-15	3554-3556	do	_	_	_	_		_	_	
+29-16	3557-3559	10	event[278]|time[279]	new[278]|new[279]	nonsal[278]|nonsal[279]	_	cf9[278]|cf5[279]	bridge:aggr	30-1[297_278]	
+29-17	3560-3564	mins	event[278]|time[279]	new[278]|new[279]	nonsal[278]|nonsal[279]	_	cf9[278]|cf5[279]	_	_	
+29-18	3565-3567	in	event[278]	new[278]	nonsal[278]	_	cf9[278]	_	_	
+29-19	3568-3571	the	event[278]|place[280]	new[278]|new[280]	nonsal[278]|nonsal[280]	_	cf9[278]|cf7[280]	_	_	
+29-20	3572-3579	kitchen	event[278]|place[280]	new[278]|new[280]	nonsal[278]|nonsal[280]	_	cf9[278]|cf7[280]	_	_	
+29-21	3580-3584	with	event[278]	new[278]	nonsal[278]	_	cf9[278]	_	_	
+29-22	3585-3587	my	event[278]|person[281]|person[282]	new[278]|new[281]|giv:act[282]	nonsal[278]|nonsal[281]|sal[282]	_	cf9[278]|cf8[281]|cf1[282]	coref|ana	31-16[309_281]|29-25[283_282]	
+29-23	3588-3597	roommates	event[278]|person[281]	new[278]|new[281]	nonsal[278]|nonsal[281]	_	cf9[278]|cf8[281]	_	_	
+29-24	3598-3604	before	_	_	_	_		_	_	
+29-25	3605-3606	I	person[283]	giv:act[283]	sal[283]	_	cf1[283]	ana	29-30[284_283]	
+29-26	3607-3609	'm	_	_	_	_		_	_	
+29-27	3610-3616	tapped	_	_	_	_		_	_	
+29-28	3617-3618	,	_	_	_	_		_	_	
+29-29	3619-3621	or	_	_	_	_		_	_	
+29-30	3622-3623	I	person[284]	giv:act[284]	sal[284]	_	cf1[284]	ana	30-6[298_284]	
+29-31	3624-3627	can	_	_	_	_		_	_	
+29-32	3628-3633	spend	event[288]	new[288]	nonsal[288]	_	cf13[288]	bridge:aggr	30-1[297_288]	
+29-33	3634-3635	a	event[288]|time[289]	new[288]|new[289]	nonsal[288]|nonsal[289]	_	cf13[288]|cf6[289]	_	_	
+29-34	3636-3641	night	event[288]|time[289]	new[288]|new[289]	nonsal[288]|nonsal[289]	_	cf13[288]|cf6[289]	_	_	
+29-35	3642-3646	with	event[288]	new[288]	nonsal[288]	_	cf13[288]	_	_	
+29-36	3647-3648	5	event[288]|person[290]	new[288]|new[290]	nonsal[288]|nonsal[290]	_	cf13[288]|cf3[290]	ana	29-44[292_290]	
+29-37	3649-3655	people	event[288]|person[290]	new[288]|new[290]	nonsal[288]|nonsal[290]	_	cf13[288]|cf3[290]	_	_	
+29-38	3656-3658	in	event[288]	new[288]	nonsal[288]	_	cf13[288]	_	_	
+29-39	3659-3660	a	event[288]|place[291]	new[288]|new[291]	nonsal[288]|nonsal[291]	_	cf13[288]|cf10[291]	_	_	
+29-40	3661-3669	smallish	event[288]|place[291]	new[288]|new[291]	nonsal[288]|nonsal[291]	_	cf13[288]|cf10[291]	_	_	
+29-41	3670-3674	room	event[288]|place[291]	new[288]|new[291]	nonsal[288]|nonsal[291]	_	cf13[288]|cf10[291]	_	_	
+29-42	3675-3680	while	event[288]	new[288]	nonsal[288]	_	cf13[288]	_	_	
+29-43	3681-3689	crushing	event[288]	new[288]	nonsal[288]	_	cf13[288]	_	_	
+29-44	3690-3694	them	event[288]|person[292]	new[288]|giv:act[292]	nonsal[288]|nonsal[292]	_	cf13[288]|cf3[292]	_	_	
+29-45	3695-3697	in	event[288]	new[288]	nonsal[288]	_	cf13[288]	_	_	
+29-46	3698-3704	gaming	event[288]|event[293]	new[288]|new[293]	nonsal[288]|nonsal[293]	_	cf13[288]|cf11[293]	_	_	
+29-47	3705-3708	for	event[288]	new[288]	nonsal[288]	_	cf13[288]	_	_	
+29-48	3709-3710	a	event[288]|time[296]	new[288]|new[296]	nonsal[288]|nonsal[296]	_	cf13[288]|cf12[296]	_	_	
+29-49	3711-3714	few	event[288]|time[296]	new[288]|new[296]	nonsal[288]|nonsal[296]	_	cf13[288]|cf12[296]	_	_	
+29-50	3715-3720	hours	event[288]|time[296]	new[288]|new[296]	nonsal[288]|nonsal[296]	_	cf13[288]|cf12[296]	_	_	
+29-51	3721-3722	.	_	_	_	_		_	_	
+
+#Text=Both of those will drain me , but the charging for both also highly depend on I feel again .
+30-1	3723-3727	Both	event[297]	acc:aggr[297]	nonsal[297]	_	cf2[297]	ana	30-12[301_297]	
+30-2	3728-3730	of	event[297]	acc:aggr[297]	nonsal[297]	_	cf2[297]	_	_	
+30-3	3731-3736	those	event[297]	acc:aggr[297]	nonsal[297]	_	cf2[297]	_	_	
+30-4	3737-3741	will	_	_	_	_		_	_	
+30-5	3742-3747	drain	_	_	_	_		_	_	
+30-6	3748-3750	me	person[298]	giv:act[298]	sal[298]	_	cf1*[298]	ana	30-17[302_298]	
+30-7	3751-3752	,	_	_	_	_		_	_	
+30-8	3753-3756	but	_	_	_	_		_	_	
+30-9	3757-3760	the	event[300]	new[300]	nonsal[300]	_	cf3[300]	_	_	
+30-10	3761-3769	charging	event[300]	new[300]	nonsal[300]	_	cf3[300]	_	_	
+30-11	3770-3773	for	event[300]	new[300]	nonsal[300]	_	cf3[300]	_	_	
+30-12	3774-3778	both	event[300]|event[301]	new[300]|giv:act[301]	nonsal[300]|nonsal[301]	_	cf3[300]|cf2[301]	_	_	
+30-13	3779-3783	also	_	_	_	_		_	_	
+30-14	3784-3790	highly	_	_	_	_		_	_	
+30-15	3791-3797	depend	_	_	_	_		_	_	
+30-16	3798-3800	on	_	_	_	_		_	_	
+30-17	3801-3802	I	person[302]	giv:act[302]	sal[302]	_	cf1*[302]	ana	31-4[306_302]	
+30-18	3803-3807	feel	_	_	_	_		_	_	
+30-19	3808-3813	again	_	_	_	_		_	_	
+30-20	3814-3815	.	_	_	_	_		_	_	
+
+#Text=The other night I was able to spend 2 hrs just chilling and talking with the roommates and some guests they had over ,
+31-1	3816-3819	The	time[305]	new[305]	nonsal[305]	_	cf4[305]	_	_	
+31-2	3820-3825	other	time[305]	new[305]	nonsal[305]	_	cf4[305]	_	_	
+31-3	3826-3831	night	time[305]	new[305]	nonsal[305]	_	cf4[305]	_	_	
+31-4	3832-3833	I	person[306]	giv:act[306]	sal[306]	_	cf1*[306]	ana	32-1[312_306]	
+31-5	3834-3837	was	_	_	_	_		_	_	
+31-6	3838-3842	able	_	_	_	_		_	_	
+31-7	3843-3845	to	_	_	_	_		_	_	
+31-8	3846-3851	spend	_	_	_	_		_	_	
+31-9	3852-3853	2	time[308]	new[308]	nonsal[308]	_	cf3[308]	_	_	
+31-10	3854-3857	hrs	time[308]	new[308]	nonsal[308]	_	cf3[308]	_	_	
+31-11	3858-3862	just	_	_	_	_		_	_	
+31-12	3863-3871	chilling	_	_	_	_		_	_	
+31-13	3872-3875	and	_	_	_	_		_	_	
+31-14	3876-3883	talking	_	_	_	_		_	_	
+31-15	3884-3888	with	_	_	_	_		_	_	
+31-16	3889-3892	the	person[309]	giv:inact[309]	nonsal[309]	_	cf2[309]	ana	31-21[311_309]	
+31-17	3893-3902	roommates	person[309]	giv:inact[309]	nonsal[309]	_	cf2[309]	_	_	
+31-18	3903-3906	and	_	_	_	_		_	_	
+31-19	3907-3911	some	person[310]	new[310]	nonsal[310]	_	cf5[310]	coref	32-20[327_310]	
+31-20	3912-3918	guests	person[310]	new[310]	nonsal[310]	_	cf5[310]	_	_	
+31-21	3919-3923	they	person[311]	giv:act[311]	nonsal[311]	_	cf2[311]	_	_	
+31-22	3924-3927	had	_	_	_	_		_	_	
+31-23	3928-3932	over	_	_	_	_		_	_	
+31-24	3933-3934	,	_	_	_	_		_	_	
+
+#Text=I knew my battery was close to being dead but I forced myself past my limit because one of the guests is attractive and I wanted a chance to flirt .
+32-1	3935-3936	I	person[312]	giv:act[312]	sal[312]	_	cf1*[312]	ana	32-3[316_312]	
+32-2	3937-3941	knew	_	_	_	_		_	_	
+32-3	3942-3944	my	abstract[315]|person[316]	giv:inact[315]|giv:act[316]	nonsal[315]|sal[316]	_	cf3[315]|cf1*[316]	ana	32-11[319_316]	
+32-4	3945-3952	battery	abstract[315]	giv:inact[315]	nonsal[315]	_	cf3[315]	_	_	
+32-5	3953-3956	was	_	_	_	_		_	_	
+32-6	3957-3962	close	_	_	_	_		_	_	
+32-7	3963-3965	to	_	_	_	_		_	_	
+32-8	3966-3971	being	_	_	_	_		_	_	
+32-9	3972-3976	dead	_	_	_	_		_	_	
+32-10	3977-3980	but	_	_	_	_		_	_	
+32-11	3981-3982	I	event[318]|person[319]	new[318]|giv:act[319]	nonsal[318]|sal[319]	_	cf7[318]|cf1*[319]	disc|ana	33-2[331_318]|32-13[320_319]	
+32-12	3983-3989	forced	event[318]	new[318]	nonsal[318]	_	cf7[318]	_	_	
+32-13	3990-3996	myself	event[318]|person[320]	new[318]|giv:act[320]	nonsal[318]|sal[320]	_	cf7[318]|cf1*[320]	ana	32-15[324_320]	
+32-14	3997-4001	past	event[318]	new[318]	nonsal[318]	_	cf7[318]	_	_	
+32-15	4002-4004	my	event[318]|abstract[323]|person[324]	new[318]|new[323]|giv:act[324]	nonsal[318]|nonsal[323]|sal[324]	_	cf7[318]|cf6[323]|cf1*[324]	ana	32-25[328_324]	
+32-16	4005-4010	limit	event[318]|abstract[323]	new[318]|new[323]	nonsal[318]|nonsal[323]	_	cf7[318]|cf6[323]	_	_	
+32-17	4011-4018	because	_	_	_	_		_	_	
+32-18	4019-4022	one	person[326]	new[326]	nonsal[326]	_	cf4[326]	_	_	
+32-19	4023-4025	of	person[326]	new[326]	nonsal[326]	_	cf4[326]	_	_	
+32-20	4026-4029	the	person[326]|person[327]	new[326]|giv:act[327]	nonsal[326]|nonsal[327]	_	cf4[326]|cf2[327]	_	_	
+32-21	4030-4036	guests	person[326]|person[327]	new[326]|giv:act[327]	nonsal[326]|nonsal[327]	_	cf4[326]|cf2[327]	_	_	
+32-22	4037-4039	is	_	_	_	_		_	_	
+32-23	4040-4050	attractive	_	_	_	_		_	_	
+32-24	4051-4054	and	_	_	_	_		_	_	
+32-25	4055-4056	I	person[328]	giv:act[328]	sal[328]	_	cf1*[328]	ana	33-14[336_328]	
+32-26	4057-4063	wanted	_	_	_	_		_	_	
+32-27	4064-4065	a	abstract[330]	new[330]	nonsal[330]	_	cf5[330]	_	_	
+32-28	4066-4072	chance	abstract[330]	new[330]	nonsal[330]	_	cf5[330]	_	_	
+32-29	4073-4075	to	abstract[330]	new[330]	nonsal[330]	_	cf5[330]	_	_	
+32-30	4076-4081	flirt	abstract[330]	new[330]	nonsal[330]	_	cf5[330]	_	_	
+32-31	4082-4083	.	_	_	_	_		_	_	
+
+#Text=Regretting it still , because even though it 's been like two days I do n't feel there is a healthy enough charge to engage with people again .
+33-1	4084-4094	Regretting	_	_	_	_		_	_	
+33-2	4095-4097	it	event[331]	giv:act[331]	nonsal[331]	_	cf2[331]	_	_	
+33-3	4098-4103	still	_	_	_	_		_	_	
+33-4	4104-4105	,	_	_	_	_		_	_	
+33-5	4106-4113	because	_	_	_	_		_	_	
+33-6	4114-4118	even	_	_	_	_		_	_	
+33-7	4119-4125	though	_	_	_	_		_	_	
+33-8	4126-4128	it	time[332]	new[332]	nonsal[332]	_	cf3[332]	_	_	
+33-9	4129-4131	's	_	_	_	_		_	_	
+33-10	4132-4136	been	_	_	_	_		_	_	
+33-11	4137-4141	like	_	_	_	_		_	_	
+33-12	4142-4145	two	time[335]	new[335]	nonsal[335]	_	cf3[335]	cata	33-8[332_335]	
+33-13	4146-4150	days	time[335]	new[335]	nonsal[335]	_	cf3[335]	_	_	
+33-14	4151-4152	I	person[336]	giv:act[336]	sal[336]	_	cf1*[336]	_	_	
+33-15	4153-4155	do	_	_	_	_		_	_	
+33-16	4156-4159	n't	_	_	_	_		_	_	
+33-17	4160-4164	feel	_	_	_	_		_	_	
+33-18	4165-4170	there	_	_	_	_		_	_	
+33-19	4171-4173	is	_	_	_	_		_	_	
+33-20	4174-4175	a	abstract[338]	new[338]	nonsal[338]	_	cf4[338]	_	_	
+33-21	4176-4183	healthy	abstract[338]	new[338]	nonsal[338]	_	cf4[338]	_	_	
+33-22	4184-4190	enough	abstract[338]	new[338]	nonsal[338]	_	cf4[338]	_	_	
+33-23	4191-4197	charge	abstract[338]	new[338]	nonsal[338]	_	cf4[338]	_	_	
+33-24	4198-4200	to	_	_	_	_		_	_	
+33-25	4201-4207	engage	_	_	_	_		_	_	
+33-26	4208-4212	with	_	_	_	_		_	_	
+33-27	4213-4219	people	person[339]	new[339]	nonsal[339]	_	cf5[339]	_	_	
+33-28	4220-4225	again	_	_	_	_		_	_	
+33-29	4226-4227	.	_	_	_	_		_	_	
+
+#Text=That 's true
+34-1	4228-4232	That	abstract[340]	giv:inact[340]	nonsal[340]	_	cf1[340]	_	_	
+34-2	4233-4235	's	_	_	_	_		_	_	
+34-3	4236-4240	true	_	_	_	_		_	_	
+
+#Text=there s definitely a trend .
+35-1	4241-4246	there	_	_	_	_		_	_	
+35-2	4247-4248	s	_	_	_	_		_	_	
+35-3	4249-4259	definitely	_	_	_	_		_	_	
+35-4	4260-4261	a	abstract[343]	new[343]	nonsal[343]	_	cf1[343]	_	_	
+35-5	4262-4267	trend	abstract[343]	new[343]	nonsal[343]	_	cf1[343]	_	_	
+35-6	4268-4269	.	_	_	_	_		_	_	
+
+#Text=Someone is n't gon na want to do something that drains them and someone loves to do something that energizes them .
+36-1	4270-4277	Someone	person[344]	new[344]	nonsal[344]	_	cf1[344]	ana	36-12[347_344]	
+36-2	4278-4280	is	_	_	_	_		_	_	
+36-3	4281-4284	n't	_	_	_	_		_	_	
+36-4	4285-4288	gon	_	_	_	_		_	_	
+36-5	4289-4291	na	_	_	_	_		_	_	
+36-6	4292-4296	want	_	_	_	_		_	_	
+36-7	4297-4299	to	_	_	_	_		_	_	
+36-8	4300-4302	do	_	_	_	_		_	_	
+36-9	4303-4312	something	event[346]	new[346]	sal[346]	_	cf3[346]	_	_	
+36-10	4313-4317	that	event[346]	new[346]	sal[346]	_	cf3[346]	_	_	
+36-11	4318-4324	drains	event[346]	new[346]	sal[346]	_	cf3[346]	_	_	
+36-12	4325-4329	them	event[346]|person[347]	new[346]|giv:act[347]	sal[346]|nonsal[347]	_	cf3[346]|cf1[347]	_	_	
+36-13	4330-4333	and	_	_	_	_		_	_	
+36-14	4334-4341	someone	person[348]	new[348]	nonsal[348]	_	cf2[348]	ana	36-21[352_348]	
+36-15	4342-4347	loves	_	_	_	_		_	_	
+36-16	4348-4350	to	_	_	_	_		_	_	
+36-17	4351-4353	do	_	_	_	_		_	_	
+36-18	4354-4363	something	event[351]	new[351]	nonsal[351]	_	cf4[351]	_	_	
+36-19	4364-4368	that	event[351]	new[351]	nonsal[351]	_	cf4[351]	_	_	
+36-20	4369-4378	energizes	event[351]	new[351]	nonsal[351]	_	cf4[351]	_	_	
+36-21	4379-4383	them	event[351]|person[352]	new[351]|giv:act[352]	nonsal[351]|nonsal[352]	_	cf4[351]|cf2[352]	_	_	
+36-22	4384-4385	.	_	_	_	_		_	_	
+
+#Text=Plus the people skill part is spot on
+37-1	4386-4390	Plus	_	_	_	_		_	_	
+37-2	4391-4394	the	abstract[354]	giv:inact[354]	nonsal[354]	_	cf1[354]	_	_	
+37-3	4395-4401	people	abstract[354]|abstract[355]|person[356]	giv:inact[354]|giv:inact[355]|giv:inact[356]	nonsal[354]|nonsal[355]|nonsal[356]	_	cf1[354]|cf3[355]|cf2[356]	_	_	
+37-4	4402-4407	skill	abstract[354]|abstract[355]	giv:inact[354]|giv:inact[355]	nonsal[354]|nonsal[355]	_	cf1[354]|cf3[355]	_	_	
+37-5	4408-4412	part	abstract[354]	giv:inact[354]	nonsal[354]	_	cf1[354]	_	_	
+37-6	4413-4415	is	_	_	_	_		_	_	
+37-7	4416-4420	spot	_	_	_	_		_	_	
+37-8	4421-4423	on	_	_	_	_		_	_	

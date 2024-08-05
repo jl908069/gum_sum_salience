@@ -1,0 +1,1610 @@
+<text id="GUM_news_nasa" partition="test" type="news" sourceURL="https://en.wikinews.org/wiki/NASA_celebrates_30th_anniversary_of_first_shuttle_launch;_announces_new_homes_for_retired_shuttles" dateCreated="2011-04-13" dateCollected="2014-09-15" dateModified="2013-05-05" speakerCount="0" speakerList="none" author="Wikinews" title="NASA celebrates 30th anniversary of first shuttle launch; announces new homes for retired shuttles" shortTitle="nasa" summary="On April 13, 2011, NASA celebrated the Space Shuttle program's 30th anniversary and upcoming final mission at the Kennedy Space Center in Cape Canaveral, Florida, and announced that the remaining three shuttles would be relocated to museums in New York, Washington and Los Angeles, prompting critcism from competing sites." summary2="NASA Administrator Charles Bolden announces where Space Shuttles Enterprise, Discovery, Endeavor, and Atlantis will be retired following the end of the Space Shuttle Program, in which some people were disappointed with the final location decisions.">
+<head>
+<s type="decl" transition="establishment">
+NASA	NP	NASA	NP0	PROPN	nsubj	_
+celebrates	VVZ	celebrate	VVZ	VERB	root	celebrate-s
+30th	JJ	30th	ORD	ADJ	amod	_
+anniversary	NN	anniversary	NN1	NOUN	obj	anniversary
+of	IN	of	PRF	ADP	case	_
+first	JJ	first	ORD	ADJ	amod	_
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+launch	NN	launch	NN1	NOUN	nmod	_
+;	:	;	PUN	PUNCT	punct	_
+announces	VVZ	announce	VVZ	VERB	conj	announce-s
+new	JJ	new	AJ0	ADJ	amod	_
+homes	NNS	home	NN2	NOUN	obj	home-s
+for	IN	for	PRP	ADP	case	_
+retired	VVN	retire	VVN	VERB	amod	re-tir-ed
+shuttles	NNS	shuttle	NN2	NOUN	nmod	shutt-le-s
+</s>
+</head>
+<p>
+<s type="frag" transition="null">
+<date when="2011-04-13" rend="bold">
+Wednesday	NP	Wednesday	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+April	NP	April	NP0	PROPN	nmod:tmod	_
+13	CD	13	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2011	CD	2011	CRD	NUM	nmod:tmod	_
+</date>
+</s>
+</p>
+<figure>
+<caption>
+<s type="decl" transition="null">
+<ref>
+NASA	NP	NASA	NP0	PROPN	compound	_
+</ref>
+Administrator	NP	Administrator	NP0	PROPN	nsubj	Administrat-or
+Charles	NP	Charles	NP0	PROPN	flat	_
+Bolden	NP	Bolden	NP0	PROPN	flat	Bold-en
+announces	VVZ	announce	VVZ	VERB	root	announce-s
+where	WRB	where	AVQ	ADV	obj	_
+four	CD	four	CRD	NUM	nummod	_
+space	NN	space	NN1	NOUN	compound	_
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+orbiters	NNS	orbiter	NN2	NOUN	nsubj:pass	orbit-er-s
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+permanently	RB	permanently	AV0	ADV	advmod	permanent-ly
+displayed	VVN	display	VVN	VERB	advcl:relcl	display-ed
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+conclusion	NN	conclusion	NN1	NOUN	obl	conclus-ion
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+Program	NP	Program	NP0	PROPN	nmod	_
+during	IN	during	PRP	ADP	case	dur-ing
+an	DT	a	AT0	DET	det	_
+event	NN	event	NN1	NOUN	obl	_
+commemorating	VVG	commemorate	VVG	VERB	acl	commemorat-ing
+<date when="2011-04-12">
+the	DT	the	AT0	DET	det	_
+30th	JJ	30th	ORD	ADJ	amod	_
+anniversay	NN	anniversay	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+launch	NN	launch	NN1	NOUN	nmod	_
+</date>
+on	IN	on	PRP	ADP	case	_
+<date when="2011-04-12">
+April	NP	April	NP0	PROPN	nmod:tmod	_
+12	CD	12	CRD	NUM	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+2011	CD	2011	CRD	NUM	nmod:tmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="establishment">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+NASA	NP	NASA	NP0	PROPN	dep	_
+</ref>
+Bill	NP	Bill	NP0	PROPN	conj	_
+Ingalls	NP	Ingalls	NP0	PROPN	flat	Ingall-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="continue">
+NASA	NP	NASA	NP0	PROPN	nsubj	_
+celebrated	VVD	celebrate	VVD	VERB	root	celebrat-ed
+the	DT	the	AT0	DET	det	_
+launch	NN	launch	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+space	NN	space	NN1	NOUN	compound	_
+shuttle	NN	shuttle	NN1	NOUN	nmod	shutt-le
+<date when="2011-04-12">
+Tuesday	NP	Tuesday	NP0	PROPN	obl:tmod	_
+</date>
+at	IN	at	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+event	NN	event	NN1	NOUN	obl	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Kennedy	NP	Kennedy	NP0	PROPN	compound	_
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	nmod	_
+</ref>
+(	(	(	PUL	PUNCT	punct	_
+KSC	NP	KSC	NP0	PROPN	appos	_
+)	)	)	PUR	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+<ref>
+Cape	NP	Cape	NP0	PROPN	compound	_
+Canaveral	NP	Canaveral	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Florida	NP	Florida	NP0	PROPN	appos	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+On	IN	on	PRP	ADP	case	_
+<date when="1981-04-12">
+April	NP	April	NP0	PROPN	nmod:tmod	_
+12	CD	12	CRD	NUM	obl	_
+,	,	,	PUN	PUNCT	punct	_
+1981	CD	1981	CRD	NUM	nmod:tmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Columbia	NP	Columbia	NP0	PROPN	nsubj	Columb-ia
+</hi>
+</ref>
+lifted	VVD	lift	VVD	VERB	root	lift-ed
+off	RP	off	AVP	ADP	compound:prt	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Kennedy	NP	Kennedy	NP0	PROPN	compound	_
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	obl	_
+on	IN	on	PRP	ADP	case	_
+<ref>
+<w>
+STS	NP	STS	NP0	PROPN	obl	_
+-	HYPH	-	PUN	PUNCT	punct	_
+1	CD	1	CRD	NUM	dep	_
+</w>
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+space	NN	space	NN1	NOUN	compound	_
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+mission	NN	mission	NN1	NOUN	appos	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="rough-shift">
+NASA	NP	NASA	NP0	PROPN	nsubj	_
+held	VVD	hold	VVD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+ceremony	NN	ceremony	NN1	NOUN	obj	_
+commemorating	VVG	commemorate	VVG	VERB	acl	commemorat-ing
+<date when="1981-04-12">
+the	DT	the	AT0	DET	det	_
+date	NN	date	NN1	NOUN	obj	_
+</date>
+outside	IN	outside	PRP	ADP	case	out-side
+the	DT	the	AT0	DET	det	_
+hangar	NN	hangar	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+known	VVN	know	VVN	VERB	acl	know-n
+as	IN	as	PRP	ADP	case	_
+Orbiter	NP	Orbiter	NP0	PROPN	compound	Orbit-er
+Processing	NP	Processing	NP0	PROPN	compound	Process-ing
+<w>
+Facility	NP	Facility	NP0	PROPN	obl	_
+-	HYPH	-	PUN	PUNCT	punct	_
+1	CD	1	CRD	NUM	nummod	_
+</w>
+,	,	,	PUN	PUNCT	punct	_
+for	IN	for	PRP	ADP	case	_
+<ref>
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Atlantis	NP	Atlantis	NP0	PROPN	obl	_
+</hi>
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux	_
+being	VBG	be	VBG	AUX	aux:pass	be-ing
+prepped	VVN	prep	VVN	VERB	acl:relcl	prepp-ed
+for	IN	for	PRP	ADP	case	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+final	JJ	final	AJ0	ADJ	amod	_
+mission	NN	mission	NN1	NOUN	obl	_
+which	WDT	which	DTQ	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+<ref>
+<w>
+STS	NP	STS	NP0	PROPN	acl:relcl	_
+-	HYPH	-	PUN	PUNCT	punct	_
+135	CD	135	CRD	NUM	dep	_
+</w>
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+last	JJ	last	ORD	ADJ	amod	_
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+mission	NN	mission	NN1	NOUN	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+At	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ceremony	NN	ceremony	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+NASA	NP	NASA	NP0	PROPN	compound	_
+Administrator	NP	Administrator	NP0	PROPN	nsubj	Administrat-or
+Charles	NP	Charles	NP0	PROPN	flat	_
+Bolden	NP	Bolden	NP0	PROPN	flat	Bold-en
+</ref>
+announced	VVD	announce	VVD	VERB	root	announc-ed
+the	DT	the	AT0	DET	det	_
+locations	NNS	location	NN2	NOUN	obj	locat-ion-s
+that	WDT	that	CJT	PRON	nsubj:pass	_
+would	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+given	VVN	give	VVN	VERB	acl:relcl	giv-en
+the	DT	the	AT0	DET	det	_
+three	CD	three	CRD	NUM	nummod	_
+remaining	VVG	remain	VVG	VERB	amod	remain-ing
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+orbiters	NNS	orbiter	NN2	NOUN	obj	orbit-er-s
+following	VVG	follow	VVG	VERB	advcl	follow-ing
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+program	NN	program	NN1	NOUN	nmod	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+The	DT	the	AT0	DET	det	_
+prototype	NN	prototype	NN1	NOUN	compound	_
+orbiter	NN	orbiter	NN1	NOUN	nsubj:pass	orbit-er
+,	,	,	PUN	PUNCT	punct	_
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Enterprise	NP	Enterprise	NP0	PROPN	appos	_
+</hi>
+would	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+relocated	VVN	relocate	VVN	VERB	root	re-locat-ed
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Smithsonian	NP	Smithsonian	NP0	PROPN	nmod:poss	Smith-son-ian
+'s	POS	's	POS	PART	case	_
+National	NP	National	NP0	ADJ	amod	Nation-al
+Air	NP	Air	NP0	PROPN	compound	_
+and	CC	and	CJC	CCONJ	cc	_
+Space	NP	Space	NP0	PROPN	conj	_
+Museum	NP	Museum	NP0	PROPN	compound	_
+Steven	NP	Steven	NP0	PROPN	compound	_
+F.	NP	F.	NP0	PROPN	flat	_
+<w>
+Udvar	NP	Udvar	NP0	PROPN	flat	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Hazy	NP	Hazy	NP0	PROPN	flat	Haz-y
+</w>
+Center	NP	Center	NP0	PROPN	obl	_
+</ref>
+at	IN	at	PRP	ADP	case	_
+<ref>
+Washington	NP	Washington	NP0	PROPN	compound	_
+Dulles	NP	Dulles	NP0	PROPN	compound	_
+International	NP	International	NP0	ADJ	amod	Inter-nation-al
+Airport	NP	Airport	NP0	PROPN	nmod	_
+</ref>
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Intrepid	NP	Intrepid	NP0	PROPN	compound	_
+<w>
+Sea	NP	Sea	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Air	NP	Air	NP0	PROPN	flat	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Space	NP	Space	NP0	PROPN	flat	_
+</w>
+Museum	NP	Museum	NP0	PROPN	obl	_
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+New	NP	New	NP0	ADJ	amod	_
+York	NP	York	NP0	PROPN	compound	_
+City	NP	City	NP0	PROPN	nmod	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+<ref>
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Discovery	NP	Discovery	NP0	PROPN	nsubj	Dis-cover-y
+</hi>
+</ref>
+will	MD	will	VM0	AUX	aux	_
+take	VV	take	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+place	NN	place	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+<hi rend="italic">
+Enterprise	NP	Enterprise	NP0	PROPN	nmod	_
+</hi>
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<w>
+Udvar	NP	Udvar	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Hazy	NP	Hazy	NP0	PROPN	flat	Haz-y
+</w>
+Center	NP	Center	NP0	PROPN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+<hi rend="italic">
+Discovery	NP	Discovery	NP0	PROPN	nsubj:pass	Dis-cover-y
+</hi>
+has	VHZ	have	VHZ	AUX	aux	ha-s
+already	RB	already	AV0	ADV	advmod	al-ready
+been	VBN	be	VBN	AUX	aux:pass	_
+retired	VVN	retire	VVN	VERB	root	re-tir-ed
+following	VVG	follow	VVG	VERB	advcl	follow-ing
+the	DT	the	AT0	DET	det	_
+completion	NN	completion	NN1	NOUN	obj	complet-ion
+of	IN	of	PRF	ADP	case	_
+<ref>
+<w>
+STS	NP	STS	NP0	PROPN	nmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+133	CD	133	CRD	NUM	dep	_
+</w>
+</ref>
+<date when="2011-03">
+last	JJ	last	ORD	ADJ	amod	_
+month	NN	month	NN1	NOUN	nmod:tmod	mon-th
+</date>
+,	,	,	PUN	PUNCT	punct	_
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+39th	JJ	39th	AJ0	ADJ	amod	_
+mission	NN	mission	NN1	NOUN	appos	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+<hi rend="italic">
+Discovery	NP	Discovery	NP0	PROPN	nsubj	Dis-cover-y
+</hi>
+is	VBZ	be	VBZ	AUX	aux	_
+undergoing	VVG	undergo	VVG	VERB	root	under-go-ing
+decommissioning	NN	decommission	NN1	NOUN	obj	de-commission-ing
+and	CC	and	CJC	CCONJ	cc	_
+currently	RB	currently	AV0	ADV	advmod	current-ly
+being	VBG	be	VBG	AUX	aux:pass	be-ing
+prepped	VVN	prep	VVN	VERB	conj	prepp-ed
+for	IN	for	PRP	ADP	case	_
+display	NN	display	NN1	NOUN	obl	_
+by	IN	by	PRP	SCONJ	mark	_
+removing	VVG	remove	VVG	VERB	advcl	re-mov-ing
+toxic	JJ	toxic	AJ0	ADJ	amod	_
+materials	NNS	material	NN2	NOUN	obj	material-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+orbiter	NN	orbiter	NN1	NOUN	obl	orbit-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure>
+<caption>
+<s type="ger" transition="zero">
+Looking	VVG	look	VVG	VERB	root	Look-ing
+back	RB	back	AVP	ADV	advmod	_
+:	:	:	PUN	PUNCT	punct	_
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Columbia	NP	Columbia	NP0	PROPN	nsubj	Columb-ia
+</hi>
+lifts	VVZ	lift	VVZ	VERB	parataxis	lift-s
+off	RP	off	AVP	ADP	compound:prt	_
+on	IN	on	PRP	ADP	case	_
+<w>
+STS	NP	STS	NP0	PROPN	obl	_
+-	HYPH	-	PUN	PUNCT	punct	_
+1	CD	1	CRD	NUM	dep	_
+</w>
+from	IN	from	PRP	ADP	case	_
+Launch	NN	launch	NN1	NOUN	compound	_
+Pad	NN	pad	NN1	NOUN	obl	_
+39A	NP	39A	NP0	PROPN	compound	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Kennedy	NP	Kennedy	NP0	PROPN	compound	_
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	obl	_
+on	IN	on	PRP	ADP	case	_
+<date when="1981-04-12">
+April	NP	April	NP0	PROPN	nmod:tmod	_
+12	CD	12	CRD	NUM	obl	_
+,	,	,	PUN	PUNCT	punct	_
+1981	CD	1981	CRD	NUM	nmod:tmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+NASA	NP	NASA	NP0	PROPN	dep	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="null">
+<ref>
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Endeavour	NP	Endeavour	NP0	PROPN	nsubj:pass	_
+</hi>
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+launch	VV	launch	VVI	VERB	acl:relcl	_
+on	IN	on	PRP	ADP	case	_
+<ref>
+<w>
+STS	NP	STS	NP0	PROPN	obl	_
+-	HYPH	-	PUN	PUNCT	punct	_
+134	CD	134	CRD	NUM	dep	_
+</w>
+</ref>
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+month	NN	month	NN1	NOUN	nmod	mon-th
+on	IN	on	PRP	ADP	case	_
+<date when="2011-04-29">
+April	NP	April	NP0	PROPN	nmod:tmod	_
+29	CD	29	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+sent	VVN	send	VVN	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+California	NP	California	NP0	PROPN	compound	_
+Science	NP	Science	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	obl	_
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Los	NP	Los	NP0	PROPN	nmod	_
+Angeles	NP	Angeles	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+California	NP	California	NP0	PROPN	appos	_
+</ref>
+following	VVG	follow	VVG	VERB	case	follow-ing
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+retirement	NN	retirement	NN1	NOUN	obl	re-tire-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Finally	RB	finally	AV0	ADV	advmod	Final-ly
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="italic">
+Atlantis	NP	Atlantis	NP0	PROPN	nsubj	_
+</hi>
+will	MD	will	VM0	AUX	aux	_
+go	VV	go	VVI	VERB	root	_
+on	IN	on	PRP	ADP	case	_
+display	NN	display	NN1	NOUN	obl	_
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Kennedy	NP	Kennedy	NP0	PROPN	compound	_
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	compound	_
+Visitor	NP	Visitor	NP0	PROPN	compound	Visit-or
+Complex	NP	Complex	NP0	PROPN	obl	_
+</ref>
+following	VVG	follow	VVG	VERB	case	follow-ing
+the	DT	the	AT0	DET	det	_
+orbiter	NN	orbiter	NN1	NOUN	nmod:poss	orbit-er
+'s	POS	's	POS	PART	case	_
+last	JJ	last	ORD	ADJ	amod	_
+flight	NN	flight	NN1	NOUN	obl	fligh-t
+which	WDT	which	DTQ	PRON	nsubj	_
+launches	VVZ	launch	VVZ	VERB	acl:relcl	launche-s
+<date when="2011-06-28">
+June	NP	June	NP0	PROPN	nmod:tmod	_
+28	CD	28	CRD	NUM	obl:tmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+<hi rend="italic">
+Columbia	NP	Columbia	NP0	PROPN	nsubj:pass	Columb-ia
+</hi>
+was	VBD	be	VBD	AUX	aux:pass	_
+lost	VVN	lose	VVN	VERB	root	los-t
+tragically	RB	tragically	AV0	ADV	advmod	tragic-ally
+back	RB	back	AVP	ADV	advmod	_
+on	IN	on	PRP	ADP	case	_
+<date when="2003-02-01">
+February	NP	February	NP0	PROPN	nmod:tmod	_
+1	CD	1	CRD	NUM	obl	_
+,	,	,	PUN	PUNCT	punct	_
+2003	CD	2003	CRD	NUM	nmod:tmod	_
+</date>
+when	WRB	when	AVQ	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+disintegrated	VVD	disintegrate	VVD	VERB	advcl	dis-integrat-ed
+during	IN	during	PRP	ADP	case	dur-ing
+re-entry	NN	re-entry	NN1	NOUN	obl	re-entry
+killing	VVG	kill	VVG	VERB	advcl	kill-ing
+all	DT	all	DT0	DET	det:predet	_
+seven	CD	seven	CRD	NUM	nummod	_
+astronauts	NNS	astronaut	NN2	NOUN	obj	astronaut-s
+aboard	RB	aboard	AV0	ADV	advmod	a-board
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+<ref>
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Challenger	NP	Challenger	NP0	PROPN	nsubj:pass	Challeng-er
+</hi>
+</ref>
+was	VBD	be	VBD	AUX	aux:pass	_
+lost	VVN	lose	VVN	VERB	root	los-t
+when	WRB	when	CJS	ADV	advmod	_
+it	PP	it	PNP	PRON	nsubj	_
+exploded	VVD	explode	VVD	VERB	advcl	explod-ed
+73	CD	73	CRD	NUM	nummod	_
+seconds	NNS	second	NN2	NOUN	obl:tmod	second-s
+after	IN	after	PRP	ADP	case	_
+liftoff	NN	liftoff	NN1	NOUN	nmod	_
+back	RB	back	AVP	ADV	advmod	_
+on	IN	on	PRP	ADP	case	_
+<date when="1986-01-28">
+January	NP	January	NP0	PROPN	nmod:tmod	_
+28	CD	28	CRD	NUM	obl	_
+,	,	,	PUN	PUNCT	punct	_
+1986	CD	1986	CRD	NUM	nmod:tmod	_
+</date>
+killing	VVG	kill	VVG	VERB	advcl	kill-ing
+all	DT	all	DT0	DET	det	_
+six	CD	six	CRD	NUM	obj	_
+aboard	RB	aboard	AV0	ADV	advmod	a-board
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<quote>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+We	PP	we	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	ccomp	_
+to	TO	to	TO0	PART	mark	_
+thank	VV	thank	VVI	VERB	xcomp	_
+all	DT	all	DT0	DET	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+locations	NNS	location	NN2	NOUN	nmod	locat-ion-s
+that	WDT	that	CJT	PRON	nsubj	_
+expressed	VVD	express	VVD	VERB	acl:relcl	express-ed
+an	DT	a	AT0	DET	det	_
+interest	NN	interest	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+one	CD	one	CRD	NUM	nmod	_
+of	IN	of	PRF	ADP	case	_
+these	DT	this	DT0	DET	det	_
+national	JJ	national	AJ0	ADJ	amod	nation-al
+treasures	NNS	treasure	NN2	NOUN	nmod	treasure-s
+,	,	,	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+said	VVD	say	VVD	VERB	root	sai-d
+Bolden	NP	Bolden	NP0	PROPN	nsubj	Bold-en
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+gathered	VVN	gather	VVN	VERB	amod	gather-ed
+crowd	NN	crowd	NN1	NOUN	obl	_
+which	WDT	which	DTQ	PRON	nsubj	_
+contained	VVD	contain	VVD	VERB	acl:relcl	contain-ed
+many	JJ	many	DT0	ADJ	amod	_
+KSC	NP	KSC	NP0	PROPN	compound	_
+employees	NNS	employee	NN2	NOUN	obj	employ-ee-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+This	DT	this	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+very	RB	very	AV0	ADV	advmod	_
+difficult	JJ	difficult	AJ0	ADJ	amod	_
+decision	NN	decision	NN1	NOUN	root	decis-ion
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+one	CD	one	PNI	NUM	conj	_
+that	WDT	that	CJT	PRON	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+made	VVN	make	VVN	VERB	acl:relcl	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+American	JJ	American	AJ0	ADJ	amod	America-n
+public	NN	public	NN1	NOUN	obl	publ-ic
+in	IN	in	PRP	ADP	case	_
+mind	NN	mind	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+these	DT	this	DT0	DET	det	_
+choices	NNS	choice	NN2	NOUN	nsubj	choice-s
+provide	VVP	provide	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+greatest	JJS	great	AJS	ADJ	amod	great-est
+number	NN	number	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+best	JJS	good	AJS	ADJ	amod	be-st
+opportunity	NN	opportunity	NN1	NOUN	obl	opportun-ity
+to	TO	to	TO0	PART	mark	_
+share	VV	share	VVI	VERB	acl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+history	NN	history	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+accomplishments	NNS	accomplishment	NN2	NOUN	conj	accomplish-ment-s
+of	IN	of	PRF	ADP	case	_
+NASA	NP	NASA	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+remarkable	JJ	remarkable	AJ0	ADJ	amod	re-mark-able
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+Program	NP	Program	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+These	DT	this	DT0	DET	det	_
+facilities	NNS	facility	NN2	NOUN	nsubj	facil-itie-s
+we	PP	we	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+chosen	VVN	choose	VVN	VERB	acl:relcl	chos-en
+have	VHP	have	VHB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+noteworthy	JJ	noteworthy	AJ0	ADJ	amod	note-worthy
+legacy	NN	legacy	NN1	NOUN	obj	_
+of	IN	of	PRF	SCONJ	mark	_
+preserving	VVG	preserve	VVG	VERB	acl	preserv-ing
+space	NN	space	NN1	NOUN	compound	_
+artifacts	NNS	artifact	NN2	NOUN	obj	artifact-s
+and	CC	and	CJC	CCONJ	cc	_
+providing	VVG	provide	VVG	VERB	conj	provid-ing
+outstanding	JJ	outstanding	AJ0	ADJ	amod	out-stand-ing
+access	NN	access	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+U.S.	NP	U.S.	NP0	PROPN	compound	_
+and	CC	and	CJC	CCONJ	cc	_
+international	JJ	international	AJ0	ADJ	conj	inter-nation-al
+visitors	NNS	visitor	NN2	NOUN	obl	visit-or-s
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<figure>
+<caption>
+<quote>
+<s type="decl" transition="zero">
+This	DT	this	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+very	RB	very	AV0	ADV	advmod	_
+difficult	JJ	difficult	AJ0	ADJ	amod	_
+decision	NN	decision	NN1	NOUN	root	decis-ion
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+one	CD	one	PNI	NUM	conj	_
+that	WDT	that	CJT	PRON	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+made	VVN	make	VVN	VERB	acl:relcl	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+American	JJ	American	AJ0	ADJ	amod	America-n
+public	NN	public	NN1	NOUN	obl	publ-ic
+in	IN	in	PRP	ADP	case	_
+mind	NN	mind	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+these	DT	this	DT0	DET	det	_
+choices	NNS	choice	NN2	NOUN	nsubj	choice-s
+provide	VVP	provide	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+greatest	JJS	great	AJS	ADJ	amod	great-est
+number	NN	number	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+best	JJS	good	AJS	ADJ	amod	be-st
+opportunity	NN	opportunity	NN1	NOUN	obl	opportun-ity
+to	TO	to	TO0	PART	mark	_
+share	VV	share	VVI	VERB	acl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+history	NN	history	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+accomplishments	NNS	accomplishment	NN2	NOUN	conj	accomplish-ment-s
+of	IN	of	PRF	ADP	case	_
+NASA	NP	NASA	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+remarkable	JJ	remarkable	AJ0	ADJ	amod	re-mark-able
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+Program	NP	Program	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</quote>
+<s type="frag" transition="rough-shift">
+<ref>
+Charles	NP	Charles	NP0	PROPN	root	_
+Bolden	NP	Bolden	NP0	PROPN	flat	Bold-en
+,	,	,	PUN	PUNCT	punct	_
+NASA	NP	NASA	NP0	PROPN	appos	_
+Administrator	NP	Administrator	NP0	PROPN	flat	Administrat-or
+</ref>
+</s>
+</caption>
+</figure>
+<figure>
+<caption>
+<s type="frag" transition="zero">
+File	NN	file	NN1	NOUN	compound	_
+image	NN	image	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+<hi rend="italic">
+Atlantis	NP	Atlantis	NP0	PROPN	nmod	_
+</hi>
+lifting	VVG	lift	VVG	VERB	acl	lift-ing
+off	RP	off	AVP	ADP	compound:prt	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+approaches	VVZ	approach	VVZ	VERB	acl:relcl	approache-s
+its	PP$	its	DPS	PRON	nmod:poss	it-s
+last	JJ	last	ORD	ADJ	amod	_
+mission	NN	mission	NN1	NOUN	obj	_
+before	IN	before	PRP	ADP	case	_
+retirement	NN	retirement	NN1	NOUN	nmod	re-tire-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="establishment">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+NASA	NP	NASA	NP0	PROPN	dep	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="zero">
+Not	RB	not	XX0	PART	advmod	_
+all	DT	all	DT0	DET	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+pleased	JJ	pleased	AJ0	ADJ	root	pleas-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+final	JJ	final	AJ0	ADJ	amod	_
+choice	NN	choice	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+locations	NNS	location	NN2	NOUN	nmod	locat-ion-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+U.S.	NP	U.S.	NP0	PROPN	compound	_
+Senator	NP	Senator	NP0	PROPN	nsubj	Senat-or
+<ref>
+John	NP	John	NP0	PROPN	flat	_
+Cornyn	NP	Cornyn	NP0	PROPN	flat	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+Republican	NP	Republican	NP0	PROPN	appos	Re-public-an
+from	IN	from	PRP	ADP	case	_
+<ref>
+Texas	NP	Texas	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+issued	VVD	issue	VVD	VERB	root	issu-ed
+a	DT	a	AT0	DET	det	_
+statement	NN	statement	NN1	NOUN	obj	state-ment
+regarding	VVG	regard	VVG	VERB	case	regard-ing
+the	DT	the	AT0	DET	det	_
+rejection	NN	rejection	NN1	NOUN	nmod	reject-ion
+of	IN	of	PRF	ADP	case	_
+<ref>
+Johnson	NP	Johnson	NP0	PROPN	compound	John-son
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	nmod	_
+</ref>
+(	(	(	PUL	PUNCT	punct	_
+JSC	NP	JSC	NP0	PROPN	appos	_
+)	)	)	PUR	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+<ref>
+Houston	NP	Houston	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Texas	NP	Texas	NP0	PROPN	appos	_
+</ref>
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+location	NN	location	NN1	NOUN	nmod	locat-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+"	``	''	PUQ	PUNCT	punct	_
+Like	IN	like	PRP	ADP	case	_
+many	JJ	many	DT0	ADJ	amod	_
+Texans	NPS	Texan	NP0	PROPN	obl	Tex-an-s
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+am	VBP	be	VBB	AUX	aux:pass	_
+disappointed	VVN	disappoint	VVN	VERB	root	dis-appoint-ed
+with	IN	with	PRP	ADP	case	_
+NASA	NP	NASA	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+decision	NN	decision	NN1	NOUN	obl	decis-ion
+to	TO	to	TO0	PART	mark	_
+slight	VV	slight	AJ0	VERB	acl	_
+the	DT	the	AT0	DET	det	_
+Johnson	NP	Johnson	NP0	PROPN	compound	John-son
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	obj	_
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+permanent	JJ	permanent	AJ0	ADJ	amod	_
+home	NN	home	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+one	CD	one	CRD	NUM	nmod	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Space	NP	Space	NP0	PROPN	compound	_
+Shuttle	NP	Shuttle	NP0	PROPN	compound	Shutt-le
+Orbiters	NPS	Orbiter	NP0	PROPN	nmod	Orbit-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Houston	NP	Houston	NP0	PROPN	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+played	VVN	play	VVN	VERB	root	play-ed
+a	DT	a	AT0	DET	det	_
+critical	JJ	critical	AJ0	ADJ	amod	critic-al
+role	NN	role	NN1	NOUN	obj	_
+throughout	IN	throughout	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+life	NN	life	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+space	NN	space	NN1	NOUN	compound	_
+shuttle	NN	shuttle	NN1	NOUN	nmod	shutt-le
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	expl	_
+is	VBZ	be	VBZ	AUX	cop	_
+clear	JJ	clear	AJ0	ADJ	conj	_
+political	JJ	political	AJ0	ADJ	amod	politic-al
+favors	NNS	favor	NN2	NOUN	nsubj	favor-s
+trumped	VVD	trump	VVD	VERB	csubj	trump-ed
+common	JJ	common	AJ0	ADJ	amod	_
+sense	NN	sense	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+fairness	NN	fairness	NN1	NOUN	conj	fair-ness
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+selection	NN	selection	NN1	NOUN	obl	select-ion
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+final	JJ	final	AJ0	ADJ	amod	_
+locations	NNS	location	NN2	NOUN	nmod	locat-ion-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+orbiter	NN	orbiter	NN1	NOUN	compound	orbit-er
+fleet	NN	fleet	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+Cornyn	NP	Cornyn	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+statement	NN	statement	NN1	NOUN	nsubj	state-ment
+added	VVD	add	VVD	VERB	root	add-ed
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+There	EX	there	EX0	PRON	expl	_
+is	VBZ	be	VBZ	VERB	ccomp	_
+no	DT	no	AT0	DET	det	_
+question	NN	question	NN1	NOUN	nsubj	_
+Houston	NP	Houston	NP0	PROPN	nsubj:pass	_
+should	MD	should	VM0	AUX	aux	_
+have	VH	have	VHI	AUX	aux	_
+been	VBN	be	VBN	AUX	aux:pass	_
+selected	VVN	select	VVN	VERB	acl:relcl	select-ed
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+final	JJ	final	AJ0	ADJ	amod	_
+home	NN	home	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+one	CD	one	CRD	NUM	nmod	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+orbiters	NNS	orbiter	NN2	NOUN	nmod	orbit-er-s
+—	:	—	AJ0	PUNCT	punct	_
+even	RB	even	CJS	ADV	advmod	_
+Administrator	NP	Administrator	NP0	PROPN	nsubj	Administrat-or
+Bolden	NP	Bolden	NP0	PROPN	flat	Bold-en
+stated	VVD	state	VVD	VERB	parataxis	stat-ed
+as	RB	as	PRP	ADV	advmod	_
+much	JJ	much	DT0	ADJ	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+<date when="2011-04-13">
+Today	NN	today	NN1	NOUN	nmod:poss	To-day
+</date>
+'s	POS	's	POS	PART	case	_
+announcement	NN	announcement	NN1	NOUN	nsubj	announce-ment
+is	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+affront	NN	affront	NN1	NOUN	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+thousands	NNS	thousand	NN2	NOUN	nmod	thousand-s
+of	IN	of	PRF	ADP	case	_
+dedicated	JJ	dedicated	AJ0	ADJ	amod	dedicat-ed
+men	NNS	man	NN2	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+women	NNS	woman	NN2	NOUN	conj	_
+at	IN	at	PRP	ADP	case	_
+Johnson	NP	Johnson	NP0	PROPN	compound	John-son
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+greater	JJR	great	AJC	ADJ	amod	great-er
+Houston	NP	Houston	NP0	PROPN	compound	_
+community	NN	community	NN1	NOUN	appos	commun-ity
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+State	NP	State	NP0	PROPN	conj	_
+of	IN	of	PRF	ADP	case	_
+Texas	NP	Texas	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+’m	VBP	be	UNC	AUX	aux:pass	_
+deeply	RB	deeply	AV0	ADV	advmod	deep-ly
+disappointed	VVN	disappoint	VVN	VERB	conj	dis-appoint-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Administration	NP	Administration	NP0	PROPN	nmod:poss	Administrat-ion
+'s	POS	's	POS	PART	case	_
+misguided	JJ	misguided	AJ0	ADJ	amod	mis-guid-ed
+decision	NN	decision	NN1	NOUN	obl	decis-ion
+.	SENT	.	PUN	PUNCT	punct	_
+“	''	''	PUQ	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+However	RB	however	AV0	ADV	advmod	How-ever
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+JSC	NP	JSC	NP0	PROPN	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+recieve	VV	recieve	VVI	VERB	root	_
+pilot	NN	pilot	NN1	NOUN	compound	_
+and	CC	and	CJC	CCONJ	cc	_
+commander	NN	commander	NN1	NOUN	conj	command-er
+seats	NNS	seat	NN2	NOUN	obj	seat-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+flight	NN	flight	NN1	NOUN	compound	fligh-t
+deck	NN	deck	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+<ref>
+Museum	NP	Museum	NP0	PROPN	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+Flight	NP	Flight	NP0	PROPN	nmod	Fligh-t
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Seattle	NP	Seattle	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Washington	NP	Washington	NP0	PROPN	appos	_
+</ref>
+was	VBD	be	VBD	AUX	aux:pass	_
+also	RB	also	AV0	ADV	advmod	_
+proposed	VVN	propose	VVN	VERB	root	propos-ed
+as	IN	as	PRP	ADP	case	_
+another	DT	another	DT0	DET	det	an-other
+location	NN	location	NN1	NOUN	obl	locat-ion
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+shuttle	NN	shuttle	NN1	NOUN	nmod	shutt-le
+,	,	,	PUN	PUNCT	punct	_
+going	VVG	go	VVG	VERB	advcl	go-ing
+so	RB	so	AV0	ADV	advmod	_
+far	RB	far	AV0	ADV	advmod	_
+as	IN	as	CJS	SCONJ	mark	_
+to	TO	to	TO0	PART	mark	_
+build	VV	build	VVI	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+new	JJ	new	AJ0	ADJ	amod	_
+building	NN	building	NN1	NOUN	obj	build-ing
+to	TO	to	TO0	PART	mark	_
+house	VV	house	VVI	VERB	acl	_
+an	DT	a	AT0	DET	det	_
+orbiter	NN	orbiter	NN1	NOUN	obj	orbit-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+statement	NN	statement	NN1	NOUN	obl	state-ment
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Governor	NP	Governor	NP0	PROPN	nsubj	Govern-or
+of	IN	of	PRF	ADP	case	_
+Washington	NP	Washington	NP0	PROPN	nmod	_
+Chris	NP	Chris	NP0	PROPN	flat	_
+Gregoire	NP	Gregoire	NP0	PROPN	flat	_
+</ref>
+said	VVD	say	VVD	VERB	root	sai-d
+,	,	,	PUN	PUNCT	punct	_
+"	``	''	PUQ	PUNCT	punct	_
+The	DT	the	AT0	DET	det	_
+Museum	NP	Museum	NP0	PROPN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+Flight	NP	Flight	NP0	PROPN	nmod	Fligh-t
+put	VVD	put	VVD	VERB	ccomp	_
+a	DT	a	AT0	DET	det	_
+tremendous	JJ	tremendous	AJ0	ADJ	amod	_
+amount	NN	amount	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+effort	NN	effort	NN1	NOUN	nmod	_
+into	IN	into	PRP	SCONJ	mark	in-to
+landing	VVG	land	VVG	VERB	advcl	land-ing
+a	DT	a	AT0	DET	det	_
+retired	VVN	retire	VVN	VERB	amod	re-tir-ed
+shuttle	NN	shuttle	NN1	NOUN	obj	shutt-le
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Pacific	NP	Pacific	NP0	ADJ	amod	_
+Northwest	NP	Northwest	NP0	PROPN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+As	IN	as	CJS	ADP	case	_
+the	DT	the	AT0	DET	det	_
+home	NN	home	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+modern	JJ	modern	AJ0	ADJ	amod	_
+day	NN	day	NN1	NOUN	compound	_
+air	NN	air	NN1	NOUN	compound	_
+travel	NN	travel	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+747	CD	747	CRD	NUM	conj	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+gracefully	RB	gracefully	AV0	ADV	advmod	grace-ful-ly
+transported	VVN	transport	VVN	VERB	acl:relcl	transport-ed
+shuttles	NNS	shuttle	NN2	NOUN	obj	shutt-le-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<date notBefore="1981" notAfter="2011">
+last	JJ	last	ORD	ADJ	amod	_
+30	CD	30	CRD	NUM	nummod	_
+years	NNS	year	NN2	NOUN	obl	year-s
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Seattle	NP	Seattle	NP0	PROPN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+have	VH	have	VHI	AUX	aux	_
+been	VBN	be	VBN	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+perfect	JJ	perfect	AJ0	ADJ	amod	_
+fit	NN	fit	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+While	IN	while	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+Museum	NP	Museum	NP0	PROPN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+Flight	NP	Flight	NP0	PROPN	nmod	Fligh-t
+was	VBD	be	VBD	AUX	cop	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+top	JJ	top	AJ0	ADJ	amod	_
+running	NN	running	NN1	NOUN	advcl	runn-ing
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+’m	VBP	be	AJ0	AUX	aux:pass	_
+disappointed	VVN	disappoint	VVN	VERB	root	dis-appoint-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+NASA	NP	NASA	NP0	PROPN	nsubj	_
+did	VVD	do	VDD	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+choose	VV	choose	VVI	VERB	ccomp	_
+them	PP	they	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure>
+<caption>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+<date when="2008">
+2008	CD	2008	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="italic">
+Endeavour	NP	Endeavour	NP0	PROPN	nsubj	_
+</hi>
+and	CC	and	CJC	CCONJ	cc	_
+<hi rend="italic">
+Atlantis	NP	Atlantis	NP0	PROPN	conj	_
+</hi>
+await	VVP	await	VVB	VERB	root	a-wait
+a	DT	a	AT0	DET	det	_
+journey	NN	journey	NN1	NOUN	obj	_
+on	IN	on	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+respective	JJ	respective	AJ0	ADJ	amod	respect-ive
+launchpads	NNS	launchpad	NN2	NOUN	obl	launchpad-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Image	NN	image	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+<ref>
+NASA	NP	NASA	NP0	PROPN	dep	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<quote>
+<s type="decl" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+However	RB	however	AV0	ADV	advmod	How-ever
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+full	JJ	full	AJ0	ADJ	amod	_
+fuselage	NN	fuselage	NN1	NOUN	compound	_
+trainer	NN	trainer	NN1	NOUN	nsubj	train-er
+,	,	,	PUN	PUNCT	punct	_
+that	WDT	that	CJT	PRON	obl	_
+every	DT	every	AT0	DET	det	_
+astronaut	NN	astronaut	NN1	NOUN	nsubj:pass	_
+including	VVG	include	VVG	VERB	case	includ-ing
+[	(	[	PUL	PUNCT	punct	_
+former	JJ	former	DT0	ADJ	amod	form-er
+Museum	NP	Museum	NP0	PROPN	compound	_
+of	IN	of	PRF	ADP	case	_
+Flight	NP	Flight	NP0	PROPN	nmod	Fligh-t
+CEO	NN	CEO	NN1	NOUN	compound	_
+]	)	]	PUR	PUNCT	punct	_
+<ref>
+Bonnie	NP	Bonnie	NP0	PROPN	nmod	_
+Dunbar	NP	Dunbar	NP0	PROPN	flat	_
+</ref>
+has	VHZ	have	VHZ	AUX	aux	ha-s
+been	VBN	be	VBN	AUX	aux:pass	_
+trained	VVN	train	VVN	VERB	acl:relcl	train-ed
+on	IN	on	PRP	ADP	case	_
+,	,	,	PUN	PUNCT	punct	_
+will	MD	will	VM0	AUX	aux	_
+soon	RB	soon	AV0	ADV	advmod	_
+call	VV	call	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+Museum	NP	Museum	NP0	PROPN	obj	_
+of	IN	of	PRF	ADP	case	_
+Flight	NP	Flight	NP0	PROPN	nmod	Fligh-t
+home	NN	home	NN1	NOUN	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+The	DT	the	AT0	DET	det	_
+largest	JJS	large	AJS	ADJ	acl	larg-est
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+trainers	NNS	trainer	NN2	NOUN	nmod	train-er-s
+,	,	,	PUN	PUNCT	punct	_
+this	DT	this	DT0	DET	det	_
+addition	NN	addition	NN1	NOUN	nsubj	add-ition
+will	MD	will	VM0	AUX	aux	_
+allow	VV	allow	VVI	VERB	root	_
+visitors	NNS	visitor	NN2	NOUN	iobj	visit-or-s
+to	TO	to	TO0	PART	mark	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+climb	VV	climb	VVI	VERB	xcomp	_
+aboard	IN	aboard	PRP	ADP	case	a-board
+the	DT	the	AT0	DET	det	_
+trainer	NN	trainer	NN1	NOUN	obl	train-er
+and	CC	and	CJC	CCONJ	cc	_
+experience	VV	experience	VVB	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+<w>
+hands	NNS	hand	NN2	NOUN	compound	hand-s
+-	HYPH	-	PUN	PUNCT	punct	_
+on	RB	on	PRP	ADV	amod	_
+</w>
+training	NN	training	NN1	NOUN	obj	train-ing
+that	WDT	that	CJT	PRON	obj	_
+astronauts	NNS	astronaut	NN2	NOUN	nsubj	astronaut-s
+get	VVP	get	VVB	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="smooth-shift">
+Visitors	NNS	visitor	NN2	NOUN	nsubj:pass	Visit-or-s
+will	MD	will	VM0	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	aux:pass	_
+allowed	VVN	allow	VVN	VERB	root	allow-ed
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+other	JJ	other	AJ0	ADJ	amod	_
+shuttles	NNS	shuttle	NN2	NOUN	obl	shutt-le-s
+and	CC	and	CJC	CCONJ	cc	_
+this	DT	this	DT0	DET	det	_
+trainer	NN	trainer	NN1	NOUN	nsubj	train-er
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+true	JJ	true	AJ0	ADJ	amod	_
+win	NN	win	NN1	NOUN	conj	w-in
+for	IN	for	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+dynamic	JJ	dynamic	AJ0	ADJ	amod	_
+museum	NN	museum	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+help	VV	help	VVI	VERB	root	_
+inspire	VV	inspire	VVI	VERB	xcomp	_
+young	JJ	young	AJ0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+adventure	NN	adventure	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+space	NN	space	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+excitement	NN	excitement	NN1	NOUN	conj	excite-ment
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+career	NN	career	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+science	NN	science	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+technology	NN	technology	NN1	NOUN	conj	techno-logy
+,	,	,	PUN	PUNCT	punct	_
+engineering	NN	engineering	NN1	NOUN	conj	engin-eer-ing
+and	CC	and	CJC	CCONJ	cc	_
+math	NN	math	NN1	NOUN	conj	ma-th
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<figure>
+<caption>
+<quote>
+<s type="decl" transition="zero">
+Today	NN	today	NN1	NOUN	nmod:poss	To-day
+'s	POS	's	POS	PART	case	_
+announcement	NN	announcement	NN1	NOUN	nsubj	announce-ment
+is	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+affront	NN	affront	NN1	NOUN	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+thousands	NNS	thousand	NN2	NOUN	nmod	thousand-s
+of	IN	of	PRF	ADP	case	_
+dedicated	JJ	dedicated	AJ0	ADJ	amod	dedicat-ed
+men	NNS	man	NN2	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+women	NNS	woman	NN2	NOUN	conj	_
+at	IN	at	PRP	ADP	case	_
+Johnson	NP	Johnson	NP0	PROPN	compound	John-son
+Space	NP	Space	NP0	PROPN	compound	_
+Center	NP	Center	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+greater	JJR	great	AJC	ADJ	amod	great-er
+Houston	NP	Houston	NP0	PROPN	compound	_
+community	NN	community	NN1	NOUN	appos	commun-ity
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+State	NP	State	NP0	PROPN	conj	_
+of	IN	of	PRF	ADP	case	_
+Texas	NP	Texas	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+’m	VBP	be	UNC	AUX	aux:pass	_
+deeply	RB	deeply	AV0	ADV	advmod	deep-ly
+disappointed	VVN	disappoint	VVN	VERB	conj	dis-appoint-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Administration	NP	Administration	NP0	PROPN	nmod:poss	Administrat-ion
+'s	POS	's	POS	PART	case	_
+misguided	JJ	misguided	AJ0	ADJ	amod	mis-guid-ed
+decision	NN	decision	NN1	NOUN	obl	decis-ion
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</quote>
+<s type="frag" transition="establishment">
+<ref>
+John	NP	John	NP0	PROPN	root	_
+Cornyn	NP	Cornyn	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+U.S.	NP	U.S.	NP0	PROPN	compound	_
+Senator	NP	Senator	NP0	PROPN	appos	Senat-or
+(	(	(	PUL	PUNCT	punct	_
+<w>
+R	NP	R	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Texas	NP	Texas	NP0	PROPN	parataxis	_
+</w>
+)	)	)	PUR	PUNCT	punct	_
+</ref>
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="zero">
+Other	JJ	other	AJ0	ADJ	amod	_
+items	NNS	item	NN2	NOUN	nsubj	item-s
+include	VVP	include	VVB	VERB	root	_
+various	JJ	various	AJ0	ADJ	amod	_
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+simulators	NNS	simulator	NN2	NOUN	obj	simulat-or-s
+which	WDT	which	DTQ	PRON	nsubj:pass	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+given	VVN	give	VVN	VERB	acl:relcl	giv-en
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Adler	NP	Adler	NP0	PROPN	compound	_
+Planetarium	NP	Planetarium	NP0	PROPN	obl	Planet-arium
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Chicago	NP	Chicago	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Illinois	NP	Illinois	NP0	PROPN	appos	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Evergreen	NP	Evergreen	NP0	PROPN	compound	Ever-green
+Aviation	NP	Aviation	NP0	PROPN	compound	Aviat-ion
+&amp;	CC	&amp;	CJC	CCONJ	cc	_
+Space	NP	Space	NP0	PROPN	conj	_
+Museum	NP	Museum	NP0	PROPN	conj	_
+</ref>
+of	IN	of	PRF	ADP	case	_
+<ref>
+McMinnville	NP	McMinnville	NP0	PROPN	nmod	McMinn-ville
+,	,	,	PUN	PUNCT	punct	_
+Oregon	NP	Oregon	NP0	PROPN	appos	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<ref>
+Texas	NP	Texas	NP0	PROPN	compound	_
+A&amp;M	NP	A&amp;M	NP0	PROPN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+</ref>
+Aerospace	NP	Aerospace	NP0	PROPN	compound	Aero-space
+Engineering	NP	Engineering	NP0	PROPN	compound	Engin-eer-ing
+Department	NP	Department	NP0	PROPN	conj	Depart-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+The	DT	the	AT0	DET	det	_
+nose	NN	nose	NN1	NOUN	compound	_
+cap	NN	cap	NN1	NOUN	compound	_
+assembly	NN	assembly	NN1	NOUN	root	assembl-y
+and	CC	and	CJC	CCONJ	cc	_
+crew	NN	crew	NN1	NOUN	compound	_
+compartment	NN	compartment	NN1	NOUN	compound	compartment
+trainer	NN	trainer	NN1	NOUN	conj	train-er
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+National	NP	National	NP0	ADJ	amod	Nation-al
+Museum	NP	Museum	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+U.S.	NP	U.S.	NP0	PROPN	compound	_
+Air	NP	Air	NP0	PROPN	compound	_
+Force	NP	Force	NP0	PROPN	nmod	_
+</ref>
+at	IN	at	PRP	ADP	case	_
+<ref>
+<w>
+Wright	NP	Wright	NP0	PROPN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+Patterson	NP	Patterson	NP0	PROPN	flat	_
+</w>
+Air	NP	Air	NP0	PROPN	compound	_
+Force	NP	Force	NP0	PROPN	compound	_
+Base	NP	Base	NP0	PROPN	nmod	_
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Ohio	NP	Ohio	NP0	PROPN	nmod	_
+</ref>
+and	CC	and	CJC	CCONJ	cc	_
+orbital	JJ	orbital	AJ0	ADJ	amod	orbit-al
+maneuvering	NN	maneuvering	NN1	NOUN	compound	maneuver-ing
+system	NN	system	NN1	NOUN	compound	_
+engines	NNS	engine	NN2	NOUN	conj	engine-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+U.S.	NP	U.S.	NP0	PROPN	compound	_
+Space	NP	Space	NP0	PROPN	compound	_
+and	CC	and	CJC	CCONJ	cc	_
+Rocket	NP	Rocket	NP0	PROPN	conj	_
+Center	NP	Center	NP0	PROPN	nmod	_
+</ref>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Huntsville	NP	Huntsville	NP0	PROPN	nmod	Hunts-ville
+,	,	,	PUN	PUNCT	punct	_
+Alabama	NP	Alabama	NP0	PROPN	appos	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+National	NP	National	NP0	ADJ	amod	Nation-al
+Air	NP	Air	NP0	PROPN	compound	_
+and	CC	and	CJC	CCONJ	cc	_
+Space	NP	Space	NP0	PROPN	conj	_
+Museum	NP	Museum	NP0	PROPN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+Evergreen	NP	Evergreen	NP0	PROPN	compound	Ever-green
+Aviation	NP	Aviation	NP0	PROPN	compound	Aviat-ion
+&amp;	CC	&amp;	CJC	CCONJ	cc	_
+Space	NP	Space	NP0	PROPN	conj	_
+Museum	NP	Museum	NP0	PROPN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+NASA	NP	NASA	NP0	PROPN	nsubj	_
+is	VBZ	be	VBZ	AUX	aux	_
+also	RB	also	AV0	ADV	advmod	_
+offering	VVG	offer	VVG	VERB	root	offer-ing
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+heat	NN	heat	NN1	NOUN	compound	_
+shield	NN	shield	NN1	NOUN	compound	_
+tiles	NNS	tile	NN2	NOUN	obj	tile-s
+to	IN	to	PRP	ADP	case	_
+schools	NNS	school	NN2	NOUN	obl	school-s
+and	CC	and	CJC	CCONJ	cc	_
+universities	NNS	university	NN2	NOUN	conj	universitie-s
+that	WDT	that	CJT	PRON	nsubj	_
+want	VVP	want	VVB	VERB	acl:relcl	_
+to	TO	to	TO0	PART	mark	_
+share	VV	share	VVI	VERB	xcomp	_
+technology	NN	technology	NN1	NOUN	obj	techno-logy
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+piece	NN	piece	NN1	NOUN	conj	_
+of	IN	of	PRF	ADP	case	_
+space	NN	space	NN1	NOUN	compound	_
+history	NN	history	NN1	NOUN	nmod	_
+with	IN	with	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+students	NNS	student	NN2	NOUN	obl	stud-ent-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+30th	JJ	30th	ORD	ADJ	amod	_
+anniversary	NN	anniversary	NN1	NOUN	nsubj	anniversary
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+shuttle	NN	shuttle	NN1	NOUN	compound	shutt-le
+mission	NN	mission	NN1	NOUN	nmod	_
+coincided	VVD	coincide	VVD	VERB	root	coincid-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+50th	JJ	50th	ORD	ADJ	amod	_
+anniversary	NN	anniversary	NN1	NOUN	obl	anniversary
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+manned	VVN	man	VVN	VERB	amod	mann-ed
+space	NN	space	NN1	NOUN	compound	_
+flight	NN	flight	NN1	NOUN	nmod	fligh-t
+when	WRB	when	CJS	ADV	advmod	_
+<ref>
+Yuri	NP	Yuri	NP0	PROPN	nsubj	_
+Gagarin	NP	Gagarin	NP0	PROPN	flat	_
+</ref>
+lifted	VVD	lift	VVD	VERB	acl:relcl	lift-ed
+off	RP	off	AVP	ADP	compound:prt	_
+aboard	IN	aboard	PRP	ADP	case	a-board
+<ref>
+Vostok	NP	Vostok	NP0	PROPN	obl	_
+1	CD	1	CRD	NUM	nummod	_
+</ref>
+into	IN	into	PRP	ADP	case	in-to
+space	NN	space	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>

@@ -1,0 +1,870 @@
+<text id="GUM_reddit_card" partition="train" author="Reddit community (see URL)" dateCollected="2019-08-07" dateCreated="2019-08-06" dateModified="2019-08-06" shortTitle="card" sourceURL="https://www.reddit.com/r/personalfinance/comments/cmqrwo/be_careful_what_you_say_in_public/" speakerCount="5" speakerList="#Bonsacked, #Gsusruls, #hexparrot, #robsc_16, #Slimjim887" title="Be careful what you say in public" type="reddit" summary="One person recounts hearing a woman reading her credit card number loudly in public over the phone, prompting a discussion about people's laxness with credit card data, such as expecting call center workers to have access to credit card numbers, as well as a number of security breaches at major companies including Capital One, Equifax and Sony.">
+<head>
+<s type="imp" transition="establishment">
+Be	VB	be	VBI	AUX	cop	_
+careful	JJ	careful	AJ0	ADJ	root	care-ful
+what	WP	what	PNQ	PRON	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+say	VVP	say	VVB	VERB	advcl	_
+in	IN	in	PRP	ADP	case	_
+public	NN	public	NN1	NOUN	obl	publ-ic
+</s>
+</head>
+<sp who="#Bonsacked">
+<p>
+<s type="decl" transition="null">
+My	PP$	my	DPS	PRON	nmod:poss	_
+wife	NN	wife	NN1	NOUN	nsubj	_
+and	CC	and	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	conj	_
+were	VBD	be	VBD	AUX	cop	_
+at	IN	at	PRP	ADP	case	_
+Panera	NP	Panera	NP0	PROPN	root	_
+eating	VVG	eat	VVG	VERB	advcl	eat-ing
+breakfast	NN	breakfast	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+we	PP	we	PNP	PRON	nsubj	_
+noticed	VVD	notice	VVD	VERB	conj	notic-ed
+a	DT	a	AT0	DET	det	_
+lady	NN	lady	NN1	NOUN	obj	_
+<sic ana="behind">
+be	GW	behind	PRP	ADP	case	_
+hind	IN	_	PRP	X	goeswith	_
+</sic>
+us	PP	we	PNP	PRON	nmod	_
+talking	VVG	talk	VVG	VERB	acl	talk-ing
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+phone	NN	phone	NN1	NOUN	obl	_
+very	RB	very	AV0	ADV	advmod	_
+loudly	RB	loudly	AV0	ADV	advmod	loud-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+help	VV	help	NN1	VERB	root	_
+<sic ana="overhearing">
+over	GW	overhear	VVG	VERB	ccomp	_
+hearing	VVG	_	VVG	X	goeswith	hear-ing
+</sic>
+her	PP	she	PNP	PRON	nsubj	_
+talk	NN	talk	NN1	NOUN	ccomp	_
+about	IN	about	PRP	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+bill	NN	bill	NN1	NOUN	nsubj:pass	_
+not	RB	not	XX0	PART	advmod	_
+being	VBG	be	VBG	AUX	aux:pass	be-ing
+paid	VVN	pay	VVN	VERB	acl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+We	PP	we	PNP	PRON	nsubj:pass	_
+were	VBD	be	VBD	AUX	aux:pass	_
+a	DT	a	AT0	DET	det	_
+little	JJ	little	AJ0	ADJ	obl:npmod	_
+annoyed	VVN	annoy	VVN	VERB	root	annoy-ed
+but	CC	but	CJC	CCONJ	cc	_
+not	RB	not	XX0	PART	advmod	_
+a	DT	a	AT0	DET	det	_
+big	JJ	big	AJ0	ADJ	amod	_
+deal	NN	deal	NN1	NOUN	conj	_
+because	IN	because	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+public	JJ	public	AJ0	ADJ	amod	publ-ic
+restaurant	NN	restaurant	NN1	NOUN	advcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+We	PP	we	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	aux	_
+not	RB	not	XX0	PART	advmod	_
+trying	VVG	try	VVG	VERB	root	try-ing
+to	TO	to	TO0	PART	mark	_
+listen	VV	listen	VVI	VERB	xcomp	_
+but	CC	but	CJC	CCONJ	cc	_
+were	VBD	be	VBD	AUX	aux:pass	_
+shocked	VVN	shock	VVN	VERB	conj	shock-ed
+when	WRB	when	CJS	ADV	advmod	_
+she	PP	she	PNP	PRON	nsubj	_
+announced	VVD	announce	VVD	VERB	advcl	announc-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+she	PP	she	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+about	JJ	about	AJ0	ADJ	ccomp	_
+to	TO	to	TO0	PART	mark	_
+read	VV	read	VVI	VERB	xcomp	_
+her	PP$	her	DPS	PRON	nmod:poss	_
+card	NN	card	NN1	NOUN	compound	_
+number	NN	number	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+She	PP	she	PNP	PRON	nsubj	_
+then	RB	then	AV0	ADV	advmod	_
+gave	VVD	give	VVD	VERB	root	_
+the	DT	the	AT0	DET	det	_
+card	NN	card	NN1	NOUN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+expiration	NN	expiration	NN1	NOUN	compound	expir-ation
+date	NN	date	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+security	NN	security	NN1	NOUN	compound	secur-ity
+code	NN	code	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+her	PP$	her	DPS	PRON	nmod:poss	_
+zip	NN	zip	NN1	NOUN	compound	_
+code	NN	code	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="retain">
+We	PP	we	PNP	PRON	nsubj	_
+clearly	RB	clearly	AV0	ADV	advmod	clear-ly
+heard	VVD	hear	VVD	VERB	root	hear-d
+and	CC	and	CJC	CCONJ	cc	_
+if	IN	if	CJS	SCONJ	mark	_
+we	PP	we	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	aux	_
+planning	VVG	plan	VVG	VERB	advcl	plann-ing
+on	IN	on	PRP	SCONJ	mark	_
+stealing	VVG	steal	VVG	VERB	advcl	steal-ing
+it	PP	it	PNP	PRON	obj	_
+she	PP	she	PNP	PRON	nsubj	_
+gave	VVD	give	VVD	VERB	conj	_
+us	PP	we	PNP	PRON	iobj	_
+plenty	NN	plenty	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+notice	NN	notice	NN1	NOUN	nmod	_
+to	TO	to	TO0	PART	mark	_
+get	VV	get	VVI	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+pen	NN	pen	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="zero">
+Do	VV	do	VDB	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+read	VV	read	VVD	VERB	root	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+personal	JJ	personal	AJ0	ADJ	amod	person-al
+information	NN	information	NN1	NOUN	obj	in-form-ation
+in	IN	in	PRP	ADP	case	_
+public	NN	public	NN1	NOUN	obl	publ-ic
+like	IN	like	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+never	RB	never	AV0	ADV	advmod	_
+know	VVP	know	VVB	VERB	root	_
+who	WP	who	PNQ	PRON	obj	_
+is	VBZ	be	VBZ	AUX	aux	_
+listening	VVG	listen	VVG	VERB	acl:relcl	listen-ing
+and	CC	and	CJC	CCONJ	cc	_
+who	WP	who	PNQ	PRON	conj	_
+is	VBZ	be	VBZ	AUX	aux	_
+writing	VVG	write	VVG	VERB	acl:relcl	writ-ing
+stuff	NN	stuff	NN1	NOUN	obj	_
+down	RP	down	AVP	ADP	compound:prt	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Slimjim887" whom="#Bonsacked">
+<p>
+<s type="sub" transition="zero">
+Wow	UH	wow	ITJ	INTJ	discourse	_
+I	PP	I	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+believe	VV	believe	VVI	VERB	root	_
+someone	NN	someone	NN1	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+blurt	VV	blurt	VVD	VERB	ccomp	_
+that	DT	that	DT0	PRON	obj	_
+out	RP	out	AVP	ADP	compound:prt	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="frag" transition="null">
+Post	NN	post	NN1	NOUN	root	_
+<date when="2019-08-13">
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+week	NN	week	NN1	NOUN	nmod	_
+</date>
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="imp" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+Help	VV	help	NN1	VERB	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+someone	NN	someone	NN1	PRON	nsubj	_
+somehow	RB	somehow	AV0	ADV	advmod	_
+stole	VVD	steal	VVD	VERB	root	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+credit	NN	credit	NN1	NOUN	compound	_
+card	NN	card	NN1	NOUN	compound	_
+info	NN	info	NN1	NOUN	obj	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+advice	NN	advice	NN1	NOUN	root	_
+!	SENT	!	PUN	PUNCT	punct	_
+?	SENT	?	PUN	PUNCT	punct	_
+!	SENT	!	PUN	PUNCT	punct	_
+?	SENT	?	PUN	PUNCT	punct	_
+!	SENT	!	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+</sp>
+<sp who="#robsc_16" whom="#Slimjim887">
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+worked	VVD	work	VVD	VERB	root	work-ed
+at	IN	at	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+call	NN	call	NN1	NOUN	compound	_
+center	NN	center	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+some	DT	some	DT0	DET	det	_
+people	NNS	person	NN0	NOUN	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+really	RB	really	AV0	ADV	advmod	real-ly
+lax	JJ	lax	AJ0	ADJ	conj	_
+about	IN	about	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+information	NN	information	NN1	NOUN	obl	in-form-ation
+and	CC	and	CJC	CCONJ	cc	_
+expect	VVP	expect	VVB	VERB	conj	_
+<sic ana="others">
+other	JJ	other	AJ0	ADJ	obj	_
+</sic>
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+lax	JJ	lax	AJ0	ADJ	xcomp	_
+about	IN	about	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+info	NN	info	NN1	NOUN	obl	_
+as	RB	as	CJS	ADV	advmod	_
+well	RB	well	AV0	ADV	fixed	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+have	VH	have	VHI	VERB	root	_
+conversations	NNS	conversation	NN2	NOUN	obj	convers-ation-s
+that	WDT	that	CJT	PRON	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+go	VV	go	VVI	VERB	acl:relcl	_
+like	IN	like	PRP	ADP	case	_
+this	DT	this	DT0	PRON	obl	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="frag" transition="continue">
+Me	PP	I	PNP	PRON	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+Ok	UH	ok	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+ready	JJ	ready	AJ0	ADJ	root	_
+for	IN	for	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+card	NN	card	NN1	NOUN	compound	_
+number	NN	number	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="frag" transition="smooth-shift">
+Customer	NN	customer	NN1	NOUN	root	Custom-er
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="imp" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+Well	UH	well	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+just	RB	just	AV0	ADV	advmod	_
+use	VV	use	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+one	NN	one	NN1	NOUN	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+used	VVD	use	VVD	VERB	acl:relcl	us-ed
+last	JJ	last	ORD	ADJ	amod	_
+time	NN	time	NN1	NOUN	obl:tmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="frag" transition="zero">
+Me	PP	I	PNP	PRON	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="decl" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+sorry	JJ	sorry	AJ0	ADJ	root	sorr-y
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	parataxis	_
+access	NN	access	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+card	NN	card	NN1	NOUN	compound	_
+number	NN	number	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="frag" transition="smooth-shift">
+Customer	NN	customer	NN1	NOUN	root	Custom-er
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+understand	VV	understand	VVI	VERB	root	under-stand
+...	SENT	…	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	root	_
+you	PP	you	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	ccomp	_
+it	PP	it	PNP	PRON	obj	_
+right	RB	right	AV0	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+front	NN	front	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+you	PP	you	PNP	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="frag" transition="smooth-shift">
+Me	PP	I	PNP	PRON	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="decl" transition="continue">
+"	``	''	PUQ	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+only	RB	only	AV0	ADV	advmod	_
+see	VV	see	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+last	JJ	last	ORD	ADJ	amod	_
+four	CD	four	CRD	NUM	nummod	_
+digits	NNS	digit	NN2	NOUN	obj	digit-s
+for	IN	for	PRP	ADP	case	_
+security	NN	security	NN1	NOUN	compound	secur-ity
+purposes	NNS	purpose	NN2	NOUN	obl	purpose-s
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="frag" transition="zero">
+Customer	NN	customer	NN1	NOUN	root	Custom-er
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="decl" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+Well	UH	well	ITJ	INTJ	discourse	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	root	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+card	NN	card	NN1	NOUN	obj	_
+on	IN	on	PRP	ADP	case	_
+me	PP	I	PNP	PRON	obl	_
+right	RB	right	AV0	ADV	advmod	_
+now	RB	now	AV0	ADV	advmod	_
+...	SENT	…	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+understand	VV	understand	VVI	VERB	root	under-stand
+why	WRB	why	AVQ	ADV	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+use	VV	use	VVI	VERB	advcl:relcl	_
+the	DT	the	AT0	DET	det	_
+card	NN	card	NN1	NOUN	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+used	VVD	use	VVD	VERB	acl:relcl	us-ed
+before	RB	before	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="multiple" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	root	_
+people	NNS	person	NN0	NOUN	obj	_
+cancel	VV	cancel	VVI	VERB	xcomp	_
+orders	NNS	order	NN2	NOUN	obj	order-s
+over	IN	over	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+sort	NN	sort	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+thing	NN	thing	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+a	DT	a	AT0	DET	det	_
+few	JJ	few	DT0	ADJ	amod	_
+times	NNS	time	NN2	NOUN	obl:tmod	time-s
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	conj	_
+to	TO	to	TO0	PART	mark	_
+get	VV	get	VVI	VERB	xcomp	_
+a	DT	a	AT0	DET	det	_
+supervisor	NN	supervisor	NN1	NOUN	obj	supervis-or
+get	VV	get	VVI	VERB	xcomp	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+<sic ana="card">
+car	NN	card	NN1	NOUN	compound	_
+</sic>
+number	NN	number	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+place	VV	place	VVI	VERB	advcl	_
+an	DT	a	AT0	DET	det	_
+order	NN	order	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+You	PP	you	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+people	NNS	person	NN0	NOUN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+happy	JJ	happy	AJ0	ADJ	ccomp	happ-y
+that	IN/that	that	CJT	SCONJ	mark	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+average	JJ	average	AJ0	ADJ	amod	_
+call	NN	call	NN1	NOUN	compound	_
+center	NN	center	NN1	NOUN	compound	_
+advocate	NN	advocate	NN1	NOUN	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	ccomp	_
+access	NN	access	NN1	NOUN	obj	_
+to	IN	to	PRP	ADP	case	_
+all	DT	all	DT0	DET	det:predet	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+credit	NN	credit	NN1	NOUN	compound	_
+card	NN	card	NN1	NOUN	compound	_
+information	NN	information	NN1	NOUN	nmod	in-form-ation
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Gsusruls" whom="#robsc_16">
+<p>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+tradeoff	NN	tradeoff	NN1	NOUN	obl	_
+between	IN	between	PRP	ADP	case	be-tween
+convenience	NN	convenience	NN1	NOUN	nmod	conveni-ence
+and	CC	and	CJC	CCONJ	cc	_
+security	NN	security	NN1	NOUN	conj	secur-ity
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+<sic ana="vast">
+vasty	JJ	vasty	AJ0	ADJ	amod	vast-y
+</sic>
+majority	NN	majority	NN1	NOUN	nsubj	major-ity
+prefer	VVP	prefer	VVB	VERB	root	_
+convenience	NN	convenience	NN1	NOUN	obj	conveni-ence
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+They	PP	they	PNP	PRON	nsubj	_
+only	RB	only	AV0	ADV	advmod	_
+chose	VVD	choose	VVD	VERB	root	_
+security	NN	security	NN1	NOUN	obj	secur-ity
+when	WRB	when	CJS	ADV	advmod	_
+something	NN	something	NN1	PRON	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+already	RB	already	AV0	ADV	advmod	al-ready
+gone	VVN	go	VVN	VERB	advcl	_
+wrong	JJ	wrong	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Slimjim887" whom="#Gsusruls">
+<p>
+<s type="decl" transition="zero">
+Info	NN	info	NN1	NOUN	nsubj:pass	_
+gets	VVZ	get	VVZ	AUX	aux:pass	get-s
+stolen	VVN	steal	VVN	VERB	root	stol-en
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="wh" transition="null">
+"	``	''	PUQ	PUNCT	punct	_
+Why	WRB	why	AVQ	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+have	VH	have	VHI	VERB	root	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+stuff	NN	stuff	NN1	NOUN	obj	_
+saved	VVN	save	VVN	VERB	xcomp	sav-ed
+on	IN	on	PRP	ADP	case	_
+file	NN	file	NN1	NOUN	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+!	SENT	!	PUN	PUNCT	punct	_
+?	SENT	?	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="other" transition="null">
+Ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+order	VV	order	VVI	VERB	root	_
+item	NN	item	NN1	NOUN	obj	_
+because	IN	because	PRP	SCONJ	mark	_
+stuff	NN	stuff	NN1	NOUN	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+n't	RB	not	XX0	PART	advmod	_
+saved	VVN	save	VVN	VERB	advcl	sav-ed
+on	IN	on	PRP	ADP	case	_
+file	NN	file	NN1	NOUN	obl	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="wh" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+Why	WRB	why	AVQ	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+save	VV	save	VVI	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+you	PP	you	PNP	PRON	discourse	_
+trash	JJ	trash	AJ0	ADJ	amod	_
+company	NN	company	NN1	NOUN	vocative	_
+?	SENT	?	PUN	PUNCT	punct	_
+?	SENT	?	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+</sp>
+<sp who="#hexparrot" whom="#Slimjim887">
+<p>
+<s type="decl" transition="zero">
+Info	NP	Info	NP0	PROPN	nsubj:pass	_
+gets	VVZ	get	VVZ	AUX	aux:pass	get-s
+stolen	VVN	steal	VVN	VERB	root	stol-en
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="multiple" transition="establishment">
+“	``	''	PUQ	PUNCT	punct	_
+why	WRB	why	AVQ	ADV	advmod	_
+ca	MD	can	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+<hi rend="italic">
+secure	VV	secure	VVI	VERB	root	_
+</hi>
+the	DT	the	AT0	DET	det	_
+information	NN	information	NN1	NOUN	obj	in-form-ation
+I	PP	I	PNP	PRON	nsubj	_
+gave	VVD	give	VVD	VERB	acl:relcl	_
+you	PP	you	PNP	PRON	iobj	_
+,	,	,	PUN	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+security	NN	security	NN1	NOUN	nsubj	secur-ity
+and	CC	and	CJC	CCONJ	cc	_
+convenience	NN	convenience	NN1	NOUN	conj	conveni-ence
+should	MD	should	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	cop	_
+mutually	RB	mutually	AV0	ADV	advmod	mutual-ly
+exclusive	JJ	exclusive	AJ0	ADJ	advcl	exclus-ive
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	discourse	_
+trash	JJ	trash	AJ0	ADJ	advmod	_
+company	NN	company	NN1	NOUN	vocative	_
+that	WDT	that	CJT	PRON	nsubj	_
+makes	VVZ	make	VVZ	VERB	acl:relcl	make-s
+<w>
+billions	NNS	billion	NN2	NOUN	obj	billion-s
+/	SYM	/	UNC	SYM	case	_
+<sic ana="year">
+yr	NN	year	NN1	NOUN	obl	_
+</sic>
+</w>
+and	CC	and	CJC	CCONJ	cc	_
+can	MD	can	VM0	AUX	aux	_
+afford	VV	afford	VVI	VERB	conj	a-fford
+to	TO	to	TO0	PART	mark	_
+take	VV	take	VVI	VERB	xcomp	_
+it	PP	it	PNP	PRON	obj	_
+seriously	RB	seriously	AV0	ADV	advmod	serious-ly
+!	SENT	!	PUN	PUNCT	punct	_
+”	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+</sp>
+<sp who="#Slimjim887" whom="#hexparrot">
+<p>
+<s type="decl" transition="zero">
+Well	UH	well	ITJ	INTJ	discourse	_
+unfortunately	RB	unfortunately	AV0	ADV	advmod	un-fortun-ate-ly
+,	,	,	PUN	PUNCT	punct	_
+some	DT	some	DT0	DET	det	_
+companies	NNS	company	NN2	NOUN	nsubj	companie-s
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	root	_
+very	RB	very	AV0	ADV	advmod	_
+good	JJ	good	AJ0	ADJ	amod	_
+security	NN	security	NN1	NOUN	obj	secur-ity
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="null">
+Wish	VVP	wish	VVB	VERB	root	_
+it	PP	it	PNP	PRON	expl	_
+was	VBD	be	VBD	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+case	NN	case	NN1	NOUN	ccomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+easily	RB	easily	AV0	ADV	advmod	easi-ly
+have	VH	have	VHI	VERB	csubj	_
+security	NN	security	NN1	NOUN	obj	secur-ity
+and	CC	and	CJC	CCONJ	cc	_
+convenience	NN	convenience	NN1	NOUN	conj	conveni-ence
+though	RB	though	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#hexparrot" whom="#Slimjim887">
+<p>
+<s type="decl" transition="null">
+Some	DT	some	DT0	DET	det	_
+companies	NNS	company	NN2	NOUN	nsubj	companie-s
+do	VVP	do	VD	AUX	root	_
+n’t	RB	not	XX0	PART	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	conj	_
+we	PP	we	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	ccomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+companies	NNS	company	NN2	NOUN	nsubj	companie-s
+that	WDT	that	CJT	PRON	nsubj	_
+<hi rend="italic">
+can	MD	can	VM0	AUX	acl:relcl	_
+</hi>
+still	RB	still	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	ccomp	_
+n’t	RB	not	XX0	PART	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+So	RB	so	AV0	ADV	advmod	_
+largely	RB	largely	AV0	ADV	advmod	large-ly
+it	PP	it	PNP	PRON	nsubj	_
+appears	VVZ	appear	VVZ	VERB	root	appear-s
+less	RBR	less	AV0	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+<q>
+“	``	''	PUQ	PUNCT	punct	_
+generally	RB	generally	AV0	ADV	advmod	general-ly
+companies	NNS	company	NN2	NOUN	nsubj	companie-s
+ca	MD	can	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+afford	VV	afford	VVI	VERB	xcomp	a-fford
+it	PP	it	PNP	PRON	obj	_
+”	''	''	PUQ	PUNCT	punct	_
+</q>
+and	CC	and	CJC	CCONJ	cc	_
+more	RBR	more	AV0	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+<q>
+“	``	''	PUQ	PUNCT	punct	_
+generally	RB	generally	AV0	ADV	advmod	general-ly
+companies	NNS	company	NN2	NOUN	nsubj	companie-s
+are	VBP	be	VBB	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+prioritizing	VVG	prioritize	VVG	VERB	conj	priorit-iz-ing
+it	PP	it	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+budget	NN	budget	NN1	NOUN	nsubj	_
+aside	RB	aside	AV0	ADV	parataxis	a-side
+.	SENT	.	PUN	PUNCT	punct	_
+”	''	''	PUQ	PUNCT	punct	_
+</q>
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+’m	VBP	be	NN0	AUX	aux	_
+looking	VVG	look	VVG	VERB	root	look-ing
+at	IN	at	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+<sic ana="Capital One">
+capital	NP	Capital	NP0	PROPN	appos	_
+one	NP	One	NP0	PROPN	flat	_
+</sic>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Or	CC	or	CJC	CCONJ	cc	_
+<sic ana="Equifax">
+equifax	NP	Equifax	NP0	PROPN	root	_
+</sic>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="null">
+Or	CC	or	CJC	CCONJ	cc	_
+any	DT	any	DT0	DET	root	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+massive	JJ	massive	AJ0	ADJ	amod	_
+thefts	NNS	theft	NN2	NOUN	nmod	theft-s
+that	WDT	that	CJT	PRON	nsubj	_
+basically	RB	basically	AV0	ADV	advmod	bas-ic-ally
+affected	VVD	affect	VVD	VERB	acl:relcl	affect-ed
+a	DT	a	AT0	DET	det	_
+third	NN	third	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+more	RBR	more	AV0	ADV	conj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+country	NN	country	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#Slimjim887" whom="#hexparrot">
+<p>
+<s type="multiple" transition="null">
+Yeah	UH	yeah	ITJ	INTJ	discourse	_
+<sic ana="Sony">
+sony	NP	Sony	NP0	PROPN	nsubj:pass	_
+</sic>
+could	MD	could	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+thrown	VVN	throw	VVN	VERB	root	throw-n
+in	IN	in	PRP	ADP	case	_
+there	RB	there	AV0	ADV	obl	_
+too	RB	too	AV0	ADV	advmod	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+big	JJ	big	AJ0	ADJ	amod	_
+ps3	NP	PS3	NP0	PROPN	compound	_
+hack	NN	hack	NN1	NOUN	obl	_
+that	WDT	that	CJT	PRON	nsubj	_
+happened	VVD	happen	VVD	VERB	acl:relcl	happen-ed
+back	RB	back	AVP	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+day	NN	day	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+sure	JJ	sure	AJ0	ADJ	conj	_
+if	IN	if	CJS	SCONJ	mark	_
+that	DT	that	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+poor	JJ	poor	AJ0	ADJ	amod	_
+security	NN	security	NN1	NOUN	ccomp	secur-ity
+,	,	,	PUN	PUNCT	punct	_
+good	JJ	good	AJ0	ADJ	amod	_
+hackers	NNS	hacker	NN2	NOUN	conj	hack-er-s
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+both	DT	both	AV0	DET	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+'m	VBP	be	VBB	AUX	cop	_
+totally	RB	totally	AV0	ADV	advmod	total-ly
+with	IN	with	PRP	ADP	case	_
+you	PP	you	PNP	PRON	root	_
+though	RB	though	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+If	IN	if	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+afford	VV	afford	VVI	VERB	advcl	a-fford
+it	PP	it	PNP	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+have	VH	have	VHI	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

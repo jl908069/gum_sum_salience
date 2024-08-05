@@ -1,0 +1,825 @@
+<text id="GUM_news_taxes" partition="train" type="news" sourceURL="https://en.wikinews.org/wiki/Local_municipalities_in_Italy_ask_taxes_from_religious_schools" dateCreated="2015-08-02" dateCollected="2015-09-21" dateModified="2015-08-13" speakerCount="0" speakerList="none" author="Wikinews" title="Local municipalities in Italy ask taxes from religious schools" shortTitle="taxes" summary="A July 2015 decision by the Italian Supreme Court of Cassation ruling that religious schools must pay property taxes in Livorno has led to other municipalities in Bogliasco and Lombardy seeking retroactive tax payments from their religious schools, which opponents warn may cause fee increases or school closures.">
+<head rend="bold">
+<s type="decl" transition="establishment">
+Local	JJ	local	AJ0	ADJ	amod	_
+municipalities	NNS	municipality	NN2	NOUN	nsubj	municipal-itie-s
+in	IN	in	PRP	ADP	case	_
+Italy	NP	Italy	NP0	PROPN	nmod	_
+ask	VVP	ask	VVB	VERB	root	_
+taxes	NNS	taxis	NN2	NOUN	obj	taxe-s
+from	IN	from	PRP	ADP	case	_
+religious	JJ	religious	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	obl	school-s
+</s>
+</head>
+<p>
+<s type="frag" transition="null">
+<date when="2015-08-02" rend="bold">
+Sunday	NP	Sunday	NP0	PROPN	root	_
+,	,	,	PUN	PUNCT	punct	_
+August	NP	August	NP0	PROPN	compound	_
+2	CD	2	CRD	NUM	appos	_
+,	,	,	PUN	PUNCT	punct	_
+2015	CD	2015	CRD	NUM	nmod:tmod	_
+</date>
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+<date notAfter="2015-08-02">
+the	DT	the	AT0	DET	det	_
+past	JJ	past	AJ0	ADJ	amod	_
+few	JJ	few	DT0	ADJ	amod	_
+days	NNS	day	NN2	NOUN	obl	day-s
+</date>
+in	IN	in	PRP	ADP	case	_
+<ref>
+Italy	NP	Italy	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+several	JJ	several	DT0	ADJ	amod	_
+municipalities	NNS	municipality	NN2	NOUN	nsubj	municipal-itie-s
+have	VHP	have	VHB	AUX	aux	_
+started	VVN	start	VVN	VERB	root	start-ed
+asking	VVG	ask	VVG	VERB	xcomp	ask-ing
+religious	JJ	religious	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	iobj	school-s
+to	TO	to	TO0	PART	mark	_
+pay	VV	pay	VVI	VERB	xcomp	_
+taxes	NNS	taxis	NN2	NOUN	obj	taxe-s
+for	IN	for	PRP	ADP	case	_
+property	NN	property	NN1	NOUN	nmod	proper-ty
+and	CC	and	CJC	CCONJ	cc	_
+local	JJ	local	AJ0	ADJ	amod	loc-al
+services	NNS	service	NN2	NOUN	conj	service-s
+,	,	,	PUN	PUNCT	punct	_
+despite	IN	despite	PRP	ADP	case	de-spite
+the	DT	the	AT0	DET	det	_
+resistance	NN	resistance	NN1	NOUN	obl	resist-ance
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Catholic	NP	Catholic	NP0	PROPN	compound	_
+Church	NP	Church	NP0	PROPN	nmod	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="photo Instituto Gonzaga">
+<caption>
+<s type="other" transition="null">
+<hi rend="italic">
+Instituto	NP	Instituto	NP0	PROPN	root	_
+Gonzaga	NP	Gonzaga	NP0	PROPN	compound	_
+</hi>
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+catholic	JJ	catholic	AJ0	ADJ	amod	_
+school	NN	school	NN1	NOUN	appos	_
+in	IN	in	PRP	ADP	case	_
+<ref>
+Milan	NP	Milan	NP0	PROPN	nmod	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+Image	NN	image	NN1	NOUN	parataxis	_
+:	:	:	PUN	PUNCT	punct	_
+Friedrichstrasse	NP	Friedrichstrasse	NP0	PROPN	dep	Friedrichstrasse
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+request	NN	request	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+municipalities	NNS	municipality	NN2	NOUN	nmod	municipal-itie-s
+results	VVZ	result	VVZ	VERB	root	result-s
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+sentence	NN	sentence	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Italian	JJ	Italian	AJ0	ADJ	amod	Ital-ian
+<ref>
+Supreme	NP	Supreme	NP0	ADJ	amod	_
+Court	NP	Court	NP0	PROPN	nmod	_
+of	IN	of	PRF	ADP	case	_
+Cassation	NP	Cassation	NP0	PROPN	nmod	_
+</ref>
+on	IN	on	PRP	ADP	case	_
+<date when="2015-07-08">
+July	NP	July	NP0	PROPN	compound	_
+8	CD	8	CRD	NUM	nmod	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+recognising	VVG	recognise	VVG	VERB	acl	recognis-ing
+as	RB	as	AV0	ADV	case	_
+legitimate	JJ	legitimate	AJ0	ADJ	obl	_
+the	DT	the	AT0	DET	det	_
+request	NN	request	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Municipality	NP	Municipality	NP0	PROPN	nmod	Municipal-ity
+of	IN	of	PRF	ADP	case	_
+<ref>
+Livorno	NP	Livorno	NP0	PROPN	nmod	_
+</ref>
+asking	VVG	ask	VVG	VERB	acl	ask-ing
+religious	JJ	religious	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	iobj	school-s
+to	TO	to	TO0	PART	mark	_
+pay	VV	pay	VVI	VERB	xcomp	_
+property	NN	property	NN1	NOUN	compound	proper-ty
+taxes	NNS	taxis	NN2	NOUN	obj	taxe-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+Requests	NNS	request	NN2	NOUN	nsubj	Request-s
+have	VHP	have	VHB	AUX	aux	_
+come	VVN	come	VVN	VERB	root	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Municipality	NP	Municipality	NP0	PROPN	obl	Municipal-ity
+of	IN	of	PRF	ADP	case	_
+<ref>
+Bogliasco	NP	Bogliasco	NP0	PROPN	nmod	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+next	RB	next	ORD	ADV	advmod	_
+to	IN	to	PRP	ADP	case	_
+<ref>
+Genova	NP	Genova	NP0	PROPN	obl	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+deputies	NNS	deputy	NN2	NOUN	conj	deput-ie-s
+of	IN	of	PRF	ADP	case	_
+<ref>
+Movimento	NP	Movimento	NP0	PROPN	nmod	_
+5	CD	5	CRD	NUM	flat	_
+Stelle	NP	Stelle	NP0	PROPN	flat	_
+</ref>
+(	(	(	PUL	PUNCT	punct	_
+M5S	NP	M5S	NP0	PROPN	appos	_
+)	)	)	PUR	PUNCT	punct	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+regional	JJ	regional	AJ0	ADJ	amod	region-al
+counsel	NN	counsel	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+<ref>
+Lombardy	NP	Lombardy	NP0	PROPN	nmod	_
+</ref>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+first	JJ	first	ORD	ADJ	amod	_
+case	NN	case	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+mayor	NN	mayor	NN1	NOUN	root	_
+Luca	NP	Luca	NP0	PROPN	appos	_
+Pastorino	NP	Pastorino	NP0	PROPN	flat	_
+that	WDT	that	CJT	PRON	nsubj	_
+in	IN	in	PRP	ADP	case	_
+last	JJ	last	ORD	ADJ	amod	_
+years	NNS	year	NN2	NOUN	obl	year-s
+received	VVD	receive	VVD	VERB	acl:relcl	receiv-ed
+several	JJ	several	DT0	ADJ	amod	_
+refusals	NNS	refusal	NN2	NOUN	obj	refus-al-s
+of	IN	of	PRF	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+requests	NNS	request	NN2	NOUN	nmod	request-s
+for	IN	for	PRP	ADP	case	_
+payment	NN	payment	NN1	NOUN	nmod	pay-ment
+because	IN	because	CJS	ADP	case	_
+of	IN	of	PRF	ADP	fixed	_
+the	DT	the	AT0	DET	det	_
+religious	JJ	religious	AJ0	ADJ	amod	_
+nursery	NN	nursery	NN1	NOUN	compound	nurse-ry
+school	NN	school	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+retirement	NN	retirement	NN1	NOUN	compound	re-tire-ment
+home	NN	home	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+second	JJ	second	ORD	ADJ	amod	_
+case	NN	case	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+M5S	NP	M5S	NP0	PROPN	compound	_
+party	NN	party	NN1	NOUN	nsubj	_
+asks	VVZ	ask	VVZ	VERB	root	ask-s
+<sic ana="">
+to	IN	to	PRP	ADP	case	_
+</sic>
+the	DT	the	AT0	DET	det	_
+regional	JJ	regional	AJ0	ADJ	amod	region-al
+government	NN	government	NN1	NOUN	obl	govern-ment
+to	TO	to	TO0	PART	mark	_
+assure	VV	assure	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+local	JJ	local	AJ0	ADJ	amod	loc-al
+administrations	NNS	administration	NN2	NOUN	nsubj	administrat-ion-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+region	NN	region	NN1	NOUN	nmod	_
+regularly	RB	regularly	AV0	ADV	advmod	regular-ly
+apply	VV	apply	VVB	VERB	ccomp	appl-y
+the	DT	the	AT0	DET	det	_
+sentence	NN	sentence	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Supreme	NP	Supreme	NP0	PROPN	compound	_
+Court	NP	Court	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+case	NN	case	NN1	NOUN	nsubj	_
+on	IN	on	PRP	ADP	case	_
+which	WDT	which	DTQ	PRON	obl	_
+the	DT	the	AT0	DET	det	_
+Court	NP	Court	NP0	PROPN	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+ruled	VVN	rule	VVN	VERB	acl:relcl	rul-ed
+was	VBD	be	VBD	AUX	cop	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+religious	JJ	religious	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	root	school-s
+<hi rend="italic">
+Santo	NP	Santo	NP0	PROPN	appos	_
+Spirito	NP	Spirito	NP0	PROPN	flat	_
+</hi>
+and	CC	and	CJC	CCONJ	cc	_
+<hi rend="italic">
+Immacolata	NP	Immacolata	NP0	PROPN	conj	_
+</hi>
+in	IN	in	PRP	ADP	case	_
+Livorno	NP	Livorno	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Tuscany	NP	Tuscany	NP0	PROPN	appos	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+to	TO	to	TO0	PART	mark	_
+pay	VV	pay	VVI	VERB	parataxis	_
+over	RB	over	PRP	ADV	advmod	_
+422,000	CD	422000	CRD	NUM	nummod	_
+<ref>
+euros	NNS	euro	NN2	NOUN	obj	euro-s
+</ref>
+in	IN	in	PRP	ADP	case	_
+arrears	NNS	arrears	NN2	NOUN	obl	arrear-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+period	NN	period	NN1	NOUN	obl	_
+from	IN	from	PRP	ADP	case	_
+<date when="2004">
+2004	CD	2004	CRD	NUM	nmod	_
+</date>
+to	IN	to	PRP	ADP	case	_
+<date when="2009">
+2009	CD	2009	CRD	NUM	nmod	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+request	NN	request	NN1	NOUN	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+advanced	VVN	advance	VVN	VERB	root	advanc-ed
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Municipality	NP	Municipality	NP0	PROPN	obl:agent	Municipal-ity
+of	IN	of	PRF	ADP	case	_
+Livorno	NP	Livorno	NP0	PROPN	nmod	_
+in	IN	in	PRP	ADP	case	_
+<date when="2010">
+2010	CD	2010	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+The	DT	the	AT0	DET	det	_
+city	NN	city	NN1	NOUN	nsubj	_
+reasoned	VVD	reason	VVD	VERB	root	reason-ed
+,	,	,	PUN	PUNCT	punct	_
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+users	NNS	user	NN2	NOUN	nsubj	us-er-s
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+private	JJ	private	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	nmod	school-s
+pay	VVP	pay	VVB	VERB	advcl	_
+a	DT	a	AT0	DET	det	_
+frequency	NN	frequency	NN1	NOUN	compound	_
+fee	NN	fee	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+this	DT	this	DT0	DET	det	_
+kind	NN	kind	NN1	NOUN	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+activity	NN	activity	NN1	NOUN	nmod	activ-ity
+is	VBZ	be	VBZ	AUX	aux:pass	_
+considered	VVN	consider	VVN	VERB	ccomp	consider-ed
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+commercial	JJ	commercial	AJ0	ADJ	amod	commerc-ial
+one	NN	one	NN1	NOUN	obl	_
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</quote>
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+In	IN	in	PRP	ADP	case	_
+<date when="2014">
+2014	CD	2014	CRD	NUM	obl	_
+</date>
+the	DT	the	AT0	DET	det	_
+Italian	JJ	Italian	AJ0	ADJ	amod	Ital-ian
+municipal	JJ	municipal	AJ0	ADJ	amod	_
+tax	NN	tax	NN1	NOUN	compound	_
+discipline	NN	discipline	NN1	NOUN	nsubj	discipl-ine
+<sic ana="had">
+has	VHZ	have	VHZ	AUX	aux	ha-s
+</sic>
+changed	VVN	change	VVN	VERB	root	chang-ed
+from	IN	from	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ICI	NP	ICI	NP0	PROPN	compound	_
+system	NN	system	NN1	NOUN	obl	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+IMU	NP	IMU	NP0	PROPN	compound	_
+system	NN	system	NN1	NOUN	obl	_
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<ref>
+Monti	NP	Monti	NP0	PROPN	compound	_
+</ref>
+government	NN	government	NN1	NOUN	nmod	govern-ment
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+A	DT	a	AT0	DET	det	_
+<hi rend="italic">
+mean	JJ	mean	AJ0	ADJ	amod	_
+cost	NN	cost	NN1	NOUN	compound	_
+per	IN	per	PRP	ADP	case	_
+student	NN	student	NN1	NOUN	nmod	stud-ent
+</hi>
+criterion	NN	criterion	NN1	NOUN	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+used	VVN	use	VVN	VERB	root	us-ed
+to	TO	to	TO0	PART	mark	_
+tax	VV	tax	VVI	VERB	advcl	_
+only	RB	only	AV0	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+schools	NNS	school	NN2	NOUN	obj	school-s
+that	WDT	that	CJT	PRON	nsubj	_
+receive	VVP	receive	VVB	VERB	acl:relcl	_
+a	DT	a	AT0	DET	det	_
+fee	NN	fee	NN1	NOUN	obj	_
+higher	JJR	high	AJC	ADJ	amod	high-er
+than	IN	than	CJS	ADP	case	_
+the	DT	the	AT0	DET	det	_
+mean	JJ	mean	AJ0	ADJ	amod	_
+cost	NN	cost	NN1	NOUN	obl	_
+per	IN	per	PRP	ADP	case	_
+student	NN	student	NN1	NOUN	nmod	stud-ent
+fixed	VVN	fix	VVN	VERB	acl	fix-ed
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+State	NP	State	NP0	PROPN	obl:agent	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+new	JJ	new	AJ0	ADJ	amod	_
+law	NN	law	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+retroactive	JJ	retroactive	AJ0	ADJ	root	retro-act-ive
+,	,	,	PUN	PUNCT	punct	_
+so	RB	so	CJS	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+taxes	NNS	taxis	NN2	NOUN	nsubj	taxe-s
+requested	VVN	request	VVN	VERB	acl	request-ed
+in	IN	in	PRP	ADP	case	_
+arrears	NNS	arrears	NN2	NOUN	obl	arrear-s
+from	IN	from	PRP	ADP	case	_
+<date when="2006">
+2006	CD	2006	CRD	NUM	nmod	_
+</date>
+to	IN	to	PRP	ADP	case	_
+<date when="2009">
+2009	CD	2009	CRD	NUM	nmod	_
+</date>
+are	VBP	be	VBB	AUX	cop	_
+under	IN	under	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+ICI	NP	ICI	NP0	PROPN	compound	_
+system	NN	system	NN1	NOUN	parataxis	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Minister	NP	Minister	NP0	PROPN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+Education	NP	Education	NP0	PROPN	nmod	Educat-ion
+<ref>
+Stefania	NP	Stefania	NP0	PROPN	flat	_
+Giannini	NP	Giannini	NP0	PROPN	flat	_
+</ref>
+said	VVD	say	VVD	VERB	root	sai-d
+a	DT	a	AT0	DET	det	_
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+more	RBR	more	DT0	ADV	advmod	_
+general	JJ	general	AJ0	ADJ	amod	general
+reflection	NN	reflection	NN1	NOUN	nsubj:pass	reflec-tion
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+</quote>
+is	VBZ	be	VBZ	AUX	aux:pass	_
+needed	VVN	need	VVN	VERB	ccomp	need-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Claudio	NP	Claudio	NP0	PROPN	nsubj	_
+De	NP	De	NP0	PROPN	flat	_
+Vincenti	NP	Vincenti	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+undersecretary	NN	undersecretary	NN1	NOUN	appos	under-secretary
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+prime	JJ	prime	AJ0	ADJ	amod	_
+minister	NN	minister	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+said	VVD	say	VVD	VERB	root	sai-d
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+discussion	NN	discussion	NN1	NOUN	compound	discuss-ion
+table	NN	table	NN1	NOUN	nsubj:pass	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+opened	VVN	open	VVN	VERB	ccomp	open-ed
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+non-profit	JJ	non-profit	AJ0	ADJ	amod	non-profit
+associations	NNS	association	NN2	NOUN	obl	associat-ion-s
+,	,	,	PUN	PUNCT	punct	_
+religious	JJ	religious	AJ0	ADJ	amod	_
+<sic ana="associations">
+association	NN	association	NN1	NOUN	nsubj:pass	associat-ion
+</sic>
+included	VVN	include	VVN	VERB	acl	includ-ed
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</quote>
+</s>
+</p>
+<p>
+<s type="decl" transition="retain">
+Undersecretary	NP	Undersecretary	NP0	PROPN	nsubj	Under-secretary
+for	IN	for	PRP	ADP	case	_
+Education	NP	Education	NP0	PROPN	nmod	Educat-ion
+Mr.	NP	Mr.	NP0	PROPN	appos	_
+Toccafondi	NP	Toccafondi	NP0	PROPN	flat	_
+says	VVZ	say	VVZ	VERB	root	say-s
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+many	JJ	many	DT0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	nsubj	school-s
+will	MD	will	VM0	AUX	aux	_
+increase	VV	increase	VVI	VERB	ccomp	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+fees	NNS	fee	NN2	NOUN	obj	fee-s
+or	CC	or	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+quit	VV	quit	VVI	VERB	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+Then	RB	then	AV0	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+State	NP	State	NP0	PROPN	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+have	VH	have	VHI	VERB	parataxis	_
+to	TO	to	TO0	PART	mark	_
+find	VV	find	VVI	VERB	xcomp	_
+new	JJ	new	AJ0	ADJ	amod	_
+resources	NNS	resource	NN2	NOUN	obj	re-source-s
+to	TO	to	TO0	PART	mark	_
+build	VV	build	VVI	VERB	advcl	_
+new	JJ	new	AJ0	ADJ	amod	_
+structures	NNS	structure	NN2	NOUN	obj	structure-s
+and	CC	and	CJC	CCONJ	cc	_
+manage	VV	manage	VVB	VERB	conj	_
+them	PP	they	PNP	PRON	obj	_
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</quote>
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+Also	RB	also	AV0	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+president	NN	president	NN1	NOUN	nsubj	presid-ent
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Lombardy	NP	Lombardy	NP0	PROPN	compound	_
+region	NN	region	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Roberto	NP	Roberto	NP0	PROPN	appos	_
+Maroni	NP	Maroni	NP0	PROPN	flat	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+reacted	VVN	react	VVN	VERB	root	re-act-ed
+by	IN	by	PRP	SCONJ	mark	_
+proposing	VVG	propose	VVG	VERB	advcl	propos-ing
+some	DT	some	DT0	DET	det	_
+regional	JJ	regional	AJ0	ADJ	amod	region-al
+counter-measures	NN	counter-measure	NN1	NOUN	obj	counter-measure-s
+to	TO	to	TO0	PART	mark	_
+finance	VV	finance	VVI	VERB	advcl	_
+private	JJ	private	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	obj	school-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+The	DT	the	AT0	DET	det	_
+secretary	NN	secretary	NN1	NOUN	compound	_
+general	NN	general	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+CEI	NP	CEI	NP0	PROPN	nmod	_
+(	(	(	PUL	PUNCT	punct	_
+<ref>
+Italian	NP	Italian	NP0	PROPN	compound	Ital-ian
+Episcopal	NP	Episcopal	NP0	PROPN	compound	_
+Conference	NP	Conference	NP0	PROPN	appos	Confer-ence
+</ref>
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+<ref>
+Nunzio	NP	Nunzio	NP0	PROPN	appos	_
+Galantino	NP	Galantino	NP0	PROPN	flat	_
+</ref>
+,	,	,	PUN	PUNCT	punct	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+called	VVN	call	VVN	VERB	root	call-ed
+the	DT	the	AT0	DET	det	_
+sentence	NN	sentence	NN1	NOUN	obj	_
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+dangerous	JJ	dangerous	AJ0	ADJ	xcomp	danger-ous
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+</quote>
+and	CC	and	CJC	CCONJ	cc	_
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+ideological	JJ	ideological	AJ0	ADJ	conj	ideolog-ic-al
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+</quote>
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="decl" transition="establishment">
+"	``	''	PUQ	PUNCT	punct	_
+We	PP	we	PNP	PRON	nsubj	_
+face	VVP	face	VVB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+dangerous	JJ	dangerous	AJ0	ADJ	amod	danger-ous
+sentence	NN	sentence	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+<sic ana="whoever">
+Who	WP	who	PNQ	PRON	vocative	_
+</sic>
+takes	VVZ	take	VVZ	VERB	acl:relcl	take-s
+the	DT	the	AT0	DET	det	_
+decisions	NNS	decision	NN2	NOUN	obj	decis-ion-s
+,	,	,	PUN	PUNCT	punct	_
+do	VV	do	VDB	VERB	root	_
+it	PP	it	PNP	PRON	obj	_
+with	IN	with	PRP	ADP	case	_
+less	JJR	less	DT0	ADJ	amod	_
+ideology	NN	ideology	NN1	NOUN	obl	ide-ology
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Because	IN	because	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+clear	JJ	clear	AJ0	ADJ	amod	_
+sensation	NN	sensation	NN1	NOUN	obj	sens-ation
+that	IN/that	that	CJT	SCONJ	mark	_
+with	IN	with	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+way	NN	way	NN1	NOUN	obl	_
+of	IN	of	PRF	SCONJ	mark	_
+thinking	VVG	think	VVG	VERB	acl	think-ing
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+<sic ana="wait for">
+wait	VVP	wait	VVB	VERB	acl	_
+</sic>
+the	DT	the	AT0	DET	det	_
+praise	NN	praise	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+some	DT	some	DT0	DET	det	_
+<hi rend="italic">
+ideologized	JJ	ideologized	AJ0	ADJ	amod	ideo-log-iz-ed
+</hi>
+supporters	NNS	supporter	NN2	NOUN	nmod	support-er-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Indeed	RB	indeed	AV0	ADV	advmod	In-deed
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+understand	VV	understand	VVI	VERB	root	under-stand
+what	WDT	what	DTQ	DET	det	_
+kind	NN	kind	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+good	JJ	good	AJ0	ADJ	amod	_
+service	NN	service	NN1	NOUN	nmod	_
+private	JJ	private	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	nsubj	school-s
+held	VVD	hold	VVD	VERB	ccomp	_
+"	''	''	PUQ	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+it	NP	Italian	NP0	PROPN	dep	_
+)	)	)	PUR	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="decl" transition="zero">
+Italian	JJ	Italian	AJ0	ADJ	amod	Ital-ian
+secularist	NN	secularist	NN1	NOUN	compound	secular-ist
+associations	NNS	association	NN2	NOUN	nsubj:pass	associat-ion-s
+are	VBP	be	VBB	AUX	aux:pass	_
+concerned	VVN	concern	VVN	VERB	root	concern-ed
+the	DT	the	AT0	DET	det	_
+Government	NN	government	NN1	NOUN	nsubj	Govern-ment
+will	MD	will	VM0	AUX	aux	_
+modify	VV	modify	VVI	VERB	ccomp	_
+the	DT	the	AT0	DET	det	_
+law	NN	law	NN1	NOUN	obj	_
+in	IN	in	PRP	SCONJ	mark	_
+order	NN	order	NN1	NOUN	fixed	_
+to	TO	to	TO0	PART	mark	_
+maintain	VV	maintain	VVI	VERB	advcl	_
+an	DT	a	AT0	DET	det	_
+exception	NN	exception	NN1	NOUN	obj	except-ion
+for	IN	for	PRP	ADP	case	_
+religious	JJ	religious	AJ0	ADJ	amod	_
+schools	NNS	school	NN2	NOUN	nmod	school-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+secularist	NN	secularist	NN1	NOUN	compound	secular-ist
+magazine	NN	magazine	NN1	NOUN	nsubj	_
+<ref>
+MicroMega	NP	MicroMega	NP0	PROPN	appos	_
+</ref>
+describe	VVP	describe	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+court	NN	court	NN1	NOUN	nmod:poss	_
+'s	POS	's	POS	PART	case	_
+judgement	NN	judgement	NN1	NOUN	obj	judge-ment
+as	IN	as	PRP	ADP	case	_
+<hi rend="italic">
+historic	JJ	historic	AJ0	ADJ	obl	histor-ic
+</hi>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+<ref>
+Union	NP	Union	NP0	PROPN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+Rationalist	NP	Rationalist	NP0	PROPN	nmod	Rational-ist
+Atheists	NPS	Atheist	NP0	PROPN	flat	Athe-ist-s
+and	CC	and	CJC	CCONJ	cc	_
+Agnostics	NPS	Agnostic	NP0	PROPN	conj	A-gnostic-s
+</ref>
+(	(	(	PUL	PUNCT	punct	_
+UAAR	NP	UAAR	NP0	PROPN	appos	_
+)	)	)	PUR	PUNCT	punct	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+launched	VVN	launch	VVN	VERB	root	launch-ed
+a	DT	a	AT0	DET	det	_
+petition	NN	petition	NN1	NOUN	obj	_
+which	WDT	which	DTQ	PRON	nsubj	_
+now	RB	now	AV0	ADV	advmod	_
+has	VHZ	have	VHZ	VERB	acl:relcl	ha-s
+more	RBR	more	AV0	ADV	advmod	_
+than	IN	than	CJS	ADP	fixed	_
+11,000	CD	11000	CRD	NUM	nummod	_
+signatures	NNS	signature	NN2	NOUN	obj	signature-s
+,	,	,	PUN	PUNCT	punct	_
+asking	VVG	ask	VVG	VERB	acl	ask-ing
+the	DT	the	AT0	DET	det	_
+government	NN	government	NN1	NOUN	iobj	govern-ment
+to	TO	to	TO0	PART	mark	_
+respect	VV	respect	VVI	VERB	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+execute	VV	execute	VVI	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+sentence	NN	sentence	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+Supreme	NP	Supreme	NP0	ADJ	amod	_
+Court	NP	Court	NP0	PROPN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+It	PP	it	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	aux	_
+also	RB	also	AV0	ADV	advmod	_
+encouraging	VVG	encourage	VVG	VERB	root	en-courag-ing
+citizens	NNS	citizen	NN2	NOUN	obj	citizen-s
+to	TO	to	TO0	PART	mark	_
+ask	VV	ask	VVI	VERB	xcomp	_
+for	IN	for	PRP	ADP	case	_
+application	NN	application	NN1	NOUN	obl	applic-ation
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+law	NN	law	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+local	JJ	local	AJ0	ADJ	amod	loc-al
+municipalities	NNS	municipality	NN2	NOUN	nmod	municipal-itie-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>

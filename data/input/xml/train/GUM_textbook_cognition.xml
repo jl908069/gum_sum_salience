@@ -1,0 +1,1337 @@
+<text id="GUM_textbook_cognition" partition="train" author="Rose Spielman, Kathryn Dumpner, William Jenkins, Arlene Lacombe, Marilyn Lovett, Marion Perlmutter" dateCollected="2020-09-07" dateCreated="2014-12-08" dateModified="2019-10-02" shortTitle="cognition" sourceURL="https://openstax.org/books/psychology/pages/7-1-what-is-cognition" speakerCount="0" speakerList="none" title="Psychology" type="textbook" summary="This excerpt from a psychology textbook explains how the brain uses abstract concepts, such as 'democracy', and prototypes like Rosa Parks or Mahatma Gandhi for categories such as 'civil disobedience', in order to organize the large amounts of information in sensory experience.">
+<head>
+<s type="frag" transition="establishment">
+Learning	NN	learning	NN1	NOUN	compound	Learn-ing
+Objectives	NNS	objective	NN2	NOUN	root	Object-ive-s
+</s>
+</head>
+<p>
+<s type="decl" transition="null">
+By	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+this	DT	this	DT0	DET	det	_
+section	NN	section	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+able	JJ	able	AJ0	ADJ	root	_
+to	TO	to	TO0	PART	xcomp	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<list type="unordered">
+<item>
+<s type="inf" transition="null">
+Describe	VV	describe	VVB	VERB	root	_
+cognition	NN	cognition	NN1	NOUN	obj	_
+</s>
+</item>
+<item>
+<s type="inf" transition="null">
+Distinguish	VV	distinguish	AJ0	VERB	root	Distinguish
+concepts	NNS	concept	NN2	NOUN	obj	concept-s
+and	CC	and	CJC	CCONJ	cc	_
+prototypes	NNS	prototype	NN2	NOUN	conj	prototype-s
+</s>
+</item>
+<item>
+<s type="inf" transition="establishment">
+Explain	VV	explain	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+difference	NN	difference	NN1	NOUN	obj	differ-ence
+between	IN	between	PRP	ADP	case	be-tween
+natural	JJ	natural	AJ0	ADJ	amod	natur-al
+and	CC	and	CJC	CCONJ	cc	_
+artificial	JJ	artificial	AJ0	ADJ	conj	artific-ial
+concepts	NNS	concept	NN2	NOUN	nmod	concept-s
+</s>
+</item>
+</list>
+</p>
+<p>
+<s type="imp" transition="zero">
+Imagine	VV	imagine	VVB	VERB	root	_
+all	DT	all	DT0	DET	obj	_
+of	IN	of	PRF	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+thoughts	NNS	thought	NN2	NOUN	nmod	thought-s
+as	IN	as	CJS	SCONJ	mark	_
+if	IN	if	CJS	ADP	fixed	_
+they	PP	they	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+physical	JJ	physical	AJ0	ADJ	amod	physic-al
+entities	NNS	entity	NN2	NOUN	advcl	entitie-s
+,	,	,	PUN	PUNCT	punct	_
+swirling	VVG	swirl	VVG	VERB	acl	swirl-ing
+rapidly	RB	rapidly	AV0	ADV	advmod	rapid-ly
+inside	IN	inside	PRP	ADP	case	in-side
+your	PP$	your	DPS	PRON	nmod:poss	_
+mind	NN	mind	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="null">
+How	WRB	how	AVQ	ADV	advmod	_
+is	VBZ	be	VBZ	AUX	cop	_
+it	PP	it	PNP	PRON	expl	_
+possible	JJ	possible	AJ0	ADJ	root	_
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+able	JJ	able	AJ0	ADJ	csubj	_
+to	TO	to	TO0	PART	mark	_
+move	VV	move	VVI	VERB	xcomp	_
+from	IN	from	PRP	ADP	case	_
+one	CD	one	CRD	NUM	nummod	_
+thought	NN	thought	NN1	NOUN	obl	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+next	JJ	next	ORD	ADJ	obl	_
+in	IN	in	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+organized	VVN	organize	VVN	VERB	amod	organiz-ed
+,	,	,	PUN	PUNCT	punct	_
+orderly	JJ	orderly	AJ0	ADJ	amod	order-ly
+fashion	NN	fashion	NN1	NOUN	obl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	aux	_
+endlessly	RB	endlessly	AV0	ADV	advmod	end-less-ly
+perceiving	VVG	perceive	VVG	VERB	root	perceiv-ing
+,	,	,	PUN	PUNCT	punct	_
+processing	VVG	process	VVG	VERB	conj	process-ing
+,	,	,	PUN	PUNCT	punct	_
+planning	VVG	plan	VVG	VERB	conj	plann-ing
+,	,	,	PUN	PUNCT	punct	_
+organizing	VVG	organize	VVG	VERB	conj	organiz-ing
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+<w>
+remembering	VVG	remember	VVG	VERB	conj	remember-ing
+—	:	—	AJ0	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+</w>
+is	VBZ	be	VBZ	AUX	cop	_
+always	RB	always	AV0	ADV	advmod	_
+active	JJ	active	AJ0	ADJ	parataxis	act-ive
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Yet	CC	yet	AV0	CCONJ	cc	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+notice	VV	notice	VVB	VERB	root	_
+most	JJS	most	DT0	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+brain	NN	brain	NN1	NOUN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+activity	NN	activity	NN1	NOUN	obl	activ-ity
+as	IN	as	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+move	VVP	move	VVB	VERB	advcl	_
+throughout	IN	throughout	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+daily	JJ	daily	AJ0	ADJ	amod	dai-ly
+routine	NN	routine	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+This	DT	this	DT0	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+only	RB	only	AV0	ADV	advmod	_
+one	CD	one	CRD	NUM	nummod	_
+facet	NN	facet	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+complex	JJ	complex	AJ0	ADJ	amod	_
+processes	NNS	process	NN2	NOUN	nmod	processe-s
+involved	VVN	involve	VVN	VERB	acl	involv-ed
+in	IN	in	PRP	ADP	case	_
+cognition	NN	cognition	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Simply	RB	simply	AV0	ADV	advmod	Simp-ly
+put	VVN	put	VVN	VERB	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+<hi rend="bold">
+cognition	NN	cognition	NN1	NOUN	nsubj	_
+</hi>
+is	VBZ	be	VBZ	AUX	cop	_
+thinking	NN	thinking	NN1	NOUN	root	think-ing
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+encompasses	VVZ	encompass	VVZ	VERB	conj	en-compasse-s
+the	DT	the	AT0	DET	det	_
+processes	NNS	process	NN2	NOUN	obj	processe-s
+associated	VVN	associate	VVN	VERB	acl	associat-ed
+with	IN	with	PRP	ADP	case	_
+perception	NN	perception	NN1	NOUN	obl	percept-ion
+,	,	,	PUN	PUNCT	punct	_
+knowledge	NN	knowledge	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+problem	NN	problem	NN1	NOUN	compound	_
+solving	NN	solving	NN1	NOUN	conj	solv-ing
+,	,	,	PUN	PUNCT	punct	_
+judgment	NN	judgment	NN1	NOUN	conj	judg-ment
+,	,	,	PUN	PUNCT	punct	_
+language	NN	language	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+memory	NN	memory	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Scientists	NNS	scientist	NN2	NOUN	nsubj	Scient-ist-s
+who	WP	who	PNQ	PRON	nsubj	_
+study	VVP	study	VVB	VERB	acl:relcl	_
+cognition	NN	cognition	NN1	NOUN	obj	_
+are	VBP	be	VBB	AUX	aux	_
+searching	VVG	search	VVG	VERB	root	search-ing
+for	IN	for	PRP	ADP	case	_
+ways	NNS	way	NN2	NOUN	obl	way-s
+to	TO	to	TO0	PART	mark	_
+understand	VV	understand	VVI	VERB	acl	under-stand
+how	WRB	how	AVQ	ADV	obj	_
+we	PP	we	PNP	PRON	nsubj	_
+integrate	VVP	integrate	VVB	VERB	advcl:relcl	_
+,	,	,	PUN	PUNCT	punct	_
+organize	VVP	organize	VVB	VERB	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+utilize	VVP	utilize	VVB	VERB	conj	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+conscious	JJ	conscious	AJ0	ADJ	amod	_
+cognitive	JJ	cognitive	AJ0	ADJ	amod	cognit-ive
+experiences	NNS	experience	NN2	NOUN	obj	experience-s
+without	IN	without	PRP	SCONJ	mark	_
+being	VBG	be	VBG	AUX	cop	be-ing
+aware	JJ	aware	AJ0	ADJ	advcl	a-ware
+of	IN	of	PRF	ADP	case	_
+all	DT	all	DT0	DET	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+unconscious	JJ	unconscious	AJ0	ADJ	amod	un-conscious
+work	NN	work	NN1	NOUN	nmod	_
+that	WDT	that	CJT	PRON	obj	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+brains	NNS	brain	NN2	NOUN	nsubj	brain-s
+are	VBP	be	VBB	AUX	aux	_
+doing	VVG	do	VDG	VERB	acl:relcl	do-ing
+(	(	(	PUL	PUNCT	punct	_
+for	IN	for	PRP	ADP	case	_
+example	NN	example	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+Kahneman	NP	Kahneman	NP0	PROPN	parataxis	_
+,	,	,	PUN	PUNCT	punct	_
+<date when="2011">
+2011	CD	2011	CRD	NUM	nmod:tmod	_
+</date>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="null">
+Cognition	NN	cognition	NN1	NOUN	root	_
+</s>
+</head>
+<p>
+<s type="decl" transition="null">
+Upon	IN	upon	PRP	SCONJ	mark	Up-on
+waking	VVG	wake	VVG	VERB	advcl	wak-ing
+each	DT	each	DT0	DET	det	_
+morning	NN	morning	NN1	NOUN	obl:tmod	morn-ing
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+begin	VVP	begin	VVB	VERB	root	_
+<w>
+thinking	VVG	think	VVG	VERB	xcomp	think-ing
+—	:	—	UNC	PUNCT	punct	_
+contemplating	VVG	contemplate	VVG	VERB	parataxis	contemplat-ing
+</w>
+the	DT	the	AT0	DET	det	_
+tasks	NNS	task	NN2	NOUN	obj	task-s
+that	WDT	that	CJT	PRON	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+must	MD	must	VM0	AUX	aux	_
+complete	VV	complete	VVI	VERB	acl:relcl	_
+that	DT	that	DT0	DET	det	_
+day	NN	day	NN1	NOUN	obl:tmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+what	WDT	what	DTQ	DET	det	_
+order	NN	order	NN1	NOUN	obl	_
+should	MD	should	VM0	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+run	VV	run	VVI	VERB	root	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+errands	NNS	errand	NN2	NOUN	obj	errand-s
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="continue">
+Should	MD	should	VM0	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+go	VV	go	VVI	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+bank	NN	bank	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+cleaners	NNS	cleaner	NN2	NOUN	conj	clean-er-s
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+grocery	NN	grocery	NN1	NOUN	compound	grocer-y
+store	NN	store	NN1	NOUN	conj	_
+first	RB	first	ORD	ADV	advmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="continue">
+Can	MD	can	VM0	AUX	aux	_
+you	PP	you	PNP	PRON	nsubj	_
+get	VV	get	VVI	VERB	root	_
+these	DT	this	DT0	DET	det	_
+things	NNS	thing	NN2	NOUN	obj	thing-s
+done	VVN	do	VDN	VERB	xcomp	_
+before	IN	before	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+head	VVP	head	VVB	VERB	advcl	_
+to	IN	to	PRP	ADP	case	_
+class	NN	class	NN1	NOUN	obl	_
+or	CC	or	CJC	CCONJ	cc	_
+will	MD	will	VM0	AUX	aux	_
+they	PP	they	PNP	PRON	nsubj	_
+need	VV	need	VVI	VERB	conj	_
+to	TO	to	TO0	PART	mark	_
+wait	VV	wait	VVI	VERB	xcomp	_
+until	IN	until	PRP	SCONJ	mark	un-til
+school	NN	school	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+done	JJ	done	VDN	ADJ	advcl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+These	DT	this	DT0	DET	det	_
+thoughts	NNS	thought	NN2	NOUN	nsubj	thought-s
+are	VBP	be	VBB	AUX	cop	_
+one	CD	one	CRD	NUM	nummod	_
+example	NN	example	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+cognition	NN	cognition	NN1	NOUN	nmod	_
+at	IN	at	PRP	ADP	case	_
+work	NN	work	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Exceptionally	RB	exceptionally	AV0	ADV	advmod	Except-ion-al-ly
+complex	JJ	complex	AJ0	ADJ	acl	_
+,	,	,	PUN	PUNCT	punct	_
+cognition	NN	cognition	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+essential	JJ	essential	AJ0	ADJ	amod	_
+feature	NN	feature	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+human	JJ	human	AJ0	ADJ	amod	_
+consciousness	NN	consciousness	NN1	NOUN	nmod	conscious-ness
+,	,	,	PUN	PUNCT	punct	_
+yet	CC	yet	AV0	CCONJ	cc	_
+not	RB	not	XX0	PART	advmod	_
+all	DT	all	DT0	DET	det	_
+aspects	NNS	aspect	NN2	NOUN	nsubj:pass	aspect-s
+of	IN	of	PRF	ADP	case	_
+cognition	NN	cognition	NN1	NOUN	nmod	_
+are	VBP	be	VBB	AUX	aux:pass	_
+consciously	RB	consciously	AV0	ADV	advmod	conscious-ly
+experienced	VVN	experience	VVN	VERB	conj	experienc-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+<hi rend="bold">
+Cognitive	JJ	cognitive	AJ0	ADJ	amod	Cognit-ive
+psychology	NN	psychology	NN1	NOUN	nsubj	_
+</hi>
+is	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+field	NN	field	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+psychology	NN	psychology	NN1	NOUN	nmod	_
+dedicated	VVN	dedicate	VVN	VERB	acl	dedicat-ed
+to	IN	to	PRP	SCONJ	mark	_
+examining	VVG	examine	VVG	VERB	advcl	examin-ing
+how	WRB	how	AVQ	ADV	obj	_
+people	NNS	person	NN0	NOUN	nsubj	_
+think	VVP	think	VVB	VERB	advcl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+It	PP	it	PNP	PRON	nsubj	_
+attempts	VVZ	attempt	VVZ	VERB	root	attempt-s
+to	TO	to	TO0	PART	mark	_
+explain	VV	explain	VVI	VERB	xcomp	_
+how	WRB	how	AVQ	ADV	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+why	WRB	why	AVQ	ADV	conj	_
+we	PP	we	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	advcl:relcl	_
+the	DT	the	AT0	DET	det	_
+way	NN	way	NN1	NOUN	obl:npmod	_
+we	PP	we	PNP	PRON	nsubj	_
+do	VVP	do	VD	VERB	acl:relcl	_
+by	IN	by	PRP	SCONJ	mark	_
+studying	VVG	study	VVG	VERB	advcl	study-ing
+the	DT	the	AT0	DET	det	_
+interactions	NNS	interaction	NN2	NOUN	obj	inter-act-ion-s
+among	IN	among	PRP	ADP	case	a-mong
+human	JJ	human	AJ0	ADJ	amod	_
+thinking	NN	thinking	NN1	NOUN	nmod	think-ing
+,	,	,	PUN	PUNCT	punct	_
+emotion	NN	emotion	NN1	NOUN	conj	emot-ion
+,	,	,	PUN	PUNCT	punct	_
+creativity	NN	creativity	NN1	NOUN	conj	creativ-ity
+,	,	,	PUN	PUNCT	punct	_
+language	NN	language	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+problem	NN	problem	NN1	NOUN	compound	_
+solving	NN	solving	NN1	NOUN	conj	solv-ing
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+addition	NN	addition	NN1	NOUN	nmod	add-ition
+to	IN	to	PRP	ADP	case	_
+other	JJ	other	AJ0	ADJ	amod	_
+cognitive	JJ	cognitive	AJ0	ADJ	amod	cognit-ive
+processes	NNS	process	NN2	NOUN	nmod	processe-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Cognitive	JJ	cognitive	AJ0	ADJ	amod	Cognit-ive
+psychologists	NNS	psychologist	NN2	NOUN	nsubj	psycholog-ist-s
+strive	VVP	strive	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+determine	VV	determine	VVI	VERB	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+measure	VV	measure	VVI	VERB	conj	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+types	NNS	type	NN2	NOUN	obj	type-s
+of	IN	of	PRF	ADP	case	_
+intelligence	NN	intelligence	NN1	NOUN	nmod	intellig-ence
+,	,	,	PUN	PUNCT	punct	_
+why	WRB	why	AVQ	ADV	advmod	_
+some	DT	some	DT0	DET	det	_
+people	NNS	person	NN0	NOUN	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+better	JJR	good	AJC	ADJ	conj	bett-er
+at	IN	at	PRP	ADP	case	_
+problem	NN	problem	NN1	NOUN	compound	_
+solving	NN	solving	NN1	NOUN	obl	solv-ing
+than	IN	than	CJS	ADP	case	_
+others	NNS	other	NN2	NOUN	obl	other-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+how	WRB	how	AVQ	ADV	mark	_
+emotional	JJ	emotional	AJ0	ADJ	amod	emot-ion-al
+intelligence	NN	intelligence	NN1	NOUN	nsubj	intellig-ence
+affects	VVZ	affect	VVZ	VERB	conj	affect-s
+success	NN	success	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+workplace	NN	workplace	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+among	IN	among	PRP	ADP	case	a-mong
+countless	JJ	countless	AJ0	ADJ	amod	count-less
+other	JJ	other	AJ0	ADJ	amod	_
+topics	NNS	topic	NN2	NOUN	nmod	topic-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+They	PP	they	PNP	PRON	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+sometimes	RB	sometimes	AV0	ADV	advmod	sometime-s
+focus	VVP	focus	VVB	VERB	root	_
+on	IN	on	PRP	ADP	case	_
+how	WRB	how	AVQ	ADV	obl	_
+we	PP	we	PNP	PRON	nsubj	_
+organize	VVP	organize	VVB	VERB	advcl:relcl	_
+thoughts	NNS	thought	NN2	NOUN	obj	thought-s
+and	CC	and	CJC	CCONJ	cc	_
+information	NN	information	NN1	NOUN	conj	in-form-ation
+gathered	VVN	gather	VVN	VERB	acl	gather-ed
+from	IN	from	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+environments	NNS	environment	NN2	NOUN	obl	environ-ment-s
+into	IN	into	PRP	ADP	case	in-to
+meaningful	JJ	meaningful	AJ0	ADJ	amod	mean-ing-ful
+categories	NNS	category	NN2	NOUN	obl	categorie-s
+of	IN	of	PRF	ADP	case	_
+thought	NN	thought	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj:pass	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	aux:pass	_
+discussed	VVN	discuss	VVN	VERB	advcl:relcl	discuss-ed
+later	RBR	late	AV0	ADV	advmod	lat-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<head>
+<s type="frag" transition="zero">
+Concepts	NNS	concept	NN2	NOUN	root	Concept-s
+and	CC	and	CJC	CCONJ	cc	_
+Prototypes	NNS	prototype	NN2	NOUN	conj	Prototype-s
+</s>
+</head>
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+human	JJ	human	AJ0	ADJ	amod	_
+nervous	JJ	nervous	AJ0	ADJ	amod	nerv-ous
+system	NN	system	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+capable	JJ	capable	AJ0	ADJ	root	_
+of	IN	of	PRF	SCONJ	mark	_
+handling	VVG	handle	VVG	VERB	advcl	hand-l-ing
+endless	JJ	endless	AJ0	ADJ	amod	end-less
+streams	NNS	stream	NN2	NOUN	obj	stream-s
+of	IN	of	PRF	ADP	case	_
+information	NN	information	NN1	NOUN	nmod	in-form-ation
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+senses	NNS	sense	NN2	NOUN	nsubj	sense-s
+serve	VVP	serve	VVB	VERB	root	_
+as	IN	as	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+interface	NN	interface	NN1	NOUN	obl	inter-face
+between	IN	between	PRP	ADP	case	be-tween
+the	DT	the	AT0	DET	det	_
+mind	NN	mind	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+external	JJ	external	AJ0	ADJ	amod	_
+environment	NN	environment	NN1	NOUN	conj	environ-ment
+,	,	,	PUN	PUNCT	punct	_
+receiving	VVG	receive	VVG	VERB	advcl	receiv-ing
+stimuli	NNS	stimulus	NN2	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+translating	VVG	translate	VVG	VERB	conj	translat-ing
+<sic ana="them">
+it	PP	it	PNP	PRON	obj	_
+</sic>
+into	IN	into	PRP	ADP	case	in-to
+nervous	JJ	nervous	AJ0	ADJ	amod	nerv-ous
+impulses	NNS	impulse	NN2	NOUN	obl	impulse-s
+that	WDT	that	CJT	PRON	nsubj:pass	_
+are	VBP	be	VBB	AUX	aux:pass	_
+transmitted	VVN	transmitt	VVN	VERB	acl:relcl	transmitt-ed
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+then	RB	then	AV0	ADV	advmod	_
+processes	VVZ	process	VVZ	VERB	root	processe-s
+this	DT	this	DT0	DET	det	_
+information	NN	information	NN1	NOUN	obj	in-form-ation
+and	CC	and	CJC	CCONJ	cc	_
+uses	VVZ	use	VVZ	VERB	conj	use-s
+the	DT	the	AT0	DET	det	_
+relevant	JJ	relevant	AJ0	ADJ	amod	_
+pieces	NNS	piece	NN2	NOUN	obj	piece-s
+to	TO	to	TO0	PART	mark	_
+create	VV	create	VVI	VERB	advcl	_
+thoughts	NNS	thought	NN2	NOUN	obj	thought-s
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj:pass	_
+can	MD	can	VM0	AUX	aux	_
+then	RB	then	AV0	ADV	advmod	_
+be	VB	be	VBI	AUX	aux:pass	_
+expressed	VVN	express	VVN	VERB	acl:relcl	express-ed
+through	IN	through	PRP	ADP	case	_
+language	NN	language	NN1	NOUN	obl	_
+or	CC	or	CJC	CCONJ	cc	_
+stored	VVN	store	VVN	VERB	conj	stor-ed
+in	IN	in	PRP	ADP	case	_
+memory	NN	memory	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+future	JJ	future	AJ0	ADJ	amod	_
+use	NN	use	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+To	TO	to	TO0	PART	mark	_
+make	VV	make	VVI	VERB	advcl	_
+this	DT	this	DT0	DET	det	_
+process	NN	process	NN1	NOUN	obj	_
+more	RBR	more	AV0	ADV	advmod	_
+complex	JJ	complex	AJ0	ADJ	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+not	RB	not	XX0	PART	advmod	_
+gather	VV	gather	VVI	VERB	root	_
+information	NN	information	NN1	NOUN	obj	in-form-ation
+from	IN	from	PRP	ADP	case	_
+external	JJ	external	AJ0	ADJ	amod	_
+environments	NNS	environment	NN2	NOUN	obl	environ-ment-s
+only	RB	only	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+When	WRB	when	CJS	ADV	advmod	_
+thoughts	NNS	thought	NN2	NOUN	nsubj:pass	thought-s
+are	VBP	be	VBB	AUX	aux:pass	_
+formed	VVN	form	VVN	VERB	advcl	form-ed
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+pulls	VVZ	pull	VVZ	VERB	root	pull-s
+information	NN	information	NN1	NOUN	obj	in-form-ation
+from	IN	from	PRP	ADP	case	_
+emotions	NNS	emotion	NN2	NOUN	obl	emot-ion-s
+and	CC	and	CJC	CCONJ	cc	_
+memories	NNS	memory	NN2	NOUN	conj	memorie-s
+(	(	(	PUL	PUNCT	punct	_
+<ref target="figure 7.2">
+Figure	NP	Figure	NP0	PROPN	dep	_
+7.2	CD	7.2	CRD	NUM	dep	_
+</ref>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+Emotion	NN	emotion	NN1	NOUN	nsubj	Emot-ion
+and	CC	and	CJC	CCONJ	cc	_
+memory	NN	memory	NN1	NOUN	conj	_
+are	VBP	be	VBB	AUX	cop	_
+powerful	JJ	powerful	AJ0	ADJ	amod	power-ful
+influences	NNS	influence	NN2	NOUN	root	influence-s
+on	IN	on	PRP	ADP	case	_
+both	CC	both	DT0	CCONJ	cc:preconj	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+thoughts	NNS	thought	NN2	NOUN	nmod	thought-s
+and	CC	and	CJC	CCONJ	cc	_
+behaviors	NNS	behavior	NN2	NOUN	conj	behav-ior-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="The outline of a human head is shown. There is a box containing “Information, sensations” in front of the head. An arrow from this box points to another box containing “Emotions, memories” located where the person’s brain would be. An arrow from this second box points to a third box containing “Thoughts” behind the head.">
+<caption>
+<s type="frag" transition="null">
+<hi rend="bold">
+Figure	NP	Figure	NP0	PROPN	root	_
+7.2	CD	7.2	CRD	NUM	dep	_
+</hi>
+</s>
+<s type="decl" transition="null">
+Sensations	NNS	sensation	NN2	NOUN	nsubj:pass	Sens-ation-s
+and	CC	and	CJC	CCONJ	cc	_
+information	NN	information	NN1	NOUN	conj	in-form-ation
+are	VBP	be	VBB	AUX	aux:pass	_
+received	VVN	receive	VVN	VERB	root	receiv-ed
+by	IN	by	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+brains	NNS	brain	NN2	NOUN	obl:agent	brain-s
+,	,	,	PUN	PUNCT	punct	_
+filtered	VVN	filter	VVN	VERB	conj	filter-ed
+through	IN	through	PRP	ADP	case	_
+emotions	NNS	emotion	NN2	NOUN	obl	emot-ion-s
+and	CC	and	CJC	CCONJ	cc	_
+memories	NNS	memory	NN2	NOUN	conj	memorie-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+processed	VVN	process	VVN	VERB	conj	process-ed
+to	TO	to	TO0	PART	mark	_
+become	VV	become	VVI	VERB	advcl	be-come
+thoughts	NNS	thought	NN2	NOUN	xcomp	thought-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="null">
+In	IN	in	PRP	SCONJ	mark	_
+order	NN	order	NN1	NOUN	fixed	_
+to	TO	to	TO0	PART	mark	_
+organize	VV	organize	VVI	VERB	advcl	_
+this	DT	this	DT0	DET	det	_
+staggering	JJ	staggering	AJ0	ADJ	amod	stagger-ing
+amount	NN	amount	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+information	NN	information	NN1	NOUN	nmod	in-form-ation
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+developed	VVN	develop	VVN	VERB	root	develop-ed
+a	DT	a	AT0	DET	det	_
+file	NN	file	NN1	NOUN	compound	_
+cabinet	NN	cabinet	NN1	NOUN	obj	cabin-et
+of	IN	of	PRF	ADP	case	_
+sorts	NNS	sort	NN2	NOUN	nmod	sort-s
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+mind	NN	mind	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+files	NNS	file	NN2	NOUN	nsubj:pass	file-s
+stored	VVN	store	VVN	VERB	acl	stor-ed
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+file	NN	file	NN1	NOUN	compound	_
+cabinet	NN	cabinet	NN1	NOUN	obl	cabin-et
+are	VBP	be	VBB	AUX	aux:pass	_
+called	VVN	call	VVN	VERB	root	call-ed
+concepts	NNS	concept	NN2	NOUN	xcomp	concept-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+<hi rend="bold">
+Concepts	NNS	concept	NN2	NOUN	nsubj	Concept-s
+</hi>
+are	VBP	be	VBB	AUX	cop	_
+categories	NNS	category	NN2	NOUN	root	categorie-s
+or	CC	or	CJC	CCONJ	cc	_
+groupings	NNS	grouping	NN2	NOUN	conj	grouping-s
+of	IN	of	PRF	ADP	case	_
+linguistic	JJ	linguistic	AJ0	ADJ	amod	linguist-ic
+information	NN	information	NN1	NOUN	nmod	in-form-ation
+,	,	,	PUN	PUNCT	punct	_
+images	NNS	image	NN2	NOUN	conj	image-s
+,	,	,	PUN	PUNCT	punct	_
+ideas	NNS	idea	NN2	NOUN	conj	idea-s
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+memories	NNS	memory	NN2	NOUN	conj	memorie-s
+,	,	,	PUN	PUNCT	punct	_
+such	JJ	such	DT0	ADJ	case	_
+as	IN	as	PRP	ADP	fixed	_
+life	NN	life	NN1	NOUN	compound	_
+experiences	NNS	experience	NN2	NOUN	nmod	experience-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Concepts	NNS	concept	NN2	NOUN	nsubj	Concept-s
+are	VBP	be	VBB	AUX	cop	_
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+many	JJ	many	DT0	ADJ	amod	_
+ways	NNS	way	NN2	NOUN	obl	way-s
+,	,	,	PUN	PUNCT	punct	_
+big	JJ	big	AJ0	ADJ	amod	_
+ideas	NNS	idea	NN2	NOUN	root	idea-s
+that	WDT	that	CJT	PRON	nsubj:pass	_
+are	VBP	be	VBB	AUX	aux:pass	_
+generated	VVN	generate	VVN	VERB	acl:relcl	generat-ed
+by	IN	by	PRP	SCONJ	mark	_
+observing	VVG	observe	VVG	VERB	advcl	observ-ing
+details	NNS	detail	NN2	NOUN	obj	detail-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+categorizing	VVG	categorize	VVG	VERB	conj	categor-iz-ing
+and	CC	and	CJC	CCONJ	cc	_
+combining	VVG	combine	VVG	VERB	conj	combin-ing
+these	DT	this	DT0	DET	det	_
+details	NNS	detail	NN2	NOUN	obj	detail-s
+into	IN	into	PRP	ADP	case	in-to
+cognitive	JJ	cognitive	AJ0	ADJ	amod	cognit-ive
+structures	NNS	structure	NN2	NOUN	obl	structure-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+You	PP	you	PNP	PRON	nsubj	_
+use	VVP	use	VVB	VERB	root	_
+concepts	NNS	concept	NN2	NOUN	obj	concept-s
+to	TO	to	TO0	PART	mark	_
+see	VV	see	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+relationships	NNS	relationship	NN2	NOUN	obj	relat-ion-ship-s
+among	IN	among	PRP	ADP	case	a-mong
+the	DT	the	AT0	DET	det	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+elements	NNS	element	NN2	NOUN	nmod	element-s
+of	IN	of	PRF	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+experiences	NNS	experience	NN2	NOUN	nmod	experience-s
+and	CC	and	CJC	CCONJ	cc	_
+to	TO	to	TO0	PART	mark	_
+keep	VV	keep	VVI	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+information	NN	information	NN1	NOUN	obj	in-form-ation
+in	IN	in	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+mind	NN	mind	NN1	NOUN	nmod	_
+organized	VVN	organize	VVN	VERB	xcomp	organiz-ed
+and	CC	and	CJC	CCONJ	cc	_
+accessible	JJ	accessible	AJ0	ADJ	conj	access-ible
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="smooth-shift">
+Concepts	NNS	concept	NN2	NOUN	nsubj:pass	Concept-s
+are	VBP	be	VBB	AUX	aux:pass	_
+informed	VVN	inform	VVN	VERB	root	in-form-ed
+by	IN	by	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+semantic	JJ	semantic	AJ0	ADJ	amod	_
+memory	NN	memory	NN1	NOUN	obl:agent	_
+(	(	(	PUL	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+learn	VV	learn	VVI	VERB	parataxis	_
+more	RBR	more	AV0	ADV	advmod	_
+about	IN	about	PRP	ADP	case	_
+semantic	JJ	semantic	AJ0	ADJ	amod	_
+memory	NN	memory	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+later	JJR	late	AJC	ADJ	amod	lat-er
+chapter	NN	chapter	NN1	NOUN	obl	_
+)	)	)	PUR	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+are	VBP	be	VBB	AUX	cop	_
+present	JJ	present	AJ0	ADJ	conj	_
+in	IN	in	PRP	ADP	case	_
+every	DT	every	AT0	DET	det	_
+aspect	NN	aspect	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+lives	NNS	life	NN2	NOUN	nmod	live-s
+;	:	;	PUN	PUNCT	punct	_
+however	RB	however	AV0	ADV	advmod	how-ever
+,	,	,	PUN	PUNCT	punct	_
+one	CD	one	CRD	NUM	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+easiest	JJS	easy	AJS	ADJ	amod	_
+places	NNS	place	NN2	NOUN	nmod	place-s
+to	TO	to	TO0	PART	mark	_
+notice	VV	notice	VVI	VERB	acl	_
+concepts	NNS	concept	NN2	NOUN	obj	concept-s
+is	VBZ	be	VBZ	AUX	cop	_
+inside	IN	inside	PRP	ADP	case	in-side
+a	DT	a	AT0	DET	det	_
+classroom	NN	classroom	NN1	NOUN	parataxis	_
+,	,	,	PUN	PUNCT	punct	_
+where	WRB	where	CJS	ADV	advmod	_
+they	PP	they	PNP	PRON	nsubj:pass	_
+are	VBP	be	VBB	AUX	aux:pass	_
+discussed	VVN	discuss	VVN	VERB	acl:relcl	discuss-ed
+explicitly	RB	explicitly	AV0	ADV	advmod	explicit-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+When	WRB	when	CJS	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+study	VVP	study	VVB	VERB	advcl	_
+United	NP	Unite	NP0	VERB	amod	Unit-ed
+States	NPS	State	NP0	PROPN	compound	State-s
+history	NN	history	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+for	IN	for	PRP	ADP	case	_
+example	NN	example	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+learn	VVP	learn	VVB	VERB	root	_
+about	IN	about	PRP	ADP	case	_
+more	JJR	more	DT0	ADJ	obl	_
+than	IN	than	CJS	ADP	case	_
+just	RB	just	AV0	ADV	advmod	_
+individual	JJ	individual	AJ0	ADJ	amod	_
+events	NNS	event	NN2	NOUN	obl	event-s
+that	WDT	that	CJT	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+happened	VVN	happen	VVN	VERB	acl:relcl	happen-ed
+in	IN	in	PRP	ADP	case	_
+America	NP	America	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+past	NN	past	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+You	PP	you	PNP	PRON	nsubj	_
+absorb	VVP	absorb	VVB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+large	JJ	large	AJ0	ADJ	amod	_
+quantity	NN	quantity	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+information	NN	information	NN1	NOUN	nmod	in-form-ation
+by	IN	by	PRP	SCONJ	mark	_
+listening	VVG	listen	VVG	VERB	advcl	listen-ing
+to	IN	to	PRP	ADP	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+participating	VVG	participate	VVG	VERB	conj	participat-ing
+in	IN	in	PRP	ADP	case	_
+discussions	NNS	discussion	NN2	NOUN	obl	discuss-ion-s
+,	,	,	PUN	PUNCT	punct	_
+examining	VVG	examine	VVG	VERB	conj	examin-ing
+maps	NNS	map	NN2	NOUN	obj	map-s
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+reading	VVG	read	VVG	VERB	conj	read-ing
+<w>
+first	JJ	first	ORD	ADJ	amod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+hand	NN	hand	NN1	NOUN	compound	_
+</w>
+accounts	NNS	account	NN2	NOUN	obj	account-s
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+lives	NNS	life	NN2	NOUN	nmod	live-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Your	PP$	your	DPS	PRON	nmod:poss	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+analyzes	VVZ	analyze	VVZ	VERB	root	analyze-s
+these	DT	this	DT0	DET	det	_
+details	NNS	detail	NN2	NOUN	obj	detail-s
+and	CC	and	CJC	CCONJ	cc	_
+develops	VVZ	develop	VVZ	VERB	conj	develop-s
+an	DT	a	AT0	DET	det	_
+overall	JJ	overall	AJ0	ADJ	amod	_
+understanding	NN	understanding	NN1	NOUN	obj	under-stand-ing
+of	IN	of	PRF	ADP	case	_
+American	JJ	American	AJ0	ADJ	amod	America-n
+history	NN	history	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+process	NN	process	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+brain	NN	brain	NN1	NOUN	nsubj	_
+gathers	VVZ	gather	VVZ	VERB	root	gather-s
+details	NNS	detail	NN2	NOUN	obj	detail-s
+that	WDT	that	CJT	PRON	nsubj	_
+inform	VVP	inform	VVB	VERB	acl:relcl	in-form
+and	CC	and	CJC	CCONJ	cc	_
+refine	VVP	refine	VVB	VERB	conj	re-fine
+your	PP$	your	DPS	PRON	nmod:poss	_
+understanding	NN	understanding	NN1	NOUN	obj	under-stand-ing
+of	IN	of	PRF	ADP	case	_
+related	JJ	related	AJ0	ADJ	amod	relat-ed
+concepts	NNS	concept	NN2	NOUN	nmod	concept-s
+like	IN	like	PRP	ADP	case	_
+democracy	NN	democracy	NN1	NOUN	nmod	democra-cy
+,	,	,	PUN	PUNCT	punct	_
+power	NN	power	NN1	NOUN	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+freedom	NN	freedom	NN1	NOUN	conj	free-dom
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="zero">
+Concepts	NNS	concept	NN2	NOUN	nsubj	Concept-s
+can	MD	can	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+complex	JJ	complex	AJ0	ADJ	root	_
+and	CC	and	CJC	CCONJ	cc	_
+abstract	JJ	abstract	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+justice	NN	justice	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+more	RBR	more	AV0	ADV	advmod	_
+concrete	JJ	concrete	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+types	NNS	type	NN2	NOUN	obl	type-s
+of	IN	of	PRF	ADP	case	_
+birds	NNS	bird	NN2	NOUN	nmod	bird-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+psychology	NN	psychology	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+for	IN	for	PRP	ADP	case	_
+example	NN	example	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+Piaget	NP	Piaget	NP0	PROPN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+stages	NNS	stage	NN2	NOUN	nsubj	stage-s
+of	IN	of	PRF	ADP	case	_
+development	NN	development	NN1	NOUN	nmod	develop-ment
+are	VBP	be	VBB	AUX	cop	_
+abstract	JJ	abstract	AJ0	ADJ	amod	_
+concepts	NNS	concept	NN2	NOUN	root	concept-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Some	DT	some	DT0	DET	det	_
+concepts	NNS	concept	NN2	NOUN	nsubj:pass	concept-s
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+tolerance	NN	tolerance	NN1	NOUN	nmod	toleran-ce
+,	,	,	PUN	PUNCT	punct	_
+are	VBP	be	VBB	AUX	aux:pass	_
+agreed	VVN	agree	VVN	VERB	root	agre-ed
+upon	IN	upon	PRP	ADP	obl	up-on
+by	IN	by	PRP	ADP	case	_
+many	JJ	many	DT0	ADJ	amod	_
+people	NNS	person	NN0	NOUN	obl:agent	_
+,	,	,	PUN	PUNCT	punct	_
+because	IN	because	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj:pass	_
+have	VHP	have	VHB	AUX	aux	_
+been	VBN	be	VBN	AUX	aux:pass	_
+used	VVN	use	VVN	VERB	advcl	us-ed
+in	IN	in	PRP	ADP	case	_
+various	JJ	various	AJ0	ADJ	amod	_
+ways	NNS	way	NN2	NOUN	obl	way-s
+over	IN	over	PRP	ADP	case	_
+many	JJ	many	DT0	ADJ	amod	_
+years	NNS	year	NN2	NOUN	obl	year-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Other	JJ	other	AJ0	ADJ	amod	_
+concepts	NNS	concept	NN2	NOUN	nsubj	concept-s
+,	,	,	PUN	PUNCT	punct	_
+like	IN	like	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+characteristics	NNS	characteristic	NN2	NOUN	nmod	character-istic-s
+of	IN	of	PRF	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+ideal	JJ	ideal	AJ0	ADJ	amod	ide-al
+friend	NN	friend	NN1	NOUN	nmod	_
+or	CC	or	CJC	CCONJ	cc	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+family	NN	family	NN1	NOUN	nmod:poss	_
+’s	POS	's	POS	PART	case	_
+birthday	NN	birthday	NN1	NOUN	compound	_
+traditions	NNS	tradition	NN2	NOUN	conj	tradition-s
+,	,	,	PUN	PUNCT	punct	_
+are	VBP	be	VBB	AUX	cop	_
+personal	JJ	personal	AJ0	ADJ	root	person-al
+and	CC	and	CJC	CCONJ	cc	_
+individualized	JJ	individualized	AJ0	ADJ	conj	individu-al-iz-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+In	IN	in	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+way	NN	way	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+concepts	NNS	concept	NN2	NOUN	nsubj	concept-s
+touch	VVP	touch	VVB	VERB	root	_
+every	DT	every	AT0	DET	det	_
+aspect	NN	aspect	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+lives	NNS	life	NN2	NOUN	nmod	live-s
+,	,	,	PUN	PUNCT	punct	_
+from	IN	from	PRP	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+many	JJ	many	DT0	ADJ	amod	_
+daily	JJ	daily	AJ0	ADJ	amod	dai-ly
+routines	NNS	routine	NN2	NOUN	obl	routine-s
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+guiding	VVG	guide	VVG	VERB	amod	guid-ing
+principles	NNS	principle	NN2	NOUN	obl	principle-s
+behind	IN	behind	PRP	ADP	case	be-hind
+the	DT	the	AT0	DET	det	_
+way	NN	way	NN1	NOUN	nmod	_
+governments	NNS	government	NN2	NOUN	nsubj	govern-ment-s
+function	VVP	function	VVB	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Another	DT	another	DT0	DET	det	An-other
+technique	NN	technique	NN1	NOUN	nsubj	_
+used	VVN	use	VVN	VERB	acl	us-ed
+by	IN	by	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+brain	NN	brain	NN1	NOUN	obl:agent	_
+to	TO	to	TO0	PART	mark	_
+organize	VV	organize	VVI	VERB	advcl	_
+information	NN	information	NN1	NOUN	obj	in-form-ation
+is	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+identification	NN	identification	NN1	NOUN	root	ident-ification
+of	IN	of	PRF	ADP	case	_
+prototypes	NNS	prototype	NN2	NOUN	nmod	prototype-s
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+concepts	NNS	concept	NN2	NOUN	nmod	concept-s
+you	PP	you	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	aux	_
+developed	VVN	develop	VVN	VERB	acl:relcl	develop-ed
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+A	DT	a	AT0	DET	det	_
+<hi rend="bold">
+prototype	NN	prototype	NN1	NOUN	nsubj	_
+</hi>
+is	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+best	JJS	good	AJS	ADJ	amod	be-st
+example	NN	example	NN1	NOUN	root	_
+or	CC	or	CJC	CCONJ	cc	_
+representation	NN	representation	NN1	NOUN	conj	re-present-ation
+of	IN	of	PRF	ADP	case	_
+a	DT	a	AT0	DET	det	_
+concept	NN	concept	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="null">
+For	IN	for	PRP	ADP	case	_
+example	NN	example	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+for	IN	for	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+category	NN	category	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+civil	JJ	civil	AJ0	ADJ	amod	_
+disobedience	NN	disobedience	NN1	NOUN	nmod	dis-obedi-ence
+,	,	,	PUN	PUNCT	punct	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+prototype	NN	prototype	NN1	NOUN	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+Rosa	NP	Rosa	NP0	PROPN	root	_
+Parks	NP	Parks	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Her	PP$	her	DPS	PRON	nmod:poss	_
+peaceful	JJ	peaceful	AJ0	ADJ	amod	peace-ful
+resistance	NN	resistance	NN1	NOUN	nsubj	resist-ance
+to	IN	to	PRP	ADP	case	_
+segregation	NN	segregation	NN1	NOUN	nmod	segregat-ion
+on	IN	on	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+city	NN	city	NN1	NOUN	compound	_
+bus	NN	bus	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+Montgomery	NP	Montgomery	NP0	PROPN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+Alabama	NP	Alabama	NP0	PROPN	appos	_
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+recognizable	JJ	recognizable	AJ0	ADJ	amod	recogniz-able
+example	NN	example	NN1	NOUN	root	_
+of	IN	of	PRF	ADP	case	_
+civil	JJ	civil	AJ0	ADJ	amod	_
+disobedience	NN	disobedience	NN1	NOUN	nmod	dis-obedi-ence
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+Or	CC	or	CJC	CCONJ	cc	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+prototype	NN	prototype	NN1	NOUN	nsubj	_
+could	MD	could	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+Mohandas	NP	Mohandas	NP0	PROPN	root	_
+Gandhi	NP	Gandhi	NP0	PROPN	flat	_
+,	,	,	PUN	PUNCT	punct	_
+sometimes	RB	sometimes	AV0	ADV	advmod	sometime-s
+called	VVN	call	VVN	VERB	acl	call-ed
+Mahatma	NP	Mahatma	NP0	PROPN	xcomp	_
+Gandhi	NP	Gandhi	NP0	PROPN	flat	_
+(	(	(	PUL	PUNCT	punct	_
+<q>
+“	``	''	PUQ	PUNCT	punct	_
+Mahatma	NP	Mahatma	NP0	PROPN	nsubj	_
+”	''	''	PUQ	PUNCT	punct	_
+</q>
+is	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+honorific	JJ	honorific	AJ0	ADJ	amod	honor-ific
+title	NN	title	NN1	NOUN	parataxis	_
+)	)	)	PUR	PUNCT	punct	_
+(	(	(	PUL	PUNCT	punct	_
+<ref target="figure 7.3">
+Figure	NP	Figure	NP0	PROPN	dep	_
+7.3	CD	7.3	CRD	NUM	dep	_
+</ref>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<figure rend="A photograph of Mohandas Gandhi is shown. There are several people walking with him.">
+<caption>
+<s type="frag" transition="establishment">
+<hi rend="bold">
+Figure	NP	Figure	NP0	PROPN	root	_
+7.3	CD	7.3	CRD	NUM	dep	_
+</hi>
+</s>
+<s type="decl" transition="zero">
+In	IN	in	PRP	ADP	case	_
+<date when="1930">
+1930	CD	1930	CRD	NUM	obl	_
+</date>
+,	,	,	PUN	PUNCT	punct	_
+Mohandas	NP	Mohandas	NP0	PROPN	nsubj	_
+Gandhi	NP	Gandhi	NP0	PROPN	flat	_
+led	VVD	lead	VVD	VERB	root	_
+a	DT	a	AT0	DET	det	_
+group	NN	group	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+peaceful	JJ	peaceful	AJ0	ADJ	amod	peace-ful
+protest	NN	protest	NN1	NOUN	obl	_
+against	IN	against	PRP	ADP	case	a-gainst
+a	DT	a	AT0	DET	det	_
+British	JJ	British	AJ0	ADJ	amod	Brit-ish
+tax	NN	tax	NN1	NOUN	obl	_
+on	IN	on	PRP	ADP	case	_
+salt	NN	salt	NN1	NOUN	nmod	_
+in	IN	in	PRP	ADP	case	_
+India	NP	India	NP0	PROPN	nmod	Ind-ia
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl" transition="establishment">
+Mohandas	NP	Mohandas	NP0	PROPN	nsubj	_
+Gandhi	NP	Gandhi	NP0	PROPN	flat	_
+served	VVD	serve	VVD	VERB	root	serv-ed
+as	IN	as	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+nonviolent	JJ	nonviolent	AJ0	ADJ	amod	non-violent
+force	NN	force	NN1	NOUN	obl	_
+for	IN	for	PRP	ADP	case	_
+independence	NN	independence	NN1	NOUN	nmod	independ-ence
+for	IN	for	PRP	ADP	case	_
+India	NP	India	NP0	PROPN	nmod	Ind-ia
+while	IN	while	CJS	SCONJ	mark	_
+simultaneously	RB	simultaneously	AV0	ADV	advmod	simultaneous-ly
+demanding	VVG	demand	VVG	VERB	advcl	demand-ing
+that	IN/that	that	CJT	SCONJ	mark	_
+Buddhist	JJ	Buddhist	AJ0	ADJ	amod	Buddh-ist
+,	,	,	PUN	PUNCT	punct	_
+Hindu	JJ	Hindu	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+Muslim	JJ	Muslim	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+Christian	JJ	Christian	AJ0	ADJ	conj	Christ-ian
+<w>
+leaders	NNS	leader	NN2	NOUN	nsubj	lead-er-s
+—	:	—	UNC	PUNCT	punct	_
+both	CC	both	AV0	CCONJ	cc:preconj	_
+</w>
+Indian	JJ	Indian	AJ0	ADJ	appos	Indi-an
+and	CC	and	CJC	CCONJ	cc	_
+<w>
+British	JJ	British	AJ0	ADJ	conj	Brit-ish
+—	:	—	AJ0	PUNCT	punct	_
+collaborate	VV	collaborate	NN1	VERB	ccomp	collaborate
+</w>
+peacefully	RB	peacefully	AV0	ADV	advmod	peace-ful-ly
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+Although	IN	although	CJS	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+always	RB	always	AV0	ADV	advmod	_
+successful	JJ	successful	AJ0	ADJ	advcl	success-ful
+in	IN	in	PRP	SCONJ	mark	_
+preventing	VVG	prevent	VVG	VERB	advcl	prevent-ing
+violence	NN	violence	NN1	NOUN	obj	viol-ence
+around	IN	around	PRP	ADP	case	a-round
+him	PP	he	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+life	NN	life	NN1	NOUN	nsubj	_
+provides	VVZ	provide	VVZ	VERB	root	provide-s
+a	DT	a	AT0	DET	det	_
+steadfast	JJ	steadfast	AJ0	ADJ	amod	_
+example	NN	example	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+civil	JJ	civil	AJ0	ADJ	amod	_
+disobedience	NN	disobedience	NN1	NOUN	compound	dis-obedi-ence
+prototype	NN	prototype	NN1	NOUN	nmod	_
+(	(	(	PUL	PUNCT	punct	_
+Constitutional	NP	Constitutional	NP0	ADJ	compound	Constitut-ion-al
+Rights	NPS	Right	NP0	PROPN	compound	Right-s
+Foundation	NP	Foundation	NP0	PROPN	dep	Found-ation
+,	,	,	PUN	PUNCT	punct	_
+<date when="2013">
+2013	CD	2013	CRD	NUM	nmod:tmod	_
+</date>
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="zero">
+Just	RB	just	AV0	ADV	advmod	_
+as	IN	as	CJS	SCONJ	mark	_
+concepts	NNS	concept	NN2	NOUN	nsubj	concept-s
+can	MD	can	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	cop	_
+abstract	JJ	abstract	AJ0	ADJ	advcl	_
+or	CC	or	CJC	CCONJ	cc	_
+concrete	JJ	concrete	AJ0	ADJ	conj	_
+,	,	,	PUN	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+make	VV	make	VVI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+distinction	NN	distinction	NN1	NOUN	obj	distinct-ion
+between	IN	between	PRP	ADP	case	be-tween
+concepts	NNS	concept	NN2	NOUN	nmod	concept-s
+that	WDT	that	CJT	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+functions	NNS	function	NN2	NOUN	acl:relcl	function-s
+of	IN	of	PRF	ADP	case	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+direct	JJ	direct	AJ0	ADJ	amod	_
+experience	NN	experience	NN1	NOUN	nmod	_
+with	IN	with	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+world	NN	world	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+those	DT	that	DT0	PRON	conj	_
+that	WDT	that	DT0	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+more	RBR	more	AV0	ADV	advmod	_
+artificial	JJ	artificial	AJ0	ADJ	acl:relcl	artific-ial
+in	IN	in	PRP	ADP	case	_
+nature	NN	nature	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</text>

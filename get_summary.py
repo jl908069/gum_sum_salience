@@ -1,4 +1,5 @@
-import pandas as pd
+import os, re, sys
+from glob import glob
 from random import choice, shuffle
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, BitsAndBytesConfig
 
@@ -49,11 +50,8 @@ examples = {'academic': [
                 "This guide to washing overalls suggests washing them with like clothing, avoiding clothes which can get twisted up with the straps, fastening straps to the bib with twist ties (also in the dryer), emptying pockets, moving the strap adjusters to make them last longer, using less detergent if washing overalls alone, and taking care plastic ties don't melt in the dryer."]}
 
 
-def get_summary(doc_texts, doc_ids, model_name="google/flan-t5-base", n=4, dummy_mode=False):
+def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-base", n=4, overwrite=False):
     global examples
-
-    if dummy_mode:  # Use for fast prototyping, returns cached summaries
-        return {"GUM_academic_art":['Developing a pilot project of eye-tracking methodologies in the study of Zurbarán’s unique collection of 17th Century Josefinés and his Sons:', 'Eye-tracking, in first-phase research for exploring how an audience can be influenced to view and interpret the oeuvre of art in a visual, narrative way', 'We report upon the novel insights eye-tracking techniques have provided into the unconscious processes of viewing the unique collection of 17th Century Zurbarán paintings.', 'Aesthetic Appreciation of Paintings: Insights from Eye-Tracking'], "GUM_academic_census":['Providing an accurate and reliable survey of and measurement of the scientific workforce.', 'A web crawler to collect census data for computer science', 'A web crawler based on an existing database, based on real data generated for all academic fields.', 'A simple and efficient system that collects the information required to make a full census of computing fieldes.']}
 
     quantization_config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -61,26 +59,64 @@ def get_summary(doc_texts, doc_ids, model_name="google/flan-t5-base", n=4, dummy
     )
 
     # Load the tokenizer and model from Huggingface
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSeq2SeqLM.from_pretrained(model_name, quantization_config=quantization_config)
+    tokenizer = model = None
+    if not data_folder.endswith(os.sep):
+        data_folder += os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep
 
     all_summaries = {}
+    cached_summaries = 0
+    cached_summary_docs = 0
+    written_summaries = 0
+    written_summary_docs = 0
+
     for i, doc_text in enumerate(doc_texts):
         doc_id = doc_ids[i]
-        genre = doc_id.split("_")[1]
-        example = choice(examples[genre])
-        prompt = f"Summarize the following article in 1 sentence. Make sure your summary is one sentence long and may not exceed 380 characters. Example of summary style: {example}\n\n{doc_text}\n\nSummary:"
-        input_ids = tokenizer(prompt, return_tensors="pt", padding=True).to(0)
-        out = model.generate(**input_ids, max_new_tokens=80, num_return_sequences=n, do_sample=True)
-        doc_summaries = tokenizer.batch_decode(out, skip_special_tokens=True)
+        if os.path.exists(summary_folder + doc_id + str(n) + ".txt") and not overwrite:
+            doc_summaries = []
+            for j in range(n):
+                with open(summary_folder + doc_id + str(j) + ".txt", "r", encoding="utf-8") as f:
+                    doc_summaries.append(f.read().strip())
+                    cached_summaries += 1
+            cached_summary_docs += 1
+        else:
+            if tokenizer is None:
+                tokenizer = AutoTokenizer.from_pretrained(model_name)
+                model = AutoModelForSeq2SeqLM.from_pretrained(model_name, quantization_config=quantization_config)
+            genre = doc_id.split("_")[1]
+            example = choice(examples[genre])
+            prompt = f"Summarize the following article in 1 sentence. Make sure your summary is one sentence long and may not exceed 380 characters. Example of summary style: {example}\n\n{doc_text}\n\nSummary:"
+            input_ids = tokenizer(prompt, return_tensors="pt", padding=True).to(0)
+            out = model.generate(**input_ids, max_new_tokens=80, num_return_sequences=n, do_sample=True)
+            doc_summaries = tokenizer.batch_decode(out, skip_special_tokens=True)
+            if overwrite:
+                for k, summary in enumerate(doc_summaries):
+                    with open(summary_folder + doc_id + str(k) + ".txt", "w", encoding="utf-8", newline="\n") as f:
+                        f.write(summary)
+                    written_summaries += 1
+            written_summary_docs += 1
         all_summaries[doc_id] = doc_summaries
+
+    if cached_summaries > 0:
+        sys.stderr.write(f"Loaded {cached_summaries} cached summaries for {cached_summary_docs} documents.\n")
+    if written_summaries > 0:
+        sys.stderr.write(f"Wrote {written_summaries} new summaries for {written_summary_docs} documents.\n")
 
     return all_summaries
 
-def read_documents_from_excel(file_path):
-    df = pd.read_excel(file_path, sheet_name='train') #default to 'train'
-    doc_texts = df['fulltext'].tolist()
-    doc_ids = df['doc_id'].tolist()
+
+def read_documents(data_folder):
+    # Read documents directly from tsv/ folder, since we have it as input
+    files = glob(data_folder + os.sep + 'input' + os.sep + 'tsv' + os.sep + '*.tsv')
+    doc_ids = []
+    doc_texts = []
+    for file_ in files:
+        docname = os.path.basename(file_).split(".")[0]
+        sents = re.findall(r'#Text=([^\n]+)', open(file_, "r", encoding="utf-8").read())
+        text = " ".join([s.strip() for s in sents])
+        doc_texts.append(text)
+        doc_ids.append(docname)
+
     return doc_ids, doc_texts
 
 
@@ -88,13 +124,13 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="Generate summaries for GUM documents")
-    parser.add_argument("--file_path", type=str, default="gumsum.xlsx", help="Path to the Excel file containing GUM documents")
-    parser.add_argument("--model_name", type=str, default="google/flan-t5-base", help="Huggingface model name to use for summarization")
+    parser.add_argument("--data_folder", default="data", help="Path to data folder")
+    parser.add_argument("--model_name", default="google/flan-t5-xl", help="Huggingface model name to use for summarization")
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate per document")
 
     args = parser.parse_args()
 
-    doc_ids, doc_texts = read_documents_from_excel(args.file_path)
+    doc_ids, doc_texts = read_documents(args.data_folder)
     docs = list(zip(doc_texts, doc_ids))
 
     # Sample just a few docs to test - comment this out to use all documents
@@ -102,7 +138,7 @@ if __name__ == "__main__":
     doc_texts, doc_ids = zip(*docs)
     doc_texts = doc_texts[:2]
 
-    summaries = get_summary(doc_texts, doc_ids, model_name=args.model_name, n=args.n_summaries)
+    summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=True)
 
     for doc_id, doc_summaries in summaries.items():
         print(f"Document ID: {doc_id}\n")

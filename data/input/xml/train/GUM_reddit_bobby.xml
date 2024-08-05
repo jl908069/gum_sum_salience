@@ -1,0 +1,1346 @@
+<text id="GUM_reddit_bobby" partition="train" author="reddit community (see URL)" dateCollected="2018-09-12" dateCreated="2018-06-08" dateModified="2018-08-10" shortTitle="bobby" sourceURL="https://www.reddit.com/r/foodnetwork/comments/8ph56q/why_very_few_actually_beat_bobby_flay/" speakerCount="8" speakerList="#Scrappy_K, #PrincePomegranate, #meatsweats421, #andienotandy_, #tarheelz1995, #captn_morgn, #__vheissu__, #King-Of-Rats" title="Why very few actually Beat Bobby Flay." type="reddit" summary="Several people discuss reasons why very few contestants defeat chef Bobby Flay on reality TV, with theories including selective casting to choose contestants that Flay can defeat, advance knowledge of the secret ingredient or hints at the signature dish in each episode, and his being a very good chef.">
+<sp who="#Scrappy_K">
+<head>
+<s type="other" transition="establishment">
+Why	WRB	why	AVQ	ADV	advmod	_
+very	RB	very	AV0	ADV	advmod	_
+few	JJ	few	DT0	ADJ	nsubj	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+Beat	VVP	beat	VVB	VERB	root	_
+Bobby	NP	Bobby	NP0	PROPN	obj	Bobb-y
+Flay	NP	Flay	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</head>
+<p>
+<s type="decl" transition="establishment">
+While	IN	while	CJS	SCONJ	mark	_
+it	PP	it	PNP	PRON	expl	_
+seems	VVZ	seem	VVZ	VERB	advcl	seem-s
+suspicious	JJ	suspicious	AJ0	ADJ	xcomp	suspici-ous
+that	IN/that	that	CJT	SCONJ	mark	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+wins	VVZ	win	VVZ	VERB	csubj	w-in-s
+so	RB	so	AV0	ADV	advmod	_
+many	JJ	many	DT0	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+competitions	NNS	competition	NN2	NOUN	obl	competition-s
+(	(	(	PUL	PUNCT	punct	_
+leading	VVG	lead	VVG	VERB	advcl	lead-ing
+many	JJ	many	DT0	ADJ	obj	_
+to	TO	to	TO0	PART	mark	_
+think	VV	think	VVI	VERB	xcomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	nsubj:pass	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+rigged	VVN	rig	VVN	VERB	ccomp	rigg-ed
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+have	VHP	have	VHB	VERB	root	_
+a	DT	a	AT0	DET	det	_
+feeling	NN	feeling	NN1	NOUN	obj	feel-ing
+that	IN/that	that	CJT	SCONJ	mark	_
+Bobby	NP	Bobby	NP0	PROPN	nmod:poss	Bobb-y
+'s	POS	's	POS	PART	case	_
+record	NN	record	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+product	NN	product	NN1	NOUN	ccomp	produc-t
+of	IN	of	PRF	ADP	case	_
+selective	JJ	selective	AJ0	ADJ	amod	select-ive
+casting	NN	casting	NN1	NOUN	nmod	cast-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="inf" transition="zero">
+To	TO	to	TO0	PART	mark	_
+explain	VV	explain	VVI	VERB	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="q" transition="zero">
+Remember	VV	remember	VVB	VERB	root	_
+when	WRB	when	CJS	ADV	obj	_
+Anne	NP	Anne	NP0	PROPN	nsubj	_
+Burrell	NP	Burrell	NP0	PROPN	flat	_
+challenged	VVD	challenge	VVD	VERB	advcl:relcl	challeng-ed
+Bobby	NP	Bobby	NP0	PROPN	obj	Bobb-y
+to	IN	to	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+cheesecake	NN	cheesecake	NN1	NOUN	compound	_
+battle	NN	battle	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+won	VVD	win	VVD	VERB	conj	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Anne	NP	Anne	NP0	PROPN	nsubj	_
+admitted	VVD	admit	VVD	VERB	root	admitt-ed
+it	PP	it	PNP	PRON	nsubj	_
+’s	VBZ	be	AJ0	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+her	PP$	her	DPS	PRON	nmod:poss	_
+favorite	JJ	favorite	AJ0	ADJ	amod	favor-ite
+dish	NN	dish	NN1	NOUN	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+she	PP	she	PNP	PRON	nsubj	_
+knows	VVZ	know	VVZ	VERB	conj	know-s
+that	IN/that	that	CJT	SCONJ	mark	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+sucks	VVZ	suck	VVZ	VERB	ccomp	suck-s
+at	IN	at	PRP	ADP	case	_
+desserts	NNS	dessert	NN2	NOUN	obl	dessert-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="zero">
+Did	VVD	do	VDD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VV	think	VVI	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+yourself	PP	yourself	PNP	PRON	obl	your-self
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+time	NN	time	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+<quote>
+"	``	''	PUQ	PUNCT	punct	_
+Why	WRB	why	AVQ	ADV	advmod	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+n't	RB	not	XX0	PART	advmod	_
+anyone	NN	anyone	NN1	PRON	nsubj	any-one
+else	RB	else	AV0	ADV	advmod	_
+thought	VVN	think	VVN	VERB	ccomp	_
+to	TO	to	TO0	PART	mark	_
+do	VV	do	VDI	VERB	xcomp	_
+that	DT	that	CJT	PRON	obj	_
+?	SENT	?	PUN	PUNCT	punct	_
+"	''	''	PUQ	PUNCT	punct	_
+</quote>
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+bet	VVP	bet	VVB	VERB	root	_
+they	PP	they	PNP	PRON	nsubj	_
+have	VHP	have	VHB	AUX	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+bet	VVP	bet	VVB	VERB	root	_
+lots	NNS	lot	NN2	NOUN	nsubj	lot-s
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod	_
+have	VHP	have	VHB	AUX	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+But	CC	but	CJC	CCONJ	cc	_
+to	TO	to	TO0	PART	mark	_
+ensure	VV	ensure	VVI	VERB	advcl	en-sure
+that	IN/that	that	CJT	SCONJ	mark	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+maintains	VVZ	maintain	VVZ	VERB	ccomp	maintain-s
+a	DT	a	AT0	DET	det	_
+favorable	JJ	favorable	AJ0	ADJ	amod	favor-able
+batting	NN	batting	NN1	NOUN	compound	batt-ing
+average	NN	average	NN1	NOUN	obj	_
+(	(	(	PUL	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+therefore	RB	therefore	AV0	ADV	advmod	_
+looks	VVZ	look	VVZ	VERB	conj	look-s
+<w>
+good	JJ	good	AJ0	ADJ	xcomp	_
+/	SYM	/	UNC	SYM	cc	_
+stays	VVZ	stay	VVZ	VERB	conj	stay-s
+</w>
+happy	JJ	happy	AJ0	ADJ	xcomp	happ-y
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	obl	_
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+ask	VVP	ask	VVB	VERB	root	_
+what	WP	what	PNQ	PRON	obj	_
+chefs	NNS	chef	NN2	NOUN	nsubj	chef-s
+intend	VVP	intend	VVB	VERB	ccomp	_
+to	TO	to	TO0	PART	mark	_
+cook	VV	cook	VVI	VERB	xcomp	_
+as	IN	as	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+signature	NN	signature	NN1	NOUN	compound	_
+dish	NN	dish	NN1	NOUN	obl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+audition	NN	audition	NN1	NOUN	compound	audit-ion
+process	NN	process	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+then	RB	then	AV0	ADV	advmod	_
+only	RB	only	AV0	ADV	advmod	_
+pick	VVP	pick	VVB	VERB	conj	_
+challengers	NNS	challenger	NN2	NOUN	obj	challeng-er-s
+who	WP	who	PNQ	PRON	nsubj	_
+either	CC	either	AV0	CCONJ	cc:preconj	_
+a)	LS	a)	AJ0	X	dep	_
+,	,	,	PUN	PUNCT	punct	_
+are	VBP	be	VBB	AUX	aux	_
+going	VVG	go	VVG	VERB	acl:relcl	go-ing
+to	TO	to	TO0	PART	mark	_
+cook	VV	cook	VVI	VERB	xcomp	_
+something	NN	something	NN1	PRON	obj	_
+that	WDT	that	CJT	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+already	RB	already	AV0	ADV	advmod	al-ready
+in	IN	in	PRP	ADP	case	_
+Bobby	NP	Bobby	NP0	PROPN	nmod:poss	Bobb-y
+'s	POS	's	POS	PART	case	_
+wheelhouse	NN	wheelhouse	NN1	NOUN	acl:relcl	_
+(	(	(	PUL	PUNCT	punct	_
+how	WRB	how	AVQ	ADV	advmod	_
+many	JJ	many	DT0	ADJ	amod	_
+times	NNS	time	NN2	NOUN	obl:npmod	time-s
+have	VHP	have	VHB	AUX	aux	_
+we	PP	we	PNP	PRON	nsubj	_
+seen	VVN	see	VVN	VERB	parataxis	see-n
+that	DT	that	CJT	PRON	obj	_
+happen	VV	happen	VVI	VERB	xcomp	happ-en
+?	SENT	?	PUN	PUNCT	punct	_
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+b)	LS	b)	UNC	X	dep	_
+,	,	,	PUN	PUNCT	punct	_
+are	VBP	be	VBB	AUX	aux	_
+going	VVG	go	VVG	VERB	conj	go-ing
+to	TO	to	TO0	PART	mark	_
+cook	VV	cook	VVI	VERB	xcomp	_
+something	NN	something	NN1	PRON	obj	_
+unique	JJ	unique	AJ0	ADJ	amod	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+irregular	JJ	irregular	AJ0	ADJ	amod	ir-regular
+(	(	(	PUL	PUNCT	punct	_
+or	CC	or	CJC	CCONJ	cc	_
+just	RB	just	AV0	ADV	advmod	_
+plain	RB	plain	AJ0	ADV	advmod	_
+stupid	JJ	stupid	AJ0	ADJ	conj	_
+)	)	)	PUR	PUNCT	punct	_
+version	NN	version	NN1	NOUN	conj	_
+of	IN	of	PRF	ADP	case	_
+that	DT	that	DT0	DET	det	_
+unique	JJ	unique	AJ0	ADJ	amod	_
+thing	NN	thing	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Given	VVN	give	VVN	VERB	advcl	Giv-en
+that	IN/that	that	CJT	SCONJ	mark	_
+when	WRB	when	CJS	ADV	advmod	_
+confronted	VVN	confront	VVN	VERB	advcl	confront-ed
+with	IN	with	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+dish	NN	dish	NN1	NOUN	obl	_
+unfamiliar	JJ	unfamiliar	AJ0	ADJ	amod	un-familiar
+to	IN	to	PRP	ADP	case	_
+him	PP	he	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+always	RB	always	AV0	ADV	advmod	_
+prepares	VVZ	prepare	VVZ	VERB	ccomp	prepare-s
+a	DT	a	AT0	DET	det	_
+straightforward	JJ	straightforward	AJ0	ADJ	amod	straight-for-ward
+version	NN	version	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+Bobby	NP	Bobby	NP0	PROPN	nmod:poss	Bobb-y
+'s	POS	's	POS	PART	case	_
+earnest	JJ	earnest	AJ0	ADJ	amod	earn-est
+dish	NN	dish	NN1	NOUN	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+usually	RB	usually	AV0	ADV	advmod	usual-ly
+win	VV	win	VVI	VERB	root	w-in
+out	RP	out	AVP	ADP	compound:prt	_
+over	IN	over	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+platter	NN	platter	NN1	NOUN	obl	platt-er
+of	IN	of	PRF	ADP	case	_
+WHUT	NN	WHUT	NN1	NOUN	nmod	_
+put	VVN	put	VVN	VERB	acl	_
+out	RP	out	AVP	ADP	compound:prt	_
+by	IN	by	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+challenger	NN	challenger	NN1	NOUN	obl:agent	challeng-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="zero">
+Do	VVP	do	VD	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+take	VV	take	VVB	VERB	root	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+word	NN	word	NN1	NOUN	obj	_
+for	IN	for	PRP	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+,	,	,	PUN	PUNCT	punct	_
+just	RB	just	AV0	ADV	advmod	_
+watch	VV	watch	VVB	VERB	parataxis	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Usually	RB	usually	AV0	ADV	advmod	Usual-ly
+when	WRB	when	CJS	ADV	advmod	_
+the	DT	the	AT0	DET	det	_
+challenger	NN	challenger	NN1	NOUN	nsubj	challeng-er
+announces	VVZ	announce	VVZ	VERB	advcl	announce-s
+their	PP$	their	DPS	PRON	nmod:poss	_
+dish	NN	dish	NN1	NOUN	obj	_
+you	PP	you	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+to	IN	to	PRP	ADP	case	_
+yourself	PP	yourself	PNP	PRON	obl	your-self
+,	,	,	PUN	PUNCT	punct	_
+<quote>
+“	``	''	PUQ	PUNCT	punct	_
+oh	UH	oh	ITJ	INTJ	discourse	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj:pass	Bobb-y
+’s	VBZ	be	NP0	AUX	aux:pass	_
+screwed	VVN	screw	VVN	VERB	ccomp	screw-ed
+on	IN	on	PRP	ADP	case	_
+this	DT	this	DT0	DET	det	_
+one	NN	one	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+”	''	''	PUQ	PUNCT	punct	_
+</quote>
+but	CC	but	CJC	CCONJ	cc	_
+then	RB	then	AV0	ADV	advmod	_
+immediately	RB	immediately	AV0	ADV	advmod	im-mediate-ly
+they	PP	they	PNP	PRON	nsubj	_
+cut	VVP	cut	VVB	VERB	conj	_
+to	IN	to	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+interview	NN	interview	NN1	NOUN	obl	_
+where	WRB	where	CJS	ADV	advmod	_
+a	DT	a	AT0	DET	det	_
+smiling	VVG	smile	VVG	VERB	amod	smil-ing
+,	,	,	PUN	PUNCT	punct	_
+imbecilic	JJ	imbecilic	AJ0	ADJ	amod	imbecil-ic
+contender	NN	contender	NN1	NOUN	nsubj	contend-er
+says	VVZ	say	VVZ	VERB	acl:relcl	say-s
+,	,	,	PUN	PUNCT	punct	_
+<quote>
+“	``	''	PUQ	PUNCT	punct	_
+My	PP$	my	DPS	PRON	nmod:poss	_
+version	NN	version	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+________	SYM	________	NP0	SYM	nmod	_
+has	VHZ	have	VHZ	VERB	ccomp	ha-s
+...	:	…	PUN	PUNCT	punct	_
+[	(	[	PUL	PUNCT	punct	_
+some	DT	some	DT0	DET	det	_
+looney	JJ	looney	AJ0	ADJ	amod	_
+goddamn	JJ	goddamn	AJ0	ADJ	amod	_
+ingredient	NN	ingredient	NN1	NOUN	obj	_
+or	CC	or	CJC	CCONJ	cc	_
+technique	NN	technique	NN1	NOUN	conj	_
+that	WDT	that	CJT	PRON	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n’t	RB	not	XX0	PART	advmod	_
+belong	VV	belong	VVB	VERB	acl:relcl	be-long
+in	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+dish	NN	dish	NN1	NOUN	obl	_
+]	)	]	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+”	''	''	PUQ	PUNCT	punct	_
+</quote>
+</s>
+<s type="decl" transition="establishment">
+And	CC	and	CJC	CCONJ	cc	_
+then	RB	then	AV0	ADV	advmod	_
+they	PP	they	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+<w>
+oh	UH	oh	ITJ	INTJ	discourse	_
+-	HYPH	-	PUN	PUNCT	punct	_
+so	RB	so	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+surprised	JJ	surprised	AJ0	ADJ	root	surpris-ed
+</w>
+at	IN	at	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+end	NN	end	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	nmod	_
+when	WRB	when	CJS	ADV	advmod	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+inane	JJ	inane	AJ0	ADJ	amod	_
+concoction	NN	concoction	NN1	NOUN	nsubj:pass	concoct-ion
+gets	VVZ	get	VVZ	AUX	aux:pass	get-s
+clobbered	VVN	clobber	VVN	VERB	advcl	clobber-ed
+by	IN	by	PRP	ADP	case	_
+Mr.	NP	Mr.	NP0	PROPN	obl:agent	_
+Flay	NP	Flay	NP0	PROPN	flat	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="zero">
+BTW	RB	BTW	NN1	ADV	advmod	_
+if	IN	if	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+’re	VBP	be	AJ0	AUX	cop	_
+still	RB	still	AV0	ADV	advmod	_
+doubtful	JJ	doubtful	AJ0	ADJ	advcl	doubt-ful
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+HAVE	VHP	have	VHB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+know	VV	know	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+secret	NN	secret	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+advance	NN	advance	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+There	EX	there	EX0	PRON	expl	_
+’s	VBZ	be	VVZ	VERB	root	_
+no	DT	no	AT0	DET	det	_
+way	NN	way	NN1	NOUN	nsubj	_
+they	PP	they	PNP	PRON	nsubj	_
+’re	VBP	be	AJ0	AUX	aux	_
+stopping	VVG	stop	VVG	VERB	acl:relcl	stopp-ing
+production	NN	production	NN1	NOUN	obj	produc-t-ion
+while	IN	while	CJS	SCONJ	mark	_
+a	DT	a	AT0	DET	det	_
+P.A.	NN	P.A.	NN1	NOUN	nsubj	_
+runs	VVZ	run	VVZ	VERB	advcl	run-s
+out	RP	out	AVP	ADP	compound:prt	_
+to	TO	to	TO0	PART	mark	_
+buy	VV	buy	VVI	VERB	advcl	_
+liver	NN	liver	NN1	NOUN	obj	_
+&amp;	CC	&amp;	CJC	CCONJ	cc	_
+onions	NNS	onion	NN2	NOUN	conj	onion-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="other" transition="zero">
+Which	WDT	which	DTQ	PRON	nsubj	_
+brings	VVZ	bring	VVZ	VERB	root	bring-s
+me	PP	I	PNP	PRON	obj	_
+back	RB	back	AVP	ADV	advmod	_
+to	IN	to	PRP	ADP	case	_
+Anne	NP	Anne	NP0	PROPN	obl	_
+Burrell	NP	Burrell	NP0	PROPN	flat	_
+and	CC	and	CJC	CCONJ	cc	_
+her	PP$	her	DPS	PRON	nmod:poss	_
+cheesecake	NN	cheesecake	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Celebrity	NN	celebrity	NN1	NOUN	compound	_
+chefs	NNS	chef	NN2	NOUN	nsubj	chef-s
+win	VVP	win	VVB	VERB	root	w-in
+against	IN	against	PRP	ADP	case	a-gainst
+Bobby	NP	Bobby	NP0	PROPN	obl	Bobb-y
+more	RBR	more	AV0	ADV	advmod	_
+often	RB	often	AV0	ADV	advmod	_
+because	IN	because	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+who	WP	who	PNQ	PRON	advcl	_
+they	PP	they	PNP	PRON	nsubj	_
+are	VBP	be	VBB	AUX	acl:relcl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+they	PP	they	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+cook	VV	cook	VVI	VERB	conj	_
+whatever	WP	whatever	PNQ	PRON	obj	what-ever
+they	PP	they	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	acl:relcl	_
+to	TO	to	TO0	PART	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+are	VBP	be	VBB	AUX	cop	_
+just	RB	just	AV0	ADV	advmod	_
+happy	JJ	happy	AJ0	ADJ	root	happ-y
+to	TO	to	TO0	PART	mark	_
+have	VH	have	VHI	VERB	xcomp	_
+them	PP	they	PNP	PRON	obj	_
+on	IN	on	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+when	WRB	when	CJS	ADV	advmod	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+loses	VVZ	lose	VVZ	VERB	advcl	lose-s
+to	IN	to	PRP	ADP	case	_
+them	PP	they	PNP	PRON	obl	_
+it	PP	it	PNP	PRON	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n't	RB	not	XX0	PART	advmod	_
+look	VV	look	VVI	VERB	conj	_
+as	RB	as	AV0	ADV	advmod	_
+bad	JJ	bad	AJ0	ADJ	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+This	DT	this	DT0	PRON	nsubj	_
+also	RB	also	AV0	ADV	advmod	_
+illuminates	VVZ	illuminate	VVZ	VERB	root	illuminate-s
+why	WRB	why	AVQ	ADV	obj	_
+we	PP	we	PNP	PRON	nsubj	_
+so	RB	so	AV0	ADV	advmod	_
+often	RB	often	AV0	ADV	advmod	_
+see	VVP	see	VVB	VERB	advcl:relcl	_
+judges	NNS	judge	NN2	NOUN	obj	judge-s
+who	WP	who	PNQ	PRON	nsubj	_
+themselves	PP	themselves	PNP	PRON	obl:npmod	them-selve-s
+have	VHP	have	VHB	VERB	acl:relcl	_
+a	DT	a	AT0	DET	det	_
+background	NN	background	NN1	NOUN	obj	_
+in	IN	in	PRP	SCONJ	mark	_
+whatever	WP	whatever	PNQ	PRON	acl	what-ever
+the	DT	the	AT0	DET	det	_
+signature	NN	signature	NN1	NOUN	compound	_
+dish	NN	dish	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+If	IN	if	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+know	VVP	know	VVB	VERB	advcl	_
+what	WP	what	PNQ	PRON	obj	_
+the	DT	the	AT0	DET	det	_
+challenger	NN	challenger	NN1	NOUN	nsubj	challeng-er
+is	VBZ	be	VBZ	AUX	aux	_
+going	VVG	go	VVG	VERB	acl:relcl	go-ing
+to	TO	to	TO0	PART	mark	_
+cook	VV	cook	VVI	VERB	xcomp	_
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+bring	VV	bring	VVI	VERB	root	bring
+in	IN	in	PRP	ADP	case	_
+judges	NNS	judge	NN2	NOUN	obl	judge-s
+who	WP	who	PNQ	PRON	nsubj	_
+know	VVP	know	VVB	VERB	acl:relcl	_
+how	WRB	how	AVQ	ADV	obj	_
+it	PP	it	PNP	PRON	nsubj:pass	_
+'s	VBZ	be	VBZ	AUX	aux:pass	_
+supposed	VVN	suppose	VVN	VERB	advcl:relcl	suppos-ed
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	aux:pass	_
+cooked	VVN	cook	VVN	VERB	xcomp	cook-ed
+(	(	(	PUL	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+also	RB	also	AV0	ADV	advmod	_
+importantly	RB	importantly	AV0	ADV	advmod	import-ant-ly
+,	,	,	PUN	PUNCT	punct	_
+know	VVP	know	VVB	VERB	conj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+it	PP	it	PNP	PRON	nsubj:pass	_
+'s	VBZ	be	VBZ	AUX	aux:pass	_
+not	RB	not	XX0	PART	advmod	_
+supposed	VVN	suppose	VVN	VERB	ccomp	suppos-ed
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	aux:pass	_
+cooked	VVN	cook	VVN	VERB	xcomp	cook-ed
+in	IN	in	PRP	ADP	case	_
+whatever	WDT	whatever	DTQ	DET	det	what-ever
+godforsaken	JJ	godforsaken	AJ0	ADJ	amod	god-forsak-en
+manner	NN	manner	NN1	NOUN	obl	_
+<sic ana="that">
+than	WDT	that	CJS	PRON	obj	_
+</sic>
+the	DT	the	AT0	DET	det	_
+challenger	NN	challenger	NN1	NOUN	nsubj	challeng-er
+plans	VVZ	plan	VVZ	VERB	acl:relcl	plan-s
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="frag" transition="zero">
+One	CD	one	CRD	NUM	nummod	_
+final	JJ	final	AJ0	ADJ	amod	_
+thing	NN	thing	NN1	NOUN	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="establishment">
+Though	IN	though	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+’m	VBP	be	UNC	AUX	cop	_
+inclined	JJ	inclined	AJ0	ADJ	advcl	inclin-ed
+to	TO	to	TO0	PART	mark	_
+believe	VV	believe	VVI	VERB	xcomp	_
+that	IN/that	that	CJT	SCONJ	mark	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n’t	RB	not	XX0	PART	advmod	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+know	VV	know	VVB	VERB	ccomp	_
+what	WP	what	PNQ	PRON	obj	_
+the	DT	the	AT0	DET	det	_
+signature	NN	signature	NN1	NOUN	compound	_
+dish	NN	dish	NN1	NOUN	nsubj	_
+will	MD	will	VM0	AUX	aux	_
+be	VB	be	VBI	AUX	acl:relcl	_
+(	(	(	PUL	PUNCT	punct	_
+even	RB	even	AV0	ADV	advmod	_
+though	IN	though	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+do	VVP	do	VD	AUX	advcl	_
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj:pass	_
+would	MD	would	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+be	VB	be	VBI	AUX	aux:pass	_
+too	RB	too	AV0	ADV	advmod	_
+terribly	RB	terribly	AV0	ADV	advmod	terrib-ly
+surprised	VVN	surprise	VVN	VERB	root	surpris-ed
+if	IN	if	CJS	SCONJ	mark	_
+one	CD	one	PNI	NUM	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+assistants	NNS	assistant	NN2	NOUN	nmod	assist-ant-s
+or	CC	or	CJC	CCONJ	cc	_
+<w>
+sous	NN	sous	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+chefs	NNS	chef	NN2	NOUN	conj	chef-s
+</w>
+has	VHZ	have	VHZ	AUX	aux	ha-s
+been	VBN	be	VBN	AUX	aux:pass	_
+told	VVN	tell	VVN	VERB	advcl	tol-d
+the	DT	the	AT0	DET	det	_
+dish	NN	dish	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+has	VHZ	have	VHZ	AUX	aux	ha-s
+<q>
+“	``	''	PUQ	PUNCT	punct	_
+seeded	VVN	seed	VVN	VERB	conj	seed-ed
+”	''	''	PUQ	PUNCT	punct	_
+</q>
+Bobby	NP	Bobby	NP0	PROPN	nmod:poss	Bobb-y
+’s	POS	's	POS	PART	case	_
+pantry	NN	pantry	NN1	NOUN	obj	_
+with	IN	with	PRP	ADP	case	_
+ideas	NNS	idea	NN2	NOUN	obl	idea-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+’m	VBP	be	AJ0	AUX	cop	_
+sure	JJ	sure	AJ0	ADJ	root	_
+it	PP	it	PNP	PRON	nsubj:outer	_
+’s	VBZ	be	VVZ	AUX	cop	_
+always	RB	always	AV0	ADV	advmod	_
+<w>
+well	RB	well	AV0	ADV	advmod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+stocked	VVN	stock	VVN	VERB	ccomp	stock-ed
+</w>
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+<w>
+<sic ana="come ">
+c’m	VV	come	VVZ	VERB	conj	_
+</sic>
+on	RP	on	AVP	ADP	compound:prt	_
+</w>
+...	:	…	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n’t	RB	not	XX0	PART	advmod	_
+hold	VV	hold	VVB	VERB	parataxis	_
+more	RBR	more	AV0	ADV	advmod	_
+than	IN	than	CJS	ADP	fixed	_
+a	DT	a	AT0	DET	det	_
+fraction	NN	fraction	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+what	WP	what	PNQ	PRON	nmod	_
+’s	VBZ	be	VVZ	AUX	acl:relcl	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+supermarket	NN	supermarket	NN1	NOUN	obl	super-market
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+So	RB	so	AV0	ADV	advmod	_
+when	WRB	when	CJS	ADV	advmod	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+looks	VVZ	look	VVZ	VERB	advcl	look-s
+and	CC	and	CJC	CCONJ	cc	_
+sees	VVZ	see	VVZ	VERB	conj	see-s
+a	DT	a	AT0	DET	det	_
+bottle	NN	bottle	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+,	,	,	PUN	PUNCT	punct	_
+say	VV	say	VVB	VERB	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+pomegranate	NN	pomegranate	NN1	NOUN	compound	pomegranate
+molasses	NN	molasses	NN1	NOUN	nmod	_
+that	WDT	that	CJT	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+not	RB	not	XX0	PART	advmod	_
+normally	RB	normally	AV0	ADV	advmod	norm-al-ly
+there	RB	there	AV0	ADV	acl:relcl	_
+,	,	,	PUN	PUNCT	punct	_
+that	DT	that	DT0	PRON	nsubj	_
+’s	VBZ	be	VVZ	AUX	cop	_
+his	PP$	his	DPS	PRON	nmod:poss	_
+clue	NN	clue	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<quote>
+<s type="sub" transition="null">
+“	``	''	PUQ	PUNCT	punct	_
+Oh	UH	oh	ITJ	INTJ	discourse	_
+yeah	UH	yeah	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+a	DT	a	AT0	DET	det	_
+gastrique	NN	gastrique	NN1	NOUN	nsubj	_
+would	MD	would	VM0	AUX	aux	_
+work	VV	work	VVI	VERB	root	_
+really	RB	really	AV0	ADV	advmod	real-ly
+well	RB	well	AV0	ADV	advmod	_
+here	RB	here	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+”	''	''	PUQ	PUNCT	punct	_
+</s>
+</quote>
+</p>
+<p>
+<s type="decl" transition="null">
+This	DT	this	DT0	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+seem	VV	seem	VVI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+bit	NN	bit	NN1	NOUN	obl:npmod	_
+shady	JJ	shady	AJ0	ADJ	xcomp	shad-y
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n’t	RB	not	XX0	PART	advmod	_
+conflict	VV	conflict	NN1	VERB	conj	_
+directly	RB	directly	AV0	ADV	advmod	direct-ly
+with	IN	with	PRP	ADP	case	_
+anything	NN	anything	NN1	PRON	obl	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	nsubj	_
+tells	VVZ	tell	VVZ	VERB	acl:relcl	tell-s
+you	PP	you	PNP	PRON	iobj	_
+about	IN	about	PRP	ADP	case	_
+how	WRB	how	AVQ	ADV	obl	_
+it	PP	it	PNP	PRON	nsubj	_
+works	VVZ	work	VVZ	VERB	advcl:relcl	work-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+And	CC	and	CJC	CCONJ	cc	_
+that	DT	that	DT0	PRON	nsubj	_
+,	,	,	PUN	PUNCT	punct	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+friends	NNS	friend	NN2	NOUN	vocative	friend-s
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	AUX	cop	_
+<q>
+“	``	''	PUQ	PUNCT	punct	_
+reality	NN	reality	NN1	NOUN	compound	real-ity
+”	''	''	PUQ	PUNCT	punct	_
+</q>
+TV	NN	TV	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#PrincePomegranate" whom="#Scrappy_K">
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+most	RBS	most	AV0	ADV	advmod	_
+definitely	RB	definitely	AV0	ADV	advmod	definite-ly
+know	VVP	know	VVB	VERB	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="establishment">
+How	WRB	how	AVQ	ADV	advmod	_
+else	RB	else	AV0	ADV	advmod	_
+do	VVP	do	VD	AUX	aux	_
+they	PP	they	PNP	PRON	nsubj	_
+always	RB	always	AV0	ADV	advmod	_
+find	VV	find	VVB	VERB	root	_
+judges	NNS	judge	NN2	NOUN	obj	judge-s
+that	WDT	that	CJT	PRON	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+experts	NNS	expert	NN2	NOUN	acl:relcl	expert-s
+in	IN	in	PRP	ADP	case	_
+that	DT	that	DT0	DET	det	_
+type	NN	type	NN1	NOUN	nmod	_
+of	IN	of	PRF	ADP	case	_
+cuisine	NN	cuisine	NN1	NOUN	nmod	_
+to	TO	to	TO0	PART	mark	_
+judge	VV	judge	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+competition	NN	competition	NN1	NOUN	obj	compet-ition
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+While	IN	while	CJS	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+think	VV	think	VVI	VERB	advcl	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+Flay	NP	Flay	NP0	PROPN	flat	_
+is	VBZ	be	VBZ	AUX	cop	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+that	DT	that	DT0	PRON	obl:npmod	_
+good	JJ	good	AJ0	ADJ	ccomp	_
+(	(	(	PUL	PUNCT	punct	_
+regardless	RB	regardless	AV0	ADV	advmod	regard-less
+of	IN	of	PRF	SCONJ	mark	_
+how	WRB	how	AVQ	ADV	mark	_
+cocky	JJ	cocky	AJ0	ADJ	xcomp	cock-y
+he	PP	he	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+appear	VV	appear	VVI	VERB	advcl	_
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+agree	VV	agree	VVI	VERB	root	_
+with	IN	with	PRP	ADP	case	_
+you	PP	you	PNP	PRON	obl	_
+that	IN/that	that	CJT	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+competitor	NN	competitor	NN1	NOUN	nsubj	competit-or
+tends	VVZ	tend	VVZ	VERB	ccomp	tend-s
+to	TO	to	TO0	PART	mark	_
+be	VB	be	VBI	AUX	cop	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	amod	_
+worst	JJS	bad	AJS	ADJ	amod	_
+enemy	NN	enemy	NN1	NOUN	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+feel	VVP	feel	VVB	VERB	root	_
+like	IN	like	PRP	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+always	RB	always	AV0	ADV	advmod	_
+go	VVP	go	VVB	VERB	advcl	_
+overboard	RB	overboard	AJ0	ADV	advmod	over-board
+with	IN	with	PRP	ADP	case	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+dish	NN	dish	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+try	VV	try	VVI	VERB	advcl	_
+and	CC	and	CJC	CCONJ	cc	_
+wow	VV	wow	VVI	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+judges	NNS	judge	NN2	NOUN	obj	judge-s
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+forget	VVP	forget	VVB	VERB	advcl	for-get
+they	PP	they	PNP	PRON	nsubj	_
+simply	RB	simply	AV0	ADV	advmod	simp-ly
+just	RB	just	AV0	ADV	advmod	_
+need	VVP	need	VVB	VERB	ccomp	_
+to	TO	to	TO0	PART	mark	_
+beat	VV	beat	VVI	VERB	xcomp	_
+Bobby	NP	Bobby	NP0	PROPN	nmod:poss	Bobb-y
+’s	POS	's	POS	PART	case	_
+dish	NN	dish	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+takes	VVZ	take	VVZ	VERB	root	take-s
+the	DT	the	AT0	DET	det	_
+dish	NN	dish	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+just	RB	just	AV0	ADV	advmod	_
+makes	VVZ	make	VVZ	VERB	conj	make-s
+sure	JJ	sure	AJ0	ADJ	xcomp	_
+all	PDT	all	DT0	DET	det:predet	_
+the	DT	the	AT0	DET	det	_
+flavors	NNS	flavor	NN2	NOUN	nsubj	flavor-s
+and	CC	and	CJC	CCONJ	cc	_
+textures	NNS	texture	NN2	NOUN	conj	texture-s
+are	VBP	be	VBB	AUX	cop	_
+there	RB	there	AV0	ADV	ccomp	_
+while	IN	while	CJS	SCONJ	mark	_
+the	DT	the	AT0	DET	det	_
+competitor	NN	competitor	NN1	NOUN	nsubj	competit-or
+tries	VVZ	try	VVZ	VERB	advcl	trie-s
+to	TO	to	TO0	PART	mark	_
+make	VV	make	VVI	VERB	xcomp	_
+the	DT	the	AT0	DET	det	_
+dish	NN	dish	NN1	NOUN	obj	_
+more	RBR	more	AV0	ADV	advmod	_
+unique	JJ	unique	AJ0	ADJ	xcomp	_
+and	CC	and	CJC	CCONJ	cc	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+It	PP	it	PNP	PRON	nsubj	_
+rarely	RB	rarely	AV0	ADV	advmod	rare-ly
+works	VVZ	work	VVZ	VERB	root	work-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#meatsweats421" whom="#Scrappy_K">
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+always	RB	always	AV0	ADV	advmod	_
+thought	VVN	think	VVN	VERB	root	_
+of	IN	of	PRF	ADP	case	_
+Bobby	NP	Bobby	NP0	PROPN	obl	Bobb-y
+Flay	NP	Flay	NP0	PROPN	flat	_
+as	IN	as	PRP	ADP	case	_
+an	DT	a	AT0	DET	det	_
+arrogant	JJ	arrogant	AJ0	ADJ	amod	_
+douche	NN	douche	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+tiramisu	NN	tiramisu	NN1	NOUN	compound	_
+episode	NN	episode	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+BBF	NP	BBF	NP0	PROPN	nmod	_
+confirmed	VVD	confirm	VVD	VERB	conj	confirm-ed
+that	IN/that	that	CJT	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+douche	NN	douche	NN1	NOUN	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+In	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+middle	NN	middle	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+tiramisu	NN	tiramisu	NN1	NOUN	compound	_
+challenge	NN	challenge	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+he	PP	he	PNP	PRON	nsubj	_
+decided	VVD	decide	VVD	VERB	root	decid-ed
+to	TO	to	TO0	PART	mark	_
+make	VV	make	VVI	VERB	xcomp	_
+4	CD	4	CRD	NUM	nummod	_
+cheeseburgers	NNS	cheeseburger	NN2	NOUN	obj	cheese-burger-s
+from	IN	from	PRP	ADP	case	_
+scratch	NN	scratch	NN1	NOUN	obl	_
+just	RB	just	AV0	ADV	advmod	_
+for	IN	for	PRP	ADP	case	_
+fun	NN	fun	NN1	NOUN	obl	_
+to	TO	to	TO0	PART	mark	_
+eat	VV	eat	VVI	VERB	advcl	_
+during	IN	during	PRP	ADP	obl	dur-ing
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="smooth-shift">
+Fuck	VV	fuck	VVB	VERB	root	_
+that	DT	that	CJT	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+That	DT	that	DT0	PRON	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+so	RB	so	AV0	ADV	advmod	_
+disrespectful	JJ	disrespectful	AJ0	ADJ	root	dis-respect-ful
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+challenger	NN	challenger	NN1	NOUN	compound	challeng-er
+pastry	NN	pastry	NN1	NOUN	compound	past-ry
+chef	NN	chef	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#andienotandy_" whom="#meatsweats421">
+<p>
+<s type="other" transition="smooth-shift">
+so	RB	so	CJS	ADV	advmod	_
+happy	JJ	happy	AJ0	ADJ	root	happ-y
+Amanda	NP	Amanda	NP0	PROPN	nsubj	_
+won	VVD	win	VVD	VERB	ccomp	_
+though	RB	though	AV0	ADV	advmod	_
+!	SENT	!	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="zero">
+love	VVP	love	VVB	VERB	root	_
+when	WRB	when	CJS	ADV	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	advcl:relcl	_
+<w>
+people	NNS	person	NN0	NOUN	obj	_
+/	SYM	/	UNC	SYM	cc	_
+places	NNS	place	NN2	NOUN	conj	place-s
+</w>
+from	IN	from	PRP	ADP	case	_
+Austin	NP	Austin	NP0	PROPN	nmod	_
+on	IN	on	PRP	ADP	case	_
+FN	NP	FN	NP0	PROPN	obl	_
+:)	SYM	:)	UNC	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#tarheelz1995" whom="#Scrappy_K">
+<p>
+<s type="decl" transition="null">
+From	IN	from	PRP	SCONJ	mark	_
+binge	NN	binge	NN1	NOUN	obl:npmod	_
+watching	VVG	watch	VVG	VERB	advcl	watch-ing
+this	DT	this	DT0	DET	det	_
+show	NN	show	NN1	NOUN	obj	_
+the	DT	the	AT0	DET	det	_
+past	JJ	past	AJ0	ADJ	amod	_
+week	NN	week	NN1	NOUN	obl:tmod	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	expl	_
+’s	VBZ	be	VVZ	AUX	cop	_
+clear	JJ	clear	AJ0	ADJ	root	_
+that	IN/that	that	CJT	SCONJ	mark	_
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+has	VHZ	have	VHZ	VERB	csubj	ha-s
+advance	JJ	advance	AJ0	ADJ	amod	_
+knowledge	NN	knowledge	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+what	WP	what	PNQ	PRON	nmod	_
+he	PP	he	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+face	VV	face	VVI	VERB	acl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="imp" transition="null">
+Recall	VV	recall	VVB	VERB	root	Re-call
+that	IN/that	that	DT0	SCONJ	mark	_
+Iron	NP	Iron	NP0	PROPN	nsubj	_
+Chef	NP	Chef	NP0	PROPN	flat	_
+also	RB	also	AV0	ADV	advmod	_
+was	VBD	be	VBD	AUX	cop	_
+n’t	RB	not	XX0	PART	advmod	_
+a	DT	a	AT0	DET	det	_
+total	JJ	total	AJ0	ADJ	amod	_
+surprise	NN	surprise	NN1	NOUN	ccomp	_
+as	IN	as	CJS	ADP	case	_
+to	IN	to	PRP	ADP	fixed	_
+the	DT	the	AT0	DET	det	_
+featured	VVN	feature	VVN	VERB	amod	featur-ed
+ingredient	NN	ingredient	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="other" transition="null">
+PS	NN	PS	NN1	NOUN	dep	_
+-	:	-	PUN	PUNCT	punct	_
+Good	JJ	good	AJ0	ADJ	amod	_
+analysis	NN	analysis	NN1	NOUN	root	_
+from	IN	from	PRP	ADP	case	_
+OP	NN	OP	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#captn_morgn" whom="#Scrappy_K">
+<p>
+<s type="decl" transition="null">
+Bobby	NP	Bobby	NP0	PROPN	nsubj	Bobb-y
+has	VHZ	have	VHZ	AUX	aux	ha-s
+never	RB	never	AV0	ADV	advmod	_
+made	VVN	make	VVN	VERB	root	_
+anything	NN	anything	NN1	PRON	obj	_
+that	WDT	that	CJT	PRON	obl	_
+the	DT	the	AT0	DET	det	_
+competition	NN	competition	NN1	NOUN	nsubj	compet-ition
+challenges	VVZ	challenge	VVZ	VERB	acl:relcl	challenge-s
+him	PP	he	PNP	PRON	obj	_
+<sic ana="to">
+too	IN	to	PRP	ADP	case	_
+</sic>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+He	PP	he	PNP	PRON	nsubj	_
+just	RB	just	AV0	ADV	advmod	_
+makes	VVZ	make	VVZ	VERB	root	make-s
+a	DT	a	AT0	DET	det	_
+completely	RB	completely	AV0	ADV	advmod	complete-ly
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+dish	NN	dish	NN1	NOUN	obj	_
+and	CC	and	CJC	CCONJ	cc	_
+calls	VVZ	call	VVZ	VERB	conj	call-s
+it	PP	it	PNP	PRON	obj	_
+a	DT	a	AT0	DET	det	_
+Southwest	NP	Southwest	NP0	PROPN	compound	_
+version	NN	version	NN1	NOUN	xcomp	_
+of	IN	of	PRF	SCONJ	mark	_
+whatever	WP	whatever	PNQ	PRON	obj	what-ever
+he	PP	he	PNP	PRON	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+supposed	VVN	suppose	VVN	VERB	acl	suppos-ed
+to	TO	to	TO0	PART	mark	_
+make	VV	make	VVI	VERB	xcomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#__vheissu__" whom="#Scrappy_K">
+<p>
+<s type="decl" transition="continue">
+<sic ana="Bobby">
+bobby	NP	Bobby	NP0	PROPN	nsubj	_
+</sic>
+<sic ana="Flay">
+flay	NP	Flay	NP0	PROPN	flat	_
+</sic>
+is	VBZ	be	VBZ	AUX	cop	_
+an	DT	a	AT0	DET	det	_
+iron	NN	iron	NN1	NOUN	compound	_
+chef	NN	chef	NN1	NOUN	root	_
+for	IN	for	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+reason	NN	reason	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+<sic ana="He">
+he	PP	he	PNP	PRON	nsubj	_
+</sic>
+is	VBZ	be	VBZ	AUX	aux	_
+going	VVG	go	VVG	VERB	root	go-ing
+up	RP	up	AVP	ADP	compound:prt	_
+against	IN	against	PRP	ADP	case	a-gainst
+mostly	RB	mostly	AV0	ADV	advmod	most-ly
+home	NN	home	NN1	NOUN	compound	_
+cooks	NNS	cook	NN2	NOUN	obl	cook-s
+or	CC	or	CJC	CCONJ	cc	_
+restaurant	NN	restaurant	NN1	NOUN	compound	_
+chefs	NNS	chef	NN2	NOUN	conj	chef-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="retain">
+<sic ana="While">
+while	IN	while	CJS	SCONJ	mark	_
+</sic>
+<sic ana="I">
+i	PP	I	PNP	PRON	nsubj	_
+</sic>
+do	VVP	do	VD	AUX	aux	_
+agree	VV	agree	VVI	VERB	advcl	_
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+do	VVP	do	VD	VERB	ccomp	_
+selective	JJ	selective	AJ0	ADJ	amod	select-ive
+casting	NN	casting	NN1	NOUN	obj	cast-ing
+,	,	,	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	obj	_
+all	DT	all	DT0	DET	det	_
+shows	NNS	show	NN2	NOUN	nsubj	show-s
+do	VVP	do	VD	VERB	acl:relcl	_
+anyways	RB	anyways	AV0	ADV	advmod	anyway-s
+for	IN	for	PRP	ADP	case	_
+entertainment	NN	entertainment	NN1	NOUN	compound	entertain-ment
+purposes	NNS	purpose	NN2	NOUN	obl	purpose-s
+,	,	,	PUN	PUNCT	punct	_
+<sic ana="I">
+i	PP	I	PNP	PRON	nsubj	_
+</sic>
+do	VVP	do	VD	AUX	aux	_
+believe	VV	believe	VVI	VERB	root	_
+that	IN/that	that	CJT	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+that	RB	that	CJT	ADV	advmod	_
+good	JJ	good	AJ0	ADJ	ccomp	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#King-Of-Rats" whom="#Scrappy_K">
+<p>
+<s type="decl" transition="smooth-shift">
+The	DT	the	AT0	DET	det	_
+producers	NNS	producer	NN2	NOUN	nsubj	produc-er-s
+know	VVP	know	VVB	VERB	root	_
+,	,	,	PUN	PUNCT	punct	_
+but	CC	but	CJC	CCONJ	cc	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+think	VV	think	VVI	VERB	conj	_
+they	PP	they	PNP	PRON	nsubj	_
+<sic ana="">
+'re	VBP	be	VBB	AUX	aux	_
+</sic>
+actively	RB	actively	AV0	ADV	advmod	act-ive-ly
+try	VVP	try	VVB	VERB	ccomp	_
+and	CC	and	CJC	CCONJ	cc	_
+push	VVP	push	VVB	VERB	conj	_
+the	DT	the	AT0	DET	det	_
+scales	NNS	scale	NN2	NOUN	obj	scale-s
+against	IN	against	PRP	ADP	case	a-gainst
+Bobby	NP	Bobby	NP0	PROPN	obl	Bobb-y
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+They	PP	they	PNP	PRON	nsubj	_
+want	VVP	want	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+<sic ana="competitors">
+competetors	NNS	competitor	NN2	NOUN	obj	compete-tor-s
+</sic>
+to	TO	to	TO0	PART	mark	_
+cook	VV	cook	VVI	VERB	xcomp	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+own	JJ	own	DT0	ADJ	amod	_
+signature	NN	signature	NN1	NOUN	compound	_
+dish	NN	dish	NN1	NOUN	obj	_
+because	IN	because	CJS	SCONJ	mark	_
+that	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+interesting	JJ	interesting	AJ0	ADJ	advcl	interest-ing
+-	:	-	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+the	DT	the	AT0	DET	det	_
+premise	NN	premise	NN1	NOUN	parataxis	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+show	NN	show	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+The	DT	the	AT0	DET	det	_
+best	JJS	good	AJS	ADJ	root	be-st
+that	WDT	that	CJT	PRON	obj	_
+some	DT	some	DT0	DET	det	_
+<q>
+"	``	''	PUQ	PUNCT	punct	_
+average	JJ	average	AJ0	ADJ	amod	_
+"	''	''	PUQ	PUNCT	punct	_
+</q>
+chef	NN	chef	NN1	NOUN	nsubj	_
+has	VHZ	have	VHZ	VERB	acl:relcl	ha-s
+to	TO	to	TO0	PART	mark	_
+offer	VV	offer	VVI	VERB	xcomp	_
+vs	IN	versus	PRP	ADP	case	_
+some	DT	some	DT0	DET	det	_
+side	NN	side	NN1	NOUN	compound	_
+dish	NN	dish	NN1	NOUN	obl	_
+produced	VVN	produce	VVN	VERB	acl	produc-ed
+by	IN	by	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+master	NN	master	NN1	NOUN	compound	mast-er
+chef	NN	chef	NN1	NOUN	obl:agent	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+When	WRB	when	CJS	ADV	advmod	_
+you	PP	you	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+celebrity	NN	celebrity	NN1	NOUN	compound	_
+chef	NN	chef	NN1	NOUN	advcl	_
+,	,	,	PUN	PUNCT	punct	_
+you	PP	you	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+really	RB	really	AV0	ADV	advmod	real-ly
+have	VH	have	VHI	VERB	root	_
+a	DT	a	AT0	DET	det	_
+single	JJ	single	AJ0	ADJ	amod	_
+<sic ana="signature">
+singular	JJ	singular	AJ0	ADJ	amod	_
+</sic>
+dish	NN	dish	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+You	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+cook	VV	cook	VVI	VERB	root	_
+everything	NN	everything	NN1	PRON	obj	_
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+maybe	RB	maybe	AV0	ADV	advmod	may-be
+specialize	VV	specialize	VVB	VERB	conj	special-ize
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+few	JJ	few	DT0	ADJ	amod	_
+fields	NNS	field	NN2	NOUN	obl	field-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="continue">
+So	RB	so	AV0	ADV	advmod	_
+when	WRB	when	CJS	ADV	advmod	_
+master	NN	master	NN1	NOUN	compound	mast-er
+chefs	NNS	chef	NN2	NOUN	nsubj	chef-s
+go	VVP	go	VVB	VERB	advcl	_
+against	IN	against	PRP	ADP	case	a-gainst
+Bobby	NP	Bobby	NP0	PROPN	obl	Bobb-y
+,	,	,	PUN	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+just	RB	just	AV0	ADV	advmod	_
+whip	VV	whip	VVI	VERB	root	_
+out	RP	out	AVP	ADP	compound:prt	_
+something	NN	something	NN1	PRON	obj	_
+they	PP	they	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	acl:relcl	_
+they	PP	they	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	cop	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+better	JJR	good	AJC	ADJ	ccomp	bett-er
+than	IN	than	CJS	ADP	case	_
+him	PP	he	PNP	PRON	obl	_
+at	IN	at	PRP	ADP	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

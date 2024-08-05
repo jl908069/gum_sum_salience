@@ -1,0 +1,1058 @@
+<text id="GUM_reddit_space" partition="train" author="juggernaut8, BrapAllgood, datdood5 and others (see URL)" dateCollected="2017-09-13" dateCreated="2016-08-31" dateModified="2016-09-05" shortTitle="space" sourceURL="https://www.reddit.com/r/C_S_T/comments/50hx5c/we_know_shitall_about_space/?sort=old&amp;sh=1bfb002c&amp;st=j7fduapo" speakerCount="3" speakerList="#juggernaut8, #BrapAllgood, #datdood5" title="We know shit-all about space" type="reddit" summary="Some people discuss how little they know about space since they get all of their information from NASA and Hollywood movies, which they distrust, and question whether there are astronauts on the ISS, or whether the moon landing happened, and suggest the Earth is actually flat.">
+<head>
+<s type="decl" transition="establishment">
+We	PP	we	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	root	_
+<w>
+shit	NN	shit	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+all	DT	all	DT0	DET	obj	_
+</w>
+about	IN	about	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	obl	_
+</s>
+</head>
+<sp who="#juggernaut8">
+<p>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	root	_
+any	DT	any	DT0	DET	det	_
+discussion	NN	discussion	NN1	NOUN	nsubj	discuss-ion
+about	IN	about	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	nmod	_
+or	CC	or	CJC	CCONJ	cc	_
+aliens	NNS	alien	NN2	NOUN	conj	alien-s
+is	VBZ	be	VBZ	AUX	cop	_
+pointless	JJ	pointless	AJ0	ADJ	ccomp	point-less
+until	IN	until	PRP	SCONJ	mark	un-til
+people	NNS	person	NN0	NOUN	nsubj	_
+start	VVP	start	VVB	VERB	advcl	_
+discussing	VVG	discuss	VVG	VERB	xcomp	discuss-ing
+<sic ana="NASA">
+nasa	NP	NASA	NP0	PROPN	nmod:poss	_
+</sic>
+'s	POS	's	POS	PART	case	_
+fakery	NN	fakery	NN1	NOUN	obj	fake-ry
+but	CC	but	CJC	CCONJ	cc	_
+it	PP	it	PNP	PRON	expl	_
+appears	VVZ	appear	VVZ	VERB	conj	appear-s
+a	DT	a	AT0	DET	det	_
+lot	NN	lot	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+want	VV	want	VVI	VERB	csubj	_
+to	TO	to	TO0	PART	mark	_
+go	VV	go	VVI	VERB	xcomp	_
+into	IN	into	PRP	ADP	case	in-to
+it	PP	it	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+Logically	RB	logically	AV0	ADV	advmod	Logic-al-ly
+,	,	,	PUN	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+<sic ana="an">
+a	DT	a	AT0	DET	det	_
+</sic>
+incredibly	RB	incredibly	AV0	ADV	advmod	incredib-ly
+vast	JJ	vast	AJ0	ADJ	amod	_
+universe	NN	universe	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+it	PP	it	PNP	PRON	expl	_
+makes	VVZ	make	VVZ	VERB	root	make-s
+sense	NN	sense	NN1	NOUN	obj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+humans	NNS	human	NN2	NOUN	nsubj	human-s
+are	VBP	be	VBB	AUX	cop	_
+n't	RB	not	XX0	PART	advmod	_
+the	DT	the	AT0	DET	det	_
+only	JJ	only	AJ0	ADJ	amod	_
+sentient	JJ	sentient	AJ0	ADJ	amod	_
+beings	NNS	being	NN2	NOUN	csubj	be-ing-s
+out	RB	out	AVP	ADV	advmod	_
+there	RB	there	AV0	ADV	advmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+The	DT	the	AT0	DET	det	_
+problem	NN	problem	NN1	NOUN	nsubj:outer	_
+with	IN	with	PRP	ADP	case	_
+this	DT	this	DT0	PRON	nmod	_
+is	VBZ	be	VBZ	AUX	cop	_
+that	IN/that	that	CJT	SCONJ	mark	_
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+know	VV	know	VVI	VERB	root	_
+if	IN	if	CJS	SCONJ	mark	_
+that	DT	that	DT0	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+what	WP	what	PNQ	PRON	ccomp	_
+we	PP	we	PNP	PRON	nsubj	_
+'re	VBP	be	VBB	AUX	aux	_
+working	VVG	work	VVG	VERB	acl:relcl	work-ing
+with	IN	with	PRP	ADP	obl	_
+anymore	RB	anymore	AV0	ADV	advmod	_
+,	,	,	PUN	PUNCT	punct	_
+the	DT	the	AT0	DET	det	_
+entire	JJ	entire	AJ0	ADJ	amod	_
+conception	NN	conception	NN1	NOUN	parataxis	concept-ion
+of	IN	of	PRF	ADP	case	_
+distant	JJ	distant	AJ0	ADJ	amod	_
+suns	NNS	sun	NN2	NOUN	nmod	sun-s
+,	,	,	PUN	PUNCT	punct	_
+planets	NNS	planet	NN2	NOUN	conj	planet-s
+,	,	,	PUN	PUNCT	punct	_
+black	JJ	black	AJ0	ADJ	amod	_
+<sic ana="holes">
+-holes	NNS	hole	NN2	NOUN	conj	-hole-s
+</sic>
+,	,	,	PUN	PUNCT	punct	_
+alien	JJ	alien	AJ0	ADJ	amod	_
+life	NN	life	NN1	NOUN	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+all	RB	all	AV0	ADV	advmod	_
+suspect	JJ	suspect	AJ0	ADJ	root	_
+because	IN	because	CJS	SCONJ	mark	_
+we	PP	we	PNP	PRON	nsubj	_
+get	VVP	get	VVB	VERB	advcl	_
+all	PDT	all	DT0	DET	det:predet	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+news	NN	news	NN1	NOUN	obj	new-s
+and	CC	and	CJC	CCONJ	cc	_
+information	NN	information	NN1	NOUN	conj	in-form-ation
+from	IN	from	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+small	JJ	small	AJ0	ADJ	amod	_
+group	NN	group	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+people	NNS	person	NN0	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+these	DT	this	DT0	DET	det	_
+people	NNS	person	NN0	NOUN	nsubj	_
+are	VBP	be	VBB	AUX	cop	_
+liars	NNS	liar	NN2	NOUN	conj	liar-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="multiple" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+watched	VVD	watch	VVD	VERB	root	watch-ed
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+The	DT	the	AT0	DET	det	_
+Martian	NN	Martian	NN1	NOUN	obj	_
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+<date notAfter="2016-08-31">
+a	DT	a	AT0	DET	det	_
+few	JJ	few	DT0	ADJ	amod	_
+days	NNS	day	NN2	NOUN	obl:tmod	day-s
+ago	RB	ago	AV0	ADV	advmod	a-go
+</date>
+,	,	,	PUN	PUNCT	punct	_
+how	WRB	how	AVQ	ADV	advmod	_
+much	JJ	much	DT0	ADJ	nsubj	_
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	obl	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+corresponds	VVZ	correspond	VVZ	VERB	parataxis	correspond-s
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+realities	NNS	reality	NN2	NOUN	obl	real-itie-s
+of	IN	of	PRF	ADP	case	_
+space	NN	space	NN1	NOUN	nmod	_
+and	CC	and	CJC	CCONJ	cc	_
+space	NN	space	NN1	NOUN	compound	_
+travel	NN	travel	NN1	NOUN	conj	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+When	WRB	when	CJS	ADV	advmod	_
+we	PP	we	PNP	PRON	nsubj	_
+see	VVP	see	VVB	VERB	advcl	_
+an	DT	a	AT0	DET	det	_
+astronaut	NN	astronaut	NN1	NOUN	obj	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<sic ana="ISS">
+iss	NP	ISS	NP0	PROPN	nmod	_
+</sic>
+,	,	,	PUN	PUNCT	punct	_
+is	VBZ	be	VBZ	VERB	root	_
+there	EX	there	AV0	PRON	expl	_
+really	RB	really	AV0	ADV	advmod	real-ly
+someone	NN	someone	NN1	PRON	nsubj	_
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+craft	NN	craft	NN1	NOUN	obl	_
+up	RB	up	AVP	ADV	advmod	_
+there	RB	there	AV0	ADV	advmod	_
+or	CC	or	CJC	CCONJ	cc	_
+is	VBZ	be	VBZ	AUX	aux:pass	_
+it	PP	it	PNP	PRON	nsubj:pass	_
+all	DT	all	AV0	DET	det	_
+created	VVN	create	VVN	VERB	conj	creat-ed
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+studio	NN	studio	NN1	NOUN	obl	_
+somewhere	RB	somewhere	AV0	ADV	advmod	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+One	CD	one	CRD	NUM	nummod	_
+thing	NN	thing	NN1	NOUN	nsubj:outer	_
+we	PP	we	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+know	VV	know	VVI	VERB	acl:relcl	_
+is	VBZ	be	VBZ	AUX	cop	_
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+simulate	VV	simulate	VVI	VERB	root	_
+the	DT	the	AT0	DET	det	_
+appearance	NN	appearance	NN1	NOUN	obj	appear-ance
+of	IN	of	PRF	ADP	case	_
+weightlessness	NN	weightlessness	NN1	NOUN	nmod	weigh-t-less-ness
+since	IN	since	CJS	ADP	case	_
+<date notBefore="1995-01-01">
+at	IN	at	PRP	ADP	advmod	_
+least	JJS	least	AJS	ADJ	fixed	_
+1995	CD	1995	CRD	NUM	obl	_
+</date>
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="zero">
+Just	RB	just	AV0	ADV	advmod	_
+watch	VV	watch	VVB	VERB	root	_
+the	DT	the	AT0	DET	det	_
+<sic ana="Apollo">
+apollo	NP	Apollo	NP0	PROPN	compound	_
+</sic>
+13	CD	13	CRD	NUM	nummod	_
+movie	NN	movie	NN1	NOUN	obj	mov-ie
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+Anyone	NN	anyone	NN1	PRON	nsubj	Any-one
+who	WP	who	PNQ	PRON	nsubj	_
+bothers	VVZ	bother	VVZ	VERB	acl:relcl	bother-s
+to	TO	to	TO0	PART	mark	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+look	VV	look	VVI	VERB	xcomp	_
+<w>
+into	IN	into	PRP	ADP	case	in-to
+<sic ana="">
+'s	POS	's	POS	PART	reparandum	_
+</sic>
+</w>
+the	DT	the	AT0	DET	det	_
+details	NNS	detail	NN2	NOUN	obl	detail-s
+of	IN	of	PRF	ADP	case	_
+<sic ana="NASA">
+nasa	NP	NASA	NP0	PROPN	nmod:poss	_
+</sic>
+'s	POS	's	POS	PART	case	_
+claims	NNS	claim	NN2	NOUN	nmod	claim-s
+will	MD	will	VM0	AUX	aux	_
+realize	VV	realize	VVI	VERB	root	real-ize
+they	PP	they	PNP	PRON	nsubj	_
+never	RB	never	AV0	ADV	advmod	_
+went	VVD	go	VVD	VERB	ccomp	_
+to	IN	to	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+moon	NN	moon	NN1	NOUN	obl	_
+,	,	,	PUN	PUNCT	punct	_
+let	VV	let	VVB	VERB	advmod	_
+alone	JJ	alone	AJ0	ADJ	fixed	a-lone
+6	CD	6	CRD	NUM	nummod	_
+times	NNS	time	NN2	NOUN	obl:npmod	time-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+During	IN	during	PRP	ADP	case	Dur-ing
+Apollo	NP	Apollo	NP0	PROPN	obl	_
+there	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	root	_
+a	DT	a	AT0	DET	det	_
+video	NN	video	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+astronauts	NNS	astronaut	NN2	NOUN	nmod	astronaut-s
+supposedly	RB	supposedly	AV0	ADV	advmod	suppos-ed-ly
+in	IN	in	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	nmod	_
+taking	VVG	take	VVG	VERB	acl	tak-ing
+a	DT	a	AT0	DET	det	_
+video	NN	video	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+earth	NN	earth	NN1	NOUN	nmod	_
+,	,	,	PUN	PUNCT	punct	_
+yet	CC	yet	AV0	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+video	NN	video	NN1	NOUN	nsubj	_
+(	(	(	PUL	PUNCT	punct	_
+that	WDT	that	DT0	PRON	nsubj	_
+goes	VVZ	go	VVZ	VERB	acl:relcl	goe-s
+on	RP	on	AVP	ADP	compound:prt	_
+recording	VVG	record	VVG	VERB	xcomp	record-ing
+after	IN	after	CJS	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+think	VVP	think	VVB	VERB	advcl	_
+<w>
+it	PP	it	PNP	PRON	nsubj	_
+<sic ana="'s">
+s	VBZ	be	UNC	AUX	ccomp	_
+</sic>
+</w>
+over	RB	over	AV0	ADV	advmod	_
+)	)	)	PUR	PUNCT	punct	_
+reveals	VVZ	reveal	VVZ	VERB	conj	reveal-s
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+used	VVD	use	VVD	VERB	ccomp	us-ed
+cardboard	NN	cardboard	NN1	NOUN	obj	_
+to	TO	to	TO0	PART	mark	_
+block	VV	block	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+windows	NNS	window	NN2	NOUN	obj	window-s
+to	TO	to	TO0	PART	mark	_
+create	VV	create	VVI	VERB	advcl	_
+the	DT	the	AT0	DET	det	_
+illusion	NN	illusion	NN1	NOUN	obj	_
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+were	VBD	be	VBD	AUX	cop	_
+far	RB	far	AV0	ADV	advmod	_
+away	RB	away	AV0	ADV	acl	a-way
+and	CC	and	CJC	CCONJ	cc	_
+were	VBD	be	VBD	AUX	conj	_
+probably	RB	probably	AV0	ADV	advmod	probab-ly
+only	RB	only	AV0	ADV	advmod	_
+in	IN	in	PRP	ADP	case	_
+low	JJ	low	AJ0	ADJ	amod	_
+earth	NN	earth	NN1	NOUN	compound	_
+orbit	NN	orbit	NN1	NOUN	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="null">
+The	DT	the	AT0	DET	det	_
+actual	JJ	actual	AJ0	ADJ	amod	act-ual
+structure	NN	structure	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<sic ana="ISS">
+iss	NP	ISS	NP0	PROPN	nmod	_
+</sic>
+itself	PP	itself	PNP	PRON	nmod:npmod	it-self
+looks	VVZ	look	VVZ	VERB	root	look-s
+different	JJ	different	AJ0	ADJ	xcomp	differ-ent
+in	IN	in	PRP	ADP	case	_
+different	JJ	different	AJ0	ADJ	amod	differ-ent
+<sic ana="NASA">
+nasa	NP	NASA	NP0	PROPN	compound	_
+</sic>
+pictures	NNS	picture	NN2	NOUN	obl	picture-s
+,	,	,	PUN	PUNCT	punct	_
+how	WRB	how	AVQ	ADV	advmod	_
+is	VBZ	be	VBZ	AUX	cop	_
+this	DT	this	DT0	PRON	nsubj	_
+possible	JJ	possible	AJ0	ADJ	parataxis	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+There	EX	there	EX0	PRON	expl	_
+'s	VBZ	be	VBZ	VERB	root	_
+abundant	JJ	abundant	AJ0	ADJ	amod	_
+evidence	NN	evidence	NN1	NOUN	nsubj	evid-ence
+that	IN/that	that	CJT	SCONJ	mark	_
+they	PP	they	PNP	PRON	nsubj	_
+faked	VVD	fake	VVD	VERB	acl	fak-ed
+the	DT	the	AT0	DET	det	_
+<sic ana="Challenger">
+challenger	NP	Challenger	NP0	PROPN	compound	challeng-er
+</sic>
+disaster	NN	disaster	NN1	NOUN	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="wh" transition="zero">
+Why	WRB	why	AVQ	ADV	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="zero">
+There	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	root	_
+videos	NNS	video	NN2	NOUN	nsubj	video-s
+where	WRB	where	AVQ	ADV	advmod	_
+women	NNS	woman	NN2	NOUN	compound	_
+astronauts	NNS	astronaut	NN2	NOUN	nsubj	astronaut-s
+have	VHP	have	VHB	VERB	acl:relcl	_
+weird	JJ	weird	AJ0	ADJ	amod	_
+puffy	JJ	puffy	AJ0	ADJ	amod	puff-y
+hair	NN	hair	NN1	NOUN	obj	_
+(	(	(	PUL	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+should	MD	should	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+happen	VV	happen	VVI	VERB	advcl:relcl	happ-en
+)	)	)	PUR	PUNCT	punct	_
+in	IN	in	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+<sic ana="ISS">
+iss	NP	ISS	NP0	PROPN	obl	_
+</sic>
+when	WRB	when	CJS	ADV	advmod	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+hair	NN	hair	NN1	NOUN	nsubj	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+n't	RB	not	XX0	PART	advmod	_
+act	VV	act	VVI	VERB	advcl	_
+in	IN	in	PRP	ADP	case	_
+such	PDT	such	DT0	DET	det:predet	_
+a	DT	a	AT0	DET	det	_
+way	NN	way	NN1	NOUN	obl	_
+on	IN	on	PRP	ADP	case	_
+zero	CD	zero	CRD	NUM	nummod	_
+gravity	NN	gravity	NN1	NOUN	compound	grav-ity
+planes	NNS	plane	NN2	NOUN	obl	plane-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+There	EX	there	EX0	PRON	expl	_
+are	VBP	be	VBB	VERB	root	_
+videos	NNS	video	NN2	NOUN	nsubj	video-s
+of	IN	of	PRF	ADP	case	_
+astronauts	NNS	astronaut	NN2	NOUN	nmod	astronaut-s
+supposedly	RB	supposedly	AV0	ADV	advmod	suppos-ed-ly
+in	IN	in	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	nmod	_
+when	WRB	when	CJS	ADV	advmod	_
+suddenly	RB	suddenly	AV0	ADV	advmod	sudden-ly
+a	DT	a	AT0	DET	det	_
+bubble	NN	bubble	NN1	NOUN	nsubj	_
+leaves	VVZ	leave	VVZ	VERB	acl	leave-s
+their	PP$	their	DPS	PRON	nmod:poss	_
+helmet	NN	helmet	NN1	NOUN	obj	helm-et
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="null">
+The	DT	the	AT0	DET	det	_
+amount	NN	amount	NN1	NOUN	nsubj	_
+of	IN	of	PRF	ADP	case	_
+fakery	NN	fakery	NN1	NOUN	nmod	fake-ry
+is	VBZ	be	VBZ	AUX	cop	_
+overwhelming	JJ	overwhelming	AJ0	ADJ	root	over-whelm-ing
+,	,	,	PUN	PUNCT	punct	_
+how	WRB	how	AVQ	ADV	advmod	_
+does	VVZ	do	VDZ	AUX	aux	doe-s
+<sic ana="NASA">
+nasa	NP	NASA	NP0	PROPN	nsubj	_
+</sic>
+even	RB	even	AV0	ADV	advmod	_
+have	VH	have	VHB	VERB	parataxis	_
+a	DT	a	AT0	DET	det	_
+shred	NN	shred	NN1	NOUN	obj	shred
+of	IN	of	PRF	ADP	case	_
+credibility	NN	credibility	NN1	NOUN	nmod	credibil-ity
+left	VVN	leave	VVN	VERB	advcl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+Does	VVZ	do	VDZ	AUX	aux	Doe-s
+<sic ana="Hubble">
+hubble	NP	Hubble	NP0	PROPN	nsubj	_
+</sic>
+even	RB	even	AV0	ADV	advmod	_
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+exist	VV	exist	VVB	VERB	root	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="other" transition="null">
+tldr	RB	tldr	NN1	ADV	root	_
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<hi rend="quote">
+<s type="decl" transition="null">
+We	PP	we	PNP	PRON	nsubj	_
+get	VVP	get	VVB	VERB	root	_
+all	PDT	all	DT0	DET	det:predet	_
+our	PP$	our	DPS	PRON	nmod:poss	_
+information	NN	information	NN1	NOUN	obj	in-form-ation
+about	IN	about	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	nmod	_
+from	IN	from	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	compound	_
+agencies	NNS	agency	NN2	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+<sic ana="Hollywood">
+hollywood	NP	Hollywood	NP0	PROPN	conj	_
+</sic>
+(	(	(	PUL	PUNCT	punct	_
+they	PP	they	PNP	PRON	nsubj	_
+'ve	VHP	have	VHB	AUX	aux	_
+always	RB	always	AV0	ADV	advmod	_
+worked	VVN	work	VVN	VERB	parataxis	work-ed
+together	RB	together	AV0	ADV	advmod	_
+)	)	)	PUR	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+Space	NN	space	NN1	NOUN	compound	_
+agencies	NNS	agency	NN2	NOUN	nsubj	_
+lie	VVP	lie	VVB	VERB	root	_
+all	PDT	all	DT0	DET	det:predet	_
+the	DT	the	AT0	DET	det	_
+time	NN	time	NN1	NOUN	obl:npmod	_
+,	,	,	PUN	PUNCT	punct	_
+about	IN	about	PRP	ADP	case	_
+everything	NN	everything	NN1	PRON	obl	_
+</s>
+<s type="wh" transition="smooth-shift">
+How	WRB	how	AVQ	ADV	advmod	_
+can	MD	can	VM0	AUX	aux	_
+we	PP	we	PNP	PRON	nsubj	_
+claim	VV	claim	VVI	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+know	VV	know	VVI	VERB	xcomp	_
+anything	NN	anything	NN1	PRON	obj	_
+if	IN	if	CJS	SCONJ	mark	_
+<w>
+#	NN	#	NN1	NOUN	nsubj	_
+2	CD	2	CRD	NUM	nummod	_
+</w>
+is	VBZ	be	VBZ	AUX	cop	_
+true	JJ	true	AJ0	ADJ	advcl	_
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Conclusion	NN	conclusion	NN1	NOUN	nsubj	Conclus-ion
+=	SYM	=	UNC	SYM	root	_
+we	PP	we	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	ccomp	_
+<w>
+shit	NN	shit	NN1	NOUN	compound	_
+-	HYPH	-	PUN	PUNCT	punct	_
+all	DT	all	DT0	DET	obj	_
+</w>
+about	IN	about	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	obl	_
+</s>
+</hi>
+</p>
+<p>
+<s type="decl" transition="continue">
+We	PP	we	PNP	PRON	nsubj	_
+'ll	MD	will	VM0	AUX	aux	_
+never	RB	never	AV0	ADV	advmod	_
+get	VV	get	VVI	VERB	root	_
+anywhere	RB	anywhere	AV0	ADV	advmod	_
+as	IN	as	CJS	ADP	case	_
+a	DT	a	AT0	DET	det	_
+species	NN	species	NN0	NOUN	obl	_
+as	RB	as	CJS	ADV	advmod	_
+long	RB	long	AV0	ADV	advmod	_
+as	IN	as	PRP	SCONJ	mark	_
+humanity	NN	humanity	NN1	NOUN	nsubj	human-ity
+continues	VVZ	continue	VVZ	VERB	advcl	continue-s
+to	TO	to	TO0	PART	mark	_
+believe	VV	believe	VVI	VERB	xcomp	_
+<sic ana="NASA">
+nasa	NP	NASA	NP0	PROPN	nsubj	_
+</sic>
+are	VBP	be	VBB	AUX	cop	_
+legitimate	JJ	legitimate	AJ0	ADJ	amod	_
+scientists	NNS	scientist	NN2	NOUN	ccomp	scient-ist-s
+</s>
+</p>
+</sp>
+<sp who="#BrapAllgood" whom="#juggernaut8">
+<p>
+<s type="sub" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+might	MD	might	VM0	AUX	aux	_
+even	RB	even	AV0	ADV	advmod	_
+say	VV	say	VVI	VERB	root	_
+<q>
+"	``	''	PUQ	PUNCT	punct	_
+we	PP	we	PNP	PRON	nsubj	_
+know	VVP	know	VVB	VERB	ccomp	_
+<w>
+all	DT	all	DT0	DET	det	_
+-	HYPH	-	PUN	PUNCT	punct	_
+shit	NN	shit	NN1	NOUN	obj	_
+</w>
+about	IN	about	PRP	ADP	case	_
+space	NN	space	NN1	NOUN	obl	_
+"	''	''	PUQ	PUNCT	punct	_
+</q>
+.	SENT	.	PUN	PUNCT	punct	_
+o_o	SYM	o_o	AJ0	SYM	discourse	_
+</s>
+</p>
+<p>
+<s type="q" transition="zero">
+Talk	VV	talk	NN1	VERB	root	_
+about	IN	about	PRP	SCONJ	mark	_
+accepting	VVG	accept	VVG	VERB	advcl	accept-ing
+stuff	NN	stuff	NN1	NOUN	obj	_
+on	IN	on	PRP	ADP	case	_
+faith	NN	faith	NN1	NOUN	obl	fai-th
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="q" transition="null">
+With	IN	with	PRP	ADP	case	_
+<hi rend="italic">
+weak	JJ	weak	AJ0	ADJ	amod	_
+</hi>
+evidence	NN	evidence	NN1	NOUN	root	evid-ence
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="sub" transition="null">
+May	MD	may	VM0	AUX	aux	_
+as	RB	as	AV0	ADV	advmod	_
+well	RB	well	AV0	ADV	fixed	_
+be	VB	be	VBI	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+Space	NN	space	NN1	NOUN	compound	_
+Religion	NN	religion	NN1	NOUN	root	_
+,	,	,	PUN	PUNCT	punct	_
+considering	VVG	consider	VVG	VERB	advcl	consider-ing
+how	WRB	how	AVQ	ADV	mark	_
+much	JJ	much	DT0	ADJ	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+stuff	NN	stuff	NN1	NOUN	obl	_
+any	DT	any	DT0	DET	nsubj	_
+of	IN	of	PRF	ADP	case	_
+us	PP	we	PNP	PRON	nmod	_
+have	VHP	have	VHB	AUX	aux	_
+<hi rend="italic">
+actually	RB	actually	AV0	ADV	advmod	act-ual-ly
+experienced	VVN	experience	VVN	VERB	acl:relcl	experienc-ed
+outside	RB	outside	AV0	ADV	advmod	out-side
+of	IN	of	PRF	ADP	case	_
+<w>
+movies	NNS	movie	NN2	NOUN	obl	mov-ie-s
+/	SYM	/	UNC	SYM	cc	_
+media	NN	media	NN0	NOUN	conj	_
+</w>
+</hi>
+...	:	…	PUN	PUNCT	punct	_
+which	WDT	which	DTQ	PRON	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+ZERO	CD	zero	NP0	NUM	advcl:relcl	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="sub" transition="establishment">
+No	UH	no	ITJ	INTJ	discourse	_
+,	,	,	PUN	PUNCT	punct	_
+really	RB	really	AV0	ADV	advmod	real-ly
+,	,	,	PUN	PUNCT	punct	_
+if	IN	if	CJS	SCONJ	mark	_
+anyone	NN	anyone	NN1	PRON	nsubj	any-one
+here	RB	here	AV0	ADV	advmod	_
+has	VHZ	have	VHZ	VERB	advcl	ha-s
+an	DT	a	AT0	DET	det	_
+actual	JJ	actual	AJ0	ADJ	amod	act-ual
+story	NN	story	NN1	NOUN	obj	_
+of	IN	of	PRF	SCONJ	mark	_
+experiencing	VVG	experience	VVG	VERB	acl	experienc-ing
+Space	NN	space	NN1	NOUN	obj	_
+,	,	,	PUN	PUNCT	punct	_
+I	PP	I	PNP	PRON	nsubj	_
+'d	MD	would	VM0	AUX	aux	_
+love	VV	love	VVI	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+hear	VV	hear	VVI	VERB	xcomp	_
+it	PP	it	PNP	PRON	obj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="smooth-shift">
+Pretty	RB	pretty	AV0	ADV	advmod	_
+sure	RB	sure	AJ0	ADV	advmod	_
+we	PP	we	PNP	PRON	nsubj	_
+all	DT	all	AV0	DET	det	_
+get	VVP	get	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+say	VV	say	VVI	VERB	xcomp	_
+it	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+<w>
+second	JJ	second	ORD	ADJ	amod	_
+-	HYPH	-	PUN	PUNCT	punct	_
+hand	NN	hand	NN1	NOUN	compound	_
+</w>
+experience	NN	experience	NN1	NOUN	ccomp	_
+,	,	,	PUN	PUNCT	punct	_
+at	IN	at	PRP	ADP	case	_
+best	JJS	good	AJS	ADJ	nmod	be-st
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="zero">
+I	PP	I	PNP	PRON	nsubj	_
+do	VVP	do	VD	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+have	VH	have	VHI	VERB	root	_
+that	DT	that	DT0	DET	det	_
+kind	NN	kind	NN1	NOUN	obj	_
+of	IN	of	PRF	ADP	case	_
+faith	NN	faith	NN1	NOUN	nmod	fai-th
+in	IN	in	PRP	ADP	case	_
+things	NNS	thing	NN2	NOUN	nmod	thing-s
+I	PP	I	PNP	PRON	nsubj	_
+ca	MD	can	VM0	AUX	aux	_
+n't	RB	not	XX0	PART	advmod	_
+experience	VV	experience	VVI	VERB	acl:relcl	_
+for	IN	for	PRP	ADP	case	_
+myself	PP	myself	PNP	PRON	obl	my-self
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="other" transition="null">
+Sounds	VVZ	sound	VVZ	VERB	root	Sound-s
+frightful	JJ	frightful	AJ0	ADJ	xcomp	fright-ful
+(	(	(	PUL	PUNCT	punct	_
+froughtful	JJ	froughtful	AJ0	ADJ	conj	_
+)	)	)	PUR	PUNCT	punct	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="frag" transition="null">
+<hi rend="caps">
+EDIT	NN	edit	NN1	NOUN	root	_
+</hi>
+:	:	:	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Further	RBR	far	AV0	ADV	advmod	Furth-er
+,	,	,	PUN	PUNCT	punct	_
+my	PP$	my	DPS	PRON	nmod:poss	_
+oldest	JJS	old	AJS	ADJ	amod	_
+living	VVG	live	VVG	VERB	amod	liv-ing
+friend	NN	friend	NN1	NOUN	nsubj	_
+(	(	(	PUL	PUNCT	punct	_
+let	VV	let	VVB	VERB	parataxis	_
+'s	PP	we	PNP	PRON	obj	_
+call	VV	call	VVI	VERB	xcomp	_
+him	PP	he	PNP	PRON	obj	_
+Whelp	NP	Whelp	NP0	PROPN	xcomp	_
+Allgood	NP	Allgood	NP0	PROPN	flat	_
+)	)	)	PUR	PUNCT	punct	_
+,	,	,	PUN	PUNCT	punct	_
+who	WP	who	PNQ	PRON	obl	_
+I	PP	I	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+talk	VV	talk	VVI	VERB	acl:relcl	_
+to	IN	to	PRP	ADP	case	_
+about	IN	about	PRP	ADP	case	_
+<hi rend="italic">
+anything	NN	anything	NN1	PRON	obl	_
+</hi>
+--	:	-	AJ0	PUNCT	punct	_
+is	VBZ	be	VBZ	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+space	NN	space	NN1	NOUN	compound	_
+lover	NN	lover	NN1	NOUN	root	lov-er
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+He	PP	he	PNP	PRON	nsubj	_
+dreams	VVZ	dream	VVZ	VERB	root	dream-s
+of	IN	of	PRF	SCONJ	mark	_
+piloting	VVG	pilot	VVG	VERB	advcl	pilot-ing
+ships	NNS	ship	NN2	NOUN	obj	ship-s
+among	IN	among	PRP	ADP	case	a-mong
+the	DT	the	AT0	DET	det	_
+stars	NNS	star	NN2	NOUN	obl	star-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	VERB	root	_
+the	DT	the	AT0	DET	det	_
+unfortunate	JJ	unfortunate	AJ0	ADJ	amod	un-fortun-ate
+moment	NN	moment	NN1	NOUN	obj	_
+of	IN	of	PRF	SCONJ	mark	_
+making	VVG	make	VVG	VERB	acl	mak-ing
+him	PP	he	PNP	PRON	obj	_
+realize	VV	realize	VVI	VERB	xcomp	real-ize
+that	IN/that	that	CJT	SCONJ	mark	_
+he	PP	he	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+never	RB	never	AV0	ADV	advmod	_
+experienced	VVN	experience	VVN	VERB	ccomp	experienc-ed
+anything	NN	anything	NN1	PRON	obj	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+sort	NN	sort	NN1	NOUN	nmod	_
+outside	RB	outside	NN1	ADV	advmod	out-side
+of	IN	of	PRF	ADP	case	_
+movies	NNS	movie	NN2	NOUN	obl	mov-ie-s
+,	,	,	PUN	PUNCT	punct	_
+games	NNS	game	NN2	NOUN	conj	game-s
+,	,	,	PUN	PUNCT	punct	_
+<q>
+'	``	'	PUQ	PUNCT	punct	_
+news	NN	news	NN1	NOUN	compound	new-s
+reports	NNS	report	NN2	NOUN	conj	re-port-s
+'	''	'	PUQ	PUNCT	punct	_
+</q>
+,	,	,	PUN	PUNCT	punct	_
+and	CC	and	CJC	CCONJ	cc	_
+the	DT	the	AT0	DET	det	_
+like	JJ	like	AJ0	ADJ	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="multiple" transition="smooth-shift">
+I	PP	I	PNP	PRON	nsubj	_
+pointed	VVD	point	VVD	VERB	root	point-ed
+out	RP	out	AVP	ADP	compound:prt	_
+that	IN/that	that	CJT	SCONJ	mark	_
+so	RB	so	CJS	ADV	advmod	_
+much	JJ	much	DT0	ADJ	nsubj:pass	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+rest	NN	rest	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+this	DT	this	DT0	DET	det	_
+world	NN	world	NN1	NOUN	nmod	_
+was	VBD	be	VBD	AUX	aux:pass	_
+purposely	RB	purposely	AV0	ADV	advmod	purpose-ly
+<sic ana="confabulated">
+confuggulated	VVN	confabulate	VVN	VERB	ccomp	confuggulat-ed
+</sic>
+to	IN	to	PRP	ADP	case	_
+us	PP	we	PNP	PRON	obl	_
+from	IN	from	PRP	ADP	case	_
+birth	NN	birth	NN1	NOUN	obl	bir-th
+--	:	-	AJ0	PUNCT	punct	_
+how	WRB	how	AVQ	ADV	advmod	_
+can	MD	can	VM0	AUX	aux	_
+one	PP	one	PNP	PRON	nsubj	_
+possibly	RB	possibly	AV0	ADV	advmod	possib-ly
+accept	VV	accept	VVB	VERB	parataxis	_
+this	DT	this	DT0	PRON	obj	_
+on	IN	on	PRP	ADP	case	_
+faith	NN	faith	NN1	NOUN	obl	fai-th
+?	SENT	?	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="continue">
+I	PP	I	PNP	PRON	nsubj	_
+felt	VVD	feel	VVD	VERB	root	fel-t
+the	DT	the	AT0	DET	det	_
+crushing	VVG	crush	VVG	VERB	amod	crush-ing
+force	NN	force	NN1	NOUN	obj	_
+I	PP	I	PNP	PRON	nsubj	_
+had	VHD	have	VHD	AUX	aux	_
+unintentionally	RB	unintentionally	AV0	ADV	advmod	un-intent-ion-al-ly
+sprung	VVN	spring	VVN	VERB	acl:relcl	_
+on	IN	on	PRP	ADP	case	_
+him	PP	he	PNP	PRON	obl	_
+.	SENT	.	PUN	PUNCT	punct	_
+:/	SYM	:/	VVB	SYM	discourse	_
+</s>
+<s type="frag" transition="zero">
+But	CC	but	CJC	CCONJ	cc	_
+Truth	NN	truth	NN1	NOUN	root	Tru-th
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+P.	FW	P.	UNC	X	discourse	_
+S.	FW	S.	UNC	X	flat	_
+Intellectual	JJ	intellectual	AJ0	ADJ	amod	Intellect-ual
+dishonesty	NN	dishonesty	NN1	NOUN	nsubj	dis-honest-y
+is	VBZ	be	VBZ	AUX	cop	_
+so	RB	so	AV0	ADV	advmod	_
+not	RB	not	XX0	PART	advmod	_
+cute	JJ	cute	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="intj" transition="null">
+Good	JJ	good	AJ0	ADJ	amod	_
+luck	NN	luck	NN1	NOUN	root	_
+with	IN	with	PRP	ADP	case	_
+your	PP$	your	DPS	PRON	nmod:poss	_
+religion	NN	religion	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+:)	SYM	:)	UNC	SYM	discourse	_
+</s>
+</p>
+</sp>
+<sp who="#datdood5" whom="#BrapAllgood">
+<p>
+<s type="decl" transition="null">
+The	DT	the	AT0	DET	det	_
+earth	NN	earth	NN1	NOUN	nsubj	_
+is	VBZ	be	VBZ	AUX	cop	_
+<sic ana="definitely">
+definately	RB	definitely	AV0	ADV	advmod	_
+</sic>
+flat	JJ	flat	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="imp" transition="null">
+Look	VV	look	VVB	VERB	root	_
+at	IN	at	PRP	ADP	case	_
+all	PDT	all	DT0	DET	det:predet	_
+the	DT	the	AT0	DET	det	_
+proofs	NNS	proof	NN2	NOUN	obl	proof-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+their	PP$	their	DPS	PRON	nmod:poss	_
+best	RBS	well	AJS	ADV	advmod	be-st
+kept	VVN	keep	VVN	VERB	amod	_
+secret	NN	secret	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+One	CD	one	CRD	NUM	nsubj:outer	_
+of	IN	of	PRF	ADP	case	_
+the	DT	the	AT0	DET	det	_
+reasons	NNS	reason	NN2	NOUN	nmod	reason-s
+they	PP	they	PNP	PRON	nsubj	_
+said	VVD	say	VVD	VERB	acl	sai-d
+the	DT	the	AT0	DET	det	_
+earth	NN	earth	NN1	NOUN	nsubj	_
+was	VBD	be	VBD	AUX	cop	_
+a	DT	a	AT0	DET	det	_
+sphere	NN	sphere	NN1	NOUN	ccomp	_
+was	VBD	be	VBD	AUX	cop	_
+because	IN	because	CJS	SCONJ	mark	_
+you	PP	you	PNP	PRON	nsubj	_
+can	MD	can	VM0	AUX	aux	_
+see	VV	see	VVI	VERB	root	_
+ships	NNS	ship	NN2	NOUN	obj	ship-s
+go	VV	go	VVI	VERB	xcomp	_
+over	IN	over	PRP	ADP	case	_
+the	DT	the	AT0	DET	det	_
+horizon	NN	horizon	NN1	NOUN	obl	_
+and	CC	and	CJC	CCONJ	cc	_
+this	DT	this	DT0	PRON	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+disproven	VVN	disprove	VVN	VERB	conj	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="zero">
+Same	JJ	same	DT0	ADJ	root	_
+with	IN	with	PRP	ADP	case	_
+distant	JJ	distant	AJ0	ADJ	amod	_
+city	NN	city	NN1	NOUN	compound	_
+scapes	NNS	scape	NN2	NOUN	obl	scape-s
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+bullshit	NN	bullshit	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="establishment">
+All	DT	all	DT0	DET	root	_
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="decl" transition="continue">
+It	PP	it	PNP	PRON	nsubj	_
+'s	VBZ	be	VBZ	AUX	cop	_
+bullshit	NN	bullshit	NN1	NOUN	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="frag" transition="continue">
+All	DT	all	DT0	DET	root	_
+of	IN	of	PRF	ADP	case	_
+it	PP	it	PNP	PRON	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+<p>
+<s type="frag" transition="zero">
+<ref target="https://m.youtube.com/watch?v=hlJmBe1eeQA">
+https://m.youtube.com/watch?v=hlJmBe1eeQA	NP	https://m.youtube.com/watch?v=hlJmBe1eeQA	NP0	PROPN	root	_
+</ref>
+</s>
+</p>
+<p>
+<s type="decl" transition="null">
+When	WRB	when	CJS	ADV	advmod	_
+this	DT	this	DT0	DET	det	_
+sphere	NN	sphere	NN1	NOUN	compound	_
+earth	NN	earth	NN1	NOUN	nsubj:pass	_
+was	VBD	be	VBD	AUX	aux:pass	_
+postulated	VVN	postulate	VVN	VERB	advcl	postulat-ed
+there	EX	there	EX0	PRON	expl	_
+was	VBD	be	VBD	VERB	root	_
+no	DT	no	AT0	DET	det	_
+tech	NN	tech	NN1	NOUN	nsubj	_
+to	TO	to	TO0	PART	mark	_
+send	VV	send	VVI	VERB	acl	_
+a	DT	a	AT0	DET	det	_
+weather	NN	weather	NN1	NOUN	compound	_
+<sic ana="balloon">
+baloon	NN	balloon	NN1	NOUN	obj	_
+</sic>
+with	IN	with	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+cam	NN	cam	NN1	NOUN	nmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="null">
+Now	RB	now	AV0	ADV	advmod	_
+there	EX	there	EX0	PRON	expl	_
+is	VBZ	be	VBZ	VERB	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+<sp who="#BrapAllgood">
+<p>
+<s type="decl" transition="null">
+I	PP	I	PNP	PRON	nsubj	_
+am	VBP	be	VBB	AUX	cop	_
+devoutly	RB	devoutly	AV0	ADV	advmod	devout-ly
+anti-ismist	JJ	anti-ismist	AJ0	ADJ	root	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+<s type="decl" transition="establishment">
+I	PP	I	PNP	PRON	nsubj	_
+expect	VVP	expect	VVB	VERB	root	_
+to	TO	to	TO0	PART	mark	_
+disappear	VV	disappear	VVI	VERB	xcomp	dis-appear
+in	IN	in	PRP	ADP	case	_
+a	DT	a	AT0	DET	det	_
+puff	NN	puff	NN1	NOUN	obl	_
+of	IN	of	PRF	ADP	case	_
+smoke	NN	smoke	NN1	NOUN	nmod	_
+any	DT	any	DT0	DET	det	_
+moment	NN	moment	NN1	NOUN	obl:tmod	_
+.	SENT	.	PUN	PUNCT	punct	_
+</s>
+</p>
+</sp>
+</text>

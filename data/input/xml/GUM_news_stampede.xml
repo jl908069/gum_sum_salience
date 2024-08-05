@@ -1,0 +1,318 @@
+<text id="GUM_news_stampede" type="news" sourceURL="https://en.wikinews.org/wiki/Hundreds_dead_in_Hajj_stampede" dateCreated="2006-01-12" dateCollected="2015-09-21" dateModified="2009-11-07" speakerCount="0" speakerList="none" author="Wikinews" title="Hundreds dead in Hajj stampede" shortTitle="stampede" summary="On January 12, 2006, 345 Muslim pilgrims were killed in a stampede at Jamarat Bridge near Mecca as they were participating in the annual Hajj pilgrimage, when luggage from a bus tripped some of the pilgrims, who were then crushed by the wave of people behind them.">
+<head rend="bold">
+<s type="frag">
+Hundreds	NNS	hundred
+dead	JJ	dead
+in	IN	in
+Hajj	NP	Hajj
+stampede	NN	stampede
+</s>
+</head>
+<p>
+<s type="frag">
+<date when="2006-01-12" rend="bold">
+Thursday	NP	Thursday
+,	,	,
+January	NP	January
+12	CD	12
+,	,	,
+2006	CD	2006
+</date>
+</s>
+</p>
+<figure rend="picture of Arafat">
+<caption>
+<s type="frag">
+The	DT	the
+Plains	NPS	Plain
+of	IN	of
+Arafat	NP	Arafat
+on	IN	on
+the	DT	the
+day	NN	day
+of	IN	of
+Hajj	NP	Hajj
+</s>
+</caption>
+</figure>
+<p>
+<s type="decl">
+According	VVG	accord
+to	IN	to
+the	DT	the
+Saudi	NP	Saudi
+Interior	NP	Interior
+Ministry	NP	Ministry
+over	RB	over
+345	CD	345
+<ref>
+Muslim	NP	Muslim
+</ref>
+pilgrims	NNS	pilgrim
+have	VHP	have
+been	VBN	be
+killed	VVN	kill
+in	IN	in
+a	DT	a
+<ref>
+stampede	NN	stampede
+</ref>
+during	IN	during
+the	DT	the
+annual	JJ	annual
+<ref>
+Hajj	NP	Hajj
+pilgrimage	NN	pilgrimage
+</ref>
+near	IN	near
+<ref>
+Mecca	NP	Mecca
+,	,	,
+Saudi	NP	Saudi
+Arabia	NP	Arabia
+</ref>
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+The	DT	the
+stampede	NN	stampede
+at	IN	at
+Islam	NP	Islam
+'s	POS	's
+most	RBS	most
+holy	JJ	holy
+site	NN	site
+happened	VVD	happen
+at	IN	at
+Jamarat	NP	Jamarat
+Bridge	NP	Bridge
+,	,	,
+during	IN	during
+an	DT	a
+event	NN	event
+where	WRB	where
+pebbles	NNS	pebble
+are	VBP	be
+thrown	VVN	throw
+at	IN	at
+a	DT	a
+pillar	NN	pillar
+to	TO	to
+represent	VV	represent
+the	DT	the
+stoning	NN	stoning
+of	IN	of
+Satan	NP	Satan
+as	IN	as
+part	NN	part
+of	IN	of
+the	DT	the
+final	JJ	final
+rites	NNS	rite
+of	IN	of
+the	DT	the
+Hajj	NP	Hajj
+.	SENT	.
+</s>
+<s type="decl">
+The	DT	the
+stampede	NN	stampede
+began	VVD	begin
+when	WRB	when
+luggage	NN	luggage
+from	IN	from
+a	DT	a
+bus	NN	bus
+tripped	VVD	trip
+pilgrims	NNS	pilgrim
+at	IN	at
+the	DT	the
+eastern	JJ	eastern
+end	NN	end
+of	IN	of
+the	DT	the
+wall	NN	wall
+,	,	,
+causing	VVG	cause
+a	DT	a
+bottleneck	NN	bottleneck
+.	SENT	.
+</s>
+<s type="decl">
+Those	DT	that
+who	WP	who
+were	VBD	be
+tripped	VVN	trip
+were	VBD	be
+then	RB	then
+crushed	VVN	crush
+by	IN	by
+the	DT	the
+wave	NN	wave
+of	IN	of
+people	NNS	person
+behind	IN	behind
+them	PP	they
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+Muslims	NPS	Muslim
+are	VBP	be
+required	VVN	require
+to	TO	to
+make	VV	make
+a	DT	a
+pilgrimage	NN	pilgrimage
+to	IN	to
+Mecca	NP	Mecca
+during	IN	during
+their	PP$	their
+lifetimes	NNS	lifetime
+,	,	,
+if	IN	if
+physically	RB	physically
+or	CC	or
+financially	RB	financially
+possible	JJ	possible
+,	,	,
+as	IN	as
+it	PP	it
+is	VBZ	be
+one	CD	one
+of	IN	of
+the	DT	the
+five	CD	five
+pillars	NNS	pillar
+of	IN	of
+the	DT	the
+Islamic	JJ	Islamic
+faith	NN	faith
+.	SENT	.
+</s>
+<s type="decl">
+Saudi	JJ	Saudi
+officials	NNS	official
+had	VHD	have
+already	RB	already
+provided	VVN	provide
+safeguards	NNS	safeguard
+by	IN	by
+installing	VVG	install
+an	DT	a
+oval	JJ	oval
+wall	NN	wall
+with	IN	with
+padded	VVN	pad
+edges	NNS	edge
+to	TO	to
+protect	VV	protect
+<sic ana="pilgrims">
+pilgrams	NNS	pilgrim
+</sic>
+from	IN	from
+a	DT	a
+crush	NN	crush
+,	,	,
+installed	VVN	install
+security	NN	security
+cameras	NNS	camera
+and	CC	and
+placed	VVN	place
+over	RB	over
+60,000	CD	60000
+security	NN	security
+personnel	NNS	personnel
+in	IN	in
+the	DT	the
+area	NN	area
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+This	DT	this
+is	VBZ	be
+not	RB	not
+the	DT	the
+first	JJ	first
+time	NN	time
+deadly	JJ	deadly
+stampedes	NNS	stampede
+have	VHP	have
+taken	VVN	take
+place	NN	place
+during	IN	during
+the	DT	the
+Hajj	NP	Hajj
+,	,	,
+with	IN	with
+the	DT	the
+deadliest	JJS	deadly
+stampede	NN	stampede
+during	IN	during
+the	DT	the
+<date when="1991">
+1991	CD	1991
+</date>
+Hajj	NP	Hajj
+,	,	,
+in	IN	in
+which	WDT	which
+1,426	CD	1426
+pilgrims	NNS	pilgrim
+were	VBD	be
+trampled	VVN	trample
+.	SENT	.
+</s>
+</p>
+<p>
+<s type="decl">
+<date from="2006-01-02" to="2006-01-08">
+Last	JJ	last
+week	NN	week
+</date>
+,	,	,
+at	IN	at
+least	JJS	least
+76	CD	76
+people	NNS	person
+were	VBD	be
+killed	VVN	kill
+when	WRB	when
+the	DT	the
+<w>
+Al	NP	Al
+-	HYPH	-
+Ghaza	NP	Ghaza
+</w>
+Hotel	NP	Hotel
+near	IN	near
+the	DT	the
+<ref>
+Masjid	NP	Masjid
+<w>
+Al	NP	Al
+-	HYPH	-
+Haram	NP	Haram
+</w>
+</ref>
+(	(	(
+Grand	NP	Grand
+Mosque	NP	Mosque
+)	)	)
+collasped	VVD	collaspe
+,	,	,
+the	DT	the
+cause	NN	cause
+of	IN	of
+which	WDT	which
+is	VBZ	be
+unknown	JJ	unknown
+.	SENT	.
+</s>
+</p>
+</text>
