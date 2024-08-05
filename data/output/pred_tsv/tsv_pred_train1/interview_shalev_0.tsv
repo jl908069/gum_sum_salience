@@ -1,0 +1,1367 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Wikinews interviews Israeli mathematician and writer Aner Shalev
+1-1	_	Wikinews	abstract[56]	new[56]	coref	6-5[56_57]
+1-2	_	interviews	_	_	_	_
+1-3	_	Israeli	abstract[1]	new[1]	coref	3-1[1_2]
+1-4	_	mathematician	abstract[1]	new[1]	_	_
+1-5	_	and	abstract[1]	new[1]	_	_
+1-6	_	writer	abstract[1]	new[1]	_	_
+1-7	_	Aner	abstract[1]	new[1]	_	_
+1-8	_	Shalev	abstract[1]	new[1]	_	_
+
+#Text=Wednesday , September 19 , 2007
+2-1	_	Wednesday	_	_	_	_
+2-2	_	,	_	_	_	_
+2-3	_	September	_	_	_	_
+2-4	_	19	_	_	_	_
+2-5	_	,	_	_	_	_
+2-6	_	2007	_	_	_	_
+
+#Text=Aner Shalev is an Israeli mathematician and writer born in 1958 in Kibbutz Kinneret , Tiberias .
+3-1	_	Aner	abstract[2]	new[2]	coref	4-2[2_3]
+3-2	_	Shalev	abstract[2]	new[2]	_	_
+3-3	_	is	_	_	_	_
+3-4	_	an	_	_	_	_
+3-5	_	Israeli	_	_	_	_
+3-6	_	mathematician	_	_	_	_
+3-7	_	and	_	_	_	_
+3-8	_	writer	_	_	_	_
+3-9	_	born	_	_	_	_
+3-10	_	in	_	_	_	_
+3-11	_	1958	_	_	_	_
+3-12	_	in	_	_	_	_
+3-13	_	Kibbutz	_	_	_	_
+3-14	_	Kinneret	_	_	_	_
+3-15	_	,	_	_	_	_
+3-16	_	Tiberias	_	_	_	_
+3-17	_	.	_	_	_	_
+
+#Text=Currently Shalev is a Professor at Hebrew University of Jerusalem 's Einstein Institute of Mathematics .
+4-1	_	Currently	_	_	_	_
+4-2	_	Shalev	abstract[3]	new[3]	coref	5-4[3_4]
+4-3	_	is	_	_	_	_
+4-4	_	a	_	_	_	_
+4-5	_	Professor	_	_	_	_
+4-6	_	at	_	_	_	_
+4-7	_	Hebrew	_	_	_	_
+4-8	_	University	_	_	_	_
+4-9	_	of	_	_	_	_
+4-10	_	Jerusalem	_	_	_	_
+4-11	_	's	_	_	_	_
+4-12	_	Einstein	_	_	_	_
+4-13	_	Institute	_	_	_	_
+4-14	_	of	_	_	_	_
+4-15	_	Mathematics	abstract[86]	new[86]	coref	18-11[86_87]
+4-16	_	.	_	_	_	_
+
+#Text=At the moment Shalev is in Levico Terme , Trento , Italy for a conference .
+5-1	_	At	_	_	_	_
+5-2	_	the	_	_	_	_
+5-3	_	moment	_	_	_	_
+5-4	_	Shalev	abstract[4]	new[4]	coref	6-1[4_5]
+5-5	_	is	_	_	_	_
+5-6	_	in	_	_	_	_
+5-7	_	Levico	abstract[58]	new[58]	coref	9-10[58_59]
+5-8	_	Terme	abstract[58]	new[58]	_	_
+5-9	_	,	abstract[58]	new[58]	_	_
+5-10	_	Trento	abstract[58]	new[58]	_	_
+5-11	_	,	abstract[58]	new[58]	_	_
+5-12	_	Italy	abstract[58]	new[58]	_	_
+5-13	_	for	_	_	_	_
+5-14	_	a	_	_	_	_
+5-15	_	conference	_	_	_	_
+5-16	_	.	_	_	_	_
+
+#Text=He was interviewed by Wikinews .
+6-1	_	He	abstract[5]	new[5]	coref	8-1[5_6]
+6-2	_	was	_	_	_	_
+6-3	_	interviewed	_	_	_	_
+6-4	_	by	_	_	_	_
+6-5	_	Wikinews	abstract[57]	new[57]	_	_
+6-6	_	.	_	_	_	_
+
+#Text=Interview
+7-1	_	Interview	_	_	_	_
+
+#Text=Aner Shalev
+8-1	_	Aner	abstract[6]	new[6]	coref	9-3[6_7]
+8-2	_	Shalev	abstract[6]	new[6]	_	_
+
+#Text=What are you going to talk about here in Levico ?
+9-1	_	What	_	_	_	_
+9-2	_	are	_	_	_	_
+9-3	_	you	abstract[7]	new[7]	coref	10-1[7_8]
+9-4	_	going	_	_	_	_
+9-5	_	to	_	_	_	_
+9-6	_	talk	_	_	_	_
+9-7	_	about	_	_	_	_
+9-8	_	here	_	_	_	_
+9-9	_	in	_	_	_	_
+9-10	_	Levico	abstract[59]	new[59]	_	_
+9-11	_	?	_	_	_	_
+
+#Text=I called it Character , walks and words .
+10-1	_	I	abstract[8]	new[8]	coref	14-5[8_9]
+10-2	_	called	_	_	_	_
+10-3	_	it	abstract[60]	new[60]	coref	10-4[60_61]
+10-4	_	Character	abstract[61]	new[61]	_	_
+10-5	_	,	abstract[61]	new[61]	_	_
+10-6	_	walks	abstract[61]	new[61]	_	_
+10-7	_	and	abstract[61]	new[61]	_	_
+10-8	_	words	abstract[61]	new[61]	_	_
+10-9	_	.	_	_	_	_
+
+#Text=There is a whole topic which is called asymptotic groups theory .
+11-1	_	There	_	_	_	_
+11-2	_	is	_	_	_	_
+11-3	_	a	_	_	_	_
+11-4	_	whole	_	_	_	_
+11-5	_	topic	_	_	_	_
+11-6	_	which	_	_	_	_
+11-7	_	is	_	_	_	_
+11-8	_	called	_	_	_	_
+11-9	_	asymptotic	_	_	_	_
+11-10	_	groups	_	_	_	_
+11-11	_	theory	_	_	_	_
+11-12	_	.	_	_	_	_
+
+#Text=There are groups which express the symmetry of some structures .
+12-1	_	There	_	_	_	_
+12-2	_	are	_	_	_	_
+12-3	_	groups	_	_	_	_
+12-4	_	which	_	_	_	_
+12-5	_	express	_	_	_	_
+12-6	_	the	_	_	_	_
+12-7	_	symmetry	_	_	_	_
+12-8	_	of	_	_	_	_
+12-9	_	some	_	_	_	_
+12-10	_	structures	_	_	_	_
+12-11	_	.	_	_	_	_
+
+#Text=Studying groups is a bit like studying symmetry .
+13-1	_	Studying	abstract[62]	new[62]	coref	14-1[62_63]
+13-2	_	groups	_	_	_	_
+13-3	_	is	_	_	_	_
+13-4	_	a	_	_	_	_
+13-5	_	bit	_	_	_	_
+13-6	_	like	_	_	_	_
+13-7	_	studying	_	_	_	_
+13-8	_	symmetry	_	_	_	_
+13-9	_	.	_	_	_	_
+
+#Text=It 's very beautiful I think .
+14-1	_	It	abstract[63]	new[63]	coref	15-6[63_64]
+14-2	_	's	_	_	_	_
+14-3	_	very	_	_	_	_
+14-4	_	beautiful	_	_	_	_
+14-5	_	I	abstract[9]	new[9]	coref	19-2[9_10]
+14-6	_	think	_	_	_	_
+14-7	_	.	_	_	_	_
+
+#Text=And then when you do it in an asymptotic way is like you do n't look at the small details .
+15-1	_	And	_	_	_	_
+15-2	_	then	_	_	_	_
+15-3	_	when	_	_	_	_
+15-4	_	you	abstract[65]	new[65]	coref	15-13[65_66]
+15-5	_	do	_	_	_	_
+15-6	_	it	abstract[64]	new[64]	_	_
+15-7	_	in	_	_	_	_
+15-8	_	an	_	_	_	_
+15-9	_	asymptotic	_	_	_	_
+15-10	_	way	_	_	_	_
+15-11	_	is	_	_	_	_
+15-12	_	like	_	_	_	_
+15-13	_	you	abstract[66]	new[66]	coref	17-1[66_67]
+15-14	_	do	_	_	_	_
+15-15	_	n't	_	_	_	_
+15-16	_	look	_	_	_	_
+15-17	_	at	_	_	_	_
+15-18	_	the	_	_	_	_
+15-19	_	small	_	_	_	_
+15-20	_	details	_	_	_	_
+15-21	_	.	_	_	_	_
+
+#Text=It 's like from the sky .
+16-1	_	It	_	_	_	_
+16-2	_	's	_	_	_	_
+16-3	_	like	_	_	_	_
+16-4	_	from	_	_	_	_
+16-5	_	the	_	_	_	_
+16-6	_	sky	_	_	_	_
+16-7	_	.	_	_	_	_
+
+#Text=You look at the general patterns .
+17-1	_	You	abstract[67]	new[67]	coref	24-2[67_68]
+17-2	_	look	_	_	_	_
+17-3	_	at	_	_	_	_
+17-4	_	the	_	_	_	_
+17-5	_	general	_	_	_	_
+17-6	_	patterns	_	_	_	_
+17-7	_	.	_	_	_	_
+
+#Text=And there is another topic which is very important in mathematics which is called representation theory .
+18-1	_	And	_	_	_	_
+18-2	_	there	_	_	_	_
+18-3	_	is	_	_	_	_
+18-4	_	another	_	_	_	_
+18-5	_	topic	_	_	_	_
+18-6	_	which	_	_	_	_
+18-7	_	is	_	_	_	_
+18-8	_	very	_	_	_	_
+18-9	_	important	_	_	_	_
+18-10	_	in	_	_	_	_
+18-11	_	mathematics	abstract[87]	new[87]	coref	21-5[87_88]
+18-12	_	which	_	_	_	_
+18-13	_	is	_	_	_	_
+18-14	_	called	_	_	_	_
+18-15	_	representation	_	_	_	_
+18-16	_	theory	_	_	_	_
+18-17	_	.	_	_	_	_
+
+#Text=So I will mainly talk about how to use a representation theory to solve all kind of problems and conjectures in asymptotic groups theory .
+19-1	_	So	_	_	_	_
+19-2	_	I	abstract[10]	new[10]	coref	20-3[10_11]
+19-3	_	will	_	_	_	_
+19-4	_	mainly	_	_	_	_
+19-5	_	talk	_	_	_	_
+19-6	_	about	_	_	_	_
+19-7	_	how	_	_	_	_
+19-8	_	to	_	_	_	_
+19-9	_	use	_	_	_	_
+19-10	_	a	_	_	_	_
+19-11	_	representation	_	_	_	_
+19-12	_	theory	_	_	_	_
+19-13	_	to	_	_	_	_
+19-14	_	solve	_	_	_	_
+19-15	_	all	_	_	_	_
+19-16	_	kind	_	_	_	_
+19-17	_	of	_	_	_	_
+19-18	_	problems	_	_	_	_
+19-19	_	and	_	_	_	_
+19-20	_	conjectures	_	_	_	_
+19-21	_	in	_	_	_	_
+19-22	_	asymptotic	_	_	_	_
+19-23	_	groups	_	_	_	_
+19-24	_	theory	_	_	_	_
+19-25	_	.	_	_	_	_
+
+#Text=Why did you choose to study mathematics ?
+20-1	_	Why	_	_	_	_
+20-2	_	did	_	_	_	_
+20-3	_	you	abstract[11]	new[11]	coref	22-2[11_12]
+20-4	_	choose	_	_	_	_
+20-5	_	to	_	_	_	_
+20-6	_	study	_	_	_	_
+20-7	_	mathematics	_	_	_	_
+20-8	_	?	_	_	_	_
+
+#Text=First of all because it was beautiful .
+21-1	_	First	_	_	_	_
+21-2	_	of	_	_	_	_
+21-3	_	all	_	_	_	_
+21-4	_	because	_	_	_	_
+21-5	_	it	abstract[88]	new[88]	_	_
+21-6	_	was	_	_	_	_
+21-7	_	beautiful	_	_	_	_
+21-8	_	.	_	_	_	_
+
+#Text=When I was ten my father already showed me some stuff in mathematics and the beauty and the imagination was quite apparent .
+22-1	_	When	_	_	_	_
+22-2	_	I	abstract[12]	new[12]	coref	22-5[12_13]
+22-3	_	was	_	_	_	_
+22-4	_	ten	_	_	_	_
+22-5	_	my	abstract[13]	new[13]	coref	22-9[13_14]
+22-6	_	father	_	_	_	_
+22-7	_	already	_	_	_	_
+22-8	_	showed	_	_	_	_
+22-9	_	me	abstract[14]	new[14]	coref	23-1[14_15]
+22-10	_	some	_	_	_	_
+22-11	_	stuff	_	_	_	_
+22-12	_	in	_	_	_	_
+22-13	_	mathematics	_	_	_	_
+22-14	_	and	_	_	_	_
+22-15	_	the	_	_	_	_
+22-16	_	beauty	_	_	_	_
+22-17	_	and	_	_	_	_
+22-18	_	the	_	_	_	_
+22-19	_	imagination	_	_	_	_
+22-20	_	was	_	_	_	_
+22-21	_	quite	_	_	_	_
+22-22	_	apparent	_	_	_	_
+22-23	_	.	_	_	_	_
+
+#Text=I also like the freedom in mathematics .
+23-1	_	I	abstract[15]	new[15]	coref	30-1[15_16]
+23-2	_	also	_	_	_	_
+23-3	_	like	_	_	_	_
+23-4	_	the	_	_	_	_
+23-5	_	freedom	_	_	_	_
+23-6	_	in	_	_	_	_
+23-7	_	mathematics	_	_	_	_
+23-8	_	.	_	_	_	_
+
+#Text=If you study physics or chemistry then you should describe the real world .
+24-1	_	If	_	_	_	_
+24-2	_	you	abstract[68]	new[68]	coref	24-8[68_69]
+24-3	_	study	_	_	_	_
+24-4	_	physics	_	_	_	_
+24-5	_	or	_	_	_	_
+24-6	_	chemistry	_	_	_	_
+24-7	_	then	_	_	_	_
+24-8	_	you	abstract[69]	new[69]	coref	25-4[69_70]
+24-9	_	should	_	_	_	_
+24-10	_	describe	_	_	_	_
+24-11	_	the	abstract[89]	new[89]	coref	27-6[89_90]
+24-12	_	real	abstract[89]	new[89]	_	_
+24-13	_	world	abstract[89]	new[89]	_	_
+24-14	_	.	_	_	_	_
+
+#Text=But in mathematics you can build your own structures .
+25-1	_	But	_	_	_	_
+25-2	_	in	_	_	_	_
+25-3	_	mathematics	abstract[92]	new[92]	coref	28-1[92_93]
+25-4	_	you	abstract[70]	new[70]	coref	25-7[70_71]
+25-5	_	can	_	_	_	_
+25-6	_	build	_	_	_	_
+25-7	_	your	abstract[71]	new[71]	coref	26-1[71_72]
+25-8	_	own	_	_	_	_
+25-9	_	structures	_	_	_	_
+25-10	_	.	_	_	_	_
+
+#Text=You can walk in worlds created by the imagination of people .
+26-1	_	You	abstract[72]	new[72]	coref	27-1[72_73]
+26-2	_	can	_	_	_	_
+26-3	_	walk	_	_	_	_
+26-4	_	in	_	_	_	_
+26-5	_	worlds	_	_	_	_
+26-6	_	created	_	_	_	_
+26-7	_	by	_	_	_	_
+26-8	_	the	abstract[96]	new[96]	coref	30-12[96_97]
+26-9	_	imagination	abstract[96]	new[96]	_	_
+26-10	_	of	abstract[96]	new[96]	_	_
+26-11	_	people	abstract[96]	new[96]	_	_
+26-12	_	.	_	_	_	_
+
+#Text=You 're not committed to the real world .
+27-1	_	You	abstract[73]	new[73]	coref	29-1[73_74]
+27-2	_	're	_	_	_	_
+27-3	_	not	_	_	_	_
+27-4	_	committed	_	_	_	_
+27-5	_	to	_	_	_	_
+27-6	_	the	abstract[90]	new[90]	coref	39-34[90_91]
+27-7	_	real	abstract[90]	new[90]	_	_
+27-8	_	world	abstract[90]	new[90]	_	_
+27-9	_	.	_	_	_	_
+
+#Text=It 's almost like God to some extent .
+28-1	_	It	abstract[93]	new[93]	_	_
+28-2	_	's	_	_	_	_
+28-3	_	almost	_	_	_	_
+28-4	_	like	_	_	_	_
+28-5	_	God	_	_	_	_
+28-6	_	to	_	_	_	_
+28-7	_	some	_	_	_	_
+28-8	_	extent	_	_	_	_
+28-9	_	.	_	_	_	_
+
+#Text=You can create worlds , you can study them .
+29-1	_	You	abstract[74]	new[74]	coref	29-6[74_75]
+29-2	_	can	_	_	_	_
+29-3	_	create	_	_	_	_
+29-4	_	worlds	abstract[94]	new[94]	coref	29-9[94_95]
+29-5	_	,	_	_	_	_
+29-6	_	you	abstract[75]	new[75]	coref	34-1[75_76]
+29-7	_	can	_	_	_	_
+29-8	_	study	_	_	_	_
+29-9	_	them	abstract[95]	new[95]	_	_
+29-10	_	.	_	_	_	_
+
+#Text=I think it 's a combination of the beauty , of the imagination , of the freedom .
+30-1	_	I	abstract[16]	new[16]	coref	32-3[16_17]
+30-2	_	think	_	_	_	_
+30-3	_	it	_	_	_	_
+30-4	_	's	_	_	_	_
+30-5	_	a	_	_	_	_
+30-6	_	combination	_	_	_	_
+30-7	_	of	_	_	_	_
+30-8	_	the	_	_	_	_
+30-9	_	beauty	_	_	_	_
+30-10	_	,	_	_	_	_
+30-11	_	of	_	_	_	_
+30-12	_	the	abstract[97]	new[97]	coref	35-30[97_98]
+30-13	_	imagination	abstract[97]	new[97]	_	_
+30-14	_	,	_	_	_	_
+30-15	_	of	_	_	_	_
+30-16	_	the	abstract[107]	new[107]	coref	35-26[107_108]
+30-17	_	freedom	abstract[107]	new[107]	_	_
+30-18	_	.	_	_	_	_
+
+#Text=Many people , and many students , dislike math .
+31-1	_	Many	abstract[99]	new[99]	coref	33-7[99_100]
+31-2	_	people	abstract[99]	new[99]	_	_
+31-3	_	,	abstract[99]	new[99]	_	_
+31-4	_	and	abstract[99]	new[99]	_	_
+31-5	_	many	abstract[99]	new[99]	_	_
+31-6	_	students	abstract[99]	new[99]	_	_
+31-7	_	,	_	_	_	_
+31-8	_	dislike	_	_	_	_
+31-9	_	math	_	_	_	_
+31-10	_	.	_	_	_	_
+
+#Text=Why do you think it is so ?
+32-1	_	Why	_	_	_	_
+32-2	_	do	_	_	_	_
+32-3	_	you	abstract[17]	new[17]	coref	33-4[17_18]
+32-4	_	think	_	_	_	_
+32-5	_	it	_	_	_	_
+32-6	_	is	_	_	_	_
+32-7	_	so	_	_	_	_
+32-8	_	?	_	_	_	_
+
+#Text=First of all I think maybe they have bad teachers , which is a problem .
+33-1	_	First	_	_	_	_
+33-2	_	of	_	_	_	_
+33-3	_	all	_	_	_	_
+33-4	_	I	abstract[18]	new[18]	coref	37-4[18_19]
+33-5	_	think	_	_	_	_
+33-6	_	maybe	_	_	_	_
+33-7	_	they	abstract[100]	new[100]	_	_
+33-8	_	have	_	_	_	_
+33-9	_	bad	_	_	_	_
+33-10	_	teachers	_	_	_	_
+33-11	_	,	_	_	_	_
+33-12	_	which	_	_	_	_
+33-13	_	is	_	_	_	_
+33-14	_	a	_	_	_	_
+33-15	_	problem	_	_	_	_
+33-16	_	.	_	_	_	_
+
+#Text=You have to have very good teachers in mathematics if you really want to enjoy and to succeed in it .
+34-1	_	You	abstract[76]	new[76]	coref	34-11[76_77]
+34-2	_	have	_	_	_	_
+34-3	_	to	_	_	_	_
+34-4	_	have	_	_	_	_
+34-5	_	very	_	_	_	_
+34-6	_	good	_	_	_	_
+34-7	_	teachers	_	_	_	_
+34-8	_	in	_	_	_	_
+34-9	_	mathematics	abstract[101]	new[101]	coref	34-20[101_102]
+34-10	_	if	_	_	_	_
+34-11	_	you	abstract[77]	new[77]	coref	35-13[77_78]
+34-12	_	really	_	_	_	_
+34-13	_	want	_	_	_	_
+34-14	_	to	_	_	_	_
+34-15	_	enjoy	_	_	_	_
+34-16	_	and	_	_	_	_
+34-17	_	to	_	_	_	_
+34-18	_	succeed	_	_	_	_
+34-19	_	in	_	_	_	_
+34-20	_	it	abstract[102]	new[102]	coref	35-11[102_103]
+34-21	_	.	_	_	_	_
+
+#Text=Probably some people mainly think about the scientific part of it – you have to be accurate - and they see less these elements of the freedom , and the imagination , and creation .
+35-1	_	Probably	_	_	_	_
+35-2	_	some	abstract[104]	new[104]	coref	35-20[104_105]
+35-3	_	people	abstract[104]	new[104]	_	_
+35-4	_	mainly	_	_	_	_
+35-5	_	think	_	_	_	_
+35-6	_	about	_	_	_	_
+35-7	_	the	_	_	_	_
+35-8	_	scientific	_	_	_	_
+35-9	_	part	_	_	_	_
+35-10	_	of	_	_	_	_
+35-11	_	it	abstract[103]	new[103]	_	_
+35-12	_	–	_	_	_	_
+35-13	_	you	abstract[78]	new[78]	coref	39-29[78_79]
+35-14	_	have	_	_	_	_
+35-15	_	to	_	_	_	_
+35-16	_	be	_	_	_	_
+35-17	_	accurate	_	_	_	_
+35-18	_	-	_	_	_	_
+35-19	_	and	_	_	_	_
+35-20	_	they	abstract[105]	new[105]	coref	36-2[105_106]
+35-21	_	see	_	_	_	_
+35-22	_	less	_	_	_	_
+35-23	_	these	_	_	_	_
+35-24	_	elements	_	_	_	_
+35-25	_	of	_	_	_	_
+35-26	_	the	abstract[108]	new[108]	_	_
+35-27	_	freedom	abstract[108]	new[108]	_	_
+35-28	_	,	_	_	_	_
+35-29	_	and	_	_	_	_
+35-30	_	the	abstract[98]	new[98]	_	_
+35-31	_	imagination	abstract[98]	new[98]	_	_
+35-32	_	,	_	_	_	_
+35-33	_	and	_	_	_	_
+35-34	_	creation	_	_	_	_
+35-35	_	.	_	_	_	_
+
+#Text=Maybe they do n't like the precise nature of mathematics .
+36-1	_	Maybe	_	_	_	_
+36-2	_	they	abstract[106]	new[106]	_	_
+36-3	_	do	_	_	_	_
+36-4	_	n't	_	_	_	_
+36-5	_	like	_	_	_	_
+36-6	_	the	_	_	_	_
+36-7	_	precise	_	_	_	_
+36-8	_	nature	_	_	_	_
+36-9	_	of	_	_	_	_
+36-10	_	mathematics	_	_	_	_
+36-11	_	.	_	_	_	_
+
+#Text=Also when I talk mathematics I notice the language is very important in mathematics and I actually notice that many times people fail in mathematics because they do n't know how to write a composition .
+37-1	_	Also	_	_	_	_
+37-2	_	when	_	_	_	_
+37-3	_	I	abstract[19]	new[19]	coref	37-7[19_20]
+37-4	_	talk	_	_	_	_
+37-5	_	mathematics	_	_	_	_
+37-6	_	I	abstract[20]	new[20]	coref	37-17[20_21]
+37-7	_	notice	_	_	_	_
+37-8	_	the	abstract[115]	new[115]	coref	41-2[115_116]
+37-9	_	language	abstract[115]	new[115]	_	_
+37-10	_	is	_	_	_	_
+37-11	_	very	_	_	_	_
+37-12	_	important	_	_	_	_
+37-13	_	in	_	_	_	_
+37-14	_	mathematics	_	_	_	_
+37-15	_	and	_	_	_	_
+37-16	_	I	abstract[21]	new[21]	coref	39-2[21_22]
+37-17	_	actually	_	_	_	_
+37-18	_	notice	_	_	_	_
+37-19	_	that	_	_	_	_
+37-20	_	many	_	_	_	_
+37-21	_	times	_	_	_	_
+37-22	_	people	abstract[109]	new[109]	coref	37-28[109_110]
+37-23	_	fail	_	_	_	_
+37-24	_	in	_	_	_	_
+37-25	_	mathematics	_	_	_	_
+37-26	_	because	_	_	_	_
+37-27	_	they	abstract[110]	new[110]	coref	38-1[110_111]
+37-28	_	do	_	_	_	_
+37-29	_	n't	_	_	_	_
+37-30	_	know	_	_	_	_
+37-31	_	how	_	_	_	_
+37-32	_	to	_	_	_	_
+37-33	_	write	_	_	_	_
+37-34	_	a	_	_	_	_
+37-35	_	composition	_	_	_	_
+37-36	_	.	_	_	_	_
+
+#Text=They have ideas but they can not formulate them in the right way .
+38-1	_	They	abstract[111]	new[111]	coref	38-5[111_112]
+38-2	_	have	_	_	_	_
+38-3	_	ideas	abstract[113]	new[113]	coref	38-9[113_114]
+38-4	_	but	_	_	_	_
+38-5	_	they	abstract[112]	new[112]	_	_
+38-6	_	can	_	_	_	_
+38-7	_	not	_	_	_	_
+38-8	_	formulate	_	_	_	_
+38-9	_	them	abstract[114]	new[114]	_	_
+38-10	_	in	_	_	_	_
+38-11	_	the	_	_	_	_
+38-12	_	right	_	_	_	_
+38-13	_	way	_	_	_	_
+38-14	_	.	_	_	_	_
+
+#Text=Actually I find many connections between mathematics and literature because almost all the thing I told about mathematics are also seen in literature and in writing because when you write you can describe the real world , but you can also create worlds of fiction .
+39-1	_	Actually	_	_	_	_
+39-2	_	I	abstract[22]	new[22]	coref	39-15[22_23]
+39-3	_	find	_	_	_	_
+39-4	_	many	_	_	_	_
+39-5	_	connections	_	_	_	_
+39-6	_	between	_	_	_	_
+39-7	_	mathematics	_	_	_	_
+39-8	_	and	_	_	_	_
+39-9	_	literature	_	_	_	_
+39-10	_	because	_	_	_	_
+39-11	_	almost	_	_	_	_
+39-12	_	all	_	_	_	_
+39-13	_	the	_	_	_	_
+39-14	_	thing	_	_	_	_
+39-15	_	I	abstract[23]	new[23]	coref	45-1[23_24]
+39-16	_	told	_	_	_	_
+39-17	_	about	_	_	_	_
+39-18	_	mathematics	_	_	_	_
+39-19	_	are	_	_	_	_
+39-20	_	also	_	_	_	_
+39-21	_	seen	_	_	_	_
+39-22	_	in	_	_	_	_
+39-23	_	literature	_	_	_	_
+39-24	_	and	_	_	_	_
+39-25	_	in	_	_	_	_
+39-26	_	writing	_	_	_	_
+39-27	_	because	_	_	_	_
+39-28	_	when	_	_	_	_
+39-29	_	you	abstract[79]	new[79]	coref	39-31[79_80]
+39-30	_	write	_	_	_	_
+39-31	_	you	abstract[80]	new[80]	coref	39-39[80_81]
+39-32	_	can	_	_	_	_
+39-33	_	describe	_	_	_	_
+39-34	_	the	abstract[91]	new[91]	_	_
+39-35	_	real	abstract[91]	new[91]	_	_
+39-36	_	world	abstract[91]	new[91]	_	_
+39-37	_	,	_	_	_	_
+39-38	_	but	_	_	_	_
+39-39	_	you	abstract[81]	new[81]	coref	40-2[81_82]
+39-40	_	can	_	_	_	_
+39-41	_	also	_	_	_	_
+39-42	_	create	_	_	_	_
+39-43	_	worlds	_	_	_	_
+39-44	_	of	_	_	_	_
+39-45	_	fiction	_	_	_	_
+39-46	_	.	_	_	_	_
+
+#Text=So you have imagination , you have total freedom , you can invent characters , you can invent all kind of development and surprises and this kind of end of story or another .
+40-1	_	So	_	_	_	_
+40-2	_	you	abstract[82]	new[82]	coref	40-6[82_83]
+40-3	_	have	_	_	_	_
+40-4	_	imagination	_	_	_	_
+40-5	_	,	_	_	_	_
+40-6	_	you	abstract[83]	new[83]	coref	40-11[83_84]
+40-7	_	have	_	_	_	_
+40-8	_	total	_	_	_	_
+40-9	_	freedom	_	_	_	_
+40-10	_	,	_	_	_	_
+40-11	_	you	abstract[84]	new[84]	coref	40-16[84_85]
+40-12	_	can	_	_	_	_
+40-13	_	invent	_	_	_	_
+40-14	_	characters	_	_	_	_
+40-15	_	,	_	_	_	_
+40-16	_	you	abstract[85]	new[85]	_	_
+40-17	_	can	_	_	_	_
+40-18	_	invent	_	_	_	_
+40-19	_	all	_	_	_	_
+40-20	_	kind	_	_	_	_
+40-21	_	of	_	_	_	_
+40-22	_	development	_	_	_	_
+40-23	_	and	_	_	_	_
+40-24	_	surprises	_	_	_	_
+40-25	_	and	_	_	_	_
+40-26	_	this	_	_	_	_
+40-27	_	kind	_	_	_	_
+40-28	_	of	_	_	_	_
+40-29	_	end	_	_	_	_
+40-30	_	of	_	_	_	_
+40-31	_	story	_	_	_	_
+40-32	_	or	_	_	_	_
+40-33	_	another	_	_	_	_
+40-34	_	.	_	_	_	_
+
+#Text=Also the language is important in writing and in literature .
+41-1	_	Also	_	_	_	_
+41-2	_	the	abstract[116]	new[116]	_	_
+41-3	_	language	abstract[116]	new[116]	_	_
+41-4	_	is	_	_	_	_
+41-5	_	important	_	_	_	_
+41-6	_	in	_	_	_	_
+41-7	_	writing	_	_	_	_
+41-8	_	and	_	_	_	_
+41-9	_	in	_	_	_	_
+41-10	_	literature	_	_	_	_
+41-11	_	.	_	_	_	_
+
+#Text=So in a way people often do n't know how to combine the two fields .
+42-1	_	So	_	_	_	_
+42-2	_	in	_	_	_	_
+42-3	_	a	_	_	_	_
+42-4	_	way	_	_	_	_
+42-5	_	people	_	_	_	_
+42-6	_	often	_	_	_	_
+42-7	_	do	_	_	_	_
+42-8	_	n't	_	_	_	_
+42-9	_	know	_	_	_	_
+42-10	_	how	_	_	_	_
+42-11	_	to	_	_	_	_
+42-12	_	combine	_	_	_	_
+42-13	_	the	abstract[117]	new[117]	coref	43-19[117_118]
+42-14	_	two	abstract[117]	new[117]	_	_
+42-15	_	fields	abstract[117]	new[117]	_	_
+42-16	_	.	_	_	_	_
+
+#Text=It could look like almost the opposite : literature is kind of arts and mathematics is science but they also see a lot in common and there where mathematician who were writers .
+43-1	_	It	_	_	_	_
+43-2	_	could	_	_	_	_
+43-3	_	look	_	_	_	_
+43-4	_	like	_	_	_	_
+43-5	_	almost	_	_	_	_
+43-6	_	the	_	_	_	_
+43-7	_	opposite	_	_	_	_
+43-8	_	:	_	_	_	_
+43-9	_	literature	_	_	_	_
+43-10	_	is	_	_	_	_
+43-11	_	kind	_	_	_	_
+43-12	_	of	_	_	_	_
+43-13	_	arts	_	_	_	_
+43-14	_	and	_	_	_	_
+43-15	_	mathematics	_	_	_	_
+43-16	_	is	_	_	_	_
+43-17	_	science	_	_	_	_
+43-18	_	but	_	_	_	_
+43-19	_	they	abstract[118]	new[118]	_	_
+43-20	_	also	_	_	_	_
+43-21	_	see	_	_	_	_
+43-22	_	a	_	_	_	_
+43-23	_	lot	_	_	_	_
+43-24	_	in	_	_	_	_
+43-25	_	common	_	_	_	_
+43-26	_	and	_	_	_	_
+43-27	_	there	_	_	_	_
+43-28	_	where	_	_	_	_
+43-29	_	mathematician	_	_	_	_
+43-30	_	who	_	_	_	_
+43-31	_	were	_	_	_	_
+43-32	_	writers	_	_	_	_
+43-33	_	.	_	_	_	_
+
+#Text=For example the most famous is Lewis Carrol , author of Alice in Wonderland .
+44-1	_	For	_	_	_	_
+44-2	_	example	_	_	_	_
+44-3	_	the	_	_	_	_
+44-4	_	most	_	_	_	_
+44-5	_	famous	_	_	_	_
+44-6	_	is	_	_	_	_
+44-7	_	Lewis	_	_	_	_
+44-8	_	Carrol	_	_	_	_
+44-9	_	,	_	_	_	_
+44-10	_	author	_	_	_	_
+44-11	_	of	_	_	_	_
+44-12	_	Alice	_	_	_	_
+44-13	_	in	_	_	_	_
+44-14	_	Wonderland	_	_	_	_
+44-15	_	.	_	_	_	_
+
+#Text=You 're not only a mathematician .
+45-1	_	You	abstract[24]	new[24]	coref	46-1[24_25]
+45-2	_	're	_	_	_	_
+45-3	_	not	_	_	_	_
+45-4	_	only	_	_	_	_
+45-5	_	a	_	_	_	_
+45-6	_	mathematician	_	_	_	_
+45-7	_	.	_	_	_	_
+
+#Text=You also wrote two collections of short stories and a novel .
+46-1	_	You	abstract[25]	new[25]	coref	47-3[25_26]
+46-2	_	also	_	_	_	_
+46-3	_	wrote	_	_	_	_
+46-4	_	two	_	_	_	_
+46-5	_	collections	_	_	_	_
+46-6	_	of	_	_	_	_
+46-7	_	short	_	_	_	_
+46-8	_	stories	_	_	_	_
+46-9	_	and	_	_	_	_
+46-10	_	a	abstract[140]	new[140]	coref	62-2[140_141]
+46-11	_	novel	abstract[140]	new[140]	_	_
+46-12	_	.	_	_	_	_
+
+#Text=Why did you begin to write ?
+47-1	_	Why	_	_	_	_
+47-2	_	did	_	_	_	_
+47-3	_	you	abstract[26]	new[26]	coref	48-2[26_27]
+47-4	_	begin	_	_	_	_
+47-5	_	to	_	_	_	_
+47-6	_	write	_	_	_	_
+47-7	_	?	_	_	_	_
+
+#Text=When I was quite young I was interested in psychoanalysis and in dreams .
+48-1	_	When	_	_	_	_
+48-2	_	I	abstract[27]	new[27]	coref	48-6[27_28]
+48-3	_	was	_	_	_	_
+48-4	_	quite	_	_	_	_
+48-5	_	young	_	_	_	_
+48-6	_	I	abstract[28]	new[28]	coref	49-1[28_29]
+48-7	_	was	_	_	_	_
+48-8	_	interested	_	_	_	_
+48-9	_	in	_	_	_	_
+48-10	_	psychoanalysis	_	_	_	_
+48-11	_	and	_	_	_	_
+48-12	_	in	_	_	_	_
+48-13	_	dreams	_	_	_	_
+48-14	_	.	_	_	_	_
+
+#Text=I was trying to interpret my dreams .
+49-1	_	I	abstract[29]	new[29]	coref	49-6[29_30]
+49-2	_	was	_	_	_	_
+49-3	_	trying	_	_	_	_
+49-4	_	to	_	_	_	_
+49-5	_	interpret	_	_	_	_
+49-6	_	my	abstract[30]|abstract[119]	new[30]|new[119]	coref|coref	50-1[30_31]|50-6[119_120]
+49-7	_	dreams	abstract[119]	new[119]	_	_
+49-8	_	.	_	_	_	_
+
+#Text=I started to write down my dreams .
+50-1	_	I	abstract[31]	new[31]	coref	50-6[31_32]
+50-2	_	started	_	_	_	_
+50-3	_	to	_	_	_	_
+50-4	_	write	_	_	_	_
+50-5	_	down	_	_	_	_
+50-6	_	my	abstract[32]|abstract[120]	new[32]|new[120]	coref|coref	51-3[32_33]|51-14[120_121]
+50-7	_	dreams	abstract[120]	new[120]	_	_
+50-8	_	.	_	_	_	_
+
+#Text=And then I noticed that I cheat a little bit when I write them down .
+51-1	_	And	_	_	_	_
+51-2	_	then	_	_	_	_
+51-3	_	I	abstract[33]	new[33]	coref	51-6[33_34]
+51-4	_	noticed	_	_	_	_
+51-5	_	that	_	_	_	_
+51-6	_	I	abstract[34]	new[34]	coref	51-12[34_35]
+51-7	_	cheat	_	_	_	_
+51-8	_	a	_	_	_	_
+51-9	_	little	_	_	_	_
+51-10	_	bit	_	_	_	_
+51-11	_	when	_	_	_	_
+51-12	_	I	abstract[35]	new[35]	coref	52-2[35_36]
+51-13	_	write	_	_	_	_
+51-14	_	them	abstract[121]	new[121]	coref	52-4[121_122]
+51-15	_	down	_	_	_	_
+51-16	_	.	_	_	_	_
+
+#Text=Sometimes I make them more pretty then they were actually .
+52-1	_	Sometimes	_	_	_	_
+52-2	_	I	abstract[36]	new[36]	coref	53-17[36_37]
+52-3	_	make	_	_	_	_
+52-4	_	them	abstract[122]	new[122]	coref	52-8[122_123]
+52-5	_	more	_	_	_	_
+52-6	_	pretty	_	_	_	_
+52-7	_	then	_	_	_	_
+52-8	_	they	abstract[123]	new[123]	coref	53-5[123_124]
+52-9	_	were	_	_	_	_
+52-10	_	actually	_	_	_	_
+52-11	_	.	_	_	_	_
+
+#Text=So instead of documenting the dreams it gradually became also like adding creational elements , and I think that somehow through writing my dreams I gradually came to writing , also poems , but mainly stories .
+53-1	_	So	_	_	_	_
+53-2	_	instead	_	_	_	_
+53-3	_	of	_	_	_	_
+53-4	_	documenting	_	_	_	_
+53-5	_	the	abstract[124]	new[124]	coref	53-23[124_125]
+53-6	_	dreams	abstract[124]	new[124]	_	_
+53-7	_	it	_	_	_	_
+53-8	_	gradually	_	_	_	_
+53-9	_	became	_	_	_	_
+53-10	_	also	_	_	_	_
+53-11	_	like	_	_	_	_
+53-12	_	adding	_	_	_	_
+53-13	_	creational	_	_	_	_
+53-14	_	elements	_	_	_	_
+53-15	_	,	_	_	_	_
+53-16	_	and	_	_	_	_
+53-17	_	I	abstract[37]	new[37]	coref	53-23[37_38]
+53-18	_	think	_	_	_	_
+53-19	_	that	_	_	_	_
+53-20	_	somehow	_	_	_	_
+53-21	_	through	_	_	_	_
+53-22	_	writing	_	_	_	_
+53-23	_	my	abstract[38]|abstract[125]	new[38]|new[125]	coref	53-25[38_39]
+53-24	_	dreams	abstract[125]	new[125]	_	_
+53-25	_	I	abstract[39]	new[39]	coref	54-1[39_40]
+53-26	_	gradually	_	_	_	_
+53-27	_	came	_	_	_	_
+53-28	_	to	_	_	_	_
+53-29	_	writing	_	_	_	_
+53-30	_	,	_	_	_	_
+53-31	_	also	_	_	_	_
+53-32	_	poems	_	_	_	_
+53-33	_	,	_	_	_	_
+53-34	_	but	_	_	_	_
+53-35	_	mainly	_	_	_	_
+53-36	_	stories	_	_	_	_
+53-37	_	.	_	_	_	_
+
+#Text=I 'm a little bit inspired by dreams but when eventually I started to write more seriously I was more interested in structure which also .. a bit like mathematics in a way .. for example my first book is called Opus 1 .. a collection of four long stories with musical structures .
+54-1	_	I	abstract[40]	new[40]	coref	54-12[40_41]
+54-2	_	'm	_	_	_	_
+54-3	_	a	_	_	_	_
+54-4	_	little	_	_	_	_
+54-5	_	bit	_	_	_	_
+54-6	_	inspired	_	_	_	_
+54-7	_	by	_	_	_	_
+54-8	_	dreams	_	_	_	_
+54-9	_	but	_	_	_	_
+54-10	_	when	_	_	_	_
+54-11	_	eventually	_	_	_	_
+54-12	_	I	abstract[41]	new[41]	coref	54-18[41_42]
+54-13	_	started	_	_	_	_
+54-14	_	to	_	_	_	_
+54-15	_	write	_	_	_	_
+54-16	_	more	_	_	_	_
+54-17	_	seriously	_	_	_	_
+54-18	_	I	abstract[42]	new[42]	coref	54-37[42_43]
+54-19	_	was	_	_	_	_
+54-20	_	more	_	_	_	_
+54-21	_	interested	_	_	_	_
+54-22	_	in	_	_	_	_
+54-23	_	structure	_	_	_	_
+54-24	_	which	_	_	_	_
+54-25	_	also	_	_	_	_
+54-26	_	..	_	_	_	_
+54-27	_	a	_	_	_	_
+54-28	_	bit	_	_	_	_
+54-29	_	like	_	_	_	_
+54-30	_	mathematics	_	_	_	_
+54-31	_	in	_	_	_	_
+54-32	_	a	_	_	_	_
+54-33	_	way	_	_	_	_
+54-34	_	..	_	_	_	_
+54-35	_	for	_	_	_	_
+54-36	_	example	_	_	_	_
+54-37	_	my	abstract[43]|abstract[126]	new[43]|new[126]	coref|coref	59-5[43_44]|54-42[126_127]
+54-38	_	first	abstract[126]	new[126]	_	_
+54-39	_	book	abstract[126]	new[126]	_	_
+54-40	_	is	_	_	_	_
+54-41	_	called	_	_	_	_
+54-42	_	Opus	abstract[127]	new[127]	_	_
+54-43	_	1	abstract[127]	new[127]	_	_
+54-44	_	..	_	_	_	_
+54-45	_	a	_	_	_	_
+54-46	_	collection	_	_	_	_
+54-47	_	of	_	_	_	_
+54-48	_	four	_	_	_	_
+54-49	_	long	_	_	_	_
+54-50	_	stories	_	_	_	_
+54-51	_	with	_	_	_	_
+54-52	_	musical	_	_	_	_
+54-53	_	structures	_	_	_	_
+54-54	_	.	_	_	_	_
+
+#Text=The first part is called Legato and the second part was called Staccato .
+55-1	_	The	abstract[128]	new[128]	coref	55-6[128_129]
+55-2	_	first	abstract[128]	new[128]	_	_
+55-3	_	part	abstract[128]	new[128]	_	_
+55-4	_	is	_	_	_	_
+55-5	_	called	_	_	_	_
+55-6	_	Legato	abstract[129]	new[129]	coref	56-2[129_130]
+55-7	_	and	_	_	_	_
+55-8	_	the	abstract[131]	new[131]	coref	55-13[131_132]
+55-9	_	second	abstract[131]	new[131]	_	_
+55-10	_	part	abstract[131]	new[131]	_	_
+55-11	_	was	_	_	_	_
+55-12	_	called	_	_	_	_
+55-13	_	Staccato	abstract[132]	new[132]	coref	57-2[132_133]
+55-14	_	.	_	_	_	_
+
+#Text=In the legato part the sentences are very long and without breaks almost like stream of consciousness .
+56-1	_	In	_	_	_	_
+56-2	_	the	abstract[130]	new[130]	_	_
+56-3	_	legato	abstract[130]	new[130]	_	_
+56-4	_	part	abstract[130]	new[130]	_	_
+56-5	_	the	_	_	_	_
+56-6	_	sentences	_	_	_	_
+56-7	_	are	_	_	_	_
+56-8	_	very	_	_	_	_
+56-9	_	long	_	_	_	_
+56-10	_	and	_	_	_	_
+56-11	_	without	_	_	_	_
+56-12	_	breaks	_	_	_	_
+56-13	_	almost	_	_	_	_
+56-14	_	like	_	_	_	_
+56-15	_	stream	_	_	_	_
+56-16	_	of	_	_	_	_
+56-17	_	consciousness	_	_	_	_
+56-18	_	.	_	_	_	_
+
+#Text=In the staccato part it 's like a music : a lot of break , very very short sentences .
+57-1	_	In	_	_	_	_
+57-2	_	the	abstract[133]	new[133]	_	_
+57-3	_	staccato	abstract[133]	new[133]	_	_
+57-4	_	part	abstract[133]	new[133]	_	_
+57-5	_	it	abstract[134]	new[134]	coref	58-1[134_135]
+57-6	_	's	_	_	_	_
+57-7	_	like	_	_	_	_
+57-8	_	a	_	_	_	_
+57-9	_	music	_	_	_	_
+57-10	_	:	_	_	_	_
+57-11	_	a	_	_	_	_
+57-12	_	lot	_	_	_	_
+57-13	_	of	_	_	_	_
+57-14	_	break	_	_	_	_
+57-15	_	,	_	_	_	_
+57-16	_	very	_	_	_	_
+57-17	_	very	_	_	_	_
+57-18	_	short	_	_	_	_
+57-19	_	sentences	_	_	_	_
+57-20	_	.	_	_	_	_
+
+#Text=It was a bit experimenting connections between the language and the music and the psychology of people .
+58-1	_	It	abstract[135]	new[135]	_	_
+58-2	_	was	_	_	_	_
+58-3	_	a	_	_	_	_
+58-4	_	bit	_	_	_	_
+58-5	_	experimenting	_	_	_	_
+58-6	_	connections	_	_	_	_
+58-7	_	between	_	_	_	_
+58-8	_	the	_	_	_	_
+58-9	_	language	_	_	_	_
+58-10	_	and	_	_	_	_
+58-11	_	the	_	_	_	_
+58-12	_	music	_	_	_	_
+58-13	_	and	_	_	_	_
+58-14	_	the	_	_	_	_
+58-15	_	psychology	_	_	_	_
+58-16	_	of	_	_	_	_
+58-17	_	people	_	_	_	_
+58-18	_	.	_	_	_	_
+
+#Text=In the second book I made another experiment .
+59-1	_	In	_	_	_	_
+59-2	_	the	abstract[136]	new[136]	coref	60-1[136_137]
+59-3	_	second	abstract[136]	new[136]	_	_
+59-4	_	book	abstract[136]	new[136]	_	_
+59-5	_	I	abstract[44]	new[44]	coref	60-9[44_45]
+59-6	_	made	_	_	_	_
+59-7	_	another	_	_	_	_
+59-8	_	experiment	_	_	_	_
+59-9	_	.	_	_	_	_
+
+#Text=It 's a book of opening , Overtures I called it , and there is no end to the stories .
+60-1	_	It	abstract[137]	new[137]	_	_
+60-2	_	's	_	_	_	_
+60-3	_	a	_	_	_	_
+60-4	_	book	_	_	_	_
+60-5	_	of	_	_	_	_
+60-6	_	opening	_	_	_	_
+60-7	_	,	_	_	_	_
+60-8	_	Overtures	abstract[138]	new[138]	coref	60-11[138_139]
+60-9	_	I	abstract[45]	new[45]	coref	62-6[45_46]
+60-10	_	called	_	_	_	_
+60-11	_	it	abstract[139]	new[139]	_	_
+60-12	_	,	_	_	_	_
+60-13	_	and	_	_	_	_
+60-14	_	there	_	_	_	_
+60-15	_	is	_	_	_	_
+60-16	_	no	_	_	_	_
+60-17	_	end	_	_	_	_
+60-18	_	to	_	_	_	_
+60-19	_	the	_	_	_	_
+60-20	_	stories	_	_	_	_
+60-21	_	.	_	_	_	_
+
+#Text=There are seventy beginning of stories without ends .
+61-1	_	There	_	_	_	_
+61-2	_	are	_	_	_	_
+61-3	_	seventy	_	_	_	_
+61-4	_	beginning	_	_	_	_
+61-5	_	of	_	_	_	_
+61-6	_	stories	_	_	_	_
+61-7	_	without	_	_	_	_
+61-8	_	ends	_	_	_	_
+61-9	_	.	_	_	_	_
+
+#Text=In the novel Dark Matters I think what interested me in the structure was two thing : simple narrative and email .
+62-1	_	In	_	_	_	_
+62-2	_	the	abstract[141]	new[141]	coref	63-1[141_142]
+62-3	_	novel	abstract[141]	new[141]	_	_
+62-4	_	Dark	abstract[141]	new[141]	_	_
+62-5	_	Matters	abstract[141]	new[141]	_	_
+62-6	_	I	abstract[46]	new[46]	coref	62-10[46_47]
+62-7	_	think	_	_	_	_
+62-8	_	what	_	_	_	_
+62-9	_	interested	_	_	_	_
+62-10	_	me	abstract[47]	new[47]	coref	66-18[47_48]
+62-11	_	in	_	_	_	_
+62-12	_	the	abstract[145]	new[145]	coref	66-15[145_146]
+62-13	_	structure	abstract[145]	new[145]	_	_
+62-14	_	was	_	_	_	_
+62-15	_	two	_	_	_	_
+62-16	_	thing	_	_	_	_
+62-17	_	:	_	_	_	_
+62-18	_	simple	_	_	_	_
+62-19	_	narrative	_	_	_	_
+62-20	_	and	_	_	_	_
+62-21	_	email	_	_	_	_
+62-22	_	.	_	_	_	_
+
+#Text=It keeps changing between narrative and email .
+63-1	_	It	abstract[142]	new[142]	_	_
+63-2	_	keeps	_	_	_	_
+63-3	_	changing	_	_	_	_
+63-4	_	between	_	_	_	_
+63-5	_	narrative	_	_	_	_
+63-6	_	and	_	_	_	_
+63-7	_	email	_	_	_	_
+63-8	_	.	_	_	_	_
+
+#Text=Another thing was two different time scapes : one goes very slow and one goes very fast and they almost kind of meet in the end .
+64-1	_	Another	_	_	_	_
+64-2	_	thing	_	_	_	_
+64-3	_	was	_	_	_	_
+64-4	_	two	_	_	_	_
+64-5	_	different	_	_	_	_
+64-6	_	time	_	_	_	_
+64-7	_	scapes	_	_	_	_
+64-8	_	:	_	_	_	_
+64-9	_	one	_	_	_	_
+64-10	_	goes	_	_	_	_
+64-11	_	very	_	_	_	_
+64-12	_	slow	_	_	_	_
+64-13	_	and	_	_	_	_
+64-14	_	one	_	_	_	_
+64-15	_	goes	_	_	_	_
+64-16	_	very	_	_	_	_
+64-17	_	fast	_	_	_	_
+64-18	_	and	_	_	_	_
+64-19	_	they	_	_	_	_
+64-20	_	almost	_	_	_	_
+64-21	_	kind	_	_	_	_
+64-22	_	of	_	_	_	_
+64-23	_	meet	_	_	_	_
+64-24	_	in	_	_	_	_
+64-25	_	the	_	_	_	_
+64-26	_	end	_	_	_	_
+64-27	_	.	_	_	_	_
+
+#Text=It 's a little bit like Achilles and the turtle .
+65-1	_	It	_	_	_	_
+65-2	_	's	_	_	_	_
+65-3	_	a	_	_	_	_
+65-4	_	little	_	_	_	_
+65-5	_	bit	_	_	_	_
+65-6	_	like	_	_	_	_
+65-7	_	Achilles	_	_	_	_
+65-8	_	and	_	_	_	_
+65-9	_	the	_	_	_	_
+65-10	_	turtle	_	_	_	_
+65-11	_	.	_	_	_	_
+
+#Text=... love story and romance and surprises and tragedies and all this but also this structure interested me a lot .
+66-1	_	...	_	_	_	_
+66-2	_	love	abstract[143]	new[143]	coref	66-11[143_144]
+66-3	_	story	abstract[143]	new[143]	_	_
+66-4	_	and	abstract[143]	new[143]	_	_
+66-5	_	romance	abstract[143]	new[143]	_	_
+66-6	_	and	abstract[143]	new[143]	_	_
+66-7	_	surprises	abstract[143]	new[143]	_	_
+66-8	_	and	abstract[143]	new[143]	_	_
+66-9	_	tragedies	abstract[143]	new[143]	_	_
+66-10	_	and	_	_	_	_
+66-11	_	all	abstract[144]	new[144]	_	_
+66-12	_	this	abstract[144]	new[144]	_	_
+66-13	_	but	_	_	_	_
+66-14	_	also	_	_	_	_
+66-15	_	this	abstract[146]	new[146]	coref	67-5[146_147]
+66-16	_	structure	abstract[146]	new[146]	_	_
+66-17	_	interested	_	_	_	_
+66-18	_	me	abstract[48]	new[48]	coref	67-3[48_49]
+66-19	_	a	_	_	_	_
+66-20	_	lot	_	_	_	_
+66-21	_	.	_	_	_	_
+
+#Text=Why did you choose this particular structure ?
+67-1	_	Why	_	_	_	_
+67-2	_	did	_	_	_	_
+67-3	_	you	abstract[49]	new[49]	coref	68-2[49_50]
+67-4	_	choose	_	_	_	_
+67-5	_	this	abstract[147]	new[147]	coref	71-5[147_148]
+67-6	_	particular	abstract[147]	new[147]	_	_
+67-7	_	structure	abstract[147]	new[147]	_	_
+67-8	_	?	_	_	_	_
+
+#Text=When I tell stories I do n't like that everything will be clear from the beginning .
+68-1	_	When	_	_	_	_
+68-2	_	I	abstract[50]	new[50]	coref	68-5[50_51]
+68-3	_	tell	_	_	_	_
+68-4	_	stories	_	_	_	_
+68-5	_	I	abstract[51]	new[51]	coref	69-1[51_52]
+68-6	_	do	_	_	_	_
+68-7	_	n't	_	_	_	_
+68-8	_	like	_	_	_	_
+68-9	_	that	_	_	_	_
+68-10	_	everything	_	_	_	_
+68-11	_	will	_	_	_	_
+68-12	_	be	_	_	_	_
+68-13	_	clear	_	_	_	_
+68-14	_	from	_	_	_	_
+68-15	_	the	_	_	_	_
+68-16	_	beginning	_	_	_	_
+68-17	_	.	_	_	_	_
+
+#Text=I like that something will be a bit of secret , or even unreliable narrator : someone tells something and first you trust him but then you read more and you become thrilled by everything .
+69-1	_	I	abstract[52]	new[52]	coref	70-1[52_53]
+69-2	_	like	_	_	_	_
+69-3	_	that	_	_	_	_
+69-4	_	something	_	_	_	_
+69-5	_	will	_	_	_	_
+69-6	_	be	_	_	_	_
+69-7	_	a	_	_	_	_
+69-8	_	bit	_	_	_	_
+69-9	_	of	_	_	_	_
+69-10	_	secret	_	_	_	_
+69-11	_	,	_	_	_	_
+69-12	_	or	_	_	_	_
+69-13	_	even	_	_	_	_
+69-14	_	unreliable	abstract[149]	new[149]	coref	69-17[149_150]
+69-15	_	narrator	abstract[149]	new[149]	_	_
+69-16	_	:	_	_	_	_
+69-17	_	someone	abstract[150]	new[150]	coref	69-24[150_151]
+69-18	_	tells	_	_	_	_
+69-19	_	something	_	_	_	_
+69-20	_	and	_	_	_	_
+69-21	_	first	_	_	_	_
+69-22	_	you	abstract[152]	new[152]	coref	69-27[152_153]
+69-23	_	trust	_	_	_	_
+69-24	_	him	abstract[151]	new[151]	_	_
+69-25	_	but	_	_	_	_
+69-26	_	then	_	_	_	_
+69-27	_	you	abstract[153]	new[153]	coref	69-31[153_154]
+69-28	_	read	_	_	_	_
+69-29	_	more	_	_	_	_
+69-30	_	and	_	_	_	_
+69-31	_	you	abstract[154]	new[154]	coref	70-44[154_155]
+69-32	_	become	_	_	_	_
+69-33	_	thrilled	_	_	_	_
+69-34	_	by	_	_	_	_
+69-35	_	everything	_	_	_	_
+69-36	_	.	_	_	_	_
+
+#Text=I think by using emails on the one hand which are more the voice of the woman Eva and narrative which is more the perspective of the man Adam , I kind of confront them , their different perspective and then kind somehow you can see the distortions in the way the story is told .
+70-1	_	I	abstract[53]	new[53]	coref	70-31[53_54]
+70-2	_	think	_	_	_	_
+70-3	_	by	_	_	_	_
+70-4	_	using	_	_	_	_
+70-5	_	emails	_	_	_	_
+70-6	_	on	_	_	_	_
+70-7	_	the	_	_	_	_
+70-8	_	one	_	_	_	_
+70-9	_	hand	_	_	_	_
+70-10	_	which	_	_	_	_
+70-11	_	are	_	_	_	_
+70-12	_	more	_	_	_	_
+70-13	_	the	_	_	_	_
+70-14	_	voice	_	_	_	_
+70-15	_	of	_	_	_	_
+70-16	_	the	abstract[156]	new[156]	coref	70-18[156_157]
+70-17	_	woman	abstract[156]	new[156]	_	_
+70-18	_	Eva	abstract[157]	new[157]	_	_
+70-19	_	and	_	_	_	_
+70-20	_	narrative	_	_	_	_
+70-21	_	which	_	_	_	_
+70-22	_	is	_	_	_	_
+70-23	_	more	_	_	_	_
+70-24	_	the	_	_	_	_
+70-25	_	perspective	_	_	_	_
+70-26	_	of	_	_	_	_
+70-27	_	the	abstract[158]	new[158]	coref	70-29[158_159]
+70-28	_	man	abstract[158]	new[158]	_	_
+70-29	_	Adam	abstract[159]	new[159]	_	_
+70-30	_	,	_	_	_	_
+70-31	_	I	abstract[54]	new[54]	coref	71-1[54_55]
+70-32	_	kind	_	_	_	_
+70-33	_	of	_	_	_	_
+70-34	_	confront	_	_	_	_
+70-35	_	them	abstract[160]	new[160]	coref	70-37[160_161]
+70-36	_	,	_	_	_	_
+70-37	_	their	abstract[161]	new[161]	_	_
+70-38	_	different	_	_	_	_
+70-39	_	perspective	_	_	_	_
+70-40	_	and	_	_	_	_
+70-41	_	then	_	_	_	_
+70-42	_	kind	_	_	_	_
+70-43	_	somehow	_	_	_	_
+70-44	_	you	abstract[155]	new[155]	_	_
+70-45	_	can	_	_	_	_
+70-46	_	see	_	_	_	_
+70-47	_	the	_	_	_	_
+70-48	_	distortions	_	_	_	_
+70-49	_	in	_	_	_	_
+70-50	_	the	_	_	_	_
+70-51	_	way	_	_	_	_
+70-52	_	the	_	_	_	_
+70-53	_	story	_	_	_	_
+70-54	_	is	_	_	_	_
+70-55	_	told	_	_	_	_
+70-56	_	.	_	_	_	_
+
+#Text=I think that in this kind of structure there is a very gradual clarification of the relationship and the forth going on .
+71-1	_	I	abstract[55]	new[55]	_	_
+71-2	_	think	_	_	_	_
+71-3	_	that	_	_	_	_
+71-4	_	in	_	_	_	_
+71-5	_	this	abstract[148]	new[148]	_	_
+71-6	_	kind	abstract[148]	new[148]	_	_
+71-7	_	of	abstract[148]	new[148]	_	_
+71-8	_	structure	abstract[148]	new[148]	_	_
+71-9	_	there	_	_	_	_
+71-10	_	is	_	_	_	_
+71-11	_	a	_	_	_	_
+71-12	_	very	_	_	_	_
+71-13	_	gradual	_	_	_	_
+71-14	_	clarification	_	_	_	_
+71-15	_	of	_	_	_	_
+71-16	_	the	_	_	_	_
+71-17	_	relationship	_	_	_	_
+71-18	_	and	_	_	_	_
+71-19	_	the	_	_	_	_
+71-20	_	forth	_	_	_	_
+71-21	_	going	_	_	_	_
+71-22	_	on	_	_	_	_
+71-23	_	.	_	_	_	_
+
+#Text=By : Clive Anderson On September 1 , 2015 More than 300,000 people , not just Muslims , have gone missing in the world of cyclones since Monday night ’s huge National Day of Prayer , a major event commemorating the year when the world held its first blood , and bringing about a profound junta of peace in the Middle East .
+72-1	_	By	_	_	_	_
+72-2	_	:	_	_	_	_
+72-3	_	Clive	_	_	_	_
+72-4	_	Anderson	_	_	_	_
+72-5	_	On	_	_	_	_
+72-6	_	September	_	_	_	_
+72-7	_	1	_	_	_	_
+72-8	_	,	_	_	_	_
+72-9	_	2015	_	_	_	_
+72-10	_	More	_	_	_	_
+72-11	_	than	_	_	_	_
+72-12	_	300,000	_	_	_	_
+72-13	_	people	_	_	_	_
+72-14	_	,	_	_	_	_
+72-15	_	not	_	_	_	_
+72-16	_	just	_	_	_	_
+72-17	_	Muslims	_	_	_	_
+72-18	_	,	_	_	_	_
+72-19	_	have	_	_	_	_
+72-20	_	gone	_	_	_	_
+72-21	_	missing	_	_	_	_
+72-22	_	in	_	_	_	_
+72-23	_	the	abstract[162]	new[162]	coref	72-44[162_163]
+72-24	_	world	abstract[162]	new[162]	_	_
+72-25	_	of	abstract[162]	new[162]	_	_
+72-26	_	cyclones	abstract[162]	new[162]	_	_
+72-27	_	since	_	_	_	_
+72-28	_	Monday	_	_	_	_
+72-29	_	night	_	_	_	_
+72-30	_	’s	_	_	_	_
+72-31	_	huge	_	_	_	_
+72-32	_	National	_	_	_	_
+72-33	_	Day	_	_	_	_
+72-34	_	of	_	_	_	_
+72-35	_	Prayer	_	_	_	_
+72-36	_	,	_	_	_	_
+72-37	_	a	_	_	_	_
+72-38	_	major	_	_	_	_
+72-39	_	event	_	_	_	_
+72-40	_	commemorating	_	_	_	_
+72-41	_	the	_	_	_	_
+72-42	_	year	_	_	_	_
+72-43	_	when	_	_	_	_
+72-44	_	the	abstract[163]	new[163]	coref	72-47[163_164]
+72-45	_	world	abstract[163]	new[163]	_	_
+72-46	_	held	_	_	_	_
+72-47	_	its	abstract[164]	new[164]	_	_
+72-48	_	first	_	_	_	_
+72-49	_	blood	_	_	_	_
+72-50	_	,	_	_	_	_
+72-51	_	and	_	_	_	_
+72-52	_	bringing	_	_	_	_
+72-53	_	about	_	_	_	_
+72-54	_	a	_	_	_	_
+72-55	_	profound	_	_	_	_
+72-56	_	junta	_	_	_	_
+72-57	_	of	_	_	_	_
+72-58	_	peace	_	_	_	_
+72-59	_	in	_	_	_	_
+72-60	_	the	_	_	_	_
+72-61	_	Middle	_	_	_	_
+72-62	_	East	_	_	_	_
+72-63	_	.	_	_	_	_
+

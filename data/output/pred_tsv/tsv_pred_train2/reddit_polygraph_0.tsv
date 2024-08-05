@@ -1,0 +1,1189 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=The Hiring Process Vol. 3 / Polygraph and Deception Detection Devices
+1-1	_	The	abstract[52]	new[52]	coref	12-25[52_53]
+1-2	_	Hiring	abstract[52]	new[52]	_	_
+1-3	_	Process	abstract[52]	new[52]	_	_
+1-4	_	Vol.	_	_	_	_
+1-5	_	3	_	_	_	_
+1-6	_	/	_	_	_	_
+1-7	_	Polygraph	_	_	_	_
+1-8	_	and	_	_	_	_
+1-9	_	Deception	_	_	_	_
+1-10	_	Detection	_	_	_	_
+1-11	_	Devices	_	_	_	_
+
+#Text=Polygraph and other deception detection devices .
+2-1	_	Polygraph	_	_	_	_
+2-2	_	and	_	_	_	_
+2-3	_	other	_	_	_	_
+2-4	_	deception	_	_	_	_
+2-5	_	detection	_	_	_	_
+2-6	_	devices	_	_	_	_
+2-7	_	.	_	_	_	_
+
+#Text=First , this is not me telling you how to beat polygraph ( poly . )
+3-1	_	First	_	_	_	_
+3-2	_	,	_	_	_	_
+3-3	_	this	abstract[40]	new[40]	coref	5-6[40_41]
+3-4	_	is	_	_	_	_
+3-5	_	not	_	_	_	_
+3-6	_	me	abstract[42]	new[42]	coref	5-10[42_43]
+3-7	_	telling	_	_	_	_
+3-8	_	you	abstract[5]	new[5]	coref	4-15[5_6]
+3-9	_	how	_	_	_	_
+3-10	_	to	_	_	_	_
+3-11	_	beat	_	_	_	_
+3-12	_	polygraph	abstract[1]	new[1]	coref	4-3[1_2]
+3-13	_	(	abstract[1]	new[1]	_	_
+3-14	_	poly	abstract[1]	new[1]	_	_
+3-15	_	.	_	_	_	_
+3-16	_	)	_	_	_	_
+
+#Text=When taking the test , it is common for the examiner to ask if you have researched how to pass the poly deceptively .
+4-1	_	When	_	_	_	_
+4-2	_	taking	_	_	_	_
+4-3	_	the	abstract[2]	new[2]	coref	4-21[2_3]
+4-4	_	test	abstract[2]	new[2]	_	_
+4-5	_	,	_	_	_	_
+4-6	_	it	_	_	_	_
+4-7	_	is	_	_	_	_
+4-8	_	common	_	_	_	_
+4-9	_	for	_	_	_	_
+4-10	_	the	_	_	_	_
+4-11	_	examiner	_	_	_	_
+4-12	_	to	_	_	_	_
+4-13	_	ask	_	_	_	_
+4-14	_	if	_	_	_	_
+4-15	_	you	abstract[6]	new[6]	coref	5-4[6_7]
+4-16	_	have	_	_	_	_
+4-17	_	researched	_	_	_	_
+4-18	_	how	_	_	_	_
+4-19	_	to	_	_	_	_
+4-20	_	pass	_	_	_	_
+4-21	_	the	abstract[3]	new[3]	coref	5-20[3_4]
+4-22	_	poly	abstract[3]	new[3]	_	_
+4-23	_	deceptively	_	_	_	_
+4-24	_	.	_	_	_	_
+
+#Text=So , if you read this , understand that I am not going to tell you how to beat the test .
+5-1	_	So	_	_	_	_
+5-2	_	,	_	_	_	_
+5-3	_	if	_	_	_	_
+5-4	_	you	abstract[7]	new[7]	coref	5-16[7_8]
+5-5	_	read	_	_	_	_
+5-6	_	this	abstract[41]	new[41]	_	_
+5-7	_	,	_	_	_	_
+5-8	_	understand	_	_	_	_
+5-9	_	that	_	_	_	_
+5-10	_	I	abstract[43]	new[43]	_	_
+5-11	_	am	_	_	_	_
+5-12	_	not	_	_	_	_
+5-13	_	going	_	_	_	_
+5-14	_	to	_	_	_	_
+5-15	_	tell	_	_	_	_
+5-16	_	you	abstract[8]	new[8]	coref	13-6[8_9]
+5-17	_	how	_	_	_	_
+5-18	_	to	_	_	_	_
+5-19	_	beat	_	_	_	_
+5-20	_	the	abstract[4]	new[4]	_	_
+5-21	_	test	abstract[4]	new[4]	_	_
+5-22	_	.	_	_	_	_
+
+#Text=It is also worth mentioning that doing something like that is , generally , a bad idea .
+6-1	_	It	_	_	_	_
+6-2	_	is	_	_	_	_
+6-3	_	also	_	_	_	_
+6-4	_	worth	_	_	_	_
+6-5	_	mentioning	_	_	_	_
+6-6	_	that	_	_	_	_
+6-7	_	doing	_	_	_	_
+6-8	_	something	_	_	_	_
+6-9	_	like	_	_	_	_
+6-10	_	that	_	_	_	_
+6-11	_	is	_	_	_	_
+6-12	_	,	_	_	_	_
+6-13	_	generally	_	_	_	_
+6-14	_	,	_	_	_	_
+6-15	_	a	_	_	_	_
+6-16	_	bad	_	_	_	_
+6-17	_	idea	_	_	_	_
+6-18	_	.	_	_	_	_
+
+#Text=Second , let ’s just get something out of the way .
+7-1	_	Second	_	_	_	_
+7-2	_	,	_	_	_	_
+7-3	_	let	_	_	_	_
+7-4	_	’s	abstract[48]	new[48]	coref	9-7[48_49]
+7-5	_	just	_	_	_	_
+7-6	_	get	_	_	_	_
+7-7	_	something	_	_	_	_
+7-8	_	out	_	_	_	_
+7-9	_	of	_	_	_	_
+7-10	_	the	_	_	_	_
+7-11	_	way	_	_	_	_
+7-12	_	.	_	_	_	_
+
+#Text=A polygraph is not admissible in criminal court , and for good reason .
+8-1	_	A	abstract[44]	new[44]	coref	9-1[44_45]
+8-2	_	polygraph	abstract[44]	new[44]	_	_
+8-3	_	is	_	_	_	_
+8-4	_	not	_	_	_	_
+8-5	_	admissible	_	_	_	_
+8-6	_	in	_	_	_	_
+8-7	_	criminal	_	_	_	_
+8-8	_	court	_	_	_	_
+8-9	_	,	_	_	_	_
+8-10	_	and	_	_	_	_
+8-11	_	for	_	_	_	_
+8-12	_	good	_	_	_	_
+8-13	_	reason	_	_	_	_
+8-14	_	.	_	_	_	_
+
+#Text=It is not going to give us specific information .
+9-1	_	It	abstract[45]	new[45]	coref	12-5[45_46]
+9-2	_	is	_	_	_	_
+9-3	_	not	_	_	_	_
+9-4	_	going	_	_	_	_
+9-5	_	to	_	_	_	_
+9-6	_	give	_	_	_	_
+9-7	_	us	abstract[49]	new[49]	coref	17-15[49_50]
+9-8	_	specific	_	_	_	_
+9-9	_	information	_	_	_	_
+9-10	_	.	_	_	_	_
+
+#Text=There have been people who have lied and not shown deception .
+10-1	_	There	_	_	_	_
+10-2	_	have	_	_	_	_
+10-3	_	been	_	_	_	_
+10-4	_	people	_	_	_	_
+10-5	_	who	_	_	_	_
+10-6	_	have	_	_	_	_
+10-7	_	lied	_	_	_	_
+10-8	_	and	_	_	_	_
+10-9	_	not	_	_	_	_
+10-10	_	shown	_	_	_	_
+10-11	_	deception	_	_	_	_
+10-12	_	.	_	_	_	_
+
+#Text=There are some people who showed deception , who were not necessarily lying .
+11-1	_	There	_	_	_	_
+11-2	_	are	_	_	_	_
+11-3	_	some	_	_	_	_
+11-4	_	people	_	_	_	_
+11-5	_	who	_	_	_	_
+11-6	_	showed	_	_	_	_
+11-7	_	deception	_	_	_	_
+11-8	_	,	_	_	_	_
+11-9	_	who	_	_	_	_
+11-10	_	were	_	_	_	_
+11-11	_	not	_	_	_	_
+11-12	_	necessarily	_	_	_	_
+11-13	_	lying	_	_	_	_
+11-14	_	.	_	_	_	_
+
+#Text=Having said that , it is still a great tool for verifying truthfulness , and I ’m a big fan of using it in this kind of a process .
+12-1	_	Having	_	_	_	_
+12-2	_	said	_	_	_	_
+12-3	_	that	abstract[65]	new[65]	coref	13-8[65_66]
+12-4	_	,	_	_	_	_
+12-5	_	it	abstract[46]	new[46]	coref	12-23[46_47]
+12-6	_	is	_	_	_	_
+12-7	_	still	_	_	_	_
+12-8	_	a	_	_	_	_
+12-9	_	great	_	_	_	_
+12-10	_	tool	_	_	_	_
+12-11	_	for	_	_	_	_
+12-12	_	verifying	_	_	_	_
+12-13	_	truthfulness	_	_	_	_
+12-14	_	,	_	_	_	_
+12-15	_	and	_	_	_	_
+12-16	_	I	abstract[55]	new[55]	coref	13-2[55_56]
+12-17	_	’m	_	_	_	_
+12-18	_	a	_	_	_	_
+12-19	_	big	_	_	_	_
+12-20	_	fan	_	_	_	_
+12-21	_	of	_	_	_	_
+12-22	_	using	_	_	_	_
+12-23	_	it	abstract[47]	new[47]	_	_
+12-24	_	in	_	_	_	_
+12-25	_	this	abstract[53]	new[53]	coref	49-10[53_54]
+12-26	_	kind	abstract[53]	new[53]	_	_
+12-27	_	of	abstract[53]	new[53]	_	_
+12-28	_	a	abstract[53]	new[53]	_	_
+12-29	_	process	abstract[53]	new[53]	_	_
+12-30	_	.	_	_	_	_
+
+#Text=Hopefully I can explain to you why that happens here .
+13-1	_	Hopefully	_	_	_	_
+13-2	_	I	abstract[56]	new[56]	coref	22-2[56_57]
+13-3	_	can	_	_	_	_
+13-4	_	explain	_	_	_	_
+13-5	_	to	_	_	_	_
+13-6	_	you	abstract[9]	new[9]	coref	15-1[9_10]
+13-7	_	why	_	_	_	_
+13-8	_	that	abstract[66]	new[66]	_	_
+13-9	_	happens	_	_	_	_
+13-10	_	here	_	_	_	_
+13-11	_	.	_	_	_	_
+
+#Text=All of these Deception Detection Devices ( DDD ) work on a basic principal .
+14-1	_	All	_	_	_	_
+14-2	_	of	_	_	_	_
+14-3	_	these	_	_	_	_
+14-4	_	Deception	_	_	_	_
+14-5	_	Detection	_	_	_	_
+14-6	_	Devices	_	_	_	_
+14-7	_	(	_	_	_	_
+14-8	_	DDD	_	_	_	_
+14-9	_	)	_	_	_	_
+14-10	_	work	_	_	_	_
+14-11	_	on	_	_	_	_
+14-12	_	a	abstract[67]	new[67]	coref	15-1[67_68]
+14-13	_	basic	abstract[67]	new[67]	_	_
+14-14	_	principal	abstract[67]	new[67]	_	_
+14-15	_	.	_	_	_	_
+
+#Text=Your body has involuntary and automatic responses to lying .
+15-1	_	Your	abstract[10]|abstract[68]|abstract[71]	new[10]|new[68]|new[71]	coref|coref	16-3[10_11]|20-3[71_72]
+15-2	_	body	abstract[68]|abstract[71]	new[68]|new[71]	_	_
+15-3	_	has	abstract[68]	new[68]	_	_
+15-4	_	involuntary	abstract[68]	new[68]	_	_
+15-5	_	and	abstract[68]	new[68]	_	_
+15-6	_	automatic	abstract[68]	new[68]	_	_
+15-7	_	responses	abstract[68]	new[68]	_	_
+15-8	_	to	abstract[68]	new[68]	_	_
+15-9	_	lying	abstract[68]	new[68]	_	_
+15-10	_	.	_	_	_	_
+
+#Text=Basically , you are afraid of getting caught .
+16-1	_	Basically	_	_	_	_
+16-2	_	,	_	_	_	_
+16-3	_	you	abstract[11]	new[11]	coref	18-4[11_12]
+16-4	_	are	_	_	_	_
+16-5	_	afraid	_	_	_	_
+16-6	_	of	_	_	_	_
+16-7	_	getting	_	_	_	_
+16-8	_	caught	_	_	_	_
+16-9	_	.	_	_	_	_
+
+#Text=No matter how little , there is still a bit of everyone that hopes we do n’t get caught .
+17-1	_	No	_	_	_	_
+17-2	_	matter	_	_	_	_
+17-3	_	how	_	_	_	_
+17-4	_	little	_	_	_	_
+17-5	_	,	_	_	_	_
+17-6	_	there	_	_	_	_
+17-7	_	is	_	_	_	_
+17-8	_	still	_	_	_	_
+17-9	_	a	_	_	_	_
+17-10	_	bit	_	_	_	_
+17-11	_	of	_	_	_	_
+17-12	_	everyone	_	_	_	_
+17-13	_	that	_	_	_	_
+17-14	_	hopes	_	_	_	_
+17-15	_	we	abstract[50]	new[50]	coref	23-9[50_51]
+17-16	_	do	_	_	_	_
+17-17	_	n’t	_	_	_	_
+17-18	_	get	_	_	_	_
+17-19	_	caught	_	_	_	_
+17-20	_	.	_	_	_	_
+
+#Text=The fact that you ’re hooked up to the machine really tends to amplify this .
+18-1	_	The	_	_	_	_
+18-2	_	fact	_	_	_	_
+18-3	_	that	_	_	_	_
+18-4	_	you	abstract[12]	new[12]	coref	20-3[12_13]
+18-5	_	’re	_	_	_	_
+18-6	_	hooked	_	_	_	_
+18-7	_	up	_	_	_	_
+18-8	_	to	_	_	_	_
+18-9	_	the	_	_	_	_
+18-10	_	machine	_	_	_	_
+18-11	_	really	_	_	_	_
+18-12	_	tends	_	_	_	_
+18-13	_	to	_	_	_	_
+18-14	_	amplify	_	_	_	_
+18-15	_	this	_	_	_	_
+18-16	_	.	_	_	_	_
+
+#Text=These machines are actually fear detectors .
+19-1	_	These	abstract[69]	new[69]	coref	20-1[69_70]
+19-2	_	machines	abstract[69]	new[69]	_	_
+19-3	_	are	_	_	_	_
+19-4	_	actually	_	_	_	_
+19-5	_	fear	_	_	_	_
+19-6	_	detectors	_	_	_	_
+19-7	_	.	_	_	_	_
+
+#Text=They measure your body ’s reaction to fear , like your heart rate increasing or changing just to name one .
+20-1	_	They	abstract[70]	new[70]	_	_
+20-2	_	measure	_	_	_	_
+20-3	_	your	abstract[13]|abstract[72]	new[13]|new[72]	coref	20-11[13_14]
+20-4	_	body	abstract[72]	new[72]	_	_
+20-5	_	’s	abstract[72]	new[72]	_	_
+20-6	_	reaction	_	_	_	_
+20-7	_	to	_	_	_	_
+20-8	_	fear	_	_	_	_
+20-9	_	,	_	_	_	_
+20-10	_	like	_	_	_	_
+20-11	_	your	abstract[14]	new[14]	coref	22-4[14_15]
+20-12	_	heart	_	_	_	_
+20-13	_	rate	_	_	_	_
+20-14	_	increasing	_	_	_	_
+20-15	_	or	_	_	_	_
+20-16	_	changing	_	_	_	_
+20-17	_	just	_	_	_	_
+20-18	_	to	_	_	_	_
+20-19	_	name	_	_	_	_
+20-20	_	one	_	_	_	_
+20-21	_	.	_	_	_	_
+
+#Text=So how does a truthful person show deception ?
+21-1	_	So	_	_	_	_
+21-2	_	how	_	_	_	_
+21-3	_	does	_	_	_	_
+21-4	_	a	_	_	_	_
+21-5	_	truthful	_	_	_	_
+21-6	_	person	_	_	_	_
+21-7	_	show	_	_	_	_
+21-8	_	deception	_	_	_	_
+21-9	_	?	_	_	_	_
+
+#Text=Let me show you .
+22-1	_	Let	_	_	_	_
+22-2	_	me	abstract[57]	new[57]	coref	35-34[57_58]
+22-3	_	show	_	_	_	_
+22-4	_	you	abstract[15]	new[15]	coref	31-23[15_16]
+22-5	_	.	_	_	_	_
+
+#Text=20 years ago , an applicant … let ’s call him Joe … was out with friends at a bar .
+23-1	_	20	abstract[91]	new[91]	coref	28-11[91_92]
+23-2	_	years	abstract[91]	new[91]	_	_
+23-3	_	ago	abstract[91]	new[91]	_	_
+23-4	_	,	_	_	_	_
+23-5	_	an	abstract[73]	new[73]	coref	23-11[73_74]
+23-6	_	applicant	abstract[73]	new[73]	_	_
+23-7	_	…	_	_	_	_
+23-8	_	let	_	_	_	_
+23-9	_	’s	abstract[51]	new[51]	_	_
+23-10	_	call	_	_	_	_
+23-11	_	him	abstract[74]	new[74]	coref	24-3[74_75]
+23-12	_	Joe	_	_	_	_
+23-13	_	…	_	_	_	_
+23-14	_	was	_	_	_	_
+23-15	_	out	_	_	_	_
+23-16	_	with	_	_	_	_
+23-17	_	friends	_	_	_	_
+23-18	_	at	_	_	_	_
+23-19	_	a	_	_	_	_
+23-20	_	bar	_	_	_	_
+23-21	_	.	_	_	_	_
+
+#Text=While there he was approached by a prostitute who offered him her services .
+24-1	_	While	_	_	_	_
+24-2	_	there	_	_	_	_
+24-3	_	he	abstract[75]	new[75]	coref	24-11[75_76]
+24-4	_	was	_	_	_	_
+24-5	_	approached	_	_	_	_
+24-6	_	by	_	_	_	_
+24-7	_	a	abstract[87]	new[87]	coref	25-13[87_88]
+24-8	_	prostitute	abstract[87]	new[87]	_	_
+24-9	_	who	abstract[87]	new[87]	_	_
+24-10	_	offered	abstract[87]	new[87]	_	_
+24-11	_	him	abstract[76]|abstract[87]	new[76]|new[87]	coref	25-1[76_77]
+24-12	_	her	abstract[87]	new[87]	_	_
+24-13	_	services	abstract[87]	new[87]	_	_
+24-14	_	.	_	_	_	_
+
+#Text=Joe , being the fine and upstanding individual he is , turned her down .
+25-1	_	Joe	abstract[77]	new[77]	coref	26-2[77_78]
+25-2	_	,	_	_	_	_
+25-3	_	being	_	_	_	_
+25-4	_	the	_	_	_	_
+25-5	_	fine	_	_	_	_
+25-6	_	and	_	_	_	_
+25-7	_	upstanding	_	_	_	_
+25-8	_	individual	_	_	_	_
+25-9	_	he	_	_	_	_
+25-10	_	is	_	_	_	_
+25-11	_	,	_	_	_	_
+25-12	_	turned	_	_	_	_
+25-13	_	her	abstract[88]	new[88]	_	_
+25-14	_	down	_	_	_	_
+25-15	_	.	_	_	_	_
+
+#Text=On his background paperwork he indicated that he had never paid anyone for sex and he has never sought to pay anyone for sex …
+26-1	_	On	_	_	_	_
+26-2	_	his	abstract[78]	new[78]	coref	26-5[78_79]
+26-3	_	background	_	_	_	_
+26-4	_	paperwork	_	_	_	_
+26-5	_	he	abstract[79]	new[79]	coref	26-8[79_80]
+26-6	_	indicated	_	_	_	_
+26-7	_	that	_	_	_	_
+26-8	_	he	abstract[80]	new[80]	coref	26-16[80_81]
+26-9	_	had	_	_	_	_
+26-10	_	never	_	_	_	_
+26-11	_	paid	_	_	_	_
+26-12	_	anyone	abstract[89]	new[89]	coref	26-22[89_90]
+26-13	_	for	_	_	_	_
+26-14	_	sex	_	_	_	_
+26-15	_	and	_	_	_	_
+26-16	_	he	abstract[81]	new[81]	coref	28-3[81_82]
+26-17	_	has	_	_	_	_
+26-18	_	never	_	_	_	_
+26-19	_	sought	_	_	_	_
+26-20	_	to	_	_	_	_
+26-21	_	pay	_	_	_	_
+26-22	_	anyone	abstract[90]	new[90]	_	_
+26-23	_	for	_	_	_	_
+26-24	_	sex	_	_	_	_
+26-25	_	…	_	_	_	_
+
+#Text=both are true .
+27-1	_	both	_	_	_	_
+27-2	_	are	_	_	_	_
+27-3	_	true	_	_	_	_
+27-4	_	.	_	_	_	_
+
+#Text=However , Joe has a flash of a thought from that night when the examiner asks him if he has paid for sex .
+28-1	_	However	_	_	_	_
+28-2	_	,	_	_	_	_
+28-3	_	Joe	abstract[82]	new[82]	coref	28-17[82_83]
+28-4	_	has	_	_	_	_
+28-5	_	a	_	_	_	_
+28-6	_	flash	_	_	_	_
+28-7	_	of	_	_	_	_
+28-8	_	a	_	_	_	_
+28-9	_	thought	_	_	_	_
+28-10	_	from	_	_	_	_
+28-11	_	that	abstract[92]	new[92]	_	_
+28-12	_	night	abstract[92]	new[92]	_	_
+28-13	_	when	_	_	_	_
+28-14	_	the	_	_	_	_
+28-15	_	examiner	_	_	_	_
+28-16	_	asks	_	_	_	_
+28-17	_	him	abstract[83]	new[83]	coref	28-19[83_84]
+28-18	_	if	_	_	_	_
+28-19	_	he	abstract[84]	new[84]	coref	29-1[84_85]
+28-20	_	has	_	_	_	_
+28-21	_	paid	_	_	_	_
+28-22	_	for	_	_	_	_
+28-23	_	sex	_	_	_	_
+28-24	_	.	_	_	_	_
+
+#Text=His body , automatically , is afraid that he should have said something .
+29-1	_	His	abstract[85]	new[85]	coref	29-9[85_86]
+29-2	_	body	_	_	_	_
+29-3	_	,	_	_	_	_
+29-4	_	automatically	_	_	_	_
+29-5	_	,	_	_	_	_
+29-6	_	is	_	_	_	_
+29-7	_	afraid	_	_	_	_
+29-8	_	that	_	_	_	_
+29-9	_	he	abstract[86]	new[86]	_	_
+29-10	_	should	_	_	_	_
+29-11	_	have	_	_	_	_
+29-12	_	said	_	_	_	_
+29-13	_	something	_	_	_	_
+29-14	_	.	_	_	_	_
+
+#Text=The machine will pick that reaction up .
+30-1	_	The	_	_	_	_
+30-2	_	machine	_	_	_	_
+30-3	_	will	_	_	_	_
+30-4	_	pick	_	_	_	_
+30-5	_	that	_	_	_	_
+30-6	_	reaction	_	_	_	_
+30-7	_	up	_	_	_	_
+30-8	_	.	_	_	_	_
+
+#Text=The reason this is n't scientific is because just because it shows deception on a particular subject , does n't mean you ’re lying …
+31-1	_	The	_	_	_	_
+31-2	_	reason	_	_	_	_
+31-3	_	this	abstract[93]	new[93]	coref	31-12[93_94]
+31-4	_	is	_	_	_	_
+31-5	_	n't	_	_	_	_
+31-6	_	scientific	_	_	_	_
+31-7	_	is	_	_	_	_
+31-8	_	because	_	_	_	_
+31-9	_	just	_	_	_	_
+31-10	_	because	_	_	_	_
+31-11	_	it	abstract[94]	new[94]	coref	32-1[94_95]
+31-12	_	shows	_	_	_	_
+31-13	_	deception	_	_	_	_
+31-14	_	on	_	_	_	_
+31-15	_	a	_	_	_	_
+31-16	_	particular	_	_	_	_
+31-17	_	subject	_	_	_	_
+31-18	_	,	_	_	_	_
+31-19	_	does	_	_	_	_
+31-20	_	n't	_	_	_	_
+31-21	_	mean	_	_	_	_
+31-22	_	you	abstract[16]	new[16]	coref	33-6[16_17]
+31-23	_	’re	_	_	_	_
+31-24	_	lying	_	_	_	_
+31-25	_	…	_	_	_	_
+
+#Text=it means that there is usually more to that story .
+32-1	_	it	abstract[95]	new[95]	coref	33-3[95_96]
+32-2	_	means	_	_	_	_
+32-3	_	that	_	_	_	_
+32-4	_	there	_	_	_	_
+32-5	_	is	_	_	_	_
+32-6	_	usually	_	_	_	_
+32-7	_	more	_	_	_	_
+32-8	_	to	_	_	_	_
+32-9	_	that	_	_	_	_
+32-10	_	story	_	_	_	_
+32-11	_	.	_	_	_	_
+
+#Text=To combat this , before you take the poly you will talk with the examiner and go over every question that is on the exam .
+33-1	_	To	_	_	_	_
+33-2	_	combat	_	_	_	_
+33-3	_	this	abstract[96]	new[96]	_	_
+33-4	_	,	_	_	_	_
+33-5	_	before	_	_	_	_
+33-6	_	you	abstract[17]	new[17]	coref	33-10[17_18]
+33-7	_	take	_	_	_	_
+33-8	_	the	_	_	_	_
+33-9	_	poly	_	_	_	_
+33-10	_	you	abstract[18]	new[18]	coref	34-3[18_19]
+33-11	_	will	_	_	_	_
+33-12	_	talk	_	_	_	_
+33-13	_	with	_	_	_	_
+33-14	_	the	abstract[97]	new[97]	coref	36-11[97_98]
+33-15	_	examiner	abstract[97]	new[97]	_	_
+33-16	_	and	_	_	_	_
+33-17	_	go	_	_	_	_
+33-18	_	over	_	_	_	_
+33-19	_	every	abstract[130]	new[130]	coref	55-5[130_131]
+33-20	_	question	abstract[130]	new[130]	_	_
+33-21	_	that	abstract[130]	new[130]	_	_
+33-22	_	is	abstract[130]	new[130]	_	_
+33-23	_	on	abstract[130]	new[130]	_	_
+33-24	_	the	abstract[101]|abstract[130]	new[101]|new[130]	coref	36-21[101_102]
+33-25	_	exam	abstract[101]|abstract[130]	new[101]|new[130]	_	_
+33-26	_	.	_	_	_	_
+
+#Text=That way you can address any gray areas .
+34-1	_	That	_	_	_	_
+34-2	_	way	_	_	_	_
+34-3	_	you	abstract[19]	new[19]	coref	35-1[19_20]
+34-4	_	can	_	_	_	_
+34-5	_	address	_	_	_	_
+34-6	_	any	_	_	_	_
+34-7	_	gray	_	_	_	_
+34-8	_	areas	_	_	_	_
+34-9	_	.	_	_	_	_
+
+#Text=You may have answered a question in your background with a “ no ” answer , but there is a “ comma , but ” to it though … if you know what I mean .
+35-1	_	You	abstract[20]	new[20]	coref	35-8[20_21]
+35-2	_	may	_	_	_	_
+35-3	_	have	_	_	_	_
+35-4	_	answered	_	_	_	_
+35-5	_	a	_	_	_	_
+35-6	_	question	_	_	_	_
+35-7	_	in	_	_	_	_
+35-8	_	your	abstract[21]	new[21]	coref	35-31[21_22]
+35-9	_	background	_	_	_	_
+35-10	_	with	_	_	_	_
+35-11	_	a	_	_	_	_
+35-12	_	“	_	_	_	_
+35-13	_	no	_	_	_	_
+35-14	_	”	_	_	_	_
+35-15	_	answer	_	_	_	_
+35-16	_	,	_	_	_	_
+35-17	_	but	_	_	_	_
+35-18	_	there	_	_	_	_
+35-19	_	is	_	_	_	_
+35-20	_	a	_	_	_	_
+35-21	_	“	_	_	_	_
+35-22	_	comma	_	_	_	_
+35-23	_	,	_	_	_	_
+35-24	_	but	_	_	_	_
+35-25	_	”	_	_	_	_
+35-26	_	to	_	_	_	_
+35-27	_	it	_	_	_	_
+35-28	_	though	_	_	_	_
+35-29	_	…	_	_	_	_
+35-30	_	if	_	_	_	_
+35-31	_	you	abstract[22]	new[22]	coref	36-4[22_23]
+35-32	_	know	_	_	_	_
+35-33	_	what	_	_	_	_
+35-34	_	I	abstract[58]	new[58]	coref	57-2[58_59]
+35-35	_	mean	_	_	_	_
+35-36	_	.	_	_	_	_
+
+#Text=Make sure that you address any of these areas with the background investigator and with the polygraph examiner before taking the test .
+36-1	_	Make	_	_	_	_
+36-2	_	sure	_	_	_	_
+36-3	_	that	_	_	_	_
+36-4	_	you	abstract[23]	new[23]	coref	37-4[23_24]
+36-5	_	address	_	_	_	_
+36-6	_	any	abstract[105]	new[105]	coref	37-8[105_106]
+36-7	_	of	abstract[105]	new[105]	_	_
+36-8	_	these	abstract[105]	new[105]	_	_
+36-9	_	areas	abstract[105]	new[105]	_	_
+36-10	_	with	_	_	_	_
+36-11	_	the	abstract[98]	new[98]	coref	36-16[98_99]
+36-12	_	background	abstract[98]	new[98]	_	_
+36-13	_	investigator	abstract[98]	new[98]	_	_
+36-14	_	and	_	_	_	_
+36-15	_	with	_	_	_	_
+36-16	_	the	abstract[99]	new[99]	coref	55-12[99_100]
+36-17	_	polygraph	abstract[99]	new[99]	_	_
+36-18	_	examiner	abstract[99]	new[99]	_	_
+36-19	_	before	_	_	_	_
+36-20	_	taking	_	_	_	_
+36-21	_	the	abstract[102]	new[102]	coref	48-16[102_103]
+36-22	_	test	abstract[102]	new[102]	_	_
+36-23	_	.	_	_	_	_
+
+#Text=That way , you ’ll feel that it ’s been addressed and it is much more likely to be a non-issue .
+37-1	_	That	_	_	_	_
+37-2	_	way	_	_	_	_
+37-3	_	,	_	_	_	_
+37-4	_	you	abstract[24]	new[24]	coref	39-2[24_25]
+37-5	_	’ll	_	_	_	_
+37-6	_	feel	_	_	_	_
+37-7	_	that	_	_	_	_
+37-8	_	it	abstract[106]	new[106]	coref	37-13[106_107]
+37-9	_	’s	_	_	_	_
+37-10	_	been	_	_	_	_
+37-11	_	addressed	_	_	_	_
+37-12	_	and	_	_	_	_
+37-13	_	it	abstract[107]	new[107]	_	_
+37-14	_	is	_	_	_	_
+37-15	_	much	_	_	_	_
+37-16	_	more	_	_	_	_
+37-17	_	likely	_	_	_	_
+37-18	_	to	_	_	_	_
+37-19	_	be	_	_	_	_
+37-20	_	a	_	_	_	_
+37-21	_	non-issue	_	_	_	_
+37-22	_	.	_	_	_	_
+
+#Text=Third , please know that common sense is still very much on the table .
+38-1	_	Third	_	_	_	_
+38-2	_	,	_	_	_	_
+38-3	_	please	_	_	_	_
+38-4	_	know	_	_	_	_
+38-5	_	that	_	_	_	_
+38-6	_	common	_	_	_	_
+38-7	_	sense	_	_	_	_
+38-8	_	is	_	_	_	_
+38-9	_	still	_	_	_	_
+38-10	_	very	_	_	_	_
+38-11	_	much	_	_	_	_
+38-12	_	on	_	_	_	_
+38-13	_	the	_	_	_	_
+38-14	_	table	_	_	_	_
+38-15	_	.	_	_	_	_
+
+#Text=Have you seen the scene from Ocean ’s Eleven where the “ smart guy ” is undergoing a polygraph so he can get the casino job ?
+39-1	_	Have	_	_	_	_
+39-2	_	you	abstract[25]	new[25]	coref	46-1[25_26]
+39-3	_	seen	_	_	_	_
+39-4	_	the	_	_	_	_
+39-5	_	scene	_	_	_	_
+39-6	_	from	_	_	_	_
+39-7	_	Ocean	_	_	_	_
+39-8	_	’s	_	_	_	_
+39-9	_	Eleven	_	_	_	_
+39-10	_	where	_	_	_	_
+39-11	_	the	abstract[108]	new[108]	coref	39-21[108_109]
+39-12	_	“	abstract[108]	new[108]	_	_
+39-13	_	smart	abstract[108]	new[108]	_	_
+39-14	_	guy	abstract[108]	new[108]	_	_
+39-15	_	”	abstract[108]	new[108]	_	_
+39-16	_	is	_	_	_	_
+39-17	_	undergoing	_	_	_	_
+39-18	_	a	_	_	_	_
+39-19	_	polygraph	_	_	_	_
+39-20	_	so	_	_	_	_
+39-21	_	he	abstract[109]	new[109]	coref	40-7[109_110]
+39-22	_	can	_	_	_	_
+39-23	_	get	_	_	_	_
+39-24	_	the	_	_	_	_
+39-25	_	casino	_	_	_	_
+39-26	_	job	_	_	_	_
+39-27	_	?	_	_	_	_
+
+#Text=They put a thumb tack in his shoe so that when he could poke his foot on the truthful answers and not on the lies .
+40-1	_	They	_	_	_	_
+40-2	_	put	_	_	_	_
+40-3	_	a	_	_	_	_
+40-4	_	thumb	_	_	_	_
+40-5	_	tack	_	_	_	_
+40-6	_	in	_	_	_	_
+40-7	_	his	abstract[110]	new[110]	coref	40-12[110_111]
+40-8	_	shoe	_	_	_	_
+40-9	_	so	_	_	_	_
+40-10	_	that	_	_	_	_
+40-11	_	when	_	_	_	_
+40-12	_	he	abstract[111]	new[111]	coref	40-15[111_112]
+40-13	_	could	_	_	_	_
+40-14	_	poke	_	_	_	_
+40-15	_	his	abstract[112]	new[112]	coref	41-3[112_113]
+40-16	_	foot	_	_	_	_
+40-17	_	on	_	_	_	_
+40-18	_	the	_	_	_	_
+40-19	_	truthful	_	_	_	_
+40-20	_	answers	_	_	_	_
+40-21	_	and	_	_	_	_
+40-22	_	not	_	_	_	_
+40-23	_	on	_	_	_	_
+40-24	_	the	_	_	_	_
+40-25	_	lies	_	_	_	_
+40-26	_	.	_	_	_	_
+
+#Text=That way he was consistent through the exam .
+41-1	_	That	_	_	_	_
+41-2	_	way	_	_	_	_
+41-3	_	he	abstract[113]	new[113]	coref	42-1[113_114]
+41-4	_	was	_	_	_	_
+41-5	_	consistent	_	_	_	_
+41-6	_	through	_	_	_	_
+41-7	_	the	_	_	_	_
+41-8	_	exam	_	_	_	_
+41-9	_	.	_	_	_	_
+
+#Text=He was always stressed .
+42-1	_	He	abstract[114]	new[114]	coref	43-13[114_115]
+42-2	_	was	_	_	_	_
+42-3	_	always	_	_	_	_
+42-4	_	stressed	_	_	_	_
+42-5	_	.	_	_	_	_
+
+#Text=The examiner even makes the comment that “ man to look at him , I would swear he ’s being deceptive . ”
+43-1	_	The	abstract[117]	new[117]	coref	43-15[117_118]
+43-2	_	examiner	abstract[117]	new[117]	_	_
+43-3	_	even	_	_	_	_
+43-4	_	makes	_	_	_	_
+43-5	_	the	_	_	_	_
+43-6	_	comment	_	_	_	_
+43-7	_	that	_	_	_	_
+43-8	_	“	_	_	_	_
+43-9	_	man	_	_	_	_
+43-10	_	to	_	_	_	_
+43-11	_	look	_	_	_	_
+43-12	_	at	_	_	_	_
+43-13	_	him	abstract[115]	new[115]	coref	43-18[115_116]
+43-14	_	,	_	_	_	_
+43-15	_	I	abstract[118]	new[118]	_	_
+43-16	_	would	_	_	_	_
+43-17	_	swear	_	_	_	_
+43-18	_	he	abstract[116]	new[116]	_	_
+43-19	_	’s	_	_	_	_
+43-20	_	being	_	_	_	_
+43-21	_	deceptive	_	_	_	_
+43-22	_	.	_	_	_	_
+43-23	_	”	_	_	_	_
+
+#Text=Well , first … the thumb tack trick does n't work …
+44-1	_	Well	_	_	_	_
+44-2	_	,	_	_	_	_
+44-3	_	first	_	_	_	_
+44-4	_	…	_	_	_	_
+44-5	_	the	abstract[119]	new[119]	coref	45-4[119_120]
+44-6	_	thumb	abstract[119]	new[119]	_	_
+44-7	_	tack	abstract[119]	new[119]	_	_
+44-8	_	trick	abstract[119]	new[119]	_	_
+44-9	_	does	_	_	_	_
+44-10	_	n't	_	_	_	_
+44-11	_	work	_	_	_	_
+44-12	_	…	_	_	_	_
+
+#Text=do n’t try it .
+45-1	_	do	_	_	_	_
+45-2	_	n’t	_	_	_	_
+45-3	_	try	_	_	_	_
+45-4	_	it	abstract[120]	new[120]	_	_
+45-5	_	.	_	_	_	_
+
+#Text=You ’ll end up with a hurt foot , and deception everywhere .
+46-1	_	You	abstract[26]	new[26]	coref	51-7[26_27]
+46-2	_	’ll	_	_	_	_
+46-3	_	end	_	_	_	_
+46-4	_	up	_	_	_	_
+46-5	_	with	_	_	_	_
+46-6	_	a	_	_	_	_
+46-7	_	hurt	_	_	_	_
+46-8	_	foot	_	_	_	_
+46-9	_	,	_	_	_	_
+46-10	_	and	_	_	_	_
+46-11	_	deception	_	_	_	_
+46-12	_	everywhere	_	_	_	_
+46-13	_	.	_	_	_	_
+
+#Text=Second , the human element will be sure to include any potential signs of deception .
+47-1	_	Second	_	_	_	_
+47-2	_	,	_	_	_	_
+47-3	_	the	_	_	_	_
+47-4	_	human	_	_	_	_
+47-5	_	element	_	_	_	_
+47-6	_	will	_	_	_	_
+47-7	_	be	_	_	_	_
+47-8	_	sure	_	_	_	_
+47-9	_	to	_	_	_	_
+47-10	_	include	_	_	_	_
+47-11	_	any	_	_	_	_
+47-12	_	potential	_	_	_	_
+47-13	_	signs	_	_	_	_
+47-14	_	of	_	_	_	_
+47-15	_	deception	_	_	_	_
+47-16	_	.	_	_	_	_
+
+#Text=Again , it is generally a bad idea to try and determine how to beat this test .
+48-1	_	Again	_	_	_	_
+48-2	_	,	_	_	_	_
+48-3	_	it	_	_	_	_
+48-4	_	is	_	_	_	_
+48-5	_	generally	_	_	_	_
+48-6	_	a	_	_	_	_
+48-7	_	bad	_	_	_	_
+48-8	_	idea	_	_	_	_
+48-9	_	to	_	_	_	_
+48-10	_	try	_	_	_	_
+48-11	_	and	_	_	_	_
+48-12	_	determine	_	_	_	_
+48-13	_	how	_	_	_	_
+48-14	_	to	_	_	_	_
+48-15	_	beat	_	_	_	_
+48-16	_	this	abstract[103]	new[103]	coref	51-15[103_104]
+48-17	_	test	abstract[103]	new[103]	_	_
+48-18	_	.	_	_	_	_
+
+#Text=Do n’t do it , just be honest through the process .
+49-1	_	Do	_	_	_	_
+49-2	_	n’t	_	_	_	_
+49-3	_	do	_	_	_	_
+49-4	_	it	_	_	_	_
+49-5	_	,	_	_	_	_
+49-6	_	just	_	_	_	_
+49-7	_	be	_	_	_	_
+49-8	_	honest	_	_	_	_
+49-9	_	through	_	_	_	_
+49-10	_	the	abstract[54]	new[54]	_	_
+49-11	_	process	abstract[54]	new[54]	_	_
+49-12	_	.	_	_	_	_
+
+#Text=Each step is there for a reason .
+50-1	_	Each	_	_	_	_
+50-2	_	step	_	_	_	_
+50-3	_	is	_	_	_	_
+50-4	_	there	_	_	_	_
+50-5	_	for	_	_	_	_
+50-6	_	a	_	_	_	_
+50-7	_	reason	_	_	_	_
+50-8	_	.	_	_	_	_
+
+#Text=Finally , and most importantly , you should know that everyone is intimidated by this step in the process .
+51-1	_	Finally	_	_	_	_
+51-2	_	,	_	_	_	_
+51-3	_	and	_	_	_	_
+51-4	_	most	_	_	_	_
+51-5	_	importantly	_	_	_	_
+51-6	_	,	_	_	_	_
+51-7	_	you	abstract[27]	new[27]	coref	52-1[27_28]
+51-8	_	should	_	_	_	_
+51-9	_	know	_	_	_	_
+51-10	_	that	_	_	_	_
+51-11	_	everyone	abstract[128]	new[128]	coref	54-12[128_129]
+51-12	_	is	_	_	_	_
+51-13	_	intimidated	_	_	_	_
+51-14	_	by	_	_	_	_
+51-15	_	this	abstract[104]	new[104]	_	_
+51-16	_	step	abstract[104]	new[104]	_	_
+51-17	_	in	abstract[104]	new[104]	_	_
+51-18	_	the	abstract[104]|abstract[123]	new[104]|new[123]	coref	54-9[123_124]
+51-19	_	process	abstract[104]|abstract[123]	new[104]|new[123]	_	_
+51-20	_	.	_	_	_	_
+
+#Text=You do n’t need to worry about nervousness tripping the machine or giving you a false indication of deception .
+52-1	_	You	abstract[28]	new[28]	coref	52-14[28_29]
+52-2	_	do	_	_	_	_
+52-3	_	n’t	_	_	_	_
+52-4	_	need	_	_	_	_
+52-5	_	to	_	_	_	_
+52-6	_	worry	_	_	_	_
+52-7	_	about	_	_	_	_
+52-8	_	nervousness	_	_	_	_
+52-9	_	tripping	_	_	_	_
+52-10	_	the	abstract[121]	new[121]	coref	53-2[121_122]
+52-11	_	machine	abstract[121]	new[121]	_	_
+52-12	_	or	_	_	_	_
+52-13	_	giving	_	_	_	_
+52-14	_	you	abstract[29]	new[29]	coref	55-1[29_30]
+52-15	_	a	_	_	_	_
+52-16	_	false	_	_	_	_
+52-17	_	indication	_	_	_	_
+52-18	_	of	_	_	_	_
+52-19	_	deception	_	_	_	_
+52-20	_	.	_	_	_	_
+
+#Text=If it did that just because people were nervous , then no one would ever pass these tests .
+53-1	_	If	_	_	_	_
+53-2	_	it	abstract[122]	new[122]	_	_
+53-3	_	did	_	_	_	_
+53-4	_	that	_	_	_	_
+53-5	_	just	_	_	_	_
+53-6	_	because	_	_	_	_
+53-7	_	people	_	_	_	_
+53-8	_	were	_	_	_	_
+53-9	_	nervous	_	_	_	_
+53-10	_	,	_	_	_	_
+53-11	_	then	_	_	_	_
+53-12	_	no	_	_	_	_
+53-13	_	one	_	_	_	_
+53-14	_	would	_	_	_	_
+53-15	_	ever	_	_	_	_
+53-16	_	pass	_	_	_	_
+53-17	_	these	_	_	_	_
+53-18	_	tests	_	_	_	_
+53-19	_	.	_	_	_	_
+
+#Text=The poly tends to be the part of the process that everyone dreads … and that really should n't be the case .
+54-1	_	The	abstract[134]	new[134]	coref	55-19[134_135]
+54-2	_	poly	abstract[134]	new[134]	_	_
+54-3	_	tends	_	_	_	_
+54-4	_	to	_	_	_	_
+54-5	_	be	_	_	_	_
+54-6	_	the	_	_	_	_
+54-7	_	part	_	_	_	_
+54-8	_	of	_	_	_	_
+54-9	_	the	abstract[124]	new[124]	coref	56-9[124_125]
+54-10	_	process	abstract[124]	new[124]	_	_
+54-11	_	that	_	_	_	_
+54-12	_	everyone	abstract[129]	new[129]	_	_
+54-13	_	dreads	_	_	_	_
+54-14	_	…	_	_	_	_
+54-15	_	and	_	_	_	_
+54-16	_	that	_	_	_	_
+54-17	_	really	_	_	_	_
+54-18	_	should	_	_	_	_
+54-19	_	n't	_	_	_	_
+54-20	_	be	_	_	_	_
+54-21	_	the	_	_	_	_
+54-22	_	case	_	_	_	_
+54-23	_	.	_	_	_	_
+
+#Text=You have already answered every question during your background investigation that they are going to ask you on the polygraph .
+55-1	_	You	abstract[30]	new[30]	coref	55-8[30_31]
+55-2	_	have	_	_	_	_
+55-3	_	already	_	_	_	_
+55-4	_	answered	_	_	_	_
+55-5	_	every	abstract[131]	new[131]	coref	60-5[131_132]
+55-6	_	question	abstract[131]	new[131]	_	_
+55-7	_	during	abstract[131]	new[131]	_	_
+55-8	_	your	abstract[31]|abstract[131]	new[31]|new[131]	coref	55-17[31_32]
+55-9	_	background	abstract[131]	new[131]	_	_
+55-10	_	investigation	abstract[131]	new[131]	_	_
+55-11	_	that	abstract[131]	new[131]	_	_
+55-12	_	they	abstract[100]|abstract[131]	new[100]|new[131]	_	_
+55-13	_	are	abstract[131]	new[131]	_	_
+55-14	_	going	abstract[131]	new[131]	_	_
+55-15	_	to	abstract[131]	new[131]	_	_
+55-16	_	ask	abstract[131]	new[131]	_	_
+55-17	_	you	abstract[32]|abstract[131]	new[32]|new[131]	coref	56-12[32_33]
+55-18	_	on	abstract[131]	new[131]	_	_
+55-19	_	the	abstract[131]|abstract[135]	new[131]|new[135]	coref	56-6[135_136]
+55-20	_	polygraph	abstract[131]|abstract[135]	new[131]|new[135]	_	_
+55-21	_	.	_	_	_	_
+
+#Text=Be honest and thorough during that portion of the process and you ’ll be fine .
+56-1	_	Be	_	_	_	_
+56-2	_	honest	_	_	_	_
+56-3	_	and	_	_	_	_
+56-4	_	thorough	_	_	_	_
+56-5	_	during	_	_	_	_
+56-6	_	that	abstract[136]	new[136]	_	_
+56-7	_	portion	abstract[136]	new[136]	_	_
+56-8	_	of	abstract[136]	new[136]	_	_
+56-9	_	the	abstract[125]|abstract[136]	new[125]|new[136]	coref	58-10[125_126]
+56-10	_	process	abstract[125]|abstract[136]	new[125]|new[136]	_	_
+56-11	_	and	_	_	_	_
+56-12	_	you	abstract[33]	new[33]	coref	60-1[33_34]
+56-13	_	’ll	_	_	_	_
+56-14	_	be	_	_	_	_
+56-15	_	fine	_	_	_	_
+56-16	_	.	_	_	_	_
+
+#Text=I hope this has illuminated the polygraph a bit .
+57-1	_	I	abstract[59]	new[59]	coref	58-13[59_60]
+57-2	_	hope	_	_	_	_
+57-3	_	this	abstract[142]	new[142]	coref	62-9[142_143]
+57-4	_	has	_	_	_	_
+57-5	_	illuminated	_	_	_	_
+57-6	_	the	abstract[137]	new[137]	coref	58-1[137_138]
+57-7	_	polygraph	abstract[137]	new[137]	_	_
+57-8	_	a	_	_	_	_
+57-9	_	bit	_	_	_	_
+57-10	_	.	_	_	_	_
+
+#Text=It ’s one of the more intimidating portions of the process , I understand this .
+58-1	_	It	abstract[138]	new[138]	coref	59-1[138_139]
+58-2	_	’s	_	_	_	_
+58-3	_	one	_	_	_	_
+58-4	_	of	_	_	_	_
+58-5	_	the	_	_	_	_
+58-6	_	more	_	_	_	_
+58-7	_	intimidating	_	_	_	_
+58-8	_	portions	_	_	_	_
+58-9	_	of	_	_	_	_
+58-10	_	the	abstract[126]	new[126]	coref	64-22[126_127]
+58-11	_	process	abstract[126]	new[126]	_	_
+58-12	_	,	_	_	_	_
+58-13	_	I	abstract[60]	new[60]	coref	62-20[60_61]
+58-14	_	understand	_	_	_	_
+58-15	_	this	abstract[140]	new[140]	coref	61-1[140_141]
+58-16	_	.	_	_	_	_
+
+#Text=It should be the easiest part though .
+59-1	_	It	abstract[139]	new[139]	_	_
+59-2	_	should	_	_	_	_
+59-3	_	be	_	_	_	_
+59-4	_	the	_	_	_	_
+59-5	_	easiest	_	_	_	_
+59-6	_	part	_	_	_	_
+59-7	_	though	_	_	_	_
+59-8	_	.	_	_	_	_
+
+#Text=You 've already answered these questions , some of them several times .
+60-1	_	You	abstract[34]	new[34]	coref	62-2[34_35]
+60-2	_	've	_	_	_	_
+60-3	_	already	_	_	_	_
+60-4	_	answered	_	_	_	_
+60-5	_	these	abstract[132]	new[132]	coref	60-10[132_133]
+60-6	_	questions	abstract[132]	new[132]	_	_
+60-7	_	,	_	_	_	_
+60-8	_	some	_	_	_	_
+60-9	_	of	_	_	_	_
+60-10	_	them	abstract[133]	new[133]	_	_
+60-11	_	several	_	_	_	_
+60-12	_	times	_	_	_	_
+60-13	_	.	_	_	_	_
+
+#Text=This should just be about verifying what we already know .
+61-1	_	This	abstract[141]	new[141]	_	_
+61-2	_	should	_	_	_	_
+61-3	_	just	_	_	_	_
+61-4	_	be	_	_	_	_
+61-5	_	about	_	_	_	_
+61-6	_	verifying	_	_	_	_
+61-7	_	what	_	_	_	_
+61-8	_	we	_	_	_	_
+61-9	_	already	_	_	_	_
+61-10	_	know	_	_	_	_
+61-11	_	.	_	_	_	_
+
+#Text=Thank you for taking the time to read this , should you have any questions feel free to PM me .
+62-1	_	Thank	_	_	_	_
+62-2	_	you	abstract[35]	new[35]	coref	62-12[35_36]
+62-3	_	for	_	_	_	_
+62-4	_	taking	_	_	_	_
+62-5	_	the	_	_	_	_
+62-6	_	time	_	_	_	_
+62-7	_	to	_	_	_	_
+62-8	_	read	_	_	_	_
+62-9	_	this	abstract[143]	new[143]	_	_
+62-10	_	,	_	_	_	_
+62-11	_	should	_	_	_	_
+62-12	_	you	abstract[36]	new[36]	coref	64-18[36_37]
+62-13	_	have	_	_	_	_
+62-14	_	any	_	_	_	_
+62-15	_	questions	_	_	_	_
+62-16	_	feel	_	_	_	_
+62-17	_	free	_	_	_	_
+62-18	_	to	_	_	_	_
+62-19	_	PM	_	_	_	_
+62-20	_	me	abstract[61]	new[61]	coref	63-1[61_62]
+62-21	_	.	_	_	_	_
+
+#Text=I ’m also taking requests for the next edition in this series .
+63-1	_	I	abstract[62]	new[62]	coref	64-1[62_63]
+63-2	_	’m	_	_	_	_
+63-3	_	also	_	_	_	_
+63-4	_	taking	_	_	_	_
+63-5	_	requests	_	_	_	_
+63-6	_	for	_	_	_	_
+63-7	_	the	_	_	_	_
+63-8	_	next	_	_	_	_
+63-9	_	edition	_	_	_	_
+63-10	_	in	_	_	_	_
+63-11	_	this	_	_	_	_
+63-12	_	series	_	_	_	_
+63-13	_	.	_	_	_	_
+
+#Text=I was leaning towards interviews , but that may require some separation as there are several formats you ’ll see in this kind of a process .
+64-1	_	I	abstract[63]	new[63]	coref	65-1[63_64]
+64-2	_	was	_	_	_	_
+64-3	_	leaning	_	_	_	_
+64-4	_	towards	_	_	_	_
+64-5	_	interviews	abstract[144]	new[144]	coref	64-8[144_145]
+64-6	_	,	_	_	_	_
+64-7	_	but	_	_	_	_
+64-8	_	that	abstract[145]	new[145]	_	_
+64-9	_	may	_	_	_	_
+64-10	_	require	_	_	_	_
+64-11	_	some	_	_	_	_
+64-12	_	separation	_	_	_	_
+64-13	_	as	_	_	_	_
+64-14	_	there	_	_	_	_
+64-15	_	are	_	_	_	_
+64-16	_	several	_	_	_	_
+64-17	_	formats	_	_	_	_
+64-18	_	you	abstract[37]	new[37]	coref	66-9[37_38]
+64-19	_	’ll	_	_	_	_
+64-20	_	see	_	_	_	_
+64-21	_	in	_	_	_	_
+64-22	_	this	abstract[127]	new[127]	_	_
+64-23	_	kind	abstract[127]	new[127]	_	_
+64-24	_	of	abstract[127]	new[127]	_	_
+64-25	_	a	abstract[127]	new[127]	_	_
+64-26	_	process	abstract[127]	new[127]	_	_
+64-27	_	.	_	_	_	_
+
+#Text=I 've also seen questions about the psychological evals before too .
+65-1	_	I	abstract[64]	new[64]	_	_
+65-2	_	've	_	_	_	_
+65-3	_	also	_	_	_	_
+65-4	_	seen	_	_	_	_
+65-5	_	questions	_	_	_	_
+65-6	_	about	_	_	_	_
+65-7	_	the	_	_	_	_
+65-8	_	psychological	_	_	_	_
+65-9	_	evals	_	_	_	_
+65-10	_	before	_	_	_	_
+65-11	_	too	_	_	_	_
+65-12	_	.	_	_	_	_
+
+#Text=A good guide to how to date if you are an introvert is you do n't want to live off this perception .
+66-1	_	A	_	_	_	_
+66-2	_	good	_	_	_	_
+66-3	_	guide	_	_	_	_
+66-4	_	to	_	_	_	_
+66-5	_	how	_	_	_	_
+66-6	_	to	_	_	_	_
+66-7	_	date	_	_	_	_
+66-8	_	if	_	_	_	_
+66-9	_	you	abstract[38]	new[38]	coref	66-14[38_39]
+66-10	_	are	_	_	_	_
+66-11	_	an	_	_	_	_
+66-12	_	introvert	_	_	_	_
+66-13	_	is	_	_	_	_
+66-14	_	you	abstract[39]	new[39]	_	_
+66-15	_	do	_	_	_	_
+66-16	_	n't	_	_	_	_
+66-17	_	want	_	_	_	_
+66-18	_	to	_	_	_	_
+66-19	_	live	_	_	_	_
+66-20	_	off	_	_	_	_
+66-21	_	this	_	_	_	_
+66-22	_	perception	_	_	_	_
+66-23	_	.	_	_	_	_
+

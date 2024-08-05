@@ -1,0 +1,1241 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=BDSM as business : An interview with the owners of a dungeon
+1-1	_	BDSM	abstract[5]	new[5]	coref	7-4[5_6]
+1-2	_	as	_	_	_	_
+1-3	_	business	abstract[3]	new[3]	coref	6-6[3_4]
+1-4	_	:	_	_	_	_
+1-5	_	An	_	_	_	_
+1-6	_	interview	_	_	_	_
+1-7	_	with	_	_	_	_
+1-8	_	the	_	_	_	_
+1-9	_	owners	_	_	_	_
+1-10	_	of	_	_	_	_
+1-11	_	a	abstract[1]	new[1]	coref	3-2[1_2]
+1-12	_	dungeon	abstract[1]	new[1]	_	_
+
+#Text=Sunday , October 21 , 2007
+2-1	_	Sunday	_	_	_	_
+2-2	_	,	_	_	_	_
+2-3	_	October	_	_	_	_
+2-4	_	21	_	_	_	_
+2-5	_	,	_	_	_	_
+2-6	_	2007	_	_	_	_
+
+#Text=Operating the business
+3-1	_	Operating	_	_	_	_
+3-2	_	the	abstract[2]	new[2]	_	_
+3-3	_	business	abstract[2]	new[2]	_	_
+
+#Text=The costs
+4-1	_	The	_	_	_	_
+4-2	_	costs	_	_	_	_
+
+#Text=Clothing supply closet .
+5-1	_	Clothing	_	_	_	_
+5-2	_	supply	_	_	_	_
+5-3	_	closet	_	_	_	_
+5-4	_	.	_	_	_	_
+
+#Text=There 's a misconception in this industry .
+6-1	_	There	_	_	_	_
+6-2	_	's	_	_	_	_
+6-3	_	a	_	_	_	_
+6-4	_	misconception	_	_	_	_
+6-5	_	in	_	_	_	_
+6-6	_	this	abstract[4]	new[4]	_	_
+6-7	_	industry	abstract[4]	new[4]	_	_
+6-8	_	.	_	_	_	_
+
+#Text=Your exposure to this is probably primarily what you see in movies , scanning magazines , scanning the Internet , just snippets everywhere .
+7-1	_	Your	abstract[12]	new[12]	coref	15-7[12_13]
+7-2	_	exposure	_	_	_	_
+7-3	_	to	_	_	_	_
+7-4	_	this	abstract[6]	new[6]	coref	8-1[6_7]
+7-5	_	is	_	_	_	_
+7-6	_	probably	_	_	_	_
+7-7	_	primarily	_	_	_	_
+7-8	_	what	_	_	_	_
+7-9	_	you	_	_	_	_
+7-10	_	see	_	_	_	_
+7-11	_	in	_	_	_	_
+7-12	_	movies	_	_	_	_
+7-13	_	,	_	_	_	_
+7-14	_	scanning	_	_	_	_
+7-15	_	magazines	_	_	_	_
+7-16	_	,	_	_	_	_
+7-17	_	scanning	_	_	_	_
+7-18	_	the	abstract[107]	new[107]	coref	33-4[107_108]
+7-19	_	Internet	abstract[107]	new[107]	_	_
+7-20	_	,	_	_	_	_
+7-21	_	just	_	_	_	_
+7-22	_	snippets	_	_	_	_
+7-23	_	everywhere	_	_	_	_
+7-24	_	.	_	_	_	_
+
+#Text=It 's portrayed as though it 's dark , black and evil .
+8-1	_	It	abstract[7]	new[7]	coref	8-6[7_8]
+8-2	_	's	_	_	_	_
+8-3	_	portrayed	_	_	_	_
+8-4	_	as	_	_	_	_
+8-5	_	though	_	_	_	_
+8-6	_	it	abstract[8]	new[8]	coref	13-1[8_9]
+8-7	_	's	_	_	_	_
+8-8	_	dark	abstract[10]	new[10]	coref	13-5[10_11]
+8-9	_	,	abstract[10]	new[10]	_	_
+8-10	_	black	abstract[10]	new[10]	_	_
+8-11	_	and	abstract[10]	new[10]	_	_
+8-12	_	evil	abstract[10]	new[10]	_	_
+8-13	_	.	_	_	_	_
+
+#Text=And --
+9-1	_	And	_	_	_	_
+9-2	_	--	_	_	_	_
+
+#Text=Oh man , well ?
+10-1	_	Oh	_	_	_	_
+10-2	_	man	_	_	_	_
+10-3	_	,	_	_	_	_
+10-4	_	well	_	_	_	_
+10-5	_	?	_	_	_	_
+
+#Text=What 's up ?
+11-1	_	What	_	_	_	_
+11-2	_	's	_	_	_	_
+11-3	_	up	_	_	_	_
+11-4	_	?	_	_	_	_
+
+#Text=I do wear a lot of black .
+12-1	_	I	abstract[30]	new[30]	coref	17-1[30_31]
+12-2	_	do	_	_	_	_
+12-3	_	wear	_	_	_	_
+12-4	_	a	_	_	_	_
+12-5	_	lot	_	_	_	_
+12-6	_	of	_	_	_	_
+12-7	_	black	_	_	_	_
+12-8	_	.	_	_	_	_
+
+#Text=It 's anything but that .
+13-1	_	It	abstract[9]	new[9]	_	_
+13-2	_	's	_	_	_	_
+13-3	_	anything	_	_	_	_
+13-4	_	but	_	_	_	_
+13-5	_	that	abstract[11]	new[11]	_	_
+13-6	_	.	_	_	_	_
+
+#Text=If you look at the rooms , there 's all the accouterments you 'd find in these types of places -- but more than anything , there 's a lot of good feeling around here .
+14-1	_	If	_	_	_	_
+14-2	_	you	_	_	_	_
+14-3	_	look	_	_	_	_
+14-4	_	at	_	_	_	_
+14-5	_	the	_	_	_	_
+14-6	_	rooms	_	_	_	_
+14-7	_	,	_	_	_	_
+14-8	_	there	_	_	_	_
+14-9	_	's	_	_	_	_
+14-10	_	all	_	_	_	_
+14-11	_	the	_	_	_	_
+14-12	_	accouterments	_	_	_	_
+14-13	_	you	_	_	_	_
+14-14	_	'd	_	_	_	_
+14-15	_	find	_	_	_	_
+14-16	_	in	_	_	_	_
+14-17	_	these	_	_	_	_
+14-18	_	types	_	_	_	_
+14-19	_	of	_	_	_	_
+14-20	_	places	_	_	_	_
+14-21	_	--	_	_	_	_
+14-22	_	but	_	_	_	_
+14-23	_	more	_	_	_	_
+14-24	_	than	_	_	_	_
+14-25	_	anything	_	_	_	_
+14-26	_	,	_	_	_	_
+14-27	_	there	_	_	_	_
+14-28	_	's	_	_	_	_
+14-29	_	a	_	_	_	_
+14-30	_	lot	_	_	_	_
+14-31	_	of	_	_	_	_
+14-32	_	good	_	_	_	_
+14-33	_	feeling	_	_	_	_
+14-34	_	around	_	_	_	_
+14-35	_	here	_	_	_	_
+14-36	_	.	_	_	_	_
+
+#Text=We hire the opposite of what you 'd think we would hire , what the average person would think we would hire .
+15-1	_	We	abstract[14]	new[14]	coref	15-10[14_15]
+15-2	_	hire	_	_	_	_
+15-3	_	the	_	_	_	_
+15-4	_	opposite	_	_	_	_
+15-5	_	of	_	_	_	_
+15-6	_	what	_	_	_	_
+15-7	_	you	abstract[13]	new[13]	_	_
+15-8	_	'd	_	_	_	_
+15-9	_	think	_	_	_	_
+15-10	_	we	abstract[15]	new[15]	coref	15-20[15_16]
+15-11	_	would	_	_	_	_
+15-12	_	hire	_	_	_	_
+15-13	_	,	_	_	_	_
+15-14	_	what	_	_	_	_
+15-15	_	the	_	_	_	_
+15-16	_	average	_	_	_	_
+15-17	_	person	_	_	_	_
+15-18	_	would	_	_	_	_
+15-19	_	think	_	_	_	_
+15-20	_	we	abstract[16]	new[16]	coref	16-1[16_17]
+15-21	_	would	_	_	_	_
+15-22	_	hire	_	_	_	_
+15-23	_	.	_	_	_	_
+
+#Text=We hire educated , nice people .
+16-1	_	We	abstract[17]	new[17]	coref	17-5[17_18]
+16-2	_	hire	_	_	_	_
+16-3	_	educated	_	_	_	_
+16-4	_	,	_	_	_	_
+16-5	_	nice	_	_	_	_
+16-6	_	people	_	_	_	_
+16-7	_	.	_	_	_	_
+
+#Text=I remember one of our ads that I had put in said , " If you think nice girls do n't do S&M , " -- I forgot what the rest of it said --
+17-1	_	I	abstract[31]	new[31]	coref	17-8[31_32]
+17-2	_	remember	_	_	_	_
+17-3	_	one	abstract[48]	new[48]	coref	17-33[48_49]
+17-4	_	of	abstract[48]	new[48]	_	_
+17-5	_	our	abstract[18]|abstract[48]	new[18]|new[48]	coref	27-3[18_19]
+17-6	_	ads	abstract[48]	new[48]	_	_
+17-7	_	that	abstract[48]	new[48]	_	_
+17-8	_	I	abstract[32]|abstract[48]	new[32]|new[48]	coref	17-27[32_33]
+17-9	_	had	abstract[48]	new[48]	_	_
+17-10	_	put	abstract[48]	new[48]	_	_
+17-11	_	in	abstract[48]	new[48]	_	_
+17-12	_	said	_	_	_	_
+17-13	_	,	_	_	_	_
+17-14	_	"	_	_	_	_
+17-15	_	If	_	_	_	_
+17-16	_	you	_	_	_	_
+17-17	_	think	_	_	_	_
+17-18	_	nice	_	_	_	_
+17-19	_	girls	_	_	_	_
+17-20	_	do	_	_	_	_
+17-21	_	n't	_	_	_	_
+17-22	_	do	_	_	_	_
+17-23	_	S&M	abstract[55]	new[55]	coref	20-24[55_56]
+17-24	_	,	_	_	_	_
+17-25	_	"	_	_	_	_
+17-26	_	--	_	_	_	_
+17-27	_	I	abstract[33]	new[33]	coref	20-13[33_34]
+17-28	_	forgot	_	_	_	_
+17-29	_	what	_	_	_	_
+17-30	_	the	_	_	_	_
+17-31	_	rest	_	_	_	_
+17-32	_	of	_	_	_	_
+17-33	_	it	abstract[49]	new[49]	coref	20-2[49_50]
+17-34	_	said	_	_	_	_
+17-35	_	--	_	_	_	_
+
+#Text=" -- think again . "
+18-1	_	"	_	_	_	_
+18-2	_	--	_	_	_	_
+18-3	_	think	_	_	_	_
+18-4	_	again	_	_	_	_
+18-5	_	.	_	_	_	_
+18-6	_	"	_	_	_	_
+
+#Text=Yeah , " think again " or something like that .
+19-1	_	Yeah	_	_	_	_
+19-2	_	,	_	_	_	_
+19-3	_	"	_	_	_	_
+19-4	_	think	_	_	_	_
+19-5	_	again	_	_	_	_
+19-6	_	"	_	_	_	_
+19-7	_	or	_	_	_	_
+19-8	_	something	_	_	_	_
+19-9	_	like	_	_	_	_
+19-10	_	that	_	_	_	_
+19-11	_	.	_	_	_	_
+
+#Text=And that ad had pulled so many girls , because they -- I think they all thought that nice girls do n't do this .
+20-1	_	And	_	_	_	_
+20-2	_	that	abstract[50]	new[50]	coref	22-14[50_51]
+20-3	_	ad	abstract[50]	new[50]	_	_
+20-4	_	had	_	_	_	_
+20-5	_	pulled	_	_	_	_
+20-6	_	so	abstract[52]	new[52]	coref	20-11[52_53]
+20-7	_	many	abstract[52]	new[52]	_	_
+20-8	_	girls	abstract[52]	new[52]	_	_
+20-9	_	,	_	_	_	_
+20-10	_	because	_	_	_	_
+20-11	_	they	abstract[53]	new[53]	coref	20-15[53_54]
+20-12	_	--	_	_	_	_
+20-13	_	I	abstract[34]	new[34]	coref	22-2[34_35]
+20-14	_	think	_	_	_	_
+20-15	_	they	abstract[54]	new[54]	_	_
+20-16	_	all	abstract[54]	new[54]	_	_
+20-17	_	thought	_	_	_	_
+20-18	_	that	_	_	_	_
+20-19	_	nice	_	_	_	_
+20-20	_	girls	_	_	_	_
+20-21	_	do	_	_	_	_
+20-22	_	n't	_	_	_	_
+20-23	_	do	_	_	_	_
+20-24	_	this	abstract[56]	new[56]	_	_
+20-25	_	.	_	_	_	_
+
+#Text=And a bunch of them had called and they said , " Wow . "
+21-1	_	And	_	_	_	_
+21-2	_	a	abstract[57]	new[57]	coref	21-9[57_58]
+21-3	_	bunch	abstract[57]	new[57]	_	_
+21-4	_	of	abstract[57]	new[57]	_	_
+21-5	_	them	abstract[57]	new[57]	_	_
+21-6	_	had	_	_	_	_
+21-7	_	called	_	_	_	_
+21-8	_	and	_	_	_	_
+21-9	_	they	abstract[58]	new[58]	_	_
+21-10	_	said	_	_	_	_
+21-11	_	,	_	_	_	_
+21-12	_	"	_	_	_	_
+21-13	_	Wow	_	_	_	_
+21-14	_	.	_	_	_	_
+21-15	_	"	_	_	_	_
+
+#Text=And I think I remember , a bunch of guys called because of that also .
+22-1	_	And	_	_	_	_
+22-2	_	I	abstract[35]	new[35]	coref	22-4[35_36]
+22-3	_	think	_	_	_	_
+22-4	_	I	abstract[36]	new[36]	coref	31-22[36_37]
+22-5	_	remember	_	_	_	_
+22-6	_	,	_	_	_	_
+22-7	_	a	_	_	_	_
+22-8	_	bunch	_	_	_	_
+22-9	_	of	_	_	_	_
+22-10	_	guys	_	_	_	_
+22-11	_	called	_	_	_	_
+22-12	_	because	_	_	_	_
+22-13	_	of	_	_	_	_
+22-14	_	that	abstract[51]	new[51]	_	_
+22-15	_	also	_	_	_	_
+22-16	_	.	_	_	_	_
+
+#Text=Do you remember ?
+23-1	_	Do	_	_	_	_
+23-2	_	you	abstract[59]	new[59]	coref	24-1[59_60]
+23-3	_	remember	_	_	_	_
+23-4	_	?	_	_	_	_
+
+#Text=I sure do , I sure do .
+24-1	_	I	abstract[60]	new[60]	coref	24-5[60_61]
+24-2	_	sure	_	_	_	_
+24-3	_	do	_	_	_	_
+24-4	_	,	_	_	_	_
+24-5	_	I	abstract[61]	new[61]	coref	31-22[61_62]
+24-6	_	sure	_	_	_	_
+24-7	_	do	_	_	_	_
+24-8	_	.	_	_	_	_
+
+#Text=What are the startup costs involved ?
+25-1	_	What	_	_	_	_
+25-2	_	are	_	_	_	_
+25-3	_	the	abstract[99]	new[99]	coref	26-1[99_100]
+25-4	_	startup	abstract[99]	new[99]	_	_
+25-5	_	costs	abstract[99]	new[99]	_	_
+25-6	_	involved	_	_	_	_
+25-7	_	?	_	_	_	_
+
+#Text=It varies ; look around Manhattan , look around rents , look around build-outs , look around hiring , look around advertising ...
+26-1	_	It	abstract[100]	new[100]	_	_
+26-2	_	varies	_	_	_	_
+26-3	_	;	_	_	_	_
+26-4	_	look	_	_	_	_
+26-5	_	around	_	_	_	_
+26-6	_	Manhattan	_	_	_	_
+26-7	_	,	_	_	_	_
+26-8	_	look	_	_	_	_
+26-9	_	around	_	_	_	_
+26-10	_	rents	_	_	_	_
+26-11	_	,	_	_	_	_
+26-12	_	look	_	_	_	_
+26-13	_	around	_	_	_	_
+26-14	_	build-outs	_	_	_	_
+26-15	_	,	_	_	_	_
+26-16	_	look	_	_	_	_
+26-17	_	around	_	_	_	_
+26-18	_	hiring	_	_	_	_
+26-19	_	,	_	_	_	_
+26-20	_	look	_	_	_	_
+26-21	_	around	_	_	_	_
+26-22	_	advertising	_	_	_	_
+26-23	_	...	_	_	_	_
+
+#Text=What 's your greatest non-fixed cost ?
+27-1	_	What	_	_	_	_
+27-2	_	's	_	_	_	_
+27-3	_	your	abstract[19]|abstract[101]	new[19]|new[101]	coref|coref	28-6[19_20]|28-1[101_102]
+27-4	_	greatest	abstract[101]	new[101]	_	_
+27-5	_	non-fixed	abstract[101]	new[101]	_	_
+27-6	_	cost	abstract[101]	new[101]	_	_
+27-7	_	?	_	_	_	_
+
+#Text=The single most costly thing we spend on is rent and advertising , those two together make up the bulk of what we spend .
+28-1	_	The	abstract[102]	new[102]	coref	28-14[102_103]
+28-2	_	single	abstract[102]	new[102]	_	_
+28-3	_	most	abstract[102]	new[102]	_	_
+28-4	_	costly	abstract[102]	new[102]	_	_
+28-5	_	thing	abstract[102]	new[102]	_	_
+28-6	_	we	abstract[20]|abstract[102]	new[20]|new[102]	coref	28-23[20_21]
+28-7	_	spend	abstract[102]	new[102]	_	_
+28-8	_	on	abstract[102]	new[102]	_	_
+28-9	_	is	_	_	_	_
+28-10	_	rent	_	_	_	_
+28-11	_	and	_	_	_	_
+28-12	_	advertising	_	_	_	_
+28-13	_	,	_	_	_	_
+28-14	_	those	abstract[103]	new[103]	coref	28-19[103_104]
+28-15	_	two	abstract[103]	new[103]	_	_
+28-16	_	together	abstract[103]	new[103]	_	_
+28-17	_	make	_	_	_	_
+28-18	_	up	_	_	_	_
+28-19	_	the	abstract[104]	new[104]	_	_
+28-20	_	bulk	abstract[104]	new[104]	_	_
+28-21	_	of	abstract[104]	new[104]	_	_
+28-22	_	what	abstract[104]	new[104]	_	_
+28-23	_	we	abstract[21]|abstract[104]	new[21]|new[104]	coref	32-3[21_22]
+28-24	_	spend	abstract[104]	new[104]	_	_
+28-25	_	.	_	_	_	_
+
+#Text=There 's supplies , and there 's wear and tear and maintenance , and bookkeeping and things like that that you have to do .
+29-1	_	There	_	_	_	_
+29-2	_	's	_	_	_	_
+29-3	_	supplies	_	_	_	_
+29-4	_	,	_	_	_	_
+29-5	_	and	_	_	_	_
+29-6	_	there	_	_	_	_
+29-7	_	's	_	_	_	_
+29-8	_	wear	_	_	_	_
+29-9	_	and	_	_	_	_
+29-10	_	tear	_	_	_	_
+29-11	_	and	_	_	_	_
+29-12	_	maintenance	_	_	_	_
+29-13	_	,	_	_	_	_
+29-14	_	and	_	_	_	_
+29-15	_	bookkeeping	abstract[105]	new[105]	coref	29-19[105_106]
+29-16	_	and	_	_	_	_
+29-17	_	things	_	_	_	_
+29-18	_	like	_	_	_	_
+29-19	_	that	abstract[106]	new[106]	_	_
+29-20	_	that	_	_	_	_
+29-21	_	you	_	_	_	_
+29-22	_	have	_	_	_	_
+29-23	_	to	_	_	_	_
+29-24	_	do	_	_	_	_
+29-25	_	.	_	_	_	_
+
+#Text=That 's about it .
+30-1	_	That	_	_	_	_
+30-2	_	's	_	_	_	_
+30-3	_	about	_	_	_	_
+30-4	_	it	_	_	_	_
+30-5	_	.	_	_	_	_
+
+#Text=The hardest thing in running this business , which is why people ca n't do it , is the relationship that my wife has with the gals and with the customers .
+31-1	_	The	_	_	_	_
+31-2	_	hardest	_	_	_	_
+31-3	_	thing	_	_	_	_
+31-4	_	in	_	_	_	_
+31-5	_	running	_	_	_	_
+31-6	_	this	_	_	_	_
+31-7	_	business	_	_	_	_
+31-8	_	,	_	_	_	_
+31-9	_	which	_	_	_	_
+31-10	_	is	_	_	_	_
+31-11	_	why	_	_	_	_
+31-12	_	people	_	_	_	_
+31-13	_	ca	_	_	_	_
+31-14	_	n't	_	_	_	_
+31-15	_	do	_	_	_	_
+31-16	_	it	_	_	_	_
+31-17	_	,	_	_	_	_
+31-18	_	is	_	_	_	_
+31-19	_	the	_	_	_	_
+31-20	_	relationship	_	_	_	_
+31-21	_	that	_	_	_	_
+31-22	_	my	abstract[37]|abstract[62]	new[37]|new[62]	coref|coref	47-1[37_38]|46-1[62_63]
+31-23	_	wife	abstract[37]	new[37]	_	_
+31-24	_	has	_	_	_	_
+31-25	_	with	_	_	_	_
+31-26	_	the	_	_	_	_
+31-27	_	gals	_	_	_	_
+31-28	_	and	_	_	_	_
+31-29	_	with	_	_	_	_
+31-30	_	the	_	_	_	_
+31-31	_	customers	_	_	_	_
+31-32	_	.	_	_	_	_
+
+#Text=Where do you advertise ?
+32-1	_	Where	_	_	_	_
+32-2	_	do	_	_	_	_
+32-3	_	you	abstract[22]	new[22]	coref	33-7[22_23]
+32-4	_	advertise	_	_	_	_
+32-5	_	?	_	_	_	_
+
+#Text=A lot on the web , we 've used most of the local city papers , New York Press , things like that , L Magazine .
+33-1	_	A	_	_	_	_
+33-2	_	lot	_	_	_	_
+33-3	_	on	_	_	_	_
+33-4	_	the	abstract[108]	new[108]	coref	42-6[108_109]
+33-5	_	web	abstract[108]	new[108]	_	_
+33-6	_	,	_	_	_	_
+33-7	_	we	abstract[23]	new[23]	coref	39-8[23_24]
+33-8	_	've	_	_	_	_
+33-9	_	used	_	_	_	_
+33-10	_	most	_	_	_	_
+33-11	_	of	_	_	_	_
+33-12	_	the	_	_	_	_
+33-13	_	local	_	_	_	_
+33-14	_	city	_	_	_	_
+33-15	_	papers	_	_	_	_
+33-16	_	,	_	_	_	_
+33-17	_	New	abstract[111]	new[111]	coref	33-23[111_112]
+33-18	_	York	abstract[111]	new[111]	_	_
+33-19	_	Press	abstract[111]	new[111]	_	_
+33-20	_	,	_	_	_	_
+33-21	_	things	_	_	_	_
+33-22	_	like	_	_	_	_
+33-23	_	that	abstract[112]	new[112]	coref	39-13[112_113]
+33-24	_	,	_	_	_	_
+33-25	_	L	_	_	_	_
+33-26	_	Magazine	_	_	_	_
+33-27	_	.	_	_	_	_
+
+#Text=In the back of the paper ?
+34-1	_	In	_	_	_	_
+34-2	_	the	abstract[115]	new[115]	coref	35-3[115_116]
+34-3	_	back	abstract[115]	new[115]	_	_
+34-4	_	of	abstract[115]	new[115]	_	_
+34-5	_	the	abstract[115]|abstract[117]	new[115]|new[117]	coref	35-6[117_118]
+34-6	_	paper	abstract[115]|abstract[117]	new[115]|new[117]	_	_
+34-7	_	?	_	_	_	_
+
+#Text=Typically in the back of the paper .
+35-1	_	Typically	_	_	_	_
+35-2	_	in	_	_	_	_
+35-3	_	the	abstract[116]	new[116]	_	_
+35-4	_	back	abstract[116]	new[116]	_	_
+35-5	_	of	abstract[116]	new[116]	_	_
+35-6	_	the	abstract[116]|abstract[118]	new[116]|new[118]	coref	38-4[118_119]
+35-7	_	paper	abstract[116]|abstract[118]	new[116]|new[118]	_	_
+35-8	_	.	_	_	_	_
+
+#Text=Magazines constantly change their policy on it ; they want it , they do n't want it ...
+36-1	_	Magazines	abstract[121]	new[121]	coref	36-5[121_122]
+36-2	_	constantly	_	_	_	_
+36-3	_	change	_	_	_	_
+36-4	_	their	abstract[122]|abstract[128]	new[122]|new[128]	coref|coref	36-10[122_123]|39-2[128_129]
+36-5	_	policy	abstract[128]	new[128]	_	_
+36-6	_	on	abstract[128]	new[128]	_	_
+36-7	_	it	abstract[125]|abstract[128]	new[125]|new[128]	coref	36-12[125_126]
+36-8	_	;	_	_	_	_
+36-9	_	they	abstract[123]	new[123]	coref	36-14[123_124]
+36-10	_	want	_	_	_	_
+36-11	_	it	abstract[126]	new[126]	coref	36-18[126_127]
+36-12	_	,	_	_	_	_
+36-13	_	they	abstract[124]	new[124]	_	_
+36-14	_	do	_	_	_	_
+36-15	_	n't	_	_	_	_
+36-16	_	want	_	_	_	_
+36-17	_	it	abstract[127]	new[127]	_	_
+36-18	_	...	_	_	_	_
+
+#Text=Depending on the election year --
+37-1	_	Depending	_	_	_	_
+37-2	_	on	_	_	_	_
+37-3	_	the	_	_	_	_
+37-4	_	election	_	_	_	_
+37-5	_	year	_	_	_	_
+37-6	_	--	_	_	_	_
+
+#Text=Who 's buying the paper , who 's selling the paper .
+38-1	_	Who	_	_	_	_
+38-2	_	's	_	_	_	_
+38-3	_	buying	_	_	_	_
+38-4	_	the	abstract[119]	new[119]	coref	38-10[119_120]
+38-5	_	paper	abstract[119]	new[119]	_	_
+38-6	_	,	_	_	_	_
+38-7	_	who	_	_	_	_
+38-8	_	's	_	_	_	_
+38-9	_	selling	_	_	_	_
+38-10	_	the	abstract[120]	new[120]	_	_
+38-11	_	paper	abstract[120]	new[120]	_	_
+38-12	_	.	_	_	_	_
+
+#Text=So it changes , so one year we got to be in the Press , but they have now stopped adult ads .
+39-1	_	So	_	_	_	_
+39-2	_	it	abstract[129]	new[129]	_	_
+39-3	_	changes	_	_	_	_
+39-4	_	,	_	_	_	_
+39-5	_	so	_	_	_	_
+39-6	_	one	_	_	_	_
+39-7	_	year	_	_	_	_
+39-8	_	we	abstract[24]	new[24]	coref	41-3[24_25]
+39-9	_	got	_	_	_	_
+39-10	_	to	_	_	_	_
+39-11	_	be	_	_	_	_
+39-12	_	in	_	_	_	_
+39-13	_	the	abstract[113]	new[113]	coref	39-17[113_114]
+39-14	_	Press	abstract[113]	new[113]	_	_
+39-15	_	,	_	_	_	_
+39-16	_	but	_	_	_	_
+39-17	_	they	abstract[114]	new[114]	_	_
+39-18	_	have	_	_	_	_
+39-19	_	now	_	_	_	_
+39-20	_	stopped	_	_	_	_
+39-21	_	adult	_	_	_	_
+39-22	_	ads	_	_	_	_
+39-23	_	.	_	_	_	_
+
+#Text=Completely .
+40-1	_	Completely	_	_	_	_
+40-2	_	.	_	_	_	_
+
+#Text=So now we 'll be in the Voice for a while .
+41-1	_	So	_	_	_	_
+41-2	_	now	_	_	_	_
+41-3	_	we	abstract[25]	new[25]	coref	42-1[25_26]
+41-4	_	'll	_	_	_	_
+41-5	_	be	_	_	_	_
+41-6	_	in	_	_	_	_
+41-7	_	the	_	_	_	_
+41-8	_	Voice	_	_	_	_
+41-9	_	for	_	_	_	_
+41-10	_	a	_	_	_	_
+41-11	_	while	_	_	_	_
+41-12	_	.	_	_	_	_
+
+#Text=We 're moving more towards the Internet at this point , because the Internet is a much easier , safer way for a person to look at sensitive material and not get caught with it .
+42-1	_	We	abstract[26]	new[26]	coref	45-7[26_27]
+42-2	_	're	_	_	_	_
+42-3	_	moving	_	_	_	_
+42-4	_	more	_	_	_	_
+42-5	_	towards	_	_	_	_
+42-6	_	the	abstract[109]	new[109]	coref	42-13[109_110]
+42-7	_	Internet	abstract[109]	new[109]	_	_
+42-8	_	at	_	_	_	_
+42-9	_	this	_	_	_	_
+42-10	_	point	_	_	_	_
+42-11	_	,	_	_	_	_
+42-12	_	because	_	_	_	_
+42-13	_	the	abstract[110]	new[110]	_	_
+42-14	_	Internet	abstract[110]	new[110]	_	_
+42-15	_	is	_	_	_	_
+42-16	_	a	_	_	_	_
+42-17	_	much	_	_	_	_
+42-18	_	easier	_	_	_	_
+42-19	_	,	_	_	_	_
+42-20	_	safer	_	_	_	_
+42-21	_	way	_	_	_	_
+42-22	_	for	_	_	_	_
+42-23	_	a	_	_	_	_
+42-24	_	person	_	_	_	_
+42-25	_	to	_	_	_	_
+42-26	_	look	_	_	_	_
+42-27	_	at	_	_	_	_
+42-28	_	sensitive	abstract[130]	new[130]	coref	42-35[130_131]
+42-29	_	material	abstract[130]	new[130]	_	_
+42-30	_	and	_	_	_	_
+42-31	_	not	_	_	_	_
+42-32	_	get	_	_	_	_
+42-33	_	caught	_	_	_	_
+42-34	_	with	_	_	_	_
+42-35	_	it	abstract[131]	new[131]	_	_
+42-36	_	.	_	_	_	_
+
+#Text=Hiring employees
+43-1	_	Hiring	_	_	_	_
+43-2	_	employees	_	_	_	_
+
+#Text=Personality test questions given to prospective mistresses .
+44-1	_	Personality	_	_	_	_
+44-2	_	test	_	_	_	_
+44-3	_	questions	_	_	_	_
+44-4	_	given	_	_	_	_
+44-5	_	to	_	_	_	_
+44-6	_	prospective	_	_	_	_
+44-7	_	mistresses	_	_	_	_
+44-8	_	.	_	_	_	_
+
+#Text=Pursuant to your business question : we only hire nice people .
+45-1	_	Pursuant	_	_	_	_
+45-2	_	to	_	_	_	_
+45-3	_	your	abstract[140]	new[140]	coref	63-6[140_141]
+45-4	_	business	_	_	_	_
+45-5	_	question	_	_	_	_
+45-6	_	:	_	_	_	_
+45-7	_	we	abstract[27]	new[27]	coref	55-1[27_28]
+45-8	_	only	_	_	_	_
+45-9	_	hire	_	_	_	_
+45-10	_	nice	_	_	_	_
+45-11	_	people	_	_	_	_
+45-12	_	.	_	_	_	_
+
+#Text=I do n't care if a girl is absolutely exquisite looking --
+46-1	_	I	abstract[63]	new[63]	coref	47-1[63_64]
+46-2	_	do	_	_	_	_
+46-3	_	n't	_	_	_	_
+46-4	_	care	_	_	_	_
+46-5	_	if	_	_	_	_
+46-6	_	a	_	_	_	_
+46-7	_	girl	_	_	_	_
+46-8	_	is	_	_	_	_
+46-9	_	absolutely	_	_	_	_
+46-10	_	exquisite	_	_	_	_
+46-11	_	looking	_	_	_	_
+46-12	_	--	_	_	_	_
+
+#Text=My husband has met beautiful , beautiful girls --
+47-1	_	My	abstract[38]|abstract[64]	new[38]|new[64]	coref|coref	50-1[38_39]|49-3[64_65]
+47-2	_	husband	abstract[64]	new[64]	_	_
+47-3	_	has	_	_	_	_
+47-4	_	met	_	_	_	_
+47-5	_	beautiful	_	_	_	_
+47-6	_	,	_	_	_	_
+47-7	_	beautiful	_	_	_	_
+47-8	_	girls	_	_	_	_
+47-9	_	--	_	_	_	_
+
+#Text=-- beautiful girls --
+48-1	_	--	_	_	_	_
+48-2	_	beautiful	abstract[132]	new[132]	coref	49-20[132_133]
+48-3	_	girls	abstract[132]	new[132]	_	_
+48-4	_	--	_	_	_	_
+
+#Text=-- and he 's in the end , he would say , " Well , I wo n't hire them . "
+49-1	_	--	_	_	_	_
+49-2	_	and	_	_	_	_
+49-3	_	he	abstract[65]	new[65]	coref	49-9[65_66]
+49-4	_	's	_	_	_	_
+49-5	_	in	_	_	_	_
+49-6	_	the	_	_	_	_
+49-7	_	end	_	_	_	_
+49-8	_	,	_	_	_	_
+49-9	_	he	abstract[66]	new[66]	coref	49-16[66_67]
+49-10	_	would	_	_	_	_
+49-11	_	say	_	_	_	_
+49-12	_	,	_	_	_	_
+49-13	_	"	_	_	_	_
+49-14	_	Well	_	_	_	_
+49-15	_	,	_	_	_	_
+49-16	_	I	abstract[67]	new[67]	coref	50-7[67_68]
+49-17	_	wo	_	_	_	_
+49-18	_	n't	_	_	_	_
+49-19	_	hire	_	_	_	_
+49-20	_	them	abstract[133]	new[133]	coref	51-5[133_134]
+49-21	_	.	_	_	_	_
+49-22	_	"	_	_	_	_
+
+#Text=I 'm like , ‘ Are you insane ?
+50-1	_	I	abstract[39]	new[39]	coref	60-2[39_40]
+50-2	_	'm	_	_	_	_
+50-3	_	like	_	_	_	_
+50-4	_	,	_	_	_	_
+50-5	_	‘	_	_	_	_
+50-6	_	Are	_	_	_	_
+50-7	_	you	abstract[68]	new[68]	coref	51-1[68_69]
+50-8	_	insane	_	_	_	_
+50-9	_	?	_	_	_	_
+
+#Text=I wo n't hire them .
+51-1	_	I	abstract[69]	new[69]	coref	52-1[69_70]
+51-2	_	wo	_	_	_	_
+51-3	_	n't	_	_	_	_
+51-4	_	hire	_	_	_	_
+51-5	_	them	abstract[134]	new[134]	coref	56-6[134_135]
+51-6	_	.	_	_	_	_
+
+#Text=I hire --
+52-1	_	I	abstract[70]	new[70]	coref	54-2[70_71]
+52-2	_	hire	_	_	_	_
+52-3	_	--	_	_	_	_
+
+#Text=Why not ?
+53-1	_	Why	_	_	_	_
+53-2	_	not	_	_	_	_
+53-3	_	?	_	_	_	_
+
+#Text=Because I want someone who 's going to treat people nicely and well .
+54-1	_	Because	_	_	_	_
+54-2	_	I	abstract[71]	new[71]	coref	56-3[71_72]
+54-3	_	want	_	_	_	_
+54-4	_	someone	_	_	_	_
+54-5	_	who	_	_	_	_
+54-6	_	's	_	_	_	_
+54-7	_	going	_	_	_	_
+54-8	_	to	_	_	_	_
+54-9	_	treat	_	_	_	_
+54-10	_	people	_	_	_	_
+54-11	_	nicely	_	_	_	_
+54-12	_	and	_	_	_	_
+54-13	_	well	_	_	_	_
+54-14	_	.	_	_	_	_
+
+#Text=We have --
+55-1	_	We	abstract[28]	new[28]	coref	62-25[28_29]
+55-2	_	have	_	_	_	_
+55-3	_	--	_	_	_	_
+
+#Text=How can you tell whether they will or will not ?
+56-1	_	How	_	_	_	_
+56-2	_	can	_	_	_	_
+56-3	_	you	abstract[72]	new[72]	coref	58-11[72_73]
+56-4	_	tell	_	_	_	_
+56-5	_	whether	_	_	_	_
+56-6	_	they	abstract[135]	new[135]	coref	57-5[135_136]
+56-7	_	will	_	_	_	_
+56-8	_	or	_	_	_	_
+56-9	_	will	_	_	_	_
+56-10	_	not	_	_	_	_
+56-11	_	?	_	_	_	_
+
+#Text=Just by talking to them ?
+57-1	_	Just	_	_	_	_
+57-2	_	by	_	_	_	_
+57-3	_	talking	_	_	_	_
+57-4	_	to	_	_	_	_
+57-5	_	them	abstract[136]	new[136]	coref	60-7[136_137]
+57-6	_	?	_	_	_	_
+
+#Text=Having been a psychologist for a number of years gives me a leg up on it .
+58-1	_	Having	_	_	_	_
+58-2	_	been	_	_	_	_
+58-3	_	a	_	_	_	_
+58-4	_	psychologist	_	_	_	_
+58-5	_	for	_	_	_	_
+58-6	_	a	_	_	_	_
+58-7	_	number	_	_	_	_
+58-8	_	of	_	_	_	_
+58-9	_	years	_	_	_	_
+58-10	_	gives	_	_	_	_
+58-11	_	me	abstract[73]	new[73]	coref	59-2[73_74]
+58-12	_	a	_	_	_	_
+58-13	_	leg	_	_	_	_
+58-14	_	up	_	_	_	_
+58-15	_	on	_	_	_	_
+58-16	_	it	_	_	_	_
+58-17	_	.	_	_	_	_
+
+#Text=And he 's been right .
+59-1	_	And	_	_	_	_
+59-2	_	he	abstract[74]	new[74]	coref	60-5[74_75]
+59-3	_	's	_	_	_	_
+59-4	_	been	_	_	_	_
+59-5	_	right	_	_	_	_
+59-6	_	.	_	_	_	_
+
+#Text=And I have made him hire these girls , and ultimately he 's been right
+60-1	_	And	_	_	_	_
+60-2	_	I	abstract[40]	new[40]	coref	62-25[40_41]
+60-3	_	have	_	_	_	_
+60-4	_	made	_	_	_	_
+60-5	_	him	abstract[75]	new[75]	coref	60-12[75_76]
+60-6	_	hire	_	_	_	_
+60-7	_	these	abstract[137]	new[137]	coref	61-1[137_138]
+60-8	_	girls	abstract[137]	new[137]	_	_
+60-9	_	,	_	_	_	_
+60-10	_	and	_	_	_	_
+60-11	_	ultimately	_	_	_	_
+60-12	_	he	abstract[76]	new[76]	coref	62-1[76_77]
+60-13	_	's	_	_	_	_
+60-14	_	been	_	_	_	_
+60-15	_	right	_	_	_	_
+
+#Text=They 've been complete pain in the asses !
+61-1	_	They	abstract[138]	new[138]	coref	62-6[138_139]
+61-2	_	've	_	_	_	_
+61-3	_	been	_	_	_	_
+61-4	_	complete	_	_	_	_
+61-5	_	pain	_	_	_	_
+61-6	_	in	_	_	_	_
+61-7	_	the	_	_	_	_
+61-8	_	asses	_	_	_	_
+61-9	_	!	_	_	_	_
+
+#Text=I also have a profile they fill out for me , a mini-MMPI that I developed , so that I have an idea -- Rebecca and I put it together
+62-1	_	I	abstract[77]	new[77]	coref	62-10[77_78]
+62-2	_	also	_	_	_	_
+62-3	_	have	_	_	_	_
+62-4	_	a	_	_	_	_
+62-5	_	profile	_	_	_	_
+62-6	_	they	abstract[139]	new[139]	_	_
+62-7	_	fill	_	_	_	_
+62-8	_	out	_	_	_	_
+62-9	_	for	_	_	_	_
+62-10	_	me	abstract[78]	new[78]	coref	62-15[78_79]
+62-11	_	,	_	_	_	_
+62-12	_	a	_	_	_	_
+62-13	_	mini-MMPI	_	_	_	_
+62-14	_	that	_	_	_	_
+62-15	_	I	abstract[79]	new[79]	coref	62-20[79_80]
+62-16	_	developed	_	_	_	_
+62-17	_	,	_	_	_	_
+62-18	_	so	_	_	_	_
+62-19	_	that	_	_	_	_
+62-20	_	I	abstract[80]	new[80]	coref	62-27[80_81]
+62-21	_	have	_	_	_	_
+62-22	_	an	_	_	_	_
+62-23	_	idea	_	_	_	_
+62-24	_	--	_	_	_	_
+62-25	_	Rebecca	abstract[29]|abstract[41]	new[29]|new[41]	coref	63-1[41_42]
+62-26	_	and	abstract[29]	new[29]	_	_
+62-27	_	I	abstract[29]|abstract[81]	new[29]|new[81]	coref	66-2[81_82]
+62-28	_	put	_	_	_	_
+62-29	_	it	_	_	_	_
+62-30	_	together	_	_	_	_
+
+#Text=I do n't know if you 'd like to see one .
+63-1	_	I	abstract[42]	new[42]	coref	65-1[42_43]
+63-2	_	do	_	_	_	_
+63-3	_	n't	_	_	_	_
+63-4	_	know	_	_	_	_
+63-5	_	if	_	_	_	_
+63-6	_	you	abstract[141]	new[141]	coref	65-4[141_142]
+63-7	_	'd	_	_	_	_
+63-8	_	like	_	_	_	_
+63-9	_	to	_	_	_	_
+63-10	_	see	_	_	_	_
+63-11	_	one	_	_	_	_
+63-12	_	.	_	_	_	_
+
+#Text=No , no , no . Just --
+64-1	_	No	_	_	_	_
+64-2	_	,	_	_	_	_
+64-3	_	no	_	_	_	_
+64-4	_	,	_	_	_	_
+64-5	_	no	_	_	_	_
+64-6	_	.	_	_	_	_
+64-7	_	Just	_	_	_	_
+64-8	_	--	_	_	_	_
+
+#Text=I could show you .
+65-1	_	I	abstract[43]	new[43]	coref	68-1[43_44]
+65-2	_	could	_	_	_	_
+65-3	_	show	_	_	_	_
+65-4	_	you	abstract[142]	new[142]	coref	67-2[142_143]
+65-5	_	.	_	_	_	_
+
+#Text=So I have a mini-MMPI that I --
+66-1	_	So	_	_	_	_
+66-2	_	I	abstract[82]	new[82]	coref	66-7[82_83]
+66-3	_	have	_	_	_	_
+66-4	_	a	_	_	_	_
+66-5	_	mini-MMPI	_	_	_	_
+66-6	_	that	_	_	_	_
+66-7	_	I	abstract[83]	new[83]	coref	67-19[83_84]
+66-8	_	--	_	_	_	_
+
+#Text=Could I have a sample , not necessarily one that 's filled out , but just one that you --
+67-1	_	Could	_	_	_	_
+67-2	_	I	abstract[143]	new[143]	coref	68-4[143_144]
+67-3	_	have	_	_	_	_
+67-4	_	a	_	_	_	_
+67-5	_	sample	_	_	_	_
+67-6	_	,	_	_	_	_
+67-7	_	not	_	_	_	_
+67-8	_	necessarily	_	_	_	_
+67-9	_	one	_	_	_	_
+67-10	_	that	_	_	_	_
+67-11	_	's	_	_	_	_
+67-12	_	filled	_	_	_	_
+67-13	_	out	_	_	_	_
+67-14	_	,	_	_	_	_
+67-15	_	but	_	_	_	_
+67-16	_	just	_	_	_	_
+67-17	_	one	_	_	_	_
+67-18	_	that	_	_	_	_
+67-19	_	you	abstract[84]	new[84]	coref	71-1[84_85]
+67-20	_	--	_	_	_	_
+
+#Text=I 'll show you .
+68-1	_	I	abstract[44]	new[44]	coref	86-3[44_45]
+68-2	_	'll	_	_	_	_
+68-3	_	show	_	_	_	_
+68-4	_	you	abstract[144]	new[144]	coref	71-4[144_145]
+68-5	_	.	_	_	_	_
+
+#Text=The questions are --
+69-1	_	The	_	_	_	_
+69-2	_	questions	_	_	_	_
+69-3	_	are	_	_	_	_
+69-4	_	--	_	_	_	_
+
+#Text=Be careful .
+70-1	_	Be	_	_	_	_
+70-2	_	careful	_	_	_	_
+70-3	_	.	_	_	_	_
+
+#Text=He 'll make you fill one out .
+71-1	_	He	abstract[85]	new[85]	coref	72-1[85_86]
+71-2	_	'll	_	_	_	_
+71-3	_	make	_	_	_	_
+71-4	_	you	abstract[145]	new[145]	coref	73-5[145_146]
+71-5	_	fill	_	_	_	_
+71-6	_	one	_	_	_	_
+71-7	_	out	_	_	_	_
+71-8	_	.	_	_	_	_
+
+#Text=You 'd be scared .
+72-1	_	You	abstract[86]	new[86]	coref	73-1[86_87]
+72-2	_	'd	_	_	_	_
+72-3	_	be	_	_	_	_
+72-4	_	scared	_	_	_	_
+72-5	_	.	_	_	_	_
+
+#Text=You would n't hire me .
+73-1	_	You	abstract[87]	new[87]	coref	74-5[87_88]
+73-2	_	would	_	_	_	_
+73-3	_	n't	_	_	_	_
+73-4	_	hire	_	_	_	_
+73-5	_	me	abstract[146]	new[146]	coref	88-3[146_147]
+73-6	_	.	_	_	_	_
+
+#Text=Is it only girls you hire ?
+74-1	_	Is	_	_	_	_
+74-2	_	it	_	_	_	_
+74-3	_	only	_	_	_	_
+74-4	_	girls	_	_	_	_
+74-5	_	you	abstract[88]	new[88]	coref	76-16[88_89]
+74-6	_	hire	_	_	_	_
+74-7	_	?	_	_	_	_
+
+#Text=Yeah .
+75-1	_	Yeah	_	_	_	_
+75-2	_	.	_	_	_	_
+
+#Text=What would a question like " the greatest woman in the world " reveal to you ?
+76-1	_	What	_	_	_	_
+76-2	_	would	_	_	_	_
+76-3	_	a	_	_	_	_
+76-4	_	question	_	_	_	_
+76-5	_	like	_	_	_	_
+76-6	_	"	_	_	_	_
+76-7	_	the	_	_	_	_
+76-8	_	greatest	_	_	_	_
+76-9	_	woman	_	_	_	_
+76-10	_	in	_	_	_	_
+76-11	_	the	_	_	_	_
+76-12	_	world	_	_	_	_
+76-13	_	"	_	_	_	_
+76-14	_	reveal	_	_	_	_
+76-15	_	to	_	_	_	_
+76-16	_	you	abstract[89]	new[89]	coref	79-4[89_90]
+76-17	_	?	_	_	_	_
+
+#Text=No question would reveal anything independently of all the questions together --
+77-1	_	No	_	_	_	_
+77-2	_	question	_	_	_	_
+77-3	_	would	_	_	_	_
+77-4	_	reveal	_	_	_	_
+77-5	_	anything	_	_	_	_
+77-6	_	independently	_	_	_	_
+77-7	_	of	_	_	_	_
+77-8	_	all	abstract[149]	new[149]	coref	81-5[149_150]
+77-9	_	the	abstract[149]	new[149]	_	_
+77-10	_	questions	abstract[149]	new[149]	_	_
+77-11	_	together	abstract[149]	new[149]	_	_
+77-12	_	--	_	_	_	_
+
+#Text=Sure .
+78-1	_	Sure	_	_	_	_
+78-2	_	.	_	_	_	_
+
+#Text=-- but I have a chart that I 'll go through ; the MMPI .
+79-1	_	--	_	_	_	_
+79-2	_	but	_	_	_	_
+79-3	_	I	abstract[90]	new[90]	coref	79-9[90_91]
+79-4	_	have	_	_	_	_
+79-5	_	a	abstract[152]	new[152]	coref	84-2[152_153]
+79-6	_	chart	abstract[152]	new[152]	_	_
+79-7	_	that	abstract[152]	new[152]	_	_
+79-8	_	I	abstract[91]|abstract[152]	new[91]|new[152]	coref	80-5[91_92]
+79-9	_	'll	abstract[152]	new[152]	_	_
+79-10	_	go	abstract[152]	new[152]	_	_
+79-11	_	through	abstract[152]	new[152]	_	_
+79-12	_	;	abstract[152]	new[152]	_	_
+79-13	_	the	abstract[152]	new[152]	_	_
+79-14	_	MMPI	abstract[152]	new[152]	_	_
+79-15	_	.	_	_	_	_
+
+#Text=The baseline data that I use to --
+80-1	_	The	_	_	_	_
+80-2	_	baseline	_	_	_	_
+80-3	_	data	_	_	_	_
+80-4	_	that	_	_	_	_
+80-5	_	I	abstract[92]	new[92]	coref	81-3[92_93]
+80-6	_	use	_	_	_	_
+80-7	_	to	_	_	_	_
+80-8	_	--	_	_	_	_
+
+#Text=How did you originate these questions ?
+81-1	_	How	_	_	_	_
+81-2	_	did	_	_	_	_
+81-3	_	you	abstract[93]	new[93]	coref	82-3[93_94]
+81-4	_	originate	_	_	_	_
+81-5	_	these	abstract[150]	new[150]	coref	82-5[150_151]
+81-6	_	questions	abstract[150]	new[150]	_	_
+81-7	_	?	_	_	_	_
+
+#Text=Where did I make them ?
+82-1	_	Where	_	_	_	_
+82-2	_	did	_	_	_	_
+82-3	_	I	abstract[94]	new[94]	coref	90-1[94_95]
+82-4	_	make	_	_	_	_
+82-5	_	them	abstract[151]	new[151]	_	_
+82-6	_	?	_	_	_	_
+
+#Text=You get a baseline from asking girls and refining profiles --
+83-1	_	You	_	_	_	_
+83-2	_	get	_	_	_	_
+83-3	_	a	_	_	_	_
+83-4	_	baseline	_	_	_	_
+83-5	_	from	_	_	_	_
+83-6	_	asking	_	_	_	_
+83-7	_	girls	_	_	_	_
+83-8	_	and	_	_	_	_
+83-9	_	refining	_	_	_	_
+83-10	_	profiles	_	_	_	_
+83-11	_	--	_	_	_	_
+
+#Text=And it 's an amalgamation of questions .
+84-1	_	And	_	_	_	_
+84-2	_	it	abstract[153]	new[153]	_	_
+84-3	_	's	_	_	_	_
+84-4	_	an	_	_	_	_
+84-5	_	amalgamation	_	_	_	_
+84-6	_	of	_	_	_	_
+84-7	_	questions	_	_	_	_
+84-8	_	.	_	_	_	_
+
+#Text=Of many , many questions --
+85-1	_	Of	_	_	_	_
+85-2	_	many	_	_	_	_
+85-3	_	,	_	_	_	_
+85-4	_	many	_	_	_	_
+85-5	_	questions	_	_	_	_
+85-6	_	--	_	_	_	_
+
+#Text=What 's your favorite question ?
+86-1	_	What	_	_	_	_
+86-2	_	's	_	_	_	_
+86-3	_	your	abstract[45]|abstract[154]	new[45]|new[154]	coref|coref	87-1[45_46]|87-6[154_155]
+86-4	_	favorite	abstract[154]	new[154]	_	_
+86-5	_	question	abstract[154]	new[154]	_	_
+86-6	_	?	_	_	_	_
+
+#Text=I do n't know , the O.J. Simpson ….
+87-1	_	I	abstract[46]	new[46]	coref	90-7[46_47]
+87-2	_	do	_	_	_	_
+87-3	_	n't	_	_	_	_
+87-4	_	know	_	_	_	_
+87-5	_	,	_	_	_	_
+87-6	_	the	abstract[155]	new[155]	coref	89-3[155_156]
+87-7	_	O.J.	abstract[155]|abstract[157]	new[155]|new[157]	coref	88-5[157_158]
+87-8	_	Simpson	abstract[155]|abstract[157]	new[155]|new[157]	_	_
+87-9	_	….	_	_	_	_
+
+#Text=Yeah , I see O.J. Simpson .
+88-1	_	Yeah	_	_	_	_
+88-2	_	,	_	_	_	_
+88-3	_	I	abstract[147]	new[147]	coref	90-9[147_148]
+88-4	_	see	_	_	_	_
+88-5	_	O.J.	abstract[158]	new[158]	_	_
+88-6	_	Simpson	abstract[158]	new[158]	_	_
+88-7	_	.	_	_	_	_
+
+#Text=What would that be an indicator of ?
+89-1	_	What	_	_	_	_
+89-2	_	would	_	_	_	_
+89-3	_	that	abstract[156]	new[156]	_	_
+89-4	_	be	_	_	_	_
+89-5	_	an	_	_	_	_
+89-6	_	indicator	_	_	_	_
+89-7	_	of	_	_	_	_
+89-8	_	?	_	_	_	_
+
+#Text=I 'm not sure which one you gave him , but there 's a brief , brief , brief IQ test there .
+90-1	_	I	abstract[95]	new[95]	coref	92-2[95_96]
+90-2	_	'm	_	_	_	_
+90-3	_	not	_	_	_	_
+90-4	_	sure	_	_	_	_
+90-5	_	which	_	_	_	_
+90-6	_	one	_	_	_	_
+90-7	_	you	abstract[47]	new[47]	_	_
+90-8	_	gave	_	_	_	_
+90-9	_	him	abstract[148]	new[148]	_	_
+90-10	_	,	_	_	_	_
+90-11	_	but	_	_	_	_
+90-12	_	there	_	_	_	_
+90-13	_	's	_	_	_	_
+90-14	_	a	_	_	_	_
+90-15	_	brief	_	_	_	_
+90-16	_	,	_	_	_	_
+90-17	_	brief	_	_	_	_
+90-18	_	,	_	_	_	_
+90-19	_	brief	_	_	_	_
+90-20	_	IQ	_	_	_	_
+90-21	_	test	_	_	_	_
+90-22	_	there	_	_	_	_
+90-23	_	.	_	_	_	_
+
+#Text=Very brief .
+91-1	_	Very	_	_	_	_
+91-2	_	brief	_	_	_	_
+91-3	_	.	_	_	_	_
+
+#Text=Do you ask for references ?
+92-1	_	Do	_	_	_	_
+92-2	_	you	abstract[96]	new[96]	coref	93-4[96_97]
+92-3	_	ask	_	_	_	_
+92-4	_	for	_	_	_	_
+92-5	_	references	abstract[159]	new[159]	coref	93-11[159_160]
+92-6	_	?	_	_	_	_
+
+#Text=No , because I really ca n't call and tell them I 'm yeah , so - and - so 's applying here for a position .
+93-1	_	No	_	_	_	_
+93-2	_	,	_	_	_	_
+93-3	_	because	_	_	_	_
+93-4	_	I	abstract[97]	new[97]	coref	93-12[97_98]
+93-5	_	really	_	_	_	_
+93-6	_	ca	_	_	_	_
+93-7	_	n't	_	_	_	_
+93-8	_	call	_	_	_	_
+93-9	_	and	_	_	_	_
+93-10	_	tell	_	_	_	_
+93-11	_	them	abstract[160]	new[160]	_	_
+93-12	_	I	abstract[98]	new[98]	_	_
+93-13	_	'm	_	_	_	_
+93-14	_	yeah	_	_	_	_
+93-15	_	,	_	_	_	_
+93-16	_	so	_	_	_	_
+93-17	_	-	_	_	_	_
+93-18	_	and	_	_	_	_
+93-19	_	-	_	_	_	_
+93-20	_	so	_	_	_	_
+93-21	_	's	_	_	_	_
+93-22	_	applying	_	_	_	_
+93-23	_	here	_	_	_	_
+93-24	_	for	_	_	_	_
+93-25	_	a	_	_	_	_
+93-26	_	position	_	_	_	_
+93-27	_	.	_	_	_	_
+
+#Text=Is this anemone a science fiction or a mystery ?
+94-1	_	Is	_	_	_	_
+94-2	_	this	_	_	_	_
+94-3	_	anemone	_	_	_	_
+94-4	_	a	_	_	_	_
+94-5	_	science	_	_	_	_
+94-6	_	fiction	_	_	_	_
+94-7	_	or	_	_	_	_
+94-8	_	a	_	_	_	_
+94-9	_	mystery	_	_	_	_
+94-10	_	?	_	_	_	_
+

@@ -1,0 +1,1495 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=So Erasmus laid the the — laid the egg , which Luther hatched .
+1-1	_	So	_	_	_	_
+1-2	_	Erasmus	abstract[46]	new[46]	coref	8-26[46_47]
+1-3	_	laid	_	_	_	_
+1-4	_	the	_	_	_	_
+1-5	_	the	_	_	_	_
+1-6	_	—	_	_	_	_
+1-7	_	laid	_	_	_	_
+1-8	_	the	_	_	_	_
+1-9	_	egg	_	_	_	_
+1-10	_	,	_	_	_	_
+1-11	_	which	_	_	_	_
+1-12	_	Luther	abstract[29]	new[29]	coref	6-5[29_30]
+1-13	_	hatched	_	_	_	_
+1-14	_	.	_	_	_	_
+
+#Text=And um , when you come then , to , uh , however this debate .
+2-1	_	And	_	_	_	_
+2-2	_	um	_	_	_	_
+2-3	_	,	_	_	_	_
+2-4	_	when	_	_	_	_
+2-5	_	you	abstract[7]	new[7]	coref	4-10[7_8]
+2-6	_	come	_	_	_	_
+2-7	_	then	_	_	_	_
+2-8	_	,	_	_	_	_
+2-9	_	to	_	_	_	_
+2-10	_	,	_	_	_	_
+2-11	_	uh	_	_	_	_
+2-12	_	,	_	_	_	_
+2-13	_	however	_	_	_	_
+2-14	_	this	abstract[62]	new[62]	coref	10-10[62_63]
+2-15	_	debate	abstract[62]	new[62]	_	_
+2-16	_	.	_	_	_	_
+
+#Text=This freedom of the will .
+3-1	_	This	abstract[59]	new[59]	coref	8-34[59_60]
+3-2	_	freedom	abstract[59]	new[59]	_	_
+3-3	_	of	abstract[59]	new[59]	_	_
+3-4	_	the	abstract[59]|abstract[186]	new[59]|new[186]	coref	82-18[186_187]
+3-5	_	will	abstract[59]|abstract[186]	new[59]|new[186]	_	_
+3-6	_	.	_	_	_	_
+
+#Text=Um , I think uh , let me read you a page from Brendler .
+4-1	_	Um	_	_	_	_
+4-2	_	,	_	_	_	_
+4-3	_	I	abstract[1]	new[1]	coref	4-8[1_2]
+4-4	_	think	_	_	_	_
+4-5	_	uh	_	_	_	_
+4-6	_	,	_	_	_	_
+4-7	_	let	_	_	_	_
+4-8	_	me	abstract[2]	new[2]	coref	8-4[2_3]
+4-9	_	read	_	_	_	_
+4-10	_	you	abstract[8]	new[8]	coref	6-9[8_9]
+4-11	_	a	abstract[22]	new[22]	coref	5-2[22_23]
+4-12	_	page	abstract[22]	new[22]	_	_
+4-13	_	from	abstract[22]	new[22]	_	_
+4-14	_	Brendler	abstract[22]|abstract[83]	new[22]|new[83]	coref	22-1[83_84]
+4-15	_	.	_	_	_	_
+
+#Text=Because it sets the sa- stage very nicely .
+5-1	_	Because	_	_	_	_
+5-2	_	it	abstract[23]	new[23]	coref	6-1[23_24]
+5-3	_	sets	_	_	_	_
+5-4	_	the	_	_	_	_
+5-5	_	sa-	_	_	_	_
+5-6	_	stage	_	_	_	_
+5-7	_	very	_	_	_	_
+5-8	_	nicely	_	_	_	_
+5-9	_	.	_	_	_	_
+
+#Text=This is in the Luther book some of you are reading , and um , if you , this evening when you go home , if you wan na meditate it on more , on – on it more , it 's on page three eleven .
+6-1	_	This	abstract[24]	new[24]	coref	6-31[24_25]
+6-2	_	is	_	_	_	_
+6-3	_	in	_	_	_	_
+6-4	_	the	_	_	_	_
+6-5	_	Luther	abstract[30]	new[30]	coref	9-32[30_31]
+6-6	_	book	_	_	_	_
+6-7	_	some	_	_	_	_
+6-8	_	of	_	_	_	_
+6-9	_	you	abstract[9]	new[9]	coref	6-17[9_10]
+6-10	_	are	_	_	_	_
+6-11	_	reading	_	_	_	_
+6-12	_	,	_	_	_	_
+6-13	_	and	_	_	_	_
+6-14	_	um	_	_	_	_
+6-15	_	,	_	_	_	_
+6-16	_	if	_	_	_	_
+6-17	_	you	abstract[10]	new[10]	coref	6-22[10_11]
+6-18	_	,	_	_	_	_
+6-19	_	this	_	_	_	_
+6-20	_	evening	_	_	_	_
+6-21	_	when	_	_	_	_
+6-22	_	you	abstract[11]	new[11]	coref	6-27[11_12]
+6-23	_	go	_	_	_	_
+6-24	_	home	_	_	_	_
+6-25	_	,	_	_	_	_
+6-26	_	if	_	_	_	_
+6-27	_	you	abstract[12]	new[12]	coref	8-7[12_13]
+6-28	_	wan	_	_	_	_
+6-29	_	na	_	_	_	_
+6-30	_	meditate	_	_	_	_
+6-31	_	it	abstract[25]	new[25]	coref	6-38[25_26]
+6-32	_	on	_	_	_	_
+6-33	_	more	_	_	_	_
+6-34	_	,	_	_	_	_
+6-35	_	on	_	_	_	_
+6-36	_	–	_	_	_	_
+6-37	_	on	_	_	_	_
+6-38	_	it	abstract[26]	new[26]	coref	6-41[26_27]
+6-39	_	more	_	_	_	_
+6-40	_	,	_	_	_	_
+6-41	_	it	abstract[27]	new[27]	coref	7-1[27_28]
+6-42	_	's	_	_	_	_
+6-43	_	on	_	_	_	_
+6-44	_	page	_	_	_	_
+6-45	_	three	_	_	_	_
+6-46	_	eleven	_	_	_	_
+6-47	_	.	_	_	_	_
+
+#Text=It 's on page three eleven .
+7-1	_	It	abstract[28]	new[28]	_	_
+7-2	_	's	_	_	_	_
+7-3	_	on	_	_	_	_
+7-4	_	page	abstract[37]	new[37]	coref	8-12[37_38]
+7-5	_	three	abstract[37]	new[37]	_	_
+7-6	_	eleven	abstract[37]	new[37]	_	_
+7-7	_	.	_	_	_	_
+
+#Text=But , let me just read you the – , cause this gives us the setting very nicely , and then we can uh , Erasmus entitled his anti-Luther pamphlet , Diatribe Concerning Free Will .
+8-1	_	But	_	_	_	_
+8-2	_	,	_	_	_	_
+8-3	_	let	_	_	_	_
+8-4	_	me	abstract[3]	new[3]	coref	25-11[3_4]
+8-5	_	just	_	_	_	_
+8-6	_	read	_	_	_	_
+8-7	_	you	abstract[13]	new[13]	coref	52-15[13_14]
+8-8	_	the	_	_	_	_
+8-9	_	–	_	_	_	_
+8-10	_	,	_	_	_	_
+8-11	_	cause	_	_	_	_
+8-12	_	this	abstract[38]	new[38]	_	_
+8-13	_	gives	_	_	_	_
+8-14	_	us	abstract[39]	new[39]	coref	8-22[39_40]
+8-15	_	the	_	_	_	_
+8-16	_	setting	_	_	_	_
+8-17	_	very	_	_	_	_
+8-18	_	nicely	_	_	_	_
+8-19	_	,	_	_	_	_
+8-20	_	and	_	_	_	_
+8-21	_	then	_	_	_	_
+8-22	_	we	abstract[40]	new[40]	coref	22-20[40_41]
+8-23	_	can	_	_	_	_
+8-24	_	uh	_	_	_	_
+8-25	_	,	_	_	_	_
+8-26	_	Erasmus	abstract[47]	new[47]	coref	8-28[47_48]
+8-27	_	entitled	_	_	_	_
+8-28	_	his	abstract[48]|abstract[57]	new[48]|new[57]	coref|coref	11-8[48_49]|8-32[57_58]
+8-29	_	anti-Luther	abstract[57]	new[57]	_	_
+8-30	_	pamphlet	abstract[57]	new[57]	_	_
+8-31	_	,	_	_	_	_
+8-32	_	Diatribe	abstract[58]	new[58]	_	_
+8-33	_	Concerning	abstract[58]	new[58]	_	_
+8-34	_	Free	abstract[58]|abstract[60]	new[58]|new[60]	coref	30-8[60_61]
+8-35	_	Will	abstract[58]|abstract[60]	new[58]|new[60]	_	_
+8-36	_	.	_	_	_	_
+
+#Text=Once again , the first and fundamental questions , disputed in fifteen sixteen , and fifteen seventeen , and again in Heidelberg , in April of fifteen eighteen , with which Luther had opened the assault on scholastic theology , were debated .
+9-1	_	Once	_	_	_	_
+9-2	_	again	_	_	_	_
+9-3	_	,	_	_	_	_
+9-4	_	the	_	_	_	_
+9-5	_	first	_	_	_	_
+9-6	_	and	_	_	_	_
+9-7	_	fundamental	_	_	_	_
+9-8	_	questions	_	_	_	_
+9-9	_	,	_	_	_	_
+9-10	_	disputed	_	_	_	_
+9-11	_	in	_	_	_	_
+9-12	_	fifteen	_	_	_	_
+9-13	_	sixteen	_	_	_	_
+9-14	_	,	_	_	_	_
+9-15	_	and	_	_	_	_
+9-16	_	fifteen	_	_	_	_
+9-17	_	seventeen	_	_	_	_
+9-18	_	,	_	_	_	_
+9-19	_	and	_	_	_	_
+9-20	_	again	_	_	_	_
+9-21	_	in	_	_	_	_
+9-22	_	Heidelberg	_	_	_	_
+9-23	_	,	_	_	_	_
+9-24	_	in	_	_	_	_
+9-25	_	April	_	_	_	_
+9-26	_	of	_	_	_	_
+9-27	_	fifteen	_	_	_	_
+9-28	_	eighteen	_	_	_	_
+9-29	_	,	_	_	_	_
+9-30	_	with	_	_	_	_
+9-31	_	which	_	_	_	_
+9-32	_	Luther	abstract[31]	new[31]	coref	10-1[31_32]
+9-33	_	had	_	_	_	_
+9-34	_	opened	_	_	_	_
+9-35	_	the	_	_	_	_
+9-36	_	assault	_	_	_	_
+9-37	_	on	_	_	_	_
+9-38	_	scholastic	_	_	_	_
+9-39	_	theology	_	_	_	_
+9-40	_	,	_	_	_	_
+9-41	_	were	_	_	_	_
+9-42	_	debated	_	_	_	_
+9-43	_	.	_	_	_	_
+
+#Text=Luther was glad to take up the theme of this debate .
+10-1	_	Luther	abstract[32]	new[32]	coref	11-5[32_33]
+10-2	_	was	_	_	_	_
+10-3	_	glad	_	_	_	_
+10-4	_	to	_	_	_	_
+10-5	_	take	_	_	_	_
+10-6	_	up	_	_	_	_
+10-7	_	the	_	_	_	_
+10-8	_	theme	_	_	_	_
+10-9	_	of	_	_	_	_
+10-10	_	this	abstract[63]	new[63]	_	_
+10-11	_	debate	abstract[63]	new[63]	_	_
+10-12	_	.	_	_	_	_
+
+#Text=And this is what Luther writes to Erasmus .
+11-1	_	And	_	_	_	_
+11-2	_	this	_	_	_	_
+11-3	_	is	_	_	_	_
+11-4	_	what	_	_	_	_
+11-5	_	Luther	abstract[33]	new[33]	coref	13-6[33_34]
+11-6	_	writes	_	_	_	_
+11-7	_	to	_	_	_	_
+11-8	_	Erasmus	abstract[49]	new[49]	coref	12-1[49_50]
+11-9	_	.	_	_	_	_
+
+#Text=You alone , among all the others , have recognized the key question .
+12-1	_	You	abstract[50]	new[50]	coref	13-2[50_51]
+12-2	_	alone	_	_	_	_
+12-3	_	,	_	_	_	_
+12-4	_	among	_	_	_	_
+12-5	_	all	_	_	_	_
+12-6	_	the	_	_	_	_
+12-7	_	others	_	_	_	_
+12-8	_	,	_	_	_	_
+12-9	_	have	_	_	_	_
+12-10	_	recognized	_	_	_	_
+12-11	_	the	abstract[64]	new[64]	coref	14-9[64_65]
+12-12	_	key	abstract[64]	new[64]	_	_
+12-13	_	question	abstract[64]	new[64]	_	_
+12-14	_	.	_	_	_	_
+
+#Text=And you do not bore me , with the Papacy , purgatory , indulgences , and similar nonsense .
+13-1	_	And	_	_	_	_
+13-2	_	you	abstract[51]	new[51]	coref	14-1[51_52]
+13-3	_	do	_	_	_	_
+13-4	_	not	_	_	_	_
+13-5	_	bore	_	_	_	_
+13-6	_	me	abstract[34]	new[34]	coref	16-4[34_35]
+13-7	_	,	_	_	_	_
+13-8	_	with	_	_	_	_
+13-9	_	the	_	_	_	_
+13-10	_	Papacy	_	_	_	_
+13-11	_	,	_	_	_	_
+13-12	_	purgatory	_	_	_	_
+13-13	_	,	_	_	_	_
+13-14	_	indulgences	_	_	_	_
+13-15	_	,	_	_	_	_
+13-16	_	and	_	_	_	_
+13-17	_	similar	_	_	_	_
+13-18	_	nonsense	_	_	_	_
+13-19	_	.	_	_	_	_
+
+#Text=You , and you alone , have identified that on which all else hinges .
+14-1	_	You	abstract[52]	new[52]	coref	14-4[52_53]
+14-2	_	,	_	_	_	_
+14-3	_	and	_	_	_	_
+14-4	_	you	abstract[53]	new[53]	coref	15-2[53_54]
+14-5	_	alone	abstract[53]	new[53]	_	_
+14-6	_	,	_	_	_	_
+14-7	_	have	_	_	_	_
+14-8	_	identified	_	_	_	_
+14-9	_	that	abstract[65]	new[65]	_	_
+14-10	_	on	abstract[65]	new[65]	_	_
+14-11	_	which	abstract[65]	new[65]	_	_
+14-12	_	all	abstract[65]	new[65]	_	_
+14-13	_	else	abstract[65]	new[65]	_	_
+14-14	_	hinges	abstract[65]	new[65]	_	_
+14-15	_	.	_	_	_	_
+
+#Text=And you have put the razor to the throat .
+15-1	_	And	_	_	_	_
+15-2	_	you	abstract[54]	new[54]	coref	16-6[54_55]
+15-3	_	have	_	_	_	_
+15-4	_	put	_	_	_	_
+15-5	_	the	_	_	_	_
+15-6	_	razor	_	_	_	_
+15-7	_	to	_	_	_	_
+15-8	_	the	_	_	_	_
+15-9	_	throat	_	_	_	_
+15-10	_	.	_	_	_	_
+
+#Text=And for that I thank you heartily .
+16-1	_	And	_	_	_	_
+16-2	_	for	_	_	_	_
+16-3	_	that	_	_	_	_
+16-4	_	I	abstract[35]	new[35]	coref	17-4[35_36]
+16-5	_	thank	_	_	_	_
+16-6	_	you	abstract[55]	new[55]	coref	18-2[55_56]
+16-7	_	heartily	_	_	_	_
+16-8	_	.	_	_	_	_
+
+#Text=Um , thus Luther evalu- uh evaluated the subject .
+17-1	_	Um	_	_	_	_
+17-2	_	,	_	_	_	_
+17-3	_	thus	_	_	_	_
+17-4	_	Luther	abstract[36]	new[36]	_	_
+17-5	_	evalu-	_	_	_	_
+17-6	_	uh	_	_	_	_
+17-7	_	evaluated	_	_	_	_
+17-8	_	the	_	_	_	_
+17-9	_	subject	_	_	_	_
+17-10	_	.	_	_	_	_
+
+#Text=And Erasmus commented on the significance of their engagement , in battle , in his own style .
+18-1	_	And	_	_	_	_
+18-2	_	Erasmus	abstract[56]	new[56]	_	_
+18-3	_	commented	_	_	_	_
+18-4	_	on	_	_	_	_
+18-5	_	the	_	_	_	_
+18-6	_	significance	_	_	_	_
+18-7	_	of	_	_	_	_
+18-8	_	their	_	_	_	_
+18-9	_	engagement	_	_	_	_
+18-10	_	,	_	_	_	_
+18-11	_	in	_	_	_	_
+18-12	_	battle	_	_	_	_
+18-13	_	,	_	_	_	_
+18-14	_	in	_	_	_	_
+18-15	_	his	abstract[66]	new[66]	coref	19-2[66_67]
+18-16	_	own	_	_	_	_
+18-17	_	style	_	_	_	_
+18-18	_	.	_	_	_	_
+
+#Text=And he wrote to Luther .
+19-1	_	And	_	_	_	_
+19-2	_	he	abstract[67]	new[67]	coref	20-2[67_68]
+19-3	_	wrote	_	_	_	_
+19-4	_	to	_	_	_	_
+19-5	_	Luther	abstract[74]	new[74]	coref	20-7[74_75]
+19-6	_	.	_	_	_	_
+
+#Text=Perhaps an Erasmus who writes against you , will do more for the Gospel , than certain dunderheads who support you .
+20-1	_	Perhaps	_	_	_	_
+20-2	_	an	abstract[68]	new[68]	coref	34-4[68_69]
+20-3	_	Erasmus	abstract[68]	new[68]	_	_
+20-4	_	who	abstract[68]	new[68]	_	_
+20-5	_	writes	abstract[68]	new[68]	_	_
+20-6	_	against	abstract[68]	new[68]	_	_
+20-7	_	you	abstract[68]|abstract[75]	new[68]|new[75]	coref	20-21[75_76]
+20-8	_	,	_	_	_	_
+20-9	_	will	_	_	_	_
+20-10	_	do	_	_	_	_
+20-11	_	more	_	_	_	_
+20-12	_	for	_	_	_	_
+20-13	_	the	_	_	_	_
+20-14	_	Gospel	_	_	_	_
+20-15	_	,	_	_	_	_
+20-16	_	than	_	_	_	_
+20-17	_	certain	_	_	_	_
+20-18	_	dunderheads	_	_	_	_
+20-19	_	who	_	_	_	_
+20-20	_	support	_	_	_	_
+20-21	_	you	abstract[76]	new[76]	coref	37-7[76_77]
+20-22	_	.	_	_	_	_
+
+#Text=And then , humanistic thinking , will never consent .
+21-1	_	And	_	_	_	_
+21-2	_	then	_	_	_	_
+21-3	_	,	_	_	_	_
+21-4	_	humanistic	abstract[86]	new[86]	coref	22-10[86_87]
+21-5	_	thinking	abstract[86]	new[86]	_	_
+21-6	_	,	_	_	_	_
+21-7	_	will	_	_	_	_
+21-8	_	never	_	_	_	_
+21-9	_	consent	_	_	_	_
+21-10	_	.	_	_	_	_
+
+#Text=This is Brendler now , obs- – uh on this uh , but this sets the stage for what we 're gon na talk about .
+22-1	_	This	abstract[84]	new[84]	coref	22-14[84_85]
+22-2	_	is	_	_	_	_
+22-3	_	Brendler	_	_	_	_
+22-4	_	now	_	_	_	_
+22-5	_	,	_	_	_	_
+22-6	_	obs-	_	_	_	_
+22-7	_	–	_	_	_	_
+22-8	_	uh	_	_	_	_
+22-9	_	on	_	_	_	_
+22-10	_	this	abstract[87]	new[87]	_	_
+22-11	_	uh	_	_	_	_
+22-12	_	,	_	_	_	_
+22-13	_	but	_	_	_	_
+22-14	_	this	abstract[85]	new[85]	_	_
+22-15	_	sets	_	_	_	_
+22-16	_	the	_	_	_	_
+22-17	_	stage	_	_	_	_
+22-18	_	for	_	_	_	_
+22-19	_	what	_	_	_	_
+22-20	_	we	abstract[41]	new[41]	coref	66-6[41_42]
+22-21	_	're	_	_	_	_
+22-22	_	gon	_	_	_	_
+22-23	_	na	_	_	_	_
+22-24	_	talk	_	_	_	_
+22-25	_	about	_	_	_	_
+22-26	_	.	_	_	_	_
+
+#Text=Humanistic thinking will never consent to the doctrine of original sin .
+23-1	_	Humanistic	_	_	_	_
+23-2	_	thinking	_	_	_	_
+23-3	_	will	_	_	_	_
+23-4	_	never	_	_	_	_
+23-5	_	consent	_	_	_	_
+23-6	_	to	_	_	_	_
+23-7	_	the	abstract[88]	new[88]	coref	24-10[88_89]
+23-8	_	doctrine	abstract[88]	new[88]	_	_
+23-9	_	of	abstract[88]	new[88]	_	_
+23-10	_	original	abstract[88]	new[88]	_	_
+23-11	_	sin	abstract[88]	new[88]	_	_
+23-12	_	.	_	_	_	_
+
+#Text=Pico de la Mirandela would not have consented to the doctrine of original sin .
+24-1	_	Pico	_	_	_	_
+24-2	_	de	_	_	_	_
+24-3	_	la	_	_	_	_
+24-4	_	Mirandela	_	_	_	_
+24-5	_	would	_	_	_	_
+24-6	_	not	_	_	_	_
+24-7	_	have	_	_	_	_
+24-8	_	consented	_	_	_	_
+24-9	_	to	_	_	_	_
+24-10	_	the	abstract[89]	new[89]	_	_
+24-11	_	doctrine	abstract[89]	new[89]	_	_
+24-12	_	of	abstract[89]	new[89]	_	_
+24-13	_	original	abstract[89]	new[89]	_	_
+24-14	_	sin	abstract[89]	new[89]	_	_
+24-15	_	.	_	_	_	_
+
+#Text=The author of uh , what is it , Houseman I think , of Invictus .
+25-1	_	The	abstract[90]	new[90]	coref	25-10[90_91]
+25-2	_	author	abstract[90]	new[90]	_	_
+25-3	_	of	_	_	_	_
+25-4	_	uh	_	_	_	_
+25-5	_	,	_	_	_	_
+25-6	_	what	_	_	_	_
+25-7	_	is	_	_	_	_
+25-8	_	it	abstract[93]	new[93]	coref	25-15[93_94]
+25-9	_	,	_	_	_	_
+25-10	_	Houseman	abstract[91]	new[91]	coref	28-6[91_92]
+25-11	_	I	abstract[4]	new[4]	coref	28-1[4_5]
+25-12	_	think	_	_	_	_
+25-13	_	,	_	_	_	_
+25-14	_	of	_	_	_	_
+25-15	_	Invictus	abstract[94]	new[94]	_	_
+25-16	_	.	_	_	_	_
+
+#Text=I am the master of my fate ,
+26-1	_	I	abstract[95]	new[95]	coref	27-1[95_96]
+26-2	_	am	_	_	_	_
+26-3	_	the	_	_	_	_
+26-4	_	master	_	_	_	_
+26-5	_	of	_	_	_	_
+26-6	_	my	_	_	_	_
+26-7	_	fate	_	_	_	_
+26-8	_	,	_	_	_	_
+
+#Text=I am the captain of my soul .
+27-1	_	I	abstract[96]	new[96]	_	_
+27-2	_	am	_	_	_	_
+27-3	_	the	_	_	_	_
+27-4	_	captain	_	_	_	_
+27-5	_	of	_	_	_	_
+27-6	_	my	_	_	_	_
+27-7	_	soul	_	_	_	_
+27-8	_	.	_	_	_	_
+
+#Text=I do n't think that he would acknowledge original sin .
+28-1	_	I	abstract[5]	new[5]	coref	83-8[5_6]
+28-2	_	do	_	_	_	_
+28-3	_	n't	_	_	_	_
+28-4	_	think	_	_	_	_
+28-5	_	that	_	_	_	_
+28-6	_	he	abstract[92]	new[92]	_	_
+28-7	_	would	_	_	_	_
+28-8	_	acknowledge	_	_	_	_
+28-9	_	original	_	_	_	_
+28-10	_	sin	_	_	_	_
+28-11	_	.	_	_	_	_
+
+#Text=Is based uh , alright , what is it , it 's based , as it is , on the concept , that human nature is totally depraved , and of itself not capable of any good will .
+29-1	_	Is	_	_	_	_
+29-2	_	based	_	_	_	_
+29-3	_	uh	_	_	_	_
+29-4	_	,	_	_	_	_
+29-5	_	alright	_	_	_	_
+29-6	_	,	_	_	_	_
+29-7	_	what	_	_	_	_
+29-8	_	is	_	_	_	_
+29-9	_	it	abstract[97]	new[97]	coref	29-12[97_98]
+29-10	_	,	_	_	_	_
+29-11	_	it	abstract[98]	new[98]	coref	29-17[98_99]
+29-12	_	's	_	_	_	_
+29-13	_	based	_	_	_	_
+29-14	_	,	_	_	_	_
+29-15	_	as	_	_	_	_
+29-16	_	it	abstract[99]	new[99]	_	_
+29-17	_	is	_	_	_	_
+29-18	_	,	_	_	_	_
+29-19	_	on	_	_	_	_
+29-20	_	the	_	_	_	_
+29-21	_	concept	_	_	_	_
+29-22	_	,	_	_	_	_
+29-23	_	that	_	_	_	_
+29-24	_	human	abstract[100]	new[100]	coref	29-33[100_101]
+29-25	_	nature	abstract[100]	new[100]	_	_
+29-26	_	is	_	_	_	_
+29-27	_	totally	_	_	_	_
+29-28	_	depraved	_	_	_	_
+29-29	_	,	_	_	_	_
+29-30	_	and	_	_	_	_
+29-31	_	of	_	_	_	_
+29-32	_	itself	abstract[101]	new[101]	_	_
+29-33	_	not	_	_	_	_
+29-34	_	capable	_	_	_	_
+29-35	_	of	_	_	_	_
+29-36	_	any	_	_	_	_
+29-37	_	good	_	_	_	_
+29-38	_	will	_	_	_	_
+29-39	_	.	_	_	_	_
+
+#Text=And that apart from grace alone , free will is nothing , can do nothing , does nothing , except depraved deeds .
+30-1	_	And	_	_	_	_
+30-2	_	that	_	_	_	_
+30-3	_	apart	_	_	_	_
+30-4	_	from	_	_	_	_
+30-5	_	grace	_	_	_	_
+30-6	_	alone	_	_	_	_
+30-7	_	,	_	_	_	_
+30-8	_	free	abstract[61]	new[61]	_	_
+30-9	_	will	abstract[61]	new[61]	_	_
+30-10	_	is	_	_	_	_
+30-11	_	nothing	_	_	_	_
+30-12	_	,	_	_	_	_
+30-13	_	can	_	_	_	_
+30-14	_	do	_	_	_	_
+30-15	_	nothing	_	_	_	_
+30-16	_	,	_	_	_	_
+30-17	_	does	_	_	_	_
+30-18	_	nothing	_	_	_	_
+30-19	_	,	_	_	_	_
+30-20	_	except	_	_	_	_
+30-21	_	depraved	_	_	_	_
+30-22	_	deeds	_	_	_	_
+30-23	_	.	_	_	_	_
+
+#Text=Even though these pronouncements are Biblically based , and may be acceptable within an exclusively theological system , they do not appear reconcilable with the dignity of man- – dignity of man .
+31-1	_	Even	_	_	_	_
+31-2	_	though	_	_	_	_
+31-3	_	these	abstract[102]	new[102]	coref	31-19[102_103]
+31-4	_	pronouncements	abstract[102]	new[102]	_	_
+31-5	_	are	_	_	_	_
+31-6	_	Biblically	_	_	_	_
+31-7	_	based	_	_	_	_
+31-8	_	,	_	_	_	_
+31-9	_	and	_	_	_	_
+31-10	_	may	_	_	_	_
+31-11	_	be	_	_	_	_
+31-12	_	acceptable	_	_	_	_
+31-13	_	within	_	_	_	_
+31-14	_	an	_	_	_	_
+31-15	_	exclusively	_	_	_	_
+31-16	_	theological	_	_	_	_
+31-17	_	system	_	_	_	_
+31-18	_	,	_	_	_	_
+31-19	_	they	abstract[103]	new[103]	_	_
+31-20	_	do	_	_	_	_
+31-21	_	not	_	_	_	_
+31-22	_	appear	_	_	_	_
+31-23	_	reconcilable	_	_	_	_
+31-24	_	with	_	_	_	_
+31-25	_	the	_	_	_	_
+31-26	_	dignity	_	_	_	_
+31-27	_	of	_	_	_	_
+31-28	_	man-	_	_	_	_
+31-29	_	–	_	_	_	_
+31-30	_	dignity	_	_	_	_
+31-31	_	of	_	_	_	_
+31-32	_	man	_	_	_	_
+31-33	_	.	_	_	_	_
+
+#Text=Catholic , and semi-pelagianism , with all of its emphasis on on the role of prevenient grace , finally views free will as the decisive factor in attaining salvation , thereby conceptualizing free will , as similar to a healthy man- – healthy human understanding .
+32-1	_	Catholic	_	_	_	_
+32-2	_	,	_	_	_	_
+32-3	_	and	_	_	_	_
+32-4	_	semi-pelagianism	_	_	_	_
+32-5	_	,	_	_	_	_
+32-6	_	with	_	_	_	_
+32-7	_	all	_	_	_	_
+32-8	_	of	_	_	_	_
+32-9	_	its	_	_	_	_
+32-10	_	emphasis	_	_	_	_
+32-11	_	on	_	_	_	_
+32-12	_	on	_	_	_	_
+32-13	_	the	_	_	_	_
+32-14	_	role	_	_	_	_
+32-15	_	of	_	_	_	_
+32-16	_	prevenient	_	_	_	_
+32-17	_	grace	_	_	_	_
+32-18	_	,	_	_	_	_
+32-19	_	finally	_	_	_	_
+32-20	_	views	_	_	_	_
+32-21	_	free	_	_	_	_
+32-22	_	will	_	_	_	_
+32-23	_	as	_	_	_	_
+32-24	_	the	_	_	_	_
+32-25	_	decisive	_	_	_	_
+32-26	_	factor	_	_	_	_
+32-27	_	in	_	_	_	_
+32-28	_	attaining	_	_	_	_
+32-29	_	salvation	_	_	_	_
+32-30	_	,	_	_	_	_
+32-31	_	thereby	_	_	_	_
+32-32	_	conceptualizing	_	_	_	_
+32-33	_	free	_	_	_	_
+32-34	_	will	_	_	_	_
+32-35	_	,	_	_	_	_
+32-36	_	as	_	_	_	_
+32-37	_	similar	_	_	_	_
+32-38	_	to	_	_	_	_
+32-39	_	a	_	_	_	_
+32-40	_	healthy	_	_	_	_
+32-41	_	man-	_	_	_	_
+32-42	_	–	_	_	_	_
+32-43	_	healthy	_	_	_	_
+32-44	_	human	_	_	_	_
+32-45	_	understanding	_	_	_	_
+32-46	_	.	_	_	_	_
+
+#Text=For how can a person , be responsible for his deeds , if he possesses no free will ?
+33-1	_	For	_	_	_	_
+33-2	_	how	_	_	_	_
+33-3	_	can	_	_	_	_
+33-4	_	a	abstract[104]	new[104]	coref	33-10[104_105]
+33-5	_	person	abstract[104]	new[104]	_	_
+33-6	_	,	_	_	_	_
+33-7	_	be	_	_	_	_
+33-8	_	responsible	_	_	_	_
+33-9	_	for	_	_	_	_
+33-10	_	his	abstract[105]|abstract[163]	new[105]|new[163]	coref|coref	33-14[105_106]|69-11[163_164]
+33-11	_	deeds	abstract[163]	new[163]	_	_
+33-12	_	,	_	_	_	_
+33-13	_	if	_	_	_	_
+33-14	_	he	abstract[106]	new[106]	coref	35-3[106_107]
+33-15	_	possesses	_	_	_	_
+33-16	_	no	_	_	_	_
+33-17	_	free	_	_	_	_
+33-18	_	will	_	_	_	_
+33-19	_	?	_	_	_	_
+
+#Text=This is what Erasmus asked .
+34-1	_	This	_	_	_	_
+34-2	_	is	_	_	_	_
+34-3	_	what	_	_	_	_
+34-4	_	Erasmus	abstract[69]	new[69]	coref	36-3[69_70]
+34-5	_	asked	_	_	_	_
+34-6	_	.	_	_	_	_
+
+#Text=How can he decide between good and evil ?
+35-1	_	How	_	_	_	_
+35-2	_	can	_	_	_	_
+35-3	_	he	abstract[107]	new[107]	_	_
+35-4	_	decide	_	_	_	_
+35-5	_	between	_	_	_	_
+35-6	_	good	_	_	_	_
+35-7	_	and	_	_	_	_
+35-8	_	evil	_	_	_	_
+35-9	_	?	_	_	_	_
+
+#Text=So reasoned Erasmus .
+36-1	_	So	_	_	_	_
+36-2	_	reasoned	_	_	_	_
+36-3	_	Erasmus	abstract[70]	new[70]	coref	65-7[70_71]
+36-4	_	.	_	_	_	_
+
+#Text=Such arguments , long known to Luther , and many times presented to him , impressed him not in the least .
+37-1	_	Such	_	_	_	_
+37-2	_	arguments	_	_	_	_
+37-3	_	,	_	_	_	_
+37-4	_	long	_	_	_	_
+37-5	_	known	_	_	_	_
+37-6	_	to	_	_	_	_
+37-7	_	Luther	abstract[77]	new[77]	coref	37-14[77_78]
+37-8	_	,	_	_	_	_
+37-9	_	and	_	_	_	_
+37-10	_	many	_	_	_	_
+37-11	_	times	_	_	_	_
+37-12	_	presented	_	_	_	_
+37-13	_	to	_	_	_	_
+37-14	_	him	abstract[78]	new[78]	coref	37-17[78_79]
+37-15	_	,	_	_	_	_
+37-16	_	impressed	_	_	_	_
+37-17	_	him	abstract[79]	new[79]	coref	53-3[79_80]
+37-18	_	not	_	_	_	_
+37-19	_	in	_	_	_	_
+37-20	_	the	_	_	_	_
+37-21	_	least	_	_	_	_
+37-22	_	.	_	_	_	_
+
+#Text=God alone is salvation .
+38-1	_	God	abstract[108]	new[108]	coref	39-1[108_109]
+38-2	_	alone	abstract[108]	new[108]	_	_
+38-3	_	is	_	_	_	_
+38-4	_	salvation	_	_	_	_
+38-5	_	.	_	_	_	_
+
+#Text=God alone measures guilt .
+39-1	_	God	abstract[109]	new[109]	coref	40-1[109_110]
+39-2	_	alone	abstract[109]	new[109]	_	_
+39-3	_	measures	_	_	_	_
+39-4	_	guilt	_	_	_	_
+39-5	_	.	_	_	_	_
+
+#Text=He alone condemns .
+40-1	_	He	abstract[110]	new[110]	coref	41-1[110_111]
+40-2	_	alone	abstract[110]	new[110]	_	_
+40-3	_	condemns	_	_	_	_
+40-4	_	.	_	_	_	_
+
+#Text=He alone grants grace .
+41-1	_	He	abstract[111]	new[111]	coref	43-2[111_112]
+41-2	_	alone	abstract[111]	new[111]	_	_
+41-3	_	grants	_	_	_	_
+41-4	_	grace	_	_	_	_
+41-5	_	.	_	_	_	_
+
+#Text=Justifies and saves .
+42-1	_	Justifies	_	_	_	_
+42-2	_	and	_	_	_	_
+42-3	_	saves	_	_	_	_
+42-4	_	.	_	_	_	_
+
+#Text=When he will , and whom he will .
+43-1	_	When	_	_	_	_
+43-2	_	he	abstract[112]	new[112]	coref	43-7[112_113]
+43-3	_	will	_	_	_	_
+43-4	_	,	_	_	_	_
+43-5	_	and	_	_	_	_
+43-6	_	whom	_	_	_	_
+43-7	_	he	abstract[113]	new[113]	coref	48-2[113_114]
+43-8	_	will	_	_	_	_
+43-9	_	.	_	_	_	_
+
+#Text=Man can do nothing against the divine prerogative .
+44-1	_	Man	_	_	_	_
+44-2	_	can	_	_	_	_
+44-3	_	do	_	_	_	_
+44-4	_	nothing	_	_	_	_
+44-5	_	against	_	_	_	_
+44-6	_	the	abstract[121]	new[121]	coref	47-11[121_122]
+44-7	_	divine	abstract[121]	new[121]	_	_
+44-8	_	prerogative	abstract[121]	new[121]	_	_
+44-9	_	.	_	_	_	_
+
+#Text=Man can only accept the divine judgment .
+45-1	_	Man	_	_	_	_
+45-2	_	can	_	_	_	_
+45-3	_	only	_	_	_	_
+45-4	_	accept	_	_	_	_
+45-5	_	the	_	_	_	_
+45-6	_	divine	_	_	_	_
+45-7	_	judgment	_	_	_	_
+45-8	_	.	_	_	_	_
+
+#Text=This is in fact best .
+46-1	_	This	_	_	_	_
+46-2	_	is	_	_	_	_
+46-3	_	in	_	_	_	_
+46-4	_	fact	_	_	_	_
+46-5	_	best	_	_	_	_
+46-6	_	.	_	_	_	_
+
+#Text=And if by — and — and it is by the divine prerogative , that man will — uh , that man is well provided for .
+47-1	_	And	_	_	_	_
+47-2	_	if	_	_	_	_
+47-3	_	by	_	_	_	_
+47-4	_	—	_	_	_	_
+47-5	_	and	_	_	_	_
+47-6	_	—	_	_	_	_
+47-7	_	and	_	_	_	_
+47-8	_	it	_	_	_	_
+47-9	_	is	_	_	_	_
+47-10	_	by	_	_	_	_
+47-11	_	the	abstract[122]	new[122]	_	_
+47-12	_	divine	abstract[122]	new[122]	_	_
+47-13	_	prerogative	abstract[122]	new[122]	_	_
+47-14	_	,	_	_	_	_
+47-15	_	that	_	_	_	_
+47-16	_	man	_	_	_	_
+47-17	_	will	_	_	_	_
+47-18	_	—	_	_	_	_
+47-19	_	uh	_	_	_	_
+47-20	_	,	_	_	_	_
+47-21	_	that	_	_	_	_
+47-22	_	man	_	_	_	_
+47-23	_	is	_	_	_	_
+47-24	_	well	_	_	_	_
+47-25	_	provided	_	_	_	_
+47-26	_	for	_	_	_	_
+47-27	_	.	_	_	_	_
+
+#Text=For God alone is infallible , and his being is grace and mercy .
+48-1	_	For	_	_	_	_
+48-2	_	God	abstract[114]	new[114]	coref	48-8[114_115]
+48-3	_	alone	abstract[114]	new[114]	_	_
+48-4	_	is	_	_	_	_
+48-5	_	infallible	_	_	_	_
+48-6	_	,	_	_	_	_
+48-7	_	and	_	_	_	_
+48-8	_	his	abstract[115]	new[115]	coref	54-37[115_116]
+48-9	_	being	_	_	_	_
+48-10	_	is	_	_	_	_
+48-11	_	grace	_	_	_	_
+48-12	_	and	_	_	_	_
+48-13	_	mercy	_	_	_	_
+48-14	_	.	_	_	_	_
+
+#Text=This concept , that man is divinely elected to salvation , or to damnation , is the center of the predestination dogma , that later , the Geneva reformer Calvin , made the center of his teaching , and that subsequently , under other historical preconditions and circumstances , could be linked closely with a prosperous middle class , in the Netherlands , and in England .
+49-1	_	This	_	_	_	_
+49-2	_	concept	_	_	_	_
+49-3	_	,	_	_	_	_
+49-4	_	that	_	_	_	_
+49-5	_	man	_	_	_	_
+49-6	_	is	_	_	_	_
+49-7	_	divinely	_	_	_	_
+49-8	_	elected	_	_	_	_
+49-9	_	to	_	_	_	_
+49-10	_	salvation	_	_	_	_
+49-11	_	,	_	_	_	_
+49-12	_	or	_	_	_	_
+49-13	_	to	_	_	_	_
+49-14	_	damnation	_	_	_	_
+49-15	_	,	_	_	_	_
+49-16	_	is	_	_	_	_
+49-17	_	the	_	_	_	_
+49-18	_	center	_	_	_	_
+49-19	_	of	_	_	_	_
+49-20	_	the	_	_	_	_
+49-21	_	predestination	_	_	_	_
+49-22	_	dogma	_	_	_	_
+49-23	_	,	_	_	_	_
+49-24	_	that	_	_	_	_
+49-25	_	later	_	_	_	_
+49-26	_	,	_	_	_	_
+49-27	_	the	abstract[123]	new[123]	coref	49-36[123_124]
+49-28	_	Geneva	abstract[123]	new[123]	_	_
+49-29	_	reformer	abstract[123]	new[123]	_	_
+49-30	_	Calvin	abstract[123]	new[123]	_	_
+49-31	_	,	_	_	_	_
+49-32	_	made	_	_	_	_
+49-33	_	the	_	_	_	_
+49-34	_	center	_	_	_	_
+49-35	_	of	_	_	_	_
+49-36	_	his	abstract[124]	new[124]	_	_
+49-37	_	teaching	_	_	_	_
+49-38	_	,	_	_	_	_
+49-39	_	and	_	_	_	_
+49-40	_	that	_	_	_	_
+49-41	_	subsequently	_	_	_	_
+49-42	_	,	_	_	_	_
+49-43	_	under	_	_	_	_
+49-44	_	other	_	_	_	_
+49-45	_	historical	_	_	_	_
+49-46	_	preconditions	_	_	_	_
+49-47	_	and	_	_	_	_
+49-48	_	circumstances	_	_	_	_
+49-49	_	,	_	_	_	_
+49-50	_	could	_	_	_	_
+49-51	_	be	_	_	_	_
+49-52	_	linked	_	_	_	_
+49-53	_	closely	_	_	_	_
+49-54	_	with	_	_	_	_
+49-55	_	a	_	_	_	_
+49-56	_	prosperous	_	_	_	_
+49-57	_	middle	_	_	_	_
+49-58	_	class	_	_	_	_
+49-59	_	,	_	_	_	_
+49-60	_	in	_	_	_	_
+49-61	_	the	_	_	_	_
+49-62	_	Netherlands	_	_	_	_
+49-63	_	,	_	_	_	_
+49-64	_	and	_	_	_	_
+49-65	_	in	_	_	_	_
+49-66	_	England	_	_	_	_
+49-67	_	.	_	_	_	_
+
+#Text=Um , uh , skip this paragraph .
+50-1	_	Um	_	_	_	_
+50-2	_	,	_	_	_	_
+50-3	_	uh	_	_	_	_
+50-4	_	,	_	_	_	_
+50-5	_	skip	_	_	_	_
+50-6	_	this	abstract[125]	new[125]	coref	51-1[125_126]
+50-7	_	paragraph	abstract[125]	new[125]	_	_
+50-8	_	.	_	_	_	_
+
+#Text=This is the paragraph though .
+51-1	_	This	abstract[126]	new[126]	coref	52-4[126_127]
+51-2	_	is	_	_	_	_
+51-3	_	the	_	_	_	_
+51-4	_	paragraph	_	_	_	_
+51-5	_	though	_	_	_	_
+51-6	_	.	_	_	_	_
+
+#Text=Right here , the next one , p- on page three twelve , when you , when you read – if you wan na read it later .
+52-1	_	Right	_	_	_	_
+52-2	_	here	_	_	_	_
+52-3	_	,	_	_	_	_
+52-4	_	the	abstract[127]	new[127]	coref	52-26[127_128]
+52-5	_	next	abstract[127]	new[127]	_	_
+52-6	_	one	abstract[127]	new[127]	_	_
+52-7	_	,	abstract[127]	new[127]	_	_
+52-8	_	p-	abstract[127]	new[127]	_	_
+52-9	_	on	abstract[127]	new[127]	_	_
+52-10	_	page	abstract[127]	new[127]	_	_
+52-11	_	three	abstract[127]	new[127]	_	_
+52-12	_	twelve	abstract[127]	new[127]	_	_
+52-13	_	,	_	_	_	_
+52-14	_	when	_	_	_	_
+52-15	_	you	abstract[14]	new[14]	coref	52-18[14_15]
+52-16	_	,	_	_	_	_
+52-17	_	when	_	_	_	_
+52-18	_	you	abstract[15]	new[15]	coref	52-22[15_16]
+52-19	_	read	_	_	_	_
+52-20	_	–	_	_	_	_
+52-21	_	if	_	_	_	_
+52-22	_	you	abstract[16]	new[16]	coref	60-7[16_17]
+52-23	_	wan	_	_	_	_
+52-24	_	na	_	_	_	_
+52-25	_	read	_	_	_	_
+52-26	_	it	abstract[128]	new[128]	_	_
+52-27	_	later	_	_	_	_
+52-28	_	.	_	_	_	_
+
+#Text=Therefore , Luther did not accept rational arguments against predestination doctrine .
+53-1	_	Therefore	_	_	_	_
+53-2	_	,	_	_	_	_
+53-3	_	Luther	abstract[80]	new[80]	coref	54-11[80_81]
+53-4	_	did	_	_	_	_
+53-5	_	not	_	_	_	_
+53-6	_	accept	_	_	_	_
+53-7	_	rational	abstract[129]	new[129]	coref	54-1[129_130]
+53-8	_	arguments	abstract[129]	new[129]	_	_
+53-9	_	against	abstract[129]	new[129]	_	_
+53-10	_	predestination	abstract[129]	new[129]	_	_
+53-11	_	doctrine	abstract[129]	new[129]	_	_
+53-12	_	.	_	_	_	_
+
+#Text=Such arguments , on the contrary , necessarily appeared to Luther , given his theological orientation , as suspicious , from the very start , because they originated from human nature , which exalted itself against God .
+54-1	_	Such	abstract[130]	new[130]	coref	54-27[130_131]
+54-2	_	arguments	abstract[130]	new[130]	_	_
+54-3	_	,	_	_	_	_
+54-4	_	on	_	_	_	_
+54-5	_	the	_	_	_	_
+54-6	_	contrary	_	_	_	_
+54-7	_	,	_	_	_	_
+54-8	_	necessarily	_	_	_	_
+54-9	_	appeared	_	_	_	_
+54-10	_	to	_	_	_	_
+54-11	_	Luther	abstract[81]	new[81]	coref	54-14[81_82]
+54-12	_	,	_	_	_	_
+54-13	_	given	_	_	_	_
+54-14	_	his	abstract[82]	new[82]	_	_
+54-15	_	theological	_	_	_	_
+54-16	_	orientation	_	_	_	_
+54-17	_	,	_	_	_	_
+54-18	_	as	_	_	_	_
+54-19	_	suspicious	_	_	_	_
+54-20	_	,	_	_	_	_
+54-21	_	from	_	_	_	_
+54-22	_	the	_	_	_	_
+54-23	_	very	_	_	_	_
+54-24	_	start	_	_	_	_
+54-25	_	,	_	_	_	_
+54-26	_	because	_	_	_	_
+54-27	_	they	abstract[131]	new[131]	_	_
+54-28	_	originated	_	_	_	_
+54-29	_	from	_	_	_	_
+54-30	_	human	_	_	_	_
+54-31	_	nature	_	_	_	_
+54-32	_	,	_	_	_	_
+54-33	_	which	_	_	_	_
+54-34	_	exalted	_	_	_	_
+54-35	_	itself	_	_	_	_
+54-36	_	against	_	_	_	_
+54-37	_	God	abstract[116]	new[116]	coref	57-9[116_117]
+54-38	_	.	_	_	_	_
+
+#Text=The whore reason prefers to submit to the Devil , adjusts to all situations , and proves everything , that is demanded of her .
+55-1	_	The	abstract[132]	new[132]	coref	55-25[132_133]
+55-2	_	whore	abstract[132]	new[132]	_	_
+55-3	_	reason	abstract[132]	new[132]	_	_
+55-4	_	prefers	_	_	_	_
+55-5	_	to	_	_	_	_
+55-6	_	submit	_	_	_	_
+55-7	_	to	_	_	_	_
+55-8	_	the	abstract[136]	new[136]	coref	57-11[136_137]
+55-9	_	Devil	abstract[136]	new[136]	_	_
+55-10	_	,	_	_	_	_
+55-11	_	adjusts	_	_	_	_
+55-12	_	to	_	_	_	_
+55-13	_	all	_	_	_	_
+55-14	_	situations	_	_	_	_
+55-15	_	,	_	_	_	_
+55-16	_	and	_	_	_	_
+55-17	_	proves	_	_	_	_
+55-18	_	everything	_	_	_	_
+55-19	_	,	_	_	_	_
+55-20	_	that	_	_	_	_
+55-21	_	is	_	_	_	_
+55-22	_	demanded	_	_	_	_
+55-23	_	of	_	_	_	_
+55-24	_	her	abstract[133]	new[133]	_	_
+55-25	_	.	_	_	_	_
+
+#Text=Human nature , does not possess free will .
+56-1	_	Human	abstract[134]	new[134]	coref	57-1[134_135]
+56-2	_	nature	abstract[134]	new[134]	_	_
+56-3	_	,	_	_	_	_
+56-4	_	does	_	_	_	_
+56-5	_	not	_	_	_	_
+56-6	_	possess	_	_	_	_
+56-7	_	free	abstract[139]	new[139]	coref	58-4[139_140]
+56-8	_	will	abstract[139]	new[139]	_	_
+56-9	_	.	_	_	_	_
+
+#Text=It is like a horse , ridden by God or the Devil .
+57-1	_	It	abstract[135]	new[135]	_	_
+57-2	_	is	_	_	_	_
+57-3	_	like	_	_	_	_
+57-4	_	a	abstract[141]	new[141]	coref	59-1[141_142]
+57-5	_	horse	abstract[141]	new[141]	_	_
+57-6	_	,	abstract[141]	new[141]	_	_
+57-7	_	ridden	abstract[141]	new[141]	_	_
+57-8	_	by	abstract[141]	new[141]	_	_
+57-9	_	God	abstract[117]|abstract[141]	new[117]|new[141]	coref	61-10[117_118]
+57-10	_	or	abstract[141]	new[141]	_	_
+57-11	_	the	abstract[137]|abstract[141]	new[137]|new[141]	coref	61-12[137_138]
+57-12	_	Devil	abstract[137]|abstract[141]	new[137]|new[141]	_	_
+57-13	_	.	_	_	_	_
+
+#Text=The rider possesses the will .
+58-1	_	The	abstract[145]	new[145]	coref	62-1[145_146]
+58-2	_	rider	abstract[145]	new[145]	_	_
+58-3	_	possesses	_	_	_	_
+58-4	_	the	abstract[140]	new[140]	_	_
+58-5	_	will	abstract[140]	new[140]	_	_
+58-6	_	.	_	_	_	_
+
+#Text=The horse obeys .
+59-1	_	The	abstract[142]	new[142]	_	_
+59-2	_	horse	abstract[142]	new[142]	_	_
+59-3	_	obeys	_	_	_	_
+59-4	_	.	_	_	_	_
+
+#Text=Well that 's as clear as you can get it .
+60-1	_	Well	_	_	_	_
+60-2	_	that	abstract[143]	new[143]	coref	60-10[143_144]
+60-3	_	's	_	_	_	_
+60-4	_	as	_	_	_	_
+60-5	_	clear	_	_	_	_
+60-6	_	as	_	_	_	_
+60-7	_	you	abstract[17]	new[17]	coref	64-10[17_18]
+60-8	_	can	_	_	_	_
+60-9	_	get	_	_	_	_
+60-10	_	it	abstract[144]	new[144]	_	_
+60-11	_	.	_	_	_	_
+
+#Text=Human nature is like a horse , ridden by God or the Devil .
+61-1	_	Human	_	_	_	_
+61-2	_	nature	_	_	_	_
+61-3	_	is	_	_	_	_
+61-4	_	like	_	_	_	_
+61-5	_	a	abstract[147]	new[147]	coref	63-1[147_148]
+61-6	_	horse	abstract[147]	new[147]	_	_
+61-7	_	,	abstract[147]	new[147]	_	_
+61-8	_	ridden	abstract[147]	new[147]	_	_
+61-9	_	by	abstract[147]	new[147]	_	_
+61-10	_	God	abstract[118]|abstract[147]	new[118]|new[147]	coref	69-31[118_119]
+61-11	_	or	abstract[147]	new[147]	_	_
+61-12	_	the	abstract[138]|abstract[147]	new[138]|new[147]	_	_
+61-13	_	Devil	abstract[138]|abstract[147]	new[138]|new[147]	_	_
+61-14	_	.	_	_	_	_
+
+#Text=The rider possesses free will .
+62-1	_	The	abstract[146]	new[146]	_	_
+62-2	_	rider	abstract[146]	new[146]	_	_
+62-3	_	possesses	_	_	_	_
+62-4	_	free	_	_	_	_
+62-5	_	will	_	_	_	_
+62-6	_	.	_	_	_	_
+
+#Text=The horse obeys .
+63-1	_	The	abstract[148]	new[148]	_	_
+63-2	_	horse	abstract[148]	new[148]	_	_
+63-3	_	obeys	_	_	_	_
+63-4	_	.	_	_	_	_
+
+#Text=Alright that , th- now the debate is joined you see .
+64-1	_	Alright	_	_	_	_
+64-2	_	that	abstract[149]	new[149]	coref	65-10[149_150]
+64-3	_	,	_	_	_	_
+64-4	_	th-	_	_	_	_
+64-5	_	now	_	_	_	_
+64-6	_	the	_	_	_	_
+64-7	_	debate	_	_	_	_
+64-8	_	is	_	_	_	_
+64-9	_	joined	_	_	_	_
+64-10	_	you	abstract[18]	new[18]	coref	65-3[18_19]
+64-11	_	see	_	_	_	_
+64-12	_	.	_	_	_	_
+
+#Text=And as you come — as Erasmus comes to this , he 's going to say , well let 's look at the Scriptures .
+65-1	_	And	_	_	_	_
+65-2	_	as	_	_	_	_
+65-3	_	you	abstract[19]	new[19]	coref	72-9[19_20]
+65-4	_	come	_	_	_	_
+65-5	_	—	_	_	_	_
+65-6	_	as	_	_	_	_
+65-7	_	Erasmus	abstract[71]	new[71]	coref	65-12[71_72]
+65-8	_	comes	_	_	_	_
+65-9	_	to	_	_	_	_
+65-10	_	this	abstract[150]	new[150]	_	_
+65-11	_	,	_	_	_	_
+65-12	_	he	abstract[72]	new[72]	coref	79-3[72_73]
+65-13	_	's	_	_	_	_
+65-14	_	going	_	_	_	_
+65-15	_	to	_	_	_	_
+65-16	_	say	_	_	_	_
+65-17	_	,	_	_	_	_
+65-18	_	well	_	_	_	_
+65-19	_	let	_	_	_	_
+65-20	_	's	_	_	_	_
+65-21	_	look	_	_	_	_
+65-22	_	at	_	_	_	_
+65-23	_	the	abstract[151]	new[151]	coref	66-27[151_152]
+65-24	_	Scriptures	abstract[151]	new[151]	_	_
+65-25	_	.	_	_	_	_
+
+#Text=Now , number one , we have to admit first – v- first off , that there seem to be passages , there are passages in the Scriptures .
+66-1	_	Now	_	_	_	_
+66-2	_	,	_	_	_	_
+66-3	_	number	_	_	_	_
+66-4	_	one	_	_	_	_
+66-5	_	,	_	_	_	_
+66-6	_	we	abstract[42]	new[42]	coref	79-14[42_43]
+66-7	_	have	_	_	_	_
+66-8	_	to	_	_	_	_
+66-9	_	admit	_	_	_	_
+66-10	_	first	_	_	_	_
+66-11	_	–	_	_	_	_
+66-12	_	v-	_	_	_	_
+66-13	_	first	_	_	_	_
+66-14	_	off	_	_	_	_
+66-15	_	,	_	_	_	_
+66-16	_	that	_	_	_	_
+66-17	_	there	_	_	_	_
+66-18	_	seem	_	_	_	_
+66-19	_	to	_	_	_	_
+66-20	_	be	_	_	_	_
+66-21	_	passages	_	_	_	_
+66-22	_	,	_	_	_	_
+66-23	_	there	_	_	_	_
+66-24	_	are	_	_	_	_
+66-25	_	passages	_	_	_	_
+66-26	_	in	_	_	_	_
+66-27	_	the	abstract[152]	new[152]	coref	70-6[152_153]
+66-28	_	Scriptures	abstract[152]	new[152]	_	_
+66-29	_	.	_	_	_	_
+
+#Text=Are there not ?
+67-1	_	Are	_	_	_	_
+67-2	_	there	_	_	_	_
+67-3	_	not	_	_	_	_
+67-4	_	?	_	_	_	_
+
+#Text=Many .
+68-1	_	Many	_	_	_	_
+68-2	_	.	_	_	_	_
+
+#Text=Which seem to teach , that man is responsible for his deeds , and that he may act , and has a free will to respond to the invitation of God .
+69-1	_	Which	_	_	_	_
+69-2	_	seem	_	_	_	_
+69-3	_	to	_	_	_	_
+69-4	_	teach	_	_	_	_
+69-5	_	,	_	_	_	_
+69-6	_	that	_	_	_	_
+69-7	_	man	abstract[158]	new[158]	coref	69-11[158_159]
+69-8	_	is	_	_	_	_
+69-9	_	responsible	_	_	_	_
+69-10	_	for	_	_	_	_
+69-11	_	his	abstract[159]|abstract[164]	new[159]|new[164]	coref	69-16[159_160]
+69-12	_	deeds	abstract[164]	new[164]	_	_
+69-13	_	,	_	_	_	_
+69-14	_	and	_	_	_	_
+69-15	_	that	_	_	_	_
+69-16	_	he	abstract[160]	new[160]	coref	80-13[160_161]
+69-17	_	may	_	_	_	_
+69-18	_	act	_	_	_	_
+69-19	_	,	_	_	_	_
+69-20	_	and	_	_	_	_
+69-21	_	has	_	_	_	_
+69-22	_	a	_	_	_	_
+69-23	_	free	_	_	_	_
+69-24	_	will	_	_	_	_
+69-25	_	to	_	_	_	_
+69-26	_	respond	_	_	_	_
+69-27	_	to	_	_	_	_
+69-28	_	the	_	_	_	_
+69-29	_	invitation	_	_	_	_
+69-30	_	of	_	_	_	_
+69-31	_	God	abstract[119]	new[119]	coref	82-46[119_120]
+69-32	_	.	_	_	_	_
+
+#Text=Is n't that clear in the Scriptures ?
+70-1	_	Is	_	_	_	_
+70-2	_	n't	_	_	_	_
+70-3	_	that	_	_	_	_
+70-4	_	clear	_	_	_	_
+70-5	_	in	_	_	_	_
+70-6	_	the	abstract[153]	new[153]	coref	72-49[153_154]
+70-7	_	Scriptures	abstract[153]	new[153]	_	_
+70-8	_	?	_	_	_	_
+
+#Text=Whosoever will may come .
+71-1	_	Whosoever	_	_	_	_
+71-2	_	will	_	_	_	_
+71-3	_	may	_	_	_	_
+71-4	_	come	_	_	_	_
+71-5	_	.	_	_	_	_
+
+#Text=Um , Jesus turned to his disciples , you remember , when some deserted him , and seemed , because they were disappointed in some of his sayings , and they were offended by some of the things he said , and they walked no longer with him it said .
+72-1	_	Um	_	_	_	_
+72-2	_	,	_	_	_	_
+72-3	_	Jesus	abstract[165]	new[165]	coref	72-6[165_166]
+72-4	_	turned	_	_	_	_
+72-5	_	to	_	_	_	_
+72-6	_	his	abstract[166]	new[166]	coref	72-15[166_167]
+72-7	_	disciples	_	_	_	_
+72-8	_	,	_	_	_	_
+72-9	_	you	abstract[20]	new[20]	coref	83-1[20_21]
+72-10	_	remember	_	_	_	_
+72-11	_	,	_	_	_	_
+72-12	_	when	_	_	_	_
+72-13	_	some	abstract[173]	new[173]	coref	72-21[173_174]
+72-14	_	deserted	_	_	_	_
+72-15	_	him	abstract[167]	new[167]	coref	72-27[167_168]
+72-16	_	,	_	_	_	_
+72-17	_	and	_	_	_	_
+72-18	_	seemed	_	_	_	_
+72-19	_	,	_	_	_	_
+72-20	_	because	_	_	_	_
+72-21	_	they	abstract[174]	new[174]	coref	72-31[174_175]
+72-22	_	were	_	_	_	_
+72-23	_	disappointed	_	_	_	_
+72-24	_	in	_	_	_	_
+72-25	_	some	_	_	_	_
+72-26	_	of	_	_	_	_
+72-27	_	his	abstract[168]	new[168]	coref	72-39[168_169]
+72-28	_	sayings	_	_	_	_
+72-29	_	,	_	_	_	_
+72-30	_	and	_	_	_	_
+72-31	_	they	abstract[175]	new[175]	coref	72-43[175_176]
+72-32	_	were	_	_	_	_
+72-33	_	offended	_	_	_	_
+72-34	_	by	_	_	_	_
+72-35	_	some	_	_	_	_
+72-36	_	of	_	_	_	_
+72-37	_	the	_	_	_	_
+72-38	_	things	_	_	_	_
+72-39	_	he	abstract[169]	new[169]	coref	72-48[169_170]
+72-40	_	said	_	_	_	_
+72-41	_	,	_	_	_	_
+72-42	_	and	_	_	_	_
+72-43	_	they	abstract[176]	new[176]	_	_
+72-44	_	walked	_	_	_	_
+72-45	_	no	_	_	_	_
+72-46	_	longer	_	_	_	_
+72-47	_	with	_	_	_	_
+72-48	_	him	abstract[170]	new[170]	coref	73-3[170_171]
+72-49	_	it	abstract[154]	new[154]	coref	79-13[154_155]
+72-50	_	said	_	_	_	_
+72-51	_	.	_	_	_	_
+
+#Text=And then he turned to those who remained , and he said , will ye also go away ?
+73-1	_	And	_	_	_	_
+73-2	_	then	_	_	_	_
+73-3	_	he	abstract[171]	new[171]	coref	73-11[171_172]
+73-4	_	turned	_	_	_	_
+73-5	_	to	_	_	_	_
+73-6	_	those	abstract[177]	new[177]	coref	73-15[177_178]
+73-7	_	who	abstract[177]	new[177]	_	_
+73-8	_	remained	abstract[177]	new[177]	_	_
+73-9	_	,	_	_	_	_
+73-10	_	and	_	_	_	_
+73-11	_	he	abstract[172]	new[172]	_	_
+73-12	_	said	_	_	_	_
+73-13	_	,	_	_	_	_
+73-14	_	will	_	_	_	_
+73-15	_	ye	abstract[178]	new[178]	coref	74-1[178_179]
+73-16	_	also	_	_	_	_
+73-17	_	go	_	_	_	_
+73-18	_	away	_	_	_	_
+73-19	_	?	_	_	_	_
+
+#Text=They had a choice .
+74-1	_	They	abstract[179]	new[179]	coref	75-3[179_180]
+74-2	_	had	_	_	_	_
+74-3	_	a	_	_	_	_
+74-4	_	choice	_	_	_	_
+74-5	_	.	_	_	_	_
+
+#Text=Did n't they ?
+75-1	_	Did	_	_	_	_
+75-2	_	n't	_	_	_	_
+75-3	_	they	abstract[180]	new[180]	coref	76-2[180_181]
+75-4	_	?	_	_	_	_
+
+#Text=Will you go away ?
+76-1	_	Will	_	_	_	_
+76-2	_	you	abstract[181]	new[181]	coref	77-3[181_182]
+76-3	_	go	_	_	_	_
+76-4	_	away	_	_	_	_
+76-5	_	?	_	_	_	_
+
+#Text=What do you will ?
+77-1	_	What	_	_	_	_
+77-2	_	do	_	_	_	_
+77-3	_	you	abstract[182]	new[182]	coref	78-12[182_183]
+77-4	_	will	_	_	_	_
+77-5	_	?	_	_	_	_
+
+#Text=And the will , apparently was , re- resided in in these disciples .
+78-1	_	And	_	_	_	_
+78-2	_	the	_	_	_	_
+78-3	_	will	_	_	_	_
+78-4	_	,	_	_	_	_
+78-5	_	apparently	_	_	_	_
+78-6	_	was	_	_	_	_
+78-7	_	,	_	_	_	_
+78-8	_	re-	_	_	_	_
+78-9	_	resided	_	_	_	_
+78-10	_	in	_	_	_	_
+78-11	_	in	_	_	_	_
+78-12	_	these	abstract[183]	new[183]	_	_
+78-13	_	disciples	abstract[183]	new[183]	_	_
+78-14	_	.	_	_	_	_
+
+#Text=And so Erasmus is going to say , so obviously , in Scripture we have paradox .
+79-1	_	And	_	_	_	_
+79-2	_	so	_	_	_	_
+79-3	_	Erasmus	abstract[73]	new[73]	_	_
+79-4	_	is	_	_	_	_
+79-5	_	going	_	_	_	_
+79-6	_	to	_	_	_	_
+79-7	_	say	_	_	_	_
+79-8	_	,	_	_	_	_
+79-9	_	so	_	_	_	_
+79-10	_	obviously	_	_	_	_
+79-11	_	,	_	_	_	_
+79-12	_	in	_	_	_	_
+79-13	_	Scripture	abstract[155]	new[155]	coref	80-6[155_156]
+79-14	_	we	abstract[43]	new[43]	coref	80-1[43_44]
+79-15	_	have	_	_	_	_
+79-16	_	paradox	_	_	_	_
+79-17	_	.	_	_	_	_
+
+#Text=We have clear passages of Scripture , which seem to indicate that man has a free will , and that he can exercise that will , to follow , or not to follow .
+80-1	_	We	abstract[44]	new[44]	coref	82-6[44_45]
+80-2	_	have	_	_	_	_
+80-3	_	clear	_	_	_	_
+80-4	_	passages	_	_	_	_
+80-5	_	of	_	_	_	_
+80-6	_	Scripture	abstract[156]	new[156]	coref	82-10[156_157]
+80-7	_	,	_	_	_	_
+80-8	_	which	_	_	_	_
+80-9	_	seem	_	_	_	_
+80-10	_	to	_	_	_	_
+80-11	_	indicate	_	_	_	_
+80-12	_	that	_	_	_	_
+80-13	_	man	abstract[161]	new[161]	coref	80-21[161_162]
+80-14	_	has	_	_	_	_
+80-15	_	a	abstract[184]	new[184]	coref	80-24[184_185]
+80-16	_	free	abstract[184]	new[184]	_	_
+80-17	_	will	abstract[184]	new[184]	_	_
+80-18	_	,	_	_	_	_
+80-19	_	and	_	_	_	_
+80-20	_	that	_	_	_	_
+80-21	_	he	abstract[162]	new[162]	_	_
+80-22	_	can	_	_	_	_
+80-23	_	exercise	_	_	_	_
+80-24	_	that	abstract[185]	new[185]	_	_
+80-25	_	will	abstract[185]	new[185]	_	_
+80-26	_	,	_	_	_	_
+80-27	_	to	_	_	_	_
+80-28	_	follow	_	_	_	_
+80-29	_	,	_	_	_	_
+80-30	_	or	_	_	_	_
+80-31	_	not	_	_	_	_
+80-32	_	to	_	_	_	_
+80-33	_	follow	_	_	_	_
+80-34	_	.	_	_	_	_
+
+#Text=To respond or not to respond .
+81-1	_	To	_	_	_	_
+81-2	_	respond	_	_	_	_
+81-3	_	or	_	_	_	_
+81-4	_	not	_	_	_	_
+81-5	_	to	_	_	_	_
+81-6	_	respond	_	_	_	_
+81-7	_	.	_	_	_	_
+
+#Text=On the other hand , we have passages of Scripture , which seem to indicate , that the will is not free , and that the – , and that man i- th- is – man is predestined by a an omnipotent sovereign will of God .
+82-1	_	On	_	_	_	_
+82-2	_	the	_	_	_	_
+82-3	_	other	_	_	_	_
+82-4	_	hand	_	_	_	_
+82-5	_	,	_	_	_	_
+82-6	_	we	abstract[45]	new[45]	_	_
+82-7	_	have	_	_	_	_
+82-8	_	passages	_	_	_	_
+82-9	_	of	_	_	_	_
+82-10	_	Scripture	abstract[157]	new[157]	_	_
+82-11	_	,	_	_	_	_
+82-12	_	which	_	_	_	_
+82-13	_	seem	_	_	_	_
+82-14	_	to	_	_	_	_
+82-15	_	indicate	_	_	_	_
+82-16	_	,	_	_	_	_
+82-17	_	that	_	_	_	_
+82-18	_	the	abstract[187]	new[187]	_	_
+82-19	_	will	abstract[187]	new[187]	_	_
+82-20	_	is	_	_	_	_
+82-21	_	not	_	_	_	_
+82-22	_	free	_	_	_	_
+82-23	_	,	_	_	_	_
+82-24	_	and	_	_	_	_
+82-25	_	that	_	_	_	_
+82-26	_	the	_	_	_	_
+82-27	_	–	_	_	_	_
+82-28	_	,	_	_	_	_
+82-29	_	and	_	_	_	_
+82-30	_	that	_	_	_	_
+82-31	_	man	_	_	_	_
+82-32	_	i-	_	_	_	_
+82-33	_	th-	_	_	_	_
+82-34	_	is	_	_	_	_
+82-35	_	–	_	_	_	_
+82-36	_	man	_	_	_	_
+82-37	_	is	_	_	_	_
+82-38	_	predestined	_	_	_	_
+82-39	_	by	_	_	_	_
+82-40	_	a	_	_	_	_
+82-41	_	an	_	_	_	_
+82-42	_	omnipotent	_	_	_	_
+82-43	_	sovereign	_	_	_	_
+82-44	_	will	_	_	_	_
+82-45	_	of	_	_	_	_
+82-46	_	God	abstract[120]	new[120]	_	_
+82-47	_	.	_	_	_	_
+
+#Text=Mr Roberts , please get back to me .
+83-1	_	Mr	abstract[21]	new[21]	_	_
+83-2	_	Roberts	abstract[21]	new[21]	_	_
+83-3	_	,	_	_	_	_
+83-4	_	please	_	_	_	_
+83-5	_	get	_	_	_	_
+83-6	_	back	_	_	_	_
+83-7	_	to	_	_	_	_
+83-8	_	me	abstract[6]	new[6]	_	_
+83-9	_	.	_	_	_	_
+

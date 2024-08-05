@@ -1,0 +1,795 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=How to Hypnotize a Chicken
+1-1	_	How	abstract[1]	new[1]	coref	2-18[1_2]
+1-2	_	to	abstract[1]	new[1]	_	_
+1-3	_	Hypnotize	abstract[1]	new[1]	_	_
+1-4	_	a	abstract[1]	new[1]	_	_
+1-5	_	Chicken	abstract[1]	new[1]	_	_
+
+#Text=Anyone who 's spent a lot of time on a farm with chickens is probably familiar with this trick .
+2-1	_	Anyone	_	_	_	_
+2-2	_	who	_	_	_	_
+2-3	_	's	_	_	_	_
+2-4	_	spent	_	_	_	_
+2-5	_	a	_	_	_	_
+2-6	_	lot	_	_	_	_
+2-7	_	of	_	_	_	_
+2-8	_	time	_	_	_	_
+2-9	_	on	_	_	_	_
+2-10	_	a	_	_	_	_
+2-11	_	farm	_	_	_	_
+2-12	_	with	_	_	_	_
+2-13	_	chickens	_	_	_	_
+2-14	_	is	_	_	_	_
+2-15	_	probably	_	_	_	_
+2-16	_	familiar	_	_	_	_
+2-17	_	with	_	_	_	_
+2-18	_	this	abstract[2]	new[2]	coref	3-7[2_3]
+2-19	_	trick	abstract[2]	new[2]	_	_
+2-20	_	.	_	_	_	_
+
+#Text=Those who 've never heard of this will be amazed to see a chicken lie perfectly still after these instructions are followed .
+3-1	_	Those	_	_	_	_
+3-2	_	who	_	_	_	_
+3-3	_	've	_	_	_	_
+3-4	_	never	_	_	_	_
+3-5	_	heard	_	_	_	_
+3-6	_	of	_	_	_	_
+3-7	_	this	abstract[3]	new[3]	_	_
+3-8	_	will	_	_	_	_
+3-9	_	be	_	_	_	_
+3-10	_	amazed	_	_	_	_
+3-11	_	to	_	_	_	_
+3-12	_	see	_	_	_	_
+3-13	_	a	_	_	_	_
+3-14	_	chicken	_	_	_	_
+3-15	_	lie	_	_	_	_
+3-16	_	perfectly	_	_	_	_
+3-17	_	still	_	_	_	_
+3-18	_	after	_	_	_	_
+3-19	_	these	_	_	_	_
+3-20	_	instructions	_	_	_	_
+3-21	_	are	_	_	_	_
+3-22	_	followed	_	_	_	_
+3-23	_	.	_	_	_	_
+
+#Text=Biologists think that fear causes this " Prepare yourself for a dance . Get the basics and proper footwear . Recruit a teacher or salesman . Find an appropriate location .
+4-1	_	Biologists	_	_	_	_
+4-2	_	think	_	_	_	_
+4-3	_	that	_	_	_	_
+4-4	_	fear	_	_	_	_
+4-5	_	causes	_	_	_	_
+4-6	_	this	_	_	_	_
+4-7	_	"	_	_	_	_
+4-8	_	Prepare	_	_	_	_
+4-9	_	yourself	abstract[47]	new[47]	coref	11-1[47_48]
+4-10	_	for	_	_	_	_
+4-11	_	a	_	_	_	_
+4-12	_	dance	_	_	_	_
+4-13	_	.	_	_	_	_
+4-14	_	Get	_	_	_	_
+4-15	_	the	_	_	_	_
+4-16	_	basics	_	_	_	_
+4-17	_	and	_	_	_	_
+4-18	_	proper	_	_	_	_
+4-19	_	footwear	_	_	_	_
+4-20	_	.	_	_	_	_
+4-21	_	Recruit	_	_	_	_
+4-22	_	a	_	_	_	_
+4-23	_	teacher	_	_	_	_
+4-24	_	or	_	_	_	_
+4-25	_	salesman	_	_	_	_
+4-26	_	.	_	_	_	_
+4-27	_	Find	_	_	_	_
+4-28	_	an	_	_	_	_
+4-29	_	appropriate	_	_	_	_
+4-30	_	location	_	_	_	_
+4-31	_	.	_	_	_	_
+
+#Text=hypnosis , " which may be an attempt to " play dead " to fool predators .
+5-1	_	hypnosis	_	_	_	_
+5-2	_	,	_	_	_	_
+5-3	_	"	_	_	_	_
+5-4	_	which	_	_	_	_
+5-5	_	may	_	_	_	_
+5-6	_	be	_	_	_	_
+5-7	_	an	_	_	_	_
+5-8	_	attempt	_	_	_	_
+5-9	_	to	_	_	_	_
+5-10	_	"	_	_	_	_
+5-11	_	play	_	_	_	_
+5-12	_	dead	_	_	_	_
+5-13	_	"	_	_	_	_
+5-14	_	to	_	_	_	_
+5-15	_	fool	_	_	_	_
+5-16	_	predators	_	_	_	_
+5-17	_	.	_	_	_	_
+
+#Text=Method One of Two : Hypnotizing a Chicken
+6-1	_	Method	_	_	_	_
+6-2	_	One	_	_	_	_
+6-3	_	of	_	_	_	_
+6-4	_	Two	_	_	_	_
+6-5	_	:	_	_	_	_
+6-6	_	Hypnotizing	_	_	_	_
+6-7	_	a	abstract[4]	new[4]	coref	7-2[4_5]
+6-8	_	Chicken	abstract[4]	new[4]	_	_
+
+#Text=Hold the chicken down on a flat surface .
+7-1	_	Hold	_	_	_	_
+7-2	_	the	abstract[5]	new[5]	coref	8-2[5_6]
+7-3	_	chicken	abstract[5]	new[5]	_	_
+7-4	_	down	_	_	_	_
+7-5	_	on	_	_	_	_
+7-6	_	a	abstract[44]	new[44]	coref	9-15[44_45]
+7-7	_	flat	abstract[44]	new[44]	_	_
+7-8	_	surface	abstract[44]	new[44]	_	_
+7-9	_	.	_	_	_	_
+
+#Text=Hold the chicken with one hand supporting the breast .
+8-1	_	Hold	_	_	_	_
+8-2	_	the	abstract[6]	new[6]	_	_
+8-3	_	chicken	abstract[6]	new[6]	_	_
+8-4	_	with	_	_	_	_
+8-5	_	one	_	_	_	_
+8-6	_	hand	_	_	_	_
+8-7	_	supporting	_	_	_	_
+8-8	_	the	abstract[41]	new[41]	coref	9-6[41_42]
+8-9	_	breast	abstract[41]	new[41]	_	_
+8-10	_	.	_	_	_	_
+
+#Text=Place it down so that its breast is carrying its weight and rests on the ground .
+9-1	_	Place	_	_	_	_
+9-2	_	it	abstract[7]	new[7]	coref	9-6[7_8]
+9-3	_	down	_	_	_	_
+9-4	_	so	_	_	_	_
+9-5	_	that	_	_	_	_
+9-6	_	its	abstract[8]|abstract[42]	new[8]|new[42]	coref|coref	9-10[8_9]|11-7[42_43]
+9-7	_	breast	abstract[42]	new[42]	_	_
+9-8	_	is	_	_	_	_
+9-9	_	carrying	_	_	_	_
+9-10	_	its	abstract[9]	new[9]	coref	10-4[9_10]
+9-11	_	weight	_	_	_	_
+9-12	_	and	_	_	_	_
+9-13	_	rests	_	_	_	_
+9-14	_	on	_	_	_	_
+9-15	_	the	abstract[45]	new[45]	coref	23-15[45_46]
+9-16	_	ground	abstract[45]	new[45]	_	_
+9-17	_	.	_	_	_	_
+
+#Text=Continue to hold its feet so the grand experiment can continue .
+10-1	_	Continue	_	_	_	_
+10-2	_	to	_	_	_	_
+10-3	_	hold	_	_	_	_
+10-4	_	its	abstract[10]	new[10]	coref	11-4[10_11]
+10-5	_	feet	_	_	_	_
+10-6	_	so	_	_	_	_
+10-7	_	the	_	_	_	_
+10-8	_	grand	_	_	_	_
+10-9	_	experiment	_	_	_	_
+10-10	_	can	_	_	_	_
+10-11	_	continue	_	_	_	_
+10-12	_	.	_	_	_	_
+
+#Text=You can place the chicken on its breast instead .
+11-1	_	You	abstract[48]	new[48]	coref	13-2[48_49]
+11-2	_	can	_	_	_	_
+11-3	_	place	_	_	_	_
+11-4	_	the	abstract[11]	new[11]	coref	11-7[11_12]
+11-5	_	chicken	abstract[11]	new[11]	_	_
+11-6	_	on	_	_	_	_
+11-7	_	its	abstract[12]|abstract[43]	new[12]|new[43]	coref	12-5[12_13]
+11-8	_	breast	abstract[43]	new[43]	_	_
+11-9	_	instead	_	_	_	_
+11-10	_	.	_	_	_	_
+
+#Text=Press gently down on its back , and gently move its legs back if it tries to stand up .
+12-1	_	Press	_	_	_	_
+12-2	_	gently	_	_	_	_
+12-3	_	down	_	_	_	_
+12-4	_	on	_	_	_	_
+12-5	_	its	abstract[13]	new[13]	coref	12-11[13_14]
+12-6	_	back	_	_	_	_
+12-7	_	,	_	_	_	_
+12-8	_	and	_	_	_	_
+12-9	_	gently	_	_	_	_
+12-10	_	move	_	_	_	_
+12-11	_	its	abstract[14]|abstract[56]	new[14]|new[56]	coref|coref	12-15[14_15]|18-4[56_57]
+12-12	_	legs	abstract[56]	new[56]	_	_
+12-13	_	back	_	_	_	_
+12-14	_	if	_	_	_	_
+12-15	_	it	abstract[15]	new[15]	coref	14-2[15_16]
+12-16	_	tries	_	_	_	_
+12-17	_	to	_	_	_	_
+12-18	_	stand	_	_	_	_
+12-19	_	up	_	_	_	_
+12-20	_	.	_	_	_	_
+
+#Text=Wiggle your finger .
+13-1	_	Wiggle	_	_	_	_
+13-2	_	your	abstract[49]	new[49]	coref	15-5[49_50]
+13-3	_	finger	_	_	_	_
+13-4	_	.	_	_	_	_
+
+#Text=Hold the bird down gently with one hand .
+14-1	_	Hold	_	_	_	_
+14-2	_	the	abstract[16]	new[16]	coref	15-12[16_17]
+14-3	_	bird	abstract[16]	new[16]	_	_
+14-4	_	down	_	_	_	_
+14-5	_	gently	_	_	_	_
+14-6	_	with	_	_	_	_
+14-7	_	one	_	_	_	_
+14-8	_	hand	_	_	_	_
+14-9	_	.	_	_	_	_
+
+#Text=Put one finger on your other hand just in front of its beak tip , without touching it .
+15-1	_	Put	_	_	_	_
+15-2	_	one	_	_	_	_
+15-3	_	finger	_	_	_	_
+15-4	_	on	_	_	_	_
+15-5	_	your	abstract[50]	new[50]	coref	23-8[50_51]
+15-6	_	other	_	_	_	_
+15-7	_	hand	_	_	_	_
+15-8	_	just	_	_	_	_
+15-9	_	in	_	_	_	_
+15-10	_	front	_	_	_	_
+15-11	_	of	_	_	_	_
+15-12	_	its	abstract[17]	new[17]	coref	17-3[17_18]
+15-13	_	beak	_	_	_	_
+15-14	_	tip	_	_	_	_
+15-15	_	,	_	_	_	_
+15-16	_	without	_	_	_	_
+15-17	_	touching	_	_	_	_
+15-18	_	it	_	_	_	_
+15-19	_	.	_	_	_	_
+
+#Text=Move the finger backward to about 4 inches ( 10 cm ) away , then back again .
+16-1	_	Move	_	_	_	_
+16-2	_	the	_	_	_	_
+16-3	_	finger	_	_	_	_
+16-4	_	backward	_	_	_	_
+16-5	_	to	_	_	_	_
+16-6	_	about	_	_	_	_
+16-7	_	4	_	_	_	_
+16-8	_	inches	_	_	_	_
+16-9	_	(	_	_	_	_
+16-10	_	10	_	_	_	_
+16-11	_	cm	_	_	_	_
+16-12	_	)	_	_	_	_
+16-13	_	away	_	_	_	_
+16-14	_	,	_	_	_	_
+16-15	_	then	_	_	_	_
+16-16	_	back	_	_	_	_
+16-17	_	again	_	_	_	_
+16-18	_	.	_	_	_	_
+
+#Text=Repeat until the chicken stops moving or squawking .
+17-1	_	Repeat	_	_	_	_
+17-2	_	until	_	_	_	_
+17-3	_	the	abstract[18]	new[18]	coref	18-4[18_19]
+17-4	_	chicken	abstract[18]	new[18]	_	_
+17-5	_	stops	_	_	_	_
+17-6	_	moving	_	_	_	_
+17-7	_	or	_	_	_	_
+17-8	_	squawking	_	_	_	_
+17-9	_	.	_	_	_	_
+
+#Text=Let go of its legs .
+18-1	_	Let	_	_	_	_
+18-2	_	go	_	_	_	_
+18-3	_	of	_	_	_	_
+18-4	_	its	abstract[19]|abstract[57]	new[19]|new[57]	coref	19-1[19_20]
+18-5	_	legs	abstract[57]	new[57]	_	_
+18-6	_	.	_	_	_	_
+
+#Text=The chicken should be " hypnotized " and cease to struggle .
+19-1	_	The	abstract[20]	new[20]	coref	20-1[20_21]
+19-2	_	chicken	abstract[20]	new[20]	_	_
+19-3	_	should	_	_	_	_
+19-4	_	be	_	_	_	_
+19-5	_	"	_	_	_	_
+19-6	_	hypnotized	_	_	_	_
+19-7	_	"	_	_	_	_
+19-8	_	and	_	_	_	_
+19-9	_	cease	_	_	_	_
+19-10	_	to	_	_	_	_
+19-11	_	struggle	_	_	_	_
+19-12	_	.	_	_	_	_
+
+#Text=It will lie there for anywhere from 30 seconds to several minutes .
+20-1	_	It	abstract[21]	new[21]	coref	21-7[21_22]
+20-2	_	will	_	_	_	_
+20-3	_	lie	_	_	_	_
+20-4	_	there	_	_	_	_
+20-5	_	for	_	_	_	_
+20-6	_	anywhere	_	_	_	_
+20-7	_	from	_	_	_	_
+20-8	_	30	_	_	_	_
+20-9	_	seconds	_	_	_	_
+20-10	_	to	_	_	_	_
+20-11	_	several	_	_	_	_
+20-12	_	minutes	_	_	_	_
+20-13	_	.	_	_	_	_
+
+#Text=Draw a line in front of its beak instead .
+21-1	_	Draw	_	_	_	_
+21-2	_	a	_	_	_	_
+21-3	_	line	_	_	_	_
+21-4	_	in	_	_	_	_
+21-5	_	front	_	_	_	_
+21-6	_	of	_	_	_	_
+21-7	_	its	abstract[22]	new[22]	coref	22-2[22_23]
+21-8	_	beak	_	_	_	_
+21-9	_	instead	_	_	_	_
+21-10	_	.	_	_	_	_
+
+#Text=If the chicken was n't hypnotized , try this alternative .
+22-1	_	If	_	_	_	_
+22-2	_	the	abstract[23]	new[23]	coref	24-3[23_24]
+22-3	_	chicken	abstract[23]	new[23]	_	_
+22-4	_	was	_	_	_	_
+22-5	_	n't	_	_	_	_
+22-6	_	hypnotized	_	_	_	_
+22-7	_	,	_	_	_	_
+22-8	_	try	_	_	_	_
+22-9	_	this	_	_	_	_
+22-10	_	alternative	_	_	_	_
+22-11	_	.	_	_	_	_
+
+#Text=Using chalk , a stick , or your finger , draw a line on the ground 12 " ( 30 cm ) long .
+23-1	_	Using	_	_	_	_
+23-2	_	chalk	_	_	_	_
+23-3	_	,	_	_	_	_
+23-4	_	a	_	_	_	_
+23-5	_	stick	_	_	_	_
+23-6	_	,	_	_	_	_
+23-7	_	or	_	_	_	_
+23-8	_	your	abstract[51]	new[51]	coref	26-4[51_52]
+23-9	_	finger	_	_	_	_
+23-10	_	,	_	_	_	_
+23-11	_	draw	_	_	_	_
+23-12	_	a	abstract[58]	new[58]	coref	24-9[58_59]
+23-13	_	line	abstract[58]	new[58]	_	_
+23-14	_	on	_	_	_	_
+23-15	_	the	abstract[46]	new[46]	_	_
+23-16	_	ground	abstract[46]	new[46]	_	_
+23-17	_	12	_	_	_	_
+23-18	_	"	_	_	_	_
+23-19	_	(	_	_	_	_
+23-20	_	30	_	_	_	_
+23-21	_	cm	_	_	_	_
+23-22	_	)	_	_	_	_
+23-23	_	long	_	_	_	_
+23-24	_	.	_	_	_	_
+
+#Text=Start near the chicken 's beak and draw the line slowly outward , in front of its head .
+24-1	_	Start	_	_	_	_
+24-2	_	near	_	_	_	_
+24-3	_	the	abstract[24]	new[24]	coref	24-17[24_25]
+24-4	_	chicken	abstract[24]	new[24]	_	_
+24-5	_	's	abstract[24]	new[24]	_	_
+24-6	_	beak	_	_	_	_
+24-7	_	and	_	_	_	_
+24-8	_	draw	_	_	_	_
+24-9	_	the	abstract[59]	new[59]	_	_
+24-10	_	line	abstract[59]	new[59]	_	_
+24-11	_	slowly	_	_	_	_
+24-12	_	outward	_	_	_	_
+24-13	_	,	_	_	_	_
+24-14	_	in	_	_	_	_
+24-15	_	front	_	_	_	_
+24-16	_	of	_	_	_	_
+24-17	_	its	abstract[25]	new[25]	coref	25-2[25_26]
+24-18	_	head	_	_	_	_
+24-19	_	.	_	_	_	_
+
+#Text=Wake it up by clapping .
+25-1	_	Wake	_	_	_	_
+25-2	_	it	abstract[26]	new[26]	coref	26-4[26_27]
+25-3	_	up	_	_	_	_
+25-4	_	by	_	_	_	_
+25-5	_	clapping	_	_	_	_
+25-6	_	.	_	_	_	_
+
+#Text=Be nice to your feathered friend and let it get back to its business .
+26-1	_	Be	_	_	_	_
+26-2	_	nice	_	_	_	_
+26-3	_	to	_	_	_	_
+26-4	_	your	abstract[27]|abstract[52]	new[27]|new[52]	coref|coref	26-9[27_28]|27-2[52_53]
+26-5	_	feathered	abstract[27]	new[27]	_	_
+26-6	_	friend	abstract[27]	new[27]	_	_
+26-7	_	and	_	_	_	_
+26-8	_	let	_	_	_	_
+26-9	_	it	abstract[28]	new[28]	coref	26-13[28_29]
+26-10	_	get	_	_	_	_
+26-11	_	back	_	_	_	_
+26-12	_	to	_	_	_	_
+26-13	_	its	abstract[29]	new[29]	coref	27-6[29_30]
+26-14	_	business	_	_	_	_
+26-15	_	.	_	_	_	_
+
+#Text=Clap your hands or give it a gentle shove until it jumps up and walks away .
+27-1	_	Clap	_	_	_	_
+27-2	_	your	abstract[53]	new[53]	coref	40-14[53_54]
+27-3	_	hands	_	_	_	_
+27-4	_	or	_	_	_	_
+27-5	_	give	_	_	_	_
+27-6	_	it	abstract[30]	new[30]	coref	27-11[30_31]
+27-7	_	a	_	_	_	_
+27-8	_	gentle	_	_	_	_
+27-9	_	shove	_	_	_	_
+27-10	_	until	_	_	_	_
+27-11	_	it	abstract[31]	new[31]	coref	28-9[31_32]
+27-12	_	jumps	_	_	_	_
+27-13	_	up	_	_	_	_
+27-14	_	and	_	_	_	_
+27-15	_	walks	_	_	_	_
+27-16	_	away	_	_	_	_
+27-17	_	.	_	_	_	_
+
+#Text=Method Two of Two : Reducing Stress in the Chicken
+28-1	_	Method	_	_	_	_
+28-2	_	Two	_	_	_	_
+28-3	_	of	_	_	_	_
+28-4	_	Two	_	_	_	_
+28-5	_	:	_	_	_	_
+28-6	_	Reducing	_	_	_	_
+28-7	_	Stress	_	_	_	_
+28-8	_	in	_	_	_	_
+28-9	_	the	abstract[32]	new[32]	coref	33-6[32_33]
+28-10	_	Chicken	abstract[32]	new[32]	_	_
+
+#Text=Understand the hypnotic effect .
+29-1	_	Understand	_	_	_	_
+29-2	_	the	abstract[60]	new[60]	coref	30-3[60_61]
+29-3	_	hypnotic	abstract[60]	new[60]	_	_
+29-4	_	effect	abstract[60]	new[60]	_	_
+29-5	_	.	_	_	_	_
+
+#Text=Researchers call this effect " tonic immobility " .
+30-1	_	Researchers	_	_	_	_
+30-2	_	call	_	_	_	_
+30-3	_	this	abstract[61]	new[61]	_	_
+30-4	_	effect	abstract[61]	new[61]	_	_
+30-5	_	"	abstract[61]	new[61]	_	_
+30-6	_	tonic	abstract[61]	new[61]	_	_
+30-7	_	immobility	abstract[61]	new[61]	_	_
+30-8	_	"	abstract[61]	new[61]	_	_
+30-9	_	.	_	_	_	_
+
+#Text=" When a chicken or another animal with this tendency becomes frightened , its heart rate lowers and it stops moving .
+31-1	_	"	_	_	_	_
+31-2	_	When	_	_	_	_
+31-3	_	a	abstract[62]	new[62]	coref	31-14[62_63]
+31-4	_	chicken	abstract[62]	new[62]	_	_
+31-5	_	or	abstract[62]	new[62]	_	_
+31-6	_	another	abstract[62]	new[62]	_	_
+31-7	_	animal	abstract[62]	new[62]	_	_
+31-8	_	with	abstract[62]	new[62]	_	_
+31-9	_	this	abstract[62]|abstract[65]	new[62]|new[65]	coref	32-1[65_66]
+31-10	_	tendency	abstract[62]|abstract[65]	new[62]|new[65]	_	_
+31-11	_	becomes	_	_	_	_
+31-12	_	frightened	_	_	_	_
+31-13	_	,	_	_	_	_
+31-14	_	its	abstract[63]	new[63]	coref	31-19[63_64]
+31-15	_	heart	_	_	_	_
+31-16	_	rate	_	_	_	_
+31-17	_	lowers	_	_	_	_
+31-18	_	and	_	_	_	_
+31-19	_	it	abstract[64]	new[64]	_	_
+31-20	_	stops	_	_	_	_
+31-21	_	moving	_	_	_	_
+31-22	_	.	_	_	_	_
+
+#Text=This may be an attempt to play dead , discouraging predators that prefer live prey .
+32-1	_	This	abstract[66]	new[66]	_	_
+32-2	_	may	_	_	_	_
+32-3	_	be	_	_	_	_
+32-4	_	an	_	_	_	_
+32-5	_	attempt	_	_	_	_
+32-6	_	to	_	_	_	_
+32-7	_	play	_	_	_	_
+32-8	_	dead	_	_	_	_
+32-9	_	,	_	_	_	_
+32-10	_	discouraging	_	_	_	_
+32-11	_	predators	_	_	_	_
+32-12	_	that	_	_	_	_
+32-13	_	prefer	_	_	_	_
+32-14	_	live	_	_	_	_
+32-15	_	prey	_	_	_	_
+32-16	_	.	_	_	_	_
+
+#Text=Unlike an opossum , the chicken gives an unconvincing act , as it continues to blink and breathe in an obvious way . "
+33-1	_	Unlike	_	_	_	_
+33-2	_	an	_	_	_	_
+33-3	_	opossum	_	_	_	_
+33-4	_	,	_	_	_	_
+33-5	_	the	abstract[33]	new[33]	coref	33-14[33_34]
+33-6	_	chicken	abstract[33]	new[33]	_	_
+33-7	_	gives	_	_	_	_
+33-8	_	an	_	_	_	_
+33-9	_	unconvincing	_	_	_	_
+33-10	_	act	_	_	_	_
+33-11	_	,	_	_	_	_
+33-12	_	as	_	_	_	_
+33-13	_	it	abstract[34]	new[34]	coref	34-2[34_35]
+33-14	_	continues	_	_	_	_
+33-15	_	to	_	_	_	_
+33-16	_	blink	_	_	_	_
+33-17	_	and	_	_	_	_
+33-18	_	breathe	_	_	_	_
+33-19	_	in	_	_	_	_
+33-20	_	an	_	_	_	_
+33-21	_	obvious	_	_	_	_
+33-22	_	way	_	_	_	_
+33-23	_	.	_	_	_	_
+33-24	_	"	_	_	_	_
+
+#Text=Keep the chicken upright or on its side .
+34-1	_	Keep	_	_	_	_
+34-2	_	the	abstract[35]	new[35]	coref	34-7[35_36]
+34-3	_	chicken	abstract[35]	new[35]	_	_
+34-4	_	upright	_	_	_	_
+34-5	_	or	_	_	_	_
+34-6	_	on	_	_	_	_
+34-7	_	its	abstract[36]	new[36]	coref	35-21[36_37]
+34-8	_	side	_	_	_	_
+34-9	_	.	_	_	_	_
+
+#Text=While it 's not uncommon to transport a chicken by its feet , this upside - down hold risks breaking the chicken 's hip .
+35-1	_	While	_	_	_	_
+35-2	_	it	_	_	_	_
+35-3	_	's	_	_	_	_
+35-4	_	not	_	_	_	_
+35-5	_	uncommon	_	_	_	_
+35-6	_	to	_	_	_	_
+35-7	_	transport	_	_	_	_
+35-8	_	a	abstract[67]	new[67]	coref	35-11[67_68]
+35-9	_	chicken	abstract[67]	new[67]	_	_
+35-10	_	by	_	_	_	_
+35-11	_	its	abstract[68]	new[68]	_	_
+35-12	_	feet	_	_	_	_
+35-13	_	,	_	_	_	_
+35-14	_	this	_	_	_	_
+35-15	_	upside	_	_	_	_
+35-16	_	-	_	_	_	_
+35-17	_	down	_	_	_	_
+35-18	_	hold	_	_	_	_
+35-19	_	risks	_	_	_	_
+35-20	_	breaking	_	_	_	_
+35-21	_	the	abstract[37]	new[37]	coref	37-4[37_38]
+35-22	_	chicken	abstract[37]	new[37]	_	_
+35-23	_	's	abstract[37]	new[37]	_	_
+35-24	_	hip	_	_	_	_
+35-25	_	.	_	_	_	_
+
+#Text=Hypnosis techniques that involve laying a chicken on its back may " succeed " by cutting off its air supply .
+36-1	_	Hypnosis	_	_	_	_
+36-2	_	techniques	_	_	_	_
+36-3	_	that	_	_	_	_
+36-4	_	involve	_	_	_	_
+36-5	_	laying	_	_	_	_
+36-6	_	a	abstract[69]	new[69]	coref	36-9[69_70]
+36-7	_	chicken	abstract[69]	new[69]	_	_
+36-8	_	on	_	_	_	_
+36-9	_	its	abstract[70]	new[70]	coref	36-18[70_71]
+36-10	_	back	_	_	_	_
+36-11	_	may	_	_	_	_
+36-12	_	"	_	_	_	_
+36-13	_	succeed	_	_	_	_
+36-14	_	"	_	_	_	_
+36-15	_	by	_	_	_	_
+36-16	_	cutting	_	_	_	_
+36-17	_	off	_	_	_	_
+36-18	_	its	abstract[71]	new[71]	_	_
+36-19	_	air	_	_	_	_
+36-20	_	supply	_	_	_	_
+36-21	_	.	_	_	_	_
+
+#Text=This can cause the chicken significant discomfort , leading to fainting or even , rarely , death .
+37-1	_	This	_	_	_	_
+37-2	_	can	_	_	_	_
+37-3	_	cause	_	_	_	_
+37-4	_	the	abstract[38]	new[38]	coref	40-6[38_39]
+37-5	_	chicken	abstract[38]	new[38]	_	_
+37-6	_	significant	_	_	_	_
+37-7	_	discomfort	_	_	_	_
+37-8	_	,	_	_	_	_
+37-9	_	leading	_	_	_	_
+37-10	_	to	_	_	_	_
+37-11	_	fainting	_	_	_	_
+37-12	_	or	_	_	_	_
+37-13	_	even	_	_	_	_
+37-14	_	,	_	_	_	_
+37-15	_	rarely	_	_	_	_
+37-16	_	,	_	_	_	_
+37-17	_	death	_	_	_	_
+37-18	_	.	_	_	_	_
+
+#Text=Keep hypnosis short and infrequent .
+38-1	_	Keep	_	_	_	_
+38-2	_	hypnosis	abstract[72]	new[72]	coref	39-9[72_73]
+38-3	_	short	_	_	_	_
+38-4	_	and	_	_	_	_
+38-5	_	infrequent	_	_	_	_
+38-6	_	.	_	_	_	_
+
+#Text=It 's not completely clear how much stress this hypnosis causes .
+39-1	_	It	_	_	_	_
+39-2	_	's	_	_	_	_
+39-3	_	not	_	_	_	_
+39-4	_	completely	_	_	_	_
+39-5	_	clear	_	_	_	_
+39-6	_	how	_	_	_	_
+39-7	_	much	_	_	_	_
+39-8	_	stress	_	_	_	_
+39-9	_	this	abstract[73]	new[73]	coref	40-3[73_74]
+39-10	_	hypnosis	abstract[73]	new[73]	_	_
+39-11	_	causes	_	_	_	_
+39-12	_	.	_	_	_	_
+
+#Text=Even if it does , the chicken should n't suffer as long as you let it go soon afterward .
+40-1	_	Even	_	_	_	_
+40-2	_	if	_	_	_	_
+40-3	_	it	abstract[74]	new[74]	coref	48-21[74_75]
+40-4	_	does	_	_	_	_
+40-5	_	,	_	_	_	_
+40-6	_	the	abstract[39]	new[39]	coref	40-16[39_40]
+40-7	_	chicken	abstract[39]	new[39]	_	_
+40-8	_	should	_	_	_	_
+40-9	_	n't	_	_	_	_
+40-10	_	suffer	_	_	_	_
+40-11	_	as	_	_	_	_
+40-12	_	long	_	_	_	_
+40-13	_	as	_	_	_	_
+40-14	_	you	abstract[54]	new[54]	coref	42-2[54_55]
+40-15	_	let	_	_	_	_
+40-16	_	it	abstract[40]	new[40]	_	_
+40-17	_	go	_	_	_	_
+40-18	_	soon	_	_	_	_
+40-19	_	afterward	_	_	_	_
+40-20	_	.	_	_	_	_
+
+#Text=Hours of stress , or regular exposure to stressful situations , can cause serious health problems .
+41-1	_	Hours	_	_	_	_
+41-2	_	of	_	_	_	_
+41-3	_	stress	_	_	_	_
+41-4	_	,	_	_	_	_
+41-5	_	or	_	_	_	_
+41-6	_	regular	_	_	_	_
+41-7	_	exposure	_	_	_	_
+41-8	_	to	_	_	_	_
+41-9	_	stressful	_	_	_	_
+41-10	_	situations	_	_	_	_
+41-11	_	,	_	_	_	_
+41-12	_	can	_	_	_	_
+41-13	_	cause	_	_	_	_
+41-14	_	serious	_	_	_	_
+41-15	_	health	_	_	_	_
+41-16	_	problems	_	_	_	_
+41-17	_	.	_	_	_	_
+
+#Text=Get your chickens used to humans and novelty .
+42-1	_	Get	_	_	_	_
+42-2	_	your	abstract[55]	new[55]	_	_
+42-3	_	chickens	_	_	_	_
+42-4	_	used	_	_	_	_
+42-5	_	to	_	_	_	_
+42-6	_	humans	_	_	_	_
+42-7	_	and	_	_	_	_
+42-8	_	novelty	_	_	_	_
+42-9	_	.	_	_	_	_
+
+#Text=Even prolonged eye contact seems to have an effect .
+43-1	_	Even	_	_	_	_
+43-2	_	prolonged	_	_	_	_
+43-3	_	eye	_	_	_	_
+43-4	_	contact	_	_	_	_
+43-5	_	seems	_	_	_	_
+43-6	_	to	_	_	_	_
+43-7	_	have	_	_	_	_
+43-8	_	an	_	_	_	_
+43-9	_	effect	_	_	_	_
+43-10	_	.	_	_	_	_
+
+#Text=Living in stimulating environments with new objects may also help .
+44-1	_	Living	_	_	_	_
+44-2	_	in	_	_	_	_
+44-3	_	stimulating	_	_	_	_
+44-4	_	environments	_	_	_	_
+44-5	_	with	_	_	_	_
+44-6	_	new	_	_	_	_
+44-7	_	objects	_	_	_	_
+44-8	_	may	_	_	_	_
+44-9	_	also	_	_	_	_
+44-10	_	help	_	_	_	_
+44-11	_	.	_	_	_	_
+
+#Text=Hens raise in battery cages stay " hypnotized " longer , possibly because of greater fear .
+45-1	_	Hens	_	_	_	_
+45-2	_	raise	_	_	_	_
+45-3	_	in	_	_	_	_
+45-4	_	battery	_	_	_	_
+45-5	_	cages	_	_	_	_
+45-6	_	stay	_	_	_	_
+45-7	_	"	_	_	_	_
+45-8	_	hypnotized	_	_	_	_
+45-9	_	"	_	_	_	_
+45-10	_	longer	_	_	_	_
+45-11	_	,	_	_	_	_
+45-12	_	possibly	_	_	_	_
+45-13	_	because	_	_	_	_
+45-14	_	of	_	_	_	_
+45-15	_	greater	_	_	_	_
+45-16	_	fear	_	_	_	_
+45-17	_	.	_	_	_	_
+
+#Text=Watch for signs of stress .
+46-1	_	Watch	_	_	_	_
+46-2	_	for	_	_	_	_
+46-3	_	signs	_	_	_	_
+46-4	_	of	_	_	_	_
+46-5	_	stress	_	_	_	_
+46-6	_	.	_	_	_	_
+
+#Text=Abnormal feathering , constant preening , or delays in egg - laying are all signs of a stressed chicken .
+47-1	_	Abnormal	_	_	_	_
+47-2	_	feathering	_	_	_	_
+47-3	_	,	_	_	_	_
+47-4	_	constant	_	_	_	_
+47-5	_	preening	_	_	_	_
+47-6	_	,	_	_	_	_
+47-7	_	or	_	_	_	_
+47-8	_	delays	_	_	_	_
+47-9	_	in	_	_	_	_
+47-10	_	egg	_	_	_	_
+47-11	_	-	_	_	_	_
+47-12	_	laying	_	_	_	_
+47-13	_	are	_	_	_	_
+47-14	_	all	_	_	_	_
+47-15	_	signs	_	_	_	_
+47-16	_	of	_	_	_	_
+47-17	_	a	_	_	_	_
+47-18	_	stressed	_	_	_	_
+47-19	_	chicken	_	_	_	_
+47-20	_	.	_	_	_	_
+
+#Text=While hypnotizing is unlikely to cause serious harm , any type of stress is more damaging to a chicken in this state .
+48-1	_	While	_	_	_	_
+48-2	_	hypnotizing	_	_	_	_
+48-3	_	is	_	_	_	_
+48-4	_	unlikely	_	_	_	_
+48-5	_	to	_	_	_	_
+48-6	_	cause	_	_	_	_
+48-7	_	serious	_	_	_	_
+48-8	_	harm	_	_	_	_
+48-9	_	,	_	_	_	_
+48-10	_	any	_	_	_	_
+48-11	_	type	_	_	_	_
+48-12	_	of	_	_	_	_
+48-13	_	stress	_	_	_	_
+48-14	_	is	_	_	_	_
+48-15	_	more	_	_	_	_
+48-16	_	damaging	_	_	_	_
+48-17	_	to	_	_	_	_
+48-18	_	a	_	_	_	_
+48-19	_	chicken	_	_	_	_
+48-20	_	in	_	_	_	_
+48-21	_	this	abstract[75]	new[75]	_	_
+48-22	_	state	abstract[75]	new[75]	_	_
+48-23	_	.	_	_	_	_
+
+#Text=Get to work . Get to work .
+49-1	_	Get	_	_	_	_
+49-2	_	to	_	_	_	_
+49-3	_	work	_	_	_	_
+49-4	_	.	_	_	_	_
+49-5	_	Get	_	_	_	_
+49-6	_	to	_	_	_	_
+49-7	_	work	_	_	_	_
+49-8	_	.	_	_	_	_
+
