@@ -1,0 +1,1 @@
+Automatic enjambment detection for the 3750 sonnets of 1000 authors from the 15th to the 19th century by applying a Natural Language Processing (NLP) tool with extensive case studies about specific syntactic units

@@ -1,0 +1,1 @@
+Define and apply mutation operators specific to the GIS domain to generate mutants and then test them in reality.

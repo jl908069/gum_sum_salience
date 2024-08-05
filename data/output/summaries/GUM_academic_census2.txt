@@ -1,1 +1,1 @@
-Analysis of a digitally driven web crawler to assemble a comprehensive database of university faculty worldwide
+We present a web crawler framework that can collect accurate, consistent faculty census data

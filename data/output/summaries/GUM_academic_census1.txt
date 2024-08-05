@@ -1,1 +1,1 @@
-A novel system of automatically assembling a full faculty census of a scientific discipline using digital data available on the public World Wide Web.
+Using the World Wide Web to Collect a Complete Biographical Dataset about Faculty in all Academic Fields
