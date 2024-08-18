@@ -45,3 +45,6 @@
   - Generates the merged conll files (document+summary) needed for running the [coref-mtl](https://github.com/yilunzhu/coref-mtl)
   - Download `v4_gold_conll` file (e.g. `train.gum.english.v4_gold_conll`) from the coref-mtl repo as well. Put it under `./data`
   - Follow the instructions there to generate the prediction tsv files needed for running `align.py`. Put the prediction files under `./data/pred_tsv`
+
+### `score.py`
+  - Precision/Recall/F1 score of salient entities (not mentions) for each one of the alignment component approaches
