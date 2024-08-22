@@ -50,7 +50,7 @@ def get_sal_tsv(input_paths):
                     coref_index = columns[9]  
                     
                     for col5, col6 in zip(col5_values, col6_values):
-                        if col6.startswith('sal'):
+                        if col6.startswith('sal') and col5.startswith('new'):
                             sal_number = extract_bracketed_number(col6)
                             if sal_number:
                                 if sal_number not in word_dict:
@@ -199,40 +199,37 @@ def sal_coref_cluster(sal_mentions): # a list of lists of tuples
 
     return coref_clusters
 
-def extract_first_mentions(sc, st): # a list of lists
+def extract_first_mentions(sc, sum1_alignments):
     results = []
 
-    for sc_doc, st_doc in zip(sc, st):
+    for doc_index, (sc_doc, st_doc) in enumerate(zip(sc, sum1_alignments)):
         doc_results = []
-        
-        for st_list in st_doc:
-            found = False
+        seen_mentions = set()  # Set to keep track of unique mentions
 
-            for st_tuple in st_list:
-                st_mention = st_tuple[0].strip().lower()  # Get the salient mention in lowercase
-
-                for sc_tuple in sc_doc:
-                    sc_mentions = [mention.strip().lower() for mention in sc_tuple]  # Normalize to lowercase
-
-                    if st_mention in sc_mentions:
-                        doc_results.append(sc_tuple[0])  # Append the first mention from sc_tuple in sc
-                        found = True
-                        break
+        for alignment_list in st_doc:
+            for alignment in alignment_list:
+                salient_mention = alignment[0].lower()  # Get the salient mention in lowercase
                 
-                if found:
-                    break
-            
-            if not found:
-                doc_results.append(None)  # If no match is found, append None
+                for sc_tuple in sc_doc:
+                    sc_mentions = [mention.lower() for mention in sc_tuple]  # Normalize mentions in sc to lowercase
+
+                    if salient_mention in sc_mentions and sc_tuple[0] not in seen_mentions:
+                        doc_results.append(sc_tuple[0])  # Append the first matching mention from sc
+                        seen_mentions.add(sc_tuple[0])  # Mark this mention as seen
+                        break  # Break out of the current `sc_tuple` loop after finding the match
 
         results.append(doc_results)
-    
+
     return results
 
 def calculate_scores(pred, gold):
     total_matches = 0
     total_pred_mentions = 0
     total_gold_mentions = 0
+
+    precision_scores = []
+    recall_scores = []
+    f1_scores = []
 
     for pred_doc, gold_doc in zip(pred, gold):
         pred_mentions = [p for p in pred_doc if p is not None]  # Filter out None values
@@ -245,9 +242,20 @@ def calculate_scores(pred, gold):
         matches = sum(1 for pm in pred_mentions if pm in gold_mentions)
         total_matches += matches
 
-    # Calculate precision, recall, and F1 score
-    precision = total_matches / total_pred_mentions if total_pred_mentions > 0 else 0
-    recall = total_matches / total_gold_mentions if total_gold_mentions > 0 else 0
-    f1_score = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+        # Calculate precision, recall, and F1 for this document
+        precision = matches / len(pred_mentions) if len(pred_mentions) > 0 else 0
+        recall = matches / len(gold_mentions) if len(gold_mentions) > 0 else 0
+        f1_score = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
 
-    return precision, recall, f1_score
+        # Append to the lists
+        precision_scores.append(precision)
+        recall_scores.append(recall)
+        f1_scores.append(f1_score)
+
+    # Calculate the average for each score
+    avg_precision = sum(precision_scores) / len(precision_scores) if precision_scores else 0
+    avg_recall = sum(recall_scores) / len(recall_scores) if recall_scores else 0
+    avg_f1_score = sum(f1_scores) / len(f1_scores) if f1_scores else 0
+
+    return avg_precision, avg_recall, avg_f1_score
+
