@@ -2,6 +2,8 @@ import os, re, sys
 from glob import glob
 from random import choice, shuffle
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, BitsAndBytesConfig
+import pandas as pd
+import xml.etree.ElementTree as ET
 
 
 examples = {'academic': [
@@ -104,6 +106,31 @@ def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-base
 
     return all_summaries
 
+def extract_gold_summaries_from_xml(directory):
+    # List to store extracted data
+    data = []
+    
+    # Iterate over all XML files in the given directory
+    for filename in os.listdir(directory):
+        if filename.endswith('.xml'):
+            filepath = os.path.join(directory, filename)
+            tree = ET.parse(filepath)
+            root = tree.getroot()
+            
+            # Extract doc_id (from the 'id' attribute of the root element)
+            doc_id = root.get('id')
+            
+            # Extract the summary text
+            summary = root.get('summary', '')
+            
+            # Append the data to the list
+            data.append({'doc_id': doc_id, 'summary': summary})
+            
+    # Create a DataFrame from the collected data
+    df = pd.DataFrame(data)
+    result_dict = df.groupby('doc_id')['summary'].apply(list).to_dict()
+    
+    return result_dict
 
 def read_documents(data_folder):
     # Read documents directly from tsv/ folder, since we have it as input
