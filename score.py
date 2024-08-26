@@ -2,22 +2,20 @@ import argparse
 import os
 import glob
 
+def extract_bracketed_number(s):
+    start = s.find("[")
+    end = s.find("]")
+    if start != -1 and end != -1:
+        return s[start+1:end]
+    return None
+    
+def remove_bracketed_number(s):
+    parts = s.split('|')  # Split by "|" to handle multiple coref indices
+    cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
+    return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
 def get_sal_tsv(input_paths):
     all_results = []
-
-    def extract_bracketed_number(s):
-        start = s.find("[")
-        end = s.find("]")
-        if start != -1 and end != -1:
-            return s[start+1:end]
-        return None
-
-    def remove_bracketed_number(s):
-        parts = s.split('|')  # Split by "|" to handle multiple coref indices
-        cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
-        return ','.join(cleaned_parts)  # Rejoin the cleaned parts
-
     # Check if input_paths is a directory or a list of file paths
     if isinstance(input_paths, str) and os.path.isdir(input_paths):
         filepaths = sorted(glob.glob(os.path.join(input_paths, "*.tsv")))
@@ -79,18 +77,6 @@ def get_sal_tsv(input_paths):
 
 def get_sal_mentions(input_paths):
     all_results = []
-
-    def extract_bracketed_number(s):
-        start = s.find("[")
-        end = s.find("]")
-        if start != -1 and end != -1:
-            return s[start+1:end]
-        return None
-
-    def remove_bracketed_number(s):
-        parts = s.split('|')  # Split by "|" to handle multiple coref indices
-        cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
-        return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
     # Check if input_paths is a directory or a list of file names
     if isinstance(input_paths, str) and os.path.isdir(input_paths):
