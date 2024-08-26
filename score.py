@@ -14,6 +14,34 @@ def remove_bracketed_number(s):
     cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
     return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
+def find_coref_chain(start_tuple, file_result, used_indices):
+    chain = [start_tuple[0]]  # Start with the word span of the first tuple
+    current_word_index = start_tuple[1].split(',')[0].strip()  # Only use the first word index
+    current_coref_indices = [ci.strip() for ci in start_tuple[2].split(',')]
+
+    while True:
+        found = False
+        for tup in file_result:
+            if tup in used_indices:
+                continue
+
+            words, word_indices, coref_indices = tup
+            first_word_index = word_indices.split(',')[0].strip()  # Only check the first index
+            coref_indices_list = [ci.strip() for ci in coref_indices.split(',')]
+
+            if first_word_index in current_coref_indices:
+                chain.append(words)
+                used_indices.add(tup)
+                current_word_index = first_word_index
+                current_coref_indices = coref_indices_list
+                found = True
+                break
+
+        if not found:
+            break
+
+    return tuple(chain)
+
 def get_sal_tsv(input_paths):
     all_results = []
     # Check if input_paths is a directory or a list of file paths
@@ -132,40 +160,12 @@ def get_sal_mentions(input_paths):
     
     return all_results
 
-def sal_coref_cluster(sal_mentions): # a list of lists of tuples
+def sal_coref_cluster(sal_mentions):  # a list of lists of tuples
     coref_clusters = []
 
     for file_result in sal_mentions:
         cluster = []
         used_indices = set()
-
-        def find_coref_chain(start_tuple):
-            chain = [start_tuple[0]]  # Start with the word span of the first tuple
-            current_word_index = start_tuple[1].split(',')[0].strip()  # Only use the first word index
-            current_coref_indices = [ci.strip() for ci in start_tuple[2].split(',')]
-
-            while True:
-                found = False
-                for tup in file_result:
-                    if tup in used_indices:
-                        continue
-
-                    words, word_indices, coref_indices = tup
-                    first_word_index = word_indices.split(',')[0].strip()  # Only check the first index
-                    coref_indices_list = [ci.strip() for ci in coref_indices.split(',')]
-
-                    if first_word_index in current_coref_indices:
-                        chain.append(words)
-                        used_indices.add(tup)
-                        current_word_index = first_word_index
-                        current_coref_indices = coref_indices_list
-                        found = True
-                        break
-
-                if not found:
-                    break
-
-            return tuple(chain)
 
         for tup in file_result:
             words, word_indices, coref_indices = tup
@@ -176,7 +176,7 @@ def sal_coref_cluster(sal_mentions): # a list of lists of tuples
                 continue
 
             if tup not in used_indices:
-                coref_chain = find_coref_chain(tup)
+                coref_chain = find_coref_chain(tup, file_result, used_indices)
                 if len(coref_chain) > 1:
                     cluster.append(coref_chain)
                 used_indices.add(tup)
