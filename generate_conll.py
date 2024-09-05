@@ -171,7 +171,7 @@ def process_tsv_to_conll(tsv_folder, summaries, conll_file, final_output_file):
     process_conll_file(intermediate_conll_file, processed_output_file)
 
     #Fix some erroneous lines
-    fix_conll_file(processed_output_file, final_conll_file)
+    fix_conll_file(processed_output_file, final_output_file)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
