@@ -386,11 +386,11 @@ def align_coref_system(data_folders, n_summaries):
         for doc_idx, doc_predictions in enumerate(predictions):
             organized_predictions[summary_idx][doc_idx] = doc_predictions
 
-    # Fill "No match" where there are empty lists
+    # Fill empty lists where there are no matches
     for summary_idx in range(n_summaries):
         for doc_idx in range(num_documents):
             if not organized_predictions[summary_idx][doc_idx]:
-                organized_predictions[summary_idx][doc_idx] = ["No match"]
+                organized_predictions[summary_idx][doc_idx] = []  # Append an empty list if no matches found
 
     return organized_predictions
 
