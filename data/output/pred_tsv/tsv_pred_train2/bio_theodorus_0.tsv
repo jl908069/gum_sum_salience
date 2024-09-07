@@ -148,8 +148,8 @@
 7-17	_	the	_	_	_	_
 7-18	_	virtues	_	_	_	_
 7-19	_	of	_	_	_	_
-7-20	_	the	abstract[102]	new[102]	coref	19-20[102_103]
-7-21	_	Koinonia	abstract[102]	new[102]	_	_
+7-20	_	the	abstract[104]	new[104]	coref	19-20[104_105]
+7-21	_	Koinonia	abstract[104]	new[104]	_	_
 7-22	_	upon	_	_	_	_
 7-23	_	his	abstract[94]	new[94]	_	_
 7-24	_	return	_	_	_	_
@@ -233,7 +233,7 @@
 10-19	_	328	_	_	_	_
 10-20	_	.	_	_	_	_
 
-#Text=Quickly becoming a favorite of Pachomius , Theodorus lived an enviably ascetic life in the monastery , and took on the title of the " The actor Jared Padalecki is a four - time Golden Globe nominated and Emmy nomy , twice the Oscar nominated total .
+#Text=Quickly becoming a favorite of Pachomius , Theodorus lived an enviably ascetic life in the monastery , and took on the title of the " The Rev. William Edward Padalecki and Jared Padalecki : Family , Past , and Future of Jared Padalecki , 2016 - 2018 .
 11-1	_	Quickly	_	_	_	_
 11-2	_	becoming	_	_	_	_
 11-3	_	a	_	_	_	_
@@ -260,31 +260,32 @@
 11-24	_	the	_	_	_	_
 11-25	_	"	_	_	_	_
 11-26	_	The	_	_	_	_
-11-27	_	actor	_	_	_	_
-11-28	_	Jared	_	_	_	_
-11-29	_	Padalecki	_	_	_	_
-11-30	_	is	_	_	_	_
-11-31	_	a	_	_	_	_
-11-32	_	four	_	_	_	_
-11-33	_	-	_	_	_	_
-11-34	_	time	_	_	_	_
-11-35	_	Golden	_	_	_	_
-11-36	_	Globe	_	_	_	_
-11-37	_	nominated	_	_	_	_
-11-38	_	and	_	_	_	_
-11-39	_	Emmy	_	_	_	_
-11-40	_	nomy	_	_	_	_
-11-41	_	,	_	_	_	_
-11-42	_	twice	_	_	_	_
-11-43	_	the	_	_	_	_
-11-44	_	Oscar	_	_	_	_
-11-45	_	nominated	_	_	_	_
-11-46	_	total	_	_	_	_
-11-47	_	.	_	_	_	_
+11-27	_	Rev.	_	_	_	_
+11-28	_	William	_	_	_	_
+11-29	_	Edward	_	_	_	_
+11-30	_	Padalecki	_	_	_	_
+11-31	_	and	_	_	_	_
+11-32	_	Jared	abstract[99]	new[99]	coref	11-42[99_100]
+11-33	_	Padalecki	abstract[99]	new[99]	_	_
+11-34	_	:	_	_	_	_
+11-35	_	Family	_	_	_	_
+11-36	_	,	_	_	_	_
+11-37	_	Past	_	_	_	_
+11-38	_	,	_	_	_	_
+11-39	_	and	_	_	_	_
+11-40	_	Future	_	_	_	_
+11-41	_	of	_	_	_	_
+11-42	_	Jared	abstract[100]	new[100]	_	_
+11-43	_	Padalecki	abstract[100]	new[100]	_	_
+11-44	_	,	_	_	_	_
+11-45	_	2016	_	_	_	_
+11-46	_	-	_	_	_	_
+11-47	_	2018	_	_	_	_
+11-48	_	.	_	_	_	_
 
 #Text=brothers ’ comforter " .
-12-1	_	brothers	abstract[99]	new[99]	coref	14-10[99_100]
-12-2	_	’	abstract[99]	new[99]	_	_
+12-1	_	brothers	abstract[101]	new[101]	coref	14-10[101_102]
+12-2	_	’	abstract[101]	new[101]	_	_
 12-3	_	comforter	_	_	_	_
 12-4	_	"	_	_	_	_
 12-5	_	.	_	_	_	_
@@ -341,8 +342,8 @@
 14-7	_	to	_	_	_	_
 14-8	_	preach	_	_	_	_
 14-9	_	to	_	_	_	_
-14-10	_	the	abstract[100]	new[100]	coref	22-22[100_101]
-14-11	_	brothers	abstract[100]	new[100]	_	_
+14-10	_	the	abstract[102]	new[102]	coref	22-22[102_103]
+14-11	_	brothers	abstract[102]	new[102]	_	_
 14-12	_	despite	_	_	_	_
 14-13	_	his	abstract[58]	new[58]	coref	14-19[58_59]
 14-14	_	youth	_	_	_	_
@@ -369,7 +370,7 @@
 15-3	_	the	_	_	_	_
 15-4	_	monastery	_	_	_	_
 15-5	_	of	_	_	_	_
-15-6	_	Phbow	abstract[119]	new[119]	coref	30-12[119_120]
+15-6	_	Phbow	abstract[121]	new[121]	coref	30-12[121_122]
 15-7	_	,	_	_	_	_
 15-8	_	Pachomius	abstract[27]	new[27]	coref	16-30[27_28]
 15-9	_	gave	_	_	_	_
@@ -523,8 +524,8 @@
 19-17	_	as	_	_	_	_
 19-18	_	head	_	_	_	_
 19-19	_	of	_	_	_	_
-19-20	_	the	abstract[103]	new[103]	coref	26-13[103_104]
-19-21	_	Koinonia	abstract[103]	new[103]	_	_
+19-20	_	the	abstract[105]	new[105]	coref	26-13[105_106]
+19-21	_	Koinonia	abstract[105]	new[105]	_	_
 19-22	_	when	_	_	_	_
 19-23	_	the	abstract[34]	new[34]	coref	21-9[34_35]
 19-24	_	sickly	abstract[34]	new[34]	_	_
@@ -606,8 +607,8 @@
 22-19	_	to	_	_	_	_
 22-20	_	live	_	_	_	_
 22-21	_	among	_	_	_	_
-22-22	_	the	abstract[101]	new[101]	_	_
-22-23	_	brothers	abstract[101]	new[101]	_	_
+22-22	_	the	abstract[103]	new[103]	_	_
+22-23	_	brothers	abstract[103]	new[103]	_	_
 22-24	_	once	_	_	_	_
 22-25	_	more	_	_	_	_
 22-26	_	.	_	_	_	_
@@ -635,12 +636,12 @@
 24-4	_	died	_	_	_	_
 24-5	_	,	_	_	_	_
 24-6	_	naming	_	_	_	_
-24-7	_	the	abstract[107]	new[107]	coref	24-11[107_108]
-24-8	_	brother	abstract[107]	new[107]	_	_
-24-9	_	Petronios	abstract[107]	new[107]	_	_
+24-7	_	the	abstract[109]	new[109]	coref	24-11[109_110]
+24-8	_	brother	abstract[109]	new[109]	_	_
+24-9	_	Petronios	abstract[109]	new[109]	_	_
 24-10	_	as	_	_	_	_
-24-11	_	his	abstract[40]|abstract[108]	new[40]|new[108]	coref|coref	30-7[40_41]|25-4[108_109]
-24-12	_	successor	abstract[108]	new[108]	_	_
+24-11	_	his	abstract[40]|abstract[110]	new[40]|new[110]	coref|coref	30-7[40_41]|25-4[110_111]
+24-12	_	successor	abstract[110]	new[110]	_	_
 24-13	_	rather	_	_	_	_
 24-14	_	than	_	_	_	_
 24-15	_	the	abstract[80]	new[80]	coref	25-16[80_81]
@@ -653,14 +654,14 @@
 25-1	_	The	_	_	_	_
 25-2	_	death	_	_	_	_
 25-3	_	of	_	_	_	_
-25-4	_	Petronios	abstract[109]	new[109]	_	_
+25-4	_	Petronios	abstract[111]	new[111]	_	_
 25-5	_	later	_	_	_	_
 25-6	_	that	_	_	_	_
 25-7	_	year	_	_	_	_
 25-8	_	would	_	_	_	_
 25-9	_	leave	_	_	_	_
-25-10	_	Apa	abstract[110]	new[110]	coref	26-9[110_111]
-25-11	_	Horsiesios	abstract[110]	new[110]	_	_
+25-10	_	Apa	abstract[112]	new[112]	coref	26-9[112_113]
+25-11	_	Horsiesios	abstract[112]	new[112]	_	_
 25-12	_	in	_	_	_	_
 25-13	_	charge	_	_	_	_
 25-14	_	,	_	_	_	_
@@ -687,12 +688,12 @@
 26-6	_	complete	_	_	_	_
 26-7	_	submission	_	_	_	_
 26-8	_	to	_	_	_	_
-26-9	_	the	abstract[111]	new[111]	coref	26-25[111_112]
-26-10	_	new	abstract[111]	new[111]	_	_
-26-11	_	leader	abstract[111]	new[111]	_	_
-26-12	_	of	abstract[111]	new[111]	_	_
-26-13	_	the	abstract[104]|abstract[111]	new[104]|new[111]	coref	31-10[104_105]
-26-14	_	Koinonia	abstract[104]|abstract[111]	new[104]|new[111]	_	_
+26-9	_	the	abstract[113]	new[113]	coref	26-25[113_114]
+26-10	_	new	abstract[113]	new[113]	_	_
+26-11	_	leader	abstract[113]	new[113]	_	_
+26-12	_	of	abstract[113]	new[113]	_	_
+26-13	_	the	abstract[106]|abstract[113]	new[106]|new[113]	coref	31-10[106_107]
+26-14	_	Koinonia	abstract[106]|abstract[113]	new[106]|new[113]	_	_
 26-15	_	,	_	_	_	_
 26-16	_	problems	_	_	_	_
 26-17	_	soon	_	_	_	_
@@ -703,7 +704,7 @@
 26-22	_	monasteries	_	_	_	_
 26-23	_	that	_	_	_	_
 26-24	_	viewed	_	_	_	_
-26-25	_	Horsiesios	abstract[112]	new[112]	coref	27-24[112_113]
+26-25	_	Horsiesios	abstract[114]	new[114]	coref	27-24[114_115]
 26-26	_	as	_	_	_	_
 26-27	_	a	_	_	_	_
 26-28	_	weak	_	_	_	_
@@ -722,11 +723,11 @@
 27-9	_	new	_	_	_	_
 27-10	_	leader	_	_	_	_
 27-11	_	,	_	_	_	_
-27-12	_	many	abstract[117]	new[117]	coref	28-16[117_118]
-27-13	_	of	abstract[117]	new[117]	_	_
-27-14	_	the	abstract[117]	new[117]	_	_
-27-15	_	elder	abstract[117]	new[117]	_	_
-27-16	_	monks	abstract[117]	new[117]	_	_
+27-12	_	many	abstract[119]	new[119]	coref	28-16[119_120]
+27-13	_	of	abstract[119]	new[119]	_	_
+27-14	_	the	abstract[119]	new[119]	_	_
+27-15	_	elder	abstract[119]	new[119]	_	_
+27-16	_	monks	abstract[119]	new[119]	_	_
 27-17	_	completely	_	_	_	_
 27-18	_	abandoned	_	_	_	_
 27-19	_	any	_	_	_	_
@@ -734,7 +735,7 @@
 27-21	_	of	_	_	_	_
 27-22	_	obedience	_	_	_	_
 27-23	_	to	_	_	_	_
-27-24	_	Horsiesios	abstract[113]	new[113]	coref	29-24[113_114]
+27-24	_	Horsiesios	abstract[115]	new[115]	coref	29-24[115_116]
 27-25	_	.	_	_	_	_
 
 #Text=The federation of monasteries was falling apart , and Theodorus rushed to Tabennese to placate the rebels .
@@ -753,8 +754,8 @@
 28-13	_	Tabennese	abstract[15]	new[15]	_	_
 28-14	_	to	_	_	_	_
 28-15	_	placate	_	_	_	_
-28-16	_	the	abstract[118]	new[118]	_	_
-28-17	_	rebels	abstract[118]	new[118]	_	_
+28-16	_	the	abstract[120]	new[120]	_	_
+28-17	_	rebels	abstract[120]	new[120]	_	_
 28-18	_	.	_	_	_	_
 
 #Text=Soon after his arrival , Theodorus was the new de facto leader , though he claimed to be only acting on behalf of Horsiesios .
@@ -781,7 +782,7 @@
 29-21	_	on	_	_	_	_
 29-22	_	behalf	_	_	_	_
 29-23	_	of	_	_	_	_
-29-24	_	Horsiesios	abstract[114]	new[114]	coref	32-11[114_115]
+29-24	_	Horsiesios	abstract[116]	new[116]	coref	32-11[116_117]
 29-25	_	.	_	_	_	_
 
 #Text=For eighteen years Theodorus administered from Pachomius ’ old headquarters in Phbow , using techniques far more assertive than his predecessors , such as constantly shuffling the offices and locations of the most ambitious monks .
@@ -796,7 +797,7 @@
 30-9	_	old	_	_	_	_
 30-10	_	headquarters	_	_	_	_
 30-11	_	in	_	_	_	_
-30-12	_	Phbow	abstract[120]	new[120]	_	_
+30-12	_	Phbow	abstract[122]	new[122]	_	_
 30-13	_	,	_	_	_	_
 30-14	_	using	_	_	_	_
 30-15	_	techniques	_	_	_	_
@@ -832,8 +833,8 @@
 31-7	_	unstable	_	_	_	_
 31-8	_	shifting	_	_	_	_
 31-9	_	,	_	_	_	_
-31-10	_	the	abstract[105]	new[105]	coref	32-22[105_106]
-31-11	_	Koinonia	abstract[105]	new[105]	_	_
+31-10	_	the	abstract[107]	new[107]	coref	32-22[107_108]
+31-11	_	Koinonia	abstract[107]	new[107]	_	_
 31-12	_	was	_	_	_	_
 31-13	_	ruled	_	_	_	_
 31-14	_	peacefully	_	_	_	_
@@ -864,19 +865,19 @@
 32-8	_	true	_	_	_	_
 32-9	_	,	_	_	_	_
 32-10	_	and	_	_	_	_
-32-11	_	Apa	abstract[115]	new[115]	coref	32-19[115_116]
-32-12	_	Horsiesios	abstract[115]	new[115]	_	_
+32-11	_	Apa	abstract[117]	new[117]	coref	32-19[117_118]
+32-12	_	Horsiesios	abstract[117]	new[117]	_	_
 32-13	_	once	_	_	_	_
 32-14	_	more	_	_	_	_
 32-15	_	took	_	_	_	_
 32-16	_	his	abstract[92]	new[92]	_	_
 32-17	_	place	_	_	_	_
 32-18	_	as	_	_	_	_
-32-19	_	the	abstract[116]	new[116]	_	_
-32-20	_	head	abstract[116]	new[116]	_	_
-32-21	_	of	abstract[116]	new[116]	_	_
-32-22	_	the	abstract[106]|abstract[116]	new[106]|new[116]	_	_
-32-23	_	communities	abstract[106]|abstract[116]	new[106]|new[116]	_	_
+32-19	_	the	abstract[118]	new[118]	_	_
+32-20	_	head	abstract[118]	new[118]	_	_
+32-21	_	of	abstract[118]	new[118]	_	_
+32-22	_	the	abstract[108]|abstract[118]	new[108]|new[118]	_	_
+32-23	_	communities	abstract[108]|abstract[118]	new[108]|new[118]	_	_
 32-24	_	in	_	_	_	_
 32-25	_	both	_	_	_	_
 32-26	_	title	_	_	_	_

@@ -896,35 +896,17 @@
 59-9	_	said	_	_	_	_
 59-10	_	.	_	_	_	_
 
-#Text=Ted Bundy reflects on """" Try to touch the past . Try to deal with the past . It 's not real . It 's just a dream . """"
-60-1	_	Ted	_	_	_	_
-60-2	_	Bundy	_	_	_	_
-60-3	_	reflects	_	_	_	_
-60-4	_	on	_	_	_	_
-60-5	_	""""	_	_	_	_
-60-6	_	Try	_	_	_	_
-60-7	_	to	_	_	_	_
-60-8	_	touch	_	_	_	_
-60-9	_	the	abstract[99]	new[99]	coref	60-16[99_100]
-60-10	_	past	abstract[99]	new[99]	_	_
-60-11	_	.	_	_	_	_
-60-12	_	Try	_	_	_	_
-60-13	_	to	_	_	_	_
-60-14	_	deal	_	_	_	_
-60-15	_	with	_	_	_	_
-60-16	_	the	abstract[100]	new[100]	coref	60-19[100_101]
-60-17	_	past	abstract[100]	new[100]	_	_
-60-18	_	.	_	_	_	_
-60-19	_	It	abstract[101]	new[101]	coref	60-24[101_102]
-60-20	_	's	_	_	_	_
-60-21	_	not	_	_	_	_
-60-22	_	real	_	_	_	_
-60-23	_	.	_	_	_	_
-60-24	_	It	abstract[102]	new[102]	_	_
-60-25	_	's	_	_	_	_
-60-26	_	just	_	_	_	_
-60-27	_	a	_	_	_	_
-60-28	_	dream	_	_	_	_
-60-29	_	.	_	_	_	_
-60-30	_	""""	_	_	_	_
+#Text="""" Try to touch the past , """" writes Ted Bundy .
+60-1	_	""""	_	_	_	_
+60-2	_	Try	_	_	_	_
+60-3	_	to	_	_	_	_
+60-4	_	touch	_	_	_	_
+60-5	_	the	_	_	_	_
+60-6	_	past	_	_	_	_
+60-7	_	,	_	_	_	_
+60-8	_	""""	_	_	_	_
+60-9	_	writes	_	_	_	_
+60-10	_	Ted	_	_	_	_
+60-11	_	Bundy	_	_	_	_
+60-12	_	.	_	_	_	_
 

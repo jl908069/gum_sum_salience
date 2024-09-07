@@ -86,11 +86,11 @@
 4-1	_	When	_	_	_	_
 4-2	_	he	abstract[12]	new[12]	_	_
 4-3	_	became	_	_	_	_
-4-4	_	chairman	abstract[100]	new[100]	coref	13-27[100_101]
-4-5	_	of	abstract[100]	new[100]	_	_
-4-6	_	this	abstract[100]	new[100]	_	_
-4-7	_	city	abstract[100]	new[100]	_	_
-4-8	_	committee	abstract[100]	new[100]	_	_
+4-4	_	chairman	abstract[101]	new[101]	coref	13-27[101_102]
+4-5	_	of	abstract[101]	new[101]	_	_
+4-6	_	this	abstract[101]	new[101]	_	_
+4-7	_	city	abstract[101]	new[101]	_	_
+4-8	_	committee	abstract[101]	new[101]	_	_
 4-9	_	,	_	_	_	_
 4-10	_	there	_	_	_	_
 4-11	_	were	_	_	_	_
@@ -167,8 +167,8 @@
 5-39	_	this	abstract[16]|abstract[34]	new[16]|new[34]	coref	5-56[16_17]
 5-40	_	city	abstract[16]|abstract[34]	new[16]|new[34]	_	_
 5-41	_	,	abstract[34]	new[34]	_	_
-5-42	_	this	abstract[34]|abstract[91]	new[34]|new[91]	coref	11-20[91_92]
-5-43	_	State	abstract[34]|abstract[91]	new[34]|new[91]	_	_
+5-42	_	this	abstract[34]|abstract[92]	new[34]|new[92]	coref	11-20[92_93]
+5-43	_	State	abstract[34]|abstract[92]	new[34]|new[92]	_	_
 5-44	_	,	abstract[34]	new[34]	_	_
 5-45	_	and	abstract[34]	new[34]	_	_
 5-46	_	this	abstract[33]|abstract[34]	new[33]|new[34]	_	_
@@ -351,7 +351,7 @@
 10-9	_	democratic	_	_	_	_
 10-10	_	government	_	_	_	_
 10-11	_	that	_	_	_	_
-10-12	_	Mayor	abstract[90]	new[90]	_	_
+10-12	_	Mayor	abstract[90]	new[90]	coref	35-12[90_91]
 10-13	_	Tate	abstract[90]	new[90]	_	_
 10-14	_	carries	_	_	_	_
 10-15	_	on	_	_	_	_
@@ -377,14 +377,14 @@
 11-17	_	this	_	_	_	_
 11-18	_	fall	_	_	_	_
 11-19	_	in	_	_	_	_
-11-20	_	the	abstract[92]	new[92]	coref	13-12[92_93]
-11-21	_	State	abstract[92]	new[92]	_	_
-11-22	_	of	abstract[92]	new[92]	_	_
-11-23	_	Pennsylvania	abstract[92]	new[92]	_	_
+11-20	_	the	abstract[93]	new[93]	coref	13-12[93_94]
+11-21	_	State	abstract[93]	new[93]	_	_
+11-22	_	of	abstract[93]	new[93]	_	_
+11-23	_	Pennsylvania	abstract[93]	new[93]	_	_
 11-24	_	.	_	_	_	_
 
 #Text=Everyone expects things of Presidents , but I am not sure that they realize how much depends upon the Members of the House and the Members of the Senate who must make the final judgment on what kind of laws a President must execute .
-12-1	_	Everyone	abstract[98]	new[98]	coref	12-13[98_99]
+12-1	_	Everyone	abstract[99]	new[99]	coref	12-13[99_100]
 12-2	_	expects	_	_	_	_
 12-3	_	things	_	_	_	_
 12-4	_	of	_	_	_	_
@@ -396,7 +396,7 @@
 12-10	_	not	_	_	_	_
 12-11	_	sure	_	_	_	_
 12-12	_	that	_	_	_	_
-12-13	_	they	abstract[99]	new[99]	_	_
+12-13	_	they	abstract[100]	new[100]	_	_
 12-14	_	realize	_	_	_	_
 12-15	_	how	_	_	_	_
 12-16	_	much	_	_	_	_
@@ -442,8 +442,8 @@
 13-9	_	the	abstract[87]|abstract[126]	new[87]|new[126]	coref	13-33[87_88]
 13-10	_	Senator	abstract[87]|abstract[126]	new[87]|new[126]	_	_
 13-11	_	from	abstract[87]|abstract[126]	new[87]|new[126]	_	_
-13-12	_	this	abstract[87]|abstract[93]|abstract[126]	new[87]|new[93]|new[126]	coref	13-47[93_94]
-13-13	_	State	abstract[87]|abstract[93]|abstract[126]	new[87]|new[93]|new[126]	_	_
+13-12	_	this	abstract[87]|abstract[94]|abstract[126]	new[87]|new[94]|new[126]	coref	13-47[94_95]
+13-13	_	State	abstract[87]|abstract[94]|abstract[126]	new[87]|new[94]|new[126]	_	_
 13-14	_	-	_	_	_	_
 13-15	_	Bill	_	_	_	_
 13-16	_	Barrett	_	_	_	_
@@ -457,8 +457,8 @@
 13-24	_	Jim	_	_	_	_
 13-25	_	Byrne	_	_	_	_
 13-26	_	and	_	_	_	_
-13-27	_	Chairman	abstract[101]	new[101]	coref	33-33[101_102]
-13-28	_	Green	abstract[101]	new[101]	_	_
+13-27	_	Chairman	abstract[102]	new[102]	coref	33-33[102_103]
+13-28	_	Green	abstract[102]	new[102]	_	_
 13-29	_	-	_	_	_	_
 13-30	_	have	_	_	_	_
 13-31	_	,	_	_	_	_
@@ -477,11 +477,11 @@
 13-44	_	this	abstract[24]	new[24]	coref	14-7[24_25]
 13-45	_	city	abstract[24]	new[24]	_	_
 13-46	_	and	_	_	_	_
-13-47	_	this	abstract[94]	new[94]	coref	15-33[94_95]
-13-48	_	State	abstract[94]	new[94]	_	_
+13-47	_	this	abstract[95]	new[95]	coref	15-33[95_96]
+13-48	_	State	abstract[95]	new[95]	_	_
 13-49	_	and	_	_	_	_
-13-50	_	this	abstract[103]	new[103]	coref	13-61[103_104]
-13-51	_	country	abstract[103]	new[103]	_	_
+13-50	_	this	abstract[104]	new[104]	coref	13-61[104_105]
+13-51	_	country	abstract[104]	new[104]	_	_
 13-52	_	and	_	_	_	_
 13-53	_	,	_	_	_	_
 13-54	_	what	_	_	_	_
@@ -491,11 +491,11 @@
 13-58	_	has	_	_	_	_
 13-59	_	helped	_	_	_	_
 13-60	_	make	_	_	_	_
-13-61	_	the	abstract[104]	new[104]	coref	13-65[104_105]
-13-62	_	United	abstract[104]	new[104]	_	_
-13-63	_	States	abstract[104]	new[104]	_	_
+13-61	_	the	abstract[105]	new[105]	coref	13-65[105_106]
+13-62	_	United	abstract[105]	new[105]	_	_
+13-63	_	States	abstract[105]	new[105]	_	_
 13-64	_	meet	_	_	_	_
-13-65	_	its	abstract[105]	new[105]	coref	14-12[105_106]
+13-65	_	its	abstract[106]	new[106]	coref	14-12[106_107]
 13-66	_	responsibilities	_	_	_	_
 13-67	_	around	_	_	_	_
 13-68	_	the	abstract[146]	new[146]	coref	23-7[146_147]
@@ -513,8 +513,8 @@
 14-8	_	counts	_	_	_	_
 14-9	_	all	_	_	_	_
 14-10	_	across	_	_	_	_
-14-11	_	the	abstract[106]	new[106]	coref	14-32[106_107]
-14-12	_	country	abstract[106]	new[106]	_	_
+14-11	_	the	abstract[107]	new[107]	coref	14-32[107_108]
+14-12	_	country	abstract[107]	new[107]	_	_
 14-13	_	,	_	_	_	_
 14-14	_	and	_	_	_	_
 14-15	_	Philadelphia	abstract[26]	new[26]	coref	16-27[26_27]
@@ -533,9 +533,9 @@
 14-28	_	the	abstract[132]	new[132]	_	_
 14-29	_	Senate	abstract[132]	new[132]	_	_
 14-30	_	of	abstract[132]	new[132]	_	_
-14-31	_	the	abstract[107]|abstract[132]	new[107]|new[132]	coref	16-36[107_108]
-14-32	_	United	abstract[107]|abstract[132]	new[107]|new[132]	_	_
-14-33	_	States	abstract[107]|abstract[132]	new[107]|new[132]	_	_
+14-31	_	the	abstract[108]|abstract[132]	new[108]|new[132]	coref	16-36[108_109]
+14-32	_	United	abstract[108]|abstract[132]	new[108]|new[132]	_	_
+14-33	_	States	abstract[108]|abstract[132]	new[108]|new[132]	_	_
 14-34	_	.	_	_	_	_
 
 #Text=And I am also proud to be here with your former Governor who is now working for us in Washington as our adviser on fair housing , Governor Dave Lawrence , of the State of Pennsylvania .
@@ -571,10 +571,10 @@
 15-30	_	Lawrence	abstract[134]	new[134]	_	_
 15-31	_	,	abstract[134]	new[134]	_	_
 15-32	_	of	abstract[134]	new[134]	_	_
-15-33	_	the	abstract[95]|abstract[134]	new[95]|new[134]	coref	17-18[95_96]
-15-34	_	State	abstract[95]|abstract[134]	new[95]|new[134]	_	_
-15-35	_	of	abstract[95]|abstract[134]	new[95]|new[134]	_	_
-15-36	_	Pennsylvania	abstract[95]|abstract[134]	new[95]|new[134]	_	_
+15-33	_	the	abstract[96]|abstract[134]	new[96]|new[134]	coref	17-18[96_97]
+15-34	_	State	abstract[96]|abstract[134]	new[96]|new[134]	_	_
+15-35	_	of	abstract[96]|abstract[134]	new[96]|new[134]	_	_
+15-36	_	Pennsylvania	abstract[96]|abstract[134]	new[96]|new[134]	_	_
 15-37	_	.	_	_	_	_
 
 #Text=Three years ago tomorrow night , I spoke in this hall in the closing days of the 1960 campaign , and I asked the people of this city to give us their support to help this country move again .
@@ -613,8 +613,8 @@
 16-33	_	support	abstract[138]	new[138]	_	_
 16-34	_	to	_	_	_	_
 16-35	_	help	_	_	_	_
-16-36	_	this	abstract[108]	new[108]	coref	17-36[108_109]
-16-37	_	country	abstract[108]	new[108]	_	_
+16-36	_	this	abstract[109]	new[109]	coref	17-36[109_110]
+16-37	_	country	abstract[109]	new[109]	_	_
 16-38	_	move	_	_	_	_
 16-39	_	again	_	_	_	_
 16-40	_	.	_	_	_	_
@@ -637,8 +637,8 @@
 17-15	_	this	abstract[29]|abstract[140]	new[29]|new[140]	coref	18-5[29_30]
 17-16	_	city	abstract[29]|abstract[140]	new[29]|new[140]	_	_
 17-17	_	and	abstract[140]	new[140]	_	_
-17-18	_	this	abstract[96]|abstract[140]	new[96]|new[140]	coref	18-30[96_97]
-17-19	_	State	abstract[96]|abstract[140]	new[96]|new[140]	_	_
+17-18	_	this	abstract[97]|abstract[140]	new[97]|new[140]	coref	18-30[97_98]
+17-19	_	State	abstract[97]|abstract[140]	new[97]|new[140]	_	_
 17-20	_	was	_	_	_	_
 17-21	_	,	_	_	_	_
 17-22	_	as	_	_	_	_
@@ -655,8 +655,8 @@
 17-33	_	our	abstract[72]|abstract[142]	new[72]|new[142]	coref	18-21[72_73]
 17-34	_	victory	abstract[142]	new[142]	_	_
 17-35	_	across	abstract[142]	new[142]	_	_
-17-36	_	the	abstract[109]|abstract[142]	new[109]|new[142]	coref	18-41[109_110]
-17-37	_	country	abstract[109]|abstract[142]	new[109]|new[142]	_	_
+17-36	_	the	abstract[110]|abstract[142]	new[110]|new[142]	coref	18-41[110_111]
+17-37	_	country	abstract[110]|abstract[142]	new[110]|new[142]	_	_
 17-38	_	.	_	_	_	_
 
 #Text=I am back in Philadelphia to express my thanks for that support and also to express appreciation for the help we received from those Democrats in this city and State , and to report to you on the progress that this country has made on the goals that were outlined 3 years ago .
@@ -689,7 +689,7 @@
 18-27	_	this	abstract[31]	new[31]	_	_
 18-28	_	city	abstract[31]	new[31]	_	_
 18-29	_	and	_	_	_	_
-18-30	_	State	abstract[97]	new[97]	_	_
+18-30	_	State	abstract[98]	new[98]	_	_
 18-31	_	,	_	_	_	_
 18-32	_	and	_	_	_	_
 18-33	_	to	_	_	_	_
@@ -700,8 +700,8 @@
 18-38	_	the	_	_	_	_
 18-39	_	progress	_	_	_	_
 18-40	_	that	_	_	_	_
-18-41	_	this	abstract[110]	new[110]	coref	19-15[110_111]
-18-42	_	country	abstract[110]	new[110]	_	_
+18-41	_	this	abstract[111]	new[111]	coref	19-15[111_112]
+18-42	_	country	abstract[111]	new[111]	_	_
 18-43	_	has	_	_	_	_
 18-44	_	made	_	_	_	_
 18-45	_	on	_	_	_	_
@@ -730,9 +730,9 @@
 19-12	_	be	_	_	_	_
 19-13	_	easy	_	_	_	_
 19-14	_	in	_	_	_	_
-19-15	_	the	abstract[111]	new[111]	coref	22-26[111_112]
-19-16	_	Great	abstract[111]	new[111]	_	_
-19-17	_	Republic	abstract[111]	new[111]	_	_
+19-15	_	the	abstract[112]	new[112]	coref	22-26[112_113]
+19-16	_	Great	abstract[112]	new[112]	_	_
+19-17	_	Republic	abstract[112]	new[112]	_	_
 19-18	_	.	_	_	_	_
 
 #Text=I did not say we would not have new pressures and new problems .
@@ -792,8 +792,8 @@
 22-23	_	are	_	_	_	_
 22-24	_	citizens	_	_	_	_
 22-25	_	of	_	_	_	_
-22-26	_	this	abstract[112]	new[112]	coref	24-14[112_113]
-22-27	_	country	abstract[112]	new[112]	_	_
+22-26	_	this	abstract[113]	new[113]	coref	24-14[113_114]
+22-27	_	country	abstract[113]	new[113]	_	_
 22-28	_	in	_	_	_	_
 22-29	_	these	_	_	_	_
 22-30	_	difficult	_	_	_	_
@@ -871,27 +871,27 @@
 24-11	_	the	abstract[159]	new[159]	coref	25-33[159_160]
 24-12	_	goals	abstract[159]	new[159]	_	_
 24-13	_	which	abstract[159]	new[159]	_	_
-24-14	_	this	abstract[113]|abstract[159]	new[113]|new[159]	coref	24-20[113_114]
-24-15	_	country	abstract[113]|abstract[159]	new[113]|new[159]	_	_
+24-14	_	this	abstract[114]|abstract[159]	new[114]|new[159]	coref	24-20[114_115]
+24-15	_	country	abstract[114]|abstract[159]	new[114]|new[159]	_	_
 24-16	_	must	abstract[159]	new[159]	_	_
 24-17	_	strive	abstract[159]	new[159]	_	_
 24-18	_	for	abstract[159]	new[159]	_	_
 24-19	_	if	abstract[159]	new[159]	_	_
-24-20	_	it	abstract[114]|abstract[159]	new[114]|new[159]	coref	24-24[114_115]
+24-20	_	it	abstract[115]|abstract[159]	new[115]|new[159]	coref	24-24[115_116]
 24-21	_	is	abstract[159]	new[159]	_	_
 24-22	_	to	abstract[159]	new[159]	_	_
 24-23	_	meet	abstract[159]	new[159]	_	_
-24-24	_	its	abstract[115]|abstract[159]	new[115]|new[159]	coref	24-27[115_116]
+24-24	_	its	abstract[116]|abstract[159]	new[116]|new[159]	coref	24-27[116_117]
 24-25	_	responsibilities	abstract[159]	new[159]	_	_
 24-26	_	to	abstract[159]	new[159]	_	_
-24-27	_	its	abstract[116]|abstract[159]	new[116]|new[159]	coref	24-34[116_117]
+24-27	_	its	abstract[117]|abstract[159]	new[117]|new[159]	coref	24-34[117_118]
 24-28	_	people	abstract[159]	new[159]	_	_
 24-29	_	and	abstract[159]	new[159]	_	_
 24-30	_	those	abstract[159]	new[159]	_	_
 24-31	_	who	abstract[159]	new[159]	_	_
 24-32	_	depend	abstract[159]	new[159]	_	_
 24-33	_	upon	abstract[159]	new[159]	_	_
-24-34	_	it	abstract[117]|abstract[159]	new[117]|new[159]	coref	25-25[117_118]
+24-34	_	it	abstract[118]|abstract[159]	new[118]|new[159]	coref	25-25[118_119]
 24-35	_	.	_	_	_	_
 
 #Text=I still believe in the kind of America which I described in this hall 3 years ago , and I am still determined that this Nation shall continue to strive to meet those goals .
@@ -919,8 +919,8 @@
 25-22	_	still	_	_	_	_
 25-23	_	determined	_	_	_	_
 25-24	_	that	_	_	_	_
-25-25	_	this	abstract[118]	new[118]	coref	27-54[118_119]
-25-26	_	Nation	abstract[118]	new[118]	_	_
+25-25	_	this	abstract[119]	new[119]	coref	27-54[119_120]
+25-26	_	Nation	abstract[119]	new[119]	_	_
 25-27	_	shall	_	_	_	_
 25-28	_	continue	_	_	_	_
 25-29	_	to	_	_	_	_
@@ -1005,9 +1005,9 @@
 27-51	_	new	_	_	_	_
 27-52	_	markets	_	_	_	_
 27-53	_	that	_	_	_	_
-27-54	_	our	abstract[75]|abstract[119]	new[75]|new[119]	coref|coref	30-2[75_76]|31-14[119_120]
-27-55	_	growing	abstract[119]	new[119]	_	_
-27-56	_	Nation	abstract[119]	new[119]	_	_
+27-54	_	our	abstract[75]|abstract[120]	new[75]|new[120]	coref|coref	30-2[75_76]|31-14[120_121]
+27-55	_	growing	abstract[120]	new[120]	_	_
+27-56	_	Nation	abstract[120]	new[120]	_	_
 27-57	_	needed	_	_	_	_
 27-58	_	.	_	_	_	_
 
@@ -1080,9 +1080,9 @@
 31-11	_	are	_	_	_	_
 31-12	_	working	_	_	_	_
 31-13	_	in	_	_	_	_
-31-14	_	the	abstract[120]	new[120]	coref	32-16[120_121]
-31-15	_	United	abstract[120]	new[120]	_	_
-31-16	_	States	abstract[120]	new[120]	_	_
+31-14	_	the	abstract[121]	new[121]	coref	32-16[121_122]
+31-15	_	United	abstract[121]	new[121]	_	_
+31-16	_	States	abstract[121]	new[121]	_	_
 31-17	_	than	_	_	_	_
 31-18	_	were	_	_	_	_
 31-19	_	working	_	_	_	_
@@ -1107,9 +1107,9 @@
 32-13	_	our	abstract[78]|abstract[165]	new[78]|new[165]	coref|coref	33-3[78_79]|33-55[165_166]
 32-14	_	economy	abstract[165]	new[165]	_	_
 32-15	_	of	abstract[165]	new[165]	_	_
-32-16	_	the	abstract[121]|abstract[165]	new[121]|new[165]	coref	32-53[121_122]
-32-17	_	United	abstract[121]|abstract[165]	new[121]|new[165]	_	_
-32-18	_	States	abstract[121]|abstract[165]	new[121]|new[165]	_	_
+32-16	_	the	abstract[122]|abstract[165]	new[122]|new[165]	coref	32-53[122_123]
+32-17	_	United	abstract[122]|abstract[165]	new[122]|new[165]	_	_
+32-18	_	States	abstract[122]|abstract[165]	new[122]|new[165]	_	_
 32-19	_	will	_	_	_	_
 32-20	_	shortly	_	_	_	_
 32-21	_	pass	_	_	_	_
@@ -1144,9 +1144,9 @@
 32-50	_	the	abstract[167]	new[167]	coref	33-58[167_168]
 32-51	_	history	abstract[167]	new[167]	_	_
 32-52	_	of	abstract[167]	new[167]	_	_
-32-53	_	the	abstract[122]|abstract[167]	new[122]|new[167]	coref	33-43[122_123]
-32-54	_	United	abstract[122]|abstract[167]	new[122]|new[167]	_	_
-32-55	_	States	abstract[122]|abstract[167]	new[122]|new[167]	_	_
+32-53	_	the	abstract[123]|abstract[167]	new[123]|new[167]	coref	33-43[123_124]
+32-54	_	United	abstract[123]|abstract[167]	new[123]|new[167]	_	_
+32-55	_	States	abstract[123]|abstract[167]	new[123]|new[167]	_	_
 32-56	_	.	_	_	_	_
 
 #Text=And if we can obtain the early passage of an effective tax cut which the House of Representatives has already passed -- and which the Ways and Means Committee , on which Bill Green serves , wrote -- we shall be sailing this country next year on the longest and strongest peacetime expansion of our economy in the history of the United States .
@@ -1182,8 +1182,8 @@
 33-30	_	,	_	_	_	_
 33-31	_	on	_	_	_	_
 33-32	_	which	_	_	_	_
-33-33	_	Bill	abstract[102]	new[102]	_	_
-33-34	_	Green	abstract[102]	new[102]	_	_
+33-33	_	Bill	abstract[103]	new[103]	_	_
+33-34	_	Green	abstract[103]	new[103]	_	_
 33-35	_	serves	_	_	_	_
 33-36	_	,	_	_	_	_
 33-37	_	wrote	_	_	_	_
@@ -1192,8 +1192,8 @@
 33-40	_	shall	_	_	_	_
 33-41	_	be	_	_	_	_
 33-42	_	sailing	_	_	_	_
-33-43	_	this	abstract[123]	new[123]	coref	33-61[123_124]
-33-44	_	country	abstract[123]	new[123]	_	_
+33-43	_	this	abstract[124]	new[124]	coref	33-61[124_125]
+33-44	_	country	abstract[124]	new[124]	_	_
 33-45	_	next	_	_	_	_
 33-46	_	year	_	_	_	_
 33-47	_	on	_	_	_	_
@@ -1210,9 +1210,9 @@
 33-58	_	the	abstract[168]|abstract[169]	new[168]|new[169]	_	_
 33-59	_	history	abstract[168]|abstract[169]	new[168]|new[169]	_	_
 33-60	_	of	abstract[168]|abstract[169]	new[168]|new[169]	_	_
-33-61	_	the	abstract[124]|abstract[168]|abstract[169]	new[124]|new[168]|new[169]	coref	35-4[124_125]
-33-62	_	United	abstract[124]|abstract[168]|abstract[169]	new[124]|new[168]|new[169]	_	_
-33-63	_	States	abstract[124]|abstract[168]|abstract[169]	new[124]|new[168]|new[169]	_	_
+33-61	_	the	abstract[125]|abstract[168]|abstract[169]	new[125]|new[168]|new[169]	_	_
+33-62	_	United	abstract[125]|abstract[168]|abstract[169]	new[125]|new[168]|new[169]	_	_
+33-63	_	States	abstract[125]|abstract[168]|abstract[169]	new[125]|new[168]|new[169]	_	_
 33-64	_	.	_	_	_	_
 
 #Text=It is well within our reach .
@@ -1224,15 +1224,38 @@
 34-6	_	reach	_	_	_	_
 34-7	_	.	_	_	_	_
 
-#Text=The President of the United States on the political future
-35-1	_	The	_	_	_	_
-35-2	_	President	_	_	_	_
-35-3	_	of	_	_	_	_
-35-4	_	the	abstract[125]	new[125]	_	_
-35-5	_	United	abstract[125]	new[125]	_	_
-35-6	_	States	abstract[125]	new[125]	_	_
-35-7	_	on	_	_	_	_
-35-8	_	the	_	_	_	_
-35-9	_	political	_	_	_	_
-35-10	_	future	_	_	_	_
+#Text=US President John F. Kennedy gives a speech in support of the mayor of Philadelphia and Democractic congressmen and senators , and details some of his administration 's achievements and policy goals .
+35-1	_	US	abstract[171]	new[171]	coref	35-26[171_172]
+35-2	_	President	abstract[171]	new[171]	_	_
+35-3	_	John	abstract[171]	new[171]	_	_
+35-4	_	F.	abstract[171]	new[171]	_	_
+35-5	_	Kennedy	abstract[171]	new[171]	_	_
+35-6	_	gives	_	_	_	_
+35-7	_	a	_	_	_	_
+35-8	_	speech	_	_	_	_
+35-9	_	in	_	_	_	_
+35-10	_	support	_	_	_	_
+35-11	_	of	_	_	_	_
+35-12	_	the	abstract[91]	new[91]	_	_
+35-13	_	mayor	abstract[91]	new[91]	_	_
+35-14	_	of	abstract[91]	new[91]	_	_
+35-15	_	Philadelphia	abstract[91]	new[91]	_	_
+35-16	_	and	_	_	_	_
+35-17	_	Democractic	_	_	_	_
+35-18	_	congressmen	_	_	_	_
+35-19	_	and	_	_	_	_
+35-20	_	senators	_	_	_	_
+35-21	_	,	_	_	_	_
+35-22	_	and	_	_	_	_
+35-23	_	details	_	_	_	_
+35-24	_	some	_	_	_	_
+35-25	_	of	_	_	_	_
+35-26	_	his	abstract[172]	new[172]	_	_
+35-27	_	administration	_	_	_	_
+35-28	_	's	_	_	_	_
+35-29	_	achievements	_	_	_	_
+35-30	_	and	_	_	_	_
+35-31	_	policy	_	_	_	_
+35-32	_	goals	_	_	_	_
+35-33	_	.	_	_	_	_
 

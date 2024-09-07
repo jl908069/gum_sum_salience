@@ -357,8 +357,8 @@
 15-9	_	and	_	_	_	_
 15-10	_	adversaries	_	_	_	_
 15-11	_	around	_	_	_	_
-15-12	_	the	_	_	_	_
-15-13	_	world	_	_	_	_
+15-12	_	the	abstract[164]	new[164]	coref	55-9[164_165]
+15-13	_	world	abstract[164]	new[164]	_	_
 15-14	_	that	_	_	_	_
 15-15	_	our	abstract[23]|abstract[59]	new[23]|new[59]	coref|coref	20-7[23_24]|15-19[59_60]
 15-16	_	democracy	abstract[59]	new[59]	_	_
@@ -533,9 +533,9 @@
 21-19	_	economic	_	_	_	_
 21-20	_	hardship	_	_	_	_
 21-21	_	,	_	_	_	_
-21-22	_	a	abstract[159]	new[159]	coref	44-24[159_160]
-21-23	_	warming	abstract[159]	new[159]	_	_
-21-24	_	planet	abstract[159]	new[159]	_	_
+21-22	_	a	abstract[158]	new[158]	coref	44-24[158_159]
+21-23	_	warming	abstract[158]	new[158]	_	_
+21-24	_	planet	abstract[158]	new[158]	_	_
 21-25	_	and	_	_	_	_
 21-26	_	unequal	_	_	_	_
 21-27	_	society	_	_	_	_
@@ -552,9 +552,9 @@
 
 #Text=In his inaugural address , President Biden spoke to this moment — a moment of great challenge — and told us two simple truths : One , that our responsibilities are numerous , and , two , it will take unity — unity of spirit , unity of purpose — to fulfill them .
 22-1	_	In	_	_	_	_
-22-2	_	his	abstract[65]|abstract[139]	new[65]|new[139]	coref|coref	22-6[65_66]|35-7[139_140]
-22-3	_	inaugural	abstract[139]	new[139]	_	_
-22-4	_	address	abstract[139]	new[139]	_	_
+22-2	_	his	abstract[65]|abstract[138]	new[65]|new[138]	coref|coref	22-6[65_66]|35-7[138_139]
+22-3	_	inaugural	abstract[138]	new[138]	_	_
+22-4	_	address	abstract[138]	new[138]	_	_
 22-5	_	,	_	_	_	_
 22-6	_	President	abstract[66]	new[66]	coref	23-1[66_67]
 22-7	_	Biden	abstract[66]	new[66]	_	_
@@ -820,11 +820,11 @@
 33-19	_	Democratic	_	_	_	_
 33-20	_	Senators	_	_	_	_
 33-21	_	and	_	_	_	_
-33-22	_	a	abstract[149]	new[149]	coref	38-8[149_150]
-33-23	_	new	abstract[149]	new[149]	_	_
-33-24	_	Democratic	abstract[149]	new[149]	_	_
-33-25	_	Senate	abstract[108]|abstract[149]	new[108]|new[149]	coref	36-10[108_109]
-33-26	_	majority	abstract[149]	new[149]	_	_
+33-22	_	a	abstract[148]	new[148]	coref	38-8[148_149]
+33-23	_	new	abstract[148]	new[148]	_	_
+33-24	_	Democratic	abstract[148]	new[148]	_	_
+33-25	_	Senate	abstract[108]|abstract[148]	new[108]|new[148]	coref	36-10[108_109]
+33-26	_	majority	abstract[148]	new[148]	_	_
 33-27	_	.	_	_	_	_
 
 #Text=I mention the historic nature of Vice President HARRIS ’ ascendance , but let ’s not forget that her successor , ALEX PADILLA , is the first Latino Senator to represent California ; that RAFAEL WARNOCK , born while Georgia was represented in this Chamber by two staunch segregationists , is now the first African - American Senator Georgia has ever elected ; and that JOHN OSSOFF is the first Jewish Senator from his State , sworn in today on a book of Hebrew Scripture once owned by the rabbi , who , decades ago , formed a bond between the Jewish and African - American communities of Georgia .
@@ -906,7 +906,7 @@
 34-76	_	,	_	_	_	_
 34-77	_	sworn	_	_	_	_
 34-78	_	in	_	_	_	_
-34-79	_	today	abstract[153]	new[153]	coref	39-1[153_154]
+34-79	_	today	abstract[152]	new[152]	coref	39-1[152_153]
 34-80	_	on	_	_	_	_
 34-81	_	a	_	_	_	_
 34-82	_	book	_	_	_	_
@@ -945,9 +945,9 @@
 35-3	_	Biden	abstract[136]	new[136]	_	_
 35-4	_	said	_	_	_	_
 35-5	_	in	_	_	_	_
-35-6	_	his	abstract[137]|abstract[140]	new[137]|new[140]	coref	55-1[137_138]
-35-7	_	inaugural	abstract[140]	new[140]	_	_
-35-8	_	address	abstract[140]	new[140]	_	_
+35-6	_	his	abstract[137]|abstract[139]	new[137]|new[139]	_	_
+35-7	_	inaugural	abstract[139]	new[139]	_	_
+35-8	_	address	abstract[139]	new[139]	_	_
 35-9	_	,	_	_	_	_
 35-10	_	“	_	_	_	_
 35-11	_	do	_	_	_	_
@@ -1023,31 +1023,31 @@
 37-32	_	housewife	abstract[10]	new[10]	_	_
 37-33	_	,	_	_	_	_
 37-34	_	and	_	_	_	_
-37-35	_	a	abstract[141]	new[141]	coref	38-2[141_142]
-37-36	_	descendant	abstract[141]	new[141]	_	_
-37-37	_	of	abstract[141]	new[141]	_	_
-37-38	_	victims	abstract[141]	new[141]	_	_
-37-39	_	of	abstract[141]	new[141]	_	_
-37-40	_	the	abstract[141]	new[141]	_	_
-37-41	_	Holocaust	abstract[141]	new[141]	_	_
+37-35	_	a	abstract[140]	new[140]	coref	38-2[140_141]
+37-36	_	descendant	abstract[140]	new[140]	_	_
+37-37	_	of	abstract[140]	new[140]	_	_
+37-38	_	victims	abstract[140]	new[140]	_	_
+37-39	_	of	abstract[140]	new[140]	_	_
+37-40	_	the	abstract[140]	new[140]	_	_
+37-41	_	Holocaust	abstract[140]	new[140]	_	_
 37-42	_	.	_	_	_	_
 
 #Text=That I should be the leader of this new Senate majority is an awesome responsibility — awesome in the Biblical sense , as the angels that tremble in awe before God .
 38-1	_	That	_	_	_	_
-38-2	_	I	abstract[142]	new[142]	coref	39-3[142_143]
+38-2	_	I	abstract[141]	new[141]	coref	39-3[141_142]
 38-3	_	should	_	_	_	_
 38-4	_	be	_	_	_	_
 38-5	_	the	_	_	_	_
 38-6	_	leader	_	_	_	_
 38-7	_	of	_	_	_	_
-38-8	_	this	abstract[150]	new[150]	coref	41-3[150_151]
-38-9	_	new	abstract[150]	new[150]	_	_
-38-10	_	Senate	abstract[110]|abstract[150]	new[110]|new[150]	coref	41-7[110_111]
-38-11	_	majority	abstract[150]	new[150]	_	_
+38-8	_	this	abstract[149]	new[149]	coref	41-3[149_150]
+38-9	_	new	abstract[149]	new[149]	_	_
+38-10	_	Senate	abstract[110]|abstract[149]	new[110]|new[149]	coref	41-7[110_111]
+38-11	_	majority	abstract[149]	new[149]	_	_
 38-12	_	is	_	_	_	_
-38-13	_	an	abstract[155]	new[155]	coref	39-9[155_156]
-38-14	_	awesome	abstract[155]	new[155]	_	_
-38-15	_	responsibility	abstract[155]	new[155]	_	_
+38-13	_	an	abstract[154]	new[154]	coref	39-9[154_155]
+38-14	_	awesome	abstract[154]	new[154]	_	_
+38-15	_	responsibility	abstract[154]	new[154]	_	_
 38-16	_	—	_	_	_	_
 38-17	_	awesome	_	_	_	_
 38-18	_	in	_	_	_	_
@@ -1067,16 +1067,16 @@
 38-32	_	.	_	_	_	_
 
 #Text=Today , I feel the full weight of that responsibility , a sense of reverence and of awe at the trust placed in me .
-39-1	_	Today	abstract[154]	new[154]	_	_
+39-1	_	Today	abstract[153]	new[153]	_	_
 39-2	_	,	_	_	_	_
-39-3	_	I	abstract[143]	new[143]	coref	39-24[143_144]
+39-3	_	I	abstract[142]	new[142]	coref	39-24[142_143]
 39-4	_	feel	_	_	_	_
 39-5	_	the	_	_	_	_
 39-6	_	full	_	_	_	_
 39-7	_	weight	_	_	_	_
 39-8	_	of	_	_	_	_
-39-9	_	that	abstract[156]	new[156]	_	_
-39-10	_	responsibility	abstract[156]	new[156]	_	_
+39-9	_	that	abstract[155]	new[155]	_	_
+39-10	_	responsibility	abstract[155]	new[155]	_	_
 39-11	_	,	_	_	_	_
 39-12	_	a	_	_	_	_
 39-13	_	sense	_	_	_	_
@@ -1086,24 +1086,24 @@
 39-17	_	of	_	_	_	_
 39-18	_	awe	_	_	_	_
 39-19	_	at	_	_	_	_
-39-20	_	the	abstract[157]	new[157]	coref	40-5[157_158]
-39-21	_	trust	abstract[157]	new[157]	_	_
-39-22	_	placed	abstract[157]	new[157]	_	_
-39-23	_	in	abstract[157]	new[157]	_	_
-39-24	_	me	abstract[144]|abstract[157]	new[144]|new[157]	coref	40-1[144_145]
+39-20	_	the	abstract[156]	new[156]	coref	40-5[156_157]
+39-21	_	trust	abstract[156]	new[156]	_	_
+39-22	_	placed	abstract[156]	new[156]	_	_
+39-23	_	in	abstract[156]	new[156]	_	_
+39-24	_	me	abstract[143]|abstract[156]	new[143]|new[156]	coref	40-1[143_144]
 39-25	_	.	_	_	_	_
 
 #Text=I intend to honor that trust with all of my energy and with joy .
-40-1	_	I	abstract[145]	new[145]	coref	40-10[145_146]
+40-1	_	I	abstract[144]	new[144]	coref	40-10[144_145]
 40-2	_	intend	_	_	_	_
 40-3	_	to	_	_	_	_
 40-4	_	honor	_	_	_	_
-40-5	_	that	abstract[158]	new[158]	_	_
-40-6	_	trust	abstract[158]	new[158]	_	_
+40-5	_	that	abstract[157]	new[157]	_	_
+40-6	_	trust	abstract[157]	new[157]	_	_
 40-7	_	with	_	_	_	_
 40-8	_	all	_	_	_	_
 40-9	_	of	_	_	_	_
-40-10	_	my	abstract[146]	new[146]	coref	47-3[146_147]
+40-10	_	my	abstract[145]	new[145]	coref	47-3[145_146]
 40-11	_	energy	_	_	_	_
 40-12	_	and	_	_	_	_
 40-13	_	with	_	_	_	_
@@ -1113,8 +1113,8 @@
 #Text=And as the majority changes in the Senate , the Senate will do business differently .
 41-1	_	And	_	_	_	_
 41-2	_	as	_	_	_	_
-41-3	_	the	abstract[151]	new[151]	coref	47-13[151_152]
-41-4	_	majority	abstract[151]	new[151]	_	_
+41-3	_	the	abstract[150]	new[150]	coref	47-13[150_151]
+41-4	_	majority	abstract[150]	new[150]	_	_
 41-5	_	changes	_	_	_	_
 41-6	_	in	_	_	_	_
 41-7	_	the	abstract[111]	new[111]	coref	41-10[111_112]
@@ -1234,8 +1234,8 @@
 44-21	_	country	abstract[103]	new[103]	_	_
 44-22	_	and	_	_	_	_
 44-23	_	to	_	_	_	_
-44-24	_	our	abstract[41]|abstract[160]	new[41]|new[160]	coref	47-10[41_42]
-44-25	_	planet	abstract[160]	new[160]	_	_
+44-24	_	our	abstract[41]|abstract[159]	new[41]|new[159]	coref	47-10[41_42]
+44-25	_	planet	abstract[159]	new[159]	_	_
 44-26	_	:	_	_	_	_
 44-27	_	climate	_	_	_	_
 44-28	_	change	_	_	_	_
@@ -1245,7 +1245,7 @@
 45-1	_	This	abstract[117]	new[117]	coref	46-1[117_118]
 45-2	_	Senate	abstract[117]	new[117]	_	_
 45-3	_	will	_	_	_	_
-45-4	_	legislate	abstract[161]	new[161]	coref	47-20[161_162]
+45-4	_	legislate	abstract[160]	new[160]	coref	47-20[160_161]
 45-5	_	.	_	_	_	_
 
 #Text=It will be active , responsive , energetic , and bold .
@@ -1265,7 +1265,7 @@
 #Text=And to my Republican colleagues , when and where we can , the Democratic majority will strive to make this important work bipartisan .
 47-1	_	And	_	_	_	_
 47-2	_	to	_	_	_	_
-47-3	_	my	abstract[147]	new[147]	coref	54-1[147_148]
+47-3	_	my	abstract[146]	new[146]	coref	54-1[146_147]
 47-4	_	Republican	_	_	_	_
 47-5	_	colleagues	_	_	_	_
 47-6	_	,	_	_	_	_
@@ -1275,16 +1275,16 @@
 47-10	_	we	abstract[42]	new[42]	coref	48-6[42_43]
 47-11	_	can	_	_	_	_
 47-12	_	,	_	_	_	_
-47-13	_	the	abstract[152]	new[152]	_	_
-47-14	_	Democratic	abstract[152]	new[152]	_	_
-47-15	_	majority	abstract[152]	new[152]	_	_
+47-13	_	the	abstract[151]	new[151]	_	_
+47-14	_	Democratic	abstract[151]	new[151]	_	_
+47-15	_	majority	abstract[151]	new[151]	_	_
 47-16	_	will	_	_	_	_
 47-17	_	strive	_	_	_	_
 47-18	_	to	_	_	_	_
 47-19	_	make	_	_	_	_
-47-20	_	this	abstract[162]	new[162]	_	_
-47-21	_	important	abstract[162]	new[162]	_	_
-47-22	_	work	abstract[162]	new[162]	_	_
+47-20	_	this	abstract[161]	new[161]	_	_
+47-21	_	important	abstract[161]	new[161]	_	_
+47-22	_	work	abstract[161]	new[161]	_	_
 47-23	_	bipartisan	_	_	_	_
 47-24	_	.	_	_	_	_
 
@@ -1302,8 +1302,8 @@
 #Text=We have no choice .
 49-1	_	We	abstract[44]	new[44]	coref	50-3[44_45]
 49-2	_	have	_	_	_	_
-49-3	_	no	abstract[163]	new[163]	coref	52-3[163_164]
-49-4	_	choice	abstract[163]	new[163]	_	_
+49-3	_	no	abstract[162]	new[162]	coref	52-3[162_163]
+49-4	_	choice	abstract[162]	new[162]	_	_
 49-5	_	.	_	_	_	_
 
 #Text=The challenges we face are great .
@@ -1328,61 +1328,53 @@
 #Text=We have no choice but to try to work together every day to reward the faith the American people have placed in us .
 52-1	_	We	abstract[46]	new[46]	coref	52-23[46_47]
 52-2	_	have	_	_	_	_
-52-3	_	no	abstract[164]	new[164]	_	_
-52-4	_	choice	abstract[164]	new[164]	_	_
-52-5	_	but	abstract[164]	new[164]	_	_
-52-6	_	to	abstract[164]	new[164]	_	_
-52-7	_	try	abstract[164]	new[164]	_	_
-52-8	_	to	abstract[164]	new[164]	_	_
-52-9	_	work	abstract[164]	new[164]	_	_
-52-10	_	together	abstract[164]	new[164]	_	_
-52-11	_	every	abstract[164]	new[164]	_	_
-52-12	_	day	abstract[164]	new[164]	_	_
-52-13	_	to	abstract[164]	new[164]	_	_
-52-14	_	reward	abstract[164]	new[164]	_	_
-52-15	_	the	abstract[164]	new[164]	_	_
-52-16	_	faith	abstract[164]	new[164]	_	_
-52-17	_	the	abstract[164]	new[164]	_	_
-52-18	_	American	abstract[164]	new[164]	_	_
-52-19	_	people	abstract[164]	new[164]	_	_
-52-20	_	have	abstract[164]	new[164]	_	_
-52-21	_	placed	abstract[164]	new[164]	_	_
-52-22	_	in	abstract[164]	new[164]	_	_
-52-23	_	us	abstract[47]|abstract[164]	new[47]|new[164]	coref	53-3[47_48]
+52-3	_	no	abstract[163]	new[163]	_	_
+52-4	_	choice	abstract[163]	new[163]	_	_
+52-5	_	but	abstract[163]	new[163]	_	_
+52-6	_	to	abstract[163]	new[163]	_	_
+52-7	_	try	abstract[163]	new[163]	_	_
+52-8	_	to	abstract[163]	new[163]	_	_
+52-9	_	work	abstract[163]	new[163]	_	_
+52-10	_	together	abstract[163]	new[163]	_	_
+52-11	_	every	abstract[163]	new[163]	_	_
+52-12	_	day	abstract[163]	new[163]	_	_
+52-13	_	to	abstract[163]	new[163]	_	_
+52-14	_	reward	abstract[163]	new[163]	_	_
+52-15	_	the	abstract[163]	new[163]	_	_
+52-16	_	faith	abstract[163]	new[163]	_	_
+52-17	_	the	abstract[163]	new[163]	_	_
+52-18	_	American	abstract[163]	new[163]	_	_
+52-19	_	people	abstract[163]	new[163]	_	_
+52-20	_	have	abstract[163]	new[163]	_	_
+52-21	_	placed	abstract[163]	new[163]	_	_
+52-22	_	in	abstract[163]	new[163]	_	_
+52-23	_	us	abstract[47]|abstract[163]	new[47]|new[163]	coref	53-3[47_48]
 52-24	_	.	_	_	_	_
 
 #Text=So let us begin .
 53-1	_	So	_	_	_	_
 53-2	_	let	_	_	_	_
-53-3	_	us	abstract[48]	new[48]	coref	55-13[48_49]
+53-3	_	us	abstract[48]	new[48]	coref	55-9[48_49]
 53-4	_	begin	_	_	_	_
 53-5	_	.	_	_	_	_
 
 #Text=I yield the floor .
-54-1	_	I	abstract[148]	new[148]	_	_
+54-1	_	I	abstract[147]	new[147]	_	_
 54-2	_	yield	_	_	_	_
 54-3	_	the	_	_	_	_
 54-4	_	floor	_	_	_	_
 54-5	_	.	_	_	_	_
 
-#Text=The president promises to put people first . But does that mean we must also put people first ?
-55-1	_	The	abstract[138]	new[138]	_	_
-55-2	_	president	abstract[138]	new[138]	_	_
-55-3	_	promises	_	_	_	_
-55-4	_	to	_	_	_	_
-55-5	_	put	_	_	_	_
-55-6	_	people	_	_	_	_
-55-7	_	first	_	_	_	_
-55-8	_	.	_	_	_	_
-55-9	_	But	_	_	_	_
-55-10	_	does	_	_	_	_
-55-11	_	that	_	_	_	_
-55-12	_	mean	_	_	_	_
-55-13	_	we	abstract[49]	new[49]	_	_
-55-14	_	must	_	_	_	_
-55-15	_	also	_	_	_	_
-55-16	_	put	_	_	_	_
-55-17	_	people	_	_	_	_
-55-18	_	first	_	_	_	_
-55-19	_	?	_	_	_	_
+#Text=What is at stake in the future of our world ?
+55-1	_	What	_	_	_	_
+55-2	_	is	_	_	_	_
+55-3	_	at	_	_	_	_
+55-4	_	stake	_	_	_	_
+55-5	_	in	_	_	_	_
+55-6	_	the	_	_	_	_
+55-7	_	future	_	_	_	_
+55-8	_	of	_	_	_	_
+55-9	_	our	abstract[49]|abstract[165]	new[49]|new[165]	_	_
+55-10	_	world	abstract[165]	new[165]	_	_
+55-11	_	?	_	_	_	_
 

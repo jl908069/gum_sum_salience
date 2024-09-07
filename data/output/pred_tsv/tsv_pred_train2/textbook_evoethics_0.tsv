@@ -1288,7 +1288,7 @@
 50-9	_	can	_	_	_	_
 50-10	_	see	_	_	_	_
 50-11	_	that	_	_	_	_
-50-12	_	it	abstract[139]	new[139]	_	_
+50-12	_	it	abstract[139]	new[139]	coref	52-8[139_140]
 50-13	_	also	_	_	_	_
 50-14	_	raises	_	_	_	_
 50-15	_	deep	_	_	_	_
@@ -1339,27 +1339,27 @@
 51-13	_	where	_	_	_	_
 51-14	_	to	_	_	_	_
 51-15	_	get	_	_	_	_
-51-16	_	our	abstract[45]	new[45]	coref	52-4[45_46]
+51-16	_	our	abstract[45]	new[45]	coref	52-2[45_46]
 51-17	_	answers	_	_	_	_
 51-18	_	.	_	_	_	_
 
-#Text=In this series we explore the challenges that create frustration in your niche or field of study .
-52-1	_	In	_	_	_	_
-52-2	_	this	_	_	_	_
-52-3	_	series	_	_	_	_
-52-4	_	we	abstract[46]	new[46]	coref	52-12[46_47]
-52-5	_	explore	_	_	_	_
-52-6	_	the	_	_	_	_
-52-7	_	challenges	_	_	_	_
-52-8	_	that	_	_	_	_
-52-9	_	create	_	_	_	_
-52-10	_	frustration	_	_	_	_
-52-11	_	in	_	_	_	_
-52-12	_	your	abstract[47]	new[47]	_	_
-52-13	_	niche	_	_	_	_
-52-14	_	or	_	_	_	_
-52-15	_	field	_	_	_	_
-52-16	_	of	_	_	_	_
-52-17	_	study	_	_	_	_
-52-18	_	.	_	_	_	_
+#Text=Is your industry changing , or is it creating a new type of revolution in your industry ?
+52-1	_	Is	_	_	_	_
+52-2	_	your	abstract[46]|abstract[141]	new[46]|new[141]	coref|coref	52-16[46_47]|52-16[141_142]
+52-3	_	industry	abstract[141]	new[141]	_	_
+52-4	_	changing	_	_	_	_
+52-5	_	,	_	_	_	_
+52-6	_	or	_	_	_	_
+52-7	_	is	_	_	_	_
+52-8	_	it	abstract[140]	new[140]	_	_
+52-9	_	creating	_	_	_	_
+52-10	_	a	_	_	_	_
+52-11	_	new	_	_	_	_
+52-12	_	type	_	_	_	_
+52-13	_	of	_	_	_	_
+52-14	_	revolution	_	_	_	_
+52-15	_	in	_	_	_	_
+52-16	_	your	abstract[47]|abstract[142]	new[47]|new[142]	_	_
+52-17	_	industry	abstract[142]	new[142]	_	_
+52-18	_	?	_	_	_	_
 

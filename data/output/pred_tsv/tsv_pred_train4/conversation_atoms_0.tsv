@@ -1156,7 +1156,7 @@
 115-2	_	.	_	_	_	_
 
 #Text=Six , good .
-116-1	_	Six	abstract[160]	new[160]	coref	118-3[160_161]
+116-1	_	Six	abstract[159]	new[159]	coref	118-3[159_160]
 116-2	_	,	_	_	_	_
 116-3	_	good	_	_	_	_
 116-4	_	.	_	_	_	_
@@ -1166,7 +1166,7 @@
 117-2	_	let	_	_	_	_
 117-3	_	's	abstract[73]	new[73]	coref	117-10[73_74]
 117-4	_	do	_	_	_	_
-117-5	_	this	abstract[157]	new[157]	coref	117-15[157_158]
+117-5	_	this	abstract[156]	new[156]	coref	117-15[156_157]
 117-6	_	uh	_	_	_	_
 117-7	_	,	_	_	_	_
 117-8	_	let	_	_	_	_
@@ -1175,13 +1175,13 @@
 117-11	_	some	_	_	_	_
 117-12	_	complexities	_	_	_	_
 117-13	_	to	_	_	_	_
-117-14	_	this	abstract[158]	new[158]	coref	117-21[158_159]
+117-14	_	this	abstract[157]	new[157]	coref	117-21[157_158]
 117-15	_	here	_	_	_	_
 117-16	_	,	_	_	_	_
 117-17	_	let	_	_	_	_
 117-18	_	's	abstract[75]	new[75]	coref	124-5[75_76]
 117-19	_	do	_	_	_	_
-117-20	_	it	abstract[159]	new[159]	_	_
+117-20	_	it	abstract[158]	new[158]	_	_
 117-21	_	in	_	_	_	_
 117-22	_	another	_	_	_	_
 117-23	_	language	_	_	_	_
@@ -1189,28 +1189,28 @@
 
 #Text=In Spanish it would be ?
 118-1	_	In	_	_	_	_
-118-2	_	Spanish	abstract[174]	new[174]	coref	135-6[174_175]
-118-3	_	it	abstract[161]	new[161]	coref	120-1[161_162]
+118-2	_	Spanish	abstract[173]	new[173]	coref	135-6[173_174]
+118-3	_	it	abstract[160]	new[160]	coref	120-1[160_161]
 118-4	_	would	_	_	_	_
 118-5	_	be	_	_	_	_
 118-6	_	?	_	_	_	_
 
 #Text=Ocho .
-119-1	_	Ocho	abstract[164]	new[164]	coref	122-2[164_165]
+119-1	_	Ocho	abstract[163]	new[163]	coref	122-2[163_164]
 119-2	_	.	_	_	_	_
 
 #Text=Seis .
-120-1	_	Seis	abstract[162]	new[162]	coref	121-2[162_163]
+120-1	_	Seis	abstract[161]	new[161]	coref	121-2[161_162]
 120-2	_	.	_	_	_	_
 
 #Text=S- seis .
 121-1	_	S-	_	_	_	_
-121-2	_	seis	abstract[163]	new[163]	_	_
+121-2	_	seis	abstract[162]	new[162]	_	_
 121-3	_	.	_	_	_	_
 
 #Text=N- ocho .
 122-1	_	N-	_	_	_	_
-122-2	_	ocho	abstract[165]	new[165]	_	_
+122-2	_	ocho	abstract[164]	new[164]	_	_
 122-3	_	.	_	_	_	_
 
 #Text=Oh my gosh .
@@ -1234,13 +1234,13 @@
 125-3	_	well	_	_	_	_
 125-4	_	,	_	_	_	_
 125-5	_	and	_	_	_	_
-125-6	_	this	abstract[166]	new[166]	coref	126-1[166_167]
+125-6	_	this	abstract[165]	new[165]	coref	126-1[165_166]
 125-7	_	would	_	_	_	_
 125-8	_	be	_	_	_	_
 125-9	_	?	_	_	_	_
 
 #Text=Siete .
-126-1	_	Siete	abstract[167]	new[167]	_	_
+126-1	_	Siete	abstract[166]	new[166]	_	_
 126-2	_	.	_	_	_	_
 
 #Text=Thank you .
@@ -1274,24 +1274,24 @@
 132-7	_	?	_	_	_	_
 
 #Text=Eight .
-133-1	_	Eight	abstract[168]	new[168]	coref	134-1[168_169]
+133-1	_	Eight	abstract[167]	new[167]	coref	134-1[167_168]
 133-2	_	.	_	_	_	_
 
 #Text=Ocho .
-134-1	_	Ocho	abstract[169]	new[169]	_	_
+134-1	_	Ocho	abstract[168]	new[168]	_	_
 134-2	_	.	_	_	_	_
 
 #Text=Eight , or ocho in Spanish , and uh huit in French , thank you very much .
-135-1	_	Eight	abstract[170]	new[170]	coref	135-4[170_171]
+135-1	_	Eight	abstract[169]	new[169]	coref	135-4[169_170]
 135-2	_	,	_	_	_	_
 135-3	_	or	_	_	_	_
-135-4	_	ocho	abstract[171]	new[171]	coref	135-10[171_172]
+135-4	_	ocho	abstract[170]	new[170]	coref	135-10[170_171]
 135-5	_	in	_	_	_	_
-135-6	_	Spanish	abstract[175]	new[175]	_	_
+135-6	_	Spanish	abstract[174]	new[174]	_	_
 135-7	_	,	_	_	_	_
 135-8	_	and	_	_	_	_
 135-9	_	uh	_	_	_	_
-135-10	_	huit	abstract[172]	new[172]	coref	137-10[172_173]
+135-10	_	huit	abstract[171]	new[171]	coref	137-10[171_172]
 135-11	_	in	_	_	_	_
 135-12	_	French	_	_	_	_
 135-13	_	,	_	_	_	_
@@ -1322,7 +1322,7 @@
 137-7	_	But	_	_	_	_
 137-8	_	no	_	_	_	_
 137-9	_	,	_	_	_	_
-137-10	_	huit	abstract[173]	new[173]	_	_
+137-10	_	huit	abstract[172]	new[172]	_	_
 137-11	_	.	_	_	_	_
 
 #Text=Very good .
@@ -1335,13 +1335,13 @@
 139-2	_	my	abstract[31]	new[31]	coref	139-13[31_32]
 139-3	_	gosh	_	_	_	_
 139-4	_	,	_	_	_	_
-139-5	_	eight	abstract[176]|abstract[178]	new[176]|new[178]	coref|coref	139-20[176_177]|144-2[178_179]
-139-6	_	balloons	abstract[176]|abstract[178]	new[176]|new[178]	_	_
-139-7	_	into	abstract[176]	new[176]	_	_
-139-8	_	this	abstract[131]|abstract[176]	new[131]|new[176]	coref	141-6[131_132]
-139-9	_	little	abstract[131]|abstract[176]	new[131]|new[176]	_	_
-139-10	_	container	abstract[131]|abstract[176]	new[131]|new[176]	_	_
-139-11	_	here	abstract[131]|abstract[176]	new[131]|new[176]	_	_
+139-5	_	eight	abstract[175]|abstract[177]	new[175]|new[177]	coref|coref	139-20[175_176]|144-2[177_178]
+139-6	_	balloons	abstract[175]|abstract[177]	new[175]|new[177]	_	_
+139-7	_	into	abstract[175]	new[175]	_	_
+139-8	_	this	abstract[131]|abstract[175]	new[131]|new[175]	coref	141-6[131_132]
+139-9	_	little	abstract[131]|abstract[175]	new[131]|new[175]	_	_
+139-10	_	container	abstract[131]|abstract[175]	new[131]|new[175]	_	_
+139-11	_	here	abstract[131]|abstract[175]	new[131]|new[175]	_	_
 139-12	_	,	_	_	_	_
 139-13	_	I	abstract[32]	new[32]	coref	140-1[32_33]
 139-14	_	bet	_	_	_	_
@@ -1350,7 +1350,7 @@
 139-17	_	wondering	_	_	_	_
 139-18	_	r-	_	_	_	_
 139-19	_	how	_	_	_	_
-139-20	_	that	abstract[177]	new[177]	_	_
+139-20	_	that	abstract[176]	new[176]	_	_
 139-21	_	happened	_	_	_	_
 139-22	_	.	_	_	_	_
 
@@ -1380,7 +1380,7 @@
 142-8	_	no	_	_	_	_
 142-9	_	,	_	_	_	_
 142-10	_	if	_	_	_	_
-142-11	_	you	abstract[155]	new[155]	coref	148-2[155_156]
+142-11	_	you	abstract[155]	new[155]	_	_
 142-12	_	're	_	_	_	_
 142-13	_	thinking	_	_	_	_
 142-14	_	there	_	_	_	_
@@ -1408,7 +1408,7 @@
 
 #Text=Pull em out .
 144-1	_	Pull	_	_	_	_
-144-2	_	em	abstract[179]	new[179]	_	_
+144-2	_	em	abstract[178]	new[178]	_	_
 144-3	_	out	_	_	_	_
 144-4	_	.	_	_	_	_
 
@@ -1451,17 +1451,16 @@
 147-7	_	together	_	_	_	_
 147-8	_	.	_	_	_	_
 
-#Text=Do you have any of the following things on the table ?
-148-1	_	Do	_	_	_	_
-148-2	_	you	abstract[156]	new[156]	_	_
-148-3	_	have	_	_	_	_
-148-4	_	any	_	_	_	_
-148-5	_	of	_	_	_	_
-148-6	_	the	_	_	_	_
-148-7	_	following	_	_	_	_
-148-8	_	things	_	_	_	_
-148-9	_	on	_	_	_	_
-148-10	_	the	_	_	_	_
-148-11	_	table	_	_	_	_
-148-12	_	?	_	_	_	_
+#Text=A conversation about water , fire , balloons and more .
+148-1	_	A	_	_	_	_
+148-2	_	conversation	_	_	_	_
+148-3	_	about	_	_	_	_
+148-4	_	water	_	_	_	_
+148-5	_	,	_	_	_	_
+148-6	_	fire	_	_	_	_
+148-7	_	,	_	_	_	_
+148-8	_	balloons	_	_	_	_
+148-9	_	and	_	_	_	_
+148-10	_	more	_	_	_	_
+148-11	_	.	_	_	_	_
 

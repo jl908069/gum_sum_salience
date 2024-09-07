@@ -1142,29 +1142,13 @@
 52-17	_	you	abstract[51]	new[51]	_	_
 52-18	_	.	_	_	_	_
 
-#Text=The dinosaur - thinking conspiracy is getting bigger in the last few years , and with that comes the threat of online surveillance .
-53-1	_	The	abstract[103]	new[103]	coref	53-17[103_104]
-53-2	_	dinosaur	abstract[103]	new[103]	_	_
-53-3	_	-	abstract[103]	new[103]	_	_
-53-4	_	thinking	abstract[103]	new[103]	_	_
-53-5	_	conspiracy	abstract[103]	new[103]	_	_
-53-6	_	is	_	_	_	_
-53-7	_	getting	_	_	_	_
-53-8	_	bigger	_	_	_	_
-53-9	_	in	_	_	_	_
-53-10	_	the	_	_	_	_
-53-11	_	last	_	_	_	_
-53-12	_	few	_	_	_	_
-53-13	_	years	_	_	_	_
-53-14	_	,	_	_	_	_
-53-15	_	and	_	_	_	_
-53-16	_	with	_	_	_	_
-53-17	_	that	abstract[104]	new[104]	_	_
-53-18	_	comes	_	_	_	_
-53-19	_	the	_	_	_	_
-53-20	_	threat	_	_	_	_
-53-21	_	of	_	_	_	_
-53-22	_	online	_	_	_	_
-53-23	_	surveillance	_	_	_	_
-53-24	_	.	_	_	_	_
+#Text=What 's going on in the future ?
+53-1	_	What	_	_	_	_
+53-2	_	's	_	_	_	_
+53-3	_	going	_	_	_	_
+53-4	_	on	_	_	_	_
+53-5	_	in	_	_	_	_
+53-6	_	the	_	_	_	_
+53-7	_	future	_	_	_	_
+53-8	_	?	_	_	_	_
 

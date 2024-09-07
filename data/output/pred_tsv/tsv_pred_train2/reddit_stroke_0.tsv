@@ -998,7 +998,7 @@
 37-13	_	Cousin	abstract[32]	new[32]	_	_
 37-14	_	,	_	_	_	_
 37-15	_	thank	_	_	_	_
-37-16	_	you	abstract[138]	new[138]	coref	38-1[138_139]
+37-16	_	you	abstract[138]	new[138]	_	_
 37-17	_	for	_	_	_	_
 37-18	_	helping	_	_	_	_
 37-19	_	her	abstract[33]	new[33]	coref	37-27[33_34]
@@ -1011,16 +1011,11 @@
 37-26	_	her	abstract[34]	new[34]	_	_
 37-27	_	.	_	_	_	_
 
-#Text=You never know when you 'll lose your first love .
-38-1	_	You	abstract[139]	new[139]	coref	38-5[139_140]
-38-2	_	never	_	_	_	_
-38-3	_	know	_	_	_	_
-38-4	_	when	_	_	_	_
-38-5	_	you	abstract[140]	new[140]	coref	38-8[140_141]
-38-6	_	'll	_	_	_	_
-38-7	_	lose	_	_	_	_
-38-8	_	your	abstract[141]	new[141]	_	_
-38-9	_	first	_	_	_	_
-38-10	_	love	_	_	_	_
-38-11	_	.	_	_	_	_
+#Text=In one word : TIFU .
+38-1	_	In	_	_	_	_
+38-2	_	one	_	_	_	_
+38-3	_	word	_	_	_	_
+38-4	_	:	_	_	_	_
+38-5	_	TIFU	_	_	_	_
+38-6	_	.	_	_	_	_
 

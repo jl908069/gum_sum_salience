@@ -77,7 +77,7 @@
 6-11	_	,	_	_	_	_
 6-12	_	but	_	_	_	_
 6-13	_	even	_	_	_	_
-6-14	_	he	abstract[19]	new[19]	_	_
+6-14	_	he	abstract[19]	new[19]	coref	17-1[19_20]
 6-15	_	was	_	_	_	_
 6-16	_	aware	_	_	_	_
 6-17	_	that	_	_	_	_
@@ -89,14 +89,14 @@
 6-23	_	nt	_	_	_	_
 6-24	_	necessarily	_	_	_	_
 6-25	_	what	_	_	_	_
-6-26	_	the	abstract[20]	new[20]	coref	7-1[20_21]
-6-27	_	studio	abstract[20]	new[20]	_	_
+6-26	_	the	abstract[22]	new[22]	coref	7-1[22_23]
+6-27	_	studio	abstract[22]	new[22]	_	_
 6-28	_	wants	_	_	_	_
 6-29	_	.	_	_	_	_
 
 #Text=The studio should ve just released the UE .
-7-1	_	The	abstract[21]	new[21]	coref	13-1[21_22]
-7-2	_	studio	abstract[21]	new[21]	_	_
+7-1	_	The	abstract[23]	new[23]	coref	13-1[23_24]
+7-2	_	studio	abstract[23]	new[23]	_	_
 7-3	_	should	_	_	_	_
 7-4	_	ve	_	_	_	_
 7-5	_	just	_	_	_	_
@@ -147,15 +147,15 @@
 9-4	_	was	_	_	_	_
 9-5	_	uneven	_	_	_	_
 9-6	_	in	_	_	_	_
-9-7	_	its	abstract[8]|abstract[24]	new[8]|new[24]	coref|coref	13-32[8_9]|10-1[24_25]
-9-8	_	delivery	abstract[24]	new[24]	_	_
-9-9	_	of	abstract[24]	new[24]	_	_
-9-10	_	action	abstract[24]	new[24]	_	_
-9-11	_	sequences	abstract[24]	new[24]	_	_
+9-7	_	its	abstract[8]|abstract[26]	new[8]|new[26]	coref|coref	13-32[8_9]|10-1[26_27]
+9-8	_	delivery	abstract[26]	new[26]	_	_
+9-9	_	of	abstract[26]	new[26]	_	_
+9-10	_	action	abstract[26]	new[26]	_	_
+9-11	_	sequences	abstract[26]	new[26]	_	_
 9-12	_	.	_	_	_	_
 
 #Text=It was mostly contained to the last act .
-10-1	_	It	abstract[25]	new[25]	_	_
+10-1	_	It	abstract[27]	new[27]	_	_
 10-2	_	was	_	_	_	_
 10-3	_	mostly	_	_	_	_
 10-4	_	contained	_	_	_	_
@@ -185,11 +185,11 @@
 11-17	_	when	_	_	_	_
 11-18	_	marketing	_	_	_	_
 11-19	_	to	_	_	_	_
-11-20	_	GA	abstract[26]	new[26]	coref	12-1[26_27]
+11-20	_	GA	abstract[28]	new[28]	coref	12-1[28_29]
 11-21	_	.	_	_	_	_
 
 #Text=They want to be entertained .
-12-1	_	They	abstract[27]	new[27]	_	_
+12-1	_	They	abstract[29]	new[29]	coref	17-9[29_30]
 12-2	_	want	_	_	_	_
 12-3	_	to	_	_	_	_
 12-4	_	be	_	_	_	_
@@ -197,7 +197,7 @@
 12-6	_	.	_	_	_	_
 
 #Text=WB probably saw this and wanted to get to the action much quicker , even though they would nt' have had to do that had there been multiple action sequences throughout the entire film .
-13-1	_	WB	abstract[22]	new[22]	coref	13-17[22_23]
+13-1	_	WB	abstract[24]	new[24]	coref	13-17[24_25]
 13-2	_	probably	_	_	_	_
 13-3	_	saw	_	_	_	_
 13-4	_	this	_	_	_	_
@@ -213,7 +213,7 @@
 13-14	_	,	_	_	_	_
 13-15	_	even	_	_	_	_
 13-16	_	though	_	_	_	_
-13-17	_	they	abstract[23]	new[23]	_	_
+13-17	_	they	abstract[25]	new[25]	_	_
 13-18	_	would	_	_	_	_
 13-19	_	nt'	_	_	_	_
 13-20	_	have	_	_	_	_
@@ -318,14 +318,38 @@
 16-37	_	audience	_	_	_	_
 16-38	_	.	_	_	_	_
 
-#Text=Did your cousin make you feel at ease ?
-17-1	_	Did	_	_	_	_
-17-2	_	your	abstract[28]	new[28]	coref	17-5[28_29]
-17-3	_	cousin	_	_	_	_
-17-4	_	make	_	_	_	_
-17-5	_	you	abstract[29]	new[29]	_	_
-17-6	_	feel	_	_	_	_
-17-7	_	at	_	_	_	_
-17-8	_	ease	_	_	_	_
-17-9	_	?	_	_	_	_
+#Text=I 've been feeling really well about what she has going on , and how you were , but I am looking for a way to communicate with her after a stroke .
+17-1	_	I	abstract[20]	new[20]	coref	17-20[20_21]
+17-2	_	've	_	_	_	_
+17-3	_	been	_	_	_	_
+17-4	_	feeling	_	_	_	_
+17-5	_	really	_	_	_	_
+17-6	_	well	_	_	_	_
+17-7	_	about	_	_	_	_
+17-8	_	what	_	_	_	_
+17-9	_	she	abstract[30]	new[30]	coref	17-29[30_31]
+17-10	_	has	_	_	_	_
+17-11	_	going	_	_	_	_
+17-12	_	on	_	_	_	_
+17-13	_	,	_	_	_	_
+17-14	_	and	_	_	_	_
+17-15	_	how	_	_	_	_
+17-16	_	you	_	_	_	_
+17-17	_	were	_	_	_	_
+17-18	_	,	_	_	_	_
+17-19	_	but	_	_	_	_
+17-20	_	I	abstract[21]	new[21]	_	_
+17-21	_	am	_	_	_	_
+17-22	_	looking	_	_	_	_
+17-23	_	for	_	_	_	_
+17-24	_	a	_	_	_	_
+17-25	_	way	_	_	_	_
+17-26	_	to	_	_	_	_
+17-27	_	communicate	_	_	_	_
+17-28	_	with	_	_	_	_
+17-29	_	her	abstract[31]	new[31]	_	_
+17-30	_	after	_	_	_	_
+17-31	_	a	_	_	_	_
+17-32	_	stroke	_	_	_	_
+17-33	_	.	_	_	_	_
 

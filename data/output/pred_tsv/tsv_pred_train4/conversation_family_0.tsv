@@ -1550,24 +1550,36 @@
 175-5	_	what	_	_	_	_
 175-6	_	?	_	_	_	_
 
-#Text=We are all going " The story of the first Christian cenobitic monastic federation . Includes :
+#Text=We are all going " Theodorus survived a long decline in the Catholic hierarchy ; he ultimately remained the sole survivor from the life of the Koinonian king .
 176-1	_	We	_	_	_	_
 176-2	_	are	_	_	_	_
 176-3	_	all	_	_	_	_
 176-4	_	going	_	_	_	_
 176-5	_	"	_	_	_	_
-176-6	_	The	_	_	_	_
-176-7	_	story	_	_	_	_
-176-8	_	of	_	_	_	_
-176-9	_	the	_	_	_	_
-176-10	_	first	_	_	_	_
-176-11	_	Christian	_	_	_	_
-176-12	_	cenobitic	_	_	_	_
-176-13	_	monastic	_	_	_	_
-176-14	_	federation	_	_	_	_
-176-15	_	.	_	_	_	_
-176-16	_	Includes	_	_	_	_
-176-17	_	:	_	_	_	_
+176-6	_	Theodorus	abstract[234]	new[234]	coref	176-16[234_235]
+176-7	_	survived	_	_	_	_
+176-8	_	a	_	_	_	_
+176-9	_	long	_	_	_	_
+176-10	_	decline	_	_	_	_
+176-11	_	in	_	_	_	_
+176-12	_	the	_	_	_	_
+176-13	_	Catholic	_	_	_	_
+176-14	_	hierarchy	_	_	_	_
+176-15	_	;	_	_	_	_
+176-16	_	he	abstract[235]	new[235]	_	_
+176-17	_	ultimately	_	_	_	_
+176-18	_	remained	_	_	_	_
+176-19	_	the	_	_	_	_
+176-20	_	sole	_	_	_	_
+176-21	_	survivor	_	_	_	_
+176-22	_	from	_	_	_	_
+176-23	_	the	_	_	_	_
+176-24	_	life	_	_	_	_
+176-25	_	of	_	_	_	_
+176-26	_	the	_	_	_	_
+176-27	_	Koinonian	_	_	_	_
+176-28	_	king	_	_	_	_
+176-29	_	.	_	_	_	_
 
 #Text=Barb did n't outgrow it ? " .
 177-1	_	Barb	abstract[188]	new[188]	coref	179-1[188_189]

@@ -26,17 +26,17 @@
 3-4	_	issues	_	_	_	_
 
 #Text=A tourist visa card ( visa de tarjeta del turista ) is necessary for travelers from most nations .
-4-1	_	A	abstract[29]	new[29]	coref	6-23[29_30]
-4-2	_	tourist	abstract[29]	new[29]	_	_
-4-3	_	visa	abstract[29]	new[29]	_	_
-4-4	_	card	abstract[29]	new[29]	_	_
-4-5	_	(	abstract[29]	new[29]	_	_
-4-6	_	visa	abstract[29]	new[29]	_	_
-4-7	_	de	abstract[29]	new[29]	_	_
-4-8	_	tarjeta	abstract[29]	new[29]	_	_
-4-9	_	del	abstract[29]	new[29]	_	_
-4-10	_	turista	abstract[29]	new[29]	_	_
-4-11	_	)	abstract[29]	new[29]	_	_
+4-1	_	A	abstract[32]	new[32]	coref	6-23[32_33]
+4-2	_	tourist	abstract[32]	new[32]	_	_
+4-3	_	visa	abstract[32]	new[32]	_	_
+4-4	_	card	abstract[32]	new[32]	_	_
+4-5	_	(	abstract[32]	new[32]	_	_
+4-6	_	visa	abstract[32]	new[32]	_	_
+4-7	_	de	abstract[32]	new[32]	_	_
+4-8	_	tarjeta	abstract[32]	new[32]	_	_
+4-9	_	del	abstract[32]	new[32]	_	_
+4-10	_	turista	abstract[32]	new[32]	_	_
+4-11	_	)	abstract[32]	new[32]	_	_
 4-12	_	is	_	_	_	_
 4-13	_	necessary	_	_	_	_
 4-14	_	for	_	_	_	_
@@ -111,18 +111,18 @@
 6-20	_	airlines	_	_	_	_
 6-21	_	will	_	_	_	_
 6-22	_	require	_	_	_	_
-6-23	_	a	abstract[30]	new[30]	coref	7-1[30_31]
-6-24	_	valid	abstract[30]	new[30]	_	_
-6-25	_	tourist	abstract[30]	new[30]	_	_
-6-26	_	visa	abstract[30]	new[30]	_	_
-6-27	_	card	abstract[30]	new[30]	_	_
+6-23	_	a	abstract[33]	new[33]	coref	7-1[33_34]
+6-24	_	valid	abstract[33]	new[33]	_	_
+6-25	_	tourist	abstract[33]	new[33]	_	_
+6-26	_	visa	abstract[33]	new[33]	_	_
+6-27	_	card	abstract[33]	new[33]	_	_
 6-28	_	before	_	_	_	_
 6-29	_	boarding	_	_	_	_
 6-30	_	flights	_	_	_	_
 6-31	_	.	_	_	_	_
 
 #Text=It is usually valid for 30 days and can be extended once for another 30 days at any immigration office in Cuba ( for 25 CUC ) - beyond this you would need a flight out of Cuba within the extended visa period .
-7-1	_	It	abstract[31]	new[31]	coref	11-4[31_32]
+7-1	_	It	abstract[34]	new[34]	coref	11-4[34_35]
 7-2	_	is	_	_	_	_
 7-3	_	usually	_	_	_	_
 7-4	_	valid	_	_	_	_
@@ -135,9 +135,9 @@
 7-11	_	extended	_	_	_	_
 7-12	_	once	_	_	_	_
 7-13	_	for	_	_	_	_
-7-14	_	another	abstract[35]	new[35]	coref	7-30[35_36]
-7-15	_	30	abstract[35]	new[35]	_	_
-7-16	_	days	abstract[35]	new[35]	_	_
+7-14	_	another	abstract[38]	new[38]	coref	7-30[38_39]
+7-15	_	30	abstract[38]	new[38]	_	_
+7-16	_	days	abstract[38]	new[38]	_	_
 7-17	_	at	_	_	_	_
 7-18	_	any	_	_	_	_
 7-19	_	immigration	_	_	_	_
@@ -151,7 +151,7 @@
 7-27	_	)	_	_	_	_
 7-28	_	-	_	_	_	_
 7-29	_	beyond	_	_	_	_
-7-30	_	this	abstract[36]	new[36]	coref	7-40[36_37]
+7-30	_	this	abstract[39]	new[39]	coref	7-40[39_40]
 7-31	_	you	abstract[3]	new[3]	coref	9-1[3_4]
 7-32	_	would	_	_	_	_
 7-33	_	need	_	_	_	_
@@ -161,10 +161,10 @@
 7-37	_	of	_	_	_	_
 7-38	_	Cuba	abstract[23]	new[23]	coref	25-13[23_24]
 7-39	_	within	_	_	_	_
-7-40	_	the	abstract[37]	new[37]	_	_
-7-41	_	extended	abstract[37]	new[37]	_	_
-7-42	_	visa	abstract[37]	new[37]	_	_
-7-43	_	period	abstract[37]	new[37]	_	_
+7-40	_	the	abstract[40]	new[40]	_	_
+7-41	_	extended	abstract[40]	new[40]	_	_
+7-42	_	visa	abstract[40]	new[40]	_	_
+7-43	_	period	abstract[40]	new[40]	_	_
 7-44	_	.	_	_	_	_
 
 #Text=Canadians are the exception , getting 90 days on arrival and can apply for a 90 day extension .
@@ -236,9 +236,9 @@
 11-1	_	From	_	_	_	_
 11-2	_	Canada	_	_	_	_
 11-3	_	,	_	_	_	_
-11-4	_	the	abstract[32]	new[32]	coref	12-1[32_33]
-11-5	_	tourist	abstract[32]	new[32]	_	_
-11-6	_	card	abstract[32]	new[32]	_	_
+11-4	_	the	abstract[35]	new[35]	coref	12-1[35_36]
+11-5	_	tourist	abstract[35]	new[35]	_	_
+11-6	_	card	abstract[35]	new[35]	_	_
 11-7	_	is	_	_	_	_
 11-8	_	normally	_	_	_	_
 11-9	_	provided	_	_	_	_
@@ -248,7 +248,7 @@
 11-13	_	.	_	_	_	_
 
 #Text=It can also be purchased from most Latin American gateway airports if departing from there ( Cancun : 250 MXN , Mexico City : USD 25 ) .
-12-1	_	It	abstract[33]	new[33]	coref	23-6[33_34]
+12-1	_	It	abstract[36]	new[36]	coref	23-6[36_37]
 12-2	_	can	_	_	_	_
 12-3	_	also	_	_	_	_
 12-4	_	be	_	_	_	_
@@ -264,7 +264,7 @@
 12-14	_	from	_	_	_	_
 12-15	_	there	_	_	_	_
 12-16	_	(	_	_	_	_
-12-17	_	Cancun	abstract[57]	new[57]	coref	30-4[57_58]
+12-17	_	Cancun	abstract[60]	new[60]	coref	30-4[60_61]
 12-18	_	:	_	_	_	_
 12-19	_	250	_	_	_	_
 12-20	_	MXN	_	_	_	_
@@ -299,8 +299,8 @@
 13-19	_	require	_	_	_	_
 13-20	_	to	_	_	_	_
 13-21	_	have	_	_	_	_
-13-22	_	the	abstract[38]	new[38]	coref	14-7[38_39]
-13-23	_	visa	abstract[38]	new[38]	_	_
+13-22	_	the	abstract[41]	new[41]	coref	14-7[41_42]
+13-23	_	visa	abstract[41]	new[41]	_	_
 13-24	_	before	_	_	_	_
 13-25	_	boarding	_	_	_	_
 13-26	_	the	_	_	_	_
@@ -311,10 +311,10 @@
 14-1	_	Some	_	_	_	_
 14-2	_	times	_	_	_	_
 14-3	_	,	_	_	_	_
-14-4	_	the	abstract[40]	new[40]	coref	15-11[40_41]
-14-5	_	airline	abstract[40]	new[40]	_	_
+14-4	_	the	abstract[43]	new[43]	coref	15-11[43_44]
+14-5	_	airline	abstract[43]	new[43]	_	_
 14-6	_	provides	_	_	_	_
-14-7	_	these	abstract[39]	new[39]	_	_
+14-7	_	these	abstract[42]	new[42]	_	_
 14-8	_	at	_	_	_	_
 14-9	_	the	_	_	_	_
 14-10	_	airport	_	_	_	_
@@ -331,17 +331,17 @@
 
 #Text=Without a valid visa , boarding will be denied ( the airline would otherwise get a $ 1,000 fine from the Cuban immigration authorities ) .
 15-1	_	Without	_	_	_	_
-15-2	_	a	abstract[42]	new[42]	coref	17-5[42_43]
-15-3	_	valid	abstract[42]	new[42]	_	_
-15-4	_	visa	abstract[42]	new[42]	_	_
+15-2	_	a	abstract[45]	new[45]	coref	17-5[45_46]
+15-3	_	valid	abstract[45]	new[45]	_	_
+15-4	_	visa	abstract[45]	new[45]	_	_
 15-5	_	,	_	_	_	_
 15-6	_	boarding	_	_	_	_
 15-7	_	will	_	_	_	_
 15-8	_	be	_	_	_	_
 15-9	_	denied	_	_	_	_
 15-10	_	(	_	_	_	_
-15-11	_	the	abstract[41]	new[41]	_	_
-15-12	_	airline	abstract[41]	new[41]	_	_
+15-11	_	the	abstract[44]	new[44]	_	_
+15-12	_	airline	abstract[44]	new[44]	_	_
 15-13	_	would	_	_	_	_
 15-14	_	otherwise	_	_	_	_
 15-15	_	get	_	_	_	_
@@ -368,8 +368,8 @@
 17-2	_	:	_	_	_	_
 17-3	_	Applying	_	_	_	_
 17-4	_	for	_	_	_	_
-17-5	_	the	abstract[43]	new[43]	coref	21-13[43_44]
-17-6	_	visa	abstract[43]	new[43]	_	_
+17-5	_	the	abstract[46]	new[46]	coref	21-13[46_47]
+17-6	_	visa	abstract[46]	new[46]	_	_
 17-7	_	is	_	_	_	_
 17-8	_	a	_	_	_	_
 17-9	_	very	_	_	_	_
@@ -385,20 +385,20 @@
 17-19	_	in	_	_	_	_
 17-20	_	person	_	_	_	_
 17-21	_	at	_	_	_	_
-17-22	_	the	abstract[55]	new[55]	coref	23-10[55_56]
-17-23	_	Cuban	abstract[55]	new[55]	_	_
-17-24	_	embassy	abstract[55]	new[55]	_	_
-17-25	_	in	abstract[55]	new[55]	_	_
-17-26	_	London	abstract[55]	new[55]	_	_
+17-22	_	the	abstract[58]	new[58]	coref	23-10[58_59]
+17-23	_	Cuban	abstract[58]	new[58]	_	_
+17-24	_	embassy	abstract[58]	new[58]	_	_
+17-25	_	in	abstract[58]	new[58]	_	_
+17-26	_	London	abstract[58]	new[58]	_	_
 17-27	_	.	_	_	_	_
 
 #Text=When applying to the Cuban Consulate by post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction .
 18-1	_	When	_	_	_	_
 18-2	_	applying	_	_	_	_
 18-3	_	to	_	_	_	_
-18-4	_	the	abstract[46]	new[46]	coref	19-7[46_47]
-18-5	_	Cuban	abstract[46]	new[46]	_	_
-18-6	_	Consulate	abstract[46]	new[46]	_	_
+18-4	_	the	abstract[49]	new[49]	coref	19-7[49_50]
+18-5	_	Cuban	abstract[49]	new[49]	_	_
+18-6	_	Consulate	abstract[49]	new[49]	_	_
 18-7	_	by	_	_	_	_
 18-8	_	post	_	_	_	_
 18-9	_	,	_	_	_	_
@@ -428,14 +428,14 @@
 19-4	_	not	_	_	_	_
 19-5	_	go	_	_	_	_
 19-6	_	to	_	_	_	_
-19-7	_	the	abstract[47]	new[47]	coref	21-7[47_48]
-19-8	_	Cuban	abstract[47]	new[47]	_	_
-19-9	_	Consulate	abstract[47]	new[47]	_	_
+19-7	_	the	abstract[50]	new[50]	coref	21-7[50_51]
+19-8	_	Cuban	abstract[50]	new[50]	_	_
+19-9	_	Consulate	abstract[50]	new[50]	_	_
 19-10	_	you	abstract[8]	new[8]	coref	21-2[8_9]
 19-11	_	may	_	_	_	_
 19-12	_	consider	_	_	_	_
 19-13	_	using	_	_	_	_
-19-14	_	VisaCuba	abstract[49]	new[49]	coref	20-2[49_50]
+19-14	_	VisaCuba	abstract[52]	new[52]	coref	20-2[52_53]
 19-15	_	(	_	_	_	_
 19-16	_	[	_	_	_	_
 19-17	_	3	_	_	_	_
@@ -450,8 +450,8 @@
 
 #Text=Through them it may cost £ 20 in total per person .
 20-1	_	Through	_	_	_	_
-20-2	_	them	abstract[50]	new[50]	_	_
-20-3	_	it	abstract[51]	new[51]	coref	22-1[51_52]
+20-2	_	them	abstract[53]	new[53]	_	_
+20-3	_	it	abstract[54]	new[54]	coref	22-1[54_55]
 20-4	_	may	_	_	_	_
 20-5	_	cost	_	_	_	_
 20-6	_	£	_	_	_	_
@@ -469,32 +469,32 @@
 21-4	_	in	_	_	_	_
 21-5	_	person	_	_	_	_
 21-6	_	to	_	_	_	_
-21-7	_	the	abstract[48]	new[48]	_	_
-21-8	_	Cuban	abstract[48]	new[48]	_	_
-21-9	_	Consulate	abstract[48]	new[48]	_	_
+21-7	_	the	abstract[51]	new[51]	_	_
+21-8	_	Cuban	abstract[51]	new[51]	_	_
+21-9	_	Consulate	abstract[51]	new[51]	_	_
 21-10	_	,	_	_	_	_
 21-11	_	you	abstract[10]	new[10]	coref	23-3[10_11]
 21-12	_	get	_	_	_	_
-21-13	_	the	abstract[44]	new[44]	coref	25-5[44_45]
-21-14	_	visa	abstract[44]	new[44]	_	_
+21-13	_	the	abstract[47]	new[47]	coref	25-5[47_48]
+21-14	_	visa	abstract[47]	new[47]	_	_
 21-15	_	straight	_	_	_	_
 21-16	_	away	_	_	_	_
 21-17	_	.	_	_	_	_
 
 #Text=It can also be done through online agencies as mentioned before although they may be slightly more expensive ( normally £ 15 + £ 15 admin fee and additional postage ) .
-22-1	_	It	abstract[52]	new[52]	_	_
+22-1	_	It	abstract[55]	new[55]	_	_
 22-2	_	can	_	_	_	_
 22-3	_	also	_	_	_	_
 22-4	_	be	_	_	_	_
 22-5	_	done	_	_	_	_
 22-6	_	through	_	_	_	_
-22-7	_	online	abstract[53]	new[53]	coref	22-13[53_54]
-22-8	_	agencies	abstract[53]	new[53]	_	_
+22-7	_	online	abstract[56]	new[56]	coref	22-13[56_57]
+22-8	_	agencies	abstract[56]	new[56]	_	_
 22-9	_	as	_	_	_	_
 22-10	_	mentioned	_	_	_	_
 22-11	_	before	_	_	_	_
 22-12	_	although	_	_	_	_
-22-13	_	they	abstract[54]	new[54]	_	_
+22-13	_	they	abstract[57]	new[57]	_	_
 22-14	_	may	_	_	_	_
 22-15	_	be	_	_	_	_
 22-16	_	slightly	_	_	_	_
@@ -521,13 +521,13 @@
 23-3	_	You	abstract[11]	new[11]	coref	26-1[11_12]
 23-4	_	can	_	_	_	_
 23-5	_	obtain	_	_	_	_
-23-6	_	the	abstract[34]	new[34]	_	_
-23-7	_	tourist	abstract[34]	new[34]	_	_
-23-8	_	card	abstract[34]	new[34]	_	_
+23-6	_	the	abstract[37]	new[37]	_	_
+23-7	_	tourist	abstract[37]	new[37]	_	_
+23-8	_	card	abstract[37]	new[37]	_	_
 23-9	_	through	_	_	_	_
-23-10	_	the	abstract[56]	new[56]	_	_
-23-11	_	Cuban	abstract[56]	new[56]	_	_
-23-12	_	embassy	abstract[56]	new[56]	_	_
+23-10	_	the	abstract[59]	new[59]	_	_
+23-11	_	Cuban	abstract[59]	new[59]	_	_
+23-12	_	embassy	abstract[59]	new[59]	_	_
 23-13	_	in	_	_	_	_
 23-14	_	post	_	_	_	_
 23-15	_	.	_	_	_	_
@@ -550,10 +550,10 @@
 25-2	_	tourists	_	_	_	_
 25-3	_	who	_	_	_	_
 25-4	_	renew	_	_	_	_
-25-5	_	their	abstract[45]	new[45]	_	_
-25-6	_	30	abstract[45]	new[45]	_	_
-25-7	_	day	abstract[45]	new[45]	_	_
-25-8	_	visa	abstract[45]	new[45]	_	_
+25-5	_	their	abstract[48]	new[48]	_	_
+25-6	_	30	abstract[48]	new[48]	_	_
+25-7	_	day	abstract[48]	new[48]	_	_
+25-8	_	visa	abstract[48]	new[48]	_	_
 25-9	_	are	_	_	_	_
 25-10	_	eligible	_	_	_	_
 25-11	_	to	_	_	_	_
@@ -751,7 +751,7 @@
 30-1	_	Aeromexico	_	_	_	_
 30-2	_	staff	_	_	_	_
 30-3	_	at	_	_	_	_
-30-4	_	Cancun	abstract[58]	new[58]	_	_
+30-4	_	Cancun	abstract[61]	new[61]	_	_
 30-5	_	airport	_	_	_	_
 30-6	_	claim	_	_	_	_
 30-7	_	that	_	_	_	_
@@ -776,25 +776,25 @@
 31-7	_	there	_	_	_	_
 31-8	_	is	_	_	_	_
 31-9	_	also	_	_	_	_
-31-10	_	a	abstract[59]	new[59]	coref	31-28[59_60]
-31-11	_	departure	abstract[59]	new[59]	_	_
-31-12	_	tax	abstract[59]	new[59]	_	_
-31-13	_	of	abstract[59]	new[59]	_	_
-31-14	_	CUC	abstract[59]	new[59]	_	_
-31-15	_	25	abstract[59]	new[59]	_	_
-31-16	_	,	abstract[59]	new[59]	_	_
-31-17	_	to	abstract[59]	new[59]	_	_
-31-18	_	be	abstract[59]	new[59]	_	_
-31-19	_	paid	abstract[59]	new[59]	_	_
-31-20	_	in	abstract[59]	new[59]	_	_
-31-21	_	cash	abstract[59]	new[59]	_	_
-31-22	_	when	abstract[59]	new[59]	_	_
-31-23	_	departing	abstract[59]	new[59]	_	_
-31-24	_	Cuba	abstract[26]|abstract[59]	new[26]|new[59]	coref	33-20[26_27]
-31-25	_	by	abstract[59]	new[59]	_	_
-31-26	_	airplane	abstract[59]	new[59]	_	_
+31-10	_	a	abstract[62]	new[62]	coref	31-28[62_63]
+31-11	_	departure	abstract[62]	new[62]	_	_
+31-12	_	tax	abstract[62]	new[62]	_	_
+31-13	_	of	abstract[62]	new[62]	_	_
+31-14	_	CUC	abstract[62]	new[62]	_	_
+31-15	_	25	abstract[62]	new[62]	_	_
+31-16	_	,	abstract[62]	new[62]	_	_
+31-17	_	to	abstract[62]	new[62]	_	_
+31-18	_	be	abstract[62]	new[62]	_	_
+31-19	_	paid	abstract[62]	new[62]	_	_
+31-20	_	in	abstract[62]	new[62]	_	_
+31-21	_	cash	abstract[62]	new[62]	_	_
+31-22	_	when	abstract[62]	new[62]	_	_
+31-23	_	departing	abstract[62]	new[62]	_	_
+31-24	_	Cuba	abstract[26]|abstract[62]	new[26]|new[62]	coref	33-20[26_27]
+31-25	_	by	abstract[62]	new[62]	_	_
+31-26	_	airplane	abstract[62]	new[62]	_	_
 31-27	_	;	_	_	_	_
-31-28	_	this	abstract[60]	new[60]	coref	32-1[60_61]
+31-28	_	this	abstract[63]	new[63]	coref	32-1[63_64]
 31-29	_	is	_	_	_	_
 31-30	_	not	_	_	_	_
 31-31	_	required	_	_	_	_
@@ -804,8 +804,8 @@
 31-35	_	.	_	_	_	_
 
 #Text=This tax is not well publicized but it is essential to remember it .
-32-1	_	This	abstract[61]	new[61]	coref	32-13[61_62]
-32-2	_	tax	abstract[61]	new[61]	_	_
+32-1	_	This	abstract[64]	new[64]	coref	32-13[64_65]
+32-2	_	tax	abstract[64]	new[64]	_	_
 32-3	_	is	_	_	_	_
 32-4	_	not	_	_	_	_
 32-5	_	well	_	_	_	_
@@ -816,7 +816,7 @@
 32-10	_	essential	_	_	_	_
 32-11	_	to	_	_	_	_
 32-12	_	remember	_	_	_	_
-32-13	_	it	abstract[62]	new[62]	coref	33-16[62_63]
+32-13	_	it	abstract[65]	new[65]	coref	33-16[65_66]
 32-14	_	.	_	_	_	_
 
 #Text=You will run into significant difficulties if you do not have enough cash to pay this tax when leaving the country .
@@ -835,8 +835,8 @@
 33-13	_	cash	_	_	_	_
 33-14	_	to	_	_	_	_
 33-15	_	pay	_	_	_	_
-33-16	_	this	abstract[63]	new[63]	_	_
-33-17	_	tax	abstract[63]	new[63]	_	_
+33-16	_	this	abstract[66]	new[66]	coref	36-42[66_67]
+33-17	_	tax	abstract[66]	new[66]	_	_
 33-18	_	when	_	_	_	_
 33-19	_	leaving	_	_	_	_
 33-20	_	the	abstract[27]	new[27]	coref	34-20[27_28]
@@ -844,11 +844,11 @@
 33-22	_	.	_	_	_	_
 
 #Text=An ATM and currency exchange are available at Havana airport , but these facilities are not as reliable in Cuba as in other places .
-34-1	_	An	abstract[64]	new[64]	coref	34-13[64_65]
-34-2	_	ATM	abstract[64]	new[64]	_	_
-34-3	_	and	abstract[64]	new[64]	_	_
-34-4	_	currency	abstract[64]	new[64]	_	_
-34-5	_	exchange	abstract[64]	new[64]	_	_
+34-1	_	An	abstract[68]	new[68]	coref	34-13[68_69]
+34-2	_	ATM	abstract[68]	new[68]	_	_
+34-3	_	and	abstract[68]	new[68]	_	_
+34-4	_	currency	abstract[68]	new[68]	_	_
+34-5	_	exchange	abstract[68]	new[68]	_	_
 34-6	_	are	_	_	_	_
 34-7	_	available	_	_	_	_
 34-8	_	at	_	_	_	_
@@ -856,14 +856,14 @@
 34-10	_	airport	_	_	_	_
 34-11	_	,	_	_	_	_
 34-12	_	but	_	_	_	_
-34-13	_	these	abstract[65]	new[65]	_	_
-34-14	_	facilities	abstract[65]	new[65]	_	_
+34-13	_	these	abstract[69]	new[69]	_	_
+34-14	_	facilities	abstract[69]	new[69]	_	_
 34-15	_	are	_	_	_	_
 34-16	_	not	_	_	_	_
 34-17	_	as	_	_	_	_
 34-18	_	reliable	_	_	_	_
 34-19	_	in	_	_	_	_
-34-20	_	Cuba	abstract[28]	new[28]	_	_
+34-20	_	Cuba	abstract[28]	new[28]	coref	36-11[28_29]
 34-21	_	as	_	_	_	_
 34-22	_	in	_	_	_	_
 34-23	_	other	_	_	_	_
@@ -871,14 +871,14 @@
 34-25	_	.	_	_	_	_
 
 #Text=Cuban customs can be strict , though they sometimes go easy on tourists .
-35-1	_	Cuban	abstract[66]	new[66]	coref	35-8[66_67]
-35-2	_	customs	abstract[66]	new[66]	_	_
+35-1	_	Cuban	abstract[70]	new[70]	coref	35-8[70_71]
+35-2	_	customs	abstract[70]	new[70]	_	_
 35-3	_	can	_	_	_	_
 35-4	_	be	_	_	_	_
 35-5	_	strict	_	_	_	_
 35-6	_	,	_	_	_	_
 35-7	_	though	_	_	_	_
-35-8	_	they	abstract[67]	new[67]	_	_
+35-8	_	they	abstract[71]	new[71]	_	_
 35-9	_	sometimes	_	_	_	_
 35-10	_	go	_	_	_	_
 35-11	_	easy	_	_	_	_
@@ -886,22 +886,59 @@
 35-13	_	tourists	_	_	_	_
 35-14	_	.	_	_	_	_
 
-#Text=In an era of rapid urbanization and rebirth , Cleveland is a center of the greatness .
-36-1	_	In	_	_	_	_
-36-2	_	an	_	_	_	_
-36-3	_	era	_	_	_	_
-36-4	_	of	_	_	_	_
-36-5	_	rapid	_	_	_	_
-36-6	_	urbanization	_	_	_	_
-36-7	_	and	_	_	_	_
-36-8	_	rebirth	_	_	_	_
-36-9	_	,	_	_	_	_
-36-10	_	Cleveland	_	_	_	_
-36-11	_	is	_	_	_	_
-36-12	_	a	_	_	_	_
-36-13	_	center	_	_	_	_
-36-14	_	of	_	_	_	_
-36-15	_	the	_	_	_	_
-36-16	_	greatness	_	_	_	_
-36-17	_	.	_	_	_	_
+#Text=This guide to visas and legal issues for foreigners entering Cuba explains how to obtain a required tourist visa card and what it costs in different locations , how long tourists from various countries may remain in Cuba , and about the cash departure tax of CUC 25 when departing Cuba by airplane .
+36-1	_	This	_	_	_	_
+36-2	_	guide	_	_	_	_
+36-3	_	to	_	_	_	_
+36-4	_	visas	_	_	_	_
+36-5	_	and	_	_	_	_
+36-6	_	legal	_	_	_	_
+36-7	_	issues	_	_	_	_
+36-8	_	for	_	_	_	_
+36-9	_	foreigners	_	_	_	_
+36-10	_	entering	_	_	_	_
+36-11	_	Cuba	abstract[29]	new[29]	coref	36-38[29_30]
+36-12	_	explains	_	_	_	_
+36-13	_	how	_	_	_	_
+36-14	_	to	_	_	_	_
+36-15	_	obtain	_	_	_	_
+36-16	_	a	abstract[72]	new[72]	coref	36-23[72_73]
+36-17	_	required	abstract[72]	new[72]	_	_
+36-18	_	tourist	abstract[72]	new[72]	_	_
+36-19	_	visa	abstract[72]	new[72]	_	_
+36-20	_	card	abstract[72]	new[72]	_	_
+36-21	_	and	_	_	_	_
+36-22	_	what	_	_	_	_
+36-23	_	it	abstract[73]	new[73]	_	_
+36-24	_	costs	_	_	_	_
+36-25	_	in	_	_	_	_
+36-26	_	different	_	_	_	_
+36-27	_	locations	_	_	_	_
+36-28	_	,	_	_	_	_
+36-29	_	how	_	_	_	_
+36-30	_	long	_	_	_	_
+36-31	_	tourists	_	_	_	_
+36-32	_	from	_	_	_	_
+36-33	_	various	_	_	_	_
+36-34	_	countries	_	_	_	_
+36-35	_	may	_	_	_	_
+36-36	_	remain	_	_	_	_
+36-37	_	in	_	_	_	_
+36-38	_	Cuba	abstract[30]	new[30]	coref	36-51[30_31]
+36-39	_	,	_	_	_	_
+36-40	_	and	_	_	_	_
+36-41	_	about	_	_	_	_
+36-42	_	the	abstract[67]	new[67]	_	_
+36-43	_	cash	abstract[67]	new[67]	_	_
+36-44	_	departure	abstract[67]	new[67]	_	_
+36-45	_	tax	abstract[67]	new[67]	_	_
+36-46	_	of	abstract[67]	new[67]	_	_
+36-47	_	CUC	abstract[67]	new[67]	_	_
+36-48	_	25	abstract[67]	new[67]	_	_
+36-49	_	when	abstract[67]	new[67]	_	_
+36-50	_	departing	abstract[67]	new[67]	_	_
+36-51	_	Cuba	abstract[31]|abstract[67]	new[31]|new[67]	_	_
+36-52	_	by	abstract[67]	new[67]	_	_
+36-53	_	airplane	abstract[67]	new[67]	_	_
+36-54	_	.	_	_	_	_
 

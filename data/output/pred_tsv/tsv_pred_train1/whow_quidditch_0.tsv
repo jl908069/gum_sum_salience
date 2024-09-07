@@ -30,7 +30,7 @@
 
 #Text=However you do n't have to have magical powers to play .
 3-1	_	However	_	_	_	_
-3-2	_	you	abstract[13]	new[13]	coref	8-10[13_14]
+3-2	_	you	abstract[14]	new[14]	coref	8-10[14_15]
 3-3	_	do	_	_	_	_
 3-4	_	n't	_	_	_	_
 3-5	_	have	_	_	_	_
@@ -64,10 +64,10 @@
 4-19	_	those	_	_	_	_
 4-20	_	given	_	_	_	_
 4-21	_	by	_	_	_	_
-4-22	_	the	abstract[117]	new[117]	coref	55-14[117_118]
-4-23	_	International	abstract[117]	new[117]	_	_
-4-24	_	Quidditch	abstract[5]|abstract[117]	new[5]|new[117]	coref	5-4[5_6]
-4-25	_	Association	abstract[117]	new[117]	_	_
+4-22	_	the	abstract[118]	new[118]	coref	55-14[118_119]
+4-23	_	International	abstract[118]	new[118]	_	_
+4-24	_	Quidditch	abstract[5]|abstract[118]	new[5]|new[118]	coref	5-4[5_6]
+4-25	_	Association	abstract[118]	new[118]	_	_
 4-26	_	(	_	_	_	_
 4-27	_	which	_	_	_	_
 4-28	_	can	_	_	_	_
@@ -90,8 +90,8 @@
 5-10	_	at	_	_	_	_
 5-11	_	colleges	_	_	_	_
 5-12	_	in	_	_	_	_
-5-13	_	the	abstract[11]	new[11]	coref	6-7[11_12]
-5-14	_	US	abstract[11]	new[11]	_	_
+5-13	_	the	abstract[12]	new[12]	coref	6-7[12_13]
+5-14	_	US	abstract[12]	new[12]	_	_
 5-15	_	,	_	_	_	_
 5-16	_	but	_	_	_	_
 5-17	_	over	_	_	_	_
@@ -120,7 +120,7 @@
 6-4	_	spread	_	_	_	_
 6-5	_	outside	_	_	_	_
 6-6	_	of	_	_	_	_
-6-7	_	America	abstract[12]	new[12]	_	_
+6-7	_	America	abstract[13]	new[13]	_	_
 6-8	_	and	_	_	_	_
 6-9	_	is	_	_	_	_
 6-10	_	now	_	_	_	_
@@ -143,7 +143,7 @@
 8-7	_	(	_	_	_	_
 8-8	_	see	_	_	_	_
 8-9	_	Things	_	_	_	_
-8-10	_	You	abstract[14]	new[14]	coref	15-2[14_15]
+8-10	_	You	abstract[15]	new[15]	coref	15-2[15_16]
 8-11	_	'll	_	_	_	_
 8-12	_	Need	_	_	_	_
 8-13	_	section	_	_	_	_
@@ -219,13 +219,13 @@
 
 #Text=Start the game .
 13-1	_	Start	_	_	_	_
-13-2	_	the	abstract[89]	new[89]	coref	32-2[89_90]
-13-3	_	game	abstract[89]	new[89]	_	_
+13-2	_	the	abstract[90]	new[90]	coref	32-2[90_91]
+13-3	_	game	abstract[90]	new[90]	_	_
 13-4	_	.	_	_	_	_
 
 #Text=Both teams start from the edges and attempt to obtain the quaffle and bludgers .
-14-1	_	Both	abstract[119]	new[119]	coref	58-2[119_120]
-14-2	_	teams	abstract[119]	new[119]	_	_
+14-1	_	Both	abstract[120]	new[120]	coref	58-2[120_121]
+14-2	_	teams	abstract[120]	new[120]	_	_
 14-3	_	start	_	_	_	_
 14-4	_	from	_	_	_	_
 14-5	_	the	_	_	_	_
@@ -242,14 +242,14 @@
 
 #Text=Follow your duty depending what type of player you are :
 15-1	_	Follow	_	_	_	_
-15-2	_	your	abstract[15]	new[15]	coref	15-9[15_16]
+15-2	_	your	abstract[16]	new[16]	coref	15-9[16_17]
 15-3	_	duty	_	_	_	_
 15-4	_	depending	_	_	_	_
 15-5	_	what	_	_	_	_
 15-6	_	type	_	_	_	_
 15-7	_	of	_	_	_	_
 15-8	_	player	_	_	_	_
-15-9	_	you	abstract[16]	new[16]	coref	23-1[16_17]
+15-9	_	you	abstract[17]	new[17]	coref	23-1[17_18]
 15-10	_	are	_	_	_	_
 15-11	_	:	_	_	_	_
 
@@ -375,7 +375,7 @@
 21-12	_	being	_	_	_	_
 21-13	_	hit	_	_	_	_
 21-14	_	by	_	_	_	_
-21-15	_	bludgers	abstract[105]	new[105]	coref	43-5[105_106]
+21-15	_	bludgers	abstract[106]	new[106]	coref	43-5[106_107]
 21-16	_	.	_	_	_	_
 
 #Text=Seekers try to tackle the snitch ( a person ) or obtain an object attached to the snitch such as a sock or flag .
@@ -406,10 +406,10 @@
 22-25	_	.	_	_	_	_
 
 #Text=You can establish you own rules as to how a player catches the snitch .
-23-1	_	You	abstract[17]	new[17]	coref	23-4[17_18]
+23-1	_	You	abstract[18]	new[18]	coref	23-4[18_19]
 23-2	_	can	_	_	_	_
 23-3	_	establish	_	_	_	_
-23-4	_	you	abstract[18]	new[18]	coref	38-1[18_19]
+23-4	_	you	abstract[19]	new[19]	coref	38-1[19_20]
 23-5	_	own	_	_	_	_
 23-6	_	rules	_	_	_	_
 23-7	_	as	_	_	_	_
@@ -448,8 +448,8 @@
 24-23	_	and	_	_	_	_
 24-24	_	hide	_	_	_	_
 24-25	_	in	_	_	_	_
-24-26	_	defined	abstract[85]	new[85]	coref	29-13[85_86]
-24-27	_	boundaries	abstract[85]	new[85]	_	_
+24-26	_	defined	abstract[86]	new[86]	coref	29-13[86_87]
+24-27	_	boundaries	abstract[86]	new[86]	_	_
 24-28	_	.	_	_	_	_
 
 #Text=Then the seekers search for the snitch , and attempt to tag the player .
@@ -498,9 +498,9 @@
 26-26	_	running	_	_	_	_
 26-27	_	shorts	_	_	_	_
 26-28	_	of	_	_	_	_
-26-29	_	the	abstract[109]	new[109]	coref	47-3[109_110]
-26-30	_	snitch	abstract[109]	new[109]	_	_
-26-31	_	runner	abstract[109]	new[109]	_	_
+26-29	_	the	abstract[110]	new[110]	coref	47-3[110_111]
+26-30	_	snitch	abstract[110]	new[110]	_	_
+26-31	_	runner	abstract[110]	new[110]	_	_
 26-32	_	.	_	_	_	_
 
 #Text=Regardless of method , the winning seeker wins 30 points for his or her team , unlike the books , in which the snitch is worth 150 points .
@@ -538,7 +538,7 @@
 28-1	_	The	_	_	_	_
 28-2	_	creators	_	_	_	_
 28-3	_	of	_	_	_	_
-28-4	_	Muggle	abstract[10]|abstract[78]	new[10]|new[78]	coref	28-22[78_79]
+28-4	_	Muggle	abstract[10]|abstract[78]	new[10]|new[78]	coref|coref	81-17[10_11]|28-22[78_79]
 28-5	_	Quidditch	abstract[78]	new[78]	_	_
 28-6	_	thought	_	_	_	_
 28-7	_	that	_	_	_	_
@@ -573,8 +573,8 @@
 29-10	_	around	_	_	_	_
 29-11	_	(	_	_	_	_
 29-12	_	usually	_	_	_	_
-29-13	_	the	abstract[86]	new[86]	_	_
-29-14	_	boundaries	abstract[86]	new[86]	_	_
+29-13	_	the	abstract[87]	new[87]	_	_
+29-14	_	boundaries	abstract[87]	new[87]	_	_
 29-15	_	)	_	_	_	_
 29-16	_	trying	_	_	_	_
 29-17	_	to	_	_	_	_
@@ -584,19 +584,19 @@
 29-21	_	.	_	_	_	_
 
 #Text=The referee should ensure that rules are being followed .
-30-1	_	The	abstract[87]	new[87]	coref	31-1[87_88]
-30-2	_	referee	abstract[87]	new[87]	_	_
+30-1	_	The	abstract[88]	new[88]	coref	31-1[88_89]
+30-2	_	referee	abstract[88]	new[88]	_	_
 30-3	_	should	_	_	_	_
 30-4	_	ensure	_	_	_	_
 30-5	_	that	_	_	_	_
-30-6	_	rules	abstract[93]	new[93]	coref	34-5[93_94]
+30-6	_	rules	abstract[94]	new[94]	coref	34-5[94_95]
 30-7	_	are	_	_	_	_
 30-8	_	being	_	_	_	_
 30-9	_	followed	_	_	_	_
 30-10	_	.	_	_	_	_
 
 #Text=They also keep track of the score .
-31-1	_	They	abstract[88]	new[88]	_	_
+31-1	_	They	abstract[89]	new[89]	_	_
 31-2	_	also	_	_	_	_
 31-3	_	keep	_	_	_	_
 31-4	_	track	_	_	_	_
@@ -607,16 +607,16 @@
 
 #Text=Play the game !
 32-1	_	Play	_	_	_	_
-32-2	_	the	abstract[90]	new[90]	coref	33-4[90_91]
-32-3	_	game	abstract[90]	new[90]	_	_
+32-2	_	the	abstract[91]	new[91]	coref	33-4[91_92]
+32-3	_	game	abstract[91]	new[91]	_	_
 32-4	_	!	_	_	_	_
 
 #Text=The object of the game is to score the most points and the game ends when the seeker snatches the snitch .
 33-1	_	The	_	_	_	_
 33-2	_	object	_	_	_	_
 33-3	_	of	_	_	_	_
-33-4	_	the	abstract[91]	new[91]	coref	33-13[91_92]
-33-5	_	game	abstract[91]	new[91]	_	_
+33-4	_	the	abstract[92]	new[92]	coref	33-13[92_93]
+33-5	_	game	abstract[92]	new[92]	_	_
 33-6	_	is	_	_	_	_
 33-7	_	to	_	_	_	_
 33-8	_	score	_	_	_	_
@@ -624,8 +624,8 @@
 33-10	_	most	_	_	_	_
 33-11	_	points	_	_	_	_
 33-12	_	and	_	_	_	_
-33-13	_	the	abstract[92]	new[92]	_	_
-33-14	_	game	abstract[92]	new[92]	_	_
+33-13	_	the	abstract[93]	new[93]	_	_
+33-14	_	game	abstract[93]	new[93]	_	_
 33-15	_	ends	_	_	_	_
 33-16	_	when	_	_	_	_
 33-17	_	the	abstract[75]	new[75]	coref	59-3[75_76]
@@ -640,9 +640,9 @@
 34-2	_	free	_	_	_	_
 34-3	_	to	_	_	_	_
 34-4	_	alter	_	_	_	_
-34-5	_	the	abstract[94]	new[94]	coref	47-30[94_95]
-34-6	_	game	abstract[94]	new[94]	_	_
-34-7	_	rules	abstract[94]	new[94]	_	_
+34-5	_	the	abstract[95]	new[95]	coref	47-30[95_96]
+34-6	_	game	abstract[95]	new[95]	_	_
+34-7	_	rules	abstract[95]	new[95]	_	_
 34-8	_	.	_	_	_	_
 
 #Text=See the Tips section for suggestions .
@@ -655,22 +655,22 @@
 35-7	_	.	_	_	_	_
 
 #Text=Video
-36-1	_	Video	abstract[96]	new[96]	coref	39-1[96_97]
+36-1	_	Video	abstract[97]	new[97]	coref	39-1[97_98]
 
 #Text=How to Play a Real - Life Game of Quidditch
 37-1	_	How	_	_	_	_
 37-2	_	to	_	_	_	_
 37-3	_	Play	_	_	_	_
-37-4	_	a	abstract[98]	new[98]	coref	41-20[98_99]
-37-5	_	Real	abstract[98]	new[98]	_	_
-37-6	_	-	abstract[98]	new[98]	_	_
-37-7	_	Life	abstract[98]	new[98]	_	_
-37-8	_	Game	abstract[98]	new[98]	_	_
-37-9	_	of	abstract[98]	new[98]	_	_
-37-10	_	Quidditch	abstract[80]|abstract[98]	new[80]|new[98]	coref	38-12[80_81]
+37-4	_	a	abstract[99]	new[99]	coref	41-20[99_100]
+37-5	_	Real	abstract[99]	new[99]	_	_
+37-6	_	-	abstract[99]	new[99]	_	_
+37-7	_	Life	abstract[99]	new[99]	_	_
+37-8	_	Game	abstract[99]	new[99]	_	_
+37-9	_	of	abstract[99]	new[99]	_	_
+37-10	_	Quidditch	abstract[80]|abstract[99]	new[80]|new[99]	coref	38-12[80_81]
 
 #Text=You do n't need flying broomsticks or magic balls to play this version of the game - it 's tailor - made for muggles like us .
-38-1	_	You	abstract[19]	new[19]	coref	47-8[19_20]
+38-1	_	You	abstract[20]	new[20]	coref	47-8[20_21]
 38-2	_	do	_	_	_	_
 38-3	_	n't	_	_	_	_
 38-4	_	need	_	_	_	_
@@ -699,8 +699,8 @@
 38-27	_	.	_	_	_	_
 
 #Text=This video shows a more realistic approach to playing Quidditch .
-39-1	_	This	abstract[97]	new[97]	_	_
-39-2	_	video	abstract[97]	new[97]	_	_
+39-1	_	This	abstract[98]	new[98]	_	_
+39-2	_	video	abstract[98]	new[98]	_	_
 39-3	_	shows	_	_	_	_
 39-4	_	a	_	_	_	_
 39-5	_	more	_	_	_	_
@@ -716,8 +716,8 @@
 
 #Text=Alternatively the snitch can be a small yellow ball ( tennis balls work great ) that is hidden before the game starts by a bystander or referee .
 41-1	_	Alternatively	_	_	_	_
-41-2	_	the	abstract[103]	new[103]	coref	42-9[103_104]
-41-3	_	snitch	abstract[103]	new[103]	_	_
+41-2	_	the	abstract[104]	new[104]	coref	42-9[104_105]
+41-3	_	snitch	abstract[104]	new[104]	_	_
 41-4	_	can	_	_	_	_
 41-5	_	be	_	_	_	_
 41-6	_	a	_	_	_	_
@@ -734,14 +734,14 @@
 41-17	_	is	_	_	_	_
 41-18	_	hidden	_	_	_	_
 41-19	_	before	_	_	_	_
-41-20	_	the	abstract[99]	new[99]	coref	47-20[99_100]
-41-21	_	game	abstract[99]	new[99]	_	_
+41-20	_	the	abstract[100]	new[100]	coref	47-20[100_101]
+41-21	_	game	abstract[100]	new[100]	_	_
 41-22	_	starts	_	_	_	_
 41-23	_	by	_	_	_	_
 41-24	_	a	_	_	_	_
 41-25	_	bystander	_	_	_	_
 41-26	_	or	_	_	_	_
-41-27	_	referee	abstract[122]	new[122]	coref	58-10[122_123]
+41-27	_	referee	abstract[123]	new[123]	coref	58-10[123_124]
 41-28	_	.	_	_	_	_
 
 #Text=Establish boundaries and have the seekers look for the snitch .
@@ -753,21 +753,21 @@
 42-6	_	seekers	abstract[71]	new[71]	_	_
 42-7	_	look	_	_	_	_
 42-8	_	for	_	_	_	_
-42-9	_	the	abstract[104]	new[104]	_	_
-42-10	_	snitch	abstract[104]	new[104]	_	_
+42-9	_	the	abstract[105]	new[105]	_	_
+42-10	_	snitch	abstract[105]	new[105]	_	_
 42-11	_	.	_	_	_	_
 
 #Text=Beaters can try hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
-43-1	_	Beaters	abstract[107]	new[107]	coref	44-1[107_108]
+43-1	_	Beaters	abstract[108]	new[108]	coref	44-1[108_109]
 43-2	_	can	_	_	_	_
 43-3	_	try	_	_	_	_
 43-4	_	hitting	_	_	_	_
-43-5	_	the	abstract[106]	new[106]	_	_
-43-6	_	bludgers	abstract[106]	new[106]	_	_
+43-5	_	the	abstract[107]	new[107]	_	_
+43-6	_	bludgers	abstract[107]	new[107]	_	_
 43-7	_	around	_	_	_	_
 43-8	_	in	_	_	_	_
-43-9	_	the	abstract[133]	new[133]	coref	64-5[133_134]
-43-10	_	air	abstract[133]	new[133]	_	_
+43-9	_	the	abstract[134]	new[134]	coref	64-5[134_135]
+43-10	_	air	abstract[134]	new[134]	_	_
 43-11	_	with	_	_	_	_
 43-12	_	a	_	_	_	_
 43-13	_	shortened	_	_	_	_
@@ -780,7 +780,7 @@
 43-20	_	.	_	_	_	_
 
 #Text=They could also use regular - length hockey sticks to hit bludgers ( perhaps wiffle balls ) on the ground .
-44-1	_	They	abstract[108]	new[108]	_	_
+44-1	_	They	abstract[109]	new[109]	_	_
 44-2	_	could	_	_	_	_
 44-3	_	also	_	_	_	_
 44-4	_	use	_	_	_	_
@@ -838,12 +838,12 @@
 #Text=Remember that the snitch runner , if you choose to use one , is not an actual player in the game , therefore , not bound by any of the rules .
 47-1	_	Remember	_	_	_	_
 47-2	_	that	_	_	_	_
-47-3	_	the	abstract[110]	new[110]	_	_
-47-4	_	snitch	abstract[110]	new[110]	_	_
-47-5	_	runner	abstract[110]	new[110]	_	_
+47-3	_	the	abstract[111]	new[111]	_	_
+47-4	_	snitch	abstract[111]	new[111]	_	_
+47-5	_	runner	abstract[111]	new[111]	_	_
 47-6	_	,	_	_	_	_
 47-7	_	if	_	_	_	_
-47-8	_	you	abstract[20]	new[20]	coref	50-1[20_21]
+47-8	_	you	abstract[21]	new[21]	coref	50-1[21_22]
 47-9	_	choose	_	_	_	_
 47-10	_	to	_	_	_	_
 47-11	_	use	_	_	_	_
@@ -855,8 +855,8 @@
 47-17	_	actual	_	_	_	_
 47-18	_	player	_	_	_	_
 47-19	_	in	_	_	_	_
-47-20	_	the	abstract[100]	new[100]	coref	54-9[100_101]
-47-21	_	game	abstract[100]	new[100]	_	_
+47-20	_	the	abstract[101]	new[101]	coref	54-9[101_102]
+47-21	_	game	abstract[101]	new[101]	_	_
 47-22	_	,	_	_	_	_
 47-23	_	therefore	_	_	_	_
 47-24	_	,	_	_	_	_
@@ -865,8 +865,8 @@
 47-27	_	by	_	_	_	_
 47-28	_	any	_	_	_	_
 47-29	_	of	_	_	_	_
-47-30	_	the	abstract[95]	new[95]	_	_
-47-31	_	rules	abstract[95]	new[95]	_	_
+47-30	_	the	abstract[96]	new[96]	_	_
+47-31	_	rules	abstract[96]	new[96]	_	_
 47-32	_	.	_	_	_	_
 
 #Text=If desired , the snitch is able to do whatever he or she wants to avoid capture .
@@ -880,9 +880,9 @@
 48-8	_	to	_	_	_	_
 48-9	_	do	_	_	_	_
 48-10	_	whatever	_	_	_	_
-48-11	_	he	abstract[111]	new[111]	coref	48-13[111_112]
+48-11	_	he	abstract[112]	new[112]	coref	48-13[112_113]
 48-12	_	or	_	_	_	_
-48-13	_	she	abstract[112]	new[112]	_	_
+48-13	_	she	abstract[113]	new[113]	_	_
 48-14	_	wants	_	_	_	_
 48-15	_	to	_	_	_	_
 48-16	_	avoid	_	_	_	_
@@ -897,21 +897,21 @@
 49-5	_	a	_	_	_	_
 49-6	_	Snitch	_	_	_	_
 49-7	_	in	_	_	_	_
-49-8	_	Quidditch	abstract[84]	new[84]	_	_
+49-8	_	Quidditch	abstract[84]	new[84]	coref	81-17[84_85]
 49-9	_	for	_	_	_	_
 49-10	_	more	_	_	_	_
 49-11	_	information	_	_	_	_
 49-12	_	.	_	_	_	_
 
 #Text=You can play water quidditch in a pool .
-50-1	_	You	abstract[21]	new[21]	coref	54-1[21_22]
+50-1	_	You	abstract[22]	new[22]	coref	54-1[22_23]
 50-2	_	can	_	_	_	_
 50-3	_	play	_	_	_	_
 50-4	_	water	_	_	_	_
 50-5	_	quidditch	_	_	_	_
 50-6	_	in	_	_	_	_
-50-7	_	a	abstract[113]	new[113]	coref	52-13[113_114]
-50-8	_	pool	abstract[113]	new[113]	_	_
+50-7	_	a	abstract[114]	new[114]	coref	52-13[114_115]
+50-8	_	pool	abstract[114]	new[114]	_	_
 50-9	_	.	_	_	_	_
 
 #Text=Almost all the same rules apply .
@@ -925,7 +925,7 @@
 
 #Text=Have someone throw something ( the snitch ) on a line into the pool at regular intervals .
 52-1	_	Have	_	_	_	_
-52-2	_	someone	abstract[115]	new[115]	coref	53-2[115_116]
+52-2	_	someone	abstract[116]	new[116]	coref	53-2[116_117]
 52-3	_	throw	_	_	_	_
 52-4	_	something	_	_	_	_
 52-5	_	(	_	_	_	_
@@ -936,15 +936,15 @@
 52-10	_	a	_	_	_	_
 52-11	_	line	_	_	_	_
 52-12	_	into	_	_	_	_
-52-13	_	the	abstract[114]	new[114]	_	_
-52-14	_	pool	abstract[114]	new[114]	_	_
+52-13	_	the	abstract[115]	new[115]	_	_
+52-14	_	pool	abstract[115]	new[115]	_	_
 52-15	_	at	_	_	_	_
 52-16	_	regular	_	_	_	_
 52-17	_	intervals	_	_	_	_
 52-18	_	.	_	_	_	_
 
 #Text=They can even use fake snitches .
-53-1	_	They	abstract[116]	new[116]	_	_
+53-1	_	They	abstract[117]	new[117]	_	_
 53-2	_	can	_	_	_	_
 53-3	_	even	_	_	_	_
 53-4	_	use	_	_	_	_
@@ -953,7 +953,7 @@
 53-7	_	.	_	_	_	_
 
 #Text=You can buy authentic looking brooms to make the game more realistic .
-54-1	_	You	abstract[22]	new[22]	coref	55-20[22_23]
+54-1	_	You	abstract[23]	new[23]	coref	55-20[23_24]
 54-2	_	can	_	_	_	_
 54-3	_	buy	_	_	_	_
 54-4	_	authentic	_	_	_	_
@@ -961,8 +961,8 @@
 54-6	_	brooms	_	_	_	_
 54-7	_	to	_	_	_	_
 54-8	_	make	_	_	_	_
-54-9	_	the	abstract[101]	new[101]	coref	61-19[101_102]
-54-10	_	game	abstract[101]	new[101]	_	_
+54-9	_	the	abstract[102]	new[102]	coref	61-19[102_103]
+54-10	_	game	abstract[102]	new[102]	_	_
 54-11	_	more	_	_	_	_
 54-12	_	realistic	_	_	_	_
 54-13	_	.	_	_	_	_
@@ -981,13 +981,13 @@
 55-11	_	look	_	_	_	_
 55-12	_	at	_	_	_	_
 55-13	_	the	_	_	_	_
-55-14	_	IQA	abstract[118]	new[118]	_	_
+55-14	_	IQA	abstract[119]	new[119]	_	_
 55-15	_	website	_	_	_	_
 55-16	_	to	_	_	_	_
 55-17	_	find	_	_	_	_
 55-18	_	teams	_	_	_	_
 55-19	_	near	_	_	_	_
-55-20	_	you	abstract[23]	new[23]	coref	65-2[23_24]
+55-20	_	you	abstract[24]	new[24]	coref	65-2[24_25]
 55-21	_	.	_	_	_	_
 
 #Text=One variation is Quarter Snitch Quidditch .
@@ -1001,36 +1001,36 @@
 
 #Text=Find a quarter or another small coin .
 57-1	_	Find	_	_	_	_
-57-2	_	a	abstract[125]	new[125]	coref	58-13[125_126]
-57-3	_	quarter	abstract[125]	new[125]	_	_
-57-4	_	or	abstract[125]	new[125]	_	_
-57-5	_	another	abstract[125]	new[125]	_	_
-57-6	_	small	abstract[125]	new[125]	_	_
-57-7	_	coin	abstract[125]	new[125]	_	_
+57-2	_	a	abstract[126]	new[126]	coref	58-13[126_127]
+57-3	_	quarter	abstract[126]	new[126]	_	_
+57-4	_	or	abstract[126]	new[126]	_	_
+57-5	_	another	abstract[126]	new[126]	_	_
+57-6	_	small	abstract[126]	new[126]	_	_
+57-7	_	coin	abstract[126]	new[126]	_	_
 57-8	_	.	_	_	_	_
 
 #Text=Have both of the teams turn around and have the referee throw it into the grass or pitch while the teams are n't looking .
 58-1	_	Have	_	_	_	_
-58-2	_	both	abstract[120]	new[120]	coref	58-20[120_121]
-58-3	_	of	abstract[120]	new[120]	_	_
-58-4	_	the	abstract[120]	new[120]	_	_
-58-5	_	teams	abstract[120]	new[120]	_	_
+58-2	_	both	abstract[121]	new[121]	coref	58-20[121_122]
+58-3	_	of	abstract[121]	new[121]	_	_
+58-4	_	the	abstract[121]	new[121]	_	_
+58-5	_	teams	abstract[121]	new[121]	_	_
 58-6	_	turn	_	_	_	_
 58-7	_	around	_	_	_	_
 58-8	_	and	_	_	_	_
 58-9	_	have	_	_	_	_
-58-10	_	the	abstract[123]	new[123]	coref	60-5[123_124]
-58-11	_	referee	abstract[123]	new[123]	_	_
+58-10	_	the	abstract[124]	new[124]	coref	60-5[124_125]
+58-11	_	referee	abstract[124]	new[124]	_	_
 58-12	_	throw	_	_	_	_
-58-13	_	it	abstract[126]	new[126]	coref	59-7[126_127]
+58-13	_	it	abstract[127]	new[127]	coref	59-7[127_128]
 58-14	_	into	_	_	_	_
 58-15	_	the	_	_	_	_
 58-16	_	grass	_	_	_	_
 58-17	_	or	_	_	_	_
 58-18	_	pitch	_	_	_	_
 58-19	_	while	_	_	_	_
-58-20	_	the	abstract[121]	new[121]	_	_
-58-21	_	teams	abstract[121]	new[121]	_	_
+58-20	_	the	abstract[122]	new[122]	_	_
+58-21	_	teams	abstract[122]	new[122]	_	_
 58-22	_	are	_	_	_	_
 58-23	_	n't	_	_	_	_
 58-24	_	looking	_	_	_	_
@@ -1043,29 +1043,29 @@
 59-4	_	seekers	abstract[76]	new[76]	_	_
 59-5	_	look	_	_	_	_
 59-6	_	for	_	_	_	_
-59-7	_	the	abstract[127]	new[127]	coref	60-8[127_128]
-59-8	_	snitch	abstract[127]	new[127]	_	_
+59-7	_	the	abstract[128]	new[128]	coref	60-8[128_129]
+59-8	_	snitch	abstract[128]	new[128]	_	_
 59-9	_	.	_	_	_	_
 
 #Text=Another variation is where the referee places the snitch somewhere in the field ( in this case it 's a small ball ) .
-60-1	_	Another	abstract[131]	new[131]	coref	60-16[131_132]
-60-2	_	variation	abstract[131]	new[131]	_	_
+60-1	_	Another	abstract[132]	new[132]	coref	60-16[132_133]
+60-2	_	variation	abstract[132]	new[132]	_	_
 60-3	_	is	_	_	_	_
 60-4	_	where	_	_	_	_
-60-5	_	the	abstract[124]	new[124]	_	_
-60-6	_	referee	abstract[124]	new[124]	_	_
+60-5	_	the	abstract[125]	new[125]	_	_
+60-6	_	referee	abstract[125]	new[125]	_	_
 60-7	_	places	_	_	_	_
-60-8	_	the	abstract[128]	new[128]	coref	60-18[128_129]
-60-9	_	snitch	abstract[128]	new[128]	_	_
+60-8	_	the	abstract[129]	new[129]	coref	60-18[129_130]
+60-9	_	snitch	abstract[129]	new[129]	_	_
 60-10	_	somewhere	_	_	_	_
 60-11	_	in	_	_	_	_
 60-12	_	the	_	_	_	_
 60-13	_	field	_	_	_	_
 60-14	_	(	_	_	_	_
 60-15	_	in	_	_	_	_
-60-16	_	this	abstract[132]	new[132]	_	_
-60-17	_	case	abstract[132]	new[132]	_	_
-60-18	_	it	abstract[129]	new[129]	coref	61-6[129_130]
+60-16	_	this	abstract[133]	new[133]	_	_
+60-17	_	case	abstract[133]	new[133]	_	_
+60-18	_	it	abstract[130]	new[130]	coref	61-6[130_131]
 60-19	_	's	_	_	_	_
 60-20	_	a	_	_	_	_
 60-21	_	small	_	_	_	_
@@ -1079,8 +1079,8 @@
 61-3	_	has	_	_	_	_
 61-4	_	to	_	_	_	_
 61-5	_	find	_	_	_	_
-61-6	_	the	abstract[130]	new[130]	_	_
-61-7	_	snitch	abstract[130]	new[130]	_	_
+61-6	_	the	abstract[131]	new[131]	_	_
+61-7	_	snitch	abstract[131]	new[131]	_	_
 61-8	_	blindfolded	_	_	_	_
 61-9	_	,	_	_	_	_
 61-10	_	relying	_	_	_	_
@@ -1092,8 +1092,8 @@
 61-16	_	instructions	_	_	_	_
 61-17	_	,	_	_	_	_
 61-18	_	while	_	_	_	_
-61-19	_	the	abstract[102]	new[102]	_	_
-61-20	_	game	abstract[102]	new[102]	_	_
+61-19	_	the	abstract[103]	new[103]	_	_
+61-20	_	game	abstract[103]	new[103]	_	_
 61-21	_	is	_	_	_	_
 61-22	_	still	_	_	_	_
 61-23	_	on	_	_	_	_
@@ -1115,19 +1115,19 @@
 64-2	_	ball	_	_	_	_
 64-3	_	flying	_	_	_	_
 64-4	_	in	_	_	_	_
-64-5	_	the	abstract[134]	new[134]	_	_
-64-6	_	air	abstract[134]	new[134]	_	_
+64-5	_	the	abstract[135]	new[135]	_	_
+64-6	_	air	abstract[135]	new[135]	_	_
 64-7	_	can	_	_	_	_
 64-8	_	hurt	_	_	_	_
 64-9	_	.	_	_	_	_
 
 #Text=If you 're playing quidditch you 're probably just having fun so play nicely .
 65-1	_	If	_	_	_	_
-65-2	_	you	abstract[24]	new[24]	coref	65-6[24_25]
+65-2	_	you	abstract[25]	new[25]	coref	65-6[25_26]
 65-3	_	're	_	_	_	_
 65-4	_	playing	_	_	_	_
 65-5	_	quidditch	_	_	_	_
-65-6	_	you	abstract[25]	new[25]	coref	66-2[25_26]
+65-6	_	you	abstract[26]	new[26]	coref	66-2[26_27]
 65-7	_	're	_	_	_	_
 65-8	_	probably	_	_	_	_
 65-9	_	just	_	_	_	_
@@ -1140,7 +1140,7 @@
 
 #Text=Things You 'll Need
 66-1	_	Things	_	_	_	_
-66-2	_	You	abstract[26]	new[26]	coref	81-14[26_27]
+66-2	_	You	abstract[27]	new[27]	_	_
 66-3	_	'll	_	_	_	_
 66-4	_	Need	_	_	_	_
 
@@ -1246,30 +1246,78 @@
 80-1	_	1	_	_	_	_
 80-2	_	Seeker	_	_	_	_
 
-#Text=Create a to - do list . Make a list for each task you have to accomplish . Use a timer for routine work .
-81-1	_	Create	_	_	_	_
-81-2	_	a	_	_	_	_
-81-3	_	to	_	_	_	_
-81-4	_	-	_	_	_	_
-81-5	_	do	_	_	_	_
-81-6	_	list	_	_	_	_
-81-7	_	.	_	_	_	_
-81-8	_	Make	_	_	_	_
-81-9	_	a	_	_	_	_
-81-10	_	list	_	_	_	_
-81-11	_	for	_	_	_	_
-81-12	_	each	_	_	_	_
-81-13	_	task	_	_	_	_
-81-14	_	you	abstract[27]	new[27]	_	_
-81-15	_	have	_	_	_	_
-81-16	_	to	_	_	_	_
-81-17	_	accomplish	_	_	_	_
-81-18	_	.	_	_	_	_
-81-19	_	Use	_	_	_	_
-81-20	_	a	_	_	_	_
-81-21	_	timer	_	_	_	_
-81-22	_	for	_	_	_	_
-81-23	_	routine	_	_	_	_
-81-24	_	work	_	_	_	_
-81-25	_	.	_	_	_	_
+#Text=This guide suggests ways to play Harry Potter 's game of Quidditch in real life ( Muggle Quidditch ) , by optionally riding on brooms , using three deflated dodge balls as bludgers for beaters to bat at players , a volleyball as a quaffle for chasers to throw into goal hoops , and a coin , ball or a running person as the snitch , which possibly blindfolded seekers must find .
+81-1	_	This	_	_	_	_
+81-2	_	guide	_	_	_	_
+81-3	_	suggests	_	_	_	_
+81-4	_	ways	_	_	_	_
+81-5	_	to	_	_	_	_
+81-6	_	play	_	_	_	_
+81-7	_	Harry	_	_	_	_
+81-8	_	Potter	_	_	_	_
+81-9	_	's	_	_	_	_
+81-10	_	game	_	_	_	_
+81-11	_	of	_	_	_	_
+81-12	_	Quidditch	_	_	_	_
+81-13	_	in	_	_	_	_
+81-14	_	real	_	_	_	_
+81-15	_	life	_	_	_	_
+81-16	_	(	_	_	_	_
+81-17	_	Muggle	abstract[11]|abstract[85]	new[11]|new[85]	_	_
+81-18	_	Quidditch	abstract[85]	new[85]	_	_
+81-19	_	)	_	_	_	_
+81-20	_	,	_	_	_	_
+81-21	_	by	_	_	_	_
+81-22	_	optionally	_	_	_	_
+81-23	_	riding	_	_	_	_
+81-24	_	on	_	_	_	_
+81-25	_	brooms	_	_	_	_
+81-26	_	,	_	_	_	_
+81-27	_	using	_	_	_	_
+81-28	_	three	_	_	_	_
+81-29	_	deflated	_	_	_	_
+81-30	_	dodge	_	_	_	_
+81-31	_	balls	_	_	_	_
+81-32	_	as	_	_	_	_
+81-33	_	bludgers	_	_	_	_
+81-34	_	for	_	_	_	_
+81-35	_	beaters	_	_	_	_
+81-36	_	to	_	_	_	_
+81-37	_	bat	_	_	_	_
+81-38	_	at	_	_	_	_
+81-39	_	players	_	_	_	_
+81-40	_	,	_	_	_	_
+81-41	_	a	_	_	_	_
+81-42	_	volleyball	_	_	_	_
+81-43	_	as	_	_	_	_
+81-44	_	a	_	_	_	_
+81-45	_	quaffle	_	_	_	_
+81-46	_	for	_	_	_	_
+81-47	_	chasers	_	_	_	_
+81-48	_	to	_	_	_	_
+81-49	_	throw	_	_	_	_
+81-50	_	into	_	_	_	_
+81-51	_	goal	_	_	_	_
+81-52	_	hoops	_	_	_	_
+81-53	_	,	_	_	_	_
+81-54	_	and	_	_	_	_
+81-55	_	a	_	_	_	_
+81-56	_	coin	_	_	_	_
+81-57	_	,	_	_	_	_
+81-58	_	ball	_	_	_	_
+81-59	_	or	_	_	_	_
+81-60	_	a	_	_	_	_
+81-61	_	running	_	_	_	_
+81-62	_	person	_	_	_	_
+81-63	_	as	_	_	_	_
+81-64	_	the	_	_	_	_
+81-65	_	snitch	_	_	_	_
+81-66	_	,	_	_	_	_
+81-67	_	which	_	_	_	_
+81-68	_	possibly	_	_	_	_
+81-69	_	blindfolded	_	_	_	_
+81-70	_	seekers	_	_	_	_
+81-71	_	must	_	_	_	_
+81-72	_	find	_	_	_	_
+81-73	_	.	_	_	_	_
 

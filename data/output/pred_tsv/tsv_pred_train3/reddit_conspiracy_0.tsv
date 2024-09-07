@@ -1313,30 +1313,25 @@
 62-9	_	.	_	_	_	_
 
 #Text=This just blew my mind , I hope this catches steam .
-63-1	_	This	abstract[173]	new[173]	coref	63-9[173_174]
+63-1	_	This	abstract[172]	new[172]	coref	63-9[172_173]
 63-2	_	just	_	_	_	_
 63-3	_	blew	_	_	_	_
 63-4	_	my	abstract[170]	new[170]	coref	63-7[170_171]
 63-5	_	mind	_	_	_	_
 63-6	_	,	_	_	_	_
-63-7	_	I	abstract[171]	new[171]	coref	64-7[171_172]
+63-7	_	I	abstract[171]	new[171]	_	_
 63-8	_	hope	_	_	_	_
-63-9	_	this	abstract[174]	new[174]	_	_
+63-9	_	this	abstract[173]	new[173]	_	_
 63-10	_	catches	_	_	_	_
 63-11	_	steam	_	_	_	_
 63-12	_	.	_	_	_	_
 
-#Text="""" Help ! Someone somehow stole my credit card info ! """"
-64-1	_	""""	_	_	_	_
-64-2	_	Help	_	_	_	_
-64-3	_	!	_	_	_	_
-64-4	_	Someone	_	_	_	_
-64-5	_	somehow	_	_	_	_
-64-6	_	stole	_	_	_	_
-64-7	_	my	abstract[172]	new[172]	_	_
-64-8	_	credit	_	_	_	_
-64-9	_	card	_	_	_	_
-64-10	_	info	_	_	_	_
-64-11	_	!	_	_	_	_
-64-12	_	""""	_	_	_	_
+#Text=Be careful what you say in public
+64-1	_	Be	_	_	_	_
+64-2	_	careful	_	_	_	_
+64-3	_	what	_	_	_	_
+64-4	_	you	_	_	_	_
+64-5	_	say	_	_	_	_
+64-6	_	in	_	_	_	_
+64-7	_	public	_	_	_	_
 

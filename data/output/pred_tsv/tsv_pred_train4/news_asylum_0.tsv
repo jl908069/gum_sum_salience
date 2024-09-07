@@ -184,8 +184,8 @@
 8-21	_	Untied	abstract[23]	new[23]	_	_
 8-22	_	Nations	abstract[23]	new[23]	_	_
 8-23	_	and	_	_	_	_
-8-24	_	United	abstract[34]	new[34]	coref	13-2[34_35]
-8-25	_	States	abstract[34]	new[34]	_	_
+8-24	_	United	abstract[32]	new[32]	coref	13-2[32_33]
+8-25	_	States	abstract[32]	new[32]	_	_
 8-26	_	have	_	_	_	_
 8-27	_	both	_	_	_	_
 8-28	_	criticised	_	_	_	_
@@ -223,7 +223,7 @@
 9-29	_	navy	_	_	_	_
 9-30	_	.	_	_	_	_
 
-#Text=Discussing his concern in a public statement , Malaysia 's Prime Minister , Najib Razak said , " We 're bringing back these large interstellar dust particles , part of our space exploration mission of our time , to Earth and beyond .
+#Text=Discussing his concern in a public statement , Malaysia 's Prime Minister , Najib Razak said , " We 're lucky it was n't an Earth - like cyclone .
 10-1	_	Discussing	_	_	_	_
 10-2	_	his	_	_	_	_
 10-3	_	concern	_	_	_	_
@@ -242,34 +242,21 @@
 10-16	_	said	_	_	_	_
 10-17	_	,	_	_	_	_
 10-18	_	"	_	_	_	_
-10-19	_	We	abstract[29]	new[29]	coref	10-31[29_30]
+10-19	_	We	abstract[29]	new[29]	coref	11-1[29_30]
 10-20	_	're	_	_	_	_
-10-21	_	bringing	_	_	_	_
-10-22	_	back	_	_	_	_
-10-23	_	these	_	_	_	_
-10-24	_	large	_	_	_	_
-10-25	_	interstellar	_	_	_	_
-10-26	_	dust	_	_	_	_
-10-27	_	particles	_	_	_	_
-10-28	_	,	_	_	_	_
-10-29	_	part	_	_	_	_
-10-30	_	of	_	_	_	_
-10-31	_	our	abstract[30]	new[30]	coref	10-36[30_31]
-10-32	_	space	_	_	_	_
-10-33	_	exploration	_	_	_	_
-10-34	_	mission	_	_	_	_
-10-35	_	of	_	_	_	_
-10-36	_	our	abstract[31]	new[31]	coref	11-1[31_32]
-10-37	_	time	_	_	_	_
-10-38	_	,	_	_	_	_
-10-39	_	to	_	_	_	_
-10-40	_	Earth	_	_	_	_
-10-41	_	and	_	_	_	_
-10-42	_	beyond	_	_	_	_
-10-43	_	.	_	_	_	_
+10-21	_	lucky	_	_	_	_
+10-22	_	it	_	_	_	_
+10-23	_	was	_	_	_	_
+10-24	_	n't	_	_	_	_
+10-25	_	an	_	_	_	_
+10-26	_	Earth	_	_	_	_
+10-27	_	-	_	_	_	_
+10-28	_	like	_	_	_	_
+10-29	_	cyclone	_	_	_	_
+10-30	_	.	_	_	_	_
 
 #Text=We are in contact with all relevant parties , with whom we share the desire to find a solution to this crisis " .
-11-1	_	We	abstract[32]	new[32]	coref	11-12[32_33]
+11-1	_	We	abstract[30]	new[30]	coref	11-12[30_31]
 11-2	_	are	_	_	_	_
 11-3	_	in	_	_	_	_
 11-4	_	contact	_	_	_	_
@@ -280,7 +267,7 @@
 11-9	_	,	_	_	_	_
 11-10	_	with	_	_	_	_
 11-11	_	whom	_	_	_	_
-11-12	_	we	abstract[33]	new[33]	_	_
+11-12	_	we	abstract[31]	new[31]	_	_
 11-13	_	share	_	_	_	_
 11-14	_	the	_	_	_	_
 11-15	_	desire	_	_	_	_
@@ -295,7 +282,7 @@
 11-24	_	.	_	_	_	_
 
 #Text=Thailand has recently cracked down on human trafficking , which has affected the routes by which people - smugglers transport migrants .
-12-1	_	Thailand	abstract[36]	new[36]	coref	13-15[36_37]
+12-1	_	Thailand	abstract[34]	new[34]	coref	13-15[34_35]
 12-2	_	has	_	_	_	_
 12-3	_	recently	_	_	_	_
 12-4	_	cracked	_	_	_	_
@@ -319,10 +306,10 @@
 12-22	_	.	_	_	_	_
 
 #Text=The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing for the Rohingya out at sea .
-13-1	_	The	abstract[38]	new[38]	coref	14-4[38_39]
-13-2	_	US	abstract[35]|abstract[38]	new[35]|new[38]	_	_
-13-3	_	State	abstract[38]	new[38]	_	_
-13-4	_	Department	abstract[38]	new[38]	_	_
+13-1	_	The	abstract[36]	new[36]	coref	14-4[36_37]
+13-2	_	US	abstract[33]|abstract[36]	new[33]|new[36]	_	_
+13-3	_	State	abstract[36]	new[36]	_	_
+13-4	_	Department	abstract[36]	new[36]	_	_
 13-5	_	said	_	_	_	_
 13-6	_	John	_	_	_	_
 13-7	_	Kerry	_	_	_	_
@@ -333,8 +320,8 @@
 13-12	_	State	_	_	_	_
 13-13	_	,	_	_	_	_
 13-14	_	contacted	_	_	_	_
-13-15	_	Thailand	abstract[37]	new[37]	_	_
-13-16	_	's	abstract[37]	new[37]	_	_
+13-15	_	Thailand	abstract[35]	new[35]	_	_
+13-16	_	's	abstract[35]	new[35]	_	_
 13-17	_	foreign	_	_	_	_
 13-18	_	minister	_	_	_	_
 13-19	_	over	_	_	_	_
@@ -349,24 +336,24 @@
 13-28	_	.	_	_	_	_
 
 #Text=Jeff Rathke , the State Department Spokesperson , said , " We urge the governments of the region to work together quickly , first and foremost , to save the lives of migrants now at sea who are in need of an immediate rescue effort " .
-14-1	_	Jeff	abstract[41]	new[41]	coref	15-1[41_42]
-14-2	_	Rathke	abstract[41]	new[41]	_	_
-14-3	_	,	abstract[41]	new[41]	_	_
-14-4	_	the	abstract[39]|abstract[41]	new[39]|new[41]	coref	14-12[39_40]
-14-5	_	State	abstract[39]|abstract[41]	new[39]|new[41]	_	_
-14-6	_	Department	abstract[39]|abstract[41]	new[39]|new[41]	_	_
-14-7	_	Spokesperson	abstract[41]	new[41]	_	_
+14-1	_	Jeff	abstract[39]	new[39]	coref	15-1[39_40]
+14-2	_	Rathke	abstract[39]	new[39]	_	_
+14-3	_	,	abstract[39]	new[39]	_	_
+14-4	_	the	abstract[37]|abstract[39]	new[37]|new[39]	coref	14-12[37_38]
+14-5	_	State	abstract[37]|abstract[39]	new[37]|new[39]	_	_
+14-6	_	Department	abstract[37]|abstract[39]	new[37]|new[39]	_	_
+14-7	_	Spokesperson	abstract[39]	new[39]	_	_
 14-8	_	,	_	_	_	_
 14-9	_	said	_	_	_	_
 14-10	_	,	_	_	_	_
 14-11	_	"	_	_	_	_
-14-12	_	We	abstract[40]	new[40]	_	_
+14-12	_	We	abstract[38]	new[38]	_	_
 14-13	_	urge	_	_	_	_
-14-14	_	the	abstract[43]	new[43]	coref	15-4[43_44]
-14-15	_	governments	abstract[43]	new[43]	_	_
-14-16	_	of	abstract[43]	new[43]	_	_
-14-17	_	the	abstract[43]|abstract[45]	new[43]|new[45]	coref	15-7[45_46]
-14-18	_	region	abstract[43]|abstract[45]	new[43]|new[45]	_	_
+14-14	_	the	abstract[41]	new[41]	coref	15-4[41_42]
+14-15	_	governments	abstract[41]	new[41]	_	_
+14-16	_	of	abstract[41]	new[41]	_	_
+14-17	_	the	abstract[41]|abstract[43]	new[41]|new[43]	coref	15-7[43_44]
+14-18	_	region	abstract[41]|abstract[43]	new[41]|new[43]	_	_
 14-19	_	to	_	_	_	_
 14-20	_	work	_	_	_	_
 14-21	_	together	_	_	_	_
@@ -398,15 +385,15 @@
 14-47	_	.	_	_	_	_
 
 #Text=Rathke also asked the governments of South East Asia not to turn away boats of people seeking asylum .
-15-1	_	Rathke	abstract[42]	new[42]	_	_
+15-1	_	Rathke	abstract[40]	new[40]	_	_
 15-2	_	also	_	_	_	_
 15-3	_	asked	_	_	_	_
-15-4	_	the	abstract[44]	new[44]	_	_
-15-5	_	governments	abstract[44]	new[44]	_	_
-15-6	_	of	abstract[44]	new[44]	_	_
-15-7	_	South	abstract[44]|abstract[46]	new[44]|new[46]	coref	16-11[46_47]
-15-8	_	East	abstract[44]|abstract[46]	new[44]|new[46]	_	_
-15-9	_	Asia	abstract[44]|abstract[46]	new[44]|new[46]	_	_
+15-4	_	the	abstract[42]	new[42]	_	_
+15-5	_	governments	abstract[42]	new[42]	_	_
+15-6	_	of	abstract[42]	new[42]	_	_
+15-7	_	South	abstract[42]|abstract[44]	new[42]|new[44]	coref	16-11[44_45]
+15-8	_	East	abstract[42]|abstract[44]	new[42]|new[44]	_	_
+15-9	_	Asia	abstract[42]|abstract[44]	new[42]|new[44]	_	_
 15-10	_	not	_	_	_	_
 15-11	_	to	_	_	_	_
 15-12	_	turn	_	_	_	_
@@ -429,7 +416,7 @@
 16-8	_	at	_	_	_	_
 16-9	_	sea	_	_	_	_
 16-10	_	in	_	_	_	_
-16-11	_	the	abstract[47]	new[47]	_	_
-16-12	_	region	abstract[47]	new[47]	_	_
+16-11	_	the	abstract[45]	new[45]	_	_
+16-12	_	region	abstract[45]	new[45]	_	_
 16-13	_	.	_	_	_	_
 

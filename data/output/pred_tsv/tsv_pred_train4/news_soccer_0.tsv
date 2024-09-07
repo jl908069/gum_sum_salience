@@ -58,7 +58,7 @@
 3-27	_	0	_	_	_	_
 3-28	_	;	_	_	_	_
 3-29	_	and	_	_	_	_
-3-30	_	Tunisia	abstract[98]	new[98]	coref	37-4[98_99]
+3-30	_	Tunisia	abstract[97]	new[97]	coref	37-4[97_98]
 3-31	_	lost	_	_	_	_
 3-32	_	1	_	_	_	_
 3-33	_	–	_	_	_	_
@@ -579,49 +579,58 @@
 31-9	_	award	_	_	_	_
 31-10	_	.	_	_	_	_
 
-#Text=After the match , Hernan Dario Gomez , Panama coach , said , " Valeska Paris made a recurring tale about Scientology as a teenager and a former Scientologist
+#Text=After the match , Hernan Dario Gomez , Panama coach , said , " A woman who has also been the victim of scandal after pleading for help in destroying a satellite by stealing in a car .
 32-1	_	After	_	_	_	_
 32-2	_	the	abstract[87]	new[87]	_	_
 32-3	_	match	abstract[87]	new[87]	_	_
 32-4	_	,	_	_	_	_
-32-5	_	Hernan	abstract[88]	new[88]	coref	32-27[88_89]
+32-5	_	Hernan	abstract[88]	new[88]	coref	33-1[88_89]
 32-6	_	Dario	abstract[88]	new[88]	_	_
 32-7	_	Gomez	abstract[88]	new[88]	_	_
 32-8	_	,	abstract[88]	new[88]	_	_
-32-9	_	Panama	abstract[88]|abstract[92]	new[88]|new[92]	coref	33-3[92_93]
+32-9	_	Panama	abstract[88]|abstract[91]	new[88]|new[91]	coref	33-3[91_92]
 32-10	_	coach	abstract[88]	new[88]	_	_
 32-11	_	,	_	_	_	_
 32-12	_	said	_	_	_	_
 32-13	_	,	_	_	_	_
 32-14	_	"	_	_	_	_
-32-15	_	Valeska	_	_	_	_
-32-16	_	Paris	_	_	_	_
-32-17	_	made	_	_	_	_
-32-18	_	a	_	_	_	_
-32-19	_	recurring	_	_	_	_
-32-20	_	tale	_	_	_	_
-32-21	_	about	_	_	_	_
-32-22	_	Scientology	_	_	_	_
-32-23	_	as	_	_	_	_
-32-24	_	a	_	_	_	_
-32-25	_	teenager	_	_	_	_
-32-26	_	and	_	_	_	_
-32-27	_	a	abstract[89]	new[89]	coref	33-1[89_90]
-32-28	_	former	abstract[89]	new[89]	_	_
-32-29	_	Scientologist	abstract[89]	new[89]	_	_
+32-15	_	A	_	_	_	_
+32-16	_	woman	_	_	_	_
+32-17	_	who	_	_	_	_
+32-18	_	has	_	_	_	_
+32-19	_	also	_	_	_	_
+32-20	_	been	_	_	_	_
+32-21	_	the	_	_	_	_
+32-22	_	victim	_	_	_	_
+32-23	_	of	_	_	_	_
+32-24	_	scandal	_	_	_	_
+32-25	_	after	_	_	_	_
+32-26	_	pleading	_	_	_	_
+32-27	_	for	_	_	_	_
+32-28	_	help	_	_	_	_
+32-29	_	in	_	_	_	_
+32-30	_	destroying	_	_	_	_
+32-31	_	a	_	_	_	_
+32-32	_	satellite	_	_	_	_
+32-33	_	by	_	_	_	_
+32-34	_	stealing	_	_	_	_
+32-35	_	in	_	_	_	_
+32-36	_	a	_	_	_	_
+32-37	_	car	_	_	_	_
+32-38	_	.	_	_	_	_
 
 #Text=I think we have learned a lot from today 's game .
-33-1	_	I	abstract[90]	new[90]	coref	35-6[90_91]
+33-1	_	I	abstract[89]	new[89]	coref	35-6[89_90]
 33-2	_	think	_	_	_	_
-33-3	_	we	abstract[93]	new[93]	coref	36-1[93_94]
+33-3	_	we	abstract[92]	new[92]	coref	36-1[92_93]
 33-4	_	have	_	_	_	_
 33-5	_	learned	_	_	_	_
 33-6	_	a	_	_	_	_
 33-7	_	lot	_	_	_	_
 33-8	_	from	_	_	_	_
-33-9	_	today	abstract[38]|abstract[96]	new[38]|new[96]	coref|coref	34-1[38_39]|36-11[96_97]
-33-10	_	's	abstract[38]|abstract[96]	new[38]|new[96]	_	_
-33-11	_	game	abstract[96]	new[96]	_	_
+33-9	_	today	abstract[38]|abstract[95]	new[38]|new[95]	coref|coref	34-1[38_39]|36-11[95_96]
+33-10	_	's	abstract[38]|abstract[95]	new[38]|new[95]	_	_
+33-11	_	game	abstract[95]	new[95]	_	_
 33-12	_	.	_	_	_	_
 
 #Text=It was a very emotional day .
@@ -639,7 +648,7 @@
 35-3	_	the	_	_	_	_
 35-4	_	fifth	_	_	_	_
 35-5	_	time	_	_	_	_
-35-6	_	I	abstract[91]	new[91]	_	_
+35-6	_	I	abstract[90]	new[90]	_	_
 35-7	_	've	_	_	_	_
 35-8	_	been	_	_	_	_
 35-9	_	at	_	_	_	_
@@ -655,8 +664,8 @@
 35-19	_	.	_	_	_	_
 
 #Text=The team was still very emotional at the start of the match but as time went by , they were able to focus better . "
-36-1	_	The	abstract[94]	new[94]	coref	36-19[94_95]
-36-2	_	team	abstract[94]	new[94]	_	_
+36-1	_	The	abstract[93]	new[93]	coref	36-19[93_94]
+36-2	_	team	abstract[93]	new[93]	_	_
 36-3	_	was	_	_	_	_
 36-4	_	still	_	_	_	_
 36-5	_	very	_	_	_	_
@@ -665,15 +674,15 @@
 36-8	_	the	_	_	_	_
 36-9	_	start	_	_	_	_
 36-10	_	of	_	_	_	_
-36-11	_	the	abstract[97]	new[97]	_	_
-36-12	_	match	abstract[97]	new[97]	_	_
+36-11	_	the	abstract[96]	new[96]	_	_
+36-12	_	match	abstract[96]	new[96]	_	_
 36-13	_	but	_	_	_	_
 36-14	_	as	_	_	_	_
 36-15	_	time	_	_	_	_
 36-16	_	went	_	_	_	_
 36-17	_	by	_	_	_	_
 36-18	_	,	_	_	_	_
-36-19	_	they	abstract[95]	new[95]	_	_
+36-19	_	they	abstract[94]	new[94]	_	_
 36-20	_	were	_	_	_	_
 36-21	_	able	_	_	_	_
 36-22	_	to	_	_	_	_
@@ -686,7 +695,7 @@
 37-1	_	Group	abstract[65]	new[65]	_	_
 37-2	_	G	abstract[65]	new[65]	_	_
 37-3	_	—	_	_	_	_
-37-4	_	Tunisia	abstract[99]	new[99]	coref	38-9[99_100]
+37-4	_	Tunisia	abstract[98]	new[98]	coref	38-9[98_99]
 37-5	_	1	_	_	_	_
 37-6	_	–	_	_	_	_
 37-7	_	2	_	_	_	_
@@ -694,14 +703,14 @@
 
 #Text=In the last match of the day , Tunisia faced England at the Volgograd Arena .
 38-1	_	In	_	_	_	_
-38-2	_	the	abstract[104]	new[104]	coref	39-7[104_105]
-38-3	_	last	abstract[104]	new[104]	_	_
-38-4	_	match	abstract[104]	new[104]	_	_
-38-5	_	of	abstract[104]	new[104]	_	_
-38-6	_	the	abstract[40]|abstract[104]	new[40]|new[104]	_	_
-38-7	_	day	abstract[40]|abstract[104]	new[40]|new[104]	_	_
+38-2	_	the	abstract[103]	new[103]	coref	39-7[103_104]
+38-3	_	last	abstract[103]	new[103]	_	_
+38-4	_	match	abstract[103]	new[103]	_	_
+38-5	_	of	abstract[103]	new[103]	_	_
+38-6	_	the	abstract[40]|abstract[103]	new[40]|new[103]	_	_
+38-7	_	day	abstract[40]|abstract[103]	new[40]|new[103]	_	_
 38-8	_	,	_	_	_	_
-38-9	_	Tunisia	abstract[100]	new[100]	coref	42-5[100_101]
+38-9	_	Tunisia	abstract[99]	new[99]	coref	42-5[99_100]
 38-10	_	faced	_	_	_	_
 38-11	_	England	abstract[27]	new[27]	coref	39-1[27_28]
 38-12	_	at	_	_	_	_
@@ -717,15 +726,15 @@
 39-4	_	ball	_	_	_	_
 39-5	_	possession	_	_	_	_
 39-6	_	in	_	_	_	_
-39-7	_	the	abstract[105]	new[105]	coref	40-3[105_106]
-39-8	_	game	abstract[105]	new[105]	_	_
+39-7	_	the	abstract[104]	new[104]	coref	40-3[104_105]
+39-8	_	game	abstract[104]	new[104]	_	_
 39-9	_	.	_	_	_	_
 
 #Text=England started the match with attacking style , with attempts from Jesse Lingard , Harry Maguire , Harry Kane , and John Stones early in the game .
 40-1	_	England	abstract[29]	new[29]	coref	41-2[29_30]
 40-2	_	started	_	_	_	_
-40-3	_	the	abstract[106]	new[106]	coref	40-26[106_107]
-40-4	_	match	abstract[106]	new[106]	_	_
+40-3	_	the	abstract[105]	new[105]	coref	40-26[105_106]
+40-4	_	match	abstract[105]	new[105]	_	_
 40-5	_	with	_	_	_	_
 40-6	_	attacking	_	_	_	_
 40-7	_	style	_	_	_	_
@@ -739,16 +748,16 @@
 40-15	_	Harry	_	_	_	_
 40-16	_	Maguire	_	_	_	_
 40-17	_	,	_	_	_	_
-40-18	_	Harry	abstract[108]	new[108]	coref	41-8[108_109]
-40-19	_	Kane	abstract[108]	new[108]	_	_
+40-18	_	Harry	abstract[107]	new[107]	coref	41-8[107_108]
+40-19	_	Kane	abstract[107]	new[107]	_	_
 40-20	_	,	_	_	_	_
 40-21	_	and	_	_	_	_
 40-22	_	John	_	_	_	_
 40-23	_	Stones	_	_	_	_
 40-24	_	early	_	_	_	_
 40-25	_	in	_	_	_	_
-40-26	_	the	abstract[107]	new[107]	_	_
-40-27	_	game	abstract[107]	new[107]	_	_
+40-26	_	the	abstract[106]	new[106]	_	_
+40-27	_	game	abstract[106]	new[106]	_	_
 40-28	_	.	_	_	_	_
 
 #Text=Then England opened the scoring , when Harry Kane scored a close - ranged shot .
@@ -759,8 +768,8 @@
 41-5	_	scoring	_	_	_	_
 41-6	_	,	_	_	_	_
 41-7	_	when	_	_	_	_
-41-8	_	Harry	abstract[109]	new[109]	coref	47-6[109_110]
-41-9	_	Kane	abstract[109]	new[109]	_	_
+41-8	_	Harry	abstract[108]	new[108]	coref	47-6[108_109]
+41-9	_	Kane	abstract[108]	new[108]	_	_
 41-10	_	scored	_	_	_	_
 41-11	_	a	_	_	_	_
 41-12	_	close	_	_	_	_
@@ -774,8 +783,8 @@
 42-2	_	minutes	_	_	_	_
 42-3	_	later	_	_	_	_
 42-4	_	,	_	_	_	_
-42-5	_	Tunisia	abstract[101]	new[101]	coref	43-1[101_102]
-42-6	_	's	abstract[101]	new[101]	_	_
+42-5	_	Tunisia	abstract[100]	new[100]	coref	43-1[100_101]
+42-6	_	's	abstract[100]	new[100]	_	_
 42-7	_	goalkeeper	_	_	_	_
 42-8	_	Mouez	_	_	_	_
 42-9	_	Hassen	_	_	_	_
@@ -794,7 +803,7 @@
 42-22	_	.	_	_	_	_
 
 #Text=Tunisia won a penalty kick in the 33rd minute .
-43-1	_	Tunisia	abstract[102]	new[102]	coref	44-23[102_103]
+43-1	_	Tunisia	abstract[101]	new[101]	coref	44-23[101_102]
 43-2	_	won	_	_	_	_
 43-3	_	a	_	_	_	_
 43-4	_	penalty	_	_	_	_
@@ -806,14 +815,14 @@
 43-10	_	.	_	_	_	_
 
 #Text=English defender Kyle Walker was booked for his bad foul , and Ferjani Sassi scored from the penalty spot , equalising for the African side .
-44-1	_	English	abstract[114]	new[114]	coref	44-8[114_115]
-44-2	_	defender	abstract[114]	new[114]	_	_
-44-3	_	Kyle	abstract[114]	new[114]	_	_
-44-4	_	Walker	abstract[114]	new[114]	_	_
+44-1	_	English	abstract[113]	new[113]	coref	44-8[113_114]
+44-2	_	defender	abstract[113]	new[113]	_	_
+44-3	_	Kyle	abstract[113]	new[113]	_	_
+44-4	_	Walker	abstract[113]	new[113]	_	_
 44-5	_	was	_	_	_	_
 44-6	_	booked	_	_	_	_
 44-7	_	for	_	_	_	_
-44-8	_	his	abstract[115]	new[115]	_	_
+44-8	_	his	abstract[114]	new[114]	_	_
 44-9	_	bad	_	_	_	_
 44-10	_	foul	_	_	_	_
 44-11	_	,	_	_	_	_
@@ -828,15 +837,15 @@
 44-20	_	,	_	_	_	_
 44-21	_	equalising	_	_	_	_
 44-22	_	for	_	_	_	_
-44-23	_	the	abstract[103]	new[103]	_	_
-44-24	_	African	abstract[103]	new[103]	_	_
-44-25	_	side	abstract[103]	new[103]	_	_
+44-23	_	the	abstract[102]	new[102]	_	_
+44-24	_	African	abstract[102]	new[102]	_	_
+44-25	_	side	abstract[102]	new[102]	_	_
 44-26	_	.	_	_	_	_
 
 #Text=The first half ended 1 – 1 on the scoreboard .
-45-1	_	The	abstract[123]	new[123]	coref	50-6[123_124]
-45-2	_	first	abstract[123]	new[123]	_	_
-45-3	_	half	abstract[123]	new[123]	_	_
+45-1	_	The	abstract[122]	new[122]	coref	50-6[122_123]
+45-2	_	first	abstract[122]	new[122]	_	_
+45-3	_	half	abstract[122]	new[122]	_	_
 45-4	_	ended	_	_	_	_
 45-5	_	1	_	_	_	_
 45-6	_	–	_	_	_	_
@@ -873,16 +882,16 @@
 47-3	_	injury	_	_	_	_
 47-4	_	time	_	_	_	_
 47-5	_	,	_	_	_	_
-47-6	_	English	abstract[110]	new[110]	coref	49-1[110_111]
-47-7	_	captain	abstract[110]	new[110]	_	_
-47-8	_	Harry	abstract[110]	new[110]	_	_
-47-9	_	Kane	abstract[110]	new[110]	_	_
+47-6	_	English	abstract[109]	new[109]	coref	49-1[109_110]
+47-7	_	captain	abstract[109]	new[109]	_	_
+47-8	_	Harry	abstract[109]	new[109]	_	_
+47-9	_	Kane	abstract[109]	new[109]	_	_
 47-10	_	scored	_	_	_	_
 47-11	_	a	_	_	_	_
 47-12	_	second	_	_	_	_
 47-13	_	goal	_	_	_	_
 47-14	_	as	_	_	_	_
-47-15	_	England	abstract[116]	new[116]	coref	48-7[116_117]
+47-15	_	England	abstract[115]	new[115]	coref	48-7[115_116]
 47-16	_	won	_	_	_	_
 47-17	_	a	_	_	_	_
 47-18	_	corner	_	_	_	_
@@ -890,13 +899,13 @@
 47-20	_	.	_	_	_	_
 
 #Text=The match came to end with England winning 2 – 1 and collecting three points .
-48-1	_	The	abstract[119]	new[119]	coref	49-8[119_120]
-48-2	_	match	abstract[119]	new[119]	_	_
+48-1	_	The	abstract[118]	new[118]	coref	49-8[118_119]
+48-2	_	match	abstract[118]	new[118]	_	_
 48-3	_	came	_	_	_	_
 48-4	_	to	_	_	_	_
 48-5	_	end	_	_	_	_
 48-6	_	with	_	_	_	_
-48-7	_	England	abstract[117]	new[117]	coref	51-1[117_118]
+48-7	_	England	abstract[116]	new[116]	coref	51-1[116_117]
 48-8	_	winning	_	_	_	_
 48-9	_	2	_	_	_	_
 48-10	_	–	_	_	_	_
@@ -908,27 +917,27 @@
 48-16	_	.	_	_	_	_
 
 #Text=Harry Kane won the Budweiser Man of the Match award .
-49-1	_	Harry	abstract[111]	new[111]	coref	49-6[111_112]
-49-2	_	Kane	abstract[111]	new[111]	_	_
+49-1	_	Harry	abstract[110]	new[110]	coref	49-6[110_111]
+49-2	_	Kane	abstract[110]	new[110]	_	_
 49-3	_	won	_	_	_	_
 49-4	_	the	_	_	_	_
 49-5	_	Budweiser	abstract[84]	new[84]	_	_
-49-6	_	Man	abstract[112]	new[112]	coref	50-1[112_113]
-49-7	_	of	abstract[112]	new[112]	_	_
-49-8	_	the	abstract[112]|abstract[120]	new[112]|new[120]	coref	51-15[120_121]
-49-9	_	Match	abstract[112]|abstract[120]	new[112]|new[120]	_	_
+49-6	_	Man	abstract[111]	new[111]	coref	50-1[111_112]
+49-7	_	of	abstract[111]	new[111]	_	_
+49-8	_	the	abstract[111]|abstract[119]	new[111]|new[119]	coref	51-15[119_120]
+49-9	_	Match	abstract[111]|abstract[119]	new[111]|new[119]	_	_
 49-10	_	award	_	_	_	_
 49-11	_	.	_	_	_	_
 
 #Text=He said , " In the first half it felt good out there .
-50-1	_	He	abstract[113]	new[113]	_	_
+50-1	_	He	abstract[112]	new[112]	_	_
 50-2	_	said	_	_	_	_
 50-3	_	,	_	_	_	_
 50-4	_	"	_	_	_	_
 50-5	_	In	_	_	_	_
-50-6	_	the	abstract[124]	new[124]	coref	51-10[124_125]
-50-7	_	first	abstract[124]	new[124]	_	_
-50-8	_	half	abstract[124]	new[124]	_	_
+50-6	_	the	abstract[123]	new[123]	coref	51-10[123_124]
+50-7	_	first	abstract[123]	new[123]	_	_
+50-8	_	half	abstract[123]	new[123]	_	_
 50-9	_	it	_	_	_	_
 50-10	_	felt	_	_	_	_
 50-11	_	good	_	_	_	_
@@ -937,7 +946,7 @@
 50-14	_	.	_	_	_	_
 
 #Text=We could 've scored two or three goals in the first half and put the game to bed early . "
-51-1	_	We	abstract[118]	new[118]	_	_
+51-1	_	We	abstract[117]	new[117]	_	_
 51-2	_	could	_	_	_	_
 51-3	_	've	_	_	_	_
 51-4	_	scored	_	_	_	_
@@ -946,13 +955,13 @@
 51-7	_	three	_	_	_	_
 51-8	_	goals	_	_	_	_
 51-9	_	in	_	_	_	_
-51-10	_	the	abstract[125]	new[125]	_	_
-51-11	_	first	abstract[125]	new[125]	_	_
-51-12	_	half	abstract[125]	new[125]	_	_
+51-10	_	the	abstract[124]	new[124]	_	_
+51-11	_	first	abstract[124]	new[124]	_	_
+51-12	_	half	abstract[124]	new[124]	_	_
 51-13	_	and	_	_	_	_
 51-14	_	put	_	_	_	_
-51-15	_	the	abstract[121]	new[121]	coref	52-3[121_122]
-51-16	_	game	abstract[121]	new[121]	_	_
+51-15	_	the	abstract[120]	new[120]	coref	52-3[120_121]
+51-16	_	game	abstract[120]	new[120]	_	_
 51-17	_	to	_	_	_	_
 51-18	_	bed	_	_	_	_
 51-19	_	early	_	_	_	_
@@ -961,46 +970,46 @@
 
 #Text=After the match , Tunisia 's coach Nabil Maaloul said , " We were playing against a highly - skilled and highly co-ordinated team in terms of their forward players .
 52-1	_	After	_	_	_	_
-52-2	_	the	abstract[122]	new[122]	_	_
-52-3	_	match	abstract[122]	new[122]	_	_
+52-2	_	the	abstract[121]	new[121]	_	_
+52-3	_	match	abstract[121]	new[121]	_	_
 52-4	_	,	_	_	_	_
-52-5	_	Tunisia	abstract[126]	new[126]	coref	52-14[126_127]
-52-6	_	's	abstract[126]	new[126]	_	_
+52-5	_	Tunisia	abstract[125]	new[125]	coref	52-14[125_126]
+52-6	_	's	abstract[125]	new[125]	_	_
 52-7	_	coach	_	_	_	_
 52-8	_	Nabil	_	_	_	_
 52-9	_	Maaloul	_	_	_	_
 52-10	_	said	_	_	_	_
 52-11	_	,	_	_	_	_
 52-12	_	"	_	_	_	_
-52-13	_	We	abstract[127]	new[127]	coref	53-2[127_128]
+52-13	_	We	abstract[126]	new[126]	coref	53-2[126_127]
 52-14	_	were	_	_	_	_
 52-15	_	playing	_	_	_	_
 52-16	_	against	_	_	_	_
-52-17	_	a	abstract[130]	new[130]	coref	52-29[130_131]
-52-18	_	highly	abstract[130]	new[130]	_	_
-52-19	_	-	abstract[130]	new[130]	_	_
-52-20	_	skilled	abstract[130]	new[130]	_	_
-52-21	_	and	abstract[130]	new[130]	_	_
-52-22	_	highly	abstract[130]	new[130]	_	_
-52-23	_	co-ordinated	abstract[130]	new[130]	_	_
-52-24	_	team	abstract[130]	new[130]	_	_
+52-17	_	a	abstract[129]	new[129]	coref	52-29[129_130]
+52-18	_	highly	abstract[129]	new[129]	_	_
+52-19	_	-	abstract[129]	new[129]	_	_
+52-20	_	skilled	abstract[129]	new[129]	_	_
+52-21	_	and	abstract[129]	new[129]	_	_
+52-22	_	highly	abstract[129]	new[129]	_	_
+52-23	_	co-ordinated	abstract[129]	new[129]	_	_
+52-24	_	team	abstract[129]	new[129]	_	_
 52-25	_	in	_	_	_	_
 52-26	_	terms	_	_	_	_
 52-27	_	of	_	_	_	_
-52-28	_	their	abstract[131]	new[131]	_	_
+52-28	_	their	abstract[130]	new[130]	_	_
 52-29	_	forward	_	_	_	_
 52-30	_	players	_	_	_	_
 52-31	_	.	_	_	_	_
 
 #Text=If we were to get a draw it would have been an excellent result for us .
 53-1	_	If	_	_	_	_
-53-2	_	we	abstract[128]	new[128]	coref	53-16[128_129]
+53-2	_	we	abstract[127]	new[127]	coref	53-16[127_128]
 53-3	_	were	_	_	_	_
 53-4	_	to	_	_	_	_
 53-5	_	get	_	_	_	_
-53-6	_	a	abstract[132]	new[132]	coref	53-8[132_133]
-53-7	_	draw	abstract[132]	new[132]	_	_
-53-8	_	it	abstract[133]	new[133]	_	_
+53-6	_	a	abstract[131]	new[131]	coref	53-8[131_132]
+53-7	_	draw	abstract[131]	new[131]	_	_
+53-8	_	it	abstract[132]	new[132]	_	_
 53-9	_	would	_	_	_	_
 53-10	_	have	_	_	_	_
 53-11	_	been	_	_	_	_
@@ -1008,7 +1017,7 @@
 53-13	_	excellent	_	_	_	_
 53-14	_	result	_	_	_	_
 53-15	_	for	_	_	_	_
-53-16	_	us	abstract[129]	new[129]	_	_
+53-16	_	us	abstract[128]	new[128]	_	_
 53-17	_	.	_	_	_	_
 
 #Text=But hopefully this will lead to higher levels of concentration in the coming games . "

@@ -95,7 +95,7 @@
 5-17	_	desserts	_	_	_	_
 5-18	_	.	_	_	_	_
 
-#Text=Did n't you think to yourself at the time , " The first WW exhibit in the US opened in November last year .
+#Text=Did n't you think to yourself at the time , " This past week marked the opening night of an Andy Warhol exhibit at the University of Southern Indiana
 6-1	_	Did	_	_	_	_
 6-2	_	n't	_	_	_	_
 6-3	_	you	abstract[46]	new[46]	coref	6-6[46_47]
@@ -107,19 +107,24 @@
 6-9	_	time	_	_	_	_
 6-10	_	,	_	_	_	_
 6-11	_	"	_	_	_	_
-6-12	_	The	_	_	_	_
-6-13	_	first	_	_	_	_
-6-14	_	WW	_	_	_	_
-6-15	_	exhibit	_	_	_	_
-6-16	_	in	_	_	_	_
-6-17	_	the	_	_	_	_
-6-18	_	US	_	_	_	_
-6-19	_	opened	_	_	_	_
-6-20	_	in	_	_	_	_
-6-21	_	November	_	_	_	_
-6-22	_	last	_	_	_	_
-6-23	_	year	_	_	_	_
-6-24	_	.	_	_	_	_
+6-12	_	This	_	_	_	_
+6-13	_	past	_	_	_	_
+6-14	_	week	_	_	_	_
+6-15	_	marked	_	_	_	_
+6-16	_	the	_	_	_	_
+6-17	_	opening	_	_	_	_
+6-18	_	night	_	_	_	_
+6-19	_	of	_	_	_	_
+6-20	_	an	_	_	_	_
+6-21	_	Andy	_	_	_	_
+6-22	_	Warhol	_	_	_	_
+6-23	_	exhibit	_	_	_	_
+6-24	_	at	_	_	_	_
+6-25	_	the	_	_	_	_
+6-26	_	University	_	_	_	_
+6-27	_	of	_	_	_	_
+6-28	_	Southern	_	_	_	_
+6-29	_	Indiana	_	_	_	_
 
 #Text=Why has n't anyone else thought to do that ? "
 7-1	_	Why	_	_	_	_

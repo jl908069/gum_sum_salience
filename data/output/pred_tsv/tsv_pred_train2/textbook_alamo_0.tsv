@@ -1268,20 +1268,34 @@
 52-31	_	complex	abstract[143]	new[143]	_	_
 52-32	_	.	_	_	_	_
 
-#Text=There was no showdown , and the Republican Senators ' vote was largely blown .
-53-1	_	There	_	_	_	_
-53-2	_	was	_	_	_	_
-53-3	_	no	_	_	_	_
-53-4	_	showdown	_	_	_	_
+#Text=During a live debate , White House Republican operative Paul Wellstone says that he can imagine how a US government lobbied for the President that day against terrorism .
+53-1	_	During	_	_	_	_
+53-2	_	a	_	_	_	_
+53-3	_	live	_	_	_	_
+53-4	_	debate	_	_	_	_
 53-5	_	,	_	_	_	_
-53-6	_	and	_	_	_	_
-53-7	_	the	_	_	_	_
-53-8	_	Republican	_	_	_	_
-53-9	_	Senators	_	_	_	_
-53-10	_	'	_	_	_	_
-53-11	_	vote	_	_	_	_
-53-12	_	was	_	_	_	_
-53-13	_	largely	_	_	_	_
-53-14	_	blown	_	_	_	_
-53-15	_	.	_	_	_	_
+53-6	_	White	abstract[146]	new[146]	coref	53-14[146_147]
+53-7	_	House	abstract[146]	new[146]	_	_
+53-8	_	Republican	abstract[146]	new[146]	_	_
+53-9	_	operative	abstract[146]	new[146]	_	_
+53-10	_	Paul	abstract[146]	new[146]	_	_
+53-11	_	Wellstone	abstract[146]	new[146]	_	_
+53-12	_	says	_	_	_	_
+53-13	_	that	_	_	_	_
+53-14	_	he	abstract[147]	new[147]	_	_
+53-15	_	can	_	_	_	_
+53-16	_	imagine	_	_	_	_
+53-17	_	how	_	_	_	_
+53-18	_	a	_	_	_	_
+53-19	_	US	_	_	_	_
+53-20	_	government	_	_	_	_
+53-21	_	lobbied	_	_	_	_
+53-22	_	for	_	_	_	_
+53-23	_	the	_	_	_	_
+53-24	_	President	_	_	_	_
+53-25	_	that	_	_	_	_
+53-26	_	day	_	_	_	_
+53-27	_	against	_	_	_	_
+53-28	_	terrorism	_	_	_	_
+53-29	_	.	_	_	_	_
 

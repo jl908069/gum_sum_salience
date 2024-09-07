@@ -122,7 +122,7 @@
 5-11	_	out	_	_	_	_
 5-12	_	.	_	_	_	_
 
-#Text=It turned out the " Greek court rules those worshippers of ancient Greek deities may now join in .
+#Text=It turned out the " Greek court rules that worshipers of the ancient Greek religion may now formally associate and worship at archeological sites .
 6-1	_	It	_	_	_	_
 6-2	_	turned	_	_	_	_
 6-3	_	out	_	_	_	_
@@ -131,17 +131,23 @@
 6-6	_	Greek	_	_	_	_
 6-7	_	court	_	_	_	_
 6-8	_	rules	_	_	_	_
-6-9	_	those	_	_	_	_
-6-10	_	worshippers	_	_	_	_
+6-9	_	that	_	_	_	_
+6-10	_	worshipers	_	_	_	_
 6-11	_	of	_	_	_	_
-6-12	_	ancient	_	_	_	_
-6-13	_	Greek	_	_	_	_
-6-14	_	deities	_	_	_	_
-6-15	_	may	_	_	_	_
-6-16	_	now	_	_	_	_
-6-17	_	join	_	_	_	_
-6-18	_	in	_	_	_	_
-6-19	_	.	_	_	_	_
+6-12	_	the	_	_	_	_
+6-13	_	ancient	_	_	_	_
+6-14	_	Greek	_	_	_	_
+6-15	_	religion	_	_	_	_
+6-16	_	may	_	_	_	_
+6-17	_	now	_	_	_	_
+6-18	_	formally	_	_	_	_
+6-19	_	associate	_	_	_	_
+6-20	_	and	_	_	_	_
+6-21	_	worship	_	_	_	_
+6-22	_	at	_	_	_	_
+6-23	_	archeological	_	_	_	_
+6-24	_	sites	_	_	_	_
+6-25	_	.	_	_	_	_
 
 #Text=important data " was her Candy Crush progress , but she did n't let me know this until I arrived .
 7-1	_	important	_	_	_	_
@@ -1150,22 +1156,22 @@
 51-26	_	'	_	_	_	_
 51-27	_	.	_	_	_	_
 
-#Text=Bobby Flay proves a revelation for the Cooking Channel : he 's a master chefs champion .
-52-1	_	Bobby	abstract[137]	new[137]	coref	52-11[137_138]
+#Text=Bobby Flay and Iron Chef versus Bobby Flay : An analysis of these two culinary chefs .
+52-1	_	Bobby	abstract[137]	new[137]	coref	52-7[137_138]
 52-2	_	Flay	abstract[137]	new[137]	_	_
-52-3	_	proves	_	_	_	_
-52-4	_	a	_	_	_	_
-52-5	_	revelation	_	_	_	_
-52-6	_	for	_	_	_	_
-52-7	_	the	_	_	_	_
-52-8	_	Cooking	_	_	_	_
-52-9	_	Channel	_	_	_	_
-52-10	_	:	_	_	_	_
-52-11	_	he	abstract[138]	new[138]	_	_
-52-12	_	's	_	_	_	_
-52-13	_	a	_	_	_	_
-52-14	_	master	_	_	_	_
-52-15	_	chefs	_	_	_	_
-52-16	_	champion	_	_	_	_
+52-3	_	and	_	_	_	_
+52-4	_	Iron	_	_	_	_
+52-5	_	Chef	_	_	_	_
+52-6	_	versus	_	_	_	_
+52-7	_	Bobby	abstract[138]	new[138]	_	_
+52-8	_	Flay	abstract[138]	new[138]	_	_
+52-9	_	:	_	_	_	_
+52-10	_	An	_	_	_	_
+52-11	_	analysis	_	_	_	_
+52-12	_	of	_	_	_	_
+52-13	_	these	_	_	_	_
+52-14	_	two	_	_	_	_
+52-15	_	culinary	_	_	_	_
+52-16	_	chefs	_	_	_	_
 52-17	_	.	_	_	_	_
 

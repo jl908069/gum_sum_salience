@@ -22,9 +22,9 @@
 2-7	_	to	_	_	_	_
 2-8	_	live	_	_	_	_
 2-9	_	in	_	_	_	_
-2-10	_	your	abstract[3]|abstract[45]	new[3]|new[45]	coref|coref	2-15[3_4]|23-15[45_46]
-2-11	_	new	abstract[45]	new[45]	_	_
-2-12	_	house	abstract[45]	new[45]	_	_
+2-10	_	your	abstract[3]|abstract[42]	new[3]|new[42]	coref|coref	2-15[3_4]|23-15[42_43]
+2-11	_	new	abstract[42]	new[42]	_	_
+2-12	_	house	abstract[42]	new[42]	_	_
 2-13	_	,	_	_	_	_
 2-14	_	curb	_	_	_	_
 2-15	_	your	abstract[4]	new[4]	coref	2-24[4_5]
@@ -75,15 +75,15 @@
 5-3	_	a	_	_	_	_
 5-4	_	list	_	_	_	_
 5-5	_	of	_	_	_	_
-5-6	_	everything	abstract[35]	new[35]	coref	5-14[35_36]
-5-7	_	you	abstract[6]|abstract[35]	new[6]|new[35]	coref	10-4[6_7]
-5-8	_	are	abstract[35]	new[35]	_	_
-5-9	_	packing	abstract[35]	new[35]	_	_
+5-6	_	everything	abstract[32]	new[32]	coref	5-14[32_33]
+5-7	_	you	abstract[6]|abstract[32]	new[6]|new[32]	coref	10-4[6_7]
+5-8	_	are	abstract[32]	new[32]	_	_
+5-9	_	packing	abstract[32]	new[32]	_	_
 5-10	_	,	_	_	_	_
 5-11	_	in	_	_	_	_
 5-12	_	particular	_	_	_	_
 5-13	_	if	_	_	_	_
-5-14	_	it	abstract[36]	new[36]	_	_
+5-14	_	it	abstract[33]	new[33]	_	_
 5-15	_	's	_	_	_	_
 5-16	_	valuable	_	_	_	_
 5-17	_	.	_	_	_	_
@@ -148,15 +148,15 @@
 
 #Text=Tape the bottom of the box securely so that it does n't give way .
 11-1	_	Tape	_	_	_	_
-11-2	_	the	abstract[37]	new[37]	coref	11-10[37_38]
-11-3	_	bottom	abstract[37]	new[37]	_	_
-11-4	_	of	abstract[37]	new[37]	_	_
-11-5	_	the	abstract[37]	new[37]	_	_
-11-6	_	box	abstract[37]	new[37]	_	_
+11-2	_	the	abstract[34]	new[34]	coref	11-10[34_35]
+11-3	_	bottom	abstract[34]	new[34]	_	_
+11-4	_	of	abstract[34]	new[34]	_	_
+11-5	_	the	abstract[34]	new[34]	_	_
+11-6	_	box	abstract[34]	new[34]	_	_
 11-7	_	securely	_	_	_	_
 11-8	_	so	_	_	_	_
 11-9	_	that	_	_	_	_
-11-10	_	it	abstract[38]	new[38]	_	_
+11-10	_	it	abstract[35]	new[35]	_	_
 11-11	_	does	_	_	_	_
 11-12	_	n't	_	_	_	_
 11-13	_	give	_	_	_	_
@@ -166,10 +166,10 @@
 #Text=Never fill a box until it is so heavy that you ca n't lift it safely .
 12-1	_	Never	_	_	_	_
 12-2	_	fill	_	_	_	_
-12-3	_	a	abstract[39]	new[39]	coref	12-6[39_40]
-12-4	_	box	abstract[39]	new[39]	_	_
+12-3	_	a	abstract[36]	new[36]	coref	12-6[36_37]
+12-4	_	box	abstract[36]	new[36]	_	_
 12-5	_	until	_	_	_	_
-12-6	_	it	abstract[40]	new[40]	coref	12-15[40_41]
+12-6	_	it	abstract[37]	new[37]	coref	12-15[37_38]
 12-7	_	is	_	_	_	_
 12-8	_	so	_	_	_	_
 12-9	_	heavy	_	_	_	_
@@ -178,7 +178,7 @@
 12-12	_	ca	_	_	_	_
 12-13	_	n't	_	_	_	_
 12-14	_	lift	_	_	_	_
-12-15	_	it	abstract[41]	new[41]	_	_
+12-15	_	it	abstract[38]	new[38]	_	_
 12-16	_	safely	_	_	_	_
 12-17	_	.	_	_	_	_
 
@@ -278,13 +278,13 @@
 
 #Text=Label each box clearly and which room it belongs to .
 21-1	_	Label	_	_	_	_
-21-2	_	each	abstract[42]	new[42]	coref	21-8[42_43]
-21-3	_	box	abstract[42]	new[42]	_	_
+21-2	_	each	abstract[39]	new[39]	coref	21-8[39_40]
+21-3	_	box	abstract[39]	new[39]	_	_
 21-4	_	clearly	_	_	_	_
 21-5	_	and	_	_	_	_
 21-6	_	which	_	_	_	_
 21-7	_	room	_	_	_	_
-21-8	_	it	abstract[43]	new[43]	coref	22-6[43_44]
+21-8	_	it	abstract[40]	new[40]	coref	22-6[40_41]
 21-9	_	belongs	_	_	_	_
 21-10	_	to	_	_	_	_
 21-11	_	.	_	_	_	_
@@ -295,8 +295,8 @@
 22-3	_	the	_	_	_	_
 22-4	_	sides	_	_	_	_
 22-5	_	of	_	_	_	_
-22-6	_	the	abstract[44]	new[44]	_	_
-22-7	_	box	abstract[44]	new[44]	_	_
+22-6	_	the	abstract[41]	new[41]	_	_
+22-7	_	box	abstract[41]	new[41]	_	_
 22-8	_	as	_	_	_	_
 22-9	_	well	_	_	_	_
 22-10	_	.	_	_	_	_
@@ -316,9 +316,9 @@
 23-12	_	first	_	_	_	_
 23-13	_	night	_	_	_	_
 23-14	_	at	_	_	_	_
-23-15	_	your	abstract[10]|abstract[46]	new[10]|new[46]	coref	24-20[10_11]
-23-16	_	new	abstract[46]	new[46]	_	_
-23-17	_	house	abstract[46]	new[46]	_	_
+23-15	_	your	abstract[10]|abstract[43]	new[10]|new[43]	coref	24-20[10_11]
+23-16	_	new	abstract[43]	new[43]	_	_
+23-17	_	house	abstract[43]	new[43]	_	_
 23-18	_	.	_	_	_	_
 
 #Text=Include items like toiletries , toilet paper , bottled water , snacks and a change of clothes in case you can not unpack everything in time .
@@ -359,10 +359,10 @@
 26-3	_	label	_	_	_	_
 26-4	_	boxes	_	_	_	_
 26-5	_	with	_	_	_	_
-26-6	_	contents	abstract[47]	new[47]	coref	26-8[47_48]
+26-6	_	contents	abstract[44]	new[44]	coref	26-8[44_45]
 26-7	_	if	_	_	_	_
-26-8	_	the	abstract[48]	new[48]	coref	27-16[48_49]
-26-9	_	contents	abstract[48]	new[48]	_	_
+26-8	_	the	abstract[45]	new[45]	coref	27-16[45_46]
+26-9	_	contents	abstract[45]	new[45]	_	_
 26-10	_	are	_	_	_	_
 26-11	_	valuable	_	_	_	_
 26-12	_	.	_	_	_	_
@@ -383,7 +383,7 @@
 27-13	_	something	_	_	_	_
 27-14	_	that	_	_	_	_
 27-15	_	makes	_	_	_	_
-27-16	_	it	abstract[49]	new[49]	coref	27-27[49_50]
+27-16	_	it	abstract[46]	new[46]	coref	27-27[46_47]
 27-17	_	sound	_	_	_	_
 27-18	_	less	_	_	_	_
 27-19	_	theft	_	_	_	_
@@ -394,8 +394,8 @@
 27-24	_	fragile	_	_	_	_
 27-25	_	nature	_	_	_	_
 27-26	_	of	_	_	_	_
-27-27	_	the	abstract[50]	new[50]	_	_
-27-28	_	contents	abstract[50]	new[50]	_	_
+27-27	_	the	abstract[47]	new[47]	_	_
+27-28	_	contents	abstract[47]	new[47]	_	_
 27-29	_	.	_	_	_	_
 
 #Text=Example : " Mom 's old dishes " instead of " Fine China "
@@ -415,7 +415,7 @@
 28-14	_	"	_	_	_	_
 
 #Text=Tape is cheap .
-29-1	_	Tape	abstract[51]	new[51]	coref	30-4[51_52]
+29-1	_	Tape	abstract[48]	new[48]	coref	30-4[48_49]
 29-2	_	is	_	_	_	_
 29-3	_	cheap	_	_	_	_
 29-4	_	.	_	_	_	_
@@ -424,7 +424,7 @@
 30-1	_	Use	_	_	_	_
 30-2	_	lots	_	_	_	_
 30-3	_	of	_	_	_	_
-30-4	_	it	abstract[52]	new[52]	_	_
+30-4	_	it	abstract[49]	new[49]	_	_
 30-5	_	.	_	_	_	_
 
 #Text=Close box bottoms well .
@@ -452,10 +452,10 @@
 32-15	_	came	_	_	_	_
 32-16	_	out	_	_	_	_
 32-17	_	of	_	_	_	_
-32-18	_	something	abstract[53]	new[53]	coref	32-21[53_54]
+32-18	_	something	abstract[50]	new[50]	coref	32-21[50_51]
 32-19	_	back	_	_	_	_
 32-20	_	against	_	_	_	_
-32-21	_	it	abstract[54]	new[54]	_	_
+32-21	_	it	abstract[51]	new[51]	_	_
 32-22	_	.	_	_	_	_
 
 #Text=You 'll want to find the right screw reassemble something without having to pick it out of 100 others when you get there .
@@ -464,16 +464,16 @@
 33-3	_	want	_	_	_	_
 33-4	_	to	_	_	_	_
 33-5	_	find	_	_	_	_
-33-6	_	the	abstract[55]	new[55]	coref	33-15[55_56]
-33-7	_	right	abstract[55]	new[55]	_	_
-33-8	_	screw	abstract[55]	new[55]	_	_
+33-6	_	the	abstract[52]	new[52]	coref	33-15[52_53]
+33-7	_	right	abstract[52]	new[52]	_	_
+33-8	_	screw	abstract[52]	new[52]	_	_
 33-9	_	reassemble	_	_	_	_
 33-10	_	something	_	_	_	_
 33-11	_	without	_	_	_	_
 33-12	_	having	_	_	_	_
 33-13	_	to	_	_	_	_
 33-14	_	pick	_	_	_	_
-33-15	_	it	abstract[56]	new[56]	_	_
+33-15	_	it	abstract[53]	new[53]	_	_
 33-16	_	out	_	_	_	_
 33-17	_	of	_	_	_	_
 33-18	_	100	_	_	_	_
@@ -481,15 +481,15 @@
 33-20	_	when	_	_	_	_
 33-21	_	you	abstract[14]	new[14]	coref	34-12[14_15]
 33-22	_	get	_	_	_	_
-33-23	_	there	abstract[71]	new[71]	coref	46-13[71_72]
+33-23	_	there	abstract[68]	new[68]	coref	46-13[68_69]
 33-24	_	.	_	_	_	_
 
 #Text=Do n't pack one box full of books or paperwork - you might not be able to carry it at all .
 34-1	_	Do	_	_	_	_
 34-2	_	n't	_	_	_	_
 34-3	_	pack	_	_	_	_
-34-4	_	one	abstract[57]	new[57]	coref	34-19[57_58]
-34-5	_	box	abstract[57]	new[57]	_	_
+34-4	_	one	abstract[54]	new[54]	coref	34-19[54_55]
+34-5	_	box	abstract[54]	new[54]	_	_
 34-6	_	full	_	_	_	_
 34-7	_	of	_	_	_	_
 34-8	_	books	_	_	_	_
@@ -503,21 +503,21 @@
 34-16	_	able	_	_	_	_
 34-17	_	to	_	_	_	_
 34-18	_	carry	_	_	_	_
-34-19	_	it	abstract[58]	new[58]	coref	35-2[58_59]
+34-19	_	it	abstract[55]	new[55]	coref	35-2[55_56]
 34-20	_	at	_	_	_	_
 34-21	_	all	_	_	_	_
 34-22	_	.	_	_	_	_
 
 #Text=Fill it halfway with books , and fill it up with lighter stuff .
 35-1	_	Fill	_	_	_	_
-35-2	_	it	abstract[59]	new[59]	coref	35-9[59_60]
+35-2	_	it	abstract[56]	new[56]	coref	35-9[56_57]
 35-3	_	halfway	_	_	_	_
 35-4	_	with	_	_	_	_
 35-5	_	books	_	_	_	_
 35-6	_	,	_	_	_	_
 35-7	_	and	_	_	_	_
 35-8	_	fill	_	_	_	_
-35-9	_	it	abstract[60]	new[60]	_	_
+35-9	_	it	abstract[57]	new[57]	_	_
 35-10	_	up	_	_	_	_
 35-11	_	with	_	_	_	_
 35-12	_	lighter	_	_	_	_
@@ -534,16 +534,16 @@
 36-7	_	let	_	_	_	_
 36-8	_	you	abstract[16]	new[16]	coref	37-1[16_17]
 36-9	_	walk	_	_	_	_
-36-10	_	the	abstract[61]	new[61]	coref	36-19[61_62]
-36-11	_	store	abstract[61]	new[61]	_	_
+36-10	_	the	abstract[58]	new[58]	coref	36-19[58_59]
+36-11	_	store	abstract[58]	new[58]	_	_
 36-12	_	for	_	_	_	_
 36-13	_	boxes	_	_	_	_
 36-14	_	when	_	_	_	_
-36-15	_	they	abstract[64]	new[64]	coref	40-1[64_65]
+36-15	_	they	abstract[61]	new[61]	coref	40-1[61_62]
 36-16	_	are	_	_	_	_
 36-17	_	stocking	_	_	_	_
-36-18	_	the	abstract[62]	new[62]	coref	39-7[62_63]
-36-19	_	stores	abstract[62]	new[62]	_	_
+36-18	_	the	abstract[59]	new[59]	coref	39-7[59_60]
+36-19	_	stores	abstract[59]	new[59]	_	_
 36-20	_	between	_	_	_	_
 36-21	_	11	_	_	_	_
 36-22	_	pm	_	_	_	_
@@ -580,20 +580,20 @@
 #Text=Just take a cart and roam the store .
 39-1	_	Just	_	_	_	_
 39-2	_	take	_	_	_	_
-39-3	_	a	abstract[67]	new[67]	coref	40-4[67_68]
-39-4	_	cart	abstract[67]	new[67]	_	_
+39-3	_	a	abstract[64]	new[64]	coref	40-4[64_65]
+39-4	_	cart	abstract[64]	new[64]	_	_
 39-5	_	and	_	_	_	_
 39-6	_	roam	_	_	_	_
-39-7	_	the	abstract[63]	new[63]	_	_
-39-8	_	store	abstract[63]	new[63]	_	_
+39-7	_	the	abstract[60]	new[60]	_	_
+39-8	_	store	abstract[60]	new[60]	_	_
 39-9	_	.	_	_	_	_
 
 #Text=They do check the cart as you leave so do n't try to sneak anything past them .
-40-1	_	They	abstract[65]	new[65]	coref	40-17[65_66]
+40-1	_	They	abstract[62]	new[62]	coref	40-17[62_63]
 40-2	_	do	_	_	_	_
 40-3	_	check	_	_	_	_
-40-4	_	the	abstract[68]	new[68]	_	_
-40-5	_	cart	abstract[68]	new[68]	_	_
+40-4	_	the	abstract[65]	new[65]	_	_
+40-5	_	cart	abstract[65]	new[65]	_	_
 40-6	_	as	_	_	_	_
 40-7	_	you	abstract[18]	new[18]	coref	42-2[18_19]
 40-8	_	leave	_	_	_	_
@@ -605,7 +605,7 @@
 40-14	_	sneak	_	_	_	_
 40-15	_	anything	_	_	_	_
 40-16	_	past	_	_	_	_
-40-17	_	them	abstract[66]	new[66]	_	_
+40-17	_	them	abstract[63]	new[63]	_	_
 40-18	_	.	_	_	_	_
 
 #Text=U-haul and other nation companies offer box buy back services .
@@ -640,8 +640,8 @@
 42-16	_	.	_	_	_	_
 
 #Text=These boxes are also quite sturdy so you can re-use them or stash in your attic until you move again .
-43-1	_	These	abstract[69]	new[69]	coref	43-11[69_70]
-43-2	_	boxes	abstract[69]	new[69]	_	_
+43-1	_	These	abstract[66]	new[66]	coref	43-11[66_67]
+43-2	_	boxes	abstract[66]	new[66]	_	_
 43-3	_	are	_	_	_	_
 43-4	_	also	_	_	_	_
 43-5	_	quite	_	_	_	_
@@ -650,7 +650,7 @@
 43-8	_	you	abstract[21]	new[21]	coref	43-15[21_22]
 43-9	_	can	_	_	_	_
 43-10	_	re-use	_	_	_	_
-43-11	_	them	abstract[70]	new[70]	_	_
+43-11	_	them	abstract[67]	new[67]	_	_
 43-12	_	or	_	_	_	_
 43-13	_	stash	_	_	_	_
 43-14	_	in	_	_	_	_
@@ -700,24 +700,24 @@
 46-2	_	away	_	_	_	_
 46-3	_	or	_	_	_	_
 46-4	_	donate	_	_	_	_
-46-5	_	junk	abstract[74]	new[74]	coref	47-4[74_75]
-46-6	_	you	abstract[25]|abstract[74]	new[25]|new[74]	coref	46-13[25_26]
-46-7	_	do	abstract[74]	new[74]	_	_
-46-8	_	n't	abstract[74]	new[74]	_	_
-46-9	_	want	abstract[74]	new[74]	_	_
-46-10	_	to	abstract[74]	new[74]	_	_
-46-11	_	take	abstract[74]	new[74]	_	_
-46-12	_	to	abstract[74]	new[74]	_	_
-46-13	_	your	abstract[26]|abstract[72]|abstract[74]	new[26]|new[72]|new[74]	coref|coref	48-9[26_27]|48-6[72_73]
-46-14	_	new	abstract[72]|abstract[74]	new[72]|new[74]	_	_
-46-15	_	place	abstract[72]|abstract[74]	new[72]|new[74]	_	_
+46-5	_	junk	abstract[71]	new[71]	coref	47-4[71_72]
+46-6	_	you	abstract[25]|abstract[71]	new[25]|new[71]	coref	46-13[25_26]
+46-7	_	do	abstract[71]	new[71]	_	_
+46-8	_	n't	abstract[71]	new[71]	_	_
+46-9	_	want	abstract[71]	new[71]	_	_
+46-10	_	to	abstract[71]	new[71]	_	_
+46-11	_	take	abstract[71]	new[71]	_	_
+46-12	_	to	abstract[71]	new[71]	_	_
+46-13	_	your	abstract[26]|abstract[69]|abstract[71]	new[26]|new[69]|new[71]	coref|coref	48-9[26_27]|48-6[69_70]
+46-14	_	new	abstract[69]|abstract[71]	new[69]|new[71]	_	_
+46-15	_	place	abstract[69]|abstract[71]	new[69]|new[71]	_	_
 46-16	_	.	_	_	_	_
 
 #Text=Do n't pack it again ! ! !
 47-1	_	Do	_	_	_	_
 47-2	_	n't	_	_	_	_
 47-3	_	pack	_	_	_	_
-47-4	_	it	abstract[75]	new[75]	_	_
+47-4	_	it	abstract[72]	new[72]	_	_
 47-5	_	again	_	_	_	_
 47-6	_	!	_	_	_	_
 47-7	_	!	_	_	_	_
@@ -729,16 +729,16 @@
 48-3	_	an	_	_	_	_
 48-4	_	area	_	_	_	_
 48-5	_	of	_	_	_	_
-48-6	_	the	abstract[73]	new[73]	_	_
-48-7	_	house	abstract[73]	new[73]	_	_
-48-8	_	where	abstract[73]	new[73]	_	_
-48-9	_	you	abstract[27]|abstract[73]	new[27]|new[73]	coref	50-1[27_28]
-48-10	_	can	abstract[73]	new[73]	_	_
-48-11	_	put	abstract[73]	new[73]	_	_
-48-12	_	all	abstract[73]	new[73]	_	_
-48-13	_	the	abstract[73]	new[73]	_	_
-48-14	_	packed	abstract[73]	new[73]	_	_
-48-15	_	boxes	abstract[73]	new[73]	_	_
+48-6	_	the	abstract[70]	new[70]	_	_
+48-7	_	house	abstract[70]	new[70]	_	_
+48-8	_	where	abstract[70]	new[70]	_	_
+48-9	_	you	abstract[27]|abstract[70]	new[27]|new[70]	coref	50-1[27_28]
+48-10	_	can	abstract[70]	new[70]	_	_
+48-11	_	put	abstract[70]	new[70]	_	_
+48-12	_	all	abstract[70]	new[70]	_	_
+48-13	_	the	abstract[70]	new[70]	_	_
+48-14	_	packed	abstract[70]	new[70]	_	_
+48-15	_	boxes	abstract[70]	new[70]	_	_
 48-16	_	.	_	_	_	_
 
 #Text=Use a room that is n't used every day such as the formal dining or living room .
@@ -802,7 +802,7 @@
 52-2	_	Photos	_	_	_	_
 52-3	_	-	_	_	_	_
 52-4	_	use	_	_	_	_
-52-5	_	your	abstract[31]	new[31]	coref	53-8[31_32]
+52-5	_	your	abstract[31]	new[31]	_	_
 52-6	_	camera	_	_	_	_
 52-7	_	to	_	_	_	_
 52-8	_	document	_	_	_	_
@@ -812,31 +812,71 @@
 52-12	_	boxes	_	_	_	_
 52-13	_	.	_	_	_	_
 
-#Text=Add some basic words . Think about your grammar . Improve your language . Create your language and talk to friends . Use visual representations .
-53-1	_	Add	_	_	_	_
-53-2	_	some	_	_	_	_
-53-3	_	basic	_	_	_	_
-53-4	_	words	_	_	_	_
-53-5	_	.	_	_	_	_
-53-6	_	Think	_	_	_	_
-53-7	_	about	_	_	_	_
-53-8	_	your	abstract[32]	new[32]	coref	53-12[32_33]
-53-9	_	grammar	_	_	_	_
-53-10	_	.	_	_	_	_
-53-11	_	Improve	_	_	_	_
-53-12	_	your	abstract[33]|abstract[76]	new[33]|new[76]	coref|coref	53-16[33_34]|53-16[76_77]
-53-13	_	language	abstract[76]	new[76]	_	_
-53-14	_	.	_	_	_	_
-53-15	_	Create	_	_	_	_
-53-16	_	your	abstract[34]|abstract[77]	new[34]|new[77]	_	_
-53-17	_	language	abstract[77]	new[77]	_	_
-53-18	_	and	_	_	_	_
-53-19	_	talk	_	_	_	_
-53-20	_	to	_	_	_	_
-53-21	_	friends	_	_	_	_
-53-22	_	.	_	_	_	_
-53-23	_	Use	_	_	_	_
-53-24	_	visual	_	_	_	_
-53-25	_	representations	_	_	_	_
-53-26	_	.	_	_	_	_
+#Text=This moving guide recommends packing each room , labeling and photographing what is in each box , filling sturdy boxes to the brim to allow for stacking , balancing heavy and light items so boxes can be lifted , marking fragile boxes and using bubble wrap or newspapers , getting free boxes from superstores ( Walmart ) and selling back boxes to U - haul .
+53-1	_	This	_	_	_	_
+53-2	_	moving	_	_	_	_
+53-3	_	guide	_	_	_	_
+53-4	_	recommends	_	_	_	_
+53-5	_	packing	_	_	_	_
+53-6	_	each	_	_	_	_
+53-7	_	room	_	_	_	_
+53-8	_	,	_	_	_	_
+53-9	_	labeling	_	_	_	_
+53-10	_	and	_	_	_	_
+53-11	_	photographing	_	_	_	_
+53-12	_	what	_	_	_	_
+53-13	_	is	_	_	_	_
+53-14	_	in	_	_	_	_
+53-15	_	each	_	_	_	_
+53-16	_	box	_	_	_	_
+53-17	_	,	_	_	_	_
+53-18	_	filling	_	_	_	_
+53-19	_	sturdy	_	_	_	_
+53-20	_	boxes	_	_	_	_
+53-21	_	to	_	_	_	_
+53-22	_	the	_	_	_	_
+53-23	_	brim	_	_	_	_
+53-24	_	to	_	_	_	_
+53-25	_	allow	_	_	_	_
+53-26	_	for	_	_	_	_
+53-27	_	stacking	_	_	_	_
+53-28	_	,	_	_	_	_
+53-29	_	balancing	_	_	_	_
+53-30	_	heavy	_	_	_	_
+53-31	_	and	_	_	_	_
+53-32	_	light	_	_	_	_
+53-33	_	items	_	_	_	_
+53-34	_	so	_	_	_	_
+53-35	_	boxes	_	_	_	_
+53-36	_	can	_	_	_	_
+53-37	_	be	_	_	_	_
+53-38	_	lifted	_	_	_	_
+53-39	_	,	_	_	_	_
+53-40	_	marking	_	_	_	_
+53-41	_	fragile	_	_	_	_
+53-42	_	boxes	_	_	_	_
+53-43	_	and	_	_	_	_
+53-44	_	using	_	_	_	_
+53-45	_	bubble	_	_	_	_
+53-46	_	wrap	_	_	_	_
+53-47	_	or	_	_	_	_
+53-48	_	newspapers	_	_	_	_
+53-49	_	,	_	_	_	_
+53-50	_	getting	_	_	_	_
+53-51	_	free	_	_	_	_
+53-52	_	boxes	_	_	_	_
+53-53	_	from	_	_	_	_
+53-54	_	superstores	_	_	_	_
+53-55	_	(	_	_	_	_
+53-56	_	Walmart	_	_	_	_
+53-57	_	)	_	_	_	_
+53-58	_	and	_	_	_	_
+53-59	_	selling	_	_	_	_
+53-60	_	back	_	_	_	_
+53-61	_	boxes	_	_	_	_
+53-62	_	to	_	_	_	_
+53-63	_	U	_	_	_	_
+53-64	_	-	_	_	_	_
+53-65	_	haul	_	_	_	_
+53-66	_	.	_	_	_	_
 

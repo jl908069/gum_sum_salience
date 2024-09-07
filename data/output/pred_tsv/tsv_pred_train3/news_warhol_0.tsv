@@ -45,16 +45,16 @@
 3-21	_	Polaroids	_	_	_	_
 3-22	_	donated	_	_	_	_
 3-23	_	to	_	_	_	_
-3-24	_	USI	abstract[45]	new[45]	coref	5-20[45_46]
+3-24	_	USI	abstract[46]	new[46]	coref	5-20[46_47]
 3-25	_	by	_	_	_	_
-3-26	_	the	abstract[100]	new[100]	coref	17-1[100_101]
-3-27	_	Andy	abstract[3]|abstract[100]	new[3]|new[100]	coref	4-3[3_4]
-3-28	_	Warhol	abstract[3]|abstract[100]	new[3]|new[100]	_	_
-3-29	_	Foundation	abstract[100]	new[100]	_	_
-3-30	_	for	abstract[100]	new[100]	_	_
-3-31	_	the	abstract[100]|abstract[106]	new[100]|new[106]	coref	17-6[106_107]
-3-32	_	Visual	abstract[100]|abstract[106]	new[100]|new[106]	_	_
-3-33	_	Arts	abstract[100]|abstract[106]	new[100]|new[106]	_	_
+3-26	_	the	abstract[102]	new[102]	coref	17-1[102_103]
+3-27	_	Andy	abstract[3]|abstract[102]	new[3]|new[102]	coref	4-3[3_4]
+3-28	_	Warhol	abstract[3]|abstract[102]	new[3]|new[102]	_	_
+3-29	_	Foundation	abstract[102]	new[102]	_	_
+3-30	_	for	abstract[102]	new[102]	_	_
+3-31	_	the	abstract[102]|abstract[108]	new[102]|new[108]	coref	17-6[108_109]
+3-32	_	Visual	abstract[102]|abstract[108]	new[102]|new[108]	_	_
+3-33	_	Arts	abstract[102]|abstract[108]	new[102]|new[108]	_	_
 3-34	_	.	_	_	_	_
 
 #Text=Image : Andy Warhol .
@@ -65,30 +65,30 @@
 4-5	_	.	_	_	_	_
 
 #Text=Opening night , January 23 , 2014 , of the Andy Warhol exhibit of Polaroids and screen prints at the University of Southern Indiana .
-5-1	_	Opening	abstract[71]	new[71]	coref	10-4[71_72]
-5-2	_	night	abstract[71]	new[71]	_	_
-5-3	_	,	abstract[71]	new[71]	_	_
-5-4	_	January	abstract[71]	new[71]	_	_
-5-5	_	23	abstract[71]	new[71]	_	_
-5-6	_	,	abstract[71]	new[71]	_	_
-5-7	_	2014	abstract[71]	new[71]	_	_
-5-8	_	,	abstract[71]	new[71]	_	_
-5-9	_	of	abstract[71]	new[71]	_	_
-5-10	_	the	abstract[71]	new[71]	_	_
-5-11	_	Andy	abstract[5]|abstract[71]	new[5]|new[71]	coref	8-10[5_6]
-5-12	_	Warhol	abstract[5]|abstract[71]	new[5]|new[71]	_	_
-5-13	_	exhibit	abstract[71]	new[71]	_	_
-5-14	_	of	abstract[71]	new[71]	_	_
-5-15	_	Polaroids	abstract[71]	new[71]	_	_
-5-16	_	and	abstract[71]	new[71]	_	_
-5-17	_	screen	abstract[71]	new[71]	_	_
-5-18	_	prints	abstract[71]	new[71]	_	_
-5-19	_	at	abstract[71]	new[71]	_	_
-5-20	_	the	abstract[46]|abstract[71]	new[46]|new[71]	coref	8-14[46_47]
-5-21	_	University	abstract[46]|abstract[71]	new[46]|new[71]	_	_
-5-22	_	of	abstract[46]|abstract[71]	new[46]|new[71]	_	_
-5-23	_	Southern	abstract[46]|abstract[54]|abstract[71]	new[46]|new[54]|new[71]	coref	8-17[54_55]
-5-24	_	Indiana	abstract[46]|abstract[54]|abstract[71]	new[46]|new[54]|new[71]	_	_
+5-1	_	Opening	abstract[72]	new[72]	coref	10-4[72_73]
+5-2	_	night	abstract[72]	new[72]	_	_
+5-3	_	,	abstract[72]	new[72]	_	_
+5-4	_	January	abstract[72]	new[72]	_	_
+5-5	_	23	abstract[72]	new[72]	_	_
+5-6	_	,	abstract[72]	new[72]	_	_
+5-7	_	2014	abstract[72]	new[72]	_	_
+5-8	_	,	abstract[72]	new[72]	_	_
+5-9	_	of	abstract[72]	new[72]	_	_
+5-10	_	the	abstract[72]	new[72]	_	_
+5-11	_	Andy	abstract[5]|abstract[72]	new[5]|new[72]	coref	8-10[5_6]
+5-12	_	Warhol	abstract[5]|abstract[72]	new[5]|new[72]	_	_
+5-13	_	exhibit	abstract[72]	new[72]	_	_
+5-14	_	of	abstract[72]	new[72]	_	_
+5-15	_	Polaroids	abstract[72]	new[72]	_	_
+5-16	_	and	abstract[72]	new[72]	_	_
+5-17	_	screen	abstract[72]	new[72]	_	_
+5-18	_	prints	abstract[72]	new[72]	_	_
+5-19	_	at	abstract[72]	new[72]	_	_
+5-20	_	the	abstract[47]|abstract[72]	new[47]|new[72]	coref	8-14[47_48]
+5-21	_	University	abstract[47]|abstract[72]	new[47]|new[72]	_	_
+5-22	_	of	abstract[47]|abstract[72]	new[47]|new[72]	_	_
+5-23	_	Southern	abstract[47]|abstract[55]|abstract[72]	new[47]|new[55]|new[72]	coref	8-17[55_56]
+5-24	_	Indiana	abstract[47]|abstract[55]|abstract[72]	new[47]|new[55]|new[72]	_	_
 5-25	_	.	_	_	_	_
 
 #Text=Video : Miharris & Acphillips .
@@ -100,12 +100,12 @@
 6-6	_	.	_	_	_	_
 
 #Text=Evansville , Indiana , United States -
-7-1	_	Evansville	abstract[81]	new[81]	coref	12-9[81_82]
-7-2	_	,	abstract[81]	new[81]	_	_
-7-3	_	Indiana	abstract[81]|abstract[84]	new[81]|new[84]	coref	12-11[84_85]
-7-4	_	,	abstract[81]|abstract[84]	new[81]|new[84]	_	_
-7-5	_	United	abstract[58]|abstract[81]|abstract[84]	new[58]|new[81]|new[84]	coref	9-14[58_59]
-7-6	_	States	abstract[58]|abstract[81]|abstract[84]	new[58]|new[81]|new[84]	_	_
+7-1	_	Evansville	abstract[82]	new[82]	coref	12-9[82_83]
+7-2	_	,	abstract[82]	new[82]	_	_
+7-3	_	Indiana	abstract[82]|abstract[85]	new[82]|new[85]	coref	12-11[85_86]
+7-4	_	,	abstract[82]|abstract[85]	new[82]|new[85]	_	_
+7-5	_	United	abstract[59]|abstract[82]|abstract[85]	new[59]|new[82]|new[85]	coref	9-14[59_60]
+7-6	_	States	abstract[59]|abstract[82]|abstract[85]	new[59]|new[82]|new[85]	_	_
 7-7	_	-	_	_	_	_
 
 #Text=This past week marked the opening night of an Andy Warhol exhibit at the University of Southern Indiana .
@@ -122,16 +122,16 @@
 8-11	_	Warhol	abstract[6]	new[6]	_	_
 8-12	_	exhibit	_	_	_	_
 8-13	_	at	_	_	_	_
-8-14	_	the	abstract[47]	new[47]	coref	9-1[47_48]
-8-15	_	University	abstract[47]	new[47]	_	_
-8-16	_	of	abstract[47]	new[47]	_	_
-8-17	_	Southern	abstract[47]|abstract[55]	new[47]|new[55]	coref	13-15[55_56]
-8-18	_	Indiana	abstract[47]|abstract[55]	new[47]|new[55]	_	_
+8-14	_	the	abstract[48]	new[48]	coref	9-1[48_49]
+8-15	_	University	abstract[48]	new[48]	_	_
+8-16	_	of	abstract[48]	new[48]	_	_
+8-17	_	Southern	abstract[48]|abstract[56]	new[48]|new[56]	coref	13-15[56_57]
+8-18	_	Indiana	abstract[48]|abstract[56]	new[48]|new[56]	_	_
 8-19	_	.	_	_	_	_
 
 #Text=USI 's art gallery , like 189 other educational galleries and museums around the country , is a recipient of a major Warhol donor program , and this program is cultivating new interest in Warhol 's photographic legacy .
-9-1	_	USI	abstract[48]	new[48]	coref	11-2[48_49]
-9-2	_	's	abstract[48]	new[48]	_	_
+9-1	_	USI	abstract[49]	new[49]	coref	11-2[49_50]
+9-2	_	's	abstract[49]	new[49]	_	_
 9-3	_	art	_	_	_	_
 9-4	_	gallery	_	_	_	_
 9-5	_	,	_	_	_	_
@@ -143,22 +143,22 @@
 9-11	_	and	_	_	_	_
 9-12	_	museums	_	_	_	_
 9-13	_	around	_	_	_	_
-9-14	_	the	abstract[59]	new[59]	coref	19-15[59_60]
-9-15	_	country	abstract[59]	new[59]	_	_
+9-14	_	the	abstract[60]	new[60]	coref	19-15[60_61]
+9-15	_	country	abstract[60]	new[60]	_	_
 9-16	_	,	_	_	_	_
 9-17	_	is	_	_	_	_
-9-18	_	a	abstract[74]	new[74]	coref	11-1[74_75]
-9-19	_	recipient	abstract[74]	new[74]	_	_
-9-20	_	of	abstract[74]	new[74]	_	_
-9-21	_	a	abstract[63]|abstract[74]	new[63]|new[74]	coref	9-28[63_64]
-9-22	_	major	abstract[63]|abstract[74]	new[63]|new[74]	_	_
-9-23	_	Warhol	abstract[7]|abstract[63]|abstract[74]	new[7]|new[63]|new[74]	coref	9-35[7_8]
-9-24	_	donor	abstract[63]|abstract[74]	new[63]|new[74]	_	_
-9-25	_	program	abstract[63]|abstract[74]	new[63]|new[74]	_	_
+9-18	_	a	abstract[75]	new[75]	coref	11-1[75_76]
+9-19	_	recipient	abstract[75]	new[75]	_	_
+9-20	_	of	abstract[75]	new[75]	_	_
+9-21	_	a	abstract[64]|abstract[75]	new[64]|new[75]	coref	9-28[64_65]
+9-22	_	major	abstract[64]|abstract[75]	new[64]|new[75]	_	_
+9-23	_	Warhol	abstract[7]|abstract[64]|abstract[75]	new[7]|new[64]|new[75]	coref	9-35[7_8]
+9-24	_	donor	abstract[64]|abstract[75]	new[64]|new[75]	_	_
+9-25	_	program	abstract[64]|abstract[75]	new[64]|new[75]	_	_
 9-26	_	,	_	_	_	_
 9-27	_	and	_	_	_	_
-9-28	_	this	abstract[64]	new[64]	coref	16-7[64_65]
-9-29	_	program	abstract[64]	new[64]	_	_
+9-28	_	this	abstract[65]	new[65]	coref	16-7[65_66]
+9-29	_	program	abstract[65]	new[65]	_	_
 9-30	_	is	_	_	_	_
 9-31	_	cultivating	_	_	_	_
 9-32	_	new	_	_	_	_
@@ -171,11 +171,11 @@
 9-39	_	.	_	_	_	_
 
 #Text=Wikinews reporters attended the opening and spoke to donors , exhibit organizers and patrons .
-10-1	_	Wikinews	abstract[114]	new[114]	coref	25-1[114_115]
+10-1	_	Wikinews	abstract[116]	new[116]	coref	25-1[116_117]
 10-2	_	reporters	_	_	_	_
 10-3	_	attended	_	_	_	_
-10-4	_	the	abstract[72]	new[72]	coref	11-6[72_73]
-10-5	_	opening	abstract[72]	new[72]	_	_
+10-4	_	the	abstract[73]	new[73]	coref	11-6[73_74]
+10-5	_	opening	abstract[73]	new[73]	_	_
 10-6	_	and	_	_	_	_
 10-7	_	spoke	_	_	_	_
 10-8	_	to	_	_	_	_
@@ -188,16 +188,16 @@
 10-15	_	.	_	_	_	_
 
 #Text=The USI art gallery celebrated the Thursday opening with its display of Warhol 's Polaroids , gelatin silver prints and several colored screen prints .
-11-1	_	The	abstract[75]	new[75]	coref	11-10[75_76]
-11-2	_	USI	abstract[49]|abstract[75]	new[49]|new[75]	coref	12-1[49_50]
-11-3	_	art	abstract[75]	new[75]	_	_
-11-4	_	gallery	abstract[75]	new[75]	_	_
+11-1	_	The	abstract[76]	new[76]	coref	11-10[76_77]
+11-2	_	USI	abstract[50]|abstract[76]	new[50]|new[76]	coref	12-1[50_51]
+11-3	_	art	abstract[76]	new[76]	_	_
+11-4	_	gallery	abstract[76]	new[76]	_	_
 11-5	_	celebrated	_	_	_	_
-11-6	_	the	abstract[73]	new[73]	_	_
-11-7	_	Thursday	abstract[73]	new[73]	_	_
-11-8	_	opening	abstract[73]	new[73]	_	_
+11-6	_	the	abstract[74]	new[74]	_	_
+11-7	_	Thursday	abstract[74]	new[74]	_	_
+11-8	_	opening	abstract[74]	new[74]	_	_
 11-9	_	with	_	_	_	_
-11-10	_	its	abstract[76]	new[76]	coref	15-1[76_77]
+11-10	_	its	abstract[77]	new[77]	coref	15-1[77_78]
 11-11	_	display	_	_	_	_
 11-12	_	of	_	_	_	_
 11-13	_	Warhol	abstract[9]	new[9]	coref	16-8[9_10]
@@ -215,17 +215,17 @@
 11-25	_	.	_	_	_	_
 
 #Text=USI 's exhibit , which is located in Evansville , Indiana , is to run from January 23 through March 9 .
-12-1	_	USI	abstract[50]|abstract[86]	new[50]|new[86]	coref|coref	13-12[50_51]|13-9[86_87]
-12-2	_	's	abstract[50]|abstract[86]	new[50]|new[86]	_	_
-12-3	_	exhibit	abstract[86]	new[86]	_	_
-12-4	_	,	abstract[86]	new[86]	_	_
-12-5	_	which	abstract[86]	new[86]	_	_
-12-6	_	is	abstract[86]	new[86]	_	_
-12-7	_	located	abstract[86]	new[86]	_	_
-12-8	_	in	abstract[86]	new[86]	_	_
-12-9	_	Evansville	abstract[82]|abstract[86]	new[82]|new[86]	coref	43-19[82_83]
-12-10	_	,	abstract[82]|abstract[86]	new[82]|new[86]	_	_
-12-11	_	Indiana	abstract[82]|abstract[85]|abstract[86]	new[82]|new[85]|new[86]	_	_
+12-1	_	USI	abstract[51]|abstract[87]	new[51]|new[87]	coref|coref	13-12[51_52]|13-9[87_88]
+12-2	_	's	abstract[51]|abstract[87]	new[51]|new[87]	_	_
+12-3	_	exhibit	abstract[87]	new[87]	_	_
+12-4	_	,	abstract[87]	new[87]	_	_
+12-5	_	which	abstract[87]	new[87]	_	_
+12-6	_	is	abstract[87]	new[87]	_	_
+12-7	_	located	abstract[87]	new[87]	_	_
+12-8	_	in	abstract[87]	new[87]	_	_
+12-9	_	Evansville	abstract[83]|abstract[87]	new[83]|new[87]	coref	43-19[83_84]
+12-10	_	,	abstract[83]|abstract[87]	new[83]|new[87]	_	_
+12-11	_	Indiana	abstract[83]|abstract[86]|abstract[87]	new[83]|new[86]|new[87]	_	_
 12-12	_	,	_	_	_	_
 12-13	_	is	_	_	_	_
 12-14	_	to	_	_	_	_
@@ -242,19 +242,19 @@
 13-1	_	Full	_	_	_	_
 13-2	_	interview	_	_	_	_
 13-3	_	with	_	_	_	_
-13-4	_	Kristin	abstract[95]	new[95]	coref	16-16[95_96]
-13-5	_	Wilkins	abstract[95]	new[95]	_	_
-13-6	_	,	abstract[95]	new[95]	_	_
-13-7	_	curator	abstract[95]	new[95]	_	_
-13-8	_	of	abstract[95]	new[95]	_	_
-13-9	_	the	abstract[87]|abstract[95]	new[87]|new[95]	coref	15-11[87_88]
-13-10	_	exhibition	abstract[87]|abstract[95]	new[87]|new[95]	_	_
-13-11	_	at	abstract[87]|abstract[95]	new[87]|new[95]	_	_
-13-12	_	the	abstract[51]|abstract[87]|abstract[95]	new[51]|new[87]|new[95]	coref	15-9[51_52]
-13-13	_	University	abstract[51]|abstract[87]|abstract[95]	new[51]|new[87]|new[95]	_	_
-13-14	_	of	abstract[51]|abstract[87]|abstract[95]	new[51]|new[87]|new[95]	_	_
-13-15	_	Southern	abstract[51]|abstract[56]|abstract[87]|abstract[95]	new[51]|new[56]|new[87]|new[95]	coref	23-16[56_57]
-13-16	_	Indiana	abstract[51]|abstract[56]|abstract[87]|abstract[95]	new[51]|new[56]|new[87]|new[95]	_	_
+13-4	_	Kristin	abstract[96]	new[96]	coref	16-16[96_97]
+13-5	_	Wilkins	abstract[96]	new[96]	_	_
+13-6	_	,	abstract[96]	new[96]	_	_
+13-7	_	curator	abstract[96]	new[96]	_	_
+13-8	_	of	abstract[96]	new[96]	_	_
+13-9	_	the	abstract[88]|abstract[96]	new[88]|new[96]	coref	15-11[88_89]
+13-10	_	exhibition	abstract[88]|abstract[96]	new[88]|new[96]	_	_
+13-11	_	at	abstract[88]|abstract[96]	new[88]|new[96]	_	_
+13-12	_	the	abstract[52]|abstract[88]|abstract[96]	new[52]|new[88]|new[96]	coref	15-9[52_53]
+13-13	_	University	abstract[52]|abstract[88]|abstract[96]	new[52]|new[88]|new[96]	_	_
+13-14	_	of	abstract[52]|abstract[88]|abstract[96]	new[52]|new[88]|new[96]	_	_
+13-15	_	Southern	abstract[52]|abstract[57]|abstract[88]|abstract[96]	new[52]|new[57]|new[88]|new[96]	coref	23-17[57_58]
+13-16	_	Indiana	abstract[52]|abstract[57]|abstract[88]|abstract[96]	new[52]|new[57]|new[88]|new[96]	_	_
 13-17	_	.	_	_	_	_
 
 #Text=Audio : Jkthom .
@@ -264,72 +264,72 @@
 14-4	_	.	_	_	_	_
 
 #Text=The McCutchan Art Center / Pace Galleries at USI bases its exhibit around roughly 100 Polaroids selected from its collection .
-15-1	_	The	abstract[77]	new[77]	coref	15-11[77_78]
-15-2	_	McCutchan	abstract[77]	new[77]	_	_
-15-3	_	Art	abstract[77]	new[77]	_	_
-15-4	_	Center	abstract[77]	new[77]	_	_
-15-5	_	/	abstract[77]	new[77]	_	_
-15-6	_	Pace	abstract[77]	new[77]	_	_
-15-7	_	Galleries	abstract[77]	new[77]	_	_
-15-8	_	at	abstract[77]	new[77]	_	_
-15-9	_	USI	abstract[52]|abstract[77]	new[52]|new[77]	coref	17-13[52_53]
+15-1	_	The	abstract[78]	new[78]	coref	15-11[78_79]
+15-2	_	McCutchan	abstract[78]	new[78]	_	_
+15-3	_	Art	abstract[78]	new[78]	_	_
+15-4	_	Center	abstract[78]	new[78]	_	_
+15-5	_	/	abstract[78]	new[78]	_	_
+15-6	_	Pace	abstract[78]	new[78]	_	_
+15-7	_	Galleries	abstract[78]	new[78]	_	_
+15-8	_	at	abstract[78]	new[78]	_	_
+15-9	_	USI	abstract[53]|abstract[78]	new[53]|new[78]	coref	17-13[53_54]
 15-10	_	bases	_	_	_	_
-15-11	_	its	abstract[78]|abstract[88]	new[78]|new[88]	coref|coref	15-19[78_79]|16-26[88_89]
-15-12	_	exhibit	abstract[88]	new[88]	_	_
+15-11	_	its	abstract[79]|abstract[89]	new[79]|new[89]	coref|coref	15-19[79_80]|16-26[89_90]
+15-12	_	exhibit	abstract[89]	new[89]	_	_
 15-13	_	around	_	_	_	_
-15-14	_	roughly	abstract[93]	new[93]	coref	16-1[93_94]
-15-15	_	100	abstract[93]	new[93]	_	_
-15-16	_	Polaroids	abstract[93]	new[93]	_	_
-15-17	_	selected	abstract[93]	new[93]	_	_
-15-18	_	from	abstract[93]	new[93]	_	_
-15-19	_	its	abstract[79]|abstract[93]	new[79]|new[93]	coref	18-6[79_80]
-15-20	_	collection	abstract[93]	new[93]	_	_
+15-14	_	roughly	abstract[94]	new[94]	coref	16-1[94_95]
+15-15	_	100	abstract[94]	new[94]	_	_
+15-16	_	Polaroids	abstract[94]	new[94]	_	_
+15-17	_	selected	abstract[94]	new[94]	_	_
+15-18	_	from	abstract[94]	new[94]	_	_
+15-19	_	its	abstract[80]|abstract[94]	new[80]|new[94]	coref	18-6[80_81]
+15-20	_	collection	abstract[94]	new[94]	_	_
 15-21	_	.	_	_	_	_
 
 #Text=The Polaroids were all donated by the Andy Warhol Photographic Legacy Program , according to Kristen Wilkins , assistant professor of photography and curator of the exhibit .
-16-1	_	The	abstract[94]	new[94]	_	_
-16-2	_	Polaroids	abstract[94]	new[94]	_	_
+16-1	_	The	abstract[95]	new[95]	_	_
+16-2	_	Polaroids	abstract[95]	new[95]	_	_
 16-3	_	were	_	_	_	_
 16-4	_	all	_	_	_	_
 16-5	_	donated	_	_	_	_
 16-6	_	by	_	_	_	_
-16-7	_	the	abstract[65]	new[65]	coref	19-3[65_66]
-16-8	_	Andy	abstract[10]|abstract[65]	new[10]|new[65]	coref	17-2[10_11]
-16-9	_	Warhol	abstract[10]|abstract[65]	new[10]|new[65]	_	_
-16-10	_	Photographic	abstract[65]	new[65]	_	_
-16-11	_	Legacy	abstract[65]	new[65]	_	_
-16-12	_	Program	abstract[65]	new[65]	_	_
+16-7	_	the	abstract[66]	new[66]	coref	19-3[66_67]
+16-8	_	Andy	abstract[10]|abstract[66]	new[10]|new[66]	coref	17-2[10_11]
+16-9	_	Warhol	abstract[10]|abstract[66]	new[10]|new[66]	_	_
+16-10	_	Photographic	abstract[66]	new[66]	_	_
+16-11	_	Legacy	abstract[66]	new[66]	_	_
+16-12	_	Program	abstract[66]	new[66]	_	_
 16-13	_	,	_	_	_	_
 16-14	_	according	_	_	_	_
 16-15	_	to	_	_	_	_
-16-16	_	Kristen	abstract[96]	new[96]	coref	26-1[96_97]
-16-17	_	Wilkins	abstract[96]	new[96]	_	_
-16-18	_	,	abstract[96]	new[96]	_	_
-16-19	_	assistant	abstract[96]	new[96]	_	_
-16-20	_	professor	abstract[96]	new[96]	_	_
-16-21	_	of	abstract[96]	new[96]	_	_
-16-22	_	photography	abstract[96]|abstract[108]	new[96]|new[108]	coref	20-31[108_109]
-16-23	_	and	abstract[96]	new[96]	_	_
-16-24	_	curator	abstract[96]	new[96]	_	_
-16-25	_	of	abstract[96]	new[96]	_	_
-16-26	_	the	abstract[89]|abstract[96]	new[89]|new[96]	coref	30-5[89_90]
-16-27	_	exhibit	abstract[89]|abstract[96]	new[89]|new[96]	_	_
+16-16	_	Kristen	abstract[97]	new[97]	coref	22-1[97_98]
+16-17	_	Wilkins	abstract[97]	new[97]	_	_
+16-18	_	,	abstract[97]	new[97]	_	_
+16-19	_	assistant	abstract[97]	new[97]	_	_
+16-20	_	professor	abstract[97]	new[97]	_	_
+16-21	_	of	abstract[97]	new[97]	_	_
+16-22	_	photography	abstract[97]|abstract[110]	new[97]|new[110]	coref	20-31[110_111]
+16-23	_	and	abstract[97]	new[97]	_	_
+16-24	_	curator	abstract[97]	new[97]	_	_
+16-25	_	of	abstract[97]	new[97]	_	_
+16-26	_	the	abstract[90]|abstract[97]	new[90]|new[97]	coref	30-5[90_91]
+16-27	_	exhibit	abstract[90]|abstract[97]	new[90]|new[97]	_	_
 16-28	_	.	_	_	_	_
 
 #Text=The Andy Warhol Foundation for the Visual Arts made two donations to USI Art Collections , in 2007 and a second recently .
-17-1	_	The	abstract[101]	new[101]	coref	18-15[101_102]
-17-2	_	Andy	abstract[11]|abstract[101]	new[11]|new[101]	coref	19-4[11_12]
-17-3	_	Warhol	abstract[11]|abstract[101]	new[11]|new[101]	_	_
-17-4	_	Foundation	abstract[101]	new[101]	_	_
-17-5	_	for	abstract[101]	new[101]	_	_
-17-6	_	the	abstract[101]|abstract[107]	new[101]|new[107]	_	_
-17-7	_	Visual	abstract[101]|abstract[107]	new[101]|new[107]	_	_
-17-8	_	Arts	abstract[101]|abstract[107]	new[101]|new[107]	_	_
+17-1	_	The	abstract[103]	new[103]	coref	18-15[103_104]
+17-2	_	Andy	abstract[11]|abstract[103]	new[11]|new[103]	coref	19-4[11_12]
+17-3	_	Warhol	abstract[11]|abstract[103]	new[11]|new[103]	_	_
+17-4	_	Foundation	abstract[103]	new[103]	_	_
+17-5	_	for	abstract[103]	new[103]	_	_
+17-6	_	the	abstract[103]|abstract[109]	new[103]|new[109]	_	_
+17-7	_	Visual	abstract[103]|abstract[109]	new[103]|new[109]	_	_
+17-8	_	Arts	abstract[103]|abstract[109]	new[103]|new[109]	_	_
 17-9	_	made	_	_	_	_
 17-10	_	two	_	_	_	_
 17-11	_	donations	_	_	_	_
 17-12	_	to	_	_	_	_
-17-13	_	USI	abstract[53]	new[53]	_	_
+17-13	_	USI	abstract[54]	new[54]	_	_
 17-14	_	Art	_	_	_	_
 17-15	_	Collections	_	_	_	_
 17-16	_	,	_	_	_	_
@@ -342,13 +342,13 @@
 17-23	_	.	_	_	_	_
 
 #Text=Kathryn Waters , director of the gallery , expressed interest in further donations from the foundation in the future .
-18-1	_	Kathryn	abstract[147]	new[147]	coref	49-16[147_148]
-18-2	_	Waters	abstract[147]	new[147]	_	_
-18-3	_	,	abstract[147]	new[147]	_	_
-18-4	_	director	abstract[147]	new[147]	_	_
-18-5	_	of	abstract[147]	new[147]	_	_
-18-6	_	the	abstract[80]|abstract[147]	new[80]|new[147]	_	_
-18-7	_	gallery	abstract[80]|abstract[147]	new[80]|new[147]	_	_
+18-1	_	Kathryn	abstract[149]	new[149]	coref	49-16[149_150]
+18-2	_	Waters	abstract[149]	new[149]	_	_
+18-3	_	,	abstract[149]	new[149]	_	_
+18-4	_	director	abstract[149]	new[149]	_	_
+18-5	_	of	abstract[149]	new[149]	_	_
+18-6	_	the	abstract[81]|abstract[149]	new[81]|new[149]	_	_
+18-7	_	gallery	abstract[81]|abstract[149]	new[81]|new[149]	_	_
 18-8	_	,	_	_	_	_
 18-9	_	expressed	_	_	_	_
 18-10	_	interest	_	_	_	_
@@ -356,8 +356,8 @@
 18-12	_	further	_	_	_	_
 18-13	_	donations	_	_	_	_
 18-14	_	from	_	_	_	_
-18-15	_	the	abstract[102]	new[102]	coref	26-17[102_103]
-18-16	_	foundation	abstract[102]	new[102]	_	_
+18-15	_	the	abstract[104]	new[104]	coref	26-17[104_105]
+18-16	_	foundation	abstract[104]	new[104]	_	_
 18-17	_	in	_	_	_	_
 18-18	_	the	_	_	_	_
 18-19	_	future	_	_	_	_
@@ -366,21 +366,21 @@
 #Text=Since 2007 the Andy Warhol Photographic Legacy Program has seeded university art galleries throughout the United States with over 28,000 Andy Warhol photographs and other artifacts .
 19-1	_	Since	_	_	_	_
 19-2	_	2007	_	_	_	_
-19-3	_	the	abstract[66]	new[66]	coref	20-1[66_67]
-19-4	_	Andy	abstract[12]|abstract[66]	new[12]|new[66]	coref	19-21[12_13]
-19-5	_	Warhol	abstract[12]|abstract[66]	new[12]|new[66]	_	_
-19-6	_	Photographic	abstract[66]	new[66]	_	_
-19-7	_	Legacy	abstract[66]	new[66]	_	_
-19-8	_	Program	abstract[66]	new[66]	_	_
+19-3	_	the	abstract[67]	new[67]	coref	20-1[67_68]
+19-4	_	Andy	abstract[12]|abstract[67]	new[12]|new[67]	coref	19-21[12_13]
+19-5	_	Warhol	abstract[12]|abstract[67]	new[12]|new[67]	_	_
+19-6	_	Photographic	abstract[67]	new[67]	_	_
+19-7	_	Legacy	abstract[67]	new[67]	_	_
+19-8	_	Program	abstract[67]	new[67]	_	_
 19-9	_	has	_	_	_	_
 19-10	_	seeded	_	_	_	_
 19-11	_	university	_	_	_	_
 19-12	_	art	_	_	_	_
 19-13	_	galleries	_	_	_	_
 19-14	_	throughout	_	_	_	_
-19-15	_	the	abstract[60]	new[60]	coref	38-4[60_61]
-19-16	_	United	abstract[60]	new[60]	_	_
-19-17	_	States	abstract[60]	new[60]	_	_
+19-15	_	the	abstract[61]	new[61]	coref	38-4[61_62]
+19-16	_	United	abstract[61]	new[61]	_	_
+19-17	_	States	abstract[61]	new[61]	_	_
 19-18	_	with	_	_	_	_
 19-19	_	over	_	_	_	_
 19-20	_	28,000	_	_	_	_
@@ -393,8 +393,8 @@
 19-27	_	.	_	_	_	_
 
 #Text=The program takes a decentralized approach to Warhol 's photography collection and encourages university art galleries to regularly disseminate and educate audiences about Warhol 's artistic vision , especially in the area of photography .
-20-1	_	The	abstract[67]	new[67]	coref	26-9[67_68]
-20-2	_	program	abstract[67]	new[67]	_	_
+20-1	_	The	abstract[68]	new[68]	coref	26-9[68_69]
+20-2	_	program	abstract[68]	new[68]	_	_
 20-3	_	takes	_	_	_	_
 20-4	_	a	_	_	_	_
 20-5	_	decentralized	_	_	_	_
@@ -416,65 +416,74 @@
 20-21	_	educate	_	_	_	_
 20-22	_	audiences	_	_	_	_
 20-23	_	about	_	_	_	_
-20-24	_	Warhol	abstract[15]	new[15]	coref	26-18[15_16]
+20-24	_	Warhol	abstract[15]	new[15]	coref	23-2[15_16]
 20-25	_	's	abstract[15]	new[15]	_	_
 20-26	_	artistic	_	_	_	_
 20-27	_	vision	_	_	_	_
 20-28	_	,	_	_	_	_
 20-29	_	especially	_	_	_	_
 20-30	_	in	_	_	_	_
-20-31	_	the	abstract[109]	new[109]	_	_
-20-32	_	area	abstract[109]	new[109]	_	_
-20-33	_	of	abstract[109]	new[109]	_	_
-20-34	_	photography	abstract[109]	new[109]	_	_
+20-31	_	the	abstract[111]	new[111]	_	_
+20-32	_	area	abstract[111]	new[111]	_	_
+20-33	_	of	abstract[111]	new[111]	_	_
+20-34	_	photography	abstract[111]	new[111]	_	_
 20-35	_	.	_	_	_	_
 
 #Text=University exhibits
 21-1	_	University	_	_	_	_
 21-2	_	exhibits	_	_	_	_
 
-#Text=Kristen Wilkins , curator of " A stampede at Mecca marks the end of a six - year pilgrimage to the holy
-22-1	_	Kristen	_	_	_	_
-22-2	_	Wilkins	_	_	_	_
-22-3	_	,	_	_	_	_
-22-4	_	curator	_	_	_	_
-22-5	_	of	_	_	_	_
-22-6	_	"	_	_	_	_
-22-7	_	A	_	_	_	_
-22-8	_	stampede	_	_	_	_
-22-9	_	at	_	_	_	_
-22-10	_	Mecca	_	_	_	_
-22-11	_	marks	_	_	_	_
-22-12	_	the	_	_	_	_
-22-13	_	end	_	_	_	_
+#Text=Kristen Wilkins , curator of " Saudis have laid down tens of thousands of pounds of iodine in a military encampment near the Mecca holy site near the town of Mecca
+22-1	_	Kristen	abstract[98]	new[98]	coref	26-1[98_99]
+22-2	_	Wilkins	abstract[98]	new[98]	_	_
+22-3	_	,	abstract[98]	new[98]	_	_
+22-4	_	curator	abstract[98]	new[98]	_	_
+22-5	_	of	abstract[98]	new[98]	_	_
+22-6	_	"	abstract[98]	new[98]	_	_
+22-7	_	Saudis	_	_	_	_
+22-8	_	have	_	_	_	_
+22-9	_	laid	_	_	_	_
+22-10	_	down	_	_	_	_
+22-11	_	tens	_	_	_	_
+22-12	_	of	_	_	_	_
+22-13	_	thousands	_	_	_	_
 22-14	_	of	_	_	_	_
-22-15	_	a	_	_	_	_
-22-16	_	six	_	_	_	_
-22-17	_	-	_	_	_	_
-22-18	_	year	_	_	_	_
-22-19	_	pilgrimage	_	_	_	_
-22-20	_	to	_	_	_	_
-22-21	_	the	_	_	_	_
-22-22	_	holy	_	_	_	_
+22-15	_	pounds	_	_	_	_
+22-16	_	of	_	_	_	_
+22-17	_	iodine	_	_	_	_
+22-18	_	in	_	_	_	_
+22-19	_	a	_	_	_	_
+22-20	_	military	_	_	_	_
+22-21	_	encampment	_	_	_	_
+22-22	_	near	_	_	_	_
+22-23	_	the	_	_	_	_
+22-24	_	Mecca	_	_	_	_
+22-25	_	holy	_	_	_	_
+22-26	_	site	_	_	_	_
+22-27	_	near	_	_	_	_
+22-28	_	the	_	_	_	_
+22-29	_	town	_	_	_	_
+22-30	_	of	_	_	_	_
+22-31	_	Mecca	_	_	_	_
 
 #Text=Andy Warhol : Photographs and Prints from the University Collection " at the University of Southern Indiana , January 23 - March 9 2014 .
-23-1	_	Andy	_	_	_	_
-23-2	_	Warhol	_	_	_	_
+23-1	_	Andy	abstract[16]	new[16]	coref	26-18[16_17]
+23-2	_	Warhol	abstract[16]	new[16]	_	_
 23-3	_	:	_	_	_	_
 23-4	_	Photographs	_	_	_	_
 23-5	_	and	_	_	_	_
 23-6	_	Prints	_	_	_	_
 23-7	_	from	_	_	_	_
 23-8	_	the	_	_	_	_
-23-9	_	University	abstract[110]	new[110]	coref	23-13[110_111]
+23-9	_	University	abstract[112]	new[112]	coref	23-14[112_113]
 23-10	_	Collection	_	_	_	_
 23-11	_	"	_	_	_	_
 23-12	_	at	_	_	_	_
-23-13	_	the	abstract[111]	new[111]	coref	27-1[111_112]
-23-14	_	University	abstract[111]	new[111]	_	_
-23-15	_	of	abstract[111]	new[111]	_	_
-23-16	_	Southern	abstract[57]|abstract[111]	new[57]|new[111]	_	_
-23-17	_	Indiana	abstract[57]|abstract[111]	new[57]|new[111]	_	_
+23-13	_	the	abstract[113]	new[113]	coref	27-1[113_114]
+23-14	_	University	abstract[113]	new[113]	_	_
+23-15	_	of	abstract[113]	new[113]	_	_
+23-16	_	Southern	abstract[58]|abstract[113]	new[58]|new[113]	_	_
+23-17	_	Indiana	abstract[58]|abstract[113]	new[58]|new[113]	_	_
 23-18	_	,	_	_	_	_
 23-19	_	January	_	_	_	_
 23-20	_	23	_	_	_	_
@@ -491,7 +500,7 @@
 24-4	_	.	_	_	_	_
 
 #Text=Wikinews provides additional video , audio and photographs so our readers may learn more .
-25-1	_	Wikinews	abstract[115]	new[115]	coref	43-1[115_116]
+25-1	_	Wikinews	abstract[117]	new[117]	coref	43-1[117_118]
 25-2	_	provides	_	_	_	_
 25-3	_	additional	_	_	_	_
 25-4	_	video	_	_	_	_
@@ -508,7 +517,7 @@
 25-15	_	.	_	_	_	_
 
 #Text=Wilkins observed that the 2007 starting date of the donation program , which is part of the Andy Warhol Foundation for the Visual Arts , coincided with the 20th anniversary of Andy Warhol 's death in 1987 .
-26-1	_	Wilkins	abstract[97]	new[97]	coref	40-1[97_98]
+26-1	_	Wilkins	abstract[99]	new[99]	coref	40-1[99_100]
 26-2	_	observed	_	_	_	_
 26-3	_	that	_	_	_	_
 26-4	_	the	_	_	_	_
@@ -516,22 +525,22 @@
 26-6	_	starting	_	_	_	_
 26-7	_	date	_	_	_	_
 26-8	_	of	_	_	_	_
-26-9	_	the	abstract[68]	new[68]	coref	34-39[68_69]
-26-10	_	donation	abstract[68]	new[68]	_	_
-26-11	_	program	abstract[68]	new[68]	_	_
-26-12	_	,	abstract[68]	new[68]	_	_
-26-13	_	which	abstract[68]	new[68]	_	_
-26-14	_	is	abstract[68]	new[68]	_	_
-26-15	_	part	abstract[68]	new[68]	_	_
-26-16	_	of	abstract[68]	new[68]	_	_
-26-17	_	the	abstract[68]|abstract[103]	new[68]|new[103]	coref	28-10[103_104]
-26-18	_	Andy	abstract[16]|abstract[68]|abstract[103]	new[16]|new[68]|new[103]	coref	26-32[16_17]
-26-19	_	Warhol	abstract[16]|abstract[68]|abstract[103]	new[16]|new[68]|new[103]	_	_
-26-20	_	Foundation	abstract[68]|abstract[103]	new[68]|new[103]	_	_
-26-21	_	for	abstract[68]|abstract[103]	new[68]|new[103]	_	_
-26-22	_	the	abstract[68]|abstract[103]	new[68]|new[103]	_	_
-26-23	_	Visual	abstract[68]|abstract[103]	new[68]|new[103]	_	_
-26-24	_	Arts	abstract[68]|abstract[103]	new[68]|new[103]	_	_
+26-9	_	the	abstract[69]	new[69]	coref	34-39[69_70]
+26-10	_	donation	abstract[69]	new[69]	_	_
+26-11	_	program	abstract[69]	new[69]	_	_
+26-12	_	,	abstract[69]	new[69]	_	_
+26-13	_	which	abstract[69]	new[69]	_	_
+26-14	_	is	abstract[69]	new[69]	_	_
+26-15	_	part	abstract[69]	new[69]	_	_
+26-16	_	of	abstract[69]	new[69]	_	_
+26-17	_	the	abstract[69]|abstract[105]	new[69]|new[105]	coref	28-10[105_106]
+26-18	_	Andy	abstract[17]|abstract[69]|abstract[105]	new[17]|new[69]|new[105]	coref	26-32[17_18]
+26-19	_	Warhol	abstract[17]|abstract[69]|abstract[105]	new[17]|new[69]|new[105]	_	_
+26-20	_	Foundation	abstract[69]|abstract[105]	new[69]|new[105]	_	_
+26-21	_	for	abstract[69]|abstract[105]	new[69]|new[105]	_	_
+26-22	_	the	abstract[69]|abstract[105]	new[69]|new[105]	_	_
+26-23	_	Visual	abstract[69]|abstract[105]	new[69]|new[105]	_	_
+26-24	_	Arts	abstract[69]|abstract[105]	new[69]|new[105]	_	_
 26-25	_	,	_	_	_	_
 26-26	_	coincided	_	_	_	_
 26-27	_	with	_	_	_	_
@@ -539,16 +548,16 @@
 26-29	_	20th	_	_	_	_
 26-30	_	anniversary	_	_	_	_
 26-31	_	of	_	_	_	_
-26-32	_	Andy	abstract[17]	new[17]	coref	28-11[17_18]
-26-33	_	Warhol	abstract[17]	new[17]	_	_
-26-34	_	's	abstract[17]	new[17]	_	_
+26-32	_	Andy	abstract[18]	new[18]	coref	28-11[18_19]
+26-33	_	Warhol	abstract[18]	new[18]	_	_
+26-34	_	's	abstract[18]	new[18]	_	_
 26-35	_	death	_	_	_	_
 26-36	_	in	_	_	_	_
 26-37	_	1987	_	_	_	_
 26-38	_	.	_	_	_	_
 
 #Text=USI was not alone in receiving a donation .
-27-1	_	USI	abstract[112]	new[112]	coref	30-2[112_113]
+27-1	_	USI	abstract[114]	new[114]	coref	30-2[114_115]
 27-2	_	was	_	_	_	_
 27-3	_	not	_	_	_	_
 27-4	_	alone	_	_	_	_
@@ -559,19 +568,19 @@
 27-9	_	.	_	_	_	_
 
 #Text=K.C. Maurer , chief financial officer and treasurer at the Andy Warhol Foundation , said 500 institutions received the initial invitation and currently 190 universities have accepted one or more donations .
-28-1	_	K.C.	abstract[118]	new[118]	coref	29-5[118_119]
-28-2	_	Maurer	abstract[118]	new[118]	_	_
-28-3	_	,	abstract[118]	new[118]	_	_
-28-4	_	chief	abstract[118]	new[118]	_	_
-28-5	_	financial	abstract[118]	new[118]	_	_
-28-6	_	officer	abstract[118]	new[118]	_	_
-28-7	_	and	abstract[118]	new[118]	_	_
-28-8	_	treasurer	abstract[118]	new[118]	_	_
-28-9	_	at	abstract[118]	new[118]	_	_
-28-10	_	the	abstract[104]|abstract[118]	new[104]|new[118]	coref	31-6[104_105]
-28-11	_	Andy	abstract[18]|abstract[104]|abstract[118]	new[18]|new[104]|new[118]	coref	29-13[18_19]
-28-12	_	Warhol	abstract[18]|abstract[104]|abstract[118]	new[18]|new[104]|new[118]	_	_
-28-13	_	Foundation	abstract[104]|abstract[118]	new[104]|new[118]	_	_
+28-1	_	K.C.	abstract[120]	new[120]	coref	29-5[120_121]
+28-2	_	Maurer	abstract[120]	new[120]	_	_
+28-3	_	,	abstract[120]	new[120]	_	_
+28-4	_	chief	abstract[120]	new[120]	_	_
+28-5	_	financial	abstract[120]	new[120]	_	_
+28-6	_	officer	abstract[120]	new[120]	_	_
+28-7	_	and	abstract[120]	new[120]	_	_
+28-8	_	treasurer	abstract[120]	new[120]	_	_
+28-9	_	at	abstract[120]	new[120]	_	_
+28-10	_	the	abstract[106]|abstract[120]	new[106]|new[120]	coref	31-6[106_107]
+28-11	_	Andy	abstract[19]|abstract[106]|abstract[120]	new[19]|new[106]|new[120]	coref	29-13[19_20]
+28-12	_	Warhol	abstract[19]|abstract[106]|abstract[120]	new[19]|new[106]|new[120]	_	_
+28-13	_	Foundation	abstract[106]|abstract[120]	new[106]|new[120]	_	_
 28-14	_	,	_	_	_	_
 28-15	_	said	_	_	_	_
 28-16	_	500	_	_	_	_
@@ -593,19 +602,19 @@
 28-32	_	.	_	_	_	_
 
 #Text=Institutional recipients , said Mauer , are required to exhibit their donated Warhol photographs every ten years as one stipulation .
-29-1	_	Institutional	abstract[120]	new[120]	coref	29-11[120_121]
-29-2	_	recipients	abstract[120]	new[120]	_	_
+29-1	_	Institutional	abstract[122]	new[122]	coref	29-11[122_123]
+29-2	_	recipients	abstract[122]	new[122]	_	_
 29-3	_	,	_	_	_	_
 29-4	_	said	_	_	_	_
-29-5	_	Mauer	abstract[119]	new[119]	_	_
+29-5	_	Mauer	abstract[121]	new[121]	_	_
 29-6	_	,	_	_	_	_
 29-7	_	are	_	_	_	_
 29-8	_	required	_	_	_	_
 29-9	_	to	_	_	_	_
 29-10	_	exhibit	_	_	_	_
-29-11	_	their	abstract[121]	new[121]	_	_
+29-11	_	their	abstract[123]	new[123]	_	_
 29-12	_	donated	_	_	_	_
-29-13	_	Warhol	abstract[19]	new[19]	coref	30-11[19_20]
+29-13	_	Warhol	abstract[20]	new[20]	coref	30-11[20_21]
 29-14	_	photographs	_	_	_	_
 29-15	_	every	_	_	_	_
 29-16	_	ten	_	_	_	_
@@ -617,16 +626,16 @@
 
 #Text=While USI is holding its exhibit , there are also Warhol Polaroid exhibits at the Tang Teaching Museum and Art Gallery at Skidmore College in Saratoga Springs , New York and an Edward Steichen and Andy Warhol exhibit at the Mary & Leigh Block Museum of Art at Northwestern University in Evanston , Illinois .
 30-1	_	While	_	_	_	_
-30-2	_	USI	abstract[113]	new[113]	_	_
+30-2	_	USI	abstract[115]	new[115]	_	_
 30-3	_	is	_	_	_	_
 30-4	_	holding	_	_	_	_
-30-5	_	its	abstract[90]|abstract[140]	new[90]|new[140]	coref|coref	42-2[90_91]|42-5[140_141]
-30-6	_	exhibit	abstract[90]	new[90]	_	_
+30-5	_	its	abstract[91]|abstract[142]	new[91]|new[142]	coref|coref	42-2[91_92]|42-5[142_143]
+30-6	_	exhibit	abstract[91]	new[91]	_	_
 30-7	_	,	_	_	_	_
 30-8	_	there	_	_	_	_
 30-9	_	are	_	_	_	_
 30-10	_	also	_	_	_	_
-30-11	_	Warhol	abstract[20]	new[20]	coref	30-36[20_21]
+30-11	_	Warhol	abstract[21]	new[21]	coref	30-36[21_22]
 30-12	_	Polaroid	_	_	_	_
 30-13	_	exhibits	_	_	_	_
 30-14	_	at	_	_	_	_
@@ -651,8 +660,8 @@
 30-33	_	Edward	_	_	_	_
 30-34	_	Steichen	_	_	_	_
 30-35	_	and	_	_	_	_
-30-36	_	Andy	abstract[21]	new[21]	coref	33-26[21_22]
-30-37	_	Warhol	abstract[21]	new[21]	_	_
+30-36	_	Andy	abstract[22]	new[22]	coref	33-26[22_23]
+30-37	_	Warhol	abstract[22]	new[22]	_	_
 30-38	_	exhibit	_	_	_	_
 30-39	_	at	_	_	_	_
 30-40	_	the	_	_	_	_
@@ -678,8 +687,8 @@
 31-3	_	received	_	_	_	_
 31-4	_	Polaroids	_	_	_	_
 31-5	_	from	_	_	_	_
-31-6	_	the	abstract[105]	new[105]	_	_
-31-7	_	foundation	abstract[105]	new[105]	_	_
+31-6	_	the	abstract[107]	new[107]	_	_
+31-7	_	foundation	abstract[107]	new[107]	_	_
 31-8	_	.	_	_	_	_
 
 #Text=University exhibits can reach out and attract large audiences .
@@ -703,13 +712,13 @@
 33-6	_	Art	_	_	_	_
 33-7	_	Museum	_	_	_	_
 33-8	_	at	_	_	_	_
-33-9	_	the	abstract[122]	new[122]	coref	33-23[122_123]
-33-10	_	University	abstract[122]	new[122]	_	_
-33-11	_	of	abstract[122]	new[122]	_	_
-33-12	_	North	abstract[122]|abstract[126]	new[122]|new[126]	coref	34-19[126_127]
-33-13	_	Carolina	abstract[122]|abstract[126]	new[122]|new[126]	_	_
-33-14	_	at	abstract[122]	new[122]	_	_
-33-15	_	Greensboro	abstract[122]	new[122]	_	_
+33-9	_	the	abstract[124]	new[124]	coref	33-23[124_125]
+33-10	_	University	abstract[124]	new[124]	_	_
+33-11	_	of	abstract[124]	new[124]	_	_
+33-12	_	North	abstract[124]|abstract[128]	new[124]|new[128]	coref	34-19[128_129]
+33-13	_	Carolina	abstract[124]|abstract[128]	new[124]|new[128]	_	_
+33-14	_	at	abstract[124]	new[124]	_	_
+33-15	_	Greensboro	abstract[124]	new[124]	_	_
 33-16	_	saw	_	_	_	_
 33-17	_	attendance	_	_	_	_
 33-18	_	levels	_	_	_	_
@@ -717,24 +726,24 @@
 33-20	_	11,000	_	_	_	_
 33-21	_	visitors	_	_	_	_
 33-22	_	when	_	_	_	_
-33-23	_	it	abstract[123]	new[123]	coref	33-25[123_124]
+33-23	_	it	abstract[125]	new[125]	coref	33-25[125_126]
 33-24	_	exhibited	_	_	_	_
-33-25	_	its	abstract[124]	new[124]	coref	37-3[124_125]
-33-26	_	Warhol	abstract[22]	new[22]	coref	34-40[22_23]
+33-25	_	its	abstract[126]	new[126]	coref	37-3[126_127]
+33-26	_	Warhol	abstract[23]	new[23]	coref	34-40[23_24]
 33-27	_	collection	_	_	_	_
 33-28	_	in	_	_	_	_
 33-29	_	2010	_	_	_	_
 33-30	_	,	_	_	_	_
 33-31	_	according	_	_	_	_
 33-32	_	to	_	_	_	_
-33-33	_	curator	abstract[131]	new[131]	coref	38-2[131_132]
-33-34	_	Elaine	abstract[131]	new[131]	_	_
-33-35	_	Gustafon	abstract[131]	new[131]	_	_
+33-33	_	curator	abstract[133]	new[133]	coref	38-2[133_134]
+33-34	_	Elaine	abstract[133]	new[133]	_	_
+33-35	_	Gustafon	abstract[133]	new[133]	_	_
 33-36	_	.	_	_	_	_
 
 #Text=That exhibit was part of a collaboration combining the collections from Duke University , located in Durham , North Carolina , and University of North Carolina at Chapel Hill , which also were recipients of donated items from the Andy Warhol Photographic Legacy Program .
-34-1	_	That	abstract[129]	new[129]	coref	37-1[129_130]
-34-2	_	exhibit	abstract[129]	new[129]	_	_
+34-1	_	That	abstract[131]	new[131]	coref	37-1[131_132]
+34-2	_	exhibit	abstract[131]	new[131]	_	_
 34-3	_	was	_	_	_	_
 34-4	_	part	_	_	_	_
 34-5	_	of	_	_	_	_
@@ -751,14 +760,14 @@
 34-16	_	in	_	_	_	_
 34-17	_	Durham	_	_	_	_
 34-18	_	,	_	_	_	_
-34-19	_	North	abstract[127]	new[127]	coref	34-25[127_128]
-34-20	_	Carolina	abstract[127]	new[127]	_	_
+34-19	_	North	abstract[129]	new[129]	coref	34-25[129_130]
+34-20	_	Carolina	abstract[129]	new[129]	_	_
 34-21	_	,	_	_	_	_
 34-22	_	and	_	_	_	_
 34-23	_	University	_	_	_	_
 34-24	_	of	_	_	_	_
-34-25	_	North	abstract[128]	new[128]	_	_
-34-26	_	Carolina	abstract[128]	new[128]	_	_
+34-25	_	North	abstract[130]	new[130]	_	_
+34-26	_	Carolina	abstract[130]	new[130]	_	_
 34-27	_	at	_	_	_	_
 34-28	_	Chapel	_	_	_	_
 34-29	_	Hill	_	_	_	_
@@ -771,12 +780,12 @@
 34-36	_	donated	_	_	_	_
 34-37	_	items	_	_	_	_
 34-38	_	from	_	_	_	_
-34-39	_	the	abstract[69]	new[69]	coref	36-5[69_70]
-34-40	_	Andy	abstract[23]|abstract[69]	new[23]|new[69]	coref	36-6[23_24]
-34-41	_	Warhol	abstract[23]|abstract[69]	new[23]|new[69]	_	_
-34-42	_	Photographic	abstract[69]	new[69]	_	_
-34-43	_	Legacy	abstract[69]	new[69]	_	_
-34-44	_	Program	abstract[69]	new[69]	_	_
+34-39	_	the	abstract[70]	new[70]	coref	36-5[70_71]
+34-40	_	Andy	abstract[24]|abstract[70]	new[24]|new[70]	coref	36-6[24_25]
+34-41	_	Warhol	abstract[24]|abstract[70]	new[24]|new[70]	_	_
+34-42	_	Photographic	abstract[70]	new[70]	_	_
+34-43	_	Legacy	abstract[70]	new[70]	_	_
+34-44	_	Program	abstract[70]	new[70]	_	_
 34-45	_	.	_	_	_	_
 
 #Text=Superstars
@@ -787,12 +796,12 @@
 36-2	_	collection	_	_	_	_
 36-3	_	donated	_	_	_	_
 36-4	_	by	_	_	_	_
-36-5	_	the	abstract[70]	new[70]	_	_
-36-6	_	Andy	abstract[24]|abstract[70]	new[24]|new[70]	coref	38-18[24_25]
-36-7	_	Warhol	abstract[24]|abstract[70]	new[24]|new[70]	_	_
-36-8	_	Photographic	abstract[70]	new[70]	_	_
-36-9	_	Legacy	abstract[70]	new[70]	_	_
-36-10	_	Program	abstract[70]	new[70]	_	_
+36-5	_	the	abstract[71]	new[71]	_	_
+36-6	_	Andy	abstract[25]|abstract[71]	new[25]|new[71]	coref	38-18[25_26]
+36-7	_	Warhol	abstract[25]|abstract[71]	new[25]|new[71]	_	_
+36-8	_	Photographic	abstract[71]	new[71]	_	_
+36-9	_	Legacy	abstract[71]	new[71]	_	_
+36-10	_	Program	abstract[71]	new[71]	_	_
 36-11	_	holds	_	_	_	_
 36-12	_	Polaroids	_	_	_	_
 36-13	_	of	_	_	_	_
@@ -803,11 +812,11 @@
 36-18	_	.	_	_	_	_
 
 #Text=The successful UNC Greensboro exhibit included Polaroids of author Truman Capote and singer - songwriter Carly Simon .
-37-1	_	The	abstract[130]	new[130]	_	_
-37-2	_	successful	abstract[130]	new[130]	_	_
-37-3	_	UNC	abstract[125]|abstract[130]	new[125]|new[130]	_	_
-37-4	_	Greensboro	abstract[125]|abstract[130]	new[125]|new[130]	_	_
-37-5	_	exhibit	abstract[130]	new[130]	_	_
+37-1	_	The	abstract[132]	new[132]	_	_
+37-2	_	successful	abstract[132]	new[132]	_	_
+37-3	_	UNC	abstract[127]|abstract[132]	new[127]|new[132]	_	_
+37-4	_	Greensboro	abstract[127]|abstract[132]	new[127]|new[132]	_	_
+37-5	_	exhibit	abstract[132]	new[132]	_	_
 37-6	_	included	_	_	_	_
 37-7	_	Polaroids	_	_	_	_
 37-8	_	of	_	_	_	_
@@ -824,29 +833,29 @@
 
 #Text=" I think America 's obsession with celebrity culture is as strong today as it was when Warhol was living " , said Gustafon .
 38-1	_	"	_	_	_	_
-38-2	_	I	abstract[132]	new[132]	coref	38-24[132_133]
+38-2	_	I	abstract[134]	new[134]	coref	38-24[134_135]
 38-3	_	think	_	_	_	_
-38-4	_	America	abstract[61]|abstract[134]	new[61]|new[134]	coref|coref	44-4[61_62]|38-15[134_135]
-38-5	_	's	abstract[61]|abstract[134]	new[61]|new[134]	_	_
-38-6	_	obsession	abstract[134]	new[134]	_	_
-38-7	_	with	abstract[134]	new[134]	_	_
-38-8	_	celebrity	abstract[134]	new[134]	_	_
-38-9	_	culture	abstract[134]	new[134]	_	_
+38-4	_	America	abstract[62]|abstract[136]	new[62]|new[136]	coref|coref	44-4[62_63]|38-15[136_137]
+38-5	_	's	abstract[62]|abstract[136]	new[62]|new[136]	_	_
+38-6	_	obsession	abstract[136]	new[136]	_	_
+38-7	_	with	abstract[136]	new[136]	_	_
+38-8	_	celebrity	abstract[136]	new[136]	_	_
+38-9	_	culture	abstract[136]	new[136]	_	_
 38-10	_	is	_	_	_	_
 38-11	_	as	_	_	_	_
 38-12	_	strong	_	_	_	_
 38-13	_	today	_	_	_	_
 38-14	_	as	_	_	_	_
-38-15	_	it	abstract[135]	new[135]	_	_
+38-15	_	it	abstract[137]	new[137]	_	_
 38-16	_	was	_	_	_	_
 38-17	_	when	_	_	_	_
-38-18	_	Warhol	abstract[25]	new[25]	coref	40-3[25_26]
+38-18	_	Warhol	abstract[26]	new[26]	coref	40-3[26_27]
 38-19	_	was	_	_	_	_
 38-20	_	living	_	_	_	_
 38-21	_	"	_	_	_	_
 38-22	_	,	_	_	_	_
 38-23	_	said	_	_	_	_
-38-24	_	Gustafon	abstract[133]	new[133]	_	_
+38-24	_	Gustafon	abstract[135]	new[135]	_	_
 38-25	_	.	_	_	_	_
 
 #Text=" People are still intrigued by how stars live , dress and socialize , since it is so different from most people 's every day lives . "
@@ -856,16 +865,16 @@
 39-4	_	still	_	_	_	_
 39-5	_	intrigued	_	_	_	_
 39-6	_	by	_	_	_	_
-39-7	_	how	abstract[136]	new[136]	coref	39-16[136_137]
-39-8	_	stars	abstract[136]	new[136]	_	_
-39-9	_	live	abstract[136]	new[136]	_	_
-39-10	_	,	abstract[136]	new[136]	_	_
-39-11	_	dress	abstract[136]	new[136]	_	_
-39-12	_	and	abstract[136]	new[136]	_	_
-39-13	_	socialize	abstract[136]	new[136]	_	_
+39-7	_	how	abstract[138]	new[138]	coref	39-16[138_139]
+39-8	_	stars	abstract[138]	new[138]	_	_
+39-9	_	live	abstract[138]	new[138]	_	_
+39-10	_	,	abstract[138]	new[138]	_	_
+39-11	_	dress	abstract[138]	new[138]	_	_
+39-12	_	and	abstract[138]	new[138]	_	_
+39-13	_	socialize	abstract[138]	new[138]	_	_
 39-14	_	,	_	_	_	_
 39-15	_	since	_	_	_	_
-39-16	_	it	abstract[137]	new[137]	_	_
+39-16	_	it	abstract[139]	new[139]	_	_
 39-17	_	is	_	_	_	_
 39-18	_	so	_	_	_	_
 39-19	_	different	_	_	_	_
@@ -880,16 +889,16 @@
 39-28	_	"	_	_	_	_
 
 #Text=Wilkins explained Warhol 's obsession with celebrities began when he first collected head shots as a kid and continued as a passion throughout his life .
-40-1	_	Wilkins	abstract[98]	new[98]	coref	41-31[98_99]
+40-1	_	Wilkins	abstract[100]	new[100]	coref	41-31[100_101]
 40-2	_	explained	_	_	_	_
-40-3	_	Warhol	abstract[26]	new[26]	coref	40-10[26_27]
-40-4	_	's	abstract[26]	new[26]	_	_
+40-3	_	Warhol	abstract[27]	new[27]	coref	40-10[27_28]
+40-4	_	's	abstract[27]	new[27]	_	_
 40-5	_	obsession	_	_	_	_
 40-6	_	with	_	_	_	_
-40-7	_	celebrities	abstract[138]	new[138]	coref	41-7[138_139]
+40-7	_	celebrities	abstract[140]	new[140]	coref	41-7[140_141]
 40-8	_	began	_	_	_	_
 40-9	_	when	_	_	_	_
-40-10	_	he	abstract[27]	new[27]	coref	40-24[27_28]
+40-10	_	he	abstract[28]	new[28]	coref	40-24[28_29]
 40-11	_	first	_	_	_	_
 40-12	_	collected	_	_	_	_
 40-13	_	head	_	_	_	_
@@ -903,19 +912,19 @@
 40-21	_	a	_	_	_	_
 40-22	_	passion	_	_	_	_
 40-23	_	throughout	_	_	_	_
-40-24	_	his	abstract[28]	new[28]	coref	41-2[28_29]
+40-24	_	his	abstract[29]	new[29]	coref	41-2[29_30]
 40-25	_	life	_	_	_	_
 40-26	_	.	_	_	_	_
 
 #Text=" He 's hanging out with the celebrities , and has kind of become the same sort of celebrity he was interested in documenting earlier in his career " , Wilkins said .
 41-1	_	"	_	_	_	_
-41-2	_	He	abstract[29]	new[29]	coref	41-20[29_30]
+41-2	_	He	abstract[30]	new[30]	coref	41-20[30_31]
 41-3	_	's	_	_	_	_
 41-4	_	hanging	_	_	_	_
 41-5	_	out	_	_	_	_
 41-6	_	with	_	_	_	_
-41-7	_	the	abstract[139]	new[139]	_	_
-41-8	_	celebrities	abstract[139]	new[139]	_	_
+41-7	_	the	abstract[141]	new[141]	_	_
+41-8	_	celebrities	abstract[141]	new[141]	_	_
 41-9	_	,	_	_	_	_
 41-10	_	and	_	_	_	_
 41-11	_	has	_	_	_	_
@@ -927,26 +936,26 @@
 41-17	_	sort	_	_	_	_
 41-18	_	of	_	_	_	_
 41-19	_	celebrity	_	_	_	_
-41-20	_	he	abstract[30]	new[30]	coref	41-27[30_31]
+41-20	_	he	abstract[31]	new[31]	coref	41-27[31_32]
 41-21	_	was	_	_	_	_
 41-22	_	interested	_	_	_	_
 41-23	_	in	_	_	_	_
 41-24	_	documenting	_	_	_	_
 41-25	_	earlier	_	_	_	_
 41-26	_	in	_	_	_	_
-41-27	_	his	abstract[31]	new[31]	coref	45-28[31_32]
+41-27	_	his	abstract[32]	new[32]	coref	45-28[32_33]
 41-28	_	career	_	_	_	_
 41-29	_	"	_	_	_	_
 41-30	_	,	_	_	_	_
-41-31	_	Wilkins	abstract[99]	new[99]	_	_
+41-31	_	Wilkins	abstract[101]	new[101]	_	_
 41-32	_	said	_	_	_	_
 41-33	_	.	_	_	_	_
 
 #Text=The exhibit at USI includes Polaroids of actor Dennis Hopper ; musician Nick Rhodes of Duran Duran ; publishers Jann Wenner of Rolling Stone Magazine and Carlo De Benedetti of Italy 's la Repubblica ; disco club owner Steve Rubell of Studio 54 ; photographers Nat Finkelstein , Christopher Makos and Felice Quinto ; and athletes Vitas Gerulaitis ( tennis ) and Jack Nicklaus ( golf ) .
-42-1	_	The	abstract[91]	new[91]	coref	43-3[91_92]
-42-2	_	exhibit	abstract[91]	new[91]	_	_
-42-3	_	at	abstract[91]	new[91]	_	_
-42-4	_	USI	abstract[91]|abstract[141]	new[91]|new[141]	coref	43-4[141_142]
+42-1	_	The	abstract[92]	new[92]	coref	43-3[92_93]
+42-2	_	exhibit	abstract[92]	new[92]	_	_
+42-3	_	at	abstract[92]	new[92]	_	_
+42-4	_	USI	abstract[92]|abstract[143]	new[92]|new[143]	coref	43-4[143_144]
 42-5	_	includes	_	_	_	_
 42-6	_	Polaroids	_	_	_	_
 42-7	_	of	_	_	_	_
@@ -1013,11 +1022,11 @@
 42-68	_	.	_	_	_	_
 
 #Text=Wikinews observed the USI exhibit identifies and features Polaroids of fashion designer Halston , a former resident of Evansville .
-43-1	_	Wikinews	abstract[116]	new[116]	coref	47-31[116_117]
+43-1	_	Wikinews	abstract[118]	new[118]	coref	47-31[118_119]
 43-2	_	observed	_	_	_	_
-43-3	_	the	abstract[92]	new[92]	_	_
-43-4	_	USI	abstract[92]|abstract[142]	new[92]|new[142]	coref	47-34[142_143]
-43-5	_	exhibit	abstract[92]	new[92]	_	_
+43-3	_	the	abstract[93]	new[93]	_	_
+43-4	_	USI	abstract[93]|abstract[144]	new[93]|new[144]	coref	47-34[144_145]
+43-5	_	exhibit	abstract[93]	new[93]	_	_
 43-6	_	identifies	_	_	_	_
 43-7	_	and	_	_	_	_
 43-8	_	features	_	_	_	_
@@ -1031,33 +1040,33 @@
 43-16	_	former	_	_	_	_
 43-17	_	resident	_	_	_	_
 43-18	_	of	_	_	_	_
-43-19	_	Evansville	abstract[83]	new[83]	_	_
+43-19	_	Evansville	abstract[84]	new[84]	_	_
 43-20	_	.	_	_	_	_
 
 #Text=University collections across the United States also include Polaroids of " unknowns " who have not yet had their fifteen minutes of fame .
 44-1	_	University	_	_	_	_
 44-2	_	collections	_	_	_	_
 44-3	_	across	_	_	_	_
-44-4	_	the	abstract[62]	new[62]	_	_
-44-5	_	United	abstract[62]	new[62]	_	_
-44-6	_	States	abstract[62]	new[62]	_	_
+44-4	_	the	abstract[63]	new[63]	_	_
+44-5	_	United	abstract[63]	new[63]	_	_
+44-6	_	States	abstract[63]	new[63]	_	_
 44-7	_	also	_	_	_	_
 44-8	_	include	_	_	_	_
-44-9	_	Polaroids	abstract[145]	new[145]	coref	45-20[145_146]
-44-10	_	of	abstract[145]	new[145]	_	_
-44-11	_	"	abstract[145]	new[145]	_	_
-44-12	_	unknowns	abstract[145]	new[145]	_	_
-44-13	_	"	abstract[145]	new[145]	_	_
-44-14	_	who	abstract[145]	new[145]	_	_
-44-15	_	have	abstract[145]	new[145]	_	_
-44-16	_	not	abstract[145]	new[145]	_	_
-44-17	_	yet	abstract[145]	new[145]	_	_
-44-18	_	had	abstract[145]	new[145]	_	_
-44-19	_	their	abstract[145]	new[145]	_	_
-44-20	_	fifteen	abstract[145]	new[145]	_	_
-44-21	_	minutes	abstract[145]	new[145]	_	_
-44-22	_	of	abstract[145]	new[145]	_	_
-44-23	_	fame	abstract[145]	new[145]	_	_
+44-9	_	Polaroids	abstract[147]	new[147]	coref	45-20[147_148]
+44-10	_	of	abstract[147]	new[147]	_	_
+44-11	_	"	abstract[147]	new[147]	_	_
+44-12	_	unknowns	abstract[147]	new[147]	_	_
+44-13	_	"	abstract[147]	new[147]	_	_
+44-14	_	who	abstract[147]	new[147]	_	_
+44-15	_	have	abstract[147]	new[147]	_	_
+44-16	_	not	abstract[147]	new[147]	_	_
+44-17	_	yet	abstract[147]	new[147]	_	_
+44-18	_	had	abstract[147]	new[147]	_	_
+44-19	_	their	abstract[147]	new[147]	_	_
+44-20	_	fifteen	abstract[147]	new[147]	_	_
+44-21	_	minutes	abstract[147]	new[147]	_	_
+44-22	_	of	abstract[147]	new[147]	_	_
+44-23	_	fame	abstract[147]	new[147]	_	_
 44-24	_	.	_	_	_	_
 
 #Text=Cynthia Thompson , curator and director of exhibits at the University of Arkansas , Fayetteville , said , " These images serve as documentation of people in his every day life and art - one which many of us enjoy a glimpse into . "
@@ -1080,15 +1089,15 @@
 45-17	_	said	_	_	_	_
 45-18	_	,	_	_	_	_
 45-19	_	"	_	_	_	_
-45-20	_	These	abstract[146]	new[146]	_	_
-45-21	_	images	abstract[146]	new[146]	_	_
+45-20	_	These	abstract[148]	new[148]	_	_
+45-21	_	images	abstract[148]	new[148]	_	_
 45-22	_	serve	_	_	_	_
 45-23	_	as	_	_	_	_
 45-24	_	documentation	_	_	_	_
 45-25	_	of	_	_	_	_
 45-26	_	people	_	_	_	_
 45-27	_	in	_	_	_	_
-45-28	_	his	abstract[32]	new[32]	coref	46-1[32_33]
+45-28	_	his	abstract[33]	new[33]	coref	46-1[33_34]
 45-29	_	every	_	_	_	_
 45-30	_	day	_	_	_	_
 45-31	_	life	_	_	_	_
@@ -1108,13 +1117,13 @@
 45-45	_	"	_	_	_	_
 
 #Text=Warhol 's photographic legacy
-46-1	_	Warhol	abstract[33]	new[33]	coref	47-1[33_34]
-46-2	_	's	abstract[33]	new[33]	_	_
+46-1	_	Warhol	abstract[34]	new[34]	coref	47-1[34_35]
+46-2	_	's	abstract[34]	new[34]	_	_
 46-3	_	photographic	_	_	_	_
 46-4	_	legacy	_	_	_	_
 
 #Text=Warhol was close to important touchstones of the 1960s , including art , music , consumer culture , fashion , and celebrity worship , which were all buzzwords and images Wikinews observed at USI 's opening exhibit .
-47-1	_	Warhol	abstract[34]	new[34]	coref	48-1[34_35]
+47-1	_	Warhol	abstract[35]	new[35]	coref	48-1[35_36]
 47-2	_	was	_	_	_	_
 47-3	_	close	_	_	_	_
 47-4	_	to	_	_	_	_
@@ -1135,8 +1144,8 @@
 47-19	_	fashion	_	_	_	_
 47-20	_	,	_	_	_	_
 47-21	_	and	_	_	_	_
-47-22	_	celebrity	abstract[168]	new[168]	coref	55-16[168_169]
-47-23	_	worship	abstract[168]	new[168]	_	_
+47-22	_	celebrity	abstract[170]	new[170]	coref	55-16[170_171]
+47-23	_	worship	abstract[170]	new[170]	_	_
 47-24	_	,	_	_	_	_
 47-25	_	which	_	_	_	_
 47-26	_	were	_	_	_	_
@@ -1144,17 +1153,17 @@
 47-28	_	buzzwords	_	_	_	_
 47-29	_	and	_	_	_	_
 47-30	_	images	_	_	_	_
-47-31	_	Wikinews	abstract[117]	new[117]	_	_
+47-31	_	Wikinews	abstract[119]	new[119]	_	_
 47-32	_	observed	_	_	_	_
 47-33	_	at	_	_	_	_
-47-34	_	USI	abstract[143]	new[143]	coref	54-4[143_144]
-47-35	_	's	abstract[143]	new[143]	_	_
+47-34	_	USI	abstract[145]	new[145]	coref	54-4[145_146]
+47-35	_	's	abstract[145]	new[145]	_	_
 47-36	_	opening	_	_	_	_
 47-37	_	exhibit	_	_	_	_
 47-38	_	.	_	_	_	_
 
 #Text=He was also an influential figure in the pop art movement .
-48-1	_	He	abstract[35]	new[35]	coref	50-5[35_36]
+48-1	_	He	abstract[36]	new[36]	coref	50-5[36_37]
 48-2	_	was	_	_	_	_
 48-3	_	also	_	_	_	_
 48-4	_	an	_	_	_	_
@@ -1183,8 +1192,8 @@
 49-13	_	important	_	_	_	_
 49-14	_	"	_	_	_	_
 49-15	_	,	_	_	_	_
-49-16	_	Kathryn	abstract[148]	new[148]	coref	53-2[148_149]
-49-17	_	Waters	abstract[148]	new[148]	_	_
+49-16	_	Kathryn	abstract[150]	new[150]	coref	53-2[150_151]
+49-17	_	Waters	abstract[150]	new[150]	_	_
 49-18	_	said	_	_	_	_
 49-19	_	.	_	_	_	_
 
@@ -1193,23 +1202,23 @@
 50-2	_	That	_	_	_	_
 50-3	_	's	_	_	_	_
 50-4	_	why	_	_	_	_
-50-5	_	he	abstract[36]	new[36]	coref	51-8[36_37]
+50-5	_	he	abstract[37]	new[37]	coref	51-8[37_38]
 50-6	_	did	_	_	_	_
 50-7	_	the	_	_	_	_
 50-8	_	Campbell	_	_	_	_
 50-9	_	Soup	_	_	_	_
 50-10	_	cans	_	_	_	_
 50-11	_	or	_	_	_	_
-50-12	_	the	abstract[162]	new[162]	coref	54-26[162_163]
-50-13	_	Marilyn	abstract[162]|abstract[164]	new[162]|new[164]	coref	54-31[164_165]
-50-14	_	pictures	abstract[162]	new[162]	_	_
+50-12	_	the	abstract[164]	new[164]	coref	54-26[164_165]
+50-13	_	Marilyn	abstract[164]|abstract[166]	new[164]|new[166]	coref	54-31[166_167]
+50-14	_	pictures	abstract[164]	new[164]	_	_
 50-15	_	,	_	_	_	_
-50-16	_	these	abstract[151]	new[151]	coref	51-13[151_152]
-50-17	_	iconic	abstract[151]	new[151]	_	_
-50-18	_	products	abstract[151]	new[151]	_	_
-50-19	_	of	abstract[151]	new[151]	_	_
-50-20	_	American	abstract[151]|abstract[153]	new[151]|new[153]	coref	51-16[153_154]
-50-21	_	culture	abstract[151]|abstract[153]	new[151]|new[153]	_	_
+50-16	_	these	abstract[153]	new[153]	coref	51-13[153_154]
+50-17	_	iconic	abstract[153]	new[153]	_	_
+50-18	_	products	abstract[153]	new[153]	_	_
+50-19	_	of	abstract[153]	new[153]	_	_
+50-20	_	American	abstract[153]|abstract[155]	new[153]|new[155]	coref	51-16[155_156]
+50-21	_	culture	abstract[153]|abstract[155]	new[153]|new[155]	_	_
 50-22	_	whether	_	_	_	_
 50-23	_	they	_	_	_	_
 50-24	_	be	_	_	_	_
@@ -1232,22 +1241,22 @@
 51-5	_	the	_	_	_	_
 51-6	_	sixties	_	_	_	_
 51-7	_	,	_	_	_	_
-51-8	_	he	abstract[37]	new[37]	coref	53-6[37_38]
+51-8	_	he	abstract[38]	new[38]	coref	53-6[38_39]
 51-9	_	was	_	_	_	_
 51-10	_	very	_	_	_	_
 51-11	_	aware	_	_	_	_
 51-12	_	of	_	_	_	_
-51-13	_	this	abstract[152]	new[152]	_	_
-51-14	_	part	abstract[152]	new[152]	_	_
-51-15	_	of	abstract[152]	new[152]	_	_
-51-16	_	our	abstract[152]|abstract[154]|abstract[155]	new[152]|new[154]|new[155]	coref	52-3[155_156]
-51-17	_	culture	abstract[152]|abstract[154]	new[152]|new[154]	_	_
+51-13	_	this	abstract[154]	new[154]	_	_
+51-14	_	part	abstract[154]	new[154]	_	_
+51-15	_	of	abstract[154]	new[154]	_	_
+51-16	_	our	abstract[154]|abstract[156]|abstract[157]	new[154]|new[156]|new[157]	coref	52-3[157_158]
+51-17	_	culture	abstract[154]|abstract[156]	new[154]|new[156]	_	_
 51-18	_	.	_	_	_	_
 
 #Text=Which as we all know in 2014 , has only increased probably a thousand fold . "
 52-1	_	Which	_	_	_	_
 52-2	_	as	_	_	_	_
-52-3	_	we	abstract[156]	new[156]	_	_
+52-3	_	we	abstract[158]	new[158]	_	_
 52-4	_	all	_	_	_	_
 52-5	_	know	_	_	_	_
 52-6	_	in	_	_	_	_
@@ -1265,20 +1274,20 @@
 
 #Text=" I think everybody knows Andy Warhol 's name , even non-art people , that 's a name they might know because he was such a personality " , Water said .
 53-1	_	"	_	_	_	_
-53-2	_	I	abstract[149]	new[149]	coref	53-30[149_150]
+53-2	_	I	abstract[151]	new[151]	coref	53-30[151_152]
 53-3	_	think	_	_	_	_
 53-4	_	everybody	_	_	_	_
 53-5	_	knows	_	_	_	_
-53-6	_	Andy	abstract[38]|abstract[157]	new[38]|new[157]	coref|coref	53-23[38_39]|53-15[157_158]
-53-7	_	Warhol	abstract[38]|abstract[157]	new[38]|new[157]	_	_
-53-8	_	's	abstract[38]|abstract[157]	new[38]|new[157]	_	_
-53-9	_	name	abstract[157]	new[157]	_	_
+53-6	_	Andy	abstract[39]|abstract[159]	new[39]|new[159]	coref|coref	53-23[39_40]|53-15[159_160]
+53-7	_	Warhol	abstract[39]|abstract[159]	new[39]|new[159]	_	_
+53-8	_	's	abstract[39]|abstract[159]	new[39]|new[159]	_	_
+53-9	_	name	abstract[159]	new[159]	_	_
 53-10	_	,	_	_	_	_
 53-11	_	even	_	_	_	_
 53-12	_	non-art	_	_	_	_
 53-13	_	people	_	_	_	_
 53-14	_	,	_	_	_	_
-53-15	_	that	abstract[158]	new[158]	_	_
+53-15	_	that	abstract[160]	new[160]	_	_
 53-16	_	's	_	_	_	_
 53-17	_	a	_	_	_	_
 53-18	_	name	_	_	_	_
@@ -1286,49 +1295,49 @@
 53-20	_	might	_	_	_	_
 53-21	_	know	_	_	_	_
 53-22	_	because	_	_	_	_
-53-23	_	he	abstract[39]	new[39]	coref	54-16[39_40]
+53-23	_	he	abstract[40]	new[40]	coref	54-16[40_41]
 53-24	_	was	_	_	_	_
 53-25	_	such	_	_	_	_
 53-26	_	a	_	_	_	_
 53-27	_	personality	_	_	_	_
 53-28	_	"	_	_	_	_
 53-29	_	,	_	_	_	_
-53-30	_	Water	abstract[150]	new[150]	_	_
+53-30	_	Water	abstract[152]	new[152]	_	_
 53-31	_	said	_	_	_	_
 53-32	_	.	_	_	_	_
 
 #Text=Hilary Braysmith , USI associate professor of art history , said , " I think his photography is equally influential as his graphic works , his more famous pictures of Marilyn .
-54-1	_	Hilary	abstract[159]	new[159]	coref	54-14[159_160]
-54-2	_	Braysmith	abstract[159]	new[159]	_	_
-54-3	_	,	abstract[159]	new[159]	_	_
-54-4	_	USI	abstract[144]|abstract[159]	new[144]|new[159]	_	_
-54-5	_	associate	abstract[159]	new[159]	_	_
-54-6	_	professor	abstract[159]	new[159]	_	_
-54-7	_	of	abstract[159]	new[159]	_	_
-54-8	_	art	abstract[159]	new[159]	_	_
-54-9	_	history	abstract[159]	new[159]	_	_
+54-1	_	Hilary	abstract[161]	new[161]	coref	54-14[161_162]
+54-2	_	Braysmith	abstract[161]	new[161]	_	_
+54-3	_	,	abstract[161]	new[161]	_	_
+54-4	_	USI	abstract[146]|abstract[161]	new[146]|new[161]	_	_
+54-5	_	associate	abstract[161]	new[161]	_	_
+54-6	_	professor	abstract[161]	new[161]	_	_
+54-7	_	of	abstract[161]	new[161]	_	_
+54-8	_	art	abstract[161]	new[161]	_	_
+54-9	_	history	abstract[161]	new[161]	_	_
 54-10	_	,	_	_	_	_
 54-11	_	said	_	_	_	_
 54-12	_	,	_	_	_	_
 54-13	_	"	_	_	_	_
-54-14	_	I	abstract[160]	new[160]	coref	55-20[160_161]
+54-14	_	I	abstract[162]	new[162]	coref	55-20[162_163]
 54-15	_	think	_	_	_	_
-54-16	_	his	abstract[40]	new[40]	coref	54-22[40_41]
+54-16	_	his	abstract[41]	new[41]	coref	54-22[41_42]
 54-17	_	photography	_	_	_	_
 54-18	_	is	_	_	_	_
 54-19	_	equally	_	_	_	_
 54-20	_	influential	_	_	_	_
 54-21	_	as	_	_	_	_
-54-22	_	his	abstract[41]	new[41]	coref	54-26[41_42]
+54-22	_	his	abstract[42]	new[42]	coref	54-26[42_43]
 54-23	_	graphic	_	_	_	_
 54-24	_	works	_	_	_	_
 54-25	_	,	_	_	_	_
-54-26	_	his	abstract[42]|abstract[163]	new[42]|new[163]	coref	55-22[42_43]
-54-27	_	more	abstract[163]	new[163]	_	_
-54-28	_	famous	abstract[163]	new[163]	_	_
-54-29	_	pictures	abstract[163]	new[163]	_	_
-54-30	_	of	abstract[163]	new[163]	_	_
-54-31	_	Marilyn	abstract[163]|abstract[165]	new[163]|new[165]	_	_
+54-26	_	his	abstract[43]|abstract[165]	new[43]|new[165]	coref	55-22[43_44]
+54-27	_	more	abstract[165]	new[165]	_	_
+54-28	_	famous	abstract[165]	new[165]	_	_
+54-29	_	pictures	abstract[165]	new[165]	_	_
+54-30	_	of	abstract[165]	new[165]	_	_
+54-31	_	Marilyn	abstract[165]|abstract[167]	new[165]|new[167]	_	_
 54-32	_	.	_	_	_	_
 
 #Text=In terms of the evolution of photography and experimentation , like painting on them or the celebrity fascination , I think he was really ground - breaking in that regard . "
@@ -1338,22 +1347,22 @@
 55-4	_	the	_	_	_	_
 55-5	_	evolution	_	_	_	_
 55-6	_	of	_	_	_	_
-55-7	_	photography	abstract[166]	new[166]	coref	55-14[166_167]
+55-7	_	photography	abstract[168]	new[168]	coref	55-14[168_169]
 55-8	_	and	_	_	_	_
 55-9	_	experimentation	_	_	_	_
 55-10	_	,	_	_	_	_
 55-11	_	like	_	_	_	_
 55-12	_	painting	_	_	_	_
 55-13	_	on	_	_	_	_
-55-14	_	them	abstract[167]	new[167]	_	_
+55-14	_	them	abstract[169]	new[169]	_	_
 55-15	_	or	_	_	_	_
-55-16	_	the	abstract[169]	new[169]	_	_
-55-17	_	celebrity	abstract[169]	new[169]	_	_
-55-18	_	fascination	abstract[169]	new[169]	_	_
+55-16	_	the	abstract[171]	new[171]	_	_
+55-17	_	celebrity	abstract[171]	new[171]	_	_
+55-18	_	fascination	abstract[171]	new[171]	_	_
 55-19	_	,	_	_	_	_
-55-20	_	I	abstract[161]	new[161]	_	_
+55-20	_	I	abstract[163]	new[163]	_	_
 55-21	_	think	_	_	_	_
-55-22	_	he	abstract[43]	new[43]	coref	56-13[43_44]
+55-22	_	he	abstract[44]	new[44]	coref	56-13[44_45]
 55-23	_	was	_	_	_	_
 55-24	_	really	_	_	_	_
 55-25	_	ground	_	_	_	_
@@ -1378,7 +1387,7 @@
 56-10	_	,	_	_	_	_
 56-11	_	however	_	_	_	_
 56-12	_	,	_	_	_	_
-56-13	_	he	abstract[44]	new[44]	_	_
+56-13	_	he	abstract[45]	new[45]	_	_
 56-14	_	is	_	_	_	_
 56-15	_	in	_	_	_	_
 56-16	_	the	_	_	_	_

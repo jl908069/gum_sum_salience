@@ -32,7 +32,7 @@
 2-5	_	,	_	_	_	_
 2-6	_	2017	abstract[58]	new[58]	coref	11-1[58_59]
 
-#Text=A group of Afghan teenagers was awarded a silver medal for " Aner Shalev discusses the work of an Israeli mathematician and writer .
+#Text=A group of Afghan teenagers was awarded a silver medal for " Interviews are now on Wikinews about mathematician Aner Shalev
 3-1	_	A	abstract[8]	new[8]	coref	5-1[8_9]
 3-2	_	group	abstract[8]	new[8]	_	_
 3-3	_	of	abstract[8]	new[8]	_	_
@@ -45,18 +45,15 @@
 3-10	_	medal	_	_	_	_
 3-11	_	for	_	_	_	_
 3-12	_	"	_	_	_	_
-3-13	_	Aner	_	_	_	_
-3-14	_	Shalev	_	_	_	_
-3-15	_	discusses	_	_	_	_
-3-16	_	the	_	_	_	_
-3-17	_	work	_	_	_	_
-3-18	_	of	_	_	_	_
-3-19	_	an	_	_	_	_
-3-20	_	Israeli	_	_	_	_
-3-21	_	mathematician	_	_	_	_
-3-22	_	and	_	_	_	_
-3-23	_	writer	_	_	_	_
-3-24	_	.	_	_	_	_
+3-13	_	Interviews	_	_	_	_
+3-14	_	are	_	_	_	_
+3-15	_	now	_	_	_	_
+3-16	_	on	_	_	_	_
+3-17	_	Wikinews	_	_	_	_
+3-18	_	about	_	_	_	_
+3-19	_	mathematician	_	_	_	_
+3-20	_	Aner	_	_	_	_
+3-21	_	Shalev	_	_	_	_
 
 #Text=courageous achievement " on Tuesday in the FIRST Global Challenge Robot Olympics in the Daughters of the American Revolution Constitution Hall in Washington D.C.
 4-1	_	courageous	_	_	_	_

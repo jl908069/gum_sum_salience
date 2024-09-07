@@ -1015,20 +1015,15 @@
 50-31	_	cases	_	_	_	_
 50-32	_	.	_	_	_	_
 
-#Text=We developed specific mutation operators to test geographic information systems in two GIS applications .
+#Text=We describe and implement mutation operators for GIS applications .
 51-1	_	We	abstract[97]	new[97]	_	_
-51-2	_	developed	_	_	_	_
-51-3	_	specific	_	_	_	_
-51-4	_	mutation	_	_	_	_
-51-5	_	operators	_	_	_	_
-51-6	_	to	_	_	_	_
-51-7	_	test	_	_	_	_
-51-8	_	geographic	_	_	_	_
-51-9	_	information	_	_	_	_
-51-10	_	systems	_	_	_	_
-51-11	_	in	_	_	_	_
-51-12	_	two	_	_	_	_
-51-13	_	GIS	_	_	_	_
-51-14	_	applications	_	_	_	_
-51-15	_	.	_	_	_	_
+51-2	_	describe	_	_	_	_
+51-3	_	and	_	_	_	_
+51-4	_	implement	_	_	_	_
+51-5	_	mutation	_	_	_	_
+51-6	_	operators	_	_	_	_
+51-7	_	for	_	_	_	_
+51-8	_	GIS	_	_	_	_
+51-9	_	applications	_	_	_	_
+51-10	_	.	_	_	_	_
 

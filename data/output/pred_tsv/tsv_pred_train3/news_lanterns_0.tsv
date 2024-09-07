@@ -237,9 +237,9 @@
 10-4	_	not	_	_	_	_
 10-5	_	only	_	_	_	_
 10-6	_	fill	_	_	_	_
-10-7	_	the	abstract[48]	new[48]	coref	25-21[48_49]
-10-8	_	central	abstract[48]	new[48]	_	_
-10-9	_	square	abstract[48]	new[48]	_	_
+10-7	_	the	abstract[49]	new[49]	coref	25-21[49_50]
+10-8	_	central	abstract[49]	new[49]	_	_
+10-9	_	square	abstract[49]	new[49]	_	_
 10-10	_	but	_	_	_	_
 10-11	_	also	_	_	_	_
 10-12	_	the	_	_	_	_
@@ -485,9 +485,9 @@
 20-31	_	.	_	_	_	_
 
 #Text=The commuting crowds can be avoided however by walking from NTU Hospital Station or Shandao Station .
-21-1	_	The	abstract[45]	new[45]	coref	23-7[45_46]
-21-2	_	commuting	abstract[45]	new[45]	_	_
-21-3	_	crowds	abstract[45]	new[45]	_	_
+21-1	_	The	abstract[46]	new[46]	coref	23-7[46_47]
+21-2	_	commuting	abstract[46]	new[46]	_	_
+21-3	_	crowds	abstract[46]	new[46]	_	_
 21-4	_	can	_	_	_	_
 21-5	_	be	_	_	_	_
 21-6	_	avoided	_	_	_	_
@@ -504,7 +504,7 @@
 21-17	_	.	_	_	_	_
 
 #Text=Both of these stops are only about a 20 minute walk from the event and have no crowds at all .
-22-1	_	Both	abstract[44]	new[44]	_	_
+22-1	_	Both	abstract[44]	new[44]	coref	28-10[44_45]
 22-2	_	of	abstract[44]	new[44]	_	_
 22-3	_	these	abstract[44]	new[44]	_	_
 22-4	_	stops	abstract[44]	new[44]	_	_
@@ -533,8 +533,8 @@
 23-4	_	want	_	_	_	_
 23-5	_	to	_	_	_	_
 23-6	_	avoid	_	_	_	_
-23-7	_	the	abstract[46]	new[46]	coref	24-12[46_47]
-23-8	_	crowds	abstract[46]	new[46]	_	_
+23-7	_	the	abstract[47]	new[47]	coref	24-12[47_48]
+23-8	_	crowds	abstract[47]	new[47]	_	_
 23-9	_	,	_	_	_	_
 23-10	_	definitely	_	_	_	_
 23-11	_	avoid	_	_	_	_
@@ -554,15 +554,15 @@
 24-9	_	the	abstract[34]	new[34]	coref	25-3[34_35]
 24-10	_	festival	abstract[34]	new[34]	_	_
 24-11	_	when	_	_	_	_
-24-12	_	the	abstract[47]	new[47]	_	_
-24-13	_	crowds	abstract[47]	new[47]	_	_
+24-12	_	the	abstract[48]	new[48]	_	_
+24-13	_	crowds	abstract[48]	new[48]	_	_
 24-14	_	will	_	_	_	_
 24-15	_	have	_	_	_	_
 24-16	_	dwindled	_	_	_	_
 24-17	_	.	_	_	_	_
 
 #Text=I visited the festival on Saturday night , the opening night , and there was a sea of people in the square .
-25-1	_	I	abstract[50]	new[50]	coref	26-1[50_51]
+25-1	_	I	abstract[51]	new[51]	coref	26-1[51_52]
 25-2	_	visited	_	_	_	_
 25-3	_	the	abstract[35]	new[35]	coref	27-1[35_36]
 25-4	_	festival	abstract[35]	new[35]	_	_
@@ -582,12 +582,12 @@
 25-18	_	of	_	_	_	_
 25-19	_	people	_	_	_	_
 25-20	_	in	_	_	_	_
-25-21	_	the	abstract[49]	new[49]	_	_
-25-22	_	square	abstract[49]	new[49]	_	_
+25-21	_	the	abstract[50]	new[50]	_	_
+25-22	_	square	abstract[50]	new[50]	_	_
 25-23	_	.	_	_	_	_
 
 #Text=I went back the next Tuesday night and there was almost no one there , just a few stray photographers taking advantage of the unimpeded views of the lanterns .
-26-1	_	I	abstract[51]	new[51]	_	_
+26-1	_	I	abstract[52]	new[52]	_	_
 26-2	_	went	_	_	_	_
 26-3	_	back	_	_	_	_
 26-4	_	the	_	_	_	_
@@ -629,40 +629,21 @@
 27-8	_	year	abstract[15]	new[15]	_	_
 27-9	_	.	_	_	_	_
 
-#Text=Pyongyang 's military is placed on high alert after artillery rounds threatened ' psychological warfare tools ' to the North that it claims will send nuclear weapons to Pyongyang , state news agency says .
-28-1	_	Pyongyang	abstract[52]|abstract[54]	new[52]|new[54]	coref|coref	28-22[52_53]|28-29[54_55]
-28-2	_	's	abstract[52]|abstract[54]	new[52]|new[54]	_	_
-28-3	_	military	abstract[52]	new[52]	_	_
-28-4	_	is	_	_	_	_
-28-5	_	placed	_	_	_	_
-28-6	_	on	_	_	_	_
-28-7	_	high	_	_	_	_
-28-8	_	alert	_	_	_	_
-28-9	_	after	_	_	_	_
-28-10	_	artillery	_	_	_	_
-28-11	_	rounds	_	_	_	_
-28-12	_	threatened	_	_	_	_
-28-13	_	'	_	_	_	_
-28-14	_	psychological	_	_	_	_
-28-15	_	warfare	_	_	_	_
-28-16	_	tools	_	_	_	_
-28-17	_	'	_	_	_	_
-28-18	_	to	_	_	_	_
-28-19	_	the	_	_	_	_
-28-20	_	North	_	_	_	_
-28-21	_	that	_	_	_	_
-28-22	_	it	abstract[53]	new[53]	_	_
-28-23	_	claims	_	_	_	_
-28-24	_	will	_	_	_	_
-28-25	_	send	_	_	_	_
-28-26	_	nuclear	_	_	_	_
-28-27	_	weapons	_	_	_	_
-28-28	_	to	_	_	_	_
-28-29	_	Pyongyang	abstract[55]	new[55]	_	_
-28-30	_	,	_	_	_	_
-28-31	_	state	_	_	_	_
-28-32	_	news	_	_	_	_
-28-33	_	agency	_	_	_	_
-28-34	_	says	_	_	_	_
-28-35	_	.	_	_	_	_
+#Text="""" Mobs from two countries have become unstoppable in this incident , """" says North Korea
+28-1	_	""""	_	_	_	_
+28-2	_	Mobs	_	_	_	_
+28-3	_	from	_	_	_	_
+28-4	_	two	_	_	_	_
+28-5	_	countries	_	_	_	_
+28-6	_	have	_	_	_	_
+28-7	_	become	_	_	_	_
+28-8	_	unstoppable	_	_	_	_
+28-9	_	in	_	_	_	_
+28-10	_	this	abstract[45]	new[45]	_	_
+28-11	_	incident	abstract[45]	new[45]	_	_
+28-12	_	,	_	_	_	_
+28-13	_	""""	_	_	_	_
+28-14	_	says	_	_	_	_
+28-15	_	North	_	_	_	_
+28-16	_	Korea	_	_	_	_
 

@@ -262,38 +262,42 @@
 10-11	_	2010	_	_	_	_
 10-12	_	.	_	_	_	_
 
-#Text=The city reasoned , " A torch lit for Taiwan 's Chiang Kai Shek Memorial and thousands are cheering in front of the lighting of the two - lane memorial .
+#Text=The city reasoned , " A lantern at the Taipei City Lantern Festival highlights the local cultural attractions at the end of the 2008 Xinhua festival , which ended on March 11 , 2008 .
 11-1	_	The	abstract[13]	new[13]	_	_
 11-2	_	city	abstract[13]	new[13]	_	_
 11-3	_	reasoned	_	_	_	_
 11-4	_	,	_	_	_	_
 11-5	_	"	_	_	_	_
 11-6	_	A	_	_	_	_
-11-7	_	torch	_	_	_	_
-11-8	_	lit	_	_	_	_
-11-9	_	for	_	_	_	_
-11-10	_	Taiwan	_	_	_	_
-11-11	_	's	_	_	_	_
-11-12	_	Chiang	_	_	_	_
-11-13	_	Kai	_	_	_	_
-11-14	_	Shek	_	_	_	_
-11-15	_	Memorial	_	_	_	_
-11-16	_	and	_	_	_	_
-11-17	_	thousands	_	_	_	_
-11-18	_	are	_	_	_	_
-11-19	_	cheering	_	_	_	_
-11-20	_	in	_	_	_	_
-11-21	_	front	_	_	_	_
+11-7	_	lantern	_	_	_	_
+11-8	_	at	_	_	_	_
+11-9	_	the	_	_	_	_
+11-10	_	Taipei	_	_	_	_
+11-11	_	City	_	_	_	_
+11-12	_	Lantern	_	_	_	_
+11-13	_	Festival	_	_	_	_
+11-14	_	highlights	_	_	_	_
+11-15	_	the	_	_	_	_
+11-16	_	local	_	_	_	_
+11-17	_	cultural	_	_	_	_
+11-18	_	attractions	_	_	_	_
+11-19	_	at	_	_	_	_
+11-20	_	the	_	_	_	_
+11-21	_	end	_	_	_	_
 11-22	_	of	_	_	_	_
 11-23	_	the	_	_	_	_
-11-24	_	lighting	_	_	_	_
-11-25	_	of	_	_	_	_
-11-26	_	the	_	_	_	_
-11-27	_	two	_	_	_	_
-11-28	_	-	_	_	_	_
-11-29	_	lane	_	_	_	_
-11-30	_	memorial	_	_	_	_
-11-31	_	.	_	_	_	_
+11-24	_	2008	_	_	_	_
+11-25	_	Xinhua	_	_	_	_
+11-26	_	festival	_	_	_	_
+11-27	_	,	_	_	_	_
+11-28	_	which	_	_	_	_
+11-29	_	ended	_	_	_	_
+11-30	_	on	_	_	_	_
+11-31	_	March	_	_	_	_
+11-32	_	11	_	_	_	_
+11-33	_	,	_	_	_	_
+11-34	_	2008	_	_	_	_
+11-35	_	.	_	_	_	_
 
 #Text=because the users of the private schools pay a frequency fee , this kind of activity is considered as a commercial one " ( ( it ) ) .
 12-1	_	because	_	_	_	_

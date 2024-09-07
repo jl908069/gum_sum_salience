@@ -1037,10 +1037,10 @@
 77-5	_	anything	_	_	_	_
 77-6	_	independently	_	_	_	_
 77-7	_	of	_	_	_	_
-77-8	_	all	abstract[150]	new[150]	coref	81-5[150_151]
-77-9	_	the	abstract[150]	new[150]	_	_
-77-10	_	questions	abstract[150]	new[150]	_	_
-77-11	_	together	abstract[150]	new[150]	_	_
+77-8	_	all	abstract[149]	new[149]	coref	81-5[149_150]
+77-9	_	the	abstract[149]	new[149]	_	_
+77-10	_	questions	abstract[149]	new[149]	_	_
+77-11	_	together	abstract[149]	new[149]	_	_
 77-12	_	--	_	_	_	_
 
 #Text=Sure .
@@ -1052,16 +1052,16 @@
 79-2	_	but	_	_	_	_
 79-3	_	I	abstract[90]	new[90]	coref	79-9[90_91]
 79-4	_	have	_	_	_	_
-79-5	_	a	abstract[153]	new[153]	coref	84-2[153_154]
-79-6	_	chart	abstract[153]	new[153]	_	_
-79-7	_	that	abstract[153]	new[153]	_	_
-79-8	_	I	abstract[91]|abstract[153]	new[91]|new[153]	coref	80-5[91_92]
-79-9	_	'll	abstract[153]	new[153]	_	_
-79-10	_	go	abstract[153]	new[153]	_	_
-79-11	_	through	abstract[153]	new[153]	_	_
-79-12	_	;	abstract[153]	new[153]	_	_
-79-13	_	the	abstract[153]	new[153]	_	_
-79-14	_	MMPI	abstract[153]	new[153]	_	_
+79-5	_	a	abstract[152]	new[152]	coref	84-2[152_153]
+79-6	_	chart	abstract[152]	new[152]	_	_
+79-7	_	that	abstract[152]	new[152]	_	_
+79-8	_	I	abstract[91]|abstract[152]	new[91]|new[152]	coref	80-5[91_92]
+79-9	_	'll	abstract[152]	new[152]	_	_
+79-10	_	go	abstract[152]	new[152]	_	_
+79-11	_	through	abstract[152]	new[152]	_	_
+79-12	_	;	abstract[152]	new[152]	_	_
+79-13	_	the	abstract[152]	new[152]	_	_
+79-14	_	MMPI	abstract[152]	new[152]	_	_
 79-15	_	.	_	_	_	_
 
 #Text=The baseline data that I use to --
@@ -1079,8 +1079,8 @@
 81-2	_	did	_	_	_	_
 81-3	_	you	abstract[93]	new[93]	coref	82-3[93_94]
 81-4	_	originate	_	_	_	_
-81-5	_	these	abstract[151]	new[151]	coref	82-5[151_152]
-81-6	_	questions	abstract[151]	new[151]	_	_
+81-5	_	these	abstract[150]	new[150]	coref	82-5[150_151]
+81-6	_	questions	abstract[150]	new[150]	_	_
 81-7	_	?	_	_	_	_
 
 #Text=Where did I make them ?
@@ -1088,7 +1088,7 @@
 82-2	_	did	_	_	_	_
 82-3	_	I	abstract[94]	new[94]	coref	90-1[94_95]
 82-4	_	make	_	_	_	_
-82-5	_	them	abstract[152]	new[152]	_	_
+82-5	_	them	abstract[151]	new[151]	_	_
 82-6	_	?	_	_	_	_
 
 #Text=You get a baseline from asking girls and refining profiles --
@@ -1106,7 +1106,7 @@
 
 #Text=And it 's an amalgamation of questions .
 84-1	_	And	_	_	_	_
-84-2	_	it	abstract[154]	new[154]	_	_
+84-2	_	it	abstract[153]	new[153]	_	_
 84-3	_	's	_	_	_	_
 84-4	_	an	_	_	_	_
 84-5	_	amalgamation	_	_	_	_
@@ -1125,9 +1125,9 @@
 #Text=What 's your favorite question ?
 86-1	_	What	_	_	_	_
 86-2	_	's	_	_	_	_
-86-3	_	your	abstract[45]|abstract[155]	new[45]|new[155]	coref|coref	87-1[45_46]|87-6[155_156]
-86-4	_	favorite	abstract[155]	new[155]	_	_
-86-5	_	question	abstract[155]	new[155]	_	_
+86-3	_	your	abstract[45]|abstract[154]	new[45]|new[154]	coref|coref	87-1[45_46]|87-6[154_155]
+86-4	_	favorite	abstract[154]	new[154]	_	_
+86-5	_	question	abstract[154]	new[154]	_	_
 86-6	_	?	_	_	_	_
 
 #Text=I do n't know , the O.J. Simpson ….
@@ -1136,9 +1136,9 @@
 87-3	_	n't	_	_	_	_
 87-4	_	know	_	_	_	_
 87-5	_	,	_	_	_	_
-87-6	_	the	abstract[156]	new[156]	coref	89-3[156_157]
-87-7	_	O.J.	abstract[156]|abstract[158]	new[156]|new[158]	coref	88-5[158_159]
-87-8	_	Simpson	abstract[156]|abstract[158]	new[156]|new[158]	_	_
+87-6	_	the	abstract[155]	new[155]	coref	89-3[155_156]
+87-7	_	O.J.	abstract[155]|abstract[157]	new[155]|new[157]	coref	88-5[157_158]
+87-8	_	Simpson	abstract[155]|abstract[157]	new[155]|new[157]	_	_
 87-9	_	….	_	_	_	_
 
 #Text=Yeah , I see O.J. Simpson .
@@ -1146,14 +1146,14 @@
 88-2	_	,	_	_	_	_
 88-3	_	I	abstract[147]	new[147]	coref	90-9[147_148]
 88-4	_	see	_	_	_	_
-88-5	_	O.J.	abstract[159]	new[159]	_	_
-88-6	_	Simpson	abstract[159]	new[159]	_	_
+88-5	_	O.J.	abstract[158]	new[158]	_	_
+88-6	_	Simpson	abstract[158]	new[158]	_	_
 88-7	_	.	_	_	_	_
 
 #Text=What would that be an indicator of ?
 89-1	_	What	_	_	_	_
 89-2	_	would	_	_	_	_
-89-3	_	that	abstract[157]	new[157]	_	_
+89-3	_	that	abstract[156]	new[156]	_	_
 89-4	_	be	_	_	_	_
 89-5	_	an	_	_	_	_
 89-6	_	indicator	_	_	_	_
@@ -1169,7 +1169,7 @@
 90-6	_	one	_	_	_	_
 90-7	_	you	abstract[47]	new[47]	_	_
 90-8	_	gave	_	_	_	_
-90-9	_	him	abstract[148]	new[148]	coref	94-1[148_149]
+90-9	_	him	abstract[148]	new[148]	_	_
 90-10	_	,	_	_	_	_
 90-11	_	but	_	_	_	_
 90-12	_	there	_	_	_	_
@@ -1195,7 +1195,7 @@
 92-2	_	you	abstract[96]	new[96]	coref	93-4[96_97]
 92-3	_	ask	_	_	_	_
 92-4	_	for	_	_	_	_
-92-5	_	references	abstract[160]	new[160]	coref	93-11[160_161]
+92-5	_	references	abstract[159]	new[159]	coref	93-11[159_160]
 92-6	_	?	_	_	_	_
 
 #Text=No , because I really ca n't call and tell them I 'm yeah , so - and - so 's applying here for a position .
@@ -1209,7 +1209,7 @@
 93-8	_	call	_	_	_	_
 93-9	_	and	_	_	_	_
 93-10	_	tell	_	_	_	_
-93-11	_	them	abstract[161]	new[161]	_	_
+93-11	_	them	abstract[160]	new[160]	_	_
 93-12	_	I	abstract[98]	new[98]	_	_
 93-13	_	'm	_	_	_	_
 93-14	_	yeah	_	_	_	_
@@ -1227,15 +1227,39 @@
 93-26	_	position	_	_	_	_
 93-27	_	.	_	_	_	_
 
-#Text=You need to believe there is an Anemone species ....
-94-1	_	You	abstract[149]	new[149]	_	_
-94-2	_	need	_	_	_	_
-94-3	_	to	_	_	_	_
-94-4	_	believe	_	_	_	_
-94-5	_	there	_	_	_	_
-94-6	_	is	_	_	_	_
-94-7	_	an	_	_	_	_
-94-8	_	Anemone	_	_	_	_
-94-9	_	species	_	_	_	_
-94-10	_	....	_	_	_	_
+#Text=As a scientific field trip to the Ross Sea , scientists have unfurled an exploding iceberg . Here 's a summary of what their mission is , and who they are looking for .
+94-1	_	As	_	_	_	_
+94-2	_	a	_	_	_	_
+94-3	_	scientific	_	_	_	_
+94-4	_	field	_	_	_	_
+94-5	_	trip	_	_	_	_
+94-6	_	to	_	_	_	_
+94-7	_	the	_	_	_	_
+94-8	_	Ross	_	_	_	_
+94-9	_	Sea	_	_	_	_
+94-10	_	,	_	_	_	_
+94-11	_	scientists	abstract[161]	new[161]	coref	94-24[161_162]
+94-12	_	have	_	_	_	_
+94-13	_	unfurled	_	_	_	_
+94-14	_	an	_	_	_	_
+94-15	_	exploding	_	_	_	_
+94-16	_	iceberg	_	_	_	_
+94-17	_	.	_	_	_	_
+94-18	_	Here	_	_	_	_
+94-19	_	's	_	_	_	_
+94-20	_	a	_	_	_	_
+94-21	_	summary	_	_	_	_
+94-22	_	of	_	_	_	_
+94-23	_	what	_	_	_	_
+94-24	_	their	abstract[162]	new[162]	coref	94-30[162_163]
+94-25	_	mission	_	_	_	_
+94-26	_	is	_	_	_	_
+94-27	_	,	_	_	_	_
+94-28	_	and	_	_	_	_
+94-29	_	who	_	_	_	_
+94-30	_	they	abstract[163]	new[163]	_	_
+94-31	_	are	_	_	_	_
+94-32	_	looking	_	_	_	_
+94-33	_	for	_	_	_	_
+94-34	_	.	_	_	_	_
 

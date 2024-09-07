@@ -1326,12 +1326,12 @@
 63-11	_	steam	_	_	_	_
 63-12	_	.	_	_	_	_
 
-#Text=Be careful what you say in public
-64-1	_	Be	_	_	_	_
-64-2	_	careful	_	_	_	_
-64-3	_	what	_	_	_	_
-64-4	_	you	_	_	_	_
-64-5	_	say	_	_	_	_
-64-6	_	in	_	_	_	_
-64-7	_	public	_	_	_	_
+#Text=Looks like someone dumped your information .
+64-1	_	Looks	_	_	_	_
+64-2	_	like	_	_	_	_
+64-3	_	someone	_	_	_	_
+64-4	_	dumped	_	_	_	_
+64-5	_	your	_	_	_	_
+64-6	_	information	_	_	_	_
+64-7	_	.	_	_	_	_
 

@@ -235,7 +235,7 @@
 11-34	_	injury	_	_	_	_
 11-35	_	.	_	_	_	_
 
-#Text=You should also stretch to " Visit three examples of York :
+#Text=You should also stretch to " Visit York and discover its culture and history for a weekend trip . Take the A9 from Manchester to York to explore one of the biggest city cities in Yorkshire . Take the A16B to the city centre for a day out . Stay in and see the city as a city .
 12-1	_	You	abstract[12]	new[12]	coref	16-12[12_13]
 12-2	_	should	_	_	_	_
 12-3	_	also	_	_	_	_
@@ -243,11 +243,58 @@
 12-5	_	to	_	_	_	_
 12-6	_	"	_	_	_	_
 12-7	_	Visit	_	_	_	_
-12-8	_	three	_	_	_	_
-12-9	_	examples	_	_	_	_
-12-10	_	of	_	_	_	_
-12-11	_	York	_	_	_	_
-12-12	_	:	_	_	_	_
+12-8	_	York	abstract[45]	new[45]	coref	12-11[45_46]
+12-9	_	and	_	_	_	_
+12-10	_	discover	_	_	_	_
+12-11	_	its	abstract[46]	new[46]	coref	12-26[46_47]
+12-12	_	culture	_	_	_	_
+12-13	_	and	_	_	_	_
+12-14	_	history	_	_	_	_
+12-15	_	for	_	_	_	_
+12-16	_	a	_	_	_	_
+12-17	_	weekend	_	_	_	_
+12-18	_	trip	_	_	_	_
+12-19	_	.	_	_	_	_
+12-20	_	Take	_	_	_	_
+12-21	_	the	_	_	_	_
+12-22	_	A9	_	_	_	_
+12-23	_	from	_	_	_	_
+12-24	_	Manchester	_	_	_	_
+12-25	_	to	_	_	_	_
+12-26	_	York	abstract[47]	new[47]	coref	12-29[47_48]
+12-27	_	to	_	_	_	_
+12-28	_	explore	_	_	_	_
+12-29	_	one	abstract[48]	new[48]	coref	12-54[48_49]
+12-30	_	of	abstract[48]	new[48]	_	_
+12-31	_	the	abstract[48]	new[48]	_	_
+12-32	_	biggest	abstract[48]	new[48]	_	_
+12-33	_	city	abstract[48]	new[48]	_	_
+12-34	_	cities	abstract[48]	new[48]	_	_
+12-35	_	in	abstract[48]	new[48]	_	_
+12-36	_	Yorkshire	abstract[48]	new[48]	_	_
+12-37	_	.	_	_	_	_
+12-38	_	Take	_	_	_	_
+12-39	_	the	_	_	_	_
+12-40	_	A16B	_	_	_	_
+12-41	_	to	_	_	_	_
+12-42	_	the	_	_	_	_
+12-43	_	city	_	_	_	_
+12-44	_	centre	_	_	_	_
+12-45	_	for	_	_	_	_
+12-46	_	a	_	_	_	_
+12-47	_	day	_	_	_	_
+12-48	_	out	_	_	_	_
+12-49	_	.	_	_	_	_
+12-50	_	Stay	_	_	_	_
+12-51	_	in	_	_	_	_
+12-52	_	and	_	_	_	_
+12-53	_	see	_	_	_	_
+12-54	_	the	abstract[49]	new[49]	_	_
+12-55	_	city	abstract[49]	new[49]	_	_
+12-56	_	as	_	_	_	_
+12-57	_	a	_	_	_	_
+12-58	_	city	_	_	_	_
+12-59	_	.	_	_	_	_
 
 #Text=wind down " at the end of ballet dancing .
 13-1	_	wind	_	_	_	_
@@ -269,11 +316,11 @@
 14-5	_	.	_	_	_	_
 
 #Text=Properly - fitted ballet shoes should be snug , but not so tight they cut off blood flow and create numbness in the feet .
-15-1	_	Properly	abstract[45]	new[45]	coref	15-14[45_46]
-15-2	_	-	abstract[45]	new[45]	_	_
-15-3	_	fitted	abstract[45]	new[45]	_	_
-15-4	_	ballet	abstract[45]	new[45]	_	_
-15-5	_	shoes	abstract[45]	new[45]	_	_
+15-1	_	Properly	abstract[50]	new[50]	coref	15-14[50_51]
+15-2	_	-	abstract[50]	new[50]	_	_
+15-3	_	fitted	abstract[50]	new[50]	_	_
+15-4	_	ballet	abstract[50]	new[50]	_	_
+15-5	_	shoes	abstract[50]	new[50]	_	_
 15-6	_	should	_	_	_	_
 15-7	_	be	_	_	_	_
 15-8	_	snug	_	_	_	_
@@ -282,7 +329,7 @@
 15-11	_	not	_	_	_	_
 15-12	_	so	_	_	_	_
 15-13	_	tight	_	_	_	_
-15-14	_	they	abstract[46]	new[46]	_	_
+15-14	_	they	abstract[51]	new[51]	_	_
 15-15	_	cut	_	_	_	_
 15-16	_	off	_	_	_	_
 15-17	_	blood	_	_	_	_
@@ -291,8 +338,8 @@
 15-20	_	create	_	_	_	_
 15-21	_	numbness	_	_	_	_
 15-22	_	in	_	_	_	_
-15-23	_	the	abstract[47]	new[47]	coref	17-10[47_48]
-15-24	_	feet	abstract[47]	new[47]	_	_
+15-23	_	the	abstract[52]	new[52]	coref	17-10[52_53]
+15-24	_	feet	abstract[52]	new[52]	_	_
 15-25	_	.	_	_	_	_
 
 #Text=There are different styles and types of shoes , so ask your ballet teacher or a salesman at the store for advice , given your intentions for dancing .
@@ -307,9 +354,9 @@
 16-9	_	,	_	_	_	_
 16-10	_	so	_	_	_	_
 16-11	_	ask	_	_	_	_
-16-12	_	your	abstract[13]|abstract[55]	new[13]|new[55]	coref|coref	16-25[13_14]|28-13[55_56]
-16-13	_	ballet	abstract[55]	new[55]	_	_
-16-14	_	teacher	abstract[55]	new[55]	_	_
+16-12	_	your	abstract[13]|abstract[60]	new[13]|new[60]	coref|coref	16-25[13_14]|28-12[60_61]
+16-13	_	ballet	abstract[60]	new[60]	_	_
+16-14	_	teacher	abstract[60]	new[60]	_	_
 16-15	_	or	_	_	_	_
 16-16	_	a	_	_	_	_
 16-17	_	salesman	_	_	_	_
@@ -336,8 +383,8 @@
 17-7	_	into	_	_	_	_
 17-8	_	,	_	_	_	_
 17-9	_	because	_	_	_	_
-17-10	_	your	abstract[15]|abstract[48]	new[15]|new[48]	coref	17-16[15_16]
-17-11	_	feet	abstract[48]	new[48]	_	_
+17-10	_	your	abstract[15]|abstract[53]	new[15]|new[53]	coref	17-16[15_16]
+17-11	_	feet	abstract[53]	new[53]	_	_
 17-12	_	will	_	_	_	_
 17-13	_	seem	_	_	_	_
 17-14	_	flexed	_	_	_	_
@@ -357,8 +404,8 @@
 18-4	_	them	_	_	_	_
 18-5	_	to	_	_	_	_
 18-6	_	where	_	_	_	_
-18-7	_	the	abstract[49]	new[49]	coref	19-2[49_50]
-18-8	_	drawstring	abstract[49]	new[49]	_	_
+18-7	_	the	abstract[54]	new[54]	coref	19-2[54_55]
+18-8	_	drawstring	abstract[54]	new[54]	_	_
 18-9	_	is	_	_	_	_
 18-10	_	tied	_	_	_	_
 18-11	_	slightly	_	_	_	_
@@ -367,8 +414,8 @@
 
 #Text=If your drawstring is longer than your pinkie then you should cut it off till it is roughly the size of your fingernail .
 19-1	_	If	_	_	_	_
-19-2	_	your	abstract[18]|abstract[50]	new[18]|new[50]	coref|coref	19-7[18_19]|19-13[50_51]
-19-3	_	drawstring	abstract[50]	new[50]	_	_
+19-2	_	your	abstract[18]|abstract[55]	new[18]|new[55]	coref|coref	19-7[18_19]|19-13[55_56]
+19-3	_	drawstring	abstract[55]	new[55]	_	_
 19-4	_	is	_	_	_	_
 19-5	_	longer	_	_	_	_
 19-6	_	than	_	_	_	_
@@ -378,10 +425,10 @@
 19-10	_	you	abstract[20]	new[20]	coref	19-22[20_21]
 19-11	_	should	_	_	_	_
 19-12	_	cut	_	_	_	_
-19-13	_	it	abstract[51]	new[51]	coref	19-16[51_52]
+19-13	_	it	abstract[56]	new[56]	coref	19-16[56_57]
 19-14	_	off	_	_	_	_
 19-15	_	till	_	_	_	_
-19-16	_	it	abstract[52]	new[52]	coref	20-1[52_53]
+19-16	_	it	abstract[57]	new[57]	coref	20-1[57_58]
 19-17	_	is	_	_	_	_
 19-18	_	roughly	_	_	_	_
 19-19	_	the	_	_	_	_
@@ -392,8 +439,8 @@
 19-24	_	.	_	_	_	_
 
 #Text=The drawstring just completes the fit .
-20-1	_	The	abstract[53]	new[53]	coref	21-1[53_54]
-20-2	_	drawstring	abstract[53]	new[53]	_	_
+20-1	_	The	abstract[58]	new[58]	coref	21-1[58_59]
+20-2	_	drawstring	abstract[58]	new[58]	_	_
 20-3	_	just	_	_	_	_
 20-4	_	completes	_	_	_	_
 20-5	_	the	_	_	_	_
@@ -401,7 +448,7 @@
 20-7	_	.	_	_	_	_
 
 #Text=It is n't made to tighten overly large shoes .
-21-1	_	It	abstract[54]	new[54]	_	_
+21-1	_	It	abstract[59]	new[59]	_	_
 21-2	_	is	_	_	_	_
 21-3	_	n't	_	_	_	_
 21-4	_	made	_	_	_	_
@@ -438,7 +485,7 @@
 23-8	_	bottom	_	_	_	_
 23-9	_	,	_	_	_	_
 23-10	_	so	_	_	_	_
-23-11	_	you	abstract[23]	new[23]	coref	25-7[23_24]
+23-11	_	you	abstract[23]	new[23]	coref	25-8[23_24]
 23-12	_	can	_	_	_	_
 23-13	_	turn	_	_	_	_
 23-14	_	!	_	_	_	_
@@ -461,13 +508,13 @@
 25-4	_	thing	_	_	_	_
 25-5	_	is	_	_	_	_
 25-6	_	that	_	_	_	_
-25-7	_	you	abstract[24]	new[24]	coref	25-13[24_25]
+25-7	_	you	abstract[24]	new[24]	coref	25-14[24_25]
 25-8	_	are	_	_	_	_
 25-9	_	comfortable	_	_	_	_
 25-10	_	,	_	_	_	_
 25-11	_	and	_	_	_	_
 25-12	_	that	_	_	_	_
-25-13	_	you	abstract[25]	new[25]	coref	25-23[25_26]
+25-13	_	you	abstract[25]	new[25]	coref	25-24[25_26]
 25-14	_	're	_	_	_	_
 25-15	_	not	_	_	_	_
 25-16	_	wearing	_	_	_	_
@@ -477,11 +524,11 @@
 25-20	_	fitting	_	_	_	_
 25-21	_	clothing	_	_	_	_
 25-22	_	so	_	_	_	_
-25-23	_	you	abstract[26]	new[26]	coref	25-27[26_27]
+25-23	_	you	abstract[26]	new[26]	coref	25-28[26_27]
 25-24	_	can	_	_	_	_
 25-25	_	make	_	_	_	_
 25-26	_	sure	_	_	_	_
-25-27	_	you	abstract[27]	new[27]	coref	28-3[27_28]
+25-27	_	you	abstract[27]	new[27]	coref	28-2[27_28]
 25-28	_	're	_	_	_	_
 25-29	_	forming	_	_	_	_
 25-30	_	and	_	_	_	_
@@ -520,7 +567,7 @@
 
 #Text=If you 're signed up for a class , check with your instructor to find out if there is a dress code at the school .
 28-1	_	If	_	_	_	_
-28-2	_	you	abstract[28]	new[28]	coref	28-13[28_29]
+28-2	_	you	abstract[28]	new[28]	coref	28-12[28_29]
 28-3	_	're	_	_	_	_
 28-4	_	signed	_	_	_	_
 28-5	_	up	_	_	_	_
@@ -530,8 +577,8 @@
 28-9	_	,	_	_	_	_
 28-10	_	check	_	_	_	_
 28-11	_	with	_	_	_	_
-28-12	_	your	abstract[29]|abstract[56]	new[29]|new[56]	coref	30-12[29_30]
-28-13	_	instructor	abstract[56]	new[56]	_	_
+28-12	_	your	abstract[29]|abstract[61]	new[29]|new[61]	coref	30-12[29_30]
+28-13	_	instructor	abstract[61]	new[61]	_	_
 28-14	_	to	_	_	_	_
 28-15	_	find	_	_	_	_
 28-16	_	out	_	_	_	_
@@ -542,8 +589,8 @@
 28-21	_	dress	_	_	_	_
 28-22	_	code	_	_	_	_
 28-23	_	at	_	_	_	_
-28-24	_	the	abstract[57]	new[57]	coref	30-2[57_58]
-28-25	_	school	abstract[57]	new[57]	_	_
+28-24	_	the	abstract[62]	new[62]	coref	30-2[62_63]
+28-25	_	school	abstract[62]	new[62]	_	_
 28-26	_	.	_	_	_	_
 
 #Text=Some schools may have students wear the same thing and others may just require any type of leotard and tights and sometimes ballet skirts .
@@ -575,13 +622,13 @@
 
 #Text=Mostly they require tight fitting clothing so they can see that your muscles are working properly and so on .
 30-1	_	Mostly	_	_	_	_
-30-2	_	they	abstract[58]	new[58]	coref	30-8[58_59]
+30-2	_	they	abstract[63]	new[63]	coref	30-8[63_64]
 30-3	_	require	_	_	_	_
 30-4	_	tight	_	_	_	_
 30-5	_	fitting	_	_	_	_
 30-6	_	clothing	_	_	_	_
 30-7	_	so	_	_	_	_
-30-8	_	they	abstract[59]	new[59]	_	_
+30-8	_	they	abstract[64]	new[64]	_	_
 30-9	_	can	_	_	_	_
 30-10	_	see	_	_	_	_
 30-11	_	that	_	_	_	_
@@ -610,19 +657,19 @@
 32-3	_	less	_	_	_	_
 32-4	_	about	_	_	_	_
 32-5	_	learning	_	_	_	_
-32-6	_	the	abstract[60]	new[60]	coref	32-12[60_61]
-32-7	_	moves	abstract[60]	new[60]	_	_
+32-6	_	the	abstract[65]	new[65]	coref	32-12[65_66]
+32-7	_	moves	abstract[65]	new[65]	_	_
 32-8	_	and	_	_	_	_
 32-9	_	more	_	_	_	_
 32-10	_	about	_	_	_	_
 32-11	_	perfecting	_	_	_	_
-32-12	_	them	abstract[61]	new[61]	coref	33-1[61_62]
+32-12	_	them	abstract[66]	new[66]	coref	33-1[66_67]
 32-13	_	.	_	_	_	_
 
 #Text=The moves themselves are relatively straightforward , but the positing , the timing , and the elegance required takes a lifetime of practice .
-33-1	_	The	abstract[62]	new[62]	coref	33-3[62_63]
-33-2	_	moves	abstract[62]	new[62]	_	_
-33-3	_	themselves	abstract[63]	new[63]	_	_
+33-1	_	The	abstract[67]	new[67]	coref	33-3[67_68]
+33-2	_	moves	abstract[67]	new[67]	_	_
+33-3	_	themselves	abstract[68]	new[68]	_	_
 33-4	_	are	_	_	_	_
 33-5	_	relatively	_	_	_	_
 33-6	_	straightforward	_	_	_	_
@@ -675,8 +722,8 @@
 34-27	_	able	_	_	_	_
 34-28	_	to	_	_	_	_
 34-29	_	correct	_	_	_	_
-34-30	_	your	abstract[31]|abstract[64]	new[31]|new[64]	coref|coref	34-36[31_32]|35-10[64_65]
-34-31	_	positioning	abstract[64]	new[64]	_	_
+34-30	_	your	abstract[31]|abstract[69]	new[31]|new[69]	coref|coref	34-36[31_32]|35-10[69_70]
+34-31	_	positioning	abstract[69]	new[69]	_	_
 34-32	_	and	_	_	_	_
 34-33	_	make	_	_	_	_
 34-34	_	sure	_	_	_	_
@@ -697,8 +744,8 @@
 35-7	_	mirrors	_	_	_	_
 35-8	_	for	_	_	_	_
 35-9	_	correcting	_	_	_	_
-35-10	_	your	abstract[33]|abstract[65]	new[33]|new[65]	coref|coref	35-15[33_34]|38-9[65_66]
-35-11	_	positioning	abstract[65]	new[65]	_	_
+35-10	_	your	abstract[33]|abstract[70]	new[33]|new[70]	coref|coref	35-15[33_34]|38-9[70_71]
+35-11	_	positioning	abstract[70]	new[70]	_	_
 35-12	_	and	_	_	_	_
 35-13	_	seeing	_	_	_	_
 35-14	_	what	_	_	_	_
@@ -770,8 +817,8 @@
 38-6	_	you	abstract[37]	new[37]	coref	38-9[37_38]
 38-7	_	can	_	_	_	_
 38-8	_	check	_	_	_	_
-38-9	_	your	abstract[38]|abstract[66]	new[38]|new[66]	coref	38-14[38_39]
-38-10	_	positioning	abstract[66]	new[66]	_	_
+38-9	_	your	abstract[38]|abstract[71]	new[38]|new[71]	coref	38-14[38_39]
+38-10	_	positioning	abstract[71]	new[71]	_	_
 38-11	_	and	_	_	_	_
 38-12	_	see	_	_	_	_
 38-13	_	what	_	_	_	_

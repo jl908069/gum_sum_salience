@@ -254,12 +254,12 @@
 10-10	_	you	abstract[8]	new[8]	_	_
 10-11	_	hear	_	_	_	_
 10-12	_	about	_	_	_	_
-10-13	_	our	abstract[18]|abstract[70]	new[18]|new[70]	coref|coref	29-1[18_19]|26-2[70_71]
-10-14	_	outrage	abstract[70]	new[70]	_	_
-10-15	_	over	abstract[70]	new[70]	_	_
-10-16	_	a	abstract[70]	new[70]	_	_
-10-17	_	racial	abstract[70]	new[70]	_	_
-10-18	_	issue	abstract[70]	new[70]	_	_
+10-13	_	our	abstract[18]|abstract[69]	new[18]|new[69]	coref|coref	29-1[18_19]|26-2[69_70]
+10-14	_	outrage	abstract[69]	new[69]	_	_
+10-15	_	over	abstract[69]	new[69]	_	_
+10-16	_	a	abstract[69]	new[69]	_	_
+10-17	_	racial	abstract[69]	new[69]	_	_
+10-18	_	issue	abstract[69]	new[69]	_	_
 10-19	_	today	_	_	_	_
 10-20	_	?	_	_	_	_
 
@@ -624,14 +624,14 @@
 23-12	_	to	_	_	_	_
 23-13	_	fill	_	_	_	_
 23-14	_	out	_	_	_	_
-23-15	_	a	abstract[68]	new[68]	coref	23-22[68_69]
-23-16	_	college	abstract[68]	new[68]	_	_
-23-17	_	application	abstract[68]	new[68]	_	_
-23-18	_	form	abstract[68]	new[68]	_	_
+23-15	_	a	abstract[67]	new[67]	coref	23-22[67_68]
+23-16	_	college	abstract[67]	new[67]	_	_
+23-17	_	application	abstract[67]	new[67]	_	_
+23-18	_	form	abstract[67]	new[67]	_	_
 23-19	_	or	_	_	_	_
 23-20	_	something	_	_	_	_
 23-21	_	like	_	_	_	_
-23-22	_	that	abstract[69]	new[69]	_	_
+23-22	_	that	abstract[68]	new[68]	_	_
 23-23	_	.	_	_	_	_
 
 #Text=Affirmative action here is very rare , and very often illegal .
@@ -661,7 +661,7 @@
 
 #Text=(3) It s understandable , since no one ever admitted that a lot of American freedom and prosperity comes from crimes against humanity
 26-1	_	(3)	_	_	_	_
-26-2	_	It	abstract[71]	new[71]	_	_
+26-2	_	It	abstract[70]	new[70]	_	_
 26-3	_	s	_	_	_	_
 26-4	_	understandable	_	_	_	_
 26-5	_	,	_	_	_	_
@@ -685,7 +685,7 @@
 26-23	_	humanity	_	_	_	_
 
 #Text=Your last point is a little complicated .
-27-1	_	Your	abstract[66]	new[66]	coref	32-6[66_67]
+27-1	_	Your	abstract[66]	new[66]	_	_
 27-2	_	last	_	_	_	_
 27-3	_	point	_	_	_	_
 27-4	_	is	_	_	_	_
@@ -763,12 +763,12 @@
 30-12	_	country	_	_	_	_
 30-13	_	the	_	_	_	_
 30-14	_	moment	_	_	_	_
-30-15	_	colonialist	abstract[72]	new[72]	coref	30-18[72_73]
-30-16	_	rule	abstract[72]	new[72]	_	_
+30-15	_	colonialist	abstract[71]	new[71]	coref	30-18[71_72]
+30-16	_	rule	abstract[71]	new[71]	_	_
 30-17	_	lost	_	_	_	_
-30-18	_	it's	abstract[73]	new[73]	_	_
+30-18	_	it's	abstract[72]	new[72]	_	_
 30-19	_	control	_	_	_	_
-30-20	_	here	abstract[74]	new[74]	coref	31-10[74_75]
+30-20	_	here	abstract[73]	new[73]	coref	31-10[73_74]
 30-21	_	.	_	_	_	_
 
 #Text=It 's not as simple as " All of USA 's achievements come from exploitation "
@@ -781,39 +781,28 @@
 31-7	_	"	_	_	_	_
 31-8	_	All	_	_	_	_
 31-9	_	of	_	_	_	_
-31-10	_	USA	abstract[75]	new[75]	_	_
-31-11	_	's	abstract[75]	new[75]	_	_
+31-10	_	USA	abstract[74]	new[74]	_	_
+31-11	_	's	abstract[74]	new[74]	_	_
 31-12	_	achievements	_	_	_	_
 31-13	_	come	_	_	_	_
 31-14	_	from	_	_	_	_
 31-15	_	exploitation	_	_	_	_
 31-16	_	"	_	_	_	_
 
-#Text=Is there anything else that I can do to provide the same help to the polygraph test listeners , even if they 're not there ?
-32-1	_	Is	_	_	_	_
-32-2	_	there	_	_	_	_
-32-3	_	anything	_	_	_	_
-32-4	_	else	_	_	_	_
-32-5	_	that	_	_	_	_
-32-6	_	I	abstract[67]	new[67]	_	_
-32-7	_	can	_	_	_	_
-32-8	_	do	_	_	_	_
-32-9	_	to	_	_	_	_
-32-10	_	provide	_	_	_	_
-32-11	_	the	_	_	_	_
-32-12	_	same	_	_	_	_
-32-13	_	help	_	_	_	_
-32-14	_	to	_	_	_	_
-32-15	_	the	abstract[76]	new[76]	coref	32-22[76_77]
-32-16	_	polygraph	abstract[76]	new[76]	_	_
-32-17	_	test	abstract[76]	new[76]	_	_
-32-18	_	listeners	abstract[76]	new[76]	_	_
-32-19	_	,	_	_	_	_
-32-20	_	even	_	_	_	_
-32-21	_	if	_	_	_	_
-32-22	_	they	abstract[77]	new[77]	_	_
-32-23	_	're	_	_	_	_
-32-24	_	not	_	_	_	_
-32-25	_	there	_	_	_	_
-32-26	_	?	_	_	_	_
+#Text=... tuple of issues on Getting Hired on A Changing Handâ ... http://tinyurl.com/i7ryzqh4 & ||
+32-1	_	...	_	_	_	_
+32-2	_	tuple	_	_	_	_
+32-3	_	of	_	_	_	_
+32-4	_	issues	_	_	_	_
+32-5	_	on	_	_	_	_
+32-6	_	Getting	_	_	_	_
+32-7	_	Hired	_	_	_	_
+32-8	_	on	_	_	_	_
+32-9	_	A	_	_	_	_
+32-10	_	Changing	_	_	_	_
+32-11	_	Handâ	_	_	_	_
+32-12	_	...	_	_	_	_
+32-13	_	http://tinyurl.com/i7ryzqh4	_	_	_	_
+32-14	_	&	_	_	_	_
+32-15	_	||	_	_	_	_
 

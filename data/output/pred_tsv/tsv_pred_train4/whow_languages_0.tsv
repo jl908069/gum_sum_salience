@@ -14,8 +14,8 @@
 
 #Text=Name your language .
 2-1	_	Name	_	_	_	_
-2-2	_	your	abstract[1]|abstract[60]	new[1]|new[60]	coref|coref	4-1[1_2]|5-10[60_61]
-2-3	_	language	abstract[60]	new[60]	_	_
+2-2	_	your	abstract[1]|abstract[61]	new[1]|new[61]	coref|coref	4-1[1_2]|5-10[61_62]
+2-3	_	language	abstract[61]	new[61]	_	_
 2-4	_	.	_	_	_	_
 
 #Text=This is the most fundamental property in all languages .
@@ -50,10 +50,10 @@
 5-7	_	up	_	_	_	_
 5-8	_	word	_	_	_	_
 5-9	_	from	_	_	_	_
-5-10	_	your	abstract[4]|abstract[61]	new[4]|new[61]	coref|coref	8-5[4_5]|14-3[61_62]
-5-11	_	made	abstract[61]	new[61]	_	_
-5-12	_	up	abstract[61]	new[61]	_	_
-5-13	_	language	abstract[61]	new[61]	_	_
+5-10	_	your	abstract[4]|abstract[62]	new[4]|new[62]	coref|coref	8-5[4_5]|14-3[62_63]
+5-11	_	made	abstract[62]	new[62]	_	_
+5-12	_	up	abstract[62]	new[62]	_	_
+5-13	_	language	abstract[62]	new[62]	_	_
 5-14	_	like	_	_	_	_
 5-15	_	'	_	_	_	_
 5-16	_	Victory	_	_	_	_
@@ -108,10 +108,10 @@
 8-4	_	that	_	_	_	_
 8-5	_	you	abstract[5]	new[5]	coref	12-2[5_6]
 8-6	_	use	_	_	_	_
-8-7	_	short	abstract[85]	new[85]	coref	8-10[85_86]
-8-8	_	words	abstract[85]	new[85]	_	_
+8-7	_	short	abstract[86]	new[86]	coref	8-10[86_87]
+8-8	_	words	abstract[86]	new[86]	_	_
 8-9	_	since	_	_	_	_
-8-10	_	they	abstract[86]	new[86]	_	_
+8-10	_	they	abstract[87]	new[87]	_	_
 8-11	_	are	_	_	_	_
 8-12	_	commonly	_	_	_	_
 8-13	_	used	_	_	_	_
@@ -162,7 +162,7 @@
 11-6	_	Bird	_	_	_	_
 11-7	_	is	_	_	_	_
 11-8	_	'	_	_	_	_
-11-9	_	Vogelaviatiolap	abstract[89]	new[89]	coref	15-11[89_90]
+11-9	_	Vogelaviatiolap	abstract[90]	new[90]	coref	15-11[90_91]
 11-10	_	'	_	_	_	_
 11-11	_	then	_	_	_	_
 11-12	_	why	_	_	_	_
@@ -211,7 +211,7 @@
 12-16	_	like	_	_	_	_
 12-17	_	French	_	_	_	_
 12-18	_	and	_	_	_	_
-12-19	_	German	abstract[94]	new[94]	coref	17-6[94_95]
+12-19	_	German	abstract[95]	new[95]	coref	17-6[95_96]
 12-20	_	.	_	_	_	_
 
 #Text=For example , if you want the word ' horse ' to be a boy , you may want ' the horse ' to be ' Mat Fereder ' , but a ' cat ' to be a girl , you may want , ' the cat ' to be ' Fet Kamaow ' .
@@ -246,10 +246,10 @@
 13-29	_	'	_	_	_	_
 13-30	_	,	_	_	_	_
 13-31	_	but	_	_	_	_
-13-32	_	a	abstract[87]	new[87]	coref	13-46[87_88]
-13-33	_	'	abstract[87]	new[87]	_	_
-13-34	_	cat	abstract[87]	new[87]	_	_
-13-35	_	'	abstract[87]	new[87]	_	_
+13-32	_	a	abstract[88]	new[88]	coref	13-46[88_89]
+13-33	_	'	abstract[88]	new[88]	_	_
+13-34	_	cat	abstract[88]	new[88]	_	_
+13-35	_	'	abstract[88]	new[88]	_	_
 13-36	_	to	_	_	_	_
 13-37	_	be	_	_	_	_
 13-38	_	a	_	_	_	_
@@ -260,8 +260,8 @@
 13-43	_	want	_	_	_	_
 13-44	_	,	_	_	_	_
 13-45	_	'	_	_	_	_
-13-46	_	the	abstract[88]	new[88]	_	_
-13-47	_	cat	abstract[88]	new[88]	_	_
+13-46	_	the	abstract[89]	new[89]	_	_
+13-47	_	cat	abstract[89]	new[89]	_	_
 13-48	_	'	_	_	_	_
 13-49	_	to	_	_	_	_
 13-50	_	be	_	_	_	_
@@ -274,8 +274,8 @@
 #Text=Consider basing your language on an existing language .
 14-1	_	Consider	_	_	_	_
 14-2	_	basing	_	_	_	_
-14-3	_	your	abstract[11]|abstract[62]	new[11]|new[62]	coref|coref	16-2[11_12]|32-2[62_63]
-14-4	_	language	abstract[62]	new[62]	_	_
+14-3	_	your	abstract[11]|abstract[63]	new[11]|new[63]	coref|coref	16-2[11_12]|32-2[63_64]
+14-4	_	language	abstract[63]	new[63]	_	_
 14-5	_	on	_	_	_	_
 14-6	_	an	_	_	_	_
 14-7	_	existing	_	_	_	_
@@ -293,7 +293,7 @@
 15-8	_	language	_	_	_	_
 15-9	_	,	_	_	_	_
 15-10	_	'	_	_	_	_
-15-11	_	Vogelaviatiolap	abstract[90]	new[90]	coref	16-7[90_91]
+15-11	_	Vogelaviatiolap	abstract[91]	new[91]	coref	16-7[91_92]
 15-12	_	'	_	_	_	_
 15-13	_	means	_	_	_	_
 15-14	_	Bird	_	_	_	_
@@ -306,7 +306,7 @@
 16-4	_	n't	_	_	_	_
 16-5	_	guessed	_	_	_	_
 16-6	_	,	_	_	_	_
-16-7	_	it	abstract[91]	new[91]	coref	19-1[91_92]
+16-7	_	it	abstract[92]	new[92]	coref	19-1[92_93]
 16-8	_	comes	_	_	_	_
 16-9	_	from	_	_	_	_
 16-10	_	the	_	_	_	_
@@ -319,7 +319,7 @@
 17-3	_	'	_	_	_	_
 17-4	_	comes	_	_	_	_
 17-5	_	from	_	_	_	_
-17-6	_	German	abstract[95]	new[95]	_	_
+17-6	_	German	abstract[96]	new[96]	_	_
 17-7	_	,	_	_	_	_
 17-8	_	which	_	_	_	_
 17-9	_	means	_	_	_	_
@@ -335,14 +335,14 @@
 18-7	_	.	_	_	_	_
 
 #Text=It 's uncompleted though , because the word is part of the term ' aviation '
-19-1	_	It	abstract[92]	new[92]	coref	19-7[92_93]
+19-1	_	It	abstract[93]	new[93]	coref	19-7[93_94]
 19-2	_	's	_	_	_	_
 19-3	_	uncompleted	_	_	_	_
 19-4	_	though	_	_	_	_
 19-5	_	,	_	_	_	_
 19-6	_	because	_	_	_	_
-19-7	_	the	abstract[93]	new[93]	_	_
-19-8	_	word	abstract[93]	new[93]	_	_
+19-7	_	the	abstract[94]	new[94]	_	_
+19-8	_	word	abstract[94]	new[94]	_	_
 19-9	_	is	_	_	_	_
 19-10	_	part	_	_	_	_
 19-11	_	of	_	_	_	_
@@ -354,7 +354,7 @@
 
 #Text=' lap ' comes from Onomatopoeia .
 20-1	_	'	_	_	_	_
-20-2	_	lap	abstract[96]	new[96]	coref	21-1[96_97]
+20-2	_	lap	abstract[97]	new[97]	coref	21-1[97_98]
 20-3	_	'	_	_	_	_
 20-4	_	comes	_	_	_	_
 20-5	_	from	_	_	_	_
@@ -362,14 +362,14 @@
 20-7	_	.	_	_	_	_
 
 #Text=It 's a completed term , but it is supposed to come from ' Flap ! '
-21-1	_	It	abstract[97]	new[97]	coref	21-8[97_98]
+21-1	_	It	abstract[98]	new[98]	coref	21-8[98_99]
 21-2	_	's	_	_	_	_
 21-3	_	a	_	_	_	_
 21-4	_	completed	_	_	_	_
 21-5	_	term	_	_	_	_
 21-6	_	,	_	_	_	_
 21-7	_	but	_	_	_	_
-21-8	_	it	abstract[98]	new[98]	_	_
+21-8	_	it	abstract[99]	new[99]	_	_
 21-9	_	is	_	_	_	_
 21-10	_	supposed	_	_	_	_
 21-11	_	to	_	_	_	_
@@ -494,7 +494,7 @@
 26-14	_	at	_	_	_	_
 26-15	_	all	_	_	_	_
 26-16	_	like	_	_	_	_
-26-17	_	Chinese	abstract[109]	new[109]	coref	45-19[109_110]
+26-17	_	Chinese	abstract[110]	new[110]	coref	45-19[110_111]
 26-18	_	!	_	_	_	_
 
 #Text=You can even take some words of languages , altering them or not .
@@ -502,13 +502,13 @@
 27-2	_	can	_	_	_	_
 27-3	_	even	_	_	_	_
 27-4	_	take	_	_	_	_
-27-5	_	some	abstract[99]	new[99]	coref	27-11[99_100]
-27-6	_	words	abstract[99]	new[99]	_	_
-27-7	_	of	abstract[99]	new[99]	_	_
-27-8	_	languages	abstract[99]	new[99]	_	_
+27-5	_	some	abstract[100]	new[100]	coref	27-11[100_101]
+27-6	_	words	abstract[100]	new[100]	_	_
+27-7	_	of	abstract[100]	new[100]	_	_
+27-8	_	languages	abstract[100]	new[100]	_	_
 27-9	_	,	_	_	_	_
 27-10	_	altering	_	_	_	_
-27-11	_	them	abstract[100]	new[100]	_	_
+27-11	_	them	abstract[101]	new[101]	_	_
 27-12	_	or	_	_	_	_
 27-13	_	not	_	_	_	_
 27-14	_	.	_	_	_	_
@@ -565,8 +565,8 @@
 
 #Text=Use your language .
 32-1	_	Use	_	_	_	_
-32-2	_	your	abstract[22]|abstract[63]	new[22]|new[63]	coref|coref	33-6[22_23]|33-5[63_64]
-32-3	_	language	abstract[63]	new[63]	_	_
+32-2	_	your	abstract[22]|abstract[64]	new[22]|new[64]	coref|coref	33-6[22_23]|33-5[64_65]
+32-3	_	language	abstract[64]	new[64]	_	_
 32-4	_	.	_	_	_	_
 
 #Text=Get used to using it yourself , and spread it to others .
@@ -574,12 +574,12 @@
 33-2	_	used	_	_	_	_
 33-3	_	to	_	_	_	_
 33-4	_	using	_	_	_	_
-33-5	_	it	abstract[64]	new[64]	coref	33-10[64_65]
+33-5	_	it	abstract[65]	new[65]	coref	33-10[65_66]
 33-6	_	yourself	abstract[23]	new[23]	coref	34-2[23_24]
 33-7	_	,	_	_	_	_
 33-8	_	and	_	_	_	_
 33-9	_	spread	_	_	_	_
-33-10	_	it	abstract[65]	new[65]	coref	34-6[65_66]
+33-10	_	it	abstract[66]	new[66]	coref	34-6[66_67]
 33-11	_	to	_	_	_	_
 33-12	_	others	_	_	_	_
 33-13	_	.	_	_	_	_
@@ -590,8 +590,8 @@
 34-3	_	feel	_	_	_	_
 34-4	_	confident	_	_	_	_
 34-5	_	about	_	_	_	_
-34-6	_	your	abstract[25]|abstract[66]	new[25]|new[66]	coref|coref	35-10[25_26]|35-10[66_67]
-34-7	_	language	abstract[66]	new[66]	_	_
+34-6	_	your	abstract[25]|abstract[67]	new[25]|new[67]	coref|coref	35-10[25_26]|35-10[67_68]
+34-7	_	language	abstract[67]	new[67]	_	_
 34-8	_	,	_	_	_	_
 34-9	_	experiment	_	_	_	_
 34-10	_	and	_	_	_	_
@@ -600,61 +600,61 @@
 
 #Text=Grab a book / novel and translate it to your own language .
 35-1	_	Grab	_	_	_	_
-35-2	_	a	abstract[101]	new[101]	coref	35-8[101_102]
-35-3	_	book	abstract[101]	new[101]	_	_
-35-4	_	/	abstract[101]	new[101]	_	_
-35-5	_	novel	abstract[101]	new[101]	_	_
+35-2	_	a	abstract[102]	new[102]	coref	35-8[102_103]
+35-3	_	book	abstract[102]	new[102]	_	_
+35-4	_	/	abstract[102]	new[102]	_	_
+35-5	_	novel	abstract[102]	new[102]	_	_
 35-6	_	and	_	_	_	_
 35-7	_	translate	_	_	_	_
-35-8	_	it	abstract[102]	new[102]	_	_
+35-8	_	it	abstract[103]	new[103]	_	_
 35-9	_	to	_	_	_	_
-35-10	_	your	abstract[26]|abstract[67]	new[26]|new[67]	coref|coref	36-2[26_27]|36-4[67_68]
-35-11	_	own	abstract[67]	new[67]	_	_
-35-12	_	language	abstract[67]	new[67]	_	_
+35-10	_	your	abstract[26]|abstract[68]	new[26]|new[68]	coref|coref	36-2[26_27]|36-4[68_69]
+35-11	_	own	abstract[68]	new[68]	_	_
+35-12	_	language	abstract[68]	new[68]	_	_
 35-13	_	.	_	_	_	_
 
 #Text=Teach your friends this new language .
 36-1	_	Teach	_	_	_	_
-36-2	_	your	abstract[27]|abstract[103]	new[27]|new[103]	coref|coref	37-4[27_28]|37-4[103_104]
-36-3	_	friends	abstract[103]	new[103]	_	_
-36-4	_	this	abstract[68]	new[68]	coref	37-7[68_69]
-36-5	_	new	abstract[68]	new[68]	_	_
-36-6	_	language	abstract[68]	new[68]	_	_
+36-2	_	your	abstract[27]|abstract[104]	new[27]|new[104]	coref|coref	37-4[27_28]|37-4[104_105]
+36-3	_	friends	abstract[104]	new[104]	_	_
+36-4	_	this	abstract[69]	new[69]	coref	37-7[69_70]
+36-5	_	new	abstract[69]	new[69]	_	_
+36-6	_	language	abstract[69]	new[69]	_	_
 36-7	_	.	_	_	_	_
 
 #Text=As soon as your friends understand your language , communicate to them with it .
 37-1	_	As	_	_	_	_
 37-2	_	soon	_	_	_	_
 37-3	_	as	_	_	_	_
-37-4	_	your	abstract[28]|abstract[104]	new[28]|new[104]	coref|coref	37-7[28_29]|37-12[104_105]
-37-5	_	friends	abstract[104]	new[104]	_	_
+37-4	_	your	abstract[28]|abstract[105]	new[28]|new[105]	coref|coref	37-7[28_29]|37-12[105_106]
+37-5	_	friends	abstract[105]	new[105]	_	_
 37-6	_	understand	_	_	_	_
-37-7	_	your	abstract[29]|abstract[69]	new[29]|new[69]	coref|coref	38-4[29_30]|37-14[69_70]
-37-8	_	language	abstract[69]	new[69]	_	_
+37-7	_	your	abstract[29]|abstract[70]	new[29]|new[70]	coref|coref	38-4[29_30]|37-14[70_71]
+37-8	_	language	abstract[70]	new[70]	_	_
 37-9	_	,	_	_	_	_
 37-10	_	communicate	_	_	_	_
 37-11	_	to	_	_	_	_
-37-12	_	them	abstract[105]	new[105]	coref	38-14[105_106]
+37-12	_	them	abstract[106]	new[106]	coref	38-14[106_107]
 37-13	_	with	_	_	_	_
-37-14	_	it	abstract[70]	new[70]	coref	38-4[70_71]
+37-14	_	it	abstract[71]	new[71]	coref	38-4[71_72]
 37-15	_	.	_	_	_	_
 
 #Text=Be fluent in your own made up language and start spreading this to your friends , family and strangers !
 38-1	_	Be	_	_	_	_
 38-2	_	fluent	_	_	_	_
 38-3	_	in	_	_	_	_
-38-4	_	your	abstract[30]|abstract[71]	new[30]|new[71]	coref|coref	38-14[30_31]|38-12[71_72]
-38-5	_	own	abstract[71]	new[71]	_	_
-38-6	_	made	abstract[71]	new[71]	_	_
-38-7	_	up	abstract[71]	new[71]	_	_
-38-8	_	language	abstract[71]	new[71]	_	_
+38-4	_	your	abstract[30]|abstract[72]	new[30]|new[72]	coref|coref	38-14[30_31]|38-12[72_73]
+38-5	_	own	abstract[72]	new[72]	_	_
+38-6	_	made	abstract[72]	new[72]	_	_
+38-7	_	up	abstract[72]	new[72]	_	_
+38-8	_	language	abstract[72]	new[72]	_	_
 38-9	_	and	_	_	_	_
 38-10	_	start	_	_	_	_
 38-11	_	spreading	_	_	_	_
-38-12	_	this	abstract[72]	new[72]	coref	39-10[72_73]
+38-12	_	this	abstract[73]	new[73]	coref	39-10[73_74]
 38-13	_	to	_	_	_	_
-38-14	_	your	abstract[31]|abstract[106]	new[31]|new[106]	coref	39-2[31_32]
-38-15	_	friends	abstract[106]	new[106]	_	_
+38-14	_	your	abstract[31]|abstract[107]	new[31]|new[107]	coref	39-2[31_32]
+38-15	_	friends	abstract[107]	new[107]	_	_
 38-16	_	,	_	_	_	_
 38-17	_	family	_	_	_	_
 38-18	_	and	_	_	_	_
@@ -671,11 +671,11 @@
 39-7	_	/	_	_	_	_
 39-8	_	story	_	_	_	_
 39-9	_	with	_	_	_	_
-39-10	_	your	abstract[33]|abstract[73]	new[33]|new[73]	coref|coref	40-2[33_34]|40-16[73_74]
-39-11	_	own	abstract[73]	new[73]	_	_
-39-12	_	made	abstract[73]	new[73]	_	_
-39-13	_	up	abstract[73]	new[73]	_	_
-39-14	_	language	abstract[73]	new[73]	_	_
+39-10	_	your	abstract[33]|abstract[74]	new[33]|new[74]	coref|coref	40-2[33_34]|40-16[74_75]
+39-11	_	own	abstract[74]	new[74]	_	_
+39-12	_	made	abstract[74]	new[74]	_	_
+39-13	_	up	abstract[74]	new[74]	_	_
+39-14	_	language	abstract[74]	new[74]	_	_
 39-15	_	.	_	_	_	_
 
 #Text=If you 're really ambitious , set a goal of helping others become fluent in the language .
@@ -694,8 +694,8 @@
 40-13	_	become	_	_	_	_
 40-14	_	fluent	_	_	_	_
 40-15	_	in	_	_	_	_
-40-16	_	the	abstract[74]	new[74]	coref	41-8[74_75]
-40-17	_	language	abstract[74]	new[74]	_	_
+40-16	_	the	abstract[75]	new[75]	coref	41-8[75_76]
+40-17	_	language	abstract[75]	new[75]	_	_
 40-18	_	.	_	_	_	_
 
 #Text=One day , maybe you can make it the official language of a country !
@@ -706,7 +706,7 @@
 41-5	_	you	abstract[35]	new[35]	coref	43-12[35_36]
 41-6	_	can	_	_	_	_
 41-7	_	make	_	_	_	_
-41-8	_	it	abstract[75]	new[75]	coref	43-4[75_76]
+41-8	_	it	abstract[76]	new[76]	coref	43-4[76_77]
 41-9	_	the	_	_	_	_
 41-10	_	official	_	_	_	_
 41-11	_	language	_	_	_	_
@@ -722,7 +722,7 @@
 43-1	_	Make	_	_	_	_
 43-2	_	sure	_	_	_	_
 43-3	_	that	_	_	_	_
-43-4	_	it	abstract[76]	new[76]	coref	44-8[76_77]
+43-4	_	it	abstract[77]	new[77]	coref	44-8[77_78]
 43-5	_	is	_	_	_	_
 43-6	_	a	_	_	_	_
 43-7	_	language	_	_	_	_
@@ -750,7 +750,7 @@
 44-5	_	how	_	_	_	_
 44-6	_	to	_	_	_	_
 44-7	_	write	_	_	_	_
-44-8	_	it	abstract[77]	new[77]	coref	53-17[77_78]
+44-8	_	it	abstract[78]	new[78]	coref	53-17[78_79]
 44-9	_	.	_	_	_	_
 
 #Text=For example we write it from left to right , in Arabic it 's right to left , Chinese is in columns , and so on .
@@ -758,7 +758,7 @@
 45-2	_	example	_	_	_	_
 45-3	_	we	_	_	_	_
 45-4	_	write	_	_	_	_
-45-5	_	it	abstract[107]	new[107]	coref	45-13[107_108]
+45-5	_	it	abstract[108]	new[108]	coref	45-13[108_109]
 45-6	_	from	_	_	_	_
 45-7	_	left	_	_	_	_
 45-8	_	to	_	_	_	_
@@ -766,13 +766,13 @@
 45-10	_	,	_	_	_	_
 45-11	_	in	_	_	_	_
 45-12	_	Arabic	_	_	_	_
-45-13	_	it	abstract[108]	new[108]	_	_
+45-13	_	it	abstract[109]	new[109]	_	_
 45-14	_	's	_	_	_	_
 45-15	_	right	_	_	_	_
 45-16	_	to	_	_	_	_
 45-17	_	left	_	_	_	_
 45-18	_	,	_	_	_	_
-45-19	_	Chinese	abstract[110]	new[110]	_	_
+45-19	_	Chinese	abstract[111]	new[111]	_	_
 45-20	_	is	_	_	_	_
 45-21	_	in	_	_	_	_
 45-22	_	columns	_	_	_	_
@@ -786,16 +786,16 @@
 46-1	_	Make	_	_	_	_
 46-2	_	sure	_	_	_	_
 46-3	_	that	_	_	_	_
-46-4	_	you	abstract[39]|abstract[111]	new[39]|new[111]	coref|coref	46-6[39_40]|47-8[111_112]
-46-5	_	and	abstract[111]	new[111]	_	_
-46-6	_	your	abstract[40]|abstract[111]|abstract[121]	new[40]|new[111]|new[121]	coref|coref	50-3[40_41]|61-13[121_122]
-46-7	_	friend(s)	abstract[111]|abstract[121]	new[111]|new[121]	_	_
+46-4	_	you	abstract[39]|abstract[112]	new[39]|new[112]	coref|coref	46-6[39_40]|47-8[112_113]
+46-5	_	and	abstract[112]	new[112]	_	_
+46-6	_	your	abstract[40]|abstract[112]|abstract[122]	new[40]|new[112]|new[122]	coref|coref	50-3[40_41]|61-13[122_123]
+46-7	_	friend(s)	abstract[112]|abstract[122]	new[112]|new[122]	_	_
 46-8	_	all	_	_	_	_
 46-9	_	follow	_	_	_	_
-46-10	_	a	abstract[113]	new[113]	coref	47-10[113_114]
-46-11	_	systematic	abstract[113]	new[113]	_	_
-46-12	_	language	abstract[113]	new[113]	_	_
-46-13	_	system	abstract[113]	new[113]	_	_
+46-10	_	a	abstract[114]	new[114]	coref	47-10[114_115]
+46-11	_	systematic	abstract[114]	new[114]	_	_
+46-12	_	language	abstract[114]	new[114]	_	_
+46-13	_	system	abstract[114]	new[114]	_	_
 46-14	_	.	_	_	_	_
 
 #Text=In other words , make sure that you follow the same guidelines .
@@ -806,11 +806,11 @@
 47-5	_	make	_	_	_	_
 47-6	_	sure	_	_	_	_
 47-7	_	that	_	_	_	_
-47-8	_	you	abstract[112]	new[112]	_	_
+47-8	_	you	abstract[113]	new[113]	_	_
 47-9	_	follow	_	_	_	_
-47-10	_	the	abstract[114]	new[114]	coref	49-1[114_115]
-47-11	_	same	abstract[114]	new[114]	_	_
-47-12	_	guidelines	abstract[114]	new[114]	_	_
+47-10	_	the	abstract[115]	new[115]	coref	49-1[115_116]
+47-11	_	same	abstract[115]	new[115]	_	_
+47-12	_	guidelines	abstract[115]	new[115]	_	_
 47-13	_	.	_	_	_	_
 
 #Text=Do n't use random letters .
@@ -822,7 +822,7 @@
 48-6	_	.	_	_	_	_
 
 #Text=It should make some sense , so that it will be easier to learn and speak with [ Example : Do n't use oh as e , hello as llo , and See ya as c yah ) .
-49-1	_	It	abstract[115]	new[115]	coref	49-9[115_116]
+49-1	_	It	abstract[116]	new[116]	coref	49-9[116_117]
 49-2	_	should	_	_	_	_
 49-3	_	make	_	_	_	_
 49-4	_	some	_	_	_	_
@@ -830,7 +830,7 @@
 49-6	_	,	_	_	_	_
 49-7	_	so	_	_	_	_
 49-8	_	that	_	_	_	_
-49-9	_	it	abstract[116]	new[116]	_	_
+49-9	_	it	abstract[117]	new[117]	_	_
 49-10	_	will	_	_	_	_
 49-11	_	be	_	_	_	_
 49-12	_	easier	_	_	_	_
@@ -932,21 +932,21 @@
 53-1	_	You	abstract[44]	new[44]	coref	53-17[44_45]
 53-2	_	must	_	_	_	_
 53-3	_	avoid	_	_	_	_
-53-4	_	simply	abstract[117]	new[117]	coref	53-13[117_118]
-53-5	_	copying	abstract[117]	new[117]	_	_
-53-6	_	the	abstract[117]	new[117]	_	_
-53-7	_	grammar	abstract[117]	new[117]	_	_
-53-8	_	rules	abstract[117]	new[117]	_	_
+53-4	_	simply	abstract[118]	new[118]	coref	53-13[118_119]
+53-5	_	copying	abstract[118]	new[118]	_	_
+53-6	_	the	abstract[118]	new[118]	_	_
+53-7	_	grammar	abstract[118]	new[118]	_	_
+53-8	_	rules	abstract[118]	new[118]	_	_
 53-9	_	,	_	_	_	_
 53-10	_	however	_	_	_	_
 53-11	_	,	_	_	_	_
 53-12	_	as	_	_	_	_
-53-13	_	this	abstract[118]	new[118]	_	_
+53-13	_	this	abstract[119]	new[119]	_	_
 53-14	_	would	_	_	_	_
 53-15	_	technically	_	_	_	_
 53-16	_	turn	_	_	_	_
-53-17	_	your	abstract[45]|abstract[78]	new[45]|new[78]	coref|coref	54-2[45_46]|54-2[78_79]
-53-18	_	language	abstract[78]	new[78]	_	_
+53-17	_	your	abstract[45]|abstract[79]	new[45]|new[79]	coref|coref	54-2[45_46]|54-2[79_80]
+53-18	_	language	abstract[79]	new[79]	_	_
 53-19	_	into	_	_	_	_
 53-20	_	a	_	_	_	_
 53-21	_	code	_	_	_	_
@@ -954,8 +954,8 @@
 
 #Text=Practice your language frequently so that you do n't forget it !
 54-1	_	Practice	_	_	_	_
-54-2	_	your	abstract[46]|abstract[79]	new[46]|new[79]	coref|coref	54-7[46_47]|54-11[79_80]
-54-3	_	language	abstract[79]	new[79]	_	_
+54-2	_	your	abstract[46]|abstract[80]	new[46]|new[80]	coref|coref	54-7[46_47]|54-11[80_81]
+54-3	_	language	abstract[80]	new[80]	_	_
 54-4	_	frequently	_	_	_	_
 54-5	_	so	_	_	_	_
 54-6	_	that	_	_	_	_
@@ -963,7 +963,7 @@
 54-8	_	do	_	_	_	_
 54-9	_	n't	_	_	_	_
 54-10	_	forget	_	_	_	_
-54-11	_	it	abstract[80]	new[80]	coref	65-14[80_81]
+54-11	_	it	abstract[81]	new[81]	coref	65-14[81_82]
 54-12	_	!	_	_	_	_
 
 #Text=Do n't forget punctuation !
@@ -1034,13 +1034,13 @@
 58-13	_	this	_	_	_	_
 58-14	_	case	_	_	_	_
 58-15	_	,	_	_	_	_
-58-16	_	the	abstract[119]	new[119]	coref	58-22[119_120]
-58-17	_	vowel	abstract[119]	new[119]	_	_
-58-18	_	A	abstract[119]	new[119]	_	_
+58-16	_	the	abstract[120]	new[120]	coref	58-22[120_121]
+58-17	_	vowel	abstract[120]	new[120]	_	_
+58-18	_	A	abstract[120]	new[120]	_	_
 58-19	_	might	_	_	_	_
 58-20	_	carry	_	_	_	_
 58-21	_	with	_	_	_	_
-58-22	_	it	abstract[120]	new[120]	_	_
+58-22	_	it	abstract[121]	new[121]	_	_
 58-23	_	a	_	_	_	_
 58-24	_	negative	_	_	_	_
 58-25	_	meaning	_	_	_	_
@@ -1123,8 +1123,8 @@
 61-10	_	after	_	_	_	_
 61-11	_	speaking	_	_	_	_
 61-12	_	to	_	_	_	_
-61-13	_	your	abstract[52]|abstract[122]	new[52]|new[122]	coref	62-16[52_53]
-61-14	_	friends	abstract[122]	new[122]	_	_
+61-13	_	your	abstract[52]|abstract[123]	new[52]|new[123]	coref	62-16[52_53]
+61-14	_	friends	abstract[123]	new[123]	_	_
 61-15	_	.	_	_	_	_
 
 #Text=Just put marks over the letters or make up something right on the spot , you might have to take some time on this !
@@ -1197,21 +1197,21 @@
 65-11	_	that	_	_	_	_
 65-12	_	can	_	_	_	_
 65-13	_	understand	_	_	_	_
-65-14	_	your	abstract[54]|abstract[81]	new[54]|new[81]	coref|coref	66-4[54_55]|66-6[81_82]
-65-15	_	language	abstract[81]	new[81]	_	_
+65-14	_	your	abstract[54]|abstract[82]	new[54]|new[82]	coref|coref	66-4[54_55]|66-6[82_83]
+65-15	_	language	abstract[82]	new[82]	_	_
 65-16	_	.	_	_	_	_
 
 #Text=Email or text your friends the language so that they wo n't be so confused .
 66-1	_	Email	_	_	_	_
 66-2	_	or	_	_	_	_
 66-3	_	text	_	_	_	_
-66-4	_	your	abstract[55]|abstract[123]	new[55]|new[123]	coref|coref	67-21[55_56]|66-10[123_124]
-66-5	_	friends	abstract[123]	new[123]	_	_
-66-6	_	the	abstract[82]	new[82]	coref	68-12[82_83]
-66-7	_	language	abstract[82]	new[82]	_	_
+66-4	_	your	abstract[55]|abstract[124]	new[55]|new[124]	coref|coref	67-21[55_56]|66-10[124_125]
+66-5	_	friends	abstract[124]	new[124]	_	_
+66-6	_	the	abstract[83]	new[83]	coref	68-12[83_84]
+66-7	_	language	abstract[83]	new[83]	_	_
 66-8	_	so	_	_	_	_
 66-9	_	that	_	_	_	_
-66-10	_	they	abstract[124]	new[124]	_	_
+66-10	_	they	abstract[125]	new[125]	_	_
 66-11	_	wo	_	_	_	_
 66-12	_	n't	_	_	_	_
 66-13	_	be	_	_	_	_
@@ -1222,9 +1222,9 @@
 #Text=When making a writing system , take a break about every five minutes and come back to it or all your letters will begin to look identical .
 67-1	_	When	_	_	_	_
 67-2	_	making	_	_	_	_
-67-3	_	a	abstract[125]	new[125]	coref	67-18[125_126]
-67-4	_	writing	abstract[125]	new[125]	_	_
-67-5	_	system	abstract[125]	new[125]	_	_
+67-3	_	a	abstract[126]	new[126]	coref	67-18[126_127]
+67-4	_	writing	abstract[126]	new[126]	_	_
+67-5	_	system	abstract[126]	new[126]	_	_
 67-6	_	,	_	_	_	_
 67-7	_	take	_	_	_	_
 67-8	_	a	_	_	_	_
@@ -1237,7 +1237,7 @@
 67-15	_	come	_	_	_	_
 67-16	_	back	_	_	_	_
 67-17	_	to	_	_	_	_
-67-18	_	it	abstract[126]	new[126]	_	_
+67-18	_	it	abstract[127]	new[127]	_	_
 67-19	_	or	_	_	_	_
 67-20	_	all	_	_	_	_
 67-21	_	your	abstract[56]	new[56]	coref	68-2[56_57]
@@ -1261,8 +1261,8 @@
 68-9	_	you	abstract[58]	new[58]	coref	69-3[58_59]
 68-10	_	can	_	_	_	_
 68-11	_	use	_	_	_	_
-68-12	_	this	abstract[83]	new[83]	coref	69-3[83_84]
-68-13	_	language	abstract[83]	new[83]	_	_
+68-12	_	this	abstract[84]	new[84]	coref	69-3[84_85]
+68-13	_	language	abstract[84]	new[84]	_	_
 68-14	_	as	_	_	_	_
 68-15	_	a	_	_	_	_
 68-16	_	model	_	_	_	_
@@ -1282,9 +1282,9 @@
 #Text=This makes your first language a proto-language — a language that branches off into a family of languages .
 69-1	_	This	_	_	_	_
 69-2	_	makes	_	_	_	_
-69-3	_	your	abstract[59]|abstract[84]	new[59]|new[84]	_	_
-69-4	_	first	abstract[84]	new[84]	_	_
-69-5	_	language	abstract[84]	new[84]	_	_
+69-3	_	your	abstract[59]|abstract[85]	new[59]|new[85]	coref	70-8[59_60]
+69-4	_	first	abstract[85]	new[85]	_	_
+69-5	_	language	abstract[85]	new[85]	_	_
 69-6	_	a	_	_	_	_
 69-7	_	proto-language	_	_	_	_
 69-8	_	—	_	_	_	_
@@ -1300,60 +1300,39 @@
 69-18	_	languages	_	_	_	_
 69-19	_	.	_	_	_	_
 
-#Text=Consider using glowsticks and hydrogen peroxide . Prepare 1 lit ( liters ) of luminol , 1 g of sulfate , 1 g of copper sulfate , 1 mg ( 4.9 US gal ) of ammonium carbonate , an additional 0.5 g of distilled water - to fill in the top 2 cups of hydro
-70-1	_	Consider	_	_	_	_
-70-2	_	using	_	_	_	_
-70-3	_	glowsticks	_	_	_	_
-70-4	_	and	_	_	_	_
-70-5	_	hydrogen	_	_	_	_
-70-6	_	peroxide	_	_	_	_
-70-7	_	.	_	_	_	_
-70-8	_	Prepare	_	_	_	_
-70-9	_	1	_	_	_	_
-70-10	_	lit	_	_	_	_
-70-11	_	(	_	_	_	_
-70-12	_	liters	_	_	_	_
-70-13	_	)	_	_	_	_
-70-14	_	of	_	_	_	_
-70-15	_	luminol	_	_	_	_
-70-16	_	,	_	_	_	_
-70-17	_	1	_	_	_	_
-70-18	_	g	_	_	_	_
-70-19	_	of	_	_	_	_
-70-20	_	sulfate	_	_	_	_
-70-21	_	,	_	_	_	_
-70-22	_	1	_	_	_	_
-70-23	_	g	_	_	_	_
-70-24	_	of	_	_	_	_
-70-25	_	copper	_	_	_	_
-70-26	_	sulfate	_	_	_	_
-70-27	_	,	_	_	_	_
-70-28	_	1	_	_	_	_
-70-29	_	mg	_	_	_	_
-70-30	_	(	_	_	_	_
-70-31	_	4.9	_	_	_	_
-70-32	_	US	_	_	_	_
-70-33	_	gal	_	_	_	_
-70-34	_	)	_	_	_	_
-70-35	_	of	_	_	_	_
-70-36	_	ammonium	_	_	_	_
-70-37	_	carbonate	_	_	_	_
-70-38	_	,	_	_	_	_
-70-39	_	an	_	_	_	_
-70-40	_	additional	_	_	_	_
-70-41	_	0.5	_	_	_	_
-70-42	_	g	_	_	_	_
-70-43	_	of	_	_	_	_
-70-44	_	distilled	_	_	_	_
-70-45	_	water	_	_	_	_
-70-46	_	-	_	_	_	_
-70-47	_	to	_	_	_	_
-70-48	_	fill	_	_	_	_
-70-49	_	in	_	_	_	_
-70-50	_	the	_	_	_	_
-70-51	_	top	_	_	_	_
-70-52	_	2	_	_	_	_
-70-53	_	cups	_	_	_	_
-70-54	_	of	_	_	_	_
-70-55	_	hydro	_	_	_	_
+#Text=Practice telling a joke . Put on your protective gear . Prepare the fumes . Fill the containers so that the liquid is dissolved . Turn off the lights . Check the glows .
+70-1	_	Practice	_	_	_	_
+70-2	_	telling	_	_	_	_
+70-3	_	a	_	_	_	_
+70-4	_	joke	_	_	_	_
+70-5	_	.	_	_	_	_
+70-6	_	Put	_	_	_	_
+70-7	_	on	_	_	_	_
+70-8	_	your	abstract[60]	new[60]	_	_
+70-9	_	protective	_	_	_	_
+70-10	_	gear	_	_	_	_
+70-11	_	.	_	_	_	_
+70-12	_	Prepare	_	_	_	_
+70-13	_	the	_	_	_	_
+70-14	_	fumes	_	_	_	_
+70-15	_	.	_	_	_	_
+70-16	_	Fill	_	_	_	_
+70-17	_	the	_	_	_	_
+70-18	_	containers	_	_	_	_
+70-19	_	so	_	_	_	_
+70-20	_	that	_	_	_	_
+70-21	_	the	_	_	_	_
+70-22	_	liquid	_	_	_	_
+70-23	_	is	_	_	_	_
+70-24	_	dissolved	_	_	_	_
+70-25	_	.	_	_	_	_
+70-26	_	Turn	_	_	_	_
+70-27	_	off	_	_	_	_
+70-28	_	the	_	_	_	_
+70-29	_	lights	_	_	_	_
+70-30	_	.	_	_	_	_
+70-31	_	Check	_	_	_	_
+70-32	_	the	_	_	_	_
+70-33	_	glows	_	_	_	_
+70-34	_	.	_	_	_	_
 

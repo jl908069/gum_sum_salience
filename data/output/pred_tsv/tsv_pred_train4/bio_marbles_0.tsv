@@ -1022,38 +1022,24 @@
 43-36	_	regularly	_	_	_	_
 43-37	_	appear	_	_	_	_
 43-38	_	in	_	_	_	_
-43-39	_	her	abstract[120]	new[120]	coref	44-1[120_121]
+43-39	_	her	abstract[120]	new[120]	coref	44-4[120_121]
 43-40	_	videos	_	_	_	_
 43-41	_	.	_	_	_	_
 43-42	_	[	_	_	_	_
 43-43	_	26	_	_	_	_
 43-44	_	]	_	_	_	_
 
-#Text=She is the first Twitter user . She appeared in the movie """" Gamer Boy """" with her dogs , Marble , Kermit and Peach .
-44-1	_	She	abstract[121]	new[121]	coref	44-8[121_122]
-44-2	_	is	_	_	_	_
-44-3	_	the	_	_	_	_
-44-4	_	first	_	_	_	_
-44-5	_	Twitter	_	_	_	_
-44-6	_	user	_	_	_	_
-44-7	_	.	_	_	_	_
-44-8	_	She	abstract[122]	new[122]	coref	44-18[122_123]
-44-9	_	appeared	_	_	_	_
-44-10	_	in	_	_	_	_
-44-11	_	the	_	_	_	_
-44-12	_	movie	_	_	_	_
-44-13	_	""""	_	_	_	_
-44-14	_	Gamer	_	_	_	_
-44-15	_	Boy	_	_	_	_
-44-16	_	""""	_	_	_	_
-44-17	_	with	_	_	_	_
-44-18	_	her	abstract[123]	new[123]	_	_
-44-19	_	dogs	_	_	_	_
-44-20	_	,	_	_	_	_
-44-21	_	Marble	_	_	_	_
-44-22	_	,	_	_	_	_
-44-23	_	Kermit	_	_	_	_
-44-24	_	and	_	_	_	_
-44-25	_	Peach	_	_	_	_
-44-26	_	.	_	_	_	_
+#Text=For more on Jenna , stay in touch with Jenna Marbles .
+44-1	_	For	_	_	_	_
+44-2	_	more	_	_	_	_
+44-3	_	on	_	_	_	_
+44-4	_	Jenna	abstract[121]	new[121]	coref	44-10[121_122]
+44-5	_	,	_	_	_	_
+44-6	_	stay	_	_	_	_
+44-7	_	in	_	_	_	_
+44-8	_	touch	_	_	_	_
+44-9	_	with	_	_	_	_
+44-10	_	Jenna	abstract[122]	new[122]	_	_
+44-11	_	Marbles	abstract[122]	new[122]	_	_
+44-12	_	.	_	_	_	_
 

@@ -537,18 +537,31 @@
 21-14	_	class	_	_	_	_
 21-15	_	.	_	_	_	_
 
-#Text=The story " Zaha Hadid : Early life and academic career
+#Text=The story " A career that saw her name in the news , including the design of the 86 - storey Al Wakrah Stadium
 22-1	_	The	abstract[62]	new[62]	coref	23-5[62_63]
 22-2	_	story	abstract[62]	new[62]	_	_
 22-3	_	"	abstract[62]	new[62]	_	_
-22-4	_	Zaha	abstract[62]	new[62]	_	_
-22-5	_	Hadid	abstract[62]	new[62]	_	_
-22-6	_	:	abstract[62]	new[62]	_	_
-22-7	_	Early	abstract[62]	new[62]	_	_
-22-8	_	life	abstract[62]	new[62]	_	_
-22-9	_	and	abstract[62]	new[62]	_	_
-22-10	_	academic	abstract[62]	new[62]	_	_
-22-11	_	career	abstract[62]	new[62]	_	_
+22-4	_	A	abstract[62]	new[62]	_	_
+22-5	_	career	abstract[62]	new[62]	_	_
+22-6	_	that	abstract[62]	new[62]	_	_
+22-7	_	saw	abstract[62]	new[62]	_	_
+22-8	_	her	abstract[62]	new[62]	_	_
+22-9	_	name	abstract[62]	new[62]	_	_
+22-10	_	in	abstract[62]	new[62]	_	_
+22-11	_	the	abstract[62]	new[62]	_	_
+22-12	_	news	abstract[62]	new[62]	_	_
+22-13	_	,	abstract[62]	new[62]	_	_
+22-14	_	including	abstract[62]	new[62]	_	_
+22-15	_	the	abstract[62]	new[62]	_	_
+22-16	_	design	abstract[62]	new[62]	_	_
+22-17	_	of	abstract[62]	new[62]	_	_
+22-18	_	the	abstract[62]	new[62]	_	_
+22-19	_	86	abstract[62]	new[62]	_	_
+22-20	_	-	abstract[62]	new[62]	_	_
+22-21	_	storey	abstract[62]	new[62]	_	_
+22-22	_	Al	abstract[62]	new[62]	_	_
+22-23	_	Wakrah	abstract[62]	new[62]	_	_
+22-24	_	Stadium	abstract[62]	new[62]	_	_
 
 #Text=Umoregi " ( " In Obscurity " ) signaled Higuchi 's arrival as a professional writer .
 23-1	_	Umoregi	_	_	_	_

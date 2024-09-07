@@ -312,11 +312,11 @@
 17-8	_	opened	_	_	_	_
 17-9	_	,	_	_	_	_
 17-10	_	then	_	_	_	_
-17-11	_	both	abstract[87]	new[87]	coref	18-8[87_88]
-17-12	_	your	abstract[41]|abstract[87]	new[41]|new[87]	coref	18-8[41_42]
-17-13	_	chances	abstract[87]	new[87]	_	_
-17-14	_	of	abstract[87]	new[87]	_	_
-17-15	_	survival	abstract[87]	new[87]	_	_
+17-11	_	both	abstract[88]	new[88]	coref	18-8[88_89]
+17-12	_	your	abstract[41]|abstract[88]	new[41]|new[88]	coref	18-8[41_42]
+17-13	_	chances	abstract[88]	new[88]	_	_
+17-14	_	of	abstract[88]	new[88]	_	_
+17-15	_	survival	abstract[88]	new[88]	_	_
 17-16	_	have	_	_	_	_
 17-17	_	dramatically	_	_	_	_
 17-18	_	increased	_	_	_	_
@@ -324,22 +324,22 @@
 
 #Text=With a large and slow canopy , your chances are even better .
 18-1	_	With	_	_	_	_
-18-2	_	a	abstract[89]	new[89]	coref	19-1[89_90]
-18-3	_	large	abstract[89]	new[89]	_	_
-18-4	_	and	abstract[89]	new[89]	_	_
-18-5	_	slow	abstract[89]	new[89]	_	_
-18-6	_	canopy	abstract[89]	new[89]	_	_
+18-2	_	a	abstract[90]	new[90]	coref	19-1[90_91]
+18-3	_	large	abstract[90]	new[90]	_	_
+18-4	_	and	abstract[90]	new[90]	_	_
+18-5	_	slow	abstract[90]	new[90]	_	_
+18-6	_	canopy	abstract[90]	new[90]	_	_
 18-7	_	,	_	_	_	_
-18-8	_	your	abstract[42]|abstract[88]	new[42]|new[88]	coref	19-22[42_43]
-18-9	_	chances	abstract[88]	new[88]	_	_
+18-8	_	your	abstract[42]|abstract[89]	new[42]|new[89]	coref	19-22[42_43]
+18-9	_	chances	abstract[89]	new[89]	_	_
 18-10	_	are	_	_	_	_
 18-11	_	even	_	_	_	_
 18-12	_	better	_	_	_	_
 18-13	_	.	_	_	_	_
 
 #Text=The canopy must be steered away from power lines and similar obstructions ; try for a large body of water if you are confident your companion can save you from drowning .
-19-1	_	The	abstract[90]	new[90]	_	_
-19-2	_	canopy	abstract[90]	new[90]	_	_
+19-1	_	The	abstract[91]	new[91]	_	_
+19-2	_	canopy	abstract[91]	new[91]	_	_
 19-3	_	must	_	_	_	_
 19-4	_	be	_	_	_	_
 19-5	_	steered	_	_	_	_
@@ -380,7 +380,7 @@
 
 #Text=If this is a solo jump , which constitutes the minority of skydivers , your only recourse is to ensure that at least one of your own chutes opens .
 21-1	_	If	_	_	_	_
-21-2	_	this	abstract[91]	new[91]	coref	22-2[91_92]
+21-2	_	this	abstract[92]	new[92]	coref	22-2[92_93]
 21-3	_	is	_	_	_	_
 21-4	_	a	_	_	_	_
 21-5	_	solo	_	_	_	_
@@ -400,20 +400,20 @@
 21-19	_	to	_	_	_	_
 21-20	_	ensure	_	_	_	_
 21-21	_	that	_	_	_	_
-21-22	_	at	abstract[93]	new[93]	coref	23-10[93_94]
-21-23	_	least	abstract[93]	new[93]	_	_
-21-24	_	one	abstract[93]	new[93]	_	_
-21-25	_	of	abstract[93]	new[93]	_	_
-21-26	_	your	abstract[24]|abstract[47]|abstract[93]	new[24]|new[47]|new[93]	coref	22-10[47_48]
-21-27	_	own	abstract[24]|abstract[93]	new[24]|new[93]	_	_
-21-28	_	chutes	abstract[24]|abstract[93]	new[24]|new[93]	_	_
+21-22	_	at	abstract[94]	new[94]	coref	23-10[94_95]
+21-23	_	least	abstract[94]	new[94]	_	_
+21-24	_	one	abstract[94]	new[94]	_	_
+21-25	_	of	abstract[94]	new[94]	_	_
+21-26	_	your	abstract[24]|abstract[47]|abstract[94]	new[24]|new[47]|new[94]	coref	22-10[47_48]
+21-27	_	own	abstract[24]|abstract[94]	new[24]|new[94]	_	_
+21-28	_	chutes	abstract[24]|abstract[94]	new[24]|new[94]	_	_
 21-29	_	opens	_	_	_	_
 21-30	_	.	_	_	_	_
 
 #Text=In this case , the excellent advice offered by your instructors on assisting chute opening may be of assistance to you .
 22-1	_	In	_	_	_	_
-22-2	_	this	abstract[92]	new[92]	_	_
-22-3	_	case	abstract[92]	new[92]	_	_
+22-2	_	this	abstract[93]	new[93]	_	_
+22-3	_	case	abstract[93]	new[93]	_	_
 22-4	_	,	_	_	_	_
 22-5	_	the	_	_	_	_
 22-6	_	excellent	_	_	_	_
@@ -444,11 +444,11 @@
 23-7	_	can	_	_	_	_
 23-8	_	not	_	_	_	_
 23-9	_	open	_	_	_	_
-23-10	_	either	abstract[94]	new[94]	_	_
-23-11	_	of	abstract[94]	new[94]	_	_
-23-12	_	your	abstract[51]|abstract[94]|abstract[95]	new[51]|new[94]|new[95]	coref|coref	25-2[51_52]|23-22[95_96]
-23-13	_	two	abstract[94]|abstract[95]	new[94]|new[95]	_	_
-23-14	_	parachutes	abstract[94]|abstract[95]	new[94]|new[95]	_	_
+23-10	_	either	abstract[95]	new[95]	_	_
+23-11	_	of	abstract[95]	new[95]	_	_
+23-12	_	your	abstract[51]|abstract[95]|abstract[96]	new[51]|new[95]|new[96]	coref|coref	25-2[51_52]|23-22[96_97]
+23-13	_	two	abstract[95]|abstract[96]	new[95]|new[96]	_	_
+23-14	_	parachutes	abstract[95]|abstract[96]	new[95]|new[96]	_	_
 23-15	_	,	_	_	_	_
 23-16	_	or	_	_	_	_
 23-17	_	that	_	_	_	_
@@ -456,7 +456,7 @@
 23-19	_	some	_	_	_	_
 23-20	_	other	_	_	_	_
 23-21	_	reason	_	_	_	_
-23-22	_	they	abstract[96]	new[96]	_	_
+23-22	_	they	abstract[97]	new[97]	_	_
 23-23	_	are	_	_	_	_
 23-24	_	fatally	_	_	_	_
 23-25	_	non-functional	_	_	_	_
@@ -496,8 +496,8 @@
 25-16	_	point	_	_	_	_
 25-17	_	to	_	_	_	_
 25-18	_	offer	_	_	_	_
-25-19	_	a	abstract[97]	new[97]	coref	27-3[97_98]
-25-20	_	prayer	abstract[97]	new[97]	_	_
+25-19	_	a	abstract[98]	new[98]	coref	27-3[98_99]
+25-20	_	prayer	abstract[98]	new[98]	_	_
 25-21	_	to	_	_	_	_
 25-22	_	a	_	_	_	_
 25-23	_	god	_	_	_	_
@@ -530,7 +530,7 @@
 #Text=Objectively , this is not likely to help very much ; but it may improve your emotional state .
 27-1	_	Objectively	_	_	_	_
 27-2	_	,	_	_	_	_
-27-3	_	this	abstract[98]	new[98]	coref	27-13[98_99]
+27-3	_	this	abstract[99]	new[99]	coref	27-13[99_100]
 27-4	_	is	_	_	_	_
 27-5	_	not	_	_	_	_
 27-6	_	likely	_	_	_	_
@@ -540,7 +540,7 @@
 27-10	_	much	_	_	_	_
 27-11	_	;	_	_	_	_
 27-12	_	but	_	_	_	_
-27-13	_	it	abstract[99]	new[99]	coref	28-24[99_100]
+27-13	_	it	abstract[100]	new[100]	coref	28-24[100_101]
 27-14	_	may	_	_	_	_
 27-15	_	improve	_	_	_	_
 27-16	_	your	abstract[54]	new[54]	coref	28-2[54_55]
@@ -572,8 +572,8 @@
 28-21	_	deity	_	_	_	_
 28-22	_	,	_	_	_	_
 28-23	_	skip	_	_	_	_
-28-24	_	this	abstract[100]	new[100]	_	_
-28-25	_	step	abstract[100]	new[100]	_	_
+28-24	_	this	abstract[101]	new[101]	_	_
+28-25	_	step	abstract[101]	new[101]	_	_
 28-26	_	.	_	_	_	_
 
 #Text=Contemplate .
@@ -642,7 +642,7 @@
 32-1	_	Alternatively	_	_	_	_
 32-2	_	,	_	_	_	_
 32-3	_	if	_	_	_	_
-32-4	_	life	abstract[101]	new[101]	coref	32-31[101_102]
+32-4	_	life	abstract[102]	new[102]	coref	32-31[102_103]
 32-5	_	has	_	_	_	_
 32-6	_	not	_	_	_	_
 32-7	_	been	_	_	_	_
@@ -669,7 +669,7 @@
 32-28	_	you	abstract[64]	new[64]	coref	32-36[64_65]
 32-29	_	are	_	_	_	_
 32-30	_	that	_	_	_	_
-32-31	_	it	abstract[102]	new[102]	_	_
+32-31	_	it	abstract[103]	new[103]	_	_
 32-32	_	will	_	_	_	_
 32-33	_	not	_	_	_	_
 32-34	_	be	_	_	_	_
@@ -771,9 +771,9 @@
 36-1	_	Tips	_	_	_	_
 
 #Text=Your reserve chute should have been packed by a certified rigger and is moderately less likely to fail ; therefore , it may be helpful to focus your efforts on opening your reserve parachute .
-37-1	_	Your	abstract[71]|abstract[103]	new[71]|new[103]	coref|coref	37-28[71_72]|37-32[103_104]
-37-2	_	reserve	abstract[103]	new[103]	_	_
-37-3	_	chute	abstract[103]	new[103]	_	_
+37-1	_	Your	abstract[71]|abstract[104]	new[71]|new[104]	coref|coref	37-28[71_72]|37-32[104_105]
+37-2	_	reserve	abstract[104]	new[104]	_	_
+37-3	_	chute	abstract[104]	new[104]	_	_
 37-4	_	should	_	_	_	_
 37-5	_	have	_	_	_	_
 37-6	_	been	_	_	_	_
@@ -802,9 +802,9 @@
 37-29	_	efforts	_	_	_	_
 37-30	_	on	_	_	_	_
 37-31	_	opening	_	_	_	_
-37-32	_	your	abstract[73]|abstract[104]	new[73]|new[104]	coref	39-2[73_74]
-37-33	_	reserve	abstract[104]	new[104]	_	_
-37-34	_	parachute	abstract[104]	new[104]	_	_
+37-32	_	your	abstract[73]|abstract[105]	new[73]|new[105]	coref	39-2[73_74]
+37-33	_	reserve	abstract[105]	new[105]	_	_
+37-34	_	parachute	abstract[105]	new[105]	_	_
 37-35	_	.	_	_	_	_
 
 #Text=Some humans who have , for various reasons , become aware of their impending death , develop psychological coping strategies to deal with this ; for instance , the Kubler - Ross phases of grief .
@@ -820,9 +820,9 @@
 38-10	_	become	_	_	_	_
 38-11	_	aware	_	_	_	_
 38-12	_	of	_	_	_	_
-38-13	_	their	abstract[105]	new[105]	coref	38-24[105_106]
-38-14	_	impending	abstract[105]	new[105]	_	_
-38-15	_	death	abstract[105]	new[105]	_	_
+38-13	_	their	abstract[106]	new[106]	coref	38-24[106_107]
+38-14	_	impending	abstract[106]	new[106]	_	_
+38-15	_	death	abstract[106]	new[106]	_	_
 38-16	_	,	_	_	_	_
 38-17	_	develop	_	_	_	_
 38-18	_	psychological	_	_	_	_
@@ -831,18 +831,18 @@
 38-21	_	to	_	_	_	_
 38-22	_	deal	_	_	_	_
 38-23	_	with	_	_	_	_
-38-24	_	this	abstract[106]	new[106]	_	_
+38-24	_	this	abstract[107]	new[107]	_	_
 38-25	_	;	_	_	_	_
 38-26	_	for	_	_	_	_
 38-27	_	instance	_	_	_	_
 38-28	_	,	_	_	_	_
-38-29	_	the	abstract[107]	new[107]	coref	39-10[107_108]
-38-30	_	Kubler	abstract[107]	new[107]	_	_
-38-31	_	-	abstract[107]	new[107]	_	_
-38-32	_	Ross	abstract[107]	new[107]	_	_
-38-33	_	phases	abstract[107]	new[107]	_	_
-38-34	_	of	abstract[107]	new[107]	_	_
-38-35	_	grief	abstract[107]	new[107]	_	_
+38-29	_	the	abstract[108]	new[108]	coref	39-10[108_109]
+38-30	_	Kubler	abstract[108]	new[108]	_	_
+38-31	_	-	abstract[108]	new[108]	_	_
+38-32	_	Ross	abstract[108]	new[108]	_	_
+38-33	_	phases	abstract[108]	new[108]	_	_
+38-34	_	of	abstract[108]	new[108]	_	_
+38-35	_	grief	abstract[108]	new[108]	_	_
 38-36	_	.	_	_	_	_
 
 #Text=Since your own death approaches far more quickly , this is unlikely to be of any use to you .
@@ -855,7 +855,7 @@
 39-7	_	more	_	_	_	_
 39-8	_	quickly	_	_	_	_
 39-9	_	,	_	_	_	_
-39-10	_	this	abstract[108]	new[108]	_	_
+39-10	_	this	abstract[109]	new[109]	_	_
 39-11	_	is	_	_	_	_
 39-12	_	unlikely	_	_	_	_
 39-13	_	to	_	_	_	_
@@ -882,8 +882,8 @@
 41-9	_	to	_	_	_	_
 41-10	_	a	_	_	_	_
 41-11	_	companion	_	_	_	_
-41-12	_	whose	abstract[109]	new[109]	coref	41-40[109_110]
-41-13	_	chute	abstract[109]	new[109]	_	_
+41-12	_	whose	abstract[110]	new[110]	coref	41-40[110_111]
+41-13	_	chute	abstract[110]	new[110]	_	_
 41-14	_	opens	_	_	_	_
 41-15	_	,	_	_	_	_
 41-16	_	keep	_	_	_	_
@@ -910,8 +910,8 @@
 41-37	_	tread	_	_	_	_
 41-38	_	water	_	_	_	_
 41-39	_	before	_	_	_	_
-41-40	_	your	abstract[79]|abstract[110]	new[79]|new[110]	coref	41-45[79_80]
-41-41	_	chute	abstract[110]	new[110]	_	_
+41-40	_	your	abstract[79]|abstract[111]	new[79]|new[111]	coref	41-45[79_80]
+41-41	_	chute	abstract[111]	new[111]	_	_
 41-42	_	fills	_	_	_	_
 41-43	_	and	_	_	_	_
 41-44	_	drags	_	_	_	_
@@ -986,58 +986,40 @@
 43-29	_	your	abstract[84]	new[84]	coref	43-32[84_85]
 43-30	_	cranium	_	_	_	_
 43-31	_	and	_	_	_	_
-43-32	_	your	abstract[85]	new[85]	coref	44-36[85_86]
+43-32	_	your	abstract[85]	new[85]	coref	44-4[85_86]
 43-33	_	immediate	_	_	_	_
 43-34	_	demise	_	_	_	_
 43-35	_	.	_	_	_	_
 
-#Text=Learn how to tell a joke . Know how to pack ! Create a special box for fragile things . Use bubble wrap or newspaper . Get the right screws and screws . Save your boxes at a local store . Get things in a hidden pile .
-44-1	_	Learn	_	_	_	_
-44-2	_	how	_	_	_	_
-44-3	_	to	_	_	_	_
-44-4	_	tell	_	_	_	_
-44-5	_	a	_	_	_	_
-44-6	_	joke	_	_	_	_
-44-7	_	.	_	_	_	_
-44-8	_	Know	_	_	_	_
-44-9	_	how	_	_	_	_
-44-10	_	to	_	_	_	_
-44-11	_	pack	_	_	_	_
-44-12	_	!	_	_	_	_
-44-13	_	Create	_	_	_	_
-44-14	_	a	_	_	_	_
-44-15	_	special	_	_	_	_
-44-16	_	box	_	_	_	_
-44-17	_	for	_	_	_	_
-44-18	_	fragile	_	_	_	_
-44-19	_	things	_	_	_	_
-44-20	_	.	_	_	_	_
-44-21	_	Use	_	_	_	_
-44-22	_	bubble	_	_	_	_
-44-23	_	wrap	_	_	_	_
-44-24	_	or	_	_	_	_
-44-25	_	newspaper	_	_	_	_
-44-26	_	.	_	_	_	_
-44-27	_	Get	_	_	_	_
-44-28	_	the	_	_	_	_
-44-29	_	right	_	_	_	_
-44-30	_	screws	_	_	_	_
-44-31	_	and	_	_	_	_
-44-32	_	screws	_	_	_	_
-44-33	_	.	_	_	_	_
-44-34	_	Save	_	_	_	_
-44-35	_	your	abstract[86]	new[86]	_	_
-44-36	_	boxes	_	_	_	_
-44-37	_	at	_	_	_	_
-44-38	_	a	_	_	_	_
-44-39	_	local	_	_	_	_
-44-40	_	store	_	_	_	_
-44-41	_	.	_	_	_	_
-44-42	_	Get	_	_	_	_
-44-43	_	things	_	_	_	_
-44-44	_	in	_	_	_	_
-44-45	_	a	_	_	_	_
-44-46	_	hidden	_	_	_	_
-44-47	_	pile	_	_	_	_
-44-48	_	.	_	_	_	_
+#Text=Write down your plans . Pack fragile items first . Pack small boxes when necessary . Buy boxes at small stores . Find a place to set your boxes .
+44-1	_	Write	_	_	_	_
+44-2	_	down	_	_	_	_
+44-3	_	your	abstract[86]	new[86]	coref	44-29[86_87]
+44-4	_	plans	_	_	_	_
+44-5	_	.	_	_	_	_
+44-6	_	Pack	_	_	_	_
+44-7	_	fragile	_	_	_	_
+44-8	_	items	_	_	_	_
+44-9	_	first	_	_	_	_
+44-10	_	.	_	_	_	_
+44-11	_	Pack	_	_	_	_
+44-12	_	small	_	_	_	_
+44-13	_	boxes	_	_	_	_
+44-14	_	when	_	_	_	_
+44-15	_	necessary	_	_	_	_
+44-16	_	.	_	_	_	_
+44-17	_	Buy	_	_	_	_
+44-18	_	boxes	_	_	_	_
+44-19	_	at	_	_	_	_
+44-20	_	small	_	_	_	_
+44-21	_	stores	_	_	_	_
+44-22	_	.	_	_	_	_
+44-23	_	Find	_	_	_	_
+44-24	_	a	_	_	_	_
+44-25	_	place	_	_	_	_
+44-26	_	to	_	_	_	_
+44-27	_	set	_	_	_	_
+44-28	_	your	abstract[87]	new[87]	_	_
+44-29	_	boxes	_	_	_	_
+44-30	_	.	_	_	_	_
 

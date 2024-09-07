@@ -348,15 +348,15 @@
 20-12	_	.	_	_	_	_
 
 #Text=The daytime temperature varies ; in January , it is about 24 ° C ( 75 ° F ) and in June , about 35 ° C ( 95 ° F ) .
-21-1	_	The	abstract[36]	new[36]	coref	21-9[36_37]
-21-2	_	daytime	abstract[36]	new[36]	_	_
-21-3	_	temperature	abstract[36]	new[36]	_	_
+21-1	_	The	abstract[37]	new[37]	coref	21-9[37_38]
+21-2	_	daytime	abstract[37]	new[37]	_	_
+21-3	_	temperature	abstract[37]	new[37]	_	_
 21-4	_	varies	_	_	_	_
 21-5	_	;	_	_	_	_
 21-6	_	in	_	_	_	_
 21-7	_	January	_	_	_	_
 21-8	_	,	_	_	_	_
-21-9	_	it	abstract[37]	new[37]	_	_
+21-9	_	it	abstract[38]	new[38]	_	_
 21-10	_	is	_	_	_	_
 21-11	_	about	_	_	_	_
 21-12	_	24	_	_	_	_
@@ -388,8 +388,8 @@
 22-3	_	the	_	_	_	_
 22-4	_	heat	_	_	_	_
 22-5	_	,	_	_	_	_
-22-6	_	most	abstract[38]	new[38]	coref	23-1[38_39]
-22-7	_	people	abstract[38]	new[38]	_	_
+22-6	_	most	abstract[39]	new[39]	coref	23-1[39_40]
+22-7	_	people	abstract[39]	new[39]	_	_
 22-8	_	are	_	_	_	_
 22-9	_	busiest	_	_	_	_
 22-10	_	in	_	_	_	_
@@ -398,7 +398,7 @@
 22-13	_	.	_	_	_	_
 
 #Text=They have lunch and siesta , then go back to work for a few hours in the late afternoon .
-23-1	_	They	abstract[39]	new[39]	_	_
+23-1	_	They	abstract[40]	new[40]	_	_
 23-2	_	have	_	_	_	_
 23-3	_	lunch	_	_	_	_
 23-4	_	and	_	_	_	_
@@ -432,32 +432,32 @@
 24-10	_	into	_	_	_	_
 24-11	_	Mérida	abstract[30]	new[30]	coref	26-3[30_31]
 24-12	_	in	_	_	_	_
-24-13	_	the	abstract[40]	new[40]	coref	24-16[40_41]
-24-14	_	evenings	abstract[40]	new[40]	_	_
+24-13	_	the	abstract[41]	new[41]	coref	24-16[41_42]
+24-14	_	evenings	abstract[41]	new[41]	_	_
 24-15	_	and	_	_	_	_
-24-16	_	this	abstract[41]	new[41]	_	_
+24-16	_	this	abstract[42]	new[42]	_	_
 24-17	_	is	_	_	_	_
 24-18	_	when	_	_	_	_
-24-19	_	many	abstract[42]	new[42]	coref	24-24[42_43]
-24-20	_	of	abstract[42]	new[42]	_	_
-24-21	_	the	abstract[42]	new[42]	_	_
-24-22	_	residents	abstract[42]	new[42]	_	_
+24-19	_	many	abstract[43]	new[43]	coref	24-24[43_44]
+24-20	_	of	abstract[43]	new[43]	_	_
+24-21	_	the	abstract[43]	new[43]	_	_
+24-22	_	residents	abstract[43]	new[43]	_	_
 24-23	_	spend	_	_	_	_
-24-24	_	their	abstract[43]	new[43]	coref	25-4[43_44]
+24-24	_	their	abstract[44]	new[44]	coref	25-4[44_45]
 24-25	_	time	_	_	_	_
 24-26	_	outdoors	_	_	_	_
 24-27	_	.	_	_	_	_
 
 #Text=You can see them visiting and talking as they stroll along the streets , sit in the plazas or dine in the many sidewalk restaurants .
-25-1	_	You	abstract[46]	new[46]	coref	27-2[46_47]
+25-1	_	You	abstract[47]	new[47]	coref	27-2[47_48]
 25-2	_	can	_	_	_	_
 25-3	_	see	_	_	_	_
-25-4	_	them	abstract[44]	new[44]	coref	25-9[44_45]
+25-4	_	them	abstract[45]	new[45]	coref	25-9[45_46]
 25-5	_	visiting	_	_	_	_
 25-6	_	and	_	_	_	_
 25-7	_	talking	_	_	_	_
 25-8	_	as	_	_	_	_
-25-9	_	they	abstract[45]	new[45]	_	_
+25-9	_	they	abstract[46]	new[46]	_	_
 25-10	_	stroll	_	_	_	_
 25-11	_	along	_	_	_	_
 25-12	_	the	_	_	_	_
@@ -515,7 +515,7 @@
 
 #Text=Take your time and really explore the Maya sites , walk for miles along the Gulf of Mexico , attend a village festival , photograph the wildlife , crawl through a cave or swim in a cenote .
 27-1	_	Take	_	_	_	_
-27-2	_	your	abstract[47]	new[47]	coref	35-19[47_48]
+27-2	_	your	abstract[48]	new[48]	_	_
 27-3	_	time	_	_	_	_
 27-4	_	and	_	_	_	_
 27-5	_	really	_	_	_	_
@@ -615,7 +615,7 @@
 30-19	_	all	_	_	_	_
 30-20	_	events	_	_	_	_
 30-21	_	in	_	_	_	_
-30-22	_	the	abstract[34]	new[34]	coref	35-5[34_35]
+30-22	_	the	abstract[34]	new[34]	coref	35-2[34_35]
 30-23	_	city	abstract[34]	new[34]	_	_
 30-24	_	and	_	_	_	_
 30-25	_	the	_	_	_	_
@@ -710,26 +710,59 @@
 34-3	_	20:00	_	_	_	_
 34-4	_	.	_	_	_	_
 
-#Text=Visit ód to see its history in a wide range of interesting subjects and places , and take your time .
-35-1	_	Visit	_	_	_	_
-35-2	_	ód	_	_	_	_
-35-3	_	to	_	_	_	_
-35-4	_	see	_	_	_	_
-35-5	_	its	abstract[35]	new[35]	_	_
-35-6	_	history	_	_	_	_
-35-7	_	in	_	_	_	_
-35-8	_	a	_	_	_	_
-35-9	_	wide	_	_	_	_
-35-10	_	range	_	_	_	_
-35-11	_	of	_	_	_	_
-35-12	_	interesting	_	_	_	_
-35-13	_	subjects	_	_	_	_
-35-14	_	and	_	_	_	_
-35-15	_	places	_	_	_	_
-35-16	_	,	_	_	_	_
-35-17	_	and	_	_	_	_
-35-18	_	take	_	_	_	_
-35-19	_	your	abstract[48]	new[48]	_	_
-35-20	_	time	_	_	_	_
-35-21	_	.	_	_	_	_
+#Text=As a fishing and architecture town in Europe 's third largest city , ód is home to a famous heritage city and one of the world 's largest industrial parks ( the largest plantation in Europe ) , ranging in size from more than 30,000 sqm of land - up to 676,000 sqm .
+35-1	_	As	_	_	_	_
+35-2	_	a	abstract[35]	new[35]	coref	35-14[35_36]
+35-3	_	fishing	abstract[35]	new[35]	_	_
+35-4	_	and	abstract[35]	new[35]	_	_
+35-5	_	architecture	abstract[35]	new[35]	_	_
+35-6	_	town	abstract[35]	new[35]	_	_
+35-7	_	in	abstract[35]	new[35]	_	_
+35-8	_	Europe	abstract[35]	new[35]	_	_
+35-9	_	's	abstract[35]	new[35]	_	_
+35-10	_	third	abstract[35]	new[35]	_	_
+35-11	_	largest	abstract[35]	new[35]	_	_
+35-12	_	city	abstract[35]	new[35]	_	_
+35-13	_	,	_	_	_	_
+35-14	_	ód	abstract[36]	new[36]	_	_
+35-15	_	is	_	_	_	_
+35-16	_	home	_	_	_	_
+35-17	_	to	_	_	_	_
+35-18	_	a	_	_	_	_
+35-19	_	famous	_	_	_	_
+35-20	_	heritage	_	_	_	_
+35-21	_	city	_	_	_	_
+35-22	_	and	_	_	_	_
+35-23	_	one	_	_	_	_
+35-24	_	of	_	_	_	_
+35-25	_	the	_	_	_	_
+35-26	_	world	_	_	_	_
+35-27	_	's	_	_	_	_
+35-28	_	largest	_	_	_	_
+35-29	_	industrial	_	_	_	_
+35-30	_	parks	_	_	_	_
+35-31	_	(	_	_	_	_
+35-32	_	the	_	_	_	_
+35-33	_	largest	_	_	_	_
+35-34	_	plantation	_	_	_	_
+35-35	_	in	_	_	_	_
+35-36	_	Europe	_	_	_	_
+35-37	_	)	_	_	_	_
+35-38	_	,	_	_	_	_
+35-39	_	ranging	_	_	_	_
+35-40	_	in	_	_	_	_
+35-41	_	size	_	_	_	_
+35-42	_	from	_	_	_	_
+35-43	_	more	_	_	_	_
+35-44	_	than	_	_	_	_
+35-45	_	30,000	_	_	_	_
+35-46	_	sqm	_	_	_	_
+35-47	_	of	_	_	_	_
+35-48	_	land	_	_	_	_
+35-49	_	-	_	_	_	_
+35-50	_	up	_	_	_	_
+35-51	_	to	_	_	_	_
+35-52	_	676,000	_	_	_	_
+35-53	_	sqm	_	_	_	_
+35-54	_	.	_	_	_	_
 

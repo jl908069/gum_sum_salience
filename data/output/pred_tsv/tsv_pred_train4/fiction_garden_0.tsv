@@ -1098,14 +1098,25 @@
 44-14	_	pillagings	_	_	_	_
 44-15	_	.	_	_	_	_
 
-#Text=A child learning to play card with Cara .
-45-1	_	A	_	_	_	_
-45-2	_	child	_	_	_	_
-45-3	_	learning	_	_	_	_
-45-4	_	to	_	_	_	_
-45-5	_	play	_	_	_	_
-45-6	_	card	_	_	_	_
-45-7	_	with	_	_	_	_
-45-8	_	Cara	_	_	_	_
-45-9	_	.	_	_	_	_
+#Text=I tell Mom that she can watch Cara , and that Cara is doing better than anyone so far .
+45-1	_	I	_	_	_	_
+45-2	_	tell	_	_	_	_
+45-3	_	Mom	abstract[109]	new[109]	coref	45-5[109_110]
+45-4	_	that	_	_	_	_
+45-5	_	she	abstract[110]	new[110]	_	_
+45-6	_	can	_	_	_	_
+45-7	_	watch	_	_	_	_
+45-8	_	Cara	abstract[111]	new[111]	coref	45-12[111_112]
+45-9	_	,	_	_	_	_
+45-10	_	and	_	_	_	_
+45-11	_	that	_	_	_	_
+45-12	_	Cara	abstract[112]	new[112]	_	_
+45-13	_	is	_	_	_	_
+45-14	_	doing	_	_	_	_
+45-15	_	better	_	_	_	_
+45-16	_	than	_	_	_	_
+45-17	_	anyone	_	_	_	_
+45-18	_	so	_	_	_	_
+45-19	_	far	_	_	_	_
+45-20	_	.	_	_	_	_
 

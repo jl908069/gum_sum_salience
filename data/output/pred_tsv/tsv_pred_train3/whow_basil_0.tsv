@@ -854,7 +854,7 @@
 48-17	_	.	_	_	_	_
 
 #Text=Flowers blooming create a hormone change which dramatically reduces the flavor of the leaves , as well as reducing the amount of foliage which grows .
-49-1	_	Flowers	abstract[80]|abstract[84]	new[80]|new[84]	coref|coref	50-1[80_81]|50-9[84_85]
+49-1	_	Flowers	abstract[80]|abstract[82]	new[80]|new[82]	coref|coref	50-1[80_81]|50-9[82_83]
 49-2	_	blooming	abstract[80]	new[80]	_	_
 49-3	_	create	_	_	_	_
 49-4	_	a	_	_	_	_
@@ -866,8 +866,8 @@
 49-10	_	the	_	_	_	_
 49-11	_	flavor	_	_	_	_
 49-12	_	of	_	_	_	_
-49-13	_	the	abstract[92]	new[92]	coref	52-17[92_93]
-49-14	_	leaves	abstract[92]	new[92]	_	_
+49-13	_	the	abstract[88]	new[88]	coref	52-17[88_89]
+49-14	_	leaves	abstract[88]	new[88]	_	_
 49-15	_	,	_	_	_	_
 49-16	_	as	_	_	_	_
 49-17	_	well	_	_	_	_
@@ -881,54 +881,41 @@
 49-25	_	grows	_	_	_	_
 49-26	_	.	_	_	_	_
 
-#Text=This is called " Make eye contact with them . Notice their ' abjective ' nature . Identify their general lack of self - esteem . Assess the quality of their relationships . Look at their aggressive nature . Find out if they like people well .
-50-1	_	This	abstract[81]	new[81]	coref	55-7[81_82]
+#Text=This is called " Detect arrogance based on their general beliefs and lifestyles . Think of their appearance as their own self - image . Get to know their level of social status .
+50-1	_	This	abstract[81]	new[81]	_	_
 50-2	_	is	_	_	_	_
 50-3	_	called	_	_	_	_
 50-4	_	"	_	_	_	_
-50-5	_	Make	_	_	_	_
-50-6	_	eye	_	_	_	_
-50-7	_	contact	_	_	_	_
-50-8	_	with	_	_	_	_
-50-9	_	them	abstract[85]	new[85]	coref	50-12[85_86]
-50-10	_	.	_	_	_	_
-50-11	_	Notice	_	_	_	_
-50-12	_	their	abstract[86]	new[86]	coref	50-19[86_87]
-50-13	_	'	_	_	_	_
-50-14	_	abjective	_	_	_	_
-50-15	_	'	_	_	_	_
-50-16	_	nature	_	_	_	_
-50-17	_	.	_	_	_	_
-50-18	_	Identify	_	_	_	_
-50-19	_	their	abstract[87]	new[87]	coref	50-31[87_88]
-50-20	_	general	_	_	_	_
-50-21	_	lack	_	_	_	_
-50-22	_	of	_	_	_	_
-50-23	_	self	_	_	_	_
-50-24	_	-	_	_	_	_
-50-25	_	esteem	_	_	_	_
-50-26	_	.	_	_	_	_
-50-27	_	Assess	_	_	_	_
-50-28	_	the	_	_	_	_
-50-29	_	quality	_	_	_	_
-50-30	_	of	_	_	_	_
-50-31	_	their	abstract[88]	new[88]	coref	50-36[88_89]
-50-32	_	relationships	_	_	_	_
-50-33	_	.	_	_	_	_
-50-34	_	Look	_	_	_	_
-50-35	_	at	_	_	_	_
-50-36	_	their	abstract[89]	new[89]	coref	50-43[89_90]
-50-37	_	aggressive	_	_	_	_
-50-38	_	nature	_	_	_	_
-50-39	_	.	_	_	_	_
-50-40	_	Find	_	_	_	_
-50-41	_	out	_	_	_	_
-50-42	_	if	_	_	_	_
-50-43	_	they	abstract[90]	new[90]	coref	52-8[90_91]
-50-44	_	like	_	_	_	_
-50-45	_	people	_	_	_	_
-50-46	_	well	_	_	_	_
-50-47	_	.	_	_	_	_
+50-5	_	Detect	_	_	_	_
+50-6	_	arrogance	_	_	_	_
+50-7	_	based	_	_	_	_
+50-8	_	on	_	_	_	_
+50-9	_	their	abstract[83]	new[83]	coref	50-17[83_84]
+50-10	_	general	_	_	_	_
+50-11	_	beliefs	_	_	_	_
+50-12	_	and	_	_	_	_
+50-13	_	lifestyles	_	_	_	_
+50-14	_	.	_	_	_	_
+50-15	_	Think	_	_	_	_
+50-16	_	of	_	_	_	_
+50-17	_	their	abstract[84]	new[84]	coref	50-20[84_85]
+50-18	_	appearance	_	_	_	_
+50-19	_	as	_	_	_	_
+50-20	_	their	abstract[85]	new[85]	coref	50-29[85_86]
+50-21	_	own	_	_	_	_
+50-22	_	self	_	_	_	_
+50-23	_	-	_	_	_	_
+50-24	_	image	_	_	_	_
+50-25	_	.	_	_	_	_
+50-26	_	Get	_	_	_	_
+50-27	_	to	_	_	_	_
+50-28	_	know	_	_	_	_
+50-29	_	their	abstract[86]	new[86]	coref	52-8[86_87]
+50-30	_	level	_	_	_	_
+50-31	_	of	_	_	_	_
+50-32	_	social	_	_	_	_
+50-33	_	status	_	_	_	_
+50-34	_	.	_	_	_	_
 
 #Text=bolting " and is more likely to happen when there 's extra sunshine .
 51-1	_	bolting	_	_	_	_
@@ -952,10 +939,10 @@
 52-3	_	notice	_	_	_	_
 52-4	_	that	_	_	_	_
 52-5	_	if	_	_	_	_
-52-6	_	you	abstract[14]	new[14]	coref	56-2[14_15]
+52-6	_	you	abstract[14]	new[14]	coref	56-3[14_15]
 52-7	_	leave	_	_	_	_
-52-8	_	the	abstract[91]	new[91]	_	_
-52-9	_	flowers	abstract[91]	new[91]	_	_
+52-8	_	the	abstract[87]	new[87]	_	_
+52-9	_	flowers	abstract[87]	new[87]	_	_
 52-10	_	,	_	_	_	_
 52-11	_	the	_	_	_	_
 52-12	_	plant	_	_	_	_
@@ -963,8 +950,8 @@
 52-14	_	become	_	_	_	_
 52-15	_	lanky	_	_	_	_
 52-16	_	and	_	_	_	_
-52-17	_	the	abstract[93]	new[93]	coref	61-10[93_94]
-52-18	_	leaves	abstract[93]	new[93]	_	_
+52-17	_	the	abstract[89]	new[89]	coref	61-10[89_90]
+52-18	_	leaves	abstract[89]	new[89]	_	_
 52-19	_	wo	_	_	_	_
 52-20	_	n't	_	_	_	_
 52-21	_	be	_	_	_	_
@@ -984,13 +971,13 @@
 53-7	_	.	_	_	_	_
 
 #Text=Basil plants are attractive to Japanese beetles
-54-1	_	Basil	_	_	_	_
-54-2	_	plants	_	_	_	_
+54-1	_	Basil	abstract[100]	new[100]	coref	55-13[100_101]
+54-2	_	plants	abstract[100]	new[100]	_	_
 54-3	_	are	_	_	_	_
 54-4	_	attractive	_	_	_	_
 54-5	_	to	_	_	_	_
-54-6	_	Japanese	_	_	_	_
-54-7	_	beetles	_	_	_	_
+54-6	_	Japanese	abstract[97]	new[97]	coref	55-6[97_98]
+54-7	_	beetles	abstract[97]	new[97]	_	_
 
 #Text=the best way to control these pests is to pick them off the plants by hand .
 55-1	_	the	_	_	_	_
@@ -998,14 +985,14 @@
 55-3	_	way	_	_	_	_
 55-4	_	to	_	_	_	_
 55-5	_	control	_	_	_	_
-55-6	_	these	abstract[82]	new[82]	coref	55-12[82_83]
-55-7	_	pests	abstract[82]	new[82]	_	_
+55-6	_	these	abstract[98]	new[98]	coref	55-11[98_99]
+55-7	_	pests	abstract[98]	new[98]	_	_
 55-8	_	is	_	_	_	_
 55-9	_	to	_	_	_	_
 55-10	_	pick	_	_	_	_
-55-11	_	them	abstract[83]	new[83]	_	_
+55-11	_	them	abstract[99]	new[99]	_	_
 55-12	_	off	_	_	_	_
-55-13	_	the	abstract[101]	new[101]	coref	56-2[101_102]
+55-13	_	the	abstract[101]	new[101]	_	_
 55-14	_	plants	abstract[101]	new[101]	_	_
 55-15	_	by	_	_	_	_
 55-16	_	hand	_	_	_	_
@@ -1013,7 +1000,7 @@
 
 #Text=If your plants show signs of mold growth , they may not be getting adequate sunlight , or they may be too close together .
 56-1	_	If	_	_	_	_
-56-2	_	your	abstract[15]|abstract[102]	new[15]|new[102]	coref|coref	61-2[15_16]|56-10[102_103]
+56-2	_	your	abstract[15]|abstract[102]	new[15]|new[102]	coref|coref	61-2[15_16]|56-11[102_103]
 56-3	_	plants	abstract[102]	new[102]	_	_
 56-4	_	show	_	_	_	_
 56-5	_	signs	_	_	_	_
@@ -1021,7 +1008,7 @@
 56-7	_	mold	_	_	_	_
 56-8	_	growth	_	_	_	_
 56-9	_	,	_	_	_	_
-56-10	_	they	abstract[103]	new[103]	coref	56-19[103_104]
+56-10	_	they	abstract[103]	new[103]	coref	56-20[103_104]
 56-11	_	may	_	_	_	_
 56-12	_	not	_	_	_	_
 56-13	_	be	_	_	_	_
@@ -1104,8 +1091,8 @@
 61-7	_	the	_	_	_	_
 61-8	_	base	_	_	_	_
 61-9	_	of	_	_	_	_
-61-10	_	every	abstract[94]	new[94]	coref	61-26[94_95]
-61-11	_	leaf	abstract[94]	new[94]	_	_
+61-10	_	every	abstract[90]	new[90]	coref	61-26[90_91]
+61-11	_	leaf	abstract[90]	new[90]	_	_
 61-12	_	are	_	_	_	_
 61-13	_	two	abstract[105]	new[105]	coref	62-4[105_106]
 61-14	_	tiny	abstract[105]	new[105]	_	_
@@ -1120,7 +1107,7 @@
 61-23	_	stem	abstract[105]	new[105]	_	_
 61-24	_	growing	abstract[105]	new[105]	_	_
 61-25	_	between	abstract[105]	new[105]	_	_
-61-26	_	them	abstract[95]|abstract[105]	new[95]|new[105]	coref	71-2[95_96]
+61-26	_	them	abstract[91]|abstract[105]	new[91]|new[105]	coref	71-2[91_92]
 61-27	_	is	abstract[105]	new[105]	_	_
 61-28	_	cut	abstract[105]	new[105]	_	_
 61-29	_	off	abstract[105]	new[105]	_	_
@@ -1276,16 +1263,16 @@
 
 #Text=Wash the leaves , dry them well , and wrap them in paper towels .
 71-1	_	Wash	_	_	_	_
-71-2	_	the	abstract[96]	new[96]	coref	71-6[96_97]
-71-3	_	leaves	abstract[96]	new[96]	_	_
+71-2	_	the	abstract[92]	new[92]	coref	71-6[92_93]
+71-3	_	leaves	abstract[92]	new[92]	_	_
 71-4	_	,	_	_	_	_
 71-5	_	dry	_	_	_	_
-71-6	_	them	abstract[97]	new[97]	coref	71-11[97_98]
+71-6	_	them	abstract[93]	new[93]	coref	71-11[93_94]
 71-7	_	well	_	_	_	_
 71-8	_	,	_	_	_	_
 71-9	_	and	_	_	_	_
 71-10	_	wrap	_	_	_	_
-71-11	_	them	abstract[98]	new[98]	coref	72-2[98_99]
+71-11	_	them	abstract[94]	new[94]	coref	72-2[94_95]
 71-12	_	in	_	_	_	_
 71-13	_	paper	_	_	_	_
 71-14	_	towels	_	_	_	_
@@ -1293,7 +1280,7 @@
 
 #Text=Place them in a food storage container with an airtight lid .
 72-1	_	Place	_	_	_	_
-72-2	_	them	abstract[99]	new[99]	coref	74-2[99_100]
+72-2	_	them	abstract[95]	new[95]	coref	74-2[95_96]
 72-3	_	in	_	_	_	_
 72-4	_	a	_	_	_	_
 72-5	_	food	_	_	_	_
@@ -1314,8 +1301,8 @@
 
 #Text=Freezing the leaves whole does n't work very well , but if you puree it first you can freeze it for months .
 74-1	_	Freezing	_	_	_	_
-74-2	_	the	abstract[100]	new[100]	_	_
-74-3	_	leaves	abstract[100]	new[100]	_	_
+74-2	_	the	abstract[96]	new[96]	_	_
+74-3	_	leaves	abstract[96]	new[96]	_	_
 74-4	_	whole	_	_	_	_
 74-5	_	does	_	_	_	_
 74-6	_	n't	_	_	_	_

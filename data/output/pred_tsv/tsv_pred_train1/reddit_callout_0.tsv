@@ -98,14 +98,14 @@
 4-19	_	how	_	_	_	_
 4-20	_	to	_	_	_	_
 4-21	_	transfer	_	_	_	_
-4-22	_	important	abstract[37]	new[37]	coref	8-30[37_38]
-4-23	_	data	abstract[37]	new[37]	_	_
+4-22	_	important	abstract[46]	new[46]	coref	9-29[46_47]
+4-23	_	data	abstract[46]	new[46]	_	_
 4-24	_	to	_	_	_	_
 4-25	_	it	abstract[23]	new[23]	_	_
 4-26	_	from	_	_	_	_
-4-27	_	her	abstract[25]|abstract[42]	new[25]|new[42]	coref|coref	7-5[25_26]|9-23[42_43]
-4-28	_	old	abstract[42]	new[42]	_	_
-4-29	_	phone	abstract[42]	new[42]	_	_
+4-27	_	her	abstract[25]|abstract[44]	new[25]|new[44]	coref|coref	7-5[25_26]|9-23[44_45]
+4-28	_	old	abstract[44]	new[44]	_	_
+4-29	_	phone	abstract[44]	new[44]	_	_
 4-30	_	.	_	_	_	_
 
 #Text=I order a taxi , grab my laptop and head out .
@@ -122,41 +122,74 @@
 5-11	_	out	_	_	_	_
 5-12	_	.	_	_	_	_
 
-#Text=It turned out the " Greek court rules that worshipers of the ancient Greek religion may now formally associate and worship at archeological sites .
+#Text=It turned out the " Several people discuss reasons why very few contestants defeat chef Bobby Flay on reality TV , with theories including selective casting to choose contestants that Flay can defeat , advance knowledge of the secret ingredient or hints at the signature dish in each episode , and his being a very good chef .
 6-1	_	It	_	_	_	_
 6-2	_	turned	_	_	_	_
 6-3	_	out	_	_	_	_
 6-4	_	the	_	_	_	_
 6-5	_	"	_	_	_	_
-6-6	_	Greek	_	_	_	_
-6-7	_	court	_	_	_	_
-6-8	_	rules	_	_	_	_
-6-9	_	that	_	_	_	_
-6-10	_	worshipers	_	_	_	_
-6-11	_	of	_	_	_	_
-6-12	_	the	_	_	_	_
-6-13	_	ancient	_	_	_	_
-6-14	_	Greek	_	_	_	_
-6-15	_	religion	_	_	_	_
-6-16	_	may	_	_	_	_
-6-17	_	now	_	_	_	_
-6-18	_	formally	_	_	_	_
-6-19	_	associate	_	_	_	_
-6-20	_	and	_	_	_	_
-6-21	_	worship	_	_	_	_
-6-22	_	at	_	_	_	_
-6-23	_	archeological	_	_	_	_
-6-24	_	sites	_	_	_	_
-6-25	_	.	_	_	_	_
+6-6	_	Several	_	_	_	_
+6-7	_	people	_	_	_	_
+6-8	_	discuss	_	_	_	_
+6-9	_	reasons	_	_	_	_
+6-10	_	why	_	_	_	_
+6-11	_	very	_	_	_	_
+6-12	_	few	_	_	_	_
+6-13	_	contestants	_	_	_	_
+6-14	_	defeat	_	_	_	_
+6-15	_	chef	abstract[34]	new[34]	coref	6-31[34_35]
+6-16	_	Bobby	abstract[34]	new[34]	_	_
+6-17	_	Flay	abstract[34]	new[34]	_	_
+6-18	_	on	_	_	_	_
+6-19	_	reality	_	_	_	_
+6-20	_	TV	_	_	_	_
+6-21	_	,	_	_	_	_
+6-22	_	with	_	_	_	_
+6-23	_	theories	_	_	_	_
+6-24	_	including	_	_	_	_
+6-25	_	selective	_	_	_	_
+6-26	_	casting	_	_	_	_
+6-27	_	to	_	_	_	_
+6-28	_	choose	_	_	_	_
+6-29	_	contestants	_	_	_	_
+6-30	_	that	_	_	_	_
+6-31	_	Flay	abstract[35]	new[35]	coref	6-52[35_36]
+6-32	_	can	_	_	_	_
+6-33	_	defeat	_	_	_	_
+6-34	_	,	_	_	_	_
+6-35	_	advance	_	_	_	_
+6-36	_	knowledge	_	_	_	_
+6-37	_	of	_	_	_	_
+6-38	_	the	_	_	_	_
+6-39	_	secret	_	_	_	_
+6-40	_	ingredient	_	_	_	_
+6-41	_	or	_	_	_	_
+6-42	_	hints	_	_	_	_
+6-43	_	at	_	_	_	_
+6-44	_	the	_	_	_	_
+6-45	_	signature	_	_	_	_
+6-46	_	dish	_	_	_	_
+6-47	_	in	_	_	_	_
+6-48	_	each	_	_	_	_
+6-49	_	episode	_	_	_	_
+6-50	_	,	_	_	_	_
+6-51	_	and	_	_	_	_
+6-52	_	his	abstract[36]	new[36]	_	_
+6-53	_	being	_	_	_	_
+6-54	_	a	_	_	_	_
+6-55	_	very	_	_	_	_
+6-56	_	good	_	_	_	_
+6-57	_	chef	_	_	_	_
+6-58	_	.	_	_	_	_
 
 #Text=important data " was her Candy Crush progress , but she did n't let me know this until I arrived .
-7-1	_	important	_	_	_	_
-7-2	_	data	_	_	_	_
+7-1	_	important	abstract[40]	new[40]	coref	8-30[40_41]
+7-2	_	data	abstract[40]	new[40]	_	_
 7-3	_	"	_	_	_	_
 7-4	_	was	_	_	_	_
 7-5	_	her	abstract[26]	new[26]	coref	7-11[26_27]
-7-6	_	Candy	abstract[40]	new[40]	coref	8-44[40_41]
-7-7	_	Crush	abstract[40]	new[40]	_	_
+7-6	_	Candy	abstract[42]	new[42]	coref	8-44[42_43]
+7-7	_	Crush	abstract[42]	new[42]	_	_
 7-8	_	progress	_	_	_	_
 7-9	_	,	_	_	_	_
 7-10	_	but	_	_	_	_
@@ -166,7 +199,7 @@
 7-14	_	let	_	_	_	_
 7-15	_	me	abstract[7]	new[7]	coref	7-19[7_8]
 7-16	_	know	_	_	_	_
-7-17	_	this	abstract[34]	new[34]	coref	8-7[34_35]
+7-17	_	this	abstract[37]	new[37]	coref	8-7[37_38]
 7-18	_	until	_	_	_	_
 7-19	_	I	abstract[8]	new[8]	coref	8-1[8_9]
 7-20	_	arrived	_	_	_	_
@@ -179,7 +212,7 @@
 8-4	_	make	_	_	_	_
 8-5	_	light	_	_	_	_
 8-6	_	of	_	_	_	_
-8-7	_	it	abstract[35]	new[35]	coref	8-20[35_36]
+8-7	_	it	abstract[38]	new[38]	coref	8-20[38_39]
 8-8	_	-	_	_	_	_
 8-9	_	I	abstract[10]	new[10]	coref	8-16[10_11]
 8-10	_	was	_	_	_	_
@@ -192,7 +225,7 @@
 8-17	_	evening	_	_	_	_
 8-18	_	interrupted	_	_	_	_
 8-19	_	for	_	_	_	_
-8-20	_	this	abstract[36]	new[36]	_	_
+8-20	_	this	abstract[39]	new[39]	_	_
 8-21	_	-	_	_	_	_
 8-22	_	and	_	_	_	_
 8-23	_	deadly	_	_	_	_
@@ -202,7 +235,7 @@
 8-27	_	snapped	_	_	_	_
 8-28	_	back	_	_	_	_
 8-29	_	that	_	_	_	_
-8-30	_	it	abstract[38]	new[38]	coref	9-29[38_39]
+8-30	_	it	abstract[41]	new[41]	_	_
 8-31	_	was	_	_	_	_
 8-32	_	important	_	_	_	_
 8-33	_	because	_	_	_	_
@@ -216,7 +249,7 @@
 8-41	_	and	_	_	_	_
 8-42	_	she	abstract[30]	new[30]	coref	9-17[30_31]
 8-43	_	needed	_	_	_	_
-8-44	_	it	abstract[41]	new[41]	_	_
+8-44	_	it	abstract[43]	new[43]	_	_
 8-45	_	to	_	_	_	_
 8-46	_	relax	_	_	_	_
 8-47	_	during	_	_	_	_
@@ -247,14 +280,14 @@
 9-20	_	logged	_	_	_	_
 9-21	_	in	_	_	_	_
 9-22	_	on	_	_	_	_
-9-23	_	the	abstract[43]	new[43]	_	_
-9-24	_	old	abstract[43]	new[43]	_	_
-9-25	_	phone	abstract[43]	new[43]	_	_
+9-23	_	the	abstract[45]	new[45]	_	_
+9-24	_	old	abstract[45]	new[45]	_	_
+9-25	_	phone	abstract[45]	new[45]	_	_
 9-26	_	)	_	_	_	_
 9-27	_	,	_	_	_	_
 9-28	_	transferred	_	_	_	_
-9-29	_	the	abstract[39]	new[39]	_	_
-9-30	_	data	abstract[39]	new[39]	_	_
+9-29	_	the	abstract[47]	new[47]	_	_
+9-30	_	data	abstract[47]	new[47]	_	_
 9-31	_	over	_	_	_	_
 9-32	_	and	_	_	_	_
 9-33	_	charged	_	_	_	_
@@ -273,8 +306,8 @@
 10-2	_	they	_	_	_	_
 10-3	_	're	_	_	_	_
 10-4	_	paying	_	_	_	_
-10-5	_	emergency	abstract[48]	new[48]	coref	12-3[48_49]
-10-6	_	rates	abstract[48]	new[48]	_	_
+10-5	_	emergency	abstract[52]	new[52]	coref	12-3[52_53]
+10-6	_	rates	abstract[52]	new[52]	_	_
 10-7	_	,	_	_	_	_
 10-8	_	I	_	_	_	_
 10-9	_	'd	_	_	_	_
@@ -287,13 +320,13 @@
 10-16	_	freebie	_	_	_	_
 10-17	_	compared	_	_	_	_
 10-18	_	to	_	_	_	_
-10-19	_	the	abstract[44]	new[44]	coref	11-1[44_45]
-10-20	_	usual	abstract[44]	new[44]	_	_
-10-21	_	stakes	abstract[44]	new[44]	_	_
+10-19	_	the	abstract[48]	new[48]	coref	11-1[48_49]
+10-20	_	usual	abstract[48]	new[48]	_	_
+10-21	_	stakes	abstract[48]	new[48]	_	_
 10-22	_	.	_	_	_	_
 
 #Text=Those tend to come with " We 're losing $ X,000 per hour while this is ongoing , fix it " levels of pressure .
-11-1	_	Those	abstract[45]	new[45]	_	_
+11-1	_	Those	abstract[49]	new[49]	_	_
 11-2	_	tend	_	_	_	_
 11-3	_	to	_	_	_	_
 11-4	_	come	_	_	_	_
@@ -307,12 +340,12 @@
 11-12	_	per	_	_	_	_
 11-13	_	hour	_	_	_	_
 11-14	_	while	_	_	_	_
-11-15	_	this	abstract[46]	new[46]	coref	11-20[46_47]
+11-15	_	this	abstract[50]	new[50]	coref	11-20[50_51]
 11-16	_	is	_	_	_	_
 11-17	_	ongoing	_	_	_	_
 11-18	_	,	_	_	_	_
 11-19	_	fix	_	_	_	_
-11-20	_	it	abstract[47]	new[47]	_	_
+11-20	_	it	abstract[51]	new[51]	_	_
 11-21	_	"	_	_	_	_
 11-22	_	levels	_	_	_	_
 11-23	_	of	_	_	_	_
@@ -322,8 +355,8 @@
 #Text=Yeah , the rates stopped me from being pissed off with her .
 12-1	_	Yeah	_	_	_	_
 12-2	_	,	_	_	_	_
-12-3	_	the	abstract[49]	new[49]	_	_
-12-4	_	rates	abstract[49]	new[49]	_	_
+12-3	_	the	abstract[53]	new[53]	_	_
+12-4	_	rates	abstract[53]	new[53]	_	_
 12-5	_	stopped	_	_	_	_
 12-6	_	me	abstract[13]	new[13]	coref	14-2[13_14]
 12-7	_	from	_	_	_	_
@@ -386,21 +419,21 @@
 14-26	_	.	_	_	_	_
 
 #Text=You mean exactly as much as you charge .
-15-1	_	You	abstract[50]	new[50]	coref	15-7[50_51]
+15-1	_	You	abstract[54]	new[54]	coref	15-7[54_55]
 15-2	_	mean	_	_	_	_
 15-3	_	exactly	_	_	_	_
 15-4	_	as	_	_	_	_
 15-5	_	much	_	_	_	_
 15-6	_	as	_	_	_	_
-15-7	_	you	abstract[51]	new[51]	coref	19-1[51_52]
+15-7	_	you	abstract[55]	new[55]	coref	19-2[55_56]
 15-8	_	charge	_	_	_	_
 15-9	_	.	_	_	_	_
 
 #Text=Our firm raised our rates recently by 30 % and lost 3 - 7 % of our clients because we were " too expensive " .
-16-1	_	Our	abstract[57]	new[57]	coref	16-4[57_58]
+16-1	_	Our	abstract[61]	new[61]	coref	16-4[61_62]
 16-2	_	firm	_	_	_	_
 16-3	_	raised	_	_	_	_
-16-4	_	our	abstract[58]	new[58]	coref	16-17[58_59]
+16-4	_	our	abstract[62]	new[62]	coref	16-17[62_63]
 16-5	_	rates	_	_	_	_
 16-6	_	recently	_	_	_	_
 16-7	_	by	_	_	_	_
@@ -413,10 +446,10 @@
 16-14	_	7	_	_	_	_
 16-15	_	%	_	_	_	_
 16-16	_	of	_	_	_	_
-16-17	_	our	abstract[59]	new[59]	coref	16-20[59_60]
+16-17	_	our	abstract[63]	new[63]	coref	16-20[63_64]
 16-18	_	clients	_	_	_	_
 16-19	_	because	_	_	_	_
-16-20	_	we	abstract[60]	new[60]	coref	17-1[60_61]
+16-20	_	we	abstract[64]	new[64]	coref	17-1[64_65]
 16-21	_	were	_	_	_	_
 16-22	_	"	_	_	_	_
 16-23	_	too	_	_	_	_
@@ -425,7 +458,7 @@
 16-26	_	.	_	_	_	_
 
 #Text=We 're now charging hourly for the miscellaneous things clients brought to us vs per project completed and the tiny little shitty projects we 're doiong now has decreased .
-17-1	_	We	abstract[61]	new[61]	coref	17-13[61_62]
+17-1	_	We	abstract[65]	new[65]	coref	17-13[65_66]
 17-2	_	're	_	_	_	_
 17-3	_	now	_	_	_	_
 17-4	_	charging	_	_	_	_
@@ -437,7 +470,7 @@
 17-10	_	clients	_	_	_	_
 17-11	_	brought	_	_	_	_
 17-12	_	to	_	_	_	_
-17-13	_	us	abstract[62]	new[62]	coref	17-24[62_63]
+17-13	_	us	abstract[66]	new[66]	coref	17-24[66_67]
 17-14	_	vs	_	_	_	_
 17-15	_	per	_	_	_	_
 17-16	_	project	_	_	_	_
@@ -448,7 +481,7 @@
 17-21	_	little	_	_	_	_
 17-22	_	shitty	_	_	_	_
 17-23	_	projects	_	_	_	_
-17-24	_	we	abstract[63]	new[63]	_	_
+17-24	_	we	abstract[67]	new[67]	_	_
 17-25	_	're	_	_	_	_
 17-26	_	doiong	_	_	_	_
 17-27	_	now	_	_	_	_
@@ -474,22 +507,22 @@
 18-15	_	.	_	_	_	_
 
 #Text=You do n't want the people barely willing to pay market rates as customers , they are often unreasonably demanding and see normal rates as crazy high .
-19-1	_	You	abstract[52]	new[52]	coref	20-28[52_53]
+19-1	_	You	abstract[56]	new[56]	coref	20-27[56_57]
 19-2	_	do	_	_	_	_
 19-3	_	n't	_	_	_	_
 19-4	_	want	_	_	_	_
-19-5	_	the	abstract[64]	new[64]	coref	19-16[64_65]
-19-6	_	people	abstract[64]	new[64]	_	_
-19-7	_	barely	abstract[64]	new[64]	_	_
-19-8	_	willing	abstract[64]	new[64]	_	_
-19-9	_	to	abstract[64]	new[64]	_	_
-19-10	_	pay	abstract[64]	new[64]	_	_
-19-11	_	market	abstract[64]	new[64]	_	_
-19-12	_	rates	abstract[64]	new[64]	_	_
+19-5	_	the	abstract[68]	new[68]	coref	19-17[68_69]
+19-6	_	people	abstract[68]	new[68]	_	_
+19-7	_	barely	abstract[68]	new[68]	_	_
+19-8	_	willing	abstract[68]	new[68]	_	_
+19-9	_	to	abstract[68]	new[68]	_	_
+19-10	_	pay	abstract[68]	new[68]	_	_
+19-11	_	market	abstract[68]	new[68]	_	_
+19-12	_	rates	abstract[68]	new[68]	_	_
 19-13	_	as	_	_	_	_
 19-14	_	customers	_	_	_	_
 19-15	_	,	_	_	_	_
-19-16	_	they	abstract[65]	new[65]	_	_
+19-16	_	they	abstract[69]	new[69]	_	_
 19-17	_	are	_	_	_	_
 19-18	_	often	_	_	_	_
 19-19	_	unreasonably	_	_	_	_
@@ -510,27 +543,27 @@
 20-4	_	wo	_	_	_	_
 20-5	_	n't	_	_	_	_
 20-6	_	mind	_	_	_	_
-20-7	_	paying	abstract[66]	new[66]	coref	20-15[66_67]
+20-7	_	paying	abstract[70]	new[70]	coref	20-14[70_71]
 20-8	_	a	_	_	_	_
 20-9	_	little	_	_	_	_
 20-10	_	more	_	_	_	_
 20-11	_	can	_	_	_	_
 20-12	_	usually	_	_	_	_
 20-13	_	afford	_	_	_	_
-20-14	_	it	abstract[67]	new[67]	coref	20-22[67_68]
+20-14	_	it	abstract[71]	new[71]	coref	20-21[71_72]
 20-15	_	fine	_	_	_	_
 20-16	_	,	_	_	_	_
 20-17	_	do	_	_	_	_
 20-18	_	n't	_	_	_	_
 20-19	_	fret	_	_	_	_
 20-20	_	over	_	_	_	_
-20-21	_	it	abstract[68]	new[68]	_	_
+20-21	_	it	abstract[72]	new[72]	_	_
 20-22	_	,	_	_	_	_
 20-23	_	and	_	_	_	_
 20-24	_	tend	_	_	_	_
 20-25	_	to	_	_	_	_
 20-26	_	treat	_	_	_	_
-20-27	_	you	abstract[53]	new[53]	coref	21-14[53_54]
+20-27	_	you	abstract[57]	new[57]	coref	21-14[57_58]
 20-28	_	better	_	_	_	_
 20-29	_	.	_	_	_	_
 
@@ -548,7 +581,7 @@
 21-11	_	,	_	_	_	_
 21-12	_	but	_	_	_	_
 21-13	_	if	_	_	_	_
-21-14	_	you	abstract[54]	new[54]	coref	33-1[54_55]
+21-14	_	you	abstract[58]	new[58]	coref	33-1[58_59]
 21-15	_	want	_	_	_	_
 21-16	_	to	_	_	_	_
 21-17	_	work	_	_	_	_
@@ -572,13 +605,13 @@
 22-1	_	Woah	_	_	_	_
 22-2	_	,	_	_	_	_
 22-3	_	and	_	_	_	_
-22-4	_	I	abstract[74]	new[74]	coref	23-9[74_75]
+22-4	_	I	abstract[78]	new[78]	coref	23-9[78_79]
 22-5	_	get	_	_	_	_
 22-6	_	a	_	_	_	_
 22-7	_	comment	_	_	_	_
 22-8	_	from	_	_	_	_
-22-9	_	the	abstract[69]	new[69]	coref	23-6[69_70]
-22-10	_	Bytewave	abstract[69]	new[69]	_	_
+22-9	_	the	abstract[73]	new[73]	coref	23-6[73_74]
+22-10	_	Bytewave	abstract[73]	new[73]	_	_
 22-11	_	.	_	_	_	_
 
 #Text=Hope all is well in your world , I feel like I know you so well despite never actually speaking to you !
@@ -587,15 +620,15 @@
 23-3	_	is	_	_	_	_
 23-4	_	well	_	_	_	_
 23-5	_	in	_	_	_	_
-23-6	_	your	abstract[70]	new[70]	coref	23-14[70_71]
+23-6	_	your	abstract[74]	new[74]	coref	23-14[74_75]
 23-7	_	world	_	_	_	_
 23-8	_	,	_	_	_	_
-23-9	_	I	abstract[75]	new[75]	coref	23-12[75_76]
+23-9	_	I	abstract[79]	new[79]	coref	23-12[79_80]
 23-10	_	feel	_	_	_	_
 23-11	_	like	_	_	_	_
-23-12	_	I	abstract[76]	new[76]	coref	24-15[76_77]
+23-12	_	I	abstract[80]	new[80]	coref	24-15[80_81]
 23-13	_	know	_	_	_	_
-23-14	_	you	abstract[71]	new[71]	coref	23-22[71_72]
+23-14	_	you	abstract[75]	new[75]	coref	23-22[75_76]
 23-15	_	so	_	_	_	_
 23-16	_	well	_	_	_	_
 23-17	_	despite	_	_	_	_
@@ -603,12 +636,12 @@
 23-19	_	actually	_	_	_	_
 23-20	_	speaking	_	_	_	_
 23-21	_	to	_	_	_	_
-23-22	_	you	abstract[72]	new[72]	coref	24-2[72_73]
+23-22	_	you	abstract[76]	new[76]	coref	24-2[76_77]
 23-23	_	!	_	_	_	_
 
 #Text=Hope you are still enjoying not working for the silly telecom , even though I miss the stories
 24-1	_	Hope	_	_	_	_
-24-2	_	you	abstract[73]	new[73]	_	_
+24-2	_	you	abstract[77]	new[77]	_	_
 24-3	_	are	_	_	_	_
 24-4	_	still	_	_	_	_
 24-5	_	enjoying	_	_	_	_
@@ -621,10 +654,10 @@
 24-12	_	,	_	_	_	_
 24-13	_	even	_	_	_	_
 24-14	_	though	_	_	_	_
-24-15	_	I	abstract[77]	new[77]	_	_
+24-15	_	I	abstract[81]	new[81]	_	_
 24-16	_	miss	_	_	_	_
-24-17	_	the	abstract[89]	new[89]	coref	26-22[89_90]
-24-18	_	stories	abstract[89]	new[89]	_	_
+24-17	_	the	abstract[93]	new[93]	coref	26-22[93_94]
+24-18	_	stories	abstract[93]	new[93]	_	_
 
 #Text=That 's really heartwarming to read .
 25-1	_	That	_	_	_	_
@@ -636,29 +669,29 @@
 25-7	_	.	_	_	_	_
 
 #Text=I changed a bit since I wrote here , and my life has as well - but I do miss writing these stories , to be honest .
-26-1	_	I	abstract[78]	new[78]	coref	26-6[78_79]
+26-1	_	I	abstract[82]	new[82]	coref	26-6[82_83]
 26-2	_	changed	_	_	_	_
 26-3	_	a	_	_	_	_
 26-4	_	bit	_	_	_	_
 26-5	_	since	_	_	_	_
-26-6	_	I	abstract[79]	new[79]	coref	26-11[79_80]
+26-6	_	I	abstract[83]	new[83]	coref	26-11[83_84]
 26-7	_	wrote	_	_	_	_
 26-8	_	here	_	_	_	_
 26-9	_	,	_	_	_	_
 26-10	_	and	_	_	_	_
-26-11	_	my	abstract[80]	new[80]	coref	26-18[80_81]
+26-11	_	my	abstract[84]	new[84]	coref	26-18[84_85]
 26-12	_	life	_	_	_	_
 26-13	_	has	_	_	_	_
 26-14	_	as	_	_	_	_
 26-15	_	well	_	_	_	_
 26-16	_	-	_	_	_	_
 26-17	_	but	_	_	_	_
-26-18	_	I	abstract[81]	new[81]	coref	28-1[81_82]
+26-18	_	I	abstract[85]	new[85]	coref	28-1[85_86]
 26-19	_	do	_	_	_	_
 26-20	_	miss	_	_	_	_
 26-21	_	writing	_	_	_	_
-26-22	_	these	abstract[90]	new[90]	coref	27-1[90_91]
-26-23	_	stories	abstract[90]	new[90]	_	_
+26-22	_	these	abstract[94]	new[94]	coref	27-1[94_95]
+26-23	_	stories	abstract[94]	new[94]	_	_
 26-24	_	,	_	_	_	_
 26-25	_	to	_	_	_	_
 26-26	_	be	_	_	_	_
@@ -666,14 +699,14 @@
 26-28	_	.	_	_	_	_
 
 #Text=They were really cathartic .
-27-1	_	They	abstract[91]	new[91]	_	_
+27-1	_	They	abstract[95]	new[95]	_	_
 27-2	_	were	_	_	_	_
 27-3	_	really	_	_	_	_
 27-4	_	cathartic	_	_	_	_
 27-5	_	.	_	_	_	_
 
 #Text=I really appreciated all the support you guys gave me , I was getting bored with my work and sharing the highlights of it's history made it fun again for a time .
-28-1	_	I	abstract[82]	new[82]	coref	28-10[82_83]
+28-1	_	I	abstract[86]	new[86]	coref	28-10[86_87]
 28-2	_	really	_	_	_	_
 28-3	_	appreciated	_	_	_	_
 28-4	_	all	_	_	_	_
@@ -682,24 +715,24 @@
 28-7	_	you	_	_	_	_
 28-8	_	guys	_	_	_	_
 28-9	_	gave	_	_	_	_
-28-10	_	me	abstract[83]	new[83]	coref	28-12[83_84]
+28-10	_	me	abstract[87]	new[87]	coref	28-12[87_88]
 28-11	_	,	_	_	_	_
-28-12	_	I	abstract[84]	new[84]	coref	28-17[84_85]
+28-12	_	I	abstract[88]	new[88]	coref	28-17[88_89]
 28-13	_	was	_	_	_	_
 28-14	_	getting	_	_	_	_
 28-15	_	bored	_	_	_	_
 28-16	_	with	_	_	_	_
-28-17	_	my	abstract[85]|abstract[92]	new[85]|new[92]	coref|coref	29-2[85_86]|28-24[92_93]
-28-18	_	work	abstract[92]	new[92]	_	_
+28-17	_	my	abstract[89]|abstract[96]	new[89]|new[96]	coref|coref	29-2[89_90]|28-24[96_97]
+28-18	_	work	abstract[96]	new[96]	_	_
 28-19	_	and	_	_	_	_
 28-20	_	sharing	_	_	_	_
 28-21	_	the	_	_	_	_
 28-22	_	highlights	_	_	_	_
 28-23	_	of	_	_	_	_
-28-24	_	it's	abstract[93]	new[93]	coref	28-27[93_94]
+28-24	_	it's	abstract[97]	new[97]	coref	28-27[97_98]
 28-25	_	history	_	_	_	_
 28-26	_	made	_	_	_	_
-28-27	_	it	abstract[94]	new[94]	_	_
+28-27	_	it	abstract[98]	new[98]	_	_
 28-28	_	fun	_	_	_	_
 28-29	_	again	_	_	_	_
 28-30	_	for	_	_	_	_
@@ -709,16 +742,16 @@
 
 #Text=Though I had reasons to take a long break , it was n't lack of material per se ...
 29-1	_	Though	_	_	_	_
-29-2	_	I	abstract[86]	new[86]	coref	30-2[86_87]
+29-2	_	I	abstract[90]	new[90]	coref	30-2[90_91]
 29-3	_	had	_	_	_	_
-29-4	_	reasons	abstract[95]	new[95]	coref	29-11[95_96]
+29-4	_	reasons	abstract[99]	new[99]	coref	29-11[99_100]
 29-5	_	to	_	_	_	_
 29-6	_	take	_	_	_	_
 29-7	_	a	_	_	_	_
 29-8	_	long	_	_	_	_
 29-9	_	break	_	_	_	_
 29-10	_	,	_	_	_	_
-29-11	_	it	abstract[96]	new[96]	_	_
+29-11	_	it	abstract[100]	new[100]	_	_
 29-12	_	was	_	_	_	_
 29-13	_	n't	_	_	_	_
 29-14	_	lack	_	_	_	_
@@ -730,12 +763,12 @@
 
 #Text=So I 'm still not saying I wo n't be back someday :)
 30-1	_	So	_	_	_	_
-30-2	_	I	abstract[87]	new[87]	coref	30-7[87_88]
+30-2	_	I	abstract[91]	new[91]	coref	30-7[91_92]
 30-3	_	'm	_	_	_	_
 30-4	_	still	_	_	_	_
 30-5	_	not	_	_	_	_
 30-6	_	saying	_	_	_	_
-30-7	_	I	abstract[88]	new[88]	_	_
+30-7	_	I	abstract[92]	new[92]	_	_
 30-8	_	wo	_	_	_	_
 30-9	_	n't	_	_	_	_
 30-10	_	be	_	_	_	_
@@ -756,7 +789,7 @@
 32-3	_	.	_	_	_	_
 
 #Text=Your time is ABSOLUTELY less important than someone else 's .
-33-1	_	Your	abstract[55]	new[55]	coref	40-4[55_56]
+33-1	_	Your	abstract[59]	new[59]	coref	40-4[59_60]
 33-2	_	time	_	_	_	_
 33-3	_	is	_	_	_	_
 33-4	_	ABSOLUTELY	_	_	_	_
@@ -784,7 +817,7 @@
 34-13	_	.	_	_	_	_
 
 #Text=I ve noticed certain kinds of people especially who ask for help with menial tasks just because they do nt want to be bothered to do for themselves , which is something I was taught at a young age , to fend for myself .
-35-1	_	I	abstract[97]	new[97]	coref	35-33[97_98]
+35-1	_	I	abstract[101]	new[101]	coref	35-33[101_102]
 35-2	_	ve	_	_	_	_
 35-3	_	noticed	_	_	_	_
 35-4	_	certain	_	_	_	_
@@ -816,7 +849,7 @@
 35-30	_	which	_	_	_	_
 35-31	_	is	_	_	_	_
 35-32	_	something	_	_	_	_
-35-33	_	I	abstract[98]	new[98]	coref	35-44[98_99]
+35-33	_	I	abstract[102]	new[102]	coref	35-44[102_103]
 35-34	_	was	_	_	_	_
 35-35	_	taught	_	_	_	_
 35-36	_	at	_	_	_	_
@@ -827,11 +860,11 @@
 35-41	_	to	_	_	_	_
 35-42	_	fend	_	_	_	_
 35-43	_	for	_	_	_	_
-35-44	_	myself	abstract[99]	new[99]	coref	36-1[99_100]
+35-44	_	myself	abstract[103]	new[103]	coref	36-1[103_104]
 35-45	_	.	_	_	_	_
 
 #Text=I feel like the two are connected psychologically and i d love to see behavioral science explain this or make some solutions to the behavior .
-36-1	_	I	abstract[100]	new[100]	coref	36-10[100_101]
+36-1	_	I	abstract[104]	new[104]	coref	36-10[104_105]
 36-2	_	feel	_	_	_	_
 36-3	_	like	_	_	_	_
 36-4	_	the	_	_	_	_
@@ -840,7 +873,7 @@
 36-7	_	connected	_	_	_	_
 36-8	_	psychologically	_	_	_	_
 36-9	_	and	_	_	_	_
-36-10	_	i	abstract[101]	new[101]	coref	48-1[101_102]
+36-10	_	i	abstract[105]	new[105]	coref	48-1[105_106]
 36-11	_	d	_	_	_	_
 36-12	_	love	_	_	_	_
 36-13	_	to	_	_	_	_
@@ -873,7 +906,7 @@
 37-12	_	tasks	_	_	_	_
 37-13	_	just	_	_	_	_
 37-14	_	because	_	_	_	_
-37-15	_	they	abstract[104]	new[104]	coref	37-25[104_105]
+37-15	_	they	abstract[108]	new[108]	coref	37-25[108_109]
 37-16	_	do	_	_	_	_
 37-17	_	nt	_	_	_	_
 37-18	_	want	_	_	_	_
@@ -883,18 +916,18 @@
 37-22	_	to	_	_	_	_
 37-23	_	do	_	_	_	_
 37-24	_	for	_	_	_	_
-37-25	_	themselves	abstract[105]	new[105]	_	_
+37-25	_	themselves	abstract[109]	new[109]	_	_
 37-26	_	,	_	_	_	_
 
 #Text=I work as an Automation Engineer and I totally relate to this .
 38-1	_	I	_	_	_	_
 38-2	_	work	_	_	_	_
 38-3	_	as	_	_	_	_
-38-4	_	an	abstract[106]	new[106]	coref	38-8[106_107]
-38-5	_	Automation	abstract[106]	new[106]	_	_
-38-6	_	Engineer	abstract[106]	new[106]	_	_
+38-4	_	an	abstract[110]	new[110]	coref	38-8[110_111]
+38-5	_	Automation	abstract[110]	new[110]	_	_
+38-6	_	Engineer	abstract[110]	new[110]	_	_
 38-7	_	and	_	_	_	_
-38-8	_	I	abstract[107]	new[107]	coref	41-11[107_108]
+38-8	_	I	abstract[111]	new[111]	coref	41-12[111_112]
 38-9	_	totally	_	_	_	_
 38-10	_	relate	_	_	_	_
 38-11	_	to	_	_	_	_
@@ -902,7 +935,7 @@
 38-13	_	.	_	_	_	_
 
 #Text=People just ca n't copy - paste stuff from one cell in an excel file to another cell because it can be automated .
-39-1	_	People	abstract[113]	new[113]	coref	41-15[113_114]
+39-1	_	People	abstract[117]	new[117]	coref	41-16[117_118]
 39-2	_	just	_	_	_	_
 39-3	_	ca	_	_	_	_
 39-4	_	n't	_	_	_	_
@@ -921,7 +954,7 @@
 39-17	_	another	_	_	_	_
 39-18	_	cell	_	_	_	_
 39-19	_	because	_	_	_	_
-39-20	_	it	abstract[110]	new[110]	coref	40-6[110_111]
+39-20	_	it	abstract[114]	new[114]	coref	40-6[114_115]
 39-21	_	can	_	_	_	_
 39-22	_	be	_	_	_	_
 39-23	_	automated	_	_	_	_
@@ -931,9 +964,9 @@
 40-1	_	why	_	_	_	_
 40-2	_	do	_	_	_	_
 40-3	_	n't	_	_	_	_
-40-4	_	you	abstract[56]	new[56]	_	_
+40-4	_	you	abstract[60]	new[60]	_	_
 40-5	_	do	_	_	_	_
-40-6	_	that	abstract[111]	new[111]	coref	42-1[111_112]
+40-6	_	that	abstract[115]	new[115]	coref	42-1[115_116]
 40-7	_	as	_	_	_	_
 40-8	_	well	_	_	_	_
 40-9	_	?	_	_	_	_
@@ -949,16 +982,16 @@
 41-8	_	to	_	_	_	_
 41-9	_	not	_	_	_	_
 41-10	_	roll	_	_	_	_
-41-11	_	my	abstract[108]	new[108]	coref	41-20[108_109]
+41-11	_	my	abstract[112]	new[112]	coref	41-21[112_113]
 41-12	_	eyes	_	_	_	_
 41-13	_	and	_	_	_	_
 41-14	_	tell	_	_	_	_
-41-15	_	them	abstract[114]	new[114]	coref	48-21[114_115]
+41-15	_	them	abstract[118]	new[118]	coref	48-21[118_119]
 41-16	_	to	_	_	_	_
 41-17	_	move	_	_	_	_
 41-18	_	on	_	_	_	_
 41-19	_	because	_	_	_	_
-41-20	_	I	abstract[109]	new[109]	_	_
+41-20	_	I	abstract[113]	new[113]	_	_
 41-21	_	've	_	_	_	_
 41-22	_	got	_	_	_	_
 41-23	_	more	_	_	_	_
@@ -966,18 +999,18 @@
 41-25	_	prioritised	_	_	_	_
 41-26	_	than	_	_	_	_
 41-27	_	automating	_	_	_	_
-41-28	_	something	abstract[123]	new[123]	coref	47-19[123_124]
-41-29	_	that	abstract[123]	new[123]	_	_
-41-30	_	does	abstract[123]	new[123]	_	_
-41-31	_	n't	abstract[123]	new[123]	_	_
-41-32	_	even	abstract[123]	new[123]	_	_
-41-33	_	take	abstract[123]	new[123]	_	_
-41-34	_	a	abstract[123]	new[123]	_	_
-41-35	_	wink	abstract[123]	new[123]	_	_
+41-28	_	something	abstract[125]	new[125]	coref	47-19[125_126]
+41-29	_	that	abstract[125]	new[125]	_	_
+41-30	_	does	abstract[125]	new[125]	_	_
+41-31	_	n't	abstract[125]	new[125]	_	_
+41-32	_	even	abstract[125]	new[125]	_	_
+41-33	_	take	abstract[125]	new[125]	_	_
+41-34	_	a	abstract[125]	new[125]	_	_
+41-35	_	wink	abstract[125]	new[125]	_	_
 41-36	_	.	_	_	_	_
 
 #Text=This is not really frequent though so hats off to you tech support guys .
-42-1	_	This	abstract[112]	new[112]	_	_
+42-1	_	This	abstract[116]	new[116]	_	_
 42-2	_	is	_	_	_	_
 42-3	_	not	_	_	_	_
 42-4	_	really	_	_	_	_
@@ -987,29 +1020,29 @@
 42-8	_	hats	_	_	_	_
 42-9	_	off	_	_	_	_
 42-10	_	to	_	_	_	_
-42-11	_	you	abstract[117]	new[117]	coref	43-1[117_118]
-42-12	_	tech	abstract[117]	new[117]	_	_
-42-13	_	support	abstract[117]	new[117]	_	_
-42-14	_	guys	abstract[117]	new[117]	_	_
+42-11	_	you	abstract[121]	new[121]	coref	43-1[121_122]
+42-12	_	tech	abstract[121]	new[121]	_	_
+42-13	_	support	abstract[121]	new[121]	_	_
+42-14	_	guys	abstract[121]	new[121]	_	_
 42-15	_	.	_	_	_	_
 
 #Text=You 've my respect .
-43-1	_	You	abstract[118]	new[118]	_	_
+43-1	_	You	abstract[122]	new[122]	_	_
 43-2	_	've	_	_	_	_
 43-3	_	my	_	_	_	_
 43-4	_	respect	_	_	_	_
 43-5	_	.	_	_	_	_
 
 #Text=Relevant xkcd
-44-1	_	Relevant	abstract[119]	new[119]	coref	45-1[119_120]
-44-2	_	xkcd	abstract[119]	new[119]	_	_
+44-1	_	Relevant	_	_	_	_
+44-2	_	xkcd	_	_	_	_
 
 #Text=https://xkcd.com/1205/
-45-1	_	https://xkcd.com/1205/	abstract[120]	new[120]	_	_
+45-1	_	https://xkcd.com/1205/	_	_	_	_
 
 #Text=Is it worth the time ?
 46-1	_	Is	_	_	_	_
-46-2	_	it	abstract[121]	new[121]	coref	47-2[121_122]
+46-2	_	it	abstract[123]	new[123]	coref	47-2[123_124]
 46-3	_	worth	_	_	_	_
 46-4	_	the	_	_	_	_
 46-5	_	time	_	_	_	_
@@ -1017,7 +1050,7 @@
 
 #Text=Is it worth it to save 5 seconds x times per day to spend y minutes to automate it .
 47-1	_	Is	_	_	_	_
-47-2	_	it	abstract[122]	new[122]	_	_
+47-2	_	it	abstract[124]	new[124]	_	_
 47-3	_	worth	_	_	_	_
 47-4	_	it	_	_	_	_
 47-5	_	to	_	_	_	_
@@ -1034,16 +1067,16 @@
 47-16	_	minutes	_	_	_	_
 47-17	_	to	_	_	_	_
 47-18	_	automate	_	_	_	_
-47-19	_	it	abstract[124]	new[124]	coref	48-6[124_125]
+47-19	_	it	abstract[126]	new[126]	coref	48-6[126_127]
 47-20	_	.	_	_	_	_
 
 #Text=I mean , even if it s a regular thing , there are macros for that , and part of their job description probably includes the phrase ' experience with < insert x software here > .
-48-1	_	I	abstract[102]	new[102]	coref	49-5[102_103]
+48-1	_	I	abstract[106]	new[106]	coref	49-5[106_107]
 48-2	_	mean	_	_	_	_
 48-3	_	,	_	_	_	_
 48-4	_	even	_	_	_	_
 48-5	_	if	_	_	_	_
-48-6	_	it	abstract[125]	new[125]	coref	48-16[125_126]
+48-6	_	it	abstract[127]	new[127]	coref	48-16[127_128]
 48-7	_	s	_	_	_	_
 48-8	_	a	_	_	_	_
 48-9	_	regular	_	_	_	_
@@ -1053,14 +1086,14 @@
 48-13	_	are	_	_	_	_
 48-14	_	macros	_	_	_	_
 48-15	_	for	_	_	_	_
-48-16	_	that	abstract[126]	new[126]	_	_
+48-16	_	that	abstract[128]	new[128]	_	_
 48-17	_	,	_	_	_	_
 48-18	_	and	_	_	_	_
 48-19	_	part	_	_	_	_
 48-20	_	of	_	_	_	_
-48-21	_	their	abstract[115]|abstract[133]	new[115]|new[133]	coref|coref	49-14[115_116]|50-2[133_134]
-48-22	_	job	abstract[133]	new[133]	_	_
-48-23	_	description	abstract[133]	new[133]	_	_
+48-21	_	their	abstract[119]|abstract[135]	new[119]|new[135]	coref|coref	49-14[119_120]|50-2[135_136]
+48-22	_	job	abstract[135]	new[135]	_	_
+48-23	_	description	abstract[135]	new[135]	_	_
 48-24	_	probably	_	_	_	_
 48-25	_	includes	_	_	_	_
 48-26	_	the	_	_	_	_
@@ -1081,28 +1114,28 @@
 49-2	_	huge	_	_	_	_
 49-3	_	part	_	_	_	_
 49-4	_	of	_	_	_	_
-49-5	_	my	abstract[103]	new[103]	_	_
+49-5	_	my	abstract[107]	new[107]	_	_
 49-6	_	annoyance	_	_	_	_
 49-7	_	with	_	_	_	_
-49-8	_	normal	abstract[127]	new[127]	coref	49-19[127_128]
-49-9	_	everyday	abstract[127]	new[127]	_	_
-49-10	_	users	abstract[127]	new[127]	_	_
+49-8	_	normal	abstract[129]	new[129]	coref	49-19[129_130]
+49-9	_	everyday	abstract[129]	new[129]	_	_
+49-10	_	users	abstract[129]	new[129]	_	_
 49-11	_	is	_	_	_	_
 49-12	_	this	_	_	_	_
 49-13	_	idea	_	_	_	_
-49-14	_	they	abstract[116]	new[116]	_	_
+49-14	_	they	abstract[120]	new[120]	_	_
 49-15	_	got	_	_	_	_
 49-16	_	somewhere	_	_	_	_
 49-17	_	that	_	_	_	_
 49-18	_	'	_	_	_	_
-49-19	_	i	abstract[128]	new[128]	coref	49-26[128_129]
+49-19	_	i	abstract[130]	new[130]	coref	49-26[130_131]
 49-20	_	m	_	_	_	_
 49-21	_	not	_	_	_	_
 49-22	_	a	_	_	_	_
 49-23	_	computer	_	_	_	_
 49-24	_	person	_	_	_	_
 49-25	_	.	_	_	_	_
-49-26	_	I	abstract[129]	new[129]	coref	50-2[129_130]
+49-26	_	I	abstract[131]	new[131]	coref	50-2[131_132]
 49-27	_	do	_	_	_	_
 49-28	_	nt	_	_	_	_
 49-29	_	have	_	_	_	_
@@ -1113,22 +1146,22 @@
 49-34	_	how	_	_	_	_
 49-35	_	to	_	_	_	_
 49-36	_	do	_	_	_	_
-49-37	_	that	abstract[135]	new[135]	coref	51-14[135_136]
+49-37	_	that	abstract[137]	new[137]	coref	51-14[137_138]
 49-38	_	'	_	_	_	_
 49-39	_	.	_	_	_	_
 
 #Text=" Your job description begs to differ .
 50-1	_	"	_	_	_	_
-50-2	_	Your	abstract[130]|abstract[134]	new[130]|new[134]	coref	51-1[130_131]
-50-3	_	job	abstract[134]	new[134]	_	_
-50-4	_	description	abstract[134]	new[134]	_	_
+50-2	_	Your	abstract[132]|abstract[136]	new[132]|new[136]	coref	51-1[132_133]
+50-3	_	job	abstract[136]	new[136]	_	_
+50-4	_	description	abstract[136]	new[136]	_	_
 50-5	_	begs	_	_	_	_
 50-6	_	to	_	_	_	_
 50-7	_	differ	_	_	_	_
 50-8	_	.	_	_	_	_
 
 #Text=You DO , in fact , have time to learn how to do that , or perhaps you should be in another line of business ' .
-51-1	_	You	abstract[131]	new[131]	coref	51-18[131_132]
+51-1	_	You	abstract[133]	new[133]	coref	51-18[133_134]
 51-2	_	DO	_	_	_	_
 51-3	_	,	_	_	_	_
 51-4	_	in	_	_	_	_
@@ -1141,11 +1174,11 @@
 51-11	_	how	_	_	_	_
 51-12	_	to	_	_	_	_
 51-13	_	do	_	_	_	_
-51-14	_	that	abstract[136]	new[136]	_	_
+51-14	_	that	abstract[138]	new[138]	_	_
 51-15	_	,	_	_	_	_
 51-16	_	or	_	_	_	_
 51-17	_	perhaps	_	_	_	_
-51-18	_	you	abstract[132]	new[132]	_	_
+51-18	_	you	abstract[134]	new[134]	_	_
 51-19	_	should	_	_	_	_
 51-20	_	be	_	_	_	_
 51-21	_	in	_	_	_	_
@@ -1156,22 +1189,64 @@
 51-26	_	'	_	_	_	_
 51-27	_	.	_	_	_	_
 
-#Text=Bobby Flay and Iron Chef versus Bobby Flay : An analysis of these two culinary chefs .
-52-1	_	Bobby	abstract[137]	new[137]	coref	52-7[137_138]
-52-2	_	Flay	abstract[137]	new[137]	_	_
-52-3	_	and	_	_	_	_
-52-4	_	Iron	_	_	_	_
-52-5	_	Chef	_	_	_	_
-52-6	_	versus	_	_	_	_
-52-7	_	Bobby	abstract[138]	new[138]	_	_
-52-8	_	Flay	abstract[138]	new[138]	_	_
-52-9	_	:	_	_	_	_
-52-10	_	An	_	_	_	_
-52-11	_	analysis	_	_	_	_
-52-12	_	of	_	_	_	_
-52-13	_	these	_	_	_	_
-52-14	_	two	_	_	_	_
-52-15	_	culinary	_	_	_	_
-52-16	_	chefs	_	_	_	_
-52-17	_	.	_	_	_	_
+#Text=Several people working in tech support tell about their encounters with difficult customers , including one calling for emergency support in transferring Candy Crush progress to a new phone , leading to a discussion of how customers should be charged enough to respect workers ' time , and be made to learn computer skills relevant to their jobs .
+52-1	_	Several	abstract[139]	new[139]	coref	52-9[139_140]
+52-2	_	people	abstract[139]	new[139]	_	_
+52-3	_	working	abstract[139]	new[139]	_	_
+52-4	_	in	abstract[139]	new[139]	_	_
+52-5	_	tech	abstract[139]	new[139]	_	_
+52-6	_	support	abstract[139]	new[139]	_	_
+52-7	_	tell	_	_	_	_
+52-8	_	about	_	_	_	_
+52-9	_	their	abstract[140]	new[140]	_	_
+52-10	_	encounters	_	_	_	_
+52-11	_	with	_	_	_	_
+52-12	_	difficult	_	_	_	_
+52-13	_	customers	_	_	_	_
+52-14	_	,	_	_	_	_
+52-15	_	including	_	_	_	_
+52-16	_	one	_	_	_	_
+52-17	_	calling	_	_	_	_
+52-18	_	for	_	_	_	_
+52-19	_	emergency	_	_	_	_
+52-20	_	support	_	_	_	_
+52-21	_	in	_	_	_	_
+52-22	_	transferring	_	_	_	_
+52-23	_	Candy	_	_	_	_
+52-24	_	Crush	_	_	_	_
+52-25	_	progress	_	_	_	_
+52-26	_	to	_	_	_	_
+52-27	_	a	_	_	_	_
+52-28	_	new	_	_	_	_
+52-29	_	phone	_	_	_	_
+52-30	_	,	_	_	_	_
+52-31	_	leading	_	_	_	_
+52-32	_	to	_	_	_	_
+52-33	_	a	_	_	_	_
+52-34	_	discussion	_	_	_	_
+52-35	_	of	_	_	_	_
+52-36	_	how	_	_	_	_
+52-37	_	customers	abstract[141]	new[141]	coref	52-57[141_142]
+52-38	_	should	_	_	_	_
+52-39	_	be	_	_	_	_
+52-40	_	charged	_	_	_	_
+52-41	_	enough	_	_	_	_
+52-42	_	to	_	_	_	_
+52-43	_	respect	_	_	_	_
+52-44	_	workers	_	_	_	_
+52-45	_	'	_	_	_	_
+52-46	_	time	_	_	_	_
+52-47	_	,	_	_	_	_
+52-48	_	and	_	_	_	_
+52-49	_	be	_	_	_	_
+52-50	_	made	_	_	_	_
+52-51	_	to	_	_	_	_
+52-52	_	learn	_	_	_	_
+52-53	_	computer	_	_	_	_
+52-54	_	skills	_	_	_	_
+52-55	_	relevant	_	_	_	_
+52-56	_	to	_	_	_	_
+52-57	_	their	abstract[142]	new[142]	_	_
+52-58	_	jobs	_	_	_	_
+52-59	_	.	_	_	_	_
 

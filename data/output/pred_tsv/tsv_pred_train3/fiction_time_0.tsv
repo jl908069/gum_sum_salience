@@ -998,7 +998,7 @@
 
 #Text=Can you imagine a crab as large as yonder table , with its many legs moving slowly and uncertainly , its big claws swaying , its long antennæ , like carters ’ whips , waving and feeling , and its stalked eyes gleaming at you on either side of its metallic front ?
 39-1	_	Can	_	_	_	_
-39-2	_	you	abstract[106]	new[106]	coref	39-46[106_107]
+39-2	_	you	abstract[110]	new[110]	coref	39-46[110_111]
 39-3	_	imagine	_	_	_	_
 39-4	_	a	_	_	_	_
 39-5	_	crab	_	_	_	_
@@ -1041,7 +1041,7 @@
 39-42	_	eyes	_	_	_	_
 39-43	_	gleaming	_	_	_	_
 39-44	_	at	_	_	_	_
-39-45	_	you	abstract[107]	new[107]	_	_
+39-45	_	you	abstract[111]	new[111]	_	_
 39-46	_	on	_	_	_	_
 39-47	_	either	_	_	_	_
 39-48	_	side	_	_	_	_
@@ -1088,34 +1088,37 @@
 41-12	_	and	_	_	_	_
 41-13	_	feeling	_	_	_	_
 41-14	_	as	_	_	_	_
-41-15	_	it	abstract[105]	new[105]	_	_
+41-15	_	it	abstract[105]	new[105]	coref	42-4[105_106]
 41-16	_	moved	_	_	_	_
 41-17	_	.	_	_	_	_
 
-#Text=A school girl is unloading her car parked by her bike , trying to get a sock out of the seat of her car .
-42-1	_	A	abstract[108]	new[108]	coref	42-6[108_109]
-42-2	_	school	abstract[108]	new[108]	_	_
-42-3	_	girl	abstract[108]	new[108]	_	_
-42-4	_	is	_	_	_	_
-42-5	_	unloading	_	_	_	_
-42-6	_	her	abstract[109]|abstract[112]	new[109]|new[112]	coref|coref	42-10[109_110]|42-23[112_113]
-42-7	_	car	abstract[112]	new[112]	_	_
-42-8	_	parked	abstract[112]	new[112]	_	_
-42-9	_	by	abstract[112]	new[112]	_	_
-42-10	_	her	abstract[110]|abstract[112]	new[110]|new[112]	coref	42-23[110_111]
-42-11	_	bike	abstract[112]	new[112]	_	_
-42-12	_	,	_	_	_	_
-42-13	_	trying	_	_	_	_
-42-14	_	to	_	_	_	_
-42-15	_	get	_	_	_	_
-42-16	_	a	_	_	_	_
-42-17	_	sock	_	_	_	_
-42-18	_	out	_	_	_	_
-42-19	_	of	_	_	_	_
-42-20	_	the	_	_	_	_
-42-21	_	seat	_	_	_	_
-42-22	_	of	_	_	_	_
-42-23	_	her	abstract[111]|abstract[113]	new[111]|new[113]	_	_
-42-24	_	car	abstract[113]	new[113]	_	_
-42-25	_	.	_	_	_	_
+#Text=’ Is n’t he going to get any more angry next ! If it does n’t , he will get all the wishes out of it . ’
+42-1	_	’	_	_	_	_
+42-2	_	Is	_	_	_	_
+42-3	_	n’t	_	_	_	_
+42-4	_	he	abstract[106]	new[106]	coref	42-14[106_107]
+42-5	_	going	_	_	_	_
+42-6	_	to	_	_	_	_
+42-7	_	get	_	_	_	_
+42-8	_	any	_	_	_	_
+42-9	_	more	_	_	_	_
+42-10	_	angry	_	_	_	_
+42-11	_	next	_	_	_	_
+42-12	_	!	_	_	_	_
+42-13	_	If	_	_	_	_
+42-14	_	it	abstract[107]	new[107]	coref	42-18[107_108]
+42-15	_	does	_	_	_	_
+42-16	_	n’t	_	_	_	_
+42-17	_	,	_	_	_	_
+42-18	_	he	abstract[108]	new[108]	coref	42-26[108_109]
+42-19	_	will	_	_	_	_
+42-20	_	get	_	_	_	_
+42-21	_	all	_	_	_	_
+42-22	_	the	_	_	_	_
+42-23	_	wishes	_	_	_	_
+42-24	_	out	_	_	_	_
+42-25	_	of	_	_	_	_
+42-26	_	it	abstract[109]	new[109]	_	_
+42-27	_	.	_	_	_	_
+42-28	_	’	_	_	_	_
 

@@ -63,8 +63,8 @@
 4-9	_	over	_	_	_	_
 4-10	_	the	_	_	_	_
 4-11	_	world	_	_	_	_
-4-12	_	these	abstract[151]	new[151]	coref	91-6[151_152]
-4-13	_	days	abstract[151]	new[151]	_	_
+4-12	_	these	abstract[148]	new[148]	coref	91-6[148_149]
+4-13	_	days	abstract[148]	new[148]	_	_
 4-14	_	,	_	_	_	_
 4-15	_	uh	_	_	_	_
 4-16	_	with	_	_	_	_
@@ -1307,9 +1307,9 @@
 89-9	_	that	_	_	_	_
 89-10	_	we	abstract[46]	new[46]	_	_
 89-11	_	had	_	_	_	_
-89-12	_	a	abstract[149]	new[149]	coref	89-22[149_150]
-89-13	_	peaceful	abstract[149]	new[149]	_	_
-89-14	_	world	abstract[149]	new[149]	_	_
+89-12	_	a	abstract[146]	new[146]	coref	89-22[146_147]
+89-13	_	peaceful	abstract[146]	new[146]	_	_
+89-14	_	world	abstract[146]	new[146]	_	_
 89-15	_	or	_	_	_	_
 89-16	_	that	_	_	_	_
 89-17	_	that	_	_	_	_
@@ -1317,13 +1317,13 @@
 89-19	_	was	_	_	_	_
 89-20	_	part	_	_	_	_
 89-21	_	of	_	_	_	_
-89-22	_	it	abstract[150]	new[150]	_	_
+89-22	_	it	abstract[147]	new[147]	_	_
 89-23	_	.	_	_	_	_
 
 #Text=Of what he was about .
 90-1	_	Of	_	_	_	_
 90-2	_	what	_	_	_	_
-90-3	_	he	abstract[145]	new[145]	coref	95-1[145_146]
+90-3	_	he	abstract[145]	new[145]	_	_
 90-4	_	was	_	_	_	_
 90-5	_	about	_	_	_	_
 90-6	_	.	_	_	_	_
@@ -1334,9 +1334,9 @@
 91-3	_	so	_	_	_	_
 91-4	_	much	_	_	_	_
 91-5	_	of	_	_	_	_
-91-6	_	today	abstract[152]|abstract[153]	new[152]|new[153]	coref	92-1[153_154]
-91-7	_	's	abstract[152]|abstract[153]	new[152]|new[153]	_	_
-91-8	_	technology	abstract[153]	new[153]	_	_
+91-6	_	today	abstract[149]|abstract[150]	new[149]|new[150]	coref	92-1[150_151]
+91-7	_	's	abstract[149]|abstract[150]	new[149]|new[150]	_	_
+91-8	_	technology	abstract[150]	new[150]	_	_
 91-9	_	is	_	_	_	_
 91-10	_	soulless	_	_	_	_
 91-11	_	and	_	_	_	_
@@ -1349,7 +1349,7 @@
 91-18	_	.	_	_	_	_
 
 #Text=It has to do with , just generally , chewing up , you know , consumerism basically and — .
-92-1	_	It	abstract[154]	new[154]	_	_
+92-1	_	It	abstract[151]	new[151]	_	_
 92-2	_	has	_	_	_	_
 92-3	_	to	_	_	_	_
 92-4	_	do	_	_	_	_
@@ -1392,13 +1392,13 @@
 94-15	_	,	_	_	_	_
 94-16	_	chewing	_	_	_	_
 94-17	_	up	_	_	_	_
-94-18	_	the	abstract[155]	new[155]	coref	94-24[155_156]
-94-19	_	human	abstract[155]	new[155]	_	_
-94-20	_	experience	abstract[155]	new[155]	_	_
+94-18	_	the	abstract[152]	new[152]	coref	94-24[152_153]
+94-19	_	human	abstract[152]	new[152]	_	_
+94-20	_	experience	abstract[152]	new[152]	_	_
 94-21	_	,	_	_	_	_
 94-22	_	and	_	_	_	_
 94-23	_	turning	_	_	_	_
-94-24	_	it	abstract[156]	new[156]	_	_
+94-24	_	it	abstract[153]	new[153]	_	_
 94-25	_	into	_	_	_	_
 94-26	_	,	_	_	_	_
 94-27	_	some	_	_	_	_
@@ -1408,35 +1408,20 @@
 94-31	_	need	_	_	_	_
 94-32	_	.	_	_	_	_
 
-#Text=He was an hour and a half under . His fever was a hundred and four point five . Now his temperature is a hundred and four - five .
-95-1	_	He	abstract[146]	new[146]	coref	95-10[146_147]
-95-2	_	was	_	_	_	_
-95-3	_	an	_	_	_	_
-95-4	_	hour	_	_	_	_
-95-5	_	and	_	_	_	_
-95-6	_	a	_	_	_	_
-95-7	_	half	_	_	_	_
-95-8	_	under	_	_	_	_
-95-9	_	.	_	_	_	_
-95-10	_	His	abstract[147]	new[147]	coref	95-21[147_148]
-95-11	_	fever	_	_	_	_
-95-12	_	was	_	_	_	_
+#Text=Doctor says he needs to stay in the ambulance because he has a fever .
+95-1	_	Doctor	_	_	_	_
+95-2	_	says	_	_	_	_
+95-3	_	he	abstract[154]	new[154]	coref	95-11[154_155]
+95-4	_	needs	_	_	_	_
+95-5	_	to	_	_	_	_
+95-6	_	stay	_	_	_	_
+95-7	_	in	_	_	_	_
+95-8	_	the	_	_	_	_
+95-9	_	ambulance	_	_	_	_
+95-10	_	because	_	_	_	_
+95-11	_	he	abstract[155]	new[155]	_	_
+95-12	_	has	_	_	_	_
 95-13	_	a	_	_	_	_
-95-14	_	hundred	_	_	_	_
-95-15	_	and	_	_	_	_
-95-16	_	four	_	_	_	_
-95-17	_	point	_	_	_	_
-95-18	_	five	_	_	_	_
-95-19	_	.	_	_	_	_
-95-20	_	Now	_	_	_	_
-95-21	_	his	abstract[148]	new[148]	_	_
-95-22	_	temperature	_	_	_	_
-95-23	_	is	_	_	_	_
-95-24	_	a	_	_	_	_
-95-25	_	hundred	_	_	_	_
-95-26	_	and	_	_	_	_
-95-27	_	four	_	_	_	_
-95-28	_	-	_	_	_	_
-95-29	_	five	_	_	_	_
-95-30	_	.	_	_	_	_
+95-14	_	fever	_	_	_	_
+95-15	_	.	_	_	_	_
 

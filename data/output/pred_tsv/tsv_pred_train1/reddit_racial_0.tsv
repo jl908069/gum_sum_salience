@@ -12,11 +12,11 @@
 1-6	_	the	_	_	_	_
 1-7	_	importance	_	_	_	_
 1-8	_	of	_	_	_	_
-1-9	_	racial	abstract[33]	new[33]	coref	5-5[33_34]
-1-10	_	issues	abstract[33]	new[33]	_	_
-1-11	_	seen	abstract[33]	new[33]	_	_
-1-12	_	in	abstract[33]	new[33]	_	_
-1-13	_	America	abstract[25]|abstract[33]	new[25]|new[33]	coref	4-23[25_26]
+1-9	_	racial	abstract[32]	new[32]	coref	5-5[32_33]
+1-10	_	issues	abstract[32]	new[32]	_	_
+1-11	_	seen	abstract[32]	new[32]	_	_
+1-12	_	in	abstract[32]	new[32]	_	_
+1-13	_	America	abstract[24]|abstract[32]	new[24]|new[32]	coref	4-23[24_25]
 1-14	_	?	_	_	_	_
 
 #Text=Hey , guys !
@@ -34,8 +34,8 @@
 3-6	_	obviously	_	_	_	_
 3-7	_	learn	_	_	_	_
 3-8	_	about	_	_	_	_
-3-9	_	US	abstract[23]	new[23]	coref	4-4[23_24]
-3-10	_	history	abstract[23]	new[23]	_	_
+3-9	_	US	abstract[22]	new[22]	coref	4-4[22_23]
+3-10	_	history	abstract[22]	new[22]	_	_
 3-11	_	to	_	_	_	_
 3-12	_	a	_	_	_	_
 3-13	_	much	_	_	_	_
@@ -57,8 +57,8 @@
 4-1	_	Along	_	_	_	_
 4-2	_	with	_	_	_	_
 4-3	_	knowing	_	_	_	_
-4-4	_	our	abstract[10]|abstract[24]	new[10]|new[24]	coref	4-7[10_11]
-4-5	_	history	abstract[24]	new[24]	_	_
+4-4	_	our	abstract[10]|abstract[23]	new[10]|new[23]	coref	4-7[10_11]
+4-5	_	history	abstract[23]	new[23]	_	_
 4-6	_	,	_	_	_	_
 4-7	_	we	abstract[11]	new[11]	coref	4-23[11_12]
 4-8	_	also	_	_	_	_
@@ -76,9 +76,9 @@
 4-20	_	250	_	_	_	_
 4-21	_	years	_	_	_	_
 4-22	_	of	_	_	_	_
-4-23	_	our	abstract[12]|abstract[26]	new[12]|new[26]	coref|coref	4-34[12_13]|11-34[26_27]
-4-24	_	country	abstract[26]	new[26]	_	_
-4-25	_	’s	abstract[26]	new[26]	_	_
+4-23	_	our	abstract[12]|abstract[25]	new[12]|new[25]	coref|coref	4-34[12_13]|11-34[25_26]
+4-24	_	country	abstract[25]	new[25]	_	_
+4-25	_	’s	abstract[25]	new[25]	_	_
 4-26	_	existence	_	_	_	_
 4-27	_	and	_	_	_	_
 4-28	_	from	_	_	_	_
@@ -96,32 +96,32 @@
 5-2	_	,	_	_	_	_
 5-3	_	we	abstract[14]	new[14]	coref	7-10[14_15]
 5-4	_	see	_	_	_	_
-5-5	_	the	abstract[34]	new[34]	coref	14-21[34_35]
-5-6	_	racial	abstract[34]	new[34]	_	_
-5-7	_	issues	abstract[34]	new[34]	_	_
-5-8	_	and	abstract[34]	new[34]	_	_
-5-9	_	tensions	abstract[34]	new[34]	_	_
-5-10	_	occurring	abstract[34]	new[34]	_	_
-5-11	_	today	abstract[34]	new[34]	_	_
-5-12	_	as	abstract[34]	new[34]	_	_
-5-13	_	a	abstract[34]	new[34]	_	_
-5-14	_	very	abstract[34]	new[34]	_	_
-5-15	_	logical	abstract[34]	new[34]	_	_
-5-16	_	conclusion	abstract[34]	new[34]	_	_
-5-17	_	,	abstract[34]	new[34]	_	_
-5-18	_	personal	abstract[34]	new[34]	_	_
-5-19	_	to	abstract[34]	new[34]	_	_
-5-20	_	each	abstract[34]	new[34]	_	_
-5-21	_	individual	abstract[34]	new[34]	_	_
-5-22	_	,	abstract[34]	new[34]	_	_
-5-23	_	and	abstract[34]	new[34]	_	_
-5-24	_	as	abstract[34]	new[34]	_	_
-5-25	_	intense	abstract[34]	new[34]	_	_
-5-26	_	in	abstract[34]	new[34]	_	_
-5-27	_	the	abstract[34]	new[34]	_	_
-5-28	_	realm	abstract[34]	new[34]	_	_
-5-29	_	of	abstract[34]	new[34]	_	_
-5-30	_	politics	abstract[34]	new[34]	_	_
+5-5	_	the	abstract[33]	new[33]	coref	14-21[33_34]
+5-6	_	racial	abstract[33]	new[33]	_	_
+5-7	_	issues	abstract[33]	new[33]	_	_
+5-8	_	and	abstract[33]	new[33]	_	_
+5-9	_	tensions	abstract[33]	new[33]	_	_
+5-10	_	occurring	abstract[33]	new[33]	_	_
+5-11	_	today	abstract[33]	new[33]	_	_
+5-12	_	as	abstract[33]	new[33]	_	_
+5-13	_	a	abstract[33]	new[33]	_	_
+5-14	_	very	abstract[33]	new[33]	_	_
+5-15	_	logical	abstract[33]	new[33]	_	_
+5-16	_	conclusion	abstract[33]	new[33]	_	_
+5-17	_	,	abstract[33]	new[33]	_	_
+5-18	_	personal	abstract[33]	new[33]	_	_
+5-19	_	to	abstract[33]	new[33]	_	_
+5-20	_	each	abstract[33]	new[33]	_	_
+5-21	_	individual	abstract[33]	new[33]	_	_
+5-22	_	,	abstract[33]	new[33]	_	_
+5-23	_	and	abstract[33]	new[33]	_	_
+5-24	_	as	abstract[33]	new[33]	_	_
+5-25	_	intense	abstract[33]	new[33]	_	_
+5-26	_	in	abstract[33]	new[33]	_	_
+5-27	_	the	abstract[33]	new[33]	_	_
+5-28	_	realm	abstract[33]	new[33]	_	_
+5-29	_	of	abstract[33]	new[33]	_	_
+5-30	_	politics	abstract[33]	new[33]	_	_
 5-31	_	.	_	_	_	_
 
 #Text=So , my questions are :
@@ -142,20 +142,20 @@
 7-7	_	feel	_	_	_	_
 7-8	_	/	_	_	_	_
 7-9	_	interpret	_	_	_	_
-7-10	_	our	abstract[15]|abstract[63]	new[15]|new[63]	coref|coref	9-12[15_16]|22-2[63_64]
-7-11	_	seemingly	abstract[63]	new[63]	_	_
-7-12	_	,	abstract[63]	new[63]	_	_
-7-13	_	from	abstract[63]	new[63]	_	_
-7-14	_	an	abstract[63]	new[63]	_	_
-7-15	_	outsider	abstract[63]	new[63]	_	_
-7-16	_	’s	abstract[63]	new[63]	_	_
-7-17	_	point	abstract[63]	new[63]	_	_
-7-18	_	of	abstract[63]	new[63]	_	_
-7-19	_	view	abstract[63]	new[63]	_	_
-7-20	_	,	abstract[63]	new[63]	_	_
-7-21	_	obsession	abstract[63]	new[63]	_	_
-7-22	_	with	abstract[63]	new[63]	_	_
-7-23	_	race	abstract[63]	new[63]	_	_
+7-10	_	our	abstract[15]|abstract[62]	new[15]|new[62]	coref|coref	9-12[15_16]|22-2[62_63]
+7-11	_	seemingly	abstract[62]	new[62]	_	_
+7-12	_	,	abstract[62]	new[62]	_	_
+7-13	_	from	abstract[62]	new[62]	_	_
+7-14	_	an	abstract[62]	new[62]	_	_
+7-15	_	outsider	abstract[62]	new[62]	_	_
+7-16	_	’s	abstract[62]	new[62]	_	_
+7-17	_	point	abstract[62]	new[62]	_	_
+7-18	_	of	abstract[62]	new[62]	_	_
+7-19	_	view	abstract[62]	new[62]	_	_
+7-20	_	,	abstract[62]	new[62]	_	_
+7-21	_	obsession	abstract[62]	new[62]	_	_
+7-22	_	with	abstract[62]	new[62]	_	_
+7-23	_	race	abstract[62]	new[62]	_	_
 7-24	_	?	_	_	_	_
 
 #Text=Do many people not understand why ?
@@ -214,18 +214,18 @@
 9-44	_	the	_	_	_	_
 9-45	_	KKK	_	_	_	_
 9-46	_	,	_	_	_	_
-9-47	_	Jim	abstract[51]	new[51]	coref	13-26[51_52]
-9-48	_	Crow	abstract[51]	new[51]	_	_
+9-47	_	Jim	abstract[50]	new[50]	coref	13-26[50_51]
+9-48	_	Crow	abstract[50]	new[50]	_	_
 9-49	_	+	_	_	_	_
 9-50	_	redlining	_	_	_	_
 9-51	_	,	_	_	_	_
-9-52	_	the	abstract[59]	new[59]	coref	18-1[59_60]
-9-53	_	Civil	abstract[59]	new[59]	_	_
-9-54	_	Rights	abstract[59]	new[59]	_	_
-9-55	_	Movement	abstract[59]	new[59]	_	_
-9-56	_	in	abstract[59]	new[59]	_	_
-9-57	_	the	abstract[53]|abstract[59]	new[53]|new[59]	coref	13-37[53_54]
-9-58	_	1960s	abstract[53]|abstract[59]	new[53]|new[59]	_	_
+9-52	_	the	abstract[58]	new[58]	coref	18-1[58_59]
+9-53	_	Civil	abstract[58]	new[58]	_	_
+9-54	_	Rights	abstract[58]	new[58]	_	_
+9-55	_	Movement	abstract[58]	new[58]	_	_
+9-56	_	in	abstract[58]	new[58]	_	_
+9-57	_	the	abstract[52]|abstract[58]	new[52]|new[58]	coref	13-37[52_53]
+9-58	_	1960s	abstract[52]|abstract[58]	new[52]|new[58]	_	_
 9-59	_	,	_	_	_	_
 9-60	_	and	_	_	_	_
 9-61	_	Black	_	_	_	_
@@ -254,12 +254,12 @@
 10-10	_	you	abstract[8]	new[8]	_	_
 10-11	_	hear	_	_	_	_
 10-12	_	about	_	_	_	_
-10-13	_	our	abstract[18]|abstract[70]	new[18]|new[70]	coref|coref	29-1[18_19]|26-2[70_71]
-10-14	_	outrage	abstract[70]	new[70]	_	_
-10-15	_	over	abstract[70]	new[70]	_	_
-10-16	_	a	abstract[70]	new[70]	_	_
-10-17	_	racial	abstract[70]	new[70]	_	_
-10-18	_	issue	abstract[70]	new[70]	_	_
+10-13	_	our	abstract[18]|abstract[69]	new[18]|new[69]	coref|coref	29-1[18_19]|26-2[69_70]
+10-14	_	outrage	abstract[69]	new[69]	_	_
+10-15	_	over	abstract[69]	new[69]	_	_
+10-16	_	a	abstract[69]	new[69]	_	_
+10-17	_	racial	abstract[69]	new[69]	_	_
+10-18	_	issue	abstract[69]	new[69]	_	_
 10-19	_	today	_	_	_	_
 10-20	_	?	_	_	_	_
 
@@ -271,7 +271,7 @@
 11-5	_	quite	_	_	_	_
 11-6	_	obsessed	_	_	_	_
 11-7	_	with	_	_	_	_
-11-8	_	race	abstract[48]	new[48]	coref	11-28[48_49]
+11-8	_	race	abstract[47]	new[47]	coref	11-28[47_48]
 11-9	_	,	_	_	_	_
 11-10	_	and	_	_	_	_
 11-11	_	while	_	_	_	_
@@ -286,29 +286,29 @@
 11-20	_	is	_	_	_	_
 11-21	_	repulsive	_	_	_	_
 11-22	_	to	_	_	_	_
-11-23	_	me	abstract[36]	new[36]	coref	11-25[36_37]
+11-23	_	me	abstract[35]	new[35]	coref	11-25[35_36]
 11-24	_	,	_	_	_	_
-11-25	_	I	abstract[37]	new[37]	coref	11-38[37_38]
+11-25	_	I	abstract[36]	new[36]	coref	11-38[36_37]
 11-26	_	understand	_	_	_	_
 11-27	_	why	_	_	_	_
-11-28	_	this	abstract[49]	new[49]	coref	11-44[49_50]
+11-28	_	this	abstract[48]	new[48]	coref	11-44[48_49]
 11-29	_	is	_	_	_	_
 11-30	_	a	_	_	_	_
 11-31	_	big	_	_	_	_
 11-32	_	deal	_	_	_	_
 11-33	_	in	_	_	_	_
-11-34	_	the	abstract[27]	new[27]	coref	14-51[27_28]
-11-35	_	US	abstract[27]	new[27]	_	_
+11-34	_	the	abstract[26]	new[26]	coref	14-51[26_27]
+11-35	_	US	abstract[26]	new[26]	_	_
 11-36	_	-	_	_	_	_
 11-37	_	and	_	_	_	_
-11-38	_	I	abstract[38]	new[38]	coref	12-1[38_39]
+11-38	_	I	abstract[37]	new[37]	coref	12-1[37_38]
 11-39	_	understand	_	_	_	_
 11-40	_	why	_	_	_	_
 11-41	_	European	_	_	_	_
 11-42	_	views	_	_	_	_
 11-43	_	on	_	_	_	_
-11-44	_	the	abstract[50]	new[50]	_	_
-11-45	_	issue	abstract[50]	new[50]	_	_
+11-44	_	the	abstract[49]	new[49]	_	_
+11-45	_	issue	abstract[49]	new[49]	_	_
 11-46	_	are	_	_	_	_
 11-47	_	usually	_	_	_	_
 11-48	_	too	_	_	_	_
@@ -316,7 +316,7 @@
 11-50	_	.	_	_	_	_
 
 #Text=I 'm pretty sure that most people here only have a very vague idea of US history in this regard .
-12-1	_	I	abstract[39]	new[39]	coref	13-16[39_40]
+12-1	_	I	abstract[38]	new[38]	coref	13-16[38_39]
 12-2	_	'm	_	_	_	_
 12-3	_	pretty	_	_	_	_
 12-4	_	sure	_	_	_	_
@@ -354,7 +354,7 @@
 13-13	_	)	_	_	_	_
 13-14	_	,	_	_	_	_
 13-15	_	but	_	_	_	_
-13-16	_	I	abstract[40]	new[40]	coref	14-5[40_41]
+13-16	_	I	abstract[39]	new[39]	coref	14-5[39_40]
 13-17	_	'm	_	_	_	_
 13-18	_	quite	_	_	_	_
 13-19	_	sure	_	_	_	_
@@ -364,8 +364,8 @@
 13-23	_	no	_	_	_	_
 13-24	_	idea	_	_	_	_
 13-25	_	what	_	_	_	_
-13-26	_	Jim	abstract[52]	new[52]	_	_
-13-27	_	Crow	abstract[52]	new[52]	_	_
+13-26	_	Jim	abstract[51]	new[51]	_	_
+13-27	_	Crow	abstract[51]	new[51]	_	_
 13-28	_	laws	_	_	_	_
 13-29	_	are	_	_	_	_
 13-30	_	,	_	_	_	_
@@ -375,8 +375,8 @@
 13-34	_	segregation	_	_	_	_
 13-35	_	continued	_	_	_	_
 13-36	_	into	_	_	_	_
-13-37	_	the	abstract[54]	new[54]	_	_
-13-38	_	1960s	abstract[54]	new[54]	_	_
+13-37	_	the	abstract[53]	new[53]	_	_
+13-38	_	1960s	abstract[53]	new[53]	_	_
 13-39	_	,	_	_	_	_
 13-40	_	and	_	_	_	_
 13-41	_	most	_	_	_	_
@@ -392,7 +392,7 @@
 14-2	_	definitely	_	_	_	_
 14-3	_	looks	_	_	_	_
 14-4	_	to	_	_	_	_
-14-5	_	me	abstract[41]	new[41]	coref	14-37[41_42]
+14-5	_	me	abstract[40]	new[40]	coref	14-37[40_41]
 14-6	_	like	_	_	_	_
 14-7	_	American	_	_	_	_
 14-8	_	society	_	_	_	_
@@ -408,8 +408,8 @@
 14-18	_	of	_	_	_	_
 14-19	_	moving	_	_	_	_
 14-20	_	past	_	_	_	_
-14-21	_	these	abstract[35]	new[35]	_	_
-14-22	_	issues	abstract[35]	new[35]	_	_
+14-21	_	these	abstract[34]	new[34]	_	_
+14-22	_	issues	abstract[34]	new[34]	_	_
 14-23	_	,	_	_	_	_
 14-24	_	and	_	_	_	_
 14-25	_	that	_	_	_	_
@@ -424,7 +424,7 @@
 14-34	_	level	_	_	_	_
 14-35	_	,	_	_	_	_
 14-36	_	but	_	_	_	_
-14-37	_	I	abstract[42]	new[42]	coref	15-1[42_43]
+14-37	_	I	abstract[41]	new[41]	coref	15-1[41_42]
 14-38	_	am	_	_	_	_
 14-39	_	not	_	_	_	_
 14-40	_	as	_	_	_	_
@@ -438,8 +438,8 @@
 14-48	_	never	_	_	_	_
 14-49	_	lived	_	_	_	_
 14-50	_	in	_	_	_	_
-14-51	_	the	abstract[28]	new[28]	coref	20-6[28_29]
-14-52	_	US	abstract[28]	new[28]	_	_
+14-51	_	the	abstract[27]	new[27]	coref	20-6[27_28]
+14-52	_	US	abstract[27]	new[27]	_	_
 14-53	_	,	_	_	_	_
 14-54	_	let	_	_	_	_
 14-55	_	alone	_	_	_	_
@@ -450,7 +450,7 @@
 14-60	_	.	_	_	_	_
 
 #Text=I find it annoying when Americans try to apply US racial concepts to Europe , and thus make absurd statements , so it 's only fair for me to admit my limited understanding of the subject , even if I consider myself to know US history better than 90 % of Europeans .
-15-1	_	I	abstract[43]	new[43]	coref	15-28[43_44]
+15-1	_	I	abstract[42]	new[42]	coref	15-28[42_43]
 15-2	_	find	_	_	_	_
 15-3	_	it	_	_	_	_
 15-4	_	annoying	_	_	_	_
@@ -459,9 +459,9 @@
 15-7	_	try	_	_	_	_
 15-8	_	to	_	_	_	_
 15-9	_	apply	_	_	_	_
-15-10	_	US	abstract[55]	new[55]	coref	15-35[55_56]
-15-11	_	racial	abstract[55]	new[55]	_	_
-15-12	_	concepts	abstract[55]	new[55]	_	_
+15-10	_	US	abstract[54]	new[54]	coref	15-35[54_55]
+15-11	_	racial	abstract[54]	new[54]	_	_
+15-12	_	concepts	abstract[54]	new[54]	_	_
 15-13	_	to	_	_	_	_
 15-14	_	Europe	_	_	_	_
 15-15	_	,	_	_	_	_
@@ -477,21 +477,21 @@
 15-25	_	only	_	_	_	_
 15-26	_	fair	_	_	_	_
 15-27	_	for	_	_	_	_
-15-28	_	me	abstract[44]	new[44]	coref	15-31[44_45]
+15-28	_	me	abstract[43]	new[43]	coref	15-31[43_44]
 15-29	_	to	_	_	_	_
 15-30	_	admit	_	_	_	_
-15-31	_	my	abstract[45]	new[45]	coref	15-40[45_46]
+15-31	_	my	abstract[44]	new[44]	coref	15-40[44_45]
 15-32	_	limited	_	_	_	_
 15-33	_	understanding	_	_	_	_
 15-34	_	of	_	_	_	_
-15-35	_	the	abstract[56]	new[56]	_	_
-15-36	_	subject	abstract[56]	new[56]	_	_
+15-35	_	the	abstract[55]	new[55]	_	_
+15-36	_	subject	abstract[55]	new[55]	_	_
 15-37	_	,	_	_	_	_
 15-38	_	even	_	_	_	_
 15-39	_	if	_	_	_	_
-15-40	_	I	abstract[46]	new[46]	coref	15-42[46_47]
+15-40	_	I	abstract[45]	new[45]	coref	15-42[45_46]
 15-41	_	consider	_	_	_	_
-15-42	_	myself	abstract[47]	new[47]	_	_
+15-42	_	myself	abstract[46]	new[46]	_	_
 15-43	_	to	_	_	_	_
 15-44	_	know	_	_	_	_
 15-45	_	US	_	_	_	_
@@ -506,7 +506,7 @@
 
 #Text=" s n't doing a good job of moving past these issues "
 16-1	_	"	_	_	_	_
-16-2	_	s	abstract[57]	new[57]	coref	17-2[57_58]
+16-2	_	s	abstract[56]	new[56]	coref	17-2[56_57]
 16-3	_	n't	_	_	_	_
 16-4	_	doing	_	_	_	_
 16-5	_	a	_	_	_	_
@@ -521,7 +521,7 @@
 
 #Text=Is that entirely true , though ?
 17-1	_	Is	_	_	_	_
-17-2	_	that	abstract[58]	new[58]	_	_
+17-2	_	that	abstract[57]	new[57]	_	_
 17-3	_	entirely	_	_	_	_
 17-4	_	true	_	_	_	_
 17-5	_	,	_	_	_	_
@@ -529,10 +529,10 @@
 17-7	_	?	_	_	_	_
 
 #Text=The Civil Rights movement ended 50 years ago , and there 's been a black president since then .
-18-1	_	The	abstract[60]	new[60]	_	_
-18-2	_	Civil	abstract[60]	new[60]	_	_
-18-3	_	Rights	abstract[60]	new[60]	_	_
-18-4	_	movement	abstract[60]	new[60]	_	_
+18-1	_	The	abstract[59]	new[59]	_	_
+18-2	_	Civil	abstract[59]	new[59]	_	_
+18-3	_	Rights	abstract[59]	new[59]	_	_
+18-4	_	movement	abstract[59]	new[59]	_	_
 18-5	_	ended	_	_	_	_
 18-6	_	50	_	_	_	_
 18-7	_	years	_	_	_	_
@@ -570,8 +570,8 @@
 20-3	_	a	_	_	_	_
 20-4	_	minority	_	_	_	_
 20-5	_	in	_	_	_	_
-20-6	_	the	abstract[29]	new[29]	coref	28-1[29_30]
-20-7	_	USA	abstract[29]	new[29]	_	_
+20-6	_	the	abstract[28]	new[28]	coref	28-1[28_29]
+20-7	_	USA	abstract[28]	new[28]	_	_
 20-8	_	today	_	_	_	_
 20-9	_	is	_	_	_	_
 20-10	_	a	_	_	_	_
@@ -581,7 +581,7 @@
 20-14	_	difference	_	_	_	_
 20-15	_	to	_	_	_	_
 20-16	_	what	_	_	_	_
-20-17	_	it	abstract[61]	new[61]	coref	21-1[61_62]
+20-17	_	it	abstract[60]	new[60]	coref	21-1[60_61]
 20-18	_	was	_	_	_	_
 20-19	_	during	_	_	_	_
 20-20	_	my	abstract[4]	new[4]	_	_
@@ -591,7 +591,7 @@
 20-24	_	.	_	_	_	_
 
 #Text=It 's not even close to what segregation was .
-21-1	_	It	abstract[62]	new[62]	_	_
+21-1	_	It	abstract[61]	new[61]	_	_
 21-2	_	's	_	_	_	_
 21-3	_	not	_	_	_	_
 21-4	_	even	_	_	_	_
@@ -604,13 +604,13 @@
 
 #Text=(1) It s unreal .
 22-1	_	(1)	_	_	_	_
-22-2	_	It	abstract[64]	new[64]	_	_
+22-2	_	It	abstract[63]	new[63]	_	_
 22-3	_	s	_	_	_	_
 22-4	_	unreal	_	_	_	_
 22-5	_	.	_	_	_	_
 
 #Text=I ca n’t really imagine being asked which race I am to fill out a college application form or something like that .
-23-1	_	I	abstract[65]	new[65]	coref	23-10[65_66]
+23-1	_	I	abstract[64]	new[64]	coref	23-10[64_65]
 23-2	_	ca	_	_	_	_
 23-3	_	n’t	_	_	_	_
 23-4	_	really	_	_	_	_
@@ -619,19 +619,19 @@
 23-7	_	asked	_	_	_	_
 23-8	_	which	_	_	_	_
 23-9	_	race	_	_	_	_
-23-10	_	I	abstract[66]	new[66]	coref	27-1[66_67]
+23-10	_	I	abstract[65]	new[65]	coref	27-1[65_66]
 23-11	_	am	_	_	_	_
 23-12	_	to	_	_	_	_
 23-13	_	fill	_	_	_	_
 23-14	_	out	_	_	_	_
-23-15	_	a	abstract[68]	new[68]	coref	23-22[68_69]
-23-16	_	college	abstract[68]	new[68]	_	_
-23-17	_	application	abstract[68]	new[68]	_	_
-23-18	_	form	abstract[68]	new[68]	_	_
+23-15	_	a	abstract[67]	new[67]	coref	23-22[67_68]
+23-16	_	college	abstract[67]	new[67]	_	_
+23-17	_	application	abstract[67]	new[67]	_	_
+23-18	_	form	abstract[67]	new[67]	_	_
 23-19	_	or	_	_	_	_
 23-20	_	something	_	_	_	_
 23-21	_	like	_	_	_	_
-23-22	_	that	abstract[69]	new[69]	_	_
+23-22	_	that	abstract[68]	new[68]	_	_
 23-23	_	.	_	_	_	_
 
 #Text=Affirmative action here is very rare , and very often illegal .
@@ -661,7 +661,7 @@
 
 #Text=(3) It s understandable , since no one ever admitted that a lot of American freedom and prosperity comes from crimes against humanity
 26-1	_	(3)	_	_	_	_
-26-2	_	It	abstract[71]	new[71]	_	_
+26-2	_	It	abstract[70]	new[70]	_	_
 26-3	_	s	_	_	_	_
 26-4	_	understandable	_	_	_	_
 26-5	_	,	_	_	_	_
@@ -685,7 +685,7 @@
 26-23	_	humanity	_	_	_	_
 
 #Text=Your last point is a little complicated .
-27-1	_	Your	abstract[67]	new[67]	_	_
+27-1	_	Your	abstract[66]	new[66]	_	_
 27-2	_	last	_	_	_	_
 27-3	_	point	_	_	_	_
 27-4	_	is	_	_	_	_
@@ -695,9 +695,9 @@
 27-8	_	.	_	_	_	_
 
 #Text=The US 's wealth and power also comes from no actions of it's own , but it's geographical location in the world .
-28-1	_	The	abstract[30]	new[30]	coref	28-13[30_31]
-28-2	_	US	abstract[30]	new[30]	_	_
-28-3	_	's	abstract[30]	new[30]	_	_
+28-1	_	The	abstract[29]	new[29]	coref	28-13[29_30]
+28-2	_	US	abstract[29]	new[29]	_	_
+28-3	_	's	abstract[29]	new[29]	_	_
 28-4	_	wealth	_	_	_	_
 28-5	_	and	_	_	_	_
 28-6	_	power	_	_	_	_
@@ -707,11 +707,11 @@
 28-10	_	no	_	_	_	_
 28-11	_	actions	_	_	_	_
 28-12	_	of	_	_	_	_
-28-13	_	it's	abstract[31]	new[31]	coref	28-17[31_32]
+28-13	_	it's	abstract[30]	new[30]	coref	28-17[30_31]
 28-14	_	own	_	_	_	_
 28-15	_	,	_	_	_	_
 28-16	_	but	_	_	_	_
-28-17	_	it's	abstract[32]	new[32]	_	_
+28-17	_	it's	abstract[31]	new[31]	_	_
 28-18	_	geographical	_	_	_	_
 28-19	_	location	_	_	_	_
 28-20	_	in	_	_	_	_
@@ -749,7 +749,7 @@
 29-27	_	.	_	_	_	_
 
 #Text=We were always going to have advantages as a newly independent country the moment colonialist rule lost it's control here .
-30-1	_	We	abstract[21]	new[21]	coref	32-26[21_22]
+30-1	_	We	abstract[21]	new[21]	_	_
 30-2	_	were	_	_	_	_
 30-3	_	always	_	_	_	_
 30-4	_	going	_	_	_	_
@@ -763,12 +763,12 @@
 30-12	_	country	_	_	_	_
 30-13	_	the	_	_	_	_
 30-14	_	moment	_	_	_	_
-30-15	_	colonialist	abstract[72]	new[72]	coref	30-18[72_73]
-30-16	_	rule	abstract[72]	new[72]	_	_
+30-15	_	colonialist	abstract[71]	new[71]	coref	30-18[71_72]
+30-16	_	rule	abstract[71]	new[71]	_	_
 30-17	_	lost	_	_	_	_
-30-18	_	it's	abstract[73]	new[73]	_	_
+30-18	_	it's	abstract[72]	new[72]	_	_
 30-19	_	control	_	_	_	_
-30-20	_	here	abstract[74]	new[74]	coref	31-10[74_75]
+30-20	_	here	abstract[73]	new[73]	coref	31-10[73_74]
 30-21	_	.	_	_	_	_
 
 #Text=It 's not as simple as " All of USA 's achievements come from exploitation "
@@ -781,42 +781,58 @@
 31-7	_	"	_	_	_	_
 31-8	_	All	_	_	_	_
 31-9	_	of	_	_	_	_
-31-10	_	USA	abstract[75]	new[75]	_	_
-31-11	_	's	abstract[75]	new[75]	_	_
+31-10	_	USA	abstract[74]	new[74]	coref	32-9[74_75]
+31-11	_	's	abstract[74]	new[74]	_	_
 31-12	_	achievements	_	_	_	_
 31-13	_	come	_	_	_	_
 31-14	_	from	_	_	_	_
 31-15	_	exploitation	_	_	_	_
 31-16	_	"	_	_	_	_
 
-#Text=This is n’t going to be a case study in how to test a lie detector . This is a great way to prove what we already know .
-32-1	_	This	abstract[76]	new[76]	coref	32-18[76_77]
-32-2	_	is	_	_	_	_
-32-3	_	n’t	_	_	_	_
-32-4	_	going	_	_	_	_
-32-5	_	to	_	_	_	_
-32-6	_	be	_	_	_	_
-32-7	_	a	_	_	_	_
-32-8	_	case	_	_	_	_
-32-9	_	study	_	_	_	_
-32-10	_	in	_	_	_	_
-32-11	_	how	_	_	_	_
-32-12	_	to	_	_	_	_
-32-13	_	test	_	_	_	_
-32-14	_	a	_	_	_	_
-32-15	_	lie	_	_	_	_
-32-16	_	detector	_	_	_	_
-32-17	_	.	_	_	_	_
-32-18	_	This	abstract[77]	new[77]	_	_
-32-19	_	is	_	_	_	_
-32-20	_	a	_	_	_	_
-32-21	_	great	_	_	_	_
-32-22	_	way	_	_	_	_
-32-23	_	to	_	_	_	_
-32-24	_	prove	_	_	_	_
-32-25	_	what	_	_	_	_
-32-26	_	we	abstract[22]	new[22]	_	_
-32-27	_	already	_	_	_	_
-32-28	_	know	_	_	_	_
-32-29	_	.	_	_	_	_
+#Text=An American asks some Europeans how they view US preoccupation with race issues and its history , with answers suggesting that Europeans know the history more or less , and that , while understandable , many US race concepts do not apply in Europe .
+32-1	_	An	_	_	_	_
+32-2	_	American	_	_	_	_
+32-3	_	asks	_	_	_	_
+32-4	_	some	abstract[78]	new[78]	coref	32-7[78_79]
+32-5	_	Europeans	abstract[78]	new[78]	_	_
+32-6	_	how	_	_	_	_
+32-7	_	they	abstract[79]	new[79]	_	_
+32-8	_	view	_	_	_	_
+32-9	_	US	abstract[75]	new[75]	coref	32-15[75_76]
+32-10	_	preoccupation	_	_	_	_
+32-11	_	with	_	_	_	_
+32-12	_	race	_	_	_	_
+32-13	_	issues	_	_	_	_
+32-14	_	and	_	_	_	_
+32-15	_	its	abstract[76]|abstract[80]	new[76]|new[80]	coref|coref	32-37[76_77]|32-24[80_81]
+32-16	_	history	abstract[80]	new[80]	_	_
+32-17	_	,	_	_	_	_
+32-18	_	with	_	_	_	_
+32-19	_	answers	_	_	_	_
+32-20	_	suggesting	_	_	_	_
+32-21	_	that	_	_	_	_
+32-22	_	Europeans	_	_	_	_
+32-23	_	know	_	_	_	_
+32-24	_	the	abstract[81]	new[81]	_	_
+32-25	_	history	abstract[81]	new[81]	_	_
+32-26	_	more	_	_	_	_
+32-27	_	or	_	_	_	_
+32-28	_	less	_	_	_	_
+32-29	_	,	_	_	_	_
+32-30	_	and	_	_	_	_
+32-31	_	that	_	_	_	_
+32-32	_	,	_	_	_	_
+32-33	_	while	_	_	_	_
+32-34	_	understandable	_	_	_	_
+32-35	_	,	_	_	_	_
+32-36	_	many	_	_	_	_
+32-37	_	US	abstract[77]	new[77]	_	_
+32-38	_	race	_	_	_	_
+32-39	_	concepts	_	_	_	_
+32-40	_	do	_	_	_	_
+32-41	_	not	_	_	_	_
+32-42	_	apply	_	_	_	_
+32-43	_	in	_	_	_	_
+32-44	_	Europe	_	_	_	_
+32-45	_	.	_	_	_	_
 

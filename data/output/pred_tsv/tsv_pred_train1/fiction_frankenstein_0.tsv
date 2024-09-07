@@ -1006,8 +1006,8 @@
 65-29	_	we	abstract[197]	new[197]	_	_
 65-30	_	pull	_	_	_	_
 65-31	_	in	_	_	_	_
-65-32	_	the	abstract[239]	new[239]	coref	85-9[239_240]
-65-33	_	driveway	abstract[239]	new[239]	_	_
+65-32	_	the	abstract[237]	new[237]	coref	85-9[237_238]
+65-33	_	driveway	abstract[237]	new[237]	_	_
 65-34	_	,	_	_	_	_
 65-35	_	she	abstract[102]	new[102]	coref	65-42[102_103]
 65-36	_	’s	_	_	_	_
@@ -1216,7 +1216,7 @@
 79-2	_	Can	_	_	_	_
 79-3	_	Toph	abstract[234]	new[234]	_	_
 79-4	_	and	_	_	_	_
-79-5	_	Len	abstract[236]	new[236]	coref	90-1[236_237]
+79-5	_	Len	abstract[236]	new[236]	_	_
 79-6	_	come	_	_	_	_
 79-7	_	over	_	_	_	_
 79-8	_	?	_	_	_	_
@@ -1272,8 +1272,8 @@
 85-6	_	her	abstract[220]	new[220]	coref	86-1[220_221]
 85-7	_	back	_	_	_	_
 85-8	_	down	_	_	_	_
-85-9	_	the	abstract[240]	new[240]	_	_
-85-10	_	driveway	abstract[240]	new[240]	_	_
+85-9	_	the	abstract[238]	new[238]	_	_
+85-10	_	driveway	abstract[238]	new[238]	_	_
 85-11	_	.	_	_	_	_
 
 #Text=She turns back , watching where she ’s going , and she needs to get her hair done again because I can really see the gray roots .
@@ -1307,7 +1307,7 @@
 86-28	_	.	_	_	_	_
 
 #Text=Cara is watching me through the watery glass , her mouth a little open .
-87-1	_	Cara	abstract[241]	new[241]	coref	87-10[241_242]
+87-1	_	Cara	abstract[239]	new[239]	coref	87-10[239_240]
 87-2	_	is	_	_	_	_
 87-3	_	watching	_	_	_	_
 87-4	_	me	abstract[151]	new[151]	coref	88-1[151_152]
@@ -1316,7 +1316,7 @@
 87-7	_	watery	_	_	_	_
 87-8	_	glass	_	_	_	_
 87-9	_	,	_	_	_	_
-87-10	_	her	abstract[207]|abstract[242]	new[207]|new[242]	_	_
+87-10	_	her	abstract[207]|abstract[240]	new[207]|new[240]	_	_
 87-11	_	mouth	abstract[207]	new[207]	_	_
 87-12	_	a	_	_	_	_
 87-13	_	little	_	_	_	_
@@ -1340,21 +1340,39 @@
 89-6	_	gone	_	_	_	_
 89-7	_	.	_	_	_	_
 
-#Text=Tyler remembered a fabled and imaginary childhood and how his love for another had grown .
-90-1	_	Tyler	abstract[237]	new[237]	coref	90-10[237_238]
-90-2	_	remembered	_	_	_	_
-90-3	_	a	_	_	_	_
-90-4	_	fabled	_	_	_	_
-90-5	_	and	_	_	_	_
-90-6	_	imaginary	_	_	_	_
-90-7	_	childhood	_	_	_	_
-90-8	_	and	_	_	_	_
-90-9	_	how	_	_	_	_
-90-10	_	his	abstract[238]	new[238]	_	_
-90-11	_	love	_	_	_	_
-90-12	_	for	_	_	_	_
-90-13	_	another	_	_	_	_
-90-14	_	had	_	_	_	_
-90-15	_	grown	_	_	_	_
-90-16	_	.	_	_	_	_
+#Text=Robert watches over his mentally disabled sister Cara , who gets into trouble at the mall and has to be taken to the emergency room by their mother due to an asthma attack .
+90-1	_	Robert	abstract[241]	new[241]	coref	90-4[241_242]
+90-2	_	watches	_	_	_	_
+90-3	_	over	_	_	_	_
+90-4	_	his	abstract[242]	new[242]	_	_
+90-5	_	mentally	_	_	_	_
+90-6	_	disabled	_	_	_	_
+90-7	_	sister	_	_	_	_
+90-8	_	Cara	_	_	_	_
+90-9	_	,	_	_	_	_
+90-10	_	who	_	_	_	_
+90-11	_	gets	_	_	_	_
+90-12	_	into	_	_	_	_
+90-13	_	trouble	_	_	_	_
+90-14	_	at	_	_	_	_
+90-15	_	the	_	_	_	_
+90-16	_	mall	_	_	_	_
+90-17	_	and	_	_	_	_
+90-18	_	has	_	_	_	_
+90-19	_	to	_	_	_	_
+90-20	_	be	_	_	_	_
+90-21	_	taken	_	_	_	_
+90-22	_	to	_	_	_	_
+90-23	_	the	_	_	_	_
+90-24	_	emergency	_	_	_	_
+90-25	_	room	_	_	_	_
+90-26	_	by	_	_	_	_
+90-27	_	their	_	_	_	_
+90-28	_	mother	_	_	_	_
+90-29	_	due	_	_	_	_
+90-30	_	to	_	_	_	_
+90-31	_	an	_	_	_	_
+90-32	_	asthma	_	_	_	_
+90-33	_	attack	_	_	_	_
+90-34	_	.	_	_	_	_
 

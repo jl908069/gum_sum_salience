@@ -39,8 +39,8 @@
 3-12	_	State	_	_	_	_
 3-13	_	University	_	_	_	_
 3-14	_	of	_	_	_	_
-3-15	_	the	abstract[17]	new[17]	coref	15-2[17_18]
-3-16	_	US	abstract[17]	new[17]	_	_
+3-15	_	the	abstract[20]	new[20]	coref	15-2[20_21]
+3-16	_	US	abstract[20]	new[20]	_	_
 3-17	_	and	_	_	_	_
 3-18	_	the	_	_	_	_
 3-19	_	University	_	_	_	_
@@ -77,15 +77,15 @@
 3-50	_	.	_	_	_	_
 
 #Text=The study was published in journal Nature Climate Change yesterday .
-4-1	_	The	abstract[7]	new[7]	coref	12-1[7_8]
-4-2	_	study	abstract[7]	new[7]	_	_
+4-1	_	The	abstract[10]	new[10]	coref	12-1[10_11]
+4-2	_	study	abstract[10]	new[10]	_	_
 4-3	_	was	_	_	_	_
 4-4	_	published	_	_	_	_
 4-5	_	in	_	_	_	_
 4-6	_	journal	_	_	_	_
 4-7	_	Nature	_	_	_	_
-4-8	_	Climate	abstract[5]	new[5]	coref	10-19[5_6]
-4-9	_	Change	abstract[5]	new[5]	_	_
+4-8	_	Climate	abstract[8]	new[8]	coref	10-19[8_9]
+4-9	_	Change	abstract[8]	new[8]	_	_
 4-10	_	yesterday	_	_	_	_
 4-11	_	.	_	_	_	_
 
@@ -126,11 +126,11 @@
 6-6	_	of	_	_	_	_
 6-7	_	uncertainty	_	_	_	_
 6-8	_	of	_	_	_	_
-6-9	_	future	abstract[3]	new[3]	coref	10-1[3_4]
-6-10	_	levels	abstract[3]	new[3]	_	_
-6-11	_	of	abstract[3]	new[3]	_	_
-6-12	_	ozone	abstract[3]	new[3]	_	_
-6-13	_	pollution	abstract[3]	new[3]	_	_
+6-9	_	future	abstract[6]	new[6]	coref	10-1[6_7]
+6-10	_	levels	abstract[6]	new[6]	_	_
+6-11	_	of	abstract[6]	new[6]	_	_
+6-12	_	ozone	abstract[6]	new[6]	_	_
+6-13	_	pollution	abstract[6]	new[6]	_	_
 6-14	_	.	_	_	_	_
 
 #Text=They estimated by 2050 , increasing population and changing diet would increase world food needs by 50 percent .
@@ -154,38 +154,78 @@
 7-18	_	percent	_	_	_	_
 7-19	_	.	_	_	_	_
 
-#Text=As coauthor Colette Heald told The Huffington Post , " In the past few days in Italy , several municipalities have started asking religious schools to pay taxes for property .
+#Text=As coauthor Colette Heald told The Huffington Post , " A new exhibit of Andy Warhol 's Polaroids and prints at the University of Southern Indiana is running from January 23 to March 9 , 2014 , featuring roughly 100 polaroids donated by the Andy Warhol Foundation , an installation of balloons called Silver Clouds , an installation taking Polaroid pictures of visitors , and Warhol themed food and music .
 8-1	_	As	_	_	_	_
-8-2	_	coauthor	abstract[9]	new[9]	coref	13-1[9_10]
-8-3	_	Colette	abstract[9]	new[9]	_	_
-8-4	_	Heald	abstract[9]	new[9]	_	_
+8-2	_	coauthor	abstract[12]	new[12]	coref	13-1[12_13]
+8-3	_	Colette	abstract[12]	new[12]	_	_
+8-4	_	Heald	abstract[12]	new[12]	_	_
 8-5	_	told	_	_	_	_
-8-6	_	The	abstract[27]	new[27]	coref	25-4[27_28]
-8-7	_	Huffington	abstract[27]	new[27]	_	_
-8-8	_	Post	abstract[27]	new[27]	_	_
+8-6	_	The	abstract[30]	new[30]	coref	25-4[30_31]
+8-7	_	Huffington	abstract[30]	new[30]	_	_
+8-8	_	Post	abstract[30]	new[30]	_	_
 8-9	_	,	_	_	_	_
 8-10	_	"	_	_	_	_
-8-11	_	In	_	_	_	_
-8-12	_	the	_	_	_	_
-8-13	_	past	_	_	_	_
-8-14	_	few	_	_	_	_
-8-15	_	days	_	_	_	_
-8-16	_	in	_	_	_	_
-8-17	_	Italy	_	_	_	_
-8-18	_	,	_	_	_	_
-8-19	_	several	_	_	_	_
-8-20	_	municipalities	_	_	_	_
-8-21	_	have	_	_	_	_
-8-22	_	started	_	_	_	_
-8-23	_	asking	_	_	_	_
-8-24	_	religious	_	_	_	_
-8-25	_	schools	_	_	_	_
-8-26	_	to	_	_	_	_
-8-27	_	pay	_	_	_	_
-8-28	_	taxes	_	_	_	_
-8-29	_	for	_	_	_	_
-8-30	_	property	_	_	_	_
-8-31	_	.	_	_	_	_
+8-11	_	A	_	_	_	_
+8-12	_	new	_	_	_	_
+8-13	_	exhibit	_	_	_	_
+8-14	_	of	_	_	_	_
+8-15	_	Andy	abstract[3]	new[3]	coref	8-45[3_4]
+8-16	_	Warhol	abstract[3]	new[3]	_	_
+8-17	_	's	abstract[3]	new[3]	_	_
+8-18	_	Polaroids	_	_	_	_
+8-19	_	and	_	_	_	_
+8-20	_	prints	_	_	_	_
+8-21	_	at	_	_	_	_
+8-22	_	the	_	_	_	_
+8-23	_	University	_	_	_	_
+8-24	_	of	_	_	_	_
+8-25	_	Southern	_	_	_	_
+8-26	_	Indiana	_	_	_	_
+8-27	_	is	_	_	_	_
+8-28	_	running	_	_	_	_
+8-29	_	from	_	_	_	_
+8-30	_	January	_	_	_	_
+8-31	_	23	_	_	_	_
+8-32	_	to	_	_	_	_
+8-33	_	March	_	_	_	_
+8-34	_	9	_	_	_	_
+8-35	_	,	_	_	_	_
+8-36	_	2014	_	_	_	_
+8-37	_	,	_	_	_	_
+8-38	_	featuring	_	_	_	_
+8-39	_	roughly	_	_	_	_
+8-40	_	100	_	_	_	_
+8-41	_	polaroids	_	_	_	_
+8-42	_	donated	_	_	_	_
+8-43	_	by	_	_	_	_
+8-44	_	the	_	_	_	_
+8-45	_	Andy	abstract[4]	new[4]	coref	8-66[4_5]
+8-46	_	Warhol	abstract[4]	new[4]	_	_
+8-47	_	Foundation	_	_	_	_
+8-48	_	,	_	_	_	_
+8-49	_	an	_	_	_	_
+8-50	_	installation	_	_	_	_
+8-51	_	of	_	_	_	_
+8-52	_	balloons	_	_	_	_
+8-53	_	called	_	_	_	_
+8-54	_	Silver	_	_	_	_
+8-55	_	Clouds	_	_	_	_
+8-56	_	,	_	_	_	_
+8-57	_	an	_	_	_	_
+8-58	_	installation	_	_	_	_
+8-59	_	taking	_	_	_	_
+8-60	_	Polaroid	_	_	_	_
+8-61	_	pictures	_	_	_	_
+8-62	_	of	_	_	_	_
+8-63	_	visitors	_	_	_	_
+8-64	_	,	_	_	_	_
+8-65	_	and	_	_	_	_
+8-66	_	Warhol	abstract[5]	new[5]	_	_
+8-67	_	themed	_	_	_	_
+8-68	_	food	_	_	_	_
+8-69	_	and	_	_	_	_
+8-70	_	music	_	_	_	_
+8-71	_	.	_	_	_	_
 
 #Text=The climate projections are quite consistent [...]
 9-1	_	The	_	_	_	_
@@ -197,11 +237,11 @@
 9-7	_	[...]	_	_	_	_
 
 #Text=the future of ozone pollution is very different [...] leading to either offsetting or reinforcing effects [ of climate change ] on crops " .
-10-1	_	the	abstract[4]	new[4]	_	_
-10-2	_	future	abstract[4]	new[4]	_	_
-10-3	_	of	abstract[4]	new[4]	_	_
-10-4	_	ozone	abstract[4]	new[4]	_	_
-10-5	_	pollution	abstract[4]	new[4]	_	_
+10-1	_	the	abstract[7]	new[7]	_	_
+10-2	_	future	abstract[7]	new[7]	_	_
+10-3	_	of	abstract[7]	new[7]	_	_
+10-4	_	ozone	abstract[7]	new[7]	_	_
+10-5	_	pollution	abstract[7]	new[7]	_	_
 10-6	_	is	_	_	_	_
 10-7	_	very	_	_	_	_
 10-8	_	different	_	_	_	_
@@ -215,8 +255,8 @@
 10-16	_	effects	_	_	_	_
 10-17	_	[	_	_	_	_
 10-18	_	of	_	_	_	_
-10-19	_	climate	abstract[6]	new[6]	_	_
-10-20	_	change	abstract[6]	new[6]	_	_
+10-19	_	climate	abstract[9]	new[9]	_	_
+10-20	_	change	abstract[9]	new[9]	_	_
 10-21	_	]	_	_	_	_
 10-22	_	on	_	_	_	_
 10-23	_	crops	_	_	_	_
@@ -246,8 +286,8 @@
 11-20	_	.	_	_	_	_
 
 #Text=The study focuses on ozone - temperature covariation : ground - level ozone increases with temperatures .
-12-1	_	The	abstract[8]	new[8]	_	_
-12-2	_	study	abstract[8]	new[8]	_	_
+12-1	_	The	abstract[11]	new[11]	_	_
+12-2	_	study	abstract[11]	new[11]	_	_
 12-3	_	focuses	_	_	_	_
 12-4	_	on	_	_	_	_
 12-5	_	ozone	_	_	_	_
@@ -265,26 +305,26 @@
 12-17	_	.	_	_	_	_
 
 #Text=Heald said although temperature and ozone are separately known to impact crop yields , " nobody has looked at these together " .
-13-1	_	Heald	abstract[10]	new[10]	coref	22-1[10_11]
+13-1	_	Heald	abstract[13]	new[13]	coref	22-1[13_14]
 13-2	_	said	_	_	_	_
 13-3	_	although	_	_	_	_
-13-4	_	temperature	abstract[13]	new[13]	coref	13-20[13_14]
-13-5	_	and	abstract[13]	new[13]	_	_
-13-6	_	ozone	abstract[13]	new[13]	_	_
+13-4	_	temperature	abstract[16]	new[16]	coref	13-20[16_17]
+13-5	_	and	abstract[16]	new[16]	_	_
+13-6	_	ozone	abstract[16]	new[16]	_	_
 13-7	_	are	_	_	_	_
 13-8	_	separately	_	_	_	_
 13-9	_	known	_	_	_	_
 13-10	_	to	_	_	_	_
 13-11	_	impact	_	_	_	_
-13-12	_	crop	abstract[15]	new[15]	coref	14-7[15_16]
-13-13	_	yields	abstract[15]	new[15]	_	_
+13-12	_	crop	abstract[18]	new[18]	coref	14-7[18_19]
+13-13	_	yields	abstract[18]	new[18]	_	_
 13-14	_	,	_	_	_	_
 13-15	_	"	_	_	_	_
 13-16	_	nobody	_	_	_	_
 13-17	_	has	_	_	_	_
 13-18	_	looked	_	_	_	_
 13-19	_	at	_	_	_	_
-13-20	_	these	abstract[14]	new[14]	_	_
+13-20	_	these	abstract[17]	new[17]	_	_
 13-21	_	together	_	_	_	_
 13-22	_	"	_	_	_	_
 13-23	_	.	_	_	_	_
@@ -296,8 +336,8 @@
 14-4	_	and	_	_	_	_
 14-5	_	crops	_	_	_	_
 14-6	_	,	_	_	_	_
-14-7	_	the	abstract[16]	new[16]	_	_
-14-8	_	yields	abstract[16]	new[16]	_	_
+14-7	_	the	abstract[19]	new[19]	_	_
+14-8	_	yields	abstract[19]	new[19]	_	_
 14-9	_	may	_	_	_	_
 14-10	_	be	_	_	_	_
 14-11	_	primarily	_	_	_	_
@@ -340,10 +380,10 @@
 
 #Text=The U.S. Department of Agriculture notes , " Ground - level ozone causes more damage to plants than all other air pollutants combined " , highlighting the importance of air quality for agriculture .
 15-1	_	The	_	_	_	_
-15-2	_	U.S.	abstract[18]	new[18]	coref	19-3[18_19]
+15-2	_	U.S.	abstract[21]	new[21]	coref	19-2[21_22]
 15-3	_	Department	_	_	_	_
 15-4	_	of	_	_	_	_
-15-5	_	Agriculture	abstract[25]	new[25]	coref	15-33[25_26]
+15-5	_	Agriculture	abstract[28]	new[28]	coref	15-33[28_29]
 15-6	_	notes	_	_	_	_
 15-7	_	,	_	_	_	_
 15-8	_	"	_	_	_	_
@@ -371,7 +411,7 @@
 15-30	_	air	_	_	_	_
 15-31	_	quality	_	_	_	_
 15-32	_	for	_	_	_	_
-15-33	_	agriculture	abstract[26]	new[26]	_	_
+15-33	_	agriculture	abstract[29]	new[29]	_	_
 15-34	_	.	_	_	_	_
 
 #Text=Results of NCLAN studies , published in a paper by AS Heagle in 1989 , show dicot species , such as soybean , cotton , and peanut , lose more yield from ozone than do monocot species such as sorghum , field corn , and winter wheat .
@@ -474,7 +514,7 @@
 
 #Text=The U.S. Environmental Protection Agency says some crops may have higher yields with increased levels of carbon dioxide .
 19-1	_	The	_	_	_	_
-19-2	_	U.S.	abstract[19]	new[19]	coref	25-8[19_20]
+19-2	_	U.S.	abstract[22]	new[22]	coref	25-8[22_23]
 19-3	_	Environmental	_	_	_	_
 19-4	_	Protection	_	_	_	_
 19-5	_	Agency	_	_	_	_
@@ -534,7 +574,7 @@
 21-12	_	.	_	_	_	_
 
 #Text=Heald noted the findings show pollution reduction is also important .
-22-1	_	Heald	abstract[11]	new[11]	coref	25-2[11_12]
+22-1	_	Heald	abstract[14]	new[14]	coref	25-2[14_15]
 22-2	_	noted	_	_	_	_
 22-3	_	the	_	_	_	_
 22-4	_	findings	_	_	_	_
@@ -587,13 +627,13 @@
 
 #Text=As Heald told The Huffington Post , US surface ozone has dropped partly due to the Clean Air Act .
 25-1	_	As	_	_	_	_
-25-2	_	Heald	abstract[12]	new[12]	_	_
+25-2	_	Heald	abstract[15]	new[15]	_	_
 25-3	_	told	_	_	_	_
-25-4	_	The	abstract[28]	new[28]	_	_
-25-5	_	Huffington	abstract[28]	new[28]	_	_
-25-6	_	Post	abstract[28]	new[28]	_	_
+25-4	_	The	abstract[31]	new[31]	_	_
+25-5	_	Huffington	abstract[31]	new[31]	_	_
+25-6	_	Post	abstract[31]	new[31]	_	_
 25-7	_	,	_	_	_	_
-25-8	_	US	abstract[20]	new[20]	coref	26-23[20_21]
+25-8	_	US	abstract[23]	new[23]	coref	26-23[23_24]
 25-9	_	surface	_	_	_	_
 25-10	_	ozone	_	_	_	_
 25-11	_	has	_	_	_	_
@@ -630,8 +670,8 @@
 26-20	_	on	_	_	_	_
 26-21	_	average	_	_	_	_
 26-22	_	across	_	_	_	_
-26-23	_	the	abstract[21]	new[21]	coref	27-10[21_22]
-26-24	_	U.S.	abstract[21]	new[21]	_	_
+26-23	_	the	abstract[24]	new[24]	coref	27-10[24_25]
+26-24	_	U.S.	abstract[24]	new[24]	_	_
 26-25	_	from	_	_	_	_
 26-26	_	1980	_	_	_	_
 26-27	_	to	_	_	_	_
@@ -648,8 +688,8 @@
 27-7	_	air	_	_	_	_
 27-8	_	quality	_	_	_	_
 27-9	_	in	_	_	_	_
-27-10	_	the	abstract[22]	new[22]	coref	28-10[22_23]
-27-11	_	U.S.	abstract[22]	new[22]	_	_
+27-10	_	the	abstract[25]	new[25]	coref	28-10[25_26]
+27-11	_	U.S.	abstract[25]	new[25]	_	_
 27-12	_	and	_	_	_	_
 27-13	_	around	_	_	_	_
 27-14	_	the	_	_	_	_
@@ -686,13 +726,13 @@
 28-7	_	Croucher	_	_	_	_
 28-8	_	Foundation	_	_	_	_
 28-9	_	,	_	_	_	_
-28-10	_	US	abstract[23]	new[23]	coref	28-16[23_24]
+28-10	_	US	abstract[26]	new[26]	coref	28-16[26_27]
 28-11	_	National	_	_	_	_
 28-12	_	Science	_	_	_	_
 28-13	_	Foundation	_	_	_	_
 28-14	_	,	_	_	_	_
 28-15	_	and	_	_	_	_
-28-16	_	US	abstract[24]	new[24]	_	_
+28-16	_	US	abstract[27]	new[27]	_	_
 28-17	_	National	_	_	_	_
 28-18	_	Park	_	_	_	_
 28-19	_	Service	_	_	_	_

@@ -294,7 +294,7 @@
 31-11	_	and	_	_	_	_
 31-12	_	what	_	_	_	_
 31-13	_	can	_	_	_	_
-31-14	_	you	abstract[82]	new[82]	coref	56-7[82_83]
+31-14	_	you	abstract[83]	new[83]	coref	56-7[83_84]
 31-15	_	do	_	_	_	_
 31-16	_	,	_	_	_	_
 31-17	_	when	_	_	_	_
@@ -315,9 +315,9 @@
 33-2	_	,	_	_	_	_
 33-3	_	well	_	_	_	_
 33-4	_	,	_	_	_	_
-33-5	_	all	abstract[68]	new[68]	coref	33-16[68_69]
-33-6	_	we	abstract[59]|abstract[68]	new[59]|new[68]	coref	33-17[59_60]
-33-7	_	did	abstract[68]	new[68]	_	_
+33-5	_	all	abstract[69]	new[69]	coref	33-16[69_70]
+33-6	_	we	abstract[59]|abstract[69]	new[59]|new[69]	coref	33-17[59_60]
+33-7	_	did	abstract[69]	new[69]	_	_
 33-8	_	—	_	_	_	_
 33-9	_	I	abstract[19]	new[19]	coref	33-21[19_20]
 33-10	_	ca	_	_	_	_
@@ -326,9 +326,9 @@
 33-13	_	that	abstract[51]	new[51]	_	_
 33-14	_	,	_	_	_	_
 33-15	_	cause	_	_	_	_
-33-16	_	all	abstract[69]	new[69]	_	_
-33-17	_	we	abstract[60]|abstract[69]	new[60]|new[69]	coref	47-11[60_61]
-33-18	_	did	abstract[69]	new[69]	_	_
+33-16	_	all	abstract[70]	new[70]	_	_
+33-17	_	we	abstract[60]|abstract[70]	new[60]|new[70]	coref	47-11[60_61]
+33-18	_	did	abstract[70]	new[70]	_	_
 33-19	_	was	_	_	_	_
 33-20	_	,	_	_	_	_
 33-21	_	I	abstract[20]	new[20]	coref	47-3[20_21]
@@ -358,7 +358,7 @@
 36-5	_	get	_	_	_	_
 36-6	_	hold	_	_	_	_
 36-7	_	of	_	_	_	_
-36-8	_	Dan	abstract[70]	new[70]	coref	45-6[70_71]
+36-8	_	Dan	abstract[71]	new[71]	coref	45-6[71_72]
 36-9	_	then	_	_	_	_
 36-10	_	?	_	_	_	_
 
@@ -451,7 +451,7 @@
 45-3	_	I	abstract[48]	new[48]	_	_
 45-4	_	'll	_	_	_	_
 45-5	_	call	_	_	_	_
-45-6	_	him	abstract[71]	new[71]	coref	45-15[71_72]
+45-6	_	him	abstract[72]	new[72]	coref	45-15[72_73]
 45-7	_	probably	_	_	_	_
 45-8	_	late	_	_	_	_
 45-9	_	this	_	_	_	_
@@ -460,7 +460,7 @@
 45-12	_	to	_	_	_	_
 45-13	_	make	_	_	_	_
 45-14	_	sure	_	_	_	_
-45-15	_	he	abstract[72]	new[72]	_	_
+45-15	_	he	abstract[73]	new[73]	_	_
 45-16	_	's	_	_	_	_
 45-17	_	alright	_	_	_	_
 45-18	_	.	_	_	_	_
@@ -504,12 +504,12 @@
 50-8	_	spent	_	_	_	_
 50-9	_	fifty	_	_	_	_
 50-10	_	for	_	_	_	_
-50-11	_	him	abstract[73]	new[73]	coref	50-16[73_74]
+50-11	_	him	abstract[74]	new[74]	coref	50-16[74_75]
 50-12	_	,	_	_	_	_
 50-13	_	and	_	_	_	_
 50-14	_	I	abstract[22]	new[22]	coref	57-10[22_23]
 50-15	_	want	_	_	_	_
-50-16	_	him	abstract[74]	new[74]	coref	72-6[74_75]
+50-16	_	him	abstract[75]	new[75]	coref	72-6[75_76]
 50-17	_	to	_	_	_	_
 50-18	_	spend	_	_	_	_
 50-19	_	another	_	_	_	_
@@ -538,16 +538,16 @@
 53-3	_	which	_	_	_	_
 53-4	_	would	_	_	_	_
 53-5	_	be	_	_	_	_
-53-6	_	another	abstract[80]	new[80]	coref	54-3[80_81]
-53-7	_	two	abstract[80]	new[80]	_	_
-53-8	_	hundred	abstract[80]	new[80]	_	_
+53-6	_	another	abstract[81]	new[81]	coref	54-3[81_82]
+53-7	_	two	abstract[81]	new[81]	_	_
+53-8	_	hundred	abstract[81]	new[81]	_	_
 53-9	_	or	_	_	_	_
 53-10	_	—	_	_	_	_
 
 #Text=Yeah , it 's more for a surgery .
 54-1	_	Yeah	_	_	_	_
 54-2	_	,	_	_	_	_
-54-3	_	it	abstract[81]	new[81]	_	_
+54-3	_	it	abstract[82]	new[82]	_	_
 54-4	_	's	_	_	_	_
 54-5	_	more	_	_	_	_
 54-6	_	for	_	_	_	_
@@ -567,24 +567,24 @@
 56-4	_	much	_	_	_	_
 56-5	_	any	_	_	_	_
 56-6	_	time	_	_	_	_
-56-7	_	you	abstract[83]	new[83]	coref	57-7[83_84]
+56-7	_	you	abstract[84]	new[84]	coref	57-7[84_85]
 56-8	_	can	_	_	_	_
 56-9	_	—	_	_	_	_
 
 #Text=And that one really , you know , I do n't think it would benefit from pins .
 57-1	_	And	_	_	_	_
-57-2	_	that	abstract[89]	new[89]	coref	57-14[89_90]
-57-3	_	one	abstract[89]	new[89]	_	_
+57-2	_	that	abstract[90]	new[90]	coref	57-14[90_91]
+57-3	_	one	abstract[90]	new[90]	_	_
 57-4	_	really	_	_	_	_
 57-5	_	,	_	_	_	_
-57-6	_	you	abstract[84]	new[84]	coref	87-17[84_85]
+57-6	_	you	abstract[85]	new[85]	coref	87-17[85_86]
 57-7	_	know	_	_	_	_
 57-8	_	,	_	_	_	_
 57-9	_	I	abstract[23]	new[23]	coref	60-1[23_24]
 57-10	_	do	_	_	_	_
 57-11	_	n't	_	_	_	_
 57-12	_	think	_	_	_	_
-57-13	_	it	abstract[90]	new[90]	coref	59-7[90_91]
+57-13	_	it	abstract[91]	new[91]	coref	59-7[91_92]
 57-14	_	would	_	_	_	_
 57-15	_	benefit	_	_	_	_
 57-16	_	from	_	_	_	_
@@ -602,7 +602,7 @@
 59-4	_	have	_	_	_	_
 59-5	_	to	_	_	_	_
 59-6	_	undo	_	_	_	_
-59-7	_	it	abstract[91]	new[91]	coref	61-7[91_92]
+59-7	_	it	abstract[92]	new[92]	coref	61-7[92_93]
 59-8	_	.	_	_	_	_
 
 #Text=I mean we 'd have to , well , we 'd have to go —
@@ -629,7 +629,7 @@
 61-4	_	we	abstract[13]	new[13]	_	_
 61-5	_	could	_	_	_	_
 61-6	_	try	_	_	_	_
-61-7	_	it	abstract[92]	new[92]	coref	64-3[92_93]
+61-7	_	it	abstract[93]	new[93]	coref	64-3[93_94]
 61-8	_	closed	_	_	_	_
 61-9	_	.	_	_	_	_
 
@@ -651,17 +651,17 @@
 #Text=I think it 'll do fine with a cast , especially since it 's a spiral fracture .
 64-1	_	I	abstract[25]	new[25]	coref	72-3[25_26]
 64-2	_	think	_	_	_	_
-64-3	_	it	abstract[93]	new[93]	coref	64-13[93_94]
+64-3	_	it	abstract[94]	new[94]	coref	64-13[94_95]
 64-4	_	'll	_	_	_	_
 64-5	_	do	_	_	_	_
 64-6	_	fine	_	_	_	_
 64-7	_	with	_	_	_	_
-64-8	_	a	abstract[97]	new[97]	coref	68-17[97_98]
-64-9	_	cast	abstract[97]	new[97]	_	_
+64-8	_	a	abstract[98]	new[98]	coref	68-17[98_99]
+64-9	_	cast	abstract[98]	new[98]	_	_
 64-10	_	,	_	_	_	_
 64-11	_	especially	_	_	_	_
 64-12	_	since	_	_	_	_
-64-13	_	it	abstract[94]	new[94]	coref	65-2[94_95]
+64-13	_	it	abstract[95]	new[95]	coref	65-2[95_96]
 64-14	_	's	_	_	_	_
 64-15	_	a	_	_	_	_
 64-16	_	spiral	_	_	_	_
@@ -670,7 +670,7 @@
 
 #Text=And it 's not displaced .
 65-1	_	And	_	_	_	_
-65-2	_	it	abstract[95]	new[95]	coref	66-2[95_96]
+65-2	_	it	abstract[96]	new[96]	coref	66-2[96_97]
 65-3	_	's	_	_	_	_
 65-4	_	not	_	_	_	_
 65-5	_	displaced	_	_	_	_
@@ -678,7 +678,7 @@
 
 #Text=And it 's not displaced .
 66-1	_	And	_	_	_	_
-66-2	_	it	abstract[96]	new[96]	_	_
+66-2	_	it	abstract[97]	new[97]	_	_
 66-3	_	's	_	_	_	_
 66-4	_	not	_	_	_	_
 66-5	_	displaced	_	_	_	_
@@ -708,8 +708,8 @@
 68-14	_	not	_	_	_	_
 68-15	_	,	_	_	_	_
 68-16	_	getting	_	_	_	_
-68-17	_	the	abstract[98]	new[98]	_	_
-68-18	_	cast	abstract[98]	new[98]	_	_
+68-17	_	the	abstract[99]	new[99]	_	_
+68-18	_	cast	abstract[99]	new[99]	_	_
 68-19	_	over	_	_	_	_
 68-20	_	the	_	_	_	_
 68-21	_	stifle	_	_	_	_
@@ -733,13 +733,13 @@
 71-3	_	as	_	_	_	_
 71-4	_	long	_	_	_	_
 71-5	_	as	_	_	_	_
-71-6	_	she	abstract[99]	new[99]	coref	71-12[99_100]
+71-6	_	she	abstract[100]	new[100]	coref	71-12[100_101]
 71-7	_	's	_	_	_	_
 71-8	_	—	_	_	_	_
 71-9	_	as	_	_	_	_
 71-10	_	long	_	_	_	_
 71-11	_	as	_	_	_	_
-71-12	_	she	abstract[100]	new[100]	coref	86-6[100_101]
+71-12	_	she	abstract[101]	new[101]	coref	86-6[101_102]
 71-13	_	's	_	_	_	_
 71-14	_	quiet	_	_	_	_
 71-15	_	.	_	_	_	_
@@ -750,7 +750,7 @@
 72-3	_	I	abstract[26]	new[26]	coref	73-1[26_27]
 72-4	_	'll	_	_	_	_
 72-5	_	give	_	_	_	_
-72-6	_	him	abstract[75]	new[75]	coref	73-6[75_76]
+72-6	_	him	abstract[76]	new[76]	coref	73-6[76_77]
 72-7	_	a	_	_	_	_
 72-8	_	call	_	_	_	_
 72-9	_	.	_	_	_	_
@@ -761,7 +761,7 @@
 73-3	_	n't	_	_	_	_
 73-4	_	know	_	_	_	_
 73-5	_	if	_	_	_	_
-73-6	_	he	abstract[76]	new[76]	coref	84-5[76_77]
+73-6	_	he	abstract[77]	new[77]	coref	84-5[77_78]
 73-7	_	's	_	_	_	_
 73-8	_	in	_	_	_	_
 73-9	_	the	abstract[111]	new[111]	coref	74-5[111_112]
@@ -887,7 +887,7 @@
 84-2	_	I	abstract[30]	new[30]	coref	88-4[30_31]
 84-3	_	talk	_	_	_	_
 84-4	_	to	_	_	_	_
-84-5	_	Richard	abstract[77]	new[77]	coref	96-10[77_78]
+84-5	_	Richard	abstract[78]	new[78]	coref	96-10[78_79]
 84-6	_	or	_	_	_	_
 84-7	_	are	_	_	_	_
 84-8	_	you	abstract[120]	new[120]	coref	96-6[120_121]
@@ -904,7 +904,7 @@
 86-3	_	it	_	_	_	_
 86-4	_	looks	_	_	_	_
 86-5	_	like	_	_	_	_
-86-6	_	she	abstract[101]	new[101]	coref	86-17[101_102]
+86-6	_	she	abstract[102]	new[102]	coref	86-17[102_103]
 86-7	_	's	_	_	_	_
 86-8	_	got	_	_	_	_
 86-9	_	a	_	_	_	_
@@ -915,7 +915,7 @@
 86-14	_	um	_	_	_	_
 86-15	_	,	_	_	_	_
 86-16	_	of	_	_	_	_
-86-17	_	her	abstract[102]	new[102]	coref	88-7[102_103]
+86-17	_	her	abstract[103]	new[103]	coref	88-7[103_104]
 86-18	_	tibia	_	_	_	_
 86-19	_	,	_	_	_	_
 86-20	_	which	_	_	_	_
@@ -962,7 +962,7 @@
 87-14	_	pretty	_	_	_	_
 87-15	_	much	_	_	_	_
 87-16	_	,	_	_	_	_
-87-17	_	you	abstract[85]	new[85]	coref	95-1[85_86]
+87-17	_	you	abstract[86]	new[86]	coref	95-1[86_87]
 87-18	_	know	_	_	_	_
 87-19	_	,	_	_	_	_
 87-20	_	locked	_	_	_	_
@@ -981,10 +981,10 @@
 88-4	_	I	abstract[31]	new[31]	coref	89-5[31_32]
 88-5	_	think	_	_	_	_
 88-6	_	that	_	_	_	_
-88-7	_	she	abstract[103]	new[103]	coref	88-10[103_104]
+88-7	_	she	abstract[104]	new[104]	coref	88-10[104_105]
 88-8	_	would	_	_	_	_
 88-9	_	,	_	_	_	_
-88-10	_	she	abstract[104]	new[104]	coref	92-28[104_105]
+88-10	_	she	abstract[105]	new[105]	coref	92-28[105_106]
 88-11	_	would	_	_	_	_
 88-12	_	do	_	_	_	_
 88-13	_	fine	_	_	_	_
@@ -1109,7 +1109,7 @@
 92-24	_	we	abstract[64]	new[64]	coref	92-33[64_65]
 92-25	_	'd	_	_	_	_
 92-26	_	have	_	_	_	_
-92-27	_	her	abstract[105]	new[105]	coref	92-36[105_106]
+92-27	_	her	abstract[106]	new[106]	coref	92-36[106_107]
 92-28	_	come	_	_	_	_
 92-29	_	in	_	_	_	_
 92-30	_	again	_	_	_	_
@@ -1117,7 +1117,7 @@
 92-32	_	we	abstract[65]	new[65]	coref	95-11[65_66]
 92-33	_	would	_	_	_	_
 92-34	_	tranquilize	_	_	_	_
-92-35	_	her	abstract[106]	new[106]	coref	95-54[106_107]
+92-35	_	her	abstract[107]	new[107]	coref	95-54[107_108]
 92-36	_	,	_	_	_	_
 92-37	_	and	_	_	_	_
 92-38	_	take	_	_	_	_
@@ -1161,13 +1161,13 @@
 94-2	_	.	_	_	_	_
 
 #Text=You know , a pin , you know , if we did a pin , it 's probably , it would probably be even a hundred more but , so it 's it 's that 's about the — at this point the , the least expensive alternative that probably will work for her .
-95-1	_	You	abstract[86]	new[86]	coref	95-7[86_87]
+95-1	_	You	abstract[87]	new[87]	coref	95-7[87_88]
 95-2	_	know	_	_	_	_
 95-3	_	,	_	_	_	_
 95-4	_	a	_	_	_	_
 95-5	_	pin	_	_	_	_
 95-6	_	,	_	_	_	_
-95-7	_	you	abstract[87]	new[87]	coref	102-5[87_88]
+95-7	_	you	abstract[88]	new[88]	coref	102-5[88_89]
 95-8	_	know	_	_	_	_
 95-9	_	,	_	_	_	_
 95-10	_	if	_	_	_	_
@@ -1214,7 +1214,7 @@
 95-51	_	will	_	_	_	_
 95-52	_	work	_	_	_	_
 95-53	_	for	_	_	_	_
-95-54	_	her	abstract[107]	new[107]	coref	102-3[107_108]
+95-54	_	her	abstract[108]	new[108]	coref	102-3[108_109]
 95-55	_	.	_	_	_	_
 
 #Text=Um , so , if you want to let him know and then have him call me back , if you , if you wan na go ahead and do it .
@@ -1227,12 +1227,12 @@
 96-7	_	want	_	_	_	_
 96-8	_	to	_	_	_	_
 96-9	_	let	_	_	_	_
-96-10	_	him	abstract[78]	new[78]	coref	96-15[78_79]
+96-10	_	him	abstract[79]	new[79]	coref	96-15[79_80]
 96-11	_	know	_	_	_	_
 96-12	_	and	_	_	_	_
 96-13	_	then	_	_	_	_
 96-14	_	have	_	_	_	_
-96-15	_	him	abstract[79]	new[79]	_	_
+96-15	_	him	abstract[80]	new[80]	_	_
 96-16	_	call	_	_	_	_
 96-17	_	me	abstract[33]	new[33]	_	_
 96-18	_	back	_	_	_	_
@@ -1281,17 +1281,17 @@
 #Text=And if she — you know , if we did it , she could probably go home tomorrow .
 102-1	_	And	_	_	_	_
 102-2	_	if	_	_	_	_
-102-3	_	she	abstract[108]	new[108]	coref	102-13[108_109]
+102-3	_	she	abstract[109]	new[109]	coref	102-13[109_110]
 102-4	_	—	_	_	_	_
-102-5	_	you	abstract[88]	new[88]	_	_
+102-5	_	you	abstract[89]	new[89]	_	_
 102-6	_	know	_	_	_	_
 102-7	_	,	_	_	_	_
 102-8	_	if	_	_	_	_
-102-9	_	we	abstract[67]	new[67]	_	_
+102-9	_	we	abstract[67]	new[67]	coref	106-11[67_68]
 102-10	_	did	_	_	_	_
 102-11	_	it	abstract[142]	new[142]	_	_
 102-12	_	,	_	_	_	_
-102-13	_	she	abstract[109]	new[109]	coref	106-14[109_110]
+102-13	_	she	abstract[110]	new[110]	_	_
 102-14	_	could	_	_	_	_
 102-15	_	probably	_	_	_	_
 102-16	_	go	_	_	_	_
@@ -1326,31 +1326,19 @@
 105-5	_	bye	_	_	_	_
 105-6	_	.	_	_	_	_
 
-#Text=A doctor approaches a scientist , looking at one of his inventions . She walks away from the field with a frightened , confused headache .
-106-1	_	A	_	_	_	_
-106-2	_	doctor	_	_	_	_
-106-3	_	approaches	_	_	_	_
-106-4	_	a	abstract[145]	new[145]	coref	106-11[145_146]
-106-5	_	scientist	abstract[145]	new[145]	_	_
-106-6	_	,	_	_	_	_
-106-7	_	looking	_	_	_	_
-106-8	_	at	_	_	_	_
-106-9	_	one	_	_	_	_
-106-10	_	of	_	_	_	_
-106-11	_	his	abstract[146]	new[146]	_	_
-106-12	_	inventions	_	_	_	_
-106-13	_	.	_	_	_	_
-106-14	_	She	abstract[110]	new[110]	_	_
-106-15	_	walks	_	_	_	_
-106-16	_	away	_	_	_	_
-106-17	_	from	_	_	_	_
-106-18	_	the	_	_	_	_
-106-19	_	field	_	_	_	_
-106-20	_	with	_	_	_	_
-106-21	_	a	_	_	_	_
-106-22	_	frightened	_	_	_	_
-106-23	_	,	_	_	_	_
-106-24	_	confused	_	_	_	_
-106-25	_	headache	_	_	_	_
-106-26	_	.	_	_	_	_
+#Text=Scientists , have an amazing career ahead this year — we have just got
+106-1	_	Scientists	_	_	_	_
+106-2	_	,	_	_	_	_
+106-3	_	have	_	_	_	_
+106-4	_	an	_	_	_	_
+106-5	_	amazing	_	_	_	_
+106-6	_	career	_	_	_	_
+106-7	_	ahead	_	_	_	_
+106-8	_	this	_	_	_	_
+106-9	_	year	_	_	_	_
+106-10	_	—	_	_	_	_
+106-11	_	we	abstract[68]	new[68]	_	_
+106-12	_	have	_	_	_	_
+106-13	_	just	_	_	_	_
+106-14	_	got	_	_	_	_
 

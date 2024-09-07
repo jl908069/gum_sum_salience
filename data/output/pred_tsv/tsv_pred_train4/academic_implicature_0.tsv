@@ -12,21 +12,21 @@
 2-1	_	We	abstract[1]	new[1]	coref	3-1[1_2]
 2-2	_	hypothesized	_	_	_	_
 2-3	_	that	_	_	_	_
-2-4	_	the	abstract[30]	new[30]	coref	26-13[30_31]
-2-5	_	children	abstract[30]	new[30]	_	_
-2-6	_	,	abstract[30]	new[30]	_	_
-2-7	_	who	abstract[30]	new[30]	_	_
-2-8	_	were	abstract[30]	new[30]	_	_
-2-9	_	over	abstract[30]	new[30]	_	_
-2-10	_	the	abstract[30]	new[30]	_	_
-2-11	_	age	abstract[30]	new[30]	_	_
-2-12	_	of	abstract[30]	new[30]	_	_
-2-13	_	six	abstract[30]	new[30]	_	_
-2-14	_	at	abstract[30]	new[30]	_	_
-2-15	_	the	abstract[30]	new[30]	_	_
-2-16	_	time	abstract[30]	new[30]	_	_
-2-17	_	of	abstract[30]	new[30]	_	_
-2-18	_	collection	abstract[30]	new[30]	_	_
+2-4	_	the	abstract[31]	new[31]	coref	26-13[31_32]
+2-5	_	children	abstract[31]	new[31]	_	_
+2-6	_	,	abstract[31]	new[31]	_	_
+2-7	_	who	abstract[31]	new[31]	_	_
+2-8	_	were	abstract[31]	new[31]	_	_
+2-9	_	over	abstract[31]	new[31]	_	_
+2-10	_	the	abstract[31]	new[31]	_	_
+2-11	_	age	abstract[31]	new[31]	_	_
+2-12	_	of	abstract[31]	new[31]	_	_
+2-13	_	six	abstract[31]	new[31]	_	_
+2-14	_	at	abstract[31]	new[31]	_	_
+2-15	_	the	abstract[31]	new[31]	_	_
+2-16	_	time	abstract[31]	new[31]	_	_
+2-17	_	of	abstract[31]	new[31]	_	_
+2-18	_	collection	abstract[31]	new[31]	_	_
 2-19	_	,	_	_	_	_
 2-20	_	would	_	_	_	_
 2-21	_	have	_	_	_	_
@@ -553,14 +553,14 @@
 21-6	_	two	abstract[20]	new[20]	_	_
 21-7	_	children	abstract[20]	new[20]	_	_
 21-8	_	understood	_	_	_	_
-21-9	_	the	abstract[26]	new[26]	coref	25-8[26_27]
-21-10	_	task	abstract[26]	new[26]	_	_
+21-9	_	the	abstract[27]	new[27]	coref	25-8[27_28]
+21-10	_	task	abstract[27]	new[27]	_	_
 21-11	_	and	_	_	_	_
 21-12	_	really	_	_	_	_
 21-13	_	did	_	_	_	_
 21-14	_	believe	_	_	_	_
 21-15	_	that	_	_	_	_
-21-16	_	the	abstract[25]	new[25]	_	_
+21-16	_	the	abstract[25]	new[25]	coref	33-10[25_26]
 21-17	_	puppet	abstract[25]	new[25]	_	_
 21-18	_	did	_	_	_	_
 21-19	_	not	_	_	_	_
@@ -664,20 +664,20 @@
 24-9	_	.	_	_	_	_
 
 #Text=The puppets used were picked specifically for this task with careful attention to their appearance .
-25-1	_	The	abstract[28]	new[28]	coref	25-14[28_29]
-25-2	_	puppets	abstract[28]	new[28]	_	_
+25-1	_	The	abstract[29]	new[29]	coref	25-14[29_30]
+25-2	_	puppets	abstract[29]	new[29]	_	_
 25-3	_	used	_	_	_	_
 25-4	_	were	_	_	_	_
 25-5	_	picked	_	_	_	_
 25-6	_	specifically	_	_	_	_
 25-7	_	for	_	_	_	_
-25-8	_	this	abstract[27]	new[27]	_	_
-25-9	_	task	abstract[27]	new[27]	_	_
+25-8	_	this	abstract[28]	new[28]	_	_
+25-9	_	task	abstract[28]	new[28]	_	_
 25-10	_	with	_	_	_	_
 25-11	_	careful	_	_	_	_
 25-12	_	attention	_	_	_	_
 25-13	_	to	_	_	_	_
-25-14	_	their	abstract[29]	new[29]	_	_
+25-14	_	their	abstract[30]	new[30]	_	_
 25-15	_	appearance	_	_	_	_
 25-16	_	.	_	_	_	_
 
@@ -694,8 +694,8 @@
 26-10	_	became	_	_	_	_
 26-11	_	clear	_	_	_	_
 26-12	_	that	_	_	_	_
-26-13	_	the	abstract[31]	new[31]	coref	26-33[31_32]
-26-14	_	children	abstract[31]	new[31]	_	_
+26-13	_	the	abstract[32]	new[32]	coref	26-33[32_33]
+26-14	_	children	abstract[32]	new[32]	_	_
 26-15	_	were	_	_	_	_
 26-16	_	not	_	_	_	_
 26-17	_	accustomed	_	_	_	_
@@ -714,7 +714,7 @@
 26-30	_	novel	_	_	_	_
 26-31	_	experience	_	_	_	_
 26-32	_	for	_	_	_	_
-26-33	_	them	abstract[32]	new[32]	coref	33-1[32_33]
+26-33	_	them	abstract[33]	new[33]	_	_
 26-34	_	.	_	_	_	_
 
 #Text=Further exploration with greater cardinal number ranges could also prove interesting .
@@ -745,7 +745,7 @@
 28-11	_	expressed	_	_	_	_
 28-12	_	with	_	_	_	_
 28-13	_	native	_	_	_	_
-28-14	_	Chitonga	abstract[35]	new[35]	coref	31-13[35_36]
+28-14	_	Chitonga	abstract[34]	new[34]	coref	31-13[34_35]
 28-15	_	words	_	_	_	_
 28-16	_	while	_	_	_	_
 28-17	_	numbers	_	_	_	_
@@ -810,7 +810,7 @@
 31-10	_	SI	_	_	_	_
 31-11	_	interpretation	_	_	_	_
 31-12	_	by	_	_	_	_
-31-13	_	Chitonga	abstract[36]	new[36]	coref	31-42[36_37]
+31-13	_	Chitonga	abstract[35]	new[35]	coref	31-42[35_36]
 31-14	_	-	_	_	_	_
 31-15	_	speaking	_	_	_	_
 31-16	_	children	_	_	_	_
@@ -839,8 +839,8 @@
 31-39	_	later	_	_	_	_
 31-40	_	age	_	_	_	_
 31-41	_	in	_	_	_	_
-31-42	_	this	abstract[37]	new[37]	_	_
-31-43	_	language	abstract[37]	new[37]	_	_
+31-42	_	this	abstract[36]	new[36]	coref	33-3[36_37]
+31-43	_	language	abstract[36]	new[36]	_	_
 31-44	_	.	_	_	_	_
 
 #Text=This interesting combination of findings – expected hierarchy of difficulty , but differing age of acquisition – is an important addition to our growing cross-linguistic knowledge of SI and could be the result of language - specific differences in the use of SI lexical items or methodological differences .
@@ -894,25 +894,38 @@
 32-48	_	differences	_	_	_	_
 32-49	_	.	_	_	_	_
 
-#Text=The children are over the age of six . They are not accustomed to using the puppets being used .
-33-1	_	The	abstract[33]	new[33]	coref	33-10[33_34]
-33-2	_	children	abstract[33]	new[33]	_	_
-33-3	_	are	_	_	_	_
-33-4	_	over	_	_	_	_
-33-5	_	the	_	_	_	_
-33-6	_	age	_	_	_	_
-33-7	_	of	_	_	_	_
-33-8	_	six	_	_	_	_
-33-9	_	.	_	_	_	_
-33-10	_	They	abstract[34]	new[34]	_	_
-33-11	_	are	_	_	_	_
-33-12	_	not	_	_	_	_
-33-13	_	accustomed	_	_	_	_
+#Text=The two Chitonga - speaking children , of whom the puppet is about to be used , were very excited to be asked to answer the questions presented in these training sessions .
+33-1	_	The	_	_	_	_
+33-2	_	two	_	_	_	_
+33-3	_	Chitonga	abstract[37]	new[37]	_	_
+33-4	_	-	_	_	_	_
+33-5	_	speaking	_	_	_	_
+33-6	_	children	_	_	_	_
+33-7	_	,	_	_	_	_
+33-8	_	of	_	_	_	_
+33-9	_	whom	_	_	_	_
+33-10	_	the	abstract[26]	new[26]	_	_
+33-11	_	puppet	abstract[26]	new[26]	_	_
+33-12	_	is	_	_	_	_
+33-13	_	about	_	_	_	_
 33-14	_	to	_	_	_	_
-33-15	_	using	_	_	_	_
-33-16	_	the	_	_	_	_
-33-17	_	puppets	_	_	_	_
-33-18	_	being	_	_	_	_
-33-19	_	used	_	_	_	_
-33-20	_	.	_	_	_	_
+33-15	_	be	_	_	_	_
+33-16	_	used	_	_	_	_
+33-17	_	,	_	_	_	_
+33-18	_	were	_	_	_	_
+33-19	_	very	_	_	_	_
+33-20	_	excited	_	_	_	_
+33-21	_	to	_	_	_	_
+33-22	_	be	_	_	_	_
+33-23	_	asked	_	_	_	_
+33-24	_	to	_	_	_	_
+33-25	_	answer	_	_	_	_
+33-26	_	the	_	_	_	_
+33-27	_	questions	_	_	_	_
+33-28	_	presented	_	_	_	_
+33-29	_	in	_	_	_	_
+33-30	_	these	_	_	_	_
+33-31	_	training	_	_	_	_
+33-32	_	sessions	_	_	_	_
+33-33	_	.	_	_	_	_
 

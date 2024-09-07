@@ -276,17 +276,17 @@
 27-3	_	salt	_	_	_	_
 
 #Text=450 ml ( 1 - 3/4 cup ) unsweetened soy milk
-28-1	_	450	abstract[59]	new[59]	coref	63-2[59_60]
-28-2	_	ml	abstract[59]	new[59]	_	_
-28-3	_	(	abstract[59]	new[59]	_	_
-28-4	_	1	abstract[59]	new[59]	_	_
-28-5	_	-	abstract[59]	new[59]	_	_
-28-6	_	3/4	abstract[59]	new[59]	_	_
-28-7	_	cup	abstract[59]	new[59]	_	_
-28-8	_	)	abstract[59]	new[59]	_	_
-28-9	_	unsweetened	abstract[59]	new[59]	_	_
-28-10	_	soy	abstract[59]	new[59]	_	_
-28-11	_	milk	abstract[59]	new[59]	_	_
+28-1	_	450	abstract[60]	new[60]	coref	63-2[60_61]
+28-2	_	ml	abstract[60]	new[60]	_	_
+28-3	_	(	abstract[60]	new[60]	_	_
+28-4	_	1	abstract[60]	new[60]	_	_
+28-5	_	-	abstract[60]	new[60]	_	_
+28-6	_	3/4	abstract[60]	new[60]	_	_
+28-7	_	cup	abstract[60]	new[60]	_	_
+28-8	_	)	abstract[60]	new[60]	_	_
+28-9	_	unsweetened	abstract[60]	new[60]	_	_
+28-10	_	soy	abstract[60]	new[60]	_	_
+28-11	_	milk	abstract[60]	new[60]	_	_
 
 #Text=2 teaspoons red wine or apple cider vinegar
 29-1	_	2	_	_	_	_
@@ -655,7 +655,7 @@
 
 #Text=Place cupcakes onto a wire rack to cool .
 53-1	_	Place	_	_	_	_
-53-2	_	cupcakes	abstract[53]	new[53]	coref	54-2[53_54]
+53-2	_	cupcakes	abstract[54]	new[54]	coref	54-2[54_55]
 53-3	_	onto	_	_	_	_
 53-4	_	a	_	_	_	_
 53-5	_	wire	_	_	_	_
@@ -666,17 +666,17 @@
 
 #Text=Ice the cupcakes .
 54-1	_	Ice	_	_	_	_
-54-2	_	the	abstract[54]	new[54]	_	_
-54-3	_	cupcakes	abstract[54]	new[54]	_	_
+54-2	_	the	abstract[55]	new[55]	_	_
+54-3	_	cupcakes	abstract[55]	new[55]	_	_
 54-4	_	.	_	_	_	_
 
 #Text=The flavor of icing or frosting can be improved by adding a little of your favorite juice to it instead of soy milk or water .
 55-1	_	The	_	_	_	_
 55-2	_	flavor	_	_	_	_
 55-3	_	of	_	_	_	_
-55-4	_	icing	abstract[55]	new[55]	coref	55-19[55_56]
-55-5	_	or	abstract[55]	new[55]	_	_
-55-6	_	frosting	abstract[55]	new[55]	_	_
+55-4	_	icing	abstract[56]	new[56]	coref	55-19[56_57]
+55-5	_	or	abstract[56]	new[56]	_	_
+55-6	_	frosting	abstract[56]	new[56]	_	_
 55-7	_	can	_	_	_	_
 55-8	_	be	_	_	_	_
 55-9	_	improved	_	_	_	_
@@ -689,7 +689,7 @@
 55-16	_	favorite	_	_	_	_
 55-17	_	juice	_	_	_	_
 55-18	_	to	_	_	_	_
-55-19	_	it	abstract[56]	new[56]	_	_
+55-19	_	it	abstract[57]	new[57]	_	_
 55-20	_	instead	_	_	_	_
 55-21	_	of	_	_	_	_
 55-22	_	soy	_	_	_	_
@@ -708,10 +708,10 @@
 57-3	_	of	_	_	_	_
 57-4	_	2	_	_	_	_
 57-5	_	:	_	_	_	_
-57-6	_	Basic	abstract[68]	new[68]	coref	70-2[68_69]
-57-7	_	Chocolate	abstract[68]	new[68]	_	_
-57-8	_	Vegan	abstract[68]	new[68]	_	_
-57-9	_	Cupcakes	abstract[68]	new[68]	_	_
+57-6	_	Basic	abstract[69]	new[69]	coref	70-2[69_70]
+57-7	_	Chocolate	abstract[69]	new[69]	_	_
+57-8	_	Vegan	abstract[69]	new[69]	_	_
+57-9	_	Cupcakes	abstract[69]	new[69]	_	_
 
 #Text=Preheat the oven to 160 o C / 315 o F .
 58-1	_	Preheat	_	_	_	_
@@ -730,8 +730,8 @@
 #Text=If using cupcake cases , arrange on a baking sheet now .
 59-1	_	If	_	_	_	_
 59-2	_	using	_	_	_	_
-59-3	_	cupcake	abstract[66]	new[66]	coref	67-3[66_67]
-59-4	_	cases	abstract[66]	new[66]	_	_
+59-3	_	cupcake	abstract[67]	new[67]	coref	67-3[67_68]
+59-4	_	cases	abstract[67]	new[67]	_	_
 59-5	_	,	_	_	_	_
 59-6	_	arrange	_	_	_	_
 59-7	_	on	_	_	_	_
@@ -744,31 +744,31 @@
 #Text=If using a silicone cupcake sheet , simply have it ready .
 60-1	_	If	_	_	_	_
 60-2	_	using	_	_	_	_
-60-3	_	a	abstract[57]	new[57]	coref	60-10[57_58]
-60-4	_	silicone	abstract[57]	new[57]	_	_
-60-5	_	cupcake	abstract[57]	new[57]	_	_
-60-6	_	sheet	abstract[57]	new[57]	_	_
+60-3	_	a	abstract[58]	new[58]	coref	60-10[58_59]
+60-4	_	silicone	abstract[58]	new[58]	_	_
+60-5	_	cupcake	abstract[58]	new[58]	_	_
+60-6	_	sheet	abstract[58]	new[58]	_	_
 60-7	_	,	_	_	_	_
 60-8	_	simply	_	_	_	_
 60-9	_	have	_	_	_	_
-60-10	_	it	abstract[58]	new[58]	_	_
+60-10	_	it	abstract[59]	new[59]	_	_
 60-11	_	ready	_	_	_	_
 60-12	_	.	_	_	_	_
 
 #Text=Add the flour , cocoa powder , baking soda and pinch of salt to the mixing bowl .
 61-1	_	Add	_	_	_	_
-61-2	_	the	abstract[64]	new[64]	coref	65-6[64_65]
-61-3	_	flour	abstract[64]	new[64]	_	_
-61-4	_	,	abstract[64]	new[64]	_	_
-61-5	_	cocoa	abstract[64]	new[64]	_	_
-61-6	_	powder	abstract[64]	new[64]	_	_
-61-7	_	,	abstract[64]	new[64]	_	_
-61-8	_	baking	abstract[64]	new[64]	_	_
-61-9	_	soda	abstract[64]	new[64]	_	_
-61-10	_	and	abstract[64]	new[64]	_	_
-61-11	_	pinch	abstract[64]	new[64]	_	_
-61-12	_	of	abstract[64]	new[64]	_	_
-61-13	_	salt	abstract[64]	new[64]	_	_
+61-2	_	the	abstract[65]	new[65]	coref	65-6[65_66]
+61-3	_	flour	abstract[65]	new[65]	_	_
+61-4	_	,	abstract[65]	new[65]	_	_
+61-5	_	cocoa	abstract[65]	new[65]	_	_
+61-6	_	powder	abstract[65]	new[65]	_	_
+61-7	_	,	abstract[65]	new[65]	_	_
+61-8	_	baking	abstract[65]	new[65]	_	_
+61-9	_	soda	abstract[65]	new[65]	_	_
+61-10	_	and	abstract[65]	new[65]	_	_
+61-11	_	pinch	abstract[65]	new[65]	_	_
+61-12	_	of	abstract[65]	new[65]	_	_
+61-13	_	salt	abstract[65]	new[65]	_	_
 61-14	_	to	_	_	_	_
 61-15	_	the	_	_	_	_
 61-16	_	mixing	_	_	_	_
@@ -783,17 +783,17 @@
 
 #Text=Pour the soy milk , vinegar , sugar , oil and vanilla into another bowl .
 63-1	_	Pour	_	_	_	_
-63-2	_	the	abstract[60]|abstract[62]	new[60]|new[62]	coref|coref	85-4[60_61]|65-2[62_63]
-63-3	_	soy	abstract[60]|abstract[62]	new[60]|new[62]	_	_
-63-4	_	milk	abstract[60]|abstract[62]	new[60]|new[62]	_	_
-63-5	_	,	abstract[62]	new[62]	_	_
-63-6	_	vinegar	abstract[62]	new[62]	_	_
-63-7	_	,	abstract[62]	new[62]	_	_
-63-8	_	sugar	abstract[62]	new[62]	_	_
-63-9	_	,	abstract[62]	new[62]	_	_
-63-10	_	oil	abstract[62]	new[62]	_	_
-63-11	_	and	abstract[62]	new[62]	_	_
-63-12	_	vanilla	abstract[62]|abstract[89]	new[62]|new[89]	coref	86-10[89_90]
+63-2	_	the	abstract[61]|abstract[63]	new[61]|new[63]	coref|coref	85-4[61_62]|65-2[63_64]
+63-3	_	soy	abstract[61]|abstract[63]	new[61]|new[63]	_	_
+63-4	_	milk	abstract[61]|abstract[63]	new[61]|new[63]	_	_
+63-5	_	,	abstract[63]	new[63]	_	_
+63-6	_	vinegar	abstract[63]	new[63]	_	_
+63-7	_	,	abstract[63]	new[63]	_	_
+63-8	_	sugar	abstract[63]	new[63]	_	_
+63-9	_	,	abstract[63]	new[63]	_	_
+63-10	_	oil	abstract[63]	new[63]	_	_
+63-11	_	and	abstract[63]	new[63]	_	_
+63-12	_	vanilla	abstract[63]|abstract[90]	new[63]|new[90]	coref	86-10[90_91]
 63-13	_	into	_	_	_	_
 63-14	_	another	_	_	_	_
 63-15	_	bowl	_	_	_	_
@@ -807,13 +807,13 @@
 
 #Text=Pour the liquid mixture into the flour mixture .
 65-1	_	Pour	_	_	_	_
-65-2	_	the	abstract[63]	new[63]	_	_
-65-3	_	liquid	abstract[63]	new[63]	_	_
-65-4	_	mixture	abstract[63]	new[63]	_	_
+65-2	_	the	abstract[64]	new[64]	_	_
+65-3	_	liquid	abstract[64]	new[64]	_	_
+65-4	_	mixture	abstract[64]	new[64]	_	_
 65-5	_	into	_	_	_	_
-65-6	_	the	abstract[65]	new[65]	_	_
-65-7	_	flour	abstract[65]	new[65]	_	_
-65-8	_	mixture	abstract[65]	new[65]	_	_
+65-6	_	the	abstract[66]	new[66]	_	_
+65-7	_	flour	abstract[66]	new[66]	_	_
+65-8	_	mixture	abstract[66]	new[66]	_	_
 65-9	_	.	_	_	_	_
 
 #Text=Stir to combine thoroughly .
@@ -826,12 +826,12 @@
 #Text=Pour into the cupcake cases or cupcake holes .
 67-1	_	Pour	_	_	_	_
 67-2	_	into	_	_	_	_
-67-3	_	the	abstract[67]	new[67]	_	_
-67-4	_	cupcake	abstract[67]	new[67]	_	_
-67-5	_	cases	abstract[67]	new[67]	_	_
-67-6	_	or	abstract[67]	new[67]	_	_
-67-7	_	cupcake	abstract[67]	new[67]	_	_
-67-8	_	holes	abstract[67]	new[67]	_	_
+67-3	_	the	abstract[68]	new[68]	_	_
+67-4	_	cupcake	abstract[68]	new[68]	_	_
+67-5	_	cases	abstract[68]	new[68]	_	_
+67-6	_	or	abstract[68]	new[68]	_	_
+67-7	_	cupcake	abstract[68]	new[68]	_	_
+67-8	_	holes	abstract[68]	new[68]	_	_
 67-9	_	.	_	_	_	_
 
 #Text=Place into the oven .
@@ -852,19 +852,19 @@
 
 #Text=If they smell strongly earlier , test with a wooden skewer ; if it returns clean after sticking into a cupcake , they 're ready .
 70-1	_	If	_	_	_	_
-70-2	_	they	abstract[69]	new[69]	coref	70-23[69_70]
+70-2	_	they	abstract[70]	new[70]	coref	70-23[70_71]
 70-3	_	smell	_	_	_	_
 70-4	_	strongly	_	_	_	_
 70-5	_	earlier	_	_	_	_
 70-6	_	,	_	_	_	_
 70-7	_	test	_	_	_	_
 70-8	_	with	_	_	_	_
-70-9	_	a	abstract[73]	new[73]	coref	70-14[73_74]
-70-10	_	wooden	abstract[73]	new[73]	_	_
-70-11	_	skewer	abstract[73]	new[73]	_	_
+70-9	_	a	abstract[74]	new[74]	coref	70-14[74_75]
+70-10	_	wooden	abstract[74]	new[74]	_	_
+70-11	_	skewer	abstract[74]	new[74]	_	_
 70-12	_	;	_	_	_	_
 70-13	_	if	_	_	_	_
-70-14	_	it	abstract[74]	new[74]	_	_
+70-14	_	it	abstract[75]	new[75]	_	_
 70-15	_	returns	_	_	_	_
 70-16	_	clean	_	_	_	_
 70-17	_	after	_	_	_	_
@@ -873,7 +873,7 @@
 70-20	_	a	_	_	_	_
 70-21	_	cupcake	_	_	_	_
 70-22	_	,	_	_	_	_
-70-23	_	they	abstract[70]	new[70]	coref	72-2[70_71]
+70-23	_	they	abstract[71]	new[71]	coref	72-2[71_72]
 70-24	_	're	_	_	_	_
 70-25	_	ready	_	_	_	_
 70-26	_	.	_	_	_	_
@@ -881,19 +881,19 @@
 #Text=Remove from the oven .
 71-1	_	Remove	_	_	_	_
 71-2	_	from	_	_	_	_
-71-3	_	the	abstract[52]	new[52]	_	_
+71-3	_	the	abstract[52]	new[52]	coref	87-51[52_53]
 71-4	_	oven	abstract[52]	new[52]	_	_
 71-5	_	.	_	_	_	_
 
 #Text=Transfer the cupcakes to a wire cooling rack as quickly as possible when cool enough to handle .
 72-1	_	Transfer	_	_	_	_
-72-2	_	the	abstract[71]	new[71]	coref	80-2[71_72]
-72-3	_	cupcakes	abstract[71]	new[71]	_	_
+72-2	_	the	abstract[72]	new[72]	coref	80-2[72_73]
+72-3	_	cupcakes	abstract[72]	new[72]	_	_
 72-4	_	to	_	_	_	_
-72-5	_	a	abstract[75]	new[75]	coref	73-5[75_76]
-72-6	_	wire	abstract[75]	new[75]	_	_
-72-7	_	cooling	abstract[75]	new[75]	_	_
-72-8	_	rack	abstract[75]	new[75]	_	_
+72-5	_	a	abstract[76]	new[76]	coref	73-5[76_77]
+72-6	_	wire	abstract[76]	new[76]	_	_
+72-7	_	cooling	abstract[76]	new[76]	_	_
+72-8	_	rack	abstract[76]	new[76]	_	_
 72-9	_	as	_	_	_	_
 72-10	_	quickly	_	_	_	_
 72-11	_	as	_	_	_	_
@@ -910,8 +910,8 @@
 73-2	_	cool	_	_	_	_
 73-3	_	completely	_	_	_	_
 73-4	_	on	_	_	_	_
-73-5	_	the	abstract[76]	new[76]	_	_
-73-6	_	rack	abstract[76]	new[76]	_	_
+73-5	_	the	abstract[77]	new[77]	_	_
+73-6	_	rack	abstract[77]	new[77]	_	_
 73-7	_	.	_	_	_	_
 
 #Text=Frost as desired .
@@ -947,28 +947,28 @@
 77-10	_	.	_	_	_	_
 
 #Text=One small container of pureed fruit is sufficient for flavoring ( the little containers that children take to school in their lunchboxes . )
-78-1	_	One	abstract[77]	new[77]	coref	78-12[77_78]
-78-2	_	small	abstract[77]	new[77]	_	_
-78-3	_	container	abstract[77]	new[77]	_	_
-78-4	_	of	abstract[77]	new[77]	_	_
-78-5	_	pureed	abstract[77]	new[77]	_	_
-78-6	_	fruit	abstract[77]	new[77]	_	_
+78-1	_	One	abstract[78]	new[78]	coref	78-12[78_79]
+78-2	_	small	abstract[78]	new[78]	_	_
+78-3	_	container	abstract[78]	new[78]	_	_
+78-4	_	of	abstract[78]	new[78]	_	_
+78-5	_	pureed	abstract[78]	new[78]	_	_
+78-6	_	fruit	abstract[78]	new[78]	_	_
 78-7	_	is	_	_	_	_
 78-8	_	sufficient	_	_	_	_
 78-9	_	for	_	_	_	_
 78-10	_	flavoring	_	_	_	_
 78-11	_	(	_	_	_	_
-78-12	_	the	abstract[78]	new[78]	_	_
-78-13	_	little	abstract[78]	new[78]	_	_
-78-14	_	containers	abstract[78]	new[78]	_	_
-78-15	_	that	abstract[78]	new[78]	_	_
-78-16	_	children	abstract[78]|abstract[79]	new[78]|new[79]	coref	78-21[79_80]
-78-17	_	take	abstract[78]	new[78]	_	_
-78-18	_	to	abstract[78]	new[78]	_	_
-78-19	_	school	abstract[78]	new[78]	_	_
-78-20	_	in	abstract[78]	new[78]	_	_
-78-21	_	their	abstract[78]|abstract[80]	new[78]|new[80]	_	_
-78-22	_	lunchboxes	abstract[78]	new[78]	_	_
+78-12	_	the	abstract[79]	new[79]	_	_
+78-13	_	little	abstract[79]	new[79]	_	_
+78-14	_	containers	abstract[79]	new[79]	_	_
+78-15	_	that	abstract[79]	new[79]	_	_
+78-16	_	children	abstract[79]|abstract[80]	new[79]|new[80]	coref	78-21[80_81]
+78-17	_	take	abstract[79]	new[79]	_	_
+78-18	_	to	abstract[79]	new[79]	_	_
+78-19	_	school	abstract[79]	new[79]	_	_
+78-20	_	in	abstract[79]	new[79]	_	_
+78-21	_	their	abstract[79]|abstract[81]	new[79]|new[81]	_	_
+78-22	_	lunchboxes	abstract[79]	new[79]	_	_
 78-23	_	.	_	_	_	_
 78-24	_	)	_	_	_	_
 
@@ -986,8 +986,8 @@
 79-11	_	etc.	_	_	_	_
 
 #Text=The cupcakes will not be as light and fluffy , however , so be prepared for a heavier cupcake if you add fruit but the added moisture content is a definite plus .
-80-1	_	The	abstract[72]	new[72]	_	_
-80-2	_	cupcakes	abstract[72]	new[72]	_	_
+80-1	_	The	abstract[73]	new[73]	_	_
+80-2	_	cupcakes	abstract[73]	new[73]	_	_
 80-3	_	will	_	_	_	_
 80-4	_	not	_	_	_	_
 80-5	_	be	_	_	_	_
@@ -1024,13 +1024,13 @@
 81-1	_	Instead	_	_	_	_
 81-2	_	of	_	_	_	_
 81-3	_	using	_	_	_	_
-81-4	_	vegan	abstract[81]	new[81]	coref	81-10[81_82]
-81-5	_	sugar	abstract[81]	new[81]	_	_
+81-4	_	vegan	abstract[82]	new[82]	coref	81-10[82_83]
+81-5	_	sugar	abstract[82]	new[82]	_	_
 81-6	_	,	_	_	_	_
 81-7	_	you	abstract[12]	new[12]	coref	82-21[12_13]
 81-8	_	can	_	_	_	_
 81-9	_	replace	_	_	_	_
-81-10	_	it	abstract[82]	new[82]	_	_
+81-10	_	it	abstract[83]	new[83]	_	_
 81-11	_	with	_	_	_	_
 81-12	_	equal	_	_	_	_
 81-13	_	parts	_	_	_	_
@@ -1044,20 +1044,20 @@
 82-1	_	Instead	_	_	_	_
 82-2	_	of	_	_	_	_
 82-3	_	using	_	_	_	_
-82-4	_	vegetable	abstract[83]	new[83]	coref	82-9[83_84]
-82-5	_	oil	abstract[83]	new[83]	_	_
+82-4	_	vegetable	abstract[84]	new[84]	coref	82-9[84_85]
+82-5	_	oil	abstract[84]	new[84]	_	_
 82-6	_	,	_	_	_	_
 82-7	_	try	_	_	_	_
 82-8	_	substituting	_	_	_	_
-82-9	_	it	abstract[84]	new[84]	_	_
+82-9	_	it	abstract[85]	new[85]	_	_
 82-10	_	for	_	_	_	_
-82-11	_	walnut	abstract[85]	new[85]	coref	82-17[85_86]
-82-12	_	or	abstract[85]	new[85]	_	_
-82-13	_	macadamia	abstract[85]	new[85]	_	_
-82-14	_	nut	abstract[85]	new[85]	_	_
-82-15	_	oils	abstract[85]	new[85]	_	_
+82-11	_	walnut	abstract[86]	new[86]	coref	82-17[86_87]
+82-12	_	or	abstract[86]	new[86]	_	_
+82-13	_	macadamia	abstract[86]	new[86]	_	_
+82-14	_	nut	abstract[86]	new[86]	_	_
+82-15	_	oils	abstract[86]	new[86]	_	_
 82-16	_	if	_	_	_	_
-82-17	_	they	abstract[86]	new[86]	_	_
+82-17	_	they	abstract[87]	new[87]	_	_
 82-18	_	are	_	_	_	_
 82-19	_	available	_	_	_	_
 82-20	_	to	_	_	_	_
@@ -1075,12 +1075,12 @@
 
 #Text=And olive oil works fine if it 's all that 's left in the pantry .
 84-1	_	And	_	_	_	_
-84-2	_	olive	abstract[87]	new[87]	coref	84-7[87_88]
-84-3	_	oil	abstract[87]	new[87]	_	_
+84-2	_	olive	abstract[88]	new[88]	coref	84-7[88_89]
+84-3	_	oil	abstract[88]	new[88]	_	_
 84-4	_	works	_	_	_	_
 84-5	_	fine	_	_	_	_
 84-6	_	if	_	_	_	_
-84-7	_	it	abstract[88]	new[88]	_	_
+84-7	_	it	abstract[89]	new[89]	_	_
 84-8	_	's	_	_	_	_
 84-9	_	all	_	_	_	_
 84-10	_	that	_	_	_	_
@@ -1095,10 +1095,10 @@
 85-1	_	You	abstract[14]	new[14]	coref	85-16[14_15]
 85-2	_	can	_	_	_	_
 85-3	_	replace	_	_	_	_
-85-4	_	the	abstract[61]	new[61]	_	_
-85-5	_	plain	abstract[61]	new[61]	_	_
-85-6	_	soy	abstract[61]	new[61]	_	_
-85-7	_	milk	abstract[61]	new[61]	_	_
+85-4	_	the	abstract[62]	new[62]	_	_
+85-5	_	plain	abstract[62]	new[62]	_	_
+85-6	_	soy	abstract[62]	new[62]	_	_
+85-7	_	milk	abstract[62]	new[62]	_	_
 85-8	_	with	_	_	_	_
 85-9	_	other	_	_	_	_
 85-10	_	flavors	_	_	_	_
@@ -1130,9 +1130,9 @@
 86-7	_	recipe	_	_	_	_
 86-8	_	by	_	_	_	_
 86-9	_	replacing	_	_	_	_
-86-10	_	the	abstract[90]	new[90]	_	_
-86-11	_	vanilla	abstract[90]	new[90]	_	_
-86-12	_	extract	abstract[90]	new[90]	_	_
+86-10	_	the	abstract[91]	new[91]	_	_
+86-11	_	vanilla	abstract[91]	new[91]	_	_
+86-12	_	extract	abstract[91]	new[91]	_	_
 86-13	_	with	_	_	_	_
 86-14	_	fragrant	_	_	_	_
 86-15	_	ingredients	_	_	_	_
@@ -1151,50 +1151,62 @@
 86-28	_	extract	_	_	_	_
 86-29	_	.	_	_	_	_
 
-#Text=Understand the effect of hypnosis . Learn how to hold a chicken upright or on its breast . Keep the chicken upright . Take off all body weight if it becomes uncomfortable . Know that hypnosis may cause harmful or harmful responses to stress .
-87-1	_	Understand	_	_	_	_
-87-2	_	the	_	_	_	_
-87-3	_	effect	_	_	_	_
-87-4	_	of	_	_	_	_
-87-5	_	hypnosis	_	_	_	_
-87-6	_	.	_	_	_	_
-87-7	_	Learn	_	_	_	_
-87-8	_	how	_	_	_	_
-87-9	_	to	_	_	_	_
-87-10	_	hold	_	_	_	_
-87-11	_	a	abstract[91]	new[91]	coref	87-16[91_92]
-87-12	_	chicken	abstract[91]	new[91]	_	_
-87-13	_	upright	_	_	_	_
-87-14	_	or	_	_	_	_
-87-15	_	on	_	_	_	_
-87-16	_	its	abstract[92]	new[92]	coref	87-20[92_93]
-87-17	_	breast	_	_	_	_
-87-18	_	.	_	_	_	_
-87-19	_	Keep	_	_	_	_
-87-20	_	the	abstract[93]	new[93]	coref	87-30[93_94]
-87-21	_	chicken	abstract[93]	new[93]	_	_
-87-22	_	upright	_	_	_	_
-87-23	_	.	_	_	_	_
-87-24	_	Take	_	_	_	_
-87-25	_	off	_	_	_	_
-87-26	_	all	_	_	_	_
-87-27	_	body	_	_	_	_
-87-28	_	weight	_	_	_	_
-87-29	_	if	_	_	_	_
-87-30	_	it	abstract[94]	new[94]	_	_
-87-31	_	becomes	_	_	_	_
-87-32	_	uncomfortable	_	_	_	_
-87-33	_	.	_	_	_	_
-87-34	_	Know	_	_	_	_
-87-35	_	that	_	_	_	_
-87-36	_	hypnosis	_	_	_	_
-87-37	_	may	_	_	_	_
-87-38	_	cause	_	_	_	_
-87-39	_	harmful	_	_	_	_
-87-40	_	or	_	_	_	_
-87-41	_	harmful	_	_	_	_
-87-42	_	responses	_	_	_	_
-87-43	_	to	_	_	_	_
-87-44	_	stress	_	_	_	_
-87-45	_	.	_	_	_	_
+#Text=Two recipes for 18 - 24 vegan cupcakes ( with vanilla extract for vanilla , or cocoa for chocolate flavor ) , using soy milk and cider vinegar , sugar , baking powder , baking soda , oil and salt , as well as optionally fruit puree , baked in the oven for around 20 minutes .
+87-1	_	Two	_	_	_	_
+87-2	_	recipes	_	_	_	_
+87-3	_	for	_	_	_	_
+87-4	_	18	_	_	_	_
+87-5	_	-	_	_	_	_
+87-6	_	24	_	_	_	_
+87-7	_	vegan	_	_	_	_
+87-8	_	cupcakes	_	_	_	_
+87-9	_	(	_	_	_	_
+87-10	_	with	_	_	_	_
+87-11	_	vanilla	_	_	_	_
+87-12	_	extract	_	_	_	_
+87-13	_	for	_	_	_	_
+87-14	_	vanilla	_	_	_	_
+87-15	_	,	_	_	_	_
+87-16	_	or	_	_	_	_
+87-17	_	cocoa	_	_	_	_
+87-18	_	for	_	_	_	_
+87-19	_	chocolate	_	_	_	_
+87-20	_	flavor	_	_	_	_
+87-21	_	)	_	_	_	_
+87-22	_	,	_	_	_	_
+87-23	_	using	_	_	_	_
+87-24	_	soy	_	_	_	_
+87-25	_	milk	_	_	_	_
+87-26	_	and	_	_	_	_
+87-27	_	cider	_	_	_	_
+87-28	_	vinegar	_	_	_	_
+87-29	_	,	_	_	_	_
+87-30	_	sugar	_	_	_	_
+87-31	_	,	_	_	_	_
+87-32	_	baking	_	_	_	_
+87-33	_	powder	_	_	_	_
+87-34	_	,	_	_	_	_
+87-35	_	baking	_	_	_	_
+87-36	_	soda	_	_	_	_
+87-37	_	,	_	_	_	_
+87-38	_	oil	_	_	_	_
+87-39	_	and	_	_	_	_
+87-40	_	salt	_	_	_	_
+87-41	_	,	_	_	_	_
+87-42	_	as	_	_	_	_
+87-43	_	well	_	_	_	_
+87-44	_	as	_	_	_	_
+87-45	_	optionally	_	_	_	_
+87-46	_	fruit	_	_	_	_
+87-47	_	puree	_	_	_	_
+87-48	_	,	_	_	_	_
+87-49	_	baked	_	_	_	_
+87-50	_	in	_	_	_	_
+87-51	_	the	abstract[53]	new[53]	_	_
+87-52	_	oven	abstract[53]	new[53]	_	_
+87-53	_	for	_	_	_	_
+87-54	_	around	_	_	_	_
+87-55	_	20	_	_	_	_
+87-56	_	minutes	_	_	_	_
+87-57	_	.	_	_	_	_
 

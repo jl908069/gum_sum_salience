@@ -1292,39 +1292,15 @@
 61-16	_	telescope	abstract[152]|abstract[165]	new[152]|new[165]	_	_
 61-17	_	.	_	_	_	_
 
-#Text=This morning , President - elect Ronald Reagan addressed the School of Open Africa and presented the book """" The World in Open Education """" to the President of Kenya , Mr. Obama .
-62-1	_	This	_	_	_	_
-62-2	_	morning	_	_	_	_
-62-3	_	,	_	_	_	_
-62-4	_	President	_	_	_	_
-62-5	_	-	_	_	_	_
-62-6	_	elect	_	_	_	_
-62-7	_	Ronald	_	_	_	_
-62-8	_	Reagan	_	_	_	_
-62-9	_	addressed	_	_	_	_
-62-10	_	the	_	_	_	_
-62-11	_	School	_	_	_	_
-62-12	_	of	_	_	_	_
-62-13	_	Open	_	_	_	_
-62-14	_	Africa	_	_	_	_
-62-15	_	and	_	_	_	_
-62-16	_	presented	_	_	_	_
-62-17	_	the	_	_	_	_
-62-18	_	book	_	_	_	_
-62-19	_	""""	_	_	_	_
-62-20	_	The	_	_	_	_
-62-21	_	World	_	_	_	_
-62-22	_	in	_	_	_	_
-62-23	_	Open	_	_	_	_
-62-24	_	Education	_	_	_	_
-62-25	_	""""	_	_	_	_
-62-26	_	to	_	_	_	_
-62-27	_	the	_	_	_	_
-62-28	_	President	_	_	_	_
-62-29	_	of	_	_	_	_
-62-30	_	Kenya	_	_	_	_
-62-31	_	,	_	_	_	_
-62-32	_	Mr.	_	_	_	_
-62-33	_	Obama	_	_	_	_
-62-34	_	.	_	_	_	_
+#Text=President envoys discuss School of Open Africa ’s groundbreaking vision
+62-1	_	President	_	_	_	_
+62-2	_	envoys	_	_	_	_
+62-3	_	discuss	_	_	_	_
+62-4	_	School	_	_	_	_
+62-5	_	of	_	_	_	_
+62-6	_	Open	_	_	_	_
+62-7	_	Africa	_	_	_	_
+62-8	_	’s	_	_	_	_
+62-9	_	groundbreaking	_	_	_	_
+62-10	_	vision	_	_	_	_
 

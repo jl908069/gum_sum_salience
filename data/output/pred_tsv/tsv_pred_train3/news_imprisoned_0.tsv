@@ -502,27 +502,25 @@
 23-13	_	procedure	_	_	_	_
 23-14	_	.	_	_	_	_
 
-#Text=The update may be able to cut IE6 down to 1 % in users , a Microsoft technical rep said recently .
-24-1	_	The	_	_	_	_
-24-2	_	update	_	_	_	_
-24-3	_	may	_	_	_	_
-24-4	_	be	_	_	_	_
-24-5	_	able	_	_	_	_
-24-6	_	to	_	_	_	_
-24-7	_	cut	_	_	_	_
-24-8	_	IE6	_	_	_	_
-24-9	_	down	_	_	_	_
+#Text=Microsoft has launched an aggressive campaign to persuade users to stop using IE6 and upgrade with three newer versions .
+24-1	_	Microsoft	_	_	_	_
+24-2	_	has	_	_	_	_
+24-3	_	launched	_	_	_	_
+24-4	_	an	_	_	_	_
+24-5	_	aggressive	_	_	_	_
+24-6	_	campaign	_	_	_	_
+24-7	_	to	_	_	_	_
+24-8	_	persuade	_	_	_	_
+24-9	_	users	_	_	_	_
 24-10	_	to	_	_	_	_
-24-11	_	1	_	_	_	_
-24-12	_	%	_	_	_	_
-24-13	_	in	_	_	_	_
-24-14	_	users	_	_	_	_
-24-15	_	,	_	_	_	_
-24-16	_	a	_	_	_	_
-24-17	_	Microsoft	_	_	_	_
-24-18	_	technical	_	_	_	_
-24-19	_	rep	_	_	_	_
-24-20	_	said	_	_	_	_
-24-21	_	recently	_	_	_	_
-24-22	_	.	_	_	_	_
+24-11	_	stop	_	_	_	_
+24-12	_	using	_	_	_	_
+24-13	_	IE6	_	_	_	_
+24-14	_	and	_	_	_	_
+24-15	_	upgrade	_	_	_	_
+24-16	_	with	_	_	_	_
+24-17	_	three	_	_	_	_
+24-18	_	newer	_	_	_	_
+24-19	_	versions	_	_	_	_
+24-20	_	.	_	_	_	_
 

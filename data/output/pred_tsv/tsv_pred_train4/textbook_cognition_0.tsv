@@ -44,13 +44,13 @@
 
 #Text=Imagine all of your thoughts as if they were physical entities , swirling rapidly inside your mind .
 6-1	_	Imagine	_	_	_	_
-6-2	_	all	abstract[32]	new[32]	coref	6-8[32_33]
-6-3	_	of	abstract[32]	new[32]	_	_
-6-4	_	your	abstract[2]|abstract[32]	new[2]|new[32]	coref	6-16[2_3]
-6-5	_	thoughts	abstract[32]	new[32]	_	_
+6-2	_	all	abstract[31]	new[31]	coref	6-8[31_32]
+6-3	_	of	abstract[31]	new[31]	_	_
+6-4	_	your	abstract[2]|abstract[31]	new[2]|new[31]	coref	6-16[2_3]
+6-5	_	thoughts	abstract[31]	new[31]	_	_
 6-6	_	as	_	_	_	_
 6-7	_	if	_	_	_	_
-6-8	_	they	abstract[33]	new[33]	_	_
+6-8	_	they	abstract[32]	new[32]	_	_
 6-9	_	were	_	_	_	_
 6-10	_	physical	_	_	_	_
 6-11	_	entities	_	_	_	_
@@ -58,8 +58,8 @@
 6-13	_	swirling	_	_	_	_
 6-14	_	rapidly	_	_	_	_
 6-15	_	inside	_	_	_	_
-6-16	_	your	abstract[3]|abstract[77]	new[3]|new[77]	coref|coref	9-3[3_4]|37-21[77_78]
-6-17	_	mind	abstract[77]	new[77]	_	_
+6-16	_	your	abstract[3]|abstract[76]	new[3]|new[76]	coref|coref	9-3[3_4]|37-21[76_77]
+6-17	_	mind	abstract[76]	new[76]	_	_
 6-18	_	.	_	_	_	_
 
 #Text=How is it possible that the brain is able to move from one thought to the next in an organized , orderly fashion ?
@@ -68,8 +68,8 @@
 7-3	_	it	_	_	_	_
 7-4	_	possible	_	_	_	_
 7-5	_	that	_	_	_	_
-7-6	_	the	abstract[34]	new[34]	coref	8-1[34_35]
-7-7	_	brain	abstract[34]	new[34]	_	_
+7-6	_	the	abstract[33]	new[33]	coref	8-1[33_34]
+7-7	_	brain	abstract[33]	new[33]	_	_
 7-8	_	is	_	_	_	_
 7-9	_	able	_	_	_	_
 7-10	_	to	_	_	_	_
@@ -89,8 +89,8 @@
 7-24	_	?	_	_	_	_
 
 #Text=The brain is endlessly perceiving , processing , planning , organizing , and remembering — it is always active .
-8-1	_	The	abstract[35]	new[35]	coref	8-16[35_36]
-8-2	_	brain	abstract[35]	new[35]	_	_
+8-1	_	The	abstract[34]	new[34]	coref	8-16[34_35]
+8-2	_	brain	abstract[34]	new[34]	_	_
 8-3	_	is	_	_	_	_
 8-4	_	endlessly	_	_	_	_
 8-5	_	perceiving	_	_	_	_
@@ -104,7 +104,7 @@
 8-13	_	and	_	_	_	_
 8-14	_	remembering	_	_	_	_
 8-15	_	—	_	_	_	_
-8-16	_	it	abstract[36]	new[36]	coref	26-27[36_37]
+8-16	_	it	abstract[35]	new[35]	coref	26-27[35_36]
 8-17	_	is	_	_	_	_
 8-18	_	always	_	_	_	_
 8-19	_	active	_	_	_	_
@@ -119,9 +119,9 @@
 9-6	_	notice	_	_	_	_
 9-7	_	most	_	_	_	_
 9-8	_	of	_	_	_	_
-9-9	_	your	abstract[5]|abstract[83]	new[5]|new[83]	coref|coref	9-14[5_6]|41-1[83_84]
-9-10	_	brain	abstract[83]	new[83]	_	_
-9-11	_	’s	abstract[83]	new[83]	_	_
+9-9	_	your	abstract[5]|abstract[82]	new[5]|new[82]	coref|coref	9-14[5_6]|41-1[82_83]
+9-10	_	brain	abstract[82]	new[82]	_	_
+9-11	_	’s	abstract[82]	new[82]	_	_
 9-12	_	activity	_	_	_	_
 9-13	_	as	_	_	_	_
 9-14	_	you	abstract[6]	new[6]	coref	9-17[6_7]
@@ -151,12 +151,12 @@
 11-1	_	Simply	_	_	_	_
 11-2	_	put	_	_	_	_
 11-3	_	,	_	_	_	_
-11-4	_	cognition	abstract[42]	new[42]	coref	11-9[42_43]
+11-4	_	cognition	abstract[41]	new[41]	coref	11-9[41_42]
 11-5	_	is	_	_	_	_
 11-6	_	thinking	_	_	_	_
 11-7	_	,	_	_	_	_
 11-8	_	and	_	_	_	_
-11-9	_	it	abstract[43]	new[43]	_	_
+11-9	_	it	abstract[42]	new[42]	_	_
 11-10	_	encompasses	_	_	_	_
 11-11	_	the	_	_	_	_
 11-12	_	processes	_	_	_	_
@@ -189,14 +189,14 @@
 12-9	_	to	_	_	_	_
 12-10	_	understand	_	_	_	_
 12-11	_	how	_	_	_	_
-12-12	_	we	abstract[44]	new[44]	coref	12-19[44_45]
+12-12	_	we	abstract[43]	new[43]	coref	12-19[43_44]
 12-13	_	integrate	_	_	_	_
 12-14	_	,	_	_	_	_
 12-15	_	organize	_	_	_	_
 12-16	_	,	_	_	_	_
 12-17	_	and	_	_	_	_
 12-18	_	utilize	_	_	_	_
-12-19	_	our	abstract[45]	new[45]	coref	12-33[45_46]
+12-19	_	our	abstract[44]	new[44]	coref	12-33[44_45]
 12-20	_	conscious	_	_	_	_
 12-21	_	cognitive	_	_	_	_
 12-22	_	experiences	_	_	_	_
@@ -210,7 +210,7 @@
 12-30	_	unconscious	_	_	_	_
 12-31	_	work	_	_	_	_
 12-32	_	that	_	_	_	_
-12-33	_	our	abstract[46]	new[46]	coref	21-8[46_47]
+12-33	_	our	abstract[45]	new[45]	coref	21-8[45_46]
 12-34	_	brains	_	_	_	_
 12-35	_	are	_	_	_	_
 12-36	_	doing	_	_	_	_
@@ -281,8 +281,8 @@
 17-1	_	Can	_	_	_	_
 17-2	_	you	abstract[13]	new[13]	coref	17-8[13_14]
 17-3	_	get	_	_	_	_
-17-4	_	these	abstract[59]	new[59]	coref	17-14[59_60]
-17-5	_	things	abstract[59]	new[59]	_	_
+17-4	_	these	abstract[58]	new[58]	coref	17-14[58_59]
+17-5	_	things	abstract[58]	new[58]	_	_
 17-6	_	done	_	_	_	_
 17-7	_	before	_	_	_	_
 17-8	_	you	abstract[14]	new[14]	coref	37-1[14_15]
@@ -291,7 +291,7 @@
 17-11	_	class	_	_	_	_
 17-12	_	or	_	_	_	_
 17-13	_	will	_	_	_	_
-17-14	_	they	abstract[60]	new[60]	_	_
+17-14	_	they	abstract[59]	new[59]	_	_
 17-15	_	need	_	_	_	_
 17-16	_	to	_	_	_	_
 17-17	_	wait	_	_	_	_
@@ -338,8 +338,8 @@
 19-22	_	.	_	_	_	_
 
 #Text=Cognitive psychology is the field of psychology dedicated to examining how people think .
-20-1	_	Cognitive	abstract[61]	new[61]	coref	21-1[61_62]
-20-2	_	psychology	abstract[61]	new[61]	_	_
+20-1	_	Cognitive	abstract[60]	new[60]	coref	21-1[60_61]
+20-2	_	psychology	abstract[60]	new[60]	_	_
 20-3	_	is	_	_	_	_
 20-4	_	the	_	_	_	_
 20-5	_	field	_	_	_	_
@@ -354,18 +354,18 @@
 20-14	_	.	_	_	_	_
 
 #Text=It attempts to explain how and why we think the way we do by studying the interactions among human thinking , emotion , creativity , language , and problem solving , in addition to other cognitive processes .
-21-1	_	It	abstract[62]	new[62]	_	_
+21-1	_	It	abstract[61]	new[61]	_	_
 21-2	_	attempts	_	_	_	_
 21-3	_	to	_	_	_	_
 21-4	_	explain	_	_	_	_
 21-5	_	how	_	_	_	_
 21-6	_	and	_	_	_	_
 21-7	_	why	_	_	_	_
-21-8	_	we	abstract[47]	new[47]	coref	21-12[47_48]
+21-8	_	we	abstract[46]	new[46]	coref	21-12[46_47]
 21-9	_	think	_	_	_	_
 21-10	_	the	_	_	_	_
 21-11	_	way	_	_	_	_
-21-12	_	we	abstract[48]	new[48]	coref	23-7[48_49]
+21-12	_	we	abstract[47]	new[47]	coref	23-7[47_48]
 21-13	_	do	_	_	_	_
 21-14	_	by	_	_	_	_
 21-15	_	studying	_	_	_	_
@@ -394,8 +394,8 @@
 21-38	_	.	_	_	_	_
 
 #Text=Cognitive psychologists strive to determine and measure different types of intelligence , why some people are better at problem solving than others , and how emotional intelligence affects success in the workplace , among countless other topics .
-22-1	_	Cognitive	abstract[63]	new[63]	coref	23-1[63_64]
-22-2	_	psychologists	abstract[63]	new[63]	_	_
+22-1	_	Cognitive	abstract[62]	new[62]	coref	23-1[62_63]
+22-2	_	psychologists	abstract[62]	new[62]	_	_
 22-3	_	strive	_	_	_	_
 22-4	_	to	_	_	_	_
 22-5	_	determine	_	_	_	_
@@ -434,20 +434,20 @@
 22-38	_	.	_	_	_	_
 
 #Text=They also sometimes focus on how we organize thoughts and information gathered from our environments into meaningful categories of thought , which will be discussed later .
-23-1	_	They	abstract[64]	new[64]	_	_
+23-1	_	They	abstract[63]	new[63]	_	_
 23-2	_	also	_	_	_	_
 23-3	_	sometimes	_	_	_	_
 23-4	_	focus	_	_	_	_
 23-5	_	on	_	_	_	_
 23-6	_	how	_	_	_	_
-23-7	_	we	abstract[49]	new[49]	coref	23-14[49_50]
+23-7	_	we	abstract[48]	new[48]	coref	23-14[48_49]
 23-8	_	organize	_	_	_	_
 23-9	_	thoughts	_	_	_	_
 23-10	_	and	_	_	_	_
 23-11	_	information	_	_	_	_
 23-12	_	gathered	_	_	_	_
 23-13	_	from	_	_	_	_
-23-14	_	our	abstract[50]	new[50]	coref	30-9[50_51]
+23-14	_	our	abstract[49]	new[49]	coref	30-9[49_50]
 23-15	_	environments	_	_	_	_
 23-16	_	into	_	_	_	_
 23-17	_	meaningful	_	_	_	_
@@ -490,36 +490,36 @@
 26-5	_	the	_	_	_	_
 26-6	_	interface	_	_	_	_
 26-7	_	between	_	_	_	_
-26-8	_	the	abstract[71]	new[71]	coref	33-21[71_72]
-26-9	_	mind	abstract[71]	new[71]	_	_
+26-8	_	the	abstract[70]	new[70]	coref	33-21[70_71]
+26-9	_	mind	abstract[70]	new[70]	_	_
 26-10	_	and	_	_	_	_
 26-11	_	the	_	_	_	_
 26-12	_	external	_	_	_	_
 26-13	_	environment	_	_	_	_
 26-14	_	,	_	_	_	_
 26-15	_	receiving	_	_	_	_
-26-16	_	stimuli	abstract[65]	new[65]	coref	26-19[65_66]
+26-16	_	stimuli	abstract[64]	new[64]	coref	26-19[64_65]
 26-17	_	and	_	_	_	_
 26-18	_	translating	_	_	_	_
-26-19	_	it	abstract[66]	new[66]	_	_
+26-19	_	it	abstract[65]	new[65]	_	_
 26-20	_	into	_	_	_	_
-26-21	_	nervous	abstract[67]	new[67]	coref	27-6[67_68]
-26-22	_	impulses	abstract[67]	new[67]	_	_
-26-23	_	that	abstract[67]	new[67]	_	_
-26-24	_	are	abstract[67]	new[67]	_	_
-26-25	_	transmitted	abstract[67]	new[67]	_	_
-26-26	_	to	abstract[67]	new[67]	_	_
-26-27	_	the	abstract[37]|abstract[67]	new[37]|new[67]	coref	27-2[37_38]
-26-28	_	brain	abstract[37]|abstract[67]	new[37]|new[67]	_	_
+26-21	_	nervous	abstract[66]	new[66]	coref	27-6[66_67]
+26-22	_	impulses	abstract[66]	new[66]	_	_
+26-23	_	that	abstract[66]	new[66]	_	_
+26-24	_	are	abstract[66]	new[66]	_	_
+26-25	_	transmitted	abstract[66]	new[66]	_	_
+26-26	_	to	abstract[66]	new[66]	_	_
+26-27	_	the	abstract[36]|abstract[66]	new[36]|new[66]	coref	27-2[36_37]
+26-28	_	brain	abstract[36]|abstract[66]	new[36]|new[66]	_	_
 26-29	_	.	_	_	_	_
 
 #Text=The brain then processes this information and uses the relevant pieces to create thoughts , which can then be expressed through language or stored in memory for future use .
-27-1	_	The	abstract[38]	new[38]	coref	28-8[38_39]
-27-2	_	brain	abstract[38]	new[38]	_	_
+27-1	_	The	abstract[37]	new[37]	coref	28-8[37_38]
+27-2	_	brain	abstract[37]	new[37]	_	_
 27-3	_	then	_	_	_	_
 27-4	_	processes	_	_	_	_
-27-5	_	this	abstract[68]	new[68]	_	_
-27-6	_	information	abstract[68]	new[68]	_	_
+27-5	_	this	abstract[67]	new[67]	_	_
+27-6	_	information	abstract[67]	new[67]	_	_
 27-7	_	and	_	_	_	_
 27-8	_	uses	_	_	_	_
 27-9	_	the	_	_	_	_
@@ -553,8 +553,8 @@
 28-5	_	more	_	_	_	_
 28-6	_	complex	_	_	_	_
 28-7	_	,	_	_	_	_
-28-8	_	the	abstract[39]	new[39]	coref	29-6[39_40]
-28-9	_	brain	abstract[39]	new[39]	_	_
+28-8	_	the	abstract[38]	new[38]	coref	29-6[38_39]
+28-9	_	brain	abstract[38]	new[38]	_	_
 28-10	_	does	_	_	_	_
 28-11	_	not	_	_	_	_
 28-12	_	gather	_	_	_	_
@@ -571,8 +571,8 @@
 29-3	_	are	_	_	_	_
 29-4	_	formed	_	_	_	_
 29-5	_	,	_	_	_	_
-29-6	_	the	abstract[40]	new[40]	coref	33-11[40_41]
-29-7	_	brain	abstract[40]	new[40]	_	_
+29-6	_	the	abstract[39]	new[39]	coref	33-11[39_40]
+29-7	_	brain	abstract[39]	new[39]	_	_
 29-8	_	also	_	_	_	_
 29-9	_	pulls	_	_	_	_
 29-10	_	information	_	_	_	_
@@ -581,8 +581,8 @@
 29-13	_	and	_	_	_	_
 29-14	_	memories	_	_	_	_
 29-15	_	(	_	_	_	_
-29-16	_	Figure	abstract[69]	new[69]	coref	31-1[69_70]
-29-17	_	7.2	abstract[69]	new[69]	_	_
+29-16	_	Figure	abstract[68]	new[68]	coref	31-1[68_69]
+29-17	_	7.2	abstract[68]	new[68]	_	_
 29-18	_	)	_	_	_	_
 29-19	_	.	_	_	_	_
 
@@ -595,15 +595,15 @@
 30-6	_	influences	_	_	_	_
 30-7	_	on	_	_	_	_
 30-8	_	both	_	_	_	_
-30-9	_	our	abstract[51]	new[51]	coref	32-7[51_52]
+30-9	_	our	abstract[50]	new[50]	coref	32-7[50_51]
 30-10	_	thoughts	_	_	_	_
 30-11	_	and	_	_	_	_
 30-12	_	behaviors	_	_	_	_
 30-13	_	.	_	_	_	_
 
 #Text=Figure 7.2
-31-1	_	Figure	abstract[70]	new[70]	_	_
-31-2	_	7.2	abstract[70]	new[70]	_	_
+31-1	_	Figure	abstract[69]	new[69]	_	_
+31-2	_	7.2	abstract[69]	new[69]	_	_
 
 #Text=Sensations and information are received by our brains , filtered through emotions and memories , and processed to become thoughts .
 32-1	_	Sensations	_	_	_	_
@@ -612,7 +612,7 @@
 32-4	_	are	_	_	_	_
 32-5	_	received	_	_	_	_
 32-6	_	by	_	_	_	_
-32-7	_	our	abstract[52]	new[52]	coref	38-5[52_53]
+32-7	_	our	abstract[51]	new[51]	coref	38-5[51_52]
 32-8	_	brains	_	_	_	_
 32-9	_	,	_	_	_	_
 32-10	_	filtered	_	_	_	_
@@ -639,18 +639,18 @@
 33-8	_	of	_	_	_	_
 33-9	_	information	_	_	_	_
 33-10	_	,	_	_	_	_
-33-11	_	the	abstract[41]	new[41]	_	_
-33-12	_	brain	abstract[41]	new[41]	_	_
+33-11	_	the	abstract[40]	new[40]	_	_
+33-12	_	brain	abstract[40]	new[40]	_	_
 33-13	_	has	_	_	_	_
 33-14	_	developed	_	_	_	_
-33-15	_	a	abstract[73]	new[73]	coref	34-6[73_74]
-33-16	_	file	abstract[73]	new[73]	_	_
-33-17	_	cabinet	abstract[73]	new[73]	_	_
-33-18	_	of	abstract[73]	new[73]	_	_
-33-19	_	sorts	abstract[73]	new[73]	_	_
+33-15	_	a	abstract[72]	new[72]	coref	34-6[72_73]
+33-16	_	file	abstract[72]	new[72]	_	_
+33-17	_	cabinet	abstract[72]	new[72]	_	_
+33-18	_	of	abstract[72]	new[72]	_	_
+33-19	_	sorts	abstract[72]	new[72]	_	_
 33-20	_	in	_	_	_	_
-33-21	_	the	abstract[72]	new[72]	_	_
-33-22	_	mind	abstract[72]	new[72]	_	_
+33-21	_	the	abstract[71]	new[71]	_	_
+33-22	_	mind	abstract[71]	new[71]	_	_
 33-23	_	.	_	_	_	_
 
 #Text=The different files stored in the file cabinet are called concepts .
@@ -659,9 +659,9 @@
 34-3	_	files	_	_	_	_
 34-4	_	stored	_	_	_	_
 34-5	_	in	_	_	_	_
-34-6	_	the	abstract[74]	new[74]	_	_
-34-7	_	file	abstract[74]	new[74]	_	_
-34-8	_	cabinet	abstract[74]	new[74]	_	_
+34-6	_	the	abstract[73]	new[73]	_	_
+34-7	_	file	abstract[73]	new[73]	_	_
+34-8	_	cabinet	abstract[73]	new[73]	_	_
 34-9	_	are	_	_	_	_
 34-10	_	called	_	_	_	_
 34-11	_	concepts	_	_	_	_
@@ -705,14 +705,14 @@
 36-12	_	generated	_	_	_	_
 36-13	_	by	_	_	_	_
 36-14	_	observing	_	_	_	_
-36-15	_	details	abstract[75]	new[75]	coref	36-21[75_76]
+36-15	_	details	abstract[74]	new[74]	coref	36-21[74_75]
 36-16	_	,	_	_	_	_
 36-17	_	and	_	_	_	_
 36-18	_	categorizing	_	_	_	_
 36-19	_	and	_	_	_	_
 36-20	_	combining	_	_	_	_
-36-21	_	these	abstract[76]	new[76]	_	_
-36-22	_	details	abstract[76]	new[76]	_	_
+36-21	_	these	abstract[75]	new[75]	_	_
+36-22	_	details	abstract[75]	new[75]	_	_
 36-23	_	into	_	_	_	_
 36-24	_	cognitive	_	_	_	_
 36-25	_	structures	_	_	_	_
@@ -739,8 +739,8 @@
 37-18	_	the	_	_	_	_
 37-19	_	information	_	_	_	_
 37-20	_	in	_	_	_	_
-37-21	_	your	abstract[17]|abstract[78]	new[17]|new[78]	coref	38-9[17_18]
-37-22	_	mind	abstract[78]	new[78]	_	_
+37-21	_	your	abstract[17]|abstract[77]	new[17]|new[77]	coref	38-9[17_18]
+37-22	_	mind	abstract[77]	new[77]	_	_
 37-23	_	organized	_	_	_	_
 37-24	_	and	_	_	_	_
 37-25	_	accessible	_	_	_	_
@@ -751,7 +751,7 @@
 38-2	_	are	_	_	_	_
 38-3	_	informed	_	_	_	_
 38-4	_	by	_	_	_	_
-38-5	_	our	abstract[53]	new[53]	coref	38-28[53_54]
+38-5	_	our	abstract[52]	new[52]	coref	38-28[52_53]
 38-6	_	semantic	_	_	_	_
 38-7	_	memory	_	_	_	_
 38-8	_	(	_	_	_	_
@@ -774,7 +774,7 @@
 38-25	_	every	_	_	_	_
 38-26	_	aspect	_	_	_	_
 38-27	_	of	_	_	_	_
-38-28	_	our	abstract[54]	new[54]	coref	47-10[54_55]
+38-28	_	our	abstract[53]	new[53]	coref	47-10[53_54]
 38-29	_	lives	_	_	_	_
 38-30	_	;	_	_	_	_
 38-31	_	however	_	_	_	_
@@ -786,14 +786,14 @@
 38-37	_	places	_	_	_	_
 38-38	_	to	_	_	_	_
 38-39	_	notice	_	_	_	_
-38-40	_	concepts	abstract[79]	new[79]	coref	38-47[79_80]
+38-40	_	concepts	abstract[78]	new[78]	coref	38-47[78_79]
 38-41	_	is	_	_	_	_
 38-42	_	inside	_	_	_	_
 38-43	_	a	_	_	_	_
 38-44	_	classroom	_	_	_	_
 38-45	_	,	_	_	_	_
 38-46	_	where	_	_	_	_
-38-47	_	they	abstract[80]	new[80]	_	_
+38-47	_	they	abstract[79]	new[79]	_	_
 38-48	_	are	_	_	_	_
 38-49	_	discussed	_	_	_	_
 38-50	_	explicitly	_	_	_	_
@@ -803,8 +803,8 @@
 39-1	_	When	_	_	_	_
 39-2	_	you	abstract[19]	new[19]	coref	39-11[19_20]
 39-3	_	study	_	_	_	_
-39-4	_	United	abstract[81]	new[81]	coref	39-23[81_82]
-39-5	_	States	abstract[81]	new[81]	_	_
+39-4	_	United	abstract[80]	new[80]	coref	39-23[80_81]
+39-5	_	States	abstract[80]	new[80]	_	_
 39-6	_	history	_	_	_	_
 39-7	_	,	_	_	_	_
 39-8	_	for	_	_	_	_
@@ -822,19 +822,19 @@
 39-20	_	have	_	_	_	_
 39-21	_	happened	_	_	_	_
 39-22	_	in	_	_	_	_
-39-23	_	America	abstract[82]	new[82]	_	_
-39-24	_	’s	abstract[82]	new[82]	_	_
+39-23	_	America	abstract[81]	new[81]	_	_
+39-24	_	’s	abstract[81]	new[81]	_	_
 39-25	_	past	_	_	_	_
 39-26	_	.	_	_	_	_
 
 #Text=You absorb a large quantity of information by listening to and participating in discussions , examining maps , and reading first - hand accounts of people ’s lives .
 40-1	_	You	abstract[21]	new[21]	coref	41-1[21_22]
 40-2	_	absorb	_	_	_	_
-40-3	_	a	abstract[87]	new[87]	coref	41-4[87_88]
-40-4	_	large	abstract[87]	new[87]	_	_
-40-5	_	quantity	abstract[87]	new[87]	_	_
-40-6	_	of	abstract[87]	new[87]	_	_
-40-7	_	information	abstract[87]	new[87]	_	_
+40-3	_	a	abstract[86]	new[86]	coref	41-4[86_87]
+40-4	_	large	abstract[86]	new[86]	_	_
+40-5	_	quantity	abstract[86]	new[86]	_	_
+40-6	_	of	abstract[86]	new[86]	_	_
+40-7	_	information	abstract[86]	new[86]	_	_
 40-8	_	by	_	_	_	_
 40-9	_	listening	_	_	_	_
 40-10	_	to	_	_	_	_
@@ -859,11 +859,11 @@
 40-29	_	.	_	_	_	_
 
 #Text=Your brain analyzes these details and develops an overall understanding of American history .
-41-1	_	Your	abstract[22]|abstract[84]	new[22]|new[84]	coref|coref	42-5[22_23]|42-5[84_85]
-41-2	_	brain	abstract[84]	new[84]	_	_
+41-1	_	Your	abstract[22]|abstract[83]	new[22]|new[83]	coref|coref	42-5[22_23]|42-5[83_84]
+41-2	_	brain	abstract[83]	new[83]	_	_
 41-3	_	analyzes	_	_	_	_
-41-4	_	these	abstract[88]	new[88]	_	_
-41-5	_	details	abstract[88]	new[88]	_	_
+41-4	_	these	abstract[87]	new[87]	_	_
+41-5	_	details	abstract[87]	new[87]	_	_
 41-6	_	and	_	_	_	_
 41-7	_	develops	_	_	_	_
 41-8	_	an	_	_	_	_
@@ -879,8 +879,8 @@
 42-2	_	the	_	_	_	_
 42-3	_	process	_	_	_	_
 42-4	_	,	_	_	_	_
-42-5	_	your	abstract[23]|abstract[85]	new[23]|new[85]	coref|coref	42-13[23_24]|48-6[85_86]
-42-6	_	brain	abstract[85]	new[85]	_	_
+42-5	_	your	abstract[23]|abstract[84]	new[23]|new[84]	coref|coref	42-13[23_24]|48-6[84_85]
+42-6	_	brain	abstract[84]	new[84]	_	_
 42-7	_	gathers	_	_	_	_
 42-8	_	details	_	_	_	_
 42-9	_	that	_	_	_	_
@@ -940,11 +940,11 @@
 44-15	_	.	_	_	_	_
 
 #Text=Some concepts , like tolerance , are agreed upon by many people , because they have been used in various ways over many years .
-45-1	_	Some	abstract[89]	new[89]	coref	45-15[89_90]
-45-2	_	concepts	abstract[89]	new[89]	_	_
-45-3	_	,	abstract[89]	new[89]	_	_
-45-4	_	like	abstract[89]	new[89]	_	_
-45-5	_	tolerance	abstract[89]	new[89]	_	_
+45-1	_	Some	abstract[88]	new[88]	coref	45-15[88_89]
+45-2	_	concepts	abstract[88]	new[88]	_	_
+45-3	_	,	abstract[88]	new[88]	_	_
+45-4	_	like	abstract[88]	new[88]	_	_
+45-5	_	tolerance	abstract[88]	new[88]	_	_
 45-6	_	,	_	_	_	_
 45-7	_	are	_	_	_	_
 45-8	_	agreed	_	_	_	_
@@ -954,7 +954,7 @@
 45-12	_	people	_	_	_	_
 45-13	_	,	_	_	_	_
 45-14	_	because	_	_	_	_
-45-15	_	they	abstract[90]	new[90]	_	_
+45-15	_	they	abstract[89]	new[89]	_	_
 45-16	_	have	_	_	_	_
 45-17	_	been	_	_	_	_
 45-18	_	used	_	_	_	_
@@ -1000,11 +1000,11 @@
 47-7	_	every	_	_	_	_
 47-8	_	aspect	_	_	_	_
 47-9	_	of	_	_	_	_
-47-10	_	our	abstract[55]	new[55]	coref	47-14[55_56]
+47-10	_	our	abstract[54]	new[54]	coref	47-14[54_55]
 47-11	_	lives	_	_	_	_
 47-12	_	,	_	_	_	_
 47-13	_	from	_	_	_	_
-47-14	_	our	abstract[56]	new[56]	coref	57-10[56_57]
+47-14	_	our	abstract[55]	new[55]	coref	57-10[55_56]
 47-15	_	many	_	_	_	_
 47-16	_	daily	_	_	_	_
 47-17	_	routines	_	_	_	_
@@ -1024,8 +1024,8 @@
 48-2	_	technique	_	_	_	_
 48-3	_	used	_	_	_	_
 48-4	_	by	_	_	_	_
-48-5	_	your	abstract[27]|abstract[86]	new[27]|new[86]	coref	48-19[27_28]
-48-6	_	brain	abstract[86]	new[86]	_	_
+48-5	_	your	abstract[27]|abstract[85]	new[27]|new[85]	coref	48-19[27_28]
+48-6	_	brain	abstract[85]	new[85]	_	_
 48-7	_	to	_	_	_	_
 48-8	_	organize	_	_	_	_
 48-9	_	information	_	_	_	_
@@ -1071,12 +1071,12 @@
 50-12	_	prototype	_	_	_	_
 50-13	_	could	_	_	_	_
 50-14	_	be	_	_	_	_
-50-15	_	Rosa	abstract[91]	new[91]	coref	51-1[91_92]
-50-16	_	Parks	abstract[91]	new[91]	_	_
+50-15	_	Rosa	abstract[90]	new[90]	coref	51-1[90_91]
+50-16	_	Parks	abstract[90]	new[90]	_	_
 50-17	_	.	_	_	_	_
 
 #Text=Her peaceful resistance to segregation on a city bus in Montgomery , Alabama , is a recognizable example of civil disobedience .
-51-1	_	Her	abstract[92]	new[92]	_	_
+51-1	_	Her	abstract[91]	new[91]	_	_
 51-2	_	peaceful	_	_	_	_
 51-3	_	resistance	_	_	_	_
 51-4	_	to	_	_	_	_
@@ -1101,17 +1101,17 @@
 
 #Text=Or your prototype could be Mohandas Gandhi , sometimes called Mahatma Gandhi ( “ Mahatma ” is an honorific title ) ( Figure 7.3 ) .
 52-1	_	Or	_	_	_	_
-52-2	_	your	abstract[30]	new[30]	coref	58-2[30_31]
+52-2	_	your	abstract[30]	new[30]	_	_
 52-3	_	prototype	_	_	_	_
 52-4	_	could	_	_	_	_
 52-5	_	be	_	_	_	_
-52-6	_	Mohandas	abstract[95]	new[95]	coref	54-4[95_96]
-52-7	_	Gandhi	abstract[95]	new[95]	_	_
-52-8	_	,	abstract[95]	new[95]	_	_
-52-9	_	sometimes	abstract[95]	new[95]	_	_
-52-10	_	called	abstract[95]	new[95]	_	_
-52-11	_	Mahatma	abstract[95]	new[95]	_	_
-52-12	_	Gandhi	abstract[95]	new[95]	_	_
+52-6	_	Mohandas	abstract[94]	new[94]	coref	54-4[94_95]
+52-7	_	Gandhi	abstract[94]	new[94]	_	_
+52-8	_	,	abstract[94]	new[94]	_	_
+52-9	_	sometimes	abstract[94]	new[94]	_	_
+52-10	_	called	abstract[94]	new[94]	_	_
+52-11	_	Mahatma	abstract[94]	new[94]	_	_
+52-12	_	Gandhi	abstract[94]	new[94]	_	_
 52-13	_	(	_	_	_	_
 52-14	_	“	_	_	_	_
 52-15	_	Mahatma	_	_	_	_
@@ -1122,21 +1122,21 @@
 52-20	_	title	_	_	_	_
 52-21	_	)	_	_	_	_
 52-22	_	(	_	_	_	_
-52-23	_	Figure	abstract[93]	new[93]	coref	53-1[93_94]
-52-24	_	7.3	abstract[93]	new[93]	_	_
+52-23	_	Figure	abstract[92]	new[92]	coref	53-1[92_93]
+52-24	_	7.3	abstract[92]	new[92]	_	_
 52-25	_	)	_	_	_	_
 52-26	_	.	_	_	_	_
 
 #Text=Figure 7.3
-53-1	_	Figure	abstract[94]	new[94]	_	_
-53-2	_	7.3	abstract[94]	new[94]	_	_
+53-1	_	Figure	abstract[93]	new[93]	_	_
+53-2	_	7.3	abstract[93]	new[93]	_	_
 
 #Text=In 1930 , Mohandas Gandhi led a group in peaceful protest against a British tax on salt in India .
 54-1	_	In	_	_	_	_
 54-2	_	1930	_	_	_	_
 54-3	_	,	_	_	_	_
-54-4	_	Mohandas	abstract[96]	new[96]	coref	55-1[96_97]
-54-5	_	Gandhi	abstract[96]	new[96]	_	_
+54-4	_	Mohandas	abstract[95]	new[95]	coref	55-1[95_96]
+54-5	_	Gandhi	abstract[95]	new[95]	_	_
 54-6	_	led	_	_	_	_
 54-7	_	a	_	_	_	_
 54-8	_	group	_	_	_	_
@@ -1150,12 +1150,12 @@
 54-16	_	on	_	_	_	_
 54-17	_	salt	_	_	_	_
 54-18	_	in	_	_	_	_
-54-19	_	India	abstract[101]	new[101]	coref	55-11[101_102]
+54-19	_	India	abstract[100]	new[100]	coref	55-11[100_101]
 54-20	_	.	_	_	_	_
 
 #Text=Mohandas Gandhi served as a nonviolent force for independence for India while simultaneously demanding that Buddhist , Hindu , Muslim , and Christian leaders — both Indian and British — collaborate peacefully .
-55-1	_	Mohandas	abstract[97]	new[97]	coref	56-2[97_98]
-55-2	_	Gandhi	abstract[97]	new[97]	_	_
+55-1	_	Mohandas	abstract[96]	new[96]	coref	56-2[96_97]
+55-2	_	Gandhi	abstract[96]	new[96]	_	_
 55-3	_	served	_	_	_	_
 55-4	_	as	_	_	_	_
 55-5	_	a	_	_	_	_
@@ -1164,7 +1164,7 @@
 55-8	_	for	_	_	_	_
 55-9	_	independence	_	_	_	_
 55-10	_	for	_	_	_	_
-55-11	_	India	abstract[102]	new[102]	_	_
+55-11	_	India	abstract[101]	new[101]	_	_
 55-12	_	while	_	_	_	_
 55-13	_	simultaneously	_	_	_	_
 55-14	_	demanding	_	_	_	_
@@ -1190,7 +1190,7 @@
 
 #Text=Although he was not always successful in preventing violence around him , his life provides a steadfast example of the civil disobedience prototype ( Constitutional Rights Foundation , 2013 ) .
 56-1	_	Although	_	_	_	_
-56-2	_	he	abstract[98]	new[98]	coref	56-11[98_99]
+56-2	_	he	abstract[97]	new[97]	coref	56-11[97_98]
 56-3	_	was	_	_	_	_
 56-4	_	not	_	_	_	_
 56-5	_	always	_	_	_	_
@@ -1199,9 +1199,9 @@
 56-8	_	preventing	_	_	_	_
 56-9	_	violence	_	_	_	_
 56-10	_	around	_	_	_	_
-56-11	_	him	abstract[99]	new[99]	coref	56-13[99_100]
+56-11	_	him	abstract[98]	new[98]	coref	56-13[98_99]
 56-12	_	,	_	_	_	_
-56-13	_	his	abstract[100]	new[100]	_	_
+56-13	_	his	abstract[99]	new[99]	_	_
 56-14	_	life	_	_	_	_
 56-15	_	provides	_	_	_	_
 56-16	_	a	_	_	_	_
@@ -1231,7 +1231,7 @@
 57-7	_	or	_	_	_	_
 57-8	_	concrete	_	_	_	_
 57-9	_	,	_	_	_	_
-57-10	_	we	abstract[57]	new[57]	coref	57-21[57_58]
+57-10	_	we	abstract[56]	new[56]	coref	57-21[56_57]
 57-11	_	can	_	_	_	_
 57-12	_	make	_	_	_	_
 57-13	_	a	_	_	_	_
@@ -1242,7 +1242,7 @@
 57-18	_	are	_	_	_	_
 57-19	_	functions	_	_	_	_
 57-20	_	of	_	_	_	_
-57-21	_	our	abstract[58]	new[58]	_	_
+57-21	_	our	abstract[57]	new[57]	_	_
 57-22	_	direct	_	_	_	_
 57-23	_	experience	_	_	_	_
 57-24	_	with	_	_	_	_
@@ -1258,14 +1258,11 @@
 57-34	_	nature	_	_	_	_
 57-35	_	.	_	_	_	_
 
-#Text=Ask yourself : What makes an artwork beautiful ?
-58-1	_	Ask	_	_	_	_
-58-2	_	yourself	abstract[31]	new[31]	_	_
-58-3	_	:	_	_	_	_
-58-4	_	What	_	_	_	_
-58-5	_	makes	_	_	_	_
-58-6	_	an	_	_	_	_
-58-7	_	artwork	_	_	_	_
-58-8	_	beautiful	_	_	_	_
-58-9	_	?	_	_	_	_
+#Text=What makes an artwork beautiful ?
+58-1	_	What	_	_	_	_
+58-2	_	makes	_	_	_	_
+58-3	_	an	_	_	_	_
+58-4	_	artwork	_	_	_	_
+58-5	_	beautiful	_	_	_	_
+58-6	_	?	_	_	_	_
 

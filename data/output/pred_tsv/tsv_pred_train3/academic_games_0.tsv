@@ -609,7 +609,7 @@
 18-13	_	using	_	_	_	_
 18-14	_	tablets	_	_	_	_
 18-15	_	in	_	_	_	_
-18-16	_	the	abstract[22]	new[22]	coref	30-17[22_23]
+18-16	_	the	abstract[22]	new[22]	coref	30-15[22_23]
 18-17	_	classroom	abstract[22]	new[22]	_	_
 18-18	_	,	_	_	_	_
 18-19	_	daily	_	_	_	_
@@ -997,24 +997,22 @@
 29-24	_	attention	_	_	_	_
 29-25	_	.	_	_	_	_
 
-#Text=A study examining the contribution of playing digital games to learning , including playing them in the classroom .
-30-1	_	A	_	_	_	_
-30-2	_	study	_	_	_	_
-30-3	_	examining	_	_	_	_
-30-4	_	the	_	_	_	_
-30-5	_	contribution	_	_	_	_
-30-6	_	of	_	_	_	_
-30-7	_	playing	_	_	_	_
-30-8	_	digital	abstract[71]	new[71]	coref	30-15[71_72]
-30-9	_	games	abstract[71]	new[71]	_	_
-30-10	_	to	_	_	_	_
-30-11	_	learning	_	_	_	_
-30-12	_	,	_	_	_	_
-30-13	_	including	_	_	_	_
-30-14	_	playing	_	_	_	_
-30-15	_	them	abstract[72]	new[72]	_	_
-30-16	_	in	_	_	_	_
-30-17	_	the	abstract[23]	new[23]	_	_
-30-18	_	classroom	abstract[23]	new[23]	_	_
-30-19	_	.	_	_	_	_
+#Text=Learning activities and improving attention span : an intervention for incorporating cognitive games in the classroom .
+30-1	_	Learning	_	_	_	_
+30-2	_	activities	_	_	_	_
+30-3	_	and	_	_	_	_
+30-4	_	improving	_	_	_	_
+30-5	_	attention	_	_	_	_
+30-6	_	span	_	_	_	_
+30-7	_	:	_	_	_	_
+30-8	_	an	_	_	_	_
+30-9	_	intervention	_	_	_	_
+30-10	_	for	_	_	_	_
+30-11	_	incorporating	_	_	_	_
+30-12	_	cognitive	_	_	_	_
+30-13	_	games	_	_	_	_
+30-14	_	in	_	_	_	_
+30-15	_	the	abstract[23]	new[23]	_	_
+30-16	_	classroom	abstract[23]	new[23]	_	_
+30-17	_	.	_	_	_	_
 

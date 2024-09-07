@@ -998,7 +998,7 @@
 37-13	_	Cousin	abstract[32]	new[32]	_	_
 37-14	_	,	_	_	_	_
 37-15	_	thank	_	_	_	_
-37-16	_	you	abstract[138]	new[138]	coref	38-12[138_139]
+37-16	_	you	abstract[138]	new[138]	_	_
 37-17	_	for	_	_	_	_
 37-18	_	helping	_	_	_	_
 37-19	_	her	abstract[33]	new[33]	coref	37-27[33_34]
@@ -1011,20 +1011,27 @@
 37-26	_	her	abstract[34]	new[34]	_	_
 37-27	_	.	_	_	_	_
 
-#Text=Never fuck in the middle of the window , nor open your fucking sandwich .
-38-1	_	Never	_	_	_	_
-38-2	_	fuck	_	_	_	_
-38-3	_	in	_	_	_	_
-38-4	_	the	_	_	_	_
-38-5	_	middle	_	_	_	_
-38-6	_	of	_	_	_	_
-38-7	_	the	_	_	_	_
-38-8	_	window	_	_	_	_
+#Text=This is what happens to a boss who , incredibly , throw something out of a window without telling the manager .
+38-1	_	This	_	_	_	_
+38-2	_	is	_	_	_	_
+38-3	_	what	_	_	_	_
+38-4	_	happens	_	_	_	_
+38-5	_	to	_	_	_	_
+38-6	_	a	_	_	_	_
+38-7	_	boss	_	_	_	_
+38-8	_	who	_	_	_	_
 38-9	_	,	_	_	_	_
-38-10	_	nor	_	_	_	_
-38-11	_	open	_	_	_	_
-38-12	_	your	abstract[139]	new[139]	_	_
-38-13	_	fucking	_	_	_	_
-38-14	_	sandwich	_	_	_	_
-38-15	_	.	_	_	_	_
+38-10	_	incredibly	_	_	_	_
+38-11	_	,	_	_	_	_
+38-12	_	throw	_	_	_	_
+38-13	_	something	_	_	_	_
+38-14	_	out	_	_	_	_
+38-15	_	of	_	_	_	_
+38-16	_	a	_	_	_	_
+38-17	_	window	_	_	_	_
+38-18	_	without	_	_	_	_
+38-19	_	telling	_	_	_	_
+38-20	_	the	_	_	_	_
+38-21	_	manager	_	_	_	_
+38-22	_	.	_	_	_	_
 

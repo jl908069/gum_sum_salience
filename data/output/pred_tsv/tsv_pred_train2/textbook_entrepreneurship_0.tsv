@@ -1062,18 +1062,25 @@
 46-24	_	.	_	_	_	_
 46-25	_	https://www.nytimes.com/2017/04/16/technology/inside-the-hotel-industrys-plan-to-combat-airbnb.html	_	_	_	_
 
-#Text=Understand cognition . Understand cognitive psychology . Understand concepts . Examine prototypes .
+#Text=Understand what cognition is , and what its functions are . Know the difference between concepts and their representations .
 47-1	_	Understand	_	_	_	_
-47-2	_	cognition	_	_	_	_
-47-3	_	.	_	_	_	_
-47-4	_	Understand	_	_	_	_
-47-5	_	cognitive	_	_	_	_
-47-6	_	psychology	_	_	_	_
-47-7	_	.	_	_	_	_
-47-8	_	Understand	_	_	_	_
-47-9	_	concepts	_	_	_	_
-47-10	_	.	_	_	_	_
-47-11	_	Examine	_	_	_	_
-47-12	_	prototypes	_	_	_	_
-47-13	_	.	_	_	_	_
+47-2	_	what	_	_	_	_
+47-3	_	cognition	abstract[67]	new[67]	coref	47-8[67_68]
+47-4	_	is	_	_	_	_
+47-5	_	,	_	_	_	_
+47-6	_	and	_	_	_	_
+47-7	_	what	_	_	_	_
+47-8	_	its	abstract[68]	new[68]	_	_
+47-9	_	functions	_	_	_	_
+47-10	_	are	_	_	_	_
+47-11	_	.	_	_	_	_
+47-12	_	Know	_	_	_	_
+47-13	_	the	_	_	_	_
+47-14	_	difference	_	_	_	_
+47-15	_	between	_	_	_	_
+47-16	_	concepts	abstract[69]	new[69]	coref	47-18[69_70]
+47-17	_	and	_	_	_	_
+47-18	_	their	abstract[70]	new[70]	_	_
+47-19	_	representations	_	_	_	_
+47-20	_	.	_	_	_	_
 

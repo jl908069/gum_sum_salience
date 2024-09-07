@@ -1003,7 +1003,7 @@
 64-4	_	way	_	_	_	_
 64-5	_	,	_	_	_	_
 64-6	_	”	_	_	_	_
-64-7	_	Betty	abstract[103]	new[103]	coref	69-19[103_104]
+64-7	_	Betty	abstract[103]	new[103]	coref	69-1[103_104]
 64-8	_	said	_	_	_	_
 64-9	_	.	_	_	_	_
 
@@ -1040,26 +1040,19 @@
 68-4	_	!	_	_	_	_
 68-5	_	”	_	_	_	_
 
-#Text=This is where you got to know about square roots like this , because that 's just what I did .
-69-1	_	This	_	_	_	_
-69-2	_	is	_	_	_	_
-69-3	_	where	_	_	_	_
-69-4	_	you	_	_	_	_
-69-5	_	got	_	_	_	_
-69-6	_	to	_	_	_	_
-69-7	_	know	_	_	_	_
-69-8	_	about	_	_	_	_
-69-9	_	square	abstract[143]	new[143]	coref	69-15[143_144]
-69-10	_	roots	abstract[143]	new[143]	_	_
-69-11	_	like	_	_	_	_
-69-12	_	this	_	_	_	_
-69-13	_	,	_	_	_	_
-69-14	_	because	_	_	_	_
-69-15	_	that	abstract[144]	new[144]	_	_
-69-16	_	's	_	_	_	_
-69-17	_	just	_	_	_	_
-69-18	_	what	_	_	_	_
-69-19	_	I	abstract[104]	new[104]	_	_
-69-20	_	did	_	_	_	_
-69-21	_	.	_	_	_	_
+#Text=I 'm trying to get a square root squared for the second part .
+69-1	_	I	abstract[104]	new[104]	_	_
+69-2	_	'm	_	_	_	_
+69-3	_	trying	_	_	_	_
+69-4	_	to	_	_	_	_
+69-5	_	get	_	_	_	_
+69-6	_	a	_	_	_	_
+69-7	_	square	_	_	_	_
+69-8	_	root	_	_	_	_
+69-9	_	squared	_	_	_	_
+69-10	_	for	_	_	_	_
+69-11	_	the	_	_	_	_
+69-12	_	second	_	_	_	_
+69-13	_	part	_	_	_	_
+69-14	_	.	_	_	_	_
 

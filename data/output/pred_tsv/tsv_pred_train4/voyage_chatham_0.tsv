@@ -1247,35 +1247,17 @@
 63-34	_	day	_	_	_	_
 63-35	_	.	_	_	_	_
 
-#Text=Go for the """" White Friday """" with Kat ' Bill ' Smith or Katie ' Barrow for the """" White Friday """" with Laura Cantey and Steve Moore .
-64-1	_	Go	_	_	_	_
-64-2	_	for	_	_	_	_
-64-3	_	the	_	_	_	_
-64-4	_	""""	_	_	_	_
-64-5	_	White	abstract[122]	new[122]	coref	64-21[122_123]
-64-6	_	Friday	abstract[122]	new[122]	_	_
-64-7	_	""""	_	_	_	_
-64-8	_	with	_	_	_	_
-64-9	_	Kat	_	_	_	_
-64-10	_	'	_	_	_	_
-64-11	_	Bill	_	_	_	_
-64-12	_	'	_	_	_	_
-64-13	_	Smith	_	_	_	_
-64-14	_	or	_	_	_	_
-64-15	_	Katie	_	_	_	_
-64-16	_	'	_	_	_	_
-64-17	_	Barrow	_	_	_	_
-64-18	_	for	_	_	_	_
-64-19	_	the	_	_	_	_
-64-20	_	""""	_	_	_	_
-64-21	_	White	abstract[123]	new[123]	_	_
-64-22	_	Friday	abstract[123]	new[123]	_	_
-64-23	_	""""	_	_	_	_
-64-24	_	with	_	_	_	_
-64-25	_	Laura	_	_	_	_
-64-26	_	Cantey	_	_	_	_
-64-27	_	and	_	_	_	_
-64-28	_	Steve	_	_	_	_
-64-29	_	Moore	_	_	_	_
-64-30	_	.	_	_	_	_
+#Text=The blogger spends the day at a Portland , Oregon winery .
+64-1	_	The	_	_	_	_
+64-2	_	blogger	_	_	_	_
+64-3	_	spends	_	_	_	_
+64-4	_	the	_	_	_	_
+64-5	_	day	_	_	_	_
+64-6	_	at	_	_	_	_
+64-7	_	a	_	_	_	_
+64-8	_	Portland	_	_	_	_
+64-9	_	,	_	_	_	_
+64-10	_	Oregon	_	_	_	_
+64-11	_	winery	_	_	_	_
+64-12	_	.	_	_	_	_
 

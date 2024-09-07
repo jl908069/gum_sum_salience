@@ -733,49 +733,13 @@
 26-33	_	Art	_	_	_	_
 26-34	_	.	_	_	_	_
 
-#Text=Matthew Goode is an English actor whose movie credits include David Letterman 's The King 's Man , """" I am God , """" and """" Dangerous Minds , Killer Bob """" and the television miniseries and an episode of The Goodwinter Horror .
+#Text=Matthew Goode is a British movie actor .
 27-1	_	Matthew	abstract[37]	new[37]	_	_
 27-2	_	Goode	abstract[37]	new[37]	_	_
 27-3	_	is	_	_	_	_
-27-4	_	an	_	_	_	_
-27-5	_	English	_	_	_	_
-27-6	_	actor	_	_	_	_
-27-7	_	whose	_	_	_	_
-27-8	_	movie	_	_	_	_
-27-9	_	credits	_	_	_	_
-27-10	_	include	_	_	_	_
-27-11	_	David	_	_	_	_
-27-12	_	Letterman	_	_	_	_
-27-13	_	's	_	_	_	_
-27-14	_	The	_	_	_	_
-27-15	_	King	_	_	_	_
-27-16	_	's	_	_	_	_
-27-17	_	Man	_	_	_	_
-27-18	_	,	_	_	_	_
-27-19	_	""""	_	_	_	_
-27-20	_	I	_	_	_	_
-27-21	_	am	_	_	_	_
-27-22	_	God	_	_	_	_
-27-23	_	,	_	_	_	_
-27-24	_	""""	_	_	_	_
-27-25	_	and	_	_	_	_
-27-26	_	""""	_	_	_	_
-27-27	_	Dangerous	_	_	_	_
-27-28	_	Minds	_	_	_	_
-27-29	_	,	_	_	_	_
-27-30	_	Killer	_	_	_	_
-27-31	_	Bob	_	_	_	_
-27-32	_	""""	_	_	_	_
-27-33	_	and	_	_	_	_
-27-34	_	the	_	_	_	_
-27-35	_	television	_	_	_	_
-27-36	_	miniseries	_	_	_	_
-27-37	_	and	_	_	_	_
-27-38	_	an	_	_	_	_
-27-39	_	episode	_	_	_	_
-27-40	_	of	_	_	_	_
-27-41	_	The	_	_	_	_
-27-42	_	Goodwinter	_	_	_	_
-27-43	_	Horror	_	_	_	_
-27-44	_	.	_	_	_	_
+27-4	_	a	_	_	_	_
+27-5	_	British	_	_	_	_
+27-6	_	movie	_	_	_	_
+27-7	_	actor	_	_	_	_
+27-8	_	.	_	_	_	_
 

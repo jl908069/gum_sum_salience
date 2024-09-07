@@ -63,8 +63,8 @@
 4-9	_	over	_	_	_	_
 4-10	_	the	_	_	_	_
 4-11	_	world	_	_	_	_
-4-12	_	these	abstract[148]	new[148]	coref	91-6[148_149]
-4-13	_	days	abstract[148]	new[148]	_	_
+4-12	_	these	abstract[151]	new[151]	coref	91-6[151_152]
+4-13	_	days	abstract[151]	new[151]	_	_
 4-14	_	,	_	_	_	_
 4-15	_	uh	_	_	_	_
 4-16	_	with	_	_	_	_
@@ -448,34 +448,34 @@
 25-7	_	take	_	_	_	_
 25-8	_	into	_	_	_	_
 25-9	_	account	_	_	_	_
-25-10	_	the	abstract[94]	new[94]	coref	25-13[94_95]
-25-11	_	to-	abstract[94]	new[94]	_	_
+25-10	_	the	abstract[96]	new[96]	coref	25-13[96_97]
+25-11	_	to-	abstract[96]	new[96]	_	_
 25-12	_	—	_	_	_	_
-25-13	_	the	abstract[95]	new[95]	coref	25-28[95_96]
-25-14	_	the	abstract[95]	new[95]	_	_
-25-15	_	the	abstract[95]	new[95]	_	_
-25-16	_	whole	abstract[95]	new[95]	_	_
-25-17	_	human	abstract[95]	new[95]	_	_
-25-18	_	experience	abstract[95]	new[95]	_	_
+25-13	_	the	abstract[97]	new[97]	coref	25-28[97_98]
+25-14	_	the	abstract[97]	new[97]	_	_
+25-15	_	the	abstract[97]	new[97]	_	_
+25-16	_	whole	abstract[97]	new[97]	_	_
+25-17	_	human	abstract[97]	new[97]	_	_
+25-18	_	experience	abstract[97]	new[97]	_	_
 25-19	_	,	_	_	_	_
 25-20	_	and	_	_	_	_
 25-21	_	,	_	_	_	_
 25-22	_	including	_	_	_	_
 25-23	_	,	_	_	_	_
-25-24	_	the	abstract[97]	new[97]	coref	26-1[97_98]
-25-25	_	unbelievable	abstract[97]	new[97]	_	_
-25-26	_	parts	abstract[97]	new[97]	_	_
-25-27	_	of	abstract[97]	new[97]	_	_
-25-28	_	it	abstract[96]|abstract[97]	new[96]|new[97]	_	_
+25-24	_	the	abstract[99]	new[99]	coref	26-1[99_100]
+25-25	_	unbelievable	abstract[99]	new[99]	_	_
+25-26	_	parts	abstract[99]	new[99]	_	_
+25-27	_	of	abstract[99]	new[99]	_	_
+25-28	_	it	abstract[98]|abstract[99]	new[98]|new[99]	_	_
 25-29	_	.	_	_	_	_
 
 #Text=The parts that are just legend .
-26-1	_	The	abstract[98]	new[98]	_	_
-26-2	_	parts	abstract[98]	new[98]	_	_
-26-3	_	that	abstract[98]	new[98]	_	_
-26-4	_	are	abstract[98]	new[98]	_	_
-26-5	_	just	abstract[98]	new[98]	_	_
-26-6	_	legend	abstract[98]	new[98]	_	_
+26-1	_	The	abstract[100]	new[100]	_	_
+26-2	_	parts	abstract[100]	new[100]	_	_
+26-3	_	that	abstract[100]	new[100]	_	_
+26-4	_	are	abstract[100]	new[100]	_	_
+26-5	_	just	abstract[100]	new[100]	_	_
+26-6	_	legend	abstract[100]	new[100]	_	_
 26-7	_	.	_	_	_	_
 
 #Text=And myth .
@@ -556,16 +556,16 @@
 34-13	_	,	_	_	_	_
 34-14	_	uh	_	_	_	_
 34-15	_	,	_	_	_	_
-34-16	_	the	abstract[99]	new[99]	coref	34-21[99_100]
-34-17	_	East	abstract[99]	new[99]	_	_
+34-16	_	the	abstract[101]	new[101]	coref	34-21[101_102]
+34-17	_	East	abstract[101]	new[101]	_	_
 34-18	_	,	_	_	_	_
 34-19	_	with	_	_	_	_
 34-20	_	all	_	_	_	_
-34-21	_	its	abstract[100]	new[100]	coref	34-25[100_101]
+34-21	_	its	abstract[102]	new[102]	coref	34-25[102_103]
 34-22	_	,	_	_	_	_
 34-23	_	with	_	_	_	_
 34-24	_	all	_	_	_	_
-34-25	_	its	abstract[101]	new[101]	_	_
+34-25	_	its	abstract[103]	new[103]	_	_
 34-26	_	fantastic	_	_	_	_
 34-27	_	discoveries	_	_	_	_
 34-28	_	.	_	_	_	_
@@ -573,12 +573,12 @@
 #Text=But , you ca n't — but you ca n't look at the stars with a microscope .
 35-1	_	But	_	_	_	_
 35-2	_	,	_	_	_	_
-35-3	_	you	abstract[102]	new[102]	coref	35-8[102_103]
+35-3	_	you	abstract[104]	new[104]	coref	35-8[104_105]
 35-4	_	ca	_	_	_	_
 35-5	_	n't	_	_	_	_
 35-6	_	—	_	_	_	_
 35-7	_	but	_	_	_	_
-35-8	_	you	abstract[103]	new[103]	coref	40-3[103_104]
+35-8	_	you	abstract[105]	new[105]	coref	40-3[105_106]
 35-9	_	ca	_	_	_	_
 35-10	_	n't	_	_	_	_
 35-11	_	look	_	_	_	_
@@ -599,13 +599,13 @@
 36-6	_	.	_	_	_	_
 
 #Text=Each p- scientist has their , their field of um , expertise , and if they 're gon na go , if they 're gon na stretch out far enough into the — the unknown where they can find something new , they have to do it in a straight line .
-37-1	_	Each	abstract[111]	new[111]	coref	37-5[111_112]
-37-2	_	p-	abstract[111]	new[111]	_	_
-37-3	_	scientist	abstract[111]	new[111]	_	_
+37-1	_	Each	abstract[113]	new[113]	coref	37-5[113_114]
+37-2	_	p-	abstract[113]	new[113]	_	_
+37-3	_	scientist	abstract[113]	new[113]	_	_
 37-4	_	has	_	_	_	_
-37-5	_	their	abstract[112]	new[112]	coref	37-7[112_113]
+37-5	_	their	abstract[114]	new[114]	coref	37-7[114_115]
 37-6	_	,	_	_	_	_
-37-7	_	their	abstract[113]	new[113]	coref	37-16[113_114]
+37-7	_	their	abstract[115]	new[115]	coref	37-16[115_116]
 37-8	_	field	_	_	_	_
 37-9	_	of	_	_	_	_
 37-10	_	um	_	_	_	_
@@ -614,14 +614,14 @@
 37-13	_	,	_	_	_	_
 37-14	_	and	_	_	_	_
 37-15	_	if	_	_	_	_
-37-16	_	they	abstract[114]	new[114]	coref	37-23[114_115]
+37-16	_	they	abstract[116]	new[116]	coref	37-23[116_117]
 37-17	_	're	_	_	_	_
 37-18	_	gon	_	_	_	_
 37-19	_	na	_	_	_	_
 37-20	_	go	_	_	_	_
 37-21	_	,	_	_	_	_
 37-22	_	if	_	_	_	_
-37-23	_	they	abstract[115]	new[115]	coref	37-37[115_116]
+37-23	_	they	abstract[117]	new[117]	coref	37-37[117_118]
 37-24	_	're	_	_	_	_
 37-25	_	gon	_	_	_	_
 37-26	_	na	_	_	_	_
@@ -635,17 +635,17 @@
 37-34	_	the	_	_	_	_
 37-35	_	unknown	_	_	_	_
 37-36	_	where	_	_	_	_
-37-37	_	they	abstract[116]	new[116]	coref	37-43[116_117]
+37-37	_	they	abstract[118]	new[118]	coref	37-43[118_119]
 37-38	_	can	_	_	_	_
 37-39	_	find	_	_	_	_
 37-40	_	something	_	_	_	_
 37-41	_	new	_	_	_	_
 37-42	_	,	_	_	_	_
-37-43	_	they	abstract[117]	new[117]	coref	38-1[117_118]
+37-43	_	they	abstract[119]	new[119]	coref	38-1[119_120]
 37-44	_	have	_	_	_	_
 37-45	_	to	_	_	_	_
 37-46	_	do	_	_	_	_
-37-47	_	it	abstract[121]	new[121]	coref	38-5[121_122]
+37-47	_	it	abstract[123]	new[123]	coref	38-5[123_124]
 37-48	_	in	_	_	_	_
 37-49	_	a	_	_	_	_
 37-50	_	straight	_	_	_	_
@@ -653,11 +653,11 @@
 37-52	_	.	_	_	_	_
 
 #Text=They ca n't do it in all directions at once .
-38-1	_	They	abstract[118]	new[118]	coref	42-2[118_119]
+38-1	_	They	abstract[120]	new[120]	coref	42-2[120_121]
 38-2	_	ca	_	_	_	_
 38-3	_	n't	_	_	_	_
 38-4	_	do	_	_	_	_
-38-5	_	it	abstract[122]	new[122]	coref	42-5[122_123]
+38-5	_	it	abstract[124]	new[124]	coref	42-5[124_125]
 38-6	_	in	_	_	_	_
 38-7	_	all	_	_	_	_
 38-8	_	directions	_	_	_	_
@@ -674,7 +674,7 @@
 #Text=Because then you run into things that we already know .
 40-1	_	Because	_	_	_	_
 40-2	_	then	_	_	_	_
-40-3	_	you	abstract[104]	new[104]	coref	54-5[104_105]
+40-3	_	you	abstract[106]	new[106]	coref	54-5[106_107]
 40-4	_	run	_	_	_	_
 40-5	_	into	_	_	_	_
 40-6	_	things	_	_	_	_
@@ -696,15 +696,15 @@
 
 #Text=But they 're doing it , they 're doing it with mathematics .
 42-1	_	But	_	_	_	_
-42-2	_	they	abstract[119]	new[119]	coref	42-7[119_120]
+42-2	_	they	abstract[121]	new[121]	coref	42-7[121_122]
 42-3	_	're	_	_	_	_
 42-4	_	doing	_	_	_	_
-42-5	_	it	abstract[123]	new[123]	coref	42-10[123_124]
+42-5	_	it	abstract[125]	new[125]	coref	42-10[125_126]
 42-6	_	,	_	_	_	_
-42-7	_	they	abstract[120]	new[120]	_	_
+42-7	_	they	abstract[122]	new[122]	_	_
 42-8	_	're	_	_	_	_
 42-9	_	doing	_	_	_	_
-42-10	_	it	abstract[124]	new[124]	_	_
+42-10	_	it	abstract[126]	new[126]	_	_
 42-11	_	with	_	_	_	_
 42-12	_	mathematics	_	_	_	_
 42-13	_	.	_	_	_	_
@@ -783,13 +783,13 @@
 #Text=Well , the philosophers , and the spiritual leaders , and , I mean , cause , f- the stuff can be understand , understood .
 52-1	_	Well	_	_	_	_
 52-2	_	,	_	_	_	_
-52-3	_	the	abstract[125]	new[125]	coref	54-1[125_126]
-52-4	_	philosophers	abstract[125]	new[125]	_	_
-52-5	_	,	abstract[125]	new[125]	_	_
-52-6	_	and	abstract[125]	new[125]	_	_
-52-7	_	the	abstract[125]	new[125]	_	_
-52-8	_	spiritual	abstract[125]	new[125]	_	_
-52-9	_	leaders	abstract[125]	new[125]	_	_
+52-3	_	the	abstract[127]	new[127]	coref	54-1[127_128]
+52-4	_	philosophers	abstract[127]	new[127]	_	_
+52-5	_	,	abstract[127]	new[127]	_	_
+52-6	_	and	abstract[127]	new[127]	_	_
+52-7	_	the	abstract[127]	new[127]	_	_
+52-8	_	spiritual	abstract[127]	new[127]	_	_
+52-9	_	leaders	abstract[127]	new[127]	_	_
 52-10	_	,	_	_	_	_
 52-11	_	and	_	_	_	_
 52-12	_	,	_	_	_	_
@@ -814,11 +814,11 @@
 53-3	_	.	_	_	_	_
 
 #Text=Those people can tell you .
-54-1	_	Those	abstract[126]	new[126]	coref	56-2[126_127]
-54-2	_	people	abstract[126]	new[126]	_	_
+54-1	_	Those	abstract[128]	new[128]	coref	56-2[128_129]
+54-2	_	people	abstract[128]	new[128]	_	_
 54-3	_	can	_	_	_	_
 54-4	_	tell	_	_	_	_
-54-5	_	you	abstract[105]	new[105]	coref	56-7[105_106]
+54-5	_	you	abstract[107]	new[107]	coref	56-7[107_108]
 54-6	_	.	_	_	_	_
 
 #Text=Or the , or the cutting — cutting edge , can be understand — understood intellectually .
@@ -842,18 +842,18 @@
 
 #Text=But those people ca n't tell you the details .
 56-1	_	But	_	_	_	_
-56-2	_	those	abstract[127]	new[127]	coref	57-1[127_128]
-56-3	_	people	abstract[127]	new[127]	_	_
+56-2	_	those	abstract[129]	new[129]	coref	57-1[129_130]
+56-3	_	people	abstract[129]	new[129]	_	_
 56-4	_	ca	_	_	_	_
 56-5	_	n't	_	_	_	_
 56-6	_	tell	_	_	_	_
-56-7	_	you	abstract[106]	new[106]	coref	60-1[106_107]
-56-8	_	the	abstract[129]	new[129]	coref	60-8[129_130]
-56-9	_	details	abstract[129]	new[129]	_	_
+56-7	_	you	abstract[108]	new[108]	coref	60-1[108_109]
+56-8	_	the	abstract[131]	new[131]	coref	60-8[131_132]
+56-9	_	details	abstract[131]	new[131]	_	_
 56-10	_	.	_	_	_	_
 
 #Text=They know the whole structure , but see .
-57-1	_	They	abstract[128]	new[128]	_	_
+57-1	_	They	abstract[130]	new[130]	_	_
 57-2	_	know	_	_	_	_
 57-3	_	the	_	_	_	_
 57-4	_	whole	_	_	_	_
@@ -877,19 +877,19 @@
 59-6	_	.	_	_	_	_
 
 #Text=You have to have somebody looking at the details .
-60-1	_	You	abstract[107]	new[107]	coref	61-1[107_108]
+60-1	_	You	abstract[109]	new[109]	coref	61-1[109_110]
 60-2	_	have	_	_	_	_
 60-3	_	to	_	_	_	_
 60-4	_	have	_	_	_	_
 60-5	_	somebody	_	_	_	_
 60-6	_	looking	_	_	_	_
 60-7	_	at	_	_	_	_
-60-8	_	the	abstract[130]	new[130]	coref	68-10[130_131]
-60-9	_	details	abstract[130]	new[130]	_	_
+60-8	_	the	abstract[132]	new[132]	coref	68-10[132_133]
+60-9	_	details	abstract[132]	new[132]	_	_
 60-10	_	.	_	_	_	_
 
 #Text=Ya got to have a leader .
-61-1	_	Ya	abstract[108]	new[108]	coref	63-2[108_109]
+61-1	_	Ya	abstract[110]	new[110]	coref	63-2[110_111]
 61-2	_	got	_	_	_	_
 61-3	_	to	_	_	_	_
 61-4	_	have	_	_	_	_
@@ -907,7 +907,7 @@
 
 #Text=And you got to have , a bunch of workers .
 63-1	_	And	_	_	_	_
-63-2	_	you	abstract[109]	new[109]	coref	66-2[109_110]
+63-2	_	you	abstract[111]	new[111]	coref	66-2[111_112]
 63-3	_	got	_	_	_	_
 63-4	_	to	_	_	_	_
 63-5	_	have	_	_	_	_
@@ -929,7 +929,7 @@
 
 #Text=And you got ta have somebody .
 66-1	_	And	_	_	_	_
-66-2	_	you	abstract[110]	new[110]	_	_
+66-2	_	you	abstract[112]	new[112]	_	_
 66-3	_	got	_	_	_	_
 66-4	_	ta	_	_	_	_
 66-5	_	have	_	_	_	_
@@ -950,8 +950,8 @@
 68-7	_	to	_	_	_	_
 68-8	_	deal	_	_	_	_
 68-9	_	with	_	_	_	_
-68-10	_	the	abstract[131]	new[131]	_	_
-68-11	_	details	abstract[131]	new[131]	_	_
+68-10	_	the	abstract[133]	new[133]	_	_
+68-11	_	details	abstract[133]	new[133]	_	_
 68-12	_	that	_	_	_	_
 68-13	_	much	_	_	_	_
 68-14	_	,	_	_	_	_
@@ -1011,8 +1011,8 @@
 73-11	_	or	_	_	_	_
 73-12	_	there	_	_	_	_
 73-13	_	's	_	_	_	_
-73-14	_	no	abstract[132]	new[132]	coref	76-25[132_133]
-73-15	_	focus	abstract[132]	new[132]	_	_
+73-14	_	no	abstract[134]	new[134]	coref	76-25[134_135]
+73-15	_	focus	abstract[134]	new[134]	_	_
 73-16	_	.	_	_	_	_
 
 #Text=Yeah .
@@ -1049,8 +1049,8 @@
 76-21	_	there	_	_	_	_
 76-22	_	's	_	_	_	_
 76-23	_	been	_	_	_	_
-76-24	_	no	abstract[133]	new[133]	_	_
-76-25	_	focus	abstract[133]	new[133]	_	_
+76-24	_	no	abstract[135]	new[135]	_	_
+76-25	_	focus	abstract[135]	new[135]	_	_
 76-26	_	is	_	_	_	_
 76-27	_	because	_	_	_	_
 76-28	_	,	_	_	_	_
@@ -1073,7 +1073,7 @@
 76-45	_	was	_	_	_	_
 76-46	_	kinda	_	_	_	_
 76-47	_	letting	_	_	_	_
-76-48	_	the	abstract[93]	new[93]	_	_
+76-48	_	the	abstract[93]	new[93]	coref	95-16[93_94]
 76-49	_	scientific	abstract[93]	new[93]	_	_
 76-50	_	method	abstract[93]	new[93]	_	_
 76-51	_	be	_	_	_	_
@@ -1110,7 +1110,7 @@
 79-4	_	who	_	_	_	_
 79-5	_	are	_	_	_	_
 79-6	_	doing	_	_	_	_
-79-7	_	research	abstract[134]	new[134]	coref	82-13[134_135]
+79-7	_	research	abstract[136]	new[136]	coref	82-13[136_137]
 79-8	_	.	_	_	_	_
 
 #Text=Continue inventorying , cataloging , experimenting .
@@ -1148,7 +1148,7 @@
 82-10	_	uh	_	_	_	_
 82-11	_	coming	_	_	_	_
 82-12	_	at	_	_	_	_
-82-13	_	it	abstract[135]	new[135]	_	_
+82-13	_	it	abstract[137]	new[137]	_	_
 82-14	_	from	_	_	_	_
 82-15	_	another	_	_	_	_
 82-16	_	direction	_	_	_	_
@@ -1176,7 +1176,7 @@
 83-19	_	like	_	_	_	_
 83-20	_	with	_	_	_	_
 83-21	_	with	_	_	_	_
-83-22	_	Einstein	abstract[136]	new[136]	coref	83-36[136_137]
+83-22	_	Einstein	abstract[138]	new[138]	coref	83-36[138_139]
 83-23	_	for	_	_	_	_
 83-24	_	example	_	_	_	_
 83-25	_	,	_	_	_	_
@@ -1190,14 +1190,14 @@
 83-33	_	to	_	_	_	_
 83-34	_	me	abstract[12]	new[12]	coref	85-18[12_13]
 83-35	_	,	_	_	_	_
-83-36	_	he	abstract[137]	new[137]	coref	83-43[137_138]
+83-36	_	he	abstract[139]	new[139]	coref	83-43[139_140]
 83-37	_	was	_	_	_	_
 83-38	_	trying	_	_	_	_
 83-39	_	to	_	_	_	_
 83-40	_	f-	_	_	_	_
 83-41	_	—	_	_	_	_
 83-42	_	t-	_	_	_	_
-83-43	_	he	abstract[138]	new[138]	coref	85-10[138_139]
+83-43	_	he	abstract[140]	new[140]	coref	85-10[140_141]
 83-44	_	was	_	_	_	_
 83-45	_	exper-	_	_	_	_
 83-46	_	experimenting	_	_	_	_
@@ -1231,17 +1231,17 @@
 85-7	_	things	_	_	_	_
 85-8	_	,	_	_	_	_
 85-9	_	and	_	_	_	_
-85-10	_	he	abstract[139]	new[139]	coref	85-15[139_140]
+85-10	_	he	abstract[141]	new[141]	coref	85-15[141_142]
 85-11	_	was	_	_	_	_
 85-12	_	trying	_	_	_	_
 85-13	_	to	_	_	_	_
 85-14	_	—	_	_	_	_
-85-15	_	he	abstract[140]	new[140]	coref	85-20[140_141]
+85-15	_	he	abstract[142]	new[142]	coref	85-20[142_143]
 85-16	_	w-	_	_	_	_
 85-17	_	—	_	_	_	_
 85-18	_	I	abstract[13]	new[13]	coref	87-4[13_14]
 85-19	_	think	_	_	_	_
-85-20	_	he	abstract[141]	new[141]	coref	85-32[141_142]
+85-20	_	he	abstract[143]	new[143]	coref	85-32[143_144]
 85-21	_	was	_	_	_	_
 85-22	_	ultimately	_	_	_	_
 85-23	_	trying	_	_	_	_
@@ -1253,7 +1253,7 @@
 85-29	_	the	_	_	_	_
 85-30	_	speed	_	_	_	_
 85-31	_	of	_	_	_	_
-85-32	_	his	abstract[142]	new[142]	coref	87-7[142_143]
+85-32	_	his	abstract[144]	new[144]	coref	87-7[144_145]
 85-33	_	own	_	_	_	_
 85-34	_	thought	_	_	_	_
 85-35	_	.	_	_	_	_
@@ -1269,7 +1269,7 @@
 87-4	_	I	abstract[14]	new[14]	_	_
 87-5	_	mean	_	_	_	_
 87-6	_	,	_	_	_	_
-87-7	_	he	abstract[143]	new[143]	coref	89-6[143_144]
+87-7	_	he	abstract[145]	new[145]	coref	89-6[145_146]
 87-8	_	was	_	_	_	_
 87-9	_	like	_	_	_	_
 87-10	_	,	_	_	_	_
@@ -1301,15 +1301,15 @@
 89-3	_	n't	_	_	_	_
 89-4	_	exist	_	_	_	_
 89-5	_	unless	_	_	_	_
-89-6	_	he	abstract[144]	new[144]	coref	90-3[144_145]
+89-6	_	he	abstract[146]	new[146]	coref	90-3[146_147]
 89-7	_	was	_	_	_	_
 89-8	_	secure	_	_	_	_
 89-9	_	that	_	_	_	_
 89-10	_	we	abstract[46]	new[46]	_	_
 89-11	_	had	_	_	_	_
-89-12	_	a	abstract[146]	new[146]	coref	89-22[146_147]
-89-13	_	peaceful	abstract[146]	new[146]	_	_
-89-14	_	world	abstract[146]	new[146]	_	_
+89-12	_	a	abstract[149]	new[149]	coref	89-22[149_150]
+89-13	_	peaceful	abstract[149]	new[149]	_	_
+89-14	_	world	abstract[149]	new[149]	_	_
 89-15	_	or	_	_	_	_
 89-16	_	that	_	_	_	_
 89-17	_	that	_	_	_	_
@@ -1317,13 +1317,13 @@
 89-19	_	was	_	_	_	_
 89-20	_	part	_	_	_	_
 89-21	_	of	_	_	_	_
-89-22	_	it	abstract[147]	new[147]	_	_
+89-22	_	it	abstract[150]	new[150]	_	_
 89-23	_	.	_	_	_	_
 
 #Text=Of what he was about .
 90-1	_	Of	_	_	_	_
 90-2	_	what	_	_	_	_
-90-3	_	he	abstract[145]	new[145]	_	_
+90-3	_	he	abstract[147]	new[147]	coref	95-28[147_148]
 90-4	_	was	_	_	_	_
 90-5	_	about	_	_	_	_
 90-6	_	.	_	_	_	_
@@ -1334,9 +1334,9 @@
 91-3	_	so	_	_	_	_
 91-4	_	much	_	_	_	_
 91-5	_	of	_	_	_	_
-91-6	_	today	abstract[149]|abstract[150]	new[149]|new[150]	coref	92-1[150_151]
-91-7	_	's	abstract[149]|abstract[150]	new[149]|new[150]	_	_
-91-8	_	technology	abstract[150]	new[150]	_	_
+91-6	_	today	abstract[152]|abstract[153]	new[152]|new[153]	coref	92-1[153_154]
+91-7	_	's	abstract[152]|abstract[153]	new[152]|new[153]	_	_
+91-8	_	technology	abstract[153]	new[153]	_	_
 91-9	_	is	_	_	_	_
 91-10	_	soulless	_	_	_	_
 91-11	_	and	_	_	_	_
@@ -1349,7 +1349,7 @@
 91-18	_	.	_	_	_	_
 
 #Text=It has to do with , just generally , chewing up , you know , consumerism basically and — .
-92-1	_	It	abstract[151]	new[151]	_	_
+92-1	_	It	abstract[154]	new[154]	_	_
 92-2	_	has	_	_	_	_
 92-3	_	to	_	_	_	_
 92-4	_	do	_	_	_	_
@@ -1392,13 +1392,13 @@
 94-15	_	,	_	_	_	_
 94-16	_	chewing	_	_	_	_
 94-17	_	up	_	_	_	_
-94-18	_	the	abstract[152]	new[152]	coref	94-24[152_153]
-94-19	_	human	abstract[152]	new[152]	_	_
-94-20	_	experience	abstract[152]	new[152]	_	_
+94-18	_	the	abstract[155]	new[155]	coref	94-24[155_156]
+94-19	_	human	abstract[155]	new[155]	_	_
+94-20	_	experience	abstract[155]	new[155]	_	_
 94-21	_	,	_	_	_	_
 94-22	_	and	_	_	_	_
 94-23	_	turning	_	_	_	_
-94-24	_	it	abstract[153]	new[153]	_	_
+94-24	_	it	abstract[156]	new[156]	_	_
 94-25	_	into	_	_	_	_
 94-26	_	,	_	_	_	_
 94-27	_	some	_	_	_	_
@@ -1408,20 +1408,53 @@
 94-31	_	need	_	_	_	_
 94-32	_	.	_	_	_	_
 
-#Text=Baby slobber is starting to make some sounds when he 's having trouble breathing .
-95-1	_	Baby	_	_	_	_
-95-2	_	slobber	_	_	_	_
-95-3	_	is	_	_	_	_
-95-4	_	starting	_	_	_	_
-95-5	_	to	_	_	_	_
-95-6	_	make	_	_	_	_
-95-7	_	some	_	_	_	_
-95-8	_	sounds	_	_	_	_
-95-9	_	when	_	_	_	_
-95-10	_	he	_	_	_	_
-95-11	_	's	_	_	_	_
-95-12	_	having	_	_	_	_
-95-13	_	trouble	_	_	_	_
-95-14	_	breathing	_	_	_	_
-95-15	_	.	_	_	_	_
+#Text=Two friends discuss a cartoon called ' The Scientist ' that symbolizes the limitations of the scientific method , contrasting unquestioned adherence to the scientific method with Einstein 's new ways of doing things , as well as how technology today is soulless and tied to consumerism .
+95-1	_	Two	_	_	_	_
+95-2	_	friends	_	_	_	_
+95-3	_	discuss	_	_	_	_
+95-4	_	a	_	_	_	_
+95-5	_	cartoon	_	_	_	_
+95-6	_	called	_	_	_	_
+95-7	_	'	_	_	_	_
+95-8	_	The	_	_	_	_
+95-9	_	Scientist	_	_	_	_
+95-10	_	'	_	_	_	_
+95-11	_	that	_	_	_	_
+95-12	_	symbolizes	_	_	_	_
+95-13	_	the	_	_	_	_
+95-14	_	limitations	_	_	_	_
+95-15	_	of	_	_	_	_
+95-16	_	the	abstract[94]	new[94]	coref	95-24[94_95]
+95-17	_	scientific	abstract[94]	new[94]	_	_
+95-18	_	method	abstract[94]	new[94]	_	_
+95-19	_	,	_	_	_	_
+95-20	_	contrasting	_	_	_	_
+95-21	_	unquestioned	_	_	_	_
+95-22	_	adherence	_	_	_	_
+95-23	_	to	_	_	_	_
+95-24	_	the	abstract[95]	new[95]	_	_
+95-25	_	scientific	abstract[95]	new[95]	_	_
+95-26	_	method	abstract[95]	new[95]	_	_
+95-27	_	with	_	_	_	_
+95-28	_	Einstein	abstract[148]	new[148]	_	_
+95-29	_	's	abstract[148]	new[148]	_	_
+95-30	_	new	_	_	_	_
+95-31	_	ways	_	_	_	_
+95-32	_	of	_	_	_	_
+95-33	_	doing	_	_	_	_
+95-34	_	things	_	_	_	_
+95-35	_	,	_	_	_	_
+95-36	_	as	_	_	_	_
+95-37	_	well	_	_	_	_
+95-38	_	as	_	_	_	_
+95-39	_	how	_	_	_	_
+95-40	_	technology	_	_	_	_
+95-41	_	today	_	_	_	_
+95-42	_	is	_	_	_	_
+95-43	_	soulless	_	_	_	_
+95-44	_	and	_	_	_	_
+95-45	_	tied	_	_	_	_
+95-46	_	to	_	_	_	_
+95-47	_	consumerism	_	_	_	_
+95-48	_	.	_	_	_	_
 

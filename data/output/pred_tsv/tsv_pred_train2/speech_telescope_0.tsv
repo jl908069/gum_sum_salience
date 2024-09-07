@@ -485,7 +485,7 @@
 27-8	_	the	_	_	_	_
 27-9	_	benefit	_	_	_	_
 27-10	_	of	_	_	_	_
-27-11	_	humankind	abstract[170]	new[170]	coref	48-33[170_171]
+27-11	_	humankind	abstract[171]	new[171]	coref	48-33[171_172]
 27-12	_	,	_	_	_	_
 27-13	_	and	_	_	_	_
 27-14	_	in	_	_	_	_
@@ -1010,13 +1010,13 @@
 48-29	_	for	_	_	_	_
 48-30	_	America	abstract[94]	new[94]	coref	49-13[94_95]
 48-31	_	and	_	_	_	_
-48-32	_	all	abstract[171]	new[171]	_	_
-48-33	_	of	abstract[171]	new[171]	_	_
-48-34	_	humanity	abstract[171]	new[171]	_	_
+48-32	_	all	abstract[172]	new[172]	_	_
+48-33	_	of	abstract[172]	new[172]	_	_
+48-34	_	humanity	abstract[172]	new[172]	_	_
 48-35	_	.	_	_	_	_
 
 #Text=You know , as an international collaboration , this telescope embodies how America leads the world not by the example of our power , but the power of our example .
-49-1	_	You	abstract[180]	new[180]	coref	57-1[180_181]
+49-1	_	You	abstract[181]	new[181]	coref	57-1[181_182]
 49-2	_	know	_	_	_	_
 49-3	_	,	_	_	_	_
 49-4	_	as	_	_	_	_
@@ -1111,9 +1111,9 @@
 52-1	_	That	_	_	_	_
 52-2	_	’s	_	_	_	_
 52-3	_	why	_	_	_	_
-52-4	_	the	abstract[172]	new[172]	coref	52-19[172_173]
-52-5	_	federal	abstract[172]	new[172]	_	_
-52-6	_	government	abstract[172]	new[172]	_	_
+52-4	_	the	abstract[173]	new[173]	coref	52-19[173_174]
+52-5	_	federal	abstract[173]	new[173]	_	_
+52-6	_	government	abstract[173]	new[173]	_	_
 52-7	_	must	_	_	_	_
 52-8	_	invest	_	_	_	_
 52-9	_	—	_	_	_	_
@@ -1126,7 +1126,7 @@
 52-16	_	,	_	_	_	_
 52-17	_	more	_	_	_	_
 52-18	_	than	_	_	_	_
-52-19	_	we	abstract[173]	new[173]	_	_
+52-19	_	we	abstract[174]	new[174]	_	_
 52-20	_	have	_	_	_	_
 52-21	_	in	_	_	_	_
 52-22	_	the	_	_	_	_
@@ -1134,13 +1134,13 @@
 52-24	_	.	_	_	_	_
 
 #Text=These images are going to remind the world that America can do big things .
-53-1	_	These	abstract[174]	new[174]	coref	54-2[174_175]
-53-2	_	images	abstract[174]	new[174]	_	_
+53-1	_	These	abstract[175]	new[175]	coref	54-2[175_176]
+53-2	_	images	abstract[175]	new[175]	_	_
 53-3	_	are	_	_	_	_
 53-4	_	going	_	_	_	_
 53-5	_	to	_	_	_	_
 53-6	_	remind	_	_	_	_
-53-7	_	the	abstract[169]	new[169]	_	_
+53-7	_	the	abstract[169]	new[169]	coref	62-13[169_170]
 53-8	_	world	abstract[169]	new[169]	_	_
 53-9	_	that	_	_	_	_
 53-10	_	America	abstract[96]	new[96]	coref	58-1[96_97]
@@ -1152,7 +1152,7 @@
 
 #Text=And they ’ll remind the American people , especially our children , that there ’s nothing beyond our capacity — nothing beyond our capacity .
 54-1	_	And	_	_	_	_
-54-2	_	they	abstract[175]	new[175]	_	_
+54-2	_	they	abstract[176]	new[176]	_	_
 54-3	_	’ll	_	_	_	_
 54-4	_	remind	_	_	_	_
 54-5	_	the	abstract[36]	new[36]	coref	54-10[36_37]
@@ -1168,13 +1168,13 @@
 54-15	_	’s	_	_	_	_
 54-16	_	nothing	_	_	_	_
 54-17	_	beyond	_	_	_	_
-54-18	_	our	abstract[38]|abstract[176]	new[38]|new[176]	coref|coref	54-23[38_39]|54-23[176_177]
-54-19	_	capacity	abstract[176]	new[176]	_	_
+54-18	_	our	abstract[38]|abstract[177]	new[38]|new[177]	coref|coref	54-23[38_39]|54-23[177_178]
+54-19	_	capacity	abstract[177]	new[177]	_	_
 54-20	_	—	_	_	_	_
 54-21	_	nothing	_	_	_	_
 54-22	_	beyond	_	_	_	_
-54-23	_	our	abstract[39]|abstract[177]	new[39]|new[177]	_	_
-54-24	_	capacity	abstract[177]	new[177]	_	_
+54-23	_	our	abstract[39]|abstract[178]	new[39]|new[178]	_	_
+54-24	_	capacity	abstract[178]	new[178]	_	_
 54-25	_	.	_	_	_	_
 
 #Text=We can see possibilities no one has ever seen before .
@@ -1182,8 +1182,8 @@
 55-2	_	can	_	_	_	_
 55-3	_	see	_	_	_	_
 55-4	_	possibilities	_	_	_	_
-55-5	_	no	abstract[178]	new[178]	coref	56-5[178_179]
-55-6	_	one	abstract[178]	new[178]	_	_
+55-5	_	no	abstract[179]	new[179]	coref	56-5[179_180]
+55-6	_	one	abstract[179]	new[179]	_	_
 55-7	_	has	_	_	_	_
 55-8	_	ever	_	_	_	_
 55-9	_	seen	_	_	_	_
@@ -1195,8 +1195,8 @@
 56-2	_	can	_	_	_	_
 56-3	_	go	_	_	_	_
 56-4	_	places	_	_	_	_
-56-5	_	no	abstract[179]	new[179]	_	_
-56-6	_	one	abstract[179]	new[179]	_	_
+56-5	_	no	abstract[180]	new[180]	_	_
+56-6	_	one	abstract[180]	new[180]	_	_
 56-7	_	has	_	_	_	_
 56-8	_	ever	_	_	_	_
 56-9	_	gone	_	_	_	_
@@ -1204,13 +1204,13 @@
 56-11	_	.	_	_	_	_
 
 #Text=You know , you ’ve — you ’ve heard me say it over and over again .
-57-1	_	You	abstract[181]	new[181]	coref	57-4[181_182]
+57-1	_	You	abstract[182]	new[182]	coref	57-4[182_183]
 57-2	_	know	_	_	_	_
 57-3	_	,	_	_	_	_
-57-4	_	you	abstract[182]	new[182]	coref	57-7[182_183]
+57-4	_	you	abstract[183]	new[183]	coref	57-7[183_184]
 57-5	_	’ve	_	_	_	_
 57-6	_	—	_	_	_	_
-57-7	_	you	abstract[183]	new[183]	_	_
+57-7	_	you	abstract[184]	new[184]	_	_
 57-8	_	’ve	_	_	_	_
 57-9	_	heard	_	_	_	_
 57-10	_	me	abstract[113]	new[113]	coref	60-1[113_114]
@@ -1227,15 +1227,15 @@
 58-2	_	is	_	_	_	_
 58-3	_	defined	_	_	_	_
 58-4	_	by	_	_	_	_
-58-5	_	one	abstract[184]	new[184]	coref	59-1[184_185]
-58-6	_	single	abstract[184]	new[184]	_	_
-58-7	_	word	abstract[184]	new[184]	_	_
-58-8	_	:	abstract[184]	new[184]	_	_
-58-9	_	possibilities	abstract[184]	new[184]	_	_
+58-5	_	one	abstract[185]	new[185]	coref	59-1[185_186]
+58-6	_	single	abstract[185]	new[185]	_	_
+58-7	_	word	abstract[185]	new[185]	_	_
+58-8	_	:	abstract[185]	new[185]	_	_
+58-9	_	possibilities	abstract[185]	new[185]	_	_
 58-10	_	.	_	_	_	_
 
 #Text=Possibilities .
-59-1	_	Possibilities	abstract[185]	new[185]	_	_
+59-1	_	Possibilities	abstract[186]	new[186]	_	_
 59-2	_	.	_	_	_	_
 
 #Text=I want to thank the team at NASA for once again showing that that ’s who we are — that ’s who we are as a nation : a nation of possibilities .
@@ -1255,13 +1255,13 @@
 60-14	_	that	abstract[98]	new[98]	coref	60-20[98_99]
 60-15	_	’s	_	_	_	_
 60-16	_	who	_	_	_	_
-60-17	_	we	abstract[186]	new[186]	coref	60-23[186_187]
+60-17	_	we	abstract[187]	new[187]	coref	60-23[187_188]
 60-18	_	are	_	_	_	_
 60-19	_	—	_	_	_	_
 60-20	_	that	abstract[99]	new[99]	_	_
 60-21	_	’s	_	_	_	_
 60-22	_	who	_	_	_	_
-60-23	_	we	abstract[187]	new[187]	_	_
+60-23	_	we	abstract[188]	new[188]	_	_
 60-24	_	are	_	_	_	_
 60-25	_	as	_	_	_	_
 60-26	_	a	_	_	_	_
@@ -1292,15 +1292,20 @@
 61-16	_	telescope	abstract[152]|abstract[165]	new[152]|new[165]	_	_
 61-17	_	.	_	_	_	_
 
-#Text=President envoys discuss School of Open Africa ’s groundbreaking vision
+#Text=President Reagan praises a successful country for the way it has transformed the world .
 62-1	_	President	_	_	_	_
-62-2	_	envoys	_	_	_	_
-62-3	_	discuss	_	_	_	_
-62-4	_	School	_	_	_	_
-62-5	_	of	_	_	_	_
-62-6	_	Open	_	_	_	_
-62-7	_	Africa	_	_	_	_
-62-8	_	’s	_	_	_	_
-62-9	_	groundbreaking	_	_	_	_
-62-10	_	vision	_	_	_	_
+62-2	_	Reagan	_	_	_	_
+62-3	_	praises	_	_	_	_
+62-4	_	a	abstract[189]	new[189]	coref	62-10[189_190]
+62-5	_	successful	abstract[189]	new[189]	_	_
+62-6	_	country	abstract[189]	new[189]	_	_
+62-7	_	for	_	_	_	_
+62-8	_	the	_	_	_	_
+62-9	_	way	_	_	_	_
+62-10	_	it	abstract[190]	new[190]	_	_
+62-11	_	has	_	_	_	_
+62-12	_	transformed	_	_	_	_
+62-13	_	the	abstract[170]	new[170]	_	_
+62-14	_	world	abstract[170]	new[170]	_	_
+62-15	_	.	_	_	_	_
 

@@ -122,7 +122,7 @@
 5-11	_	out	_	_	_	_
 5-12	_	.	_	_	_	_
 
-#Text=It turned out the " Greek court has ruled that worshippers of the ancient Greek religion may now formally associate and worship at archaeological sites .
+#Text=It turned out the " Greek court rules those worshippers of ancient Greek deities may now join in .
 6-1	_	It	_	_	_	_
 6-2	_	turned	_	_	_	_
 6-3	_	out	_	_	_	_
@@ -130,25 +130,18 @@
 6-5	_	"	_	_	_	_
 6-6	_	Greek	_	_	_	_
 6-7	_	court	_	_	_	_
-6-8	_	has	_	_	_	_
-6-9	_	ruled	_	_	_	_
-6-10	_	that	_	_	_	_
-6-11	_	worshippers	_	_	_	_
-6-12	_	of	_	_	_	_
-6-13	_	the	_	_	_	_
-6-14	_	ancient	_	_	_	_
-6-15	_	Greek	_	_	_	_
-6-16	_	religion	_	_	_	_
-6-17	_	may	_	_	_	_
-6-18	_	now	_	_	_	_
-6-19	_	formally	_	_	_	_
-6-20	_	associate	_	_	_	_
-6-21	_	and	_	_	_	_
-6-22	_	worship	_	_	_	_
-6-23	_	at	_	_	_	_
-6-24	_	archaeological	_	_	_	_
-6-25	_	sites	_	_	_	_
-6-26	_	.	_	_	_	_
+6-8	_	rules	_	_	_	_
+6-9	_	those	_	_	_	_
+6-10	_	worshippers	_	_	_	_
+6-11	_	of	_	_	_	_
+6-12	_	ancient	_	_	_	_
+6-13	_	Greek	_	_	_	_
+6-14	_	deities	_	_	_	_
+6-15	_	may	_	_	_	_
+6-16	_	now	_	_	_	_
+6-17	_	join	_	_	_	_
+6-18	_	in	_	_	_	_
+6-19	_	.	_	_	_	_
 
 #Text=important data " was her Candy Crush progress , but she did n't let me know this until I arrived .
 7-1	_	important	_	_	_	_
@@ -874,7 +867,7 @@
 37-12	_	tasks	_	_	_	_
 37-13	_	just	_	_	_	_
 37-14	_	because	_	_	_	_
-37-15	_	they	abstract[106]	new[106]	coref	37-25[106_107]
+37-15	_	they	abstract[104]	new[104]	coref	37-25[104_105]
 37-16	_	do	_	_	_	_
 37-17	_	nt	_	_	_	_
 37-18	_	want	_	_	_	_
@@ -884,18 +877,18 @@
 37-22	_	to	_	_	_	_
 37-23	_	do	_	_	_	_
 37-24	_	for	_	_	_	_
-37-25	_	themselves	abstract[107]	new[107]	_	_
+37-25	_	themselves	abstract[105]	new[105]	_	_
 37-26	_	,	_	_	_	_
 
 #Text=I work as an Automation Engineer and I totally relate to this .
 38-1	_	I	_	_	_	_
 38-2	_	work	_	_	_	_
 38-3	_	as	_	_	_	_
-38-4	_	an	abstract[108]	new[108]	coref	38-8[108_109]
-38-5	_	Automation	abstract[108]	new[108]	_	_
-38-6	_	Engineer	abstract[108]	new[108]	_	_
+38-4	_	an	abstract[106]	new[106]	coref	38-8[106_107]
+38-5	_	Automation	abstract[106]	new[106]	_	_
+38-6	_	Engineer	abstract[106]	new[106]	_	_
 38-7	_	and	_	_	_	_
-38-8	_	I	abstract[109]	new[109]	coref	41-11[109_110]
+38-8	_	I	abstract[107]	new[107]	coref	41-11[107_108]
 38-9	_	totally	_	_	_	_
 38-10	_	relate	_	_	_	_
 38-11	_	to	_	_	_	_
@@ -903,7 +896,7 @@
 38-13	_	.	_	_	_	_
 
 #Text=People just ca n't copy - paste stuff from one cell in an excel file to another cell because it can be automated .
-39-1	_	People	abstract[115]	new[115]	coref	41-15[115_116]
+39-1	_	People	abstract[113]	new[113]	coref	41-15[113_114]
 39-2	_	just	_	_	_	_
 39-3	_	ca	_	_	_	_
 39-4	_	n't	_	_	_	_
@@ -922,7 +915,7 @@
 39-17	_	another	_	_	_	_
 39-18	_	cell	_	_	_	_
 39-19	_	because	_	_	_	_
-39-20	_	it	abstract[112]	new[112]	coref	40-6[112_113]
+39-20	_	it	abstract[110]	new[110]	coref	40-6[110_111]
 39-21	_	can	_	_	_	_
 39-22	_	be	_	_	_	_
 39-23	_	automated	_	_	_	_
@@ -934,7 +927,7 @@
 40-3	_	n't	_	_	_	_
 40-4	_	you	abstract[56]	new[56]	_	_
 40-5	_	do	_	_	_	_
-40-6	_	that	abstract[113]	new[113]	coref	42-1[113_114]
+40-6	_	that	abstract[111]	new[111]	coref	42-1[111_112]
 40-7	_	as	_	_	_	_
 40-8	_	well	_	_	_	_
 40-9	_	?	_	_	_	_
@@ -950,16 +943,16 @@
 41-8	_	to	_	_	_	_
 41-9	_	not	_	_	_	_
 41-10	_	roll	_	_	_	_
-41-11	_	my	abstract[110]	new[110]	coref	41-20[110_111]
+41-11	_	my	abstract[108]	new[108]	coref	41-20[108_109]
 41-12	_	eyes	_	_	_	_
 41-13	_	and	_	_	_	_
 41-14	_	tell	_	_	_	_
-41-15	_	them	abstract[116]	new[116]	coref	48-21[116_117]
+41-15	_	them	abstract[114]	new[114]	coref	48-21[114_115]
 41-16	_	to	_	_	_	_
 41-17	_	move	_	_	_	_
 41-18	_	on	_	_	_	_
 41-19	_	because	_	_	_	_
-41-20	_	I	abstract[111]	new[111]	_	_
+41-20	_	I	abstract[109]	new[109]	_	_
 41-21	_	've	_	_	_	_
 41-22	_	got	_	_	_	_
 41-23	_	more	_	_	_	_
@@ -967,18 +960,18 @@
 41-25	_	prioritised	_	_	_	_
 41-26	_	than	_	_	_	_
 41-27	_	automating	_	_	_	_
-41-28	_	something	abstract[125]	new[125]	coref	47-19[125_126]
-41-29	_	that	abstract[125]	new[125]	_	_
-41-30	_	does	abstract[125]	new[125]	_	_
-41-31	_	n't	abstract[125]	new[125]	_	_
-41-32	_	even	abstract[125]	new[125]	_	_
-41-33	_	take	abstract[125]	new[125]	_	_
-41-34	_	a	abstract[125]	new[125]	_	_
-41-35	_	wink	abstract[125]	new[125]	_	_
+41-28	_	something	abstract[123]	new[123]	coref	47-19[123_124]
+41-29	_	that	abstract[123]	new[123]	_	_
+41-30	_	does	abstract[123]	new[123]	_	_
+41-31	_	n't	abstract[123]	new[123]	_	_
+41-32	_	even	abstract[123]	new[123]	_	_
+41-33	_	take	abstract[123]	new[123]	_	_
+41-34	_	a	abstract[123]	new[123]	_	_
+41-35	_	wink	abstract[123]	new[123]	_	_
 41-36	_	.	_	_	_	_
 
 #Text=This is not really frequent though so hats off to you tech support guys .
-42-1	_	This	abstract[114]	new[114]	_	_
+42-1	_	This	abstract[112]	new[112]	_	_
 42-2	_	is	_	_	_	_
 42-3	_	not	_	_	_	_
 42-4	_	really	_	_	_	_
@@ -988,29 +981,29 @@
 42-8	_	hats	_	_	_	_
 42-9	_	off	_	_	_	_
 42-10	_	to	_	_	_	_
-42-11	_	you	abstract[119]	new[119]	coref	43-1[119_120]
-42-12	_	tech	abstract[119]	new[119]	_	_
-42-13	_	support	abstract[119]	new[119]	_	_
-42-14	_	guys	abstract[119]	new[119]	_	_
+42-11	_	you	abstract[117]	new[117]	coref	43-1[117_118]
+42-12	_	tech	abstract[117]	new[117]	_	_
+42-13	_	support	abstract[117]	new[117]	_	_
+42-14	_	guys	abstract[117]	new[117]	_	_
 42-15	_	.	_	_	_	_
 
 #Text=You 've my respect .
-43-1	_	You	abstract[120]	new[120]	_	_
+43-1	_	You	abstract[118]	new[118]	_	_
 43-2	_	've	_	_	_	_
 43-3	_	my	_	_	_	_
 43-4	_	respect	_	_	_	_
 43-5	_	.	_	_	_	_
 
 #Text=Relevant xkcd
-44-1	_	Relevant	abstract[121]	new[121]	coref	45-1[121_122]
-44-2	_	xkcd	abstract[121]	new[121]	_	_
+44-1	_	Relevant	abstract[119]	new[119]	coref	45-1[119_120]
+44-2	_	xkcd	abstract[119]	new[119]	_	_
 
 #Text=https://xkcd.com/1205/
-45-1	_	https://xkcd.com/1205/	abstract[122]	new[122]	_	_
+45-1	_	https://xkcd.com/1205/	abstract[120]	new[120]	_	_
 
 #Text=Is it worth the time ?
 46-1	_	Is	_	_	_	_
-46-2	_	it	abstract[123]	new[123]	coref	47-2[123_124]
+46-2	_	it	abstract[121]	new[121]	coref	47-2[121_122]
 46-3	_	worth	_	_	_	_
 46-4	_	the	_	_	_	_
 46-5	_	time	_	_	_	_
@@ -1018,7 +1011,7 @@
 
 #Text=Is it worth it to save 5 seconds x times per day to spend y minutes to automate it .
 47-1	_	Is	_	_	_	_
-47-2	_	it	abstract[124]	new[124]	_	_
+47-2	_	it	abstract[122]	new[122]	_	_
 47-3	_	worth	_	_	_	_
 47-4	_	it	_	_	_	_
 47-5	_	to	_	_	_	_
@@ -1035,7 +1028,7 @@
 47-16	_	minutes	_	_	_	_
 47-17	_	to	_	_	_	_
 47-18	_	automate	_	_	_	_
-47-19	_	it	abstract[126]	new[126]	coref	48-6[126_127]
+47-19	_	it	abstract[124]	new[124]	coref	48-6[124_125]
 47-20	_	.	_	_	_	_
 
 #Text=I mean , even if it s a regular thing , there are macros for that , and part of their job description probably includes the phrase ' experience with < insert x software here > .
@@ -1044,7 +1037,7 @@
 48-3	_	,	_	_	_	_
 48-4	_	even	_	_	_	_
 48-5	_	if	_	_	_	_
-48-6	_	it	abstract[127]	new[127]	coref	48-16[127_128]
+48-6	_	it	abstract[125]	new[125]	coref	48-16[125_126]
 48-7	_	s	_	_	_	_
 48-8	_	a	_	_	_	_
 48-9	_	regular	_	_	_	_
@@ -1054,14 +1047,14 @@
 48-13	_	are	_	_	_	_
 48-14	_	macros	_	_	_	_
 48-15	_	for	_	_	_	_
-48-16	_	that	abstract[128]	new[128]	_	_
+48-16	_	that	abstract[126]	new[126]	_	_
 48-17	_	,	_	_	_	_
 48-18	_	and	_	_	_	_
 48-19	_	part	_	_	_	_
 48-20	_	of	_	_	_	_
-48-21	_	their	abstract[117]|abstract[135]	new[117]|new[135]	coref|coref	49-14[117_118]|50-2[135_136]
-48-22	_	job	abstract[135]	new[135]	_	_
-48-23	_	description	abstract[135]	new[135]	_	_
+48-21	_	their	abstract[115]|abstract[133]	new[115]|new[133]	coref|coref	49-14[115_116]|50-2[133_134]
+48-22	_	job	abstract[133]	new[133]	_	_
+48-23	_	description	abstract[133]	new[133]	_	_
 48-24	_	probably	_	_	_	_
 48-25	_	includes	_	_	_	_
 48-26	_	the	_	_	_	_
@@ -1082,28 +1075,28 @@
 49-2	_	huge	_	_	_	_
 49-3	_	part	_	_	_	_
 49-4	_	of	_	_	_	_
-49-5	_	my	abstract[103]	new[103]	coref	52-1[103_104]
+49-5	_	my	abstract[103]	new[103]	_	_
 49-6	_	annoyance	_	_	_	_
 49-7	_	with	_	_	_	_
-49-8	_	normal	abstract[129]	new[129]	coref	49-19[129_130]
-49-9	_	everyday	abstract[129]	new[129]	_	_
-49-10	_	users	abstract[129]	new[129]	_	_
+49-8	_	normal	abstract[127]	new[127]	coref	49-19[127_128]
+49-9	_	everyday	abstract[127]	new[127]	_	_
+49-10	_	users	abstract[127]	new[127]	_	_
 49-11	_	is	_	_	_	_
 49-12	_	this	_	_	_	_
 49-13	_	idea	_	_	_	_
-49-14	_	they	abstract[118]	new[118]	_	_
+49-14	_	they	abstract[116]	new[116]	_	_
 49-15	_	got	_	_	_	_
 49-16	_	somewhere	_	_	_	_
 49-17	_	that	_	_	_	_
 49-18	_	'	_	_	_	_
-49-19	_	i	abstract[130]	new[130]	coref	49-26[130_131]
+49-19	_	i	abstract[128]	new[128]	coref	49-26[128_129]
 49-20	_	m	_	_	_	_
 49-21	_	not	_	_	_	_
 49-22	_	a	_	_	_	_
 49-23	_	computer	_	_	_	_
 49-24	_	person	_	_	_	_
 49-25	_	.	_	_	_	_
-49-26	_	I	abstract[131]	new[131]	coref	50-2[131_132]
+49-26	_	I	abstract[129]	new[129]	coref	50-2[129_130]
 49-27	_	do	_	_	_	_
 49-28	_	nt	_	_	_	_
 49-29	_	have	_	_	_	_
@@ -1114,22 +1107,22 @@
 49-34	_	how	_	_	_	_
 49-35	_	to	_	_	_	_
 49-36	_	do	_	_	_	_
-49-37	_	that	abstract[137]	new[137]	coref	51-14[137_138]
+49-37	_	that	abstract[135]	new[135]	coref	51-14[135_136]
 49-38	_	'	_	_	_	_
 49-39	_	.	_	_	_	_
 
 #Text=" Your job description begs to differ .
 50-1	_	"	_	_	_	_
-50-2	_	Your	abstract[132]|abstract[136]	new[132]|new[136]	coref	51-1[132_133]
-50-3	_	job	abstract[136]	new[136]	_	_
-50-4	_	description	abstract[136]	new[136]	_	_
+50-2	_	Your	abstract[130]|abstract[134]	new[130]|new[134]	coref	51-1[130_131]
+50-3	_	job	abstract[134]	new[134]	_	_
+50-4	_	description	abstract[134]	new[134]	_	_
 50-5	_	begs	_	_	_	_
 50-6	_	to	_	_	_	_
 50-7	_	differ	_	_	_	_
 50-8	_	.	_	_	_	_
 
 #Text=You DO , in fact , have time to learn how to do that , or perhaps you should be in another line of business ' .
-51-1	_	You	abstract[133]	new[133]	coref	51-18[133_134]
+51-1	_	You	abstract[131]	new[131]	coref	51-18[131_132]
 51-2	_	DO	_	_	_	_
 51-3	_	,	_	_	_	_
 51-4	_	in	_	_	_	_
@@ -1142,11 +1135,11 @@
 51-11	_	how	_	_	_	_
 51-12	_	to	_	_	_	_
 51-13	_	do	_	_	_	_
-51-14	_	that	abstract[138]	new[138]	_	_
+51-14	_	that	abstract[136]	new[136]	_	_
 51-15	_	,	_	_	_	_
 51-16	_	or	_	_	_	_
 51-17	_	perhaps	_	_	_	_
-51-18	_	you	abstract[134]	new[134]	_	_
+51-18	_	you	abstract[132]	new[132]	_	_
 51-19	_	should	_	_	_	_
 51-20	_	be	_	_	_	_
 51-21	_	in	_	_	_	_
@@ -1157,34 +1150,22 @@
 51-26	_	'	_	_	_	_
 51-27	_	.	_	_	_	_
 
-#Text=I 've not been a fan of iron chef , but I got ta say that Bobby Flay 's dish , even though he can act like that .
-52-1	_	I	abstract[104]	new[104]	coref	52-12[104_105]
-52-2	_	've	_	_	_	_
-52-3	_	not	_	_	_	_
-52-4	_	been	_	_	_	_
-52-5	_	a	_	_	_	_
-52-6	_	fan	_	_	_	_
-52-7	_	of	_	_	_	_
-52-8	_	iron	abstract[141]	new[141]	coref	52-28[141_142]
-52-9	_	chef	abstract[141]	new[141]	_	_
-52-10	_	,	_	_	_	_
-52-11	_	but	_	_	_	_
-52-12	_	I	abstract[105]	new[105]	_	_
-52-13	_	got	_	_	_	_
-52-14	_	ta	_	_	_	_
-52-15	_	say	_	_	_	_
-52-16	_	that	_	_	_	_
-52-17	_	Bobby	abstract[139]	new[139]	coref	52-24[139_140]
-52-18	_	Flay	abstract[139]	new[139]	_	_
-52-19	_	's	abstract[139]	new[139]	_	_
-52-20	_	dish	_	_	_	_
-52-21	_	,	_	_	_	_
-52-22	_	even	_	_	_	_
-52-23	_	though	_	_	_	_
-52-24	_	he	abstract[140]	new[140]	_	_
-52-25	_	can	_	_	_	_
-52-26	_	act	_	_	_	_
-52-27	_	like	_	_	_	_
-52-28	_	that	abstract[142]	new[142]	_	_
-52-29	_	.	_	_	_	_
+#Text=Bobby Flay proves a revelation for the Cooking Channel : he 's a master chefs champion .
+52-1	_	Bobby	abstract[137]	new[137]	coref	52-11[137_138]
+52-2	_	Flay	abstract[137]	new[137]	_	_
+52-3	_	proves	_	_	_	_
+52-4	_	a	_	_	_	_
+52-5	_	revelation	_	_	_	_
+52-6	_	for	_	_	_	_
+52-7	_	the	_	_	_	_
+52-8	_	Cooking	_	_	_	_
+52-9	_	Channel	_	_	_	_
+52-10	_	:	_	_	_	_
+52-11	_	he	abstract[138]	new[138]	_	_
+52-12	_	's	_	_	_	_
+52-13	_	a	_	_	_	_
+52-14	_	master	_	_	_	_
+52-15	_	chefs	_	_	_	_
+52-16	_	champion	_	_	_	_
+52-17	_	.	_	_	_	_
 

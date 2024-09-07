@@ -603,9 +603,9 @@
 29-14	_	get	_	_	_	_
 29-15	_	me	abstract[105]	new[105]	coref	30-1[105_106]
 29-16	_	tested	_	_	_	_
-29-17	_	the	abstract[158]	new[158]	coref	30-5[158_159]
-29-18	_	next	abstract[158]	new[158]	_	_
-29-19	_	day	abstract[158]	new[158]	_	_
+29-17	_	the	abstract[159]	new[159]	coref	30-5[159_160]
+29-18	_	next	abstract[159]	new[159]	_	_
+29-19	_	day	abstract[159]	new[159]	_	_
 29-20	_	.	_	_	_	_
 
 #Text=I get tested on Wednesday , and when I 'm tested on Wednesday , I remember that night , um I believe that was the day where I had actually gotten a fever and chills .
@@ -613,7 +613,7 @@
 30-2	_	get	_	_	_	_
 30-3	_	tested	_	_	_	_
 30-4	_	on	_	_	_	_
-30-5	_	Wednesday	abstract[159]	new[159]	coref	30-13[159_160]
+30-5	_	Wednesday	abstract[160]	new[160]	coref	30-13[160_161]
 30-6	_	,	_	_	_	_
 30-7	_	and	_	_	_	_
 30-8	_	when	_	_	_	_
@@ -621,7 +621,7 @@
 30-10	_	'm	_	_	_	_
 30-11	_	tested	_	_	_	_
 30-12	_	on	_	_	_	_
-30-13	_	Wednesday	abstract[160]	new[160]	_	_
+30-13	_	Wednesday	abstract[161]	new[161]	_	_
 30-14	_	,	_	_	_	_
 30-15	_	I	abstract[108]	new[108]	coref	30-21[108_109]
 30-16	_	remember	_	_	_	_
@@ -741,7 +741,7 @@
 35-15	_	.	_	_	_	_
 
 #Text=It was no longer a headache anymore .
-36-1	_	It	abstract[161]	new[161]	coref	37-1[161_162]
+36-1	_	It	abstract[162]	new[162]	coref	37-1[162_163]
 36-2	_	was	_	_	_	_
 36-3	_	no	_	_	_	_
 36-4	_	longer	_	_	_	_
@@ -751,19 +751,19 @@
 36-8	_	.	_	_	_	_
 
 #Text=It was more like my like congestion like right up here , it was like a weird .
-37-1	_	It	abstract[162]	new[162]	coref	37-5[162_163]
+37-1	_	It	abstract[163]	new[163]	coref	37-5[163_164]
 37-2	_	was	_	_	_	_
 37-3	_	more	_	_	_	_
 37-4	_	like	_	_	_	_
-37-5	_	my	abstract[117]|abstract[163]	new[117]|new[163]	coref|coref	40-15[117_118]|37-13[163_164]
-37-6	_	like	abstract[163]	new[163]	_	_
-37-7	_	congestion	abstract[163]	new[163]	_	_
-37-8	_	like	abstract[163]	new[163]	_	_
-37-9	_	right	abstract[163]	new[163]	_	_
-37-10	_	up	abstract[163]	new[163]	_	_
-37-11	_	here	abstract[163]	new[163]	_	_
+37-5	_	my	abstract[117]|abstract[164]	new[117]|new[164]	coref|coref	40-15[117_118]|37-13[164_165]
+37-6	_	like	abstract[164]	new[164]	_	_
+37-7	_	congestion	abstract[164]	new[164]	_	_
+37-8	_	like	abstract[164]	new[164]	_	_
+37-9	_	right	abstract[164]	new[164]	_	_
+37-10	_	up	abstract[164]	new[164]	_	_
+37-11	_	here	abstract[164]	new[164]	_	_
 37-12	_	,	_	_	_	_
-37-13	_	it	abstract[164]	new[164]	_	_
+37-13	_	it	abstract[165]	new[165]	_	_
 37-14	_	was	_	_	_	_
 37-15	_	like	_	_	_	_
 37-16	_	a	_	_	_	_
@@ -779,29 +779,29 @@
 38-6	_	ca	_	_	_	_
 38-7	_	n't	_	_	_	_
 38-8	_	like	_	_	_	_
-38-9	_	sneeze	abstract[165]	new[165]	coref	39-1[165_166]
+38-9	_	sneeze	abstract[166]	new[166]	coref	39-1[166_167]
 38-10	_	?	_	_	_	_
 
 #Text=That 's what the feeling was .
-39-1	_	That	abstract[166]	new[166]	coref	39-4[166_167]
+39-1	_	That	abstract[167]	new[167]	coref	39-4[167_168]
 39-2	_	's	_	_	_	_
 39-3	_	what	_	_	_	_
-39-4	_	the	abstract[167]	new[167]	coref	40-1[167_168]
-39-5	_	feeling	abstract[167]	new[167]	_	_
+39-4	_	the	abstract[168]	new[168]	coref	40-1[168_169]
+39-5	_	feeling	abstract[168]	new[168]	_	_
 39-6	_	was	_	_	_	_
 39-7	_	.	_	_	_	_
 
 #Text=It felt like like like there was a sneeze drop in there , and I could n't get it out .
-40-1	_	It	abstract[168]	new[168]	_	_
+40-1	_	It	abstract[169]	new[169]	_	_
 40-2	_	felt	_	_	_	_
 40-3	_	like	_	_	_	_
 40-4	_	like	_	_	_	_
 40-5	_	like	_	_	_	_
 40-6	_	there	_	_	_	_
 40-7	_	was	_	_	_	_
-40-8	_	a	abstract[169]	new[169]	coref	40-19[169_170]
-40-9	_	sneeze	abstract[169]	new[169]	_	_
-40-10	_	drop	abstract[169]	new[169]	_	_
+40-8	_	a	abstract[170]	new[170]	coref	40-19[170_171]
+40-9	_	sneeze	abstract[170]	new[170]	_	_
+40-10	_	drop	abstract[170]	new[170]	_	_
 40-11	_	in	_	_	_	_
 40-12	_	there	_	_	_	_
 40-13	_	,	_	_	_	_
@@ -810,7 +810,7 @@
 40-16	_	could	_	_	_	_
 40-17	_	n't	_	_	_	_
 40-18	_	get	_	_	_	_
-40-19	_	it	abstract[170]	new[170]	_	_
+40-19	_	it	abstract[171]	new[171]	_	_
 40-20	_	out	_	_	_	_
 40-21	_	.	_	_	_	_
 
@@ -941,9 +941,9 @@
 46-22	_	of	_	_	_	_
 46-23	_	taste	_	_	_	_
 46-24	_	and	_	_	_	_
-46-25	_	even	abstract[173]	new[173]	coref	47-13[173_174]
-46-26	_	the	abstract[173]	new[173]	_	_
-46-27	_	smell	abstract[173]	new[173]	_	_
+46-25	_	even	abstract[174]	new[174]	coref	47-13[174_175]
+46-26	_	the	abstract[174]	new[174]	_	_
+46-27	_	smell	abstract[174]	new[174]	_	_
 46-28	_	,	_	_	_	_
 46-29	_	because	_	_	_	_
 46-30	_	I	abstract[130]	new[130]	coref	46-32[130_131]
@@ -951,15 +951,15 @@
 46-32	_	I	abstract[131]	new[131]	coref	46-40[131_132]
 46-33	_	was	_	_	_	_
 46-34	_	gargling	_	_	_	_
-46-35	_	apple	abstract[171]	new[171]	coref	46-43[171_172]
-46-36	_	cider	abstract[171]	new[171]	_	_
-46-37	_	vinegar	abstract[171]	new[171]	_	_
+46-35	_	apple	abstract[172]	new[172]	coref	46-43[172_173]
+46-36	_	cider	abstract[172]	new[172]	_	_
+46-37	_	vinegar	abstract[172]	new[172]	_	_
 46-38	_	,	_	_	_	_
 46-39	_	and	_	_	_	_
 46-40	_	I	abstract[132]	new[132]	coref	46-51[132_133]
 46-41	_	remember	_	_	_	_
 46-42	_	smelling	_	_	_	_
-46-43	_	it	abstract[172]	new[172]	_	_
+46-43	_	it	abstract[173]	new[173]	_	_
 46-44	_	from	_	_	_	_
 46-45	_	across	_	_	_	_
 46-46	_	the	_	_	_	_
@@ -986,10 +986,10 @@
 47-10	_	30	_	_	_	_
 47-11	_	percent	_	_	_	_
 47-12	_	of	_	_	_	_
-47-13	_	my	abstract[136]|abstract[174]	new[136]|new[174]	coref	48-11[136_137]
-47-14	_	taste	abstract[174]	new[174]	_	_
-47-15	_	and	abstract[174]	new[174]	_	_
-47-16	_	smell	abstract[174]	new[174]	_	_
+47-13	_	my	abstract[136]|abstract[175]	new[136]|new[175]	coref	48-11[136_137]
+47-14	_	taste	abstract[175]	new[175]	_	_
+47-15	_	and	abstract[175]	new[175]	_	_
+47-16	_	smell	abstract[175]	new[175]	_	_
 47-17	_	.	_	_	_	_
 
 #Text=So , for example , if you can see my Bath and Body Works candle , I try to smell that every morning to see if my change in smell changes , and I have like maybe 30 percent of my like smelling capabilities .
@@ -1002,18 +1002,18 @@
 48-7	_	you	abstract[48]	new[48]	coref	49-26[48_49]
 48-8	_	can	_	_	_	_
 48-9	_	see	_	_	_	_
-48-10	_	my	abstract[137]|abstract[175]	new[137]|new[175]	coref|coref	48-18[137_138]|48-22[175_176]
-48-11	_	Bath	abstract[175]	new[175]	_	_
-48-12	_	and	abstract[175]	new[175]	_	_
-48-13	_	Body	abstract[175]	new[175]	_	_
-48-14	_	Works	abstract[175]	new[175]	_	_
-48-15	_	candle	abstract[175]	new[175]	_	_
+48-10	_	my	abstract[137]|abstract[176]	new[137]|new[176]	coref|coref	48-18[137_138]|48-22[176_177]
+48-11	_	Bath	abstract[176]	new[176]	_	_
+48-12	_	and	abstract[176]	new[176]	_	_
+48-13	_	Body	abstract[176]	new[176]	_	_
+48-14	_	Works	abstract[176]	new[176]	_	_
+48-15	_	candle	abstract[176]	new[176]	_	_
 48-16	_	,	_	_	_	_
 48-17	_	I	abstract[138]	new[138]	coref	48-28[138_139]
 48-18	_	try	_	_	_	_
 48-19	_	to	_	_	_	_
 48-20	_	smell	_	_	_	_
-48-21	_	that	abstract[176]	new[176]	coref	49-13[176_177]
+48-21	_	that	abstract[177]	new[177]	coref	49-13[177_178]
 48-22	_	every	_	_	_	_
 48-23	_	morning	_	_	_	_
 48-24	_	to	_	_	_	_
@@ -1033,10 +1033,10 @@
 48-38	_	30	_	_	_	_
 48-39	_	percent	_	_	_	_
 48-40	_	of	_	_	_	_
-48-41	_	my	abstract[141]|abstract[180]	new[141]|new[180]	coref|coref	49-1[141_142]|50-9[180_181]
-48-42	_	like	abstract[180]	new[180]	_	_
-48-43	_	smelling	abstract[180]	new[180]	_	_
-48-44	_	capabilities	abstract[180]	new[180]	_	_
+48-41	_	my	abstract[141]|abstract[181]	new[141]|new[181]	coref|coref	49-1[141_142]|50-9[181_182]
+48-42	_	like	abstract[181]	new[181]	_	_
+48-43	_	smelling	abstract[181]	new[181]	_	_
+48-44	_	capabilities	abstract[181]	new[181]	_	_
 48-45	_	.	_	_	_	_
 
 #Text=I have to get like this close to be able to smell the candle , which is insane because those candles are so strong , you literally open one up and you can smell it all over your room .
@@ -1052,8 +1052,8 @@
 49-10	_	able	_	_	_	_
 49-11	_	to	_	_	_	_
 49-12	_	smell	_	_	_	_
-49-13	_	the	abstract[177]	new[177]	_	_
-49-14	_	candle	abstract[177]	new[177]	_	_
+49-13	_	the	abstract[178]	new[178]	_	_
+49-14	_	candle	abstract[178]	new[178]	_	_
 49-15	_	,	_	_	_	_
 49-16	_	which	_	_	_	_
 49-17	_	is	_	_	_	_
@@ -1068,13 +1068,13 @@
 49-26	_	you	abstract[49]	new[49]	coref	49-32[49_50]
 49-27	_	literally	_	_	_	_
 49-28	_	open	_	_	_	_
-49-29	_	one	abstract[178]	new[178]	coref	49-35[178_179]
+49-29	_	one	abstract[179]	new[179]	coref	49-35[179_180]
 49-30	_	up	_	_	_	_
 49-31	_	and	_	_	_	_
 49-32	_	you	abstract[50]	new[50]	coref	49-38[50_51]
 49-33	_	can	_	_	_	_
 49-34	_	smell	_	_	_	_
-49-35	_	it	abstract[179]	new[179]	_	_
+49-35	_	it	abstract[180]	new[180]	_	_
 49-36	_	all	_	_	_	_
 49-37	_	over	_	_	_	_
 49-38	_	your	abstract[51]	new[51]	_	_
@@ -1090,10 +1090,10 @@
 50-6	_	but	_	_	_	_
 50-7	_	not	_	_	_	_
 50-8	_	to	_	_	_	_
-50-9	_	my	abstract[144]|abstract[181]	new[144]|new[181]	coref	51-1[144_145]
-50-10	_	like	abstract[181]	new[181]	_	_
-50-11	_	fullest	abstract[181]	new[181]	_	_
-50-12	_	capability	abstract[181]	new[181]	_	_
+50-9	_	my	abstract[144]|abstract[182]	new[144]|new[182]	coref	51-1[144_145]
+50-10	_	like	abstract[182]	new[182]	_	_
+50-11	_	fullest	abstract[182]	new[182]	_	_
+50-12	_	capability	abstract[182]	new[182]	_	_
 50-13	_	.	_	_	_	_
 
 #Text=I do n't know if you guys have seen those like TikToks where people try and drink different things like pickle juice and water and Gatorade .
@@ -1102,27 +1102,27 @@
 51-3	_	n't	_	_	_	_
 51-4	_	know	_	_	_	_
 51-5	_	if	_	_	_	_
-51-6	_	you	abstract[184]	new[184]	coref	53-2[184_185]
-51-7	_	guys	abstract[184]	new[184]	_	_
+51-6	_	you	abstract[185]	new[185]	coref	53-2[185_186]
+51-7	_	guys	abstract[185]	new[185]	_	_
 51-8	_	have	_	_	_	_
 51-9	_	seen	_	_	_	_
-51-10	_	those	abstract[182]	new[182]	coref	52-5[182_183]
-51-11	_	like	abstract[182]	new[182]	_	_
-51-12	_	TikToks	abstract[182]	new[182]	_	_
-51-13	_	where	abstract[182]	new[182]	_	_
-51-14	_	people	abstract[182]	new[182]	_	_
-51-15	_	try	abstract[182]	new[182]	_	_
-51-16	_	and	abstract[182]	new[182]	_	_
-51-17	_	drink	abstract[182]	new[182]	_	_
-51-18	_	different	abstract[182]	new[182]	_	_
-51-19	_	things	abstract[182]	new[182]	_	_
-51-20	_	like	abstract[182]	new[182]	_	_
-51-21	_	pickle	abstract[182]	new[182]	_	_
-51-22	_	juice	abstract[182]	new[182]	_	_
-51-23	_	and	abstract[182]	new[182]	_	_
-51-24	_	water	abstract[182]	new[182]	_	_
-51-25	_	and	abstract[182]	new[182]	_	_
-51-26	_	Gatorade	abstract[182]	new[182]	_	_
+51-10	_	those	abstract[183]	new[183]	coref	52-5[183_184]
+51-11	_	like	abstract[183]	new[183]	_	_
+51-12	_	TikToks	abstract[183]	new[183]	_	_
+51-13	_	where	abstract[183]	new[183]	_	_
+51-14	_	people	abstract[183]	new[183]	_	_
+51-15	_	try	abstract[183]	new[183]	_	_
+51-16	_	and	abstract[183]	new[183]	_	_
+51-17	_	drink	abstract[183]	new[183]	_	_
+51-18	_	different	abstract[183]	new[183]	_	_
+51-19	_	things	abstract[183]	new[183]	_	_
+51-20	_	like	abstract[183]	new[183]	_	_
+51-21	_	pickle	abstract[183]	new[183]	_	_
+51-22	_	juice	abstract[183]	new[183]	_	_
+51-23	_	and	abstract[183]	new[183]	_	_
+51-24	_	water	abstract[183]	new[183]	_	_
+51-25	_	and	abstract[183]	new[183]	_	_
+51-26	_	Gatorade	abstract[183]	new[183]	_	_
 51-27	_	.	_	_	_	_
 
 #Text=First of all , that 's like super inaccurate .
@@ -1130,7 +1130,7 @@
 52-2	_	of	_	_	_	_
 52-3	_	all	_	_	_	_
 52-4	_	,	_	_	_	_
-52-5	_	that	abstract[183]	new[183]	_	_
+52-5	_	that	abstract[184]	new[184]	_	_
 52-6	_	's	_	_	_	_
 52-7	_	like	_	_	_	_
 52-8	_	super	_	_	_	_
@@ -1139,10 +1139,10 @@
 
 #Text=When you drink , you can still , for example , I took like a ginger shot this morning , and it had cayenne pepper .
 53-1	_	When	_	_	_	_
-53-2	_	you	abstract[185]	new[185]	coref	53-5[185_186]
+53-2	_	you	abstract[186]	new[186]	coref	53-5[186_187]
 53-3	_	drink	_	_	_	_
 53-4	_	,	_	_	_	_
-53-5	_	you	abstract[186]	new[186]	coref	56-3[186_187]
+53-5	_	you	abstract[187]	new[187]	coref	56-3[187_188]
 53-6	_	can	_	_	_	_
 53-7	_	still	_	_	_	_
 53-8	_	,	_	_	_	_
@@ -1213,7 +1213,7 @@
 #Text=So , you can kind of distinguish if it 's like sweet or salty or tart um , but you ca n't really taste it to its fullest if that makes any sense .
 56-1	_	So	_	_	_	_
 56-2	_	,	_	_	_	_
-56-3	_	you	abstract[187]	new[187]	coref	56-20[187_188]
+56-3	_	you	abstract[188]	new[188]	coref	56-20[188_189]
 56-4	_	can	_	_	_	_
 56-5	_	kind	_	_	_	_
 56-6	_	of	_	_	_	_
@@ -1230,7 +1230,7 @@
 56-17	_	um	_	_	_	_
 56-18	_	,	_	_	_	_
 56-19	_	but	_	_	_	_
-56-20	_	you	abstract[188]	new[188]	coref	57-17[188_189]
+56-20	_	you	abstract[189]	new[189]	coref	57-17[189_190]
 56-21	_	ca	_	_	_	_
 56-22	_	n't	_	_	_	_
 56-23	_	really	_	_	_	_
@@ -1263,7 +1263,7 @@
 57-14	_	n't	_	_	_	_
 57-15	_	know	_	_	_	_
 57-16	_	if	_	_	_	_
-57-17	_	you	abstract[189]	new[189]	coref	59-10[189_190]
+57-17	_	you	abstract[190]	new[190]	_	_
 57-18	_	saw	_	_	_	_
 57-19	_	earlier	_	_	_	_
 57-20	_	.	_	_	_	_
@@ -1301,7 +1301,7 @@
 58-30	_	more	_	_	_	_
 58-31	_	so	_	_	_	_
 58-32	_	um	_	_	_	_
-58-33	_	I	abstract[157]	new[157]	_	_
+58-33	_	I	abstract[157]	new[157]	coref	59-8[157_158]
 58-34	_	'm	_	_	_	_
 58-35	_	able	_	_	_	_
 58-36	_	to	_	_	_	_
@@ -1310,18 +1310,30 @@
 58-39	_	textures	_	_	_	_
 58-40	_	.	_	_	_	_
 
-#Text=Just a few tips on how to vlog on your crappy day .
-59-1	_	Just	_	_	_	_
-59-2	_	a	_	_	_	_
-59-3	_	few	_	_	_	_
-59-4	_	tips	_	_	_	_
-59-5	_	on	_	_	_	_
-59-6	_	how	_	_	_	_
-59-7	_	to	_	_	_	_
-59-8	_	vlog	_	_	_	_
-59-9	_	on	_	_	_	_
-59-10	_	your	abstract[190]	new[190]	_	_
-59-11	_	crappy	_	_	_	_
-59-12	_	day	_	_	_	_
-59-13	_	.	_	_	_	_
+#Text=On Cooking with Ash and Harry : I 'll be cooking dinner out of avocado , the one - handed type , and more !
+59-1	_	On	_	_	_	_
+59-2	_	Cooking	_	_	_	_
+59-3	_	with	_	_	_	_
+59-4	_	Ash	_	_	_	_
+59-5	_	and	_	_	_	_
+59-6	_	Harry	_	_	_	_
+59-7	_	:	_	_	_	_
+59-8	_	I	abstract[158]	new[158]	_	_
+59-9	_	'll	_	_	_	_
+59-10	_	be	_	_	_	_
+59-11	_	cooking	_	_	_	_
+59-12	_	dinner	_	_	_	_
+59-13	_	out	_	_	_	_
+59-14	_	of	_	_	_	_
+59-15	_	avocado	_	_	_	_
+59-16	_	,	_	_	_	_
+59-17	_	the	_	_	_	_
+59-18	_	one	_	_	_	_
+59-19	_	-	_	_	_	_
+59-20	_	handed	_	_	_	_
+59-21	_	type	_	_	_	_
+59-22	_	,	_	_	_	_
+59-23	_	and	_	_	_	_
+59-24	_	more	_	_	_	_
+59-25	_	!	_	_	_	_
 

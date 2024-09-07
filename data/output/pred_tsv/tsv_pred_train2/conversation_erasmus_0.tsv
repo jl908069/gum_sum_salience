@@ -1482,16 +1482,28 @@
 82-46	_	God	abstract[118]	new[118]	_	_
 82-47	_	.	_	_	_	_
 
-#Text=Mitchell Roberts v. Matthew Collins — both parties are here .
-83-1	_	Mitchell	_	_	_	_
-83-2	_	Roberts	_	_	_	_
-83-3	_	v.	_	_	_	_
-83-4	_	Matthew	_	_	_	_
-83-5	_	Collins	_	_	_	_
-83-6	_	—	_	_	_	_
-83-7	_	both	_	_	_	_
-83-8	_	parties	_	_	_	_
-83-9	_	are	_	_	_	_
-83-10	_	here	_	_	_	_
-83-11	_	.	_	_	_	_
+#Text=I have to scream out for ya . See ya , ya , OK , ya , if you are all right .
+83-1	_	I	_	_	_	_
+83-2	_	have	_	_	_	_
+83-3	_	to	_	_	_	_
+83-4	_	scream	_	_	_	_
+83-5	_	out	_	_	_	_
+83-6	_	for	_	_	_	_
+83-7	_	ya	abstract[186]	new[186]	coref	83-10[186_187]
+83-8	_	.	_	_	_	_
+83-9	_	See	_	_	_	_
+83-10	_	ya	abstract[187]	new[187]	coref	83-12[187_188]
+83-11	_	,	_	_	_	_
+83-12	_	ya	abstract[188]	new[188]	coref	83-16[188_189]
+83-13	_	,	_	_	_	_
+83-14	_	OK	_	_	_	_
+83-15	_	,	_	_	_	_
+83-16	_	ya	abstract[189]	new[189]	coref	83-19[189_190]
+83-17	_	,	_	_	_	_
+83-18	_	if	_	_	_	_
+83-19	_	you	abstract[190]	new[190]	_	_
+83-20	_	are	_	_	_	_
+83-21	_	all	_	_	_	_
+83-22	_	right	_	_	_	_
+83-23	_	.	_	_	_	_
 

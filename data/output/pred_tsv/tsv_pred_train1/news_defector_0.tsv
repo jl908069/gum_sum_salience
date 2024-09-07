@@ -318,11 +318,11 @@
 14-15	_	and	_	_	_	_
 14-16	_	came	_	_	_	_
 14-17	_	upon	_	_	_	_
-14-18	_	a	abstract[129]	new[129]	coref	35-9[129_130]
-14-19	_	blog	abstract[129]	new[129]	_	_
-14-20	_	written	abstract[129]	new[129]	_	_
-14-21	_	by	abstract[129]	new[129]	_	_
-14-22	_	Rathbun	abstract[77]|abstract[129]	new[77]|new[129]	coref	17-3[77_78]
+14-18	_	a	abstract[131]	new[131]	coref	35-9[131_132]
+14-19	_	blog	abstract[131]	new[131]	_	_
+14-20	_	written	abstract[131]	new[131]	_	_
+14-21	_	by	abstract[131]	new[131]	_	_
+14-22	_	Rathbun	abstract[77]|abstract[131]	new[77]|new[131]	coref	17-3[77_78]
 14-23	_	.	_	_	_	_
 
 #Text=Montalvo contacted former members of Scientology , who helped him leave the organization and get in touch with Devocht .
@@ -351,7 +351,7 @@
 16-1	_	He	abstract[14]	new[14]	coref	16-13[14_15]
 16-2	_	traveled	_	_	_	_
 16-3	_	to	_	_	_	_
-16-4	_	Florida	abstract[124]	new[124]	coref	32-13[124_125]
+16-4	_	Florida	abstract[129]	new[129]	coref	32-13[129_130]
 16-5	_	to	_	_	_	_
 16-6	_	meet	_	_	_	_
 16-7	_	with	_	_	_	_
@@ -375,7 +375,7 @@
 #Text=According to Rathbun the Scientology property in question was returned by mail to the organization by Montalvo shortly after he left the Sea Org .
 17-1	_	According	_	_	_	_
 17-2	_	to	_	_	_	_
-17-3	_	Rathbun	abstract[78]	new[78]	coref	20-1[78_79]
+17-3	_	Rathbun	abstract[78]	new[78]	coref	20-2[78_79]
 17-4	_	the	abstract[95]	new[95]	coref	18-9[95_96]
 17-5	_	Scientology	abstract[58]|abstract[95]	new[58]|new[95]	coref	17-14[58_59]
 17-6	_	property	abstract[95]	new[95]	_	_
@@ -428,41 +428,82 @@
 19-13	_	his	abstract[19]	new[19]	coref	19-16[19_20]
 19-14	_	mother	_	_	_	_
 19-15	_	,	_	_	_	_
-19-16	_	Montalvo	abstract[20]	new[20]	coref	21-7[20_21]
+19-16	_	Montalvo	abstract[20]	new[20]	coref	21-6[20_21]
 19-17	_	was	_	_	_	_
 19-18	_	instead	_	_	_	_
 19-19	_	put	_	_	_	_
 19-20	_	through	_	_	_	_
 19-21	_	to	_	_	_	_
-19-22	_	a	abstract[97]	new[97]	coref	21-2[97_98]
-19-23	_	Scientology	abstract[62]|abstract[97]	new[62]|new[97]	coref	22-7[62_63]
-19-24	_	attorney	abstract[97]	new[97]	_	_
-19-25	_	,	abstract[97]	new[97]	_	_
-19-26	_	Kendrick	abstract[97]	new[97]	_	_
-19-27	_	Moxon	abstract[97]	new[97]	_	_
+19-22	_	a	abstract[99]	new[99]	coref	21-1[99_100]
+19-23	_	Scientology	abstract[62]|abstract[99]	new[62]|new[99]	coref	22-7[62_63]
+19-24	_	attorney	abstract[99]	new[99]	_	_
+19-25	_	,	abstract[99]	new[99]	_	_
+19-26	_	Kendrick	abstract[99]	new[99]	_	_
+19-27	_	Moxon	abstract[99]	new[99]	_	_
 19-28	_	.	_	_	_	_
 
-#Text=Rathbun wrote , " New social movement routs terror in America .
+#Text=Rathbun wrote , " On September 12 , 2015 , at least 107 people were killed and 238 wounded at Mecca 's Grand Mosque in Saudi Arabia when a storm caused a construction crane to collapse just ten days before the beginning of the Hajj , Islam 's annual pilgrimage to Mecca .
 20-1	_	Rathbun	abstract[79]	new[79]	coref	23-3[79_80]
 20-2	_	wrote	_	_	_	_
 20-3	_	,	_	_	_	_
 20-4	_	"	_	_	_	_
-20-5	_	New	_	_	_	_
-20-6	_	social	_	_	_	_
-20-7	_	movement	_	_	_	_
-20-8	_	routs	_	_	_	_
-20-9	_	terror	_	_	_	_
-20-10	_	in	_	_	_	_
-20-11	_	America	_	_	_	_
-20-12	_	.	_	_	_	_
+20-5	_	On	_	_	_	_
+20-6	_	September	_	_	_	_
+20-7	_	12	_	_	_	_
+20-8	_	,	_	_	_	_
+20-9	_	2015	_	_	_	_
+20-10	_	,	_	_	_	_
+20-11	_	at	_	_	_	_
+20-12	_	least	_	_	_	_
+20-13	_	107	_	_	_	_
+20-14	_	people	_	_	_	_
+20-15	_	were	_	_	_	_
+20-16	_	killed	_	_	_	_
+20-17	_	and	_	_	_	_
+20-18	_	238	_	_	_	_
+20-19	_	wounded	_	_	_	_
+20-20	_	at	_	_	_	_
+20-21	_	Mecca	abstract[97]	new[97]	coref	20-53[97_98]
+20-22	_	's	abstract[97]	new[97]	_	_
+20-23	_	Grand	_	_	_	_
+20-24	_	Mosque	_	_	_	_
+20-25	_	in	_	_	_	_
+20-26	_	Saudi	_	_	_	_
+20-27	_	Arabia	_	_	_	_
+20-28	_	when	_	_	_	_
+20-29	_	a	_	_	_	_
+20-30	_	storm	_	_	_	_
+20-31	_	caused	_	_	_	_
+20-32	_	a	_	_	_	_
+20-33	_	construction	_	_	_	_
+20-34	_	crane	_	_	_	_
+20-35	_	to	_	_	_	_
+20-36	_	collapse	_	_	_	_
+20-37	_	just	_	_	_	_
+20-38	_	ten	_	_	_	_
+20-39	_	days	_	_	_	_
+20-40	_	before	_	_	_	_
+20-41	_	the	_	_	_	_
+20-42	_	beginning	_	_	_	_
+20-43	_	of	_	_	_	_
+20-44	_	the	_	_	_	_
+20-45	_	Hajj	_	_	_	_
+20-46	_	,	_	_	_	_
+20-47	_	Islam	_	_	_	_
+20-48	_	's	_	_	_	_
+20-49	_	annual	_	_	_	_
+20-50	_	pilgrimage	_	_	_	_
+20-51	_	to	_	_	_	_
+20-52	_	Mecca	abstract[98]	new[98]	_	_
+20-53	_	.	_	_	_	_
 
 #Text=Moxon proceeded to lie to Daniel that the hard drives were never returned , and made a convincing case ( not difficult to do with a 19 year old who does not even know the three branches of government ) that Daniel would be put behind iron bars for a good long time , UNLESS of course , he returned and cooperated with Moxon and routed out properly . "
-21-1	_	Moxon	abstract[98]	new[98]	coref	21-65[98_99]
+21-1	_	Moxon	abstract[100]	new[100]	coref	21-64[100_101]
 21-2	_	proceeded	_	_	_	_
 21-3	_	to	_	_	_	_
 21-4	_	lie	_	_	_	_
 21-5	_	to	_	_	_	_
-21-6	_	Daniel	abstract[21]	new[21]	coref	21-27[21_22]
+21-6	_	Daniel	abstract[21]	new[21]	coref	21-26[21_22]
 21-7	_	that	_	_	_	_
 21-8	_	the	_	_	_	_
 21-9	_	hard	_	_	_	_
@@ -482,7 +523,7 @@
 21-23	_	to	_	_	_	_
 21-24	_	do	_	_	_	_
 21-25	_	with	_	_	_	_
-21-26	_	a	abstract[22]	new[22]	coref	21-43[22_23]
+21-26	_	a	abstract[22]	new[22]	coref	21-42[22_23]
 21-27	_	19	abstract[22]	new[22]	_	_
 21-28	_	year	abstract[22]	new[22]	_	_
 21-29	_	old	abstract[22]	new[22]	_	_
@@ -498,7 +539,7 @@
 21-39	_	government	abstract[22]	new[22]	_	_
 21-40	_	)	_	_	_	_
 21-41	_	that	_	_	_	_
-21-42	_	Daniel	abstract[23]	new[23]	coref	21-60[23_24]
+21-42	_	Daniel	abstract[23]	new[23]	coref	21-59[23_24]
 21-43	_	would	_	_	_	_
 21-44	_	be	_	_	_	_
 21-45	_	put	_	_	_	_
@@ -520,7 +561,7 @@
 21-61	_	and	_	_	_	_
 21-62	_	cooperated	_	_	_	_
 21-63	_	with	_	_	_	_
-21-64	_	Moxon	abstract[99]	new[99]	_	_
+21-64	_	Moxon	abstract[101]	new[101]	_	_
 21-65	_	and	_	_	_	_
 21-66	_	routed	_	_	_	_
 21-67	_	out	_	_	_	_
@@ -573,8 +614,8 @@
 23-6	_	detective	_	_	_	_
 23-7	_	for	_	_	_	_
 23-8	_	the	_	_	_	_
-23-9	_	Los	abstract[107]	new[107]	coref	29-8[107_108]
-23-10	_	Angeles	abstract[107]	new[107]	_	_
+23-9	_	Los	abstract[109]	new[109]	coref	29-8[109_110]
+23-10	_	Angeles	abstract[109]	new[109]	_	_
 23-11	_	Sheriff	_	_	_	_
 23-12	_	's	_	_	_	_
 23-13	_	office	_	_	_	_
@@ -586,10 +627,10 @@
 23-19	_	Scientology	abstract[65]	new[65]	_	_
 23-20	_	to	_	_	_	_
 23-21	_	build	_	_	_	_
-23-22	_	a	abstract[111]	new[111]	coref	29-20[111_112]
-23-23	_	case	abstract[111]	new[111]	_	_
-23-24	_	against	abstract[111]	new[111]	_	_
-23-25	_	Montalvo	abstract[25]|abstract[111]	new[25]|new[111]	coref	25-2[25_26]
+23-22	_	a	abstract[116]	new[116]	coref	29-20[116_117]
+23-23	_	case	abstract[116]	new[116]	_	_
+23-24	_	against	abstract[116]	new[116]	_	_
+23-25	_	Montalvo	abstract[25]|abstract[116]	new[25]|new[116]	coref	25-2[25_26]
 23-26	_	.	_	_	_	_
 
 #Text=Rathbun stated ,
@@ -671,15 +712,15 @@
 28-1	_	Rathbun	abstract[82]	new[82]	coref	28-21[82_83]
 28-2	_	asserted	_	_	_	_
 28-3	_	that	_	_	_	_
-28-4	_	Scientology	abstract[100]	new[100]	coref	28-28[100_101]
+28-4	_	Scientology	abstract[102]	new[102]	coref	28-28[102_103]
 28-5	_	officials	_	_	_	_
 28-6	_	,	_	_	_	_
 28-7	_	"	_	_	_	_
 28-8	_	...	_	_	_	_
 28-9	_	plied	_	_	_	_
-28-10	_	the	abstract[105]	new[105]	coref	29-7[105_106]
-28-11	_	Sheriff	abstract[105]	new[105]	_	_
-28-12	_	's	abstract[105]	new[105]	_	_
+28-10	_	the	abstract[107]	new[107]	coref	29-7[107_108]
+28-11	_	Sheriff	abstract[107]	new[107]	_	_
+28-12	_	's	abstract[107]	new[107]	_	_
 28-13	_	detective	_	_	_	_
 28-14	_	with	_	_	_	_
 28-15	_	a	_	_	_	_
@@ -695,10 +736,10 @@
 28-25	_	anti-christ	_	_	_	_
 28-26	_	'	_	_	_	_
 28-27	_	of	_	_	_	_
-28-28	_	the	abstract[101]	new[101]	coref	30-5[101_102]
-28-29	_	church	abstract[101]	new[101]	_	_
-28-30	_	of	abstract[101]	new[101]	_	_
-28-31	_	Scientology	abstract[101]	new[101]	_	_
+28-28	_	the	abstract[103]	new[103]	coref	30-5[103_104]
+28-29	_	church	abstract[103]	new[103]	_	_
+28-30	_	of	abstract[103]	new[103]	_	_
+28-31	_	Scientology	abstract[103]	new[103]	_	_
 28-32	_	.	_	_	_	_
 28-33	_	...	_	_	_	_
 28-34	_	The	_	_	_	_
@@ -723,29 +764,29 @@
 28-53	_	"	_	_	_	_
 
 #Text=Steve Whitmore , a representative for the LA Sheriff 's office , told LA Weekly in a statement that the case involving Montalvo was being dealt with as charges relating to grand theft .
-29-1	_	Steve	abstract[113]	new[113]	coref	30-1[113_114]
-29-2	_	Whitmore	abstract[113]	new[113]	_	_
-29-3	_	,	abstract[113]	new[113]	_	_
-29-4	_	a	abstract[113]	new[113]	_	_
-29-5	_	representative	abstract[113]	new[113]	_	_
-29-6	_	for	abstract[113]	new[113]	_	_
-29-7	_	the	abstract[106]|abstract[113]	new[106]|new[113]	_	_
-29-8	_	LA	abstract[106]|abstract[108]|abstract[113]	new[106]|new[108]|new[113]	coref	29-14[108_109]
-29-9	_	Sheriff	abstract[106]|abstract[113]	new[106]|new[113]	_	_
-29-10	_	's	abstract[106]|abstract[113]	new[106]|new[113]	_	_
-29-11	_	office	abstract[113]	new[113]	_	_
+29-1	_	Steve	abstract[118]	new[118]	coref	30-1[118_119]
+29-2	_	Whitmore	abstract[118]	new[118]	_	_
+29-3	_	,	abstract[118]	new[118]	_	_
+29-4	_	a	abstract[118]	new[118]	_	_
+29-5	_	representative	abstract[118]	new[118]	_	_
+29-6	_	for	abstract[118]	new[118]	_	_
+29-7	_	the	abstract[108]|abstract[118]	new[108]|new[118]	_	_
+29-8	_	LA	abstract[108]|abstract[110]|abstract[118]	new[108]|new[110]|new[118]	coref	29-14[110_111]
+29-9	_	Sheriff	abstract[108]|abstract[118]	new[108]|new[118]	_	_
+29-10	_	's	abstract[108]|abstract[118]	new[108]|new[118]	_	_
+29-11	_	office	abstract[118]	new[118]	_	_
 29-12	_	,	_	_	_	_
 29-13	_	told	_	_	_	_
-29-14	_	LA	abstract[109]|abstract[121]	new[109]|new[121]	coref|coref	30-10[109_110]|32-3[121_122]
-29-15	_	Weekly	abstract[121]	new[121]	_	_
+29-14	_	LA	abstract[111]|abstract[126]	new[111]|new[126]	coref|coref	30-10[111_112]|32-3[126_127]
+29-15	_	Weekly	abstract[126]	new[126]	_	_
 29-16	_	in	_	_	_	_
 29-17	_	a	_	_	_	_
 29-18	_	statement	_	_	_	_
 29-19	_	that	_	_	_	_
-29-20	_	the	abstract[112]	new[112]	_	_
-29-21	_	case	abstract[112]	new[112]	_	_
-29-22	_	involving	abstract[112]	new[112]	_	_
-29-23	_	Montalvo	abstract[34]|abstract[112]	new[34]|new[112]	coref	30-3[34_35]
+29-20	_	the	abstract[117]	new[117]	_	_
+29-21	_	case	abstract[117]	new[117]	_	_
+29-22	_	involving	abstract[117]	new[117]	_	_
+29-23	_	Montalvo	abstract[34]|abstract[117]	new[34]|new[117]	coref	30-3[34_35]
 29-24	_	was	_	_	_	_
 29-25	_	being	_	_	_	_
 29-26	_	dealt	_	_	_	_
@@ -759,29 +800,29 @@
 29-34	_	.	_	_	_	_
 
 #Text=Whitmore stated Montalvo left Scientology - related employment in Los Angeles on September 24 .
-30-1	_	Whitmore	abstract[114]	new[114]	coref	32-1[114_115]
+30-1	_	Whitmore	abstract[119]	new[119]	coref	32-1[119_120]
 30-2	_	stated	_	_	_	_
 30-3	_	Montalvo	abstract[35]	new[35]	coref	31-19[35_36]
 30-4	_	left	_	_	_	_
-30-5	_	Scientology	abstract[102]	new[102]	coref	31-5[102_103]
+30-5	_	Scientology	abstract[104]	new[104]	coref	31-5[104_105]
 30-6	_	-	_	_	_	_
 30-7	_	related	_	_	_	_
 30-8	_	employment	_	_	_	_
 30-9	_	in	_	_	_	_
-30-10	_	Los	abstract[110]	new[110]	_	_
-30-11	_	Angeles	abstract[110]	new[110]	_	_
+30-10	_	Los	abstract[112]	new[112]	coref	32-3[112_113]
+30-11	_	Angeles	abstract[112]	new[112]	_	_
 30-12	_	on	_	_	_	_
-30-13	_	September	abstract[117]	new[117]	coref	31-2[117_118]
+30-13	_	September	abstract[122]	new[122]	coref	31-2[122_123]
 30-14	_	24	_	_	_	_
 30-15	_	.	_	_	_	_
 
 #Text=On September 29 , Scientology officials went to the East Los Angeles sheriff 's station where they claimed Montalvo allegedly left the organization with computer hard drives .
 31-1	_	On	_	_	_	_
-31-2	_	September	abstract[118]	new[118]	_	_
+31-2	_	September	abstract[123]	new[123]	_	_
 31-3	_	29	_	_	_	_
 31-4	_	,	_	_	_	_
-31-5	_	Scientology	abstract[103]|abstract[119]	new[103]|new[119]	coref|coref	34-9[103_104]|31-17[119_120]
-31-6	_	officials	abstract[119]	new[119]	_	_
+31-5	_	Scientology	abstract[105]|abstract[124]	new[105]|new[124]	coref|coref	34-10[105_106]|31-17[124_125]
+31-6	_	officials	abstract[124]	new[124]	_	_
 31-7	_	went	_	_	_	_
 31-8	_	to	_	_	_	_
 31-9	_	the	_	_	_	_
@@ -792,7 +833,7 @@
 31-14	_	's	_	_	_	_
 31-15	_	station	_	_	_	_
 31-16	_	where	_	_	_	_
-31-17	_	they	abstract[120]	new[120]	_	_
+31-17	_	they	abstract[125]	new[125]	_	_
 31-18	_	claimed	_	_	_	_
 31-19	_	Montalvo	abstract[36]	new[36]	coref	32-15[36_37]
 31-20	_	allegedly	_	_	_	_
@@ -806,10 +847,10 @@
 31-28	_	.	_	_	_	_
 
 #Text=Whitmore told LA Weekly that on October 6 after traveling back from Florida , Montalvo " walked into lobby of the East L.A. station and turned himself in " , and told the police , " everything he did " .
-32-1	_	Whitmore	abstract[115]	new[115]	coref	33-1[115_116]
+32-1	_	Whitmore	abstract[120]	new[120]	coref	33-1[120_121]
 32-2	_	told	_	_	_	_
-32-3	_	LA	abstract[122]|abstract[126]	new[122]|new[126]	coref|coref	33-4[122_123]|32-23[126_127]
-32-4	_	Weekly	abstract[122]	new[122]	_	_
+32-3	_	LA	abstract[113]|abstract[127]	new[113]|new[127]	coref|coref	32-23[113_114]|33-4[127_128]
+32-4	_	Weekly	abstract[127]	new[127]	_	_
 32-5	_	that	_	_	_	_
 32-6	_	on	_	_	_	_
 32-7	_	October	_	_	_	_
@@ -818,7 +859,7 @@
 32-10	_	traveling	_	_	_	_
 32-11	_	back	_	_	_	_
 32-12	_	from	_	_	_	_
-32-13	_	Florida	abstract[125]	new[125]	_	_
+32-13	_	Florida	abstract[130]	new[130]	_	_
 32-14	_	,	_	_	_	_
 32-15	_	Montalvo	abstract[37]	new[37]	coref	32-27[37_38]
 32-16	_	"	_	_	_	_
@@ -828,7 +869,7 @@
 32-20	_	of	_	_	_	_
 32-21	_	the	_	_	_	_
 32-22	_	East	_	_	_	_
-32-23	_	L.A.	abstract[127]	new[127]	coref	33-4[127_128]
+32-23	_	L.A.	abstract[114]	new[114]	coref	33-4[114_115]
 32-24	_	station	_	_	_	_
 32-25	_	and	_	_	_	_
 32-26	_	turned	_	_	_	_
@@ -843,17 +884,17 @@
 32-35	_	,	_	_	_	_
 32-36	_	"	_	_	_	_
 32-37	_	everything	_	_	_	_
-32-38	_	he	abstract[39]	new[39]	coref	34-1[39_40]
+32-38	_	he	abstract[39]	new[39]	coref	34-2[39_40]
 32-39	_	did	_	_	_	_
 32-40	_	"	_	_	_	_
 32-41	_	.	_	_	_	_
 
 #Text=Whitmore stated to LA Weekly that the alleged crime involved five hard drives each of $ 200 in value .
-33-1	_	Whitmore	abstract[116]	new[116]	_	_
+33-1	_	Whitmore	abstract[121]	new[121]	_	_
 33-2	_	stated	_	_	_	_
 33-3	_	to	_	_	_	_
-33-4	_	LA	abstract[123]|abstract[128]	new[123]|new[128]	_	_
-33-5	_	Weekly	abstract[123]	new[123]	_	_
+33-4	_	LA	abstract[115]|abstract[128]	new[115]|new[128]	_	_
+33-5	_	Weekly	abstract[128]	new[128]	_	_
 33-6	_	that	_	_	_	_
 33-7	_	the	_	_	_	_
 33-8	_	alleged	_	_	_	_
@@ -879,7 +920,7 @@
 34-6	_	former	_	_	_	_
 34-7	_	members	_	_	_	_
 34-8	_	of	_	_	_	_
-34-9	_	Scientology	abstract[104]	new[104]	_	_
+34-9	_	Scientology	abstract[106]	new[106]	_	_
 34-10	_	,	_	_	_	_
 34-11	_	including	_	_	_	_
 34-12	_	musician	_	_	_	_
@@ -900,8 +941,8 @@
 35-6	_	statement	_	_	_	_
 35-7	_	made	_	_	_	_
 35-8	_	on	_	_	_	_
-35-9	_	his	abstract[85]|abstract[130]	new[85]|new[130]	coref	36-2[85_86]
-35-10	_	blog	abstract[130]	new[130]	_	_
+35-9	_	his	abstract[85]|abstract[132]	new[85]|new[132]	coref	36-1[85_86]
+35-10	_	blog	abstract[132]	new[132]	_	_
 35-11	_	,	_	_	_	_
 35-12	_	in	_	_	_	_
 35-13	_	order	_	_	_	_
@@ -909,7 +950,7 @@
 35-15	_	help	_	_	_	_
 35-16	_	Montalvo	abstract[41]	new[41]	coref	35-18[41_42]
 35-17	_	with	_	_	_	_
-35-18	_	his	abstract[42]	new[42]	coref	36-4[42_43]
+35-18	_	his	abstract[42]	new[42]	coref	36-3[42_43]
 35-19	_	legal	_	_	_	_
 35-20	_	defense	_	_	_	_
 35-21	_	financing	_	_	_	_
@@ -918,7 +959,7 @@
 #Text=He described Montalvo as an individual , " facing the penitentiary in thanks for the following sins : a) Leaving a lifehood of slavery to get a taste of freedom and the world . b) Refusing - despite every provocation and incentive and threat - to frame three guys who went out of their ways ( and dipped into their pockets ) to help the kid achieve that freedom . "
 36-1	_	He	abstract[86]	new[86]	_	_
 36-2	_	described	_	_	_	_
-36-3	_	Montalvo	abstract[43]	new[43]	coref	36-66[43_44]
+36-3	_	Montalvo	abstract[43]	new[43]	coref	36-65[43_44]
 36-4	_	as	_	_	_	_
 36-5	_	an	_	_	_	_
 36-6	_	individual	_	_	_	_
@@ -945,7 +986,7 @@
 36-27	_	a	_	_	_	_
 36-28	_	taste	_	_	_	_
 36-29	_	of	_	_	_	_
-36-30	_	freedom	abstract[131]	new[131]	coref	36-69[131_132]
+36-30	_	freedom	abstract[133]	new[133]	coref	36-68[133_134]
 36-31	_	and	_	_	_	_
 36-32	_	the	_	_	_	_
 36-33	_	world	_	_	_	_
@@ -983,8 +1024,8 @@
 36-65	_	the	abstract[44]	new[44]	_	_
 36-66	_	kid	abstract[44]	new[44]	_	_
 36-67	_	achieve	_	_	_	_
-36-68	_	that	abstract[132]	new[132]	_	_
-36-69	_	freedom	abstract[132]	new[132]	_	_
+36-68	_	that	abstract[134]	new[134]	_	_
+36-69	_	freedom	abstract[134]	new[134]	_	_
 36-70	_	.	_	_	_	_
 36-71	_	"	_	_	_	_
 

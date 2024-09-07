@@ -1182,7 +1182,7 @@
 
 #Text=Put it on YouTube !
 93-1	_	Put	_	_	_	_
-93-2	_	it	abstract[182]	new[182]	coref	94-6[182_183]
+93-2	_	it	abstract[181]	new[181]	coref	94-6[181_182]
 93-3	_	on	_	_	_	_
 93-4	_	YouTube	abstract[179]	new[179]	coref	94-8[179_180]
 93-5	_	!	_	_	_	_
@@ -1193,9 +1193,9 @@
 94-3	_	should	_	_	_	_
 94-4	_	I	abstract[138]	new[138]	coref	99-2[138_139]
 94-5	_	put	_	_	_	_
-94-6	_	this	abstract[183]	new[183]	coref	137-9[183_184]
+94-6	_	this	abstract[182]	new[182]	coref	137-9[182_183]
 94-7	_	on	_	_	_	_
-94-8	_	YouTube	abstract[180]	new[180]	coref	144-2[180_181]
+94-8	_	YouTube	abstract[180]	new[180]	_	_
 94-9	_	?	_	_	_	_
 
 #Text=Uh huh .
@@ -1263,13 +1263,13 @@
 #Text=I think these three ?
 104-1	_	I	abstract[141]	new[141]	_	_
 104-2	_	think	_	_	_	_
-104-3	_	these	abstract[185]	new[185]	coref	105-1[185_186]
-104-4	_	three	abstract[185]	new[185]	_	_
+104-3	_	these	abstract[184]	new[184]	coref	105-1[184_185]
+104-4	_	three	abstract[184]	new[184]	_	_
 104-5	_	?	_	_	_	_
 
 #Text=These three , I think .
-105-1	_	These	abstract[186]	new[186]	_	_
-105-2	_	three	abstract[186]	new[186]	_	_
+105-1	_	These	abstract[185]	new[185]	_	_
+105-2	_	three	abstract[185]	new[185]	_	_
 105-3	_	,	_	_	_	_
 105-4	_	I	abstract[156]	new[156]	_	_
 105-5	_	think	_	_	_	_
@@ -1418,24 +1418,24 @@
 127-1	_	I	abstract[166]	new[166]	coref	128-1[166_167]
 127-2	_	'm	_	_	_	_
 127-3	_	eating	_	_	_	_
-127-4	_	a	abstract[187]	new[187]	coref	128-3[187_188]
-127-5	_	cinnamon	abstract[187]	new[187]	_	_
-127-6	_	roll	abstract[187]	new[187]	_	_
-127-7	_	,	abstract[187]	new[187]	_	_
-127-8	_	a	abstract[187]	new[187]	_	_
-127-9	_	a	abstract[187]	new[187]	_	_
-127-10	_	cinnamon	abstract[187]	new[187]	_	_
-127-11	_	donut	abstract[187]	new[187]	_	_
+127-4	_	a	abstract[186]	new[186]	coref	128-3[186_187]
+127-5	_	cinnamon	abstract[186]	new[186]	_	_
+127-6	_	roll	abstract[186]	new[186]	_	_
+127-7	_	,	abstract[186]	new[186]	_	_
+127-8	_	a	abstract[186]	new[186]	_	_
+127-9	_	a	abstract[186]	new[186]	_	_
+127-10	_	cinnamon	abstract[186]	new[186]	_	_
+127-11	_	donut	abstract[186]	new[186]	_	_
 127-12	_	.	_	_	_	_
 
 #Text=You like it ?
 128-1	_	You	abstract[167]	new[167]	coref	132-3[167_168]
 128-2	_	like	_	_	_	_
-128-3	_	it	abstract[188]	new[188]	coref	129-1[188_189]
+128-3	_	it	abstract[187]	new[187]	coref	129-1[187_188]
 128-4	_	?	_	_	_	_
 
 #Text=It tastes good ?
-129-1	_	It	abstract[189]	new[189]	_	_
+129-1	_	It	abstract[188]	new[188]	_	_
 129-2	_	tastes	_	_	_	_
 129-3	_	good	_	_	_	_
 129-4	_	?	_	_	_	_
@@ -1460,13 +1460,13 @@
 132-5	_	that	_	_	_	_
 132-6	_	you	abstract[169]	new[169]	coref	132-11[169_170]
 132-7	_	had	_	_	_	_
-132-8	_	an	abstract[190]	new[190]	coref	134-6[190_191]
-132-9	_	outro	abstract[190]	new[190]	_	_
-132-10	_	that	abstract[190]	new[190]	_	_
-132-11	_	you	abstract[170]|abstract[190]	new[170]|new[190]	coref	134-2[170_171]
-132-12	_	've	abstract[190]	new[190]	_	_
-132-13	_	been	abstract[190]	new[190]	_	_
-132-14	_	practicing	abstract[190]	new[190]	_	_
+132-8	_	an	abstract[189]	new[189]	coref	134-6[189_190]
+132-9	_	outro	abstract[189]	new[189]	_	_
+132-10	_	that	abstract[189]	new[189]	_	_
+132-11	_	you	abstract[170]|abstract[189]	new[170]|new[189]	coref	134-2[170_171]
+132-12	_	've	abstract[189]	new[189]	_	_
+132-13	_	been	abstract[189]	new[189]	_	_
+132-14	_	practicing	abstract[189]	new[189]	_	_
 132-15	_	?	_	_	_	_
 
 #Text=Oh yeah
@@ -1479,7 +1479,7 @@
 134-3	_	want	_	_	_	_
 134-4	_	to	_	_	_	_
 134-5	_	give	_	_	_	_
-134-6	_	it	abstract[191]	new[191]	_	_
+134-6	_	it	abstract[190]	new[190]	_	_
 134-7	_	a	_	_	_	_
 134-8	_	try	_	_	_	_
 134-9	_	?	_	_	_	_
@@ -1504,16 +1504,16 @@
 137-6	_	the	_	_	_	_
 137-7	_	end	_	_	_	_
 137-8	_	of	_	_	_	_
-137-9	_	the	abstract[184]	new[184]	_	_
-137-10	_	video	abstract[184]	new[184]	_	_
+137-9	_	the	abstract[183]	new[183]	_	_
+137-10	_	video	abstract[183]	new[183]	_	_
 137-11	_	?	_	_	_	_
 
 #Text=What should the people watching do ?
 138-1	_	What	_	_	_	_
 138-2	_	should	_	_	_	_
-138-3	_	the	abstract[192]	new[192]	coref	139-10[192_193]
-138-4	_	people	abstract[192]	new[192]	_	_
-138-5	_	watching	abstract[192]	new[192]	_	_
+138-3	_	the	abstract[191]	new[191]	coref	139-10[191_192]
+138-4	_	people	abstract[191]	new[191]	_	_
+138-5	_	watching	abstract[191]	new[191]	_	_
 138-6	_	do	_	_	_	_
 138-7	_	?	_	_	_	_
 
@@ -1527,13 +1527,13 @@
 139-7	_	and	_	_	_	_
 139-8	_	then	_	_	_	_
 139-9	_	afterwards	_	_	_	_
-139-10	_	you	abstract[193]	new[193]	coref	139-16[193_194]
+139-10	_	you	abstract[192]	new[192]	coref	139-16[192_193]
 139-11	_	can	_	_	_	_
 139-12	_	do	_	_	_	_
 139-13	_	comments	_	_	_	_
 139-14	_	and	_	_	_	_
 139-15	_	then	_	_	_	_
-139-16	_	you	abstract[194]	new[194]	_	_
+139-16	_	you	abstract[193]	new[193]	_	_
 139-17	_	subscribe	_	_	_	_
 139-18	_	to	_	_	_	_
 139-19	_	the	_	_	_	_
@@ -1565,28 +1565,27 @@
 143-1	_	Bye	_	_	_	_
 143-2	_	!	_	_	_	_
 
-#Text=A YouTube video of Jasmine 's covid symptoms after her test on Dec. 16th of 2013 was very viral in the video .
-144-1	_	A	abstract[197]	new[197]	coref	144-21[197_198]
-144-2	_	YouTube	abstract[181]|abstract[197]	new[181]|new[197]	_	_
-144-3	_	video	abstract[197]	new[197]	_	_
-144-4	_	of	abstract[197]	new[197]	_	_
-144-5	_	Jasmine	abstract[195]|abstract[197]	new[195]|new[197]	coref	144-10[195_196]
-144-6	_	's	abstract[195]|abstract[197]	new[195]|new[197]	_	_
-144-7	_	covid	abstract[197]	new[197]	_	_
-144-8	_	symptoms	abstract[197]	new[197]	_	_
-144-9	_	after	abstract[197]	new[197]	_	_
-144-10	_	her	abstract[196]|abstract[197]	new[196]|new[197]	_	_
-144-11	_	test	abstract[197]	new[197]	_	_
-144-12	_	on	abstract[197]	new[197]	_	_
-144-13	_	Dec.	abstract[197]	new[197]	_	_
-144-14	_	16th	abstract[197]	new[197]	_	_
-144-15	_	of	abstract[197]	new[197]	_	_
-144-16	_	2013	abstract[197]	new[197]	_	_
-144-17	_	was	_	_	_	_
-144-18	_	very	_	_	_	_
-144-19	_	viral	_	_	_	_
-144-20	_	in	_	_	_	_
-144-21	_	the	abstract[198]	new[198]	_	_
-144-22	_	video	abstract[198]	new[198]	_	_
-144-23	_	.	_	_	_	_
+#Text=Jasmine , you know , Covid is one of the most often treated by medical professionals and has long known its effectiveness
+144-1	_	Jasmine	abstract[194]	new[194]	coref	144-3[194_195]
+144-2	_	,	_	_	_	_
+144-3	_	you	abstract[195]	new[195]	_	_
+144-4	_	know	_	_	_	_
+144-5	_	,	_	_	_	_
+144-6	_	Covid	abstract[196]	new[196]	coref	144-21[196_197]
+144-7	_	is	_	_	_	_
+144-8	_	one	_	_	_	_
+144-9	_	of	_	_	_	_
+144-10	_	the	_	_	_	_
+144-11	_	most	_	_	_	_
+144-12	_	often	_	_	_	_
+144-13	_	treated	_	_	_	_
+144-14	_	by	_	_	_	_
+144-15	_	medical	_	_	_	_
+144-16	_	professionals	_	_	_	_
+144-17	_	and	_	_	_	_
+144-18	_	has	_	_	_	_
+144-19	_	long	_	_	_	_
+144-20	_	known	_	_	_	_
+144-21	_	its	abstract[197]	new[197]	_	_
+144-22	_	effectiveness	_	_	_	_
 

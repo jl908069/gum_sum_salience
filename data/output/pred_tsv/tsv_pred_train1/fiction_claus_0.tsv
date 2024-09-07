@@ -4,12 +4,12 @@
 
 
 #Text=The Last Christmas of Mrs. Claus
-1-1	_	The	abstract[140]	new[140]	coref	60-2[140_141]
-1-2	_	Last	abstract[140]	new[140]	_	_
-1-3	_	Christmas	abstract[140]	new[140]	_	_
-1-4	_	of	abstract[140]	new[140]	_	_
-1-5	_	Mrs.	abstract[1]|abstract[140]	new[1]|new[140]	coref	3-1[1_2]
-1-6	_	Claus	abstract[1]|abstract[140]	new[1]|new[140]	_	_
+1-1	_	The	abstract[143]	new[143]	coref	60-2[143_144]
+1-2	_	Last	abstract[143]	new[143]	_	_
+1-3	_	Christmas	abstract[143]	new[143]	_	_
+1-4	_	of	abstract[143]	new[143]	_	_
+1-5	_	Mrs.	abstract[1]|abstract[143]	new[1]|new[143]	coref	3-1[1_2]
+1-6	_	Claus	abstract[1]|abstract[143]	new[1]|new[143]	_	_
 
 #Text=by Alex Wilson
 2-1	_	by	_	_	_	_
@@ -107,7 +107,7 @@
 8-5	_	San	_	_	_	_
 8-6	_	Diego	_	_	_	_
 8-7	_	and	_	_	_	_
-8-8	_	Cleveland	abstract[60]	new[60]	coref	16-19[60_61]
+8-8	_	Cleveland	abstract[61]	new[61]	coref	16-19[61_62]
 8-9	_	.	_	_	_	_
 
 #Text=Satellite coverage in Santa ’s Village was just another Christmas miracle , like faster - than - light travel and stuffing oneself through gas fireplaces with neither explosions nor lawsuits nipping at your heels .
@@ -171,8 +171,8 @@
 12-2	_	Betty	abstract[9]	new[9]	coref	13-1[9_10]
 12-3	_	had	_	_	_	_
 12-4	_	made	_	_	_	_
-12-5	_	Christmas	abstract[54]|abstract[62]	new[54]|new[62]	coref|coref	26-13[54_55]|17-35[62_63]
-12-6	_	Eve	abstract[62]	new[62]	_	_
+12-5	_	Christmas	abstract[54]|abstract[63]	new[54]|new[63]	coref|coref	26-13[54_55]|17-35[63_64]
+12-6	_	Eve	abstract[63]	new[63]	_	_
 12-7	_	dinner	_	_	_	_
 12-8	_	while	_	_	_	_
 12-9	_	listening	_	_	_	_
@@ -206,7 +206,7 @@
 13-11	_	of	_	_	_	_
 13-12	_	Gomez	_	_	_	_
 13-13	_	unloading	_	_	_	_
-13-14	_	his	abstract[106]	new[106]	coref	38-6[106_107]
+13-14	_	his	abstract[105]	new[105]	coref	38-6[105_106]
 13-15	_	Glock	_	_	_	_
 13-16	_	into	_	_	_	_
 13-17	_	a	_	_	_	_
@@ -244,14 +244,14 @@
 
 #Text=“ Her boys , ” as she called them , did n’t take a lot of eggnog in their rum .
 15-1	_	“	_	_	_	_
-15-2	_	Her	abstract[12]|abstract[57]	new[12]|new[57]	coref|coref	15-7[12_13]|15-19[57_58]
-15-3	_	boys	abstract[57]	new[57]	_	_
-15-4	_	,	abstract[57]	new[57]	_	_
-15-5	_	”	abstract[57]	new[57]	_	_
-15-6	_	as	abstract[57]	new[57]	_	_
-15-7	_	she	abstract[13]|abstract[57]	new[13]|new[57]	coref	17-25[13_14]
-15-8	_	called	abstract[57]	new[57]	_	_
-15-9	_	them	abstract[57]	new[57]	_	_
+15-2	_	Her	abstract[12]|abstract[58]	new[12]|new[58]	coref|coref	15-7[12_13]|15-19[58_59]
+15-3	_	boys	abstract[58]	new[58]	_	_
+15-4	_	,	abstract[58]	new[58]	_	_
+15-5	_	”	abstract[58]	new[58]	_	_
+15-6	_	as	abstract[58]	new[58]	_	_
+15-7	_	she	abstract[13]|abstract[58]	new[13]|new[58]	coref	17-25[13_14]
+15-8	_	called	abstract[58]	new[58]	_	_
+15-9	_	them	abstract[58]	new[58]	_	_
 15-10	_	,	_	_	_	_
 15-11	_	did	_	_	_	_
 15-12	_	n’t	_	_	_	_
@@ -261,7 +261,7 @@
 15-16	_	of	_	_	_	_
 15-17	_	eggnog	_	_	_	_
 15-18	_	in	_	_	_	_
-15-19	_	their	abstract[58]	new[58]	coref	36-3[58_59]
+15-19	_	their	abstract[59]	new[59]	coref	36-3[59_60]
 15-20	_	rum	_	_	_	_
 15-21	_	.	_	_	_	_
 
@@ -284,7 +284,7 @@
 16-16	_	the	_	_	_	_
 16-17	_	Pittsburgh	_	_	_	_
 16-18	_	-	_	_	_	_
-16-19	_	Cleveland	abstract[61]	new[61]	_	_
+16-19	_	Cleveland	abstract[62]	new[62]	_	_
 16-20	_	game	_	_	_	_
 16-21	_	in	_	_	_	_
 16-22	_	the	_	_	_	_
@@ -327,13 +327,13 @@
 17-32	_	a	_	_	_	_
 17-33	_	burden	_	_	_	_
 17-34	_	on	_	_	_	_
-17-35	_	this	abstract[63]	new[63]	coref	26-13[63_64]
-17-36	_	most	abstract[63]	new[63]	_	_
-17-37	_	wonderful	abstract[63]	new[63]	_	_
-17-38	_	night	abstract[63]	new[63]	_	_
-17-39	_	of	abstract[63]	new[63]	_	_
-17-40	_	the	abstract[63]	new[63]	_	_
-17-41	_	year	abstract[63]	new[63]	_	_
+17-35	_	this	abstract[64]	new[64]	coref	26-13[64_65]
+17-36	_	most	abstract[64]	new[64]	_	_
+17-37	_	wonderful	abstract[64]	new[64]	_	_
+17-38	_	night	abstract[64]	new[64]	_	_
+17-39	_	of	abstract[64]	new[64]	_	_
+17-40	_	the	abstract[64]	new[64]	_	_
+17-41	_	year	abstract[64]	new[64]	_	_
 17-42	_	.	_	_	_	_
 
 #Text=His white V - neck undershirt was tucked into his pants in front , pulled taught over his belly .
@@ -354,12 +354,12 @@
 18-15	_	pulled	_	_	_	_
 18-16	_	taught	_	_	_	_
 18-17	_	over	_	_	_	_
-18-18	_	his	abstract[33]|abstract[65]	new[33]|new[65]	coref|coref	19-8[33_34]|19-1[65_66]
-18-19	_	belly	abstract[65]	new[65]	_	_
+18-18	_	his	abstract[33]|abstract[66]	new[33]|new[66]	coref|coref	19-8[33_34]|19-1[66_67]
+18-19	_	belly	abstract[66]	new[66]	_	_
 18-20	_	.	_	_	_	_
 
 #Text=It stretched the neckhole halfway down to his happy trail .
-19-1	_	It	abstract[66]	new[66]	_	_
+19-1	_	It	abstract[67]	new[67]	_	_
 19-2	_	stretched	_	_	_	_
 19-3	_	the	_	_	_	_
 19-4	_	neckhole	_	_	_	_
@@ -372,11 +372,11 @@
 19-11	_	.	_	_	_	_
 
 #Text=His hands were finding their way through the armholes of his robe .
-20-1	_	His	abstract[35]|abstract[67]	new[35]|new[67]	coref|coref	20-11[35_36]|20-5[67_68]
-20-2	_	hands	abstract[67]	new[67]	_	_
+20-1	_	His	abstract[35]|abstract[68]	new[35]|new[68]	coref|coref	20-11[35_36]|20-5[68_69]
+20-2	_	hands	abstract[68]	new[68]	_	_
 20-3	_	were	_	_	_	_
 20-4	_	finding	_	_	_	_
-20-5	_	their	abstract[68]	new[68]	_	_
+20-5	_	their	abstract[69]	new[69]	_	_
 20-6	_	way	_	_	_	_
 20-7	_	through	_	_	_	_
 20-8	_	the	_	_	_	_
@@ -489,8 +489,8 @@
 26-10	_	alone	_	_	_	_
 26-11	_	again	_	_	_	_
 26-12	_	on	_	_	_	_
-26-13	_	Christmas	abstract[55]|abstract[64]	new[55]|new[64]	coref	57-3[55_56]
-26-14	_	Eve	abstract[64]	new[64]	_	_
+26-13	_	Christmas	abstract[55]|abstract[65]	new[55]|new[65]	coref	57-3[55_56]
+26-14	_	Eve	abstract[65]	new[65]	_	_
 26-15	_	?	_	_	_	_
 26-16	_	”	_	_	_	_
 
@@ -504,7 +504,7 @@
 27-7	_	like	_	_	_	_
 27-8	_	that	_	_	_	_
 27-9	_	,	_	_	_	_
-27-10	_	doll	abstract[73]	new[73]	coref	33-16[73_74]
+27-10	_	doll	abstract[74]	new[74]	coref	33-16[74_75]
 27-11	_	,	_	_	_	_
 27-12	_	”	_	_	_	_
 27-13	_	Santa	abstract[44]	new[44]	coref	29-1[44_45]
@@ -515,23 +515,23 @@
 28-1	_	“	_	_	_	_
 28-2	_	Think	_	_	_	_
 28-3	_	of	_	_	_	_
-28-4	_	the	abstract[142]	new[142]	coref	65-7[142_143]
-28-5	_	children	abstract[142]	new[142]	_	_
+28-4	_	the	abstract[145]	new[145]	coref	65-7[145_146]
+28-5	_	children	abstract[145]	new[145]	_	_
 28-6	_	.	_	_	_	_
 28-7	_	”	_	_	_	_
 
 #Text=He slung his belt around his back , and gave it a quick tug .
 29-1	_	He	abstract[45]	new[45]	coref	29-3[45_46]
 29-2	_	slung	_	_	_	_
-29-3	_	his	abstract[46]|abstract[69]	new[46]|new[69]	coref|coref	29-6[46_47]|29-11[69_70]
-29-4	_	belt	abstract[69]	new[69]	_	_
+29-3	_	his	abstract[46]|abstract[70]	new[46]|new[70]	coref|coref	29-6[46_47]|29-11[70_71]
+29-4	_	belt	abstract[70]	new[70]	_	_
 29-5	_	around	_	_	_	_
 29-6	_	his	abstract[47]	new[47]	coref	30-1[47_48]
 29-7	_	back	_	_	_	_
 29-8	_	,	_	_	_	_
 29-9	_	and	_	_	_	_
 29-10	_	gave	_	_	_	_
-29-11	_	it	abstract[70]	new[70]	_	_
+29-11	_	it	abstract[71]	new[71]	_	_
 29-12	_	a	_	_	_	_
 29-13	_	quick	_	_	_	_
 29-14	_	tug	_	_	_	_
@@ -550,13 +550,13 @@
 30-10	_	.	_	_	_	_
 
 #Text=A few crumpled bills in American currency fell out of his pocket .
-31-1	_	A	abstract[71]	new[71]	coref	32-6[71_72]
-31-2	_	few	abstract[71]	new[71]	_	_
-31-3	_	crumpled	abstract[71]	new[71]	_	_
-31-4	_	bills	abstract[71]	new[71]	_	_
-31-5	_	in	abstract[71]	new[71]	_	_
-31-6	_	American	abstract[71]	new[71]	_	_
-31-7	_	currency	abstract[71]	new[71]	_	_
+31-1	_	A	abstract[72]	new[72]	coref	32-6[72_73]
+31-2	_	few	abstract[72]	new[72]	_	_
+31-3	_	crumpled	abstract[72]	new[72]	_	_
+31-4	_	bills	abstract[72]	new[72]	_	_
+31-5	_	in	abstract[72]	new[72]	_	_
+31-6	_	American	abstract[72]	new[72]	_	_
+31-7	_	currency	abstract[72]	new[72]	_	_
 31-8	_	fell	_	_	_	_
 31-9	_	out	_	_	_	_
 31-10	_	of	_	_	_	_
@@ -570,7 +570,7 @@
 32-3	_	down	_	_	_	_
 32-4	_	to	_	_	_	_
 32-5	_	pick	_	_	_	_
-32-6	_	them	abstract[72]	new[72]	_	_
+32-6	_	them	abstract[73]	new[73]	_	_
 32-7	_	up	_	_	_	_
 32-8	_	,	_	_	_	_
 32-9	_	mumbling	_	_	_	_
@@ -597,7 +597,7 @@
 33-13	_	person	_	_	_	_
 33-14	_	?	_	_	_	_
 33-15	_	”	_	_	_	_
-33-16	_	Betty	abstract[74]	new[74]	coref	34-5[74_75]
+33-16	_	Betty	abstract[75]	new[75]	coref	34-5[75_76]
 33-17	_	asked	_	_	_	_
 33-18	_	.	_	_	_	_
 
@@ -606,13 +606,13 @@
 34-2	_	shouting	_	_	_	_
 34-3	_	erupted	_	_	_	_
 34-4	_	from	_	_	_	_
-34-5	_	Betty	abstract[75]|abstract[132]	new[75]|new[132]	coref|coref	35-1[75_76]|50-3[132_133]
-34-6	_	’s	abstract[75]|abstract[132]	new[75]|new[132]	_	_
-34-7	_	headset	abstract[132]	new[132]	_	_
+34-5	_	Betty	abstract[76]|abstract[135]	new[76]|new[135]	coref|coref	35-1[76_77]|50-3[135_136]
+34-6	_	’s	abstract[76]|abstract[135]	new[76]|new[135]	_	_
+34-7	_	headset	abstract[135]	new[135]	_	_
 34-8	_	.	_	_	_	_
 
 #Text=She imagined red and yellow mosaic bursts lighting up the sunless snowscape outside , as if there was an HDTV behind the blinds instead of their kitchen window .
-35-1	_	She	abstract[76]	new[76]	coref	69-52[76_77]
+35-1	_	She	abstract[77]	new[77]	_	_
 35-2	_	imagined	_	_	_	_
 35-3	_	red	_	_	_	_
 35-4	_	and	_	_	_	_
@@ -645,8 +645,8 @@
 #Text=One of her boys probably stepped on a landmine .
 36-1	_	One	_	_	_	_
 36-2	_	of	_	_	_	_
-36-3	_	her	abstract[59]|abstract[80]	new[59]|new[80]	coref	37-3[80_81]
-36-4	_	boys	abstract[59]	new[59]	_	_
+36-3	_	her	abstract[60]|abstract[80]	new[60]|new[80]	coref	37-3[80_81]
+36-4	_	boys	abstract[60]	new[60]	_	_
 36-5	_	probably	_	_	_	_
 36-6	_	stepped	_	_	_	_
 36-7	_	on	_	_	_	_
@@ -667,7 +667,7 @@
 38-3	_	she	abstract[83]	new[83]	coref	39-1[83_84]
 38-4	_	could	_	_	_	_
 38-5	_	hear	_	_	_	_
-38-6	_	Gomez	abstract[107]	new[107]	coref	53-6[107_108]
+38-6	_	Gomez	abstract[106]	new[106]	coref	53-6[106_107]
 38-7	_	laughing	_	_	_	_
 38-8	_	.	_	_	_	_
 
@@ -747,9 +747,9 @@
 43-3	_	bell	_	_	_	_
 43-4	_	chimed	_	_	_	_
 43-5	_	on	_	_	_	_
-43-6	_	Santa	abstract[115]|abstract[125]	new[115]|new[125]	coref|coref	44-5[115_116]|45-6[125_126]
-43-7	_	’s	abstract[115]|abstract[125]	new[115]|new[125]	_	_
-43-8	_	cell	abstract[125]	new[125]	_	_
+43-6	_	Santa	abstract[115]|abstract[128]	new[115]|new[128]	coref|coref	44-5[115_116]|45-6[128_129]
+43-7	_	’s	abstract[115]|abstract[128]	new[115]|new[128]	_	_
+43-8	_	cell	abstract[128]	new[128]	_	_
 43-9	_	.	_	_	_	_
 
 #Text=“ Nutcrackers , ” he said .
@@ -767,13 +767,13 @@
 45-3	_	ca	_	_	_	_
 45-4	_	n’t	_	_	_	_
 45-5	_	reach	_	_	_	_
-45-6	_	it	abstract[126]	new[126]	coref	56-3[126_127]
+45-6	_	it	abstract[129]	new[129]	coref	56-3[129_130]
 45-7	_	,	_	_	_	_
 45-8	_	and	_	_	_	_
 45-9	_	it	_	_	_	_
 45-10	_	’s	_	_	_	_
 45-11	_	probably	_	_	_	_
-45-12	_	Ginny	abstract[128]	new[128]	coref	47-2[128_129]
+45-12	_	Ginny	abstract[131]	new[131]	coref	47-2[131_132]
 45-13	_	.	_	_	_	_
 
 #Text=Would you be a doll ? ”
@@ -787,8 +787,8 @@
 
 #Text=“ Your secretary ’s calling , and you need me to answer it ?
 47-1	_	“	_	_	_	_
-47-2	_	Your	abstract[118]|abstract[129]	new[118]|new[129]	coref|coref	47-8[118_119]|58-3[129_130]
-47-3	_	secretary	abstract[129]	new[129]	_	_
+47-2	_	Your	abstract[118]|abstract[132]	new[118]|new[132]	coref|coref	47-8[118_119]|58-3[132_133]
+47-3	_	secretary	abstract[132]	new[132]	_	_
 47-4	_	’s	_	_	_	_
 47-5	_	calling	_	_	_	_
 47-6	_	,	_	_	_	_
@@ -822,10 +822,10 @@
 #Text=She lifted her headset ’s microphone to her mouth .
 50-1	_	She	abstract[92]	new[92]	coref	50-3[92_93]
 50-2	_	lifted	_	_	_	_
-50-3	_	her	abstract[93]|abstract[133]|abstract[136]	new[93]|new[133]|new[136]	coref|coref	50-8[93_94]|55-4[136_137]
-50-4	_	headset	abstract[133]|abstract[136]	new[133]|new[136]	_	_
-50-5	_	’s	abstract[133]|abstract[136]	new[133]|new[136]	_	_
-50-6	_	microphone	abstract[136]	new[136]	_	_
+50-3	_	her	abstract[93]|abstract[136]|abstract[139]	new[93]|new[136]|new[139]	coref|coref	50-8[93_94]|55-4[139_140]
+50-4	_	headset	abstract[136]|abstract[139]	new[136]|new[139]	_	_
+50-5	_	’s	abstract[136]|abstract[139]	new[136]|new[139]	_	_
+50-6	_	microphone	abstract[139]	new[139]	_	_
 50-7	_	to	_	_	_	_
 50-8	_	her	abstract[94]	new[94]	coref	51-2[94_95]
 50-9	_	mouth	_	_	_	_
@@ -838,19 +838,19 @@
 51-4	_	.	_	_	_	_
 
 #Text=Back in five . ”
-52-1	_	Back	abstract[134]	new[134]	coref	53-3[134_135]
-52-2	_	in	abstract[134]	new[134]	_	_
-52-3	_	five	abstract[134]	new[134]	_	_
+52-1	_	Back	abstract[137]	new[137]	coref	53-3[137_138]
+52-2	_	in	abstract[137]	new[137]	_	_
+52-3	_	five	abstract[137]	new[137]	_	_
 52-4	_	.	_	_	_	_
 52-5	_	”	_	_	_	_
 
 #Text=“ Copy that , ” Gomez said on the other end .
 53-1	_	“	_	_	_	_
 53-2	_	Copy	_	_	_	_
-53-3	_	that	abstract[135]	new[135]	_	_
+53-3	_	that	abstract[138]	new[138]	_	_
 53-4	_	,	_	_	_	_
 53-5	_	”	_	_	_	_
-53-6	_	Gomez	abstract[108]	new[108]	_	_
+53-6	_	Gomez	abstract[107]	new[107]	coref	69-19[107_108]
 53-7	_	said	_	_	_	_
 53-8	_	on	_	_	_	_
 53-9	_	the	_	_	_	_
@@ -879,17 +879,17 @@
 55-1	_	Betty	abstract[96]	new[96]	coref	55-4[96_97]
 55-2	_	switched	_	_	_	_
 55-3	_	off	_	_	_	_
-55-4	_	her	abstract[97]|abstract[137]	new[97]|new[137]	coref	56-1[97_98]
-55-5	_	headset	abstract[137]	new[137]	_	_
-55-6	_	mic	abstract[137]	new[137]	_	_
+55-4	_	her	abstract[97]|abstract[140]	new[97]|new[140]	coref	56-1[97_98]
+55-5	_	headset	abstract[140]	new[140]	_	_
+55-6	_	mic	abstract[140]	new[140]	_	_
 55-7	_	.	_	_	_	_
 
 #Text=She unclipped the cell phone from the back of Santa ’s girdle , and pushed the button with the green arrow , serrated to look like a double - edged diving knife .
 56-1	_	She	abstract[98]	new[98]	coref	58-6[98_99]
 56-2	_	unclipped	_	_	_	_
-56-3	_	the	abstract[127]	new[127]	_	_
-56-4	_	cell	abstract[127]	new[127]	_	_
-56-5	_	phone	abstract[127]	new[127]	_	_
+56-3	_	the	abstract[130]	new[130]	_	_
+56-4	_	cell	abstract[130]	new[130]	_	_
+56-5	_	phone	abstract[130]	new[130]	_	_
 56-6	_	from	_	_	_	_
 56-7	_	the	_	_	_	_
 56-8	_	back	_	_	_	_
@@ -921,12 +921,12 @@
 
 #Text=Or a Christmas tree , if that was more your thing .
 57-1	_	Or	_	_	_	_
-57-2	_	a	abstract[138]	new[138]	coref	57-7[138_139]
-57-3	_	Christmas	abstract[56]|abstract[138]	new[56]|new[138]	_	_
-57-4	_	tree	abstract[138]	new[138]	_	_
+57-2	_	a	abstract[141]	new[141]	coref	57-7[141_142]
+57-3	_	Christmas	abstract[56]|abstract[141]	new[56]|new[141]	coref	69-24[56_57]
+57-4	_	tree	abstract[141]	new[141]	_	_
 57-5	_	,	_	_	_	_
 57-6	_	if	_	_	_	_
-57-7	_	that	abstract[139]	new[139]	_	_
+57-7	_	that	abstract[142]	new[142]	_	_
 57-8	_	was	_	_	_	_
 57-9	_	more	_	_	_	_
 57-10	_	your	_	_	_	_
@@ -936,7 +936,7 @@
 #Text=“ Hey Ginny , ” Betty said into the phone .
 58-1	_	“	_	_	_	_
 58-2	_	Hey	_	_	_	_
-58-3	_	Ginny	abstract[130]	new[130]	coref	59-9[130_131]
+58-3	_	Ginny	abstract[133]	new[133]	coref	59-9[133_134]
 58-4	_	,	_	_	_	_
 58-5	_	”	_	_	_	_
 58-6	_	Betty	abstract[99]	new[99]	coref	59-5[99_100]
@@ -955,14 +955,14 @@
 59-6	_	Claus	abstract[100]	new[100]	_	_
 59-7	_	,	_	_	_	_
 59-8	_	”	_	_	_	_
-59-9	_	Ginny	abstract[131]	new[131]	_	_
+59-9	_	Ginny	abstract[134]	new[134]	_	_
 59-10	_	said	_	_	_	_
 59-11	_	.	_	_	_	_
 
 #Text=“ Merry Christmas . ”
 60-1	_	“	_	_	_	_
-60-2	_	Merry	abstract[141]	new[141]	_	_
-60-3	_	Christmas	abstract[141]	new[141]	_	_
+60-2	_	Merry	abstract[144]	new[144]	_	_
+60-3	_	Christmas	abstract[144]	new[144]	_	_
 60-4	_	.	_	_	_	_
 60-5	_	”	_	_	_	_
 
@@ -1003,7 +1003,7 @@
 64-4	_	way	_	_	_	_
 64-5	_	,	_	_	_	_
 64-6	_	”	_	_	_	_
-64-7	_	Betty	abstract[104]	new[104]	coref	69-47[104_105]
+64-7	_	Betty	abstract[104]	new[104]	_	_
 64-8	_	said	_	_	_	_
 64-9	_	.	_	_	_	_
 
@@ -1014,8 +1014,8 @@
 65-4	_	just	_	_	_	_
 65-5	_	thinking	_	_	_	_
 65-6	_	of	_	_	_	_
-65-7	_	the	abstract[143]	new[143]	_	_
-65-8	_	children	abstract[143]	new[143]	_	_
+65-7	_	the	abstract[146]	new[146]	_	_
+65-8	_	children	abstract[146]	new[146]	_	_
 65-9	_	.	_	_	_	_
 
 #Text=One at a time .
@@ -1026,7 +1026,7 @@
 66-5	_	.	_	_	_	_
 
 #Text=He ’s very thorough . ”
-67-1	_	He	abstract[124]	new[124]	_	_
+67-1	_	He	abstract[124]	new[124]	coref	69-1[124_125]
 67-2	_	’s	_	_	_	_
 67-3	_	very	_	_	_	_
 67-4	_	thorough	_	_	_	_
@@ -1040,75 +1040,60 @@
 68-4	_	!	_	_	_	_
 68-5	_	”	_	_	_	_
 
-#Text=But how is the square root of one rounded , if you do n't multiply by the square root of each , to find how many squares a square root is , we have to do that one plus square root of negative two thirds . I do n't know if you know what . How is square root of negative two thirds squared or square root of negative two
-69-1	_	But	_	_	_	_
-69-2	_	how	_	_	_	_
-69-3	_	is	_	_	_	_
-69-4	_	the	_	_	_	_
-69-5	_	square	_	_	_	_
-69-6	_	root	_	_	_	_
-69-7	_	of	_	_	_	_
-69-8	_	one	_	_	_	_
-69-9	_	rounded	_	_	_	_
-69-10	_	,	_	_	_	_
-69-11	_	if	_	_	_	_
-69-12	_	you	_	_	_	_
-69-13	_	do	_	_	_	_
-69-14	_	n't	_	_	_	_
-69-15	_	multiply	_	_	_	_
-69-16	_	by	_	_	_	_
-69-17	_	the	_	_	_	_
-69-18	_	square	_	_	_	_
-69-19	_	root	_	_	_	_
-69-20	_	of	_	_	_	_
-69-21	_	each	_	_	_	_
-69-22	_	,	_	_	_	_
-69-23	_	to	_	_	_	_
-69-24	_	find	_	_	_	_
-69-25	_	how	_	_	_	_
-69-26	_	many	_	_	_	_
-69-27	_	squares	_	_	_	_
-69-28	_	a	_	_	_	_
-69-29	_	square	_	_	_	_
-69-30	_	root	_	_	_	_
-69-31	_	is	_	_	_	_
-69-32	_	,	_	_	_	_
-69-33	_	we	_	_	_	_
-69-34	_	have	_	_	_	_
-69-35	_	to	_	_	_	_
-69-36	_	do	_	_	_	_
-69-37	_	that	_	_	_	_
-69-38	_	one	_	_	_	_
-69-39	_	plus	_	_	_	_
-69-40	_	square	_	_	_	_
-69-41	_	root	_	_	_	_
-69-42	_	of	_	_	_	_
-69-43	_	negative	_	_	_	_
-69-44	_	two	_	_	_	_
-69-45	_	thirds	_	_	_	_
-69-46	_	.	_	_	_	_
-69-47	_	I	abstract[105]	new[105]	_	_
-69-48	_	do	_	_	_	_
-69-49	_	n't	_	_	_	_
-69-50	_	know	_	_	_	_
-69-51	_	if	_	_	_	_
-69-52	_	you	abstract[77]	new[77]	_	_
-69-53	_	know	_	_	_	_
-69-54	_	what	_	_	_	_
+#Text=Santa Claus 's second wife , Betty Moroz , plays online video games with her friends Williams and Gomez while making dinner on Christmas Eve , and is then disappointed when Santa gets a call from his secretary Ginny and goes out to take care of the children of the world , missing dinner .
+69-1	_	Santa	abstract[125]|abstract[147]	new[125]|new[147]	coref|coref	69-32[125_126]|69-15[147_148]
+69-2	_	Claus	abstract[125]|abstract[147]	new[125]|new[147]	_	_
+69-3	_	's	abstract[125]|abstract[147]	new[125]|new[147]	_	_
+69-4	_	second	abstract[147]	new[147]	_	_
+69-5	_	wife	abstract[147]	new[147]	_	_
+69-6	_	,	abstract[147]	new[147]	_	_
+69-7	_	Betty	abstract[147]	new[147]	_	_
+69-8	_	Moroz	abstract[147]	new[147]	_	_
+69-9	_	,	_	_	_	_
+69-10	_	plays	_	_	_	_
+69-11	_	online	_	_	_	_
+69-12	_	video	_	_	_	_
+69-13	_	games	_	_	_	_
+69-14	_	with	_	_	_	_
+69-15	_	her	abstract[148]	new[148]	_	_
+69-16	_	friends	_	_	_	_
+69-17	_	Williams	_	_	_	_
+69-18	_	and	_	_	_	_
+69-19	_	Gomez	abstract[108]	new[108]	_	_
+69-20	_	while	_	_	_	_
+69-21	_	making	_	_	_	_
+69-22	_	dinner	_	_	_	_
+69-23	_	on	_	_	_	_
+69-24	_	Christmas	abstract[57]	new[57]	_	_
+69-25	_	Eve	_	_	_	_
+69-26	_	,	_	_	_	_
+69-27	_	and	_	_	_	_
+69-28	_	is	_	_	_	_
+69-29	_	then	_	_	_	_
+69-30	_	disappointed	_	_	_	_
+69-31	_	when	_	_	_	_
+69-32	_	Santa	abstract[126]	new[126]	coref	69-37[126_127]
+69-33	_	gets	_	_	_	_
+69-34	_	a	_	_	_	_
+69-35	_	call	_	_	_	_
+69-36	_	from	_	_	_	_
+69-37	_	his	abstract[127]	new[127]	_	_
+69-38	_	secretary	_	_	_	_
+69-39	_	Ginny	_	_	_	_
+69-40	_	and	_	_	_	_
+69-41	_	goes	_	_	_	_
+69-42	_	out	_	_	_	_
+69-43	_	to	_	_	_	_
+69-44	_	take	_	_	_	_
+69-45	_	care	_	_	_	_
+69-46	_	of	_	_	_	_
+69-47	_	the	_	_	_	_
+69-48	_	children	_	_	_	_
+69-49	_	of	_	_	_	_
+69-50	_	the	_	_	_	_
+69-51	_	world	_	_	_	_
+69-52	_	,	_	_	_	_
+69-53	_	missing	_	_	_	_
+69-54	_	dinner	_	_	_	_
 69-55	_	.	_	_	_	_
-69-56	_	How	_	_	_	_
-69-57	_	is	_	_	_	_
-69-58	_	square	_	_	_	_
-69-59	_	root	_	_	_	_
-69-60	_	of	_	_	_	_
-69-61	_	negative	_	_	_	_
-69-62	_	two	_	_	_	_
-69-63	_	thirds	_	_	_	_
-69-64	_	squared	_	_	_	_
-69-65	_	or	_	_	_	_
-69-66	_	square	_	_	_	_
-69-67	_	root	_	_	_	_
-69-68	_	of	_	_	_	_
-69-69	_	negative	_	_	_	_
-69-70	_	two	_	_	_	_
 

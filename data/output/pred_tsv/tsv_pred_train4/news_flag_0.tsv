@@ -162,7 +162,7 @@
 8-21	_	twelve	abstract[25]	new[25]	_	_
 8-22	_	,	_	_	_	_
 8-23	_	said	_	_	_	_
-8-24	_	New	abstract[7]|abstract[48]	new[7]|new[48]	coref|coref	12-21[7_8]|19-11[48_49]
+8-24	_	New	abstract[7]|abstract[48]	new[7]|new[48]	coref|coref	12-21[7_8]|19-10[48_49]
 8-25	_	Zealand	abstract[7]|abstract[48]	new[7]|new[48]	_	_
 8-26	_	's	abstract[7]|abstract[48]	new[7]|new[48]	_	_
 8-27	_	flag	abstract[48]	new[48]	_	_
@@ -176,7 +176,7 @@
 8-35	_	choice	_	_	_	_
 8-36	_	.	_	_	_	_
 
-#Text=Professor Burrows also said resources and kits would be accessible for schools and communities , " The Hong Kong legislative election was held on Sunday , with a record - breaking turnout of around 2 million voters and turnout rate of 58 % . New faces emerged in the new council members , as veteran politicians stepped down in both the anti - establishment and pro - Beijing campuses .
+#Text=Professor Burrows also said resources and kits would be accessible for schools and communities , " Hong Kong legislative election results show'six - year - old 's anti - establishment campaign won seats in the districts
 9-1	_	Professor	abstract[26]	new[26]	_	_
 9-2	_	Burrows	abstract[26]	new[26]	_	_
 9-3	_	also	_	_	_	_
@@ -193,60 +193,26 @@
 9-14	_	communities	_	_	_	_
 9-15	_	,	_	_	_	_
 9-16	_	"	_	_	_	_
-9-17	_	The	_	_	_	_
-9-18	_	Hong	_	_	_	_
-9-19	_	Kong	_	_	_	_
-9-20	_	legislative	_	_	_	_
-9-21	_	election	_	_	_	_
-9-22	_	was	_	_	_	_
-9-23	_	held	_	_	_	_
-9-24	_	on	_	_	_	_
-9-25	_	Sunday	_	_	_	_
-9-26	_	,	_	_	_	_
-9-27	_	with	_	_	_	_
-9-28	_	a	_	_	_	_
-9-29	_	record	_	_	_	_
-9-30	_	-	_	_	_	_
-9-31	_	breaking	_	_	_	_
-9-32	_	turnout	_	_	_	_
-9-33	_	of	_	_	_	_
-9-34	_	around	_	_	_	_
-9-35	_	2	_	_	_	_
-9-36	_	million	_	_	_	_
-9-37	_	voters	_	_	_	_
-9-38	_	and	_	_	_	_
-9-39	_	turnout	_	_	_	_
-9-40	_	rate	_	_	_	_
-9-41	_	of	_	_	_	_
-9-42	_	58	_	_	_	_
-9-43	_	%	_	_	_	_
-9-44	_	.	_	_	_	_
-9-45	_	New	_	_	_	_
-9-46	_	faces	_	_	_	_
-9-47	_	emerged	_	_	_	_
-9-48	_	in	_	_	_	_
-9-49	_	the	_	_	_	_
-9-50	_	new	_	_	_	_
-9-51	_	council	_	_	_	_
-9-52	_	members	_	_	_	_
-9-53	_	,	_	_	_	_
-9-54	_	as	_	_	_	_
-9-55	_	veteran	_	_	_	_
-9-56	_	politicians	_	_	_	_
-9-57	_	stepped	_	_	_	_
-9-58	_	down	_	_	_	_
-9-59	_	in	_	_	_	_
-9-60	_	both	_	_	_	_
-9-61	_	the	_	_	_	_
-9-62	_	anti	_	_	_	_
-9-63	_	-	_	_	_	_
-9-64	_	establishment	_	_	_	_
-9-65	_	and	_	_	_	_
-9-66	_	pro	_	_	_	_
-9-67	_	-	_	_	_	_
-9-68	_	Beijing	_	_	_	_
-9-69	_	campuses	_	_	_	_
-9-70	_	.	_	_	_	_
+9-17	_	Hong	_	_	_	_
+9-18	_	Kong	_	_	_	_
+9-19	_	legislative	_	_	_	_
+9-20	_	election	_	_	_	_
+9-21	_	results	_	_	_	_
+9-22	_	show'six	_	_	_	_
+9-23	_	-	_	_	_	_
+9-24	_	year	_	_	_	_
+9-25	_	-	_	_	_	_
+9-26	_	old	_	_	_	_
+9-27	_	's	_	_	_	_
+9-28	_	anti	_	_	_	_
+9-29	_	-	_	_	_	_
+9-30	_	establishment	_	_	_	_
+9-31	_	campaign	_	_	_	_
+9-32	_	won	_	_	_	_
+9-33	_	seats	_	_	_	_
+9-34	_	in	_	_	_	_
+9-35	_	the	_	_	_	_
+9-36	_	districts	_	_	_	_
 
 #Text=For example , schools can run their own flag discussions and referendums to mirror the formal process as part of their own learning exercise " .
 10-1	_	For	_	_	_	_
@@ -422,7 +388,7 @@
 16-12	_	a	_	_	_	_
 16-13	_	verdict	_	_	_	_
 16-14	_	on	_	_	_	_
-16-15	_	the	abstract[44]	new[44]	coref	19-7[44_45]
+16-15	_	the	abstract[44]	new[44]	coref	19-6[44_45]
 16-16	_	flag	abstract[44]	new[44]	_	_
 16-17	_	,	_	_	_	_
 16-18	_	at	_	_	_	_
@@ -497,7 +463,7 @@
 18-26	_	.	_	_	_	_
 
 #Text=Voters would then choose between the new flag and their current flag early in 2016 .
-19-1	_	Voters	abstract[46]	new[46]	coref	19-11[46_47]
+19-1	_	Voters	abstract[46]	new[46]	coref	19-10[46_47]
 19-2	_	would	_	_	_	_
 19-3	_	then	_	_	_	_
 19-4	_	choose	_	_	_	_

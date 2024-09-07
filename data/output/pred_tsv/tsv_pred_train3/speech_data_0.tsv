@@ -1122,20 +1122,28 @@
 48-4	_	much	_	_	_	_
 48-5	_	.	_	_	_	_
 
-#Text=The Albanian Government has been elected to the General Assembly by the Albanian Parliament .
-49-1	_	The	abstract[135]	new[135]	coref	49-8[135_136]
-49-2	_	Albanian	abstract[135]	new[135]	_	_
-49-3	_	Government	abstract[135]	new[135]	_	_
-49-4	_	has	_	_	_	_
-49-5	_	been	_	_	_	_
-49-6	_	elected	_	_	_	_
+#Text=President - elect Ronald Reagan speaks to the General Assembly of the United Nations on his fifty - ninth anniversary on Thursday .
+49-1	_	President	abstract[135]	new[135]	coref	49-16[135_136]
+49-2	_	-	abstract[135]	new[135]	_	_
+49-3	_	elect	abstract[135]	new[135]	_	_
+49-4	_	Ronald	abstract[135]	new[135]	_	_
+49-5	_	Reagan	abstract[135]	new[135]	_	_
+49-6	_	speaks	_	_	_	_
 49-7	_	to	_	_	_	_
-49-8	_	the	abstract[136]	new[136]	_	_
-49-9	_	General	abstract[136]	new[136]	_	_
-49-10	_	Assembly	abstract[136]	new[136]	_	_
-49-11	_	by	_	_	_	_
+49-8	_	the	_	_	_	_
+49-9	_	General	_	_	_	_
+49-10	_	Assembly	_	_	_	_
+49-11	_	of	_	_	_	_
 49-12	_	the	_	_	_	_
-49-13	_	Albanian	_	_	_	_
-49-14	_	Parliament	_	_	_	_
-49-15	_	.	_	_	_	_
+49-13	_	United	_	_	_	_
+49-14	_	Nations	_	_	_	_
+49-15	_	on	_	_	_	_
+49-16	_	his	abstract[136]	new[136]	_	_
+49-17	_	fifty	_	_	_	_
+49-18	_	-	_	_	_	_
+49-19	_	ninth	_	_	_	_
+49-20	_	anniversary	_	_	_	_
+49-21	_	on	_	_	_	_
+49-22	_	Thursday	_	_	_	_
+49-23	_	.	_	_	_	_
 

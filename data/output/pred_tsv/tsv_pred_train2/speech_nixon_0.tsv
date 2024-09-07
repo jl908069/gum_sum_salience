@@ -11,17 +11,17 @@
 
 #Text=Announcing Decision To Resign the Office of President of the United States
 2-1	_	Announcing	_	_	_	_
-2-2	_	Decision	abstract[148]	new[148]	coref	28-20[148_149]
-2-3	_	To	abstract[148]	new[148]	_	_
-2-4	_	Resign	abstract[148]	new[148]	_	_
-2-5	_	the	abstract[79]|abstract[148]	new[79]|new[148]	coref	14-49[79_80]
-2-6	_	Office	abstract[79]|abstract[148]	new[79]|new[148]	_	_
-2-7	_	of	abstract[79]|abstract[148]	new[79]|new[148]	_	_
-2-8	_	President	abstract[79]|abstract[148]	new[79]|new[148]	_	_
-2-9	_	of	abstract[79]|abstract[148]	new[79]|new[148]	_	_
-2-10	_	the	abstract[2]|abstract[79]|abstract[148]	new[2]|new[79]|new[148]	coref	5-27[2_3]
-2-11	_	United	abstract[2]|abstract[79]|abstract[148]	new[2]|new[79]|new[148]	_	_
-2-12	_	States	abstract[2]|abstract[79]|abstract[148]	new[2]|new[79]|new[148]	_	_
+2-2	_	Decision	abstract[147]	new[147]	coref	28-20[147_148]
+2-3	_	To	abstract[147]	new[147]	_	_
+2-4	_	Resign	abstract[147]	new[147]	_	_
+2-5	_	the	abstract[79]|abstract[147]	new[79]|new[147]	coref	14-49[79_80]
+2-6	_	Office	abstract[79]|abstract[147]	new[79]|new[147]	_	_
+2-7	_	of	abstract[79]|abstract[147]	new[79]|new[147]	_	_
+2-8	_	President	abstract[79]|abstract[147]	new[79]|new[147]	_	_
+2-9	_	of	abstract[79]|abstract[147]	new[79]|new[147]	_	_
+2-10	_	the	abstract[2]|abstract[79]|abstract[147]	new[2]|new[79]|new[147]	coref	5-27[2_3]
+2-11	_	United	abstract[2]|abstract[79]|abstract[147]	new[2]|new[79]|new[147]	_	_
+2-12	_	States	abstract[2]|abstract[79]|abstract[147]	new[2]|new[79]|new[147]	_	_
 
 #Text=August 08 , 1974
 3-1	_	August	_	_	_	_
@@ -46,23 +46,23 @@
 5-9	_	to	_	_	_	_
 5-10	_	you	abstract[57]	new[57]	coref	6-10[57_58]
 5-11	_	from	_	_	_	_
-5-12	_	this	abstract[117]	new[117]	coref	21-15[117_118]
-5-13	_	office	abstract[117]	new[117]	_	_
-5-14	_	,	abstract[117]	new[117]	_	_
-5-15	_	where	abstract[117]	new[117]	_	_
-5-16	_	so	abstract[117]	new[117]	_	_
-5-17	_	many	abstract[117]	new[117]	_	_
-5-18	_	decisions	abstract[117]	new[117]	_	_
-5-19	_	have	abstract[117]	new[117]	_	_
-5-20	_	been	abstract[117]	new[117]	_	_
-5-21	_	made	abstract[117]	new[117]	_	_
-5-22	_	that	abstract[117]	new[117]	_	_
-5-23	_	shaped	abstract[117]	new[117]	_	_
-5-24	_	the	abstract[117]	new[117]	_	_
-5-25	_	history	abstract[117]	new[117]	_	_
-5-26	_	of	abstract[117]	new[117]	_	_
-5-27	_	this	abstract[3]|abstract[117]	new[3]|new[117]	_	_
-5-28	_	Nation	abstract[3]|abstract[117]	new[3]|new[117]	_	_
+5-12	_	this	abstract[116]	new[116]	coref	21-15[116_117]
+5-13	_	office	abstract[116]	new[116]	_	_
+5-14	_	,	abstract[116]	new[116]	_	_
+5-15	_	where	abstract[116]	new[116]	_	_
+5-16	_	so	abstract[116]	new[116]	_	_
+5-17	_	many	abstract[116]	new[116]	_	_
+5-18	_	decisions	abstract[116]	new[116]	_	_
+5-19	_	have	abstract[116]	new[116]	_	_
+5-20	_	been	abstract[116]	new[116]	_	_
+5-21	_	made	abstract[116]	new[116]	_	_
+5-22	_	that	abstract[116]	new[116]	_	_
+5-23	_	shaped	abstract[116]	new[116]	_	_
+5-24	_	the	abstract[116]	new[116]	_	_
+5-25	_	history	abstract[116]	new[116]	_	_
+5-26	_	of	abstract[116]	new[116]	_	_
+5-27	_	this	abstract[3]|abstract[116]	new[3]|new[116]	_	_
+5-28	_	Nation	abstract[3]|abstract[116]	new[3]|new[116]	_	_
 5-29	_	.	_	_	_	_
 
 #Text=Each time I have done so to discuss with you some matter that I believe affected the national interest .
@@ -235,8 +235,8 @@
 10-45	_	destabilizing	_	_	_	_
 10-46	_	precedent	_	_	_	_
 10-47	_	for	_	_	_	_
-10-48	_	the	abstract[144]	new[144]	coref	26-5[144_145]
-10-49	_	future	abstract[144]	new[144]	_	_
+10-48	_	the	abstract[143]	new[143]	coref	26-5[143_144]
+10-49	_	future	abstract[143]	new[143]	_	_
 10-50	_	.	_	_	_	_
 
 #Text=But with the disappearance of that base , I now believe that the constitutional purpose has been served , and there is no longer a need for the process to be prolonged .
@@ -397,7 +397,7 @@
 #Text=To leave office before my term is completed is abhorrent to every instinct in my body .
 16-1	_	To	_	_	_	_
 16-2	_	leave	_	_	_	_
-16-3	_	office	abstract[111]	new[111]	coref	20-6[111_112]
+16-3	_	office	abstract[110]	new[110]	coref	20-6[110_111]
 16-4	_	before	_	_	_	_
 16-5	_	my	abstract[25]|abstract[90]	new[25]|new[90]	coref|coref	16-15[25_26]|22-13[90_91]
 16-6	_	term	abstract[90]	new[90]	_	_
@@ -506,7 +506,7 @@
 19-46	_	without	_	_	_	_
 19-47	_	inflation	_	_	_	_
 19-48	_	at	_	_	_	_
-19-49	_	home	abstract[120]	new[120]	coref	22-8[120_121]
+19-49	_	home	abstract[119]	new[119]	coref	22-8[119_120]
 19-50	_	.	_	_	_	_
 
 #Text=Therefore , I shall resign the Presidency effective at noon tomorrow .
@@ -515,18 +515,18 @@
 20-3	_	I	abstract[31]	new[31]	coref	22-2[31_32]
 20-4	_	shall	_	_	_	_
 20-5	_	resign	_	_	_	_
-20-6	_	the	abstract[112]	new[112]	coref	24-3[112_113]
-20-7	_	Presidency	abstract[112]	new[112]	_	_
+20-6	_	the	abstract[111]	new[111]	coref	24-3[111_112]
+20-7	_	Presidency	abstract[111]	new[111]	_	_
 20-8	_	effective	_	_	_	_
 20-9	_	at	_	_	_	_
-20-10	_	noon	abstract[115]	new[115]	coref	21-12[115_116]
-20-11	_	tomorrow	abstract[115]	new[115]	_	_
+20-10	_	noon	abstract[114]	new[114]	coref	21-12[114_115]
+20-11	_	tomorrow	abstract[114]	new[114]	_	_
 20-12	_	.	_	_	_	_
 
 #Text=Vice President Ford will be sworn in as President at that hour in this office .
-21-1	_	Vice	abstract[124]	new[124]	coref	23-10[124_125]
-21-2	_	President	abstract[124]	new[124]	_	_
-21-3	_	Ford	abstract[124]	new[124]	_	_
+21-1	_	Vice	abstract[123]	new[123]	coref	23-10[123_124]
+21-2	_	President	abstract[123]	new[123]	_	_
+21-3	_	Ford	abstract[123]	new[123]	_	_
 21-4	_	will	_	_	_	_
 21-5	_	be	_	_	_	_
 21-6	_	sworn	_	_	_	_
@@ -534,29 +534,29 @@
 21-8	_	as	_	_	_	_
 21-9	_	President	_	_	_	_
 21-10	_	at	_	_	_	_
-21-11	_	that	abstract[116]	new[116]	_	_
-21-12	_	hour	abstract[116]	new[116]	_	_
+21-11	_	that	abstract[115]	new[115]	_	_
+21-12	_	hour	abstract[115]	new[115]	_	_
 21-13	_	in	_	_	_	_
-21-14	_	this	abstract[118]	new[118]	coref	22-29[118_119]
-21-15	_	office	abstract[118]	new[118]	_	_
+21-14	_	this	abstract[117]	new[117]	coref	22-29[117_118]
+21-15	_	office	abstract[117]	new[117]	_	_
 21-16	_	.	_	_	_	_
 
 #Text=As I recall the high hopes for America with which we began this second term , I feel a great sadness that I will not be here in this office working on your behalf to achieve those hopes in the next 2 1/2 years .
 22-1	_	As	_	_	_	_
 22-2	_	I	abstract[32]	new[32]	coref	22-17[32_33]
 22-3	_	recall	_	_	_	_
-22-4	_	the	abstract[122]	new[122]	coref	22-37[122_123]
-22-5	_	high	abstract[122]	new[122]	_	_
-22-6	_	hopes	abstract[122]	new[122]	_	_
-22-7	_	for	abstract[122]	new[122]	_	_
-22-8	_	America	abstract[121]|abstract[122]	new[121]|new[122]	_	_
-22-9	_	with	abstract[122]	new[122]	_	_
-22-10	_	which	abstract[122]	new[122]	_	_
-22-11	_	we	abstract[95]|abstract[122]	new[95]|new[122]	coref	26-2[95_96]
-22-12	_	began	abstract[122]	new[122]	_	_
-22-13	_	this	abstract[91]|abstract[122]	new[91]|new[122]	coref	33-11[91_92]
-22-14	_	second	abstract[91]|abstract[122]	new[91]|new[122]	_	_
-22-15	_	term	abstract[91]|abstract[122]	new[91]|new[122]	_	_
+22-4	_	the	abstract[121]	new[121]	coref	22-37[121_122]
+22-5	_	high	abstract[121]	new[121]	_	_
+22-6	_	hopes	abstract[121]	new[121]	_	_
+22-7	_	for	abstract[121]	new[121]	_	_
+22-8	_	America	abstract[120]|abstract[121]	new[120]|new[121]	_	_
+22-9	_	with	abstract[121]	new[121]	_	_
+22-10	_	which	abstract[121]	new[121]	_	_
+22-11	_	we	abstract[95]|abstract[121]	new[95]|new[121]	coref	26-2[95_96]
+22-12	_	began	abstract[121]	new[121]	_	_
+22-13	_	this	abstract[91]|abstract[121]	new[91]|new[121]	coref	33-11[91_92]
+22-14	_	second	abstract[91]|abstract[121]	new[91]|new[121]	_	_
+22-15	_	term	abstract[91]|abstract[121]	new[91]|new[121]	_	_
 22-16	_	,	_	_	_	_
 22-17	_	I	abstract[33]	new[33]	coref	22-23[33_34]
 22-18	_	feel	_	_	_	_
@@ -570,16 +570,16 @@
 22-26	_	be	_	_	_	_
 22-27	_	here	_	_	_	_
 22-28	_	in	_	_	_	_
-22-29	_	this	abstract[119]	new[119]	_	_
-22-30	_	office	abstract[119]	new[119]	_	_
+22-29	_	this	abstract[118]	new[118]	_	_
+22-30	_	office	abstract[118]	new[118]	_	_
 22-31	_	working	_	_	_	_
 22-32	_	on	_	_	_	_
 22-33	_	your	abstract[60]	new[60]	coref	33-23[60_61]
 22-34	_	behalf	_	_	_	_
 22-35	_	to	_	_	_	_
 22-36	_	achieve	_	_	_	_
-22-37	_	those	abstract[123]	new[123]	_	_
-22-38	_	hopes	abstract[123]	new[123]	_	_
+22-37	_	those	abstract[122]	new[122]	_	_
+22-38	_	hopes	abstract[122]	new[122]	_	_
 22-39	_	in	_	_	_	_
 22-40	_	the	_	_	_	_
 22-41	_	next	_	_	_	_
@@ -598,9 +598,9 @@
 23-7	_	the	_	_	_	_
 23-8	_	Government	_	_	_	_
 23-9	_	to	_	_	_	_
-23-10	_	Vice	abstract[125]	new[125]	coref	23-25[125_126]
-23-11	_	President	abstract[125]	new[125]	_	_
-23-12	_	Ford	abstract[125]	new[125]	_	_
+23-10	_	Vice	abstract[124]	new[124]	coref	23-25[124_125]
+23-11	_	President	abstract[124]	new[124]	_	_
+23-12	_	Ford	abstract[124]	new[124]	_	_
 23-13	_	,	_	_	_	_
 23-14	_	I	abstract[35]	new[35]	coref	23-18[35_36]
 23-15	_	know	_	_	_	_
@@ -608,12 +608,12 @@
 23-17	_	as	_	_	_	_
 23-18	_	I	abstract[36]	new[36]	coref	23-23[36_37]
 23-19	_	told	_	_	_	_
-23-20	_	the	abstract[127]	new[127]	coref	23-37[127_128]
-23-21	_	Nation	abstract[127]	new[127]	_	_
+23-20	_	the	abstract[126]	new[126]	coref	23-37[126_127]
+23-21	_	Nation	abstract[126]	new[126]	_	_
 23-22	_	when	_	_	_	_
 23-23	_	I	abstract[37]	new[37]	coref	24-10[37_38]
 23-24	_	nominated	_	_	_	_
-23-25	_	him	abstract[126]	new[126]	_	_
+23-25	_	him	abstract[125]	new[125]	_	_
 23-26	_	for	_	_	_	_
 23-27	_	that	_	_	_	_
 23-28	_	office	_	_	_	_
@@ -625,7 +625,7 @@
 23-34	_	the	_	_	_	_
 23-35	_	leadership	_	_	_	_
 23-36	_	of	_	_	_	_
-23-37	_	America	abstract[128]	new[128]	coref	26-18[128_129]
+23-37	_	America	abstract[127]	new[127]	coref	26-18[127_128]
 23-38	_	will	_	_	_	_
 23-39	_	be	_	_	_	_
 23-40	_	in	_	_	_	_
@@ -636,12 +636,12 @@
 #Text=In passing this office to the Vice President , I also do so with the profound sense of the weight of responsibility that will fall on his shoulders tomorrow and , therefore , of the understanding , the patience , the cooperation he will need from all Americans .
 24-1	_	In	_	_	_	_
 24-2	_	passing	_	_	_	_
-24-3	_	this	abstract[113]	new[113]	coref	33-4[113_114]
-24-4	_	office	abstract[113]	new[113]	_	_
+24-3	_	this	abstract[112]	new[112]	coref	33-4[112_113]
+24-4	_	office	abstract[112]	new[112]	_	_
 24-5	_	to	_	_	_	_
-24-6	_	the	abstract[134]	new[134]	coref	24-27[134_135]
-24-7	_	Vice	abstract[134]	new[134]	_	_
-24-8	_	President	abstract[134]	new[134]	_	_
+24-6	_	the	abstract[133]	new[133]	coref	24-27[133_134]
+24-7	_	Vice	abstract[133]	new[133]	_	_
+24-8	_	President	abstract[133]	new[133]	_	_
 24-9	_	,	_	_	_	_
 24-10	_	I	abstract[38]	new[38]	coref	27-6[38_39]
 24-11	_	also	_	_	_	_
@@ -655,12 +655,12 @@
 24-19	_	the	_	_	_	_
 24-20	_	weight	_	_	_	_
 24-21	_	of	_	_	_	_
-24-22	_	responsibility	abstract[140]	new[140]	coref	25-4[140_141]
+24-22	_	responsibility	abstract[139]	new[139]	coref	25-4[139_140]
 24-23	_	that	_	_	_	_
 24-24	_	will	_	_	_	_
 24-25	_	fall	_	_	_	_
 24-26	_	on	_	_	_	_
-24-27	_	his	abstract[135]	new[135]	coref	24-43[135_136]
+24-27	_	his	abstract[134]	new[134]	coref	24-43[134_135]
 24-28	_	shoulders	_	_	_	_
 24-29	_	tomorrow	_	_	_	_
 24-30	_	and	_	_	_	_
@@ -676,22 +676,22 @@
 24-40	_	,	_	_	_	_
 24-41	_	the	_	_	_	_
 24-42	_	cooperation	_	_	_	_
-24-43	_	he	abstract[136]	new[136]	coref	25-2[136_137]
+24-43	_	he	abstract[135]	new[135]	coref	25-2[135_136]
 24-44	_	will	_	_	_	_
 24-45	_	need	_	_	_	_
 24-46	_	from	_	_	_	_
-24-47	_	all	abstract[142]	new[142]	coref	25-16[142_143]
-24-48	_	Americans	abstract[142]	new[142]	_	_
+24-47	_	all	abstract[141]	new[141]	coref	25-16[141_142]
+24-48	_	Americans	abstract[141]	new[141]	_	_
 24-49	_	.	_	_	_	_
 
 #Text=As he assumes that responsibility , he will deserve the help and the support of all of us .
 25-1	_	As	_	_	_	_
-25-2	_	he	abstract[137]	new[137]	coref	25-7[137_138]
+25-2	_	he	abstract[136]	new[136]	coref	25-7[136_137]
 25-3	_	assumes	_	_	_	_
-25-4	_	that	abstract[141]	new[141]	_	_
-25-5	_	responsibility	abstract[141]	new[141]	_	_
+25-4	_	that	abstract[140]	new[140]	_	_
+25-5	_	responsibility	abstract[140]	new[140]	_	_
 25-6	_	,	_	_	_	_
-25-7	_	he	abstract[138]	new[138]	coref	32-17[138_139]
+25-7	_	he	abstract[137]	new[137]	coref	32-17[137_138]
 25-8	_	will	_	_	_	_
 25-9	_	deserve	_	_	_	_
 25-10	_	the	_	_	_	_
@@ -700,9 +700,9 @@
 25-13	_	the	_	_	_	_
 25-14	_	support	_	_	_	_
 25-15	_	of	_	_	_	_
-25-16	_	all	abstract[143]	new[143]	_	_
-25-17	_	of	abstract[143]	new[143]	_	_
-25-18	_	us	abstract[143]	new[143]	_	_
+25-16	_	all	abstract[142]	new[142]	_	_
+25-17	_	of	abstract[142]	new[142]	_	_
+25-18	_	us	abstract[142]	new[142]	_	_
 25-19	_	.	_	_	_	_
 
 #Text=As we look to the future , the first essential is to begin healing the wounds of this Nation , to put the bitterness and divisions of the recent past behind us and to rediscover those shared ideals that lie at the heart of our strength and unity as a great and as a free people .
@@ -710,12 +710,12 @@
 26-2	_	we	abstract[96]	new[96]	coref	26-32[96_97]
 26-3	_	look	_	_	_	_
 26-4	_	to	_	_	_	_
-26-5	_	the	abstract[145]	new[145]	_	_
-26-6	_	future	abstract[145]	new[145]	_	_
+26-5	_	the	abstract[144]	new[144]	_	_
+26-6	_	future	abstract[144]	new[144]	_	_
 26-7	_	,	_	_	_	_
-26-8	_	the	abstract[146]	new[146]	coref	27-16[146_147]
-26-9	_	first	abstract[146]	new[146]	_	_
-26-10	_	essential	abstract[146]	new[146]	_	_
+26-8	_	the	abstract[145]	new[145]	coref	27-16[145_146]
+26-9	_	first	abstract[145]	new[145]	_	_
+26-10	_	essential	abstract[145]	new[145]	_	_
 26-11	_	is	_	_	_	_
 26-12	_	to	_	_	_	_
 26-13	_	begin	_	_	_	_
@@ -723,8 +723,8 @@
 26-15	_	the	_	_	_	_
 26-16	_	wounds	_	_	_	_
 26-17	_	of	_	_	_	_
-26-18	_	this	abstract[129]	new[129]	coref	27-26[129_130]
-26-19	_	Nation	abstract[129]	new[129]	_	_
+26-18	_	this	abstract[128]	new[128]	coref	27-26[128_129]
+26-19	_	Nation	abstract[128]	new[128]	_	_
 26-20	_	,	_	_	_	_
 26-21	_	to	_	_	_	_
 26-22	_	put	_	_	_	_
@@ -755,13 +755,13 @@
 26-47	_	and	_	_	_	_
 26-48	_	unity	_	_	_	_
 26-49	_	as	_	_	_	_
-26-50	_	a	abstract[157]	new[157]	coref	31-31[157_158]
-26-51	_	great	abstract[157]	new[157]	_	_
-26-52	_	and	abstract[157]	new[157]	_	_
-26-53	_	as	abstract[157]	new[157]	_	_
-26-54	_	a	abstract[157]	new[157]	_	_
-26-55	_	free	abstract[157]	new[157]	_	_
-26-56	_	people	abstract[157]	new[157]	_	_
+26-50	_	a	abstract[156]	new[156]	coref	31-31[156_157]
+26-51	_	great	abstract[156]	new[156]	_	_
+26-52	_	and	abstract[156]	new[156]	_	_
+26-53	_	as	abstract[156]	new[156]	_	_
+26-54	_	a	abstract[156]	new[156]	_	_
+26-55	_	free	abstract[156]	new[156]	_	_
+26-56	_	people	abstract[156]	new[156]	_	_
 26-57	_	.	_	_	_	_
 
 #Text=By taking this action , I hope that I will have hastened the start of that process of healing which is so desperately needed in America .
@@ -780,17 +780,17 @@
 27-13	_	the	_	_	_	_
 27-14	_	start	_	_	_	_
 27-15	_	of	_	_	_	_
-27-16	_	that	abstract[147]	new[147]	_	_
-27-17	_	process	abstract[147]	new[147]	_	_
-27-18	_	of	abstract[147]	new[147]	_	_
-27-19	_	healing	abstract[147]	new[147]	_	_
-27-20	_	which	abstract[147]	new[147]	_	_
-27-21	_	is	abstract[147]	new[147]	_	_
-27-22	_	so	abstract[147]	new[147]	_	_
-27-23	_	desperately	abstract[147]	new[147]	_	_
-27-24	_	needed	abstract[147]	new[147]	_	_
-27-25	_	in	abstract[147]	new[147]	_	_
-27-26	_	America	abstract[130]|abstract[147]	new[130]|new[147]	coref	29-35[130_131]
+27-16	_	that	abstract[146]	new[146]	_	_
+27-17	_	process	abstract[146]	new[146]	_	_
+27-18	_	of	abstract[146]	new[146]	_	_
+27-19	_	healing	abstract[146]	new[146]	_	_
+27-20	_	which	abstract[146]	new[146]	_	_
+27-21	_	is	abstract[146]	new[146]	_	_
+27-22	_	so	abstract[146]	new[146]	_	_
+27-23	_	desperately	abstract[146]	new[146]	_	_
+27-24	_	needed	abstract[146]	new[146]	_	_
+27-25	_	in	abstract[146]	new[146]	_	_
+27-26	_	America	abstract[129]|abstract[146]	new[129]|new[146]	coref	29-35[129_130]
 27-27	_	.	_	_	_	_
 
 #Text=I regret deeply any injuries that may have been done in the course of the events that led to this decision .
@@ -813,8 +813,8 @@
 28-17	_	that	_	_	_	_
 28-18	_	led	_	_	_	_
 28-19	_	to	_	_	_	_
-28-20	_	this	abstract[149]	new[149]	_	_
-28-21	_	decision	abstract[149]	new[149]	_	_
+28-20	_	this	abstract[148]	new[148]	_	_
+28-21	_	decision	abstract[148]	new[148]	_	_
 28-22	_	.	_	_	_	_
 
 #Text=I would say only that if some of my judgments were wrong -- and some were wrong -- they were made in what I believed at the time to be the best interest of the Nation .
@@ -824,10 +824,10 @@
 29-4	_	only	_	_	_	_
 29-5	_	that	_	_	_	_
 29-6	_	if	_	_	_	_
-29-7	_	some	abstract[150]	new[150]	coref	29-19[150_151]
-29-8	_	of	abstract[150]	new[150]	_	_
-29-9	_	my	abstract[43]|abstract[150]	new[43]|new[150]	coref	29-24[43_44]
-29-10	_	judgments	abstract[150]	new[150]	_	_
+29-7	_	some	abstract[149]	new[149]	coref	29-19[149_150]
+29-8	_	of	abstract[149]	new[149]	_	_
+29-9	_	my	abstract[43]|abstract[149]	new[43]|new[149]	coref	29-24[43_44]
+29-10	_	judgments	abstract[149]	new[149]	_	_
 29-11	_	were	_	_	_	_
 29-12	_	wrong	_	_	_	_
 29-13	_	--	_	_	_	_
@@ -836,7 +836,7 @@
 29-16	_	were	_	_	_	_
 29-17	_	wrong	_	_	_	_
 29-18	_	--	_	_	_	_
-29-19	_	they	abstract[151]	new[151]	_	_
+29-19	_	they	abstract[150]	new[150]	_	_
 29-20	_	were	_	_	_	_
 29-21	_	made	_	_	_	_
 29-22	_	in	_	_	_	_
@@ -852,46 +852,46 @@
 29-32	_	best	_	_	_	_
 29-33	_	interest	_	_	_	_
 29-34	_	of	_	_	_	_
-29-35	_	the	abstract[131]	new[131]	coref	31-47[131_132]
-29-36	_	Nation	abstract[131]	new[131]	_	_
+29-35	_	the	abstract[130]	new[130]	coref	31-47[130_131]
+29-36	_	Nation	abstract[130]	new[130]	_	_
 29-37	_	.	_	_	_	_
 
 #Text=To those who have stood with me during these past difficult months -- to my family , my friends , to many others who joined in supporting my cause because they believed it was right -- I will be eternally grateful for your support .
 30-1	_	To	_	_	_	_
-30-2	_	those	abstract[152]	new[152]	coref	30-15[152_153]
-30-3	_	who	abstract[152]	new[152]	_	_
-30-4	_	have	abstract[152]	new[152]	_	_
-30-5	_	stood	abstract[152]	new[152]	_	_
-30-6	_	with	abstract[152]	new[152]	_	_
-30-7	_	me	abstract[45]|abstract[152]	new[45]|new[152]	coref	30-15[45_46]
-30-8	_	during	abstract[152]	new[152]	_	_
-30-9	_	these	abstract[152]	new[152]	_	_
-30-10	_	past	abstract[152]	new[152]	_	_
-30-11	_	difficult	abstract[152]	new[152]	_	_
-30-12	_	months	abstract[152]	new[152]	_	_
+30-2	_	those	abstract[151]	new[151]	coref	30-15[151_152]
+30-3	_	who	abstract[151]	new[151]	_	_
+30-4	_	have	abstract[151]	new[151]	_	_
+30-5	_	stood	abstract[151]	new[151]	_	_
+30-6	_	with	abstract[151]	new[151]	_	_
+30-7	_	me	abstract[45]|abstract[151]	new[45]|new[151]	coref	30-15[45_46]
+30-8	_	during	abstract[151]	new[151]	_	_
+30-9	_	these	abstract[151]	new[151]	_	_
+30-10	_	past	abstract[151]	new[151]	_	_
+30-11	_	difficult	abstract[151]	new[151]	_	_
+30-12	_	months	abstract[151]	new[151]	_	_
 30-13	_	--	_	_	_	_
 30-14	_	to	_	_	_	_
-30-15	_	my	abstract[46]|abstract[153]	new[46]|new[153]	coref|coref	30-18[46_47]|30-43[153_154]
-30-16	_	family	abstract[153]	new[153]	_	_
-30-17	_	,	abstract[153]	new[153]	_	_
-30-18	_	my	abstract[47]|abstract[153]	new[47]|new[153]	coref	30-28[47_48]
-30-19	_	friends	abstract[153]	new[153]	_	_
-30-20	_	,	abstract[153]	new[153]	_	_
-30-21	_	to	abstract[153]	new[153]	_	_
-30-22	_	many	abstract[153]	new[153]	_	_
-30-23	_	others	abstract[153]	new[153]	_	_
-30-24	_	who	abstract[153]	new[153]	_	_
-30-25	_	joined	abstract[153]	new[153]	_	_
-30-26	_	in	abstract[153]	new[153]	_	_
-30-27	_	supporting	abstract[153]	new[153]	_	_
-30-28	_	my	abstract[48]|abstract[153]|abstract[155]	new[48]|new[153]|new[155]	coref|coref	30-37[48_49]|30-33[155_156]
-30-29	_	cause	abstract[153]|abstract[155]	new[153]|new[155]	_	_
-30-30	_	because	abstract[153]	new[153]	_	_
-30-31	_	they	abstract[153]	new[153]	_	_
-30-32	_	believed	abstract[153]	new[153]	_	_
-30-33	_	it	abstract[153]|abstract[156]	new[153]|new[156]	_	_
-30-34	_	was	abstract[153]	new[153]	_	_
-30-35	_	right	abstract[153]	new[153]	_	_
+30-15	_	my	abstract[46]|abstract[152]	new[46]|new[152]	coref|coref	30-18[46_47]|30-43[152_153]
+30-16	_	family	abstract[152]	new[152]	_	_
+30-17	_	,	abstract[152]	new[152]	_	_
+30-18	_	my	abstract[47]|abstract[152]	new[47]|new[152]	coref	30-28[47_48]
+30-19	_	friends	abstract[152]	new[152]	_	_
+30-20	_	,	abstract[152]	new[152]	_	_
+30-21	_	to	abstract[152]	new[152]	_	_
+30-22	_	many	abstract[152]	new[152]	_	_
+30-23	_	others	abstract[152]	new[152]	_	_
+30-24	_	who	abstract[152]	new[152]	_	_
+30-25	_	joined	abstract[152]	new[152]	_	_
+30-26	_	in	abstract[152]	new[152]	_	_
+30-27	_	supporting	abstract[152]	new[152]	_	_
+30-28	_	my	abstract[48]|abstract[152]|abstract[154]	new[48]|new[152]|new[154]	coref|coref	30-37[48_49]|30-33[154_155]
+30-29	_	cause	abstract[152]|abstract[154]	new[152]|new[154]	_	_
+30-30	_	because	abstract[152]	new[152]	_	_
+30-31	_	they	abstract[152]	new[152]	_	_
+30-32	_	believed	abstract[152]	new[152]	_	_
+30-33	_	it	abstract[152]|abstract[155]	new[152]|new[155]	_	_
+30-34	_	was	abstract[152]	new[152]	_	_
+30-35	_	right	abstract[152]	new[152]	_	_
 30-36	_	--	_	_	_	_
 30-37	_	I	abstract[49]	new[49]	coref	31-11[49_50]
 30-38	_	will	_	_	_	_
@@ -899,7 +899,7 @@
 30-40	_	eternally	_	_	_	_
 30-41	_	grateful	_	_	_	_
 30-42	_	for	_	_	_	_
-30-43	_	your	abstract[154]	new[154]	_	_
+30-43	_	your	abstract[153]	new[153]	_	_
 30-44	_	support	_	_	_	_
 30-45	_	.	_	_	_	_
 
@@ -934,9 +934,9 @@
 31-28	_	me	abstract[53]	new[53]	coref	33-1[53_54]
 31-29	_	,	_	_	_	_
 31-30	_	because	_	_	_	_
-31-31	_	all	abstract[158]	new[158]	coref	31-51[158_159]
-31-32	_	of	abstract[158]	new[158]	_	_
-31-33	_	us	abstract[158]	new[158]	_	_
+31-31	_	all	abstract[157]	new[157]	coref	31-51[157_158]
+31-32	_	of	abstract[157]	new[157]	_	_
+31-33	_	us	abstract[157]	new[157]	_	_
 31-34	_	,	_	_	_	_
 31-35	_	in	_	_	_	_
 31-36	_	the	_	_	_	_
@@ -950,11 +950,11 @@
 31-44	_	the	_	_	_	_
 31-45	_	good	_	_	_	_
 31-46	_	of	_	_	_	_
-31-47	_	the	abstract[132]	new[132]	coref	34-12[132_133]
-31-48	_	country	abstract[132]	new[132]	_	_
+31-47	_	the	abstract[131]	new[131]	coref	34-12[131_132]
+31-48	_	country	abstract[131]	new[131]	_	_
 31-49	_	,	_	_	_	_
 31-50	_	however	_	_	_	_
-31-51	_	our	abstract[159]	new[159]	coref	32-4[159_160]
+31-51	_	our	abstract[158]	new[158]	coref	32-4[158_159]
 31-52	_	judgments	_	_	_	_
 31-53	_	might	_	_	_	_
 31-54	_	differ	_	_	_	_
@@ -964,8 +964,8 @@
 32-1	_	So	_	_	_	_
 32-2	_	,	_	_	_	_
 32-3	_	let	_	_	_	_
-32-4	_	us	abstract[160]	new[160]	coref	32-25[160_161]
-32-5	_	all	abstract[160]	new[160]	_	_
+32-4	_	us	abstract[159]	new[159]	coref	32-25[159_160]
+32-5	_	all	abstract[159]	new[159]	_	_
 32-6	_	now	_	_	_	_
 32-7	_	join	_	_	_	_
 32-8	_	together	_	_	_	_
@@ -977,24 +977,24 @@
 32-14	_	and	_	_	_	_
 32-15	_	in	_	_	_	_
 32-16	_	helping	_	_	_	_
-32-17	_	our	abstract[99]|abstract[139]	new[99]|new[139]	coref	35-11[99_100]
-32-18	_	new	abstract[139]	new[139]	_	_
-32-19	_	President	abstract[139]	new[139]	_	_
+32-17	_	our	abstract[99]|abstract[138]	new[99]|new[138]	coref	35-11[99_100]
+32-18	_	new	abstract[138]	new[138]	_	_
+32-19	_	President	abstract[138]	new[138]	_	_
 32-20	_	succeed	_	_	_	_
 32-21	_	for	_	_	_	_
 32-22	_	the	_	_	_	_
 32-23	_	benefit	_	_	_	_
 32-24	_	of	_	_	_	_
-32-25	_	all	abstract[161]	new[161]	coref	34-12[161_162]
-32-26	_	Americans	abstract[161]	new[161]	_	_
+32-25	_	all	abstract[160]	new[160]	coref	34-12[160_161]
+32-26	_	Americans	abstract[160]	new[160]	_	_
 32-27	_	.	_	_	_	_
 
 #Text=I shall leave this office with regret at not completing my term , but with gratitude for the privilege of serving as your President for the past 5 1/2 years .
 33-1	_	I	abstract[54]	new[54]	coref	33-11[54_55]
 33-2	_	shall	_	_	_	_
 33-3	_	leave	_	_	_	_
-33-4	_	this	abstract[114]	new[114]	_	_
-33-5	_	office	abstract[114]	new[114]	_	_
+33-4	_	this	abstract[113]	new[113]	_	_
+33-5	_	office	abstract[113]	new[113]	_	_
 33-6	_	with	_	_	_	_
 33-7	_	regret	_	_	_	_
 33-8	_	at	_	_	_	_
@@ -1015,16 +1015,16 @@
 33-23	_	your	abstract[56]|abstract[61]	new[56]|new[61]	_	_
 33-24	_	President	abstract[56]	new[56]	_	_
 33-25	_	for	_	_	_	_
-33-26	_	the	abstract[164]	new[164]	coref	34-1[164_165]
-33-27	_	past	abstract[164]	new[164]	_	_
-33-28	_	5	abstract[164]	new[164]	_	_
-33-29	_	1/2	abstract[164]	new[164]	_	_
-33-30	_	years	abstract[164]	new[164]	_	_
+33-26	_	the	abstract[163]	new[163]	coref	34-1[163_164]
+33-27	_	past	abstract[163]	new[163]	_	_
+33-28	_	5	abstract[163]	new[163]	_	_
+33-29	_	1/2	abstract[163]	new[163]	_	_
+33-30	_	years	abstract[163]	new[163]	_	_
 33-31	_	.	_	_	_	_
 
 #Text=These years have been a momentous time in the history of our Nation and the world .
-34-1	_	These	abstract[165]	new[165]	coref	35-2[165_166]
-34-2	_	years	abstract[165]	new[165]	_	_
+34-1	_	These	abstract[164]	new[164]	coref	35-2[164_165]
+34-2	_	years	abstract[164]	new[164]	_	_
 34-3	_	have	_	_	_	_
 34-4	_	been	_	_	_	_
 34-5	_	a	_	_	_	_
@@ -1034,15 +1034,15 @@
 34-9	_	the	_	_	_	_
 34-10	_	history	_	_	_	_
 34-11	_	of	_	_	_	_
-34-12	_	our	abstract[133]|abstract[162]	new[133]|new[162]	coref	35-31[162_163]
-34-13	_	Nation	abstract[133]	new[133]	_	_
+34-12	_	our	abstract[132]|abstract[161]	new[132]|new[161]	coref	35-31[161_162]
+34-13	_	Nation	abstract[132]	new[132]	_	_
 34-14	_	and	_	_	_	_
-34-15	_	the	abstract[169]	new[169]	coref	37-19[169_170]
-34-16	_	world	abstract[169]	new[169]	_	_
+34-15	_	the	abstract[168]	new[168]	coref	37-19[168_169]
+34-16	_	world	abstract[168]	new[168]	_	_
 34-17	_	.	_	_	_	_
 
 #Text=They have been a time of achievement in which we can all be proud , achievements that represent the shared efforts of the Administration , the Congress , and the people .
-35-1	_	They	abstract[166]	new[166]	_	_
+35-1	_	They	abstract[165]	new[165]	_	_
 35-2	_	have	_	_	_	_
 35-3	_	been	_	_	_	_
 35-4	_	a	_	_	_	_
@@ -1071,21 +1071,21 @@
 35-27	_	Congress	abstract[77]	new[77]	_	_
 35-28	_	,	_	_	_	_
 35-29	_	and	_	_	_	_
-35-30	_	the	abstract[163]	new[163]	_	_
-35-31	_	people	abstract[163]	new[163]	_	_
+35-30	_	the	abstract[162]	new[162]	_	_
+35-31	_	people	abstract[162]	new[162]	_	_
 35-32	_	.	_	_	_	_
 
 #Text=But the challenges ahead are equally great , and they , too , will require the support and the efforts of the Congress and the people working in cooperation with the new Administration .
 36-1	_	But	_	_	_	_
-36-2	_	the	abstract[167]	new[167]	coref	36-10[167_168]
-36-3	_	challenges	abstract[167]	new[167]	_	_
-36-4	_	ahead	abstract[167]	new[167]	_	_
+36-2	_	the	abstract[166]	new[166]	coref	36-10[166_167]
+36-3	_	challenges	abstract[166]	new[166]	_	_
+36-4	_	ahead	abstract[166]	new[166]	_	_
 36-5	_	are	_	_	_	_
 36-6	_	equally	_	_	_	_
 36-7	_	great	_	_	_	_
 36-8	_	,	_	_	_	_
 36-9	_	and	_	_	_	_
-36-10	_	they	abstract[168]	new[168]	_	_
+36-10	_	they	abstract[167]	new[167]	_	_
 36-11	_	,	_	_	_	_
 36-12	_	too	_	_	_	_
 36-13	_	,	_	_	_	_
@@ -1115,8 +1115,8 @@
 37-1	_	We	abstract[101]	new[101]	coref	38-1[101_102]
 37-2	_	have	_	_	_	_
 37-3	_	ended	_	_	_	_
-37-4	_	America	abstract[172]	new[172]	coref	39-15[172_173]
-37-5	_	's	abstract[172]	new[172]	_	_
+37-4	_	America	abstract[171]	new[171]	coref	39-15[171_172]
+37-5	_	's	abstract[171]	new[171]	_	_
 37-6	_	longest	_	_	_	_
 37-7	_	war	_	_	_	_
 37-8	_	,	_	_	_	_
@@ -1130,8 +1130,8 @@
 37-16	_	lasting	_	_	_	_
 37-17	_	peace	_	_	_	_
 37-18	_	in	_	_	_	_
-37-19	_	the	abstract[170]	new[170]	coref	40-10[170_171]
-37-20	_	world	abstract[170]	new[170]	_	_
+37-19	_	the	abstract[169]	new[169]	coref	40-10[169_170]
+37-20	_	world	abstract[169]	new[169]	_	_
 37-21	_	,	_	_	_	_
 37-22	_	the	_	_	_	_
 37-23	_	goals	_	_	_	_
@@ -1207,16 +1207,16 @@
 39-12	_	century	_	_	_	_
 39-13	_	stood	_	_	_	_
 39-14	_	between	_	_	_	_
-39-15	_	the	abstract[173]	new[173]	_	_
-39-16	_	United	abstract[173]	new[173]	_	_
-39-17	_	States	abstract[173]	new[173]	_	_
+39-15	_	the	abstract[172]	new[172]	_	_
+39-16	_	United	abstract[172]	new[172]	_	_
+39-17	_	States	abstract[172]	new[172]	_	_
 39-18	_	and	_	_	_	_
-39-19	_	the	abstract[174]	new[174]	coref	40-17[174_175]
-39-20	_	People	abstract[174]	new[174]	_	_
-39-21	_	's	abstract[174]	new[174]	_	_
-39-22	_	Republic	abstract[174]	new[174]	_	_
-39-23	_	of	abstract[174]	new[174]	_	_
-39-24	_	China	abstract[174]	new[174]	_	_
+39-19	_	the	abstract[173]	new[173]	coref	40-17[173_174]
+39-20	_	People	abstract[173]	new[173]	_	_
+39-21	_	's	abstract[173]	new[173]	_	_
+39-22	_	Republic	abstract[173]	new[173]	_	_
+39-23	_	of	abstract[173]	new[173]	_	_
+39-24	_	China	abstract[173]	new[173]	_	_
 39-25	_	.	_	_	_	_
 
 #Text=We must now ensure that the one quarter of the world 's people who live in the People 's Republic of China will be and remain not our enemies , but our friends .
@@ -1229,19 +1229,19 @@
 40-7	_	one	_	_	_	_
 40-8	_	quarter	_	_	_	_
 40-9	_	of	_	_	_	_
-40-10	_	the	abstract[171]	new[171]	_	_
-40-11	_	world	abstract[171]	new[171]	_	_
-40-12	_	's	abstract[171]	new[171]	_	_
+40-10	_	the	abstract[170]	new[170]	_	_
+40-11	_	world	abstract[170]	new[170]	_	_
+40-12	_	's	abstract[170]	new[170]	_	_
 40-13	_	people	_	_	_	_
 40-14	_	who	_	_	_	_
 40-15	_	live	_	_	_	_
 40-16	_	in	_	_	_	_
-40-17	_	the	abstract[175]	new[175]	_	_
-40-18	_	People	abstract[175]	new[175]	_	_
-40-19	_	's	abstract[175]	new[175]	_	_
-40-20	_	Republic	abstract[175]	new[175]	_	_
-40-21	_	of	abstract[175]	new[175]	_	_
-40-22	_	China	abstract[175]	new[175]	_	_
+40-17	_	the	abstract[174]	new[174]	_	_
+40-18	_	People	abstract[174]	new[174]	_	_
+40-19	_	's	abstract[174]	new[174]	_	_
+40-20	_	Republic	abstract[174]	new[174]	_	_
+40-21	_	of	abstract[174]	new[174]	_	_
+40-22	_	China	abstract[174]	new[174]	_	_
 40-23	_	will	_	_	_	_
 40-24	_	be	_	_	_	_
 40-25	_	and	_	_	_	_
@@ -1251,26 +1251,46 @@
 40-29	_	enemies	_	_	_	_
 40-30	_	,	_	_	_	_
 40-31	_	but	_	_	_	_
-40-32	_	our	abstract[109]	new[109]	coref	41-7[109_110]
+40-32	_	our	abstract[109]	new[109]	_	_
 40-33	_	friends	_	_	_	_
 40-34	_	.	_	_	_	_
 
-#Text=Today , President Biden said , we have turned it around — she did it again .
-41-1	_	Today	_	_	_	_
-41-2	_	,	_	_	_	_
-41-3	_	President	abstract[176]	new[176]	coref	41-13[176_177]
-41-4	_	Biden	abstract[176]	new[176]	_	_
-41-5	_	said	_	_	_	_
-41-6	_	,	_	_	_	_
-41-7	_	we	abstract[110]	new[110]	_	_
-41-8	_	have	_	_	_	_
-41-9	_	turned	_	_	_	_
-41-10	_	it	_	_	_	_
-41-11	_	around	_	_	_	_
-41-12	_	—	_	_	_	_
-41-13	_	she	abstract[177]	new[177]	_	_
-41-14	_	did	_	_	_	_
-41-15	_	it	_	_	_	_
-41-16	_	again	_	_	_	_
-41-17	_	.	_	_	_	_
+#Text=A few hours ago , on the West Front of this citadel of democracy , Joe Biden and KAMALA HARRIS were administered the oaths of Office to the Presidency and Vice Presidency of the United States .
+41-1	_	A	_	_	_	_
+41-2	_	few	_	_	_	_
+41-3	_	hours	_	_	_	_
+41-4	_	ago	_	_	_	_
+41-5	_	,	_	_	_	_
+41-6	_	on	_	_	_	_
+41-7	_	the	_	_	_	_
+41-8	_	West	_	_	_	_
+41-9	_	Front	_	_	_	_
+41-10	_	of	_	_	_	_
+41-11	_	this	_	_	_	_
+41-12	_	citadel	_	_	_	_
+41-13	_	of	_	_	_	_
+41-14	_	democracy	_	_	_	_
+41-15	_	,	_	_	_	_
+41-16	_	Joe	_	_	_	_
+41-17	_	Biden	_	_	_	_
+41-18	_	and	_	_	_	_
+41-19	_	KAMALA	_	_	_	_
+41-20	_	HARRIS	_	_	_	_
+41-21	_	were	_	_	_	_
+41-22	_	administered	_	_	_	_
+41-23	_	the	_	_	_	_
+41-24	_	oaths	_	_	_	_
+41-25	_	of	_	_	_	_
+41-26	_	Office	_	_	_	_
+41-27	_	to	_	_	_	_
+41-28	_	the	_	_	_	_
+41-29	_	Presidency	_	_	_	_
+41-30	_	and	_	_	_	_
+41-31	_	Vice	_	_	_	_
+41-32	_	Presidency	_	_	_	_
+41-33	_	of	_	_	_	_
+41-34	_	the	_	_	_	_
+41-35	_	United	_	_	_	_
+41-36	_	States	_	_	_	_
+41-37	_	.	_	_	_	_
 

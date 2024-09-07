@@ -886,30 +886,22 @@
 35-13	_	tourists	_	_	_	_
 35-14	_	.	_	_	_	_
 
-#Text=Visit the modern - day capital of Europe on this state of Ohio . Explore the cultural splendour of the city and its culture .
-36-1	_	Visit	_	_	_	_
-36-2	_	the	abstract[68]	new[68]	coref	36-20[68_69]
-36-3	_	modern	abstract[68]	new[68]	_	_
-36-4	_	-	abstract[68]	new[68]	_	_
-36-5	_	day	abstract[68]	new[68]	_	_
-36-6	_	capital	abstract[68]	new[68]	_	_
-36-7	_	of	abstract[68]	new[68]	_	_
-36-8	_	Europe	abstract[68]	new[68]	_	_
-36-9	_	on	abstract[68]	new[68]	_	_
-36-10	_	this	abstract[68]	new[68]	_	_
-36-11	_	state	abstract[68]	new[68]	_	_
-36-12	_	of	abstract[68]	new[68]	_	_
-36-13	_	Ohio	abstract[68]	new[68]	_	_
-36-14	_	.	_	_	_	_
-36-15	_	Explore	_	_	_	_
-36-16	_	the	_	_	_	_
-36-17	_	cultural	_	_	_	_
-36-18	_	splendour	_	_	_	_
-36-19	_	of	_	_	_	_
-36-20	_	the	abstract[69]	new[69]	coref	36-23[69_70]
-36-21	_	city	abstract[69]	new[69]	_	_
-36-22	_	and	_	_	_	_
-36-23	_	its	abstract[70]	new[70]	_	_
-36-24	_	culture	_	_	_	_
-36-25	_	.	_	_	_	_
+#Text=In an era of rapid urbanization and rebirth , Cleveland is a center of the greatness .
+36-1	_	In	_	_	_	_
+36-2	_	an	_	_	_	_
+36-3	_	era	_	_	_	_
+36-4	_	of	_	_	_	_
+36-5	_	rapid	_	_	_	_
+36-6	_	urbanization	_	_	_	_
+36-7	_	and	_	_	_	_
+36-8	_	rebirth	_	_	_	_
+36-9	_	,	_	_	_	_
+36-10	_	Cleveland	_	_	_	_
+36-11	_	is	_	_	_	_
+36-12	_	a	_	_	_	_
+36-13	_	center	_	_	_	_
+36-14	_	of	_	_	_	_
+36-15	_	the	_	_	_	_
+36-16	_	greatness	_	_	_	_
+36-17	_	.	_	_	_	_
 

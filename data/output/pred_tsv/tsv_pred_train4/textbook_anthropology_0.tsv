@@ -1154,19 +1154,29 @@
 56-6	_	shared	_	_	_	_
 56-7	_	.	_	_	_	_
 
-#Text=Many American settlers did not fully shed their identity or loyalty to Mexico .
-57-1	_	Many	abstract[83]	new[83]	coref	57-8[83_84]
-57-2	_	American	abstract[83]	new[83]	_	_
-57-3	_	settlers	abstract[83]	new[83]	_	_
-57-4	_	did	_	_	_	_
-57-5	_	not	_	_	_	_
-57-6	_	fully	_	_	_	_
-57-7	_	shed	_	_	_	_
-57-8	_	their	abstract[84]	new[84]	_	_
-57-9	_	identity	_	_	_	_
-57-10	_	or	_	_	_	_
-57-11	_	loyalty	_	_	_	_
-57-12	_	to	_	_	_	_
-57-13	_	Mexico	_	_	_	_
-57-14	_	.	_	_	_	_
+#Text=The historic Revolutionaries of Texas tell the story of Anglo - Americans who came to Texas at the invitation of the Mexican government .
+57-1	_	The	_	_	_	_
+57-2	_	historic	_	_	_	_
+57-3	_	Revolutionaries	_	_	_	_
+57-4	_	of	_	_	_	_
+57-5	_	Texas	abstract[83]	new[83]	coref	57-16[83_84]
+57-6	_	tell	_	_	_	_
+57-7	_	the	_	_	_	_
+57-8	_	story	_	_	_	_
+57-9	_	of	_	_	_	_
+57-10	_	Anglo	_	_	_	_
+57-11	_	-	_	_	_	_
+57-12	_	Americans	_	_	_	_
+57-13	_	who	_	_	_	_
+57-14	_	came	_	_	_	_
+57-15	_	to	_	_	_	_
+57-16	_	Texas	abstract[84]	new[84]	_	_
+57-17	_	at	_	_	_	_
+57-18	_	the	_	_	_	_
+57-19	_	invitation	_	_	_	_
+57-20	_	of	_	_	_	_
+57-21	_	the	_	_	_	_
+57-22	_	Mexican	_	_	_	_
+57-23	_	government	_	_	_	_
+57-24	_	.	_	_	_	_
 

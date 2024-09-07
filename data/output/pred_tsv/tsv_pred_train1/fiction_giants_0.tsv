@@ -4,10 +4,10 @@
 
 
 #Text=The Valley of Giants
-1-1	_	The	abstract[52]	new[52]	coref	10-34[52_53]
-1-2	_	Valley	abstract[52]	new[52]	_	_
-1-3	_	of	abstract[52]	new[52]	_	_
-1-4	_	Giants	abstract[52]|abstract[54]	new[52]|new[54]	coref	10-37[54_55]
+1-1	_	The	abstract[46]	new[46]	coref	10-34[46_47]
+1-2	_	Valley	abstract[46]	new[46]	_	_
+1-3	_	of	abstract[46]	new[46]	_	_
+1-4	_	Giants	abstract[46]|abstract[49]	new[46]|new[49]	coref	10-37[49_50]
 
 #Text=I had buried my parents in their gray marble mausoleum at the heart of the city .
 2-1	_	I	abstract[1]	new[1]	coref	2-4[1_2]
@@ -102,18 +102,18 @@
 4-43	_	.	_	_	_	_
 
 #Text=I had one granddaughter who survived the war .
-5-1	_	I	abstract[14]	new[14]	coref	6-1[14_15]
+5-1	_	I	abstract[15]	new[15]	coref	6-1[15_16]
 5-2	_	had	_	_	_	_
-5-3	_	one	abstract[32]	new[32]	coref	7-1[32_33]
-5-4	_	granddaughter	abstract[32]	new[32]	_	_
-5-5	_	who	abstract[32]	new[32]	_	_
-5-6	_	survived	abstract[32]	new[32]	_	_
-5-7	_	the	abstract[12]|abstract[32]	new[12]|new[32]	coref	33-5[12_13]
-5-8	_	war	abstract[12]|abstract[32]	new[12]|new[32]	_	_
+5-3	_	one	abstract[33]	new[33]	coref	7-1[33_34]
+5-4	_	granddaughter	abstract[33]	new[33]	_	_
+5-5	_	who	abstract[33]	new[33]	_	_
+5-6	_	survived	abstract[33]	new[33]	_	_
+5-7	_	the	abstract[12]|abstract[33]	new[12]|new[33]	coref	33-5[12_13]
+5-8	_	war	abstract[12]|abstract[33]	new[12]|new[33]	_	_
 5-9	_	.	_	_	_	_
 
 #Text=I saw her sometimes : in a bright pink dress , a sparkling drink in her hand , on the arm of some foreign officer with brocade on his shoulders , at the edge of a marble patio .
-6-1	_	I	abstract[15]	new[15]	coref	7-6[15_16]
+6-1	_	I	abstract[16]	new[16]	coref	7-6[16_17]
 6-2	_	saw	_	_	_	_
 6-3	_	her	_	_	_	_
 6-4	_	sometimes	_	_	_	_
@@ -135,13 +135,13 @@
 6-20	_	the	_	_	_	_
 6-21	_	arm	_	_	_	_
 6-22	_	of	_	_	_	_
-6-23	_	some	abstract[30]	new[30]	coref	6-29[30_31]
-6-24	_	foreign	abstract[30]	new[30]	_	_
-6-25	_	officer	abstract[30]	new[30]	_	_
+6-23	_	some	abstract[31]	new[31]	coref	6-29[31_32]
+6-24	_	foreign	abstract[31]	new[31]	_	_
+6-25	_	officer	abstract[31]	new[31]	_	_
 6-26	_	with	_	_	_	_
 6-27	_	brocade	_	_	_	_
 6-28	_	on	_	_	_	_
-6-29	_	his	abstract[31]	new[31]	_	_
+6-29	_	his	abstract[32]	new[32]	_	_
 6-30	_	shoulders	_	_	_	_
 6-31	_	,	_	_	_	_
 6-32	_	at	_	_	_	_
@@ -154,12 +154,12 @@
 6-39	_	.	_	_	_	_
 
 #Text=She never looked back at me — poverty and failure and political disrepute being all , these days , contagious and synonymous .
-7-1	_	She	abstract[33]	new[33]	coref	26-3[33_34]
+7-1	_	She	abstract[34]	new[34]	coref	37-1[34_35]
 7-2	_	never	_	_	_	_
 7-3	_	looked	_	_	_	_
 7-4	_	back	_	_	_	_
 7-5	_	at	_	_	_	_
-7-6	_	me	abstract[16]	new[16]	coref	10-30[16_17]
+7-6	_	me	abstract[17]	new[17]	coref	10-30[17_18]
 7-7	_	—	_	_	_	_
 7-8	_	poverty	_	_	_	_
 7-9	_	and	_	_	_	_
@@ -186,9 +186,9 @@
 8-5	_	dead	_	_	_	_
 8-6	_	,	_	_	_	_
 8-7	_	and	_	_	_	_
-8-8	_	the	abstract[50]	new[50]	coref	8-30[50_51]
-8-9	_	old	abstract[50]	new[50]	_	_
-8-10	_	men	abstract[50]	new[50]	_	_
+8-8	_	the	abstract[44]	new[44]	coref	8-30[44_45]
+8-9	_	old	abstract[44]	new[44]	_	_
+8-10	_	men	abstract[44]	new[44]	_	_
 8-11	_	had	_	_	_	_
 8-12	_	been	_	_	_	_
 8-13	_	taken	_	_	_	_
@@ -196,7 +196,7 @@
 8-15	_	,	_	_	_	_
 8-16	_	they	_	_	_	_
 8-17	_	told	_	_	_	_
-8-18	_	us	abstract[56]	new[56]	coref	12-2[56_57]
+8-18	_	us	abstract[51]	new[51]	coref	12-2[51_52]
 8-19	_	,	_	_	_	_
 8-20	_	to	_	_	_	_
 8-21	_	learn	_	_	_	_
@@ -208,7 +208,7 @@
 8-27	_	come	_	_	_	_
 8-28	_	back	_	_	_	_
 8-29	_	when	_	_	_	_
-8-30	_	they	abstract[51]	new[51]	_	_
+8-30	_	they	abstract[45]	new[45]	_	_
 8-31	_	were	_	_	_	_
 8-32	_	ready	_	_	_	_
 8-33	_	to	_	_	_	_
@@ -256,19 +256,19 @@
 10-27	_	jongg	_	_	_	_
 10-28	_	—	_	_	_	_
 10-29	_	that	_	_	_	_
-10-30	_	I	abstract[17]	new[17]	coref	13-2[17_18]
+10-30	_	I	abstract[18]	new[18]	coref	13-2[18_19]
 10-31	_	first	_	_	_	_
 10-32	_	heard	_	_	_	_
 10-33	_	of	_	_	_	_
-10-34	_	the	abstract[53]	new[53]	_	_
-10-35	_	valley	abstract[53]	new[53]	_	_
-10-36	_	of	abstract[53]	new[53]	_	_
-10-37	_	giants	abstract[53]|abstract[55]	new[53]|new[55]	_	_
+10-34	_	the	abstract[47]	new[47]	coref	40-16[47_48]
+10-35	_	valley	abstract[47]	new[47]	_	_
+10-36	_	of	abstract[47]	new[47]	_	_
+10-37	_	giants	abstract[47]|abstract[50]	new[47]|new[50]	_	_
 10-38	_	.	_	_	_	_
 
 #Text=We all laughed at the idea , except for a chemist with a crooked nose and rouge caked in the creases of her face , who was incensed .
-11-1	_	We	abstract[73]	new[73]	coref	22-9[73_74]
-11-2	_	all	abstract[73]	new[73]	_	_
+11-1	_	We	_	_	_	_
+11-2	_	all	_	_	_	_
 11-3	_	laughed	_	_	_	_
 11-4	_	at	_	_	_	_
 11-5	_	the	_	_	_	_
@@ -276,30 +276,30 @@
 11-7	_	,	_	_	_	_
 11-8	_	except	_	_	_	_
 11-9	_	for	_	_	_	_
-11-10	_	a	abstract[58]	new[58]	coref	12-10[58_59]
-11-11	_	chemist	abstract[58]	new[58]	_	_
-11-12	_	with	abstract[58]	new[58]	_	_
-11-13	_	a	abstract[58]	new[58]	_	_
-11-14	_	crooked	abstract[58]	new[58]	_	_
-11-15	_	nose	abstract[58]	new[58]	_	_
-11-16	_	and	abstract[58]	new[58]	_	_
-11-17	_	rouge	abstract[58]	new[58]	_	_
-11-18	_	caked	abstract[58]	new[58]	_	_
-11-19	_	in	abstract[58]	new[58]	_	_
-11-20	_	the	abstract[58]	new[58]	_	_
-11-21	_	creases	abstract[58]	new[58]	_	_
-11-22	_	of	abstract[58]	new[58]	_	_
-11-23	_	her	abstract[58]	new[58]	_	_
-11-24	_	face	abstract[58]	new[58]	_	_
-11-25	_	,	abstract[58]	new[58]	_	_
-11-26	_	who	abstract[58]	new[58]	_	_
-11-27	_	was	abstract[58]	new[58]	_	_
-11-28	_	incensed	abstract[58]	new[58]	_	_
+11-10	_	a	abstract[55]	new[55]	coref	12-10[55_56]
+11-11	_	chemist	abstract[55]	new[55]	_	_
+11-12	_	with	abstract[55]	new[55]	_	_
+11-13	_	a	abstract[55]	new[55]	_	_
+11-14	_	crooked	abstract[55]	new[55]	_	_
+11-15	_	nose	abstract[55]	new[55]	_	_
+11-16	_	and	abstract[55]	new[55]	_	_
+11-17	_	rouge	abstract[55]	new[55]	_	_
+11-18	_	caked	abstract[55]	new[55]	_	_
+11-19	_	in	abstract[55]	new[55]	_	_
+11-20	_	the	abstract[55]	new[55]	_	_
+11-21	_	creases	abstract[55]	new[55]	_	_
+11-22	_	of	abstract[55]	new[55]	_	_
+11-23	_	her	abstract[55]	new[55]	_	_
+11-24	_	face	abstract[55]	new[55]	_	_
+11-25	_	,	abstract[55]	new[55]	_	_
+11-26	_	who	abstract[55]	new[55]	_	_
+11-27	_	was	abstract[55]	new[55]	_	_
+11-28	_	incensed	abstract[55]	new[55]	_	_
 11-29	_	.	_	_	_	_
 
 #Text=“ We live in the modern era ! ” she cried .
 12-1	_	“	_	_	_	_
-12-2	_	We	abstract[57]	new[57]	_	_
+12-2	_	We	abstract[52]	new[52]	coref	22-10[52_53]
 12-3	_	live	_	_	_	_
 12-4	_	in	_	_	_	_
 12-5	_	the	_	_	_	_
@@ -307,64 +307,85 @@
 12-7	_	era	_	_	_	_
 12-8	_	!	_	_	_	_
 12-9	_	”	_	_	_	_
-12-10	_	she	abstract[59]	new[59]	coref	19-5[59_60]
+12-10	_	she	abstract[56]	new[56]	coref	19-5[56_57]
 12-11	_	cried	_	_	_	_
 12-12	_	.	_	_	_	_
 
 #Text=“ You should be ashamed of yourself ! "
 13-1	_	“	_	_	_	_
-13-2	_	You	abstract[18]	new[18]	coref	13-7[18_19]
+13-2	_	You	abstract[19]	new[19]	coref	13-7[19_20]
 13-3	_	should	_	_	_	_
 13-4	_	be	_	_	_	_
 13-5	_	ashamed	_	_	_	_
 13-6	_	of	_	_	_	_
-13-7	_	yourself	abstract[19]	new[19]	coref	23-2[19_20]
+13-7	_	yourself	abstract[20]	new[20]	coref	23-2[20_21]
 13-8	_	!	_	_	_	_
 13-9	_	"	_	_	_	_
 
-#Text=Jesus was ready to die on the cross . As he was about to have it , Erasmus 's anti - Luther pamphlet titled Diatribe Concerning Free Will is about what is a new and important debate .
-14-1	_	Jesus	abstract[61]	new[61]	coref	14-11[61_62]
-14-2	_	was	_	_	_	_
-14-3	_	ready	_	_	_	_
-14-4	_	to	_	_	_	_
-14-5	_	die	_	_	_	_
-14-6	_	on	_	_	_	_
-14-7	_	the	_	_	_	_
-14-8	_	cross	_	_	_	_
-14-9	_	.	_	_	_	_
-14-10	_	As	_	_	_	_
-14-11	_	he	abstract[62]	new[62]	_	_
-14-12	_	was	_	_	_	_
-14-13	_	about	_	_	_	_
-14-14	_	to	_	_	_	_
-14-15	_	have	_	_	_	_
-14-16	_	it	_	_	_	_
-14-17	_	,	_	_	_	_
-14-18	_	Erasmus	_	_	_	_
-14-19	_	's	_	_	_	_
-14-20	_	anti	_	_	_	_
-14-21	_	-	_	_	_	_
-14-22	_	Luther	_	_	_	_
-14-23	_	pamphlet	_	_	_	_
-14-24	_	titled	_	_	_	_
-14-25	_	Diatribe	_	_	_	_
-14-26	_	Concerning	_	_	_	_
-14-27	_	Free	_	_	_	_
-14-28	_	Will	_	_	_	_
-14-29	_	is	_	_	_	_
-14-30	_	about	_	_	_	_
-14-31	_	what	_	_	_	_
-14-32	_	is	_	_	_	_
-14-33	_	a	_	_	_	_
-14-34	_	new	_	_	_	_
-14-35	_	and	_	_	_	_
-14-36	_	important	_	_	_	_
-14-37	_	debate	_	_	_	_
-14-38	_	.	_	_	_	_
+#Text=Beth , Sherry and two other friends discuss Kathy , who ca n't have children due to medical reasons , Bill , who works as a carpenter replacing a barn floor , and Carolyn , who reacted rudely to their friend Barb 's illness , as well as their own preferences for drinking tea with or without lemon .
+14-1	_	Beth	abstract[58]	new[58]	coref	14-40[58_59]
+14-2	_	,	abstract[58]	new[58]	_	_
+14-3	_	Sherry	abstract[58]	new[58]	_	_
+14-4	_	and	abstract[58]	new[58]	_	_
+14-5	_	two	abstract[58]	new[58]	_	_
+14-6	_	other	abstract[58]	new[58]	_	_
+14-7	_	friends	abstract[58]	new[58]	_	_
+14-8	_	discuss	_	_	_	_
+14-9	_	Kathy	_	_	_	_
+14-10	_	,	_	_	_	_
+14-11	_	who	_	_	_	_
+14-12	_	ca	_	_	_	_
+14-13	_	n't	_	_	_	_
+14-14	_	have	_	_	_	_
+14-15	_	children	_	_	_	_
+14-16	_	due	_	_	_	_
+14-17	_	to	_	_	_	_
+14-18	_	medical	_	_	_	_
+14-19	_	reasons	_	_	_	_
+14-20	_	,	_	_	_	_
+14-21	_	Bill	_	_	_	_
+14-22	_	,	_	_	_	_
+14-23	_	who	_	_	_	_
+14-24	_	works	_	_	_	_
+14-25	_	as	_	_	_	_
+14-26	_	a	_	_	_	_
+14-27	_	carpenter	_	_	_	_
+14-28	_	replacing	_	_	_	_
+14-29	_	a	_	_	_	_
+14-30	_	barn	_	_	_	_
+14-31	_	floor	_	_	_	_
+14-32	_	,	_	_	_	_
+14-33	_	and	_	_	_	_
+14-34	_	Carolyn	_	_	_	_
+14-35	_	,	_	_	_	_
+14-36	_	who	_	_	_	_
+14-37	_	reacted	_	_	_	_
+14-38	_	rudely	_	_	_	_
+14-39	_	to	_	_	_	_
+14-40	_	their	abstract[59]	new[59]	coref	14-49[59_60]
+14-41	_	friend	_	_	_	_
+14-42	_	Barb	_	_	_	_
+14-43	_	's	_	_	_	_
+14-44	_	illness	_	_	_	_
+14-45	_	,	_	_	_	_
+14-46	_	as	_	_	_	_
+14-47	_	well	_	_	_	_
+14-48	_	as	_	_	_	_
+14-49	_	their	abstract[60]	new[60]	_	_
+14-50	_	own	_	_	_	_
+14-51	_	preferences	_	_	_	_
+14-52	_	for	_	_	_	_
+14-53	_	drinking	_	_	_	_
+14-54	_	tea	_	_	_	_
+14-55	_	with	_	_	_	_
+14-56	_	or	_	_	_	_
+14-57	_	without	_	_	_	_
+14-58	_	lemon	_	_	_	_
+14-59	_	.	_	_	_	_
 
 #Text=The traveler stood up from the table .
-15-1	_	The	abstract[63]	new[63]	coref	16-1[63_64]
-15-2	_	traveler	abstract[63]	new[63]	_	_
+15-1	_	The	abstract[61]	new[61]	coref	16-1[61_62]
+15-2	_	traveler	abstract[61]	new[61]	_	_
 15-3	_	stood	_	_	_	_
 15-4	_	up	_	_	_	_
 15-5	_	from	_	_	_	_
@@ -373,7 +394,7 @@
 15-8	_	.	_	_	_	_
 
 #Text=She was bony and rough - skinned and bent like an old crow , with a blue silk scarf and hanks of hair as black as soot .
-16-1	_	She	abstract[64]	new[64]	coref	17-1[64_65]
+16-1	_	She	abstract[62]	new[62]	coref	17-1[62_63]
 16-2	_	was	_	_	_	_
 16-3	_	bony	_	_	_	_
 16-4	_	and	_	_	_	_
@@ -403,7 +424,7 @@
 16-28	_	.	_	_	_	_
 
 #Text=Her eyes were veined with red .
-17-1	_	Her	abstract[65]	new[65]	coref	18-5[65_66]
+17-1	_	Her	abstract[63]	new[63]	coref	18-5[63_64]
 17-2	_	eyes	_	_	_	_
 17-3	_	were	_	_	_	_
 17-4	_	veined	_	_	_	_
@@ -416,12 +437,12 @@
 18-2	_	Nonetheless	_	_	_	_
 18-3	_	,	_	_	_	_
 18-4	_	”	_	_	_	_
-18-5	_	the	abstract[66]	new[66]	coref	18-10[66_67]
-18-6	_	traveler	abstract[66]	new[66]	_	_
+18-5	_	the	abstract[64]	new[64]	coref	18-10[64_65]
+18-6	_	traveler	abstract[64]	new[64]	_	_
 18-7	_	said	_	_	_	_
 18-8	_	,	_	_	_	_
 18-9	_	and	_	_	_	_
-18-10	_	she	abstract[67]	new[67]	coref	19-11[67_68]
+18-10	_	she	abstract[65]	new[65]	coref	19-11[65_66]
 18-11	_	walked	_	_	_	_
 18-12	_	out	_	_	_	_
 18-13	_	.	_	_	_	_
@@ -431,30 +452,30 @@
 19-2	_	were	_	_	_	_
 19-3	_	laughing	_	_	_	_
 19-4	_	at	_	_	_	_
-19-5	_	the	abstract[60]|abstract[70]	new[60]|new[70]	coref	20-3[70_71]
-19-6	_	chemist	abstract[60]|abstract[70]	new[60]|new[70]	_	_
-19-7	_	as	abstract[70]	new[70]	_	_
-19-8	_	well	abstract[70]	new[70]	_	_
-19-9	_	as	abstract[70]	new[70]	_	_
-19-10	_	at	abstract[70]	new[70]	_	_
-19-11	_	the	abstract[68]|abstract[70]	new[68]|new[70]	coref	23-4[68_69]
-19-12	_	traveler	abstract[68]|abstract[70]	new[68]|new[70]	_	_
+19-5	_	the	abstract[57]|abstract[75]	new[57]|new[75]	coref	20-3[75_76]
+19-6	_	chemist	abstract[57]|abstract[75]	new[57]|new[75]	_	_
+19-7	_	as	abstract[75]	new[75]	_	_
+19-8	_	well	abstract[75]	new[75]	_	_
+19-9	_	as	abstract[75]	new[75]	_	_
+19-10	_	at	abstract[75]	new[75]	_	_
+19-11	_	the	abstract[66]|abstract[75]	new[66]|new[75]	coref	23-4[66_67]
+19-12	_	traveler	abstract[66]|abstract[75]	new[66]|new[75]	_	_
 19-13	_	.	_	_	_	_
 
 #Text=To find anyone still proud , anyone who believed in giants or shame , was hilarious .
 20-1	_	To	_	_	_	_
 20-2	_	find	_	_	_	_
-20-3	_	anyone	abstract[71]	new[71]	coref	20-7[71_72]
-20-4	_	still	abstract[71]	new[71]	_	_
-20-5	_	proud	abstract[71]	new[71]	_	_
+20-3	_	anyone	abstract[76]	new[76]	coref	20-7[76_77]
+20-4	_	still	abstract[76]	new[76]	_	_
+20-5	_	proud	abstract[76]	new[76]	_	_
 20-6	_	,	_	_	_	_
-20-7	_	anyone	abstract[72]	new[72]	_	_
-20-8	_	who	abstract[72]	new[72]	_	_
-20-9	_	believed	abstract[72]	new[72]	_	_
-20-10	_	in	abstract[72]	new[72]	_	_
-20-11	_	giants	abstract[72]	new[72]	_	_
-20-12	_	or	abstract[72]	new[72]	_	_
-20-13	_	shame	abstract[72]	new[72]	_	_
+20-7	_	anyone	abstract[77]	new[77]	_	_
+20-8	_	who	abstract[77]	new[77]	_	_
+20-9	_	believed	abstract[77]	new[77]	_	_
+20-10	_	in	abstract[77]	new[77]	_	_
+20-11	_	giants	abstract[77]	new[77]	_	_
+20-12	_	or	abstract[77]	new[77]	_	_
+20-13	_	shame	abstract[77]	new[77]	_	_
 20-14	_	,	_	_	_	_
 20-15	_	was	_	_	_	_
 20-16	_	hilarious	_	_	_	_
@@ -473,7 +494,7 @@
 21-10	_	.	_	_	_	_
 
 #Text=Finding someone even more vulnerable and foolish than we were , after everything had been taken from us — that was a delight .
-22-1	_	Finding	abstract[76]	new[76]	coref	22-20[76_77]
+22-1	_	Finding	abstract[78]	new[78]	coref	22-21[78_79]
 22-2	_	someone	_	_	_	_
 22-3	_	even	_	_	_	_
 22-4	_	more	_	_	_	_
@@ -481,7 +502,7 @@
 22-6	_	and	_	_	_	_
 22-7	_	foolish	_	_	_	_
 22-8	_	than	_	_	_	_
-22-9	_	we	abstract[74]	new[74]	coref	22-18[74_75]
+22-9	_	we	abstract[53]	new[53]	coref	22-19[53_54]
 22-10	_	were	_	_	_	_
 22-11	_	,	_	_	_	_
 22-12	_	after	_	_	_	_
@@ -490,9 +511,9 @@
 22-15	_	been	_	_	_	_
 22-16	_	taken	_	_	_	_
 22-17	_	from	_	_	_	_
-22-18	_	us	abstract[75]	new[75]	_	_
+22-18	_	us	abstract[54]	new[54]	_	_
 22-19	_	—	_	_	_	_
-22-20	_	that	abstract[77]	new[77]	_	_
+22-20	_	that	abstract[79]	new[79]	_	_
 22-21	_	was	_	_	_	_
 22-22	_	a	_	_	_	_
 22-23	_	delight	_	_	_	_
@@ -500,10 +521,10 @@
 
 #Text=But I followed the traveler , into the wet streets .
 23-1	_	But	_	_	_	_
-23-2	_	I	abstract[20]	new[20]	coref	26-1[20_21]
+23-2	_	I	abstract[21]	new[21]	coref	26-1[21_22]
 23-3	_	followed	_	_	_	_
-23-4	_	the	abstract[69]	new[69]	_	_
-23-5	_	traveler	abstract[69]	new[69]	_	_
+23-4	_	the	abstract[67]	new[67]	coref	26-3[67_68]
+23-5	_	traveler	abstract[67]	new[67]	_	_
 23-6	_	,	_	_	_	_
 23-7	_	into	_	_	_	_
 23-8	_	the	_	_	_	_
@@ -537,18 +558,18 @@
 25-12	_	.	_	_	_	_
 
 #Text=I caught her at her door .
-26-1	_	I	abstract[21]	new[21]	coref	27-3[21_22]
+26-1	_	I	abstract[22]	new[22]	coref	27-3[22_23]
 26-2	_	caught	_	_	_	_
-26-3	_	her	abstract[34]	new[34]	coref	26-5[34_35]
+26-3	_	her	abstract[68]	new[68]	coref	26-5[68_69]
 26-4	_	at	_	_	_	_
-26-5	_	her	abstract[35]	new[35]	coref	27-1[35_36]
+26-5	_	her	abstract[69]	new[69]	coref	27-1[69_70]
 26-6	_	door	_	_	_	_
 26-7	_	.	_	_	_	_
 
 #Text=She invited me in for tea and massage .
-27-1	_	She	abstract[36]	new[36]	coref	28-1[36_37]
+27-1	_	She	abstract[70]	new[70]	coref	28-1[70_71]
 27-2	_	invited	_	_	_	_
-27-3	_	me	abstract[22]	new[22]	coref	32-1[22_23]
+27-3	_	me	abstract[23]	new[23]	coref	32-1[23_24]
 27-4	_	in	_	_	_	_
 27-5	_	for	_	_	_	_
 27-6	_	tea	_	_	_	_
@@ -557,7 +578,7 @@
 27-9	_	.	_	_	_	_
 
 #Text=Her limbs were weathered and ringed , like the branches of trees in the dry country .
-28-1	_	Her	abstract[37]	new[37]	coref	29-1[37_38]
+28-1	_	Her	abstract[71]	new[71]	coref	29-1[71_72]
 28-2	_	limbs	_	_	_	_
 28-3	_	were	_	_	_	_
 28-4	_	weathered	_	_	_	_
@@ -576,7 +597,7 @@
 28-17	_	.	_	_	_	_
 
 #Text=She smelled like honey that has been kept a while in a dark room , a little fermented .
-29-1	_	She	abstract[38]	new[38]	coref	31-15[38_39]
+29-1	_	She	abstract[72]	new[72]	coref	31-15[72_73]
 29-2	_	smelled	_	_	_	_
 29-3	_	like	_	_	_	_
 29-4	_	honey	_	_	_	_
@@ -617,42 +638,42 @@
 31-12	_	floor	_	_	_	_
 31-13	_	,	_	_	_	_
 31-14	_	and	_	_	_	_
-31-15	_	the	abstract[39]	new[39]	coref	31-18[39_40]
-31-16	_	traveler	abstract[39]	new[39]	_	_
+31-15	_	the	abstract[73]	new[73]	coref	31-18[73_74]
+31-16	_	traveler	abstract[73]	new[73]	_	_
 31-17	_	and	_	_	_	_
-31-18	_	her	abstract[40]	new[40]	coref	37-1[40_41]
+31-18	_	her	abstract[74]	new[74]	_	_
 31-19	_	pack	_	_	_	_
 31-20	_	were	_	_	_	_
 31-21	_	gone	_	_	_	_
 31-22	_	.	_	_	_	_
 
 #Text=I hurried home .
-32-1	_	I	abstract[23]	new[23]	coref	35-1[23_24]
+32-1	_	I	abstract[24]	new[24]	coref	35-1[24_25]
 32-2	_	hurried	_	_	_	_
-32-3	_	home	abstract[78]	new[78]	coref	33-1[78_79]
+32-3	_	home	abstract[80]	new[80]	coref	33-1[80_81]
 32-4	_	.	_	_	_	_
 
 #Text=My house had survived the war with all its brown clay walls intact , though the garden and the courtyard were a heap of blackened rubble .
-33-1	_	My	abstract[79]	new[79]	coref	33-9[79_80]
-33-2	_	house	abstract[79]	new[79]	_	_
+33-1	_	My	abstract[81]	new[81]	coref	33-9[81_82]
+33-2	_	house	abstract[81]	new[81]	_	_
 33-3	_	had	_	_	_	_
 33-4	_	survived	_	_	_	_
-33-5	_	the	abstract[13]	new[13]	_	_
+33-5	_	the	abstract[13]	new[13]	coref	40-12[13_14]
 33-6	_	war	abstract[13]	new[13]	_	_
 33-7	_	with	_	_	_	_
 33-8	_	all	_	_	_	_
-33-9	_	its	abstract[80]	new[80]	_	_
+33-9	_	its	abstract[82]	new[82]	_	_
 33-10	_	brown	_	_	_	_
 33-11	_	clay	_	_	_	_
 33-12	_	walls	_	_	_	_
 33-13	_	intact	_	_	_	_
 33-14	_	,	_	_	_	_
 33-15	_	though	_	_	_	_
-33-16	_	the	abstract[83]	new[83]	coref	40-1[83_84]
-33-17	_	garden	abstract[83]	new[83]	_	_
+33-16	_	the	_	_	_	_
+33-17	_	garden	_	_	_	_
 33-18	_	and	_	_	_	_
-33-19	_	the	abstract[81]	new[81]	coref	37-23[81_82]
-33-20	_	courtyard	abstract[81]	new[81]	_	_
+33-19	_	the	abstract[83]	new[83]	coref	37-23[83_84]
+33-20	_	courtyard	abstract[83]	new[83]	_	_
 33-21	_	were	_	_	_	_
 33-22	_	a	_	_	_	_
 33-23	_	heap	_	_	_	_
@@ -671,7 +692,7 @@
 34-7	_	.	_	_	_	_
 
 #Text=I packed six loaves of flatbread , some olives , a hard cheese , one nice dress , walking clothes , my pills and glasses , a jug of wine , a can-teen of water , and a kitchen knife .
-35-1	_	I	abstract[24]	new[24]	coref	35-22[24_25]
+35-1	_	I	abstract[25]	new[25]	coref	35-22[25_26]
 35-2	_	packed	_	_	_	_
 35-3	_	six	_	_	_	_
 35-4	_	loaves	_	_	_	_
@@ -692,7 +713,7 @@
 35-19	_	walking	_	_	_	_
 35-20	_	clothes	_	_	_	_
 35-21	_	,	_	_	_	_
-35-22	_	my	abstract[25]	new[25]	coref	36-1[25_26]
+35-22	_	my	abstract[26]	new[26]	coref	36-1[26_27]
 35-23	_	pills	_	_	_	_
 35-24	_	and	_	_	_	_
 35-25	_	glasses	_	_	_	_
@@ -714,13 +735,13 @@
 35-41	_	.	_	_	_	_
 
 #Text=I sat in the shadow in my living room for a while , looking at the amorphous mass of the blanket I had been crocheting .
-36-1	_	I	abstract[26]	new[26]	coref	36-7[26_27]
+36-1	_	I	abstract[27]	new[27]	coref	36-7[27_28]
 36-2	_	sat	_	_	_	_
 36-3	_	in	_	_	_	_
 36-4	_	the	_	_	_	_
 36-5	_	shadow	_	_	_	_
 36-6	_	in	_	_	_	_
-36-7	_	my	abstract[27]	new[27]	coref	36-22[27_28]
+36-7	_	my	abstract[28]	new[28]	coref	36-22[28_29]
 36-8	_	living	_	_	_	_
 36-9	_	room	_	_	_	_
 36-10	_	for	_	_	_	_
@@ -735,17 +756,17 @@
 36-19	_	of	_	_	_	_
 36-20	_	the	_	_	_	_
 36-21	_	blanket	_	_	_	_
-36-22	_	I	abstract[28]	new[28]	coref	37-23[28_29]
+36-22	_	I	abstract[29]	new[29]	coref	37-23[29_30]
 36-23	_	had	_	_	_	_
 36-24	_	been	_	_	_	_
 36-25	_	crocheting	_	_	_	_
 36-26	_	.	_	_	_	_
 
 #Text=That granddaughter : her parents both worked in the vineyards , and when she was a child , she would play in my courtyard in the after - noons .
-37-1	_	That	abstract[41]	new[41]	coref	37-4[41_42]
-37-2	_	granddaughter	abstract[41]	new[41]	_	_
+37-1	_	That	abstract[35]	new[35]	coref	37-4[35_36]
+37-2	_	granddaughter	abstract[35]	new[35]	_	_
 37-3	_	:	_	_	_	_
-37-4	_	her	abstract[42]	new[42]	coref	37-14[42_43]
+37-4	_	her	abstract[36]	new[36]	coref	37-14[36_37]
 37-5	_	parents	_	_	_	_
 37-6	_	both	_	_	_	_
 37-7	_	worked	_	_	_	_
@@ -755,17 +776,17 @@
 37-11	_	,	_	_	_	_
 37-12	_	and	_	_	_	_
 37-13	_	when	_	_	_	_
-37-14	_	she	abstract[43]	new[43]	coref	37-19[43_44]
+37-14	_	she	abstract[37]	new[37]	coref	37-19[37_38]
 37-15	_	was	_	_	_	_
 37-16	_	a	_	_	_	_
 37-17	_	child	_	_	_	_
 37-18	_	,	_	_	_	_
-37-19	_	she	abstract[44]	new[44]	coref	38-2[44_45]
+37-19	_	she	abstract[38]	new[38]	coref	38-2[38_39]
 37-20	_	would	_	_	_	_
 37-21	_	play	_	_	_	_
 37-22	_	in	_	_	_	_
-37-23	_	my	abstract[29]|abstract[82]	new[29]|new[82]	_	_
-37-24	_	courtyard	abstract[82]	new[82]	_	_
+37-23	_	my	abstract[30]|abstract[84]	new[30]|new[84]	_	_
+37-24	_	courtyard	abstract[84]	new[84]	_	_
 37-25	_	in	_	_	_	_
 37-26	_	the	_	_	_	_
 37-27	_	after	_	_	_	_
@@ -775,23 +796,23 @@
 
 #Text=When she scraped her knees bloody on the stones , she refused to cry .
 38-1	_	When	_	_	_	_
-38-2	_	she	abstract[45]	new[45]	coref	38-4[45_46]
+38-2	_	she	abstract[39]	new[39]	coref	38-4[39_40]
 38-3	_	scraped	_	_	_	_
-38-4	_	her	abstract[46]	new[46]	coref	38-11[46_47]
+38-4	_	her	abstract[40]	new[40]	coref	38-11[40_41]
 38-5	_	knees	_	_	_	_
 38-6	_	bloody	_	_	_	_
 38-7	_	on	_	_	_	_
 38-8	_	the	_	_	_	_
 38-9	_	stones	_	_	_	_
 38-10	_	,	_	_	_	_
-38-11	_	she	abstract[47]	new[47]	coref	39-1[47_48]
+38-11	_	she	abstract[41]	new[41]	coref	39-1[41_42]
 38-12	_	refused	_	_	_	_
 38-13	_	to	_	_	_	_
 38-14	_	cry	_	_	_	_
 38-15	_	.	_	_	_	_
 
 #Text=She would cry from frustration when the older children could do something that she could n't — like tie knots , or catch a chicken .
-39-1	_	She	abstract[48]	new[48]	coref	39-14[48_49]
+39-1	_	She	abstract[42]	new[42]	coref	39-14[42_43]
 39-2	_	would	_	_	_	_
 39-3	_	cry	_	_	_	_
 39-4	_	from	_	_	_	_
@@ -804,7 +825,7 @@
 39-11	_	do	_	_	_	_
 39-12	_	something	_	_	_	_
 39-13	_	that	_	_	_	_
-39-14	_	she	abstract[49]	new[49]	_	_
+39-14	_	she	abstract[43]	new[43]	_	_
 39-15	_	could	_	_	_	_
 39-16	_	n't	_	_	_	_
 39-17	_	—	_	_	_	_
@@ -818,23 +839,46 @@
 39-25	_	chicken	_	_	_	_
 39-26	_	.	_	_	_	_
 
-#Text=The garden was suddenly soaked by torrential rain - and then only yesterday did the sea abound .
-40-1	_	The	abstract[84]	new[84]	_	_
-40-2	_	garden	abstract[84]	new[84]	_	_
-40-3	_	was	_	_	_	_
-40-4	_	suddenly	_	_	_	_
-40-5	_	soaked	_	_	_	_
-40-6	_	by	_	_	_	_
-40-7	_	torrential	_	_	_	_
-40-8	_	rain	_	_	_	_
-40-9	_	-	_	_	_	_
-40-10	_	and	_	_	_	_
-40-11	_	then	_	_	_	_
-40-12	_	only	_	_	_	_
-40-13	_	yesterday	_	_	_	_
-40-14	_	did	_	_	_	_
-40-15	_	the	_	_	_	_
-40-16	_	sea	_	_	_	_
-40-17	_	abound	_	_	_	_
-40-18	_	.	_	_	_	_
+#Text=A poor woman who lost her husband and four children in a war hears about the valley of giants from a traveller at a bar and , after spending a night with her , decides to pack for a journey .
+40-1	_	A	_	_	_	_
+40-2	_	poor	_	_	_	_
+40-3	_	woman	_	_	_	_
+40-4	_	who	_	_	_	_
+40-5	_	lost	_	_	_	_
+40-6	_	her	_	_	_	_
+40-7	_	husband	_	_	_	_
+40-8	_	and	_	_	_	_
+40-9	_	four	_	_	_	_
+40-10	_	children	_	_	_	_
+40-11	_	in	_	_	_	_
+40-12	_	a	abstract[14]	new[14]	_	_
+40-13	_	war	abstract[14]	new[14]	_	_
+40-14	_	hears	_	_	_	_
+40-15	_	about	_	_	_	_
+40-16	_	the	abstract[48]	new[48]	_	_
+40-17	_	valley	abstract[48]	new[48]	_	_
+40-18	_	of	abstract[48]	new[48]	_	_
+40-19	_	giants	abstract[48]	new[48]	_	_
+40-20	_	from	_	_	_	_
+40-21	_	a	abstract[85]	new[85]	coref	40-33[85_86]
+40-22	_	traveller	abstract[85]	new[85]	_	_
+40-23	_	at	_	_	_	_
+40-24	_	a	_	_	_	_
+40-25	_	bar	_	_	_	_
+40-26	_	and	_	_	_	_
+40-27	_	,	_	_	_	_
+40-28	_	after	_	_	_	_
+40-29	_	spending	_	_	_	_
+40-30	_	a	_	_	_	_
+40-31	_	night	_	_	_	_
+40-32	_	with	_	_	_	_
+40-33	_	her	abstract[86]	new[86]	_	_
+40-34	_	,	_	_	_	_
+40-35	_	decides	_	_	_	_
+40-36	_	to	_	_	_	_
+40-37	_	pack	_	_	_	_
+40-38	_	for	_	_	_	_
+40-39	_	a	_	_	_	_
+40-40	_	journey	_	_	_	_
+40-41	_	.	_	_	_	_
 

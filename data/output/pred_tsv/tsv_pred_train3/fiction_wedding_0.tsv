@@ -43,7 +43,7 @@
 3-7	_	.	_	_	_	_
 
 #Text=Introduction
-4-1	_	Introduction	abstract[30]	new[30]	coref	12-22[30_31]
+4-1	_	Introduction	abstract[31]	new[31]	coref	12-22[31_32]
 
 #Text=I
 5-1	_	I	_	_	_	_
@@ -58,7 +58,7 @@
 6-7	_	is	_	_	_	_
 6-8	_	the	_	_	_	_
 6-9	_	way	_	_	_	_
-6-10	_	I	abstract[26]	new[26]	coref	10-1[26_27]
+6-10	_	I	abstract[27]	new[27]	coref	10-1[27_28]
 6-11	_	’ve	_	_	_	_
 6-12	_	decided	_	_	_	_
 6-13	_	to	_	_	_	_
@@ -151,7 +151,7 @@
 9-23	_	.	_	_	_	_
 
 #Text=I ’ll call it herein ( as everyone mostly does ) simply The Chemical Wedding .
-10-1	_	I	abstract[27]	new[27]	_	_
+10-1	_	I	abstract[28]	new[28]	_	_
 10-2	_	’ll	_	_	_	_
 10-3	_	call	_	_	_	_
 10-4	_	it	abstract[20]	new[20]	coref	10-13[20_21]
@@ -176,21 +176,21 @@
 11-5	_	would	_	_	_	_
 11-6	_	have	_	_	_	_
 11-7	_	had	_	_	_	_
-11-8	_	a	abstract[28]	new[28]	coref	11-37[28_29]
-11-9	_	certain	abstract[28]	new[28]	_	_
-11-10	_	amount	abstract[28]	new[28]	_	_
-11-11	_	of	abstract[28]	new[28]	_	_
-11-12	_	context	abstract[28]	new[28]	_	_
-11-13	_	for	abstract[28]	new[28]	_	_
-11-14	_	the	abstract[28]	new[28]	_	_
-11-15	_	truly	abstract[28]	new[28]	_	_
-11-16	_	bizarre	abstract[28]	new[28]	_	_
-11-17	_	and	abstract[28]	new[28]	_	_
-11-18	_	surprising	abstract[28]	new[28]	_	_
-11-19	_	events	abstract[28]	new[28]	_	_
-11-20	_	it	abstract[23]|abstract[28]	new[23]|new[28]	coref	11-28[23_24]
-11-21	_	tells	abstract[28]	new[28]	_	_
-11-22	_	of	abstract[28]	new[28]	_	_
+11-8	_	a	abstract[29]	new[29]	coref	11-37[29_30]
+11-9	_	certain	abstract[29]	new[29]	_	_
+11-10	_	amount	abstract[29]	new[29]	_	_
+11-11	_	of	abstract[29]	new[29]	_	_
+11-12	_	context	abstract[29]	new[29]	_	_
+11-13	_	for	abstract[29]	new[29]	_	_
+11-14	_	the	abstract[29]	new[29]	_	_
+11-15	_	truly	abstract[29]	new[29]	_	_
+11-16	_	bizarre	abstract[29]	new[29]	_	_
+11-17	_	and	abstract[29]	new[29]	_	_
+11-18	_	surprising	abstract[29]	new[29]	_	_
+11-19	_	events	abstract[29]	new[29]	_	_
+11-20	_	it	abstract[23]|abstract[29]	new[23]|new[29]	coref	11-28[23_24]
+11-21	_	tells	abstract[29]	new[29]	_	_
+11-22	_	of	abstract[29]	new[29]	_	_
 11-23	_	,	_	_	_	_
 11-24	_	it	_	_	_	_
 11-25	_	’s	_	_	_	_
@@ -205,18 +205,18 @@
 11-34	_	enjoyable	_	_	_	_
 11-35	_	without	_	_	_	_
 11-36	_	knowing	_	_	_	_
-11-37	_	that	abstract[29]	new[29]	_	_
-11-38	_	context	abstract[29]	new[29]	_	_
+11-37	_	that	abstract[30]	new[30]	_	_
+11-38	_	context	abstract[30]	new[30]	_	_
 11-39	_	,	_	_	_	_
 11-40	_	and	_	_	_	_
 11-41	_	experiencing	_	_	_	_
-11-42	_	the	abstract[25]	new[25]	_	_
+11-42	_	the	abstract[25]	new[25]	coref	45-24[25_26]
 11-43	_	book	abstract[25]	new[25]	_	_
 11-44	_	unmediated	_	_	_	_
 11-45	_	.	_	_	_	_
 
 #Text=You might therefore wish to start right in on the first page of text that follows and only then return to this introduction .
-12-1	_	You	abstract[86]	new[86]	coref	30-18[86_87]
+12-1	_	You	abstract[87]	new[87]	coref	30-18[87_88]
 12-2	_	might	_	_	_	_
 12-3	_	therefore	_	_	_	_
 12-4	_	wish	_	_	_	_
@@ -237,8 +237,8 @@
 12-19	_	then	_	_	_	_
 12-20	_	return	_	_	_	_
 12-21	_	to	_	_	_	_
-12-22	_	this	abstract[31]	new[31]	_	_
-12-23	_	introduction	abstract[31]	new[31]	_	_
+12-22	_	this	abstract[32]	new[32]	_	_
+12-23	_	introduction	abstract[32]	new[32]	_	_
 12-24	_	.	_	_	_	_
 
 #Text=Consider a similar case : a little book published in 1934 by the Surrealist artist Max Ernst called Une Semaine de Bonté .
@@ -247,27 +247,27 @@
 13-3	_	similar	_	_	_	_
 13-4	_	case	_	_	_	_
 13-5	_	:	_	_	_	_
-13-6	_	a	abstract[32]	new[32]	coref	14-1[32_33]
-13-7	_	little	abstract[32]	new[32]	_	_
-13-8	_	book	abstract[32]	new[32]	_	_
-13-9	_	published	abstract[32]	new[32]	_	_
-13-10	_	in	abstract[32]	new[32]	_	_
-13-11	_	1934	abstract[32]	new[32]	_	_
-13-12	_	by	abstract[32]	new[32]	_	_
-13-13	_	the	abstract[32]	new[32]	_	_
-13-14	_	Surrealist	abstract[32]	new[32]	_	_
-13-15	_	artist	abstract[32]	new[32]	_	_
-13-16	_	Max	abstract[32]	new[32]	_	_
-13-17	_	Ernst	abstract[32]	new[32]	_	_
-13-18	_	called	abstract[32]	new[32]	_	_
-13-19	_	Une	abstract[32]	new[32]	_	_
-13-20	_	Semaine	abstract[32]	new[32]	_	_
-13-21	_	de	abstract[32]	new[32]	_	_
-13-22	_	Bonté	abstract[32]	new[32]	_	_
+13-6	_	a	abstract[33]	new[33]	coref	14-1[33_34]
+13-7	_	little	abstract[33]	new[33]	_	_
+13-8	_	book	abstract[33]	new[33]	_	_
+13-9	_	published	abstract[33]	new[33]	_	_
+13-10	_	in	abstract[33]	new[33]	_	_
+13-11	_	1934	abstract[33]	new[33]	_	_
+13-12	_	by	abstract[33]	new[33]	_	_
+13-13	_	the	abstract[33]	new[33]	_	_
+13-14	_	Surrealist	abstract[33]	new[33]	_	_
+13-15	_	artist	abstract[33]	new[33]	_	_
+13-16	_	Max	abstract[33]	new[33]	_	_
+13-17	_	Ernst	abstract[33]	new[33]	_	_
+13-18	_	called	abstract[33]	new[33]	_	_
+13-19	_	Une	abstract[33]	new[33]	_	_
+13-20	_	Semaine	abstract[33]	new[33]	_	_
+13-21	_	de	abstract[33]	new[33]	_	_
+13-22	_	Bonté	abstract[33]	new[33]	_	_
 13-23	_	.	_	_	_	_
 
 #Text=It was made entirely of collaged illustrations cut out of old books
-14-1	_	It	abstract[33]	new[33]	_	_
+14-1	_	It	abstract[34]	new[34]	_	_
 14-2	_	was	_	_	_	_
 14-3	_	made	_	_	_	_
 14-4	_	entirely	_	_	_	_
@@ -290,24 +290,24 @@
 16-2	_	was	_	_	_	_
 16-3	_	just	_	_	_	_
 16-4	_	before	_	_	_	_
-16-5	_	Easter	abstract[78]	new[78]	coref	25-8[78_79]
+16-5	_	Easter	abstract[79]	new[79]	coref	25-8[79_80]
 16-6	_	Sunday	_	_	_	_
 16-7	_	,	_	_	_	_
 16-8	_	1	_	_	_	_
 16-9	_	and	_	_	_	_
-16-10	_	I	abstract[34]	new[34]	coref	16-14[34_35]
+16-10	_	I	abstract[35]	new[35]	coref	16-14[35_36]
 16-11	_	was	_	_	_	_
 16-12	_	sitting	_	_	_	_
 16-13	_	at	_	_	_	_
-16-14	_	my	abstract[35]	new[35]	coref	17-1[35_36]
+16-14	_	my	abstract[36]	new[36]	coref	17-1[36_37]
 16-15	_	table	_	_	_	_
 16-16	_	.	_	_	_	_
 
 #Text=I ’d said my prayers , talking a long time as usual with my Maker and thinking about some of the great mysteries the Father of Lights had revealed to me .
-17-1	_	I	abstract[36]	new[36]	coref	17-4[36_37]
+17-1	_	I	abstract[37]	new[37]	coref	17-4[37_38]
 17-2	_	’d	_	_	_	_
 17-3	_	said	_	_	_	_
-17-4	_	my	abstract[37]	new[37]	coref	17-14[37_38]
+17-4	_	my	abstract[38]	new[38]	coref	17-14[38_39]
 17-5	_	prayers	_	_	_	_
 17-6	_	,	_	_	_	_
 17-7	_	talking	_	_	_	_
@@ -317,8 +317,8 @@
 17-11	_	as	_	_	_	_
 17-12	_	usual	_	_	_	_
 17-13	_	with	_	_	_	_
-17-14	_	my	abstract[38]|abstract[50]	new[38]|new[50]	coref|coref	17-31[38_39]|17-24[50_51]
-17-15	_	Maker	abstract[50]	new[50]	_	_
+17-14	_	my	abstract[39]|abstract[51]	new[39]|new[51]	coref|coref	17-31[39_40]|17-24[51_52]
+17-15	_	Maker	abstract[51]	new[51]	_	_
 17-16	_	and	_	_	_	_
 17-17	_	thinking	_	_	_	_
 17-18	_	about	_	_	_	_
@@ -327,19 +327,19 @@
 17-21	_	the	_	_	_	_
 17-22	_	great	_	_	_	_
 17-23	_	mysteries	_	_	_	_
-17-24	_	the	abstract[51]	new[51]	coref	41-17[51_52]
-17-25	_	Father	abstract[51]	new[51]	_	_
-17-26	_	of	abstract[51]	new[51]	_	_
-17-27	_	Lights	abstract[51]	new[51]	_	_
+17-24	_	the	abstract[52]	new[52]	coref	41-17[52_53]
+17-25	_	Father	abstract[52]	new[52]	_	_
+17-26	_	of	abstract[52]	new[52]	_	_
+17-27	_	Lights	abstract[52]	new[52]	_	_
 17-28	_	had	_	_	_	_
 17-29	_	revealed	_	_	_	_
 17-30	_	to	_	_	_	_
-17-31	_	me	abstract[39]	new[39]	coref	18-2[39_40]
+17-31	_	me	abstract[40]	new[40]	coref	18-2[40_41]
 17-32	_	.	_	_	_	_
 
 #Text=Now I was ready to make and to bake – only in my heart , actually – a small , perfect unleavened wafer to eat with my beloved Paschal Lamb .
 18-1	_	Now	_	_	_	_
-18-2	_	I	abstract[40]	new[40]	coref	18-13[40_41]
+18-2	_	I	abstract[41]	new[41]	coref	18-13[41_42]
 18-3	_	was	_	_	_	_
 18-4	_	ready	_	_	_	_
 18-5	_	to	_	_	_	_
@@ -350,8 +350,8 @@
 18-10	_	–	_	_	_	_
 18-11	_	only	_	_	_	_
 18-12	_	in	_	_	_	_
-18-13	_	my	abstract[41]|abstract[84]	new[41]|new[84]	coref|coref	18-27[41_42]|27-17[84_85]
-18-14	_	heart	abstract[84]	new[84]	_	_
+18-13	_	my	abstract[42]|abstract[85]	new[42]|new[85]	coref|coref	18-27[42_43]|27-17[85_86]
+18-14	_	heart	abstract[85]	new[85]	_	_
 18-15	_	,	_	_	_	_
 18-16	_	actually	_	_	_	_
 18-17	_	–	_	_	_	_
@@ -364,7 +364,7 @@
 18-24	_	to	_	_	_	_
 18-25	_	eat	_	_	_	_
 18-26	_	with	_	_	_	_
-18-27	_	my	abstract[42]	new[42]	coref	19-14[42_43]
+18-27	_	my	abstract[43]	new[43]	coref	19-14[43_44]
 18-28	_	beloved	_	_	_	_
 18-29	_	Paschal	_	_	_	_
 18-30	_	Lamb	_	_	_	_
@@ -375,20 +375,20 @@
 19-2	_	of	_	_	_	_
 19-3	_	a	_	_	_	_
 19-4	_	sudden	_	_	_	_
-19-5	_	a	abstract[53]	new[53]	coref	19-40[53_54]
-19-6	_	terrible	abstract[53]	new[53]	_	_
-19-7	_	wind	abstract[53]	new[53]	_	_
+19-5	_	a	abstract[54]	new[54]	coref	19-40[54_55]
+19-6	_	terrible	abstract[54]	new[54]	_	_
+19-7	_	wind	abstract[54]	new[54]	_	_
 19-8	_	blew	_	_	_	_
 19-9	_	up	_	_	_	_
 19-10	_	,	_	_	_	_
 19-11	_	so	_	_	_	_
 19-12	_	strong	_	_	_	_
 19-13	_	that	_	_	_	_
-19-14	_	I	abstract[43]	new[43]	coref	19-18[43_44]
+19-14	_	I	abstract[44]	new[44]	coref	19-18[44_45]
 19-15	_	thought	_	_	_	_
 19-16	_	the	_	_	_	_
 19-17	_	hill	_	_	_	_
-19-18	_	my	abstract[44]	new[44]	coref	19-30[44_45]
+19-18	_	my	abstract[45]	new[45]	coref	19-30[45_46]
 19-19	_	little	_	_	_	_
 19-20	_	house	_	_	_	_
 19-21	_	was	_	_	_	_
@@ -400,31 +400,31 @@
 19-27	_	apart	_	_	_	_
 19-28	_	–	_	_	_	_
 19-29	_	but	_	_	_	_
-19-30	_	I	abstract[45]	new[45]	coref	19-50[45_46]
+19-30	_	I	abstract[46]	new[46]	coref	19-50[46_47]
 19-31	_	’d	_	_	_	_
 19-32	_	seen	_	_	_	_
-19-33	_	the	abstract[55]	new[55]	coref	19-43[55_56]
-19-34	_	Devil	abstract[55]	new[55]	_	_
+19-33	_	the	abstract[56]	new[56]	coref	19-43[56_57]
+19-34	_	Devil	abstract[56]	new[56]	_	_
 19-35	_	do	_	_	_	_
 19-36	_	things	_	_	_	_
 19-37	_	as	_	_	_	_
 19-38	_	bad	_	_	_	_
 19-39	_	as	_	_	_	_
-19-40	_	this	abstract[54]	new[54]	_	_
+19-40	_	this	abstract[55]	new[55]	_	_
 19-41	_	before	_	_	_	_
 19-42	_	(	_	_	_	_
-19-43	_	the	abstract[56]	new[56]	_	_
-19-44	_	Devil	abstract[56]	new[56]	_	_
+19-43	_	the	abstract[57]	new[57]	_	_
+19-44	_	Devil	abstract[57]	new[57]	_	_
 19-45	_	had	_	_	_	_
 19-46	_	often	_	_	_	_
 19-47	_	tried	_	_	_	_
 19-48	_	to	_	_	_	_
 19-49	_	harm	_	_	_	_
-19-50	_	me	abstract[46]	new[46]	coref	19-54[46_47]
+19-50	_	me	abstract[47]	new[47]	coref	19-54[47_48]
 19-51	_	)	_	_	_	_
 19-52	_	,	_	_	_	_
 19-53	_	so	_	_	_	_
-19-54	_	I	abstract[47]	new[47]	coref	20-2[47_48]
+19-54	_	I	abstract[48]	new[48]	coref	20-2[48_49]
 19-55	_	took	_	_	_	_
 19-56	_	heart	_	_	_	_
 19-57	_	and	_	_	_	_
@@ -435,11 +435,11 @@
 
 #Text=Till I felt somebody touch me on the back .
 20-1	_	Till	_	_	_	_
-20-2	_	I	abstract[48]	new[48]	coref	20-6[48_49]
+20-2	_	I	abstract[49]	new[49]	coref	20-6[49_50]
 20-3	_	felt	_	_	_	_
 20-4	_	somebody	_	_	_	_
 20-5	_	touch	_	_	_	_
-20-6	_	me	abstract[49]	new[49]	_	_
+20-6	_	me	abstract[50]	new[50]	_	_
 20-7	_	on	_	_	_	_
 20-8	_	the	_	_	_	_
 20-9	_	back	_	_	_	_
@@ -448,10 +448,10 @@
 #Text=This frightened me so that I did n’t dare turn .
 21-1	_	This	_	_	_	_
 21-2	_	frightened	_	_	_	_
-21-3	_	me	abstract[57]	new[57]	coref	21-6[57_58]
+21-3	_	me	abstract[58]	new[58]	coref	21-6[58_59]
 21-4	_	so	_	_	_	_
 21-5	_	that	_	_	_	_
-21-6	_	I	abstract[58]	new[58]	coref	22-1[58_59]
+21-6	_	I	abstract[59]	new[59]	coref	22-1[59_60]
 21-7	_	did	_	_	_	_
 21-8	_	n’t	_	_	_	_
 21-9	_	dare	_	_	_	_
@@ -459,7 +459,7 @@
 21-11	_	.	_	_	_	_
 
 #Text=I tried to stay as brave and calm as a human being could under the circumstances .
-22-1	_	I	abstract[59]	new[59]	coref	23-2[59_60]
+22-1	_	I	abstract[60]	new[60]	coref	23-2[60_61]
 22-2	_	tried	_	_	_	_
 22-3	_	to	_	_	_	_
 22-4	_	stay	_	_	_	_
@@ -478,9 +478,9 @@
 22-17	_	.	_	_	_	_
 
 #Text=I felt my coat tugged at , and tugged again , and at last I looked around .
-23-1	_	I	abstract[60]	new[60]	coref	23-4[60_61]
+23-1	_	I	abstract[61]	new[61]	coref	23-4[61_62]
 23-2	_	felt	_	_	_	_
-23-3	_	my	abstract[61]	new[61]	coref	23-16[61_62]
+23-3	_	my	abstract[62]	new[62]	coref	23-16[62_63]
 23-4	_	coat	_	_	_	_
 23-5	_	tugged	_	_	_	_
 23-6	_	at	_	_	_	_
@@ -492,7 +492,7 @@
 23-12	_	and	_	_	_	_
 23-13	_	at	_	_	_	_
 23-14	_	last	_	_	_	_
-23-15	_	I	abstract[62]	new[62]	coref	27-17[62_63]
+23-15	_	I	abstract[63]	new[63]	coref	27-17[63_64]
 23-16	_	looked	_	_	_	_
 23-17	_	around	_	_	_	_
 23-18	_	.	_	_	_	_
@@ -522,13 +522,13 @@
 
 #Text=1 Christian ’s story begins just before Easter , like Dante ’s Divine Comedy .
 25-1	_	1	_	_	_	_
-25-2	_	Christian	abstract[13]|abstract[80]	new[13]|new[80]	coref	26-1[80_81]
-25-3	_	’s	abstract[13]|abstract[80]	new[13]|new[80]	_	_
-25-4	_	story	abstract[80]	new[80]	_	_
+25-2	_	Christian	abstract[13]|abstract[81]	new[13]|new[81]	coref	26-1[81_82]
+25-3	_	’s	abstract[13]|abstract[81]	new[13]|new[81]	_	_
+25-4	_	story	abstract[81]	new[81]	_	_
 25-5	_	begins	_	_	_	_
 25-6	_	just	_	_	_	_
 25-7	_	before	_	_	_	_
-25-8	_	Easter	abstract[79]	new[79]	_	_
+25-8	_	Easter	abstract[80]	new[80]	_	_
 25-9	_	,	_	_	_	_
 25-10	_	like	_	_	_	_
 25-11	_	Dante	_	_	_	_
@@ -538,23 +538,23 @@
 25-15	_	.	_	_	_	_
 
 #Text=It can be seen as an allegory of Christ ’s death and resurrection , though this idea produces some puzzles .
-26-1	_	It	abstract[81]	new[81]	_	_
+26-1	_	It	abstract[82]	new[82]	_	_
 26-2	_	can	_	_	_	_
 26-3	_	be	_	_	_	_
 26-4	_	seen	_	_	_	_
 26-5	_	as	_	_	_	_
-26-6	_	an	abstract[82]	new[82]	coref	26-16[82_83]
-26-7	_	allegory	abstract[82]	new[82]	_	_
-26-8	_	of	abstract[82]	new[82]	_	_
-26-9	_	Christ	abstract[82]	new[82]	_	_
-26-10	_	’s	abstract[82]	new[82]	_	_
-26-11	_	death	abstract[82]	new[82]	_	_
-26-12	_	and	abstract[82]	new[82]	_	_
-26-13	_	resurrection	abstract[82]	new[82]	_	_
+26-6	_	an	abstract[83]	new[83]	coref	26-16[83_84]
+26-7	_	allegory	abstract[83]	new[83]	_	_
+26-8	_	of	abstract[83]	new[83]	_	_
+26-9	_	Christ	abstract[83]	new[83]	_	_
+26-10	_	’s	abstract[83]	new[83]	_	_
+26-11	_	death	abstract[83]	new[83]	_	_
+26-12	_	and	abstract[83]	new[83]	_	_
+26-13	_	resurrection	abstract[83]	new[83]	_	_
 26-14	_	,	_	_	_	_
 26-15	_	though	_	_	_	_
-26-16	_	this	abstract[83]	new[83]	_	_
-26-17	_	idea	abstract[83]	new[83]	_	_
+26-16	_	this	abstract[84]	new[84]	_	_
+26-17	_	idea	abstract[84]	new[84]	_	_
 26-18	_	produces	_	_	_	_
 26-19	_	some	_	_	_	_
 26-20	_	puzzles	_	_	_	_
@@ -577,12 +577,12 @@
 27-14	_	that	_	_	_	_
 27-15	_	it	_	_	_	_
 27-16	_	gladdened	_	_	_	_
-27-17	_	my	abstract[63]|abstract[85]	new[63]|new[85]	coref	27-22[63_64]
-27-18	_	old	abstract[85]	new[85]	_	_
-27-19	_	heart	abstract[85]	new[85]	_	_
+27-17	_	my	abstract[64]|abstract[86]	new[64]|new[86]	coref	27-22[64_65]
+27-18	_	old	abstract[86]	new[86]	_	_
+27-19	_	heart	abstract[86]	new[86]	_	_
 27-20	_	,	_	_	_	_
 27-21	_	and	_	_	_	_
-27-22	_	I	abstract[64]	new[64]	coref	29-1[64_65]
+27-22	_	I	abstract[65]	new[65]	coref	29-1[65_66]
 27-23	_	could	_	_	_	_
 27-24	_	n't	_	_	_	_
 27-25	_	help	_	_	_	_
@@ -596,7 +596,7 @@
 28-3	_	DAY	_	_	_	_
 
 #Text=I was awake and lying in bed next morning , looking idly at the wonderful images and inscriptions all around my room , when suddenly I heard the sound of trumpets , as if a procession were already underway .
-29-1	_	I	abstract[65]	new[65]	coref	29-21[65_66]
+29-1	_	I	abstract[66]	new[66]	coref	29-21[66_67]
 29-2	_	was	_	_	_	_
 29-3	_	awake	_	_	_	_
 29-4	_	and	_	_	_	_
@@ -616,12 +616,12 @@
 29-18	_	inscriptions	_	_	_	_
 29-19	_	all	_	_	_	_
 29-20	_	around	_	_	_	_
-29-21	_	my	abstract[66]	new[66]	coref	29-26[66_67]
+29-21	_	my	abstract[67]	new[67]	coref	29-26[67_68]
 29-22	_	room	_	_	_	_
 29-23	_	,	_	_	_	_
 29-24	_	when	_	_	_	_
 29-25	_	suddenly	_	_	_	_
-29-26	_	I	abstract[67]	new[67]	coref	30-1[67_68]
+29-26	_	I	abstract[68]	new[68]	coref	30-1[68_69]
 29-27	_	heard	_	_	_	_
 29-28	_	the	_	_	_	_
 29-29	_	sound	_	_	_	_
@@ -638,8 +638,8 @@
 29-40	_	.	_	_	_	_
 
 #Text=My page jumped out of bed as if crazed , looking more dead than alive , and you can imagine how I felt when he cried , “ They 're already being presented to the king ! "
-30-1	_	My	abstract[68]|abstract[88]	new[68]|new[88]	coref|coref	30-22[68_69]|30-25[88_89]
-30-2	_	page	abstract[88]	new[88]	_	_
+30-1	_	My	abstract[69]|abstract[91]	new[69]|new[91]	coref|coref	30-22[69_70]|30-25[91_92]
+30-2	_	page	abstract[91]	new[91]	_	_
 30-3	_	jumped	_	_	_	_
 30-4	_	out	_	_	_	_
 30-5	_	of	_	_	_	_
@@ -655,18 +655,18 @@
 30-15	_	alive	_	_	_	_
 30-16	_	,	_	_	_	_
 30-17	_	and	_	_	_	_
-30-18	_	you	abstract[87]	new[87]	_	_
+30-18	_	you	abstract[88]	new[88]	coref	31-1[88_89]
 30-19	_	can	_	_	_	_
 30-20	_	imagine	_	_	_	_
 30-21	_	how	_	_	_	_
-30-22	_	I	abstract[69]	new[69]	coref	32-1[69_70]
+30-22	_	I	abstract[70]	new[70]	coref	32-1[70_71]
 30-23	_	felt	_	_	_	_
 30-24	_	when	_	_	_	_
-30-25	_	he	abstract[89]	new[89]	coref	33-6[89_90]
+30-25	_	he	abstract[92]	new[92]	coref	33-6[92_93]
 30-26	_	cried	_	_	_	_
 30-27	_	,	_	_	_	_
 30-28	_	“	_	_	_	_
-30-29	_	They	abstract[94]	new[94]	coref	34-26[94_95]
+30-29	_	They	abstract[97]	new[97]	coref	34-26[97_98]
 30-30	_	're	_	_	_	_
 30-31	_	already	_	_	_	_
 30-32	_	being	_	_	_	_
@@ -677,33 +677,34 @@
 30-37	_	!	_	_	_	_
 30-38	_	"	_	_	_	_
 
-#Text=A year after attempting to enter the time machine 's time slot , Michael Nicholson is told to put away the timer .
-31-1	_	A	_	_	_	_
-31-2	_	year	_	_	_	_
-31-3	_	after	_	_	_	_
-31-4	_	attempting	_	_	_	_
-31-5	_	to	_	_	_	_
-31-6	_	enter	_	_	_	_
-31-7	_	the	_	_	_	_
-31-8	_	time	_	_	_	_
-31-9	_	machine	_	_	_	_
-31-10	_	's	_	_	_	_
-31-11	_	time	_	_	_	_
-31-12	_	slot	_	_	_	_
-31-13	_	,	_	_	_	_
-31-14	_	Michael	_	_	_	_
-31-15	_	Nicholson	_	_	_	_
-31-16	_	is	_	_	_	_
-31-17	_	told	_	_	_	_
-31-18	_	to	_	_	_	_
-31-19	_	put	_	_	_	_
-31-20	_	away	_	_	_	_
-31-21	_	the	_	_	_	_
-31-22	_	timer	_	_	_	_
-31-23	_	.	_	_	_	_
+#Text=You can download the full """" Fair Street Book """" today by filling and submitting your information which is not on by default .
+31-1	_	You	abstract[89]	new[89]	coref	31-16[89_90]
+31-2	_	can	_	_	_	_
+31-3	_	download	_	_	_	_
+31-4	_	the	_	_	_	_
+31-5	_	full	_	_	_	_
+31-6	_	""""	_	_	_	_
+31-7	_	Fair	_	_	_	_
+31-8	_	Street	_	_	_	_
+31-9	_	Book	_	_	_	_
+31-10	_	""""	_	_	_	_
+31-11	_	today	_	_	_	_
+31-12	_	by	_	_	_	_
+31-13	_	filling	_	_	_	_
+31-14	_	and	_	_	_	_
+31-15	_	submitting	_	_	_	_
+31-16	_	your	abstract[90]	new[90]	_	_
+31-17	_	information	_	_	_	_
+31-18	_	which	_	_	_	_
+31-19	_	is	_	_	_	_
+31-20	_	not	_	_	_	_
+31-21	_	on	_	_	_	_
+31-22	_	by	_	_	_	_
+31-23	_	default	_	_	_	_
+31-24	_	.	_	_	_	_
 
 #Text=I could only groan in frustration and curse my lazy bones .
-32-1	_	I	abstract[70]	new[70]	coref	32-9[70_71]
+32-1	_	I	abstract[71]	new[71]	coref	32-9[71_72]
 32-2	_	could	_	_	_	_
 32-3	_	only	_	_	_	_
 32-4	_	groan	_	_	_	_
@@ -711,23 +712,23 @@
 32-6	_	frustration	_	_	_	_
 32-7	_	and	_	_	_	_
 32-8	_	curse	_	_	_	_
-32-9	_	my	abstract[71]	new[71]	coref	33-1[71_72]
+32-9	_	my	abstract[72]	new[72]	coref	33-1[72_73]
 32-10	_	lazy	_	_	_	_
 32-11	_	bones	_	_	_	_
 32-12	_	.	_	_	_	_
 
 #Text=I got dressed , but my page was quicker than I was and ran out of the chamber to see what was what .
-33-1	_	I	abstract[72]	new[72]	coref	33-6[72_73]
+33-1	_	I	abstract[73]	new[73]	coref	33-6[73_74]
 33-2	_	got	_	_	_	_
 33-3	_	dressed	_	_	_	_
 33-4	_	,	_	_	_	_
 33-5	_	but	_	_	_	_
-33-6	_	my	abstract[73]|abstract[90]	new[73]|new[90]	coref|coref	33-11[73_74]|34-1[90_91]
-33-7	_	page	abstract[90]	new[90]	_	_
+33-6	_	my	abstract[74]|abstract[93]	new[74]|new[93]	coref|coref	33-11[74_75]|34-1[93_94]
+33-7	_	page	abstract[93]	new[93]	_	_
 33-8	_	was	_	_	_	_
 33-9	_	quicker	_	_	_	_
 33-10	_	than	_	_	_	_
-33-11	_	I	abstract[74]	new[74]	coref	34-7[74_75]
+33-11	_	I	abstract[75]	new[75]	coref	34-7[75_76]
 33-12	_	was	_	_	_	_
 33-13	_	and	_	_	_	_
 33-14	_	ran	_	_	_	_
@@ -743,50 +744,50 @@
 33-24	_	.	_	_	_	_
 
 #Text=He soon came back and gave me the good news that I actually had n’t overslept ; all I ’d done was miss breakfast : they had n’t wanted to wake an old man who needed his rest .
-34-1	_	He	abstract[91]	new[91]	coref	35-11[91_92]
+34-1	_	He	abstract[94]	new[94]	coref	35-11[94_95]
 34-2	_	soon	_	_	_	_
 34-3	_	came	_	_	_	_
 34-4	_	back	_	_	_	_
 34-5	_	and	_	_	_	_
 34-6	_	gave	_	_	_	_
-34-7	_	me	abstract[75]	new[75]	coref	34-12[75_76]
+34-7	_	me	abstract[76]	new[76]	coref	34-12[76_77]
 34-8	_	the	_	_	_	_
 34-9	_	good	_	_	_	_
 34-10	_	news	_	_	_	_
 34-11	_	that	_	_	_	_
-34-12	_	I	abstract[76]	new[76]	coref	34-19[76_77]
+34-12	_	I	abstract[77]	new[77]	coref	34-19[77_78]
 34-13	_	actually	_	_	_	_
 34-14	_	had	_	_	_	_
 34-15	_	n’t	_	_	_	_
 34-16	_	overslept	_	_	_	_
 34-17	_	;	_	_	_	_
 34-18	_	all	_	_	_	_
-34-19	_	I	abstract[77]	new[77]	_	_
+34-19	_	I	abstract[78]	new[78]	_	_
 34-20	_	’d	_	_	_	_
 34-21	_	done	_	_	_	_
 34-22	_	was	_	_	_	_
 34-23	_	miss	_	_	_	_
 34-24	_	breakfast	_	_	_	_
 34-25	_	:	_	_	_	_
-34-26	_	they	abstract[95]	new[95]	_	_
+34-26	_	they	abstract[98]	new[98]	_	_
 34-27	_	had	_	_	_	_
 34-28	_	n’t	_	_	_	_
 34-29	_	wanted	_	_	_	_
 34-30	_	to	_	_	_	_
 34-31	_	wake	_	_	_	_
-34-32	_	an	abstract[96]	new[96]	coref	35-3[96_97]
-34-33	_	old	abstract[96]	new[96]	_	_
-34-34	_	man	abstract[96]	new[96]	_	_
-34-35	_	who	abstract[96]	new[96]	_	_
-34-36	_	needed	abstract[96]	new[96]	_	_
-34-37	_	his	abstract[96]	new[96]	_	_
-34-38	_	rest	abstract[96]	new[96]	_	_
+34-32	_	an	abstract[99]	new[99]	coref	35-3[99_100]
+34-33	_	old	abstract[99]	new[99]	_	_
+34-34	_	man	abstract[99]	new[99]	_	_
+34-35	_	who	abstract[99]	new[99]	_	_
+34-36	_	needed	abstract[99]	new[99]	_	_
+34-37	_	his	abstract[99]	new[99]	_	_
+34-38	_	rest	abstract[99]	new[99]	_	_
 34-39	_	.	_	_	_	_
 
 #Text=But now I had to get ready to go with him to the lion fountain , where most of the others were gathered .
 35-1	_	But	_	_	_	_
 35-2	_	now	_	_	_	_
-35-3	_	I	abstract[97]	new[97]	coref	37-1[97_98]
+35-3	_	I	abstract[100]	new[100]	coref	37-1[100_101]
 35-4	_	had	_	_	_	_
 35-5	_	to	_	_	_	_
 35-6	_	get	_	_	_	_
@@ -794,7 +795,7 @@
 35-8	_	to	_	_	_	_
 35-9	_	go	_	_	_	_
 35-10	_	with	_	_	_	_
-35-11	_	him	abstract[92]	new[92]	coref	37-18[92_93]
+35-11	_	him	abstract[95]	new[95]	coref	37-18[95_96]
 35-12	_	to	_	_	_	_
 35-13	_	the	_	_	_	_
 35-14	_	lion	_	_	_	_
@@ -816,7 +817,7 @@
 36-4	_	!	_	_	_	_
 
 #Text=My spirits recovered , and as soon as I had got into my habit , I followed him to the garden I have already told about .
-37-1	_	My	abstract[98]	new[98]	coref	37-9[98_99]
+37-1	_	My	abstract[101]	new[101]	coref	37-9[101_102]
 37-2	_	spirits	_	_	_	_
 37-3	_	recovered	_	_	_	_
 37-4	_	,	_	_	_	_
@@ -824,20 +825,20 @@
 37-6	_	as	_	_	_	_
 37-7	_	soon	_	_	_	_
 37-8	_	as	_	_	_	_
-37-9	_	I	abstract[99]	new[99]	coref	37-13[99_100]
+37-9	_	I	abstract[102]	new[102]	coref	37-13[102_103]
 37-10	_	had	_	_	_	_
 37-11	_	got	_	_	_	_
 37-12	_	into	_	_	_	_
-37-13	_	my	abstract[100]	new[100]	coref	37-16[100_101]
+37-13	_	my	abstract[103]	new[103]	coref	37-16[103_104]
 37-14	_	habit	_	_	_	_
 37-15	_	,	_	_	_	_
-37-16	_	I	abstract[101]	new[101]	coref	37-22[101_102]
+37-16	_	I	abstract[104]	new[104]	coref	37-22[104_105]
 37-17	_	followed	_	_	_	_
-37-18	_	him	abstract[93]	new[93]	_	_
+37-18	_	him	abstract[96]	new[96]	_	_
 37-19	_	to	_	_	_	_
 37-20	_	the	_	_	_	_
 37-21	_	garden	_	_	_	_
-37-22	_	I	abstract[102]	new[102]	coref	38-1[102_103]
+37-22	_	I	abstract[105]	new[105]	coref	38-1[105_106]
 37-23	_	have	_	_	_	_
 37-24	_	already	_	_	_	_
 37-25	_	told	_	_	_	_
@@ -845,35 +846,35 @@
 37-27	_	.	_	_	_	_
 
 #Text=I found that the lion , in place of his sword , now held a rather large plaque .
-38-1	_	I	abstract[103]	new[103]	coref	39-4[103_104]
+38-1	_	I	abstract[106]	new[106]	coref	39-4[106_107]
 38-2	_	found	_	_	_	_
 38-3	_	that	_	_	_	_
-38-4	_	the	abstract[112]	new[112]	coref	38-10[112_113]
-38-5	_	lion	abstract[112]	new[112]	_	_
+38-4	_	the	abstract[111]	new[111]	coref	38-10[111_112]
+38-5	_	lion	abstract[111]	new[111]	_	_
 38-6	_	,	_	_	_	_
 38-7	_	in	_	_	_	_
 38-8	_	place	_	_	_	_
 38-9	_	of	_	_	_	_
-38-10	_	his	abstract[113]	new[113]	_	_
+38-10	_	his	abstract[112]	new[112]	_	_
 38-11	_	sword	_	_	_	_
 38-12	_	,	_	_	_	_
 38-13	_	now	_	_	_	_
 38-14	_	held	_	_	_	_
-38-15	_	a	abstract[114]	new[114]	coref	39-2[114_115]
-38-16	_	rather	abstract[114]	new[114]	_	_
-38-17	_	large	abstract[114]	new[114]	_	_
-38-18	_	plaque	abstract[114]	new[114]	_	_
+38-15	_	a	abstract[113]	new[113]	coref	39-2[113_114]
+38-16	_	rather	abstract[113]	new[113]	_	_
+38-17	_	large	abstract[113]	new[113]	_	_
+38-18	_	plaque	abstract[113]	new[113]	_	_
 38-19	_	.	_	_	_	_
 
 #Text=Examining this , I could tell that it had been taken from those ancient monuments I ’d seen and put here for some special reason .
 39-1	_	Examining	_	_	_	_
-39-2	_	this	abstract[115]	new[115]	coref	39-8[115_116]
+39-2	_	this	abstract[114]	new[114]	coref	39-8[114_115]
 39-3	_	,	_	_	_	_
-39-4	_	I	abstract[104]	new[104]	coref	39-16[104_105]
+39-4	_	I	abstract[107]	new[107]	coref	39-16[107_108]
 39-5	_	could	_	_	_	_
 39-6	_	tell	_	_	_	_
 39-7	_	that	_	_	_	_
-39-8	_	it	abstract[116]	new[116]	coref	40-4[116_117]
+39-8	_	it	abstract[115]	new[115]	coref	40-4[115_116]
 39-9	_	had	_	_	_	_
 39-10	_	been	_	_	_	_
 39-11	_	taken	_	_	_	_
@@ -881,7 +882,7 @@
 39-13	_	those	_	_	_	_
 39-14	_	ancient	_	_	_	_
 39-15	_	monuments	_	_	_	_
-39-16	_	I	abstract[105]	new[105]	coref	40-10[105_106]
+39-16	_	I	abstract[108]	new[108]	coref	40-10[108_109]
 39-17	_	’d	_	_	_	_
 39-18	_	seen	_	_	_	_
 39-19	_	and	_	_	_	_
@@ -894,38 +895,38 @@
 39-26	_	.	_	_	_	_
 
 #Text=The inscription on it was fading away , so I should set it down here as it was then , and ask my readers to ponder it :
-40-1	_	The	abstract[118]	new[118]	coref	40-13[118_119]
-40-2	_	inscription	abstract[118]	new[118]	_	_
-40-3	_	on	abstract[118]	new[118]	_	_
-40-4	_	it	abstract[117]|abstract[118]	new[117]|new[118]	_	_
+40-1	_	The	abstract[117]	new[117]	coref	40-13[117_118]
+40-2	_	inscription	abstract[117]	new[117]	_	_
+40-3	_	on	abstract[117]	new[117]	_	_
+40-4	_	it	abstract[116]|abstract[117]	new[116]|new[117]	_	_
 40-5	_	was	_	_	_	_
 40-6	_	fading	_	_	_	_
 40-7	_	away	_	_	_	_
 40-8	_	,	_	_	_	_
 40-9	_	so	_	_	_	_
-40-10	_	I	abstract[106]	new[106]	coref	40-23[106_107]
+40-10	_	I	abstract[109]	new[109]	coref	40-23[109_110]
 40-11	_	should	_	_	_	_
 40-12	_	set	_	_	_	_
-40-13	_	it	abstract[119]	new[119]	coref	40-17[119_120]
+40-13	_	it	abstract[118]	new[118]	coref	40-17[118_119]
 40-14	_	down	_	_	_	_
 40-15	_	here	_	_	_	_
 40-16	_	as	_	_	_	_
-40-17	_	it	abstract[120]	new[120]	coref	40-27[120_121]
+40-17	_	it	abstract[119]	new[119]	coref	40-27[119_120]
 40-18	_	was	_	_	_	_
 40-19	_	then	_	_	_	_
 40-20	_	,	_	_	_	_
 40-21	_	and	_	_	_	_
 40-22	_	ask	_	_	_	_
-40-23	_	my	abstract[107]	new[107]	coref	45-2[107_108]
+40-23	_	my	abstract[110]	new[110]	_	_
 40-24	_	readers	_	_	_	_
 40-25	_	to	_	_	_	_
 40-26	_	ponder	_	_	_	_
-40-27	_	it	abstract[121]	new[121]	_	_
+40-27	_	it	abstract[120]	new[120]	_	_
 40-28	_	:	_	_	_	_
 
 #Text=Prince Hermes : Now after humankind has suffered so much harm here I flow having by god ’s counsel and with the help of art become a healing balm .
-41-1	_	Prince	abstract[122]	new[122]	coref	41-13[122_123]
-41-2	_	Hermes	abstract[122]	new[122]	_	_
+41-1	_	Prince	abstract[121]	new[121]	coref	41-13[121_122]
+41-2	_	Hermes	abstract[121]	new[121]	_	_
 41-3	_	:	_	_	_	_
 41-4	_	Now	_	_	_	_
 41-5	_	after	_	_	_	_
@@ -936,12 +937,12 @@
 41-10	_	much	_	_	_	_
 41-11	_	harm	_	_	_	_
 41-12	_	here	_	_	_	_
-41-13	_	I	abstract[123]	new[123]	coref	42-3[123_124]
+41-13	_	I	abstract[122]	new[122]	coref	42-3[122_123]
 41-14	_	flow	_	_	_	_
 41-15	_	having	_	_	_	_
 41-16	_	by	_	_	_	_
-41-17	_	god	abstract[52]	new[52]	_	_
-41-18	_	’s	abstract[52]	new[52]	_	_
+41-17	_	god	abstract[53]	new[53]	_	_
+41-18	_	’s	abstract[53]	new[53]	_	_
 41-19	_	counsel	_	_	_	_
 41-20	_	and	_	_	_	_
 41-21	_	with	_	_	_	_
@@ -958,22 +959,22 @@
 #Text=Drink from me if you can ; wash , if you like ; trouble my waters if you dare .
 42-1	_	Drink	_	_	_	_
 42-2	_	from	_	_	_	_
-42-3	_	me	abstract[124]	new[124]	coref	42-15[124_125]
+42-3	_	me	abstract[123]	new[123]	coref	42-15[123_124]
 42-4	_	if	_	_	_	_
-42-5	_	you	abstract[126]	new[126]	coref	42-11[126_127]
+42-5	_	you	abstract[125]	new[125]	coref	42-11[125_126]
 42-6	_	can	_	_	_	_
 42-7	_	;	_	_	_	_
 42-8	_	wash	_	_	_	_
 42-9	_	,	_	_	_	_
 42-10	_	if	_	_	_	_
-42-11	_	you	abstract[127]	new[127]	coref	42-18[127_128]
+42-11	_	you	abstract[126]	new[126]	coref	42-18[126_127]
 42-12	_	like	_	_	_	_
 42-13	_	;	_	_	_	_
 42-14	_	trouble	_	_	_	_
-42-15	_	my	abstract[125]	new[125]	_	_
+42-15	_	my	abstract[124]	new[124]	_	_
 42-16	_	waters	_	_	_	_
 42-17	_	if	_	_	_	_
-42-18	_	you	abstract[128]	new[128]	_	_
+42-18	_	you	abstract[127]	new[127]	_	_
 42-19	_	dare	_	_	_	_
 42-20	_	.	_	_	_	_
 
@@ -989,43 +990,40 @@
 44-3	_	live	_	_	_	_
 44-4	_	!	_	_	_	_
 
-#Text=The mother of four has been given a strange and unusual treat . Her son was offered a one - bedroom apartment , and the landlord was told that Veronique would be a hard - working teacher .
-45-1	_	The	abstract[108]	new[108]	coref	45-15[108_109]
-45-2	_	mother	abstract[108]	new[108]	_	_
-45-3	_	of	abstract[108]	new[108]	_	_
-45-4	_	four	abstract[108]	new[108]	_	_
-45-5	_	has	_	_	_	_
-45-6	_	been	_	_	_	_
-45-7	_	given	_	_	_	_
-45-8	_	a	_	_	_	_
-45-9	_	strange	_	_	_	_
-45-10	_	and	_	_	_	_
-45-11	_	unusual	_	_	_	_
-45-12	_	treat	_	_	_	_
-45-13	_	.	_	_	_	_
-45-14	_	Her	abstract[109]|abstract[110]	new[109]|new[110]	coref|coref	45-15[109_110]|45-31[110_111]
-45-15	_	son	abstract[110]	new[110]	_	_
-45-16	_	was	_	_	_	_
-45-17	_	offered	_	_	_	_
-45-18	_	a	_	_	_	_
-45-19	_	one	_	_	_	_
-45-20	_	-	_	_	_	_
-45-21	_	bedroom	_	_	_	_
-45-22	_	apartment	_	_	_	_
-45-23	_	,	_	_	_	_
-45-24	_	and	_	_	_	_
-45-25	_	the	_	_	_	_
-45-26	_	landlord	_	_	_	_
-45-27	_	was	_	_	_	_
-45-28	_	told	_	_	_	_
-45-29	_	that	_	_	_	_
-45-30	_	Veronique	abstract[111]	new[111]	_	_
-45-31	_	would	_	_	_	_
-45-32	_	be	_	_	_	_
-45-33	_	a	_	_	_	_
-45-34	_	hard	_	_	_	_
-45-35	_	-	_	_	_	_
-45-36	_	working	_	_	_	_
-45-37	_	teacher	_	_	_	_
-45-38	_	.	_	_	_	_
+#Text=A tutor from Bain returns to earth , the Cost to Be Wise Veronique comes from the clans , and the story of this new world is presented in the context of the Skathalos .
+45-1	_	A	_	_	_	_
+45-2	_	tutor	_	_	_	_
+45-3	_	from	_	_	_	_
+45-4	_	Bain	_	_	_	_
+45-5	_	returns	_	_	_	_
+45-6	_	to	_	_	_	_
+45-7	_	earth	_	_	_	_
+45-8	_	,	_	_	_	_
+45-9	_	the	_	_	_	_
+45-10	_	Cost	_	_	_	_
+45-11	_	to	_	_	_	_
+45-12	_	Be	_	_	_	_
+45-13	_	Wise	_	_	_	_
+45-14	_	Veronique	_	_	_	_
+45-15	_	comes	_	_	_	_
+45-16	_	from	_	_	_	_
+45-17	_	the	_	_	_	_
+45-18	_	clans	_	_	_	_
+45-19	_	,	_	_	_	_
+45-20	_	and	_	_	_	_
+45-21	_	the	_	_	_	_
+45-22	_	story	_	_	_	_
+45-23	_	of	_	_	_	_
+45-24	_	this	abstract[26]	new[26]	_	_
+45-25	_	new	abstract[26]	new[26]	_	_
+45-26	_	world	abstract[26]	new[26]	_	_
+45-27	_	is	_	_	_	_
+45-28	_	presented	_	_	_	_
+45-29	_	in	_	_	_	_
+45-30	_	the	_	_	_	_
+45-31	_	context	_	_	_	_
+45-32	_	of	_	_	_	_
+45-33	_	the	_	_	_	_
+45-34	_	Skathalos	_	_	_	_
+45-35	_	.	_	_	_	_
 

@@ -1437,29 +1437,25 @@
 106-1	_	Bye	_	_	_	_
 106-2	_	!	_	_	_	_
 
-#Text=A radiology resident says he 's been struggling with his appearance lately . He 's just filmed two videos . Now vlogging in .
-107-1	_	A	abstract[228]	new[228]	coref	107-5[228_229]
+#Text=A radiology resident is trying to make a face change , and he needs to relax to do so .
+107-1	_	A	abstract[228]	new[228]	coref	107-13[228_229]
 107-2	_	radiology	abstract[228]	new[228]	_	_
 107-3	_	resident	abstract[228]	new[228]	_	_
-107-4	_	says	_	_	_	_
-107-5	_	he	abstract[229]	new[229]	coref	107-10[229_230]
-107-6	_	's	_	_	_	_
-107-7	_	been	_	_	_	_
-107-8	_	struggling	_	_	_	_
-107-9	_	with	_	_	_	_
-107-10	_	his	abstract[230]	new[230]	coref	107-14[230_231]
-107-11	_	appearance	_	_	_	_
-107-12	_	lately	_	_	_	_
-107-13	_	.	_	_	_	_
-107-14	_	He	abstract[231]	new[231]	_	_
-107-15	_	's	_	_	_	_
-107-16	_	just	_	_	_	_
-107-17	_	filmed	_	_	_	_
-107-18	_	two	_	_	_	_
-107-19	_	videos	_	_	_	_
+107-4	_	is	_	_	_	_
+107-5	_	trying	_	_	_	_
+107-6	_	to	_	_	_	_
+107-7	_	make	_	_	_	_
+107-8	_	a	_	_	_	_
+107-9	_	face	_	_	_	_
+107-10	_	change	_	_	_	_
+107-11	_	,	_	_	_	_
+107-12	_	and	_	_	_	_
+107-13	_	he	abstract[229]	new[229]	_	_
+107-14	_	needs	_	_	_	_
+107-15	_	to	_	_	_	_
+107-16	_	relax	_	_	_	_
+107-17	_	to	_	_	_	_
+107-18	_	do	_	_	_	_
+107-19	_	so	_	_	_	_
 107-20	_	.	_	_	_	_
-107-21	_	Now	_	_	_	_
-107-22	_	vlogging	_	_	_	_
-107-23	_	in	_	_	_	_
-107-24	_	.	_	_	_	_
 

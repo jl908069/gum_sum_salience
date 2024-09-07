@@ -594,10 +594,10 @@
 27-11	_	company	_	_	_	_
 27-12	_	that	_	_	_	_
 27-13	_	threatens	_	_	_	_
-27-14	_	the	abstract[47]	new[47]	coref	29-8[47_48]
-27-15	_	established	abstract[47]	new[47]	_	_
-27-16	_	hotel	abstract[47]	new[47]	_	_
-27-17	_	industry	abstract[47]	new[47]	_	_
+27-14	_	the	abstract[48]	new[48]	coref	29-8[48_49]
+27-15	_	established	abstract[48]	new[48]	_	_
+27-16	_	hotel	abstract[48]	new[48]	_	_
+27-17	_	industry	abstract[48]	new[48]	_	_
 27-18	_	by	_	_	_	_
 27-19	_	connecting	_	_	_	_
 27-20	_	personal	abstract[31]	new[31]	coref	27-26[31_32]
@@ -646,34 +646,34 @@
 29-5	_	significant	_	_	_	_
 29-6	_	threat	_	_	_	_
 29-7	_	to	_	_	_	_
-29-8	_	the	abstract[48]|abstract[55]	new[48]|new[55]	coref|coref	29-26[48_49]|30-4[55_56]
-29-9	_	established	abstract[48]|abstract[55]	new[48]|new[55]	_	_
-29-10	_	hotel	abstract[48]|abstract[55]	new[48]|new[55]	_	_
-29-11	_	industry	abstract[48]|abstract[55]	new[48]|new[55]	_	_
-29-12	_	’s	abstract[48]|abstract[55]	new[48]|new[55]	_	_
-29-13	_	business	abstract[55]	new[55]	_	_
-29-14	_	model	abstract[55]	new[55]	_	_
-29-15	_	of	abstract[55]	new[55]	_	_
-29-16	_	building	abstract[55]	new[55]	_	_
-29-17	_	large	abstract[53]|abstract[55]	new[53]|new[55]	coref	29-23[53_54]
-29-18	_	hotels	abstract[53]|abstract[55]	new[53]|new[55]	_	_
-29-19	_	and	abstract[55]	new[55]	_	_
-29-20	_	renting	abstract[55]	new[55]	_	_
-29-21	_	rooms	abstract[55]	new[55]	_	_
-29-22	_	within	abstract[55]	new[55]	_	_
-29-23	_	those	abstract[54]|abstract[55]	new[54]|new[55]	_	_
-29-24	_	hotels	abstract[54]|abstract[55]	new[54]|new[55]	_	_
-29-25	_	to	abstract[55]	new[55]	_	_
-29-26	_	their	abstract[49]|abstract[55]	new[49]|new[55]	coref	35-1[49_50]
-29-27	_	customers	abstract[55]	new[55]	_	_
+29-8	_	the	abstract[49]|abstract[57]	new[49]|new[57]	coref|coref	29-26[49_50]|30-4[57_58]
+29-9	_	established	abstract[49]|abstract[57]	new[49]|new[57]	_	_
+29-10	_	hotel	abstract[49]|abstract[57]	new[49]|new[57]	_	_
+29-11	_	industry	abstract[49]|abstract[57]	new[49]|new[57]	_	_
+29-12	_	’s	abstract[49]|abstract[57]	new[49]|new[57]	_	_
+29-13	_	business	abstract[57]	new[57]	_	_
+29-14	_	model	abstract[57]	new[57]	_	_
+29-15	_	of	abstract[57]	new[57]	_	_
+29-16	_	building	abstract[57]	new[57]	_	_
+29-17	_	large	abstract[55]|abstract[57]	new[55]|new[57]	coref	29-23[55_56]
+29-18	_	hotels	abstract[55]|abstract[57]	new[55]|new[57]	_	_
+29-19	_	and	abstract[57]	new[57]	_	_
+29-20	_	renting	abstract[57]	new[57]	_	_
+29-21	_	rooms	abstract[57]	new[57]	_	_
+29-22	_	within	abstract[57]	new[57]	_	_
+29-23	_	those	abstract[56]|abstract[57]	new[56]|new[57]	_	_
+29-24	_	hotels	abstract[56]|abstract[57]	new[56]|new[57]	_	_
+29-25	_	to	abstract[57]	new[57]	_	_
+29-26	_	their	abstract[50]|abstract[57]	new[50]|new[57]	coref	35-1[50_51]
+29-27	_	customers	abstract[57]	new[57]	_	_
 29-28	_	.	_	_	_	_
 
 #Text=Airbnb has reconfigured that model , and since its 2008 launch , 150 million travelers have taken advantage of 3 million Airbnb listings in more than 191 countries .
 30-1	_	Airbnb	abstract[38]	new[38]	coref	30-9[38_39]
 30-2	_	has	_	_	_	_
 30-3	_	reconfigured	_	_	_	_
-30-4	_	that	abstract[56]	new[56]	_	_
-30-5	_	model	abstract[56]	new[56]	_	_
+30-4	_	that	abstract[58]	new[58]	_	_
+30-5	_	model	abstract[58]	new[58]	_	_
 30-6	_	,	_	_	_	_
 30-7	_	and	_	_	_	_
 30-8	_	since	_	_	_	_
@@ -734,17 +734,17 @@
 32-3	_	of	_	_	_	_
 32-4	_	Airbnb	abstract[42]	new[42]	coref	35-5[42_43]
 32-5	_	is	_	_	_	_
-32-6	_	approximately	abstract[57]	new[57]	coref	33-2[57_58]
-32-7	_	$	abstract[57]	new[57]	_	_
-32-8	_	30	abstract[57]	new[57]	_	_
-32-9	_	billion	abstract[57]	new[57]	_	_
+32-6	_	approximately	abstract[59]	new[59]	coref	33-2[59_60]
+32-7	_	$	abstract[59]	new[59]	_	_
+32-8	_	30	abstract[59]	new[59]	_	_
+32-9	_	billion	abstract[59]	new[59]	_	_
 32-10	_	.	_	_	_	_
 
 #Text=Compare this market value to Hilton ’s market capitalization of $ 19 billion and Marriott ’s of $ 35 billion .
 33-1	_	Compare	_	_	_	_
-33-2	_	this	abstract[58]	new[58]	_	_
-33-3	_	market	abstract[58]	new[58]	_	_
-33-4	_	value	abstract[58]	new[58]	_	_
+33-2	_	this	abstract[60]	new[60]	_	_
+33-3	_	market	abstract[60]	new[60]	_	_
+33-4	_	value	abstract[60]	new[60]	_	_
 33-5	_	to	_	_	_	_
 33-6	_	Hilton	_	_	_	_
 33-7	_	’s	_	_	_	_
@@ -781,9 +781,9 @@
 34-15	_	?	_	_	_	_
 
 #Text=The hotel industry recognized Airbnb as a threat , and in 2016 , began a campaign to create legislation to rein in Airbnb ’s growth and popularity .
-35-1	_	The	abstract[50]	new[50]	coref	36-2[50_51]
-35-2	_	hotel	abstract[50]	new[50]	_	_
-35-3	_	industry	abstract[50]	new[50]	_	_
+35-1	_	The	abstract[51]	new[51]	coref	36-2[51_52]
+35-2	_	hotel	abstract[51]	new[51]	_	_
+35-3	_	industry	abstract[51]	new[51]	_	_
 35-4	_	recognized	_	_	_	_
 35-5	_	Airbnb	abstract[43]	new[43]	coref	36-8[43_44]
 35-6	_	as	_	_	_	_
@@ -812,10 +812,10 @@
 
 #Text=From the hotel industry ’s perspective , Airbnb is not playing by the same rules .
 36-1	_	From	_	_	_	_
-36-2	_	the	abstract[51]	new[51]	coref	46-7[51_52]
-36-3	_	hotel	abstract[51]	new[51]	_	_
-36-4	_	industry	abstract[51]	new[51]	_	_
-36-5	_	’s	abstract[51]	new[51]	_	_
+36-2	_	the	abstract[52]	new[52]	coref	46-7[52_53]
+36-3	_	hotel	abstract[52]	new[52]	_	_
+36-4	_	industry	abstract[52]	new[52]	_	_
+36-5	_	’s	abstract[52]	new[52]	_	_
 36-6	_	perspective	_	_	_	_
 36-7	_	,	_	_	_	_
 36-8	_	Airbnb	abstract[44]	new[44]	coref	42-5[44_45]
@@ -831,29 +831,29 @@
 #Text=This is the definition of disruptive technology , the focus on creating a new idea or process that negates or challenges established process or products . 24
 37-1	_	This	_	_	_	_
 37-2	_	is	_	_	_	_
-37-3	_	the	abstract[59]	new[59]	coref	37-9[59_60]
-37-4	_	definition	abstract[59]	new[59]	_	_
-37-5	_	of	abstract[59]	new[59]	_	_
-37-6	_	disruptive	abstract[59]	new[59]	_	_
-37-7	_	technology	abstract[59]	new[59]	_	_
+37-3	_	the	abstract[61]	new[61]	coref	37-9[61_62]
+37-4	_	definition	abstract[61]	new[61]	_	_
+37-5	_	of	abstract[61]	new[61]	_	_
+37-6	_	disruptive	abstract[61]	new[61]	_	_
+37-7	_	technology	abstract[61]	new[61]	_	_
 37-8	_	,	_	_	_	_
-37-9	_	the	abstract[60]	new[60]	_	_
-37-10	_	focus	abstract[60]	new[60]	_	_
-37-11	_	on	abstract[60]	new[60]	_	_
-37-12	_	creating	abstract[60]	new[60]	_	_
-37-13	_	a	abstract[60]	new[60]	_	_
-37-14	_	new	abstract[60]	new[60]	_	_
-37-15	_	idea	abstract[60]	new[60]	_	_
-37-16	_	or	abstract[60]	new[60]	_	_
-37-17	_	process	abstract[60]	new[60]	_	_
-37-18	_	that	abstract[60]	new[60]	_	_
-37-19	_	negates	abstract[60]	new[60]	_	_
-37-20	_	or	abstract[60]	new[60]	_	_
-37-21	_	challenges	abstract[60]	new[60]	_	_
-37-22	_	established	abstract[60]	new[60]	_	_
-37-23	_	process	abstract[60]	new[60]	_	_
-37-24	_	or	abstract[60]	new[60]	_	_
-37-25	_	products	abstract[60]	new[60]	_	_
+37-9	_	the	abstract[62]	new[62]	_	_
+37-10	_	focus	abstract[62]	new[62]	_	_
+37-11	_	on	abstract[62]	new[62]	_	_
+37-12	_	creating	abstract[62]	new[62]	_	_
+37-13	_	a	abstract[62]	new[62]	_	_
+37-14	_	new	abstract[62]	new[62]	_	_
+37-15	_	idea	abstract[62]	new[62]	_	_
+37-16	_	or	abstract[62]	new[62]	_	_
+37-17	_	process	abstract[62]	new[62]	_	_
+37-18	_	that	abstract[62]	new[62]	_	_
+37-19	_	negates	abstract[62]	new[62]	_	_
+37-20	_	or	abstract[62]	new[62]	_	_
+37-21	_	challenges	abstract[62]	new[62]	_	_
+37-22	_	established	abstract[62]	new[62]	_	_
+37-23	_	process	abstract[62]	new[62]	_	_
+37-24	_	or	abstract[62]	new[62]	_	_
+37-25	_	products	abstract[62]	new[62]	_	_
 37-26	_	.	_	_	_	_
 37-27	_	24	_	_	_	_
 
@@ -870,13 +870,13 @@
 38-10	_	.	_	_	_	_
 
 #Text=Customers do n’t always know what they want .
-39-1	_	Customers	abstract[61]	new[61]	coref	39-7[61_62]
+39-1	_	Customers	abstract[63]	new[63]	coref	39-7[63_64]
 39-2	_	do	_	_	_	_
 39-3	_	n’t	_	_	_	_
 39-4	_	always	_	_	_	_
 39-5	_	know	_	_	_	_
 39-6	_	what	_	_	_	_
-39-7	_	they	abstract[62]	new[62]	_	_
+39-7	_	they	abstract[64]	new[64]	_	_
 39-8	_	want	_	_	_	_
 39-9	_	.	_	_	_	_
 
@@ -974,11 +974,11 @@
 42-19	_	.	_	_	_	_
 
 #Text=We can apply this idea to other unused resources such as vehicles and motor homes .
-43-1	_	We	abstract[63]	new[63]	coref	44-1[63_64]
+43-1	_	We	abstract[65]	new[65]	coref	44-1[65_66]
 43-2	_	can	_	_	_	_
 43-3	_	apply	_	_	_	_
-43-4	_	this	abstract[65]	new[65]	coref	44-3[65_66]
-43-5	_	idea	abstract[65]	new[65]	_	_
+43-4	_	this	abstract[67]	new[67]	coref	44-3[67_68]
+43-5	_	idea	abstract[67]	new[67]	_	_
 43-6	_	to	_	_	_	_
 43-7	_	other	_	_	_	_
 43-8	_	unused	_	_	_	_
@@ -992,10 +992,10 @@
 43-16	_	.	_	_	_	_
 
 #Text=We see this model reproduced in short - term car rental and bike - sharing programs .
-44-1	_	We	abstract[64]	new[64]	_	_
+44-1	_	We	abstract[66]	new[66]	_	_
 44-2	_	see	_	_	_	_
-44-3	_	this	abstract[66]	new[66]	_	_
-44-4	_	model	abstract[66]	new[66]	_	_
+44-3	_	this	abstract[68]	new[68]	_	_
+44-4	_	model	abstract[68]	new[68]	_	_
 44-5	_	reproduced	_	_	_	_
 44-6	_	in	_	_	_	_
 44-7	_	short	_	_	_	_
@@ -1042,13 +1042,13 @@
 46-4	_	“	_	_	_	_
 46-5	_	Inside	_	_	_	_
 46-6	_	the	_	_	_	_
-46-7	_	Hotel	abstract[52]	new[52]	_	_
-46-8	_	Industry	abstract[52]	new[52]	_	_
-46-9	_	’s	abstract[52]	new[52]	_	_
+46-7	_	Hotel	abstract[53]	new[53]	coref	47-35[53_54]
+46-8	_	Industry	abstract[53]	new[53]	_	_
+46-9	_	’s	abstract[53]	new[53]	_	_
 46-10	_	Plan	_	_	_	_
 46-11	_	to	_	_	_	_
 46-12	_	Combat	_	_	_	_
-46-13	_	Airbnb	abstract[46]	new[46]	_	_
+46-13	_	Airbnb	abstract[46]	new[46]	coref	47-31[46_47]
 46-14	_	.	_	_	_	_
 46-15	_	”	_	_	_	_
 46-16	_	New	_	_	_	_
@@ -1062,25 +1062,53 @@
 46-24	_	.	_	_	_	_
 46-25	_	https://www.nytimes.com/2017/04/16/technology/inside-the-hotel-industrys-plan-to-combat-airbnb.html	_	_	_	_
 
-#Text=Understand what cognition is , and what its functions are . Know the difference between concepts and their representations .
-47-1	_	Understand	_	_	_	_
-47-2	_	what	_	_	_	_
-47-3	_	cognition	abstract[67]	new[67]	coref	47-8[67_68]
-47-4	_	is	_	_	_	_
-47-5	_	,	_	_	_	_
-47-6	_	and	_	_	_	_
-47-7	_	what	_	_	_	_
-47-8	_	its	abstract[68]	new[68]	_	_
-47-9	_	functions	_	_	_	_
-47-10	_	are	_	_	_	_
-47-11	_	.	_	_	_	_
-47-12	_	Know	_	_	_	_
-47-13	_	the	_	_	_	_
-47-14	_	difference	_	_	_	_
-47-15	_	between	_	_	_	_
-47-16	_	concepts	abstract[69]	new[69]	coref	47-18[69_70]
-47-17	_	and	_	_	_	_
-47-18	_	their	abstract[70]	new[70]	_	_
-47-19	_	representations	_	_	_	_
-47-20	_	.	_	_	_	_
+#Text=An entrepreneurial mindset creates new ideas and challenges established models in the industry , as in the example of a crop vacuum used to remove insects from crops , or Airbnb 's disruption of the hotel industry with the idea of renting out people 's unused rooms .
+47-1	_	An	_	_	_	_
+47-2	_	entrepreneurial	_	_	_	_
+47-3	_	mindset	_	_	_	_
+47-4	_	creates	_	_	_	_
+47-5	_	new	_	_	_	_
+47-6	_	ideas	_	_	_	_
+47-7	_	and	_	_	_	_
+47-8	_	challenges	_	_	_	_
+47-9	_	established	_	_	_	_
+47-10	_	models	_	_	_	_
+47-11	_	in	_	_	_	_
+47-12	_	the	_	_	_	_
+47-13	_	industry	_	_	_	_
+47-14	_	,	_	_	_	_
+47-15	_	as	_	_	_	_
+47-16	_	in	_	_	_	_
+47-17	_	the	_	_	_	_
+47-18	_	example	_	_	_	_
+47-19	_	of	_	_	_	_
+47-20	_	a	_	_	_	_
+47-21	_	crop	_	_	_	_
+47-22	_	vacuum	_	_	_	_
+47-23	_	used	_	_	_	_
+47-24	_	to	_	_	_	_
+47-25	_	remove	_	_	_	_
+47-26	_	insects	_	_	_	_
+47-27	_	from	_	_	_	_
+47-28	_	crops	_	_	_	_
+47-29	_	,	_	_	_	_
+47-30	_	or	_	_	_	_
+47-31	_	Airbnb	abstract[47]	new[47]	_	_
+47-32	_	's	abstract[47]	new[47]	_	_
+47-33	_	disruption	_	_	_	_
+47-34	_	of	_	_	_	_
+47-35	_	the	abstract[54]	new[54]	_	_
+47-36	_	hotel	abstract[54]	new[54]	_	_
+47-37	_	industry	abstract[54]	new[54]	_	_
+47-38	_	with	_	_	_	_
+47-39	_	the	_	_	_	_
+47-40	_	idea	_	_	_	_
+47-41	_	of	_	_	_	_
+47-42	_	renting	_	_	_	_
+47-43	_	out	_	_	_	_
+47-44	_	people	_	_	_	_
+47-45	_	's	_	_	_	_
+47-46	_	unused	_	_	_	_
+47-47	_	rooms	_	_	_	_
+47-48	_	.	_	_	_	_
 

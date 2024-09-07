@@ -106,8 +106,8 @@
 
 #Text=If your professor comes into an early morning class holding a mug of liquid , what do you assume she is drinking ?
 7-1	_	If	_	_	_	_
-7-2	_	your	abstract[1]|abstract[4]	new[1]|new[4]	coref|coref	7-18[1_2]|7-20[4_5]
-7-3	_	professor	abstract[4]	new[4]	_	_
+7-2	_	your	abstract[1]|abstract[3]	new[1]|new[3]	coref|coref	7-18[1_2]|7-20[3_4]
+7-3	_	professor	abstract[3]	new[3]	_	_
 7-4	_	comes	_	_	_	_
 7-5	_	into	_	_	_	_
 7-6	_	an	_	_	_	_
@@ -115,27 +115,27 @@
 7-8	_	morning	_	_	_	_
 7-9	_	class	_	_	_	_
 7-10	_	holding	_	_	_	_
-7-11	_	a	abstract[6]	new[6]	coref	8-6[6_7]
-7-12	_	mug	abstract[6]	new[6]	_	_
-7-13	_	of	abstract[6]	new[6]	_	_
-7-14	_	liquid	abstract[6]	new[6]	_	_
+7-11	_	a	abstract[5]	new[5]	coref	8-6[5_6]
+7-12	_	mug	abstract[5]	new[5]	_	_
+7-13	_	of	abstract[5]	new[5]	_	_
+7-14	_	liquid	abstract[5]	new[5]	_	_
 7-15	_	,	_	_	_	_
 7-16	_	what	_	_	_	_
 7-17	_	do	_	_	_	_
-7-18	_	you	abstract[2]	new[2]	coref	53-6[2_3]
+7-18	_	you	abstract[2]	new[2]	_	_
 7-19	_	assume	_	_	_	_
-7-20	_	she	abstract[5]	new[5]	_	_
+7-20	_	she	abstract[4]	new[4]	_	_
 7-21	_	is	_	_	_	_
 7-22	_	drinking	_	_	_	_
 7-23	_	?	_	_	_	_
 
 #Text=In the United States , it ’s most likely filled with coffee , not Earl Grey tea , a favorite in England , or Yak Butter tea , a staple in Tibet .
 8-1	_	In	_	_	_	_
-8-2	_	the	abstract[13]	new[13]	coref	11-5[13_14]
-8-3	_	United	abstract[13]	new[13]	_	_
-8-4	_	States	abstract[13]	new[13]	_	_
+8-2	_	the	abstract[12]	new[12]	coref	11-5[12_13]
+8-3	_	United	abstract[12]	new[12]	_	_
+8-4	_	States	abstract[12]	new[12]	_	_
 8-5	_	,	_	_	_	_
-8-6	_	it	abstract[7]	new[7]	_	_
+8-6	_	it	abstract[6]	new[6]	_	_
 8-7	_	’s	_	_	_	_
 8-8	_	most	_	_	_	_
 8-9	_	likely	_	_	_	_
@@ -177,12 +177,12 @@
 9-10	_	.	_	_	_	_
 
 #Text=Some travelers pride themselves on their willingness to try unfamiliar foods , like celebrated food writer Anthony Bourdain , while others return home expressing gratitude for their native culture ’s fare .
-10-1	_	Some	abstract[8]	new[8]	coref	10-4[8_9]
-10-2	_	travelers	abstract[8]	new[8]	_	_
+10-1	_	Some	abstract[7]	new[7]	coref	10-4[7_8]
+10-2	_	travelers	abstract[7]	new[7]	_	_
 10-3	_	pride	_	_	_	_
-10-4	_	themselves	abstract[9]	new[9]	coref	10-6[9_10]
+10-4	_	themselves	abstract[8]	new[8]	coref	10-6[8_9]
 10-5	_	on	_	_	_	_
-10-6	_	their	abstract[10]	new[10]	_	_
+10-6	_	their	abstract[9]	new[9]	_	_
 10-7	_	willingness	_	_	_	_
 10-8	_	to	_	_	_	_
 10-9	_	try	_	_	_	_
@@ -197,13 +197,13 @@
 10-18	_	Bourdain	_	_	_	_
 10-19	_	,	_	_	_	_
 10-20	_	while	_	_	_	_
-10-21	_	others	abstract[11]	new[11]	coref	10-27[11_12]
+10-21	_	others	abstract[10]	new[10]	coref	10-27[10_11]
 10-22	_	return	_	_	_	_
 10-23	_	home	_	_	_	_
 10-24	_	expressing	_	_	_	_
 10-25	_	gratitude	_	_	_	_
 10-26	_	for	_	_	_	_
-10-27	_	their	abstract[12]	new[12]	_	_
+10-27	_	their	abstract[11]	new[11]	_	_
 10-28	_	native	_	_	_	_
 10-29	_	culture	_	_	_	_
 10-30	_	’s	_	_	_	_
@@ -213,11 +213,11 @@
 #Text=Often , people in the United States express disgust at other cultures ’ cuisine and think that it ’s gross to eat meat from a dog or guinea pig , for example , while they do n’t question their own habit of eating cows or pigs .
 11-1	_	Often	_	_	_	_
 11-2	_	,	_	_	_	_
-11-3	_	people	abstract[16]	new[16]	coref	11-35[16_17]
-11-4	_	in	abstract[16]	new[16]	_	_
-11-5	_	the	abstract[14]|abstract[16]	new[14]|new[16]	coref	30-23[14_15]
-11-6	_	United	abstract[14]|abstract[16]	new[14]|new[16]	_	_
-11-7	_	States	abstract[14]|abstract[16]	new[14]|new[16]	_	_
+11-3	_	people	abstract[15]	new[15]	coref	11-35[15_16]
+11-4	_	in	abstract[15]	new[15]	_	_
+11-5	_	the	abstract[13]|abstract[15]	new[13]|new[15]	coref	30-23[13_14]
+11-6	_	United	abstract[13]|abstract[15]	new[13]|new[15]	_	_
+11-7	_	States	abstract[13]|abstract[15]	new[13]|new[15]	_	_
 11-8	_	express	_	_	_	_
 11-9	_	disgust	_	_	_	_
 11-10	_	at	_	_	_	_
@@ -245,7 +245,7 @@
 11-32	_	example	_	_	_	_
 11-33	_	,	_	_	_	_
 11-34	_	while	_	_	_	_
-11-35	_	they	abstract[17]	new[17]	_	_
+11-35	_	they	abstract[16]	new[16]	_	_
 11-36	_	do	_	_	_	_
 11-37	_	n’t	_	_	_	_
 11-38	_	question	_	_	_	_
@@ -272,23 +272,23 @@
 12-10	_	evaluating	_	_	_	_
 12-11	_	and	_	_	_	_
 12-12	_	judging	_	_	_	_
-12-13	_	another	abstract[18]	new[18]	coref	12-18[18_19]
-12-14	_	culture	abstract[18]	new[18]	_	_
+12-13	_	another	abstract[17]	new[17]	coref	12-18[17_18]
+12-14	_	culture	abstract[17]	new[17]	_	_
 12-15	_	based	_	_	_	_
 12-16	_	on	_	_	_	_
 12-17	_	how	_	_	_	_
-12-18	_	it	abstract[19]	new[19]	_	_
+12-18	_	it	abstract[18]	new[18]	_	_
 12-19	_	compares	_	_	_	_
 12-20	_	to	_	_	_	_
-12-21	_	one	abstract[22]	new[22]	coref	13-21[22_23]
-12-22	_	’s	abstract[22]	new[22]	_	_
+12-21	_	one	abstract[21]	new[21]	coref	13-21[21_22]
+12-22	_	’s	abstract[21]	new[21]	_	_
 12-23	_	own	_	_	_	_
 12-24	_	cultural	_	_	_	_
 12-25	_	norms	_	_	_	_
 12-26	_	.	_	_	_	_
 
 #Text=Ethnocentrism , as sociologist William Graham Sumner ( 1906 ) described the term , involves a belief or attitude that one ’s own culture is better than all others .
-13-1	_	Ethnocentrism	abstract[20]	new[20]	coref	13-12[20_21]
+13-1	_	Ethnocentrism	abstract[19]	new[19]	coref	13-12[19_20]
 13-2	_	,	_	_	_	_
 13-3	_	as	_	_	_	_
 13-4	_	sociologist	_	_	_	_
@@ -299,8 +299,8 @@
 13-9	_	1906	_	_	_	_
 13-10	_	)	_	_	_	_
 13-11	_	described	_	_	_	_
-13-12	_	the	abstract[21]	new[21]	_	_
-13-13	_	term	abstract[21]	new[21]	_	_
+13-12	_	the	abstract[20]	new[20]	_	_
+13-13	_	term	abstract[20]	new[20]	_	_
 13-14	_	,	_	_	_	_
 13-15	_	involves	_	_	_	_
 13-16	_	a	_	_	_	_
@@ -308,8 +308,8 @@
 13-18	_	or	_	_	_	_
 13-19	_	attitude	_	_	_	_
 13-20	_	that	_	_	_	_
-13-21	_	one	abstract[23]	new[23]	coref	18-1[23_24]
-13-22	_	’s	abstract[23]	new[23]	_	_
+13-21	_	one	abstract[22]	new[22]	coref	18-1[22_23]
+13-22	_	’s	abstract[22]	new[22]	_	_
 13-23	_	own	_	_	_	_
 13-24	_	culture	_	_	_	_
 13-25	_	is	_	_	_	_
@@ -424,7 +424,7 @@
 17-18	_	"	_	_	_	_
 
 #Text=One might question , " Far east of where ? "
-18-1	_	One	abstract[24]	new[24]	coref	19-7[24_25]
+18-1	_	One	abstract[23]	new[23]	coref	19-7[23_24]
 18-2	_	might	_	_	_	_
 18-3	_	question	_	_	_	_
 18-4	_	,	_	_	_	_
@@ -443,8 +443,8 @@
 19-4	_	of	_	_	_	_
 19-5	_	appreciation	_	_	_	_
 19-6	_	for	_	_	_	_
-19-7	_	one	abstract[25]	new[25]	coref	22-16[25_26]
-19-8	_	’s	abstract[25]	new[25]	_	_
+19-7	_	one	abstract[24]	new[24]	coref	22-16[24_25]
+19-8	_	’s	abstract[24]	new[24]	_	_
 19-9	_	own	_	_	_	_
 19-10	_	culture	_	_	_	_
 19-11	_	can	_	_	_	_
@@ -535,8 +535,8 @@
 22-13	_	deliberate	_	_	_	_
 22-14	_	imposition	_	_	_	_
 22-15	_	of	_	_	_	_
-22-16	_	one	abstract[26]	new[26]	coref	44-22[26_27]
-22-17	_	’s	abstract[26]	new[26]	_	_
+22-16	_	one	abstract[25]	new[25]	coref	44-22[25_26]
+22-17	_	’s	abstract[25]	new[25]	_	_
 22-18	_	own	_	_	_	_
 22-19	_	cultural	_	_	_	_
 22-20	_	values	_	_	_	_
@@ -754,7 +754,7 @@
 30-20	_	to	_	_	_	_
 30-21	_	see	_	_	_	_
 30-22	_	a	_	_	_	_
-30-23	_	U.S.	abstract[15]	new[15]	_	_
+30-23	_	U.S.	abstract[14]	new[14]	_	_
 30-24	_	-	_	_	_	_
 30-25	_	style	_	_	_	_
 30-26	_	classroom	_	_	_	_
@@ -1060,8 +1060,8 @@
 44-19	_	the	_	_	_	_
 44-20	_	lens	_	_	_	_
 44-21	_	of	_	_	_	_
-44-22	_	one	abstract[27]	new[27]	coref	50-19[27_28]
-44-23	_	’s	abstract[27]	new[27]	_	_
+44-22	_	one	abstract[26]	new[26]	coref	50-19[26_27]
+44-23	_	’s	abstract[26]	new[26]	_	_
 44-24	_	own	_	_	_	_
 44-25	_	culture	_	_	_	_
 44-26	_	.	_	_	_	_
@@ -1238,8 +1238,8 @@
 50-16	_	is	abstract[85]	new[85]	_	_
 50-17	_	superior	abstract[85]	new[85]	_	_
 50-18	_	to	abstract[85]	new[85]	_	_
-50-19	_	one	abstract[28]|abstract[85]	new[28]|new[85]	_	_
-50-20	_	’s	abstract[28]|abstract[85]	new[28]|new[85]	_	_
+50-19	_	one	abstract[27]|abstract[85]	new[27]|new[85]	coref	53-15[27_28]
+50-20	_	’s	abstract[27]|abstract[85]	new[27]|new[85]	_	_
 50-21	_	own	abstract[85]	new[85]	_	_
 50-22	_	.	_	_	_	_
 
@@ -1316,37 +1316,64 @@
 52-45	_	living	_	_	_	_
 52-46	_	.	_	_	_	_
 
-#Text=Use The Atlas to introduce you to Mesoamerica 's major civilizations . Ask an expert for a list of cultural features of several different cultures ranging from the Aztecs to Aztecs .
-53-1	_	Use	_	_	_	_
-53-2	_	The	_	_	_	_
-53-3	_	Atlas	_	_	_	_
-53-4	_	to	_	_	_	_
-53-5	_	introduce	_	_	_	_
-53-6	_	you	abstract[3]	new[3]	_	_
-53-7	_	to	_	_	_	_
-53-8	_	Mesoamerica	_	_	_	_
-53-9	_	's	_	_	_	_
-53-10	_	major	_	_	_	_
-53-11	_	civilizations	_	_	_	_
-53-12	_	.	_	_	_	_
-53-13	_	Ask	_	_	_	_
-53-14	_	an	_	_	_	_
-53-15	_	expert	_	_	_	_
-53-16	_	for	_	_	_	_
-53-17	_	a	_	_	_	_
-53-18	_	list	_	_	_	_
-53-19	_	of	_	_	_	_
-53-20	_	cultural	_	_	_	_
-53-21	_	features	_	_	_	_
-53-22	_	of	_	_	_	_
-53-23	_	several	_	_	_	_
-53-24	_	different	_	_	_	_
-53-25	_	cultures	_	_	_	_
-53-26	_	ranging	_	_	_	_
-53-27	_	from	_	_	_	_
-53-28	_	the	_	_	_	_
-53-29	_	Aztecs	_	_	_	_
-53-30	_	to	_	_	_	_
-53-31	_	Aztecs	_	_	_	_
-53-32	_	.	_	_	_	_
+#Text=Using several examples , this text explains ethnocentrism ( evaluating a culture based on one ’s own norms ) and cultural relativism ( assessing a culture by its own standards ) , and warns against ethnocentrism leading to disdain for other cultures or culture shock , or excessive relativism leading to accepting practices such as female genital mutilation .
+53-1	_	Using	_	_	_	_
+53-2	_	several	_	_	_	_
+53-3	_	examples	_	_	_	_
+53-4	_	,	_	_	_	_
+53-5	_	this	_	_	_	_
+53-6	_	text	_	_	_	_
+53-7	_	explains	_	_	_	_
+53-8	_	ethnocentrism	_	_	_	_
+53-9	_	(	_	_	_	_
+53-10	_	evaluating	_	_	_	_
+53-11	_	a	_	_	_	_
+53-12	_	culture	_	_	_	_
+53-13	_	based	_	_	_	_
+53-14	_	on	_	_	_	_
+53-15	_	one	abstract[28]	new[28]	_	_
+53-16	_	’s	abstract[28]	new[28]	_	_
+53-17	_	own	_	_	_	_
+53-18	_	norms	_	_	_	_
+53-19	_	)	_	_	_	_
+53-20	_	and	_	_	_	_
+53-21	_	cultural	_	_	_	_
+53-22	_	relativism	_	_	_	_
+53-23	_	(	_	_	_	_
+53-24	_	assessing	_	_	_	_
+53-25	_	a	abstract[89]	new[89]	coref	53-28[89_90]
+53-26	_	culture	abstract[89]	new[89]	_	_
+53-27	_	by	_	_	_	_
+53-28	_	its	abstract[90]	new[90]	_	_
+53-29	_	own	_	_	_	_
+53-30	_	standards	_	_	_	_
+53-31	_	)	_	_	_	_
+53-32	_	,	_	_	_	_
+53-33	_	and	_	_	_	_
+53-34	_	warns	_	_	_	_
+53-35	_	against	_	_	_	_
+53-36	_	ethnocentrism	_	_	_	_
+53-37	_	leading	_	_	_	_
+53-38	_	to	_	_	_	_
+53-39	_	disdain	_	_	_	_
+53-40	_	for	_	_	_	_
+53-41	_	other	_	_	_	_
+53-42	_	cultures	_	_	_	_
+53-43	_	or	_	_	_	_
+53-44	_	culture	_	_	_	_
+53-45	_	shock	_	_	_	_
+53-46	_	,	_	_	_	_
+53-47	_	or	_	_	_	_
+53-48	_	excessive	_	_	_	_
+53-49	_	relativism	_	_	_	_
+53-50	_	leading	_	_	_	_
+53-51	_	to	_	_	_	_
+53-52	_	accepting	_	_	_	_
+53-53	_	practices	_	_	_	_
+53-54	_	such	_	_	_	_
+53-55	_	as	_	_	_	_
+53-56	_	female	_	_	_	_
+53-57	_	genital	_	_	_	_
+53-58	_	mutilation	_	_	_	_
+53-59	_	.	_	_	_	_
 

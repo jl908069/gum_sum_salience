@@ -180,7 +180,7 @@
 11-10	_	,	abstract[35]	new[35]	_	_
 11-11	_	for	abstract[35]	new[35]	_	_
 11-12	_	you	abstract[15]|abstract[35]	new[15]|new[35]	_	_
-11-13	_	sir	abstract[126]	new[126]	coref	58-1[126_127]
+11-13	_	sir	abstract[127]	new[127]	coref	58-1[127_128]
 11-14	_	.	_	_	_	_
 
 #Text=So the Sauvignon Blanc , it 's naturally high - acidic grape , and then if you smell it you pick up grassy aromas , lots of passion fruits , gooseberry flavors in the palate .
@@ -327,16 +327,16 @@
 17-6	_	?	_	_	_	_
 
 #Text=Chardonnay ?
-18-1	_	Chardonnay	abstract[59]	new[59]	coref	19-6[59_60]
+18-1	_	Chardonnay	abstract[60]	new[60]	coref	19-6[60_61]
 18-2	_	?	_	_	_	_
 
 #Text=Yes , in South Africa Chardonnay and Pinot Noir , it 's a popular wine .
 19-1	_	Yes	_	_	_	_
 19-2	_	,	_	_	_	_
 19-3	_	in	_	_	_	_
-19-4	_	South	abstract[58]	new[58]	_	_
+19-4	_	South	abstract[58]	new[58]	coref	96-10[58_59]
 19-5	_	Africa	abstract[58]	new[58]	_	_
-19-6	_	Chardonnay	abstract[55]|abstract[60]	new[55]|new[60]	coref	19-11[55_56]
+19-6	_	Chardonnay	abstract[55]|abstract[61]	new[55]|new[61]	coref	19-11[55_56]
 19-7	_	and	abstract[55]	new[55]	_	_
 19-8	_	Pinot	abstract[55]	new[55]	_	_
 19-9	_	Noir	abstract[55]	new[55]	_	_
@@ -356,10 +356,10 @@
 21-1	_	And	_	_	_	_
 21-2	_	then	_	_	_	_
 21-3	_	with	_	_	_	_
-21-4	_	the	abstract[61]	new[61]	coref	21-7[61_62]
-21-5	_	Chardonnay	abstract[61]	new[61]	_	_
+21-4	_	the	abstract[62]	new[62]	coref	21-7[62_63]
+21-5	_	Chardonnay	abstract[62]	new[62]	_	_
 21-6	_	,	_	_	_	_
-21-7	_	Chardonnay	abstract[62]	new[62]	_	_
+21-7	_	Chardonnay	abstract[63]	new[63]	_	_
 21-8	_	is	_	_	_	_
 21-9	_	naturally	_	_	_	_
 21-10	_	high	_	_	_	_
@@ -438,14 +438,14 @@
 
 #Text=Can I ask you , with your white wines , how – how long – when 's the best time to drink them ?
 23-1	_	Can	_	_	_	_
-23-2	_	I	abstract[78]	new[78]	coref	27-3[78_79]
+23-2	_	I	abstract[79]	new[79]	coref	27-3[79_80]
 23-3	_	ask	_	_	_	_
-23-4	_	you	abstract[63]	new[63]	coref	23-7[63_64]
+23-4	_	you	abstract[64]	new[64]	coref	23-7[64_65]
 23-5	_	,	_	_	_	_
 23-6	_	with	_	_	_	_
-23-7	_	your	abstract[64]|abstract[71]	new[64]|new[71]	coref|coref	26-11[64_65]|23-23[71_72]
-23-8	_	white	abstract[71]	new[71]	_	_
-23-9	_	wines	abstract[71]	new[71]	_	_
+23-7	_	your	abstract[65]|abstract[72]	new[65]|new[72]	coref|coref	26-11[65_66]|23-23[72_73]
+23-8	_	white	abstract[72]	new[72]	_	_
+23-9	_	wines	abstract[72]	new[72]	_	_
 23-10	_	,	_	_	_	_
 23-11	_	how	_	_	_	_
 23-12	_	–	_	_	_	_
@@ -454,17 +454,17 @@
 23-15	_	–	_	_	_	_
 23-16	_	when	_	_	_	_
 23-17	_	's	_	_	_	_
-23-18	_	the	abstract[73]	new[73]	coref	24-2[73_74]
-23-19	_	best	abstract[73]	new[73]	_	_
-23-20	_	time	abstract[73]	new[73]	_	_
-23-21	_	to	abstract[73]	new[73]	_	_
-23-22	_	drink	abstract[73]	new[73]	_	_
-23-23	_	them	abstract[72]|abstract[73]	new[72]|new[73]	_	_
+23-18	_	the	abstract[74]	new[74]	coref	24-2[74_75]
+23-19	_	best	abstract[74]	new[74]	_	_
+23-20	_	time	abstract[74]	new[74]	_	_
+23-21	_	to	abstract[74]	new[74]	_	_
+23-22	_	drink	abstract[74]	new[74]	_	_
+23-23	_	them	abstract[73]|abstract[74]	new[73]|new[74]	_	_
 23-24	_	?	_	_	_	_
 
 #Text=Is it sooner ?
 24-1	_	Is	_	_	_	_
-24-2	_	it	abstract[74]	new[74]	_	_
+24-2	_	it	abstract[75]	new[75]	_	_
 24-3	_	sooner	_	_	_	_
 24-4	_	?	_	_	_	_
 
@@ -477,7 +477,7 @@
 25-6	_	.	_	_	_	_
 
 #Text=It 's open now drink now wines , as I said they are lifestyle wines , easy drinking , everyday drinking styles .
-26-1	_	It	abstract[75]	new[75]	coref	26-13[75_76]
+26-1	_	It	abstract[76]	new[76]	coref	26-13[76_77]
 26-2	_	's	_	_	_	_
 26-3	_	open	_	_	_	_
 26-4	_	now	_	_	_	_
@@ -486,9 +486,9 @@
 26-7	_	wines	_	_	_	_
 26-8	_	,	_	_	_	_
 26-9	_	as	_	_	_	_
-26-10	_	I	abstract[65]	new[65]	coref	27-9[65_66]
+26-10	_	I	abstract[66]	new[66]	coref	27-9[66_67]
 26-11	_	said	_	_	_	_
-26-12	_	they	abstract[76]	new[76]	coref	27-7[76_77]
+26-12	_	they	abstract[77]	new[77]	coref	27-7[77_78]
 26-13	_	are	_	_	_	_
 26-14	_	lifestyle	_	_	_	_
 26-15	_	wines	_	_	_	_
@@ -504,20 +504,20 @@
 #Text=But if you want to keep them , I would say 5 years in the cellar .
 27-1	_	But	_	_	_	_
 27-2	_	if	_	_	_	_
-27-3	_	you	abstract[79]	new[79]	coref	29-2[79_80]
+27-3	_	you	abstract[80]	new[80]	coref	29-2[80_81]
 27-4	_	want	_	_	_	_
 27-5	_	to	_	_	_	_
 27-6	_	keep	_	_	_	_
-27-7	_	them	abstract[77]	new[77]	_	_
+27-7	_	them	abstract[78]	new[78]	_	_
 27-8	_	,	_	_	_	_
-27-9	_	I	abstract[66]	new[66]	coref	49-2[66_67]
+27-9	_	I	abstract[67]	new[67]	coref	49-2[67_68]
 27-10	_	would	_	_	_	_
 27-11	_	say	_	_	_	_
 27-12	_	5	_	_	_	_
 27-13	_	years	_	_	_	_
 27-14	_	in	_	_	_	_
-27-15	_	the	abstract[87]	new[87]	coref	29-7[87_88]
-27-16	_	cellar	abstract[87]	new[87]	_	_
+27-15	_	the	abstract[88]	new[88]	coref	29-7[88_89]
+27-16	_	cellar	abstract[88]	new[88]	_	_
 27-17	_	.	_	_	_	_
 
 #Text=Oh , you can ?
@@ -529,47 +529,47 @@
 
 #Text=Yes you can keep them in your cellar , and then the red wines , six years to seven years , not more than that .
 29-1	_	Yes	_	_	_	_
-29-2	_	you	abstract[80]	new[80]	coref	29-7[80_81]
+29-2	_	you	abstract[81]	new[81]	coref	29-7[81_82]
 29-3	_	can	_	_	_	_
 29-4	_	keep	_	_	_	_
 29-5	_	them	_	_	_	_
 29-6	_	in	_	_	_	_
-29-7	_	your	abstract[81]|abstract[88]	new[81]|new[88]	coref	31-12[81_82]
-29-8	_	cellar	abstract[88]	new[88]	_	_
+29-7	_	your	abstract[82]|abstract[89]	new[82]|new[89]	coref	31-12[82_83]
+29-8	_	cellar	abstract[89]	new[89]	_	_
 29-9	_	,	_	_	_	_
 29-10	_	and	_	_	_	_
 29-11	_	then	_	_	_	_
-29-12	_	the	abstract[121]	new[121]	coref	44-7[121_122]
-29-13	_	red	abstract[121]	new[121]	_	_
-29-14	_	wines	abstract[121]	new[121]	_	_
+29-12	_	the	abstract[122]	new[122]	coref	44-7[122_123]
+29-13	_	red	abstract[122]	new[122]	_	_
+29-14	_	wines	abstract[122]	new[122]	_	_
 29-15	_	,	_	_	_	_
 29-16	_	six	_	_	_	_
 29-17	_	years	_	_	_	_
 29-18	_	to	_	_	_	_
-29-19	_	seven	abstract[89]	new[89]	coref	29-25[89_90]
-29-20	_	years	abstract[89]	new[89]	_	_
+29-19	_	seven	abstract[90]	new[90]	coref	29-25[90_91]
+29-20	_	years	abstract[90]	new[90]	_	_
 29-21	_	,	_	_	_	_
 29-22	_	not	_	_	_	_
 29-23	_	more	_	_	_	_
 29-24	_	than	_	_	_	_
-29-25	_	that	abstract[90]	new[90]	_	_
+29-25	_	that	abstract[91]	new[91]	_	_
 29-26	_	.	_	_	_	_
 
 #Text=And then with the red wines from the Signature they only spent eight months in the French oak .
 30-1	_	And	_	_	_	_
 30-2	_	then	_	_	_	_
 30-3	_	with	_	_	_	_
-30-4	_	the	abstract[91]	new[91]	coref	30-10[91_92]
-30-5	_	red	abstract[91]	new[91]	_	_
-30-6	_	wines	abstract[91]	new[91]	_	_
-30-7	_	from	abstract[91]	new[91]	_	_
-30-8	_	the	abstract[91]	new[91]	_	_
-30-9	_	Signature	abstract[91]	new[91]	_	_
-30-10	_	they	abstract[92]	new[92]	coref	31-32[92_93]
+30-4	_	the	abstract[92]	new[92]	coref	30-10[92_93]
+30-5	_	red	abstract[92]	new[92]	_	_
+30-6	_	wines	abstract[92]	new[92]	_	_
+30-7	_	from	abstract[92]	new[92]	_	_
+30-8	_	the	abstract[92]	new[92]	_	_
+30-9	_	Signature	abstract[92]	new[92]	_	_
+30-10	_	they	abstract[93]	new[93]	coref	31-32[93_94]
 30-11	_	only	_	_	_	_
 30-12	_	spent	_	_	_	_
-30-13	_	eight	abstract[94]	new[94]	coref	31-5[94_95]
-30-14	_	months	abstract[94]	new[94]	_	_
+30-13	_	eight	abstract[95]	new[95]	coref	31-5[95_96]
+30-14	_	months	abstract[95]	new[95]	_	_
 30-15	_	in	_	_	_	_
 30-16	_	the	_	_	_	_
 30-17	_	French	_	_	_	_
@@ -581,14 +581,14 @@
 31-2	_	the	_	_	_	_
 31-3	_	reason	_	_	_	_
 31-4	_	behind	_	_	_	_
-31-5	_	that	abstract[95]	new[95]	_	_
-31-6	_	shorter	abstract[95]	new[95]	_	_
-31-7	_	period	abstract[95]	new[95]	_	_
-31-8	_	of	abstract[95]	new[95]	_	_
-31-9	_	time	abstract[95]	new[95]	_	_
+31-5	_	that	abstract[96]	new[96]	_	_
+31-6	_	shorter	abstract[96]	new[96]	_	_
+31-7	_	period	abstract[96]	new[96]	_	_
+31-8	_	of	abstract[96]	new[96]	_	_
+31-9	_	time	abstract[96]	new[96]	_	_
 31-10	_	is	_	_	_	_
 31-11	_	for	_	_	_	_
-31-12	_	you	abstract[82]	new[82]	coref	82-4[82_83]
+31-12	_	you	abstract[83]	new[83]	coref	82-4[83_84]
 31-13	_	to	_	_	_	_
 31-14	_	get	_	_	_	_
 31-15	_	more	_	_	_	_
@@ -608,7 +608,7 @@
 31-29	_	secondary	_	_	_	_
 31-30	_	flavor	_	_	_	_
 31-31	_	since	_	_	_	_
-31-32	_	they	abstract[93]	new[93]	_	_
+31-32	_	they	abstract[94]	new[94]	_	_
 31-33	_	are	_	_	_	_
 31-34	_	more	_	_	_	_
 31-35	_	level	_	_	_	_
@@ -618,8 +618,8 @@
 
 #Text=So the Pinotage is a uniquely grown South African grape .
 32-1	_	So	_	_	_	_
-32-2	_	the	abstract[96]	new[96]	coref	33-1[96_97]
-32-3	_	Pinotage	abstract[96]	new[96]	_	_
+32-2	_	the	abstract[97]	new[97]	coref	33-1[97_98]
+32-3	_	Pinotage	abstract[97]	new[97]	_	_
 32-4	_	is	_	_	_	_
 32-5	_	a	_	_	_	_
 32-6	_	uniquely	_	_	_	_
@@ -630,7 +630,7 @@
 32-11	_	.	_	_	_	_
 
 #Text=It was discovered in the year of 1925 by a professor called Abraham Perold in the University of Stellenbosch .
-33-1	_	It	abstract[97]	new[97]	coref	34-2[97_98]
+33-1	_	It	abstract[98]	new[98]	coref	34-2[98_99]
 33-2	_	was	_	_	_	_
 33-3	_	discovered	_	_	_	_
 33-4	_	in	_	_	_	_
@@ -653,7 +653,7 @@
 
 #Text=So it 's a high grade grape that is made from Pinot Noir and the Hermitage .
 34-1	_	So	_	_	_	_
-34-2	_	it	abstract[98]	new[98]	coref	93-8[98_99]
+34-2	_	it	abstract[99]	new[99]	coref	93-8[99_100]
 34-3	_	's	_	_	_	_
 34-4	_	a	_	_	_	_
 34-5	_	high	_	_	_	_
@@ -663,33 +663,33 @@
 34-9	_	is	_	_	_	_
 34-10	_	made	_	_	_	_
 34-11	_	from	_	_	_	_
-34-12	_	Pinot	abstract[100]	new[100]	coref	35-6[100_101]
-34-13	_	Noir	abstract[100]	new[100]	_	_
-34-14	_	and	abstract[100]	new[100]	_	_
-34-15	_	the	abstract[100]|abstract[104]	new[100]|new[104]	coref	36-1[104_105]
-34-16	_	Hermitage	abstract[100]|abstract[104]	new[100]|new[104]	_	_
+34-12	_	Pinot	abstract[101]	new[101]	coref	35-6[101_102]
+34-13	_	Noir	abstract[101]	new[101]	_	_
+34-14	_	and	abstract[101]	new[101]	_	_
+34-15	_	the	abstract[101]|abstract[105]	new[101]|new[105]	coref	36-1[105_106]
+34-16	_	Hermitage	abstract[101]|abstract[105]	new[101]|new[105]	_	_
 34-17	_	.	_	_	_	_
 
 #Text=You took a stem of both , cross-breeded them .
 35-1	_	You	abstract[45]	new[45]	coref	39-21[45_46]
 35-2	_	took	_	_	_	_
-35-3	_	a	abstract[102]	new[102]	coref	35-9[102_103]
-35-4	_	stem	abstract[102]	new[102]	_	_
-35-5	_	of	abstract[102]	new[102]	_	_
-35-6	_	both	abstract[101]|abstract[102]	new[101]|new[102]	_	_
+35-3	_	a	abstract[103]	new[103]	coref	35-9[103_104]
+35-4	_	stem	abstract[103]	new[103]	_	_
+35-5	_	of	abstract[103]	new[103]	_	_
+35-6	_	both	abstract[102]|abstract[103]	new[102]|new[103]	_	_
 35-7	_	,	_	_	_	_
 35-8	_	cross-breeded	_	_	_	_
-35-9	_	them	abstract[103]	new[103]	_	_
+35-9	_	them	abstract[104]	new[104]	_	_
 35-10	_	.	_	_	_	_
 
 #Text=The Hermitage is known as the Cinsault today .
-36-1	_	The	abstract[105]	new[105]	coref	36-6[105_106]
-36-2	_	Hermitage	abstract[105]	new[105]	_	_
+36-1	_	The	abstract[106]	new[106]	coref	36-6[106_107]
+36-2	_	Hermitage	abstract[106]	new[106]	_	_
 36-3	_	is	_	_	_	_
 36-4	_	known	_	_	_	_
 36-5	_	as	_	_	_	_
-36-6	_	the	abstract[106]	new[106]	_	_
-36-7	_	Cinsault	abstract[106]	new[106]	_	_
+36-6	_	the	abstract[107]	new[107]	_	_
+36-7	_	Cinsault	abstract[107]	new[107]	_	_
 36-8	_	today	_	_	_	_
 36-9	_	.	_	_	_	_
 
@@ -713,8 +713,8 @@
 37-17	_	.	_	_	_	_
 
 #Text=The tanins are full of high tanins , but they are quite soft .
-38-1	_	The	abstract[107]	new[107]	coref	38-10[107_108]
-38-2	_	tanins	abstract[107]	new[107]	_	_
+38-1	_	The	abstract[108]	new[108]	coref	38-10[108_109]
+38-2	_	tanins	abstract[108]	new[108]	_	_
 38-3	_	are	_	_	_	_
 38-4	_	full	_	_	_	_
 38-5	_	of	_	_	_	_
@@ -722,7 +722,7 @@
 38-7	_	tanins	_	_	_	_
 38-8	_	,	_	_	_	_
 38-9	_	but	_	_	_	_
-38-10	_	they	abstract[108]	new[108]	_	_
+38-10	_	they	abstract[109]	new[109]	_	_
 38-11	_	are	_	_	_	_
 38-12	_	quite	_	_	_	_
 38-13	_	soft	_	_	_	_
@@ -736,14 +736,14 @@
 39-5	_	vintage	_	_	_	_
 39-6	_	and	_	_	_	_
 39-7	_	then	_	_	_	_
-39-8	_	the	abstract[109]	new[109]	coref	39-11[109_110]
-39-9	_	Shiraz	abstract[109]	new[109]	_	_
+39-8	_	the	abstract[110]	new[110]	coref	39-11[110_111]
+39-9	_	Shiraz	abstract[110]	new[110]	_	_
 39-10	_	,	_	_	_	_
-39-11	_	it	abstract[110]	new[110]	coref	39-15[110_111]
+39-11	_	it	abstract[111]	new[111]	coref	39-15[111_112]
 39-12	_	's	_	_	_	_
 39-13	_	known	_	_	_	_
 39-14	_	for	_	_	_	_
-39-15	_	its	abstract[111]	new[111]	coref	39-44[111_112]
+39-15	_	its	abstract[112]	new[112]	coref	39-44[112_113]
 39-16	_	biasing	_	_	_	_
 39-17	_	characteristics	_	_	_	_
 39-18	_	,	_	_	_	_
@@ -753,14 +753,14 @@
 39-22	_	pick	_	_	_	_
 39-23	_	up	_	_	_	_
 39-24	_	on	_	_	_	_
-39-25	_	the	abstract[113]	new[113]	coref	39-31[113_114]
-39-26	_	palette	abstract[113]	new[113]	_	_
+39-25	_	the	abstract[114]	new[114]	coref	39-31[114_115]
+39-26	_	palette	abstract[114]	new[114]	_	_
 39-27	_	on	_	_	_	_
 39-28	_	the	_	_	_	_
 39-29	_	nose	_	_	_	_
 39-30	_	to	_	_	_	_
-39-31	_	the	abstract[114]	new[114]	_	_
-39-32	_	palate	abstract[114]	new[114]	_	_
+39-31	_	the	abstract[115]	new[115]	_	_
+39-32	_	palate	abstract[115]	new[115]	_	_
 39-33	_	,	_	_	_	_
 39-34	_	spicy	_	_	_	_
 39-35	_	peppery	_	_	_	_
@@ -772,7 +772,7 @@
 39-41	_	great	_	_	_	_
 39-42	_	fruits	_	_	_	_
 39-43	_	and	_	_	_	_
-39-44	_	this	abstract[112]	new[112]	_	_
+39-44	_	this	abstract[113]	new[113]	_	_
 39-45	_	is	_	_	_	_
 39-46	_	2017	_	_	_	_
 39-47	_	vintage	_	_	_	_
@@ -781,29 +781,29 @@
 #Text=And then the Cab , the Cabernet is known for its thick uh skin and it 's known for when it 's blended , it always acts as a backbone to the wine .
 40-1	_	And	_	_	_	_
 40-2	_	then	_	_	_	_
-40-3	_	the	abstract[115]	new[115]	coref	40-6[115_116]
-40-4	_	Cab	abstract[115]	new[115]	_	_
+40-3	_	the	abstract[116]	new[116]	coref	40-6[116_117]
+40-4	_	Cab	abstract[116]	new[116]	_	_
 40-5	_	,	_	_	_	_
-40-6	_	the	abstract[116]	new[116]	coref	40-11[116_117]
-40-7	_	Cabernet	abstract[116]	new[116]	_	_
+40-6	_	the	abstract[117]	new[117]	coref	40-11[117_118]
+40-7	_	Cabernet	abstract[117]	new[117]	_	_
 40-8	_	is	_	_	_	_
 40-9	_	known	_	_	_	_
 40-10	_	for	_	_	_	_
-40-11	_	its	abstract[117]	new[117]	coref	40-16[117_118]
+40-11	_	its	abstract[118]	new[118]	coref	40-16[118_119]
 40-12	_	thick	_	_	_	_
 40-13	_	uh	_	_	_	_
 40-14	_	skin	_	_	_	_
 40-15	_	and	_	_	_	_
-40-16	_	it	abstract[118]	new[118]	coref	40-21[118_119]
+40-16	_	it	abstract[119]	new[119]	coref	40-21[119_120]
 40-17	_	's	_	_	_	_
 40-18	_	known	_	_	_	_
 40-19	_	for	_	_	_	_
 40-20	_	when	_	_	_	_
-40-21	_	it	abstract[119]	new[119]	coref	40-25[119_120]
+40-21	_	it	abstract[120]	new[120]	coref	40-25[120_121]
 40-22	_	's	_	_	_	_
 40-23	_	blended	_	_	_	_
 40-24	_	,	_	_	_	_
-40-25	_	it	abstract[120]	new[120]	_	_
+40-25	_	it	abstract[121]	new[121]	_	_
 40-26	_	always	_	_	_	_
 40-27	_	acts	_	_	_	_
 40-28	_	as	_	_	_	_
@@ -868,8 +868,8 @@
 44-4	_	with	_	_	_	_
 44-5	_	th-	_	_	_	_
 44-6	_	with	_	_	_	_
-44-7	_	these	abstract[122]	new[122]	coref	44-16[122_123]
-44-8	_	people	abstract[122]	new[122]	_	_
+44-7	_	these	abstract[123]	new[123]	coref	44-16[123_124]
+44-8	_	people	abstract[123]	new[123]	_	_
 44-9	_	,	_	_	_	_
 44-10	_	it	_	_	_	_
 44-11	_	's	_	_	_	_
@@ -877,13 +877,13 @@
 44-13	_	to	_	_	_	_
 44-14	_	wait	_	_	_	_
 44-15	_	for	_	_	_	_
-44-16	_	these	abstract[123]	new[123]	coref	44-22[123_124]
+44-16	_	these	abstract[124]	new[124]	coref	44-22[124_125]
 44-17	_	as	_	_	_	_
 44-18	_	well	_	_	_	_
 44-19	_	,	_	_	_	_
 44-20	_	even	_	_	_	_
 44-21	_	though	_	_	_	_
-44-22	_	they	abstract[124]	new[124]	coref	47-12[124_125]
+44-22	_	they	abstract[125]	new[125]	coref	47-12[125_126]
 44-23	_	're	_	_	_	_
 44-24	_	your	abstract[48]	new[48]	_	_
 44-25	_	everyday	_	_	_	_
@@ -927,7 +927,7 @@
 47-9	_	,	_	_	_	_
 47-10	_	so	_	_	_	_
 47-11	_	,	_	_	_	_
-47-12	_	these	abstract[125]	new[125]	_	_
+47-12	_	these	abstract[126]	new[126]	_	_
 47-13	_	also	_	_	_	_
 47-14	_	.	_	_	_	_
 
@@ -940,7 +940,7 @@
 
 #Text=Thank you !
 49-1	_	Thank	_	_	_	_
-49-2	_	you	abstract[67]	new[67]	coref	53-1[67_68]
+49-2	_	you	abstract[68]	new[68]	coref	53-1[68_69]
 49-3	_	!	_	_	_	_
 
 #Text=That 's good !
@@ -958,7 +958,7 @@
 52-2	_	!	_	_	_	_
 
 #Text=I will bring the cheese platter .
-53-1	_	I	abstract[68]	new[68]	coref	54-2[68_69]
+53-1	_	I	abstract[69]	new[69]	coref	54-2[69_70]
 53-2	_	will	_	_	_	_
 53-3	_	bring	_	_	_	_
 53-4	_	the	_	_	_	_
@@ -968,7 +968,7 @@
 
 #Text=Thank you !
 54-1	_	Thank	_	_	_	_
-54-2	_	you	abstract[69]	new[69]	coref	55-8[69_70]
+54-2	_	you	abstract[70]	new[70]	coref	55-8[70_71]
 54-3	_	!	_	_	_	_
 
 #Text=So you heard it people : whatever she said .
@@ -976,10 +976,10 @@
 55-2	_	you	abstract[6]	new[6]	_	_
 55-3	_	heard	_	_	_	_
 55-4	_	it	_	_	_	_
-55-5	_	people	abstract[173]	new[173]	coref	94-13[173_174]
+55-5	_	people	abstract[174]	new[174]	coref	94-13[174_175]
 55-6	_	:	_	_	_	_
 55-7	_	whatever	_	_	_	_
-55-8	_	she	abstract[70]	new[70]	_	_
+55-8	_	she	abstract[71]	new[71]	_	_
 55-9	_	said	_	_	_	_
 55-10	_	.	_	_	_	_
 
@@ -1007,7 +1007,7 @@
 57-4	_	!	_	_	_	_
 
 #Text=I 'm just smelling the wine .
-58-1	_	I	abstract[127]	new[127]	coref	61-1[127_128]
+58-1	_	I	abstract[128]	new[128]	coref	61-1[128_129]
 58-2	_	'm	_	_	_	_
 58-3	_	just	_	_	_	_
 58-4	_	smelling	_	_	_	_
@@ -1020,15 +1020,15 @@
 59-2	_	we	abstract[26]	new[26]	coref	60-3[26_27]
 59-3	_	just	_	_	_	_
 59-4	_	saw	_	_	_	_
-59-5	_	a	abstract[142]	new[142]	coref	59-13[142_143]
-59-6	_	wine	abstract[142]	new[142]	_	_
-59-7	_	tasting	abstract[142]	new[142]	_	_
+59-5	_	a	abstract[143]	new[143]	coref	59-13[143_144]
+59-6	_	wine	abstract[143]	new[143]	_	_
+59-7	_	tasting	abstract[143]	new[143]	_	_
 59-8	_	,	_	_	_	_
 59-9	_	and	_	_	_	_
 59-10	_	got	_	_	_	_
 59-11	_	to	_	_	_	_
 59-12	_	say	_	_	_	_
-59-13	_	it	abstract[143]	new[143]	_	_
+59-13	_	it	abstract[144]	new[144]	_	_
 59-14	_	was	_	_	_	_
 59-15	_	really	_	_	_	_
 59-16	_	good	_	_	_	_
@@ -1044,10 +1044,10 @@
 60-7	_	.	_	_	_	_
 
 #Text=I feel like my sunburn adds nicely to the effect .
-61-1	_	I	abstract[128]	new[128]	coref	61-4[128_129]
+61-1	_	I	abstract[129]	new[129]	coref	61-4[129_130]
 61-2	_	feel	_	_	_	_
 61-3	_	like	_	_	_	_
-61-4	_	my	abstract[129]	new[129]	coref	63-1[129_130]
+61-4	_	my	abstract[130]	new[130]	coref	63-1[130_131]
 61-5	_	sunburn	_	_	_	_
 61-6	_	adds	_	_	_	_
 61-7	_	nicely	_	_	_	_
@@ -1061,14 +1061,14 @@
 62-2	_	!	_	_	_	_
 
 #Text=I actually spit it , all of it , in here .
-63-1	_	I	abstract[130]	new[130]	coref	65-2[130_131]
+63-1	_	I	abstract[131]	new[131]	coref	65-2[131_132]
 63-2	_	actually	_	_	_	_
 63-3	_	spit	_	_	_	_
-63-4	_	it	abstract[144]	new[144]	coref	63-6[144_145]
+63-4	_	it	abstract[145]	new[145]	coref	63-6[145_146]
 63-5	_	,	_	_	_	_
-63-6	_	all	abstract[145]	new[145]	coref	66-5[145_146]
-63-7	_	of	abstract[145]	new[145]	_	_
-63-8	_	it	abstract[145]	new[145]	_	_
+63-6	_	all	abstract[146]	new[146]	coref	66-5[146_147]
+63-7	_	of	abstract[146]	new[146]	_	_
+63-8	_	it	abstract[146]	new[146]	_	_
 63-9	_	,	_	_	_	_
 63-10	_	in	_	_	_	_
 63-11	_	here	_	_	_	_
@@ -1081,7 +1081,7 @@
 
 #Text=No you did n't .
 65-1	_	No	_	_	_	_
-65-2	_	you	abstract[131]	new[131]	coref	66-3[131_132]
+65-2	_	you	abstract[132]	new[132]	coref	66-3[132_133]
 65-3	_	did	_	_	_	_
 65-4	_	n't	_	_	_	_
 65-5	_	.	_	_	_	_
@@ -1089,34 +1089,34 @@
 #Text=Yeah , I drank all of it .
 66-1	_	Yeah	_	_	_	_
 66-2	_	,	_	_	_	_
-66-3	_	I	abstract[132]	new[132]	coref	68-1[132_133]
+66-3	_	I	abstract[133]	new[133]	coref	68-1[133_134]
 66-4	_	drank	_	_	_	_
-66-5	_	all	abstract[146]	new[146]	_	_
-66-6	_	of	abstract[146]	new[146]	_	_
-66-7	_	it	abstract[146]	new[146]	_	_
+66-5	_	all	abstract[147]	new[147]	_	_
+66-6	_	of	abstract[147]	new[147]	_	_
+66-7	_	it	abstract[147]	new[147]	_	_
 66-8	_	.	_	_	_	_
 
 #Text=But you see all of these glasses ?
 67-1	_	But	_	_	_	_
 67-2	_	you	_	_	_	_
 67-3	_	see	_	_	_	_
-67-4	_	all	abstract[147]	new[147]	coref	68-3[147_148]
-67-5	_	of	abstract[147]	new[147]	_	_
-67-6	_	these	abstract[147]	new[147]	_	_
-67-7	_	glasses	abstract[147]	new[147]	_	_
+67-4	_	all	abstract[148]	new[148]	coref	68-3[148_149]
+67-5	_	of	abstract[148]	new[148]	_	_
+67-6	_	these	abstract[148]	new[148]	_	_
+67-7	_	glasses	abstract[148]	new[148]	_	_
 67-8	_	?	_	_	_	_
 
 #Text=I drank all of them .
-68-1	_	I	abstract[133]	new[133]	coref	69-2[133_134]
+68-1	_	I	abstract[134]	new[134]	coref	69-2[134_135]
 68-2	_	drank	_	_	_	_
-68-3	_	all	abstract[148]	new[148]	coref	70-12[148_149]
-68-4	_	of	abstract[148]	new[148]	_	_
-68-5	_	them	abstract[148]	new[148]	_	_
+68-3	_	all	abstract[149]	new[149]	coref	70-12[149_150]
+68-4	_	of	abstract[149]	new[149]	_	_
+68-5	_	them	abstract[149]	new[149]	_	_
 68-6	_	.	_	_	_	_
 
 #Text=No you actually drank a few sips –
 69-1	_	No	_	_	_	_
-69-2	_	you	abstract[134]	new[134]	coref	70-5[134_135]
+69-2	_	you	abstract[135]	new[135]	coref	70-5[135_136]
 69-3	_	actually	_	_	_	_
 69-4	_	drank	_	_	_	_
 69-5	_	a	_	_	_	_
@@ -1125,22 +1125,22 @@
 69-8	_	–	_	_	_	_
 
 #Text=He 's lying , you drank – you drank most of them .
-70-1	_	He	abstract[152]	new[152]	coref	73-3[152_153]
+70-1	_	He	abstract[153]	new[153]	coref	73-3[153_154]
 70-2	_	's	_	_	_	_
 70-3	_	lying	_	_	_	_
 70-4	_	,	_	_	_	_
-70-5	_	you	abstract[135]	new[135]	coref	70-8[135_136]
+70-5	_	you	abstract[136]	new[136]	coref	70-8[136_137]
 70-6	_	drank	_	_	_	_
 70-7	_	–	_	_	_	_
-70-8	_	you	abstract[136]	new[136]	coref	71-1[136_137]
+70-8	_	you	abstract[137]	new[137]	coref	71-1[137_138]
 70-9	_	drank	_	_	_	_
 70-10	_	most	_	_	_	_
 70-11	_	of	_	_	_	_
-70-12	_	them	abstract[149]	new[149]	_	_
+70-12	_	them	abstract[150]	new[150]	_	_
 70-13	_	.	_	_	_	_
 
 #Text=I 've been called out !
-71-1	_	I	abstract[137]	new[137]	coref	88-11[137_138]
+71-1	_	I	abstract[138]	new[138]	coref	88-11[138_139]
 71-2	_	've	_	_	_	_
 71-3	_	been	_	_	_	_
 71-4	_	called	_	_	_	_
@@ -1150,11 +1150,11 @@
 #Text=No but this one , this one was really really good .
 72-1	_	No	_	_	_	_
 72-2	_	but	_	_	_	_
-72-3	_	this	abstract[150]	new[150]	coref	72-6[150_151]
-72-4	_	one	abstract[150]	new[150]	_	_
+72-3	_	this	abstract[151]	new[151]	coref	72-6[151_152]
+72-4	_	one	abstract[151]	new[151]	_	_
 72-5	_	,	_	_	_	_
-72-6	_	this	abstract[151]	new[151]	_	_
-72-7	_	one	abstract[151]	new[151]	_	_
+72-6	_	this	abstract[152]	new[152]	_	_
+72-7	_	one	abstract[152]	new[152]	_	_
 72-8	_	was	_	_	_	_
 72-9	_	really	_	_	_	_
 72-10	_	really	_	_	_	_
@@ -1164,8 +1164,8 @@
 #Text=What 's your recap ?
 73-1	_	What	_	_	_	_
 73-2	_	's	_	_	_	_
-73-3	_	your	abstract[153]|abstract[158]	new[153]|new[158]	coref|coref	75-1[153_154]|75-1[158_159]
-73-4	_	recap	abstract[158]	new[158]	_	_
+73-3	_	your	abstract[154]|abstract[159]	new[154]|new[159]	coref|coref	75-1[154_155]|75-1[159_160]
+73-4	_	recap	abstract[159]	new[159]	_	_
 73-5	_	?	_	_	_	_
 
 #Text=Uh –
@@ -1173,16 +1173,16 @@
 74-2	_	–	_	_	_	_
 
 #Text=My recap ?
-75-1	_	My	abstract[154]|abstract[159]	new[154]|new[159]	coref	76-5[154_155]
-75-2	_	recap	abstract[159]	new[159]	_	_
+75-1	_	My	abstract[155]|abstract[160]	new[155]|new[160]	coref	76-5[155_156]
+75-2	_	recap	abstract[160]	new[160]	_	_
 75-3	_	?	_	_	_	_
 
 #Text=No which one 's your favorite wine ?
 76-1	_	No	_	_	_	_
-76-2	_	which	abstract[160]	new[160]	coref	77-3[160_161]
-76-3	_	one	abstract[160]	new[160]	_	_
+76-2	_	which	abstract[161]	new[161]	coref	77-3[161_162]
+76-3	_	one	abstract[161]	new[161]	_	_
 76-4	_	's	_	_	_	_
-76-5	_	your	abstract[155]	new[155]	coref	77-3[155_156]
+76-5	_	your	abstract[156]	new[156]	coref	77-3[156_157]
 76-6	_	favorite	_	_	_	_
 76-7	_	wine	_	_	_	_
 76-8	_	?	_	_	_	_
@@ -1190,35 +1190,35 @@
 #Text=Just say your favorite wine .
 77-1	_	Just	_	_	_	_
 77-2	_	say	_	_	_	_
-77-3	_	your	abstract[156]|abstract[161]	new[156]|new[161]	coref|coref	78-1[156_157]|78-1[161_162]
-77-4	_	favorite	abstract[161]	new[161]	_	_
-77-5	_	wine	abstract[161]	new[161]	_	_
+77-3	_	your	abstract[157]|abstract[162]	new[157]|new[162]	coref|coref	78-1[157_158]|78-1[162_163]
+77-4	_	favorite	abstract[162]	new[162]	_	_
+77-5	_	wine	abstract[162]	new[162]	_	_
 77-6	_	.	_	_	_	_
 
 #Text=My favorite wine is the Creative Block , yeah Creative Block 5 .
-78-1	_	My	abstract[157]|abstract[162]	new[157]|new[162]	coref	78-10[162_163]
-78-2	_	favorite	abstract[162]	new[162]	_	_
-78-3	_	wine	abstract[162]	new[162]	_	_
+78-1	_	My	abstract[158]|abstract[163]	new[158]|new[163]	coref	78-10[163_164]
+78-2	_	favorite	abstract[163]	new[163]	_	_
+78-3	_	wine	abstract[163]	new[163]	_	_
 78-4	_	is	_	_	_	_
 78-5	_	the	_	_	_	_
 78-6	_	Creative	_	_	_	_
 78-7	_	Block	_	_	_	_
 78-8	_	,	_	_	_	_
 78-9	_	yeah	_	_	_	_
-78-10	_	Creative	abstract[163]	new[163]	_	_
-78-11	_	Block	abstract[163]	new[163]	_	_
-78-12	_	5	abstract[163]	new[163]	_	_
+78-10	_	Creative	abstract[164]	new[164]	_	_
+78-11	_	Block	abstract[164]	new[164]	_	_
+78-12	_	5	abstract[164]	new[164]	_	_
 78-13	_	.	_	_	_	_
 
 #Text=What 's in there ?
 79-1	_	What	_	_	_	_
 79-2	_	's	_	_	_	_
 79-3	_	in	_	_	_	_
-79-4	_	there	abstract[164]	new[164]	coref	80-1[164_165]
+79-4	_	there	abstract[165]	new[165]	coref	80-1[165_166]
 79-5	_	?	_	_	_	_
 
 #Text=It is a blend of Merlot , Cabernet Sauvignon , Cabernet Franc , Malbec , and Petit Verdot .
-80-1	_	It	abstract[165]	new[165]	_	_
+80-1	_	It	abstract[166]	new[166]	_	_
 80-2	_	is	_	_	_	_
 80-3	_	a	_	_	_	_
 80-4	_	blend	_	_	_	_
@@ -1247,20 +1247,20 @@
 82-1	_	So	_	_	_	_
 82-2	_	what	_	_	_	_
 82-3	_	was	_	_	_	_
-82-4	_	your	abstract[83]|abstract[166]	new[83]|new[166]	coref|coref	83-1[83_84]|83-1[166_167]
-82-5	_	favorite	abstract[166]	new[166]	_	_
+82-4	_	your	abstract[84]|abstract[167]	new[84]|new[167]	coref|coref	83-1[84_85]|83-1[167_168]
+82-5	_	favorite	abstract[167]	new[167]	_	_
 82-6	_	?	_	_	_	_
 
 #Text=My favorite was the Signature Sauvignon Blanc from Spier .
-83-1	_	My	abstract[84]|abstract[167]	new[84]|new[167]	coref	88-6[84_85]
-83-2	_	favorite	abstract[167]	new[167]	_	_
+83-1	_	My	abstract[85]|abstract[168]	new[85]|new[168]	coref	88-6[85_86]
+83-2	_	favorite	abstract[168]	new[168]	_	_
 83-3	_	was	_	_	_	_
 83-4	_	the	_	_	_	_
 83-5	_	Signature	_	_	_	_
 83-6	_	Sauvignon	_	_	_	_
 83-7	_	Blanc	_	_	_	_
 83-8	_	from	_	_	_	_
-83-9	_	Spier	_	_	_	_
+83-9	_	Spier	abstract[176]	new[176]	coref	96-49[176_177]
 83-10	_	.	_	_	_	_
 
 #Text=Lovely , lovely wine .
@@ -1271,13 +1271,13 @@
 84-5	_	.	_	_	_	_
 
 #Text=Crisp , fruity , fresh everyday wine , good to have with fish and maybe chicken .
-85-1	_	Crisp	abstract[168]	new[168]	coref	86-2[168_169]
-85-2	_	,	abstract[168]	new[168]	_	_
-85-3	_	fruity	abstract[168]	new[168]	_	_
-85-4	_	,	abstract[168]	new[168]	_	_
-85-5	_	fresh	abstract[168]	new[168]	_	_
-85-6	_	everyday	abstract[168]	new[168]	_	_
-85-7	_	wine	abstract[168]	new[168]	_	_
+85-1	_	Crisp	abstract[169]	new[169]	coref	86-2[169_170]
+85-2	_	,	abstract[169]	new[169]	_	_
+85-3	_	fruity	abstract[169]	new[169]	_	_
+85-4	_	,	abstract[169]	new[169]	_	_
+85-5	_	fresh	abstract[169]	new[169]	_	_
+85-6	_	everyday	abstract[169]	new[169]	_	_
+85-7	_	wine	abstract[169]	new[169]	_	_
 85-8	_	,	_	_	_	_
 85-9	_	good	_	_	_	_
 85-10	_	to	_	_	_	_
@@ -1291,7 +1291,7 @@
 
 #Text=So it 's a white wine .
 86-1	_	So	_	_	_	_
-86-2	_	it	abstract[169]	new[169]	coref	87-3[169_170]
+86-2	_	it	abstract[170]	new[170]	coref	87-3[170_171]
 86-3	_	's	_	_	_	_
 86-4	_	a	_	_	_	_
 86-5	_	white	_	_	_	_
@@ -1301,7 +1301,7 @@
 #Text=Yeah , it 's a white wine .
 87-1	_	Yeah	_	_	_	_
 87-2	_	,	_	_	_	_
-87-3	_	it	abstract[170]	new[170]	_	_
+87-3	_	it	abstract[171]	new[171]	_	_
 87-4	_	's	_	_	_	_
 87-5	_	a	_	_	_	_
 87-6	_	white	_	_	_	_
@@ -1314,17 +1314,17 @@
 88-3	_	white	_	_	_	_
 88-4	_	wine	_	_	_	_
 88-5	_	for	_	_	_	_
-88-6	_	you	abstract[85]	new[85]	coref	95-1[85_86]
+88-6	_	you	abstract[86]	new[86]	coref	95-1[86_87]
 88-7	_	,	_	_	_	_
 88-8	_	white	_	_	_	_
 88-9	_	wine	_	_	_	_
 88-10	_	for	_	_	_	_
-88-11	_	me	abstract[138]	new[138]	coref	89-2[138_139]
+88-11	_	me	abstract[139]	new[139]	coref	89-2[139_140]
 88-12	_	.	_	_	_	_
 
 #Text=For me it was actually the Creative Block 3 , was this one , with Shiraz , Mourvèdre , Viognier .
 89-1	_	For	_	_	_	_
-89-2	_	me	abstract[139]	new[139]	coref	94-10[139_140]
+89-2	_	me	abstract[140]	new[140]	coref	94-10[140_141]
 89-3	_	it	_	_	_	_
 89-4	_	was	_	_	_	_
 89-5	_	actually	_	_	_	_
@@ -1370,12 +1370,12 @@
 #Text=We had one of the very expensive ones , and actually none of us liked it the most .
 92-1	_	We	abstract[30]	new[30]	coref	92-14[30_31]
 92-2	_	had	_	_	_	_
-92-3	_	one	abstract[171]	new[171]	coref	92-16[171_172]
-92-4	_	of	abstract[171]	new[171]	_	_
-92-5	_	the	abstract[171]	new[171]	_	_
-92-6	_	very	abstract[171]	new[171]	_	_
-92-7	_	expensive	abstract[171]	new[171]	_	_
-92-8	_	ones	abstract[171]	new[171]	_	_
+92-3	_	one	abstract[172]	new[172]	coref	92-16[172_173]
+92-4	_	of	abstract[172]	new[172]	_	_
+92-5	_	the	abstract[172]	new[172]	_	_
+92-6	_	very	abstract[172]	new[172]	_	_
+92-7	_	expensive	abstract[172]	new[172]	_	_
+92-8	_	ones	abstract[172]	new[172]	_	_
 92-9	_	,	_	_	_	_
 92-10	_	and	_	_	_	_
 92-11	_	actually	_	_	_	_
@@ -1383,7 +1383,7 @@
 92-13	_	of	_	_	_	_
 92-14	_	us	abstract[31]	new[31]	coref	93-1[31_32]
 92-15	_	liked	_	_	_	_
-92-16	_	it	abstract[172]	new[172]	_	_
+92-16	_	it	abstract[173]	new[173]	_	_
 92-17	_	the	_	_	_	_
 92-18	_	most	_	_	_	_
 92-19	_	.	_	_	_	_
@@ -1396,8 +1396,8 @@
 93-5	_	inexpensive	_	_	_	_
 93-6	_	version	_	_	_	_
 93-7	_	of	_	_	_	_
-93-8	_	the	abstract[99]	new[99]	_	_
-93-9	_	Pinotage	abstract[99]	new[99]	_	_
+93-8	_	the	abstract[100]	new[100]	_	_
+93-9	_	Pinotage	abstract[100]	new[100]	_	_
 93-10	_	more	_	_	_	_
 93-11	_	.	_	_	_	_
 
@@ -1411,10 +1411,10 @@
 94-7	_	experience	_	_	_	_
 94-8	_	,	_	_	_	_
 94-9	_	and	_	_	_	_
-94-10	_	I	abstract[140]	new[140]	coref	95-6[140_141]
+94-10	_	I	abstract[141]	new[141]	coref	95-6[141_142]
 94-11	_	'll	_	_	_	_
 94-12	_	,	_	_	_	_
-94-13	_	you	abstract[174]	new[174]	_	_
+94-13	_	you	abstract[175]	new[175]	_	_
 94-14	_	know	_	_	_	_
 94-15	_	,	_	_	_	_
 94-16	_	got	_	_	_	_
@@ -1424,33 +1424,77 @@
 94-20	_	.	_	_	_	_
 
 #Text=He 's driving , not me .
-95-1	_	He	abstract[86]	new[86]	_	_
+95-1	_	He	abstract[87]	new[87]	_	_
 95-2	_	's	_	_	_	_
 95-3	_	driving	_	_	_	_
 95-4	_	,	_	_	_	_
 95-5	_	not	_	_	_	_
-95-6	_	me	abstract[141]	new[141]	_	_
+95-6	_	me	abstract[142]	new[142]	_	_
 95-7	_	.	_	_	_	_
 
-#Text=A nuclear doctor living on the South Ouse has been trying to tell family and friends he 's pregnant .
-96-1	_	A	abstract[175]	new[175]	coref	96-17[175_176]
-96-2	_	nuclear	abstract[175]	new[175]	_	_
-96-3	_	doctor	abstract[175]	new[175]	_	_
-96-4	_	living	abstract[175]	new[175]	_	_
-96-5	_	on	abstract[175]	new[175]	_	_
-96-6	_	the	abstract[175]	new[175]	_	_
-96-7	_	South	abstract[175]	new[175]	_	_
-96-8	_	Ouse	abstract[175]	new[175]	_	_
-96-9	_	has	_	_	_	_
-96-10	_	been	_	_	_	_
-96-11	_	trying	_	_	_	_
-96-12	_	to	_	_	_	_
-96-13	_	tell	_	_	_	_
-96-14	_	family	_	_	_	_
-96-15	_	and	_	_	_	_
-96-16	_	friends	_	_	_	_
-96-17	_	he	abstract[176]	new[176]	_	_
-96-18	_	's	_	_	_	_
-96-19	_	pregnant	_	_	_	_
-96-20	_	.	_	_	_	_
+#Text=After leaving their home near a beautiful lagoon in South Africa , three friends drive to a wine tasting at a winery , where a sommelier explains about South African wines and serves a cheese platter , with the favorite wines being the white Signature Sauvignon Blanc from Spier and the Creative Block 3 , as well as the red Creative Block 5 .
+96-1	_	After	_	_	_	_
+96-2	_	leaving	_	_	_	_
+96-3	_	their	_	_	_	_
+96-4	_	home	_	_	_	_
+96-5	_	near	_	_	_	_
+96-6	_	a	_	_	_	_
+96-7	_	beautiful	_	_	_	_
+96-8	_	lagoon	_	_	_	_
+96-9	_	in	_	_	_	_
+96-10	_	South	abstract[59]	new[59]	_	_
+96-11	_	Africa	abstract[59]	new[59]	_	_
+96-12	_	,	_	_	_	_
+96-13	_	three	abstract[178]	new[178]	coref	96-51[178_179]
+96-14	_	friends	abstract[178]	new[178]	_	_
+96-15	_	drive	_	_	_	_
+96-16	_	to	_	_	_	_
+96-17	_	a	_	_	_	_
+96-18	_	wine	_	_	_	_
+96-19	_	tasting	_	_	_	_
+96-20	_	at	_	_	_	_
+96-21	_	a	_	_	_	_
+96-22	_	winery	_	_	_	_
+96-23	_	,	_	_	_	_
+96-24	_	where	_	_	_	_
+96-25	_	a	_	_	_	_
+96-26	_	sommelier	_	_	_	_
+96-27	_	explains	_	_	_	_
+96-28	_	about	_	_	_	_
+96-29	_	South	_	_	_	_
+96-30	_	African	_	_	_	_
+96-31	_	wines	_	_	_	_
+96-32	_	and	_	_	_	_
+96-33	_	serves	_	_	_	_
+96-34	_	a	_	_	_	_
+96-35	_	cheese	_	_	_	_
+96-36	_	platter	_	_	_	_
+96-37	_	,	_	_	_	_
+96-38	_	with	_	_	_	_
+96-39	_	the	_	_	_	_
+96-40	_	favorite	_	_	_	_
+96-41	_	wines	_	_	_	_
+96-42	_	being	_	_	_	_
+96-43	_	the	_	_	_	_
+96-44	_	white	_	_	_	_
+96-45	_	Signature	_	_	_	_
+96-46	_	Sauvignon	_	_	_	_
+96-47	_	Blanc	_	_	_	_
+96-48	_	from	_	_	_	_
+96-49	_	Spier	abstract[177]	new[177]	_	_
+96-50	_	and	_	_	_	_
+96-51	_	the	abstract[179]	new[179]	_	_
+96-52	_	Creative	abstract[179]	new[179]	_	_
+96-53	_	Block	abstract[179]	new[179]	_	_
+96-54	_	3	abstract[179]	new[179]	_	_
+96-55	_	,	_	_	_	_
+96-56	_	as	_	_	_	_
+96-57	_	well	_	_	_	_
+96-58	_	as	_	_	_	_
+96-59	_	the	_	_	_	_
+96-60	_	red	_	_	_	_
+96-61	_	Creative	_	_	_	_
+96-62	_	Block	_	_	_	_
+96-63	_	5	_	_	_	_
+96-64	_	.	_	_	_	_
 

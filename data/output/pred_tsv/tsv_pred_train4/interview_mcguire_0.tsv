@@ -978,20 +978,32 @@
 49-26	_	wrong	_	_	_	_
 49-27	_	.	_	_	_	_
 
-#Text=... what will happen because of the Games being screened in the United States ?
-50-1	_	...	_	_	_	_
-50-2	_	what	_	_	_	_
-50-3	_	will	_	_	_	_
-50-4	_	happen	_	_	_	_
-50-5	_	because	_	_	_	_
-50-6	_	of	_	_	_	_
-50-7	_	the	_	_	_	_
-50-8	_	Games	_	_	_	_
-50-9	_	being	_	_	_	_
-50-10	_	screened	_	_	_	_
-50-11	_	in	_	_	_	_
-50-12	_	the	_	_	_	_
-50-13	_	United	_	_	_	_
-50-14	_	States	_	_	_	_
-50-15	_	?	_	_	_	_
+#Text=The 2014 Winter Paralympic games in Sochi , Russia , have been televised live for the first time . But will NBC show the games live ?
+50-1	_	The	abstract[107]	new[107]	coref	50-25[107_108]
+50-2	_	2014	abstract[107]	new[107]	_	_
+50-3	_	Winter	abstract[107]	new[107]	_	_
+50-4	_	Paralympic	abstract[107]	new[107]	_	_
+50-5	_	games	abstract[107]	new[107]	_	_
+50-6	_	in	abstract[107]	new[107]	_	_
+50-7	_	Sochi	abstract[107]	new[107]	_	_
+50-8	_	,	abstract[107]	new[107]	_	_
+50-9	_	Russia	abstract[107]	new[107]	_	_
+50-10	_	,	_	_	_	_
+50-11	_	have	_	_	_	_
+50-12	_	been	_	_	_	_
+50-13	_	televised	_	_	_	_
+50-14	_	live	_	_	_	_
+50-15	_	for	_	_	_	_
+50-16	_	the	_	_	_	_
+50-17	_	first	_	_	_	_
+50-18	_	time	_	_	_	_
+50-19	_	.	_	_	_	_
+50-20	_	But	_	_	_	_
+50-21	_	will	_	_	_	_
+50-22	_	NBC	_	_	_	_
+50-23	_	show	_	_	_	_
+50-24	_	the	abstract[108]	new[108]	_	_
+50-25	_	games	abstract[108]	new[108]	_	_
+50-26	_	live	_	_	_	_
+50-27	_	?	_	_	_	_
 

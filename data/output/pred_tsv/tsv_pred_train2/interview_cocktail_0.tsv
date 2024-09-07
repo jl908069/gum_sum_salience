@@ -59,14 +59,14 @@
 4-8	_	neologism	_	_	_	_
 4-9	_	coined	_	_	_	_
 4-10	_	in	_	_	_	_
-4-11	_	advice	abstract[21]|abstract[74]	new[21]|new[74]	coref|coref	5-1[21_22]|20-4[74_75]
-4-12	_	columnist	abstract[21]|abstract[74]	new[21]|new[74]	_	_
-4-13	_	Dan	abstract[21]|abstract[74]	new[21]|new[74]	_	_
-4-14	_	Savage	abstract[21]|abstract[74]	new[21]|new[74]	_	_
-4-15	_	's	abstract[21]|abstract[74]	new[21]|new[74]	_	_
-4-16	_	column	abstract[74]	new[74]	_	_
-4-17	_	Savage	abstract[74]	new[74]	_	_
-4-18	_	Love	abstract[74]	new[74]	_	_
+4-11	_	advice	abstract[21]|abstract[72]	new[21]|new[72]	coref|coref	5-1[21_22]|20-4[72_73]
+4-12	_	columnist	abstract[21]|abstract[72]	new[21]|new[72]	_	_
+4-13	_	Dan	abstract[21]|abstract[72]	new[21]|new[72]	_	_
+4-14	_	Savage	abstract[21]|abstract[72]	new[21]|new[72]	_	_
+4-15	_	's	abstract[21]|abstract[72]	new[21]|new[72]	_	_
+4-16	_	column	abstract[72]	new[72]	_	_
+4-17	_	Savage	abstract[72]	new[72]	_	_
+4-18	_	Love	abstract[72]	new[72]	_	_
 4-19	_	in	_	_	_	_
 4-20	_	response	_	_	_	_
 4-21	_	to	_	_	_	_
@@ -169,15 +169,15 @@
 10-14	_	is	_	_	_	_
 10-15	_	co-owned	_	_	_	_
 10-16	_	by	_	_	_	_
-10-17	_	Jonathan	abstract[46]|abstract[100]	new[46]|new[100]	coref|coref	11-1[46_47]|28-8[100_101]
-10-18	_	M.	abstract[46]|abstract[100]	new[46]|new[100]	_	_
-10-19	_	Stan	abstract[46]|abstract[100]	new[46]|new[100]	_	_
-10-20	_	and	abstract[100]	new[100]	_	_
-10-21	_	John	abstract[100]	new[100]	_	_
-10-22	_	-	abstract[100]	new[100]	_	_
-10-23	_	Christian	abstract[100]	new[100]	_	_
-10-24	_	G.	abstract[100]	new[100]	_	_
-10-25	_	Rauschenberg	abstract[100]	new[100]	_	_
+10-17	_	Jonathan	abstract[46]|abstract[98]	new[46]|new[98]	coref|coref	11-1[46_47]|28-8[98_99]
+10-18	_	M.	abstract[46]|abstract[98]	new[46]|new[98]	_	_
+10-19	_	Stan	abstract[46]|abstract[98]	new[46]|new[98]	_	_
+10-20	_	and	abstract[98]	new[98]	_	_
+10-21	_	John	abstract[98]	new[98]	_	_
+10-22	_	-	abstract[98]	new[98]	_	_
+10-23	_	Christian	abstract[98]	new[98]	_	_
+10-24	_	G.	abstract[98]	new[98]	_	_
+10-25	_	Rauschenberg	abstract[98]	new[98]	_	_
 10-26	_	.	_	_	_	_
 
 #Text=Stan commented on the creation of the Santorum cocktail , " When he was winning in the polls , I thought , ' OK , I 'll do a Santorum ' . "
@@ -229,9 +229,9 @@
 12-11	_	Stan	abstract[50]	new[50]	coref	12-29[50_51]
 12-12	_	remarked	_	_	_	_
 12-13	_	to	_	_	_	_
-12-14	_	The	abstract[149]	new[149]	coref	49-14[149_150]
-12-15	_	Brooklyn	abstract[58]|abstract[149]	new[58]|new[149]	coref	49-15[58_59]
-12-16	_	Paper	abstract[149]	new[149]	_	_
+12-14	_	The	abstract[147]	new[147]	coref	49-14[147_148]
+12-15	_	Brooklyn	abstract[58]|abstract[147]	new[58]|new[147]	coref	49-15[58_59]
+12-16	_	Paper	abstract[147]	new[147]	_	_
 12-17	_	,	_	_	_	_
 12-18	_	"	_	_	_	_
 12-19	_	We	abstract[39]	new[39]	coref	16-9[39_40]
@@ -271,9 +271,9 @@
 13-13	_	citrus	_	_	_	_
 13-14	_	variety	_	_	_	_
 13-15	_	,	_	_	_	_
-13-16	_	Baileys	abstract[147]	new[147]	coref	45-1[147_148]
-13-17	_	Irish	abstract[147]	new[147]	_	_
-13-18	_	Cream	abstract[147]	new[147]	_	_
+13-16	_	Baileys	abstract[145]	new[145]	coref	45-1[145_146]
+13-17	_	Irish	abstract[145]	new[145]	_	_
+13-18	_	Cream	abstract[145]	new[145]	_	_
 13-19	_	,	_	_	_	_
 13-20	_	and	_	_	_	_
 13-21	_	Angostura	_	_	_	_
@@ -385,7 +385,7 @@
 18-7	_	offensive	_	_	_	_
 18-8	_	beyond	_	_	_	_
 18-9	_	,	_	_	_	_
-18-10	_	you	abstract[93]	new[93]	coref	25-25[93_94]
+18-10	_	you	abstract[91]	new[91]	coref	25-25[91_92]
 18-11	_	know	_	_	_	_
 18-12	_	,	_	_	_	_
 18-13	_	anything	_	_	_	_
@@ -401,16 +401,16 @@
 18-23	_	tolerate	_	_	_	_
 18-24	_	,	_	_	_	_
 18-25	_	and	_	_	_	_
-18-26	_	the	abstract[95]	new[95]	coref	25-41[95_96]
-18-27	_	mainstream	abstract[95]	new[95]	_	_
-18-28	_	media	abstract[95]	new[95]	_	_
+18-26	_	the	abstract[93]	new[93]	coref	25-41[93_94]
+18-27	_	mainstream	abstract[93]	new[93]	_	_
+18-28	_	media	abstract[93]	new[93]	_	_
 18-29	_	laughs	_	_	_	_
 18-30	_	about	_	_	_	_
 18-31	_	it	abstract[33]	new[33]	coref	21-1[33_34]
 18-32	_	.	_	_	_	_
 18-33	_	—	_	_	_	_
-18-34	_	Rick	abstract[70]	new[70]	coref	19-10[70_71]
-18-35	_	Santorum	abstract[70]	new[70]	_	_
+18-34	_	Rick	abstract[68]	new[68]	coref	19-10[68_69]
+18-35	_	Santorum	abstract[68]	new[68]	_	_
 
 #Text=In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same - sex marriage in the United States to supporting bestiality .
 19-1	_	In	_	_	_	_
@@ -422,8 +422,8 @@
 19-7	_	Associated	_	_	_	_
 19-8	_	Press	_	_	_	_
 19-9	_	,	_	_	_	_
-19-10	_	Rick	abstract[71]	new[71]	coref	20-14[71_72]
-19-11	_	Santorum	abstract[71]	new[71]	_	_
+19-10	_	Rick	abstract[69]	new[69]	coref	20-14[69_70]
+19-11	_	Santorum	abstract[69]	new[69]	_	_
 19-12	_	compared	_	_	_	_
 19-13	_	legalizing	_	_	_	_
 19-14	_	same	_	_	_	_
@@ -442,19 +442,19 @@
 #Text=Readers of the Savage Love advice column selected a new definition for the Senator ’s last name , and Savage created a website SpreadingSantorum.com to promulgate the spread of the phenomenon .
 20-1	_	Readers	_	_	_	_
 20-2	_	of	_	_	_	_
-20-3	_	the	abstract[75]	new[75]	coref	32-20[75_76]
-20-4	_	Savage	abstract[23]|abstract[75]	new[23]|new[75]	coref	20-21[23_24]
-20-5	_	Love	abstract[75]	new[75]	_	_
-20-6	_	advice	abstract[75]	new[75]	_	_
-20-7	_	column	abstract[75]	new[75]	_	_
+20-3	_	the	abstract[73]	new[73]	coref	32-20[73_74]
+20-4	_	Savage	abstract[23]|abstract[73]	new[23]|new[73]	coref	20-21[23_24]
+20-5	_	Love	abstract[73]	new[73]	_	_
+20-6	_	advice	abstract[73]	new[73]	_	_
+20-7	_	column	abstract[73]	new[73]	_	_
 20-8	_	selected	_	_	_	_
 20-9	_	a	_	_	_	_
 20-10	_	new	_	_	_	_
 20-11	_	definition	_	_	_	_
 20-12	_	for	_	_	_	_
-20-13	_	the	abstract[72]	new[72]	coref	22-1[72_73]
-20-14	_	Senator	abstract[72]	new[72]	_	_
-20-15	_	’s	abstract[72]	new[72]	_	_
+20-13	_	the	abstract[70]	new[70]	coref	22-1[70_71]
+20-14	_	Senator	abstract[70]	new[70]	_	_
+20-15	_	’s	abstract[70]	new[70]	_	_
 20-16	_	last	_	_	_	_
 20-17	_	name	_	_	_	_
 20-18	_	,	_	_	_	_
@@ -469,8 +469,8 @@
 20-27	_	the	_	_	_	_
 20-28	_	spread	_	_	_	_
 20-29	_	of	_	_	_	_
-20-30	_	the	abstract[78]	new[78]	coref	22-13[78_79]
-20-31	_	phenomenon	abstract[78]	new[78]	_	_
+20-30	_	the	abstract[76]	new[76]	coref	22-13[76_77]
+20-31	_	phenomenon	abstract[76]	new[76]	_	_
 20-32	_	.	_	_	_	_
 
 #Text=The term became a prominent result in searches online , and gained dominance on Web search engines including Google , Bing , and Yahoo! .
@@ -492,7 +492,7 @@
 21-16	_	search	_	_	_	_
 21-17	_	engines	_	_	_	_
 21-18	_	including	_	_	_	_
-21-19	_	Google	abstract[86]	new[86]	coref	22-29[86_87]
+21-19	_	Google	abstract[84]	new[84]	coref	22-29[84_85]
 21-20	_	,	_	_	_	_
 21-21	_	Bing	_	_	_	_
 21-22	_	,	_	_	_	_
@@ -501,9 +501,9 @@
 21-25	_	.	_	_	_	_
 
 #Text=Rick Santorum himself has acknowledged and discussed the existence and prevalence of the santorum neologism phenomenon ; he was quoted by The Canadian Press on his assessment of Google 's response ;
-22-1	_	Rick	abstract[73]	new[73]	_	_
-22-2	_	Santorum	abstract[73]	new[73]	_	_
-22-3	_	himself	abstract[73]	new[73]	_	_
+22-1	_	Rick	abstract[71]	new[71]	_	_
+22-2	_	Santorum	abstract[71]	new[71]	_	_
+22-3	_	himself	abstract[71]	new[71]	_	_
 22-4	_	has	_	_	_	_
 22-5	_	acknowledged	_	_	_	_
 22-6	_	and	_	_	_	_
@@ -513,12 +513,12 @@
 22-10	_	and	_	_	_	_
 22-11	_	prevalence	_	_	_	_
 22-12	_	of	_	_	_	_
-22-13	_	the	abstract[79]	new[79]	coref	25-9[79_80]
-22-14	_	santorum	abstract[79]	new[79]	_	_
-22-15	_	neologism	abstract[79]	new[79]	_	_
-22-16	_	phenomenon	abstract[79]	new[79]	_	_
+22-13	_	the	abstract[77]	new[77]	coref	25-9[77_78]
+22-14	_	santorum	abstract[77]	new[77]	_	_
+22-15	_	neologism	abstract[77]	new[77]	_	_
+22-16	_	phenomenon	abstract[77]	new[77]	_	_
 22-17	_	;	_	_	_	_
-22-18	_	he	abstract[81]	new[81]	coref	22-26[81_82]
+22-18	_	he	abstract[79]	new[79]	coref	22-26[79_80]
 22-19	_	was	_	_	_	_
 22-20	_	quoted	_	_	_	_
 22-21	_	by	_	_	_	_
@@ -526,11 +526,11 @@
 22-23	_	Canadian	_	_	_	_
 22-24	_	Press	_	_	_	_
 22-25	_	on	_	_	_	_
-22-26	_	his	abstract[82]	new[82]	coref	24-1[82_83]
+22-26	_	his	abstract[80]	new[80]	coref	24-1[80_81]
 22-27	_	assessment	_	_	_	_
 22-28	_	of	_	_	_	_
-22-29	_	Google	abstract[87]	new[87]	_	_
-22-30	_	's	abstract[87]	new[87]	_	_
+22-29	_	Google	abstract[85]	new[85]	_	_
+22-30	_	's	abstract[85]	new[85]	_	_
 22-31	_	response	_	_	_	_
 22-32	_	;	_	_	_	_
 
@@ -538,8 +538,8 @@
 23-1	_	"	_	_	_	_
 23-2	_	To	_	_	_	_
 23-3	_	have	_	_	_	_
-23-4	_	a	abstract[88]	new[88]	coref	23-15[88_89]
-23-5	_	business	abstract[88]	new[88]	_	_
+23-4	_	a	abstract[86]	new[86]	coref	23-15[86_87]
+23-5	_	business	abstract[86]	new[86]	_	_
 23-6	_	allow	_	_	_	_
 23-7	_	that	_	_	_	_
 23-8	_	type	_	_	_	_
@@ -549,25 +549,25 @@
 23-12	_	be	_	_	_	_
 23-13	_	purveyed	_	_	_	_
 23-14	_	through	_	_	_	_
-23-15	_	their	abstract[89]	new[89]	coref	23-19[89_90]
+23-15	_	their	abstract[87]	new[87]	coref	23-19[87_88]
 23-16	_	website	_	_	_	_
 23-17	_	or	_	_	_	_
 23-18	_	through	_	_	_	_
-23-19	_	their	abstract[90]	new[90]	coref	23-24[90_91]
+23-19	_	their	abstract[88]	new[88]	coref	23-24[88_89]
 23-20	_	system	_	_	_	_
 23-21	_	is	_	_	_	_
 23-22	_	something	_	_	_	_
 23-23	_	that	_	_	_	_
-23-24	_	they	abstract[91]	new[91]	coref	23-26[91_92]
+23-24	_	they	abstract[89]	new[89]	coref	23-26[89_90]
 23-25	_	say	_	_	_	_
-23-26	_	they	abstract[92]	new[92]	_	_
+23-26	_	they	abstract[90]	new[90]	_	_
 23-27	_	ca	_	_	_	_
 23-28	_	n't	_	_	_	_
 23-29	_	handle	_	_	_	_
 23-30	_	.	_	_	_	_
 
 #Text=I suspect that 's not true . "
-24-1	_	I	abstract[83]	new[83]	coref	25-1[83_84]
+24-1	_	I	abstract[81]	new[81]	coref	25-1[81_82]
 24-2	_	suspect	_	_	_	_
 24-3	_	that	_	_	_	_
 24-4	_	's	_	_	_	_
@@ -577,7 +577,7 @@
 24-8	_	"	_	_	_	_
 
 #Text=Santorum criticized the response of the press to the phenomenon in a 2011 radio interview , saying , " It 's offensive beyond , you know , anything that any public figure or anybody in America should tolerate , and the mainstream media laughs about it . "
-25-1	_	Santorum	abstract[84]	new[84]	coref	27-11[84_85]
+25-1	_	Santorum	abstract[82]	new[82]	coref	27-11[82_83]
 25-2	_	criticized	_	_	_	_
 25-3	_	the	_	_	_	_
 25-4	_	response	_	_	_	_
@@ -585,8 +585,8 @@
 25-6	_	the	_	_	_	_
 25-7	_	press	_	_	_	_
 25-8	_	to	_	_	_	_
-25-9	_	the	abstract[80]	new[80]	_	_
-25-10	_	phenomenon	abstract[80]	new[80]	_	_
+25-9	_	the	abstract[78]	new[78]	_	_
+25-10	_	phenomenon	abstract[78]	new[78]	_	_
 25-11	_	in	_	_	_	_
 25-12	_	a	_	_	_	_
 25-13	_	2011	_	_	_	_
@@ -596,12 +596,12 @@
 25-17	_	saying	_	_	_	_
 25-18	_	,	_	_	_	_
 25-19	_	"	_	_	_	_
-25-20	_	It	abstract[97]	new[97]	coref	25-46[97_98]
+25-20	_	It	abstract[95]	new[95]	coref	25-46[95_96]
 25-21	_	's	_	_	_	_
 25-22	_	offensive	_	_	_	_
 25-23	_	beyond	_	_	_	_
 25-24	_	,	_	_	_	_
-25-25	_	you	abstract[94]	new[94]	_	_
+25-25	_	you	abstract[92]	new[92]	_	_
 25-26	_	know	_	_	_	_
 25-27	_	,	_	_	_	_
 25-28	_	anything	_	_	_	_
@@ -612,17 +612,17 @@
 25-33	_	or	_	_	_	_
 25-34	_	anybody	_	_	_	_
 25-35	_	in	_	_	_	_
-25-36	_	America	abstract[66]	new[66]	coref	59-7[66_67]
+25-36	_	America	abstract[66]	new[66]	coref	59-20[66_67]
 25-37	_	should	_	_	_	_
 25-38	_	tolerate	_	_	_	_
 25-39	_	,	_	_	_	_
 25-40	_	and	_	_	_	_
-25-41	_	the	abstract[96]	new[96]	_	_
-25-42	_	mainstream	abstract[96]	new[96]	_	_
-25-43	_	media	abstract[96]	new[96]	_	_
+25-41	_	the	abstract[94]	new[94]	_	_
+25-42	_	mainstream	abstract[94]	new[94]	_	_
+25-43	_	media	abstract[94]	new[94]	_	_
 25-44	_	laughs	_	_	_	_
 25-45	_	about	_	_	_	_
-25-46	_	it	abstract[98]	new[98]	coref	30-9[98_99]
+25-46	_	it	abstract[96]	new[96]	coref	30-9[96_97]
 25-47	_	.	_	_	_	_
 25-48	_	"	_	_	_	_
 
@@ -640,7 +640,7 @@
 27-8	_	,	_	_	_	_
 27-9	_	displays	_	_	_	_
 27-10	_	the	abstract[20]	new[20]	_	_
-27-11	_	Santorum	abstract[20]|abstract[85]	new[20]|new[85]	_	_
+27-11	_	Santorum	abstract[20]|abstract[83]	new[20]|new[83]	_	_
 27-12	_	cocktail	abstract[20]	new[20]	_	_
 27-13	_	drink	abstract[20]	new[20]	_	_
 27-14	_	as	abstract[20]	new[20]	_	_
@@ -664,8 +664,8 @@
 28-5	_	,	_	_	_	_
 28-6	_	provided	_	_	_	_
 28-7	_	by	_	_	_	_
-28-8	_	the	abstract[101]	new[101]	coref	30-3[101_102]
-28-9	_	owners	abstract[101]	new[101]	_	_
+28-8	_	the	abstract[99]	new[99]	coref	30-3[99_100]
+28-9	_	owners	abstract[99]	new[99]	_	_
 28-10	_	.	_	_	_	_
 
 #Text=Interview
@@ -674,15 +674,15 @@
 #Text=What inspired you to create a cocktail after the santorum neologism ?
 30-1	_	What	_	_	_	_
 30-2	_	inspired	_	_	_	_
-30-3	_	you	abstract[102]	new[102]	coref	31-15[102_103]
+30-3	_	you	abstract[100]	new[100]	coref	31-15[100_101]
 30-4	_	to	_	_	_	_
 30-5	_	create	_	_	_	_
 30-6	_	a	_	_	_	_
 30-7	_	cocktail	_	_	_	_
 30-8	_	after	_	_	_	_
-30-9	_	the	abstract[99]	new[99]	_	_
-30-10	_	santorum	abstract[99]	new[99]	_	_
-30-11	_	neologism	abstract[99]	new[99]	_	_
+30-9	_	the	abstract[97]	new[97]	_	_
+30-10	_	santorum	abstract[97]	new[97]	_	_
+30-11	_	neologism	abstract[97]	new[97]	_	_
 30-12	_	?	_	_	_	_
 
 #Text=Santorum the person has been in the news throughout the primary season , and we thought it would be interesting to try to create a delicious drink that mimicked the appearance of the Dan Savage meaning of " santorum . "
@@ -700,7 +700,7 @@
 31-12	_	season	_	_	_	_
 31-13	_	,	_	_	_	_
 31-14	_	and	_	_	_	_
-31-15	_	we	abstract[103]	new[103]	coref	32-3[103_104]
+31-15	_	we	abstract[101]	new[101]	coref	32-3[101_102]
 31-16	_	thought	_	_	_	_
 31-17	_	it	_	_	_	_
 31-18	_	would	_	_	_	_
@@ -710,37 +710,37 @@
 31-22	_	try	_	_	_	_
 31-23	_	to	_	_	_	_
 31-24	_	create	_	_	_	_
-31-25	_	a	abstract[134]	new[134]	coref	42-3[134_135]
-31-26	_	delicious	abstract[134]	new[134]	_	_
-31-27	_	drink	abstract[134]	new[134]	_	_
-31-28	_	that	abstract[134]	new[134]	_	_
-31-29	_	mimicked	abstract[134]	new[134]	_	_
-31-30	_	the	abstract[134]	new[134]	_	_
-31-31	_	appearance	abstract[134]	new[134]	_	_
-31-32	_	of	abstract[134]	new[134]	_	_
-31-33	_	the	abstract[134]	new[134]	_	_
-31-34	_	Dan	abstract[25]|abstract[134]	new[25]|new[134]	coref	32-21[25_26]
-31-35	_	Savage	abstract[25]|abstract[134]	new[25]|new[134]	_	_
-31-36	_	meaning	abstract[134]	new[134]	_	_
-31-37	_	of	abstract[134]	new[134]	_	_
-31-38	_	"	abstract[134]	new[134]	_	_
-31-39	_	santorum	abstract[125]|abstract[134]	new[125]|new[134]	coref	32-10[125_126]
-31-40	_	.	abstract[134]	new[134]	_	_
-31-41	_	"	abstract[134]	new[134]	_	_
+31-25	_	a	abstract[132]	new[132]	coref	42-3[132_133]
+31-26	_	delicious	abstract[132]	new[132]	_	_
+31-27	_	drink	abstract[132]	new[132]	_	_
+31-28	_	that	abstract[132]	new[132]	_	_
+31-29	_	mimicked	abstract[132]	new[132]	_	_
+31-30	_	the	abstract[132]	new[132]	_	_
+31-31	_	appearance	abstract[132]	new[132]	_	_
+31-32	_	of	abstract[132]	new[132]	_	_
+31-33	_	the	abstract[132]	new[132]	_	_
+31-34	_	Dan	abstract[25]|abstract[132]	new[25]|new[132]	coref	32-21[25_26]
+31-35	_	Savage	abstract[25]|abstract[132]	new[25]|new[132]	_	_
+31-36	_	meaning	abstract[132]	new[132]	_	_
+31-37	_	of	abstract[132]	new[132]	_	_
+31-38	_	"	abstract[132]	new[132]	_	_
+31-39	_	santorum	abstract[123]|abstract[132]	new[123]|new[132]	coref	32-10[123_124]
+31-40	_	.	abstract[132]	new[132]	_	_
+31-41	_	"	abstract[132]	new[132]	_	_
 
 #Text=How did you first hear about the definition of the santorum neologism that grew out of the contest from the Savage Love advice column ?
 32-1	_	How	_	_	_	_
 32-2	_	did	_	_	_	_
-32-3	_	you	abstract[104]	new[104]	coref	33-1[104_105]
+32-3	_	you	abstract[102]	new[102]	coref	33-1[102_103]
 32-4	_	first	_	_	_	_
 32-5	_	hear	_	_	_	_
 32-6	_	about	_	_	_	_
 32-7	_	the	_	_	_	_
 32-8	_	definition	_	_	_	_
 32-9	_	of	_	_	_	_
-32-10	_	the	abstract[126]	new[126]	coref	34-1[126_127]
-32-11	_	santorum	abstract[126]	new[126]	_	_
-32-12	_	neologism	abstract[126]	new[126]	_	_
+32-10	_	the	abstract[124]	new[124]	coref	34-1[124_125]
+32-11	_	santorum	abstract[124]	new[124]	_	_
+32-12	_	neologism	abstract[124]	new[124]	_	_
 32-13	_	that	_	_	_	_
 32-14	_	grew	_	_	_	_
 32-15	_	out	_	_	_	_
@@ -748,15 +748,15 @@
 32-17	_	the	_	_	_	_
 32-18	_	contest	_	_	_	_
 32-19	_	from	_	_	_	_
-32-20	_	the	abstract[76]	new[76]	coref	39-24[76_77]
-32-21	_	Savage	abstract[26]|abstract[76]	new[26]|new[76]	coref	39-12[26_27]
-32-22	_	Love	abstract[76]	new[76]	_	_
-32-23	_	advice	abstract[76]	new[76]	_	_
-32-24	_	column	abstract[76]	new[76]	_	_
+32-20	_	the	abstract[74]	new[74]	coref	39-24[74_75]
+32-21	_	Savage	abstract[26]|abstract[74]	new[26]|new[74]	coref	39-12[26_27]
+32-22	_	Love	abstract[74]	new[74]	_	_
+32-23	_	advice	abstract[74]	new[74]	_	_
+32-24	_	column	abstract[74]	new[74]	_	_
 32-25	_	?	_	_	_	_
 
 #Text=We do n't really remember .
-33-1	_	We	abstract[105]	new[105]	coref	36-3[105_106]
+33-1	_	We	abstract[103]	new[103]	coref	36-3[103_104]
 33-2	_	do	_	_	_	_
 33-3	_	n't	_	_	_	_
 33-4	_	really	_	_	_	_
@@ -764,7 +764,7 @@
 33-6	_	.	_	_	_	_
 
 #Text=It 's been around forever .
-34-1	_	It	abstract[127]	new[127]	coref	35-4[127_128]
+34-1	_	It	abstract[125]	new[125]	coref	35-4[125_126]
 34-2	_	's	_	_	_	_
 34-3	_	been	_	_	_	_
 34-4	_	around	_	_	_	_
@@ -775,14 +775,14 @@
 35-1	_	Probably	_	_	_	_
 35-2	_	read	_	_	_	_
 35-3	_	about	_	_	_	_
-35-4	_	it	abstract[128]	new[128]	coref	39-19[128_129]
+35-4	_	it	abstract[126]	new[126]	coref	39-19[126_127]
 35-5	_	somewhere	_	_	_	_
 35-6	_	.	_	_	_	_
 
 #Text=What are your thoughts about Rick Santorum ’s views on gay rights ?
 36-1	_	What	_	_	_	_
 36-2	_	are	_	_	_	_
-36-3	_	your	abstract[106]	new[106]	coref	37-5[106_107]
+36-3	_	your	abstract[104]	new[104]	coref	37-5[104_105]
 36-4	_	thoughts	_	_	_	_
 36-5	_	about	_	_	_	_
 36-6	_	Rick	_	_	_	_
@@ -799,7 +799,7 @@
 37-2	_	's	_	_	_	_
 37-3	_	not	_	_	_	_
 37-4	_	for	_	_	_	_
-37-5	_	us	abstract[107]	new[107]	coref	38-1[107_108]
+37-5	_	us	abstract[105]	new[105]	coref	38-1[105_106]
 37-6	_	to	_	_	_	_
 37-7	_	take	_	_	_	_
 37-8	_	a	_	_	_	_
@@ -811,18 +811,18 @@
 37-14	_	.	_	_	_	_
 
 #Text=We 'll leave that to the professionals .
-38-1	_	We	abstract[108]	new[108]	coref	39-2[108_109]
+38-1	_	We	abstract[106]	new[106]	coref	39-2[106_107]
 38-2	_	'll	_	_	_	_
 38-3	_	leave	_	_	_	_
 38-4	_	that	_	_	_	_
 38-5	_	to	_	_	_	_
-38-6	_	the	abstract[132]	new[132]	coref	41-13[132_133]
-38-7	_	professionals	abstract[132]	new[132]	_	_
+38-6	_	the	abstract[130]	new[130]	coref	41-13[130_131]
+38-7	_	professionals	abstract[130]	new[130]	_	_
 38-8	_	.	_	_	_	_
 
 #Text=Do you think it was an appropriate form of satire for Dan Savage to popularize the definition of the santorum neologism created in his advice column ?
 39-1	_	Do	_	_	_	_
-39-2	_	you	abstract[109]	new[109]	coref	40-1[109_110]
+39-2	_	you	abstract[107]	new[107]	coref	40-1[107_108]
 39-3	_	think	_	_	_	_
 39-4	_	it	_	_	_	_
 39-5	_	was	_	_	_	_
@@ -839,27 +839,27 @@
 39-16	_	the	_	_	_	_
 39-17	_	definition	_	_	_	_
 39-18	_	of	_	_	_	_
-39-19	_	the	abstract[129]	new[129]	_	_
-39-20	_	santorum	abstract[129]	new[129]	_	_
-39-21	_	neologism	abstract[129]	new[129]	_	_
-39-22	_	created	abstract[129]	new[129]	_	_
-39-23	_	in	abstract[129]	new[129]	_	_
-39-24	_	his	abstract[28]|abstract[77]|abstract[129]	new[28]|new[77]|new[129]	_	_
-39-25	_	advice	abstract[77]|abstract[129]	new[77]|new[129]	_	_
-39-26	_	column	abstract[77]|abstract[129]	new[77]|new[129]	_	_
+39-19	_	the	abstract[127]	new[127]	_	_
+39-20	_	santorum	abstract[127]	new[127]	_	_
+39-21	_	neologism	abstract[127]	new[127]	_	_
+39-22	_	created	abstract[127]	new[127]	_	_
+39-23	_	in	abstract[127]	new[127]	_	_
+39-24	_	his	abstract[28]|abstract[75]|abstract[127]	new[28]|new[75]|new[127]	_	_
+39-25	_	advice	abstract[75]|abstract[127]	new[75]|new[127]	_	_
+39-26	_	column	abstract[75]|abstract[127]	new[75]|new[127]	_	_
 39-27	_	?	_	_	_	_
 
 #Text=We thought it was funny .
-40-1	_	We	abstract[110]	new[110]	coref	41-10[110_111]
+40-1	_	We	abstract[108]	new[108]	coref	41-10[108_109]
 40-2	_	thought	_	_	_	_
-40-3	_	it	abstract[130]	new[130]	coref	41-2[130_131]
+40-3	_	it	abstract[128]	new[128]	coref	41-2[128_129]
 40-4	_	was	_	_	_	_
 40-5	_	funny	_	_	_	_
 40-6	_	.	_	_	_	_
 
 #Text=Whether it is appropriate or not is another thing we leave to the pros to decide .
 41-1	_	Whether	_	_	_	_
-41-2	_	it	abstract[131]	new[131]	_	_
+41-2	_	it	abstract[129]	new[129]	_	_
 41-3	_	is	_	_	_	_
 41-4	_	appropriate	_	_	_	_
 41-5	_	or	_	_	_	_
@@ -867,11 +867,11 @@
 41-7	_	is	_	_	_	_
 41-8	_	another	_	_	_	_
 41-9	_	thing	_	_	_	_
-41-10	_	we	abstract[111]	new[111]	coref	49-1[111_112]
+41-10	_	we	abstract[109]	new[109]	coref	49-1[109_110]
 41-11	_	leave	_	_	_	_
 41-12	_	to	_	_	_	_
-41-13	_	the	abstract[133]	new[133]	_	_
-41-14	_	pros	abstract[133]	new[133]	_	_
+41-13	_	the	abstract[131]	new[131]	_	_
+41-14	_	pros	abstract[131]	new[131]	_	_
 41-15	_	to	_	_	_	_
 41-16	_	decide	_	_	_	_
 41-17	_	.	_	_	_	_
@@ -879,9 +879,9 @@
 #Text=When was the Santorum cocktail first created ?
 42-1	_	When	_	_	_	_
 42-2	_	was	_	_	_	_
-42-3	_	the	abstract[135]	new[135]	coref	44-5[135_136]
-42-4	_	Santorum	abstract[135]|abstract[141]	new[135]|new[141]	coref	44-6[141_142]
-42-5	_	cocktail	abstract[135]	new[135]	_	_
+42-3	_	the	abstract[133]	new[133]	coref	44-5[133_134]
+42-4	_	Santorum	abstract[133]|abstract[139]	new[133]|new[139]	coref	44-6[139_140]
+42-5	_	cocktail	abstract[133]	new[133]	_	_
 42-6	_	first	_	_	_	_
 42-7	_	created	_	_	_	_
 42-8	_	?	_	_	_	_
@@ -898,14 +898,14 @@
 44-2	_	ingredients	_	_	_	_
 44-3	_	go	_	_	_	_
 44-4	_	in	_	_	_	_
-44-5	_	the	abstract[136]	new[136]	coref	46-3[136_137]
-44-6	_	Santorum	abstract[136]|abstract[142]	new[136]|new[142]	coref	46-4[142_143]
-44-7	_	cocktail	abstract[136]	new[136]	_	_
+44-5	_	the	abstract[134]	new[134]	coref	46-3[134_135]
+44-6	_	Santorum	abstract[134]|abstract[140]	new[134]|new[140]	coref	46-4[140_141]
+44-7	_	cocktail	abstract[134]	new[134]	_	_
 44-8	_	?	_	_	_	_
 
 #Text=Bailey 's , orange vodka , bitters , and chocolate flakes .
-45-1	_	Bailey	abstract[148]	new[148]	_	_
-45-2	_	's	abstract[148]	new[148]	_	_
+45-1	_	Bailey	abstract[146]	new[146]	_	_
+45-2	_	's	abstract[146]	new[146]	_	_
 45-3	_	,	_	_	_	_
 45-4	_	orange	_	_	_	_
 45-5	_	vodka	_	_	_	_
@@ -920,9 +920,9 @@
 #Text=How is the Santorum drink made ?
 46-1	_	How	_	_	_	_
 46-2	_	is	_	_	_	_
-46-3	_	the	abstract[137]	new[137]	coref	49-1[137_138]
-46-4	_	Santorum	abstract[137]|abstract[143]	new[137]|new[143]	coref	49-2[143_144]
-46-5	_	drink	abstract[137]	new[137]	_	_
+46-3	_	the	abstract[135]	new[135]	coref	49-1[135_136]
+46-4	_	Santorum	abstract[135]|abstract[141]	new[135]|new[141]	coref	49-2[141_142]
+46-5	_	drink	abstract[135]	new[135]	_	_
 46-6	_	made	_	_	_	_
 46-7	_	?	_	_	_	_
 
@@ -948,22 +948,22 @@
 48-4	_	.	_	_	_	_
 
 #Text=Your Santorum cocktail creation has already received media coverage from publications including ; The Brooklyn Paper , The New York Times , Jezebel , Metro.us , EDGE on the Net , and Instinct Magazine .
-49-1	_	Your	abstract[112]|abstract[138]	new[112]|new[138]	coref|coref	50-2[112_113]|50-7[138_139]
-49-2	_	Santorum	abstract[138]|abstract[144]	new[138]|new[144]	coref	50-10[144_145]
-49-3	_	cocktail	abstract[138]	new[138]	_	_
-49-4	_	creation	abstract[138]	new[138]	_	_
+49-1	_	Your	abstract[110]|abstract[136]	new[110]|new[136]	coref|coref	50-2[110_111]|50-7[136_137]
+49-2	_	Santorum	abstract[136]|abstract[142]	new[136]|new[142]	coref	50-10[142_143]
+49-3	_	cocktail	abstract[136]	new[136]	_	_
+49-4	_	creation	abstract[136]	new[136]	_	_
 49-5	_	has	_	_	_	_
 49-6	_	already	_	_	_	_
 49-7	_	received	_	_	_	_
-49-8	_	media	abstract[151]	new[151]	coref	50-14[151_152]
-49-9	_	coverage	abstract[151]	new[151]	_	_
+49-8	_	media	abstract[149]	new[149]	coref	50-14[149_150]
+49-9	_	coverage	abstract[149]	new[149]	_	_
 49-10	_	from	_	_	_	_
 49-11	_	publications	_	_	_	_
 49-12	_	including	_	_	_	_
 49-13	_	;	_	_	_	_
-49-14	_	The	abstract[150]	new[150]	_	_
-49-15	_	Brooklyn	abstract[59]|abstract[150]	new[59]|new[150]	_	_
-49-16	_	Paper	abstract[150]	new[150]	_	_
+49-14	_	The	abstract[148]	new[148]	_	_
+49-15	_	Brooklyn	abstract[59]|abstract[148]	new[59]|new[148]	_	_
+49-16	_	Paper	abstract[148]	new[148]	_	_
 49-17	_	,	_	_	_	_
 49-18	_	The	_	_	_	_
 49-19	_	New	abstract[6]	new[6]	_	_
@@ -986,21 +986,21 @@
 
 #Text=Did you think when you created it that the Santorum cocktail would receive this news coverage ?
 50-1	_	Did	_	_	_	_
-50-2	_	you	abstract[113]	new[113]	coref	50-5[113_114]
+50-2	_	you	abstract[111]	new[111]	coref	50-5[111_112]
 50-3	_	think	_	_	_	_
 50-4	_	when	_	_	_	_
-50-5	_	you	abstract[114]	new[114]	coref	52-1[114_115]
+50-5	_	you	abstract[112]	new[112]	coref	52-1[112_113]
 50-6	_	created	_	_	_	_
-50-7	_	it	abstract[139]	new[139]	coref	50-9[139_140]
+50-7	_	it	abstract[137]	new[137]	coref	50-9[137_138]
 50-8	_	that	_	_	_	_
-50-9	_	the	abstract[140]	new[140]	_	_
-50-10	_	Santorum	abstract[140]|abstract[145]	new[140]|new[145]	coref	53-12[145_146]
-50-11	_	cocktail	abstract[140]	new[140]	_	_
+50-9	_	the	abstract[138]	new[138]	_	_
+50-10	_	Santorum	abstract[138]|abstract[143]	new[138]|new[143]	coref	53-12[143_144]
+50-11	_	cocktail	abstract[138]	new[138]	_	_
 50-12	_	would	_	_	_	_
 50-13	_	receive	_	_	_	_
-50-14	_	this	abstract[152]	new[152]	_	_
-50-15	_	news	abstract[152]	new[152]	_	_
-50-16	_	coverage	abstract[152]	new[152]	_	_
+50-14	_	this	abstract[150]	new[150]	_	_
+50-15	_	news	abstract[150]	new[150]	_	_
+50-16	_	coverage	abstract[150]	new[150]	_	_
 50-17	_	?	_	_	_	_
 
 #Text=Not at all .
@@ -1010,7 +1010,7 @@
 51-4	_	.	_	_	_	_
 
 #Text=We were just trying to come up with a topical and funny new cocktail for our customers to laugh about and enjoy .
-52-1	_	We	abstract[115]	new[115]	coref	52-16[115_116]
+52-1	_	We	abstract[113]	new[113]	coref	52-16[113_114]
 52-2	_	were	_	_	_	_
 52-3	_	just	_	_	_	_
 52-4	_	trying	_	_	_	_
@@ -1018,20 +1018,20 @@
 52-6	_	come	_	_	_	_
 52-7	_	up	_	_	_	_
 52-8	_	with	_	_	_	_
-52-9	_	a	abstract[153]	new[153]	coref	53-11[153_154]
-52-10	_	topical	abstract[153]	new[153]	_	_
-52-11	_	and	abstract[153]	new[153]	_	_
-52-12	_	funny	abstract[153]	new[153]	_	_
-52-13	_	new	abstract[153]	new[153]	_	_
-52-14	_	cocktail	abstract[153]	new[153]	_	_
-52-15	_	for	abstract[153]	new[153]	_	_
-52-16	_	our	abstract[116]|abstract[153]	new[116]|new[153]	coref	53-5[116_117]
-52-17	_	customers	abstract[153]	new[153]	_	_
-52-18	_	to	abstract[153]	new[153]	_	_
-52-19	_	laugh	abstract[153]	new[153]	_	_
-52-20	_	about	abstract[153]	new[153]	_	_
-52-21	_	and	abstract[153]	new[153]	_	_
-52-22	_	enjoy	abstract[153]	new[153]	_	_
+52-9	_	a	abstract[151]	new[151]	coref	53-11[151_152]
+52-10	_	topical	abstract[151]	new[151]	_	_
+52-11	_	and	abstract[151]	new[151]	_	_
+52-12	_	funny	abstract[151]	new[151]	_	_
+52-13	_	new	abstract[151]	new[151]	_	_
+52-14	_	cocktail	abstract[151]	new[151]	_	_
+52-15	_	for	abstract[151]	new[151]	_	_
+52-16	_	our	abstract[114]|abstract[151]	new[114]|new[151]	coref	53-5[114_115]
+52-17	_	customers	abstract[151]	new[151]	_	_
+52-18	_	to	abstract[151]	new[151]	_	_
+52-19	_	laugh	abstract[151]	new[151]	_	_
+52-20	_	about	abstract[151]	new[151]	_	_
+52-21	_	and	abstract[151]	new[151]	_	_
+52-22	_	enjoy	abstract[151]	new[151]	_	_
 52-23	_	.	_	_	_	_
 
 #Text=What culinary dishes would you recommend that go well with the Santorum cocktail ?
@@ -1039,25 +1039,25 @@
 53-2	_	culinary	_	_	_	_
 53-3	_	dishes	_	_	_	_
 53-4	_	would	_	_	_	_
-53-5	_	you	abstract[117]	new[117]	coref	54-1[117_118]
+53-5	_	you	abstract[115]	new[115]	coref	54-1[115_116]
 53-6	_	recommend	_	_	_	_
 53-7	_	that	_	_	_	_
 53-8	_	go	_	_	_	_
 53-9	_	well	_	_	_	_
 53-10	_	with	_	_	_	_
-53-11	_	the	abstract[154]	new[154]	coref	54-6[154_155]
-53-12	_	Santorum	abstract[146]|abstract[154]	new[146]|new[154]	_	_
-53-13	_	cocktail	abstract[154]	new[154]	_	_
+53-11	_	the	abstract[152]	new[152]	coref	54-6[152_153]
+53-12	_	Santorum	abstract[144]|abstract[152]	new[144]|new[152]	_	_
+53-13	_	cocktail	abstract[152]	new[152]	_	_
 53-14	_	?	_	_	_	_
 
 #Text=You 'd probably be having the cocktail at dessert time , so something sweet ; ice cream or pie .
-54-1	_	You	abstract[118]	new[118]	coref	56-5[118_119]
+54-1	_	You	abstract[116]	new[116]	coref	56-5[116_117]
 54-2	_	'd	_	_	_	_
 54-3	_	probably	_	_	_	_
 54-4	_	be	_	_	_	_
 54-5	_	having	_	_	_	_
-54-6	_	the	abstract[155]	new[155]	coref	55-2[155_156]
-54-7	_	cocktail	abstract[155]	new[155]	_	_
+54-6	_	the	abstract[153]	new[153]	coref	55-2[153_154]
+54-7	_	cocktail	abstract[153]	new[153]	_	_
 54-8	_	at	_	_	_	_
 54-9	_	dessert	_	_	_	_
 54-10	_	time	_	_	_	_
@@ -1074,8 +1074,8 @@
 
 #Text=Is the drink popular ?
 55-1	_	Is	_	_	_	_
-55-2	_	the	abstract[156]	new[156]	coref	56-10[156_157]
-55-3	_	drink	abstract[156]	new[156]	_	_
+55-2	_	the	abstract[154]	new[154]	coref	56-10[154_155]
+55-3	_	drink	abstract[154]	new[154]	_	_
 55-4	_	popular	_	_	_	_
 55-5	_	?	_	_	_	_
 
@@ -1084,23 +1084,23 @@
 56-2	_	many	_	_	_	_
 56-3	_	times	_	_	_	_
 56-4	_	do	_	_	_	_
-56-5	_	you	abstract[119]	new[119]	coref	56-7[119_120]
+56-5	_	you	abstract[117]	new[117]	coref	56-7[117_118]
 56-6	_	suppose	_	_	_	_
-56-7	_	you	abstract[120]	new[120]	coref	56-12[120_121]
+56-7	_	you	abstract[118]	new[118]	coref	56-12[118_119]
 56-8	_	’ve	_	_	_	_
 56-9	_	served	_	_	_	_
-56-10	_	it	abstract[157]	new[157]	coref	56-15[157_158]
+56-10	_	it	abstract[155]	new[155]	coref	56-15[155_156]
 56-11	_	at	_	_	_	_
-56-12	_	your	abstract[45]|abstract[121]	new[45]|new[121]	coref	58-1[121_122]
+56-12	_	your	abstract[45]|abstract[119]	new[45]|new[119]	coref	58-1[119_120]
 56-13	_	establishment	abstract[45]	new[45]	_	_
 56-14	_	since	_	_	_	_
-56-15	_	its	abstract[158]	new[158]	coref	57-1[158_159]
+56-15	_	its	abstract[156]	new[156]	coref	57-1[156_157]
 56-16	_	creation	_	_	_	_
 56-17	_	?	_	_	_	_
 
 #Text=The drink was mildly popular for the last few months , but of course has become a great deal more popular since getting all this publicity .
-57-1	_	The	abstract[159]	new[159]	coref	58-13[159_160]
-57-2	_	drink	abstract[159]	new[159]	_	_
+57-1	_	The	abstract[157]	new[157]	coref	58-13[157_158]
+57-2	_	drink	abstract[157]	new[157]	_	_
 57-3	_	was	_	_	_	_
 57-4	_	mildly	_	_	_	_
 57-5	_	popular	_	_	_	_
@@ -1128,7 +1128,7 @@
 57-27	_	.	_	_	_	_
 
 #Text=We have no way to estimate how many times we 've served it overall , but we 're now pouring around ten a night .
-58-1	_	We	abstract[122]	new[122]	coref	58-10[122_123]
+58-1	_	We	abstract[120]	new[120]	coref	58-10[120_121]
 58-2	_	have	_	_	_	_
 58-3	_	no	_	_	_	_
 58-4	_	way	_	_	_	_
@@ -1137,14 +1137,14 @@
 58-7	_	how	_	_	_	_
 58-8	_	many	_	_	_	_
 58-9	_	times	_	_	_	_
-58-10	_	we	abstract[123]	new[123]	coref	58-17[123_124]
+58-10	_	we	abstract[121]	new[121]	coref	58-17[121_122]
 58-11	_	've	_	_	_	_
 58-12	_	served	_	_	_	_
-58-13	_	it	abstract[160]	new[160]	_	_
+58-13	_	it	abstract[158]	new[158]	_	_
 58-14	_	overall	_	_	_	_
 58-15	_	,	_	_	_	_
 58-16	_	but	_	_	_	_
-58-17	_	we	abstract[124]	new[124]	_	_
+58-17	_	we	abstract[122]	new[122]	_	_
 58-18	_	're	_	_	_	_
 58-19	_	now	_	_	_	_
 58-20	_	pouring	_	_	_	_
@@ -1154,36 +1154,32 @@
 58-24	_	night	_	_	_	_
 58-25	_	.	_	_	_	_
 
-#Text=For the next several months , the US is in a state of increased political discussion about whether we can , and should , expand the Union , or not .
-59-1	_	For	_	_	_	_
+#Text=When the Soviet Union collapsed there had been an agreement , a recent agreement , between Gorbachev and the U.S government and the first Bush administration .
+59-1	_	When	_	_	_	_
 59-2	_	the	_	_	_	_
-59-3	_	next	_	_	_	_
-59-4	_	several	_	_	_	_
-59-5	_	months	_	_	_	_
-59-6	_	,	_	_	_	_
-59-7	_	the	abstract[67]	new[67]	coref	59-19[67_68]
-59-8	_	US	abstract[67]	new[67]	_	_
-59-9	_	is	_	_	_	_
-59-10	_	in	_	_	_	_
-59-11	_	a	_	_	_	_
-59-12	_	state	_	_	_	_
-59-13	_	of	_	_	_	_
-59-14	_	increased	_	_	_	_
-59-15	_	political	_	_	_	_
-59-16	_	discussion	_	_	_	_
-59-17	_	about	_	_	_	_
-59-18	_	whether	_	_	_	_
-59-19	_	we	abstract[68]	new[68]	coref	59-26[68_69]
-59-20	_	can	_	_	_	_
-59-21	_	,	_	_	_	_
+59-3	_	Soviet	_	_	_	_
+59-4	_	Union	_	_	_	_
+59-5	_	collapsed	_	_	_	_
+59-6	_	there	_	_	_	_
+59-7	_	had	_	_	_	_
+59-8	_	been	_	_	_	_
+59-9	_	an	_	_	_	_
+59-10	_	agreement	_	_	_	_
+59-11	_	,	_	_	_	_
+59-12	_	a	_	_	_	_
+59-13	_	recent	_	_	_	_
+59-14	_	agreement	_	_	_	_
+59-15	_	,	_	_	_	_
+59-16	_	between	_	_	_	_
+59-17	_	Gorbachev	_	_	_	_
+59-18	_	and	_	_	_	_
+59-19	_	the	_	_	_	_
+59-20	_	U.S	abstract[67]	new[67]	_	_
+59-21	_	government	_	_	_	_
 59-22	_	and	_	_	_	_
-59-23	_	should	_	_	_	_
-59-24	_	,	_	_	_	_
-59-25	_	expand	_	_	_	_
-59-26	_	the	abstract[69]	new[69]	_	_
-59-27	_	Union	abstract[69]	new[69]	_	_
-59-28	_	,	_	_	_	_
-59-29	_	or	_	_	_	_
-59-30	_	not	_	_	_	_
-59-31	_	.	_	_	_	_
+59-23	_	the	_	_	_	_
+59-24	_	first	_	_	_	_
+59-25	_	Bush	_	_	_	_
+59-26	_	administration	_	_	_	_
+59-27	_	.	_	_	_	_
 

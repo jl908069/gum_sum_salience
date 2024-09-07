@@ -65,7 +65,7 @@
 4-30	_	Authority	abstract[15]	new[15]	_	_
 4-31	_	.	_	_	_	_
 
-#Text=Civil Defense Authority director General Suleiman al - Amr , in remarks to al - Ikhbariya television , said " The influx of immigrant boats has resulted in a humanitarian crisis in Indonesia .
+#Text=Civil Defense Authority director General Suleiman al - Amr , in remarks to al - Ikhbariya television , said " In Indonesia , the authorities have sought to save 900 people who were rescued in boats stranded in their boats , officials said on Friday .
 5-1	_	Civil	abstract[16]	new[16]	_	_
 5-2	_	Defense	abstract[16]	new[16]	_	_
 5-3	_	Authority	abstract[16]	new[16]	_	_
@@ -86,20 +86,32 @@
 5-18	_	,	_	_	_	_
 5-19	_	said	_	_	_	_
 5-20	_	"	_	_	_	_
-5-21	_	The	_	_	_	_
-5-22	_	influx	_	_	_	_
-5-23	_	of	_	_	_	_
-5-24	_	immigrant	_	_	_	_
-5-25	_	boats	_	_	_	_
-5-26	_	has	_	_	_	_
-5-27	_	resulted	_	_	_	_
-5-28	_	in	_	_	_	_
-5-29	_	a	_	_	_	_
-5-30	_	humanitarian	_	_	_	_
-5-31	_	crisis	_	_	_	_
-5-32	_	in	_	_	_	_
-5-33	_	Indonesia	_	_	_	_
-5-34	_	.	_	_	_	_
+5-21	_	In	_	_	_	_
+5-22	_	Indonesia	_	_	_	_
+5-23	_	,	_	_	_	_
+5-24	_	the	_	_	_	_
+5-25	_	authorities	_	_	_	_
+5-26	_	have	_	_	_	_
+5-27	_	sought	_	_	_	_
+5-28	_	to	_	_	_	_
+5-29	_	save	_	_	_	_
+5-30	_	900	_	_	_	_
+5-31	_	people	_	_	_	_
+5-32	_	who	_	_	_	_
+5-33	_	were	_	_	_	_
+5-34	_	rescued	_	_	_	_
+5-35	_	in	_	_	_	_
+5-36	_	boats	_	_	_	_
+5-37	_	stranded	_	_	_	_
+5-38	_	in	_	_	_	_
+5-39	_	their	_	_	_	_
+5-40	_	boats	_	_	_	_
+5-41	_	,	_	_	_	_
+5-42	_	officials	_	_	_	_
+5-43	_	said	_	_	_	_
+5-44	_	on	_	_	_	_
+5-45	_	Friday	_	_	_	_
+5-46	_	.	_	_	_	_
 
 #Text=All those who were wounded and the dead have been taken to hospital . There are no casualties left at the location . "
 6-1	_	All	abstract[18]	new[18]	_	_

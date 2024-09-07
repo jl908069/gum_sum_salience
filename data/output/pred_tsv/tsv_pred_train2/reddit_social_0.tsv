@@ -879,7 +879,7 @@
 44-19	_	connections	_	_	_	_
 
 #Text=I say this as a pretty social member of a pretty social dept - do n't burn bridges , but do n't go if you do n't want to !
-45-1	_	I	abstract[107]	new[107]	coref	46-1[107_108]
+45-1	_	I	abstract[104]	new[104]	coref	46-1[104_105]
 45-2	_	say	_	_	_	_
 45-3	_	this	_	_	_	_
 45-4	_	as	_	_	_	_
@@ -911,7 +911,7 @@
 45-30	_	!	_	_	_	_
 
 #Text=I think a lot of social events help new students find their friends , and help maintain a wide network of camaraderie and support .
-46-1	_	I	abstract[108]	new[108]	_	_
+46-1	_	I	abstract[105]	new[105]	_	_
 46-2	_	think	_	_	_	_
 46-3	_	a	_	_	_	_
 46-4	_	lot	_	_	_	_
@@ -919,22 +919,22 @@
 46-6	_	social	_	_	_	_
 46-7	_	events	_	_	_	_
 46-8	_	help	_	_	_	_
-46-9	_	new	abstract[109]	new[109]	coref	46-12[109_110]
-46-10	_	students	abstract[109]	new[109]	_	_
+46-9	_	new	abstract[106]	new[106]	coref	46-12[106_107]
+46-10	_	students	abstract[106]	new[106]	_	_
 46-11	_	find	_	_	_	_
-46-12	_	their	abstract[110]	new[110]	_	_
+46-12	_	their	abstract[107]	new[107]	_	_
 46-13	_	friends	_	_	_	_
 46-14	_	,	_	_	_	_
 46-15	_	and	_	_	_	_
 46-16	_	help	_	_	_	_
 46-17	_	maintain	_	_	_	_
-46-18	_	a	abstract[111]	new[111]	coref	47-9[111_112]
-46-19	_	wide	abstract[111]	new[111]	_	_
-46-20	_	network	abstract[111]	new[111]	_	_
-46-21	_	of	abstract[111]	new[111]	_	_
-46-22	_	camaraderie	abstract[111]	new[111]	_	_
-46-23	_	and	abstract[111]	new[111]	_	_
-46-24	_	support	abstract[111]	new[111]	_	_
+46-18	_	a	abstract[108]	new[108]	coref	47-9[108_109]
+46-19	_	wide	abstract[108]	new[108]	_	_
+46-20	_	network	abstract[108]	new[108]	_	_
+46-21	_	of	abstract[108]	new[108]	_	_
+46-22	_	camaraderie	abstract[108]	new[108]	_	_
+46-23	_	and	abstract[108]	new[108]	_	_
+46-24	_	support	abstract[108]	new[108]	_	_
 46-25	_	.	_	_	_	_
 
 #Text=If you do n't feel like you need those , then stay friendly with people but do n't feel the need to attend .
@@ -946,7 +946,7 @@
 47-6	_	like	_	_	_	_
 47-7	_	you	abstract[83]	new[83]	coref	48-28[83_84]
 47-8	_	need	_	_	_	_
-47-9	_	those	abstract[112]	new[112]	_	_
+47-9	_	those	abstract[109]	new[109]	_	_
 47-10	_	,	_	_	_	_
 47-11	_	then	_	_	_	_
 47-12	_	stay	_	_	_	_
@@ -965,7 +965,7 @@
 
 #Text=Maybe go to the particularly big events and a thing or two at the beginning of the semester to meet the new students ( considering that your existing friends may graduate before you ! ) and call that good .
 48-1	_	Maybe	_	_	_	_
-48-2	_	go	abstract[113]	new[113]	coref	48-39[113_114]
+48-2	_	go	abstract[110]	new[110]	coref	48-39[110_111]
 48-3	_	to	_	_	_	_
 48-4	_	the	_	_	_	_
 48-5	_	particularly	_	_	_	_
@@ -1001,7 +1001,7 @@
 48-35	_	)	_	_	_	_
 48-36	_	and	_	_	_	_
 48-37	_	call	_	_	_	_
-48-38	_	that	abstract[114]	new[114]	_	_
+48-38	_	that	abstract[111]	new[111]	_	_
 48-39	_	good	_	_	_	_
 48-40	_	.	_	_	_	_
 
@@ -1025,18 +1025,18 @@
 49-17	_	.	_	_	_	_
 
 #Text=I 'm 30 , also going into my second yr and I 've already passed on several invites .
-50-1	_	I	abstract[115]	new[115]	coref	50-8[115_116]
+50-1	_	I	abstract[112]	new[112]	coref	50-8[112_113]
 50-2	_	'm	_	_	_	_
 50-3	_	30	_	_	_	_
 50-4	_	,	_	_	_	_
 50-5	_	also	_	_	_	_
 50-6	_	going	_	_	_	_
 50-7	_	into	_	_	_	_
-50-8	_	my	abstract[116]	new[116]	coref	50-12[116_117]
+50-8	_	my	abstract[113]	new[113]	coref	50-12[113_114]
 50-9	_	second	_	_	_	_
 50-10	_	yr	_	_	_	_
 50-11	_	and	_	_	_	_
-50-12	_	I	abstract[117]	new[117]	coref	51-1[117_118]
+50-12	_	I	abstract[114]	new[114]	coref	51-1[114_115]
 50-13	_	've	_	_	_	_
 50-14	_	already	_	_	_	_
 50-15	_	passed	_	_	_	_
@@ -1046,13 +1046,13 @@
 50-19	_	.	_	_	_	_
 
 #Text=I just straight up tell them I 'm going home if asked or ignore the invite completely .
-51-1	_	I	abstract[118]	new[118]	coref	51-7[118_119]
+51-1	_	I	abstract[115]	new[115]	coref	51-7[115_116]
 51-2	_	just	_	_	_	_
 51-3	_	straight	_	_	_	_
 51-4	_	up	_	_	_	_
 51-5	_	tell	_	_	_	_
 51-6	_	them	_	_	_	_
-51-7	_	I	abstract[119]	new[119]	coref	52-1[119_120]
+51-7	_	I	abstract[116]	new[116]	coref	52-1[116_117]
 51-8	_	'm	_	_	_	_
 51-9	_	going	_	_	_	_
 51-10	_	home	_	_	_	_
@@ -1066,18 +1066,18 @@
 51-18	_	.	_	_	_	_
 
 #Text=I feel like everybody got to know me last year and I 'm a pleasant enough coworker to be around but there was no real connection there and tbh I think everyone is okay with it .
-52-1	_	I	abstract[120]	new[120]	coref	52-8[120_121]
+52-1	_	I	abstract[117]	new[117]	coref	52-8[117_118]
 52-2	_	feel	_	_	_	_
 52-3	_	like	_	_	_	_
-52-4	_	everybody	abstract[131]	new[131]	coref	52-32[131_132]
+52-4	_	everybody	abstract[128]	new[128]	coref	52-32[128_129]
 52-5	_	got	_	_	_	_
 52-6	_	to	_	_	_	_
 52-7	_	know	_	_	_	_
-52-8	_	me	abstract[121]	new[121]	coref	52-12[121_122]
+52-8	_	me	abstract[118]	new[118]	coref	52-12[118_119]
 52-9	_	last	_	_	_	_
 52-10	_	year	_	_	_	_
 52-11	_	and	_	_	_	_
-52-12	_	I	abstract[122]	new[122]	coref	52-30[122_123]
+52-12	_	I	abstract[119]	new[119]	coref	52-30[119_120]
 52-13	_	'm	_	_	_	_
 52-14	_	a	_	_	_	_
 52-15	_	pleasant	_	_	_	_
@@ -1095,9 +1095,9 @@
 52-27	_	there	_	_	_	_
 52-28	_	and	_	_	_	_
 52-29	_	tbh	_	_	_	_
-52-30	_	I	abstract[123]	new[123]	coref	53-1[123_124]
+52-30	_	I	abstract[120]	new[120]	coref	53-1[120_121]
 52-31	_	think	_	_	_	_
-52-32	_	everyone	abstract[132]	new[132]	coref	54-30[132_133]
+52-32	_	everyone	abstract[129]	new[129]	coref	54-30[129_130]
 52-33	_	is	_	_	_	_
 52-34	_	okay	_	_	_	_
 52-35	_	with	_	_	_	_
@@ -1105,15 +1105,15 @@
 52-37	_	.	_	_	_	_
 
 #Text=I 'm not particularly special so I doubt I 'm missed that much lol , so I do n't feel quilty .
-53-1	_	I	abstract[124]	new[124]	coref	53-7[124_125]
+53-1	_	I	abstract[121]	new[121]	coref	53-7[121_122]
 53-2	_	'm	_	_	_	_
 53-3	_	not	_	_	_	_
 53-4	_	particularly	_	_	_	_
 53-5	_	special	_	_	_	_
 53-6	_	so	_	_	_	_
-53-7	_	I	abstract[125]	new[125]	coref	53-9[125_126]
+53-7	_	I	abstract[122]	new[122]	coref	53-9[122_123]
 53-8	_	doubt	_	_	_	_
-53-9	_	I	abstract[126]	new[126]	coref	53-17[126_127]
+53-9	_	I	abstract[123]	new[123]	coref	53-17[123_124]
 53-10	_	'm	_	_	_	_
 53-11	_	missed	_	_	_	_
 53-12	_	that	_	_	_	_
@@ -1121,7 +1121,7 @@
 53-14	_	lol	_	_	_	_
 53-15	_	,	_	_	_	_
 53-16	_	so	_	_	_	_
-53-17	_	I	abstract[127]	new[127]	coref	54-4[127_128]
+53-17	_	I	abstract[124]	new[124]	coref	54-4[124_125]
 53-18	_	do	_	_	_	_
 53-19	_	n't	_	_	_	_
 53-20	_	feel	_	_	_	_
@@ -1132,7 +1132,7 @@
 54-1	_	The	_	_	_	_
 54-2	_	big	_	_	_	_
 54-3	_	events	_	_	_	_
-54-4	_	I	abstract[128]	new[128]	coref	54-23[128_129]
+54-4	_	I	abstract[125]	new[125]	coref	54-23[125_126]
 54-5	_	might	_	_	_	_
 54-6	_	go	_	_	_	_
 54-7	_	to	_	_	_	_
@@ -1151,24 +1151,24 @@
 54-20	_	happy	_	_	_	_
 54-21	_	hour	_	_	_	_
 54-22	_	(	_	_	_	_
-54-23	_	I	abstract[129]	new[129]	coref	54-27[129_130]
+54-23	_	I	abstract[126]	new[126]	coref	54-27[126_127]
 54-24	_	hate	_	_	_	_
 54-25	_	beer	_	_	_	_
 54-26	_	)	_	_	_	_
-54-27	_	I	abstract[130]	new[130]	_	_
-54-28	_	MIA	abstract[134]	new[134]	coref	54-34[134_135]
+54-27	_	I	abstract[127]	new[127]	_	_
+54-28	_	MIA	abstract[131]	new[131]	coref	54-34[131_132]
 54-29	_	and	_	_	_	_
-54-30	_	everyone	abstract[133]	new[133]	_	_
+54-30	_	everyone	abstract[130]	new[130]	_	_
 54-31	_	seems	_	_	_	_
 54-32	_	cool	_	_	_	_
 54-33	_	with	_	_	_	_
-54-34	_	it	abstract[135]	new[135]	_	_
+54-34	_	it	abstract[132]	new[132]	_	_
 54-35	_	.	_	_	_	_
 
 #Text=Weird , I do n't remember writing this post ...
 55-1	_	Weird	_	_	_	_
 55-2	_	,	_	_	_	_
-55-3	_	I	abstract[136]	new[136]	coref	56-1[136_137]
+55-3	_	I	abstract[133]	new[133]	coref	56-1[133_134]
 55-4	_	do	_	_	_	_
 55-5	_	n't	_	_	_	_
 55-6	_	remember	_	_	_	_
@@ -1178,7 +1178,7 @@
 55-10	_	...	_	_	_	_
 
 #Text=I 'm the same way !
-56-1	_	I	abstract[137]	new[137]	_	_
+56-1	_	I	abstract[134]	new[134]	_	_
 56-2	_	'm	_	_	_	_
 56-3	_	the	_	_	_	_
 56-4	_	same	_	_	_	_
@@ -1194,15 +1194,15 @@
 57-6	_	obligation	_	_	_	_
 57-7	_	to	_	_	_	_
 57-8	_	attend	_	_	_	_
-57-9	_	social	abstract[138]	new[138]	coref	57-17[138_139]
-57-10	_	events	abstract[138]	new[138]	_	_
+57-9	_	social	abstract[135]	new[135]	coref	57-17[135_136]
+57-10	_	events	abstract[135]	new[135]	_	_
 57-11	_	,	_	_	_	_
 57-12	_	but	_	_	_	_
 57-13	_	do	_	_	_	_
 57-14	_	n't	_	_	_	_
 57-15	_	completely	_	_	_	_
 57-16	_	write	_	_	_	_
-57-17	_	them	abstract[139]	new[139]	coref	62-38[139_140]
+57-17	_	them	abstract[136]	new[136]	coref	62-38[136_137]
 57-18	_	off	_	_	_	_
 57-19	_	either	_	_	_	_
 57-20	_	.	_	_	_	_
@@ -1232,20 +1232,20 @@
 58-22	_	make	_	_	_	_
 58-23	_	it	_	_	_	_
 58-24	_	to	_	_	_	_
-58-25	_	one	abstract[141]	new[141]	coref	58-31[141_142]
-58-26	_	a	abstract[141]	new[141]	_	_
-58-27	_	month	abstract[141]	new[141]	_	_
+58-25	_	one	abstract[138]	new[138]	coref	58-31[138_139]
+58-26	_	a	abstract[138]	new[138]	_	_
+58-27	_	month	abstract[138]	new[138]	_	_
 58-28	_	or	_	_	_	_
 58-29	_	something	_	_	_	_
 58-30	_	like	_	_	_	_
-58-31	_	that	abstract[142]	new[142]	_	_
+58-31	_	that	abstract[139]	new[139]	_	_
 58-32	_	.	_	_	_	_
 
 #Text=I went into my program thinking of the degree as the end goal , but there is a lot more to gain from graduate school than more letters after your name .
-59-1	_	I	abstract[143]	new[143]	coref	59-4[143_144]
+59-1	_	I	abstract[140]	new[140]	coref	59-4[140_141]
 59-2	_	went	_	_	_	_
 59-3	_	into	_	_	_	_
-59-4	_	my	abstract[144]	new[144]	_	_
+59-4	_	my	abstract[141]	new[141]	_	_
 59-5	_	program	_	_	_	_
 59-6	_	thinking	_	_	_	_
 59-7	_	of	_	_	_	_
@@ -1284,37 +1284,37 @@
 60-6	_	more	_	_	_	_
 60-7	_	out	_	_	_	_
 60-8	_	of	_	_	_	_
-60-9	_	your	abstract[93]|abstract[147]	new[93]|new[147]	coref|coref	60-17[93_94]|62-52[147_148]
-60-10	_	program	abstract[147]	new[147]	_	_
+60-9	_	your	abstract[93]|abstract[144]	new[93]|new[144]	coref|coref	60-17[93_94]|62-52[144_145]
+60-10	_	program	abstract[144]	new[144]	_	_
 60-11	_	,	_	_	_	_
 60-12	_	have	_	_	_	_
-60-13	_	friends	abstract[145]	new[145]	coref	61-1[145_146]
-60-14	_	to	abstract[145]	new[145]	_	_
-60-15	_	talk	abstract[145]	new[145]	_	_
-60-16	_	about	abstract[145]	new[145]	_	_
-60-17	_	your	abstract[94]|abstract[145]	new[94]|new[145]	coref	60-32[94_95]
-60-18	_	research	abstract[145]	new[145]	_	_
-60-19	_	with	abstract[145]	new[145]	_	_
-60-20	_	who	abstract[145]	new[145]	_	_
-60-21	_	actually	abstract[145]	new[145]	_	_
-60-22	_	care	abstract[145]	new[145]	_	_
-60-23	_	and	abstract[145]	new[145]	_	_
-60-24	_	will	abstract[145]	new[145]	_	_
-60-25	_	be	abstract[145]	new[145]	_	_
-60-26	_	interested	abstract[145]	new[145]	_	_
-60-27	_	in	abstract[145]	new[145]	_	_
-60-28	_	talking	abstract[145]	new[145]	_	_
-60-29	_	out	abstract[145]	new[145]	_	_
-60-30	_	complex	abstract[145]	new[145]	_	_
-60-31	_	points	abstract[145]	new[145]	_	_
-60-32	_	you	abstract[95]|abstract[145]	new[95]|new[145]	coref	61-8[95_96]
-60-33	_	're	abstract[145]	new[145]	_	_
-60-34	_	stuck	abstract[145]	new[145]	_	_
-60-35	_	on	abstract[145]	new[145]	_	_
+60-13	_	friends	abstract[142]	new[142]	coref	61-1[142_143]
+60-14	_	to	abstract[142]	new[142]	_	_
+60-15	_	talk	abstract[142]	new[142]	_	_
+60-16	_	about	abstract[142]	new[142]	_	_
+60-17	_	your	abstract[94]|abstract[142]	new[94]|new[142]	coref	60-32[94_95]
+60-18	_	research	abstract[142]	new[142]	_	_
+60-19	_	with	abstract[142]	new[142]	_	_
+60-20	_	who	abstract[142]	new[142]	_	_
+60-21	_	actually	abstract[142]	new[142]	_	_
+60-22	_	care	abstract[142]	new[142]	_	_
+60-23	_	and	abstract[142]	new[142]	_	_
+60-24	_	will	abstract[142]	new[142]	_	_
+60-25	_	be	abstract[142]	new[142]	_	_
+60-26	_	interested	abstract[142]	new[142]	_	_
+60-27	_	in	abstract[142]	new[142]	_	_
+60-28	_	talking	abstract[142]	new[142]	_	_
+60-29	_	out	abstract[142]	new[142]	_	_
+60-30	_	complex	abstract[142]	new[142]	_	_
+60-31	_	points	abstract[142]	new[142]	_	_
+60-32	_	you	abstract[95]|abstract[142]	new[95]|new[142]	coref	61-8[95_96]
+60-33	_	're	abstract[142]	new[142]	_	_
+60-34	_	stuck	abstract[142]	new[142]	_	_
+60-35	_	on	abstract[142]	new[142]	_	_
 60-36	_	.	_	_	_	_
 
 #Text=These are also people who can let you know about fellowships , conferences etc. that will enhance your experience .
-61-1	_	These	abstract[146]	new[146]	_	_
+61-1	_	These	abstract[143]	new[143]	_	_
 61-2	_	are	_	_	_	_
 61-3	_	also	_	_	_	_
 61-4	_	people	_	_	_	_
@@ -1373,8 +1373,8 @@
 62-35	_	to	_	_	_	_
 62-36	_	look	_	_	_	_
 62-37	_	at	_	_	_	_
-62-38	_	these	abstract[140]	new[140]	_	_
-62-39	_	events	abstract[140]	new[140]	_	_
+62-38	_	these	abstract[137]	new[137]	_	_
+62-39	_	events	abstract[137]	new[137]	_	_
 62-40	_	and	_	_	_	_
 62-41	_	your	abstract[101]	new[101]	coref	62-47[101_102]
 62-42	_	peers	_	_	_	_
@@ -1387,29 +1387,17 @@
 62-49	_	getting	_	_	_	_
 62-50	_	out	_	_	_	_
 62-51	_	of	_	_	_	_
-62-52	_	your	abstract[103]|abstract[148]	new[103]|new[148]	coref	63-3[103_104]
-62-53	_	program	abstract[148]	new[148]	_	_
+62-52	_	your	abstract[103]|abstract[145]	new[103]|new[145]	_	_
+62-53	_	program	abstract[145]	new[145]	_	_
 62-54	_	.	_	_	_	_
 
-#Text=Think about your voice . Do what ever you want to say and then you may do something better .
-63-1	_	Think	_	_	_	_
-63-2	_	about	_	_	_	_
-63-3	_	your	abstract[104]	new[104]	coref	63-9[104_105]
-63-4	_	voice	_	_	_	_
-63-5	_	.	_	_	_	_
-63-6	_	Do	_	_	_	_
-63-7	_	what	_	_	_	_
-63-8	_	ever	_	_	_	_
-63-9	_	you	abstract[105]	new[105]	coref	63-15[105_106]
-63-10	_	want	_	_	_	_
-63-11	_	to	_	_	_	_
-63-12	_	say	_	_	_	_
-63-13	_	and	_	_	_	_
-63-14	_	then	_	_	_	_
-63-15	_	you	abstract[106]	new[106]	_	_
-63-16	_	may	_	_	_	_
-63-17	_	do	_	_	_	_
-63-18	_	something	_	_	_	_
-63-19	_	better	_	_	_	_
-63-20	_	.	_	_	_	_
+#Text=Open the throat . Do the key .
+63-1	_	Open	_	_	_	_
+63-2	_	the	_	_	_	_
+63-3	_	throat	_	_	_	_
+63-4	_	.	_	_	_	_
+63-5	_	Do	_	_	_	_
+63-6	_	the	_	_	_	_
+63-7	_	key	_	_	_	_
+63-8	_	.	_	_	_	_
 

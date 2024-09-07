@@ -1353,7 +1353,7 @@
 53-25	_	sea	abstract[60]	new[60]	_	_
 53-26	_	!	_	_	_	_
 
-#Text=some fine old farm houses which the remaining population does a commendable job trying to maintain , since many of them are now empty and the rest used as vacation home for " Visit a traditional Mexican fishing village . Enjoy the diversity of Maya life . Enjoy the splendor and beauty of the ancient Maya culture . Become a tourist .
+#Text=some fine old farm houses which the remaining population does a commendable job trying to maintain , since many of them are now empty and the rest used as vacation home for " Travel around the city . Learn about the cultural life of Mérida . Explore city center .
 54-1	_	some	_	_	_	_
 54-2	_	fine	_	_	_	_
 54-3	_	old	_	_	_	_
@@ -1387,35 +1387,23 @@
 54-31	_	home	_	_	_	_
 54-32	_	for	_	_	_	_
 54-33	_	"	_	_	_	_
-54-34	_	Visit	_	_	_	_
-54-35	_	a	_	_	_	_
-54-36	_	traditional	_	_	_	_
-54-37	_	Mexican	_	_	_	_
-54-38	_	fishing	_	_	_	_
-54-39	_	village	_	_	_	_
-54-40	_	.	_	_	_	_
-54-41	_	Enjoy	_	_	_	_
-54-42	_	the	_	_	_	_
-54-43	_	diversity	_	_	_	_
+54-34	_	Travel	_	_	_	_
+54-35	_	around	_	_	_	_
+54-36	_	the	_	_	_	_
+54-37	_	city	_	_	_	_
+54-38	_	.	_	_	_	_
+54-39	_	Learn	_	_	_	_
+54-40	_	about	_	_	_	_
+54-41	_	the	_	_	_	_
+54-42	_	cultural	_	_	_	_
+54-43	_	life	_	_	_	_
 54-44	_	of	_	_	_	_
-54-45	_	Maya	_	_	_	_
-54-46	_	life	_	_	_	_
-54-47	_	.	_	_	_	_
-54-48	_	Enjoy	_	_	_	_
-54-49	_	the	_	_	_	_
-54-50	_	splendor	_	_	_	_
-54-51	_	and	_	_	_	_
-54-52	_	beauty	_	_	_	_
-54-53	_	of	_	_	_	_
-54-54	_	the	_	_	_	_
-54-55	_	ancient	_	_	_	_
-54-56	_	Maya	_	_	_	_
-54-57	_	culture	_	_	_	_
-54-58	_	.	_	_	_	_
-54-59	_	Become	_	_	_	_
-54-60	_	a	_	_	_	_
-54-61	_	tourist	_	_	_	_
-54-62	_	.	_	_	_	_
+54-45	_	Mérida	_	_	_	_
+54-46	_	.	_	_	_	_
+54-47	_	Explore	_	_	_	_
+54-48	_	city	_	_	_	_
+54-49	_	center	_	_	_	_
+54-50	_	.	_	_	_	_
 
 #Text=Danish foreigners " .
 55-1	_	Danish	_	_	_	_

@@ -27,14 +27,14 @@
 2-17	_	linguist	_	_	_	_
 2-18	_	who	_	_	_	_
 2-19	_	developed	_	_	_	_
-2-20	_	the	abstract[74]	new[74]	coref	25-1[74_75]
-2-21	_	dynamic	abstract[74]	new[74]	_	_
-2-22	_	-	abstract[74]	new[74]	_	_
-2-23	_	equivalence	abstract[74]	new[74]	_	_
-2-24	_	Bible	abstract[22]|abstract[74]	new[22]|new[74]	coref	8-9[22_23]
-2-25	_	-	abstract[74]	new[74]	_	_
-2-26	_	translation	abstract[74]	new[74]	_	_
-2-27	_	theory	abstract[74]	new[74]	_	_
+2-20	_	the	abstract[76]	new[76]	coref	25-1[76_77]
+2-21	_	dynamic	abstract[76]	new[76]	_	_
+2-22	_	-	abstract[76]	new[76]	_	_
+2-23	_	equivalence	abstract[76]	new[76]	_	_
+2-24	_	Bible	abstract[24]|abstract[76]	new[24]|new[76]	coref	8-9[24_25]
+2-25	_	-	abstract[76]	new[76]	_	_
+2-26	_	translation	abstract[76]	new[76]	_	_
+2-27	_	theory	abstract[76]	new[76]	_	_
 2-28	_	and	_	_	_	_
 2-29	_	one	abstract[3]	new[3]	_	_
 2-30	_	of	abstract[3]	new[3]	_	_
@@ -68,7 +68,7 @@
 4-13	_	1914	_	_	_	_
 4-14	_	.	_	_	_	_
 
-#Text=He became a Christian at a young age , when he responded to the altar call at his church " Jeanne Moreau ( born 23 January 1928 ; 23 January 1928 – 31 July 2017 ) was a French actress , singer , screenwriter , film director .
+#Text=He became a Christian at a young age , when he responded to the altar call at his church " Born 23 Jan 1928 , in Paris , France , Moreau was an actress and singer born in Paris . Her performances as actress and singer peaked at the top of the French film - making scene in the 1960s .
 5-1	_	He	abstract[5]	new[5]	coref	5-3[5_6]
 5-2	_	became	_	_	_	_
 5-3	_	a	abstract[6]	new[6]	coref	5-11[6_7]
@@ -89,42 +89,55 @@
 5-18	_	his	abstract[8]	new[8]	coref	6-5[8_9]
 5-19	_	church	_	_	_	_
 5-20	_	"	_	_	_	_
-5-21	_	Jeanne	_	_	_	_
-5-22	_	Moreau	_	_	_	_
-5-23	_	(	_	_	_	_
-5-24	_	born	_	_	_	_
-5-25	_	23	_	_	_	_
-5-26	_	January	abstract[18]	new[18]	coref	5-30[18_19]
-5-27	_	1928	abstract[18]	new[18]	_	_
-5-28	_	;	_	_	_	_
-5-29	_	23	_	_	_	_
-5-30	_	January	abstract[19]	new[19]	_	_
-5-31	_	1928	abstract[19]	new[19]	_	_
-5-32	_	–	_	_	_	_
-5-33	_	31	_	_	_	_
-5-34	_	July	_	_	_	_
-5-35	_	2017	_	_	_	_
-5-36	_	)	_	_	_	_
-5-37	_	was	_	_	_	_
-5-38	_	a	_	_	_	_
-5-39	_	French	_	_	_	_
-5-40	_	actress	_	_	_	_
-5-41	_	,	_	_	_	_
-5-42	_	singer	_	_	_	_
-5-43	_	,	_	_	_	_
-5-44	_	screenwriter	_	_	_	_
-5-45	_	,	_	_	_	_
-5-46	_	film	_	_	_	_
-5-47	_	director	_	_	_	_
-5-48	_	.	_	_	_	_
+5-21	_	Born	_	_	_	_
+5-22	_	23	_	_	_	_
+5-23	_	Jan	_	_	_	_
+5-24	_	1928	_	_	_	_
+5-25	_	,	_	_	_	_
+5-26	_	in	_	_	_	_
+5-27	_	Paris	abstract[18]	new[18]	coref	5-39[18_19]
+5-28	_	,	abstract[18]	new[18]	_	_
+5-29	_	France	abstract[18]	new[18]	_	_
+5-30	_	,	_	_	_	_
+5-31	_	Moreau	abstract[20]	new[20]	coref	5-41[20_21]
+5-32	_	was	_	_	_	_
+5-33	_	an	_	_	_	_
+5-34	_	actress	_	_	_	_
+5-35	_	and	_	_	_	_
+5-36	_	singer	_	_	_	_
+5-37	_	born	_	_	_	_
+5-38	_	in	_	_	_	_
+5-39	_	Paris	abstract[19]	new[19]	_	_
+5-40	_	.	_	_	_	_
+5-41	_	Her	abstract[21]	new[21]	_	_
+5-42	_	performances	_	_	_	_
+5-43	_	as	_	_	_	_
+5-44	_	actress	_	_	_	_
+5-45	_	and	_	_	_	_
+5-46	_	singer	_	_	_	_
+5-47	_	peaked	_	_	_	_
+5-48	_	at	_	_	_	_
+5-49	_	the	_	_	_	_
+5-50	_	top	_	_	_	_
+5-51	_	of	_	_	_	_
+5-52	_	the	_	_	_	_
+5-53	_	French	_	_	_	_
+5-54	_	film	_	_	_	_
+5-55	_	-	_	_	_	_
+5-56	_	making	_	_	_	_
+5-57	_	scene	_	_	_	_
+5-58	_	in	_	_	_	_
+5-59	_	the	_	_	_	_
+5-60	_	1960s	_	_	_	_
+5-61	_	.	_	_	_	_
 
 #Text=to accept Christ as my Saviour . "
 6-1	_	to	_	_	_	_
 6-2	_	accept	_	_	_	_
-6-3	_	Christ	abstract[20]	new[20]	coref	6-5[20_21]
+6-3	_	Christ	abstract[22]	new[22]	coref	6-5[22_23]
 6-4	_	as	_	_	_	_
-6-5	_	my	abstract[9]|abstract[21]	new[9]|new[21]	coref	7-1[9_10]
-6-6	_	Saviour	abstract[21]	new[21]	_	_
+6-5	_	my	abstract[9]|abstract[23]	new[9]|new[23]	coref	7-1[9_10]
+6-6	_	Saviour	abstract[23]	new[23]	_	_
 6-7	_	.	_	_	_	_
 6-8	_	"	_	_	_	_
 
@@ -138,7 +151,7 @@
 7-7	_	the	_	_	_	_
 7-8	_	University	_	_	_	_
 7-9	_	of	_	_	_	_
-7-10	_	California	abstract[29]	new[29]	coref	12-16[29_30]
+7-10	_	California	abstract[31]	new[31]	coref	12-16[31_32]
 7-11	_	in	_	_	_	_
 7-12	_	1936	_	_	_	_
 7-13	_	.	_	_	_	_
@@ -152,7 +165,7 @@
 8-6	_	Wycliffe	_	_	_	_
 8-7	_	,	_	_	_	_
 8-8	_	where	_	_	_	_
-8-9	_	Bible	abstract[23]	new[23]	coref	10-14[23_24]
+8-9	_	Bible	abstract[25]	new[25]	coref	10-14[25_26]
 8-10	_	translation	_	_	_	_
 8-11	_	theory	_	_	_	_
 8-12	_	was	_	_	_	_
@@ -163,9 +176,9 @@
 9-1	_	He	abstract[12]	new[12]	coref	9-29[12_13]
 9-2	_	ministered	_	_	_	_
 9-3	_	for	_	_	_	_
-9-4	_	a	abstract[25]	new[25]	coref	10-3[25_26]
-9-5	_	short	abstract[25]	new[25]	_	_
-9-6	_	time	abstract[25]	new[25]	_	_
+9-4	_	a	abstract[27]	new[27]	coref	10-3[27_28]
+9-5	_	short	abstract[27]	new[27]	_	_
+9-6	_	time	abstract[27]	new[27]	_	_
 9-7	_	among	_	_	_	_
 9-8	_	the	_	_	_	_
 9-9	_	Tarahumara	_	_	_	_
@@ -196,8 +209,8 @@
 #Text=Sometime in this period , Nida became a founding charter member of Wycliffe Bible Translators , a related organization to the Summer Institute of Linguistics .
 10-1	_	Sometime	_	_	_	_
 10-2	_	in	_	_	_	_
-10-3	_	this	abstract[26]	new[26]	_	_
-10-4	_	period	abstract[26]	new[26]	_	_
+10-3	_	this	abstract[28]	new[28]	_	_
+10-4	_	period	abstract[28]	new[28]	_	_
 10-5	_	,	_	_	_	_
 10-6	_	Nida	abstract[14]	new[14]	coref	11-4[14_15]
 10-7	_	became	_	_	_	_
@@ -207,7 +220,7 @@
 10-11	_	member	_	_	_	_
 10-12	_	of	_	_	_	_
 10-13	_	Wycliffe	_	_	_	_
-10-14	_	Bible	abstract[24]	new[24]	_	_
+10-14	_	Bible	abstract[26]	new[26]	_	_
 10-15	_	Translators	_	_	_	_
 10-16	_	,	_	_	_	_
 10-17	_	a	_	_	_	_
@@ -218,7 +231,7 @@
 10-22	_	Summer	_	_	_	_
 10-23	_	Institute	_	_	_	_
 10-24	_	of	_	_	_	_
-10-25	_	Linguistics	abstract[58]	new[58]	coref	14-9[58_59]
+10-25	_	Linguistics	abstract[60]	new[60]	coref	14-9[60_61]
 10-26	_	.	_	_	_	_
 
 #Text=In 1937 , Nida undertook studies at the University of Southern California , where he obtained a master 's degree in New Testament Greek in 1939 .
@@ -247,45 +260,45 @@
 11-23	_	Testament	_	_	_	_
 11-24	_	Greek	_	_	_	_
 11-25	_	in	_	_	_	_
-11-26	_	1939	abstract[27]	new[27]	coref	12-2[27_28]
+11-26	_	1939	abstract[29]	new[29]	coref	12-2[29_30]
 11-27	_	.	_	_	_	_
 
 #Text=In that same year he became interim pastor of Calvary Church of Santa Ana , California following the resignation of its founding pastor .
 12-1	_	In	_	_	_	_
-12-2	_	that	abstract[28]	new[28]	_	_
-12-3	_	same	abstract[28]	new[28]	_	_
-12-4	_	year	abstract[28]	new[28]	_	_
+12-2	_	that	abstract[30]	new[30]	_	_
+12-3	_	same	abstract[30]	new[30]	_	_
+12-4	_	year	abstract[30]	new[30]	_	_
 12-5	_	he	abstract[17]	new[17]	_	_
 12-6	_	became	_	_	_	_
-12-7	_	interim	abstract[33]	new[33]	coref	13-2[33_34]
-12-8	_	pastor	abstract[33]	new[33]	_	_
-12-9	_	of	abstract[33]	new[33]	_	_
-12-10	_	Calvary	abstract[31]|abstract[33]	new[31]|new[33]	coref	12-21[31_32]
-12-11	_	Church	abstract[31]|abstract[33]	new[31]|new[33]	_	_
-12-12	_	of	abstract[31]|abstract[33]	new[31]|new[33]	_	_
-12-13	_	Santa	abstract[31]|abstract[33]	new[31]|new[33]	_	_
-12-14	_	Ana	abstract[31]|abstract[33]	new[31]|new[33]	_	_
-12-15	_	,	abstract[31]|abstract[33]	new[31]|new[33]	_	_
-12-16	_	California	abstract[30]|abstract[31]|abstract[33]	new[30]|new[31]|new[33]	_	_
+12-7	_	interim	abstract[35]	new[35]	coref	13-2[35_36]
+12-8	_	pastor	abstract[35]	new[35]	_	_
+12-9	_	of	abstract[35]	new[35]	_	_
+12-10	_	Calvary	abstract[33]|abstract[35]	new[33]|new[35]	coref	12-21[33_34]
+12-11	_	Church	abstract[33]|abstract[35]	new[33]|new[35]	_	_
+12-12	_	of	abstract[33]|abstract[35]	new[33]|new[35]	_	_
+12-13	_	Santa	abstract[33]|abstract[35]	new[33]|new[35]	_	_
+12-14	_	Ana	abstract[33]|abstract[35]	new[33]|new[35]	_	_
+12-15	_	,	abstract[33]|abstract[35]	new[33]|new[35]	_	_
+12-16	_	California	abstract[32]|abstract[33]|abstract[35]	new[32]|new[33]|new[35]	_	_
 12-17	_	following	_	_	_	_
 12-18	_	the	_	_	_	_
 12-19	_	resignation	_	_	_	_
 12-20	_	of	_	_	_	_
-12-21	_	its	abstract[32]	new[32]	_	_
+12-21	_	its	abstract[34]	new[34]	_	_
 12-22	_	founding	_	_	_	_
 12-23	_	pastor	_	_	_	_
 12-24	_	.	_	_	_	_
 
 #Text=Despite his conservative background , in later years Nida became increasingly ecumenical and New Evangelical ( clarification needed ) in his approach .
 13-1	_	Despite	_	_	_	_
-13-2	_	his	abstract[34]	new[34]	coref	13-9[34_35]
+13-2	_	his	abstract[36]	new[36]	coref	13-9[36_37]
 13-3	_	conservative	_	_	_	_
 13-4	_	background	_	_	_	_
 13-5	_	,	_	_	_	_
 13-6	_	in	_	_	_	_
 13-7	_	later	_	_	_	_
 13-8	_	years	_	_	_	_
-13-9	_	Nida	abstract[35]	new[35]	coref	13-21[35_36]
+13-9	_	Nida	abstract[37]	new[37]	coref	13-21[37_38]
 13-10	_	became	_	_	_	_
 13-11	_	increasingly	_	_	_	_
 13-12	_	ecumenical	_	_	_	_
@@ -297,7 +310,7 @@
 13-18	_	needed	_	_	_	_
 13-19	_	)	_	_	_	_
 13-20	_	in	_	_	_	_
-13-21	_	his	abstract[36]	new[36]	coref	14-4[36_37]
+13-21	_	his	abstract[38]	new[38]	coref	14-4[38_39]
 13-22	_	approach	_	_	_	_
 13-23	_	.	_	_	_	_
 
@@ -305,12 +318,12 @@
 14-1	_	In	_	_	_	_
 14-2	_	1943	_	_	_	_
 14-3	_	,	_	_	_	_
-14-4	_	Nida	abstract[37]	new[37]	coref	14-6[37_38]
+14-4	_	Nida	abstract[39]	new[39]	coref	14-6[39_40]
 14-5	_	received	_	_	_	_
-14-6	_	his	abstract[38]|abstract[64]	new[38]|new[64]	coref|coref	15-1[38_39]|22-2[64_65]
-14-7	_	Ph.D.	abstract[64]	new[64]	_	_
-14-8	_	in	abstract[64]	new[64]	_	_
-14-9	_	Linguistics	abstract[59]|abstract[64]	new[59]|new[64]	coref	21-13[59_60]
+14-6	_	his	abstract[40]|abstract[66]	new[40]|new[66]	coref|coref	15-1[40_41]|22-2[66_67]
+14-7	_	Ph.D.	abstract[66]	new[66]	_	_
+14-8	_	in	abstract[66]	new[66]	_	_
+14-9	_	Linguistics	abstract[61]|abstract[66]	new[61]|new[66]	coref	21-13[61_62]
 14-10	_	from	_	_	_	_
 14-11	_	the	_	_	_	_
 14-12	_	University	_	_	_	_
@@ -319,17 +332,17 @@
 14-15	_	.	_	_	_	_
 
 #Text=He was ordained as a Baptist minister .
-15-1	_	He	abstract[39]	new[39]	coref	15-5[39_40]
+15-1	_	He	abstract[41]	new[41]	coref	15-5[41_42]
 15-2	_	was	_	_	_	_
 15-3	_	ordained	_	_	_	_
 15-4	_	as	_	_	_	_
-15-5	_	a	abstract[40]	new[40]	coref	16-1[40_41]
-15-6	_	Baptist	abstract[40]	new[40]	_	_
-15-7	_	minister	abstract[40]	new[40]	_	_
+15-5	_	a	abstract[42]	new[42]	coref	16-1[42_43]
+15-6	_	Baptist	abstract[42]	new[42]	_	_
+15-7	_	minister	abstract[42]	new[42]	_	_
 15-8	_	.	_	_	_	_
 
 #Text=He married Althea Lucille Sprague , who died in 1993 .
-16-1	_	He	abstract[41]	new[41]	coref	17-4[41_42]
+16-1	_	He	abstract[43]	new[43]	coref	17-4[43_44]
 16-2	_	married	_	_	_	_
 16-3	_	Althea	_	_	_	_
 16-4	_	Lucille	_	_	_	_
@@ -345,7 +358,7 @@
 17-1	_	In	_	_	_	_
 17-2	_	1997	_	_	_	_
 17-3	_	,	_	_	_	_
-17-4	_	he	abstract[42]	new[42]	coref	18-1[42_43]
+17-4	_	he	abstract[44]	new[44]	coref	18-1[44_45]
 17-5	_	married	_	_	_	_
 17-6	_	María	_	_	_	_
 17-7	_	Elena	_	_	_	_
@@ -361,7 +374,7 @@
 17-17	_	.	_	_	_	_
 
 #Text=Nida retired in the early 1980s , although he continued to give lectures in universities all around the world , and lived in Alpine , Arizona , USA ; Madrid , Spain and Brussels , Belgium .
-18-1	_	Nida	abstract[43]	new[43]	coref	18-9[43_44]
+18-1	_	Nida	abstract[45]	new[45]	coref	18-9[45_46]
 18-2	_	retired	_	_	_	_
 18-3	_	in	_	_	_	_
 18-4	_	the	_	_	_	_
@@ -369,7 +382,7 @@
 18-6	_	1980s	_	_	_	_
 18-7	_	,	_	_	_	_
 18-8	_	although	_	_	_	_
-18-9	_	he	abstract[44]	new[44]	coref	19-1[44_45]
+18-9	_	he	abstract[46]	new[46]	coref	19-1[46_47]
 18-10	_	continued	_	_	_	_
 18-11	_	to	_	_	_	_
 18-12	_	give	_	_	_	_
@@ -390,9 +403,9 @@
 18-27	_	,	_	_	_	_
 18-28	_	USA	_	_	_	_
 18-29	_	;	_	_	_	_
-18-30	_	Madrid	abstract[62]	new[62]	coref	19-4[62_63]
-18-31	_	,	abstract[62]	new[62]	_	_
-18-32	_	Spain	abstract[62]	new[62]	_	_
+18-30	_	Madrid	abstract[64]	new[64]	coref	19-4[64_65]
+18-31	_	,	abstract[64]	new[64]	_	_
+18-32	_	Spain	abstract[64]	new[64]	_	_
 18-33	_	and	_	_	_	_
 18-34	_	Brussels	_	_	_	_
 18-35	_	,	_	_	_	_
@@ -400,10 +413,10 @@
 18-37	_	.	_	_	_	_
 
 #Text=He died in Madrid on August 25 , 2011 aged 96 .
-19-1	_	He	abstract[45]	new[45]	coref	21-1[45_46]
+19-1	_	He	abstract[47]	new[47]	coref	21-1[47_48]
 19-2	_	died	_	_	_	_
 19-3	_	in	_	_	_	_
-19-4	_	Madrid	abstract[63]	new[63]	_	_
+19-4	_	Madrid	abstract[65]	new[65]	_	_
 19-5	_	on	_	_	_	_
 19-6	_	August	_	_	_	_
 19-7	_	25	_	_	_	_
@@ -417,7 +430,7 @@
 20-1	_	Theories	_	_	_	_
 
 #Text=Nida has been a pioneer in the fields of translation theory and linguistics .
-21-1	_	Nida	abstract[46]	new[46]	coref	22-1[46_47]
+21-1	_	Nida	abstract[48]	new[48]	coref	22-1[48_49]
 21-2	_	has	_	_	_	_
 21-3	_	been	_	_	_	_
 21-4	_	a	_	_	_	_
@@ -429,18 +442,18 @@
 21-10	_	translation	_	_	_	_
 21-11	_	theory	_	_	_	_
 21-12	_	and	_	_	_	_
-21-13	_	linguistics	abstract[60]	new[60]	coref	24-9[60_61]
+21-13	_	linguistics	abstract[62]	new[62]	coref	24-9[62_63]
 21-14	_	.	_	_	_	_
 
 #Text=His Ph.D. dissertation , A Synopsis of English Syntax , was the first full - scale analysis of a major language according to the " immediate - constituent " theory .
-22-1	_	His	abstract[47]	new[47]	coref	23-1[47_48]
-22-2	_	Ph.D.	abstract[65]	new[65]	_	_
+22-1	_	His	abstract[49]	new[49]	coref	23-1[49_50]
+22-2	_	Ph.D.	abstract[67]	new[67]	_	_
 22-3	_	dissertation	_	_	_	_
 22-4	_	,	_	_	_	_
 22-5	_	A	_	_	_	_
 22-6	_	Synopsis	_	_	_	_
 22-7	_	of	_	_	_	_
-22-8	_	English	abstract[66]	new[66]	coref	22-19[66_67]
+22-8	_	English	abstract[68]	new[68]	coref	22-19[68_69]
 22-9	_	Syntax	_	_	_	_
 22-10	_	,	_	_	_	_
 22-11	_	was	_	_	_	_
@@ -451,9 +464,9 @@
 22-16	_	scale	_	_	_	_
 22-17	_	analysis	_	_	_	_
 22-18	_	of	_	_	_	_
-22-19	_	a	abstract[67]	new[67]	_	_
-22-20	_	major	abstract[67]	new[67]	_	_
-22-21	_	language	abstract[67]	new[67]	_	_
+22-19	_	a	abstract[69]	new[69]	_	_
+22-20	_	major	abstract[69]	new[69]	_	_
+22-21	_	language	abstract[69]	new[69]	_	_
 22-22	_	according	_	_	_	_
 22-23	_	to	_	_	_	_
 22-24	_	the	_	_	_	_
@@ -466,15 +479,15 @@
 22-31	_	.	_	_	_	_
 
 #Text=His textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
-23-1	_	His	abstract[48]|abstract[70]	new[48]|new[70]	coref|coref	25-1[48_49]|24-2[70_71]
-23-2	_	textbook	abstract[70]	new[70]	_	_
-23-3	_	Morphology	abstract[68]|abstract[70]	new[68]|new[70]	coref	23-5[68_69]
-23-4	_	:	abstract[70]	new[70]	_	_
-23-5	_	The	abstract[69]|abstract[70]	new[69]|new[70]	_	_
-23-6	_	Descriptive	abstract[69]|abstract[70]	new[69]|new[70]	_	_
-23-7	_	Analysis	abstract[69]|abstract[70]	new[69]|new[70]	_	_
-23-8	_	of	abstract[69]|abstract[70]	new[69]|new[70]	_	_
-23-9	_	Words	abstract[69]|abstract[70]|abstract[77]	new[69]|new[70]|new[77]	coref	27-11[77_78]
+23-1	_	His	abstract[50]|abstract[72]	new[50]|new[72]	coref|coref	25-1[50_51]|24-2[72_73]
+23-2	_	textbook	abstract[72]	new[72]	_	_
+23-3	_	Morphology	abstract[70]|abstract[72]	new[70]|new[72]	coref	23-5[70_71]
+23-4	_	:	abstract[72]	new[72]	_	_
+23-5	_	The	abstract[71]|abstract[72]	new[71]|new[72]	_	_
+23-6	_	Descriptive	abstract[71]|abstract[72]	new[71]|new[72]	_	_
+23-7	_	Analysis	abstract[71]|abstract[72]	new[71]|new[72]	_	_
+23-8	_	of	abstract[71]|abstract[72]	new[71]|new[72]	_	_
+23-9	_	Words	abstract[71]|abstract[72]|abstract[79]	new[71]|new[72]|new[79]	coref	27-11[79_80]
 23-10	_	was	_	_	_	_
 23-11	_	one	_	_	_	_
 23-12	_	of	_	_	_	_
@@ -487,15 +500,15 @@
 23-19	_	.	_	_	_	_
 
 #Text=It remained the only thorough introduction to the field for decades and is still valuable for its many examples and exercises .
-24-1	_	It	abstract[71]	new[71]	_	_
+24-1	_	It	abstract[73]	new[73]	_	_
 24-2	_	remained	_	_	_	_
-24-3	_	the	abstract[72]	new[72]	coref	24-18[72_73]
-24-4	_	only	abstract[72]	new[72]	_	_
-24-5	_	thorough	abstract[72]	new[72]	_	_
-24-6	_	introduction	abstract[72]	new[72]	_	_
-24-7	_	to	abstract[72]	new[72]	_	_
-24-8	_	the	abstract[61]|abstract[72]	new[61]|new[72]	_	_
-24-9	_	field	abstract[61]|abstract[72]	new[61]|new[72]	_	_
+24-3	_	the	abstract[74]	new[74]	coref	24-18[74_75]
+24-4	_	only	abstract[74]	new[74]	_	_
+24-5	_	thorough	abstract[74]	new[74]	_	_
+24-6	_	introduction	abstract[74]	new[74]	_	_
+24-7	_	to	abstract[74]	new[74]	_	_
+24-8	_	the	abstract[63]|abstract[74]	new[63]|new[74]	_	_
+24-9	_	field	abstract[63]|abstract[74]	new[63]|new[74]	_	_
 24-10	_	for	_	_	_	_
 24-11	_	decades	_	_	_	_
 24-12	_	and	_	_	_	_
@@ -503,7 +516,7 @@
 24-14	_	still	_	_	_	_
 24-15	_	valuable	_	_	_	_
 24-16	_	for	_	_	_	_
-24-17	_	its	abstract[73]	new[73]	_	_
+24-17	_	its	abstract[75]	new[75]	_	_
 24-18	_	many	_	_	_	_
 24-19	_	examples	_	_	_	_
 24-20	_	and	_	_	_	_
@@ -511,13 +524,13 @@
 24-22	_	.	_	_	_	_
 
 #Text=His most notable contribution to translation theory is Dynamic Equivalence , also known as Functional Equivalence .
-25-1	_	His	abstract[49]|abstract[75]	new[49]|new[75]	coref|coref	27-1[49_50]|25-15[75_76]
-25-2	_	most	abstract[75]	new[75]	_	_
-25-3	_	notable	abstract[75]	new[75]	_	_
-25-4	_	contribution	abstract[75]	new[75]	_	_
-25-5	_	to	abstract[75]	new[75]	_	_
-25-6	_	translation	abstract[75]	new[75]	_	_
-25-7	_	theory	abstract[75]	new[75]	_	_
+25-1	_	His	abstract[51]|abstract[77]	new[51]|new[77]	coref|coref	27-1[51_52]|25-15[77_78]
+25-2	_	most	abstract[77]	new[77]	_	_
+25-3	_	notable	abstract[77]	new[77]	_	_
+25-4	_	contribution	abstract[77]	new[77]	_	_
+25-5	_	to	abstract[77]	new[77]	_	_
+25-6	_	translation	abstract[77]	new[77]	_	_
+25-7	_	theory	abstract[77]	new[77]	_	_
 25-8	_	is	_	_	_	_
 25-9	_	Dynamic	_	_	_	_
 25-10	_	Equivalence	_	_	_	_
@@ -525,8 +538,8 @@
 25-12	_	also	_	_	_	_
 25-13	_	known	_	_	_	_
 25-14	_	as	_	_	_	_
-25-15	_	Functional	abstract[76]	new[76]	_	_
-25-16	_	Equivalence	abstract[76]	new[76]	_	_
+25-15	_	Functional	abstract[78]	new[78]	_	_
+25-16	_	Equivalence	abstract[78]	new[78]	_	_
 25-17	_	.	_	_	_	_
 
 #Text=For more information , see " Dynamic and formal equivalence . "
@@ -544,7 +557,7 @@
 26-12	_	"	_	_	_	_
 
 #Text=Nida also developed the componential analysis technique , which split words into their components to help determine equivalence in translation ( e.g. " bachelor " = male + unmarried ) .
-27-1	_	Nida	abstract[50]	new[50]	coref	29-1[50_51]
+27-1	_	Nida	abstract[52]	new[52]	coref	29-1[52_53]
 27-2	_	also	_	_	_	_
 27-3	_	developed	_	_	_	_
 27-4	_	the	_	_	_	_
@@ -554,9 +567,9 @@
 27-8	_	,	_	_	_	_
 27-9	_	which	_	_	_	_
 27-10	_	split	_	_	_	_
-27-11	_	words	abstract[78]	new[78]	coref	27-13[78_79]
+27-11	_	words	abstract[80]	new[80]	coref	27-13[80_81]
 27-12	_	into	_	_	_	_
-27-13	_	their	abstract[79]	new[79]	_	_
+27-13	_	their	abstract[81]	new[81]	_	_
 27-14	_	components	_	_	_	_
 27-15	_	to	_	_	_	_
 27-16	_	help	_	_	_	_
@@ -577,7 +590,7 @@
 27-31	_	.	_	_	_	_
 
 #Text=This is , perhaps , not the best example of the technique , though it is the most well - known .
-28-1	_	This	abstract[80]	new[80]	coref	28-15[80_81]
+28-1	_	This	abstract[82]	new[82]	coref	28-15[82_83]
 28-2	_	is	_	_	_	_
 28-3	_	,	_	_	_	_
 28-4	_	perhaps	_	_	_	_
@@ -591,7 +604,7 @@
 28-12	_	technique	_	_	_	_
 28-13	_	,	_	_	_	_
 28-14	_	though	_	_	_	_
-28-15	_	it	abstract[81]	new[81]	_	_
+28-15	_	it	abstract[83]	new[83]	_	_
 28-16	_	is	_	_	_	_
 28-17	_	the	_	_	_	_
 28-18	_	most	_	_	_	_
@@ -601,12 +614,12 @@
 28-22	_	.	_	_	_	_
 
 #Text=Nida 's dynamic - equivalence theory is often held in opposition to the views of philologists who maintain that an understanding of the source text ( ST ) can be achieved by assessing the inter-animation of words on the page , and that meaning is self - contained within the text ( i.e. much more focused on achieving semantic equivalence ) .
-29-1	_	Nida	abstract[51]|abstract[85]	new[51]|new[85]	coref|coref	30-16[51_52]|30-1[85_86]
-29-2	_	's	abstract[51]|abstract[85]	new[51]|new[85]	_	_
-29-3	_	dynamic	abstract[85]	new[85]	_	_
-29-4	_	-	abstract[85]	new[85]	_	_
-29-5	_	equivalence	abstract[85]	new[85]	_	_
-29-6	_	theory	abstract[85]	new[85]	_	_
+29-1	_	Nida	abstract[53]|abstract[87]	new[53]|new[87]	coref|coref	30-16[53_54]|30-1[87_88]
+29-2	_	's	abstract[53]|abstract[87]	new[53]|new[87]	_	_
+29-3	_	dynamic	abstract[87]	new[87]	_	_
+29-4	_	-	abstract[87]	new[87]	_	_
+29-5	_	equivalence	abstract[87]	new[87]	_	_
+29-6	_	theory	abstract[87]	new[87]	_	_
 29-7	_	is	_	_	_	_
 29-8	_	often	_	_	_	_
 29-9	_	held	_	_	_	_
@@ -623,12 +636,12 @@
 29-20	_	an	_	_	_	_
 29-21	_	understanding	_	_	_	_
 29-22	_	of	_	_	_	_
-29-23	_	the	abstract[82]	new[82]	coref	29-50[82_83]
-29-24	_	source	abstract[82]	new[82]	_	_
-29-25	_	text	abstract[82]	new[82]	_	_
-29-26	_	(	abstract[82]	new[82]	_	_
-29-27	_	ST	abstract[82]	new[82]	_	_
-29-28	_	)	abstract[82]	new[82]	_	_
+29-23	_	the	abstract[84]	new[84]	coref	29-50[84_85]
+29-24	_	source	abstract[84]	new[84]	_	_
+29-25	_	text	abstract[84]	new[84]	_	_
+29-26	_	(	abstract[84]	new[84]	_	_
+29-27	_	ST	abstract[84]	new[84]	_	_
+29-28	_	)	abstract[84]	new[84]	_	_
 29-29	_	can	_	_	_	_
 29-30	_	be	_	_	_	_
 29-31	_	achieved	_	_	_	_
@@ -650,8 +663,8 @@
 29-47	_	-	_	_	_	_
 29-48	_	contained	_	_	_	_
 29-49	_	within	_	_	_	_
-29-50	_	the	abstract[83]	new[83]	coref	43-28[83_84]
-29-51	_	text	abstract[83]	new[83]	_	_
+29-50	_	the	abstract[85]	new[85]	coref	43-28[85_86]
+29-51	_	text	abstract[85]	new[85]	_	_
 29-52	_	(	_	_	_	_
 29-53	_	i.e.	_	_	_	_
 29-54	_	much	_	_	_	_
@@ -665,29 +678,29 @@
 29-62	_	.	_	_	_	_
 
 #Text=This theory , along with other theories of correspondence in translating , are elaborated in his essay Principles of Correspondence , where Nida begins by asserting that given that " no two languages are identical , either in the meanings given to corresponding symbols or in the ways in which symbols are arranged in phrases and sentences , it stands to reason that there can be no absolute correspondence between languages .
-30-1	_	This	abstract[86]	new[86]	_	_
-30-2	_	theory	abstract[86]	new[86]	_	_
+30-1	_	This	abstract[88]	new[88]	_	_
+30-2	_	theory	abstract[88]	new[88]	_	_
 30-3	_	,	_	_	_	_
 30-4	_	along	_	_	_	_
 30-5	_	with	_	_	_	_
 30-6	_	other	_	_	_	_
 30-7	_	theories	_	_	_	_
 30-8	_	of	_	_	_	_
-30-9	_	correspondence	abstract[87]	new[87]	coref	30-20[87_88]
+30-9	_	correspondence	abstract[89]	new[89]	coref	30-20[89_90]
 30-10	_	in	_	_	_	_
 30-11	_	translating	_	_	_	_
 30-12	_	,	_	_	_	_
 30-13	_	are	_	_	_	_
 30-14	_	elaborated	_	_	_	_
 30-15	_	in	_	_	_	_
-30-16	_	his	abstract[52]	new[52]	coref	30-23[52_53]
+30-16	_	his	abstract[54]	new[54]	coref	30-23[54_55]
 30-17	_	essay	_	_	_	_
 30-18	_	Principles	_	_	_	_
 30-19	_	of	_	_	_	_
-30-20	_	Correspondence	abstract[88]	new[88]	_	_
+30-20	_	Correspondence	abstract[90]	new[90]	_	_
 30-21	_	,	_	_	_	_
 30-22	_	where	_	_	_	_
-30-23	_	Nida	abstract[53]	new[53]	coref	33-1[53_54]
+30-23	_	Nida	abstract[55]	new[55]	coref	33-1[55_56]
 30-24	_	begins	_	_	_	_
 30-25	_	by	_	_	_	_
 30-26	_	asserting	_	_	_	_
@@ -762,8 +775,8 @@
 32-8	_	be	_	_	_	_
 32-9	_	close	_	_	_	_
 32-10	_	to	_	_	_	_
-32-11	_	the	abstract[111]	new[111]	coref	42-37[111_112]
-32-12	_	original	abstract[111]	new[111]	_	_
+32-11	_	the	abstract[113]	new[113]	coref	42-37[113_114]
+32-12	_	original	abstract[113]	new[113]	_	_
 32-13	_	,	_	_	_	_
 32-14	_	there	_	_	_	_
 32-15	_	can	_	_	_	_
@@ -775,21 +788,21 @@
 32-21	_	.	_	_	_	_
 
 #Text=Nida then sets forth the differences in translation , as he would account for it , within three basic factors :
-33-1	_	Nida	abstract[54]	new[54]	coref	33-11[54_55]
+33-1	_	Nida	abstract[56]	new[56]	coref	33-11[56_57]
 33-2	_	then	_	_	_	_
 33-3	_	sets	_	_	_	_
 33-4	_	forth	_	_	_	_
-33-5	_	the	abstract[89]	new[89]	coref	33-15[89_90]
-33-6	_	differences	abstract[89]	new[89]	_	_
-33-7	_	in	abstract[89]	new[89]	_	_
-33-8	_	translation	abstract[89]	new[89]	_	_
+33-5	_	the	abstract[91]	new[91]	coref	33-15[91_92]
+33-6	_	differences	abstract[91]	new[91]	_	_
+33-7	_	in	abstract[91]	new[91]	_	_
+33-8	_	translation	abstract[91]	new[91]	_	_
 33-9	_	,	_	_	_	_
 33-10	_	as	_	_	_	_
-33-11	_	he	abstract[55]	new[55]	coref	37-1[55_56]
+33-11	_	he	abstract[57]	new[57]	coref	37-1[57_58]
 33-12	_	would	_	_	_	_
 33-13	_	account	_	_	_	_
 33-14	_	for	_	_	_	_
-33-15	_	it	abstract[90]	new[90]	_	_
+33-15	_	it	abstract[92]	new[92]	_	_
 33-16	_	,	_	_	_	_
 33-17	_	within	_	_	_	_
 33-18	_	three	_	_	_	_
@@ -802,8 +815,8 @@
 34-2	_	The	_	_	_	_
 34-3	_	nature	_	_	_	_
 34-4	_	of	_	_	_	_
-34-5	_	the	abstract[94]	new[94]	coref	35-39[94_95]
-34-6	_	message	abstract[94]	new[94]	_	_
+34-5	_	the	abstract[96]	new[96]	coref	35-39[96_97]
+34-6	_	message	abstract[96]	new[96]	_	_
 34-7	_	:	_	_	_	_
 34-8	_	in	_	_	_	_
 34-9	_	some	_	_	_	_
@@ -837,8 +850,8 @@
 35-6	_	author	_	_	_	_
 35-7	_	and	_	_	_	_
 35-8	_	of	_	_	_	_
-35-9	_	the	abstract[99]	new[99]	coref	37-22[99_100]
-35-10	_	translator	abstract[99]	new[99]	_	_
+35-9	_	the	abstract[101]	new[101]	coref	37-22[101_102]
+35-10	_	translator	abstract[101]	new[101]	_	_
 35-11	_	:	_	_	_	_
 35-12	_	to	_	_	_	_
 35-13	_	give	_	_	_	_
@@ -855,20 +868,20 @@
 35-24	_	full	_	_	_	_
 35-25	_	intelligibility	_	_	_	_
 35-26	_	of	_	_	_	_
-35-27	_	the	abstract[91]	new[91]	coref	35-30[91_92]
-35-28	_	reader	abstract[91]	new[91]	_	_
+35-27	_	the	abstract[93]	new[93]	coref	35-30[93_94]
+35-28	_	reader	abstract[93]	new[93]	_	_
 35-29	_	so	_	_	_	_
-35-30	_	he	abstract[92]	new[92]	coref	35-32[92_93]
+35-30	_	he	abstract[94]	new[94]	coref	35-32[94_95]
 35-31	_	/	_	_	_	_
-35-32	_	she	abstract[93]	new[93]	_	_
+35-32	_	she	abstract[95]	new[95]	_	_
 35-33	_	may	_	_	_	_
 35-34	_	understand	_	_	_	_
 35-35	_	the	_	_	_	_
 35-36	_	full	_	_	_	_
 35-37	_	implications	_	_	_	_
 35-38	_	of	_	_	_	_
-35-39	_	the	abstract[95]	new[95]	coref	40-7[95_96]
-35-40	_	message	abstract[95]	new[95]	_	_
+35-39	_	the	abstract[97]	new[97]	coref	40-7[97_98]
+35-40	_	message	abstract[97]	new[97]	_	_
 35-41	_	;	_	_	_	_
 35-42	_	for	_	_	_	_
 35-43	_	imperative	_	_	_	_
@@ -879,8 +892,8 @@
 35-48	_	not	_	_	_	_
 35-49	_	just	_	_	_	_
 35-50	_	understanding	_	_	_	_
-35-51	_	the	abstract[97]	new[97]	coref	35-60[97_98]
-35-52	_	translation	abstract[97]	new[97]	_	_
+35-51	_	the	abstract[99]	new[99]	coref	35-60[99_100]
+35-52	_	translation	abstract[99]	new[99]	_	_
 35-53	_	but	_	_	_	_
 35-54	_	also	_	_	_	_
 35-55	_	at	_	_	_	_
@@ -888,8 +901,8 @@
 35-57	_	no	_	_	_	_
 35-58	_	misunderstanding	_	_	_	_
 35-59	_	of	_	_	_	_
-35-60	_	the	abstract[98]	new[98]	_	_
-35-61	_	translation	abstract[98]	new[98]	_	_
+35-60	_	the	abstract[100]	new[100]	_	_
+35-61	_	translation	abstract[100]	new[100]	_	_
 35-62	_	.	_	_	_	_
 
 #Text=3. The type of audience : prospective audiences differ both in decoding ability and in potential interest .
@@ -913,7 +926,7 @@
 36-18	_	.	_	_	_	_
 
 #Text=Nida brings in the reminder that while there are no such things as " identical equivalents " in translating , what one must in translating seek to do is find the " closest natural equivalent " .
-37-1	_	Nida	abstract[56]	new[56]	coref	38-2[56_57]
+37-1	_	Nida	abstract[58]	new[58]	coref	38-2[58_59]
 37-2	_	brings	_	_	_	_
 37-3	_	in	_	_	_	_
 37-4	_	the	_	_	_	_
@@ -934,7 +947,7 @@
 37-19	_	translating	_	_	_	_
 37-20	_	,	_	_	_	_
 37-21	_	what	_	_	_	_
-37-22	_	one	abstract[100]	new[100]	coref	42-21[100_101]
+37-22	_	one	abstract[102]	new[102]	coref	42-21[102_103]
 37-23	_	must	_	_	_	_
 37-24	_	in	_	_	_	_
 37-25	_	translating	_	_	_	_
@@ -953,7 +966,7 @@
 
 #Text=Here he identifies two basic orientations in translating based on two different types of equivalence :
 38-1	_	Here	_	_	_	_
-38-2	_	he	abstract[57]	new[57]	_	_
+38-2	_	he	abstract[59]	new[59]	_	_
 38-3	_	identifies	_	_	_	_
 38-4	_	two	_	_	_	_
 38-5	_	basic	_	_	_	_
@@ -970,13 +983,13 @@
 38-16	_	:	_	_	_	_
 
 #Text=Formal Equivalence ( F - E ) and Dynamic Equivalence ( D - E ) .
-39-1	_	Formal	abstract[102]	new[102]	coref	40-1[102_103]
-39-2	_	Equivalence	abstract[102]	new[102]	_	_
-39-3	_	(	abstract[102]	new[102]	_	_
-39-4	_	F	abstract[102]	new[102]	_	_
-39-5	_	-	abstract[102]	new[102]	_	_
-39-6	_	E	abstract[102]	new[102]	_	_
-39-7	_	)	abstract[102]	new[102]	_	_
+39-1	_	Formal	abstract[104]	new[104]	coref	40-1[104_105]
+39-2	_	Equivalence	abstract[104]	new[104]	_	_
+39-3	_	(	abstract[104]	new[104]	_	_
+39-4	_	F	abstract[104]	new[104]	_	_
+39-5	_	-	abstract[104]	new[104]	_	_
+39-6	_	E	abstract[104]	new[104]	_	_
+39-7	_	)	abstract[104]	new[104]	_	_
 39-8	_	and	_	_	_	_
 39-9	_	Dynamic	_	_	_	_
 39-10	_	Equivalence	_	_	_	_
@@ -988,21 +1001,21 @@
 39-16	_	.	_	_	_	_
 
 #Text=F - E focuses attention on the message itself , in both form and content .
-40-1	_	F	abstract[103]	new[103]	coref	43-5[103_104]
-40-2	_	-	abstract[103]	new[103]	_	_
-40-3	_	E	abstract[103]	new[103]	_	_
+40-1	_	F	abstract[105]	new[105]	coref	43-5[105_106]
+40-2	_	-	abstract[105]	new[105]	_	_
+40-3	_	E	abstract[105]	new[105]	_	_
 40-4	_	focuses	_	_	_	_
 40-5	_	attention	_	_	_	_
 40-6	_	on	_	_	_	_
-40-7	_	the	abstract[96]	new[96]	_	_
-40-8	_	message	abstract[96]	new[96]	_	_
-40-9	_	itself	abstract[96]	new[96]	_	_
+40-7	_	the	abstract[98]	new[98]	_	_
+40-8	_	message	abstract[98]	new[98]	_	_
+40-9	_	itself	abstract[98]	new[98]	_	_
 40-10	_	,	_	_	_	_
 40-11	_	in	_	_	_	_
-40-12	_	both	abstract[109]	new[109]	coref	42-32[109_110]
-40-13	_	form	abstract[107]|abstract[109]	new[107]|new[109]	coref	42-32[107_108]
-40-14	_	and	abstract[109]	new[109]	_	_
-40-15	_	content	abstract[109]	new[109]	_	_
+40-12	_	both	abstract[111]	new[111]	coref	42-32[111_112]
+40-13	_	form	abstract[109]|abstract[111]	new[109]|new[111]	coref	42-32[109_110]
+40-14	_	and	abstract[111]	new[111]	_	_
+40-15	_	content	abstract[111]	new[111]	_	_
 40-16	_	.	_	_	_	_
 
 #Text=Such translations then would be concerned with such correspondences as poetry to poetry , sentence to sentence , and concept to concept .
@@ -1013,21 +1026,21 @@
 41-5	_	be	_	_	_	_
 41-6	_	concerned	_	_	_	_
 41-7	_	with	_	_	_	_
-41-8	_	such	abstract[105]	new[105]	coref	42-7[105_106]
-41-9	_	correspondences	abstract[105]	new[105]	_	_
-41-10	_	as	abstract[105]	new[105]	_	_
-41-11	_	poetry	abstract[105]	new[105]	_	_
-41-12	_	to	abstract[105]	new[105]	_	_
-41-13	_	poetry	abstract[105]	new[105]	_	_
-41-14	_	,	abstract[105]	new[105]	_	_
-41-15	_	sentence	abstract[105]	new[105]	_	_
-41-16	_	to	abstract[105]	new[105]	_	_
-41-17	_	sentence	abstract[105]	new[105]	_	_
-41-18	_	,	abstract[105]	new[105]	_	_
-41-19	_	and	abstract[105]	new[105]	_	_
-41-20	_	concept	abstract[105]	new[105]	_	_
-41-21	_	to	abstract[105]	new[105]	_	_
-41-22	_	concept	abstract[105]	new[105]	_	_
+41-8	_	such	abstract[107]	new[107]	coref	42-7[107_108]
+41-9	_	correspondences	abstract[107]	new[107]	_	_
+41-10	_	as	abstract[107]	new[107]	_	_
+41-11	_	poetry	abstract[107]	new[107]	_	_
+41-12	_	to	abstract[107]	new[107]	_	_
+41-13	_	poetry	abstract[107]	new[107]	_	_
+41-14	_	,	abstract[107]	new[107]	_	_
+41-15	_	sentence	abstract[107]	new[107]	_	_
+41-16	_	to	abstract[107]	new[107]	_	_
+41-17	_	sentence	abstract[107]	new[107]	_	_
+41-18	_	,	abstract[107]	new[107]	_	_
+41-19	_	and	abstract[107]	new[107]	_	_
+41-20	_	concept	abstract[107]	new[107]	_	_
+41-21	_	to	abstract[107]	new[107]	_	_
+41-22	_	concept	abstract[107]	new[107]	_	_
 41-23	_	.	_	_	_	_
 
 #Text=Such a formal orientation that typifies this type of structural equivalence is called a " gloss translation " in which the translator aims at reproducing as literally and meaningfully as possible the form and content of the original .
@@ -1037,11 +1050,11 @@
 42-4	_	orientation	_	_	_	_
 42-5	_	that	_	_	_	_
 42-6	_	typifies	_	_	_	_
-42-7	_	this	abstract[106]	new[106]	_	_
-42-8	_	type	abstract[106]	new[106]	_	_
-42-9	_	of	abstract[106]	new[106]	_	_
-42-10	_	structural	abstract[106]	new[106]	_	_
-42-11	_	equivalence	abstract[106]	new[106]	_	_
+42-7	_	this	abstract[108]	new[108]	_	_
+42-8	_	type	abstract[108]	new[108]	_	_
+42-9	_	of	abstract[108]	new[108]	_	_
+42-10	_	structural	abstract[108]	new[108]	_	_
+42-11	_	equivalence	abstract[108]	new[108]	_	_
 42-12	_	is	_	_	_	_
 42-13	_	called	_	_	_	_
 42-14	_	a	_	_	_	_
@@ -1051,8 +1064,8 @@
 42-18	_	"	_	_	_	_
 42-19	_	in	_	_	_	_
 42-20	_	which	_	_	_	_
-42-21	_	the	abstract[101]	new[101]	_	_
-42-22	_	translator	abstract[101]	new[101]	_	_
+42-21	_	the	abstract[103]	new[103]	_	_
+42-22	_	translator	abstract[103]	new[103]	_	_
 42-23	_	aims	_	_	_	_
 42-24	_	at	_	_	_	_
 42-25	_	reproducing	_	_	_	_
@@ -1062,13 +1075,13 @@
 42-29	_	meaningfully	_	_	_	_
 42-30	_	as	_	_	_	_
 42-31	_	possible	_	_	_	_
-42-32	_	the	abstract[108]|abstract[110]	new[108]|new[110]	_	_
-42-33	_	form	abstract[108]|abstract[110]	new[108]|new[110]	_	_
-42-34	_	and	abstract[110]	new[110]	_	_
-42-35	_	content	abstract[110]	new[110]	_	_
-42-36	_	of	abstract[110]	new[110]	_	_
-42-37	_	the	abstract[110]|abstract[112]	new[110]|new[112]	_	_
-42-38	_	original	abstract[110]|abstract[112]	new[110]|new[112]	_	_
+42-32	_	the	abstract[110]|abstract[112]	new[110]|new[112]	_	_
+42-33	_	form	abstract[110]|abstract[112]	new[110]|new[112]	_	_
+42-34	_	and	abstract[112]	new[112]	_	_
+42-35	_	content	abstract[112]	new[112]	_	_
+42-36	_	of	abstract[112]	new[112]	_	_
+42-37	_	the	abstract[112]|abstract[114]	new[112]|new[114]	_	_
+42-38	_	original	abstract[112]|abstract[114]	new[112]|new[114]	_	_
 42-39	_	.	_	_	_	_
 
 #Text=The principles governing an F - E translation would then be : reproduction of grammatical units ; consistency in word usage ; and meanings in terms of the source context .
@@ -1076,9 +1089,9 @@
 43-2	_	principles	_	_	_	_
 43-3	_	governing	_	_	_	_
 43-4	_	an	_	_	_	_
-43-5	_	F	abstract[104]	new[104]	_	_
-43-6	_	-	abstract[104]	new[104]	_	_
-43-7	_	E	abstract[104]	new[104]	_	_
+43-5	_	F	abstract[106]	new[106]	_	_
+43-6	_	-	abstract[106]	new[106]	_	_
+43-7	_	E	abstract[106]	new[106]	_	_
 43-8	_	translation	_	_	_	_
 43-9	_	would	_	_	_	_
 43-10	_	then	_	_	_	_
@@ -1099,8 +1112,8 @@
 43-25	_	in	_	_	_	_
 43-26	_	terms	_	_	_	_
 43-27	_	of	_	_	_	_
-43-28	_	the	abstract[84]	new[84]	_	_
-43-29	_	source	abstract[84]	new[84]	_	_
-43-30	_	context	abstract[84]	new[84]	_	_
+43-28	_	the	abstract[86]	new[86]	_	_
+43-29	_	source	abstract[86]	new[86]	_	_
+43-30	_	context	abstract[86]	new[86]	_	_
 43-31	_	.	_	_	_	_
 

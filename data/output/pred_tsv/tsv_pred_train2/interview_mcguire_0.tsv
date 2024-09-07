@@ -614,7 +614,7 @@
 37-26	_	,	_	_	_	_
 37-27	_	such	_	_	_	_
 37-28	_	as	_	_	_	_
-37-29	_	O'Reilly	abstract[105]	new[105]	coref	49-15[105_106]
+37-29	_	O'Reilly	abstract[106]	new[106]	coref	49-15[106_107]
 37-30	_	.	_	_	_	_
 
 #Text=Do you want to limit the scope of LibriVox strictly to old public domain works , or do you have plans to include recent works under reasonably permissive licenses as well ?
@@ -951,7 +951,7 @@
 
 #Text=While Pride and Prejudice will attract many readers , I do n't know about O'Reilly 's latest tome on XML ... though I might be wrong .
 49-1	_	While	_	_	_	_
-49-2	_	Pride	abstract[104]	new[104]	_	_
+49-2	_	Pride	abstract[104]	new[104]	coref	50-23[104_105]
 49-3	_	and	abstract[104]	new[104]	_	_
 49-4	_	Prejudice	abstract[104]	new[104]	_	_
 49-5	_	will	_	_	_	_
@@ -964,8 +964,8 @@
 49-12	_	n't	_	_	_	_
 49-13	_	know	_	_	_	_
 49-14	_	about	_	_	_	_
-49-15	_	O'Reilly	abstract[106]	new[106]	_	_
-49-16	_	's	abstract[106]	new[106]	_	_
+49-15	_	O'Reilly	abstract[107]	new[107]	_	_
+49-16	_	's	abstract[107]	new[107]	_	_
 49-17	_	latest	_	_	_	_
 49-18	_	tome	_	_	_	_
 49-19	_	on	_	_	_	_
@@ -978,23 +978,35 @@
 49-26	_	wrong	_	_	_	_
 49-27	_	.	_	_	_	_
 
-#Text=How has the Paralympic movement changed in the United States when the Games take place in Sochi ?
-50-1	_	How	_	_	_	_
-50-2	_	has	_	_	_	_
-50-3	_	the	_	_	_	_
-50-4	_	Paralympic	_	_	_	_
-50-5	_	movement	_	_	_	_
-50-6	_	changed	_	_	_	_
-50-7	_	in	_	_	_	_
-50-8	_	the	_	_	_	_
-50-9	_	United	_	_	_	_
-50-10	_	States	_	_	_	_
-50-11	_	when	_	_	_	_
-50-12	_	the	_	_	_	_
-50-13	_	Games	_	_	_	_
-50-14	_	take	_	_	_	_
-50-15	_	place	_	_	_	_
-50-16	_	in	_	_	_	_
-50-17	_	Sochi	_	_	_	_
-50-18	_	?	_	_	_	_
+#Text=This week , the American sports media is talking about how they should develop what they call'social media ' . But the Games are n't always happening in America .
+50-1	_	This	_	_	_	_
+50-2	_	week	_	_	_	_
+50-3	_	,	_	_	_	_
+50-4	_	the	abstract[108]	new[108]	coref	50-13[108_109]
+50-5	_	American	abstract[108]	new[108]	_	_
+50-6	_	sports	abstract[108]	new[108]	_	_
+50-7	_	media	abstract[108]	new[108]	_	_
+50-8	_	is	_	_	_	_
+50-9	_	talking	_	_	_	_
+50-10	_	about	_	_	_	_
+50-11	_	how	_	_	_	_
+50-12	_	they	abstract[109]	new[109]	coref	50-17[109_110]
+50-13	_	should	_	_	_	_
+50-14	_	develop	_	_	_	_
+50-15	_	what	_	_	_	_
+50-16	_	they	abstract[110]	new[110]	_	_
+50-17	_	call'social	_	_	_	_
+50-18	_	media	_	_	_	_
+50-19	_	'	_	_	_	_
+50-20	_	.	_	_	_	_
+50-21	_	But	_	_	_	_
+50-22	_	the	abstract[105]	new[105]	_	_
+50-23	_	Games	abstract[105]	new[105]	_	_
+50-24	_	are	_	_	_	_
+50-25	_	n't	_	_	_	_
+50-26	_	always	_	_	_	_
+50-27	_	happening	_	_	_	_
+50-28	_	in	_	_	_	_
+50-29	_	America	_	_	_	_
+50-30	_	.	_	_	_	_
 

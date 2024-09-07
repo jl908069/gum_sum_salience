@@ -863,27 +863,27 @@
 46-6	_	.	_	_	_	_
 
 #Text=It 's bullshit .
-47-1	_	It	abstract[84]	new[84]	coref	48-1[84_85]
+47-1	_	It	abstract[85]	new[85]	coref	48-1[85_86]
 47-2	_	's	_	_	_	_
 47-3	_	bullshit	_	_	_	_
 47-4	_	.	_	_	_	_
 
 #Text=All of it .
-48-1	_	All	abstract[85]	new[85]	coref	49-1[85_86]
-48-2	_	of	abstract[85]	new[85]	_	_
-48-3	_	it	abstract[85]	new[85]	_	_
+48-1	_	All	abstract[86]	new[86]	coref	49-1[86_87]
+48-2	_	of	abstract[86]	new[86]	_	_
+48-3	_	it	abstract[86]	new[86]	_	_
 48-4	_	.	_	_	_	_
 
 #Text=It 's bullshit .
-49-1	_	It	abstract[86]	new[86]	coref	50-1[86_87]
+49-1	_	It	abstract[87]	new[87]	coref	50-1[87_88]
 49-2	_	's	_	_	_	_
 49-3	_	bullshit	_	_	_	_
 49-4	_	.	_	_	_	_
 
 #Text=All of it .
-50-1	_	All	abstract[87]	new[87]	_	_
-50-2	_	of	abstract[87]	new[87]	_	_
-50-3	_	it	abstract[87]	new[87]	_	_
+50-1	_	All	abstract[88]	new[88]	_	_
+50-2	_	of	abstract[88]	new[88]	_	_
+50-3	_	it	abstract[88]	new[88]	_	_
 50-4	_	.	_	_	_	_
 
 #Text=https://m.youtube.com/watch?v=hlJmBe1eeQA
@@ -891,7 +891,7 @@
 
 #Text=When this sphere earth was postulated there was no tech to send a weather baloon with a cam .
 52-1	_	When	_	_	_	_
-52-2	_	this	abstract[83]	new[83]	_	_
+52-2	_	this	abstract[83]	new[83]	coref	56-47[83_84]
 52-3	_	sphere	abstract[83]	new[83]	_	_
 52-4	_	earth	abstract[83]	new[83]	_	_
 52-5	_	was	_	_	_	_
@@ -937,19 +937,56 @@
 55-11	_	moment	_	_	_	_
 55-12	_	.	_	_	_	_
 
-#Text=Do n't let the pressure get too much of a hold on you .
-56-1	_	Do	_	_	_	_
-56-2	_	n't	_	_	_	_
-56-3	_	let	_	_	_	_
-56-4	_	the	_	_	_	_
-56-5	_	pressure	_	_	_	_
-56-6	_	get	_	_	_	_
-56-7	_	too	_	_	_	_
-56-8	_	much	_	_	_	_
-56-9	_	of	_	_	_	_
-56-10	_	a	_	_	_	_
-56-11	_	hold	_	_	_	_
-56-12	_	on	_	_	_	_
-56-13	_	you	_	_	_	_
-56-14	_	.	_	_	_	_
+#Text=Some people discuss how little they know about space since they get all of their information from NASA and Hollywood movies , which they distrust , and question whether there are astronauts on the ISS , or whether the moon landing happened , and suggest the Earth is actually flat .
+56-1	_	Some	abstract[89]	new[89]	coref	56-7[89_90]
+56-2	_	people	abstract[89]	new[89]	_	_
+56-3	_	discuss	_	_	_	_
+56-4	_	how	_	_	_	_
+56-5	_	little	_	_	_	_
+56-6	_	they	abstract[90]	new[90]	coref	56-12[90_91]
+56-7	_	know	_	_	_	_
+56-8	_	about	_	_	_	_
+56-9	_	space	_	_	_	_
+56-10	_	since	_	_	_	_
+56-11	_	they	abstract[91]	new[91]	coref	56-16[91_92]
+56-12	_	get	_	_	_	_
+56-13	_	all	_	_	_	_
+56-14	_	of	_	_	_	_
+56-15	_	their	abstract[92]	new[92]	coref	56-25[92_93]
+56-16	_	information	_	_	_	_
+56-17	_	from	_	_	_	_
+56-18	_	NASA	_	_	_	_
+56-19	_	and	_	_	_	_
+56-20	_	Hollywood	_	_	_	_
+56-21	_	movies	_	_	_	_
+56-22	_	,	_	_	_	_
+56-23	_	which	_	_	_	_
+56-24	_	they	abstract[93]	new[93]	_	_
+56-25	_	distrust	_	_	_	_
+56-26	_	,	_	_	_	_
+56-27	_	and	_	_	_	_
+56-28	_	question	_	_	_	_
+56-29	_	whether	_	_	_	_
+56-30	_	there	_	_	_	_
+56-31	_	are	_	_	_	_
+56-32	_	astronauts	_	_	_	_
+56-33	_	on	_	_	_	_
+56-34	_	the	_	_	_	_
+56-35	_	ISS	_	_	_	_
+56-36	_	,	_	_	_	_
+56-37	_	or	_	_	_	_
+56-38	_	whether	_	_	_	_
+56-39	_	the	_	_	_	_
+56-40	_	moon	_	_	_	_
+56-41	_	landing	_	_	_	_
+56-42	_	happened	_	_	_	_
+56-43	_	,	_	_	_	_
+56-44	_	and	_	_	_	_
+56-45	_	suggest	_	_	_	_
+56-46	_	the	abstract[84]	new[84]	_	_
+56-47	_	Earth	abstract[84]	new[84]	_	_
+56-48	_	is	_	_	_	_
+56-49	_	actually	_	_	_	_
+56-50	_	flat	_	_	_	_
+56-51	_	.	_	_	_	_
 

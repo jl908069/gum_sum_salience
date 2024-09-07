@@ -15,10 +15,10 @@
 2-6	_	Country	_	_	_	_
 2-7	_	region	_	_	_	_
 2-8	_	of	_	_	_	_
-2-9	_	Oklahoma	abstract[34]	new[34]	coref	9-8[34_35]
+2-9	_	Oklahoma	abstract[32]	new[32]	coref	9-8[32_33]
 2-10	_	.	_	_	_	_
 
-#Text=It is also called “ T - town ” by the locals and has been called the " Visit the indigenous plant and wildlife located on Socotra Island . Travel to and from Socotra via one of the many smaller beaches . Indentify the area by a beautiful green limestone plateau . See the incredible natural beauty and wildlife on a public bus .
+#Text=It is also called “ T - town ” by the locals and has been called the " Tourism : Coron ( Colombia : Located on the island of Busuanga ) : See , taste
 3-1	_	It	abstract[3]	new[3]	coref	3-6[3_4]
 3-2	_	is	_	_	_	_
 3-3	_	also	_	_	_	_
@@ -37,59 +37,30 @@
 3-16	_	called	_	_	_	_
 3-17	_	the	_	_	_	_
 3-18	_	"	_	_	_	_
-3-19	_	Visit	_	_	_	_
-3-20	_	the	_	_	_	_
-3-21	_	indigenous	_	_	_	_
-3-22	_	plant	_	_	_	_
-3-23	_	and	_	_	_	_
-3-24	_	wildlife	_	_	_	_
-3-25	_	located	_	_	_	_
+3-19	_	Tourism	_	_	_	_
+3-20	_	:	_	_	_	_
+3-21	_	Coron	_	_	_	_
+3-22	_	(	_	_	_	_
+3-23	_	Colombia	_	_	_	_
+3-24	_	:	_	_	_	_
+3-25	_	Located	_	_	_	_
 3-26	_	on	_	_	_	_
-3-27	_	Socotra	abstract[32]	new[32]	coref	3-34[32_33]
-3-28	_	Island	abstract[32]	new[32]	_	_
-3-29	_	.	_	_	_	_
-3-30	_	Travel	_	_	_	_
-3-31	_	to	_	_	_	_
-3-32	_	and	_	_	_	_
-3-33	_	from	_	_	_	_
-3-34	_	Socotra	abstract[33]	new[33]	_	_
-3-35	_	via	_	_	_	_
-3-36	_	one	_	_	_	_
-3-37	_	of	_	_	_	_
-3-38	_	the	_	_	_	_
-3-39	_	many	_	_	_	_
-3-40	_	smaller	_	_	_	_
-3-41	_	beaches	_	_	_	_
-3-42	_	.	_	_	_	_
-3-43	_	Indentify	_	_	_	_
-3-44	_	the	_	_	_	_
-3-45	_	area	_	_	_	_
-3-46	_	by	_	_	_	_
-3-47	_	a	_	_	_	_
-3-48	_	beautiful	_	_	_	_
-3-49	_	green	_	_	_	_
-3-50	_	limestone	_	_	_	_
-3-51	_	plateau	_	_	_	_
-3-52	_	.	_	_	_	_
-3-53	_	See	_	_	_	_
-3-54	_	the	_	_	_	_
-3-55	_	incredible	_	_	_	_
-3-56	_	natural	_	_	_	_
-3-57	_	beauty	_	_	_	_
-3-58	_	and	_	_	_	_
-3-59	_	wildlife	_	_	_	_
-3-60	_	on	_	_	_	_
-3-61	_	a	_	_	_	_
-3-62	_	public	_	_	_	_
-3-63	_	bus	_	_	_	_
-3-64	_	.	_	_	_	_
+3-27	_	the	_	_	_	_
+3-28	_	island	_	_	_	_
+3-29	_	of	_	_	_	_
+3-30	_	Busuanga	_	_	_	_
+3-31	_	)	_	_	_	_
+3-32	_	:	_	_	_	_
+3-33	_	See	_	_	_	_
+3-34	_	,	_	_	_	_
+3-35	_	taste	_	_	_	_
 
 #Text=Oil Capital of the World " .
 4-1	_	Oil	_	_	_	_
 4-2	_	Capital	_	_	_	_
 4-3	_	of	_	_	_	_
-4-4	_	the	abstract[62]	new[62]	coref	31-1[62_63]
-4-5	_	World	abstract[62]	new[62]	_	_
+4-4	_	the	abstract[60]	new[60]	coref	31-1[60_61]
+4-5	_	World	abstract[60]	new[60]	_	_
 4-6	_	"	_	_	_	_
 4-7	_	.	_	_	_	_
 
@@ -101,9 +72,9 @@
 5-5	_	391,000	_	_	_	_
 5-6	_	people	_	_	_	_
 5-7	_	and	_	_	_	_
-5-8	_	the	abstract[76]	new[76]	coref	46-12[76_77]
-5-9	_	metro	abstract[76]	new[76]	_	_
-5-10	_	area	abstract[76]	new[76]	_	_
+5-8	_	the	abstract[74]	new[74]	coref	46-12[74_75]
+5-9	_	metro	abstract[74]	new[74]	_	_
+5-10	_	area	abstract[74]	new[74]	_	_
 5-11	_	had	_	_	_	_
 5-12	_	about	_	_	_	_
 5-13	_	937,000	_	_	_	_
@@ -113,7 +84,7 @@
 5-17	_	2010	_	_	_	_
 5-18	_	from	_	_	_	_
 5-19	_	the	_	_	_	_
-5-20	_	US	abstract[52]	new[52]	coref	16-12[52_53]
+5-20	_	US	abstract[50]	new[50]	coref	16-12[50_51]
 5-21	_	Census	_	_	_	_
 5-22	_	Bureau	_	_	_	_
 5-23	_	.	_	_	_	_
@@ -146,9 +117,9 @@
 8-8	_	the	_	_	_	_
 8-9	_	convergence	_	_	_	_
 8-10	_	of	_	_	_	_
-8-11	_	the	abstract[39]	new[39]	coref	10-12[39_40]
-8-12	_	Great	abstract[39]	new[39]	_	_
-8-13	_	Plains	abstract[39]	new[39]	_	_
+8-11	_	the	abstract[37]	new[37]	coref	10-12[37_38]
+8-12	_	Great	abstract[37]	new[37]	_	_
+8-13	_	Plains	abstract[37]	new[37]	_	_
 8-14	_	and	_	_	_	_
 8-15	_	the	_	_	_	_
 8-16	_	Ozark	_	_	_	_
@@ -187,7 +158,7 @@
 9-5	_	Tulsa	abstract[9]	new[9]	coref	13-1[9_10]
 9-6	_	breaks	_	_	_	_
 9-7	_	the	_	_	_	_
-9-8	_	Oklahoma	abstract[35]	new[35]	coref	29-14[35_36]
+9-8	_	Oklahoma	abstract[33]	new[33]	coref	29-15[33_34]
 9-9	_	stereotype	_	_	_	_
 9-10	_	of	_	_	_	_
 9-11	_	being	_	_	_	_
@@ -213,16 +184,16 @@
 10-9	_	cold	_	_	_	_
 10-10	_	wind	_	_	_	_
 10-11	_	across	_	_	_	_
-10-12	_	the	abstract[40]	new[40]	_	_
-10-13	_	plains	abstract[40]	new[40]	_	_
+10-12	_	the	abstract[38]	new[38]	_	_
+10-13	_	plains	abstract[38]	new[38]	_	_
 10-14	_	it	_	_	_	_
 10-15	_	can	_	_	_	_
 10-16	_	get	_	_	_	_
 10-17	_	very	_	_	_	_
 10-18	_	cold	_	_	_	_
 10-19	_	in	_	_	_	_
-10-20	_	the	abstract[41]	new[41]	coref	11-1[41_42]
-10-21	_	winter	abstract[41]	new[41]	_	_
+10-20	_	the	abstract[39]	new[39]	coref	11-1[39_40]
+10-21	_	winter	abstract[39]	new[39]	_	_
 10-22	_	,	_	_	_	_
 10-23	_	but	_	_	_	_
 10-24	_	it	_	_	_	_
@@ -233,8 +204,8 @@
 10-29	_	.	_	_	_	_
 
 #Text=The winters are considered to be very mild .
-11-1	_	The	abstract[42]	new[42]	_	_
-11-2	_	winters	abstract[42]	new[42]	_	_
+11-1	_	The	abstract[40]	new[40]	_	_
+11-2	_	winters	abstract[40]	new[40]	_	_
 11-3	_	are	_	_	_	_
 11-4	_	considered	_	_	_	_
 11-5	_	to	_	_	_	_
@@ -290,7 +261,7 @@
 #Text=In Tulsa you will find old west charm as well as a cosmopolitan atmosphere .
 14-1	_	In	_	_	_	_
 14-2	_	Tulsa	abstract[11]	new[11]	coref	15-7[11_12]
-14-3	_	you	abstract[43]	new[43]	coref	15-1[43_44]
+14-3	_	you	abstract[41]	new[41]	coref	15-1[41_42]
 14-4	_	will	_	_	_	_
 14-5	_	find	_	_	_	_
 14-6	_	old	_	_	_	_
@@ -305,32 +276,32 @@
 14-15	_	.	_	_	_	_
 
 #Text=You will find the people of Tulsa love their city and they have that southern charm , so they are willing to help you find your way around .
-15-1	_	You	abstract[44]	new[44]	coref	15-24[44_45]
+15-1	_	You	abstract[42]	new[42]	coref	15-24[42_43]
 15-2	_	will	_	_	_	_
 15-3	_	find	_	_	_	_
-15-4	_	the	abstract[48]	new[48]	coref	15-9[48_49]
-15-5	_	people	abstract[48]	new[48]	_	_
-15-6	_	of	abstract[48]	new[48]	_	_
-15-7	_	Tulsa	abstract[12]|abstract[48]	new[12]|new[48]	coref	15-9[12_13]
+15-4	_	the	abstract[46]	new[46]	coref	15-9[46_47]
+15-5	_	people	abstract[46]	new[46]	_	_
+15-6	_	of	abstract[46]	new[46]	_	_
+15-7	_	Tulsa	abstract[12]|abstract[46]	new[12]|new[46]	coref	15-9[12_13]
 15-8	_	love	_	_	_	_
-15-9	_	their	abstract[13]|abstract[49]	new[13]|new[49]	coref|coref	16-1[13_14]|15-12[49_50]
+15-9	_	their	abstract[13]|abstract[47]	new[13]|new[47]	coref|coref	16-1[13_14]|15-12[47_48]
 15-10	_	city	abstract[13]	new[13]	_	_
 15-11	_	and	_	_	_	_
-15-12	_	they	abstract[50]	new[50]	coref	15-19[50_51]
+15-12	_	they	abstract[48]	new[48]	coref	15-19[48_49]
 15-13	_	have	_	_	_	_
 15-14	_	that	_	_	_	_
 15-15	_	southern	_	_	_	_
 15-16	_	charm	_	_	_	_
 15-17	_	,	_	_	_	_
 15-18	_	so	_	_	_	_
-15-19	_	they	abstract[51]	new[51]	_	_
+15-19	_	they	abstract[49]	new[49]	_	_
 15-20	_	are	_	_	_	_
 15-21	_	willing	_	_	_	_
 15-22	_	to	_	_	_	_
 15-23	_	help	_	_	_	_
-15-24	_	you	abstract[45]	new[45]	coref	15-26[45_46]
+15-24	_	you	abstract[43]	new[43]	coref	15-26[43_44]
 15-25	_	find	_	_	_	_
-15-26	_	your	abstract[46]	new[46]	coref	76-2[46_47]
+15-26	_	your	abstract[44]	new[44]	coref	76-2[44_45]
 15-27	_	way	_	_	_	_
 15-28	_	around	_	_	_	_
 15-29	_	.	_	_	_	_
@@ -347,8 +318,8 @@
 16-9	_	Art	_	_	_	_
 16-10	_	Deco	_	_	_	_
 16-11	_	in	_	_	_	_
-16-12	_	the	abstract[53]	new[53]	coref	20-12[53_54]
-16-13	_	nation	abstract[53]	new[53]	_	_
+16-12	_	the	abstract[51]	new[51]	coref	20-12[51_52]
+16-13	_	nation	abstract[51]	new[51]	_	_
 16-14	_	,	_	_	_	_
 16-15	_	having	_	_	_	_
 16-16	_	been	_	_	_	_
@@ -394,14 +365,14 @@
 18-2	_	plane	_	_	_	_
 
 #Text=Tulsa International Airport ( IATA : TUL ) in the northern part of Tulsa .
-19-1	_	Tulsa	abstract[15]|abstract[56]	new[15]|new[56]	coref|coref	19-14[15_16]|20-1[56_57]
-19-2	_	International	abstract[56]	new[56]	_	_
-19-3	_	Airport	abstract[56]	new[56]	_	_
-19-4	_	(	abstract[56]	new[56]	_	_
-19-5	_	IATA	abstract[56]	new[56]	_	_
-19-6	_	:	abstract[56]	new[56]	_	_
-19-7	_	TUL	abstract[56]	new[56]	_	_
-19-8	_	)	abstract[56]	new[56]	_	_
+19-1	_	Tulsa	abstract[15]|abstract[54]	new[15]|new[54]	coref|coref	19-14[15_16]|20-1[54_55]
+19-2	_	International	abstract[54]	new[54]	_	_
+19-3	_	Airport	abstract[54]	new[54]	_	_
+19-4	_	(	abstract[54]	new[54]	_	_
+19-5	_	IATA	abstract[54]	new[54]	_	_
+19-6	_	:	abstract[54]	new[54]	_	_
+19-7	_	TUL	abstract[54]	new[54]	_	_
+19-8	_	)	abstract[54]	new[54]	_	_
 19-9	_	in	_	_	_	_
 19-10	_	the	_	_	_	_
 19-11	_	northern	_	_	_	_
@@ -411,7 +382,7 @@
 19-15	_	.	_	_	_	_
 
 #Text=It has major airlines with direct flights to major cities in the U.S.
-20-1	_	It	abstract[57]	new[57]	coref	21-1[57_58]
+20-1	_	It	abstract[55]	new[55]	coref	21-1[55_56]
 20-2	_	has	_	_	_	_
 20-3	_	major	_	_	_	_
 20-4	_	airlines	_	_	_	_
@@ -422,11 +393,11 @@
 20-9	_	major	_	_	_	_
 20-10	_	cities	_	_	_	_
 20-11	_	in	_	_	_	_
-20-12	_	the	abstract[54]	new[54]	coref	48-18[54_55]
-20-13	_	U.S.	abstract[54]	new[54]	_	_
+20-12	_	the	abstract[52]	new[52]	coref	48-18[52_53]
+20-13	_	U.S.	abstract[52]	new[52]	_	_
 
 #Text=It is a small but nice airport with sofas and chairs all around and a very laid - back feel .
-21-1	_	It	abstract[58]	new[58]	coref	23-1[58_59]
+21-1	_	It	abstract[56]	new[56]	coref	23-1[56_57]
 21-2	_	is	_	_	_	_
 21-3	_	a	_	_	_	_
 21-4	_	small	_	_	_	_
@@ -461,8 +432,8 @@
 22-10	_	.	_	_	_	_
 
 #Text=The airport offers free short term parking ( first half - hour free ) .
-23-1	_	The	abstract[59]	new[59]	_	_
-23-2	_	airport	abstract[59]	new[59]	_	_
+23-1	_	The	abstract[57]	new[57]	_	_
+23-2	_	airport	abstract[57]	new[57]	_	_
 23-3	_	offers	_	_	_	_
 23-4	_	free	_	_	_	_
 23-5	_	short	_	_	_	_
@@ -556,7 +527,7 @@
 29-2	_	the	_	_	_	_
 29-3	_	North	_	_	_	_
 29-4	_	/	_	_	_	_
-29-5	_	Kansas	abstract[60]	new[60]	coref	29-24[60_61]
+29-5	_	Kansas	abstract[58]	new[58]	coref	29-25[58_59]
 29-6	_	-	_	_	_	_
 29-7	_	US	_	_	_	_
 29-8	_	-	_	_	_	_
@@ -565,7 +536,7 @@
 29-11	_	from	_	_	_	_
 29-12	_	Bartlesville	_	_	_	_
 29-13	_	,	_	_	_	_
-29-14	_	OK	abstract[36]	new[36]	coref	31-13[36_37]
+29-14	_	OK	abstract[34]	new[34]	coref	31-13[34_35]
 29-15	_	,	_	_	_	_
 29-16	_	or	_	_	_	_
 29-17	_	US	_	_	_	_
@@ -575,13 +546,13 @@
 29-21	_	from	_	_	_	_
 29-22	_	Coffeyville	_	_	_	_
 29-23	_	,	_	_	_	_
-29-24	_	KS	abstract[61]	new[61]	_	_
+29-24	_	KS	abstract[59]	new[59]	_	_
 29-25	_	.	_	_	_	_
 
 #Text=From the Northeast / Missouri - I - 44 West , aka the " Will Rogers Turnpike . "
 30-1	_	From	_	_	_	_
-30-2	_	the	abstract[68]	new[68]	coref	37-7[68_69]
-30-3	_	Northeast	abstract[68]	new[68]	_	_
+30-2	_	the	abstract[66]	new[66]	coref	37-7[66_67]
+30-3	_	Northeast	abstract[66]	new[66]	_	_
 30-4	_	/	_	_	_	_
 30-5	_	Missouri	_	_	_	_
 30-6	_	-	_	_	_	_
@@ -600,9 +571,9 @@
 30-19	_	"	_	_	_	_
 
 #Text=The world 's former largest McDonalds spans the roadway near Vinita , OK .
-31-1	_	The	abstract[63]	new[63]	_	_
-31-2	_	world	abstract[63]	new[63]	_	_
-31-3	_	's	abstract[63]	new[63]	_	_
+31-1	_	The	abstract[61]	new[61]	_	_
+31-2	_	world	abstract[61]	new[61]	_	_
+31-3	_	's	abstract[61]	new[61]	_	_
 31-4	_	former	_	_	_	_
 31-5	_	largest	_	_	_	_
 31-6	_	McDonalds	_	_	_	_
@@ -612,7 +583,7 @@
 31-10	_	near	_	_	_	_
 31-11	_	Vinita	_	_	_	_
 31-12	_	,	_	_	_	_
-31-13	_	OK	abstract[37]	new[37]	coref	34-11[37_38]
+31-13	_	OK	abstract[35]	new[35]	coref	34-11[35_36]
 31-14	_	.	_	_	_	_
 
 #Text=From the East / Arkansas - US - 412 West , aka the " Cherokee Turnpike . "
@@ -620,7 +591,7 @@
 32-2	_	the	_	_	_	_
 32-3	_	East	_	_	_	_
 32-4	_	/	_	_	_	_
-32-5	_	Arkansas	abstract[64]	new[64]	coref	33-5[64_65]
+32-5	_	Arkansas	abstract[62]	new[62]	coref	33-5[62_63]
 32-6	_	-	_	_	_	_
 32-7	_	US	_	_	_	_
 32-8	_	-	_	_	_	_
@@ -640,7 +611,7 @@
 33-2	_	the	_	_	_	_
 33-3	_	Southeast	_	_	_	_
 33-4	_	/	_	_	_	_
-33-5	_	Arkansas	abstract[65]	new[65]	_	_
+33-5	_	Arkansas	abstract[63]	new[63]	_	_
 33-6	_	-	_	_	_	_
 33-7	_	The	_	_	_	_
 33-8	_	"	_	_	_	_
@@ -658,22 +629,22 @@
 34-6	_	-	_	_	_	_
 34-7	_	75	_	_	_	_
 34-8	_	from	_	_	_	_
-34-9	_	Okmulgee	abstract[66]	new[66]	coref	34-16[66_67]
-34-10	_	,	abstract[66]	new[66]	_	_
-34-11	_	OK	abstract[38]|abstract[66]	new[38]|new[66]	_	_
+34-9	_	Okmulgee	abstract[64]	new[64]	coref	34-16[64_65]
+34-10	_	,	abstract[64]	new[64]	_	_
+34-11	_	OK	abstract[36]|abstract[64]	new[36]|new[64]	_	_
 34-12	_	,	_	_	_	_
 34-13	_	aka	_	_	_	_
 34-14	_	the	_	_	_	_
 34-15	_	"	_	_	_	_
-34-16	_	Okmulgee	abstract[67]	new[67]	_	_
+34-16	_	Okmulgee	abstract[65]	new[65]	_	_
 34-17	_	Beeline	_	_	_	_
 34-18	_	.	_	_	_	_
 34-19	_	"	_	_	_	_
 
 #Text=From the Southwest / Oklahoma City - I - 44 East , aka the " Turner Turnpike . "
 35-1	_	From	_	_	_	_
-35-2	_	the	abstract[70]	new[70]	coref	37-9[70_71]
-35-3	_	Southwest	abstract[70]	new[70]	_	_
+35-2	_	the	abstract[68]	new[68]	coref	37-9[68_69]
+35-3	_	Southwest	abstract[68]	new[68]	_	_
 35-4	_	/	_	_	_	_
 35-5	_	Oklahoma	_	_	_	_
 35-6	_	City	_	_	_	_
@@ -716,9 +687,9 @@
 37-4	_	scenic	_	_	_	_
 37-5	_	route	_	_	_	_
 37-6	_	from	_	_	_	_
-37-7	_	Northeast	abstract[69]	new[69]	_	_
+37-7	_	Northeast	abstract[67]	new[67]	_	_
 37-8	_	or	_	_	_	_
-37-9	_	Southwest	abstract[71]	new[71]	_	_
+37-9	_	Southwest	abstract[69]	new[69]	_	_
 37-10	_	come	_	_	_	_
 37-11	_	in	_	_	_	_
 37-12	_	on	_	_	_	_
@@ -756,29 +727,29 @@
 41-3	_	urban	_	_	_	_
 41-4	_	planning	_	_	_	_
 41-5	_	,	_	_	_	_
-41-6	_	the	abstract[79]	new[79]	coref	47-1[79_80]
-41-7	_	major	abstract[79]	new[79]	_	_
-41-8	_	city	abstract[79]	new[79]	_	_
-41-9	_	streets	abstract[79]	new[79]	_	_
+41-6	_	the	abstract[77]	new[77]	coref	47-1[77_78]
+41-7	_	major	abstract[77]	new[77]	_	_
+41-8	_	city	abstract[77]	new[77]	_	_
+41-9	_	streets	abstract[77]	new[77]	_	_
 41-10	_	are	_	_	_	_
 41-11	_	placed	_	_	_	_
 41-12	_	in	_	_	_	_
-41-13	_	a	abstract[74]	new[74]	coref	44-20[74_75]
-41-14	_	grid	abstract[74]	new[74]	_	_
-41-15	_	layout	abstract[74]	new[74]	_	_
+41-13	_	a	abstract[72]	new[72]	coref	44-20[72_73]
+41-14	_	grid	abstract[72]	new[72]	_	_
+41-15	_	layout	abstract[72]	new[72]	_	_
 41-16	_	.	_	_	_	_
 
 #Text=Almost all major intersections are one mile from each other , and exactly in a straight line .
 42-1	_	Almost	_	_	_	_
-42-2	_	all	abstract[72]	new[72]	coref	42-9[72_73]
-42-3	_	major	abstract[72]	new[72]	_	_
-42-4	_	intersections	abstract[72]	new[72]	_	_
+42-2	_	all	abstract[70]	new[70]	coref	42-9[70_71]
+42-3	_	major	abstract[70]	new[70]	_	_
+42-4	_	intersections	abstract[70]	new[70]	_	_
 42-5	_	are	_	_	_	_
 42-6	_	one	_	_	_	_
 42-7	_	mile	_	_	_	_
 42-8	_	from	_	_	_	_
-42-9	_	each	abstract[73]	new[73]	_	_
-42-10	_	other	abstract[73]	new[73]	_	_
+42-9	_	each	abstract[71]	new[71]	_	_
+42-10	_	other	abstract[71]	new[71]	_	_
 42-11	_	,	_	_	_	_
 42-12	_	and	_	_	_	_
 42-13	_	exactly	_	_	_	_
@@ -828,8 +799,8 @@
 44-17	_	the	_	_	_	_
 44-18	_	rest	_	_	_	_
 44-19	_	of	_	_	_	_
-44-20	_	the	abstract[75]	new[75]	_	_
-44-21	_	grid	abstract[75]	new[75]	_	_
+44-20	_	the	abstract[73]	new[73]	_	_
+44-21	_	grid	abstract[73]	new[73]	_	_
 44-22	_	.	_	_	_	_
 
 #Text=By car
@@ -848,10 +819,10 @@
 46-9	_	easily	_	_	_	_
 46-10	_	get	_	_	_	_
 46-11	_	around	_	_	_	_
-46-12	_	the	abstract[77]	new[77]	coref	63-7[77_78]
-46-13	_	Tulsa	abstract[18]|abstract[77]	new[18]|new[77]	coref	48-5[18_19]
-46-14	_	Metro	abstract[77]	new[77]	_	_
-46-15	_	area	abstract[77]	new[77]	_	_
+46-12	_	the	abstract[75]	new[75]	coref	63-7[75_76]
+46-13	_	Tulsa	abstract[18]|abstract[75]	new[18]|new[75]	coref	48-5[18_19]
+46-14	_	Metro	abstract[75]	new[75]	_	_
+46-15	_	area	abstract[75]	new[75]	_	_
 46-16	_	:	_	_	_	_
 46-17	_	I	_	_	_	_
 46-18	_	-	_	_	_	_
@@ -883,8 +854,8 @@
 46-44	_	Hwy	_	_	_	_
 46-45	_	51	_	_	_	_
 46-46	_	(	_	_	_	_
-46-47	_	Broken	abstract[88]	new[88]	coref	66-14[88_89]
-46-48	_	Arrow	abstract[88]	new[88]	_	_
+46-47	_	Broken	abstract[86]	new[86]	coref	66-14[86_87]
+46-48	_	Arrow	abstract[86]	new[86]	_	_
 46-49	_	Expressway	_	_	_	_
 46-50	_	,	_	_	_	_
 46-51	_	The	_	_	_	_
@@ -898,10 +869,10 @@
 46-59	_	.	_	_	_	_
 
 #Text=The streets and avenues are planned on a 1 mile by 1 mile grid system , with the main arterials running on each mile .
-47-1	_	The	abstract[80]	new[80]	_	_
-47-2	_	streets	abstract[80]	new[80]	_	_
-47-3	_	and	abstract[80]	new[80]	_	_
-47-4	_	avenues	abstract[80]	new[80]	_	_
+47-1	_	The	abstract[78]	new[78]	_	_
+47-2	_	streets	abstract[78]	new[78]	_	_
+47-3	_	and	abstract[78]	new[78]	_	_
+47-4	_	avenues	abstract[78]	new[78]	_	_
 47-5	_	are	_	_	_	_
 47-6	_	planned	_	_	_	_
 47-7	_	on	_	_	_	_
@@ -942,7 +913,7 @@
 48-15	_	are	_	_	_	_
 48-16	_	named	_	_	_	_
 48-17	_	after	_	_	_	_
-48-18	_	US	abstract[55]	new[55]	_	_
+48-18	_	US	abstract[53]	new[53]	_	_
 48-19	_	cities	_	_	_	_
 48-20	_	,	_	_	_	_
 48-21	_	generally	_	_	_	_
@@ -996,7 +967,7 @@
 51-2	_	streets	_	_	_	_
 51-3	_	East	_	_	_	_
 51-4	_	of	_	_	_	_
-51-5	_	Main	abstract[81]	new[81]	coref	51-21[81_82]
+51-5	_	Main	abstract[79]	new[79]	coref	51-21[79_80]
 51-6	_	are	_	_	_	_
 51-7	_	cities	_	_	_	_
 51-8	_	east	_	_	_	_
@@ -1012,7 +983,7 @@
 51-18	_	streets	_	_	_	_
 51-19	_	west	_	_	_	_
 51-20	_	of	_	_	_	_
-51-21	_	Main	abstract[82]	new[82]	_	_
+51-21	_	Main	abstract[80]	new[80]	_	_
 51-22	_	.	_	_	_	_
 
 #Text=In the parts of the city farther from downtown , north - south streets are numbered .
@@ -1024,7 +995,7 @@
 52-6	_	city	abstract[20]	new[20]	_	_
 52-7	_	farther	_	_	_	_
 52-8	_	from	_	_	_	_
-52-9	_	downtown	abstract[83]	new[83]	coref	59-1[83_84]
+52-9	_	downtown	abstract[81]	new[81]	coref	59-1[81_82]
 52-10	_	,	_	_	_	_
 52-11	_	north	_	_	_	_
 52-12	_	-	_	_	_	_
@@ -1074,9 +1045,9 @@
 54-8	_	Main	_	_	_	_
 54-9	_	Street	_	_	_	_
 54-10	_	and	_	_	_	_
-54-11	_	the	abstract[95]	new[95]	coref	71-3[95_96]
-54-12	_	Arkansas	abstract[95]	new[95]	_	_
-54-13	_	River	abstract[95]	new[95]	_	_
+54-11	_	the	abstract[93]	new[93]	coref	71-3[93_94]
+54-12	_	Arkansas	abstract[93]	new[93]	_	_
+54-13	_	River	abstract[93]	new[93]	_	_
 54-14	_	as	_	_	_	_
 54-15	_	the	_	_	_	_
 54-16	_	dividing	_	_	_	_
@@ -1184,7 +1155,7 @@
 58-24	_	.	_	_	_	_
 
 #Text=Downtown streets were originally platted parallel to the Frisco railroad tracks .
-59-1	_	Downtown	abstract[84]	new[84]	coref	61-7[84_85]
+59-1	_	Downtown	abstract[82]	new[82]	coref	61-7[82_83]
 59-2	_	streets	_	_	_	_
 59-3	_	were	_	_	_	_
 59-4	_	originally	_	_	_	_
@@ -1205,9 +1176,9 @@
 60-5	_	the	_	_	_	_
 60-6	_	bounds	_	_	_	_
 60-7	_	of	_	_	_	_
-60-8	_	its	abstract[23]|abstract[86]	new[23]|new[86]	coref|coref	61-15[23_24]|61-11[86_87]
-60-9	_	original	abstract[86]	new[86]	_	_
-60-10	_	plat	abstract[86]	new[86]	_	_
+60-8	_	its	abstract[23]|abstract[84]	new[23]|new[84]	coref|coref	61-15[23_24]|61-11[84_85]
+60-9	_	original	abstract[84]	new[84]	_	_
+60-10	_	plat	abstract[84]	new[84]	_	_
 60-11	_	,	_	_	_	_
 60-12	_	the	_	_	_	_
 60-13	_	expanded	_	_	_	_
@@ -1231,17 +1202,17 @@
 61-4	_	twisted	_	_	_	_
 61-5	_	"	_	_	_	_
 61-6	_	area	_	_	_	_
-61-7	_	down	abstract[85]	new[85]	_	_
-61-8	_	-	abstract[85]	new[85]	_	_
-61-9	_	town	abstract[85]	new[85]	_	_
+61-7	_	down	abstract[83]	new[83]	_	_
+61-8	_	-	abstract[83]	new[83]	_	_
+61-9	_	town	abstract[83]	new[83]	_	_
 61-10	_	represents	_	_	_	_
-61-11	_	the	abstract[87]	new[87]	_	_
-61-12	_	original	abstract[87]	new[87]	_	_
-61-13	_	extent	abstract[87]	new[87]	_	_
-61-14	_	of	abstract[87]	new[87]	_	_
-61-15	_	Tulsa	abstract[24]|abstract[87]	new[24]|new[87]	coref	63-1[24_25]
-61-16	_	ca	abstract[87]	new[87]	_	_
-61-17	_	1907	abstract[87]	new[87]	_	_
+61-11	_	the	abstract[85]	new[85]	_	_
+61-12	_	original	abstract[85]	new[85]	_	_
+61-13	_	extent	abstract[85]	new[85]	_	_
+61-14	_	of	abstract[85]	new[85]	_	_
+61-15	_	Tulsa	abstract[24]|abstract[85]	new[24]|new[85]	coref	63-1[24_25]
+61-16	_	ca	abstract[85]	new[85]	_	_
+61-17	_	1907	abstract[85]	new[85]	_	_
 61-18	_	.	_	_	_	_
 
 #Text=By bus
@@ -1255,10 +1226,10 @@
 63-4	_	bus	_	_	_	_
 63-5	_	service	_	_	_	_
 63-6	_	for	_	_	_	_
-63-7	_	the	abstract[78]	new[78]	_	_
-63-8	_	Tulsa	abstract[26]|abstract[78]	new[26]|new[78]	coref	67-19[26_27]
-63-9	_	Metro	abstract[78]	new[78]	_	_
-63-10	_	area	abstract[78]	new[78]	_	_
+63-7	_	the	abstract[76]	new[76]	_	_
+63-8	_	Tulsa	abstract[26]|abstract[76]	new[26]|new[76]	coref	67-19[26_27]
+63-9	_	Metro	abstract[76]	new[76]	_	_
+63-10	_	area	abstract[76]	new[76]	_	_
 63-11	_	.	_	_	_	_
 
 #Text=Cities served are Tulsa , Sand Springs , Sapulpa , Jenks , and Broken Arrow .
@@ -1267,8 +1238,8 @@
 64-3	_	are	_	_	_	_
 64-4	_	Tulsa	_	_	_	_
 64-5	_	,	_	_	_	_
-64-6	_	Sand	abstract[97]	new[97]	coref	72-7[97_98]
-64-7	_	Springs	abstract[97]	new[97]	_	_
+64-6	_	Sand	abstract[95]	new[95]	coref	72-7[95_96]
+64-7	_	Springs	abstract[95]	new[95]	_	_
 64-8	_	,	_	_	_	_
 64-9	_	Sapulpa	_	_	_	_
 64-10	_	,	_	_	_	_
@@ -1294,7 +1265,7 @@
 65-12	_	.	_	_	_	_
 
 #Text=They do not run that often , especially to the outer towns like Broken Arrow .
-66-1	_	They	abstract[92]	new[92]	coref	67-8[92_93]
+66-1	_	They	abstract[90]	new[90]	coref	67-8[90_91]
 66-2	_	do	_	_	_	_
 66-3	_	not	_	_	_	_
 66-4	_	run	_	_	_	_
@@ -1307,8 +1278,8 @@
 66-11	_	outer	_	_	_	_
 66-12	_	towns	_	_	_	_
 66-13	_	like	_	_	_	_
-66-14	_	Broken	abstract[89]	new[89]	coref	74-10[89_90]
-66-15	_	Arrow	abstract[89]	new[89]	_	_
+66-14	_	Broken	abstract[87]	new[87]	coref	74-10[87_88]
+66-15	_	Arrow	abstract[87]	new[87]	_	_
 66-16	_	.	_	_	_	_
 
 #Text=Unlike major cities in the Northeast , the city bus is not a major form of transportation in the city .
@@ -1319,9 +1290,9 @@
 67-5	_	the	_	_	_	_
 67-6	_	Northeast	_	_	_	_
 67-7	_	,	_	_	_	_
-67-8	_	the	abstract[93]	new[93]	coref	68-1[93_94]
-67-9	_	city	abstract[93]	new[93]	_	_
-67-10	_	bus	abstract[93]	new[93]	_	_
+67-8	_	the	abstract[91]	new[91]	coref	68-1[91_92]
+67-9	_	city	abstract[91]	new[91]	_	_
+67-10	_	bus	abstract[91]	new[91]	_	_
 67-11	_	is	_	_	_	_
 67-12	_	not	_	_	_	_
 67-13	_	a	_	_	_	_
@@ -1335,7 +1306,7 @@
 67-21	_	.	_	_	_	_
 
 #Text=It is usually a means of travel for those who are without their own motor vehicle .
-68-1	_	It	abstract[94]	new[94]	_	_
+68-1	_	It	abstract[92]	new[92]	_	_
 68-2	_	is	_	_	_	_
 68-3	_	usually	_	_	_	_
 68-4	_	a	_	_	_	_
@@ -1370,11 +1341,11 @@
 70-10	_	.	_	_	_	_
 
 #Text=Rivertrail follows the Arkansas River from downtown Tulsa south to the suburbs .
-71-1	_	Rivertrail	abstract[99]	new[99]	coref	74-5[99_100]
+71-1	_	Rivertrail	abstract[97]	new[97]	coref	74-5[97_98]
 71-2	_	follows	_	_	_	_
-71-3	_	the	abstract[96]	new[96]	_	_
-71-4	_	Arkansas	abstract[96]	new[96]	_	_
-71-5	_	River	abstract[96]	new[96]	_	_
+71-3	_	the	abstract[94]	new[94]	_	_
+71-4	_	Arkansas	abstract[94]	new[94]	_	_
+71-5	_	River	abstract[94]	new[94]	_	_
 71-6	_	from	_	_	_	_
 71-7	_	downtown	_	_	_	_
 71-8	_	Tulsa	_	_	_	_
@@ -1391,8 +1362,8 @@
 72-4	_	runs	_	_	_	_
 72-5	_	west	_	_	_	_
 72-6	_	to	_	_	_	_
-72-7	_	Sand	abstract[98]	new[98]	_	_
-72-8	_	Springs	abstract[98]	new[98]	_	_
+72-7	_	Sand	abstract[96]	new[96]	_	_
+72-8	_	Springs	abstract[96]	new[96]	_	_
 72-9	_	.	_	_	_	_
 
 #Text=The Osage Trail is a rails - to - trails route that begins at the OSU - Tulsa campus and travels north 15 miles to Skiatook .
@@ -1425,38 +1396,38 @@
 73-27	_	.	_	_	_	_
 
 #Text=The Creek Trail connects Rivertrail and continues east through Broken Arrow to the NSU - Broken Arrow campus .
-74-1	_	The	abstract[103]	new[103]	coref	76-10[103_104]
-74-2	_	Creek	abstract[103]	new[103]	_	_
-74-3	_	Trail	abstract[103]	new[103]	_	_
+74-1	_	The	abstract[101]	new[101]	coref	76-10[101_102]
+74-2	_	Creek	abstract[101]	new[101]	_	_
+74-3	_	Trail	abstract[101]	new[101]	_	_
 74-4	_	connects	_	_	_	_
-74-5	_	Rivertrail	abstract[100]	new[100]	coref	77-1[100_101]
+74-5	_	Rivertrail	abstract[98]	new[98]	coref	77-1[98_99]
 74-6	_	and	_	_	_	_
 74-7	_	continues	_	_	_	_
 74-8	_	east	_	_	_	_
 74-9	_	through	_	_	_	_
-74-10	_	Broken	abstract[90]	new[90]	coref	74-16[90_91]
-74-11	_	Arrow	abstract[90]	new[90]	_	_
+74-10	_	Broken	abstract[88]	new[88]	coref	74-16[88_89]
+74-11	_	Arrow	abstract[88]	new[88]	_	_
 74-12	_	to	_	_	_	_
 74-13	_	the	_	_	_	_
 74-14	_	NSU	_	_	_	_
 74-15	_	-	_	_	_	_
-74-16	_	Broken	abstract[91]	new[91]	_	_
-74-17	_	Arrow	abstract[91]	new[91]	_	_
+74-16	_	Broken	abstract[89]	new[89]	_	_
+74-17	_	Arrow	abstract[89]	new[89]	_	_
 74-18	_	campus	_	_	_	_
 74-19	_	.	_	_	_	_
 
 #Text=Riders accustomed to flat terrain may find Tulsa 's rolling land to be a bit more challenging , particularly during the heat of summer .
-75-1	_	Riders	abstract[107]	new[107]	coref	77-8[107_108]
-75-2	_	accustomed	abstract[107]	new[107]	_	_
-75-3	_	to	abstract[107]	new[107]	_	_
-75-4	_	flat	abstract[107]	new[107]	_	_
-75-5	_	terrain	abstract[107]	new[107]	_	_
+75-1	_	Riders	abstract[105]	new[105]	coref	77-8[105_106]
+75-2	_	accustomed	abstract[105]	new[105]	_	_
+75-3	_	to	abstract[105]	new[105]	_	_
+75-4	_	flat	abstract[105]	new[105]	_	_
+75-5	_	terrain	abstract[105]	new[105]	_	_
 75-6	_	may	_	_	_	_
 75-7	_	find	_	_	_	_
-75-8	_	Tulsa	abstract[30]|abstract[105]	new[30]|new[105]	coref|coref	79-1[30_31]|76-15[105_106]
-75-9	_	's	abstract[30]|abstract[105]	new[30]|new[105]	_	_
-75-10	_	rolling	abstract[105]	new[105]	_	_
-75-11	_	land	abstract[105]	new[105]	_	_
+75-8	_	Tulsa	abstract[30]|abstract[103]	new[30]|new[103]	coref|coref	79-1[30_31]|76-15[103_104]
+75-9	_	's	abstract[30]|abstract[103]	new[30]|new[103]	_	_
+75-10	_	rolling	abstract[103]	new[103]	_	_
+75-11	_	land	abstract[103]	new[103]	_	_
 75-12	_	to	_	_	_	_
 75-13	_	be	_	_	_	_
 75-14	_	a	_	_	_	_
@@ -1474,7 +1445,7 @@
 
 #Text=If you are looking for a good workout , the Creek Turnpike Trail follows the land 's original contours .
 76-1	_	If	_	_	_	_
-76-2	_	you	abstract[47]	new[47]	_	_
+76-2	_	you	abstract[45]	new[45]	_	_
 76-3	_	are	_	_	_	_
 76-4	_	looking	_	_	_	_
 76-5	_	for	_	_	_	_
@@ -1482,32 +1453,32 @@
 76-7	_	good	_	_	_	_
 76-8	_	workout	_	_	_	_
 76-9	_	,	_	_	_	_
-76-10	_	the	abstract[104]	new[104]	_	_
-76-11	_	Creek	abstract[104]	new[104]	_	_
-76-12	_	Turnpike	abstract[104]	new[104]	_	_
-76-13	_	Trail	abstract[104]	new[104]	_	_
+76-10	_	the	abstract[102]	new[102]	_	_
+76-11	_	Creek	abstract[102]	new[102]	_	_
+76-12	_	Turnpike	abstract[102]	new[102]	_	_
+76-13	_	Trail	abstract[102]	new[102]	_	_
 76-14	_	follows	_	_	_	_
-76-15	_	the	abstract[106]	new[106]	_	_
-76-16	_	land	abstract[106]	new[106]	_	_
-76-17	_	's	abstract[106]	new[106]	_	_
+76-15	_	the	abstract[104]	new[104]	_	_
+76-16	_	land	abstract[104]	new[104]	_	_
+76-17	_	's	abstract[104]	new[104]	_	_
 76-18	_	original	_	_	_	_
 76-19	_	contours	_	_	_	_
 76-20	_	.	_	_	_	_
 
 #Text=Rivertrail is probably be best choice for the rider seeking an easy route .
-77-1	_	Rivertrail	abstract[101]	new[101]	coref	78-8[101_102]
+77-1	_	Rivertrail	abstract[99]	new[99]	coref	78-8[99_100]
 77-2	_	is	_	_	_	_
 77-3	_	probably	_	_	_	_
 77-4	_	be	_	_	_	_
 77-5	_	best	_	_	_	_
 77-6	_	choice	_	_	_	_
 77-7	_	for	_	_	_	_
-77-8	_	the	abstract[108]	new[108]	_	_
-77-9	_	rider	abstract[108]	new[108]	_	_
-77-10	_	seeking	abstract[108]	new[108]	_	_
-77-11	_	an	abstract[108]	new[108]	_	_
-77-12	_	easy	abstract[108]	new[108]	_	_
-77-13	_	route	abstract[108]	new[108]	_	_
+77-8	_	the	abstract[106]	new[106]	_	_
+77-9	_	rider	abstract[106]	new[106]	_	_
+77-10	_	seeking	abstract[106]	new[106]	_	_
+77-11	_	an	abstract[106]	new[106]	_	_
+77-12	_	easy	abstract[106]	new[106]	_	_
+77-13	_	route	abstract[106]	new[106]	_	_
 77-14	_	.	_	_	_	_
 
 #Text=Four bike loan depots , located along Rivertrail , allow riders to borrow a bike for free for up to twenty - four hours .
@@ -1518,7 +1489,7 @@
 78-5	_	,	_	_	_	_
 78-6	_	located	_	_	_	_
 78-7	_	along	_	_	_	_
-78-8	_	Rivertrail	abstract[102]	new[102]	_	_
+78-8	_	Rivertrail	abstract[100]	new[100]	_	_
 78-9	_	,	_	_	_	_
 78-10	_	allow	_	_	_	_
 78-11	_	riders	_	_	_	_

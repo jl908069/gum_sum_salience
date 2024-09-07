@@ -93,7 +93,7 @@
 6-14	_	.	_	_	_	_
 
 #Text=This is n’t inherently an issue .
-7-1	_	This	abstract[10]	new[10]	coref	8-13[10_11]
+7-1	_	This	abstract[8]	new[8]	coref	8-13[8_9]
 7-2	_	is	_	_	_	_
 7-3	_	n’t	_	_	_	_
 7-4	_	inherently	_	_	_	_
@@ -114,7 +114,7 @@
 8-10	_	from	_	_	_	_
 8-11	_	norms	_	_	_	_
 8-12	_	that	_	_	_	_
-8-13	_	it	abstract[11]	new[11]	_	_
+8-13	_	it	abstract[9]	new[9]	_	_
 8-14	_	becomes	_	_	_	_
 8-15	_	a	_	_	_	_
 8-16	_	problem	_	_	_	_
@@ -132,29 +132,29 @@
 9-9	_	desirable	_	_	_	_
 9-10	_	to	_	_	_	_
 9-11	_	erase	_	_	_	_
-9-12	_	all	abstract[12]	new[12]	coref	9-17[12_13]
-9-13	_	gender	abstract[12]	new[12]	_	_
-9-14	_	norms	abstract[12]	new[12]	_	_
+9-12	_	all	abstract[10]	new[10]	coref	9-17[10_11]
+9-13	_	gender	abstract[10]	new[10]	_	_
+9-14	_	norms	abstract[10]	new[10]	_	_
 9-15	_	,	_	_	_	_
 9-16	_	since	_	_	_	_
-9-17	_	they	abstract[13]	new[13]	coref	11-3[13_14]
+9-17	_	they	abstract[11]	new[11]	coref	11-3[11_12]
 9-18	_	are	_	_	_	_
 9-19	_	willingly	_	_	_	_
 9-20	_	followed	_	_	_	_
 9-21	_	by	_	_	_	_
-9-22	_	most	abstract[15]	new[15]	coref	10-1[15_16]
+9-22	_	most	abstract[13]	new[13]	coref	10-1[13_14]
 9-23	_	.	_	_	_	_
 
 #Text=The vast majority of people , cis or trans , identify as male or female , and have an appearance that matches .
-10-1	_	The	abstract[16]	new[16]	_	_
-10-2	_	vast	abstract[16]	new[16]	_	_
-10-3	_	majority	abstract[16]	new[16]	_	_
-10-4	_	of	abstract[16]	new[16]	_	_
-10-5	_	people	abstract[16]	new[16]	_	_
-10-6	_	,	abstract[16]	new[16]	_	_
-10-7	_	cis	abstract[16]	new[16]	_	_
-10-8	_	or	abstract[16]	new[16]	_	_
-10-9	_	trans	abstract[16]	new[16]	_	_
+10-1	_	The	abstract[14]	new[14]	_	_
+10-2	_	vast	abstract[14]	new[14]	_	_
+10-3	_	majority	abstract[14]	new[14]	_	_
+10-4	_	of	abstract[14]	new[14]	_	_
+10-5	_	people	abstract[14]	new[14]	_	_
+10-6	_	,	abstract[14]	new[14]	_	_
+10-7	_	cis	abstract[14]	new[14]	_	_
+10-8	_	or	abstract[14]	new[14]	_	_
+10-9	_	trans	abstract[14]	new[14]	_	_
 10-10	_	,	_	_	_	_
 10-11	_	identify	_	_	_	_
 10-12	_	as	_	_	_	_
@@ -173,19 +173,19 @@
 #Text=This makes our binary gender assumption norms useful .
 11-1	_	This	_	_	_	_
 11-2	_	makes	_	_	_	_
-11-3	_	our	abstract[5]|abstract[14]	new[5]|new[14]	coref	14-1[5_6]
-11-4	_	binary	abstract[14]	new[14]	_	_
-11-5	_	gender	abstract[14]	new[14]	_	_
-11-6	_	assumption	abstract[14]	new[14]	_	_
-11-7	_	norms	abstract[14]	new[14]	_	_
+11-3	_	our	abstract[5]|abstract[12]	new[5]|new[12]	coref	14-1[5_6]
+11-4	_	binary	abstract[12]	new[12]	_	_
+11-5	_	gender	abstract[12]	new[12]	_	_
+11-6	_	assumption	abstract[12]	new[12]	_	_
+11-7	_	norms	abstract[12]	new[12]	_	_
 11-8	_	useful	_	_	_	_
 11-9	_	.	_	_	_	_
 
 #Text=Most people want their gender assumed off appearance or else do n’t care ; it ’s only a very few whose appearance does n’t match gender , or identify as a non-binary gender .
-12-1	_	Most	abstract[17]	new[17]	coref	12-4[17_18]
-12-2	_	people	abstract[17]	new[17]	_	_
+12-1	_	Most	abstract[15]	new[15]	coref	12-4[15_16]
+12-2	_	people	abstract[15]	new[15]	_	_
 12-3	_	want	_	_	_	_
-12-4	_	their	abstract[18]	new[18]	_	_
+12-4	_	their	abstract[16]	new[16]	_	_
 12-5	_	gender	_	_	_	_
 12-6	_	assumed	_	_	_	_
 12-7	_	off	_	_	_	_
@@ -259,7 +259,7 @@
 14-30	_	.	_	_	_	_
 
 #Text=You might have to ask someone or travel a bit more to be accommodated , but society has deemed this small extra effort acceptable , because very few people need to be accommodated .
-15-1	_	You	abstract[29]	new[29]	coref	21-4[29_30]
+15-1	_	You	abstract[27]	new[27]	coref	21-4[27_28]
 15-2	_	might	_	_	_	_
 15-3	_	have	_	_	_	_
 15-4	_	to	_	_	_	_
@@ -301,18 +301,18 @@
 16-4	_	reasonable	_	_	_	_
 16-5	_	to	_	_	_	_
 16-6	_	expect	_	_	_	_
-16-7	_	the	abstract[21]	new[21]	coref	16-18[21_22]
-16-8	_	individual	abstract[21]	new[21]	_	_
+16-7	_	the	abstract[19]	new[19]	coref	16-18[19_20]
+16-8	_	individual	abstract[19]	new[19]	_	_
 16-9	_	to	_	_	_	_
 16-10	_	request	_	_	_	_
-16-11	_	certain	abstract[19]	new[19]	coref	16-14[19_20]
-16-12	_	pronouns	abstract[19]	new[19]	_	_
+16-11	_	certain	abstract[17]	new[17]	coref	16-14[17_18]
+16-12	_	pronouns	abstract[17]	new[17]	_	_
 16-13	_	if	_	_	_	_
-16-14	_	it	abstract[20]	new[20]	_	_
+16-14	_	it	abstract[18]	new[18]	_	_
 16-15	_	’s	_	_	_	_
 16-16	_	important	_	_	_	_
 16-17	_	to	_	_	_	_
-16-18	_	them	abstract[22]	new[22]	_	_
+16-18	_	them	abstract[20]	new[20]	_	_
 16-19	_	.	_	_	_	_
 
 #Text=Society recognizes disabilities , allergies , and even hard to pronounce names as legitimate .
@@ -338,8 +338,8 @@
 18-3	_	issue	_	_	_	_
 18-4	_	is	_	_	_	_
 18-5	_	that	_	_	_	_
-18-6	_	non-conforming	abstract[23]	new[23]	coref	18-18[23_24]
-18-7	_	genders	abstract[23]	new[23]	_	_
+18-6	_	non-conforming	abstract[21]	new[21]	coref	18-18[21_22]
+18-7	_	genders	abstract[21]	new[21]	_	_
 18-8	_	are	_	_	_	_
 18-9	_	n’t	_	_	_	_
 18-10	_	always	_	_	_	_
@@ -350,8 +350,8 @@
 18-15	_	and	_	_	_	_
 18-16	_	harassment	_	_	_	_
 18-17	_	of	_	_	_	_
-18-18	_	the	abstract[24]	new[24]	coref	20-20[24_25]
-18-19	_	group	abstract[24]	new[24]	_	_
+18-18	_	the	abstract[22]	new[22]	coref	20-20[22_23]
+18-19	_	group	abstract[22]	new[22]	_	_
 18-20	_	occurs	_	_	_	_
 18-21	_	.	_	_	_	_
 
@@ -360,23 +360,23 @@
 19-2	_	one	_	_	_	_
 19-3	_	says	_	_	_	_
 19-4	_	to	_	_	_	_
-19-5	_	a	abstract[26]	new[26]	coref	19-16[26_27]
-19-6	_	person	abstract[26]	new[26]	_	_
-19-7	_	who	abstract[26]	new[26]	_	_
-19-8	_	says	abstract[26]	new[26]	_	_
-19-9	_	they	abstract[26]	new[26]	_	_
-19-10	_	have	abstract[26]	new[26]	_	_
-19-11	_	an	abstract[26]	new[26]	_	_
-19-12	_	allergy	abstract[26]	new[26]	_	_
+19-5	_	a	abstract[24]	new[24]	coref	19-16[24_25]
+19-6	_	person	abstract[24]	new[24]	_	_
+19-7	_	who	abstract[24]	new[24]	_	_
+19-8	_	says	abstract[24]	new[24]	_	_
+19-9	_	they	abstract[24]	new[24]	_	_
+19-10	_	have	abstract[24]	new[24]	_	_
+19-11	_	an	abstract[24]	new[24]	_	_
+19-12	_	allergy	abstract[24]	new[24]	_	_
 19-13	_	“	_	_	_	_
 19-14	_	Really	_	_	_	_
 19-15	_	?	_	_	_	_
-19-16	_	You	abstract[27]	new[27]	coref	19-21[27_28]
+19-16	_	You	abstract[25]	new[25]	coref	19-21[25_26]
 19-17	_	do	_	_	_	_
 19-18	_	n’t	_	_	_	_
 19-19	_	look	_	_	_	_
 19-20	_	like	_	_	_	_
-19-21	_	you	abstract[28]	new[28]	_	_
+19-21	_	you	abstract[26]	new[26]	_	_
 19-22	_	have	_	_	_	_
 19-23	_	an	_	_	_	_
 19-24	_	allergy	_	_	_	_
@@ -384,7 +384,7 @@
 19-26	_	”	_	_	_	_
 
 #Text=We all need to be educated and tolerant towards other pronouns and genders , and not tolerate harassment of this group .
-20-1	_	We	abstract[7]	new[7]	coref	53-34[7_8]
+20-1	_	We	abstract[7]	new[7]	_	_
 20-2	_	all	abstract[7]	new[7]	_	_
 20-3	_	need	_	_	_	_
 20-4	_	to	_	_	_	_
@@ -403,15 +403,15 @@
 20-17	_	tolerate	_	_	_	_
 20-18	_	harassment	_	_	_	_
 20-19	_	of	_	_	_	_
-20-20	_	this	abstract[25]	new[25]	_	_
-20-21	_	group	abstract[25]	new[25]	_	_
+20-20	_	this	abstract[23]	new[23]	_	_
+20-21	_	group	abstract[23]	new[23]	_	_
 20-22	_	.	_	_	_	_
 
 #Text=Basically , recognize your assumptions are n’t always correct , and be gracious if you ’re wrong .
 21-1	_	Basically	_	_	_	_
 21-2	_	,	_	_	_	_
 21-3	_	recognize	_	_	_	_
-21-4	_	your	abstract[30]	new[30]	coref	21-15[30_31]
+21-4	_	your	abstract[28]	new[28]	coref	21-15[28_29]
 21-5	_	assumptions	_	_	_	_
 21-6	_	are	_	_	_	_
 21-7	_	n’t	_	_	_	_
@@ -422,7 +422,7 @@
 21-12	_	be	_	_	_	_
 21-13	_	gracious	_	_	_	_
 21-14	_	if	_	_	_	_
-21-15	_	you	abstract[31]	new[31]	coref	23-1[31_32]
+21-15	_	you	abstract[29]	new[29]	coref	23-1[29_30]
 21-16	_	’re	_	_	_	_
 21-17	_	wrong	_	_	_	_
 21-18	_	.	_	_	_	_
@@ -438,7 +438,7 @@
 22-8	_	effort	_	_	_	_
 22-9	_	to	_	_	_	_
 22-10	_	make	_	_	_	_
-22-11	_	everyone	abstract[54]	new[54]	coref	24-19[54_55]
+22-11	_	everyone	abstract[52]	new[52]	coref	24-19[52_53]
 22-12	_	ask	_	_	_	_
 22-13	_	or	_	_	_	_
 22-14	_	introduce	_	_	_	_
@@ -455,22 +455,22 @@
 22-25	_	.	_	_	_	_
 
 #Text=You should feel free to do this if you want to , but otherwise , you have to live with reasonable assumptions .
-23-1	_	You	abstract[32]	new[32]	coref	23-9[32_33]
+23-1	_	You	abstract[30]	new[30]	coref	23-9[30_31]
 23-2	_	should	_	_	_	_
 23-3	_	feel	_	_	_	_
 23-4	_	free	_	_	_	_
 23-5	_	to	_	_	_	_
 23-6	_	do	_	_	_	_
-23-7	_	this	abstract[68]	new[68]	coref	33-9[68_69]
+23-7	_	this	abstract[66]	new[66]	coref	33-9[66_67]
 23-8	_	if	_	_	_	_
-23-9	_	you	abstract[33]	new[33]	coref	23-16[33_34]
+23-9	_	you	abstract[31]	new[31]	coref	23-16[31_32]
 23-10	_	want	_	_	_	_
 23-11	_	to	_	_	_	_
 23-12	_	,	_	_	_	_
 23-13	_	but	_	_	_	_
 23-14	_	otherwise	_	_	_	_
 23-15	_	,	_	_	_	_
-23-16	_	you	abstract[34]	new[34]	coref	25-9[34_35]
+23-16	_	you	abstract[32]	new[32]	coref	25-9[32_33]
 23-17	_	have	_	_	_	_
 23-18	_	to	_	_	_	_
 23-19	_	live	_	_	_	_
@@ -497,7 +497,7 @@
 24-15	_	and	_	_	_	_
 24-16	_	accepted	_	_	_	_
 24-17	_	by	_	_	_	_
-24-18	_	everyone	abstract[55]	new[55]	coref	38-2[55_56]
+24-18	_	everyone	abstract[53]	new[53]	coref	38-2[53_54]
 24-19	_	.	_	_	_	_
 
 #Text=In essence , make an assumption , if you find out otherwise , go with it .
@@ -509,7 +509,7 @@
 25-6	_	assumption	_	_	_	_
 25-7	_	,	_	_	_	_
 25-8	_	if	_	_	_	_
-25-9	_	you	abstract[35]	new[35]	coref	30-2[35_36]
+25-9	_	you	abstract[33]	new[33]	coref	30-2[33_34]
 25-10	_	find	_	_	_	_
 25-11	_	out	_	_	_	_
 25-12	_	otherwise	_	_	_	_
@@ -520,7 +520,7 @@
 25-17	_	.	_	_	_	_
 
 #Text=This is n’t difficult or a big deal .
-26-1	_	This	abstract[58]	new[58]	coref	27-10[58_59]
+26-1	_	This	abstract[56]	new[56]	coref	27-10[56_57]
 26-2	_	is	_	_	_	_
 26-3	_	n’t	_	_	_	_
 26-4	_	difficult	_	_	_	_
@@ -540,8 +540,8 @@
 27-7	_	are	_	_	_	_
 27-8	_	concerned	_	_	_	_
 27-9	_	,	_	_	_	_
-27-10	_	this	abstract[59]	new[59]	coref	28-11[59_60]
-27-11	_	solution	abstract[59]	new[59]	_	_
+27-10	_	this	abstract[57]	new[57]	coref	28-11[57_58]
+27-11	_	solution	abstract[57]	new[57]	_	_
 27-12	_	is	_	_	_	_
 27-13	_	the	_	_	_	_
 27-14	_	best	_	_	_	_
@@ -551,7 +551,7 @@
 #Text=CMV , I ’d be glad to discuss parts of the solution you take issue with in more detail
 28-1	_	CMV	_	_	_	_
 28-2	_	,	_	_	_	_
-28-3	_	I	abstract[72]	new[72]	coref	36-1[72_73]
+28-3	_	I	abstract[70]	new[70]	coref	36-1[70_71]
 28-4	_	’d	_	_	_	_
 28-5	_	be	_	_	_	_
 28-6	_	glad	_	_	_	_
@@ -559,25 +559,25 @@
 28-8	_	discuss	_	_	_	_
 28-9	_	parts	_	_	_	_
 28-10	_	of	_	_	_	_
-28-11	_	the	abstract[60]	new[60]	coref	29-5[60_61]
-28-12	_	solution	abstract[60]	new[60]	_	_
-28-13	_	you	abstract[60]	new[60]	_	_
-28-14	_	take	abstract[60]	new[60]	_	_
-28-15	_	issue	abstract[60]	new[60]	_	_
-28-16	_	with	abstract[60]	new[60]	_	_
+28-11	_	the	abstract[58]	new[58]	coref	29-5[58_59]
+28-12	_	solution	abstract[58]	new[58]	_	_
+28-13	_	you	abstract[58]	new[58]	_	_
+28-14	_	take	abstract[58]	new[58]	_	_
+28-15	_	issue	abstract[58]	new[58]	_	_
+28-16	_	with	abstract[58]	new[58]	_	_
 28-17	_	in	_	_	_	_
 28-18	_	more	_	_	_	_
 28-19	_	detail	_	_	_	_
 
 #Text=I generally agree with this , but it is context sensitive .
-29-1	_	I	abstract[65]	new[65]	coref	32-1[65_66]
+29-1	_	I	abstract[63]	new[63]	coref	32-1[63_64]
 29-2	_	generally	_	_	_	_
 29-3	_	agree	_	_	_	_
 29-4	_	with	_	_	_	_
-29-5	_	this	abstract[61]	new[61]	coref	29-8[61_62]
+29-5	_	this	abstract[59]	new[59]	coref	29-8[59_60]
 29-6	_	,	_	_	_	_
 29-7	_	but	_	_	_	_
-29-8	_	it	abstract[62]	new[62]	_	_
+29-8	_	it	abstract[60]	new[60]	_	_
 29-9	_	is	_	_	_	_
 29-10	_	context	_	_	_	_
 29-11	_	sensitive	_	_	_	_
@@ -585,21 +585,21 @@
 
 #Text=If you are at a venue where you are asked to introduce yourself and your pronouns , it is churlish to refuse to do so , AND in that context it ’s best to ask rather that assume .
 30-1	_	If	_	_	_	_
-30-2	_	you	abstract[36]	new[36]	coref	30-8[36_37]
+30-2	_	you	abstract[34]	new[34]	coref	30-8[34_35]
 30-3	_	are	_	_	_	_
 30-4	_	at	_	_	_	_
-30-5	_	a	abstract[63]	new[63]	coref	31-2[63_64]
-30-6	_	venue	abstract[63]	new[63]	_	_
-30-7	_	where	abstract[63]	new[63]	_	_
-30-8	_	you	abstract[37]|abstract[63]	new[37]|new[63]	coref	30-13[37_38]
-30-9	_	are	abstract[63]	new[63]	_	_
-30-10	_	asked	abstract[63]	new[63]	_	_
-30-11	_	to	abstract[63]	new[63]	_	_
-30-12	_	introduce	abstract[63]	new[63]	_	_
-30-13	_	yourself	abstract[38]|abstract[63]	new[38]|new[63]	coref	30-15[38_39]
-30-14	_	and	abstract[63]	new[63]	_	_
-30-15	_	your	abstract[39]|abstract[63]	new[39]|new[63]	coref	35-19[39_40]
-30-16	_	pronouns	abstract[63]	new[63]	_	_
+30-5	_	a	abstract[61]	new[61]	coref	31-2[61_62]
+30-6	_	venue	abstract[61]	new[61]	_	_
+30-7	_	where	abstract[61]	new[61]	_	_
+30-8	_	you	abstract[35]|abstract[61]	new[35]|new[61]	coref	30-13[35_36]
+30-9	_	are	abstract[61]	new[61]	_	_
+30-10	_	asked	abstract[61]	new[61]	_	_
+30-11	_	to	abstract[61]	new[61]	_	_
+30-12	_	introduce	abstract[61]	new[61]	_	_
+30-13	_	yourself	abstract[36]|abstract[61]	new[36]|new[61]	coref	30-15[36_37]
+30-14	_	and	abstract[61]	new[61]	_	_
+30-15	_	your	abstract[37]|abstract[61]	new[37]|new[61]	coref	35-19[37_38]
+30-16	_	pronouns	abstract[61]	new[61]	_	_
 30-17	_	,	_	_	_	_
 30-18	_	it	_	_	_	_
 30-19	_	is	_	_	_	_
@@ -626,10 +626,10 @@
 
 #Text=Since that kind of venue is fairly rare , it is not an unusual burden to ‘ go with the flow ’ .
 31-1	_	Since	_	_	_	_
-31-2	_	that	abstract[64]	new[64]	_	_
-31-3	_	kind	abstract[64]	new[64]	_	_
-31-4	_	of	abstract[64]	new[64]	_	_
-31-5	_	venue	abstract[64]	new[64]	_	_
+31-2	_	that	abstract[62]	new[62]	_	_
+31-3	_	kind	abstract[62]	new[62]	_	_
+31-4	_	of	abstract[62]	new[62]	_	_
+31-5	_	venue	abstract[62]	new[62]	_	_
 31-6	_	is	_	_	_	_
 31-7	_	fairly	_	_	_	_
 31-8	_	rare	_	_	_	_
@@ -650,7 +650,7 @@
 31-23	_	.	_	_	_	_
 
 #Text=I organize events professionally , and have never included as part of introductions .
-32-1	_	I	abstract[66]	new[66]	coref	35-2[66_67]
+32-1	_	I	abstract[64]	new[64]	coref	35-2[64_65]
 32-2	_	organize	_	_	_	_
 32-3	_	events	_	_	_	_
 32-4	_	professionally	_	_	_	_
@@ -674,8 +674,8 @@
 33-6	_	are	_	_	_	_
 33-7	_	uncomfortable	_	_	_	_
 33-8	_	with	_	_	_	_
-33-9	_	the	abstract[69]	new[69]	_	_
-33-10	_	practice	abstract[69]	new[69]	_	_
+33-9	_	the	abstract[67]	new[67]	_	_
+33-10	_	practice	abstract[67]	new[67]	_	_
 33-11	_	exceeds	_	_	_	_
 33-12	_	the	_	_	_	_
 33-13	_	number	_	_	_	_
@@ -706,7 +706,7 @@
 
 #Text=But I do think asking for pronouns / not assuming gender will remain a fairly fringe activity that you find in a few colleges , churches , support groups and therapy contexts and not much outside of that .
 35-1	_	But	_	_	_	_
-35-2	_	I	abstract[67]	new[67]	_	_
+35-2	_	I	abstract[65]	new[65]	_	_
 35-3	_	do	_	_	_	_
 35-4	_	think	_	_	_	_
 35-5	_	asking	_	_	_	_
@@ -718,35 +718,35 @@
 35-11	_	gender	_	_	_	_
 35-12	_	will	_	_	_	_
 35-13	_	remain	_	_	_	_
-35-14	_	a	abstract[77]	new[77]	coref	36-10[77_78]
-35-15	_	fairly	abstract[77]	new[77]	_	_
-35-16	_	fringe	abstract[77]	new[77]	_	_
-35-17	_	activity	abstract[77]	new[77]	_	_
-35-18	_	that	abstract[77]	new[77]	_	_
-35-19	_	you	abstract[40]|abstract[77]	new[40]|new[77]	coref	37-7[40_41]
-35-20	_	find	abstract[77]	new[77]	_	_
-35-21	_	in	abstract[77]	new[77]	_	_
-35-22	_	a	abstract[70]|abstract[77]	new[70]|new[77]	coref	35-38[70_71]
-35-23	_	few	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-24	_	colleges	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-25	_	,	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-26	_	churches	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-27	_	,	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-28	_	support	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-29	_	groups	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-30	_	and	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-31	_	therapy	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-32	_	contexts	abstract[70]|abstract[77]	new[70]|new[77]	_	_
-35-33	_	and	abstract[77]	new[77]	_	_
-35-34	_	not	abstract[77]	new[77]	_	_
-35-35	_	much	abstract[77]	new[77]	_	_
-35-36	_	outside	abstract[77]	new[77]	_	_
-35-37	_	of	abstract[77]	new[77]	_	_
-35-38	_	that	abstract[71]|abstract[77]	new[71]|new[77]	_	_
+35-14	_	a	abstract[75]	new[75]	coref	36-10[75_76]
+35-15	_	fairly	abstract[75]	new[75]	_	_
+35-16	_	fringe	abstract[75]	new[75]	_	_
+35-17	_	activity	abstract[75]	new[75]	_	_
+35-18	_	that	abstract[75]	new[75]	_	_
+35-19	_	you	abstract[38]|abstract[75]	new[38]|new[75]	coref	37-7[38_39]
+35-20	_	find	abstract[75]	new[75]	_	_
+35-21	_	in	abstract[75]	new[75]	_	_
+35-22	_	a	abstract[68]|abstract[75]	new[68]|new[75]	coref	35-38[68_69]
+35-23	_	few	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-24	_	colleges	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-25	_	,	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-26	_	churches	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-27	_	,	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-28	_	support	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-29	_	groups	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-30	_	and	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-31	_	therapy	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-32	_	contexts	abstract[68]|abstract[75]	new[68]|new[75]	_	_
+35-33	_	and	abstract[75]	new[75]	_	_
+35-34	_	not	abstract[75]	new[75]	_	_
+35-35	_	much	abstract[75]	new[75]	_	_
+35-36	_	outside	abstract[75]	new[75]	_	_
+35-37	_	of	abstract[75]	new[75]	_	_
+35-38	_	that	abstract[69]|abstract[75]	new[69]|new[75]	_	_
 35-39	_	.	_	_	_	_
 
 #Text=I would agree wholeheartedly that in certain contexts , this makes sense .
-36-1	_	I	abstract[73]	new[73]	coref	37-1[73_74]
+36-1	_	I	abstract[71]	new[71]	coref	37-1[71_72]
 36-2	_	would	_	_	_	_
 36-3	_	agree	_	_	_	_
 36-4	_	wholeheartedly	_	_	_	_
@@ -755,39 +755,39 @@
 36-7	_	certain	_	_	_	_
 36-8	_	contexts	_	_	_	_
 36-9	_	,	_	_	_	_
-36-10	_	this	abstract[78]	new[78]	coref	37-12[78_79]
+36-10	_	this	abstract[76]	new[76]	coref	37-12[76_77]
 36-11	_	makes	_	_	_	_
 36-12	_	sense	_	_	_	_
 36-13	_	.	_	_	_	_
 
 #Text=I think the key is that you ’d be informed about it , like if you ’re going to an LBGT or transgender event , obviously you might want to be more careful .
-37-1	_	I	abstract[74]	new[74]	coref	39-2[74_75]
+37-1	_	I	abstract[72]	new[72]	coref	39-2[72_73]
 37-2	_	think	_	_	_	_
 37-3	_	the	_	_	_	_
 37-4	_	key	_	_	_	_
 37-5	_	is	_	_	_	_
 37-6	_	that	_	_	_	_
-37-7	_	you	abstract[41]	new[41]	coref	37-16[41_42]
+37-7	_	you	abstract[39]	new[39]	coref	37-16[39_40]
 37-8	_	’d	_	_	_	_
 37-9	_	be	_	_	_	_
 37-10	_	informed	_	_	_	_
 37-11	_	about	_	_	_	_
-37-12	_	it	abstract[79]	new[79]	coref	39-18[79_80]
+37-12	_	it	abstract[77]	new[77]	coref	39-18[77_78]
 37-13	_	,	_	_	_	_
 37-14	_	like	_	_	_	_
 37-15	_	if	_	_	_	_
-37-16	_	you	abstract[42]	new[42]	coref	37-27[42_43]
+37-16	_	you	abstract[40]	new[40]	coref	37-27[40_41]
 37-17	_	’re	_	_	_	_
 37-18	_	going	_	_	_	_
 37-19	_	to	_	_	_	_
-37-20	_	an	abstract[90]	new[90]	coref	45-11[90_91]
-37-21	_	LBGT	abstract[90]	new[90]	_	_
-37-22	_	or	abstract[90]	new[90]	_	_
-37-23	_	transgender	abstract[90]	new[90]	_	_
-37-24	_	event	abstract[90]	new[90]	_	_
+37-20	_	an	abstract[88]	new[88]	coref	45-11[88_89]
+37-21	_	LBGT	abstract[88]	new[88]	_	_
+37-22	_	or	abstract[88]	new[88]	_	_
+37-23	_	transgender	abstract[88]	new[88]	_	_
+37-24	_	event	abstract[88]	new[88]	_	_
 37-25	_	,	_	_	_	_
 37-26	_	obviously	_	_	_	_
-37-27	_	you	abstract[43]	new[43]	coref	38-14[43_44]
+37-27	_	you	abstract[41]	new[41]	coref	38-14[41_42]
 37-28	_	might	_	_	_	_
 37-29	_	want	_	_	_	_
 37-30	_	to	_	_	_	_
@@ -798,19 +798,19 @@
 
 #Text=If everyone is expected to introduce their pronouns in the venue , then you may as well follow suit .
 38-1	_	If	_	_	_	_
-38-2	_	everyone	abstract[56]	new[56]	coref	38-7[56_57]
+38-2	_	everyone	abstract[54]	new[54]	coref	38-7[54_55]
 38-3	_	is	_	_	_	_
 38-4	_	expected	_	_	_	_
 38-5	_	to	_	_	_	_
 38-6	_	introduce	_	_	_	_
-38-7	_	their	abstract[57]	new[57]	_	_
+38-7	_	their	abstract[55]	new[55]	_	_
 38-8	_	pronouns	_	_	_	_
 38-9	_	in	_	_	_	_
 38-10	_	the	_	_	_	_
 38-11	_	venue	_	_	_	_
 38-12	_	,	_	_	_	_
 38-13	_	then	_	_	_	_
-38-14	_	you	abstract[44]	new[44]	coref	42-11[44_45]
+38-14	_	you	abstract[42]	new[42]	coref	42-11[42_43]
 38-15	_	may	_	_	_	_
 38-16	_	as	_	_	_	_
 38-17	_	well	_	_	_	_
@@ -820,13 +820,13 @@
 
 #Text=As I ’ve said , though , I do n’t think it would be best to apply this idea society - wide though .
 39-1	_	As	_	_	_	_
-39-2	_	I	abstract[75]	new[75]	coref	39-8[75_76]
+39-2	_	I	abstract[73]	new[73]	coref	39-8[73_74]
 39-3	_	’ve	_	_	_	_
 39-4	_	said	_	_	_	_
 39-5	_	,	_	_	_	_
 39-6	_	though	_	_	_	_
 39-7	_	,	_	_	_	_
-39-8	_	I	abstract[76]	new[76]	_	_
+39-8	_	I	abstract[74]	new[74]	_	_
 39-9	_	do	_	_	_	_
 39-10	_	n’t	_	_	_	_
 39-11	_	think	_	_	_	_
@@ -836,8 +836,8 @@
 39-15	_	best	_	_	_	_
 39-16	_	to	_	_	_	_
 39-17	_	apply	_	_	_	_
-39-18	_	this	abstract[80]	new[80]	coref	48-37[80_81]
-39-19	_	idea	abstract[80]	new[80]	_	_
+39-18	_	this	abstract[78]	new[78]	coref	48-37[78_79]
+39-19	_	idea	abstract[78]	new[78]	_	_
 39-20	_	society	_	_	_	_
 39-21	_	-	_	_	_	_
 39-22	_	wide	_	_	_	_
@@ -859,15 +859,15 @@
 41-8	_	for	_	_	_	_
 41-9	_	everything	_	_	_	_
 41-10	_	and	_	_	_	_
-41-11	_	a	abstract[84]	new[84]	coref	41-19[84_85]
-41-12	_	majority	abstract[84]	new[84]	_	_
-41-13	_	of	abstract[84]	new[84]	_	_
-41-14	_	people	abstract[84]	new[84]	_	_
+41-11	_	a	abstract[82]	new[82]	coref	41-19[82_83]
+41-12	_	majority	abstract[82]	new[82]	_	_
+41-13	_	of	abstract[82]	new[82]	_	_
+41-14	_	people	abstract[82]	new[82]	_	_
 41-15	_	use	_	_	_	_
 41-16	_	pronouns	_	_	_	_
 41-17	_	based	_	_	_	_
 41-18	_	on	_	_	_	_
-41-19	_	their	abstract[85]	new[85]	_	_
+41-19	_	their	abstract[83]	new[83]	_	_
 41-20	_	assigned	_	_	_	_
 41-21	_	gender	_	_	_	_
 41-22	_	.	_	_	_	_
@@ -883,7 +883,7 @@
 42-8	_	but	_	_	_	_
 42-9	_	knowing	_	_	_	_
 42-10	_	when	_	_	_	_
-42-11	_	you	abstract[45]	new[45]	coref	42-27[45_46]
+42-11	_	you	abstract[43]	new[43]	coref	42-27[43_44]
 42-12	_	will	_	_	_	_
 42-13	_	encounter	_	_	_	_
 42-14	_	a	_	_	_	_
@@ -899,7 +899,7 @@
 42-24	_	key	_	_	_	_
 42-25	_	in	_	_	_	_
 42-26	_	determining	_	_	_	_
-42-27	_	your	abstract[46]	new[46]	coref	43-4[46_47]
+42-27	_	your	abstract[44]	new[44]	coref	43-4[44_45]
 42-28	_	behavior	_	_	_	_
 42-29	_	.	_	_	_	_
 
@@ -907,7 +907,7 @@
 43-1	_	Classic	_	_	_	_
 43-2	_	“	_	_	_	_
 43-3	_	know	_	_	_	_
-43-4	_	your	abstract[47]	new[47]	coref	47-5[47_48]
+43-4	_	your	abstract[45]	new[45]	coref	47-5[45_46]
 43-5	_	audience	_	_	_	_
 43-6	_	”	_	_	_	_
 43-7	_	type	_	_	_	_
@@ -916,7 +916,7 @@
 43-10	_	.	_	_	_	_
 
 #Text=I ca n’t even remember names of people I meet .
-44-1	_	I	abstract[86]	new[86]	coref	44-9[86_87]
+44-1	_	I	abstract[84]	new[84]	coref	44-9[84_85]
 44-2	_	ca	_	_	_	_
 44-3	_	n’t	_	_	_	_
 44-4	_	even	_	_	_	_
@@ -924,14 +924,14 @@
 44-6	_	names	_	_	_	_
 44-7	_	of	_	_	_	_
 44-8	_	people	_	_	_	_
-44-9	_	I	abstract[87]	new[87]	coref	45-1[87_88]
+44-9	_	I	abstract[85]	new[85]	coref	45-1[85_86]
 44-10	_	meet	_	_	_	_
 44-11	_	.	_	_	_	_
 
 #Text=I guess I ’d have to take a notebook to such an event to remember names and pronouns .
-45-1	_	I	abstract[88]	new[88]	coref	45-3[88_89]
+45-1	_	I	abstract[86]	new[86]	coref	45-3[86_87]
 45-2	_	guess	_	_	_	_
-45-3	_	I	abstract[89]	new[89]	_	_
+45-3	_	I	abstract[87]	new[87]	_	_
 45-4	_	’d	_	_	_	_
 45-5	_	have	_	_	_	_
 45-6	_	to	_	_	_	_
@@ -939,14 +939,14 @@
 45-8	_	a	_	_	_	_
 45-9	_	notebook	_	_	_	_
 45-10	_	to	_	_	_	_
-45-11	_	such	abstract[91]	new[91]	_	_
-45-12	_	an	abstract[91]	new[91]	_	_
-45-13	_	event	abstract[91]	new[91]	_	_
+45-11	_	such	abstract[89]	new[89]	_	_
+45-12	_	an	abstract[89]	new[89]	_	_
+45-13	_	event	abstract[89]	new[89]	_	_
 45-14	_	to	_	_	_	_
 45-15	_	remember	_	_	_	_
-45-16	_	names	abstract[92]	new[92]	coref	46-9[92_93]
-45-17	_	and	abstract[92]	new[92]	_	_
-45-18	_	pronouns	abstract[92]	new[92]	_	_
+45-16	_	names	abstract[90]	new[90]	coref	46-9[90_91]
+45-17	_	and	abstract[90]	new[90]	_	_
+45-18	_	pronouns	abstract[90]	new[90]	_	_
 45-19	_	.	_	_	_	_
 
 #Text=Oh and a Polaroid camera to remember who they belong to lol .
@@ -958,17 +958,17 @@
 46-6	_	to	_	_	_	_
 46-7	_	remember	_	_	_	_
 46-8	_	who	_	_	_	_
-46-9	_	they	abstract[93]	new[93]	_	_
+46-9	_	they	abstract[91]	new[91]	_	_
 46-10	_	belong	_	_	_	_
 46-11	_	to	_	_	_	_
 46-12	_	lol	_	_	_	_
 46-13	_	.	_	_	_	_
 
 #Text=I think if you ’re at a place where people provide preferred pronouns at introduction you ’re skipping the part that necessitates assumption .
-47-1	_	I	abstract[94]	new[94]	coref	48-1[94_95]
+47-1	_	I	abstract[92]	new[92]	coref	48-1[92_93]
 47-2	_	think	_	_	_	_
 47-3	_	if	_	_	_	_
-47-4	_	you	abstract[48]	new[48]	coref	47-17[48_49]
+47-4	_	you	abstract[46]	new[46]	coref	47-17[46_47]
 47-5	_	’re	_	_	_	_
 47-6	_	at	_	_	_	_
 47-7	_	a	_	_	_	_
@@ -980,7 +980,7 @@
 47-13	_	pronouns	_	_	_	_
 47-14	_	at	_	_	_	_
 47-15	_	introduction	_	_	_	_
-47-16	_	you	abstract[49]	new[49]	coref	49-18[49_50]
+47-16	_	you	abstract[47]	new[47]	coref	49-18[47_48]
 47-17	_	’re	_	_	_	_
 47-18	_	skipping	_	_	_	_
 47-19	_	the	_	_	_	_
@@ -991,7 +991,7 @@
 47-24	_	.	_	_	_	_
 
 #Text=I 've been more or less reprimanded in a Starbucks for a " he got my order " , and I easily have a hundred encounters a week where I reasonably have ZERO time to do that dance .
-48-1	_	I	abstract[95]	new[95]	coref	48-16[95_96]
+48-1	_	I	abstract[93]	new[93]	coref	48-16[93_94]
 48-2	_	've	_	_	_	_
 48-3	_	been	_	_	_	_
 48-4	_	more	_	_	_	_
@@ -999,19 +999,19 @@
 48-6	_	less	_	_	_	_
 48-7	_	reprimanded	_	_	_	_
 48-8	_	in	_	_	_	_
-48-9	_	a	abstract[101]	new[101]	coref	51-31[101_102]
-48-10	_	Starbucks	abstract[101]	new[101]	_	_
+48-9	_	a	abstract[99]	new[99]	coref	51-31[99_100]
+48-10	_	Starbucks	abstract[99]	new[99]	_	_
 48-11	_	for	_	_	_	_
 48-12	_	a	_	_	_	_
 48-13	_	"	_	_	_	_
 48-14	_	he	_	_	_	_
 48-15	_	got	_	_	_	_
-48-16	_	my	abstract[96]	new[96]	coref	48-21[96_97]
+48-16	_	my	abstract[94]	new[94]	coref	48-21[94_95]
 48-17	_	order	_	_	_	_
 48-18	_	"	_	_	_	_
 48-19	_	,	_	_	_	_
 48-20	_	and	_	_	_	_
-48-21	_	I	abstract[97]	new[97]	coref	48-30[97_98]
+48-21	_	I	abstract[95]	new[95]	coref	48-30[95_96]
 48-22	_	easily	_	_	_	_
 48-23	_	have	_	_	_	_
 48-24	_	a	_	_	_	_
@@ -1020,20 +1020,20 @@
 48-27	_	a	_	_	_	_
 48-28	_	week	_	_	_	_
 48-29	_	where	_	_	_	_
-48-30	_	I	abstract[98]	new[98]	_	_
+48-30	_	I	abstract[96]	new[96]	_	_
 48-31	_	reasonably	_	_	_	_
 48-32	_	have	_	_	_	_
 48-33	_	ZERO	_	_	_	_
 48-34	_	time	_	_	_	_
 48-35	_	to	_	_	_	_
 48-36	_	do	_	_	_	_
-48-37	_	that	abstract[81]	new[81]	coref	49-2[81_82]
-48-38	_	dance	abstract[81]	new[81]	_	_
+48-37	_	that	abstract[79]	new[79]	coref	49-2[79_80]
+48-38	_	dance	abstract[79]	new[79]	_	_
 48-39	_	.	_	_	_	_
 
 #Text=Doing it at all should be by special request unless there is a real reason to believe you are in a situation that should reasonable expect it .
 49-1	_	Doing	_	_	_	_
-49-2	_	it	abstract[82]	new[82]	coref	49-27[82_83]
+49-2	_	it	abstract[80]	new[80]	coref	49-27[80_81]
 49-3	_	at	_	_	_	_
 49-4	_	all	_	_	_	_
 49-5	_	should	_	_	_	_
@@ -1049,7 +1049,7 @@
 49-15	_	reason	_	_	_	_
 49-16	_	to	_	_	_	_
 49-17	_	believe	_	_	_	_
-49-18	_	you	abstract[50]	new[50]	coref	50-7[50_51]
+49-18	_	you	abstract[48]	new[48]	coref	50-7[48_49]
 49-19	_	are	_	_	_	_
 49-20	_	in	_	_	_	_
 49-21	_	a	_	_	_	_
@@ -1058,7 +1058,7 @@
 49-24	_	should	_	_	_	_
 49-25	_	reasonable	_	_	_	_
 49-26	_	expect	_	_	_	_
-49-27	_	it	abstract[83]	new[83]	_	_
+49-27	_	it	abstract[81]	new[81]	_	_
 49-28	_	.	_	_	_	_
 
 #Text=Life ’s a lot better when you take comments like that in a ‘ oh ok ’ calm way rather than as a slap .
@@ -1068,11 +1068,11 @@
 50-4	_	lot	_	_	_	_
 50-5	_	better	_	_	_	_
 50-6	_	when	_	_	_	_
-50-7	_	you	abstract[51]	new[51]	coref	51-12[51_52]
+50-7	_	you	abstract[49]	new[49]	coref	51-12[49_50]
 50-8	_	take	_	_	_	_
 50-9	_	comments	_	_	_	_
 50-10	_	like	_	_	_	_
-50-11	_	that	abstract[99]	new[99]	coref	51-3[99_100]
+50-11	_	that	abstract[97]	new[97]	coref	51-3[97_98]
 50-12	_	in	_	_	_	_
 50-13	_	a	_	_	_	_
 50-14	_	‘	_	_	_	_
@@ -1091,7 +1091,7 @@
 #Text=Look at it this way , it s 5 seconds of your life , but probably a multiple times a day thing that gender - ambiguous - looking woman at Starbucks .
 51-1	_	Look	_	_	_	_
 51-2	_	at	_	_	_	_
-51-3	_	it	abstract[100]	new[100]	_	_
+51-3	_	it	abstract[98]	new[98]	_	_
 51-4	_	this	_	_	_	_
 51-5	_	way	_	_	_	_
 51-6	_	,	_	_	_	_
@@ -1100,7 +1100,7 @@
 51-9	_	5	_	_	_	_
 51-10	_	seconds	_	_	_	_
 51-11	_	of	_	_	_	_
-51-12	_	your	abstract[52]	new[52]	coref	52-17[52_53]
+51-12	_	your	abstract[50]	new[50]	coref	52-17[50_51]
 51-13	_	life	_	_	_	_
 51-14	_	,	_	_	_	_
 51-15	_	but	_	_	_	_
@@ -1111,15 +1111,15 @@
 51-20	_	a	_	_	_	_
 51-21	_	day	_	_	_	_
 51-22	_	thing	_	_	_	_
-51-23	_	that	abstract[103]	new[103]	coref	52-9[103_104]
-51-24	_	gender	abstract[103]	new[103]	_	_
-51-25	_	-	abstract[103]	new[103]	_	_
-51-26	_	ambiguous	abstract[103]	new[103]	_	_
-51-27	_	-	abstract[103]	new[103]	_	_
-51-28	_	looking	abstract[103]	new[103]	_	_
-51-29	_	woman	abstract[103]	new[103]	_	_
-51-30	_	at	abstract[103]	new[103]	_	_
-51-31	_	Starbucks	abstract[102]|abstract[103]	new[102]|new[103]	_	_
+51-23	_	that	abstract[101]	new[101]	coref	52-9[101_102]
+51-24	_	gender	abstract[101]	new[101]	_	_
+51-25	_	-	abstract[101]	new[101]	_	_
+51-26	_	ambiguous	abstract[101]	new[101]	_	_
+51-27	_	-	abstract[101]	new[101]	_	_
+51-28	_	looking	abstract[101]	new[101]	_	_
+51-29	_	woman	abstract[101]	new[101]	_	_
+51-30	_	at	abstract[101]	new[101]	_	_
+51-31	_	Starbucks	abstract[100]|abstract[101]	new[100]|new[101]	_	_
 51-32	_	.	_	_	_	_
 
 #Text=Plus the other hundred time a week where she ’s out in the world just like you .
@@ -1131,7 +1131,7 @@
 52-6	_	a	_	_	_	_
 52-7	_	week	_	_	_	_
 52-8	_	where	_	_	_	_
-52-9	_	she	abstract[104]	new[104]	_	_
+52-9	_	she	abstract[102]	new[102]	_	_
 52-10	_	’s	_	_	_	_
 52-11	_	out	_	_	_	_
 52-12	_	in	_	_	_	_
@@ -1139,48 +1139,32 @@
 52-14	_	world	_	_	_	_
 52-15	_	just	_	_	_	_
 52-16	_	like	_	_	_	_
-52-17	_	you	abstract[53]	new[53]	_	_
+52-17	_	you	abstract[51]	new[51]	_	_
 52-18	_	.	_	_	_	_
 
-#Text=A strange , odd combination of the most unorthodox theory : that humans are the only species which practices birth control , a conspiracy theory that could arouse suspicions . Now what are we using our phones to do ?
-53-1	_	A	_	_	_	_
-53-2	_	strange	_	_	_	_
-53-3	_	,	_	_	_	_
-53-4	_	odd	_	_	_	_
-53-5	_	combination	_	_	_	_
-53-6	_	of	_	_	_	_
-53-7	_	the	_	_	_	_
-53-8	_	most	_	_	_	_
-53-9	_	unorthodox	_	_	_	_
-53-10	_	theory	_	_	_	_
-53-11	_	:	_	_	_	_
-53-12	_	that	_	_	_	_
-53-13	_	humans	_	_	_	_
-53-14	_	are	_	_	_	_
-53-15	_	the	_	_	_	_
-53-16	_	only	_	_	_	_
-53-17	_	species	_	_	_	_
-53-18	_	which	_	_	_	_
-53-19	_	practices	_	_	_	_
-53-20	_	birth	_	_	_	_
-53-21	_	control	_	_	_	_
-53-22	_	,	_	_	_	_
-53-23	_	a	_	_	_	_
-53-24	_	conspiracy	_	_	_	_
-53-25	_	theory	_	_	_	_
-53-26	_	that	_	_	_	_
-53-27	_	could	_	_	_	_
-53-28	_	arouse	_	_	_	_
-53-29	_	suspicions	_	_	_	_
-53-30	_	.	_	_	_	_
-53-31	_	Now	_	_	_	_
-53-32	_	what	_	_	_	_
-53-33	_	are	_	_	_	_
-53-34	_	we	abstract[8]	new[8]	coref	53-36[8_9]
-53-35	_	using	_	_	_	_
-53-36	_	our	abstract[9]	new[9]	_	_
-53-37	_	phones	_	_	_	_
-53-38	_	to	_	_	_	_
-53-39	_	do	_	_	_	_
-53-40	_	?	_	_	_	_
+#Text=The dinosaur - thinking conspiracy is getting bigger in the last few years , and with that comes the threat of online surveillance .
+53-1	_	The	abstract[103]	new[103]	coref	53-17[103_104]
+53-2	_	dinosaur	abstract[103]	new[103]	_	_
+53-3	_	-	abstract[103]	new[103]	_	_
+53-4	_	thinking	abstract[103]	new[103]	_	_
+53-5	_	conspiracy	abstract[103]	new[103]	_	_
+53-6	_	is	_	_	_	_
+53-7	_	getting	_	_	_	_
+53-8	_	bigger	_	_	_	_
+53-9	_	in	_	_	_	_
+53-10	_	the	_	_	_	_
+53-11	_	last	_	_	_	_
+53-12	_	few	_	_	_	_
+53-13	_	years	_	_	_	_
+53-14	_	,	_	_	_	_
+53-15	_	and	_	_	_	_
+53-16	_	with	_	_	_	_
+53-17	_	that	abstract[104]	new[104]	_	_
+53-18	_	comes	_	_	_	_
+53-19	_	the	_	_	_	_
+53-20	_	threat	_	_	_	_
+53-21	_	of	_	_	_	_
+53-22	_	online	_	_	_	_
+53-23	_	surveillance	_	_	_	_
+53-24	_	.	_	_	_	_
 

@@ -1247,30 +1247,27 @@
 63-34	_	day	_	_	_	_
 63-35	_	.	_	_	_	_
 
-#Text=The writer of this video gives her 4 ways to enjoy this beautiful region in Oregon after exploring in a new and interesting mode .
-64-1	_	The	abstract[122]	new[122]	coref	64-7[122_123]
-64-2	_	writer	abstract[122]	new[122]	_	_
-64-3	_	of	abstract[122]	new[122]	_	_
-64-4	_	this	abstract[122]	new[122]	_	_
-64-5	_	video	abstract[122]	new[122]	_	_
-64-6	_	gives	_	_	_	_
-64-7	_	her	abstract[123]	new[123]	_	_
-64-8	_	4	_	_	_	_
-64-9	_	ways	_	_	_	_
-64-10	_	to	_	_	_	_
-64-11	_	enjoy	_	_	_	_
-64-12	_	this	_	_	_	_
-64-13	_	beautiful	_	_	_	_
-64-14	_	region	_	_	_	_
+#Text=The winery is a great place to take a wine trip and this time in Oregon , it 's the whites .
+64-1	_	The	_	_	_	_
+64-2	_	winery	_	_	_	_
+64-3	_	is	_	_	_	_
+64-4	_	a	_	_	_	_
+64-5	_	great	_	_	_	_
+64-6	_	place	_	_	_	_
+64-7	_	to	_	_	_	_
+64-8	_	take	_	_	_	_
+64-9	_	a	_	_	_	_
+64-10	_	wine	_	_	_	_
+64-11	_	trip	_	_	_	_
+64-12	_	and	_	_	_	_
+64-13	_	this	_	_	_	_
+64-14	_	time	_	_	_	_
 64-15	_	in	_	_	_	_
 64-16	_	Oregon	_	_	_	_
-64-17	_	after	_	_	_	_
-64-18	_	exploring	_	_	_	_
-64-19	_	in	_	_	_	_
-64-20	_	a	_	_	_	_
-64-21	_	new	_	_	_	_
-64-22	_	and	_	_	_	_
-64-23	_	interesting	_	_	_	_
-64-24	_	mode	_	_	_	_
-64-25	_	.	_	_	_	_
+64-17	_	,	_	_	_	_
+64-18	_	it	_	_	_	_
+64-19	_	's	_	_	_	_
+64-20	_	the	_	_	_	_
+64-21	_	whites	_	_	_	_
+64-22	_	.	_	_	_	_
 

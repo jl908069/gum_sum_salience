@@ -1255,22 +1255,19 @@
 36-31	_	duty	_	_	_	_
 36-32	_	.	_	_	_	_
 
-#Text=When all is said and done , the movie is one of the worst at all .
-37-1	_	When	_	_	_	_
-37-2	_	all	_	_	_	_
-37-3	_	is	_	_	_	_
-37-4	_	said	_	_	_	_
-37-5	_	and	_	_	_	_
-37-6	_	done	_	_	_	_
-37-7	_	,	_	_	_	_
-37-8	_	the	_	_	_	_
-37-9	_	movie	_	_	_	_
-37-10	_	is	_	_	_	_
-37-11	_	one	_	_	_	_
-37-12	_	of	_	_	_	_
-37-13	_	the	_	_	_	_
-37-14	_	worst	_	_	_	_
-37-15	_	at	_	_	_	_
-37-16	_	all	_	_	_	_
-37-17	_	.	_	_	_	_
+#Text=They should have just released the UE instead of its 3 hour film .
+37-1	_	They	_	_	_	_
+37-2	_	should	_	_	_	_
+37-3	_	have	_	_	_	_
+37-4	_	just	_	_	_	_
+37-5	_	released	_	_	_	_
+37-6	_	the	abstract[112]	new[112]	coref	37-10[112_113]
+37-7	_	UE	abstract[112]	new[112]	_	_
+37-8	_	instead	_	_	_	_
+37-9	_	of	_	_	_	_
+37-10	_	its	abstract[113]	new[113]	_	_
+37-11	_	3	_	_	_	_
+37-12	_	hour	_	_	_	_
+37-13	_	film	_	_	_	_
+37-14	_	.	_	_	_	_
 

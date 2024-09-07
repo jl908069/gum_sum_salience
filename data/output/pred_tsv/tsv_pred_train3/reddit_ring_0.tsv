@@ -1127,32 +1127,28 @@
 69-3	_	helped	_	_	_	_
 69-4	_	!	_	_	_	_
 
-#Text=As racial issues are such an issue in America , how is America viewed in a post about the racial divisions going on in the U.S. ?
-70-1	_	As	_	_	_	_
-70-2	_	racial	_	_	_	_
-70-3	_	issues	_	_	_	_
-70-4	_	are	_	_	_	_
-70-5	_	such	_	_	_	_
-70-6	_	an	_	_	_	_
-70-7	_	issue	_	_	_	_
-70-8	_	in	_	_	_	_
-70-9	_	America	abstract[113]	new[113]	coref	70-13[113_114]
-70-10	_	,	_	_	_	_
-70-11	_	how	_	_	_	_
-70-12	_	is	_	_	_	_
-70-13	_	America	abstract[114]	new[114]	coref	70-25[114_115]
-70-14	_	viewed	_	_	_	_
-70-15	_	in	_	_	_	_
-70-16	_	a	_	_	_	_
-70-17	_	post	_	_	_	_
-70-18	_	about	_	_	_	_
-70-19	_	the	_	_	_	_
-70-20	_	racial	_	_	_	_
-70-21	_	divisions	_	_	_	_
-70-22	_	going	_	_	_	_
-70-23	_	on	_	_	_	_
-70-24	_	in	_	_	_	_
-70-25	_	the	abstract[115]	new[115]	_	_
-70-26	_	U.S.	abstract[115]	new[115]	_	_
-70-27	_	?	_	_	_	_
+#Text=My question is , in general , how American society feels to the topic . A white person and a black person ?
+70-1	_	My	_	_	_	_
+70-2	_	question	_	_	_	_
+70-3	_	is	_	_	_	_
+70-4	_	,	_	_	_	_
+70-5	_	in	_	_	_	_
+70-6	_	general	_	_	_	_
+70-7	_	,	_	_	_	_
+70-8	_	how	_	_	_	_
+70-9	_	American	_	_	_	_
+70-10	_	society	_	_	_	_
+70-11	_	feels	_	_	_	_
+70-12	_	to	_	_	_	_
+70-13	_	the	_	_	_	_
+70-14	_	topic	_	_	_	_
+70-15	_	.	_	_	_	_
+70-16	_	A	_	_	_	_
+70-17	_	white	_	_	_	_
+70-18	_	person	_	_	_	_
+70-19	_	and	_	_	_	_
+70-20	_	a	_	_	_	_
+70-21	_	black	_	_	_	_
+70-22	_	person	_	_	_	_
+70-23	_	?	_	_	_	_
 

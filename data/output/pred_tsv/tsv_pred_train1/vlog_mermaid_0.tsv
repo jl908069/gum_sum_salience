@@ -41,10 +41,10 @@
 3-3	_	we	abstract[44]	new[44]	coref	7-5[44_45]
 3-4	_	’re	_	_	_	_
 3-5	_	doing	_	_	_	_
-3-6	_	another	abstract[91]	new[91]	coref	10-4[91_92]
-3-7	_	mermaid	abstract[91]	new[91]	_	_
-3-8	_	photo	abstract[91]	new[91]	_	_
-3-9	_	shoot	abstract[91]	new[91]	_	_
+3-6	_	another	abstract[90]	new[90]	coref	10-4[90_91]
+3-7	_	mermaid	abstract[90]	new[90]	_	_
+3-8	_	photo	abstract[90]	new[90]	_	_
+3-9	_	shoot	abstract[90]	new[90]	_	_
 3-10	_	.	_	_	_	_
 
 #Text=It ’s not quite summer but it feels like summer here and I never miss a year of mermaid content .
@@ -107,9 +107,9 @@
 7-4	_	,	_	_	_	_
 7-5	_	we	abstract[45]	new[45]	coref	7-28[45_46]
 7-6	_	have	_	_	_	_
-7-7	_	a	abstract[101]	new[101]	coref	32-6[101_102]
-7-8	_	silicone	abstract[101]	new[101]	_	_
-7-9	_	tail	abstract[101]	new[101]	_	_
+7-7	_	a	abstract[100]	new[100]	coref	32-6[100_101]
+7-8	_	silicone	abstract[100]	new[100]	_	_
+7-9	_	tail	abstract[100]	new[100]	_	_
 7-10	_	this	_	_	_	_
 7-11	_	time	_	_	_	_
 7-12	_	,	_	_	_	_
@@ -122,9 +122,9 @@
 7-19	_	tone	_	_	_	_
 7-20	_	,	_	_	_	_
 7-21	_	and	_	_	_	_
-7-22	_	my	abstract[5]|abstract[76]	new[5]|new[76]	coref|coref	7-30[5_6]|7-32[76_77]
-7-23	_	friend	abstract[76]	new[76]	_	_
-7-24	_	Marianne	abstract[76]	new[76]	_	_
+7-22	_	my	abstract[5]|abstract[75]	new[5]|new[75]	coref|coref	7-30[5_6]|7-32[75_76]
+7-23	_	friend	abstract[75]	new[75]	_	_
+7-24	_	Marianne	abstract[75]	new[75]	_	_
 7-25	_	is	_	_	_	_
 7-26	_	staying	_	_	_	_
 7-27	_	with	_	_	_	_
@@ -132,7 +132,7 @@
 7-29	_	and	_	_	_	_
 7-30	_	I	abstract[6]	new[6]	coref	8-17[6_7]
 7-31	_	love	_	_	_	_
-7-32	_	her	abstract[77]	new[77]	coref	8-2[77_78]
+7-32	_	her	abstract[76]	new[76]	coref	8-2[76_77]
 7-33	_	photography	_	_	_	_
 7-34	_	style	_	_	_	_
 7-35	_	and	_	_	_	_
@@ -141,7 +141,7 @@
 
 #Text=So she actually made this kind of Grecian top , like , very quickly , and I ca n’t wait to see this location .
 8-1	_	So	_	_	_	_
-8-2	_	she	abstract[78]	new[78]	coref	20-6[78_79]
+8-2	_	she	abstract[77]	new[77]	coref	20-6[77_78]
 8-3	_	actually	_	_	_	_
 8-4	_	made	_	_	_	_
 8-5	_	this	_	_	_	_
@@ -162,12 +162,12 @@
 8-20	_	wait	_	_	_	_
 8-21	_	to	_	_	_	_
 8-22	_	see	_	_	_	_
-8-23	_	this	abstract[89]	new[89]	coref	9-1[89_90]
-8-24	_	location	abstract[89]	new[89]	_	_
+8-23	_	this	abstract[88]	new[88]	coref	9-1[88_89]
+8-24	_	location	abstract[88]	new[88]	_	_
 8-25	_	.	_	_	_	_
 
 #Text=It ’s gon na be beautiful .
-9-1	_	It	abstract[90]	new[90]	_	_
+9-1	_	It	abstract[89]	new[89]	_	_
 9-2	_	’s	_	_	_	_
 9-3	_	gon	_	_	_	_
 9-4	_	na	_	_	_	_
@@ -179,12 +179,12 @@
 10-1	_	And	_	_	_	_
 10-2	_	then	_	_	_	_
 10-3	_	after	_	_	_	_
-10-4	_	that	abstract[92]	new[92]	_	_
+10-4	_	that	abstract[91]	new[91]	_	_
 10-5	_	we	abstract[47]	new[47]	coref	10-19[47_48]
 10-6	_	are	_	_	_	_
 10-7	_	headed	_	_	_	_
 10-8	_	to	_	_	_	_
-10-9	_	Orlando	abstract[109]	new[109]	coref	46-13[109_110]
+10-9	_	Orlando	abstract[108]	new[108]	coref	46-13[108_109]
 10-10	_	,	_	_	_	_
 10-11	_	I	abstract[8]	new[8]	coref	10-16[8_9]
 10-12	_	’m	_	_	_	_
@@ -197,9 +197,9 @@
 10-19	_	we	abstract[48]	new[48]	coref	11-1[48_49]
 10-20	_	’re	_	_	_	_
 10-21	_	doing	_	_	_	_
-10-22	_	Harry	abstract[125]|abstract[130]	new[125]|new[130]	coref|coref	55-18[125_126]|57-4[130_131]
-10-23	_	Potter	abstract[125]|abstract[130]	new[125]|new[130]	_	_
-10-24	_	World	abstract[130]	new[130]	_	_
+10-22	_	Harry	abstract[126]|abstract[132]	new[126]|new[132]	coref|coref	55-18[126_127]|57-4[132_133]
+10-23	_	Potter	abstract[126]|abstract[132]	new[126]|new[132]	_	_
+10-24	_	World	abstract[132]	new[132]	_	_
 10-25	_	.	_	_	_	_
 
 #Text=We had to go into this little corner store because um we had to pee and we had to get five dollars worth of stuff .
@@ -208,10 +208,10 @@
 11-3	_	to	_	_	_	_
 11-4	_	go	_	_	_	_
 11-5	_	into	_	_	_	_
-11-6	_	this	abstract[93]	new[93]	coref	12-2[93_94]
-11-7	_	little	abstract[93]	new[93]	_	_
-11-8	_	corner	abstract[93]	new[93]	_	_
-11-9	_	store	abstract[93]	new[93]	_	_
+11-6	_	this	abstract[92]	new[92]	coref	12-2[92_93]
+11-7	_	little	abstract[92]	new[92]	_	_
+11-8	_	corner	abstract[92]	new[92]	_	_
+11-9	_	store	abstract[92]	new[92]	_	_
 11-10	_	because	_	_	_	_
 11-11	_	um	_	_	_	_
 11-12	_	we	abstract[50]	new[50]	coref	11-17[50_51]
@@ -232,8 +232,8 @@
 
 #Text=Saw this place on the corner of the road .
 12-1	_	Saw	_	_	_	_
-12-2	_	this	abstract[94]	new[94]	coref	15-1[94_95]
-12-3	_	place	abstract[94]	new[94]	_	_
+12-2	_	this	abstract[93]	new[93]	coref	15-1[93_94]
+12-3	_	place	abstract[93]	new[93]	_	_
 12-4	_	on	_	_	_	_
 12-5	_	the	_	_	_	_
 12-6	_	corner	_	_	_	_
@@ -255,8 +255,8 @@
 14-4	_	.	_	_	_	_
 
 #Text=This place is so cool .
-15-1	_	This	abstract[95]	new[95]	_	_
-15-2	_	place	abstract[95]	new[95]	_	_
+15-1	_	This	abstract[94]	new[94]	_	_
+15-2	_	place	abstract[94]	new[94]	_	_
 15-3	_	is	_	_	_	_
 15-4	_	so	_	_	_	_
 15-5	_	cool	_	_	_	_
@@ -283,13 +283,13 @@
 17-11	_	I	abstract[10]	new[10]	coref	18-3[10_11]
 17-12	_	’m	_	_	_	_
 17-13	_	using	_	_	_	_
-17-14	_	this	abstract[96]	new[96]	coref	17-20[96_97]
-17-15	_	really	abstract[96]	new[96]	_	_
-17-16	_	beautiful	abstract[96]	new[96]	_	_
-17-17	_	Mac	abstract[96]	new[96]	_	_
-17-18	_	blush	abstract[96]	new[96]	_	_
+17-14	_	this	abstract[95]	new[95]	coref	17-20[95_96]
+17-15	_	really	abstract[95]	new[95]	_	_
+17-16	_	beautiful	abstract[95]	new[95]	_	_
+17-17	_	Mac	abstract[95]	new[95]	_	_
+17-18	_	blush	abstract[95]	new[95]	_	_
 17-19	_	,	_	_	_	_
-17-20	_	this	abstract[97]	new[97]	_	_
+17-20	_	this	abstract[96]	new[96]	_	_
 17-21	_	is	_	_	_	_
 17-22	_	the	_	_	_	_
 17-23	_	shade	_	_	_	_
@@ -304,19 +304,19 @@
 18-4	_	’ve	_	_	_	_
 18-5	_	been	_	_	_	_
 18-6	_	using	_	_	_	_
-18-7	_	the	abstract[98]	new[98]	coref	19-3[98_99]
-18-8	_	Dominique	abstract[98]	new[98]	_	_
-18-9	_	‘	abstract[98]	new[98]	_	_
-18-10	_	the	abstract[98]	new[98]	_	_
-18-11	_	Moment	abstract[98]	new[98]	_	_
-18-12	_	Palette	abstract[98]	new[98]	_	_
-18-13	_	’	abstract[98]	new[98]	_	_
+18-7	_	the	abstract[97]	new[97]	coref	19-3[97_98]
+18-8	_	Dominique	abstract[97]	new[97]	_	_
+18-9	_	‘	abstract[97]	new[97]	_	_
+18-10	_	the	abstract[97]	new[97]	_	_
+18-11	_	Moment	abstract[97]	new[97]	_	_
+18-12	_	Palette	abstract[97]	new[97]	_	_
+18-13	_	’	abstract[97]	new[97]	_	_
 18-14	_	.	_	_	_	_
 
 #Text=I used this in my last video but instead of going with the blues I went with these shades here and I love these together .
 19-1	_	I	abstract[12]	new[12]	coref	19-5[12_13]
 19-2	_	used	_	_	_	_
-19-3	_	this	abstract[99]	new[99]	coref	19-18[99_100]
+19-3	_	this	abstract[98]	new[98]	coref	19-18[98_99]
 19-4	_	in	_	_	_	_
 19-5	_	my	abstract[13]	new[13]	coref	19-15[13_14]
 19-6	_	last	_	_	_	_
@@ -331,8 +331,8 @@
 19-15	_	I	abstract[14]	new[14]	coref	19-22[14_15]
 19-16	_	went	_	_	_	_
 19-17	_	with	_	_	_	_
-19-18	_	these	abstract[100]	new[100]	_	_
-19-19	_	shades	abstract[100]	new[100]	_	_
+19-18	_	these	abstract[99]	new[99]	_	_
+19-19	_	shades	abstract[99]	new[99]	_	_
 19-20	_	here	_	_	_	_
 19-21	_	and	_	_	_	_
 19-22	_	I	abstract[15]	new[15]	coref	20-3[15_16]
@@ -347,7 +347,7 @@
 20-3	_	I	abstract[16]	new[16]	coref	23-1[16_17]
 20-4	_	can	_	_	_	_
 20-5	_	get	_	_	_	_
-20-6	_	you	abstract[79]	new[79]	coref	22-3[79_80]
+20-6	_	you	abstract[78]	new[78]	coref	22-3[78_79]
 20-7	_	in	_	_	_	_
 20-8	_	here	_	_	_	_
 20-9	_	.	_	_	_	_
@@ -360,7 +360,7 @@
 #Text=There ’s Marianne .
 22-1	_	There	_	_	_	_
 22-2	_	’s	_	_	_	_
-22-3	_	Marianne	abstract[80]	new[80]	coref	38-1[80_81]
+22-3	_	Marianne	abstract[79]	new[79]	coref	38-1[79_80]
 22-4	_	.	_	_	_	_
 
 #Text=I ’m gon na add some to my highlight .
@@ -442,13 +442,13 @@
 31-9	_	.	_	_	_	_
 
 #Text=It is so green and the tail is kind of H2O-esque .
-32-1	_	It	abstract[104]	new[104]	coref	33-4[104_105]
+32-1	_	It	abstract[103]	new[103]	coref	33-4[103_104]
 32-2	_	is	_	_	_	_
 32-3	_	so	_	_	_	_
 32-4	_	green	_	_	_	_
 32-5	_	and	_	_	_	_
-32-6	_	the	abstract[102]	new[102]	coref	42-29[102_103]
-32-7	_	tail	abstract[102]	new[102]	_	_
+32-6	_	the	abstract[101]	new[101]	coref	42-29[101_102]
+32-7	_	tail	abstract[101]	new[101]	_	_
 32-8	_	is	_	_	_	_
 32-9	_	kind	_	_	_	_
 32-10	_	of	_	_	_	_
@@ -459,7 +459,7 @@
 33-1	_	Oh	_	_	_	_
 33-2	_	my	abstract[22]	new[22]	coref	38-4[22_23]
 33-3	_	god	_	_	_	_
-33-4	_	it	abstract[105]	new[105]	_	_
+33-4	_	it	abstract[104]	new[104]	_	_
 33-5	_	’s	_	_	_	_
 33-6	_	so	_	_	_	_
 33-7	_	peaceful	_	_	_	_
@@ -498,7 +498,7 @@
 37-4	_	…	_	_	_	_
 
 #Text=I love how you have your , um –
-38-1	_	I	abstract[81]	new[81]	coref	69-1[81_82]
+38-1	_	I	abstract[80]	new[80]	coref	69-1[80_81]
 38-2	_	love	_	_	_	_
 38-3	_	how	_	_	_	_
 38-4	_	you	abstract[23]	new[23]	coref	38-6[23_24]
@@ -543,10 +543,10 @@
 42-6	_	because	_	_	_	_
 42-7	_	I	abstract[29]	new[29]	coref	42-23[29_30]
 42-8	_	heard	_	_	_	_
-42-9	_	a	abstract[106]	new[106]	coref	43-6[106_107]
-42-10	_	little	abstract[106]	new[106]	_	_
-42-11	_	chirping	abstract[106]	new[106]	_	_
-42-12	_	sound	abstract[106]	new[106]	_	_
+42-9	_	a	abstract[105]	new[105]	coref	43-6[105_106]
+42-10	_	little	abstract[105]	new[105]	_	_
+42-11	_	chirping	abstract[105]	new[105]	_	_
+42-12	_	sound	abstract[105]	new[105]	_	_
 42-13	_	and	_	_	_	_
 42-14	_	we	abstract[56]	new[56]	coref	46-4[56_57]
 42-15	_	already	_	_	_	_
@@ -562,8 +562,8 @@
 42-25	_	–	_	_	_	_
 42-26	_	and	_	_	_	_
 42-27	_	threw	_	_	_	_
-42-28	_	the	abstract[103]	new[103]	_	_
-42-29	_	tail	abstract[103]	new[103]	_	_
+42-28	_	the	abstract[102]	new[102]	_	_
+42-29	_	tail	abstract[102]	new[102]	_	_
 42-30	_	off	_	_	_	_
 42-31	_	,	_	_	_	_
 42-32	_	probably	_	_	_	_
@@ -576,14 +576,14 @@
 43-3	_	did	_	_	_	_
 43-4	_	n’t	_	_	_	_
 43-5	_	get	_	_	_	_
-43-6	_	it	abstract[107]	new[107]	coref	44-1[107_108]
+43-6	_	it	abstract[106]	new[106]	coref	44-1[106_107]
 43-7	_	on	_	_	_	_
 43-8	_	video	_	_	_	_
 43-9	_	.	_	_	_	_
 
 #Text=That sound !
-44-1	_	That	abstract[108]	new[108]	_	_
-44-2	_	sound	abstract[108]	new[108]	_	_
+44-1	_	That	abstract[107]	new[107]	_	_
+44-2	_	sound	abstract[107]	new[107]	_	_
 44-3	_	!	_	_	_	_
 
 #Text=Where you going – where are you going ?
@@ -610,7 +610,7 @@
 46-10	_	’re	_	_	_	_
 46-11	_	headed	_	_	_	_
 46-12	_	to	_	_	_	_
-46-13	_	Orlando	abstract[110]	new[110]	_	_
+46-13	_	Orlando	abstract[109]	new[109]	coref	104-36[109_110]
 46-14	_	.	_	_	_	_
 
 #Text=Have anything to say ?
@@ -631,12 +631,12 @@
 48-8	_	.	_	_	_	_
 
 #Text=It ’s a very – it was a bird or something , some sort of small –
-49-1	_	It	abstract[121]	new[121]	coref	49-6[121_122]
+49-1	_	It	abstract[122]	new[122]	coref	49-6[122_123]
 49-2	_	’s	_	_	_	_
 49-3	_	a	_	_	_	_
 49-4	_	very	_	_	_	_
 49-5	_	–	_	_	_	_
-49-6	_	it	abstract[122]	new[122]	_	_
+49-6	_	it	abstract[123]	new[123]	_	_
 49-7	_	was	_	_	_	_
 49-8	_	a	_	_	_	_
 49-9	_	bird	_	_	_	_
@@ -650,13 +650,13 @@
 49-17	_	–	_	_	_	_
 
 #Text=It was not a bird , it was a crocodile .
-50-1	_	It	abstract[123]	new[123]	coref	50-7[123_124]
+50-1	_	It	abstract[124]	new[124]	coref	50-7[124_125]
 50-2	_	was	_	_	_	_
 50-3	_	not	_	_	_	_
 50-4	_	a	_	_	_	_
 50-5	_	bird	_	_	_	_
 50-6	_	,	_	_	_	_
-50-7	_	it	abstract[124]	new[124]	_	_
+50-7	_	it	abstract[125]	new[125]	_	_
 50-8	_	was	_	_	_	_
 50-9	_	a	_	_	_	_
 50-10	_	crocodile	_	_	_	_
@@ -698,7 +698,7 @@
 54-3	_	’re	_	_	_	_
 54-4	_	doing	_	_	_	_
 54-5	_	Universal	_	_	_	_
-54-6	_	tomorrow	abstract[133]	new[133]	coref	57-9[133_134]
+54-6	_	tomorrow	abstract[136]	new[136]	coref	57-9[136_137]
 54-7	_	.	_	_	_	_
 
 #Text=We are all so loopy but I think we are gon na watch a little bit of Harry Potter
@@ -719,8 +719,8 @@
 55-15	_	little	_	_	_	_
 55-16	_	bit	_	_	_	_
 55-17	_	of	_	_	_	_
-55-18	_	Harry	abstract[126]	new[126]	coref	57-4[126_127]
-55-19	_	Potter	abstract[126]	new[126]	_	_
+55-18	_	Harry	abstract[127]	new[127]	coref	57-4[127_128]
+55-19	_	Potter	abstract[127]	new[127]	_	_
 
 #Text=Good morning !
 56-1	_	Good	_	_	_	_
@@ -731,13 +731,13 @@
 57-1	_	This	_	_	_	_
 57-2	_	is	_	_	_	_
 57-3	_	the	_	_	_	_
-57-4	_	Harry	abstract[127]|abstract[131]	new[127]|new[131]	coref|coref	67-8[127_128]|65-7[131_132]
-57-5	_	Potter	abstract[127]|abstract[131]	new[127]|new[131]	_	_
-57-6	_	World	abstract[131]	new[131]	_	_
+57-4	_	Harry	abstract[128]|abstract[133]	new[128]|new[133]	coref|coref	67-8[128_129]|65-7[133_134]
+57-5	_	Potter	abstract[128]|abstract[133]	new[128]|new[133]	_	_
+57-6	_	World	abstract[133]	new[133]	_	_
 57-7	_	outfit	_	_	_	_
 57-8	_	of	_	_	_	_
-57-9	_	the	abstract[134]	new[134]	coref	60-6[134_135]
-57-10	_	day	abstract[134]	new[134]	_	_
+57-9	_	the	abstract[137]	new[137]	coref	60-6[137_138]
+57-10	_	day	abstract[137]	new[137]	_	_
 57-11	_	.	_	_	_	_
 
 #Text=We did not get up as early as we should have .
@@ -766,12 +766,12 @@
 #Text=I booked the tickets for the wrong day and that was stressful , but I ended up getting them switched , and we finally made it .
 60-1	_	I	abstract[35]	new[35]	coref	60-15[35_36]
 60-2	_	booked	_	_	_	_
-60-3	_	the	abstract[136]	new[136]	coref	60-19[136_137]
-60-4	_	tickets	abstract[136]	new[136]	_	_
+60-3	_	the	abstract[139]	new[139]	coref	60-19[139_140]
+60-4	_	tickets	abstract[139]	new[139]	_	_
 60-5	_	for	_	_	_	_
-60-6	_	the	abstract[135]	new[135]	_	_
-60-7	_	wrong	abstract[135]	new[135]	_	_
-60-8	_	day	abstract[135]	new[135]	_	_
+60-6	_	the	abstract[138]	new[138]	_	_
+60-7	_	wrong	abstract[138]	new[138]	_	_
+60-8	_	day	abstract[138]	new[138]	_	_
 60-9	_	and	_	_	_	_
 60-10	_	that	_	_	_	_
 60-11	_	was	_	_	_	_
@@ -782,7 +782,7 @@
 60-16	_	ended	_	_	_	_
 60-17	_	up	_	_	_	_
 60-18	_	getting	_	_	_	_
-60-19	_	them	abstract[137]	new[137]	_	_
+60-19	_	them	abstract[140]	new[140]	_	_
 60-20	_	switched	_	_	_	_
 60-21	_	,	_	_	_	_
 60-22	_	and	_	_	_	_
@@ -806,7 +806,7 @@
 63-1	_	And	_	_	_	_
 63-2	_	welcome	_	_	_	_
 63-3	_	to	_	_	_	_
-63-4	_	Hogsmeade	abstract[138]	new[138]	coref	64-16[138_139]
+63-4	_	Hogsmeade	abstract[141]	new[141]	coref	64-16[141_142]
 63-5	_	!	_	_	_	_
 
 #Text=For the best experience get a park to park ticket so you can do both Hogsmeade and Diagon Alley .
@@ -821,38 +821,38 @@
 64-9	_	park	_	_	_	_
 64-10	_	ticket	_	_	_	_
 64-11	_	so	_	_	_	_
-64-12	_	you	abstract[142]	new[142]	coref	66-7[142_143]
+64-12	_	you	abstract[145]	new[145]	coref	66-7[145_146]
 64-13	_	can	_	_	_	_
 64-14	_	do	_	_	_	_
 64-15	_	both	_	_	_	_
-64-16	_	Hogsmeade	abstract[139]	new[139]	_	_
+64-16	_	Hogsmeade	abstract[142]	new[142]	_	_
 64-17	_	and	_	_	_	_
-64-18	_	Diagon	abstract[169]	new[169]	coref	101-12[169_170]
-64-19	_	Alley	abstract[169]	new[169]	_	_
+64-18	_	Diagon	abstract[172]	new[172]	coref	101-12[172_173]
+64-19	_	Alley	abstract[172]	new[172]	_	_
 64-20	_	.	_	_	_	_
 
 #Text=This was my favorite area in the park , maybe because it was n’t as crowded yet and the wand shop is so epic .
-65-1	_	This	abstract[140]	new[140]	coref	65-12[140_141]
+65-1	_	This	abstract[143]	new[143]	coref	65-12[143_144]
 65-2	_	was	_	_	_	_
 65-3	_	my	abstract[37]	new[37]	coref	67-1[37_38]
 65-4	_	favorite	_	_	_	_
 65-5	_	area	_	_	_	_
 65-6	_	in	_	_	_	_
-65-7	_	the	abstract[132]	new[132]	_	_
-65-8	_	park	abstract[132]	new[132]	_	_
+65-7	_	the	abstract[134]	new[134]	coref	104-32[134_135]
+65-8	_	park	abstract[134]	new[134]	_	_
 65-9	_	,	_	_	_	_
 65-10	_	maybe	_	_	_	_
 65-11	_	because	_	_	_	_
-65-12	_	it	abstract[141]	new[141]	_	_
+65-12	_	it	abstract[144]	new[144]	_	_
 65-13	_	was	_	_	_	_
 65-14	_	n’t	_	_	_	_
 65-15	_	as	_	_	_	_
 65-16	_	crowded	_	_	_	_
 65-17	_	yet	_	_	_	_
 65-18	_	and	_	_	_	_
-65-19	_	the	abstract[146]	new[146]	coref	66-16[146_147]
-65-20	_	wand	abstract[146]	new[146]	_	_
-65-21	_	shop	abstract[146]	new[146]	_	_
+65-19	_	the	abstract[149]	new[149]	coref	66-16[149_150]
+65-20	_	wand	abstract[149]	new[149]	_	_
+65-21	_	shop	abstract[149]	new[149]	_	_
 65-22	_	is	_	_	_	_
 65-23	_	so	_	_	_	_
 65-24	_	epic	_	_	_	_
@@ -865,7 +865,7 @@
 66-4	_	detailed	_	_	_	_
 66-5	_	and	_	_	_	_
 66-6	_	when	_	_	_	_
-66-7	_	you	abstract[143]	new[143]	coref	91-1[143_144]
+66-7	_	you	abstract[146]	new[146]	coref	91-1[146_147]
 66-8	_	look	_	_	_	_
 66-9	_	up	_	_	_	_
 66-10	_	even	_	_	_	_
@@ -874,8 +874,8 @@
 66-13	_	way	_	_	_	_
 66-14	_	going	_	_	_	_
 66-15	_	into	_	_	_	_
-66-16	_	the	abstract[147]	new[147]	coref	72-7[147_148]
-66-17	_	shop	abstract[147]	new[147]	_	_
+66-16	_	the	abstract[150]	new[150]	coref	72-7[150_151]
+66-17	_	shop	abstract[150]	new[150]	_	_
 66-18	_	there	_	_	_	_
 66-19	_	are	_	_	_	_
 66-20	_	owls	_	_	_	_
@@ -893,8 +893,8 @@
 67-5	_	ta	_	_	_	_
 67-6	_	go	_	_	_	_
 67-7	_	with	_	_	_	_
-67-8	_	the	abstract[128]	new[128]	coref	90-9[128_129]
-67-9	_	kid	abstract[128]	new[128]	_	_
+67-8	_	the	abstract[129]	new[129]	coref	90-9[129_130]
+67-9	_	kid	abstract[129]	new[129]	_	_
 67-10	_	.	_	_	_	_
 
 #Text=But there ’s so many pretty ones !
@@ -908,24 +908,24 @@
 68-8	_	!	_	_	_	_
 
 #Text=Marianne , which one are you going to get ?
-69-1	_	Marianne	abstract[82]	new[82]	coref	69-6[82_83]
+69-1	_	Marianne	abstract[81]	new[81]	coref	69-6[81_82]
 69-2	_	,	_	_	_	_
 69-3	_	which	_	_	_	_
 69-4	_	one	_	_	_	_
 69-5	_	are	_	_	_	_
-69-6	_	you	abstract[83]	new[83]	coref	70-1[83_84]
+69-6	_	you	abstract[82]	new[82]	coref	70-1[82_83]
 69-7	_	going	_	_	_	_
 69-8	_	to	_	_	_	_
 69-9	_	get	_	_	_	_
 69-10	_	?	_	_	_	_
 
 #Text=I do n’t know , I ’m looking at every single one !
-70-1	_	I	abstract[84]	new[84]	coref	70-6[84_85]
+70-1	_	I	abstract[83]	new[83]	coref	70-6[83_84]
 70-2	_	do	_	_	_	_
 70-3	_	n’t	_	_	_	_
 70-4	_	know	_	_	_	_
 70-5	_	,	_	_	_	_
-70-6	_	I	abstract[85]	new[85]	coref	96-3[85_86]
+70-6	_	I	abstract[84]	new[84]	coref	96-3[84_85]
 70-7	_	’m	_	_	_	_
 70-8	_	looking	_	_	_	_
 70-9	_	at	_	_	_	_
@@ -946,15 +946,15 @@
 72-1	_	So	_	_	_	_
 72-2	_	we	abstract[66]	new[66]	coref	72-4[66_67]
 72-3	_	got	_	_	_	_
-72-4	_	our	abstract[67]|abstract[149]	new[67]|new[149]	coref|coref	73-1[67_68]|72-12[149_150]
-72-5	_	wands	abstract[149]	new[149]	_	_
+72-4	_	our	abstract[67]|abstract[152]	new[67]|new[152]	coref|coref	73-1[67_68]|72-12[152_153]
+72-5	_	wands	abstract[152]	new[152]	_	_
 72-6	_	from	_	_	_	_
-72-7	_	the	abstract[148]	new[148]	_	_
-72-8	_	shop	abstract[148]	new[148]	_	_
+72-7	_	the	abstract[151]	new[151]	_	_
+72-8	_	shop	abstract[151]	new[151]	_	_
 72-9	_	,	_	_	_	_
 72-10	_	and	_	_	_	_
 72-11	_	apparently	_	_	_	_
-72-12	_	they	abstract[150]	new[150]	_	_
+72-12	_	they	abstract[153]	new[153]	_	_
 72-13	_	’re	_	_	_	_
 72-14	_	interactive	_	_	_	_
 72-15	_	.	_	_	_	_
@@ -987,7 +987,7 @@
 
 #Text=Try it out !
 76-1	_	Try	_	_	_	_
-76-2	_	it	abstract[151]	new[151]	coref	80-1[151_152]
+76-2	_	it	abstract[154]	new[154]	coref	80-1[154_155]
 76-3	_	out	_	_	_	_
 76-4	_	!	_	_	_	_
 
@@ -1011,7 +1011,7 @@
 79-6	_	.	_	_	_	_
 
 #Text=It ’s good , right ?
-80-1	_	It	abstract[152]	new[152]	_	_
+80-1	_	It	abstract[155]	new[155]	_	_
 80-2	_	’s	_	_	_	_
 80-3	_	good	_	_	_	_
 80-4	_	,	_	_	_	_
@@ -1023,8 +1023,8 @@
 81-2	_	!	_	_	_	_
 
 #Text=This one ’s so pretty !
-82-1	_	This	abstract[153]	new[153]	coref	83-4[153_154]
-82-2	_	one	abstract[153]	new[153]	_	_
+82-1	_	This	abstract[156]	new[156]	coref	83-4[156_157]
+82-2	_	one	abstract[156]	new[156]	_	_
 82-3	_	’s	_	_	_	_
 82-4	_	so	_	_	_	_
 82-5	_	pretty	_	_	_	_
@@ -1032,9 +1032,9 @@
 
 #Text=Oh you made it move !
 83-1	_	Oh	_	_	_	_
-83-2	_	you	abstract[155]	new[155]	coref	84-5[155_156]
+83-2	_	you	abstract[158]	new[158]	coref	84-5[158_159]
 83-3	_	made	_	_	_	_
-83-4	_	it	abstract[154]	new[154]	_	_
+83-4	_	it	abstract[157]	new[157]	_	_
 83-5	_	move	_	_	_	_
 83-6	_	!	_	_	_	_
 
@@ -1043,17 +1043,17 @@
 84-2	_	,	_	_	_	_
 84-3	_	how	_	_	_	_
 84-4	_	do	_	_	_	_
-84-5	_	you	abstract[156]	new[156]	coref	85-1[156_157]
+84-5	_	you	abstract[159]	new[159]	coref	85-1[159_160]
 84-6	_	do	_	_	_	_
 84-7	_	it	_	_	_	_
 84-8	_	?	_	_	_	_
 
 #Text=I kind of – I do the same motion .
-85-1	_	I	abstract[157]	new[157]	coref	85-5[157_158]
+85-1	_	I	abstract[160]	new[160]	coref	85-5[160_161]
 85-2	_	kind	_	_	_	_
 85-3	_	of	_	_	_	_
 85-4	_	–	_	_	_	_
-85-5	_	I	abstract[158]	new[158]	coref	86-5[158_159]
+85-5	_	I	abstract[161]	new[161]	coref	86-5[161_162]
 85-6	_	do	_	_	_	_
 85-7	_	the	_	_	_	_
 85-8	_	same	_	_	_	_
@@ -1065,7 +1065,7 @@
 86-2	_	okay	_	_	_	_
 86-3	_	,	_	_	_	_
 86-4	_	thank	_	_	_	_
-86-5	_	you	abstract[159]	new[159]	_	_
+86-5	_	you	abstract[162]	new[162]	_	_
 86-6	_	!	_	_	_	_
 
 #Text=Now we know .
@@ -1093,18 +1093,18 @@
 90-4	_	went	_	_	_	_
 90-5	_	on	_	_	_	_
 90-6	_	at	_	_	_	_
-90-7	_	the	abstract[160]	new[160]	coref	92-2[160_161]
-90-8	_	Harry	abstract[129]|abstract[160]	new[129]|new[160]	_	_
-90-9	_	Potter	abstract[129]|abstract[160]	new[129]|new[160]	_	_
-90-10	_	and	abstract[160]	new[160]	_	_
-90-11	_	the	abstract[160]	new[160]	_	_
-90-12	_	Forbidden	abstract[160]	new[160]	_	_
-90-13	_	Journey	abstract[160]	new[160]	_	_
-90-14	_	ride	abstract[160]	new[160]	_	_
+90-7	_	the	abstract[163]	new[163]	coref	92-2[163_164]
+90-8	_	Harry	abstract[130]|abstract[163]	new[130]|new[163]	coref	104-32[130_131]
+90-9	_	Potter	abstract[130]|abstract[163]	new[130]|new[163]	_	_
+90-10	_	and	abstract[163]	new[163]	_	_
+90-11	_	the	abstract[163]	new[163]	_	_
+90-12	_	Forbidden	abstract[163]	new[163]	_	_
+90-13	_	Journey	abstract[163]	new[163]	_	_
+90-14	_	ride	abstract[163]	new[163]	_	_
 90-15	_	.	_	_	_	_
 
 #Text=You can see that Hogwarts right there .
-91-1	_	You	abstract[144]	new[144]	coref	92-23[144_145]
+91-1	_	You	abstract[147]	new[147]	coref	92-23[147_148]
 91-2	_	can	_	_	_	_
 91-3	_	see	_	_	_	_
 91-4	_	that	_	_	_	_
@@ -1115,7 +1115,7 @@
 
 #Text=And it was so fun , like , I ’m not a rides person , but , um , it felt like you were flying .
 92-1	_	And	_	_	_	_
-92-2	_	it	abstract[161]	new[161]	coref	92-20[161_162]
+92-2	_	it	abstract[164]	new[164]	coref	92-20[164_165]
 92-3	_	was	_	_	_	_
 92-4	_	so	_	_	_	_
 92-5	_	fun	_	_	_	_
@@ -1133,16 +1133,16 @@
 92-17	_	,	_	_	_	_
 92-18	_	um	_	_	_	_
 92-19	_	,	_	_	_	_
-92-20	_	it	abstract[162]	new[162]	coref	93-1[162_163]
+92-20	_	it	abstract[165]	new[165]	coref	93-1[165_166]
 92-21	_	felt	_	_	_	_
 92-22	_	like	_	_	_	_
-92-23	_	you	abstract[145]	new[145]	_	_
+92-23	_	you	abstract[148]	new[148]	_	_
 92-24	_	were	_	_	_	_
 92-25	_	flying	_	_	_	_
 92-26	_	.	_	_	_	_
 
 #Text=It was very magical .
-93-1	_	It	abstract[163]	new[163]	_	_
+93-1	_	It	abstract[166]	new[166]	_	_
 93-2	_	was	_	_	_	_
 93-3	_	very	_	_	_	_
 93-4	_	magical	_	_	_	_
@@ -1154,7 +1154,7 @@
 94-3	_	highly	_	_	_	_
 94-4	_	recommend	_	_	_	_
 94-5	_	going	_	_	_	_
-94-6	_	there	abstract[164]	new[164]	coref	96-5[164_165]
+94-6	_	there	abstract[167]	new[167]	coref	96-5[167_168]
 94-7	_	.	_	_	_	_
 
 #Text=And the wait was n’t even that bad , so yeah .
@@ -1174,19 +1174,19 @@
 #Text=How did you like it ?
 96-1	_	How	_	_	_	_
 96-2	_	did	_	_	_	_
-96-3	_	you	abstract[86]	new[86]	coref	97-1[86_87]
+96-3	_	you	abstract[85]	new[85]	coref	97-1[85_86]
 96-4	_	like	_	_	_	_
-96-5	_	it	abstract[165]	new[165]	coref	97-3[165_166]
+96-5	_	it	abstract[168]	new[168]	coref	97-3[168_169]
 96-6	_	?	_	_	_	_
 
 #Text=I loved it .
-97-1	_	I	abstract[87]	new[87]	coref	98-1[87_88]
+97-1	_	I	abstract[86]	new[86]	coref	98-1[86_87]
 97-2	_	loved	_	_	_	_
-97-3	_	it	abstract[166]	new[166]	_	_
+97-3	_	it	abstract[169]	new[169]	_	_
 97-4	_	.	_	_	_	_
 
 #Text=I was a little scared .
-98-1	_	I	abstract[88]	new[88]	_	_
+98-1	_	I	abstract[87]	new[87]	_	_
 98-2	_	was	_	_	_	_
 98-3	_	a	_	_	_	_
 98-4	_	little	_	_	_	_
@@ -1195,7 +1195,7 @@
 
 #Text=Oh that is so fun !
 99-1	_	Oh	_	_	_	_
-99-2	_	that	abstract[167]	new[167]	coref	100-5[167_168]
+99-2	_	that	abstract[170]	new[170]	coref	100-5[170_171]
 99-3	_	is	_	_	_	_
 99-4	_	so	_	_	_	_
 99-5	_	fun	_	_	_	_
@@ -1206,7 +1206,7 @@
 100-2	_	did	_	_	_	_
 100-3	_	you	abstract[117]	new[117]	coref	104-5[117_118]
 100-4	_	do	_	_	_	_
-100-5	_	that	abstract[168]	new[168]	_	_
+100-5	_	that	abstract[171]	new[171]	_	_
 100-6	_	?	_	_	_	_
 
 #Text=With the park to park ticket we took the train to Diagon Alley and for lunch we went to the Leaky Cauldron , which has a bunch of British themed food .
@@ -1221,34 +1221,34 @@
 101-9	_	the	_	_	_	_
 101-10	_	train	_	_	_	_
 101-11	_	to	_	_	_	_
-101-12	_	Diagon	abstract[170]	new[170]	_	_
-101-13	_	Alley	abstract[170]	new[170]	_	_
+101-12	_	Diagon	abstract[173]	new[173]	_	_
+101-13	_	Alley	abstract[173]	new[173]	_	_
 101-14	_	and	_	_	_	_
 101-15	_	for	_	_	_	_
 101-16	_	lunch	_	_	_	_
-101-17	_	we	abstract[74]	new[74]	coref	104-7[74_75]
+101-17	_	we	abstract[74]	new[74]	_	_
 101-18	_	went	_	_	_	_
 101-19	_	to	_	_	_	_
-101-20	_	the	abstract[173]	new[173]	coref	103-1[173_174]
-101-21	_	Leaky	abstract[173]	new[173]	_	_
-101-22	_	Cauldron	abstract[173]	new[173]	_	_
-101-23	_	,	abstract[173]	new[173]	_	_
-101-24	_	which	abstract[173]	new[173]	_	_
-101-25	_	has	abstract[173]	new[173]	_	_
-101-26	_	a	abstract[171]|abstract[173]	new[171]|new[173]	coref	102-4[171_172]
-101-27	_	bunch	abstract[171]|abstract[173]	new[171]|new[173]	_	_
-101-28	_	of	abstract[171]|abstract[173]	new[171]|new[173]	_	_
-101-29	_	British	abstract[171]|abstract[173]	new[171]|new[173]	_	_
-101-30	_	themed	abstract[171]|abstract[173]	new[171]|new[173]	_	_
-101-31	_	food	abstract[171]|abstract[173]	new[171]|new[173]	_	_
+101-20	_	the	abstract[176]	new[176]	coref	103-1[176_177]
+101-21	_	Leaky	abstract[176]	new[176]	_	_
+101-22	_	Cauldron	abstract[176]	new[176]	_	_
+101-23	_	,	abstract[176]	new[176]	_	_
+101-24	_	which	abstract[176]	new[176]	_	_
+101-25	_	has	abstract[176]	new[176]	_	_
+101-26	_	a	abstract[174]|abstract[176]	new[174]|new[176]	coref	102-4[174_175]
+101-27	_	bunch	abstract[174]|abstract[176]	new[174]|new[176]	_	_
+101-28	_	of	abstract[174]|abstract[176]	new[174]|new[176]	_	_
+101-29	_	British	abstract[174]|abstract[176]	new[174]|new[176]	_	_
+101-30	_	themed	abstract[174]|abstract[176]	new[174]|new[176]	_	_
+101-31	_	food	abstract[174]|abstract[176]	new[174]|new[176]	_	_
 101-32	_	.	_	_	_	_
 
 #Text=I would say the food is like a 5 out of 10 .
 102-1	_	I	abstract[41]	new[41]	_	_
 102-2	_	would	_	_	_	_
 102-3	_	say	_	_	_	_
-102-4	_	the	abstract[172]	new[172]	_	_
-102-5	_	food	abstract[172]	new[172]	_	_
+102-4	_	the	abstract[175]	new[175]	_	_
+102-5	_	food	abstract[175]	new[175]	_	_
 102-6	_	is	_	_	_	_
 102-7	_	like	_	_	_	_
 102-8	_	a	_	_	_	_
@@ -1259,12 +1259,12 @@
 102-13	_	.	_	_	_	_
 
 #Text=It was n’t amazing but it was a really cool spot .
-103-1	_	It	abstract[174]	new[174]	coref	103-6[174_175]
+103-1	_	It	abstract[177]	new[177]	coref	103-6[177_178]
 103-2	_	was	_	_	_	_
 103-3	_	n’t	_	_	_	_
 103-4	_	amazing	_	_	_	_
 103-5	_	but	_	_	_	_
-103-6	_	it	abstract[175]	new[175]	_	_
+103-6	_	it	abstract[178]	new[178]	_	_
 103-7	_	was	_	_	_	_
 103-8	_	a	_	_	_	_
 103-9	_	really	_	_	_	_
@@ -1272,22 +1272,64 @@
 103-11	_	spot	_	_	_	_
 103-12	_	.	_	_	_	_
 
-#Text=In a video , Katie tells us all about her vacation to Oregon and her favorites .
+#Text=In this vlog entry Jackie puts on a Grecian - style mermaid outfit that her friend Marianne made and has Marianne take photos of her , after which they go to Harry Potter World in Orlando together with a man who is probably Jackie 's boyfriend , and they all enjoy and review the rides and food there .
 104-1	_	In	_	_	_	_
-104-2	_	a	_	_	_	_
-104-3	_	video	_	_	_	_
-104-4	_	,	_	_	_	_
-104-5	_	Katie	abstract[118]	new[118]	coref	104-10[118_119]
-104-6	_	tells	_	_	_	_
-104-7	_	us	abstract[75]	new[75]	_	_
-104-8	_	all	_	_	_	_
-104-9	_	about	_	_	_	_
-104-10	_	her	abstract[119]	new[119]	coref	104-15[119_120]
-104-11	_	vacation	_	_	_	_
-104-12	_	to	_	_	_	_
-104-13	_	Oregon	_	_	_	_
-104-14	_	and	_	_	_	_
-104-15	_	her	abstract[120]	new[120]	_	_
-104-16	_	favorites	_	_	_	_
-104-17	_	.	_	_	_	_
+104-2	_	this	_	_	_	_
+104-3	_	vlog	_	_	_	_
+104-4	_	entry	_	_	_	_
+104-5	_	Jackie	abstract[118]	new[118]	coref	104-15[118_119]
+104-6	_	puts	_	_	_	_
+104-7	_	on	_	_	_	_
+104-8	_	a	_	_	_	_
+104-9	_	Grecian	_	_	_	_
+104-10	_	-	_	_	_	_
+104-11	_	style	_	_	_	_
+104-12	_	mermaid	_	_	_	_
+104-13	_	outfit	_	_	_	_
+104-14	_	that	_	_	_	_
+104-15	_	her	abstract[119]|abstract[179]	new[119]|new[179]	coref|coref	104-25[119_120]|104-21[179_180]
+104-16	_	friend	abstract[179]	new[179]	_	_
+104-17	_	Marianne	abstract[179]	new[179]	_	_
+104-18	_	made	_	_	_	_
+104-19	_	and	_	_	_	_
+104-20	_	has	_	_	_	_
+104-21	_	Marianne	abstract[180]	new[180]	_	_
+104-22	_	take	_	_	_	_
+104-23	_	photos	_	_	_	_
+104-24	_	of	_	_	_	_
+104-25	_	her	abstract[120]	new[120]	coref	104-44[120_121]
+104-26	_	,	_	_	_	_
+104-27	_	after	_	_	_	_
+104-28	_	which	_	_	_	_
+104-29	_	they	abstract[181]	new[181]	coref	104-49[181_182]
+104-30	_	go	_	_	_	_
+104-31	_	to	_	_	_	_
+104-32	_	Harry	abstract[131]|abstract[135]	new[131]|new[135]	_	_
+104-33	_	Potter	abstract[131]|abstract[135]	new[131]|new[135]	_	_
+104-34	_	World	abstract[135]	new[135]	_	_
+104-35	_	in	abstract[135]	new[135]	_	_
+104-36	_	Orlando	abstract[110]|abstract[135]	new[110]|new[135]	_	_
+104-37	_	together	_	_	_	_
+104-38	_	with	_	_	_	_
+104-39	_	a	_	_	_	_
+104-40	_	man	_	_	_	_
+104-41	_	who	_	_	_	_
+104-42	_	is	_	_	_	_
+104-43	_	probably	_	_	_	_
+104-44	_	Jackie	abstract[121]	new[121]	_	_
+104-45	_	's	abstract[121]	new[121]	_	_
+104-46	_	boyfriend	_	_	_	_
+104-47	_	,	_	_	_	_
+104-48	_	and	_	_	_	_
+104-49	_	they	abstract[182]	new[182]	_	_
+104-50	_	all	abstract[182]	new[182]	_	_
+104-51	_	enjoy	_	_	_	_
+104-52	_	and	_	_	_	_
+104-53	_	review	_	_	_	_
+104-54	_	the	_	_	_	_
+104-55	_	rides	_	_	_	_
+104-56	_	and	_	_	_	_
+104-57	_	food	_	_	_	_
+104-58	_	there	_	_	_	_
+104-59	_	.	_	_	_	_
 

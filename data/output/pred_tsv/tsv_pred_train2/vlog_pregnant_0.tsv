@@ -1426,19 +1426,15 @@
 55-30	_	years	_	_	_	_
 55-31	_	.	_	_	_	_
 
-#Text=Ciao and Nonna go out after her boyfriend shows up by the door .
-56-1	_	Ciao	_	_	_	_
-56-2	_	and	_	_	_	_
-56-3	_	Nonna	abstract[218]	new[218]	coref	56-7[218_219]
-56-4	_	go	_	_	_	_
-56-5	_	out	_	_	_	_
-56-6	_	after	_	_	_	_
-56-7	_	her	abstract[219]	new[219]	_	_
-56-8	_	boyfriend	_	_	_	_
-56-9	_	shows	_	_	_	_
-56-10	_	up	_	_	_	_
-56-11	_	by	_	_	_	_
-56-12	_	the	_	_	_	_
-56-13	_	door	_	_	_	_
-56-14	_	.	_	_	_	_
+#Text=We discuss how to make a pizza in a tutorial
+56-1	_	We	_	_	_	_
+56-2	_	discuss	_	_	_	_
+56-3	_	how	_	_	_	_
+56-4	_	to	_	_	_	_
+56-5	_	make	_	_	_	_
+56-6	_	a	_	_	_	_
+56-7	_	pizza	_	_	_	_
+56-8	_	in	_	_	_	_
+56-9	_	a	_	_	_	_
+56-10	_	tutorial	_	_	_	_
 

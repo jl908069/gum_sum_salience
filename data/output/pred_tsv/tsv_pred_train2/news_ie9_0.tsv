@@ -14,7 +14,7 @@
 1-8	_	6	abstract[11]	new[11]	_	_
 
 #Text=Tuesday , March 8 , 2011
-2-1	_	Tuesday	abstract[32]	new[32]	coref	5-12[32_33]
+2-1	_	Tuesday	_	_	_	_
 2-2	_	,	_	_	_	_
 2-3	_	March	_	_	_	_
 2-4	_	8	_	_	_	_
@@ -73,79 +73,82 @@
 4-8	_	versions	_	_	_	_
 4-9	_	.	_	_	_	_
 
-#Text=On a new website , " The nation 's government on Tuesday announced the start of a public process where people could submit ideas and designs for a new national flag for the nation 's flag to be called .
+#Text=On a new website , " The New Zealand government announced the start of a public process Tuesday to suggest designs for a new national flag , and determine whether their citizens would prefer a different national flag over the current one .
 5-1	_	On	_	_	_	_
 5-2	_	a	_	_	_	_
 5-3	_	new	_	_	_	_
 5-4	_	website	_	_	_	_
 5-5	_	,	_	_	_	_
 5-6	_	"	_	_	_	_
-5-7	_	The	abstract[34]	new[34]	coref	5-33[34_35]
-5-8	_	nation	abstract[34]	new[34]	_	_
-5-9	_	's	abstract[34]	new[34]	_	_
-5-10	_	government	_	_	_	_
-5-11	_	on	_	_	_	_
-5-12	_	Tuesday	abstract[33]	new[33]	_	_
-5-13	_	announced	_	_	_	_
-5-14	_	the	_	_	_	_
-5-15	_	start	_	_	_	_
-5-16	_	of	_	_	_	_
-5-17	_	a	_	_	_	_
-5-18	_	public	_	_	_	_
-5-19	_	process	_	_	_	_
-5-20	_	where	_	_	_	_
-5-21	_	people	_	_	_	_
-5-22	_	could	_	_	_	_
-5-23	_	submit	_	_	_	_
-5-24	_	ideas	_	_	_	_
-5-25	_	and	_	_	_	_
-5-26	_	designs	_	_	_	_
-5-27	_	for	_	_	_	_
-5-28	_	a	_	_	_	_
-5-29	_	new	_	_	_	_
-5-30	_	national	_	_	_	_
-5-31	_	flag	_	_	_	_
-5-32	_	for	_	_	_	_
-5-33	_	the	abstract[35]	new[35]	_	_
-5-34	_	nation	abstract[35]	new[35]	_	_
-5-35	_	's	abstract[35]	new[35]	_	_
-5-36	_	flag	_	_	_	_
-5-37	_	to	_	_	_	_
-5-38	_	be	_	_	_	_
-5-39	_	called	_	_	_	_
-5-40	_	.	_	_	_	_
+5-7	_	The	abstract[32]	new[32]	coref	5-31[32_33]
+5-8	_	New	abstract[32]	new[32]	_	_
+5-9	_	Zealand	abstract[32]	new[32]	_	_
+5-10	_	government	abstract[32]	new[32]	_	_
+5-11	_	announced	_	_	_	_
+5-12	_	the	_	_	_	_
+5-13	_	start	_	_	_	_
+5-14	_	of	_	_	_	_
+5-15	_	a	_	_	_	_
+5-16	_	public	_	_	_	_
+5-17	_	process	_	_	_	_
+5-18	_	Tuesday	_	_	_	_
+5-19	_	to	_	_	_	_
+5-20	_	suggest	_	_	_	_
+5-21	_	designs	_	_	_	_
+5-22	_	for	_	_	_	_
+5-23	_	a	_	_	_	_
+5-24	_	new	_	_	_	_
+5-25	_	national	_	_	_	_
+5-26	_	flag	_	_	_	_
+5-27	_	,	_	_	_	_
+5-28	_	and	_	_	_	_
+5-29	_	determine	_	_	_	_
+5-30	_	whether	_	_	_	_
+5-31	_	their	abstract[33]	new[33]	_	_
+5-32	_	citizens	_	_	_	_
+5-33	_	would	_	_	_	_
+5-34	_	prefer	_	_	_	_
+5-35	_	a	_	_	_	_
+5-36	_	different	_	_	_	_
+5-37	_	national	_	_	_	_
+5-38	_	flag	_	_	_	_
+5-39	_	over	_	_	_	_
+5-40	_	the	_	_	_	_
+5-41	_	current	_	_	_	_
+5-42	_	one	_	_	_	_
+5-43	_	.	_	_	_	_
 
 #Text=The Internet Explorer 6 Countdown " , Microsoft has launched an aggressive campaign to persuade users to stop using IE6 and update to a newer IE .
-6-1	_	The	_	_	_	_
-6-2	_	Internet	abstract[15]|abstract[38]	new[15]|new[38]	coref|coref	6-20[15_16]|10-28[38_39]
-6-3	_	Explorer	abstract[15]|abstract[38]	new[15]|new[38]	_	_
-6-4	_	6	abstract[15]|abstract[38]	new[15]|new[38]	_	_
-6-5	_	Countdown	abstract[38]	new[38]	_	_
+6-1	_	The	abstract[36]	new[36]	coref	10-28[36_37]
+6-2	_	Internet	abstract[15]|abstract[36]	new[15]|new[36]	coref	6-20[15_16]
+6-3	_	Explorer	abstract[15]|abstract[36]	new[15]|new[36]	_	_
+6-4	_	6	abstract[15]|abstract[36]	new[15]|new[36]	_	_
+6-5	_	Countdown	abstract[36]	new[36]	_	_
 6-6	_	"	_	_	_	_
 6-7	_	,	_	_	_	_
 6-8	_	Microsoft	abstract[5]	new[5]	coref	10-24[5_6]
 6-9	_	has	_	_	_	_
 6-10	_	launched	_	_	_	_
-6-11	_	an	abstract[36]	new[36]	coref	7-1[36_37]
-6-12	_	aggressive	abstract[36]	new[36]	_	_
-6-13	_	campaign	abstract[36]	new[36]	_	_
-6-14	_	to	abstract[36]	new[36]	_	_
-6-15	_	persuade	abstract[36]	new[36]	_	_
-6-16	_	users	abstract[36]	new[36]	_	_
-6-17	_	to	abstract[36]	new[36]	_	_
-6-18	_	stop	abstract[36]	new[36]	_	_
-6-19	_	using	abstract[36]	new[36]	_	_
-6-20	_	IE6	abstract[16]|abstract[36]	new[16]|new[36]	coref	7-6[16_17]
-6-21	_	and	abstract[36]	new[36]	_	_
-6-22	_	update	abstract[36]	new[36]	_	_
-6-23	_	to	abstract[36]	new[36]	_	_
-6-24	_	a	abstract[36]	new[36]	_	_
-6-25	_	newer	abstract[36]	new[36]	_	_
-6-26	_	IE	abstract[36]	new[36]	_	_
+6-11	_	an	abstract[34]	new[34]	coref	7-1[34_35]
+6-12	_	aggressive	abstract[34]	new[34]	_	_
+6-13	_	campaign	abstract[34]	new[34]	_	_
+6-14	_	to	abstract[34]	new[34]	_	_
+6-15	_	persuade	abstract[34]	new[34]	_	_
+6-16	_	users	abstract[34]	new[34]	_	_
+6-17	_	to	abstract[34]	new[34]	_	_
+6-18	_	stop	abstract[34]	new[34]	_	_
+6-19	_	using	abstract[34]	new[34]	_	_
+6-20	_	IE6	abstract[16]|abstract[34]	new[16]|new[34]	coref	7-6[16_17]
+6-21	_	and	abstract[34]	new[34]	_	_
+6-22	_	update	abstract[34]	new[34]	_	_
+6-23	_	to	abstract[34]	new[34]	_	_
+6-24	_	a	abstract[34]	new[34]	_	_
+6-25	_	newer	abstract[34]	new[34]	_	_
+6-26	_	IE	abstract[34]	new[34]	_	_
 6-27	_	.	_	_	_	_
 
 #Text=Its goal is to decrease IE6 users to less than one percent .
-7-1	_	Its	abstract[37]	new[37]	_	_
+7-1	_	Its	abstract[35]	new[35]	_	_
 7-2	_	goal	_	_	_	_
 7-3	_	is	_	_	_	_
 7-4	_	to	_	_	_	_
@@ -210,18 +213,18 @@
 10-25	_	says	_	_	_	_
 10-26	_	on	_	_	_	_
 10-27	_	"	_	_	_	_
-10-28	_	The	abstract[39]	new[39]	_	_
-10-29	_	Internet	abstract[20]|abstract[39]	new[20]|new[39]	coref	17-7[20_21]
-10-30	_	Explorer	abstract[20]|abstract[39]	new[20]|new[39]	_	_
-10-31	_	6	abstract[20]|abstract[39]	new[20]|new[39]	_	_
-10-32	_	Countdown	abstract[39]	new[39]	_	_
+10-28	_	The	abstract[37]	new[37]	_	_
+10-29	_	Internet	abstract[20]|abstract[37]	new[20]|new[37]	coref	17-7[20_21]
+10-30	_	Explorer	abstract[20]|abstract[37]	new[20]|new[37]	_	_
+10-31	_	6	abstract[20]|abstract[37]	new[20]|new[37]	_	_
+10-32	_	Countdown	abstract[37]	new[37]	_	_
 10-33	_	"	_	_	_	_
 10-34	_	.	_	_	_	_
 
 #Text=Internet Explorer 's market share is slipping .
-11-1	_	Internet	abstract[40]	new[40]	coref	12-1[40_41]
-11-2	_	Explorer	abstract[40]	new[40]	_	_
-11-3	_	's	abstract[40]	new[40]	_	_
+11-1	_	Internet	abstract[38]	new[38]	coref	12-1[38_39]
+11-2	_	Explorer	abstract[38]	new[38]	_	_
+11-3	_	's	abstract[38]	new[38]	_	_
 11-4	_	market	_	_	_	_
 11-5	_	share	_	_	_	_
 11-6	_	is	_	_	_	_
@@ -229,8 +232,8 @@
 11-8	_	.	_	_	_	_
 
 #Text=IE 's various versions accounted for 70 percent of the market in 2009 ; this has dropped to approximately 56 percent today .
-12-1	_	IE	abstract[41]	new[41]	coref	13-4[41_42]
-12-2	_	's	abstract[41]	new[41]	_	_
+12-1	_	IE	abstract[39]	new[39]	coref	13-4[39_40]
+12-2	_	's	abstract[39]	new[39]	_	_
 12-3	_	various	_	_	_	_
 12-4	_	versions	_	_	_	_
 12-5	_	accounted	_	_	_	_
@@ -254,26 +257,26 @@
 12-23	_	.	_	_	_	_
 
 #Text=Mozilla Firefox , its main rival , has been actively increasing its market share while the recently released Google Chrome is also quickly gaining users .
-13-1	_	Mozilla	abstract[46]	new[46]	coref	13-12[46_47]
-13-2	_	Firefox	abstract[46]	new[46]	_	_
-13-3	_	,	abstract[46]	new[46]	_	_
-13-4	_	its	abstract[42]|abstract[46]	new[42]|new[46]	coref	14-17[42_43]
-13-5	_	main	abstract[46]	new[46]	_	_
-13-6	_	rival	abstract[46]	new[46]	_	_
+13-1	_	Mozilla	abstract[44]	new[44]	coref	13-12[44_45]
+13-2	_	Firefox	abstract[44]	new[44]	_	_
+13-3	_	,	abstract[44]	new[44]	_	_
+13-4	_	its	abstract[40]|abstract[44]	new[40]|new[44]	coref	14-17[40_41]
+13-5	_	main	abstract[44]	new[44]	_	_
+13-6	_	rival	abstract[44]	new[44]	_	_
 13-7	_	,	_	_	_	_
 13-8	_	has	_	_	_	_
 13-9	_	been	_	_	_	_
 13-10	_	actively	_	_	_	_
 13-11	_	increasing	_	_	_	_
-13-12	_	its	abstract[47]	new[47]	coref	14-25[47_48]
+13-12	_	its	abstract[45]	new[45]	coref	14-25[45_46]
 13-13	_	market	_	_	_	_
 13-14	_	share	_	_	_	_
 13-15	_	while	_	_	_	_
 13-16	_	the	_	_	_	_
 13-17	_	recently	_	_	_	_
 13-18	_	released	_	_	_	_
-13-19	_	Google	abstract[49]	new[49]	coref	14-50[49_50]
-13-20	_	Chrome	abstract[49]	new[49]	_	_
+13-19	_	Google	abstract[47]	new[47]	coref	14-50[47_48]
+13-20	_	Chrome	abstract[47]	new[47]	_	_
 13-21	_	is	_	_	_	_
 13-22	_	also	_	_	_	_
 13-23	_	quickly	_	_	_	_
@@ -298,15 +301,15 @@
 14-14	_	"	_	_	_	_
 14-15	_	Usually	_	_	_	_
 14-16	_	,	_	_	_	_
-14-17	_	Internet	abstract[43]	new[43]	coref	14-33[43_44]
-14-18	_	Explorer	abstract[43]	new[43]	_	_
+14-17	_	Internet	abstract[41]	new[41]	coref	14-33[41_42]
+14-18	_	Explorer	abstract[41]	new[41]	_	_
 14-19	_	is	_	_	_	_
 14-20	_	the	_	_	_	_
 14-21	_	#	_	_	_	_
 14-22	_	2	_	_	_	_
 14-23	_	browser	_	_	_	_
 14-24	_	after	_	_	_	_
-14-25	_	Firefox	abstract[48]	new[48]	_	_
+14-25	_	Firefox	abstract[46]	new[46]	_	_
 14-26	_	,	_	_	_	_
 14-27	_	but	_	_	_	_
 14-28	_	over	_	_	_	_
@@ -314,7 +317,7 @@
 14-30	_	past	_	_	_	_
 14-31	_	30	_	_	_	_
 14-32	_	days	_	_	_	_
-14-33	_	it	abstract[44]	new[44]	coref	16-13[44_45]
+14-33	_	it	abstract[42]	new[42]	coref	16-13[42_43]
 14-34	_	s	_	_	_	_
 14-35	_	been	_	_	_	_
 14-36	_	#	_	_	_	_
@@ -331,11 +334,11 @@
 14-47	_	nearly	_	_	_	_
 14-48	_	tied	_	_	_	_
 14-49	_	with	_	_	_	_
-14-50	_	Chrome	abstract[50]	new[50]	coref	16-8[50_51]
+14-50	_	Chrome	abstract[48]	new[48]	coref	16-8[48_49]
 14-51	_	.	_	_	_	_
 
 #Text=It might be a statistical blip .
-15-1	_	It	abstract[52]	new[52]	coref	16-3[52_53]
+15-1	_	It	abstract[50]	new[50]	coref	16-3[50_51]
 15-2	_	might	_	_	_	_
 15-3	_	be	_	_	_	_
 15-4	_	a	_	_	_	_
@@ -346,17 +349,17 @@
 #Text=But if it is n't , and Chrome continues to surge , IE could fall to fourth place . "
 16-1	_	But	_	_	_	_
 16-2	_	if	_	_	_	_
-16-3	_	it	abstract[53]	new[53]	_	_
+16-3	_	it	abstract[51]	new[51]	_	_
 16-4	_	is	_	_	_	_
 16-5	_	n't	_	_	_	_
 16-6	_	,	_	_	_	_
 16-7	_	and	_	_	_	_
-16-8	_	Chrome	abstract[51]	new[51]	_	_
+16-8	_	Chrome	abstract[49]	new[49]	_	_
 16-9	_	continues	_	_	_	_
 16-10	_	to	_	_	_	_
 16-11	_	surge	_	_	_	_
 16-12	_	,	_	_	_	_
-16-13	_	IE	abstract[45]	new[45]	_	_
+16-13	_	IE	abstract[43]	new[43]	_	_
 16-14	_	could	_	_	_	_
 16-15	_	fall	_	_	_	_
 16-16	_	to	_	_	_	_
@@ -366,8 +369,8 @@
 16-20	_	"	_	_	_	_
 
 #Text=Web developers face big problems with IE6 .
-17-1	_	Web	abstract[54]	new[54]	coref	18-2[54_55]
-17-2	_	developers	abstract[54]	new[54]	_	_
+17-1	_	Web	abstract[52]	new[52]	coref	18-2[52_53]
+17-2	_	developers	abstract[52]	new[52]	_	_
 17-3	_	face	_	_	_	_
 17-4	_	big	_	_	_	_
 17-5	_	problems	_	_	_	_
@@ -377,9 +380,9 @@
 
 #Text=As they design their web pages for the newer browsers with advanced web technology and geared to the newest web core markup language HTML 5 , they are forced to accommodate older out - of - date technology to support IE6 users .
 18-1	_	As	_	_	_	_
-18-2	_	they	abstract[55]	new[55]	coref	18-4[55_56]
+18-2	_	they	abstract[53]	new[53]	coref	18-4[53_54]
 18-3	_	design	_	_	_	_
-18-4	_	their	abstract[56]	new[56]	coref	18-27[56_57]
+18-4	_	their	abstract[54]	new[54]	coref	18-27[54_55]
 18-5	_	web	_	_	_	_
 18-6	_	pages	_	_	_	_
 18-7	_	for	_	_	_	_
@@ -402,7 +405,7 @@
 18-24	_	HTML	_	_	_	_
 18-25	_	5	_	_	_	_
 18-26	_	,	_	_	_	_
-18-27	_	they	abstract[57]	new[57]	_	_
+18-27	_	they	abstract[55]	new[55]	_	_
 18-28	_	are	_	_	_	_
 18-29	_	forced	_	_	_	_
 18-30	_	to	_	_	_	_
@@ -471,13 +474,13 @@
 20-16	_	,	_	_	_	_
 20-17	_	IE6	abstract[24]	new[24]	coref	22-1[24_25]
 20-18	_	has	_	_	_	_
-20-19	_	277	abstract[58]	new[58]	coref	20-25[58_59]
-20-20	_	vulnerabilities	abstract[58]	new[58]	_	_
+20-19	_	277	abstract[56]	new[56]	coref	20-25[56_57]
+20-20	_	vulnerabilities	abstract[56]	new[56]	_	_
 20-21	_	;	_	_	_	_
 20-22	_	39	_	_	_	_
 20-23	_	percent	_	_	_	_
 20-24	_	of	_	_	_	_
-20-25	_	these	abstract[59]	new[59]	coref	21-18[59_60]
+20-25	_	these	abstract[57]	new[57]	coref	21-18[57_58]
 20-26	_	are	_	_	_	_
 20-27	_	rated	_	_	_	_
 20-28	_	"	_	_	_	_
@@ -503,10 +506,10 @@
 21-14	_	enhanced	_	_	_	_
 21-15	_	protection	_	_	_	_
 21-16	_	from	_	_	_	_
-21-17	_	these	abstract[60]	new[60]	_	_
-21-18	_	attacks	abstract[60]	new[60]	_	_
-21-19	_	and	abstract[60]	new[60]	_	_
-21-20	_	threats	abstract[60]	new[60]	_	_
+21-17	_	these	abstract[58]	new[58]	_	_
+21-18	_	attacks	abstract[58]	new[58]	_	_
+21-19	_	and	abstract[58]	new[58]	_	_
+21-20	_	threats	abstract[58]	new[58]	_	_
 21-21	_	.	_	_	_	_
 
 #Text=Microsoft 's Internet Explorer 6 is one of the most successful software products ever as measured by its durability and the massive numbers of people who have used it .

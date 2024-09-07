@@ -31,7 +31,7 @@
 4-2	_	.	_	_	_	_
 
 #Text=I think .
-5-1	_	I	abstract[51]	new[51]	coref	7-2[51_52]
+5-1	_	I	abstract[50]	new[50]	coref	7-2[50_51]
 5-2	_	think	_	_	_	_
 5-3	_	.	_	_	_	_
 
@@ -46,7 +46,7 @@
 
 #Text=Do you ?
 7-1	_	Do	_	_	_	_
-7-2	_	you	abstract[52]	new[52]	coref	29-5[52_53]
+7-2	_	you	abstract[51]	new[51]	coref	29-5[51_52]
 7-3	_	?	_	_	_	_
 
 #Text=And you 'd have to have that plus or minus .
@@ -84,15 +84,15 @@
 11-2	_	did	_	_	_	_
 11-3	_	I	abstract[7]	new[7]	coref	12-2[7_8]
 11-4	_	get	_	_	_	_
-11-5	_	that	abstract[79]	new[79]	coref	13-28[79_80]
-11-6	_	square	abstract[79]	new[79]	_	_
-11-7	_	root	abstract[79]	new[79]	_	_
-11-8	_	of	abstract[79]	new[79]	_	_
-11-9	_	—	abstract[79]	new[79]	_	_
-11-10	_	um	abstract[79]	new[79]	_	_
-11-11	_	,	abstract[79]	new[79]	_	_
-11-12	_	x	abstract[79]	new[79]	_	_
-11-13	_	squared	abstract[79]	new[79]	_	_
+11-5	_	that	abstract[78]	new[78]	coref	13-28[78_79]
+11-6	_	square	abstract[78]	new[78]	_	_
+11-7	_	root	abstract[78]	new[78]	_	_
+11-8	_	of	abstract[78]	new[78]	_	_
+11-9	_	—	abstract[78]	new[78]	_	_
+11-10	_	um	abstract[78]	new[78]	_	_
+11-11	_	,	abstract[78]	new[78]	_	_
+11-12	_	x	abstract[78]	new[78]	_	_
+11-13	_	squared	abstract[78]	new[78]	_	_
 11-14	_	?	_	_	_	_
 
 #Text=Because you brought this over here .
@@ -132,12 +132,12 @@
 13-25	_	,	_	_	_	_
 13-26	_	you	abstract[12]	new[12]	coref	14-1[12_13]
 13-27	_	have	_	_	_	_
-13-28	_	the	abstract[80]	new[80]	_	_
-13-29	_	square	abstract[80]	new[80]	_	_
-13-30	_	root	abstract[80]	new[80]	_	_
-13-31	_	of	abstract[80]	new[80]	_	_
-13-32	_	x	abstract[80]	new[80]	_	_
-13-33	_	squared	abstract[80]	new[80]	_	_
+13-28	_	the	abstract[79]	new[79]	_	_
+13-29	_	square	abstract[79]	new[79]	_	_
+13-30	_	root	abstract[79]	new[79]	_	_
+13-31	_	of	abstract[79]	new[79]	_	_
+13-32	_	x	abstract[79]	new[79]	_	_
+13-33	_	squared	abstract[79]	new[79]	_	_
 13-34	_	.	_	_	_	_
 
 #Text=I guess all I ca n't figure out is , what the square root of negative two thir – thi – two thirds is .
@@ -152,24 +152,24 @@
 14-9	_	is	_	_	_	_
 14-10	_	,	_	_	_	_
 14-11	_	what	_	_	_	_
-14-12	_	the	abstract[81]	new[81]	coref	15-2[81_82]
-14-13	_	square	abstract[81]	new[81]	_	_
-14-14	_	root	abstract[81]	new[81]	_	_
-14-15	_	of	abstract[81]	new[81]	_	_
-14-16	_	negative	abstract[81]	new[81]	_	_
-14-17	_	two	abstract[81]	new[81]	_	_
-14-18	_	thir	abstract[81]	new[81]	_	_
-14-19	_	–	abstract[81]	new[81]	_	_
-14-20	_	thi	abstract[81]	new[81]	_	_
-14-21	_	–	abstract[81]	new[81]	_	_
-14-22	_	two	abstract[81]	new[81]	_	_
-14-23	_	thirds	abstract[81]	new[81]	_	_
+14-12	_	the	abstract[80]	new[80]	coref	15-2[80_81]
+14-13	_	square	abstract[80]	new[80]	_	_
+14-14	_	root	abstract[80]	new[80]	_	_
+14-15	_	of	abstract[80]	new[80]	_	_
+14-16	_	negative	abstract[80]	new[80]	_	_
+14-17	_	two	abstract[80]	new[80]	_	_
+14-18	_	thir	abstract[80]	new[80]	_	_
+14-19	_	–	abstract[80]	new[80]	_	_
+14-20	_	thi	abstract[80]	new[80]	_	_
+14-21	_	–	abstract[80]	new[80]	_	_
+14-22	_	two	abstract[80]	new[80]	_	_
+14-23	_	thirds	abstract[80]	new[80]	_	_
 14-24	_	is	_	_	_	_
 14-25	_	.	_	_	_	_
 
 #Text=Would that be , i square root two thirds ?
 15-1	_	Would	_	_	_	_
-15-2	_	that	abstract[82]	new[82]	_	_
+15-2	_	that	abstract[81]	new[81]	_	_
 15-3	_	be	_	_	_	_
 15-4	_	,	_	_	_	_
 15-5	_	i	_	_	_	_
@@ -191,9 +191,9 @@
 16-9	_	.	_	_	_	_
 
 #Text=The whole thing would be over three .
-17-1	_	The	abstract[83]	new[83]	coref	19-2[83_84]
-17-2	_	whole	abstract[83]	new[83]	_	_
-17-3	_	thing	abstract[83]	new[83]	_	_
+17-1	_	The	abstract[82]	new[82]	coref	19-2[82_83]
+17-2	_	whole	abstract[82]	new[82]	_	_
+17-3	_	thing	abstract[82]	new[82]	_	_
 17-4	_	would	_	_	_	_
 17-5	_	be	_	_	_	_
 17-6	_	over	_	_	_	_
@@ -206,7 +206,7 @@
 
 #Text=No it could n't be .
 19-1	_	No	_	_	_	_
-19-2	_	it	abstract[84]	new[84]	_	_
+19-2	_	it	abstract[83]	new[83]	_	_
 19-3	_	could	_	_	_	_
 19-4	_	n't	_	_	_	_
 19-5	_	be	_	_	_	_
@@ -242,11 +242,11 @@
 22-6	_	.	_	_	_	_
 
 #Text=Leah .
-23-1	_	Leah	abstract[85]	new[85]	coref	24-1[85_86]
+23-1	_	Leah	abstract[84]	new[84]	coref	24-1[84_85]
 23-2	_	.	_	_	_	_
 
 #Text=She snoozing on the floor ?
-24-1	_	She	abstract[86]	new[86]	coref	26-6[86_87]
+24-1	_	She	abstract[85]	new[85]	coref	26-6[85_86]
 24-2	_	snoozing	_	_	_	_
 24-3	_	on	_	_	_	_
 24-4	_	the	_	_	_	_
@@ -263,12 +263,12 @@
 26-3	_	,	_	_	_	_
 26-4	_	you	abstract[17]	new[17]	coref	27-8[17_18]
 26-5	_	woke	_	_	_	_
-26-6	_	her	abstract[87]	new[87]	coref	27-1[87_88]
+26-6	_	her	abstract[86]	new[86]	coref	27-1[86_87]
 26-7	_	up	_	_	_	_
 26-8	_	.	_	_	_	_
 
 #Text=She 's doing the Karate Kid , Nathan .
-27-1	_	She	abstract[88]	new[88]	coref	28-1[88_89]
+27-1	_	She	abstract[87]	new[87]	coref	28-1[87_88]
 27-2	_	's	_	_	_	_
 27-3	_	doing	_	_	_	_
 27-4	_	the	_	_	_	_
@@ -279,17 +279,17 @@
 27-9	_	.	_	_	_	_
 
 #Text=She 's like , ' leave me alone . Do I deserve this ? '
-28-1	_	She	abstract[89]	new[89]	coref	28-7[89_90]
+28-1	_	She	abstract[88]	new[88]	coref	28-7[88_89]
 28-2	_	's	_	_	_	_
 28-3	_	like	_	_	_	_
 28-4	_	,	_	_	_	_
 28-5	_	'	_	_	_	_
 28-6	_	leave	_	_	_	_
-28-7	_	me	abstract[90]	new[90]	coref	28-11[90_91]
+28-7	_	me	abstract[89]	new[89]	coref	28-11[89_90]
 28-8	_	alone	_	_	_	_
 28-9	_	.	_	_	_	_
 28-10	_	Do	_	_	_	_
-28-11	_	I	abstract[91]	new[91]	coref	32-1[91_92]
+28-11	_	I	abstract[90]	new[90]	coref	32-1[90_91]
 28-12	_	deserve	_	_	_	_
 28-13	_	this	_	_	_	_
 28-14	_	?	_	_	_	_
@@ -300,40 +300,40 @@
 29-2	_	mean	_	_	_	_
 29-3	_	how	_	_	_	_
 29-4	_	would	_	_	_	_
-29-5	_	you	abstract[53]	new[53]	coref	29-10[53_54]
+29-5	_	you	abstract[52]	new[52]	coref	29-10[52_53]
 29-6	_	like	_	_	_	_
 29-7	_	it	_	_	_	_
 29-8	_	,	_	_	_	_
 29-9	_	when	_	_	_	_
-29-10	_	you	abstract[54]	new[54]	coref	29-19[54_55]
+29-10	_	you	abstract[53]	new[53]	coref	29-19[53_54]
 29-11	_	're	_	_	_	_
 29-12	_	laying	_	_	_	_
 29-13	_	in	_	_	_	_
 29-14	_	bed	_	_	_	_
 29-15	_	,	_	_	_	_
-29-16	_	somebody	abstract[97]	new[97]	coref	30-6[97_98]
+29-16	_	somebody	abstract[96]	new[96]	coref	30-6[96_97]
 29-17	_	just	_	_	_	_
 29-18	_	grabbed	_	_	_	_
-29-19	_	your	abstract[55]|abstract[95]	new[55]|new[95]	coref|coref	30-1[55_56]|29-24[95_96]
-29-20	_	arm	abstract[95]	new[95]	_	_
+29-19	_	your	abstract[54]|abstract[94]	new[54]|new[94]	coref|coref	30-1[54_55]|29-24[94_95]
+29-20	_	arm	abstract[94]	new[94]	_	_
 29-21	_	,	_	_	_	_
 29-22	_	started	_	_	_	_
 29-23	_	swinging	_	_	_	_
-29-24	_	it	abstract[96]	new[96]	_	_
+29-24	_	it	abstract[95]	new[95]	_	_
 29-25	_	around	_	_	_	_
 29-26	_	?	_	_	_	_
 
 #Text=I 'd probably just slap em .
-30-1	_	I	abstract[56]	new[56]	coref	32-7[56_57]
+30-1	_	I	abstract[55]	new[55]	coref	32-7[55_56]
 30-2	_	'd	_	_	_	_
 30-3	_	probably	_	_	_	_
 30-4	_	just	_	_	_	_
 30-5	_	slap	_	_	_	_
-30-6	_	em	abstract[98]	new[98]	_	_
+30-6	_	em	abstract[97]	new[97]	_	_
 30-7	_	.	_	_	_	_
 
 #Text=X squared equals one over the square root of that , the square root of that , x equals the square root of one .
-31-1	_	X	abstract[99]	new[99]	coref	31-10[99_100]
+31-1	_	X	abstract[98]	new[98]	coref	31-10[98_99]
 31-2	_	squared	_	_	_	_
 31-3	_	equals	_	_	_	_
 31-4	_	one	_	_	_	_
@@ -342,35 +342,35 @@
 31-7	_	square	_	_	_	_
 31-8	_	root	_	_	_	_
 31-9	_	of	_	_	_	_
-31-10	_	that	abstract[100]	new[100]	coref	31-16[100_101]
+31-10	_	that	abstract[99]	new[99]	coref	31-16[99_100]
 31-11	_	,	_	_	_	_
 31-12	_	the	_	_	_	_
 31-13	_	square	_	_	_	_
 31-14	_	root	_	_	_	_
 31-15	_	of	_	_	_	_
-31-16	_	that	abstract[101]	new[101]	_	_
+31-16	_	that	abstract[100]	new[100]	_	_
 31-17	_	,	_	_	_	_
 31-18	_	x	_	_	_	_
 31-19	_	equals	_	_	_	_
-31-20	_	the	abstract[114]	new[114]	coref	53-3[114_115]
-31-21	_	square	abstract[114]	new[114]	_	_
-31-22	_	root	abstract[114]	new[114]	_	_
-31-23	_	of	abstract[114]	new[114]	_	_
-31-24	_	one	abstract[114]	new[114]	_	_
+31-20	_	the	abstract[113]	new[113]	coref	53-3[113_114]
+31-21	_	square	abstract[113]	new[113]	_	_
+31-22	_	root	abstract[113]	new[113]	_	_
+31-23	_	of	abstract[113]	new[113]	_	_
+31-24	_	one	abstract[113]	new[113]	_	_
 31-25	_	.	_	_	_	_
 
 #Text=She 's not even looking at me .
-32-1	_	She	abstract[92]	new[92]	coref	33-1[92_93]
+32-1	_	She	abstract[91]	new[91]	coref	33-1[91_92]
 32-2	_	's	_	_	_	_
 32-3	_	not	_	_	_	_
 32-4	_	even	_	_	_	_
 32-5	_	looking	_	_	_	_
 32-6	_	at	_	_	_	_
-32-7	_	me	abstract[57]	new[57]	coref	44-1[57_58]
+32-7	_	me	abstract[56]	new[56]	coref	44-1[56_57]
 32-8	_	.	_	_	_	_
 
 #Text=She 's just looking , like —
-33-1	_	She	abstract[93]	new[93]	coref	114-1[93_94]
+33-1	_	She	abstract[92]	new[92]	coref	114-1[92_93]
 33-2	_	's	_	_	_	_
 33-3	_	just	_	_	_	_
 33-4	_	looking	_	_	_	_
@@ -397,8 +397,8 @@
 36-1	_	So	_	_	_	_
 36-2	_	,	_	_	_	_
 36-3	_	would	_	_	_	_
-36-4	_	that	abstract[102]	new[102]	coref	38-1[102_103]
-36-5	_	one	abstract[102]	new[102]	_	_
+36-4	_	that	abstract[101]	new[101]	coref	38-1[101_102]
+36-5	_	one	abstract[101]	new[101]	_	_
 36-6	_	be	_	_	_	_
 36-7	_	,	_	_	_	_
 36-8	_	square	_	_	_	_
@@ -413,7 +413,7 @@
 37-2	_	.	_	_	_	_
 
 #Text=It would ?
-38-1	_	It	abstract[103]	new[103]	_	_
+38-1	_	It	abstract[102]	new[102]	_	_
 38-2	_	would	_	_	_	_
 38-3	_	?	_	_	_	_
 
@@ -428,16 +428,16 @@
 #Text=But do y' all have to do that , um , you have to like , have it where you do that , there 's no , um .
 41-1	_	But	_	_	_	_
 41-2	_	do	_	_	_	_
-41-3	_	y'	abstract[104]	new[104]	coref	41-12[104_105]
-41-4	_	all	abstract[104]	new[104]	_	_
+41-3	_	y'	abstract[103]	new[103]	coref	41-12[103_104]
+41-4	_	all	abstract[103]	new[103]	_	_
 41-5	_	have	_	_	_	_
 41-6	_	to	_	_	_	_
 41-7	_	do	_	_	_	_
-41-8	_	that	abstract[107]	new[107]	coref	41-22[107_108]
+41-8	_	that	abstract[106]	new[106]	coref	41-22[106_107]
 41-9	_	,	_	_	_	_
 41-10	_	um	_	_	_	_
 41-11	_	,	_	_	_	_
-41-12	_	you	abstract[105]	new[105]	coref	41-20[105_106]
+41-12	_	you	abstract[104]	new[104]	coref	41-20[104_105]
 41-13	_	have	_	_	_	_
 41-14	_	to	_	_	_	_
 41-15	_	like	_	_	_	_
@@ -445,9 +445,9 @@
 41-17	_	have	_	_	_	_
 41-18	_	it	_	_	_	_
 41-19	_	where	_	_	_	_
-41-20	_	you	abstract[106]	new[106]	_	_
+41-20	_	you	abstract[105]	new[105]	_	_
 41-21	_	do	_	_	_	_
-41-22	_	that	abstract[108]	new[108]	_	_
+41-22	_	that	abstract[107]	new[107]	_	_
 41-23	_	,	_	_	_	_
 41-24	_	there	_	_	_	_
 41-25	_	's	_	_	_	_
@@ -472,7 +472,7 @@
 43-7	_	?	_	_	_	_
 
 #Text=I mean no fraction under the —
-44-1	_	I	abstract[58]	new[58]	coref	50-3[58_59]
+44-1	_	I	abstract[57]	new[57]	coref	50-3[57_58]
 44-2	_	mean	_	_	_	_
 44-3	_	no	_	_	_	_
 44-4	_	fraction	_	_	_	_
@@ -496,11 +496,11 @@
 46-8	_	whole	_	_	_	_
 46-9	_	thing	_	_	_	_
 46-10	_	by	_	_	_	_
-46-11	_	the	abstract[117]	new[117]	coref	56-4[117_118]
-46-12	_	square	abstract[117]	new[117]	_	_
-46-13	_	root	abstract[117]	new[117]	_	_
-46-14	_	of	abstract[117]	new[117]	_	_
-46-15	_	two	abstract[117]	new[117]	_	_
+46-11	_	the	abstract[116]	new[116]	coref	56-4[116_117]
+46-12	_	square	abstract[116]	new[116]	_	_
+46-13	_	root	abstract[116]	new[116]	_	_
+46-14	_	of	abstract[116]	new[116]	_	_
+46-15	_	two	abstract[116]	new[116]	_	_
 46-16	_	,	_	_	_	_
 46-17	_	and	_	_	_	_
 46-18	_	you	abstract[23]	new[23]	coref	53-1[23_24]
@@ -517,16 +517,16 @@
 #Text=Even for the top one ?
 47-1	_	Even	_	_	_	_
 47-2	_	for	_	_	_	_
-47-3	_	the	abstract[109]	new[109]	coref	48-3[109_110]
-47-4	_	top	abstract[109]	new[109]	_	_
-47-5	_	one	abstract[109]	new[109]	_	_
+47-3	_	the	abstract[108]	new[108]	coref	48-3[108_109]
+47-4	_	top	abstract[108]	new[108]	_	_
+47-5	_	one	abstract[108]	new[108]	_	_
 47-6	_	?	_	_	_	_
 
 #Text=Even for that one ?
 48-1	_	Even	_	_	_	_
 48-2	_	for	_	_	_	_
-48-3	_	that	abstract[110]	new[110]	coref	78-8[110_111]
-48-4	_	one	abstract[110]	new[110]	_	_
+48-3	_	that	abstract[109]	new[109]	coref	78-8[109_110]
+48-4	_	one	abstract[109]	new[109]	_	_
 48-5	_	?	_	_	_	_
 
 #Text=No .
@@ -536,7 +536,7 @@
 #Text=For — I 'm talking about for this one .
 50-1	_	For	_	_	_	_
 50-2	_	—	_	_	_	_
-50-3	_	I	abstract[59]	new[59]	coref	52-2[59_60]
+50-3	_	I	abstract[58]	new[58]	coref	52-2[58_59]
 50-4	_	'm	_	_	_	_
 50-5	_	talking	_	_	_	_
 50-6	_	about	_	_	_	_
@@ -551,7 +551,7 @@
 
 #Text=All you do is like go , t- two over one .
 52-1	_	All	_	_	_	_
-52-2	_	you	abstract[60]	new[60]	coref	59-1[60_61]
+52-2	_	you	abstract[59]	new[59]	coref	59-1[59_60]
 52-3	_	do	_	_	_	_
 52-4	_	is	_	_	_	_
 52-5	_	like	_	_	_	_
@@ -566,11 +566,11 @@
 #Text=You have the square root of one .
 53-1	_	You	abstract[24]	new[24]	coref	56-2[24_25]
 53-2	_	have	_	_	_	_
-53-3	_	the	abstract[115]	new[115]	coref	67-8[115_116]
-53-4	_	square	abstract[115]	new[115]	_	_
-53-5	_	root	abstract[115]	new[115]	_	_
-53-6	_	of	abstract[115]	new[115]	_	_
-53-7	_	one	abstract[115]	new[115]	_	_
+53-3	_	the	abstract[114]	new[114]	coref	67-8[114_115]
+53-4	_	square	abstract[114]	new[114]	_	_
+53-5	_	root	abstract[114]	new[114]	_	_
+53-6	_	of	abstract[114]	new[114]	_	_
+53-7	_	one	abstract[114]	new[114]	_	_
 53-8	_	.	_	_	_	_
 
 #Text=Like that , right ?
@@ -588,11 +588,11 @@
 56-1	_	Since	_	_	_	_
 56-2	_	you	abstract[25]	new[25]	coref	56-19[25_26]
 56-3	_	have	_	_	_	_
-56-4	_	the	abstract[118]	new[118]	coref	56-24[118_119]
-56-5	_	square	abstract[118]	new[118]	_	_
-56-6	_	root	abstract[118]	new[118]	_	_
-56-7	_	of	abstract[118]	new[118]	_	_
-56-8	_	two	abstract[118]	new[118]	_	_
+56-4	_	the	abstract[117]	new[117]	coref	56-24[117_118]
+56-5	_	square	abstract[117]	new[117]	_	_
+56-6	_	root	abstract[117]	new[117]	_	_
+56-7	_	of	abstract[117]	new[117]	_	_
+56-8	_	two	abstract[117]	new[117]	_	_
 56-9	_	on	_	_	_	_
 56-10	_	the	_	_	_	_
 56-11	_	bottom	_	_	_	_
@@ -608,11 +608,11 @@
 56-21	_	to	_	_	_	_
 56-22	_	multiply	_	_	_	_
 56-23	_	by	_	_	_	_
-56-24	_	the	abstract[119]	new[119]	coref	57-13[119_120]
-56-25	_	square	abstract[119]	new[119]	_	_
-56-26	_	root	abstract[119]	new[119]	_	_
-56-27	_	of	abstract[119]	new[119]	_	_
-56-28	_	two	abstract[119]	new[119]	_	_
+56-24	_	the	abstract[118]	new[118]	coref	57-13[118_119]
+56-25	_	square	abstract[118]	new[118]	_	_
+56-26	_	root	abstract[118]	new[118]	_	_
+56-27	_	of	abstract[118]	new[118]	_	_
+56-28	_	two	abstract[118]	new[118]	_	_
 56-29	_	.	_	_	_	_
 
 #Text=And then you get two , and you multiply the top by the square root of two , and you get , square root of two .
@@ -628,20 +628,20 @@
 57-10	_	the	_	_	_	_
 57-11	_	top	_	_	_	_
 57-12	_	by	_	_	_	_
-57-13	_	the	abstract[120]	new[120]	_	_
-57-14	_	square	abstract[120]	new[120]	_	_
-57-15	_	root	abstract[120]	new[120]	_	_
-57-16	_	of	abstract[120]	new[120]	_	_
-57-17	_	two	abstract[120]	new[120]	_	_
+57-13	_	the	abstract[119]	new[119]	_	_
+57-14	_	square	abstract[119]	new[119]	_	_
+57-15	_	root	abstract[119]	new[119]	_	_
+57-16	_	of	abstract[119]	new[119]	_	_
+57-17	_	two	abstract[119]	new[119]	_	_
 57-18	_	,	_	_	_	_
 57-19	_	and	_	_	_	_
 57-20	_	you	abstract[29]	new[29]	coref	60-2[29_30]
 57-21	_	get	_	_	_	_
 57-22	_	,	_	_	_	_
-57-23	_	square	abstract[126]	new[126]	coref	61-9[126_127]
-57-24	_	root	abstract[126]	new[126]	_	_
-57-25	_	of	abstract[126]	new[126]	_	_
-57-26	_	two	abstract[124]|abstract[126]	new[124]|new[126]	coref	61-3[124_125]
+57-23	_	square	abstract[125]	new[125]	coref	61-9[125_126]
+57-24	_	root	abstract[125]	new[125]	_	_
+57-25	_	of	abstract[125]	new[125]	_	_
+57-26	_	two	abstract[123]|abstract[125]	new[123]|new[125]	coref	61-3[123_124]
 57-27	_	.	_	_	_	_
 
 #Text=What ?
@@ -649,14 +649,14 @@
 58-2	_	?	_	_	_	_
 
 #Text=I wan na rewind it and hear that back again .
-59-1	_	I	abstract[61]	new[61]	coref	61-1[61_62]
+59-1	_	I	abstract[60]	new[60]	coref	61-1[60_61]
 59-2	_	wan	_	_	_	_
 59-3	_	na	_	_	_	_
 59-4	_	rewind	_	_	_	_
-59-5	_	it	abstract[121]	new[121]	coref	59-8[121_122]
+59-5	_	it	abstract[120]	new[120]	coref	59-8[120_121]
 59-6	_	and	_	_	_	_
 59-7	_	hear	_	_	_	_
-59-8	_	that	abstract[122]	new[122]	coref	60-7[122_123]
+59-8	_	that	abstract[121]	new[121]	coref	60-7[121_122]
 59-9	_	back	_	_	_	_
 59-10	_	again	_	_	_	_
 59-11	_	.	_	_	_	_
@@ -668,36 +668,36 @@
 60-4	_	did	_	_	_	_
 60-5	_	n't	_	_	_	_
 60-6	_	catch	_	_	_	_
-60-7	_	it	abstract[123]	new[123]	_	_
+60-7	_	it	abstract[122]	new[122]	_	_
 60-8	_	the	_	_	_	_
 60-9	_	first	_	_	_	_
 60-10	_	time	_	_	_	_
 60-11	_	.	_	_	_	_
 
 #Text=You got the two , and you take the square root of two , and you get the negative two , which you take the square , and it comes to two .
-61-1	_	You	abstract[62]	new[62]	coref	61-7[62_63]
+61-1	_	You	abstract[61]	new[61]	coref	61-7[61_62]
 61-2	_	got	_	_	_	_
-61-3	_	the	abstract[125]	new[125]	_	_
-61-4	_	two	abstract[125]	new[125]	_	_
+61-3	_	the	abstract[124]	new[124]	_	_
+61-4	_	two	abstract[124]	new[124]	_	_
 61-5	_	,	_	_	_	_
 61-6	_	and	_	_	_	_
-61-7	_	you	abstract[63]	new[63]	coref	61-16[63_64]
+61-7	_	you	abstract[62]	new[62]	coref	61-16[62_63]
 61-8	_	take	_	_	_	_
-61-9	_	the	abstract[127]	new[127]	coref	67-15[127_128]
-61-10	_	square	abstract[127]	new[127]	_	_
-61-11	_	root	abstract[127]	new[127]	_	_
-61-12	_	of	abstract[127]	new[127]	_	_
-61-13	_	two	abstract[127]	new[127]	_	_
+61-9	_	the	abstract[126]	new[126]	coref	67-15[126_127]
+61-10	_	square	abstract[126]	new[126]	_	_
+61-11	_	root	abstract[126]	new[126]	_	_
+61-12	_	of	abstract[126]	new[126]	_	_
+61-13	_	two	abstract[126]	new[126]	_	_
 61-14	_	,	_	_	_	_
 61-15	_	and	_	_	_	_
-61-16	_	you	abstract[64]	new[64]	coref	61-23[64_65]
+61-16	_	you	abstract[63]	new[63]	coref	61-23[63_64]
 61-17	_	get	_	_	_	_
 61-18	_	the	_	_	_	_
 61-19	_	negative	_	_	_	_
 61-20	_	two	_	_	_	_
 61-21	_	,	_	_	_	_
 61-22	_	which	_	_	_	_
-61-23	_	you	abstract[65]	new[65]	coref	62-1[65_66]
+61-23	_	you	abstract[64]	new[64]	coref	62-1[64_65]
 61-24	_	take	_	_	_	_
 61-25	_	the	_	_	_	_
 61-26	_	square	_	_	_	_
@@ -710,7 +710,7 @@
 61-33	_	.	_	_	_	_
 
 #Text=I 'm sorry .
-62-1	_	I	abstract[66]	new[66]	coref	63-17[66_67]
+62-1	_	I	abstract[65]	new[65]	coref	63-17[65_66]
 62-2	_	'm	_	_	_	_
 62-3	_	sorry	_	_	_	_
 62-4	_	.	_	_	_	_
@@ -719,23 +719,23 @@
 63-1	_	So	_	_	_	_
 63-2	_	,	_	_	_	_
 63-3	_	let	_	_	_	_
-63-4	_	's	abstract[134]	new[134]	coref	65-4[134_135]
+63-4	_	's	abstract[133]	new[133]	coref	65-4[133_134]
 63-5	_	talk	_	_	_	_
 63-6	_	about	_	_	_	_
-63-7	_	this	abstract[131]	new[131]	coref	63-13[131_132]
+63-7	_	this	abstract[130]	new[130]	coref	63-13[130_131]
 63-8	_	slowly	_	_	_	_
 63-9	_	,	_	_	_	_
 63-10	_	as	_	_	_	_
 63-11	_	I	abstract[31]	new[31]	coref	73-3[31_32]
 63-12	_	write	_	_	_	_
-63-13	_	this	abstract[132]	new[132]	coref	63-20[132_133]
+63-13	_	this	abstract[131]	new[131]	coref	63-20[131_132]
 63-14	_	down	_	_	_	_
 63-15	_	,	_	_	_	_
 63-16	_	as	_	_	_	_
-63-17	_	you	abstract[67]	new[67]	coref	69-3[67_68]
+63-17	_	you	abstract[66]	new[66]	coref	69-3[66_67]
 63-18	_	're	_	_	_	_
 63-19	_	saying	_	_	_	_
-63-20	_	it	abstract[133]	new[133]	_	_
+63-20	_	it	abstract[132]	new[132]	_	_
 63-21	_	.	_	_	_	_
 
 #Text=Alright ?
@@ -746,7 +746,7 @@
 65-1	_	This	_	_	_	_
 65-2	_	is	_	_	_	_
 65-3	_	what	_	_	_	_
-65-4	_	we	abstract[135]	new[135]	_	_
+65-4	_	we	abstract[134]	new[134]	_	_
 65-5	_	came	_	_	_	_
 65-6	_	out	_	_	_	_
 65-7	_	with	_	_	_	_
@@ -757,25 +757,25 @@
 66-2	_	?	_	_	_	_
 
 #Text=It 's — But put it as the square root of one , over the square root of two .
-67-1	_	It	abstract[136]	new[136]	coref	67-6[136_137]
+67-1	_	It	abstract[135]	new[135]	coref	67-6[135_136]
 67-2	_	's	_	_	_	_
 67-3	_	—	_	_	_	_
 67-4	_	But	_	_	_	_
 67-5	_	put	_	_	_	_
-67-6	_	it	abstract[137]	new[137]	_	_
+67-6	_	it	abstract[136]	new[136]	_	_
 67-7	_	as	_	_	_	_
-67-8	_	the	abstract[116]|abstract[138]	new[116]|new[138]	coref	69-5[138_139]
-67-9	_	square	abstract[116]|abstract[138]	new[116]|new[138]	_	_
-67-10	_	root	abstract[116]|abstract[138]	new[116]|new[138]	_	_
-67-11	_	of	abstract[116]|abstract[138]	new[116]|new[138]	_	_
-67-12	_	one	abstract[116]|abstract[138]	new[116]|new[138]	_	_
-67-13	_	,	abstract[138]	new[138]	_	_
-67-14	_	over	abstract[138]	new[138]	_	_
-67-15	_	the	abstract[128]|abstract[138]	new[128]|new[138]	coref	69-7[128_129]
-67-16	_	square	abstract[128]|abstract[138]	new[128]|new[138]	_	_
-67-17	_	root	abstract[128]|abstract[138]	new[128]|new[138]	_	_
-67-18	_	of	abstract[128]|abstract[138]	new[128]|new[138]	_	_
-67-19	_	two	abstract[128]|abstract[138]	new[128]|new[138]	_	_
+67-8	_	the	abstract[115]|abstract[137]	new[115]|new[137]	coref	69-5[137_138]
+67-9	_	square	abstract[115]|abstract[137]	new[115]|new[137]	_	_
+67-10	_	root	abstract[115]|abstract[137]	new[115]|new[137]	_	_
+67-11	_	of	abstract[115]|abstract[137]	new[115]|new[137]	_	_
+67-12	_	one	abstract[115]|abstract[137]	new[115]|new[137]	_	_
+67-13	_	,	abstract[137]	new[137]	_	_
+67-14	_	over	abstract[137]	new[137]	_	_
+67-15	_	the	abstract[127]|abstract[137]	new[127]|new[137]	coref	69-7[127_128]
+67-16	_	square	abstract[127]|abstract[137]	new[127]|new[137]	_	_
+67-17	_	root	abstract[127]|abstract[137]	new[127]|new[137]	_	_
+67-18	_	of	abstract[127]|abstract[137]	new[127]|new[137]	_	_
+67-19	_	two	abstract[127]|abstract[137]	new[127]|new[137]	_	_
 67-20	_	.	_	_	_	_
 
 #Text=Oh .
@@ -785,22 +785,22 @@
 #Text=And then you multiply that by the square root of two , over the square root of two .
 69-1	_	And	_	_	_	_
 69-2	_	then	_	_	_	_
-69-3	_	you	abstract[68]	new[68]	coref	72-4[68_69]
+69-3	_	you	abstract[67]	new[67]	coref	72-4[67_68]
 69-4	_	multiply	_	_	_	_
-69-5	_	that	abstract[139]	new[139]	coref	69-7[139_140]
+69-5	_	that	abstract[138]	new[138]	coref	69-7[138_139]
 69-6	_	by	_	_	_	_
-69-7	_	the	abstract[129]|abstract[140]	new[129]|new[140]	coref|coref	69-14[129_130]|71-4[140_141]
-69-8	_	square	abstract[129]|abstract[140]	new[129]|new[140]	_	_
-69-9	_	root	abstract[129]|abstract[140]	new[129]|new[140]	_	_
-69-10	_	of	abstract[129]|abstract[140]	new[129]|new[140]	_	_
-69-11	_	two	abstract[129]|abstract[140]	new[129]|new[140]	_	_
-69-12	_	,	abstract[140]	new[140]	_	_
-69-13	_	over	abstract[140]	new[140]	_	_
-69-14	_	the	abstract[130]|abstract[140]	new[130]|new[140]	_	_
-69-15	_	square	abstract[130]|abstract[140]	new[130]|new[140]	_	_
-69-16	_	root	abstract[130]|abstract[140]	new[130]|new[140]	_	_
-69-17	_	of	abstract[130]|abstract[140]	new[130]|new[140]	_	_
-69-18	_	two	abstract[130]|abstract[140]	new[130]|new[140]	_	_
+69-7	_	the	abstract[128]|abstract[139]	new[128]|new[139]	coref|coref	69-14[128_129]|71-4[139_140]
+69-8	_	square	abstract[128]|abstract[139]	new[128]|new[139]	_	_
+69-9	_	root	abstract[128]|abstract[139]	new[128]|new[139]	_	_
+69-10	_	of	abstract[128]|abstract[139]	new[128]|new[139]	_	_
+69-11	_	two	abstract[128]|abstract[139]	new[128]|new[139]	_	_
+69-12	_	,	abstract[139]	new[139]	_	_
+69-13	_	over	abstract[139]	new[139]	_	_
+69-14	_	the	abstract[129]|abstract[139]	new[129]|new[139]	_	_
+69-15	_	square	abstract[129]|abstract[139]	new[129]|new[139]	_	_
+69-16	_	root	abstract[129]|abstract[139]	new[129]|new[139]	_	_
+69-17	_	of	abstract[129]|abstract[139]	new[129]|new[139]	_	_
+69-18	_	two	abstract[129]|abstract[139]	new[129]|new[139]	_	_
 69-19	_	.	_	_	_	_
 
 #Text=Right .
@@ -811,29 +811,29 @@
 71-1	_	Uh	_	_	_	_
 71-2	_	,	_	_	_	_
 71-3	_	is	_	_	_	_
-71-4	_	that	abstract[141]	new[141]	coref	71-6[141_142]
+71-4	_	that	abstract[140]	new[140]	coref	71-6[140_141]
 71-5	_	what	_	_	_	_
-71-6	_	all	abstract[142]	new[142]	coref	73-7[142_143]
-71-7	_	those	abstract[142]	new[142]	_	_
-71-8	_	square	abstract[142]	new[142]	_	_
-71-9	_	root	abstract[142]	new[142]	_	_
-71-10	_	of	abstract[142]	new[142]	_	_
-71-11	_	twos	abstract[142]	new[142]	_	_
+71-6	_	all	abstract[141]	new[141]	coref	73-7[141_142]
+71-7	_	those	abstract[141]	new[141]	_	_
+71-8	_	square	abstract[141]	new[141]	_	_
+71-9	_	root	abstract[141]	new[141]	_	_
+71-10	_	of	abstract[141]	new[141]	_	_
+71-11	_	twos	abstract[141]	new[141]	_	_
 71-12	_	are	_	_	_	_
 71-13	_	?	_	_	_	_
 
 #Text=That 's what I was try — That 's what I was trying to say .
-72-1	_	That	abstract[144]	new[144]	coref	72-8[144_145]
+72-1	_	That	abstract[143]	new[143]	coref	72-8[143_144]
 72-2	_	's	_	_	_	_
 72-3	_	what	_	_	_	_
-72-4	_	I	abstract[69]	new[69]	coref	72-11[69_70]
+72-4	_	I	abstract[68]	new[68]	coref	72-11[68_69]
 72-5	_	was	_	_	_	_
 72-6	_	try	_	_	_	_
 72-7	_	—	_	_	_	_
-72-8	_	That	abstract[145]	new[145]	_	_
+72-8	_	That	abstract[144]	new[144]	_	_
 72-9	_	's	_	_	_	_
 72-10	_	what	_	_	_	_
-72-11	_	I	abstract[70]	new[70]	coref	75-4[70_71]
+72-11	_	I	abstract[69]	new[69]	coref	75-4[69_70]
 72-12	_	was	_	_	_	_
 72-13	_	trying	_	_	_	_
 72-14	_	to	_	_	_	_
@@ -847,23 +847,23 @@
 73-4	_	was	_	_	_	_
 73-5	_	wondering	_	_	_	_
 73-6	_	where	_	_	_	_
-73-7	_	all	abstract[143]	new[143]	_	_
-73-8	_	that	abstract[143]	new[143]	_	_
+73-7	_	all	abstract[142]	new[142]	_	_
+73-8	_	that	abstract[142]	new[142]	_	_
 73-9	_	,	_	_	_	_
-73-10	_	square	abstract[146]	new[146]	coref	74-1[146_147]
-73-11	_	root	abstract[146]	new[146]	_	_
-73-12	_	two	abstract[146]	new[146]	_	_
-73-13	_	,	abstract[146]	new[146]	_	_
-73-14	_	square	abstract[146]	new[146]	_	_
-73-15	_	root	abstract[146]	new[146]	_	_
-73-16	_	two	abstract[146]	new[146]	_	_
+73-10	_	square	abstract[145]	new[145]	coref	74-1[145_146]
+73-11	_	root	abstract[145]	new[145]	_	_
+73-12	_	two	abstract[145]	new[145]	_	_
+73-13	_	,	abstract[145]	new[145]	_	_
+73-14	_	square	abstract[145]	new[145]	_	_
+73-15	_	root	abstract[145]	new[145]	_	_
+73-16	_	two	abstract[145]	new[145]	_	_
 73-17	_	.	_	_	_	_
 
 #Text=That 's what it was .
-74-1	_	That	abstract[147]	new[147]	coref	74-4[147_148]
+74-1	_	That	abstract[146]	new[146]	coref	74-4[146_147]
 74-2	_	's	_	_	_	_
 74-3	_	what	_	_	_	_
-74-4	_	it	abstract[148]	new[148]	coref	96-1[148_149]
+74-4	_	it	abstract[147]	new[147]	coref	96-1[147_148]
 74-5	_	was	_	_	_	_
 74-6	_	.	_	_	_	_
 
@@ -871,7 +871,7 @@
 75-1	_	Then	_	_	_	_
 75-2	_	right	_	_	_	_
 75-3	_	here	_	_	_	_
-75-4	_	you	abstract[71]	new[71]	coref	82-1[71_72]
+75-4	_	you	abstract[70]	new[70]	coref	82-1[70_71]
 75-5	_	'd	_	_	_	_
 75-6	_	get	_	_	_	_
 75-7	_	,	_	_	_	_
@@ -910,22 +910,22 @@
 78-5	_	,	_	_	_	_
 78-6	_	what	_	_	_	_
 78-7	_	about	_	_	_	_
-78-8	_	this	abstract[111]	new[111]	coref	79-2[111_112]
-78-9	_	one	abstract[111]	new[111]	_	_
+78-8	_	this	abstract[110]	new[110]	coref	79-2[110_111]
+78-9	_	one	abstract[110]	new[110]	_	_
 78-10	_	?	_	_	_	_
 
 #Text=On this one .
 79-1	_	On	_	_	_	_
-79-2	_	this	abstract[112]	new[112]	coref	80-4[112_113]
-79-3	_	one	abstract[112]	new[112]	_	_
+79-2	_	this	abstract[111]	new[111]	coref	80-4[111_112]
+79-3	_	one	abstract[111]	new[111]	_	_
 79-4	_	.	_	_	_	_
 
 #Text=Let me do this one .
 80-1	_	Let	_	_	_	_
 80-2	_	me	abstract[33]	new[33]	coref	81-3[33_34]
 80-3	_	do	_	_	_	_
-80-4	_	this	abstract[113]	new[113]	_	_
-80-5	_	one	abstract[113]	new[113]	_	_
+80-4	_	this	abstract[112]	new[112]	_	_
+80-5	_	one	abstract[112]	new[112]	_	_
 80-6	_	.	_	_	_	_
 
 #Text=But , you have i — you have i square root of three , over square root of three .
@@ -951,7 +951,7 @@
 81-20	_	.	_	_	_	_
 
 #Text=I mean z — i square root of two over three — square root of three .
-82-1	_	I	abstract[72]	new[72]	coref	83-1[72_73]
+82-1	_	I	abstract[71]	new[71]	coref	83-1[71_72]
 82-2	_	mean	_	_	_	_
 82-3	_	z	_	_	_	_
 82-4	_	—	_	_	_	_
@@ -970,7 +970,7 @@
 82-17	_	.	_	_	_	_
 
 #Text=I ca n't even say it right .
-83-1	_	I	abstract[73]	new[73]	coref	87-17[73_74]
+83-1	_	I	abstract[72]	new[72]	coref	87-17[72_73]
 83-2	_	ca	_	_	_	_
 83-3	_	n't	_	_	_	_
 83-4	_	even	_	_	_	_
@@ -1025,7 +1025,7 @@
 87-14	_	three	_	_	_	_
 87-15	_	,	_	_	_	_
 87-16	_	and	_	_	_	_
-87-17	_	you	abstract[74]	new[74]	coref	101-6[74_75]
+87-17	_	you	abstract[73]	new[73]	coref	101-6[73_74]
 87-18	_	get	_	_	_	_
 87-19	_	—	_	_	_	_
 
@@ -1090,16 +1090,16 @@
 95-16	_	?	_	_	_	_
 
 #Text=Square root of two , times square root of three , is square root of six , is it ?
-96-1	_	Square	abstract[149]|abstract[150]	new[149]|new[150]	coref	96-19[150_151]
-96-2	_	root	abstract[149]|abstract[150]	new[149]|new[150]	_	_
-96-3	_	of	abstract[149]|abstract[150]	new[149]|new[150]	_	_
-96-4	_	two	abstract[149]|abstract[150]	new[149]|new[150]	_	_
-96-5	_	,	abstract[150]	new[150]	_	_
-96-6	_	times	abstract[150]	new[150]	_	_
-96-7	_	square	abstract[150]	new[150]	_	_
-96-8	_	root	abstract[150]	new[150]	_	_
-96-9	_	of	abstract[150]	new[150]	_	_
-96-10	_	three	abstract[150]	new[150]	_	_
+96-1	_	Square	abstract[148]|abstract[149]	new[148]|new[149]	coref	96-19[149_150]
+96-2	_	root	abstract[148]|abstract[149]	new[148]|new[149]	_	_
+96-3	_	of	abstract[148]|abstract[149]	new[148]|new[149]	_	_
+96-4	_	two	abstract[148]|abstract[149]	new[148]|new[149]	_	_
+96-5	_	,	abstract[149]	new[149]	_	_
+96-6	_	times	abstract[149]	new[149]	_	_
+96-7	_	square	abstract[149]	new[149]	_	_
+96-8	_	root	abstract[149]	new[149]	_	_
+96-9	_	of	abstract[149]	new[149]	_	_
+96-10	_	three	abstract[149]	new[149]	_	_
 96-11	_	,	_	_	_	_
 96-12	_	is	_	_	_	_
 96-13	_	square	_	_	_	_
@@ -1108,7 +1108,7 @@
 96-16	_	six	_	_	_	_
 96-17	_	,	_	_	_	_
 96-18	_	is	_	_	_	_
-96-19	_	it	abstract[151]	new[151]	_	_
+96-19	_	it	abstract[150]	new[150]	_	_
 96-20	_	?	_	_	_	_
 
 #Text=Yeah .
@@ -1123,14 +1123,14 @@
 99-1	_	Well	_	_	_	_
 99-2	_	,	_	_	_	_
 99-3	_	then	_	_	_	_
-99-4	_	that	abstract[152]	new[152]	coref	100-2[152_153]
+99-4	_	that	abstract[151]	new[151]	coref	100-2[151_152]
 99-5	_	's	_	_	_	_
 99-6	_	fine	_	_	_	_
 99-7	_	.	_	_	_	_
 
 #Text=Then that is right .
 100-1	_	Then	_	_	_	_
-100-2	_	that	abstract[153]	new[153]	_	_
+100-2	_	that	abstract[152]	new[152]	_	_
 100-3	_	is	_	_	_	_
 100-4	_	right	_	_	_	_
 100-5	_	.	_	_	_	_
@@ -1138,13 +1138,13 @@
 #Text=Is n't that c- — you can do that .
 101-1	_	Is	_	_	_	_
 101-2	_	n't	_	_	_	_
-101-3	_	that	abstract[154]	new[154]	coref	101-9[154_155]
+101-3	_	that	abstract[153]	new[153]	coref	101-9[153_154]
 101-4	_	c-	_	_	_	_
 101-5	_	—	_	_	_	_
-101-6	_	you	abstract[75]	new[75]	coref	103-8[75_76]
+101-6	_	you	abstract[74]	new[74]	coref	103-8[74_75]
 101-7	_	can	_	_	_	_
 101-8	_	do	_	_	_	_
-101-9	_	that	abstract[155]	new[155]	coref	103-3[155_156]
+101-9	_	that	abstract[154]	new[154]	coref	103-3[154_155]
 101-10	_	.	_	_	_	_
 
 #Text=Yeah .
@@ -1153,12 +1153,12 @@
 
 #Text=Cause that 's the same way you 're multiplying there , square root of nine , that — and square root of nine equals three .
 103-1	_	Cause	_	_	_	_
-103-2	_	that	abstract[156]	new[156]	_	_
+103-2	_	that	abstract[155]	new[155]	_	_
 103-3	_	's	_	_	_	_
 103-4	_	the	_	_	_	_
 103-5	_	same	_	_	_	_
 103-6	_	way	_	_	_	_
-103-7	_	you	abstract[76]	new[76]	coref	108-1[76_77]
+103-7	_	you	abstract[75]	new[75]	coref	108-1[75_76]
 103-8	_	're	_	_	_	_
 103-9	_	multiplying	_	_	_	_
 103-10	_	there	_	_	_	_
@@ -1188,8 +1188,8 @@
 #Text=Where 's the test ?
 105-1	_	Where	_	_	_	_
 105-2	_	's	_	_	_	_
-105-3	_	the	abstract[157]	new[157]	coref	107-3[157_158]
-105-4	_	test	abstract[157]	new[157]	_	_
+105-3	_	the	abstract[156]	new[156]	coref	107-3[156_157]
+105-4	_	test	abstract[156]	new[156]	_	_
 105-5	_	?	_	_	_	_
 
 #Text=There ai n't no telling .
@@ -1203,15 +1203,15 @@
 #Text=You have it .
 107-1	_	You	abstract[43]	new[43]	coref	117-6[43_44]
 107-2	_	have	_	_	_	_
-107-3	_	it	abstract[158]	new[158]	coref	108-5[158_159]
+107-3	_	it	abstract[157]	new[157]	coref	108-5[157_158]
 107-4	_	.	_	_	_	_
 
 #Text=I mean I have it .
-108-1	_	I	abstract[77]	new[77]	coref	108-3[77_78]
+108-1	_	I	abstract[76]	new[76]	coref	108-3[76_77]
 108-2	_	mean	_	_	_	_
-108-3	_	I	abstract[78]	new[78]	_	_
+108-3	_	I	abstract[77]	new[77]	_	_
 108-4	_	have	_	_	_	_
-108-5	_	it	abstract[159]	new[159]	_	_
+108-5	_	it	abstract[158]	new[158]	_	_
 108-6	_	.	_	_	_	_
 
 #Text=Okay .
@@ -1219,9 +1219,9 @@
 109-2	_	.	_	_	_	_
 
 #Text=The next one , is , five x , times x minus one .
-110-1	_	The	abstract[160]	new[160]	coref	111-2[160_161]
-110-2	_	next	abstract[160]	new[160]	_	_
-110-3	_	one	abstract[160]	new[160]	_	_
+110-1	_	The	abstract[159]	new[159]	coref	111-2[159_160]
+110-2	_	next	abstract[159]	new[159]	_	_
+110-3	_	one	abstract[159]	new[159]	_	_
 110-4	_	,	_	_	_	_
 110-5	_	is	_	_	_	_
 110-6	_	,	_	_	_	_
@@ -1236,7 +1236,7 @@
 
 #Text=Is that it ?
 111-1	_	Is	_	_	_	_
-111-2	_	that	abstract[161]	new[161]	_	_
+111-2	_	that	abstract[160]	new[160]	_	_
 111-3	_	it	_	_	_	_
 111-4	_	?	_	_	_	_
 
@@ -1256,7 +1256,7 @@
 113-9	_	.	_	_	_	_
 
 #Text=Leah .
-114-1	_	Leah	abstract[94]	new[94]	_	_
+114-1	_	Leah	abstract[93]	new[93]	_	_
 114-2	_	.	_	_	_	_
 
 #Text=Two times one minus x ?
@@ -1273,19 +1273,19 @@
 
 #Text=And that 's easy , you can do that .
 117-1	_	And	_	_	_	_
-117-2	_	that	abstract[162]	new[162]	coref	117-9[162_163]
+117-2	_	that	abstract[161]	new[161]	coref	117-9[161_162]
 117-3	_	's	_	_	_	_
 117-4	_	easy	_	_	_	_
 117-5	_	,	_	_	_	_
 117-6	_	you	abstract[44]	new[44]	coref	122-3[44_45]
 117-7	_	can	_	_	_	_
 117-8	_	do	_	_	_	_
-117-9	_	that	abstract[163]	new[163]	coref	118-2[163_164]
+117-9	_	that	abstract[162]	new[162]	coref	118-2[162_163]
 117-10	_	.	_	_	_	_
 
 #Text=Oh this is easy .
 118-1	_	Oh	_	_	_	_
-118-2	_	this	abstract[164]	new[164]	_	_
+118-2	_	this	abstract[163]	new[163]	_	_
 118-3	_	is	_	_	_	_
 118-4	_	easy	_	_	_	_
 118-5	_	.	_	_	_	_
@@ -1298,14 +1298,14 @@
 #Text=Please say this will factor .
 120-1	_	Please	_	_	_	_
 120-2	_	say	_	_	_	_
-120-3	_	this	abstract[165]	new[165]	coref	121-2[165_166]
+120-3	_	this	abstract[164]	new[164]	coref	121-2[164_165]
 120-4	_	will	_	_	_	_
 120-5	_	factor	_	_	_	_
 120-6	_	.	_	_	_	_
 
 #Text=Will it ?
 121-1	_	Will	_	_	_	_
-121-2	_	it	abstract[166]	new[166]	coref	124-3[166_167]
+121-2	_	it	abstract[165]	new[165]	coref	124-3[165_166]
 121-3	_	?	_	_	_	_
 
 #Text=Nah , you do it .
@@ -1313,7 +1313,7 @@
 122-2	_	,	_	_	_	_
 122-3	_	you	abstract[45]	new[45]	coref	123-3[45_46]
 122-4	_	do	_	_	_	_
-122-5	_	it	abstract[169]	new[169]	coref	123-6[169_170]
+122-5	_	it	abstract[168]	new[168]	coref	123-6[168_169]
 122-6	_	.	_	_	_	_
 
 #Text=Well , I mean , that 's just wasting time .
@@ -1322,7 +1322,7 @@
 123-3	_	I	abstract[46]	new[46]	coref	130-2[46_47]
 123-4	_	mean	_	_	_	_
 123-5	_	,	_	_	_	_
-123-6	_	that	abstract[170]	new[170]	_	_
+123-6	_	that	abstract[169]	new[169]	_	_
 123-7	_	's	_	_	_	_
 123-8	_	just	_	_	_	_
 123-9	_	wasting	_	_	_	_
@@ -1332,7 +1332,7 @@
 #Text=Cause if it 's not .
 124-1	_	Cause	_	_	_	_
 124-2	_	if	_	_	_	_
-124-3	_	it	abstract[167]	new[167]	coref	126-1[167_168]
+124-3	_	it	abstract[166]	new[166]	coref	126-1[166_167]
 124-4	_	's	_	_	_	_
 124-5	_	not	_	_	_	_
 124-6	_	.	_	_	_	_
@@ -1342,7 +1342,7 @@
 125-2	_	.	_	_	_	_
 
 #Text=It does ?
-126-1	_	It	abstract[168]	new[168]	_	_
+126-1	_	It	abstract[167]	new[167]	_	_
 126-2	_	does	_	_	_	_
 126-3	_	?	_	_	_	_
 
@@ -1369,7 +1369,7 @@
 130-3	_	can	_	_	_	_
 130-4	_	always	_	_	_	_
 130-5	_	put	_	_	_	_
-130-6	_	those	abstract[171]	new[171]	coref	130-17[171_172]
+130-6	_	those	abstract[170]	new[170]	coref	130-17[170_171]
 130-7	_	back	_	_	_	_
 130-8	_	up	_	_	_	_
 130-9	_	into	_	_	_	_
@@ -1380,7 +1380,7 @@
 130-14	_	and	_	_	_	_
 130-15	_	see	_	_	_	_
 130-16	_	if	_	_	_	_
-130-17	_	they	abstract[172]	new[172]	_	_
+130-17	_	they	abstract[171]	new[171]	_	_
 130-18	_	check	_	_	_	_
 130-19	_	.	_	_	_	_
 
@@ -1400,7 +1400,7 @@
 #Text=Five , I got zero equals zero .
 133-1	_	Five	_	_	_	_
 133-2	_	,	_	_	_	_
-133-3	_	I	abstract[49]	new[49]	coref	139-1[49_50]
+133-3	_	I	abstract[49]	new[49]	_	_
 133-4	_	got	_	_	_	_
 133-5	_	zero	_	_	_	_
 133-6	_	equals	_	_	_	_
@@ -1410,14 +1410,14 @@
 #Text=Tha- – that 's right .
 134-1	_	Tha-	_	_	_	_
 134-2	_	–	_	_	_	_
-134-3	_	that	abstract[173]	new[173]	coref	135-2[173_174]
+134-3	_	that	abstract[172]	new[172]	coref	135-2[172_173]
 134-4	_	's	_	_	_	_
 134-5	_	right	_	_	_	_
 134-6	_	.	_	_	_	_
 
 #Text=And that 's one ?
 135-1	_	And	_	_	_	_
-135-2	_	that	abstract[174]	new[174]	_	_
+135-2	_	that	abstract[173]	new[173]	_	_
 135-3	_	's	_	_	_	_
 135-4	_	one	_	_	_	_
 135-5	_	?	_	_	_	_
@@ -1438,41 +1438,62 @@
 138-1	_	Okay	_	_	_	_
 138-2	_	.	_	_	_	_
 
-#Text=I think someone should be on the phone just as quickly as they 've come with the results of their surgery . And let that be known that the cost has been doubled , resentably ...
-139-1	_	I	abstract[50]	new[50]	_	_
-139-2	_	think	_	_	_	_
-139-3	_	someone	abstract[175]	new[175]	coref	139-13[175_176]
-139-4	_	should	_	_	_	_
-139-5	_	be	_	_	_	_
-139-6	_	on	_	_	_	_
-139-7	_	the	_	_	_	_
-139-8	_	phone	_	_	_	_
-139-9	_	just	_	_	_	_
-139-10	_	as	_	_	_	_
-139-11	_	quickly	_	_	_	_
-139-12	_	as	_	_	_	_
-139-13	_	they	abstract[176]	new[176]	coref	139-20[176_177]
-139-14	_	've	_	_	_	_
-139-15	_	come	_	_	_	_
-139-16	_	with	_	_	_	_
-139-17	_	the	_	_	_	_
-139-18	_	results	_	_	_	_
-139-19	_	of	_	_	_	_
-139-20	_	their	abstract[177]	new[177]	_	_
-139-21	_	surgery	_	_	_	_
-139-22	_	.	_	_	_	_
-139-23	_	And	_	_	_	_
-139-24	_	let	_	_	_	_
-139-25	_	that	_	_	_	_
-139-26	_	be	_	_	_	_
-139-27	_	known	_	_	_	_
-139-28	_	that	_	_	_	_
-139-29	_	the	_	_	_	_
-139-30	_	cost	_	_	_	_
-139-31	_	has	_	_	_	_
-139-32	_	been	_	_	_	_
-139-33	_	doubled	_	_	_	_
-139-34	_	,	_	_	_	_
-139-35	_	resentably	_	_	_	_
-139-36	_	...	_	_	_	_
+#Text=A cat girl from Ohio has a tibia fracture on it , but it 's very similar to a kitten , and she can not have an asphyxiated dog , so she 'd be willing to do a cast on it for an extra hundred pounds . That 'll just be a short - term fix .
+139-1	_	A	abstract[177]	new[177]	coref	139-23[177_178]
+139-2	_	cat	abstract[177]	new[177]	_	_
+139-3	_	girl	abstract[177]	new[177]	_	_
+139-4	_	from	abstract[177]	new[177]	_	_
+139-5	_	Ohio	abstract[177]	new[177]	_	_
+139-6	_	has	_	_	_	_
+139-7	_	a	_	_	_	_
+139-8	_	tibia	_	_	_	_
+139-9	_	fracture	_	_	_	_
+139-10	_	on	_	_	_	_
+139-11	_	it	abstract[174]	new[174]	coref	139-14[174_175]
+139-12	_	,	_	_	_	_
+139-13	_	but	_	_	_	_
+139-14	_	it	abstract[175]	new[175]	coref	139-41[175_176]
+139-15	_	's	_	_	_	_
+139-16	_	very	_	_	_	_
+139-17	_	similar	_	_	_	_
+139-18	_	to	_	_	_	_
+139-19	_	a	_	_	_	_
+139-20	_	kitten	_	_	_	_
+139-21	_	,	_	_	_	_
+139-22	_	and	_	_	_	_
+139-23	_	she	abstract[178]	new[178]	coref	139-32[178_179]
+139-24	_	can	_	_	_	_
+139-25	_	not	_	_	_	_
+139-26	_	have	_	_	_	_
+139-27	_	an	_	_	_	_
+139-28	_	asphyxiated	_	_	_	_
+139-29	_	dog	_	_	_	_
+139-30	_	,	_	_	_	_
+139-31	_	so	_	_	_	_
+139-32	_	she	abstract[179]	new[179]	_	_
+139-33	_	'd	_	_	_	_
+139-34	_	be	_	_	_	_
+139-35	_	willing	_	_	_	_
+139-36	_	to	_	_	_	_
+139-37	_	do	_	_	_	_
+139-38	_	a	_	_	_	_
+139-39	_	cast	_	_	_	_
+139-40	_	on	_	_	_	_
+139-41	_	it	abstract[176]	new[176]	_	_
+139-42	_	for	_	_	_	_
+139-43	_	an	_	_	_	_
+139-44	_	extra	_	_	_	_
+139-45	_	hundred	_	_	_	_
+139-46	_	pounds	_	_	_	_
+139-47	_	.	_	_	_	_
+139-48	_	That	_	_	_	_
+139-49	_	'll	_	_	_	_
+139-50	_	just	_	_	_	_
+139-51	_	be	_	_	_	_
+139-52	_	a	_	_	_	_
+139-53	_	short	_	_	_	_
+139-54	_	-	_	_	_	_
+139-55	_	term	_	_	_	_
+139-56	_	fix	_	_	_	_
+139-57	_	.	_	_	_	_
 

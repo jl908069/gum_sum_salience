@@ -1,0 +1,808 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Stranger Things Happen -
+1-1	_	Stranger	_	_	_	_
+1-2	_	Things	_	_	_	_
+1-3	_	Happen	_	_	_	_
+1-4	_	-	_	_	_	_
+
+#Text=Water Off a Black Dog ’s Back
+2-1	_	Water	_	_	_	_
+2-2	_	Off	_	_	_	_
+2-3	_	a	_	_	_	_
+2-4	_	Black	_	_	_	_
+2-5	_	Dog	_	_	_	_
+2-6	_	’s	_	_	_	_
+2-7	_	Back	_	_	_	_
+
+#Text=Rachel Rook took Carroll home to meet her parents two months after she first slept with him .
+3-1	_	Rachel	abstract[1]	new[1]	coref	3-8[1_2]
+3-2	_	Rook	abstract[1]	new[1]	_	_
+3-3	_	took	_	_	_	_
+3-4	_	Carroll	abstract[54]	new[54]	coref	3-17[54_55]
+3-5	_	home	_	_	_	_
+3-6	_	to	_	_	_	_
+3-7	_	meet	_	_	_	_
+3-8	_	her	abstract[2]|abstract[99]	new[2]|new[99]	coref|coref	3-13[2_3]|5-8[99_100]
+3-9	_	parents	abstract[99]	new[99]	_	_
+3-10	_	two	_	_	_	_
+3-11	_	months	_	_	_	_
+3-12	_	after	_	_	_	_
+3-13	_	she	abstract[3]	new[3]	coref	4-2[3_4]
+3-14	_	first	_	_	_	_
+3-15	_	slept	_	_	_	_
+3-16	_	with	_	_	_	_
+3-17	_	him	abstract[55]	new[55]	coref	5-4[55_56]
+3-18	_	.	_	_	_	_
+
+#Text=For a generous girl , a girl who took off her clothes with abandon , she was remarkably close - mouthed about some things .
+4-1	_	For	_	_	_	_
+4-2	_	a	abstract[4]	new[4]	coref	4-16[4_5]
+4-3	_	generous	abstract[4]	new[4]	_	_
+4-4	_	girl	abstract[4]	new[4]	_	_
+4-5	_	,	abstract[4]	new[4]	_	_
+4-6	_	a	abstract[4]	new[4]	_	_
+4-7	_	girl	abstract[4]	new[4]	_	_
+4-8	_	who	abstract[4]	new[4]	_	_
+4-9	_	took	abstract[4]	new[4]	_	_
+4-10	_	off	abstract[4]	new[4]	_	_
+4-11	_	her	abstract[4]	new[4]	_	_
+4-12	_	clothes	abstract[4]	new[4]	_	_
+4-13	_	with	abstract[4]	new[4]	_	_
+4-14	_	abandon	abstract[4]	new[4]	_	_
+4-15	_	,	_	_	_	_
+4-16	_	she	abstract[5]	new[5]	coref	5-8[5_6]
+4-17	_	was	_	_	_	_
+4-18	_	remarkably	_	_	_	_
+4-19	_	close	_	_	_	_
+4-20	_	-	_	_	_	_
+4-21	_	mouthed	_	_	_	_
+4-22	_	about	_	_	_	_
+4-23	_	some	_	_	_	_
+4-24	_	things	_	_	_	_
+4-25	_	.	_	_	_	_
+
+#Text=In two months Carroll had learned that her parents lived on a farm several miles outside of town ; that they sold strawberries in summer , and Christmas trees in the winter .
+5-1	_	In	_	_	_	_
+5-2	_	two	_	_	_	_
+5-3	_	months	_	_	_	_
+5-4	_	Carroll	abstract[56]	new[56]	coref	6-1[56_57]
+5-5	_	had	_	_	_	_
+5-6	_	learned	_	_	_	_
+5-7	_	that	_	_	_	_
+5-8	_	her	abstract[6]|abstract[100]	new[6]|new[100]	coref|coref	7-2[6_7]|5-21[100_101]
+5-9	_	parents	abstract[100]	new[100]	_	_
+5-10	_	lived	_	_	_	_
+5-11	_	on	_	_	_	_
+5-12	_	a	abstract[107]	new[107]	coref	6-7[107_108]
+5-13	_	farm	abstract[107]	new[107]	_	_
+5-14	_	several	abstract[107]	new[107]	_	_
+5-15	_	miles	abstract[107]	new[107]	_	_
+5-16	_	outside	abstract[107]	new[107]	_	_
+5-17	_	of	abstract[107]	new[107]	_	_
+5-18	_	town	abstract[107]	new[107]	_	_
+5-19	_	;	_	_	_	_
+5-20	_	that	_	_	_	_
+5-21	_	they	abstract[101]	new[101]	coref	6-4[101_102]
+5-22	_	sold	_	_	_	_
+5-23	_	strawberries	_	_	_	_
+5-24	_	in	_	_	_	_
+5-25	_	summer	_	_	_	_
+5-26	_	,	_	_	_	_
+5-27	_	and	_	_	_	_
+5-28	_	Christmas	_	_	_	_
+5-29	_	trees	_	_	_	_
+5-30	_	in	_	_	_	_
+5-31	_	the	_	_	_	_
+5-32	_	winter	_	_	_	_
+5-33	_	.	_	_	_	_
+
+#Text=He knew that they never left the farm ; instead , the world came to them in the shape of weekend picnickers and driveby tourists .
+6-1	_	He	abstract[57]	new[57]	coref	7-8[57_58]
+6-2	_	knew	_	_	_	_
+6-3	_	that	_	_	_	_
+6-4	_	they	abstract[102]	new[102]	coref	6-16[102_103]
+6-5	_	never	_	_	_	_
+6-6	_	left	_	_	_	_
+6-7	_	the	abstract[108]	new[108]	_	_
+6-8	_	farm	abstract[108]	new[108]	_	_
+6-9	_	;	_	_	_	_
+6-10	_	instead	_	_	_	_
+6-11	_	,	_	_	_	_
+6-12	_	the	_	_	_	_
+6-13	_	world	_	_	_	_
+6-14	_	came	_	_	_	_
+6-15	_	to	_	_	_	_
+6-16	_	them	abstract[103]	new[103]	coref	7-4[103_104]
+6-17	_	in	_	_	_	_
+6-18	_	the	_	_	_	_
+6-19	_	shape	_	_	_	_
+6-20	_	of	_	_	_	_
+6-21	_	weekend	_	_	_	_
+6-22	_	picnickers	_	_	_	_
+6-23	_	and	_	_	_	_
+6-24	_	driveby	_	_	_	_
+6-25	_	tourists	_	_	_	_
+6-26	_	.	_	_	_	_
+
+#Text=Do you think your parents will like me ? " he said .
+7-1	_	Do	_	_	_	_
+7-2	_	you	abstract[7]	new[7]	coref	7-4[7_8]
+7-3	_	think	_	_	_	_
+7-4	_	your	abstract[8]|abstract[104]	new[8]|new[104]	coref|coref	11-4[8_9]|28-5[104_105]
+7-5	_	parents	abstract[104]	new[104]	_	_
+7-6	_	will	_	_	_	_
+7-7	_	like	_	_	_	_
+7-8	_	me	abstract[58]	new[58]	coref	7-11[58_59]
+7-9	_	?	_	_	_	_
+7-10	_	"	_	_	_	_
+7-11	_	he	abstract[59]	new[59]	coref	8-1[59_60]
+7-12	_	said	_	_	_	_
+7-13	_	.	_	_	_	_
+
+#Text=He had spent the afternoon preparing for this visit as carefully as if he were preparing for an exam .
+8-1	_	He	abstract[60]	new[60]	coref	8-14[60_61]
+8-2	_	had	_	_	_	_
+8-3	_	spent	_	_	_	_
+8-4	_	the	_	_	_	_
+8-5	_	afternoon	_	_	_	_
+8-6	_	preparing	_	_	_	_
+8-7	_	for	_	_	_	_
+8-8	_	this	_	_	_	_
+8-9	_	visit	_	_	_	_
+8-10	_	as	_	_	_	_
+8-11	_	carefully	_	_	_	_
+8-12	_	as	_	_	_	_
+8-13	_	if	_	_	_	_
+8-14	_	he	abstract[61]	new[61]	coref	9-1[61_62]
+8-15	_	were	_	_	_	_
+8-16	_	preparing	_	_	_	_
+8-17	_	for	_	_	_	_
+8-18	_	an	_	_	_	_
+8-19	_	exam	_	_	_	_
+8-20	_	.	_	_	_	_
+
+#Text=He had gotten his hair cut , trimmed his nails , washed his neck and behind his ears .
+9-1	_	He	abstract[62]	new[62]	coref	9-4[62_63]
+9-2	_	had	_	_	_	_
+9-3	_	gotten	_	_	_	_
+9-4	_	his	abstract[63]	new[63]	coref	9-9[63_64]
+9-5	_	hair	_	_	_	_
+9-6	_	cut	_	_	_	_
+9-7	_	,	_	_	_	_
+9-8	_	trimmed	_	_	_	_
+9-9	_	his	abstract[64]	new[64]	coref	9-13[64_65]
+9-10	_	nails	_	_	_	_
+9-11	_	,	_	_	_	_
+9-12	_	washed	_	_	_	_
+9-13	_	his	abstract[65]	new[65]	coref	9-17[65_66]
+9-14	_	neck	_	_	_	_
+9-15	_	and	_	_	_	_
+9-16	_	behind	_	_	_	_
+9-17	_	his	abstract[66]	new[66]	coref	10-3[66_67]
+9-18	_	ears	_	_	_	_
+9-19	_	.	_	_	_	_
+
+#Text=The outfit he had chosen , khaki pants and a blue button - down shirt -- no tie -- lay neatly folded on the bed .
+10-1	_	The	_	_	_	_
+10-2	_	outfit	_	_	_	_
+10-3	_	he	abstract[67]	new[67]	coref	11-1[67_68]
+10-4	_	had	_	_	_	_
+10-5	_	chosen	_	_	_	_
+10-6	_	,	_	_	_	_
+10-7	_	khaki	abstract[116]	new[116]	coref	19-4[116_117]
+10-8	_	pants	abstract[116]	new[116]	_	_
+10-9	_	and	_	_	_	_
+10-10	_	a	_	_	_	_
+10-11	_	blue	_	_	_	_
+10-12	_	button	_	_	_	_
+10-13	_	-	_	_	_	_
+10-14	_	down	_	_	_	_
+10-15	_	shirt	_	_	_	_
+10-16	_	--	_	_	_	_
+10-17	_	no	_	_	_	_
+10-18	_	tie	_	_	_	_
+10-19	_	--	_	_	_	_
+10-20	_	lay	_	_	_	_
+10-21	_	neatly	_	_	_	_
+10-22	_	folded	_	_	_	_
+10-23	_	on	_	_	_	_
+10-24	_	the	_	_	_	_
+10-25	_	bed	_	_	_	_
+10-26	_	.	_	_	_	_
+
+#Text=He stood before Rachel in his plain white underwear and white socks , gazing at her as if she were a mirror .
+11-1	_	He	abstract[68]	new[68]	coref	11-6[68_69]
+11-2	_	stood	_	_	_	_
+11-3	_	before	_	_	_	_
+11-4	_	Rachel	abstract[9]	new[9]	coref	11-16[9_10]
+11-5	_	in	_	_	_	_
+11-6	_	his	abstract[69]	new[69]	coref	13-10[69_70]
+11-7	_	plain	_	_	_	_
+11-8	_	white	_	_	_	_
+11-9	_	underwear	_	_	_	_
+11-10	_	and	_	_	_	_
+11-11	_	white	_	_	_	_
+11-12	_	socks	_	_	_	_
+11-13	_	,	_	_	_	_
+11-14	_	gazing	_	_	_	_
+11-15	_	at	_	_	_	_
+11-16	_	her	abstract[10]	new[10]	coref	11-19[10_11]
+11-17	_	as	_	_	_	_
+11-18	_	if	_	_	_	_
+11-19	_	she	abstract[11]	new[11]	coref	12-5[11_12]
+11-20	_	were	_	_	_	_
+11-21	_	a	_	_	_	_
+11-22	_	mirror	_	_	_	_
+11-23	_	.	_	_	_	_
+
+#Text=" No , " she said .
+12-1	_	"	_	_	_	_
+12-2	_	No	_	_	_	_
+12-3	_	,	_	_	_	_
+12-4	_	"	_	_	_	_
+12-5	_	she	abstract[12]	new[12]	coref	13-6[12_13]
+12-6	_	said	_	_	_	_
+12-7	_	.	_	_	_	_
+
+#Text=It was the first time she had been to his apartment , and she stood square in the center of his bedroom , her arms folded against her body as if she was afraid to sit down , to touch something .
+13-1	_	It	_	_	_	_
+13-2	_	was	_	_	_	_
+13-3	_	the	_	_	_	_
+13-4	_	first	_	_	_	_
+13-5	_	time	_	_	_	_
+13-6	_	she	abstract[13]	new[13]	coref	13-14[13_14]
+13-7	_	had	_	_	_	_
+13-8	_	been	_	_	_	_
+13-9	_	to	_	_	_	_
+13-10	_	his	abstract[70]	new[70]	coref	13-21[70_71]
+13-11	_	apartment	_	_	_	_
+13-12	_	,	_	_	_	_
+13-13	_	and	_	_	_	_
+13-14	_	she	abstract[14]	new[14]	coref	13-24[14_15]
+13-15	_	stood	_	_	_	_
+13-16	_	square	_	_	_	_
+13-17	_	in	_	_	_	_
+13-18	_	the	_	_	_	_
+13-19	_	center	_	_	_	_
+13-20	_	of	_	_	_	_
+13-21	_	his	abstract[71]	new[71]	coref	15-6[71_72]
+13-22	_	bedroom	_	_	_	_
+13-23	_	,	_	_	_	_
+13-24	_	her	abstract[15]	new[15]	coref	13-28[15_16]
+13-25	_	arms	_	_	_	_
+13-26	_	folded	_	_	_	_
+13-27	_	against	_	_	_	_
+13-28	_	her	abstract[16]	new[16]	coref	13-32[16_17]
+13-29	_	body	_	_	_	_
+13-30	_	as	_	_	_	_
+13-31	_	if	_	_	_	_
+13-32	_	she	abstract[17]	new[17]	coref	15-2[17_18]
+13-33	_	was	_	_	_	_
+13-34	_	afraid	_	_	_	_
+13-35	_	to	_	_	_	_
+13-36	_	sit	_	_	_	_
+13-37	_	down	_	_	_	_
+13-38	_	,	_	_	_	_
+13-39	_	to	_	_	_	_
+13-40	_	touch	_	_	_	_
+13-41	_	something	_	_	_	_
+13-42	_	.	_	_	_	_
+
+#Text=" Why ? "
+14-1	_	"	_	_	_	_
+14-2	_	Why	_	_	_	_
+14-3	_	?	_	_	_	_
+14-4	_	"	_	_	_	_
+
+#Text=" My father will like you , " she said .
+15-1	_	"	_	_	_	_
+15-2	_	My	abstract[18]|abstract[109]	new[18]|new[109]	coref|coref	15-9[18_19]|16-3[109_110]
+15-3	_	father	abstract[109]	new[109]	_	_
+15-4	_	will	_	_	_	_
+15-5	_	like	_	_	_	_
+15-6	_	you	abstract[72]	new[72]	coref	18-4[72_73]
+15-7	_	,	_	_	_	_
+15-8	_	"	_	_	_	_
+15-9	_	she	abstract[19]	new[19]	coref	17-1[19_20]
+15-10	_	said	_	_	_	_
+15-11	_	.	_	_	_	_
+
+#Text=" But he likes everyone .
+16-1	_	"	_	_	_	_
+16-2	_	But	_	_	_	_
+16-3	_	he	abstract[110]	new[110]	_	_
+16-4	_	likes	_	_	_	_
+16-5	_	everyone	_	_	_	_
+16-6	_	.	_	_	_	_
+
+#Text=My mother 's more particular --
+17-1	_	My	abstract[20]|abstract[111]	new[20]|new[111]	coref|coref	20-3[20_21]|18-1[111_112]
+17-2	_	mother	abstract[111]	new[111]	_	_
+17-3	_	's	_	_	_	_
+17-4	_	more	_	_	_	_
+17-5	_	particular	_	_	_	_
+17-6	_	--	_	_	_	_
+
+#Text=she thinks that you lack a serious nature . "
+18-1	_	she	abstract[112]	new[112]	coref	20-7[112_113]
+18-2	_	thinks	_	_	_	_
+18-3	_	that	_	_	_	_
+18-4	_	you	abstract[73]	new[73]	coref	19-1[73_74]
+18-5	_	lack	_	_	_	_
+18-6	_	a	_	_	_	_
+18-7	_	serious	_	_	_	_
+18-8	_	nature	_	_	_	_
+18-9	_	.	_	_	_	_
+18-10	_	"	_	_	_	_
+
+#Text=Carroll put on his pants , admiring the crease .
+19-1	_	Carroll	abstract[74]	new[74]	coref	19-4[74_75]
+19-2	_	put	_	_	_	_
+19-3	_	on	_	_	_	_
+19-4	_	his	abstract[75]|abstract[117]	new[75]|new[117]	coref	20-9[75_76]
+19-5	_	pants	abstract[117]	new[117]	_	_
+19-6	_	,	_	_	_	_
+19-7	_	admiring	_	_	_	_
+19-8	_	the	_	_	_	_
+19-9	_	crease	_	_	_	_
+19-10	_	.	_	_	_	_
+
+#Text=" So you 've talked to her about me . "
+20-1	_	"	_	_	_	_
+20-2	_	So	_	_	_	_
+20-3	_	you	abstract[21]	new[21]	coref	22-3[21_22]
+20-4	_	've	_	_	_	_
+20-5	_	talked	_	_	_	_
+20-6	_	to	_	_	_	_
+20-7	_	her	abstract[113]	new[113]	coref	22-8[113_114]
+20-8	_	about	_	_	_	_
+20-9	_	me	abstract[76]	new[76]	coref	22-10[76_77]
+20-10	_	.	_	_	_	_
+20-11	_	"	_	_	_	_
+
+#Text=" Yes . "
+21-1	_	"	_	_	_	_
+21-2	_	Yes	_	_	_	_
+21-3	_	.	_	_	_	_
+21-4	_	"	_	_	_	_
+
+#Text=" But you have n't talked about her to me . "
+22-1	_	"	_	_	_	_
+22-2	_	But	_	_	_	_
+22-3	_	you	abstract[22]	new[22]	coref	24-3[22_23]
+22-4	_	have	_	_	_	_
+22-5	_	n't	_	_	_	_
+22-6	_	talked	_	_	_	_
+22-7	_	about	_	_	_	_
+22-8	_	her	abstract[114]	new[114]	coref	24-6[114_115]
+22-9	_	to	_	_	_	_
+22-10	_	me	abstract[77]	new[77]	coref	26-18[77_78]
+22-11	_	.	_	_	_	_
+22-12	_	"	_	_	_	_
+
+#Text=" No . "
+23-1	_	"	_	_	_	_
+23-2	_	No	_	_	_	_
+23-3	_	.	_	_	_	_
+23-4	_	"	_	_	_	_
+
+#Text=" Are you ashamed of her ? "
+24-1	_	"	_	_	_	_
+24-2	_	Are	_	_	_	_
+24-3	_	you	abstract[23]	new[23]	coref	25-1[23_24]
+24-4	_	ashamed	_	_	_	_
+24-5	_	of	_	_	_	_
+24-6	_	her	abstract[115]	new[115]	_	_
+24-7	_	?	_	_	_	_
+24-8	_	"	_	_	_	_
+
+#Text=Rachel snorted .
+25-1	_	Rachel	abstract[24]	new[24]	coref	26-2[24_25]
+25-2	_	snorted	_	_	_	_
+25-3	_	.	_	_	_	_
+
+#Text=Then she sighed in a way that seemed to suggest she was regretting her decision to take him home .
+26-1	_	Then	_	_	_	_
+26-2	_	she	abstract[25]	new[25]	coref	26-11[25_26]
+26-3	_	sighed	_	_	_	_
+26-4	_	in	_	_	_	_
+26-5	_	a	_	_	_	_
+26-6	_	way	_	_	_	_
+26-7	_	that	_	_	_	_
+26-8	_	seemed	_	_	_	_
+26-9	_	to	_	_	_	_
+26-10	_	suggest	_	_	_	_
+26-11	_	she	abstract[26]	new[26]	coref	26-14[26_27]
+26-12	_	was	_	_	_	_
+26-13	_	regretting	_	_	_	_
+26-14	_	her	abstract[27]	new[27]	coref	27-2[27_28]
+26-15	_	decision	_	_	_	_
+26-16	_	to	_	_	_	_
+26-17	_	take	_	_	_	_
+26-18	_	him	abstract[78]	new[78]	coref	27-6[78_79]
+26-19	_	home	_	_	_	_
+26-20	_	.	_	_	_	_
+
+#Text=" You 're ashamed of me , " he guessed , and Rachel kissed him and smiled and did n't say anything .
+27-1	_	"	_	_	_	_
+27-2	_	You	abstract[28]	new[28]	coref	27-13[28_29]
+27-3	_	're	_	_	_	_
+27-4	_	ashamed	_	_	_	_
+27-5	_	of	_	_	_	_
+27-6	_	me	abstract[79]	new[79]	coref	27-9[79_80]
+27-7	_	,	_	_	_	_
+27-8	_	"	_	_	_	_
+27-9	_	he	abstract[80]	new[80]	coref	27-15[80_81]
+27-10	_	guessed	_	_	_	_
+27-11	_	,	_	_	_	_
+27-12	_	and	_	_	_	_
+27-13	_	Rachel	abstract[29]	new[29]	coref	28-1[29_30]
+27-14	_	kissed	_	_	_	_
+27-15	_	him	abstract[81]	new[81]	coref	28-21[81_82]
+27-16	_	and	_	_	_	_
+27-17	_	smiled	_	_	_	_
+27-18	_	and	_	_	_	_
+27-19	_	did	_	_	_	_
+27-20	_	n't	_	_	_	_
+27-21	_	say	_	_	_	_
+27-22	_	anything	_	_	_	_
+27-23	_	.	_	_	_	_
+
+#Text=Rachel still lived on her parents ' farm , which made it all the more remarkable that she had kept Carroll and her parents apart for so long .
+28-1	_	Rachel	abstract[30]	new[30]	coref	28-5[30_31]
+28-2	_	still	_	_	_	_
+28-3	_	lived	_	_	_	_
+28-4	_	on	_	_	_	_
+28-5	_	her	abstract[31]|abstract[105]|abstract[118]	new[31]|new[105]|new[118]	coref|coref|coref	28-18[31_32]|28-23[105_106]|30-45[118_119]
+28-6	_	parents	abstract[105]|abstract[118]	new[105]|new[118]	_	_
+28-7	_	'	abstract[105]|abstract[118]	new[105]|new[118]	_	_
+28-8	_	farm	abstract[118]	new[118]	_	_
+28-9	_	,	abstract[118]	new[118]	_	_
+28-10	_	which	abstract[118]	new[118]	_	_
+28-11	_	made	abstract[118]	new[118]	_	_
+28-12	_	it	abstract[118]	new[118]	_	_
+28-13	_	all	abstract[118]	new[118]	_	_
+28-14	_	the	abstract[118]	new[118]	_	_
+28-15	_	more	abstract[118]	new[118]	_	_
+28-16	_	remarkable	abstract[118]	new[118]	_	_
+28-17	_	that	abstract[118]	new[118]	_	_
+28-18	_	she	abstract[32]|abstract[118]	new[32]|new[118]	coref	28-23[32_33]
+28-19	_	had	abstract[118]	new[118]	_	_
+28-20	_	kept	abstract[118]	new[118]	_	_
+28-21	_	Carroll	abstract[82]|abstract[118]	new[82]|new[118]	coref	29-10[82_83]
+28-22	_	and	abstract[118]	new[118]	_	_
+28-23	_	her	abstract[33]|abstract[106]|abstract[118]	new[33]|new[106]|new[118]	coref	30-2[33_34]
+28-24	_	parents	abstract[106]|abstract[118]	new[106]|new[118]	_	_
+28-25	_	apart	abstract[118]	new[118]	_	_
+28-26	_	for	abstract[118]	new[118]	_	_
+28-27	_	so	abstract[118]	new[118]	_	_
+28-28	_	long	abstract[118]	new[118]	_	_
+28-29	_	.	_	_	_	_
+
+#Text=It suggested a talent for daily organization that filled Carroll 's heart with admiration and lust .
+29-1	_	It	_	_	_	_
+29-2	_	suggested	_	_	_	_
+29-3	_	a	_	_	_	_
+29-4	_	talent	_	_	_	_
+29-5	_	for	_	_	_	_
+29-6	_	daily	_	_	_	_
+29-7	_	organization	_	_	_	_
+29-8	_	that	_	_	_	_
+29-9	_	filled	_	_	_	_
+29-10	_	Carroll	abstract[83]	new[83]	coref	30-10[83_84]
+29-11	_	's	abstract[83]	new[83]	_	_
+29-12	_	heart	_	_	_	_
+29-13	_	with	_	_	_	_
+29-14	_	admiration	_	_	_	_
+29-15	_	and	_	_	_	_
+29-16	_	lust	_	_	_	_
+29-17	_	.	_	_	_	_
+
+#Text=She was nineteen , two years younger than Carroll ; she was a student at Jellicoh College and every weekday she rose at seven and biked four miles into town , and then back again on her bike , four miles uphill to the farm .
+30-1	_	She	abstract[34]	new[34]	coref	30-12[34_35]
+30-2	_	was	_	_	_	_
+30-3	_	nineteen	_	_	_	_
+30-4	_	,	_	_	_	_
+30-5	_	two	_	_	_	_
+30-6	_	years	_	_	_	_
+30-7	_	younger	_	_	_	_
+30-8	_	than	_	_	_	_
+30-9	_	Carroll	abstract[84]	new[84]	coref	31-1[84_85]
+30-10	_	;	_	_	_	_
+30-11	_	she	abstract[35]	new[35]	coref	30-22[35_36]
+30-12	_	was	_	_	_	_
+30-13	_	a	_	_	_	_
+30-14	_	student	_	_	_	_
+30-15	_	at	_	_	_	_
+30-16	_	Jellicoh	abstract[120]	new[120]	coref	31-6[120_121]
+30-17	_	College	abstract[120]	new[120]	_	_
+30-18	_	and	_	_	_	_
+30-19	_	every	_	_	_	_
+30-20	_	weekday	_	_	_	_
+30-21	_	she	abstract[36]	new[36]	coref	30-38[36_37]
+30-22	_	rose	_	_	_	_
+30-23	_	at	_	_	_	_
+30-24	_	seven	_	_	_	_
+30-25	_	and	_	_	_	_
+30-26	_	biked	_	_	_	_
+30-27	_	four	_	_	_	_
+30-28	_	miles	_	_	_	_
+30-29	_	into	_	_	_	_
+30-30	_	town	_	_	_	_
+30-31	_	,	_	_	_	_
+30-32	_	and	_	_	_	_
+30-33	_	then	_	_	_	_
+30-34	_	back	_	_	_	_
+30-35	_	again	_	_	_	_
+30-36	_	on	_	_	_	_
+30-37	_	her	abstract[37]	new[37]	coref	31-3[37_38]
+30-38	_	bike	_	_	_	_
+30-39	_	,	_	_	_	_
+30-40	_	four	_	_	_	_
+30-41	_	miles	_	_	_	_
+30-42	_	uphill	_	_	_	_
+30-43	_	to	_	_	_	_
+30-44	_	the	abstract[119]	new[119]	_	_
+30-45	_	farm	abstract[119]	new[119]	_	_
+30-46	_	.	_	_	_	_
+
+#Text=Carroll met Rachel in the Jellicoh College library , where he had a part - time job .
+31-1	_	Carroll	abstract[85]	new[85]	coref	31-11[85_86]
+31-2	_	met	_	_	_	_
+31-3	_	Rachel	abstract[38]	new[38]	coref	32-24[38_39]
+31-4	_	in	_	_	_	_
+31-5	_	the	_	_	_	_
+31-6	_	Jellicoh	abstract[121]	new[121]	_	_
+31-7	_	College	abstract[121]	new[121]	_	_
+31-8	_	library	_	_	_	_
+31-9	_	,	_	_	_	_
+31-10	_	where	_	_	_	_
+31-11	_	he	abstract[86]	new[86]	coref	32-1[86_87]
+31-12	_	had	_	_	_	_
+31-13	_	a	_	_	_	_
+31-14	_	part	_	_	_	_
+31-15	_	-	_	_	_	_
+31-16	_	time	_	_	_	_
+31-17	_	job	_	_	_	_
+31-18	_	.	_	_	_	_
+
+#Text=He sat at the checkout desk , stamping books and reading Tristram Shandy for a graduate class ; he was almost asleep when someone said , " Excuse me . "
+32-1	_	He	abstract[87]	new[87]	coref	32-19[87_88]
+32-2	_	sat	_	_	_	_
+32-3	_	at	_	_	_	_
+32-4	_	the	abstract[122]	new[122]	coref	34-6[122_123]
+32-5	_	checkout	abstract[122]	new[122]	_	_
+32-6	_	desk	abstract[122]	new[122]	_	_
+32-7	_	,	_	_	_	_
+32-8	_	stamping	_	_	_	_
+32-9	_	books	_	_	_	_
+32-10	_	and	_	_	_	_
+32-11	_	reading	_	_	_	_
+32-12	_	Tristram	_	_	_	_
+32-13	_	Shandy	_	_	_	_
+32-14	_	for	_	_	_	_
+32-15	_	a	_	_	_	_
+32-16	_	graduate	_	_	_	_
+32-17	_	class	_	_	_	_
+32-18	_	;	_	_	_	_
+32-19	_	he	abstract[88]	new[88]	coref	33-1[88_89]
+32-20	_	was	_	_	_	_
+32-21	_	almost	_	_	_	_
+32-22	_	asleep	_	_	_	_
+32-23	_	when	_	_	_	_
+32-24	_	someone	abstract[39]	new[39]	coref	32-29[39_40]
+32-25	_	said	_	_	_	_
+32-26	_	,	_	_	_	_
+32-27	_	"	_	_	_	_
+32-28	_	Excuse	_	_	_	_
+32-29	_	me	abstract[40]	new[40]	coref	34-1[40_41]
+32-30	_	.	_	_	_	_
+32-31	_	"	_	_	_	_
+
+#Text=He looked up .
+33-1	_	He	abstract[89]	new[89]	coref	36-9[89_90]
+33-2	_	looked	_	_	_	_
+33-3	_	up	_	_	_	_
+33-4	_	.	_	_	_	_
+
+#Text=The girl who stood before the tall desk was red - headed .
+34-1	_	The	abstract[41]	new[41]	coref	35-9[41_42]
+34-2	_	girl	abstract[41]	new[41]	_	_
+34-3	_	who	abstract[41]	new[41]	_	_
+34-4	_	stood	abstract[41]	new[41]	_	_
+34-5	_	before	abstract[41]	new[41]	_	_
+34-6	_	the	abstract[41]|abstract[123]	new[41]|new[123]	coref	38-7[123_124]
+34-7	_	tall	abstract[41]|abstract[123]	new[41]|new[123]	_	_
+34-8	_	desk	abstract[41]|abstract[123]	new[41]|new[123]	_	_
+34-9	_	was	_	_	_	_
+34-10	_	red	_	_	_	_
+34-11	_	-	_	_	_	_
+34-12	_	headed	_	_	_	_
+34-13	_	.	_	_	_	_
+
+#Text=Sunlight streaming in through a high window opposite her lit up the fine hairs on her arm , the embroidered flowers on the collar of her white shirt .
+35-1	_	Sunlight	abstract[125]	new[125]	coref	36-1[125_126]
+35-2	_	streaming	abstract[125]	new[125]	_	_
+35-3	_	in	abstract[125]	new[125]	_	_
+35-4	_	through	abstract[125]	new[125]	_	_
+35-5	_	a	abstract[125]	new[125]	_	_
+35-6	_	high	abstract[125]	new[125]	_	_
+35-7	_	window	abstract[125]	new[125]	_	_
+35-8	_	opposite	abstract[125]	new[125]	_	_
+35-9	_	her	abstract[42]|abstract[125]	new[42]|new[125]	coref	35-16[42_43]
+35-10	_	lit	_	_	_	_
+35-11	_	up	_	_	_	_
+35-12	_	the	_	_	_	_
+35-13	_	fine	_	_	_	_
+35-14	_	hairs	_	_	_	_
+35-15	_	on	_	_	_	_
+35-16	_	her	abstract[43]	new[43]	coref	35-26[43_44]
+35-17	_	arm	_	_	_	_
+35-18	_	,	_	_	_	_
+35-19	_	the	_	_	_	_
+35-20	_	embroidered	_	_	_	_
+35-21	_	flowers	_	_	_	_
+35-22	_	on	_	_	_	_
+35-23	_	the	_	_	_	_
+35-24	_	collar	_	_	_	_
+35-25	_	of	_	_	_	_
+35-26	_	her	abstract[44]	new[44]	coref	36-4[44_45]
+35-27	_	white	_	_	_	_
+35-28	_	shirt	_	_	_	_
+35-29	_	.	_	_	_	_
+
+#Text=The sunlight turned her hair to fire and Carroll found it difficult to look directly at her .
+36-1	_	The	abstract[126]	new[126]	_	_
+36-2	_	sunlight	abstract[126]	new[126]	_	_
+36-3	_	turned	_	_	_	_
+36-4	_	her	abstract[45]	new[45]	coref	36-17[45_46]
+36-5	_	hair	_	_	_	_
+36-6	_	to	_	_	_	_
+36-7	_	fire	_	_	_	_
+36-8	_	and	_	_	_	_
+36-9	_	Carroll	abstract[90]	new[90]	coref	37-3[90_91]
+36-10	_	found	_	_	_	_
+36-11	_	it	_	_	_	_
+36-12	_	difficult	_	_	_	_
+36-13	_	to	_	_	_	_
+36-14	_	look	_	_	_	_
+36-15	_	directly	_	_	_	_
+36-16	_	at	_	_	_	_
+36-17	_	her	abstract[46]	new[46]	coref	37-5[46_47]
+36-18	_	.	_	_	_	_
+
+#Text=" Can I help you ? " he said .
+37-1	_	"	_	_	_	_
+37-2	_	Can	_	_	_	_
+37-3	_	I	abstract[91]	new[91]	coref	37-8[91_92]
+37-4	_	help	_	_	_	_
+37-5	_	you	abstract[47]	new[47]	coref	38-1[47_48]
+37-6	_	?	_	_	_	_
+37-7	_	"	_	_	_	_
+37-8	_	he	abstract[92]	new[92]	coref	38-11[92_93]
+37-9	_	said	_	_	_	_
+37-10	_	.	_	_	_	_
+
+#Text=She placed a shredded rectangle on the desk , and Carroll picked it up between his thumb and forefinger .
+38-1	_	She	abstract[48]	new[48]	coref	41-2[48_49]
+38-2	_	placed	_	_	_	_
+38-3	_	a	abstract[127]	new[127]	coref	38-13[127_128]
+38-4	_	shredded	abstract[127]	new[127]	_	_
+38-5	_	rectangle	abstract[127]	new[127]	_	_
+38-6	_	on	_	_	_	_
+38-7	_	the	abstract[124]	new[124]	_	_
+38-8	_	desk	abstract[124]	new[124]	_	_
+38-9	_	,	_	_	_	_
+38-10	_	and	_	_	_	_
+38-11	_	Carroll	abstract[93]	new[93]	coref	38-16[93_94]
+38-12	_	picked	_	_	_	_
+38-13	_	it	abstract[128]	new[128]	_	_
+38-14	_	up	_	_	_	_
+38-15	_	between	_	_	_	_
+38-16	_	his	abstract[94]	new[94]	coref	42-12[94_95]
+38-17	_	thumb	_	_	_	_
+38-18	_	and	_	_	_	_
+38-19	_	forefinger	_	_	_	_
+38-20	_	.	_	_	_	_
+
+#Text=Pages hung in tatters from the sodden blue spine .
+39-1	_	Pages	_	_	_	_
+39-2	_	hung	_	_	_	_
+39-3	_	in	_	_	_	_
+39-4	_	tatters	_	_	_	_
+39-5	_	from	_	_	_	_
+39-6	_	the	_	_	_	_
+39-7	_	sodden	_	_	_	_
+39-8	_	blue	_	_	_	_
+39-9	_	spine	_	_	_	_
+39-10	_	.	_	_	_	_
+
+#Text=Title , binding , and covers had been gnawed away .
+40-1	_	Title	_	_	_	_
+40-2	_	,	_	_	_	_
+40-3	_	binding	_	_	_	_
+40-4	_	,	_	_	_	_
+40-5	_	and	_	_	_	_
+40-6	_	covers	_	_	_	_
+40-7	_	had	_	_	_	_
+40-8	_	been	_	_	_	_
+40-9	_	gnawed	_	_	_	_
+40-10	_	away	_	_	_	_
+40-11	_	.	_	_	_	_
+
+#Text=" I need to pay for a damaged book , " she said .
+41-1	_	"	_	_	_	_
+41-2	_	I	abstract[49]	new[49]	coref	41-12[49_50]
+41-3	_	need	_	_	_	_
+41-4	_	to	_	_	_	_
+41-5	_	pay	_	_	_	_
+41-6	_	for	_	_	_	_
+41-7	_	a	abstract[129]	new[129]	coref	42-9[129_130]
+41-8	_	damaged	abstract[129]	new[129]	_	_
+41-9	_	book	abstract[129]	new[129]	_	_
+41-10	_	,	_	_	_	_
+41-11	_	"	_	_	_	_
+41-12	_	she	abstract[50]	new[50]	coref	42-6[50_51]
+41-13	_	said	_	_	_	_
+41-14	_	.	_	_	_	_
+
+#Text=" What happened ? Did your dog eat it ? " he said , making a joke .
+42-1	_	"	_	_	_	_
+42-2	_	What	_	_	_	_
+42-3	_	happened	_	_	_	_
+42-4	_	?	_	_	_	_
+42-5	_	Did	_	_	_	_
+42-6	_	your	abstract[51]	new[51]	coref	43-5[51_52]
+42-7	_	dog	_	_	_	_
+42-8	_	eat	_	_	_	_
+42-9	_	it	abstract[130]	new[130]	_	_
+42-10	_	?	_	_	_	_
+42-11	_	"	_	_	_	_
+42-12	_	he	abstract[95]	new[95]	coref	44-8[95_96]
+42-13	_	said	_	_	_	_
+42-14	_	,	_	_	_	_
+42-15	_	making	_	_	_	_
+42-16	_	a	_	_	_	_
+42-17	_	joke	_	_	_	_
+42-18	_	.	_	_	_	_
+
+#Text=" Yes , " she said , and smiled .
+43-1	_	"	_	_	_	_
+43-2	_	Yes	_	_	_	_
+43-3	_	,	_	_	_	_
+43-4	_	"	_	_	_	_
+43-5	_	she	abstract[52]	new[52]	coref	44-4[52_53]
+43-6	_	said	_	_	_	_
+43-7	_	,	_	_	_	_
+43-8	_	and	_	_	_	_
+43-9	_	smiled	_	_	_	_
+43-10	_	.	_	_	_	_
+
+#Text=" What 's your name ? " Carroll said .
+44-1	_	"	_	_	_	_
+44-2	_	What	_	_	_	_
+44-3	_	's	_	_	_	_
+44-4	_	your	abstract[53]	new[53]	_	_
+44-5	_	name	_	_	_	_
+44-6	_	?	_	_	_	_
+44-7	_	"	_	_	_	_
+44-8	_	Carroll	abstract[96]	new[96]	coref	45-3[96_97]
+44-9	_	said	_	_	_	_
+44-10	_	.	_	_	_	_
+
+#Text=Already , he thought he might be in love .
+45-1	_	Already	_	_	_	_
+45-2	_	,	_	_	_	_
+45-3	_	he	abstract[97]	new[97]	coref	45-5[97_98]
+45-4	_	thought	_	_	_	_
+45-5	_	he	abstract[98]	new[98]	_	_
+45-6	_	might	_	_	_	_
+45-7	_	be	_	_	_	_
+45-8	_	in	_	_	_	_
+45-9	_	love	_	_	_	_
+45-10	_	.	_	_	_	_
+

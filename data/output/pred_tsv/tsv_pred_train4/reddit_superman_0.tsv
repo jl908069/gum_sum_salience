@@ -318,32 +318,14 @@
 16-37	_	audience	_	_	_	_
 16-38	_	.	_	_	_	_
 
-#Text=My cousin has just had a stroke and is still recovering of some form of illness . Does her speech improve by taking children 's books ?
-17-1	_	My	abstract[28]	new[28]	coref	17-19[28_29]
-17-2	_	cousin	abstract[28]	new[28]	_	_
-17-3	_	has	_	_	_	_
-17-4	_	just	_	_	_	_
-17-5	_	had	_	_	_	_
-17-6	_	a	_	_	_	_
-17-7	_	stroke	_	_	_	_
-17-8	_	and	_	_	_	_
-17-9	_	is	_	_	_	_
-17-10	_	still	_	_	_	_
-17-11	_	recovering	_	_	_	_
-17-12	_	of	_	_	_	_
-17-13	_	some	_	_	_	_
-17-14	_	form	_	_	_	_
-17-15	_	of	_	_	_	_
-17-16	_	illness	_	_	_	_
-17-17	_	.	_	_	_	_
-17-18	_	Does	_	_	_	_
-17-19	_	her	abstract[29]	new[29]	_	_
-17-20	_	speech	_	_	_	_
-17-21	_	improve	_	_	_	_
-17-22	_	by	_	_	_	_
-17-23	_	taking	_	_	_	_
-17-24	_	children	_	_	_	_
-17-25	_	's	_	_	_	_
-17-26	_	books	_	_	_	_
-17-27	_	?	_	_	_	_
+#Text=Did your cousin make you feel at ease ?
+17-1	_	Did	_	_	_	_
+17-2	_	your	abstract[28]	new[28]	coref	17-5[28_29]
+17-3	_	cousin	_	_	_	_
+17-4	_	make	_	_	_	_
+17-5	_	you	abstract[29]	new[29]	_	_
+17-6	_	feel	_	_	_	_
+17-7	_	at	_	_	_	_
+17-8	_	ease	_	_	_	_
+17-9	_	?	_	_	_	_
 

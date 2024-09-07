@@ -350,20 +350,20 @@
 17-3	_	be	_	_	_	_
 17-4	_	defined	_	_	_	_
 17-5	_	as	_	_	_	_
-17-6	_	personal	abstract[93]	new[93]	coref	18-4[93_94]
-17-7	_	perseverance	abstract[93]	new[93]	_	_
-17-8	_	toward	abstract[93]	new[93]	_	_
-17-9	_	a	abstract[93]	new[93]	_	_
-17-10	_	task	abstract[93]	new[93]	_	_
-17-11	_	or	abstract[93]	new[93]	_	_
-17-12	_	goal	abstract[93]	new[93]	_	_
+17-6	_	personal	abstract[92]	new[92]	coref	18-4[92_93]
+17-7	_	perseverance	abstract[92]	new[92]	_	_
+17-8	_	toward	abstract[92]	new[92]	_	_
+17-9	_	a	abstract[92]	new[92]	_	_
+17-10	_	task	abstract[92]	new[92]	_	_
+17-11	_	or	abstract[92]	new[92]	_	_
+17-12	_	goal	abstract[92]	new[92]	_	_
 17-13	_	.	_	_	_	_
 
 #Text=In learning , it can be thought of as a trait that drives a person to keep trying until they succeed .
 18-1	_	In	_	_	_	_
 18-2	_	learning	_	_	_	_
 18-3	_	,	_	_	_	_
-18-4	_	it	abstract[94]	new[94]	coref	19-1[94_95]
+18-4	_	it	abstract[93]	new[93]	coref	19-1[93_94]
 18-5	_	can	_	_	_	_
 18-6	_	be	_	_	_	_
 18-7	_	thought	_	_	_	_
@@ -373,18 +373,18 @@
 18-11	_	trait	_	_	_	_
 18-12	_	that	_	_	_	_
 18-13	_	drives	_	_	_	_
-18-14	_	a	abstract[96]	new[96]	coref	18-20[96_97]
-18-15	_	person	abstract[96]	new[96]	_	_
+18-14	_	a	abstract[95]	new[95]	coref	18-20[95_96]
+18-15	_	person	abstract[95]	new[95]	_	_
 18-16	_	to	_	_	_	_
 18-17	_	keep	_	_	_	_
 18-18	_	trying	_	_	_	_
 18-19	_	until	_	_	_	_
-18-20	_	they	abstract[97]	new[97]	_	_
+18-20	_	they	abstract[96]	new[96]	_	_
 18-21	_	succeed	_	_	_	_
 18-22	_	.	_	_	_	_
 
 #Text=It is not tied to talent or ability , but is simply a tendency to not give up until something is finished or accomplished .
-19-1	_	It	abstract[95]	new[95]	_	_
+19-1	_	It	abstract[94]	new[94]	_	_
 19-2	_	is	_	_	_	_
 19-3	_	not	_	_	_	_
 19-4	_	tied	_	_	_	_
@@ -415,14 +415,14 @@
 20-2	_	2.3	_	_	_	_
 
 #Text=U.S. Army veteran and captain of the U.S. Invictus team , Will Reynolds , races to the finish line .
-21-1	_	U.S.	abstract[98]	new[98]	coref	21-8[98_99]
+21-1	_	U.S.	abstract[97]	new[97]	coref	21-8[97_98]
 21-2	_	Army	_	_	_	_
 21-3	_	veteran	_	_	_	_
 21-4	_	and	_	_	_	_
 21-5	_	captain	_	_	_	_
 21-6	_	of	_	_	_	_
 21-7	_	the	_	_	_	_
-21-8	_	U.S.	abstract[99]	new[99]	_	_
+21-8	_	U.S.	abstract[98]	new[98]	_	_
 21-9	_	Invictus	_	_	_	_
 21-10	_	team	_	_	_	_
 21-11	_	,	_	_	_	_
@@ -459,7 +459,7 @@
 23-2	_	study	_	_	_	_
 23-3	_	showed	_	_	_	_
 23-4	_	that	_	_	_	_
-23-5	_	grit	abstract[100]	new[100]	coref	24-1[100_101]
+23-5	_	grit	abstract[99]	new[99]	coref	24-1[99_100]
 23-6	_	and	_	_	_	_
 23-7	_	perseverance	_	_	_	_
 23-8	_	were	_	_	_	_
@@ -477,9 +477,9 @@
 23-20	_	.	_	_	_	_
 
 #Text=This personality trait was defined as “ grit ” by the psychologist Angela Duckworth . 1
-24-1	_	This	abstract[101]	new[101]	_	_
-24-2	_	personality	abstract[101]	new[101]	_	_
-24-3	_	trait	abstract[101]	new[101]	_	_
+24-1	_	This	abstract[100]	new[100]	_	_
+24-2	_	personality	abstract[100]	new[100]	_	_
+24-3	_	trait	abstract[100]	new[100]	_	_
 24-4	_	was	_	_	_	_
 24-5	_	defined	_	_	_	_
 24-6	_	as	_	_	_	_
@@ -487,19 +487,19 @@
 24-8	_	grit	_	_	_	_
 24-9	_	”	_	_	_	_
 24-10	_	by	_	_	_	_
-24-11	_	the	abstract[102]	new[102]	coref	25-6[102_103]
-24-12	_	psychologist	abstract[102]	new[102]	_	_
-24-13	_	Angela	abstract[102]	new[102]	_	_
-24-14	_	Duckworth	abstract[102]	new[102]	_	_
+24-11	_	the	abstract[101]	new[101]	coref	25-6[101_102]
+24-12	_	psychologist	abstract[101]	new[101]	_	_
+24-13	_	Angela	abstract[101]	new[101]	_	_
+24-14	_	Duckworth	abstract[101]	new[101]	_	_
 24-15	_	.	_	_	_	_
 24-16	_	1	_	_	_	_
 
 #Text=In a 2007 study Duckworth and colleagues found that individuals with high grit were able to maintain motivation in learning tasks despite failures .
 25-1	_	In	_	_	_	_
-25-2	_	a	abstract[105]	new[105]	coref	26-1[105_106]
-25-3	_	2007	abstract[105]	new[105]	_	_
-25-4	_	study	abstract[105]	new[105]	_	_
-25-5	_	Duckworth	abstract[103]	new[103]	coref	28-1[103_104]
+25-2	_	a	abstract[104]	new[104]	coref	26-1[104_105]
+25-3	_	2007	abstract[104]	new[104]	_	_
+25-4	_	study	abstract[104]	new[104]	_	_
+25-5	_	Duckworth	abstract[102]	new[102]	coref	28-1[102_103]
 25-6	_	and	_	_	_	_
 25-7	_	colleagues	_	_	_	_
 25-8	_	found	_	_	_	_
@@ -521,8 +521,8 @@
 25-24	_	.	_	_	_	_
 
 #Text=The study examined a cross section of learning environments , such as GPA scores in Ivy League universities , dropout rates at West Point , rankings in the National Spelling Bee , and general educational attainment for adults .
-26-1	_	The	abstract[106]	new[106]	_	_
-26-2	_	study	abstract[106]	new[106]	_	_
+26-1	_	The	abstract[105]	new[105]	_	_
+26-2	_	study	abstract[105]	new[105]	_	_
 26-3	_	examined	_	_	_	_
 26-4	_	a	_	_	_	_
 26-5	_	cross	_	_	_	_
@@ -586,10 +586,10 @@
 27-22	_	.	_	_	_	_
 
 #Text=Duckworth , A. L. ; Peterson , C. ; Matthews , M. D. ; Kelly , D. R. ( June 2007 ) . " Grit : Perseverance and passion for long - term goals " .
-28-1	_	Duckworth	abstract[104]	new[104]	_	_
-28-2	_	,	abstract[104]	new[104]	_	_
-28-3	_	A.	abstract[104]	new[104]	_	_
-28-4	_	L.	abstract[104]	new[104]	_	_
+28-1	_	Duckworth	abstract[103]	new[103]	_	_
+28-2	_	,	abstract[103]	new[103]	_	_
+28-3	_	A.	abstract[103]	new[103]	_	_
+28-4	_	L.	abstract[103]	new[103]	_	_
 28-5	_	;	_	_	_	_
 28-6	_	Peterson	_	_	_	_
 28-7	_	,	_	_	_	_
@@ -651,10 +651,10 @@
 30-2	_	Grit	_	_	_	_
 
 #Text=The concept of grit is an easy one to dismiss as something taken for granted .
-31-1	_	The	abstract[107]	new[107]	coref	33-7[107_108]
-31-2	_	concept	abstract[107]	new[107]	_	_
-31-3	_	of	abstract[107]	new[107]	_	_
-31-4	_	grit	abstract[107]	new[107]	_	_
+31-1	_	The	abstract[106]	new[106]	coref	33-7[106_107]
+31-2	_	concept	abstract[106]	new[106]	_	_
+31-3	_	of	abstract[106]	new[106]	_	_
+31-4	_	grit	abstract[106]	new[106]	_	_
 31-5	_	is	_	_	_	_
 31-6	_	an	_	_	_	_
 31-7	_	easy	_	_	_	_
@@ -733,32 +733,32 @@
 33-4	_	we	abstract[90]	new[90]	coref	34-4[90_91]
 33-5	_	all	abstract[90]	new[90]	_	_
 33-6	_	understand	_	_	_	_
-33-7	_	the	abstract[108]	new[108]	coref	33-13[108_109]
-33-8	_	concept	abstract[108]	new[108]	_	_
+33-7	_	the	abstract[107]	new[107]	coref	33-13[107_108]
+33-8	_	concept	abstract[107]	new[107]	_	_
 33-9	_	,	_	_	_	_
 33-10	_	but	_	_	_	_
 33-11	_	actually	_	_	_	_
 33-12	_	applying	_	_	_	_
-33-13	_	it	abstract[109]	new[109]	_	_
+33-13	_	it	abstract[108]	new[108]	_	_
 33-14	_	takes	_	_	_	_
 33-15	_	work	_	_	_	_
 33-16	_	.	_	_	_	_
 
 #Text=If the task we are trying to complete is a difficult one , it can take a lot of work .
 34-1	_	If	_	_	_	_
-34-2	_	the	abstract[110]	new[110]	coref	34-14[110_111]
-34-3	_	task	abstract[110]	new[110]	_	_
-34-4	_	we	abstract[91]|abstract[110]	new[91]|new[110]	coref	51-14[91_92]
-34-5	_	are	abstract[110]	new[110]	_	_
-34-6	_	trying	abstract[110]	new[110]	_	_
-34-7	_	to	abstract[110]	new[110]	_	_
-34-8	_	complete	abstract[110]	new[110]	_	_
+34-2	_	the	abstract[109]	new[109]	coref	34-14[109_110]
+34-3	_	task	abstract[109]	new[109]	_	_
+34-4	_	we	abstract[91]|abstract[109]	new[91]|new[109]	_	_
+34-5	_	are	abstract[109]	new[109]	_	_
+34-6	_	trying	abstract[109]	new[109]	_	_
+34-7	_	to	abstract[109]	new[109]	_	_
+34-8	_	complete	abstract[109]	new[109]	_	_
 34-9	_	is	_	_	_	_
 34-10	_	a	_	_	_	_
 34-11	_	difficult	_	_	_	_
 34-12	_	one	_	_	_	_
 34-13	_	,	_	_	_	_
-34-14	_	it	abstract[111]	new[111]	_	_
+34-14	_	it	abstract[110]	new[110]	_	_
 34-15	_	can	_	_	_	_
 34-16	_	take	_	_	_	_
 34-17	_	a	_	_	_	_
@@ -777,26 +777,26 @@
 35-7	_	is	_	_	_	_
 35-8	_	to	_	_	_	_
 35-9	_	adopt	_	_	_	_
-35-10	_	an	abstract[112]	new[112]	coref	36-2[112_113]
-35-11	_	attitude	abstract[112]	new[112]	_	_
-35-12	_	that	abstract[112]	new[112]	_	_
-35-13	_	looks	abstract[112]	new[112]	_	_
-35-14	_	directly	abstract[112]	new[112]	_	_
-35-15	_	to	abstract[112]	new[112]	_	_
-35-16	_	the	abstract[112]	new[112]	_	_
-35-17	_	end	abstract[112]	new[112]	_	_
-35-18	_	goal	abstract[112]	new[112]	_	_
-35-19	_	as	abstract[112]	new[112]	_	_
-35-20	_	the	abstract[112]	new[112]	_	_
-35-21	_	only	abstract[112]	new[112]	_	_
-35-22	_	acceptable	abstract[112]	new[112]	_	_
-35-23	_	outcome	abstract[112]	new[112]	_	_
+35-10	_	an	abstract[111]	new[111]	coref	36-2[111_112]
+35-11	_	attitude	abstract[111]	new[111]	_	_
+35-12	_	that	abstract[111]	new[111]	_	_
+35-13	_	looks	abstract[111]	new[111]	_	_
+35-14	_	directly	abstract[111]	new[111]	_	_
+35-15	_	to	abstract[111]	new[111]	_	_
+35-16	_	the	abstract[111]	new[111]	_	_
+35-17	_	end	abstract[111]	new[111]	_	_
+35-18	_	goal	abstract[111]	new[111]	_	_
+35-19	_	as	abstract[111]	new[111]	_	_
+35-20	_	the	abstract[111]	new[111]	_	_
+35-21	_	only	abstract[111]	new[111]	_	_
+35-22	_	acceptable	abstract[111]	new[111]	_	_
+35-23	_	outcome	abstract[111]	new[111]	_	_
 35-24	_	.	_	_	_	_
 
 #Text=With this attitude comes an acceptance that you may not succeed on the first attempt — or the nineteenth attempt .
 36-1	_	With	_	_	_	_
-36-2	_	this	abstract[113]	new[113]	_	_
-36-3	_	attitude	abstract[113]	new[113]	_	_
+36-2	_	this	abstract[112]	new[112]	_	_
+36-3	_	attitude	abstract[112]	new[112]	_	_
 36-4	_	comes	_	_	_	_
 36-5	_	an	_	_	_	_
 36-6	_	acceptance	_	_	_	_
@@ -845,37 +845,37 @@
 37-26	_	.	_	_	_	_
 
 #Text=An example of this would be studying for an exam .
-38-1	_	An	abstract[129]	new[129]	coref	47-2[129_130]
-38-2	_	example	abstract[129]	new[129]	_	_
-38-3	_	of	abstract[129]	new[129]	_	_
-38-4	_	this	abstract[129]	new[129]	_	_
+38-1	_	An	abstract[128]	new[128]	coref	47-2[128_129]
+38-2	_	example	abstract[128]	new[128]	_	_
+38-3	_	of	abstract[128]	new[128]	_	_
+38-4	_	this	abstract[128]	new[128]	_	_
 38-5	_	would	_	_	_	_
 38-6	_	be	_	_	_	_
 38-7	_	studying	_	_	_	_
 38-8	_	for	_	_	_	_
-38-9	_	an	abstract[114]	new[114]	coref	39-17[114_115]
-38-10	_	exam	abstract[114]	new[114]	_	_
+38-9	_	an	abstract[113]	new[113]	coref	39-17[113_114]
+38-10	_	exam	abstract[113]	new[113]	_	_
 38-11	_	.	_	_	_	_
 
 #Text=In your first attempt at studying you simply reread the chapters of your textbook covered in the exam .
 39-1	_	In	_	_	_	_
-39-2	_	your	abstract[24]|abstract[122]	new[24]|new[122]	coref|coref	39-7[24_25]|43-6[122_123]
-39-3	_	first	abstract[122]	new[122]	_	_
-39-4	_	attempt	abstract[122]	new[122]	_	_
-39-5	_	at	abstract[122]	new[122]	_	_
-39-6	_	studying	abstract[122]	new[122]	_	_
+39-2	_	your	abstract[24]|abstract[121]	new[24]|new[121]	coref|coref	39-7[24_25]|43-6[121_122]
+39-3	_	first	abstract[121]	new[121]	_	_
+39-4	_	attempt	abstract[121]	new[121]	_	_
+39-5	_	at	abstract[121]	new[121]	_	_
+39-6	_	studying	abstract[121]	new[121]	_	_
 39-7	_	you	abstract[25]	new[25]	coref	39-13[25_26]
 39-8	_	simply	_	_	_	_
 39-9	_	reread	_	_	_	_
-39-10	_	the	abstract[120]	new[120]	coref	41-8[120_121]
-39-11	_	chapters	abstract[120]	new[120]	_	_
-39-12	_	of	abstract[120]	new[120]	_	_
-39-13	_	your	abstract[26]|abstract[120]	new[26]|new[120]	coref	40-1[26_27]
-39-14	_	textbook	abstract[120]	new[120]	_	_
-39-15	_	covered	abstract[120]	new[120]	_	_
-39-16	_	in	abstract[120]	new[120]	_	_
-39-17	_	the	abstract[115]|abstract[120]	new[115]|new[120]	coref	40-31[115_116]
-39-18	_	exam	abstract[115]|abstract[120]	new[115]|new[120]	_	_
+39-10	_	the	abstract[119]	new[119]	coref	41-8[119_120]
+39-11	_	chapters	abstract[119]	new[119]	_	_
+39-12	_	of	abstract[119]	new[119]	_	_
+39-13	_	your	abstract[26]|abstract[119]	new[26]|new[119]	coref	40-1[26_27]
+39-14	_	textbook	abstract[119]	new[119]	_	_
+39-15	_	covered	abstract[119]	new[119]	_	_
+39-16	_	in	abstract[119]	new[119]	_	_
+39-17	_	the	abstract[114]|abstract[119]	new[114]|new[119]	coref	40-31[114_115]
+39-18	_	exam	abstract[114]|abstract[119]	new[114]|new[119]	_	_
 39-19	_	.	_	_	_	_
 
 #Text=You find that while this reinforces some of the knowledge you have gained , it does not ensure you have all the information you will need to do well on the test .
@@ -883,7 +883,7 @@
 40-2	_	find	_	_	_	_
 40-3	_	that	_	_	_	_
 40-4	_	while	_	_	_	_
-40-5	_	this	abstract[118]	new[118]	coref	40-15[118_119]
+40-5	_	this	abstract[117]	new[117]	coref	40-15[117_118]
 40-6	_	reinforces	_	_	_	_
 40-7	_	some	_	_	_	_
 40-8	_	of	_	_	_	_
@@ -893,7 +893,7 @@
 40-12	_	have	_	_	_	_
 40-13	_	gained	_	_	_	_
 40-14	_	,	_	_	_	_
-40-15	_	it	abstract[119]	new[119]	_	_
+40-15	_	it	abstract[118]	new[118]	_	_
 40-16	_	does	_	_	_	_
 40-17	_	not	_	_	_	_
 40-18	_	ensure	_	_	_	_
@@ -909,8 +909,8 @@
 40-28	_	do	_	_	_	_
 40-29	_	well	_	_	_	_
 40-30	_	on	_	_	_	_
-40-31	_	the	abstract[116]	new[116]	coref	49-30[116_117]
-40-32	_	test	abstract[116]	new[116]	_	_
+40-31	_	the	abstract[115]	new[115]	coref	49-30[115_116]
+40-32	_	test	abstract[115]	new[115]	_	_
 40-33	_	.	_	_	_	_
 
 #Text=You know that if you simply read the chapters yet again , there is no guarantee you are going to be any more successful .
@@ -921,8 +921,8 @@
 41-5	_	you	abstract[32]	new[32]	coref	41-17[32_33]
 41-6	_	simply	_	_	_	_
 41-7	_	read	_	_	_	_
-41-8	_	the	abstract[121]	new[121]	_	_
-41-9	_	chapters	abstract[121]	new[121]	_	_
+41-8	_	the	abstract[120]	new[120]	_	_
+41-9	_	chapters	abstract[120]	new[120]	_	_
 41-10	_	yet	_	_	_	_
 41-11	_	again	_	_	_	_
 41-12	_	,	_	_	_	_
@@ -958,9 +958,9 @@
 43-2	_	other	_	_	_	_
 43-3	_	words	_	_	_	_
 43-4	_	,	_	_	_	_
-43-5	_	your	abstract[36]|abstract[123]	new[36]|new[123]	coref|coref	43-25[36_37]|43-16[123_124]
-43-6	_	first	abstract[123]	new[123]	_	_
-43-7	_	attempt	abstract[123]	new[123]	_	_
+43-5	_	your	abstract[36]|abstract[122]	new[36]|new[122]	coref|coref	43-25[36_37]|43-16[122_123]
+43-6	_	first	abstract[122]	new[122]	_	_
+43-7	_	attempt	abstract[122]	new[122]	_	_
 43-8	_	was	_	_	_	_
 43-9	_	not	_	_	_	_
 43-10	_	a	_	_	_	_
@@ -968,7 +968,7 @@
 43-12	_	failure	_	_	_	_
 43-13	_	,	_	_	_	_
 43-14	_	but	_	_	_	_
-43-15	_	it	abstract[124]	new[124]	_	_
+43-15	_	it	abstract[123]	new[123]	_	_
 43-16	_	did	_	_	_	_
 43-17	_	not	_	_	_	_
 43-18	_	achieve	_	_	_	_
@@ -995,11 +995,11 @@
 44-6	_	you	abstract[39]	new[39]	coref	45-5[39_40]
 44-7	_	copy	_	_	_	_
 44-8	_	down	_	_	_	_
-44-9	_	all	abstract[133]	new[133]	coref	49-11[133_134]
-44-10	_	of	abstract[133]	new[133]	_	_
-44-11	_	the	abstract[133]	new[133]	_	_
-44-12	_	main	abstract[133]	new[133]	_	_
-44-13	_	points	abstract[133]	new[133]	_	_
+44-9	_	all	abstract[132]	new[132]	coref	49-11[132_133]
+44-10	_	of	abstract[132]	new[132]	_	_
+44-11	_	the	abstract[132]	new[132]	_	_
+44-12	_	main	abstract[132]	new[132]	_	_
+44-13	_	points	abstract[132]	new[132]	_	_
 44-14	_	onto	_	_	_	_
 44-15	_	a	_	_	_	_
 44-16	_	piece	_	_	_	_
@@ -1023,8 +1023,8 @@
 45-6	_	come	_	_	_	_
 45-7	_	back	_	_	_	_
 45-8	_	to	_	_	_	_
-45-9	_	your	abstract[41]|abstract[125]	new[41]|new[125]	coref|coref	45-18[41_42]|45-24[125_126]
-45-10	_	list	abstract[125]	new[125]	_	_
+45-9	_	your	abstract[41]|abstract[124]	new[41]|new[124]	coref|coref	45-18[41_42]|45-24[124_125]
+45-10	_	list	abstract[124]	new[124]	_	_
 45-11	_	and	_	_	_	_
 45-12	_	write	_	_	_	_
 45-13	_	down	_	_	_	_
@@ -1038,8 +1038,8 @@
 45-21	_	each	_	_	_	_
 45-22	_	item	_	_	_	_
 45-23	_	on	_	_	_	_
-45-24	_	your	abstract[43]|abstract[126]	new[43]|new[126]	coref|coref	46-8[43_44]|48-16[126_127]
-45-25	_	list	abstract[126]	new[126]	_	_
+45-24	_	your	abstract[43]|abstract[125]	new[43]|new[125]	coref|coref	46-8[43_44]|48-16[125_126]
+45-25	_	list	abstract[125]	new[125]	_	_
 45-26	_	.	_	_	_	_
 
 #Text=This accomplishes two things : first , you are able to immediately spot areas where you need to learn more , and second , you can check your summaries against the text to make certain what you know is correct and adequate .
@@ -1089,8 +1089,8 @@
 
 #Text=In this example , while you may not have yet achieved complete success , you will have learned what you need to do next .
 47-1	_	In	_	_	_	_
-47-2	_	this	abstract[130]	new[130]	_	_
-47-3	_	example	abstract[130]	new[130]	_	_
+47-2	_	this	abstract[129]	new[129]	_	_
+47-3	_	example	abstract[129]	new[129]	_	_
 47-4	_	,	_	_	_	_
 47-5	_	while	_	_	_	_
 47-6	_	you	abstract[49]	new[49]	coref	47-15[49_50]
@@ -1121,17 +1121,17 @@
 48-4	_	fashion	_	_	_	_
 48-5	_	,	_	_	_	_
 48-6	_	for	_	_	_	_
-48-7	_	your	abstract[52]|abstract[131]	new[52]|new[131]	coref|coref	48-11[52_53]|49-1[131_132]
-48-8	_	next	abstract[131]	new[131]	_	_
-48-9	_	try	abstract[131]	new[131]	_	_
+48-7	_	your	abstract[52]|abstract[130]	new[52]|new[130]	coref|coref	48-11[52_53]|49-1[130_131]
+48-8	_	next	abstract[130]	new[130]	_	_
+48-9	_	try	abstract[130]	new[130]	_	_
 48-10	_	,	_	_	_	_
 48-11	_	you	abstract[53]	new[53]	coref	48-16[53_54]
 48-12	_	study	_	_	_	_
 48-13	_	those	_	_	_	_
 48-14	_	items	_	_	_	_
 48-15	_	on	_	_	_	_
-48-16	_	your	abstract[54]|abstract[127]	new[54]|new[127]	coref|coref	48-19[54_55]|48-33[127_128]
-48-17	_	list	abstract[127]	new[127]	_	_
+48-16	_	your	abstract[54]|abstract[126]	new[54]|new[126]	coref|coref	48-19[54_55]|48-33[126_127]
+48-17	_	list	abstract[126]	new[126]	_	_
 48-18	_	where	_	_	_	_
 48-19	_	you	abstract[55]	new[55]	coref	48-21[55_56]
 48-20	_	found	_	_	_	_
@@ -1147,14 +1147,14 @@
 48-30	_	you	abstract[57]	new[57]	coref	48-33[57_58]
 48-31	_	go	_	_	_	_
 48-32	_	through	_	_	_	_
-48-33	_	your	abstract[58]|abstract[128]	new[58]|new[128]	coref	49-3[58_59]
-48-34	_	list	abstract[128]	new[128]	_	_
+48-33	_	your	abstract[58]|abstract[127]	new[58]|new[127]	coref	49-3[58_59]
+48-34	_	list	abstract[127]	new[127]	_	_
 48-35	_	again	_	_	_	_
 48-36	_	.	_	_	_	_
 
 #Text=This time you are able to write down summaries of all the important points , and you are confident you have the knowledge you need to do well on the exam .
-49-1	_	This	abstract[132]	new[132]	_	_
-49-2	_	time	abstract[132]	new[132]	_	_
+49-1	_	This	abstract[131]	new[131]	_	_
+49-2	_	time	abstract[131]	new[131]	_	_
 49-3	_	you	abstract[59]	new[59]	coref	49-17[59_60]
 49-4	_	are	_	_	_	_
 49-5	_	able	_	_	_	_
@@ -1163,10 +1163,10 @@
 49-8	_	down	_	_	_	_
 49-9	_	summaries	_	_	_	_
 49-10	_	of	_	_	_	_
-49-11	_	all	abstract[134]	new[134]	_	_
-49-12	_	the	abstract[134]	new[134]	_	_
-49-13	_	important	abstract[134]	new[134]	_	_
-49-14	_	points	abstract[134]	new[134]	_	_
+49-11	_	all	abstract[133]	new[133]	_	_
+49-12	_	the	abstract[133]	new[133]	_	_
+49-13	_	important	abstract[133]	new[133]	_	_
+49-14	_	points	abstract[133]	new[133]	_	_
 49-15	_	,	_	_	_	_
 49-16	_	and	_	_	_	_
 49-17	_	you	abstract[60]	new[60]	coref	49-20[60_61]
@@ -1182,8 +1182,8 @@
 49-27	_	do	_	_	_	_
 49-28	_	well	_	_	_	_
 49-29	_	on	_	_	_	_
-49-30	_	the	abstract[117]	new[117]	_	_
-49-31	_	exam	abstract[117]	new[117]	_	_
+49-30	_	the	abstract[116]	new[116]	_	_
+49-31	_	exam	abstract[116]	new[116]	_	_
 49-32	_	.	_	_	_	_
 
 #Text=After this , you still do not stop , but instead you change your approach to use other methods that keep what you have learned fresh in your mind .
@@ -1218,22 +1218,26 @@
 50-29	_	mind	_	_	_	_
 50-30	_	.	_	_	_	_
 
-#Text=Identify all the new insights about moral theory and what kind of theory we should adopt .
-51-1	_	Identify	_	_	_	_
-51-2	_	all	_	_	_	_
-51-3	_	the	_	_	_	_
-51-4	_	new	_	_	_	_
-51-5	_	insights	_	_	_	_
-51-6	_	about	_	_	_	_
-51-7	_	moral	_	_	_	_
-51-8	_	theory	_	_	_	_
-51-9	_	and	_	_	_	_
-51-10	_	what	_	_	_	_
-51-11	_	kind	_	_	_	_
-51-12	_	of	_	_	_	_
-51-13	_	theory	_	_	_	_
-51-14	_	we	abstract[92]	new[92]	_	_
-51-15	_	should	_	_	_	_
-51-16	_	adopt	_	_	_	_
-51-17	_	.	_	_	_	_
+#Text=On evolutionary ethics , we are dealing with questions about the meaning of morals in philosophical disciplines at the time .
+51-1	_	On	_	_	_	_
+51-2	_	evolutionary	_	_	_	_
+51-3	_	ethics	_	_	_	_
+51-4	_	,	_	_	_	_
+51-5	_	we	_	_	_	_
+51-6	_	are	_	_	_	_
+51-7	_	dealing	_	_	_	_
+51-8	_	with	_	_	_	_
+51-9	_	questions	_	_	_	_
+51-10	_	about	_	_	_	_
+51-11	_	the	_	_	_	_
+51-12	_	meaning	_	_	_	_
+51-13	_	of	_	_	_	_
+51-14	_	morals	_	_	_	_
+51-15	_	in	_	_	_	_
+51-16	_	philosophical	_	_	_	_
+51-17	_	disciplines	_	_	_	_
+51-18	_	at	_	_	_	_
+51-19	_	the	_	_	_	_
+51-20	_	time	_	_	_	_
+51-21	_	.	_	_	_	_
 

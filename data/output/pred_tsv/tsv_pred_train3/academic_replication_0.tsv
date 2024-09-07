@@ -852,13 +852,13 @@
 20-38	_	and	_	_	_	_
 20-39	_	extent	_	_	_	_
 20-40	_	of	_	_	_	_
-20-41	_	reproducibility	abstract[55]	new[55]	coref	24-10[55_56]
-20-42	_	of	abstract[55]	new[55]	_	_
-20-43	_	the	abstract[55]	new[55]	_	_
-20-44	_	findings	abstract[55]	new[55]	_	_
-20-45	_	of	abstract[55]	new[55]	_	_
-20-46	_	initial	abstract[55]	new[55]	_	_
-20-47	_	studies	abstract[55]	new[55]	_	_
+20-41	_	reproducibility	abstract[54]	new[54]	coref	24-10[54_55]
+20-42	_	of	abstract[54]	new[54]	_	_
+20-43	_	the	abstract[54]	new[54]	_	_
+20-44	_	findings	abstract[54]	new[54]	_	_
+20-45	_	of	abstract[54]	new[54]	_	_
+20-46	_	initial	abstract[54]	new[54]	_	_
+20-47	_	studies	abstract[54]	new[54]	_	_
 20-48	_	.	_	_	_	_
 
 #Text=To gain insight into these issues in the context of L2 research , the systematic review provides a synthesis of L2 studies in journal articles that self - labeled as replications .
@@ -902,7 +902,7 @@
 22-4	_	and	_	_	_	_
 22-5	_	methods	_	_	_	_
 22-6	_	of	_	_	_	_
-22-7	_	the	abstract[50]	new[50]	coref	26-18[50_51]
+22-7	_	the	abstract[50]	new[50]	_	_
 22-8	_	systematic	abstract[50]	new[50]	_	_
 22-9	_	review	abstract[50]	new[50]	_	_
 22-10	_	were	_	_	_	_
@@ -957,9 +957,9 @@
 23-28	_	out	_	_	_	_
 23-29	_	multisite	_	_	_	_
 23-30	_	(	_	_	_	_
-23-31	_	Morgan	abstract[52]	new[52]	coref	23-48[52_53]
-23-32	_	-	abstract[52]	new[52]	_	_
-23-33	_	Short	abstract[52]	new[52]	_	_
+23-31	_	Morgan	abstract[51]	new[51]	coref	23-48[51_52]
+23-32	_	-	abstract[51]	new[51]	_	_
+23-33	_	Short	abstract[51]	new[51]	_	_
 23-34	_	et	_	_	_	_
 23-35	_	al.	_	_	_	_
 23-36	_	,	_	_	_	_
@@ -974,9 +974,9 @@
 23-45	_	-	_	_	_	_
 23-46	_	Stutenberg	_	_	_	_
 23-47	_	&	_	_	_	_
-23-48	_	Morgan	abstract[53]	new[53]	coref	23-69[53_54]
-23-49	_	-	abstract[53]	new[53]	_	_
-23-50	_	Short	abstract[53]	new[53]	_	_
+23-48	_	Morgan	abstract[52]	new[52]	coref	23-69[52_53]
+23-49	_	-	abstract[52]	new[52]	_	_
+23-50	_	Short	abstract[52]	new[52]	_	_
 23-51	_	,	_	_	_	_
 23-52	_	2011	_	_	_	_
 23-53	_	;	_	_	_	_
@@ -995,9 +995,9 @@
 23-66	_	,	_	_	_	_
 23-67	_	2017	_	_	_	_
 23-68	_	;	_	_	_	_
-23-69	_	Morgan	abstract[54]	new[54]	_	_
-23-70	_	-	abstract[54]	new[54]	_	_
-23-71	_	Short	abstract[54]	new[54]	_	_
+23-69	_	Morgan	abstract[53]	new[53]	_	_
+23-70	_	-	abstract[53]	new[53]	_	_
+23-71	_	Short	abstract[53]	new[53]	_	_
 23-72	_	,	_	_	_	_
 23-73	_	Heil	_	_	_	_
 23-74	_	,	_	_	_	_
@@ -1023,10 +1023,10 @@
 24-7	_	premise	_	_	_	_
 24-8	_	that	_	_	_	_
 24-9	_	testing	_	_	_	_
-24-10	_	the	abstract[56]	new[56]	_	_
-24-11	_	reproducibility	abstract[56]	new[56]	_	_
-24-12	_	of	abstract[56]	new[56]	_	_
-24-13	_	findings	abstract[56]	new[56]	_	_
+24-10	_	the	abstract[55]	new[55]	_	_
+24-11	_	reproducibility	abstract[55]	new[55]	_	_
+24-12	_	of	abstract[55]	new[55]	_	_
+24-13	_	findings	abstract[55]	new[55]	_	_
 24-14	_	should	_	_	_	_
 24-15	_	have	_	_	_	_
 24-16	_	an	_	_	_	_
@@ -1107,25 +1107,26 @@
 25-36	_	research	_	_	_	_
 25-37	_	.	_	_	_	_
 
-#Text=Narrative and systematic review reveals the underlying reasons , which are consistent with the larger focus of this survey .
-26-1	_	Narrative	_	_	_	_
-26-2	_	and	_	_	_	_
-26-3	_	systematic	_	_	_	_
-26-4	_	review	_	_	_	_
-26-5	_	reveals	_	_	_	_
-26-6	_	the	_	_	_	_
-26-7	_	underlying	_	_	_	_
-26-8	_	reasons	_	_	_	_
-26-9	_	,	_	_	_	_
-26-10	_	which	_	_	_	_
-26-11	_	are	_	_	_	_
-26-12	_	consistent	_	_	_	_
-26-13	_	with	_	_	_	_
-26-14	_	the	_	_	_	_
-26-15	_	larger	_	_	_	_
-26-16	_	focus	_	_	_	_
-26-17	_	of	_	_	_	_
-26-18	_	this	abstract[51]	new[51]	_	_
-26-19	_	survey	abstract[51]	new[51]	_	_
-26-20	_	.	_	_	_	_
+#Text=The literature on second language research outlines an evolving picture which can be utilized to design and conduct replication studies .
+26-1	_	The	_	_	_	_
+26-2	_	literature	_	_	_	_
+26-3	_	on	_	_	_	_
+26-4	_	second	_	_	_	_
+26-5	_	language	_	_	_	_
+26-6	_	research	_	_	_	_
+26-7	_	outlines	_	_	_	_
+26-8	_	an	_	_	_	_
+26-9	_	evolving	_	_	_	_
+26-10	_	picture	_	_	_	_
+26-11	_	which	_	_	_	_
+26-12	_	can	_	_	_	_
+26-13	_	be	_	_	_	_
+26-14	_	utilized	_	_	_	_
+26-15	_	to	_	_	_	_
+26-16	_	design	_	_	_	_
+26-17	_	and	_	_	_	_
+26-18	_	conduct	_	_	_	_
+26-19	_	replication	_	_	_	_
+26-20	_	studies	_	_	_	_
+26-21	_	.	_	_	_	_
 

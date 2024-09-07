@@ -37,8 +37,8 @@
 3-7	_	the	_	_	_	_
 3-8	_	role	_	_	_	_
 3-9	_	of	_	_	_	_
-3-10	_	Sam	abstract[71]	new[71]	coref	24-9[71_72]
-3-11	_	Winchester	abstract[71]	new[71]	_	_
+3-10	_	Sam	abstract[73]	new[73]	coref	24-9[73_74]
+3-11	_	Winchester	abstract[73]	new[73]	_	_
 3-12	_	in	_	_	_	_
 3-13	_	the	abstract[5]	new[5]	coref	3-16[5_6]
 3-14	_	TV	abstract[5]	new[5]	_	_
@@ -57,29 +57,29 @@
 4-8	_	to	_	_	_	_
 4-9	_	fame	_	_	_	_
 4-10	_	in	_	_	_	_
-4-11	_	the	abstract[52]	new[52]	coref	17-2[52_53]
-4-12	_	early	abstract[52]	new[52]	_	_
-4-13	_	2000s	abstract[52]	new[52]	_	_
+4-11	_	the	abstract[54]	new[54]	coref	17-2[54_55]
+4-12	_	early	abstract[54]	new[54]	_	_
+4-13	_	2000s	abstract[54]	new[54]	_	_
 4-14	_	after	_	_	_	_
 4-15	_	appearing	_	_	_	_
 4-16	_	on	_	_	_	_
-4-17	_	the	abstract[50]	new[50]	coref	16-11[50_51]
-4-18	_	television	abstract[50]	new[50]	_	_
-4-19	_	series	abstract[50]	new[50]	_	_
-4-20	_	Gilmore	abstract[50]	new[50]	_	_
-4-21	_	Girls	abstract[50]	new[50]	_	_
+4-17	_	the	abstract[52]	new[52]	coref	16-11[52_53]
+4-18	_	television	abstract[52]	new[52]	_	_
+4-19	_	series	abstract[52]	new[52]	_	_
+4-20	_	Gilmore	abstract[52]	new[52]	_	_
+4-21	_	Girls	abstract[52]	new[52]	_	_
 4-22	_	as	_	_	_	_
 4-23	_	well	_	_	_	_
 4-24	_	as	_	_	_	_
 4-25	_	the	_	_	_	_
 4-26	_	films	_	_	_	_
-4-27	_	New	abstract[60]|abstract[62]	new[60]|new[62]	coref|coref	20-7[60_61]|20-15[62_63]
-4-28	_	York	abstract[60]|abstract[62]	new[60]|new[62]	_	_
-4-29	_	Minute	abstract[60]	new[60]	_	_
+4-27	_	New	abstract[62]|abstract[64]	new[62]|new[64]	coref|coref	20-8[62_63]|20-16[64_65]
+4-28	_	York	abstract[62]|abstract[64]	new[62]|new[64]	_	_
+4-29	_	Minute	abstract[62]	new[62]	_	_
 4-30	_	and	_	_	_	_
-4-31	_	House	abstract[67]	new[67]	coref	22-19[67_68]
-4-32	_	of	abstract[67]	new[67]	_	_
-4-33	_	Wax	abstract[67]	new[67]	_	_
+4-31	_	House	abstract[69]	new[69]	coref	22-18[69_70]
+4-32	_	of	abstract[69]	new[69]	_	_
+4-33	_	Wax	abstract[69]	new[69]	_	_
 4-34	_	.	_	_	_	_
 
 #Text=Early life
@@ -190,7 +190,7 @@
 11-8	_	the	_	_	_	_
 11-9	_	University	_	_	_	_
 11-10	_	of	_	_	_	_
-11-11	_	Texas	abstract[17]	new[17]	coref	40-7[17_18]
+11-11	_	Texas	abstract[17]	new[17]	coref	40-8[17_18]
 11-12	_	after	_	_	_	_
 11-13	_	graduating	_	_	_	_
 11-14	_	from	_	_	_	_
@@ -221,8 +221,8 @@
 #Text=Career
 12-1	_	Career	_	_	_	_
 
-#Text=Padalecki won Fox Broadcasting 's 1999 " Eugene Nida is credited with leading the United States to a new field of understanding .
-13-1	_	Padalecki	abstract[32]	new[32]	coref	14-7[32_33]
+#Text=Padalecki won Fox Broadcasting 's 1999 " Eugene Nida was a linguist and scholar whose work at the intersection of the dynamic - equivalence theory of translation theory and linguistics brought his theory upon non - language concepts that can be considered as metaphors within the framework of communication and discourse - making .
+13-1	_	Padalecki	abstract[34]	new[34]	coref	14-7[34_35]
 13-2	_	won	_	_	_	_
 13-3	_	Fox	_	_	_	_
 13-4	_	Broadcasting	_	_	_	_
@@ -231,20 +231,51 @@
 13-7	_	"	_	_	_	_
 13-8	_	Eugene	_	_	_	_
 13-9	_	Nida	_	_	_	_
-13-10	_	is	_	_	_	_
-13-11	_	credited	_	_	_	_
-13-12	_	with	_	_	_	_
-13-13	_	leading	_	_	_	_
-13-14	_	the	_	_	_	_
-13-15	_	United	_	_	_	_
-13-16	_	States	_	_	_	_
-13-17	_	to	_	_	_	_
-13-18	_	a	_	_	_	_
-13-19	_	new	_	_	_	_
-13-20	_	field	_	_	_	_
-13-21	_	of	_	_	_	_
-13-22	_	understanding	_	_	_	_
-13-23	_	.	_	_	_	_
+13-10	_	was	_	_	_	_
+13-11	_	a	_	_	_	_
+13-12	_	linguist	_	_	_	_
+13-13	_	and	_	_	_	_
+13-14	_	scholar	_	_	_	_
+13-15	_	whose	_	_	_	_
+13-16	_	work	_	_	_	_
+13-17	_	at	_	_	_	_
+13-18	_	the	_	_	_	_
+13-19	_	intersection	_	_	_	_
+13-20	_	of	_	_	_	_
+13-21	_	the	abstract[32]	new[32]	coref	13-32[32_33]
+13-22	_	dynamic	abstract[32]	new[32]	_	_
+13-23	_	-	abstract[32]	new[32]	_	_
+13-24	_	equivalence	abstract[32]	new[32]	_	_
+13-25	_	theory	abstract[32]	new[32]	_	_
+13-26	_	of	abstract[32]	new[32]	_	_
+13-27	_	translation	abstract[32]	new[32]	_	_
+13-28	_	theory	abstract[32]	new[32]	_	_
+13-29	_	and	_	_	_	_
+13-30	_	linguistics	_	_	_	_
+13-31	_	brought	_	_	_	_
+13-32	_	his	abstract[33]	new[33]	_	_
+13-33	_	theory	abstract[33]	new[33]	_	_
+13-34	_	upon	_	_	_	_
+13-35	_	non	_	_	_	_
+13-36	_	-	_	_	_	_
+13-37	_	language	_	_	_	_
+13-38	_	concepts	_	_	_	_
+13-39	_	that	_	_	_	_
+13-40	_	can	_	_	_	_
+13-41	_	be	_	_	_	_
+13-42	_	considered	_	_	_	_
+13-43	_	as	_	_	_	_
+13-44	_	metaphors	_	_	_	_
+13-45	_	within	_	_	_	_
+13-46	_	the	_	_	_	_
+13-47	_	framework	_	_	_	_
+13-48	_	of	_	_	_	_
+13-49	_	communication	_	_	_	_
+13-50	_	and	_	_	_	_
+13-51	_	discourse	_	_	_	_
+13-52	_	-	_	_	_	_
+13-53	_	making	_	_	_	_
+13-54	_	.	_	_	_	_
 
 #Text=Claim to Fame Contest " ; he subsequently appeared at the Teen Choice Awards , where he met an agent . [ 5 ]
 14-1	_	Claim	_	_	_	_
@@ -253,7 +284,7 @@
 14-4	_	Contest	_	_	_	_
 14-5	_	"	_	_	_	_
 14-6	_	;	_	_	_	_
-14-7	_	he	abstract[33]	new[33]	coref	14-17[33_34]
+14-7	_	he	abstract[35]	new[35]	coref	14-17[35_36]
 14-8	_	subsequently	_	_	_	_
 14-9	_	appeared	_	_	_	_
 14-10	_	at	_	_	_	_
@@ -263,7 +294,7 @@
 14-14	_	Awards	_	_	_	_
 14-15	_	,	_	_	_	_
 14-16	_	where	_	_	_	_
-14-17	_	he	abstract[34]	new[34]	coref	15-1[34_35]
+14-17	_	he	abstract[36]	new[36]	coref	15-1[36_37]
 14-18	_	met	_	_	_	_
 14-19	_	an	_	_	_	_
 14-20	_	agent	_	_	_	_
@@ -273,7 +304,7 @@
 14-24	_	]	_	_	_	_
 
 #Text=His first role was a minor role in the 1999 film A Little Inside .
-15-1	_	His	abstract[35]	new[35]	coref	16-4[35_36]
+15-1	_	His	abstract[37]	new[37]	coref	16-4[37_38]
 15-2	_	first	_	_	_	_
 15-3	_	role	_	_	_	_
 15-4	_	was	_	_	_	_
@@ -293,22 +324,22 @@
 16-1	_	In	_	_	_	_
 16-2	_	2000	_	_	_	_
 16-3	_	,	_	_	_	_
-16-4	_	he	abstract[36]	new[36]	coref	16-19[36_37]
+16-4	_	he	abstract[38]	new[38]	coref	16-19[38_39]
 16-5	_	was	_	_	_	_
 16-6	_	cast	_	_	_	_
 16-7	_	as	_	_	_	_
 16-8	_	Dean	_	_	_	_
 16-9	_	Forester	_	_	_	_
 16-10	_	on	_	_	_	_
-16-11	_	the	abstract[51]	new[51]	_	_
-16-12	_	television	abstract[51]	new[51]	_	_
-16-13	_	series	abstract[51]	new[51]	_	_
-16-14	_	Gilmore	abstract[51]	new[51]	_	_
-16-15	_	Girls	abstract[51]	new[51]	_	_
+16-11	_	the	abstract[53]	new[53]	_	_
+16-12	_	television	abstract[53]	new[53]	_	_
+16-13	_	series	abstract[53]	new[53]	_	_
+16-14	_	Gilmore	abstract[53]	new[53]	_	_
+16-15	_	Girls	abstract[53]	new[53]	_	_
 16-16	_	,	_	_	_	_
 16-17	_	a	_	_	_	_
 16-18	_	role	_	_	_	_
-16-19	_	he	abstract[37]	new[37]	coref	17-5[37_38]
+16-19	_	he	abstract[39]	new[39]	coref	17-5[39_40]
 16-20	_	played	_	_	_	_
 16-21	_	until	_	_	_	_
 16-22	_	2005	_	_	_	_
@@ -316,10 +347,10 @@
 
 #Text=Throughout the early 2000s he appeared in several made - for - television films , including Silent Witness , Close to Home , and the Disney Channel Original Movie A Ring of Endless Light . [ 6 ] [ 7 ]
 17-1	_	Throughout	_	_	_	_
-17-2	_	the	abstract[53]	new[53]	_	_
-17-3	_	early	abstract[53]	new[53]	_	_
-17-4	_	2000s	abstract[53]	new[53]	_	_
-17-5	_	he	abstract[38]	new[38]	coref	18-1[38_39]
+17-2	_	the	abstract[55]	new[55]	_	_
+17-3	_	early	abstract[55]	new[55]	_	_
+17-4	_	2000s	abstract[55]	new[55]	_	_
+17-5	_	he	abstract[40]	new[40]	coref	18-1[40_41]
 17-6	_	appeared	_	_	_	_
 17-7	_	in	_	_	_	_
 17-8	_	several	_	_	_	_
@@ -358,7 +389,7 @@
 17-41	_	]	_	_	_	_
 
 #Text=Padalecki had an uncredited role as a high school bully in 2003 's comedy Cheaper by the Dozen , which he played after being asked by fellow actor and friend Tom Welling , who played Charlie Baker , and the director of the movie , who wanted someone larger than Charlie to pick on him .
-18-1	_	Padalecki	abstract[39]	new[39]	coref	18-21[39_40]
+18-1	_	Padalecki	abstract[41]	new[41]	coref	18-21[41_42]
 18-2	_	had	_	_	_	_
 18-3	_	an	_	_	_	_
 18-4	_	uncredited	_	_	_	_
@@ -378,23 +409,23 @@
 18-18	_	Dozen	_	_	_	_
 18-19	_	,	_	_	_	_
 18-20	_	which	_	_	_	_
-18-21	_	he	abstract[40]	new[40]	coref	19-1[40_41]
+18-21	_	he	abstract[42]	new[42]	coref	19-1[42_43]
 18-22	_	played	_	_	_	_
 18-23	_	after	_	_	_	_
 18-24	_	being	_	_	_	_
 18-25	_	asked	_	_	_	_
 18-26	_	by	_	_	_	_
-18-27	_	fellow	abstract[56]	new[56]	coref	19-5[56_57]
-18-28	_	actor	abstract[56]	new[56]	_	_
-18-29	_	and	abstract[56]	new[56]	_	_
-18-30	_	friend	abstract[56]	new[56]	_	_
-18-31	_	Tom	abstract[56]	new[56]	_	_
-18-32	_	Welling	abstract[56]	new[56]	_	_
-18-33	_	,	abstract[56]	new[56]	_	_
-18-34	_	who	abstract[56]	new[56]	_	_
-18-35	_	played	abstract[56]	new[56]	_	_
-18-36	_	Charlie	abstract[54]|abstract[56]	new[54]|new[56]	coref	18-51[54_55]
-18-37	_	Baker	abstract[54]|abstract[56]	new[54]|new[56]	_	_
+18-27	_	fellow	abstract[58]	new[58]	coref	19-5[58_59]
+18-28	_	actor	abstract[58]	new[58]	_	_
+18-29	_	and	abstract[58]	new[58]	_	_
+18-30	_	friend	abstract[58]	new[58]	_	_
+18-31	_	Tom	abstract[58]	new[58]	_	_
+18-32	_	Welling	abstract[58]	new[58]	_	_
+18-33	_	,	abstract[58]	new[58]	_	_
+18-34	_	who	abstract[58]	new[58]	_	_
+18-35	_	played	abstract[58]	new[58]	_	_
+18-36	_	Charlie	abstract[56]|abstract[58]	new[56]|new[58]	coref	18-51[56_57]
+18-37	_	Baker	abstract[56]|abstract[58]	new[56]|new[58]	_	_
 18-38	_	,	_	_	_	_
 18-39	_	and	_	_	_	_
 18-40	_	the	_	_	_	_
@@ -408,7 +439,7 @@
 18-48	_	someone	_	_	_	_
 18-49	_	larger	_	_	_	_
 18-50	_	than	_	_	_	_
-18-51	_	Charlie	abstract[55]	new[55]	_	_
+18-51	_	Charlie	abstract[57]	new[57]	_	_
 18-52	_	to	_	_	_	_
 18-53	_	pick	_	_	_	_
 18-54	_	on	_	_	_	_
@@ -416,17 +447,17 @@
 18-56	_	.	_	_	_	_
 
 #Text=Padalecki originally auditioned for Welling 's role , but gave it up in order to film a pilot titled Young MacGyver which was never picked up . [ 8 ]
-19-1	_	Padalecki	abstract[41]	new[41]	coref	20-4[41_42]
+19-1	_	Padalecki	abstract[43]	new[43]	coref	20-5[43_44]
 19-2	_	originally	_	_	_	_
 19-3	_	auditioned	_	_	_	_
 19-4	_	for	_	_	_	_
-19-5	_	Welling	abstract[57]|abstract[58]	new[57]|new[58]	coref	19-11[58_59]
-19-6	_	's	abstract[57]|abstract[58]	new[57]|new[58]	_	_
-19-7	_	role	abstract[58]	new[58]	_	_
+19-5	_	Welling	abstract[59]|abstract[60]	new[59]|new[60]	coref	19-11[60_61]
+19-6	_	's	abstract[59]|abstract[60]	new[59]|new[60]	_	_
+19-7	_	role	abstract[60]	new[60]	_	_
 19-8	_	,	_	_	_	_
 19-9	_	but	_	_	_	_
 19-10	_	gave	_	_	_	_
-19-11	_	it	abstract[59]	new[59]	_	_
+19-11	_	it	abstract[61]	new[61]	_	_
 19-12	_	up	_	_	_	_
 19-13	_	in	_	_	_	_
 19-14	_	order	_	_	_	_
@@ -451,20 +482,20 @@
 20-1	_	In	_	_	_	_
 20-2	_	2004	_	_	_	_
 20-3	_	,	_	_	_	_
-20-4	_	he	abstract[42]	new[42]	coref	21-1[42_43]
+20-4	_	he	abstract[44]	new[44]	coref	21-1[44_45]
 20-5	_	appeared	_	_	_	_
 20-6	_	in	_	_	_	_
-20-7	_	the	abstract[61]	new[61]	_	_
-20-8	_	Mary	abstract[61]|abstract[65]	new[61]|new[65]	coref	20-27[65_66]
-20-9	_	-	abstract[61]|abstract[65]	new[61]|new[65]	_	_
-20-10	_	Kate	abstract[61]|abstract[65]	new[61]|new[65]	_	_
-20-11	_	and	abstract[61]|abstract[65]	new[61]|new[65]	_	_
-20-12	_	Ashley	abstract[61]|abstract[65]	new[61]|new[65]	_	_
-20-13	_	Olsen	abstract[61]|abstract[65]	new[61]|new[65]	_	_
-20-14	_	comedy	abstract[61]	new[61]	_	_
-20-15	_	New	abstract[61]|abstract[63]	new[61]|new[63]	coref	34-26[63_64]
-20-16	_	York	abstract[61]|abstract[63]	new[61]|new[63]	_	_
-20-17	_	Minute	abstract[61]	new[61]	_	_
+20-7	_	the	abstract[63]	new[63]	_	_
+20-8	_	Mary	abstract[63]|abstract[67]	new[63]|new[67]	coref	20-28[67_68]
+20-9	_	-	abstract[63]|abstract[67]	new[63]|new[67]	_	_
+20-10	_	Kate	abstract[63]|abstract[67]	new[63]|new[67]	_	_
+20-11	_	and	abstract[63]|abstract[67]	new[63]|new[67]	_	_
+20-12	_	Ashley	abstract[63]|abstract[67]	new[63]|new[67]	_	_
+20-13	_	Olsen	abstract[63]|abstract[67]	new[63]|new[67]	_	_
+20-14	_	comedy	abstract[63]	new[63]	_	_
+20-15	_	New	abstract[63]|abstract[65]	new[63]|new[65]	coref	34-26[65_66]
+20-16	_	York	abstract[63]|abstract[65]	new[63]|new[65]	_	_
+20-17	_	Minute	abstract[63]	new[63]	_	_
 20-18	_	as	_	_	_	_
 20-19	_	Trey	_	_	_	_
 20-20	_	Lipton	_	_	_	_
@@ -474,16 +505,16 @@
 20-24	_	boy	_	_	_	_
 20-25	_	to	_	_	_	_
 20-26	_	whom	_	_	_	_
-20-27	_	the	abstract[66]	new[66]	_	_
-20-28	_	Olsens	abstract[66]	new[66]	_	_
-20-29	_	'	abstract[66]	new[66]	_	_
+20-27	_	the	abstract[68]	new[68]	_	_
+20-28	_	Olsens	abstract[68]	new[68]	_	_
+20-29	_	'	abstract[68]	new[68]	_	_
 20-30	_	characters	_	_	_	_
 20-31	_	are	_	_	_	_
 20-32	_	attracted	_	_	_	_
 20-33	_	.	_	_	_	_
 
 #Text=He also landed a short role in the thriller Flight of the Phoenix alongside Dennis Quaid and Hugh Laurie .
-21-1	_	He	abstract[43]	new[43]	coref	22-5[43_44]
+21-1	_	He	abstract[45]	new[45]	coref	22-4[45_46]
 21-2	_	also	_	_	_	_
 21-3	_	landed	_	_	_	_
 21-4	_	a	_	_	_	_
@@ -508,7 +539,7 @@
 22-1	_	In	_	_	_	_
 22-2	_	2005	_	_	_	_
 22-3	_	,	_	_	_	_
-22-4	_	Padalecki	abstract[44]	new[44]	coref	23-4[44_45]
+22-4	_	Padalecki	abstract[46]	new[46]	coref	23-4[46_47]
 22-5	_	starred	_	_	_	_
 22-6	_	opposite	_	_	_	_
 22-7	_	Elisha	_	_	_	_
@@ -522,18 +553,18 @@
 22-15	_	Paris	_	_	_	_
 22-16	_	Hilton	_	_	_	_
 22-17	_	in	_	_	_	_
-22-18	_	House	abstract[68]	new[68]	_	_
-22-19	_	of	abstract[68]	new[68]	_	_
-22-20	_	Wax	abstract[68]	new[68]	_	_
+22-18	_	House	abstract[70]	new[70]	_	_
+22-19	_	of	abstract[70]	new[70]	_	_
+22-20	_	Wax	abstract[70]	new[70]	_	_
 22-21	_	as	_	_	_	_
 22-22	_	Wade	_	_	_	_
 22-23	_	.	_	_	_	_
 
 #Text=In 2005 , he appeared in Cry Wolf , another horror film , as Tom . [ 9 ]
 23-1	_	In	_	_	_	_
-23-2	_	2005	abstract[69]	new[69]	coref	24-1[69_70]
+23-2	_	2005	abstract[71]	new[71]	coref	24-1[71_72]
 23-3	_	,	_	_	_	_
-23-4	_	he	abstract[45]	new[45]	coref	24-5[45_46]
+23-4	_	he	abstract[47]	new[47]	coref	24-5[47_48]
 23-5	_	appeared	_	_	_	_
 23-6	_	in	_	_	_	_
 23-7	_	Cry	_	_	_	_
@@ -551,16 +582,16 @@
 23-19	_	]	_	_	_	_
 
 #Text=That same year , Padalecki was cast as Sam Winchester on the WB series , Supernatural .
-24-1	_	That	abstract[70]	new[70]	_	_
-24-2	_	same	abstract[70]	new[70]	_	_
-24-3	_	year	abstract[70]	new[70]	_	_
+24-1	_	That	abstract[72]	new[72]	_	_
+24-2	_	same	abstract[72]	new[72]	_	_
+24-3	_	year	abstract[72]	new[72]	_	_
 24-4	_	,	_	_	_	_
-24-5	_	Padalecki	abstract[46]	new[46]	coref	28-4[46_47]
+24-5	_	Padalecki	abstract[48]	new[48]	coref	28-4[48_49]
 24-6	_	was	_	_	_	_
 24-7	_	cast	_	_	_	_
 24-8	_	as	_	_	_	_
-24-9	_	Sam	abstract[72]	new[72]	coref	25-1[72_73]
-24-10	_	Winchester	abstract[72]	new[72]	_	_
+24-9	_	Sam	abstract[74]	new[74]	coref	25-1[74_75]
+24-10	_	Winchester	abstract[74]	new[74]	_	_
 24-11	_	on	_	_	_	_
 24-12	_	the	abstract[7]	new[7]	coref	26-1[7_8]
 24-13	_	WB	abstract[7]	new[7]	_	_
@@ -570,14 +601,14 @@
 24-17	_	.	_	_	_	_
 
 #Text=Sam and his brother Dean ( Jensen Ackles ) drive throughout the United States hunting paranormal predators , fighting demons and angels , and dealing with all manner of fantasy & sci - fi genre .
-25-1	_	Sam	abstract[73]	new[73]	coref	25-3[73_74]
+25-1	_	Sam	abstract[75]	new[75]	coref	25-3[75_76]
 25-2	_	and	_	_	_	_
-25-3	_	his	abstract[74]	new[74]	_	_
+25-3	_	his	abstract[76]	new[76]	_	_
 25-4	_	brother	_	_	_	_
 25-5	_	Dean	_	_	_	_
 25-6	_	(	_	_	_	_
-25-7	_	Jensen	abstract[100]	new[100]	coref	41-5[100_101]
-25-8	_	Ackles	abstract[100]	new[100]	_	_
+25-7	_	Jensen	_	_	_	_
+25-8	_	Ackles	_	_	_	_
 25-9	_	)	_	_	_	_
 25-10	_	drive	_	_	_	_
 25-11	_	throughout	_	_	_	_
@@ -648,7 +679,7 @@
 28-1	_	In	_	_	_	_
 28-2	_	2007	_	_	_	_
 28-3	_	,	_	_	_	_
-28-4	_	Jared	abstract[47]	new[47]	coref	29-1[47_48]
+28-4	_	Jared	abstract[49]	new[49]	coref	29-1[49_50]
 28-5	_	served	_	_	_	_
 28-6	_	as	_	_	_	_
 28-7	_	the	_	_	_	_
@@ -680,7 +711,7 @@
 28-33	_	]	_	_	_	_
 
 #Text=He had the lead role in 2008 's The Christmas Cottage as Thomas Kinkade , alongside acclaimed actor Peter O'Toole .
-29-1	_	He	abstract[48]	new[48]	coref	30-1[48_49]
+29-1	_	He	abstract[50]	new[50]	coref	30-1[50_51]
 29-2	_	had	_	_	_	_
 29-3	_	the	_	_	_	_
 29-4	_	lead	_	_	_	_
@@ -703,7 +734,7 @@
 29-21	_	.	_	_	_	_
 
 #Text=He also had the lead role in the 2009 version of Friday the 13th as Clay Miller , a character who heads out to Camp Crystal Lake in search of his sister who has gone missing . [ 12 ]
-30-1	_	He	abstract[49]	new[49]	_	_
+30-1	_	He	abstract[51]	new[51]	_	_
 30-2	_	also	_	_	_	_
 30-3	_	had	_	_	_	_
 30-4	_	the	_	_	_	_
@@ -753,7 +784,7 @@
 32-2	_	's	_	_	_	_
 32-3	_	engagement	_	_	_	_
 32-4	_	to	_	_	_	_
-32-5	_	his	abstract[75]	new[75]	coref	34-1[75_76]
+32-5	_	his	abstract[77]	new[77]	coref	34-1[77_78]
 32-6	_	Supernatural	abstract[11]	new[11]	coref	33-10[11_12]
 32-7	_	co-star	_	_	_	_
 32-8	_	Genevieve	_	_	_	_
@@ -766,10 +797,10 @@
 32-15	_	.	_	_	_	_
 
 #Text=They met when Cortese guest starred as Ruby on the show 's fourth season .
-33-1	_	They	abstract[87]	new[87]	coref	34-8[87_88]
+33-1	_	They	abstract[89]	new[89]	coref	34-8[89_90]
 33-2	_	met	_	_	_	_
 33-3	_	when	_	_	_	_
-33-4	_	Cortese	abstract[83]	new[83]	coref	34-4[83_84]
+33-4	_	Cortese	abstract[85]	new[85]	coref	34-4[85_86]
 33-5	_	guest	_	_	_	_
 33-6	_	starred	_	_	_	_
 33-7	_	as	_	_	_	_
@@ -783,14 +814,14 @@
 33-15	_	.	_	_	_	_
 
 #Text=Padalecki proposed to her in front of their favorite painting , " Joan of Arc " , by French realist Jules Bastien - Lepage at New York 's Metropolitan Museum of Art in October 2009 . [ 13 ] [ 14 ] [ 15 ] [ 16 ]
-34-1	_	Padalecki	abstract[76]	new[76]	coref	41-1[76_77]
+34-1	_	Padalecki	abstract[78]	new[78]	coref	41-1[78_79]
 34-2	_	proposed	_	_	_	_
 34-3	_	to	_	_	_	_
-34-4	_	her	abstract[84]	new[84]	coref	35-11[84_85]
+34-4	_	her	abstract[86]	new[86]	coref	35-11[86_87]
 34-5	_	in	_	_	_	_
 34-6	_	front	_	_	_	_
 34-7	_	of	_	_	_	_
-34-8	_	their	abstract[88]	new[88]	coref	35-1[88_89]
+34-8	_	their	abstract[90]	new[90]	coref	35-1[90_91]
 34-9	_	favorite	_	_	_	_
 34-10	_	painting	_	_	_	_
 34-11	_	,	_	_	_	_
@@ -808,9 +839,9 @@
 34-23	_	-	_	_	_	_
 34-24	_	Lepage	_	_	_	_
 34-25	_	at	_	_	_	_
-34-26	_	New	abstract[64]	new[64]	_	_
-34-27	_	York	abstract[64]	new[64]	_	_
-34-28	_	's	abstract[64]	new[64]	_	_
+34-26	_	New	abstract[66]	new[66]	_	_
+34-27	_	York	abstract[66]	new[66]	_	_
+34-28	_	's	abstract[66]	new[66]	_	_
 34-29	_	Metropolitan	_	_	_	_
 34-30	_	Museum	_	_	_	_
 34-31	_	of	_	_	_	_
@@ -833,8 +864,8 @@
 34-48	_	]	_	_	_	_
 
 #Text=The pair married on February 27 , 2010 , in Cortese 's hometown of Sun Valley , Idaho .
-35-1	_	The	abstract[89]	new[89]	coref	36-7[89_90]
-35-2	_	pair	abstract[89]	new[89]	_	_
+35-1	_	The	abstract[91]	new[91]	coref	36-7[91_92]
+35-2	_	pair	abstract[91]	new[91]	_	_
 35-3	_	married	_	_	_	_
 35-4	_	on	_	_	_	_
 35-5	_	February	_	_	_	_
@@ -843,8 +874,8 @@
 35-8	_	2010	_	_	_	_
 35-9	_	,	_	_	_	_
 35-10	_	in	_	_	_	_
-35-11	_	Cortese	abstract[85]	new[85]	coref	38-7[85_86]
-35-12	_	's	abstract[85]	new[85]	_	_
+35-11	_	Cortese	abstract[87]	new[87]	coref	38-7[87_88]
+35-12	_	's	abstract[87]	new[87]	_	_
 35-13	_	hometown	_	_	_	_
 35-14	_	of	_	_	_	_
 35-15	_	Sun	_	_	_	_
@@ -860,26 +891,26 @@
 36-4	_	,	_	_	_	_
 36-5	_	2011	_	_	_	_
 36-6	_	,	_	_	_	_
-36-7	_	the	abstract[90]	new[90]	coref	36-11[90_91]
-36-8	_	couple	abstract[90]	new[90]	_	_
+36-7	_	the	abstract[92]	new[92]	coref	36-11[92_93]
+36-8	_	couple	abstract[92]	new[92]	_	_
 36-9	_	announced	_	_	_	_
 36-10	_	that	_	_	_	_
-36-11	_	they	abstract[91]	new[91]	coref	36-14[91_92]
+36-11	_	they	abstract[93]	new[93]	coref	36-14[93_94]
 36-12	_	were	_	_	_	_
 36-13	_	expecting	_	_	_	_
-36-14	_	their	abstract[92]|abstract[98]	new[92]|new[98]	coref|coref	37-1[92_93]|37-1[98_99]
-36-15	_	first	abstract[98]	new[98]	_	_
-36-16	_	child	abstract[98]	new[98]	_	_
+36-14	_	their	abstract[94]|abstract[100]	new[94]|new[100]	coref|coref	37-1[94_95]|37-1[100_101]
+36-15	_	first	abstract[100]	new[100]	_	_
+36-16	_	child	abstract[100]	new[100]	_	_
 36-17	_	together	_	_	_	_
 36-18	_	.	_	_	_	_
 
 #Text=Their son , Thomas Colton Padalecki , was born on March 19 , 2012 .
-37-1	_	Their	abstract[93]|abstract[99]	new[93]|new[99]	coref	38-11[93_94]
-37-2	_	son	abstract[99]	new[99]	_	_
-37-3	_	,	abstract[99]	new[99]	_	_
-37-4	_	Thomas	abstract[99]	new[99]	_	_
-37-5	_	Colton	abstract[99]	new[99]	_	_
-37-6	_	Padalecki	abstract[99]	new[99]	_	_
+37-1	_	Their	abstract[95]|abstract[101]	new[95]|new[101]	coref	38-11[95_96]
+37-2	_	son	abstract[101]	new[101]	_	_
+37-3	_	,	abstract[101]	new[101]	_	_
+37-4	_	Thomas	abstract[101]	new[101]	_	_
+37-5	_	Colton	abstract[101]	new[101]	_	_
+37-6	_	Padalecki	abstract[101]	new[101]	_	_
 37-7	_	,	_	_	_	_
 37-8	_	was	_	_	_	_
 37-9	_	born	_	_	_	_
@@ -897,11 +928,11 @@
 38-4	_	,	_	_	_	_
 38-5	_	2013	_	_	_	_
 38-6	_	,	_	_	_	_
-38-7	_	Cortese	abstract[86]	new[86]	_	_
+38-7	_	Cortese	abstract[88]	new[88]	_	_
 38-8	_	gave	_	_	_	_
 38-9	_	birth	_	_	_	_
 38-10	_	to	_	_	_	_
-38-11	_	their	abstract[94]	new[94]	coref	39-1[94_95]
+38-11	_	their	abstract[96]	new[96]	coref	39-1[96_97]
 38-12	_	second	_	_	_	_
 38-13	_	son	_	_	_	_
 38-14	_	,	_	_	_	_
@@ -914,7 +945,7 @@
 38-21	_	.	_	_	_	_
 
 #Text=Their daughter , Odette Elliott Padalecki , was born on March 17 , 2017 . [ 17 ] [ 18 ]
-39-1	_	Their	abstract[95]	new[95]	coref	40-1[95_96]
+39-1	_	Their	abstract[97]	new[97]	coref	40-2[97_98]
 39-2	_	daughter	_	_	_	_
 39-3	_	,	_	_	_	_
 39-4	_	Odette	_	_	_	_
@@ -937,26 +968,26 @@
 39-21	_	]	_	_	_	_
 
 #Text=The couple resides in Austin , Texas with their three children .
-40-1	_	The	abstract[96]	new[96]	coref	40-9[96_97]
-40-2	_	couple	abstract[96]	new[96]	_	_
+40-1	_	The	abstract[98]	new[98]	coref	40-10[98_99]
+40-2	_	couple	abstract[98]	new[98]	_	_
 40-3	_	resides	_	_	_	_
 40-4	_	in	_	_	_	_
 40-5	_	Austin	_	_	_	_
 40-6	_	,	_	_	_	_
 40-7	_	Texas	abstract[18]	new[18]	coref	41-19[18_19]
 40-8	_	with	_	_	_	_
-40-9	_	their	abstract[97]	new[97]	_	_
+40-9	_	their	abstract[99]	new[99]	_	_
 40-10	_	three	_	_	_	_
 40-11	_	children	_	_	_	_
 40-12	_	.	_	_	_	_
 
 #Text=Padalecki and Supernatural co-stars Jensen Ackles and Misha Collins supported Beto O'Rourke for the 2018 Senate election in Texas . [ 19 ]
-41-1	_	Padalecki	abstract[77]	new[77]	coref	43-6[77_78]
+41-1	_	Padalecki	abstract[79]	new[79]	coref	43-5[79_80]
 41-2	_	and	_	_	_	_
 41-3	_	Supernatural	abstract[13]	new[13]	coref	49-17[13_14]
 41-4	_	co-stars	_	_	_	_
-41-5	_	Jensen	abstract[101]	new[101]	coref	46-18[101_102]
-41-6	_	Ackles	abstract[101]	new[101]	_	_
+41-5	_	Jensen	abstract[104]	new[104]	coref	46-18[104_105]
+41-6	_	Ackles	abstract[104]	new[104]	_	_
 41-7	_	and	_	_	_	_
 41-8	_	Misha	_	_	_	_
 41-9	_	Collins	_	_	_	_
@@ -976,28 +1007,28 @@
 41-23	_	]	_	_	_	_
 
 #Text=Always Keep Fighting
-42-1	_	Always	abstract[103]	new[103]	coref	43-8[103_104]
-42-2	_	Keep	abstract[103]	new[103]	_	_
-42-3	_	Fighting	abstract[103]	new[103]	_	_
+42-1	_	Always	abstract[102]	new[102]	coref	43-7[102_103]
+42-2	_	Keep	abstract[102]	new[102]	_	_
+42-3	_	Fighting	abstract[102]	new[102]	_	_
 
 #Text=In March 2015 , Padalecki launched his Always Keep Fighting campaign through Represent.com .
 43-1	_	In	_	_	_	_
 43-2	_	March	_	_	_	_
 43-3	_	2015	_	_	_	_
 43-4	_	,	_	_	_	_
-43-5	_	Padalecki	abstract[78]	new[78]	coref	43-8[78_79]
+43-5	_	Padalecki	abstract[80]	new[80]	coref	43-7[80_81]
 43-6	_	launched	_	_	_	_
-43-7	_	his	abstract[79]|abstract[104]	new[79]|new[104]	coref	44-1[79_80]
-43-8	_	Always	abstract[104]	new[104]	_	_
-43-9	_	Keep	abstract[104]	new[104]	_	_
-43-10	_	Fighting	abstract[104]	new[104]	_	_
-43-11	_	campaign	abstract[104]	new[104]	_	_
+43-7	_	his	abstract[81]|abstract[103]	new[81]|new[103]	coref	44-1[81_82]
+43-8	_	Always	abstract[103]	new[103]	_	_
+43-9	_	Keep	abstract[103]	new[103]	_	_
+43-10	_	Fighting	abstract[103]	new[103]	_	_
+43-11	_	campaign	abstract[103]	new[103]	_	_
 43-12	_	through	_	_	_	_
 43-13	_	Represent.com	_	_	_	_
 43-14	_	.	_	_	_	_
 
 #Text=His first campaign raised funds for To Write Love On Her Arms , which supports people struggling with depression , addiction , self - injury , and suicide .
-44-1	_	His	abstract[80]	new[80]	coref	45-7[80_81]
+44-1	_	His	abstract[82]	new[82]	coref	45-7[82_83]
 44-2	_	first	_	_	_	_
 44-3	_	campaign	_	_	_	_
 44-4	_	raised	_	_	_	_
@@ -1034,18 +1065,18 @@
 45-4	_	particularly	_	_	_	_
 45-5	_	close	_	_	_	_
 45-6	_	to	_	_	_	_
-45-7	_	Padalecki	abstract[81]	new[81]	coref	46-15[81_82]
-45-8	_	,	abstract[81]	new[81]	_	_
-45-9	_	who	abstract[81]	new[81]	_	_
-45-10	_	has	abstract[81]	new[81]	_	_
-45-11	_	been	abstract[81]	new[81]	_	_
-45-12	_	candid	abstract[81]	new[81]	_	_
-45-13	_	about	abstract[81]	new[81]	_	_
-45-14	_	his	abstract[81]|abstract[111]	new[81]|new[111]	coref	49-29[111_112]
-45-15	_	own	abstract[81]|abstract[111]	new[81]|new[111]	_	_
-45-16	_	struggles	abstract[81]|abstract[111]	new[81]|new[111]	_	_
-45-17	_	with	abstract[81]|abstract[111]	new[81]|new[111]	_	_
-45-18	_	depression	abstract[81]|abstract[111]	new[81]|new[111]	_	_
+45-7	_	Padalecki	abstract[83]	new[83]	coref	46-15[83_84]
+45-8	_	,	abstract[83]	new[83]	_	_
+45-9	_	who	abstract[83]	new[83]	_	_
+45-10	_	has	abstract[83]	new[83]	_	_
+45-11	_	been	abstract[83]	new[83]	_	_
+45-12	_	candid	abstract[83]	new[83]	_	_
+45-13	_	about	abstract[83]	new[83]	_	_
+45-14	_	his	abstract[83]|abstract[112]	new[83]|new[112]	coref	49-29[112_113]
+45-15	_	own	abstract[83]|abstract[112]	new[83]|new[112]	_	_
+45-16	_	struggles	abstract[83]|abstract[112]	new[83]|new[112]	_	_
+45-17	_	with	abstract[83]|abstract[112]	new[83]|new[112]	_	_
+45-18	_	depression	abstract[83]|abstract[112]	new[83]|new[112]	_	_
 45-19	_	.	_	_	_	_
 45-20	_	[	_	_	_	_
 45-21	_	20	_	_	_	_
@@ -1066,12 +1097,12 @@
 46-12	_	April	_	_	_	_
 46-13	_	2015	_	_	_	_
 46-14	_	,	_	_	_	_
-46-15	_	Padalecki	abstract[82]	new[82]	_	_
+46-15	_	Padalecki	abstract[84]	new[84]	_	_
 46-16	_	partnered	_	_	_	_
 46-17	_	with	_	_	_	_
-46-18	_	co-star	abstract[102]	new[102]	_	_
-46-19	_	Jensen	abstract[102]	new[102]	_	_
-46-20	_	Ackles	abstract[102]	new[102]	_	_
+46-18	_	co-star	abstract[105]	new[105]	_	_
+46-19	_	Jensen	abstract[105]	new[105]	_	_
+46-20	_	Ackles	abstract[105]	new[105]	_	_
 46-21	_	to	_	_	_	_
 46-22	_	release	_	_	_	_
 46-23	_	a	_	_	_	_
@@ -1079,12 +1110,12 @@
 46-25	_	featuring	_	_	_	_
 46-26	_	both	_	_	_	_
 46-27	_	of	_	_	_	_
-46-28	_	their	abstract[105]	new[105]	coref	46-33[105_106]
+46-28	_	their	abstract[106]	new[106]	coref	46-33[106_107]
 46-29	_	faces	_	_	_	_
 46-30	_	,	_	_	_	_
 46-31	_	to	_	_	_	_
 46-32	_	benefit	_	_	_	_
-46-33	_	their	abstract[106]	new[106]	_	_
+46-33	_	their	abstract[107]	new[107]	_	_
 46-34	_	newly	_	_	_	_
 46-35	_	formed	_	_	_	_
 46-36	_	joint	_	_	_	_
@@ -1110,7 +1141,7 @@
 48-1	_	Most	_	_	_	_
 48-2	_	recently	_	_	_	_
 48-3	_	,	_	_	_	_
-48-4	_	Padalecki	abstract[107]	new[107]	coref	49-14[107_108]
+48-4	_	Padalecki	abstract[108]	new[108]	coref	49-14[108_109]
 48-5	_	launched	_	_	_	_
 48-6	_	a	_	_	_	_
 48-7	_	third	_	_	_	_
@@ -1132,14 +1163,14 @@
 49-4	_	Comic	_	_	_	_
 49-5	_	-	_	_	_	_
 49-6	_	Con	_	_	_	_
-49-7	_	2015	abstract[113]	new[113]	coref	49-35[113_114]
+49-7	_	2015	abstract[114]	new[114]	coref	49-35[114_115]
 49-8	_	,	_	_	_	_
 49-9	_	more	_	_	_	_
 49-10	_	than	_	_	_	_
 49-11	_	6,000	_	_	_	_
 49-12	_	fans	_	_	_	_
 49-13	_	surprised	_	_	_	_
-49-14	_	Padalecki	abstract[108]	new[108]	coref	49-24[108_109]
+49-14	_	Padalecki	abstract[109]	new[109]	coref	49-24[109_110]
 49-15	_	at	_	_	_	_
 49-16	_	the	_	_	_	_
 49-17	_	Supernatural	abstract[14]	new[14]	_	_
@@ -1149,19 +1180,19 @@
 49-21	_	up	_	_	_	_
 49-22	_	candles	_	_	_	_
 49-23	_	for	_	_	_	_
-49-24	_	him	abstract[109]	new[109]	coref	49-29[109_110]
+49-24	_	him	abstract[110]	new[110]	coref	49-29[110_111]
 49-25	_	,	_	_	_	_
 49-26	_	after	_	_	_	_
 49-27	_	having	_	_	_	_
 49-28	_	revealed	_	_	_	_
-49-29	_	his	abstract[110]|abstract[112]	new[110]|new[112]	_	_
-49-30	_	battle	abstract[112]	new[112]	_	_
-49-31	_	with	abstract[112]	new[112]	_	_
-49-32	_	depression	abstract[112]	new[112]	_	_
+49-29	_	his	abstract[111]|abstract[113]	new[111]|new[113]	_	_
+49-30	_	battle	abstract[113]	new[113]	_	_
+49-31	_	with	abstract[113]	new[113]	_	_
+49-32	_	depression	abstract[113]	new[113]	_	_
 49-33	_	earlier	_	_	_	_
 49-34	_	in	_	_	_	_
-49-35	_	the	abstract[114]	new[114]	_	_
-49-36	_	year	abstract[114]	new[114]	_	_
+49-35	_	the	abstract[115]	new[115]	_	_
+49-36	_	year	abstract[115]	new[115]	_	_
 49-37	_	.	_	_	_	_
 49-38	_	[	_	_	_	_
 49-39	_	24	_	_	_	_

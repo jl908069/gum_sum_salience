@@ -77,7 +77,7 @@
 6-11	_	,	_	_	_	_
 6-12	_	but	_	_	_	_
 6-13	_	even	_	_	_	_
-6-14	_	he	abstract[19]	new[19]	_	_
+6-14	_	he	abstract[19]	new[19]	coref	17-11[19_20]
 6-15	_	was	_	_	_	_
 6-16	_	aware	_	_	_	_
 6-17	_	that	_	_	_	_
@@ -89,14 +89,14 @@
 6-23	_	nt	_	_	_	_
 6-24	_	necessarily	_	_	_	_
 6-25	_	what	_	_	_	_
-6-26	_	the	abstract[20]	new[20]	coref	7-1[20_21]
-6-27	_	studio	abstract[20]	new[20]	_	_
+6-26	_	the	abstract[21]	new[21]	coref	7-1[21_22]
+6-27	_	studio	abstract[21]	new[21]	_	_
 6-28	_	wants	_	_	_	_
 6-29	_	.	_	_	_	_
 
 #Text=The studio should ve just released the UE .
-7-1	_	The	abstract[21]	new[21]	coref	13-1[21_22]
-7-2	_	studio	abstract[21]	new[21]	_	_
+7-1	_	The	abstract[22]	new[22]	coref	13-1[22_23]
+7-2	_	studio	abstract[22]	new[22]	_	_
 7-3	_	should	_	_	_	_
 7-4	_	ve	_	_	_	_
 7-5	_	just	_	_	_	_
@@ -147,15 +147,15 @@
 9-4	_	was	_	_	_	_
 9-5	_	uneven	_	_	_	_
 9-6	_	in	_	_	_	_
-9-7	_	its	abstract[8]|abstract[24]	new[8]|new[24]	coref|coref	13-32[8_9]|10-1[24_25]
-9-8	_	delivery	abstract[24]	new[24]	_	_
-9-9	_	of	abstract[24]	new[24]	_	_
-9-10	_	action	abstract[24]	new[24]	_	_
-9-11	_	sequences	abstract[24]	new[24]	_	_
+9-7	_	its	abstract[8]|abstract[25]	new[8]|new[25]	coref|coref	13-32[8_9]|10-1[25_26]
+9-8	_	delivery	abstract[25]	new[25]	_	_
+9-9	_	of	abstract[25]	new[25]	_	_
+9-10	_	action	abstract[25]	new[25]	_	_
+9-11	_	sequences	abstract[25]	new[25]	_	_
 9-12	_	.	_	_	_	_
 
 #Text=It was mostly contained to the last act .
-10-1	_	It	abstract[25]	new[25]	_	_
+10-1	_	It	abstract[26]	new[26]	_	_
 10-2	_	was	_	_	_	_
 10-3	_	mostly	_	_	_	_
 10-4	_	contained	_	_	_	_
@@ -185,11 +185,11 @@
 11-17	_	when	_	_	_	_
 11-18	_	marketing	_	_	_	_
 11-19	_	to	_	_	_	_
-11-20	_	GA	abstract[26]	new[26]	coref	12-1[26_27]
+11-20	_	GA	abstract[27]	new[27]	coref	12-1[27_28]
 11-21	_	.	_	_	_	_
 
 #Text=They want to be entertained .
-12-1	_	They	abstract[27]	new[27]	_	_
+12-1	_	They	abstract[28]	new[28]	_	_
 12-2	_	want	_	_	_	_
 12-3	_	to	_	_	_	_
 12-4	_	be	_	_	_	_
@@ -197,7 +197,7 @@
 12-6	_	.	_	_	_	_
 
 #Text=WB probably saw this and wanted to get to the action much quicker , even though they would nt' have had to do that had there been multiple action sequences throughout the entire film .
-13-1	_	WB	abstract[22]	new[22]	coref	13-17[22_23]
+13-1	_	WB	abstract[23]	new[23]	coref	13-17[23_24]
 13-2	_	probably	_	_	_	_
 13-3	_	saw	_	_	_	_
 13-4	_	this	_	_	_	_
@@ -213,7 +213,7 @@
 13-14	_	,	_	_	_	_
 13-15	_	even	_	_	_	_
 13-16	_	though	_	_	_	_
-13-17	_	they	abstract[23]	new[23]	_	_
+13-17	_	they	abstract[24]	new[24]	_	_
 13-18	_	would	_	_	_	_
 13-19	_	nt'	_	_	_	_
 13-20	_	have	_	_	_	_
@@ -318,29 +318,48 @@
 16-37	_	audience	_	_	_	_
 16-38	_	.	_	_	_	_
 
-#Text=What did you think of your situation ? You 've been affected by your stroke . Its just so nice to hear your words
-17-1	_	What	_	_	_	_
-17-2	_	did	_	_	_	_
-17-3	_	you	abstract[28]	new[28]	coref	17-6[28_29]
-17-4	_	think	_	_	_	_
-17-5	_	of	_	_	_	_
-17-6	_	your	abstract[29]	new[29]	coref	17-9[29_30]
-17-7	_	situation	_	_	_	_
-17-8	_	?	_	_	_	_
-17-9	_	You	abstract[30]	new[30]	coref	17-14[30_31]
-17-10	_	've	_	_	_	_
-17-11	_	been	_	_	_	_
-17-12	_	affected	_	_	_	_
-17-13	_	by	_	_	_	_
-17-14	_	your	abstract[31]	new[31]	coref	17-23[31_32]
-17-15	_	stroke	_	_	_	_
-17-16	_	.	_	_	_	_
-17-17	_	Its	_	_	_	_
-17-18	_	just	_	_	_	_
-17-19	_	so	_	_	_	_
-17-20	_	nice	_	_	_	_
-17-21	_	to	_	_	_	_
-17-22	_	hear	_	_	_	_
-17-23	_	your	abstract[32]	new[32]	_	_
-17-24	_	words	_	_	_	_
+#Text=Some people debate whether the original 3 hour cut of Snyder 's movie about Batman and Superman should have been released instead of the shorter version , which prioritized getting to the action faster in order to appeal to a general audience .
+17-1	_	Some	_	_	_	_
+17-2	_	people	_	_	_	_
+17-3	_	debate	_	_	_	_
+17-4	_	whether	_	_	_	_
+17-5	_	the	_	_	_	_
+17-6	_	original	_	_	_	_
+17-7	_	3	_	_	_	_
+17-8	_	hour	_	_	_	_
+17-9	_	cut	_	_	_	_
+17-10	_	of	_	_	_	_
+17-11	_	Snyder	abstract[20]	new[20]	_	_
+17-12	_	's	abstract[20]	new[20]	_	_
+17-13	_	movie	_	_	_	_
+17-14	_	about	_	_	_	_
+17-15	_	Batman	_	_	_	_
+17-16	_	and	_	_	_	_
+17-17	_	Superman	_	_	_	_
+17-18	_	should	_	_	_	_
+17-19	_	have	_	_	_	_
+17-20	_	been	_	_	_	_
+17-21	_	released	_	_	_	_
+17-22	_	instead	_	_	_	_
+17-23	_	of	_	_	_	_
+17-24	_	the	_	_	_	_
+17-25	_	shorter	_	_	_	_
+17-26	_	version	_	_	_	_
+17-27	_	,	_	_	_	_
+17-28	_	which	_	_	_	_
+17-29	_	prioritized	_	_	_	_
+17-30	_	getting	_	_	_	_
+17-31	_	to	_	_	_	_
+17-32	_	the	_	_	_	_
+17-33	_	action	_	_	_	_
+17-34	_	faster	_	_	_	_
+17-35	_	in	_	_	_	_
+17-36	_	order	_	_	_	_
+17-37	_	to	_	_	_	_
+17-38	_	appeal	_	_	_	_
+17-39	_	to	_	_	_	_
+17-40	_	a	_	_	_	_
+17-41	_	general	_	_	_	_
+17-42	_	audience	_	_	_	_
+17-43	_	.	_	_	_	_
 

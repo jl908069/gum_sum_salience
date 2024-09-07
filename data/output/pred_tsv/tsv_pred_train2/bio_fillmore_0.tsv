@@ -1133,7 +1133,7 @@
 44-1	_	In	_	_	_	_
 44-2	_	FrameNet	_	_	_	_
 44-3	_	,	_	_	_	_
-44-4	_	words	abstract[101]	new[101]	coref	44-12[101_102]
+44-4	_	words	abstract[100]	new[100]	coref	44-12[100_101]
 44-5	_	are	_	_	_	_
 44-6	_	described	_	_	_	_
 44-7	_	in	_	_	_	_
@@ -1141,7 +1141,7 @@
 44-9	_	of	_	_	_	_
 44-10	_	the	_	_	_	_
 44-11	_	frames	_	_	_	_
-44-12	_	they	abstract[102]	new[102]	_	_
+44-12	_	they	abstract[101]	new[101]	_	_
 44-13	_	evoke	_	_	_	_
 44-14	_	.	_	_	_	_
 
@@ -1176,16 +1176,15 @@
 45-28	_	Frames	_	_	_	_
 45-29	_	.	_	_	_	_
 
-#Text=He was considered one of the founders of cognitive linguistics .
-46-1	_	He	abstract[99]	new[99]	coref	46-4[99_100]
-46-2	_	was	_	_	_	_
-46-3	_	considered	_	_	_	_
-46-4	_	one	abstract[100]	new[100]	_	_
-46-5	_	of	abstract[100]	new[100]	_	_
-46-6	_	the	abstract[100]	new[100]	_	_
-46-7	_	founders	abstract[100]	new[100]	_	_
-46-8	_	of	abstract[100]	new[100]	_	_
-46-9	_	cognitive	abstract[100]	new[100]	_	_
-46-10	_	linguistics	abstract[100]	new[100]	_	_
-46-11	_	.	_	_	_	_
+#Text=Theoretical , semantic , and cognitional grammarist Charles J. Fillmore
+46-1	_	Theoretical	abstract[99]	new[99]	_	_
+46-2	_	,	abstract[99]	new[99]	_	_
+46-3	_	semantic	abstract[99]	new[99]	_	_
+46-4	_	,	abstract[99]	new[99]	_	_
+46-5	_	and	abstract[99]	new[99]	_	_
+46-6	_	cognitional	abstract[99]	new[99]	_	_
+46-7	_	grammarist	abstract[99]	new[99]	_	_
+46-8	_	Charles	abstract[99]	new[99]	_	_
+46-9	_	J.	abstract[99]	new[99]	_	_
+46-10	_	Fillmore	abstract[99]	new[99]	_	_
 

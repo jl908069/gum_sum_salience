@@ -4,8 +4,8 @@
 
 
 #Text=Good morning !
-1-1	_	Good	abstract[140]	new[140]	coref	19-16[140_141]
-1-2	_	morning	abstract[140]	new[140]	_	_
+1-1	_	Good	abstract[141]	new[141]	coref	19-16[141_142]
+1-2	_	morning	abstract[141]	new[141]	_	_
 1-3	_	!	_	_	_	_
 
 #Text=So we just slept in today because it 's our last day here in Glacier and we 've been getting up at five o'clock every morning so that we could get into the park and get hiking early .
@@ -23,7 +23,7 @@
 2-12	_	day	_	_	_	_
 2-13	_	here	_	_	_	_
 2-14	_	in	_	_	_	_
-2-15	_	Glacier	abstract[68]	new[68]	coref	2-33[68_69]
+2-15	_	Glacier	abstract[69]	new[69]	coref	2-33[69_70]
 2-16	_	and	_	_	_	_
 2-17	_	we	abstract[6]	new[6]	coref	2-29[6_7]
 2-18	_	've	_	_	_	_
@@ -41,8 +41,8 @@
 2-30	_	could	_	_	_	_
 2-31	_	get	_	_	_	_
 2-32	_	into	_	_	_	_
-2-33	_	the	abstract[69]	new[69]	coref	5-24[69_70]
-2-34	_	park	abstract[69]	new[69]	_	_
+2-33	_	the	abstract[70]	new[70]	coref	5-24[70_71]
+2-34	_	park	abstract[70]	new[70]	_	_
 2-35	_	and	_	_	_	_
 2-36	_	get	_	_	_	_
 2-37	_	hiking	_	_	_	_
@@ -73,23 +73,23 @@
 4-4	_	to	_	_	_	_
 4-5	_	like	_	_	_	_
 4-6	_	7:15	_	_	_	_
-4-7	_	today	abstract[129]	new[129]	coref	17-2[129_130]
+4-7	_	today	abstract[130]	new[130]	coref	17-2[130_131]
 4-8	_	.	_	_	_	_
 
 #Text=Anyways I just wanted to show you guys this is what our shoes look like every day after we get done hiking in Glacier .
 5-1	_	Anyways	_	_	_	_
-5-2	_	I	abstract[85]	new[85]	coref	7-9[85_86]
+5-2	_	I	abstract[86]	new[86]	coref	7-9[86_87]
 5-3	_	just	_	_	_	_
 5-4	_	wanted	_	_	_	_
 5-5	_	to	_	_	_	_
 5-6	_	show	_	_	_	_
-5-7	_	you	abstract[116]	new[116]	coref	12-3[116_117]
-5-8	_	guys	abstract[116]	new[116]	_	_
+5-7	_	you	abstract[117]	new[117]	coref	12-3[117_118]
+5-8	_	guys	abstract[117]	new[117]	_	_
 5-9	_	this	_	_	_	_
 5-10	_	is	_	_	_	_
 5-11	_	what	_	_	_	_
-5-12	_	our	abstract[12]|abstract[71]	new[12]|new[71]	coref|coref	5-19[12_13]|6-1[71_72]
-5-13	_	shoes	abstract[71]	new[71]	_	_
+5-12	_	our	abstract[12]|abstract[72]	new[12]|new[72]	coref|coref	5-19[12_13]|6-1[72_73]
+5-13	_	shoes	abstract[72]	new[72]	_	_
 5-14	_	look	_	_	_	_
 5-15	_	like	_	_	_	_
 5-16	_	every	_	_	_	_
@@ -100,32 +100,32 @@
 5-21	_	done	_	_	_	_
 5-22	_	hiking	_	_	_	_
 5-23	_	in	_	_	_	_
-5-24	_	Glacier	abstract[70]	new[70]	_	_
+5-24	_	Glacier	abstract[71]	new[71]	_	_
 5-25	_	.	_	_	_	_
 
 #Text=They 're super super super dusty .
-6-1	_	They	abstract[72]	new[72]	coref	7-13[72_73]
+6-1	_	They	abstract[73]	new[73]	coref	7-13[73_74]
 6-2	_	're	_	_	_	_
-6-3	_	super	abstract[83]	new[83]	coref	7-1[83_84]
-6-4	_	super	abstract[83]	new[83]	_	_
-6-5	_	super	abstract[83]	new[83]	_	_
-6-6	_	dusty	abstract[83]	new[83]	_	_
+6-3	_	super	abstract[84]	new[84]	coref	7-1[84_85]
+6-4	_	super	abstract[84]	new[84]	_	_
+6-5	_	super	abstract[84]	new[84]	_	_
+6-6	_	dusty	abstract[84]	new[84]	_	_
 6-7	_	.	_	_	_	_
 
 #Text=That 's how the paths are , so I have to clean them every day um but yeah .
-7-1	_	That	abstract[84]	new[84]	_	_
+7-1	_	That	abstract[85]	new[85]	_	_
 7-2	_	's	_	_	_	_
 7-3	_	how	_	_	_	_
-7-4	_	the	abstract[112]	new[112]	coref	8-21[112_113]
-7-5	_	paths	abstract[112]	new[112]	_	_
+7-4	_	the	abstract[113]	new[113]	coref	8-21[113_114]
+7-5	_	paths	abstract[113]	new[113]	_	_
 7-6	_	are	_	_	_	_
 7-7	_	,	_	_	_	_
 7-8	_	so	_	_	_	_
-7-9	_	I	abstract[86]	new[86]	coref	10-3[86_87]
+7-9	_	I	abstract[87]	new[87]	coref	10-3[87_88]
 7-10	_	have	_	_	_	_
 7-11	_	to	_	_	_	_
 7-12	_	clean	_	_	_	_
-7-13	_	them	abstract[73]	new[73]	coref	9-1[73_74]
+7-13	_	them	abstract[74]	new[74]	coref	9-1[74_75]
 7-14	_	every	_	_	_	_
 7-15	_	day	_	_	_	_
 7-16	_	um	_	_	_	_
@@ -143,28 +143,28 @@
 8-7	_	heads	_	_	_	_
 8-8	_	up	_	_	_	_
 8-9	_	,	_	_	_	_
-8-10	_	hiking	abstract[109]	new[109]	coref	8-14[109_110]
+8-10	_	hiking	abstract[110]	new[110]	coref	8-14[110_111]
 8-11	_	in	_	_	_	_
-8-12	_	Glacier	abstract[133]	new[133]	coref	18-46[133_134]
+8-12	_	Glacier	abstract[134]	new[134]	coref	18-46[134_135]
 8-13	_	,	_	_	_	_
-8-14	_	it	abstract[110]	new[110]	coref	8-18[110_111]
+8-14	_	it	abstract[111]	new[111]	coref	8-18[111_112]
 8-15	_	's	_	_	_	_
 8-16	_	not	_	_	_	_
 8-17	_	muddy	_	_	_	_
-8-18	_	it	abstract[111]	new[111]	_	_
+8-18	_	it	abstract[112]	new[112]	_	_
 8-19	_	's	_	_	_	_
 8-20	_	just	_	_	_	_
-8-21	_	the	abstract[113]	new[113]	_	_
-8-22	_	dusty	abstract[113]	new[113]	_	_
-8-23	_	dirt	abstract[113]	new[113]	_	_
-8-24	_	paths	abstract[113]	new[113]	_	_
+8-21	_	the	abstract[114]	new[114]	_	_
+8-22	_	dusty	abstract[114]	new[114]	_	_
+8-23	_	dirt	abstract[114]	new[114]	_	_
+8-24	_	paths	abstract[114]	new[114]	_	_
 8-25	_	are	_	_	_	_
 8-26	_	very	_	_	_	_
 8-27	_	dusty	_	_	_	_
 8-28	_	.	_	_	_	_
 
 #Text=They are all cleaned up !
-9-1	_	They	abstract[74]	new[74]	coref	10-12[74_75]
+9-1	_	They	abstract[75]	new[75]	coref	10-12[75_76]
 9-2	_	are	_	_	_	_
 9-3	_	all	_	_	_	_
 9-4	_	cleaned	_	_	_	_
@@ -174,7 +174,7 @@
 #Text=But hey I just wanted to give a shout out to these Adidas Terrex shoes , I literally bought these hiking shoes right before our trip .
 10-1	_	But	_	_	_	_
 10-2	_	hey	_	_	_	_
-10-3	_	I	abstract[87]	new[87]	coref	10-17[87_88]
+10-3	_	I	abstract[88]	new[88]	coref	10-17[88_89]
 10-4	_	just	_	_	_	_
 10-5	_	wanted	_	_	_	_
 10-6	_	to	_	_	_	_
@@ -183,29 +183,29 @@
 10-9	_	shout	_	_	_	_
 10-10	_	out	_	_	_	_
 10-11	_	to	_	_	_	_
-10-12	_	these	abstract[75]	new[75]	coref	10-20[75_76]
-10-13	_	Adidas	abstract[75]|abstract[122]	new[75]|new[122]	coref	12-17[122_123]
-10-14	_	Terrex	abstract[75]	new[75]	_	_
-10-15	_	shoes	abstract[75]	new[75]	_	_
+10-12	_	these	abstract[76]	new[76]	coref	10-20[76_77]
+10-13	_	Adidas	abstract[76]|abstract[123]	new[76]|new[123]	coref	12-17[123_124]
+10-14	_	Terrex	abstract[76]	new[76]	_	_
+10-15	_	shoes	abstract[76]	new[76]	_	_
 10-16	_	,	_	_	_	_
-10-17	_	I	abstract[88]	new[88]	coref	11-5[88_89]
+10-17	_	I	abstract[89]	new[89]	coref	11-5[89_90]
 10-18	_	literally	_	_	_	_
 10-19	_	bought	_	_	_	_
-10-20	_	these	abstract[76]	new[76]	coref	11-1[76_77]
-10-21	_	hiking	abstract[76]	new[76]	_	_
-10-22	_	shoes	abstract[76]	new[76]	_	_
+10-20	_	these	abstract[77]	new[77]	coref	11-1[77_78]
+10-21	_	hiking	abstract[77]	new[77]	_	_
+10-22	_	shoes	abstract[77]	new[77]	_	_
 10-23	_	right	_	_	_	_
 10-24	_	before	_	_	_	_
-10-25	_	our	abstract[14]|abstract[114]	new[14]|new[114]	coref|coref	11-10[14_15]|11-13[114_115]
-10-26	_	trip	abstract[114]	new[114]	_	_
+10-25	_	our	abstract[14]|abstract[115]	new[14]|new[115]	coref|coref	11-10[14_15]|11-13[115_116]
+10-26	_	trip	abstract[115]	new[115]	_	_
 10-27	_	.	_	_	_	_
 
 #Text=They literally arrived on my doorstep the day before we left for the trip because I needed some new hiking shoes , and these have been absolutely the best hiking shoes I 've ever owned .
-11-1	_	They	abstract[77]	new[77]	coref	11-24[77_78]
+11-1	_	They	abstract[78]	new[78]	coref	11-24[78_79]
 11-2	_	literally	_	_	_	_
 11-3	_	arrived	_	_	_	_
 11-4	_	on	_	_	_	_
-11-5	_	my	abstract[89]	new[89]	coref	11-16[89_90]
+11-5	_	my	abstract[90]	new[90]	coref	11-16[90_91]
 11-6	_	doorstep	_	_	_	_
 11-7	_	the	_	_	_	_
 11-8	_	day	_	_	_	_
@@ -213,10 +213,10 @@
 11-10	_	we	abstract[15]	new[15]	coref	17-4[15_16]
 11-11	_	left	_	_	_	_
 11-12	_	for	_	_	_	_
-11-13	_	the	abstract[115]	new[115]	_	_
-11-14	_	trip	abstract[115]	new[115]	_	_
+11-13	_	the	abstract[116]	new[116]	_	_
+11-14	_	trip	abstract[116]	new[116]	_	_
 11-15	_	because	_	_	_	_
-11-16	_	I	abstract[90]	new[90]	coref	11-32[90_91]
+11-16	_	I	abstract[91]	new[91]	coref	11-32[91_92]
 11-17	_	needed	_	_	_	_
 11-18	_	some	_	_	_	_
 11-19	_	new	_	_	_	_
@@ -224,7 +224,7 @@
 11-21	_	shoes	_	_	_	_
 11-22	_	,	_	_	_	_
 11-23	_	and	_	_	_	_
-11-24	_	these	abstract[78]	new[78]	coref	12-16[78_79]
+11-24	_	these	abstract[79]	new[79]	coref	12-16[79_80]
 11-25	_	have	_	_	_	_
 11-26	_	been	_	_	_	_
 11-27	_	absolutely	_	_	_	_
@@ -232,7 +232,7 @@
 11-29	_	best	_	_	_	_
 11-30	_	hiking	_	_	_	_
 11-31	_	shoes	_	_	_	_
-11-32	_	I	abstract[91]	new[91]	coref	12-13[91_92]
+11-32	_	I	abstract[92]	new[92]	coref	12-13[92_93]
 11-33	_	've	_	_	_	_
 11-34	_	ever	_	_	_	_
 11-35	_	owned	_	_	_	_
@@ -241,7 +241,7 @@
 #Text=So if you 're in a need for some new hiking shoes I definitely recommend these Adidas Terrex .
 12-1	_	So	_	_	_	_
 12-2	_	if	_	_	_	_
-12-3	_	you	abstract[117]	new[117]	coref	13-25[117_118]
+12-3	_	you	abstract[118]	new[118]	coref	13-25[118_119]
 12-4	_	're	_	_	_	_
 12-5	_	in	_	_	_	_
 12-6	_	a	_	_	_	_
@@ -251,30 +251,30 @@
 12-10	_	new	_	_	_	_
 12-11	_	hiking	_	_	_	_
 12-12	_	shoes	_	_	_	_
-12-13	_	I	abstract[92]	new[92]	coref	13-2[92_93]
+12-13	_	I	abstract[93]	new[93]	coref	13-2[93_94]
 12-14	_	definitely	_	_	_	_
 12-15	_	recommend	_	_	_	_
-12-16	_	these	abstract[79]	new[79]	coref	13-5[79_80]
-12-17	_	Adidas	abstract[79]|abstract[123]	new[79]|new[123]	_	_
-12-18	_	Terrex	abstract[79]	new[79]	_	_
+12-16	_	these	abstract[80]	new[80]	coref	13-5[80_81]
+12-17	_	Adidas	abstract[80]|abstract[124]	new[80]|new[124]	_	_
+12-18	_	Terrex	abstract[80]	new[80]	_	_
 12-19	_	.	_	_	_	_
 
 #Text=What I like about these is that they 're tennis shoe - like then they have the rubber soles on the front for if you 're walking through , like , wet grass areas and the grip on these guys are amazing .
 13-1	_	What	_	_	_	_
-13-2	_	I	abstract[93]	new[93]	coref	14-9[93_94]
+13-2	_	I	abstract[94]	new[94]	coref	14-9[94_95]
 13-3	_	like	_	_	_	_
 13-4	_	about	_	_	_	_
-13-5	_	these	abstract[80]	new[80]	coref	13-8[80_81]
+13-5	_	these	abstract[81]	new[81]	coref	13-8[81_82]
 13-6	_	is	_	_	_	_
 13-7	_	that	_	_	_	_
-13-8	_	they	abstract[81]	new[81]	coref	13-15[81_82]
+13-8	_	they	abstract[82]	new[82]	coref	13-15[82_83]
 13-9	_	're	_	_	_	_
 13-10	_	tennis	_	_	_	_
 13-11	_	shoe	_	_	_	_
 13-12	_	-	_	_	_	_
 13-13	_	like	_	_	_	_
 13-14	_	then	_	_	_	_
-13-15	_	they	abstract[82]	new[82]	_	_
+13-15	_	they	abstract[83]	new[83]	_	_
 13-16	_	have	_	_	_	_
 13-17	_	the	_	_	_	_
 13-18	_	rubber	_	_	_	_
@@ -284,7 +284,7 @@
 13-22	_	front	_	_	_	_
 13-23	_	for	_	_	_	_
 13-24	_	if	_	_	_	_
-13-25	_	you	abstract[118]	new[118]	coref	14-16[118_119]
+13-25	_	you	abstract[119]	new[119]	coref	14-16[119_120]
 13-26	_	're	_	_	_	_
 13-27	_	walking	_	_	_	_
 13-28	_	through	_	_	_	_
@@ -298,29 +298,29 @@
 13-36	_	the	_	_	_	_
 13-37	_	grip	_	_	_	_
 13-38	_	on	_	_	_	_
-13-39	_	these	abstract[124]	new[124]	coref	14-2[124_125]
-13-40	_	guys	abstract[124]	new[124]	_	_
+13-39	_	these	abstract[125]	new[125]	coref	14-2[125_126]
+13-40	_	guys	abstract[125]	new[125]	_	_
 13-41	_	are	_	_	_	_
 13-42	_	amazing	_	_	_	_
 13-43	_	.	_	_	_	_
 
 #Text=So these have been awesome for hiking and I highly recommend them , especially if you 're looking for like a lighter shoe that 's not heavy like hiking boots or anything .
 14-1	_	So	_	_	_	_
-14-2	_	these	abstract[125]	new[125]	coref	14-12[125_126]
+14-2	_	these	abstract[126]	new[126]	coref	14-12[126_127]
 14-3	_	have	_	_	_	_
 14-4	_	been	_	_	_	_
 14-5	_	awesome	_	_	_	_
 14-6	_	for	_	_	_	_
 14-7	_	hiking	_	_	_	_
 14-8	_	and	_	_	_	_
-14-9	_	I	abstract[94]	new[94]	coref	19-3[94_95]
+14-9	_	I	abstract[95]	new[95]	coref	19-3[95_96]
 14-10	_	highly	_	_	_	_
 14-11	_	recommend	_	_	_	_
-14-12	_	them	abstract[126]	new[126]	coref	15-1[126_127]
+14-12	_	them	abstract[127]	new[127]	coref	15-1[127_128]
 14-13	_	,	_	_	_	_
 14-14	_	especially	_	_	_	_
 14-15	_	if	_	_	_	_
-14-16	_	you	abstract[119]	new[119]	coref	16-2[119_120]
+14-16	_	you	abstract[120]	new[120]	coref	16-2[120_121]
 14-17	_	're	_	_	_	_
 14-18	_	looking	_	_	_	_
 14-19	_	for	_	_	_	_
@@ -340,7 +340,7 @@
 14-33	_	.	_	_	_	_
 
 #Text=These have been great .
-15-1	_	These	abstract[127]	new[127]	coref	16-7[127_128]
+15-1	_	These	abstract[128]	new[128]	coref	16-7[128_129]
 15-2	_	have	_	_	_	_
 15-3	_	been	_	_	_	_
 15-4	_	great	_	_	_	_
@@ -348,17 +348,17 @@
 
 #Text=If you need shoes , get these .
 16-1	_	If	_	_	_	_
-16-2	_	you	abstract[120]	new[120]	coref	37-12[120_121]
+16-2	_	you	abstract[121]	new[121]	coref	37-12[121_122]
 16-3	_	need	_	_	_	_
 16-4	_	shoes	_	_	_	_
 16-5	_	,	_	_	_	_
 16-6	_	get	_	_	_	_
-16-7	_	these	abstract[128]	new[128]	_	_
+16-7	_	these	abstract[129]	new[129]	_	_
 16-8	_	.	_	_	_	_
 
 #Text=So it 's our last day and we are just driving the uh – Going to the Sun Road and we ’re just gon na stop along wherever we want to go .
 17-1	_	So	_	_	_	_
-17-2	_	it	abstract[130]	new[130]	_	_
+17-2	_	it	abstract[131]	new[131]	_	_
 17-3	_	's	_	_	_	_
 17-4	_	our	abstract[16]	new[16]	coref	17-8[16_17]
 17-5	_	last	_	_	_	_
@@ -368,14 +368,14 @@
 17-9	_	are	_	_	_	_
 17-10	_	just	_	_	_	_
 17-11	_	driving	_	_	_	_
-17-12	_	the	abstract[146]	new[146]	coref	25-17[146_147]
-17-13	_	uh	abstract[146]	new[146]	_	_
-17-14	_	–	abstract[146]	new[146]	_	_
-17-15	_	Going	abstract[146]	new[146]	_	_
-17-16	_	to	abstract[146]	new[146]	_	_
-17-17	_	the	abstract[146]|abstract[148]	new[146]|new[148]	coref	25-21[148_149]
-17-18	_	Sun	abstract[146]|abstract[148]	new[146]|new[148]	_	_
-17-19	_	Road	abstract[146]	new[146]	_	_
+17-12	_	the	abstract[147]	new[147]	coref	25-17[147_148]
+17-13	_	uh	abstract[147]	new[147]	_	_
+17-14	_	–	abstract[147]	new[147]	_	_
+17-15	_	Going	abstract[147]	new[147]	_	_
+17-16	_	to	abstract[147]	new[147]	_	_
+17-17	_	the	abstract[147]|abstract[149]	new[147]|new[149]	coref	25-21[149_150]
+17-18	_	Sun	abstract[147]|abstract[149]	new[147]|new[149]	_	_
+17-19	_	Road	abstract[147]	new[147]	_	_
 17-20	_	and	_	_	_	_
 17-21	_	we	abstract[18]	new[18]	coref	17-29[18_19]
 17-22	_	’re	_	_	_	_
@@ -424,7 +424,7 @@
 18-30	_	with	_	_	_	_
 18-31	_	whatever	_	_	_	_
 18-32	_	happens	_	_	_	_
-18-33	_	today	abstract[131]	new[131]	coref	18-42[131_132]
+18-33	_	today	abstract[132]	new[132]	coref	18-42[132_133]
 18-34	_	,	_	_	_	_
 18-35	_	so	_	_	_	_
 18-36	_	just	_	_	_	_
@@ -433,20 +433,20 @@
 18-39	_	relax	_	_	_	_
 18-40	_	and	_	_	_	_
 18-41	_	enjoy	_	_	_	_
-18-42	_	our	abstract[23]|abstract[132]	new[23]|new[132]	coref	19-5[23_24]
-18-43	_	last	abstract[132]	new[132]	_	_
-18-44	_	day	abstract[132]	new[132]	_	_
-18-45	_	in	abstract[132]	new[132]	_	_
-18-46	_	beautiful	abstract[132]|abstract[134]	new[132]|new[134]	coref	56-10[134_135]
-18-47	_	Glacier	abstract[132]|abstract[134]	new[132]|new[134]	_	_
-18-48	_	National	abstract[132]|abstract[134]	new[132]|new[134]	_	_
-18-49	_	Park	abstract[132]|abstract[134]	new[132]|new[134]	_	_
+18-42	_	our	abstract[23]|abstract[133]	new[23]|new[133]	coref	19-5[23_24]
+18-43	_	last	abstract[133]	new[133]	_	_
+18-44	_	day	abstract[133]	new[133]	_	_
+18-45	_	in	abstract[133]	new[133]	_	_
+18-46	_	beautiful	abstract[133]|abstract[135]	new[133]|new[135]	coref	56-10[135_136]
+18-47	_	Glacier	abstract[133]|abstract[135]	new[133]|new[135]	_	_
+18-48	_	National	abstract[133]|abstract[135]	new[133]|new[135]	_	_
+18-49	_	Park	abstract[133]|abstract[135]	new[133]|new[135]	_	_
 18-50	_	!	_	_	_	_
 
 #Text=Alright so I think we 're gon na just do a tiny bit of hiking this morning just to kind of get out and move , and we feel pretty good from hiking 12 miles yesterday , like we 're totally ready to go again .
 19-1	_	Alright	_	_	_	_
 19-2	_	so	_	_	_	_
-19-3	_	I	abstract[95]	new[95]	coref	21-3[95_96]
+19-3	_	I	abstract[96]	new[96]	coref	21-3[96_97]
 19-4	_	think	_	_	_	_
 19-5	_	we	abstract[24]	new[24]	coref	19-28[24_25]
 19-6	_	're	_	_	_	_
@@ -459,8 +459,8 @@
 19-13	_	bit	_	_	_	_
 19-14	_	of	_	_	_	_
 19-15	_	hiking	_	_	_	_
-19-16	_	this	abstract[141]	new[141]	_	_
-19-17	_	morning	abstract[141]	new[141]	_	_
+19-16	_	this	abstract[142]	new[142]	_	_
+19-17	_	morning	abstract[142]	new[142]	_	_
 19-18	_	just	_	_	_	_
 19-19	_	to	_	_	_	_
 19-20	_	kind	_	_	_	_
@@ -500,7 +500,7 @@
 
 #Text=So I think we 're gon na start here at the loop trailhead which is the same highline – um , trail that we did the other day .
 21-1	_	So	_	_	_	_
-21-2	_	I	abstract[96]	new[96]	coref	28-11[96_97]
+21-2	_	I	abstract[97]	new[97]	coref	28-11[97_98]
 21-3	_	think	_	_	_	_
 21-4	_	we	abstract[27]	new[27]	coref	21-25[27_28]
 21-5	_	're	_	_	_	_
@@ -509,35 +509,35 @@
 21-8	_	start	_	_	_	_
 21-9	_	here	_	_	_	_
 21-10	_	at	_	_	_	_
-21-11	_	the	abstract[142]	new[142]	coref	22-1[142_143]
-21-12	_	loop	abstract[142]	new[142]	_	_
-21-13	_	trailhead	abstract[142]	new[142]	_	_
-21-14	_	which	abstract[142]	new[142]	_	_
-21-15	_	is	abstract[142]	new[142]	_	_
-21-16	_	the	abstract[142]|abstract[144]	new[142]|new[144]	coref	22-8[144_145]
-21-17	_	same	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-18	_	highline	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-19	_	–	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-20	_	um	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-21	_	,	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-22	_	trail	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-23	_	that	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-24	_	we	abstract[28]|abstract[142]|abstract[144]	new[28]|new[142]|new[144]	coref	22-13[28_29]
-21-25	_	did	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-26	_	the	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-27	_	other	abstract[142]|abstract[144]	new[142]|new[144]	_	_
-21-28	_	day	abstract[142]|abstract[144]	new[142]|new[144]	_	_
+21-11	_	the	abstract[143]	new[143]	coref	22-1[143_144]
+21-12	_	loop	abstract[143]	new[143]	_	_
+21-13	_	trailhead	abstract[143]	new[143]	_	_
+21-14	_	which	abstract[143]	new[143]	_	_
+21-15	_	is	abstract[143]	new[143]	_	_
+21-16	_	the	abstract[143]|abstract[145]	new[143]|new[145]	coref	22-8[145_146]
+21-17	_	same	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-18	_	highline	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-19	_	–	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-20	_	um	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-21	_	,	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-22	_	trail	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-23	_	that	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-24	_	we	abstract[28]|abstract[143]|abstract[145]	new[28]|new[143]|new[145]	coref	22-13[28_29]
+21-25	_	did	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-26	_	the	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-27	_	other	abstract[143]|abstract[145]	new[143]|new[145]	_	_
+21-28	_	day	abstract[143]|abstract[145]	new[143]|new[145]	_	_
 21-29	_	.	_	_	_	_
 
 #Text=It 's just the other end of it , um , so we 're just gon na hike a little bit on that .
-22-1	_	It	abstract[143]	new[143]	_	_
+22-1	_	It	abstract[144]	new[144]	_	_
 22-2	_	's	_	_	_	_
 22-3	_	just	_	_	_	_
 22-4	_	the	_	_	_	_
 22-5	_	other	_	_	_	_
 22-6	_	end	_	_	_	_
 22-7	_	of	_	_	_	_
-22-8	_	it	abstract[145]	new[145]	_	_
+22-8	_	it	abstract[146]	new[146]	_	_
 22-9	_	,	_	_	_	_
 22-10	_	um	_	_	_	_
 22-11	_	,	_	_	_	_
@@ -619,24 +619,24 @@
 25-10	_	posted	_	_	_	_
 25-11	_	here	_	_	_	_
 25-12	_	at	_	_	_	_
-25-13	_	the	abstract[161]	new[161]	coref	36-12[161_162]
-25-14	_	loop	abstract[161]	new[161]	_	_
+25-13	_	the	abstract[162]	new[162]	coref	36-12[162_163]
+25-14	_	loop	abstract[162]	new[162]	_	_
 25-15	_	so	_	_	_	_
 25-16	_	this	_	_	_	_
-25-17	_	Going	abstract[147]	new[147]	_	_
-25-18	_	-	abstract[147]	new[147]	_	_
-25-19	_	To	abstract[147]	new[147]	_	_
-25-20	_	-	abstract[147]	new[147]	_	_
-25-21	_	The	abstract[147]|abstract[149]	new[147]|new[149]	coref	39-5[149_150]
-25-22	_	-	abstract[147]|abstract[149]	new[147]|new[149]	_	_
-25-23	_	Sun	abstract[147]|abstract[149]	new[147]|new[149]	_	_
-25-24	_	Road	abstract[147]	new[147]	_	_
+25-17	_	Going	abstract[148]	new[148]	_	_
+25-18	_	-	abstract[148]	new[148]	_	_
+25-19	_	To	abstract[148]	new[148]	_	_
+25-20	_	-	abstract[148]	new[148]	_	_
+25-21	_	The	abstract[148]|abstract[150]	new[148]|new[150]	coref	39-5[150_151]
+25-22	_	-	abstract[148]|abstract[150]	new[148]|new[150]	_	_
+25-23	_	Sun	abstract[148]|abstract[150]	new[148]|new[150]	_	_
+25-24	_	Road	abstract[148]	new[148]	_	_
 25-25	_	is	_	_	_	_
 25-26	_	actually	_	_	_	_
 25-27	_	considered	_	_	_	_
-25-28	_	a	abstract[153]	new[153]	coref	28-1[153_154]
-25-29	_	national	abstract[153]	new[153]	_	_
-25-30	_	landmark	abstract[153]	new[153]	_	_
+25-28	_	a	abstract[154]	new[154]	coref	28-1[154_155]
+25-29	_	national	abstract[154]	new[154]	_	_
+25-30	_	landmark	abstract[154]	new[154]	_	_
 25-31	_	now	_	_	_	_
 25-32	_	,	_	_	_	_
 25-33	_	how	_	_	_	_
@@ -647,18 +647,18 @@
 26-1	_	1997	_	_	_	_
 26-2	_	they	_	_	_	_
 26-3	_	declared	_	_	_	_
-26-4	_	it	abstract[151]	new[151]	coref	27-1[151_152]
+26-4	_	it	abstract[152]	new[152]	coref	27-1[152_153]
 26-5	_	.	_	_	_	_
 
 #Text=That 's so cool .
-27-1	_	That	abstract[152]	new[152]	_	_
+27-1	_	That	abstract[153]	new[153]	_	_
 27-2	_	's	_	_	_	_
 27-3	_	so	_	_	_	_
 27-4	_	cool	_	_	_	_
 27-5	_	.	_	_	_	_
 
 #Text=It 's one of the best roads in the US I feel , it 's amazing .
-28-1	_	It	abstract[154]	new[154]	coref	28-14[154_155]
+28-1	_	It	abstract[155]	new[155]	coref	28-14[155_156]
 28-2	_	's	_	_	_	_
 28-3	_	one	_	_	_	_
 28-4	_	of	_	_	_	_
@@ -666,12 +666,12 @@
 28-6	_	best	_	_	_	_
 28-7	_	roads	_	_	_	_
 28-8	_	in	_	_	_	_
-28-9	_	the	abstract[203]	new[203]	coref	78-36[203_204]
-28-10	_	US	abstract[203]	new[203]	_	_
-28-11	_	I	abstract[97]	new[97]	coref	36-3[97_98]
+28-9	_	the	abstract[202]	new[202]	coref	78-36[202_203]
+28-10	_	US	abstract[202]	new[202]	_	_
+28-11	_	I	abstract[98]	new[98]	coref	36-3[98_99]
 28-12	_	feel	_	_	_	_
 28-13	_	,	_	_	_	_
-28-14	_	it	abstract[155]	new[155]	coref	29-3[155_156]
+28-14	_	it	abstract[156]	new[156]	coref	29-3[156_157]
 28-15	_	's	_	_	_	_
 28-16	_	amazing	_	_	_	_
 28-17	_	.	_	_	_	_
@@ -679,7 +679,7 @@
 #Text=Alright here it is .
 29-1	_	Alright	_	_	_	_
 29-2	_	here	_	_	_	_
-29-3	_	it	abstract[156]	new[156]	coref	38-17[156_157]
+29-3	_	it	abstract[157]	new[157]	coref	38-17[157_158]
 29-4	_	is	_	_	_	_
 29-5	_	.	_	_	_	_
 
@@ -726,7 +726,7 @@
 #Text=Alright , I think we made it about a mile on the loop and I think we 're gon na turn around because thing is it 's all uphi- uphill and we 're just we 're being lazy today .
 36-1	_	Alright	_	_	_	_
 36-2	_	,	_	_	_	_
-36-3	_	I	abstract[98]	new[98]	coref	36-15[98_99]
+36-3	_	I	abstract[99]	new[99]	coref	36-15[99_100]
 36-4	_	think	_	_	_	_
 36-5	_	we	abstract[35]	new[35]	coref	36-17[35_36]
 36-6	_	made	_	_	_	_
@@ -735,10 +735,10 @@
 36-9	_	a	_	_	_	_
 36-10	_	mile	_	_	_	_
 36-11	_	on	_	_	_	_
-36-12	_	the	abstract[162]	new[162]	_	_
-36-13	_	loop	abstract[162]	new[162]	_	_
+36-12	_	the	abstract[163]	new[163]	_	_
+36-13	_	loop	abstract[163]	new[163]	_	_
 36-14	_	and	_	_	_	_
-36-15	_	I	abstract[99]	new[99]	coref	38-3[99_100]
+36-15	_	I	abstract[100]	new[100]	coref	38-3[100_101]
 36-16	_	think	_	_	_	_
 36-17	_	we	abstract[36]	new[36]	coref	36-32[36_37]
 36-18	_	're	_	_	_	_
@@ -777,12 +777,12 @@
 37-9	_	day	_	_	_	_
 37-10	_	so	_	_	_	_
 37-11	_	,	_	_	_	_
-37-12	_	you	abstract[121]	new[121]	_	_
+37-12	_	you	abstract[122]	new[122]	_	_
 37-13	_	know	_	_	_	_
 37-14	_	what	_	_	_	_
 37-15	_	,	_	_	_	_
-37-16	_	last	abstract[169]	new[169]	coref	48-9[169_170]
-37-17	_	day	abstract[169]	new[169]	_	_
+37-16	_	last	abstract[170]	new[170]	coref	48-9[170_171]
+37-17	_	day	abstract[170]	new[170]	_	_
 37-18	_	we	abstract[40]	new[40]	coref	37-23[40_41]
 37-19	_	're	_	_	_	_
 37-20	_	gon	_	_	_	_
@@ -798,7 +798,7 @@
 #Text=And yeah I 'm gon na head back and then just keep driving and stop along the way .
 38-1	_	And	_	_	_	_
 38-2	_	yeah	_	_	_	_
-38-3	_	I	abstract[100]	new[100]	coref	44-1[100_101]
+38-3	_	I	abstract[101]	new[101]	coref	44-1[101_102]
 38-4	_	'm	_	_	_	_
 38-5	_	gon	_	_	_	_
 38-6	_	na	_	_	_	_
@@ -812,17 +812,17 @@
 38-14	_	and	_	_	_	_
 38-15	_	stop	_	_	_	_
 38-16	_	along	_	_	_	_
-38-17	_	the	abstract[157]	new[157]	coref	39-4[157_158]
-38-18	_	way	abstract[157]	new[157]	_	_
+38-17	_	the	abstract[158]	new[158]	coref	39-4[158_159]
+38-18	_	way	abstract[158]	new[158]	_	_
 38-19	_	.	_	_	_	_
 
 #Text=Just driving on the Sun Road , probably go to Saint Mary 's Lake again .
 39-1	_	Just	_	_	_	_
 39-2	_	driving	_	_	_	_
 39-3	_	on	_	_	_	_
-39-4	_	the	abstract[158]	new[158]	coref	40-10[158_159]
-39-5	_	Sun	abstract[150]|abstract[158]	new[150]|new[158]	_	_
-39-6	_	Road	abstract[158]	new[158]	_	_
+39-4	_	the	abstract[159]	new[159]	coref	40-10[159_160]
+39-5	_	Sun	abstract[151]|abstract[159]	new[151]|new[159]	_	_
+39-6	_	Road	abstract[159]	new[159]	_	_
 39-7	_	,	_	_	_	_
 39-8	_	probably	_	_	_	_
 39-9	_	go	_	_	_	_
@@ -844,9 +844,9 @@
 40-7	_	last	_	_	_	_
 40-8	_	views	_	_	_	_
 40-9	_	of	_	_	_	_
-40-10	_	this	abstract[159]	new[159]	coref	42-12[159_160]
-40-11	_	beautiful	abstract[159]	new[159]	_	_
-40-12	_	road	abstract[159]	new[159]	_	_
+40-10	_	this	abstract[160]	new[160]	coref	42-12[160_161]
+40-11	_	beautiful	abstract[160]	new[160]	_	_
+40-12	_	road	abstract[160]	new[160]	_	_
 40-13	_	.	_	_	_	_
 
 #Text=So yeah , so pretty .
@@ -869,40 +869,40 @@
 42-9	_	jam	_	_	_	_
 42-10	_	here	_	_	_	_
 42-11	_	on	_	_	_	_
-42-12	_	the	abstract[160]	new[160]	_	_
-42-13	_	road	abstract[160]	new[160]	_	_
+42-12	_	the	abstract[161]	new[161]	_	_
+42-13	_	road	abstract[161]	new[161]	_	_
 42-14	_	.	_	_	_	_
 
 #Text=There 's a grizzly bear and two babies that were hanging out up here .
 43-1	_	There	_	_	_	_
 43-2	_	's	_	_	_	_
-43-3	_	a	abstract[163]	new[163]	coref	45-1[163_164]
-43-4	_	grizzly	abstract[163]	new[163]	_	_
-43-5	_	bear	abstract[163]	new[163]	_	_
-43-6	_	and	abstract[163]	new[163]	_	_
-43-7	_	two	abstract[163]	new[163]	_	_
-43-8	_	babies	abstract[163]	new[163]	_	_
-43-9	_	that	abstract[163]	new[163]	_	_
-43-10	_	were	abstract[163]	new[163]	_	_
-43-11	_	hanging	abstract[163]	new[163]	_	_
-43-12	_	out	abstract[163]	new[163]	_	_
-43-13	_	up	abstract[163]	new[163]	_	_
-43-14	_	here	abstract[163]	new[163]	_	_
+43-3	_	a	abstract[164]	new[164]	coref	45-1[164_165]
+43-4	_	grizzly	abstract[164]	new[164]	_	_
+43-5	_	bear	abstract[164]	new[164]	_	_
+43-6	_	and	abstract[164]	new[164]	_	_
+43-7	_	two	abstract[164]	new[164]	_	_
+43-8	_	babies	abstract[164]	new[164]	_	_
+43-9	_	that	abstract[164]	new[164]	_	_
+43-10	_	were	abstract[164]	new[164]	_	_
+43-11	_	hanging	abstract[164]	new[164]	_	_
+43-12	_	out	abstract[164]	new[164]	_	_
+43-13	_	up	abstract[164]	new[164]	_	_
+43-14	_	here	abstract[164]	new[164]	_	_
 43-15	_	.	_	_	_	_
 
 #Text=I could n't get it on my camera .
-44-1	_	I	abstract[101]	new[101]	coref	44-7[101_102]
+44-1	_	I	abstract[102]	new[102]	coref	44-7[102_103]
 44-2	_	could	_	_	_	_
 44-3	_	n't	_	_	_	_
 44-4	_	get	_	_	_	_
 44-5	_	it	_	_	_	_
 44-6	_	on	_	_	_	_
-44-7	_	my	abstract[102]	new[102]	coref	45-19[102_103]
+44-7	_	my	abstract[103]	new[103]	coref	45-19[103_104]
 44-8	_	camera	_	_	_	_
 44-9	_	.	_	_	_	_
 
 #Text=She was like too far away and then she 'd like go into the bush and stuff but I do have my big Canon and I was able to get some photos of her but that was cool !
-45-1	_	She	abstract[164]	new[164]	coref	45-9[164_165]
+45-1	_	She	abstract[165]	new[165]	coref	45-9[165_166]
 45-2	_	was	_	_	_	_
 45-3	_	like	_	_	_	_
 45-4	_	too	_	_	_	_
@@ -910,7 +910,7 @@
 45-6	_	away	_	_	_	_
 45-7	_	and	_	_	_	_
 45-8	_	then	_	_	_	_
-45-9	_	she	abstract[165]	new[165]	coref	45-34[165_166]
+45-9	_	she	abstract[166]	new[166]	coref	45-34[166_167]
 45-10	_	'd	_	_	_	_
 45-11	_	like	_	_	_	_
 45-12	_	go	_	_	_	_
@@ -920,14 +920,14 @@
 45-16	_	and	_	_	_	_
 45-17	_	stuff	_	_	_	_
 45-18	_	but	_	_	_	_
-45-19	_	I	abstract[103]	new[103]	coref	45-22[103_104]
+45-19	_	I	abstract[104]	new[104]	coref	45-22[104_105]
 45-20	_	do	_	_	_	_
 45-21	_	have	_	_	_	_
-45-22	_	my	abstract[104]	new[104]	coref	45-26[104_105]
+45-22	_	my	abstract[105]	new[105]	coref	45-26[105_106]
 45-23	_	big	_	_	_	_
 45-24	_	Canon	_	_	_	_
 45-25	_	and	_	_	_	_
-45-26	_	I	abstract[105]	new[105]	coref	54-6[105_106]
+45-26	_	I	abstract[106]	new[106]	coref	54-6[106_107]
 45-27	_	was	_	_	_	_
 45-28	_	able	_	_	_	_
 45-29	_	to	_	_	_	_
@@ -935,7 +935,7 @@
 45-31	_	some	_	_	_	_
 45-32	_	photos	_	_	_	_
 45-33	_	of	_	_	_	_
-45-34	_	her	abstract[166]	new[166]	coref	52-2[166_167]
+45-34	_	her	abstract[167]	new[167]	coref	52-2[167_168]
 45-35	_	but	_	_	_	_
 45-36	_	that	_	_	_	_
 45-37	_	was	_	_	_	_
@@ -963,7 +963,7 @@
 48-6	_	any	_	_	_	_
 48-7	_	yet	_	_	_	_
 48-8	_	and	_	_	_	_
-48-9	_	it	abstract[170]	new[170]	_	_
+48-9	_	it	abstract[171]	new[171]	_	_
 48-10	_	's	_	_	_	_
 48-11	_	our	abstract[44]	new[44]	coref	48-15[44_45]
 48-12	_	last	_	_	_	_
@@ -1014,13 +1014,13 @@
 51-8	_	.	_	_	_	_
 
 #Text=She was huge !
-52-1	_	She	abstract[167]	new[167]	coref	53-1[167_168]
+52-1	_	She	abstract[168]	new[168]	coref	53-1[168_169]
 52-2	_	was	_	_	_	_
 52-3	_	huge	_	_	_	_
 52-4	_	!	_	_	_	_
 
 #Text=She was a big big big mama .
-53-1	_	She	abstract[168]	new[168]	_	_
+53-1	_	She	abstract[169]	new[169]	_	_
 53-2	_	was	_	_	_	_
 53-3	_	a	_	_	_	_
 53-4	_	big	_	_	_	_
@@ -1035,7 +1035,7 @@
 54-3	_	's	_	_	_	_
 54-4	_	so	_	_	_	_
 54-5	_	cool	_	_	_	_
-54-6	_	I	abstract[106]	new[106]	coref	77-1[106_107]
+54-6	_	I	abstract[107]	new[107]	coref	77-1[107_108]
 54-7	_	'm	_	_	_	_
 54-8	_	so	_	_	_	_
 54-9	_	glad	_	_	_	_
@@ -1050,7 +1050,7 @@
 55-4	_	!	_	_	_	_
 
 #Text=Guys so we had an awesome lazy day in the park today and now we are ending our time in Glacier with some pizza .
-56-1	_	Guys	abstract[178]	new[178]	coref	58-3[178_179]
+56-1	_	Guys	abstract[179]	new[179]	coref	58-3[179_180]
 56-2	_	so	_	_	_	_
 56-3	_	we	abstract[48]	new[48]	coref	56-15[48_49]
 56-4	_	had	_	_	_	_
@@ -1059,9 +1059,9 @@
 56-7	_	lazy	_	_	_	_
 56-8	_	day	_	_	_	_
 56-9	_	in	_	_	_	_
-56-10	_	the	abstract[135]	new[135]	coref	56-21[135_136]
-56-11	_	park	abstract[135]	new[135]	_	_
-56-12	_	today	abstract[191]	new[191]	coref	75-5[191_192]
+56-10	_	the	abstract[136]	new[136]	coref	56-21[136_137]
+56-11	_	park	abstract[136]	new[136]	_	_
+56-12	_	today	abstract[192]	new[192]	coref	75-5[192_193]
 56-13	_	and	_	_	_	_
 56-14	_	now	_	_	_	_
 56-15	_	we	abstract[49]	new[49]	coref	56-18[49_50]
@@ -1070,7 +1070,7 @@
 56-18	_	our	abstract[50]	new[50]	coref	57-1[50_51]
 56-19	_	time	_	_	_	_
 56-20	_	in	_	_	_	_
-56-21	_	Glacier	abstract[136]	new[136]	coref	75-13[136_137]
+56-21	_	Glacier	abstract[137]	new[137]	coref	75-13[137_138]
 56-22	_	with	_	_	_	_
 56-23	_	some	_	_	_	_
 56-24	_	pizza	_	_	_	_
@@ -1081,19 +1081,19 @@
 57-2	_	got	_	_	_	_
 57-3	_	beers	_	_	_	_
 57-4	_	at	_	_	_	_
-57-5	_	Pizza	abstract[187]	new[187]	coref	63-2[187_188]
-57-6	_	Hut	abstract[187]	new[187]	_	_
+57-5	_	Pizza	abstract[188]	new[188]	coref	63-2[188_189]
+57-6	_	Hut	abstract[188]	new[188]	_	_
 57-7	_	in	_	_	_	_
-57-8	_	Montana	abstract[171]	new[171]	coref	58-1[171_172]
+57-8	_	Montana	abstract[172]	new[172]	coref	58-1[172_173]
 57-9	_	!	_	_	_	_
 
 #Text=Montana , you can get beer .
-58-1	_	Montana	abstract[172]	new[172]	coref	67-5[172_173]
+58-1	_	Montana	abstract[173]	new[173]	coref	67-5[173_174]
 58-2	_	,	_	_	_	_
-58-3	_	you	abstract[179]	new[179]	coref	66-1[179_180]
+58-3	_	you	abstract[180]	new[180]	coref	66-1[180_181]
 58-4	_	can	_	_	_	_
 58-5	_	get	_	_	_	_
-58-6	_	beer	abstract[181]	new[181]	coref	60-1[181_182]
+58-6	_	beer	abstract[182]	new[182]	coref	60-1[182_183]
 58-7	_	.	_	_	_	_
 
 #Text=Whoa mind blowing
@@ -1102,19 +1102,19 @@
 59-3	_	blowing	_	_	_	_
 
 #Text=It 's not even – it 's not three - two , it 's like real good .
-60-1	_	It	abstract[182]	new[182]	coref	60-6[182_183]
+60-1	_	It	abstract[183]	new[183]	coref	60-6[183_184]
 60-2	_	's	_	_	_	_
 60-3	_	not	_	_	_	_
 60-4	_	even	_	_	_	_
 60-5	_	–	_	_	_	_
-60-6	_	it	abstract[183]	new[183]	coref	60-13[183_184]
+60-6	_	it	abstract[184]	new[184]	coref	60-13[184_185]
 60-7	_	's	_	_	_	_
 60-8	_	not	_	_	_	_
 60-9	_	three	_	_	_	_
 60-10	_	-	_	_	_	_
 60-11	_	two	_	_	_	_
 60-12	_	,	_	_	_	_
-60-13	_	it	abstract[184]	new[184]	coref	61-1[184_185]
+60-13	_	it	abstract[185]	new[185]	coref	61-1[185_186]
 60-14	_	's	_	_	_	_
 60-15	_	like	_	_	_	_
 60-16	_	real	_	_	_	_
@@ -1122,7 +1122,7 @@
 60-18	_	.	_	_	_	_
 
 #Text=It 's real beer , not three two , yes .
-61-1	_	It	abstract[185]	new[185]	coref	62-1[185_186]
+61-1	_	It	abstract[186]	new[186]	coref	62-1[186_187]
 61-2	_	's	_	_	_	_
 61-3	_	real	_	_	_	_
 61-4	_	beer	_	_	_	_
@@ -1135,7 +1135,7 @@
 61-11	_	.	_	_	_	_
 
 #Text=It 's the real deal
-62-1	_	It	abstract[186]	new[186]	_	_
+62-1	_	It	abstract[187]	new[187]	_	_
 62-2	_	's	_	_	_	_
 62-3	_	the	_	_	_	_
 62-4	_	real	_	_	_	_
@@ -1143,8 +1143,8 @@
 
 #Text=Alright Pizza Hut was awesome and now we went and got some ice cream .
 63-1	_	Alright	_	_	_	_
-63-2	_	Pizza	abstract[188]	new[188]	_	_
-63-3	_	Hut	abstract[188]	new[188]	_	_
+63-2	_	Pizza	abstract[189]	new[189]	_	_
+63-3	_	Hut	abstract[189]	new[189]	_	_
 63-4	_	was	_	_	_	_
 63-5	_	awesome	_	_	_	_
 63-6	_	and	_	_	_	_
@@ -1173,7 +1173,7 @@
 65-5	_	.	_	_	_	_
 
 #Text=I told him a small .
-66-1	_	I	abstract[180]	new[180]	_	_
+66-1	_	I	abstract[181]	new[181]	_	_
 66-2	_	told	_	_	_	_
 66-3	_	him	_	_	_	_
 66-4	_	a	_	_	_	_
@@ -1185,7 +1185,7 @@
 67-2	_	's	_	_	_	_
 67-3	_	bigger	_	_	_	_
 67-4	_	in	_	_	_	_
-67-5	_	Montana	abstract[173]	new[173]	coref	68-5[173_174]
+67-5	_	Montana	abstract[174]	new[174]	coref	68-5[174_175]
 67-6	_	.	_	_	_	_
 
 #Text=Everything 's bigger in Montana .
@@ -1193,11 +1193,11 @@
 68-2	_	's	_	_	_	_
 68-3	_	bigger	_	_	_	_
 68-4	_	in	_	_	_	_
-68-5	_	Montana	abstract[174]	new[174]	coref	70-33[174_175]
+68-5	_	Montana	abstract[175]	new[175]	coref	70-33[175_176]
 68-6	_	.	_	_	_	_
 
 #Text=It ’s huge .
-69-1	_	It	abstract[189]	new[189]	coref	70-25[189_190]
+69-1	_	It	abstract[190]	new[190]	coref	70-25[190_191]
 69-2	_	’s	_	_	_	_
 69-3	_	huge	_	_	_	_
 69-4	_	.	_	_	_	_
@@ -1227,15 +1227,15 @@
 70-22	_	going	_	_	_	_
 70-23	_	to	_	_	_	_
 70-24	_	eat	_	_	_	_
-70-25	_	our	abstract[57]|abstract[190]	new[57]|new[190]	coref	70-30[57_58]
-70-26	_	ice	abstract[190]	new[190]	_	_
-70-27	_	cream	abstract[190]	new[190]	_	_
+70-25	_	our	abstract[57]|abstract[191]	new[57]|new[191]	coref	70-30[57_58]
+70-26	_	ice	abstract[191]	new[191]	_	_
+70-27	_	cream	abstract[191]	new[191]	_	_
 70-28	_	and	_	_	_	_
 70-29	_	enjoy	_	_	_	_
 70-30	_	our	abstract[58]	new[58]	coref	75-7[58_59]
 70-31	_	last	_	_	_	_
 70-32	_	evening	_	_	_	_
-70-33	_	here	abstract[175]	new[175]	coref	72-2[175_176]
+70-33	_	here	abstract[176]	new[176]	coref	72-2[176_177]
 70-34	_	.	_	_	_	_
 
 #Text=Cheers .
@@ -1244,7 +1244,7 @@
 
 #Text=In Montana .
 72-1	_	In	_	_	_	_
-72-2	_	Montana	abstract[176]	new[176]	coref	75-10[176_177]
+72-2	_	Montana	abstract[177]	new[177]	coref	75-10[177_178]
 72-3	_	.	_	_	_	_
 
 #Text=Yeah .
@@ -1257,20 +1257,20 @@
 
 #Text=Alright you guys , it 's our last day here and at Glacier National Park .
 75-1	_	Alright	_	_	_	_
-75-2	_	you	abstract[193]	new[193]	coref	76-5[193_194]
-75-3	_	guys	abstract[193]	new[193]	_	_
+75-2	_	you	abstract[194]	new[194]	coref	76-5[194_195]
+75-3	_	guys	abstract[194]	new[194]	_	_
 75-4	_	,	_	_	_	_
-75-5	_	it	abstract[192]	new[192]	_	_
+75-5	_	it	abstract[193]	new[193]	_	_
 75-6	_	's	_	_	_	_
 75-7	_	our	abstract[59]	new[59]	coref	77-12[59_60]
 75-8	_	last	_	_	_	_
 75-9	_	day	_	_	_	_
-75-10	_	here	abstract[177]	new[177]	_	_
+75-10	_	here	abstract[178]	new[178]	_	_
 75-11	_	and	_	_	_	_
 75-12	_	at	_	_	_	_
-75-13	_	Glacier	abstract[137]	new[137]	coref	78-10[137_138]
-75-14	_	National	abstract[137]	new[137]	_	_
-75-15	_	Park	abstract[137]	new[137]	_	_
+75-13	_	Glacier	abstract[138]	new[138]	coref	78-10[138_139]
+75-14	_	National	abstract[138]	new[138]	_	_
+75-15	_	Park	abstract[138]	new[138]	_	_
 75-16	_	.	_	_	_	_
 
 #Text=It is windy as you can see
@@ -1278,18 +1278,18 @@
 76-2	_	is	_	_	_	_
 76-3	_	windy	_	_	_	_
 76-4	_	as	_	_	_	_
-76-5	_	you	abstract[194]	new[194]	_	_
+76-5	_	you	abstract[195]	new[195]	_	_
 76-6	_	can	_	_	_	_
 76-7	_	see	_	_	_	_
 
 #Text=I just wanted to thank you guys so much for watching our vlog .
-77-1	_	I	abstract[107]	new[107]	coref	78-12[107_108]
+77-1	_	I	abstract[108]	new[108]	coref	78-12[108_109]
 77-2	_	just	_	_	_	_
 77-3	_	wanted	_	_	_	_
 77-4	_	to	_	_	_	_
 77-5	_	thank	_	_	_	_
-77-6	_	you	abstract[197]	new[197]	coref	78-16[197_198]
-77-7	_	guys	abstract[197]	new[197]	_	_
+77-6	_	you	abstract[198]	new[198]	coref	78-16[198_199]
+77-7	_	guys	abstract[198]	new[198]	_	_
 77-8	_	so	_	_	_	_
 77-9	_	much	_	_	_	_
 77-10	_	for	_	_	_	_
@@ -1301,24 +1301,24 @@
 #Text=We had such a great time being back in Glacier and I hope this inspired you to come out here and see one of our most favorite national parks we 've ever been to in the USA .
 78-1	_	We	abstract[61]	new[61]	coref	78-25[61_62]
 78-2	_	had	_	_	_	_
-78-3	_	such	abstract[195]	new[195]	coref	78-14[195_196]
-78-4	_	a	abstract[195]	new[195]	_	_
-78-5	_	great	abstract[195]	new[195]	_	_
-78-6	_	time	abstract[195]	new[195]	_	_
+78-3	_	such	abstract[196]	new[196]	coref	78-14[196_197]
+78-4	_	a	abstract[196]	new[196]	_	_
+78-5	_	great	abstract[196]	new[196]	_	_
+78-6	_	time	abstract[196]	new[196]	_	_
 78-7	_	being	_	_	_	_
 78-8	_	back	_	_	_	_
 78-9	_	in	_	_	_	_
-78-10	_	Glacier	abstract[138]	new[138]	coref	78-20[138_139]
+78-10	_	Glacier	abstract[139]	new[139]	coref	78-20[139_140]
 78-11	_	and	_	_	_	_
-78-12	_	I	abstract[108]	new[108]	_	_
+78-12	_	I	abstract[109]	new[109]	_	_
 78-13	_	hope	_	_	_	_
-78-14	_	this	abstract[196]	new[196]	_	_
+78-14	_	this	abstract[197]	new[197]	_	_
 78-15	_	inspired	_	_	_	_
-78-16	_	you	abstract[198]	new[198]	coref	81-3[198_199]
+78-16	_	you	abstract[199]	new[199]	coref	81-3[199_200]
 78-17	_	to	_	_	_	_
 78-18	_	come	_	_	_	_
 78-19	_	out	_	_	_	_
-78-20	_	here	abstract[139]	new[139]	_	_
+78-20	_	here	abstract[140]	new[140]	_	_
 78-21	_	and	_	_	_	_
 78-22	_	see	_	_	_	_
 78-23	_	one	_	_	_	_
@@ -1334,8 +1334,8 @@
 78-33	_	been	_	_	_	_
 78-34	_	to	_	_	_	_
 78-35	_	in	_	_	_	_
-78-36	_	the	abstract[204]	new[204]	_	_
-78-37	_	USA	abstract[204]	new[204]	_	_
+78-36	_	the	abstract[203]	new[203]	_	_
+78-37	_	USA	abstract[203]	new[203]	_	_
 78-38	_	.	_	_	_	_
 
 #Text=We have a 10 hour drive today ahead of us .
@@ -1363,7 +1363,7 @@
 80-9	_	then	_	_	_	_
 80-10	_	from	_	_	_	_
 80-11	_	there	_	_	_	_
-80-12	_	we	abstract[67]	new[67]	_	_
+80-12	_	we	abstract[67]	new[67]	coref	86-2[67_68]
 80-13	_	are	_	_	_	_
 80-14	_	going	_	_	_	_
 80-15	_	to	_	_	_	_
@@ -1377,7 +1377,7 @@
 #Text=And if you have n't already be sure to give this video a thumbs up .
 81-1	_	And	_	_	_	_
 81-2	_	if	_	_	_	_
-81-3	_	you	abstract[199]	new[199]	coref	82-2[199_200]
+81-3	_	you	abstract[200]	new[200]	coref	82-2[200_201]
 81-4	_	have	_	_	_	_
 81-5	_	n't	_	_	_	_
 81-6	_	already	_	_	_	_
@@ -1394,7 +1394,7 @@
 
 #Text=If you have any questions of course comment below and do n't forget to subscribe for future videos .
 82-1	_	If	_	_	_	_
-82-2	_	you	abstract[200]	new[200]	coref	86-2[200_201]
+82-2	_	you	abstract[201]	new[201]	_	_
 82-3	_	have	_	_	_	_
 82-4	_	any	_	_	_	_
 82-5	_	questions	_	_	_	_
@@ -1433,21 +1433,11 @@
 85-2	_	guys	_	_	_	_
 85-3	_	!	_	_	_	_
 
-#Text=Do you think you could use an Angelic Coco Curl Defending and Soft Hold Styler ?
-86-1	_	Do	_	_	_	_
-86-2	_	you	abstract[201]	new[201]	coref	86-4[201_202]
-86-3	_	think	_	_	_	_
-86-4	_	you	abstract[202]	new[202]	_	_
-86-5	_	could	_	_	_	_
-86-6	_	use	_	_	_	_
-86-7	_	an	_	_	_	_
-86-8	_	Angelic	_	_	_	_
-86-9	_	Coco	_	_	_	_
-86-10	_	Curl	_	_	_	_
-86-11	_	Defending	_	_	_	_
-86-12	_	and	_	_	_	_
-86-13	_	Soft	_	_	_	_
-86-14	_	Hold	_	_	_	_
-86-15	_	Styler	_	_	_	_
-86-16	_	?	_	_	_	_
+#Text=Here we go ! ! !
+86-1	_	Here	_	_	_	_
+86-2	_	we	abstract[68]	new[68]	_	_
+86-3	_	go	_	_	_	_
+86-4	_	!	_	_	_	_
+86-5	_	!	_	_	_	_
+86-6	_	!	_	_	_	_
 

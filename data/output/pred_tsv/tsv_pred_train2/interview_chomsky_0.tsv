@@ -812,7 +812,7 @@
 33-7	_	Hoop	abstract[142]	new[142]	_	_
 33-8	_	Scheffer	abstract[142]	new[142]	_	_
 33-9	_	,	_	_	_	_
-33-10	_	he	abstract[143]	new[143]	_	_
+33-10	_	he	abstract[143]	new[143]	coref	46-3[143_144]
 33-11	_	has	_	_	_	_
 33-12	_	explained	_	_	_	_
 33-13	_	that	_	_	_	_
@@ -842,8 +842,8 @@
 33-37	_	energy	_	_	_	_
 33-38	_	supplies	_	_	_	_
 33-39	_	for	_	_	_	_
-33-40	_	the	abstract[159]	new[159]	coref	39-13[159_160]
-33-41	_	West	abstract[159]	new[159]	_	_
+33-40	_	the	abstract[160]	new[160]	coref	39-13[160_161]
+33-41	_	West	abstract[160]	new[160]	_	_
 33-42	_	.	_	_	_	_
 
 #Text=Well that ’s kind of an unending war , so do we want NATO to exist , do we want there to be a Western military alliance that carries out these activities , with no pretense of defense ?
@@ -858,14 +858,14 @@
 34-9	_	,	_	_	_	_
 34-10	_	so	_	_	_	_
 34-11	_	do	_	_	_	_
-34-12	_	we	abstract[144]	new[144]	coref	34-19[144_145]
+34-12	_	we	abstract[145]	new[145]	coref	34-19[145_146]
 34-13	_	want	_	_	_	_
 34-14	_	NATO	abstract[58]	new[58]	coref	35-16[58_59]
 34-15	_	to	_	_	_	_
 34-16	_	exist	_	_	_	_
 34-17	_	,	_	_	_	_
 34-18	_	do	_	_	_	_
-34-19	_	we	abstract[145]	new[145]	coref	36-17[145_146]
+34-19	_	we	abstract[146]	new[146]	coref	36-17[146_147]
 34-20	_	want	_	_	_	_
 34-21	_	there	_	_	_	_
 34-22	_	to	_	_	_	_
@@ -924,13 +924,13 @@
 35-34	_	happened	_	_	_	_
 35-35	_	to	_	_	_	_
 35-36	_	be	_	_	_	_
-35-37	_	one	abstract[151]	new[151]	coref	35-43[151_152]
+35-37	_	one	abstract[152]	new[152]	coref	35-43[152_153]
 35-38	_	I	abstract[21]	new[21]	coref	36-2[21_22]
 35-39	_	’d	_	_	_	_
 35-40	_	be	_	_	_	_
 35-41	_	opposed	_	_	_	_
 35-42	_	to	_	_	_	_
-35-43	_	that	abstract[152]	new[152]	_	_
+35-43	_	that	abstract[153]	new[153]	_	_
 35-44	_	too	_	_	_	_
 35-45	_	.	_	_	_	_
 
@@ -951,7 +951,7 @@
 36-14	_	,	_	_	_	_
 36-15	_	why	_	_	_	_
 36-16	_	should	_	_	_	_
-36-17	_	we	abstract[146]	new[146]	coref	38-1[146_147]
+36-17	_	we	abstract[147]	new[147]	coref	38-1[147_148]
 36-18	_	even	_	_	_	_
 36-19	_	be	_	_	_	_
 36-20	_	debating	_	_	_	_
@@ -971,47 +971,47 @@
 37-1	_	Labor	_	_	_	_
 37-2	_	actions	_	_	_	_
 37-3	_	as	_	_	_	_
-37-4	_	a	abstract[161]	new[161]	coref	42-8[161_162]
-37-5	_	revival	abstract[161]	new[161]	_	_
-37-6	_	of	abstract[161]	new[161]	_	_
-37-7	_	the	abstract[157]|abstract[161]	new[157]|new[161]	coref	39-10[157_158]
-37-8	_	Left	abstract[157]|abstract[161]	new[157]|new[161]	_	_
+37-4	_	a	abstract[162]	new[162]	coref	42-8[162_163]
+37-5	_	revival	abstract[162]	new[162]	_	_
+37-6	_	of	abstract[162]	new[162]	_	_
+37-7	_	the	abstract[158]|abstract[162]	new[158]|new[162]	coref	39-10[158_159]
+37-8	_	Left	abstract[158]|abstract[162]	new[158]|new[162]	_	_
 
 #Text=We ’ve seen mass strikes all around the world , in countries that we would n’t expect it .
-38-1	_	We	abstract[147]	new[147]	coref	38-14[147_148]
+38-1	_	We	abstract[148]	new[148]	coref	38-14[148_149]
 38-2	_	’ve	_	_	_	_
 38-3	_	seen	_	_	_	_
-38-4	_	mass	abstract[153]	new[153]	coref	38-18[153_154]
-38-5	_	strikes	abstract[153]	new[153]	_	_
-38-6	_	all	abstract[153]	new[153]	_	_
-38-7	_	around	abstract[153]	new[153]	_	_
-38-8	_	the	abstract[153]	new[153]	_	_
-38-9	_	world	abstract[153]	new[153]	_	_
+38-4	_	mass	abstract[154]	new[154]	coref	38-18[154_155]
+38-5	_	strikes	abstract[154]	new[154]	_	_
+38-6	_	all	abstract[154]	new[154]	_	_
+38-7	_	around	abstract[154]	new[154]	_	_
+38-8	_	the	abstract[154]	new[154]	_	_
+38-9	_	world	abstract[154]	new[154]	_	_
 38-10	_	,	_	_	_	_
 38-11	_	in	_	_	_	_
 38-12	_	countries	_	_	_	_
 38-13	_	that	_	_	_	_
-38-14	_	we	abstract[148]	new[148]	coref	42-19[148_149]
+38-14	_	we	abstract[149]	new[149]	coref	42-19[149_150]
 38-15	_	would	_	_	_	_
 38-16	_	n’t	_	_	_	_
 38-17	_	expect	_	_	_	_
-38-18	_	it	abstract[154]	new[154]	coref	39-5[154_155]
+38-18	_	it	abstract[155]	new[155]	coref	39-5[155_156]
 38-19	_	.	_	_	_	_
 
 #Text=Do you think this is a revival of the Left in the West ?
 39-1	_	Do	_	_	_	_
 39-2	_	you	abstract[23]	new[23]	coref	40-3[23_24]
 39-3	_	think	_	_	_	_
-39-4	_	this	abstract[155]	new[155]	coref	40-5[155_156]
+39-4	_	this	abstract[156]	new[156]	coref	40-5[156_157]
 39-5	_	is	_	_	_	_
 39-6	_	a	_	_	_	_
 39-7	_	revival	_	_	_	_
 39-8	_	of	_	_	_	_
-39-9	_	the	abstract[158]	new[158]	_	_
-39-10	_	Left	abstract[158]	new[158]	_	_
+39-9	_	the	abstract[159]	new[159]	_	_
+39-10	_	Left	abstract[159]	new[159]	_	_
 39-11	_	in	_	_	_	_
-39-12	_	the	abstract[160]	new[160]	_	_
-39-13	_	West	abstract[160]	new[160]	_	_
+39-12	_	the	abstract[161]	new[161]	_	_
+39-13	_	West	abstract[161]	new[161]	_	_
 39-14	_	?	_	_	_	_
 
 #Text=Or do you think it ’s nothing ?
@@ -1019,7 +1019,7 @@
 40-2	_	do	_	_	_	_
 40-3	_	you	abstract[24]	new[24]	coref	42-1[24_25]
 40-4	_	think	_	_	_	_
-40-5	_	it	abstract[156]	new[156]	_	_
+40-5	_	it	abstract[157]	new[157]	_	_
 40-6	_	’s	_	_	_	_
 40-7	_	nothing	_	_	_	_
 40-8	_	?	_	_	_	_
@@ -1041,7 +1041,7 @@
 42-5	_	certainly	_	_	_	_
 42-6	_	signs	_	_	_	_
 42-7	_	of	_	_	_	_
-42-8	_	it	abstract[162]	new[162]	_	_
+42-8	_	it	abstract[163]	new[163]	_	_
 42-9	_	,	_	_	_	_
 42-10	_	and	_	_	_	_
 42-11	_	in	_	_	_	_
@@ -1052,7 +1052,7 @@
 42-16	_	,	_	_	_	_
 42-17	_	in	_	_	_	_
 42-18	_	fact	_	_	_	_
-42-19	_	we	abstract[149]	new[149]	coref	45-2[149_150]
+42-19	_	we	abstract[150]	new[150]	coref	45-2[150_151]
 42-20	_	had	_	_	_	_
 42-21	_	a	_	_	_	_
 42-22	_	sit	_	_	_	_
@@ -1092,7 +1092,7 @@
 43-14	_	very	_	_	_	_
 43-15	_	threatening	_	_	_	_
 43-16	_	to	_	_	_	_
-43-17	_	management	abstract[165]	new[165]	coref	43-41[165_166]
+43-17	_	management	abstract[166]	new[166]	coref	43-41[166_167]
 43-18	_	and	_	_	_	_
 43-19	_	ownership	_	_	_	_
 43-20	_	,	_	_	_	_
@@ -1108,16 +1108,16 @@
 43-30	_	workers	_	_	_	_
 43-31	_	taking	_	_	_	_
 43-32	_	over	_	_	_	_
-43-33	_	the	abstract[163]	new[163]	coref	43-37[163_164]
-43-34	_	factory	abstract[163]	new[163]	_	_
+43-33	_	the	abstract[164]	new[164]	coref	43-37[164_165]
+43-34	_	factory	abstract[164]	new[164]	_	_
 43-35	_	and	_	_	_	_
 43-36	_	running	_	_	_	_
-43-37	_	it	abstract[164]	new[164]	_	_
+43-37	_	it	abstract[165]	new[165]	_	_
 43-38	_	and	_	_	_	_
 43-39	_	kicking	_	_	_	_
 43-40	_	out	_	_	_	_
-43-41	_	the	abstract[166]	new[166]	_	_
-43-42	_	management	abstract[166]	new[166]	_	_
+43-41	_	the	abstract[167]	new[167]	_	_
+43-42	_	management	abstract[167]	new[167]	_	_
 43-43	_	,	_	_	_	_
 43-44	_	and	_	_	_	_
 43-45	_	probably	_	_	_	_
@@ -1147,7 +1147,7 @@
 
 #Text=Well we just had one in the United States at the Republic Windows and Doors Factory , it ’s hard to know , I mean these things are just hard to predict , they may take off , and they may take on a broader scope , they may fizzle away or be diverted .
 45-1	_	Well	_	_	_	_
-45-2	_	we	abstract[150]	new[150]	_	_
+45-2	_	we	abstract[151]	new[151]	_	_
 45-3	_	just	_	_	_	_
 45-4	_	had	_	_	_	_
 45-5	_	one	_	_	_	_
@@ -1171,21 +1171,21 @@
 45-23	_	,	_	_	_	_
 45-24	_	I	abstract[26]	new[26]	_	_
 45-25	_	mean	_	_	_	_
-45-26	_	these	abstract[167]	new[167]	coref	45-34[167_168]
-45-27	_	things	abstract[167]	new[167]	_	_
+45-26	_	these	abstract[168]	new[168]	coref	45-34[168_169]
+45-27	_	things	abstract[168]	new[168]	_	_
 45-28	_	are	_	_	_	_
 45-29	_	just	_	_	_	_
 45-30	_	hard	_	_	_	_
 45-31	_	to	_	_	_	_
 45-32	_	predict	_	_	_	_
 45-33	_	,	_	_	_	_
-45-34	_	they	abstract[168]	new[168]	coref	45-40[168_169]
+45-34	_	they	abstract[169]	new[169]	coref	45-40[169_170]
 45-35	_	may	_	_	_	_
 45-36	_	take	_	_	_	_
 45-37	_	off	_	_	_	_
 45-38	_	,	_	_	_	_
 45-39	_	and	_	_	_	_
-45-40	_	they	abstract[169]	new[169]	coref	45-48[169_170]
+45-40	_	they	abstract[170]	new[170]	coref	45-48[170_171]
 45-41	_	may	_	_	_	_
 45-42	_	take	_	_	_	_
 45-43	_	on	_	_	_	_
@@ -1193,7 +1193,7 @@
 45-45	_	broader	_	_	_	_
 45-46	_	scope	_	_	_	_
 45-47	_	,	_	_	_	_
-45-48	_	they	abstract[170]	new[170]	_	_
+45-48	_	they	abstract[171]	new[171]	_	_
 45-49	_	may	_	_	_	_
 45-50	_	fizzle	_	_	_	_
 45-51	_	away	_	_	_	_
@@ -1202,37 +1202,36 @@
 45-54	_	diverted	_	_	_	_
 45-55	_	.	_	_	_	_
 
-#Text=Wikinews spoke with William Evans , president of the International Brotherhood of Magicians , about the current state of magic and what its future looks like in the world of entertainment .
+#Text=Wikinews interviewed William Evans , president of the International Brotherhood of Magicians , about the current state of magic and what its future looks like in the world of entertainment .
 46-1	_	Wikinews	abstract[83]	new[83]	_	_
-46-2	_	spoke	_	_	_	_
-46-3	_	with	_	_	_	_
-46-4	_	William	_	_	_	_
-46-5	_	Evans	_	_	_	_
-46-6	_	,	_	_	_	_
-46-7	_	president	_	_	_	_
-46-8	_	of	_	_	_	_
-46-9	_	the	_	_	_	_
-46-10	_	International	_	_	_	_
-46-11	_	Brotherhood	_	_	_	_
-46-12	_	of	_	_	_	_
-46-13	_	Magicians	_	_	_	_
-46-14	_	,	_	_	_	_
-46-15	_	about	_	_	_	_
-46-16	_	the	_	_	_	_
-46-17	_	current	_	_	_	_
-46-18	_	state	_	_	_	_
-46-19	_	of	_	_	_	_
-46-20	_	magic	abstract[171]	new[171]	coref	46-23[171_172]
-46-21	_	and	_	_	_	_
-46-22	_	what	_	_	_	_
-46-23	_	its	abstract[172]	new[172]	_	_
-46-24	_	future	_	_	_	_
-46-25	_	looks	_	_	_	_
-46-26	_	like	_	_	_	_
-46-27	_	in	_	_	_	_
-46-28	_	the	_	_	_	_
-46-29	_	world	_	_	_	_
-46-30	_	of	_	_	_	_
-46-31	_	entertainment	_	_	_	_
-46-32	_	.	_	_	_	_
+46-2	_	interviewed	_	_	_	_
+46-3	_	William	abstract[144]	new[144]	_	_
+46-4	_	Evans	abstract[144]	new[144]	_	_
+46-5	_	,	abstract[144]	new[144]	_	_
+46-6	_	president	abstract[144]	new[144]	_	_
+46-7	_	of	abstract[144]	new[144]	_	_
+46-8	_	the	abstract[144]	new[144]	_	_
+46-9	_	International	abstract[144]	new[144]	_	_
+46-10	_	Brotherhood	abstract[144]	new[144]	_	_
+46-11	_	of	abstract[144]	new[144]	_	_
+46-12	_	Magicians	abstract[144]	new[144]	_	_
+46-13	_	,	_	_	_	_
+46-14	_	about	_	_	_	_
+46-15	_	the	_	_	_	_
+46-16	_	current	_	_	_	_
+46-17	_	state	_	_	_	_
+46-18	_	of	_	_	_	_
+46-19	_	magic	abstract[172]	new[172]	coref	46-22[172_173]
+46-20	_	and	_	_	_	_
+46-21	_	what	_	_	_	_
+46-22	_	its	abstract[173]	new[173]	_	_
+46-23	_	future	_	_	_	_
+46-24	_	looks	_	_	_	_
+46-25	_	like	_	_	_	_
+46-26	_	in	_	_	_	_
+46-27	_	the	_	_	_	_
+46-28	_	world	_	_	_	_
+46-29	_	of	_	_	_	_
+46-30	_	entertainment	_	_	_	_
+46-31	_	.	_	_	_	_
 

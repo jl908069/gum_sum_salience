@@ -1408,20 +1408,15 @@
 94-31	_	need	_	_	_	_
 94-32	_	.	_	_	_	_
 
-#Text=Doctor says he needs to stay in the ambulance because he has a fever .
-95-1	_	Doctor	_	_	_	_
-95-2	_	says	_	_	_	_
-95-3	_	he	abstract[154]	new[154]	coref	95-11[154_155]
-95-4	_	needs	_	_	_	_
-95-5	_	to	_	_	_	_
-95-6	_	stay	_	_	_	_
-95-7	_	in	_	_	_	_
-95-8	_	the	_	_	_	_
-95-9	_	ambulance	_	_	_	_
-95-10	_	because	_	_	_	_
-95-11	_	he	abstract[155]	new[155]	_	_
-95-12	_	has	_	_	_	_
-95-13	_	a	_	_	_	_
-95-14	_	fever	_	_	_	_
-95-15	_	.	_	_	_	_
+#Text=Just in time for another horrible episode of germs .
+95-1	_	Just	_	_	_	_
+95-2	_	in	_	_	_	_
+95-3	_	time	_	_	_	_
+95-4	_	for	_	_	_	_
+95-5	_	another	_	_	_	_
+95-6	_	horrible	_	_	_	_
+95-7	_	episode	_	_	_	_
+95-8	_	of	_	_	_	_
+95-9	_	germs	_	_	_	_
+95-10	_	.	_	_	_	_
 

@@ -109,8 +109,8 @@
 5-18	_	from	_	_	_	_
 5-19	_	trooper	_	_	_	_
 5-20	_	to	_	_	_	_
-5-21	_	full	abstract[135]	new[135]	coref	27-20[135_136]
-5-22	_	general	abstract[135]	new[135]	_	_
+5-21	_	full	abstract[133]	new[133]	coref	27-20[133_134]
+5-22	_	general	abstract[133]	new[133]	_	_
 5-23	_	,	_	_	_	_
 5-24	_	and	_	_	_	_
 5-25	_	became	_	_	_	_
@@ -143,8 +143,8 @@
 6-14	_	Catholic	abstract[8]	new[8]	_	_
 6-15	_	shortly	_	_	_	_
 6-16	_	before	_	_	_	_
-6-17	_	his	abstract[9]|abstract[129]	new[9]|new[129]	coref	25-41[129_130]
-6-18	_	death	abstract[129]	new[129]	_	_
+6-17	_	his	abstract[9]|abstract[127]	new[9]|new[127]	coref	25-41[127_128]
+6-18	_	death	abstract[127]	new[127]	_	_
 6-19	_	.	_	_	_	_
 
 #Text=Life
@@ -238,7 +238,7 @@
 9-55	_	decided	_	_	_	_
 9-56	_	to	_	_	_	_
 9-57	_	return	_	_	_	_
-9-58	_	home	abstract[143]	new[143]	coref	32-58[143_144]
+9-58	_	home	abstract[141]	new[141]	coref	32-58[141_142]
 9-59	_	.	_	_	_	_
 
 #Text=He changed his mind , however , before re-embarking on the journey back to Scotland , and after journeying on foot in several parts of what is today Germany , in 1655 he enlisted at Hamburg into the military service of Sweden .
@@ -417,9 +417,9 @@
 #Text=Gordon disliked the Russian service , complaining of the corruption and venality of Russian officials , which left him , in his own words , " almost at wit s end with vexation " . [ 2 ]
 16-1	_	Gordon	abstract[53]	new[53]	coref	16-19[53_54]
 16-2	_	disliked	_	_	_	_
-16-3	_	the	abstract[151]	new[151]	coref	34-25[151_152]
-16-4	_	Russian	abstract[151]	new[151]	_	_
-16-5	_	service	abstract[151]	new[151]	_	_
+16-3	_	the	abstract[149]	new[149]	coref	34-25[149_150]
+16-4	_	Russian	abstract[149]	new[149]	_	_
+16-5	_	service	abstract[149]	new[149]	_	_
 16-6	_	,	_	_	_	_
 16-7	_	complaining	_	_	_	_
 16-8	_	of	_	_	_	_
@@ -661,7 +661,7 @@
 23-19	_	the	_	_	_	_
 23-20	_	Russians	_	_	_	_
 23-21	_	take	_	_	_	_
-23-22	_	Azov	abstract[137]	new[137]	coref	29-13[137_138]
+23-22	_	Azov	abstract[135]	new[135]	coref	29-13[135_136]
 23-23	_	.	_	_	_	_
 23-24	_	[	_	_	_	_
 23-25	_	3	_	_	_	_
@@ -720,33 +720,33 @@
 25-38	_	in	_	_	_	_
 25-39	_	Russia	abstract[19]	new[19]	coref	34-45[19_20]
 25-40	_	until	_	_	_	_
-25-41	_	his	abstract[107]|abstract[130]	new[107]|new[130]	coref	26-2[107_108]
-25-42	_	death	abstract[130]	new[130]	_	_
+25-41	_	his	abstract[107]|abstract[128]	new[107]|new[128]	coref	26-2[107_108]
+25-42	_	death	abstract[128]	new[128]	_	_
 25-43	_	.	_	_	_	_
 
 #Text=For his services his second son James , brigadier of the Russian army , was created Count of the Holy Roman Empire in 1701 .
 26-1	_	For	_	_	_	_
 26-2	_	his	abstract[108]	new[108]	coref	26-4[108_109]
 26-3	_	services	_	_	_	_
-26-4	_	his	abstract[109]|abstract[131]	new[109]|new[131]	coref|coref	27-4[109_110]|26-17[131_132]
-26-5	_	second	abstract[131]	new[131]	_	_
-26-6	_	son	abstract[131]	new[131]	_	_
-26-7	_	James	abstract[131]	new[131]	_	_
-26-8	_	,	abstract[131]	new[131]	_	_
-26-9	_	brigadier	abstract[131]	new[131]	_	_
-26-10	_	of	abstract[131]	new[131]	_	_
-26-11	_	the	abstract[131]|abstract[133]	new[131]|new[133]	coref	27-7[133_134]
-26-12	_	Russian	abstract[131]|abstract[133]	new[131]|new[133]	_	_
-26-13	_	army	abstract[131]|abstract[133]	new[131]|new[133]	_	_
+26-4	_	his	abstract[109]|abstract[129]	new[109]|new[129]	coref|coref	27-4[109_110]|26-17[129_130]
+26-5	_	second	abstract[129]	new[129]	_	_
+26-6	_	son	abstract[129]	new[129]	_	_
+26-7	_	James	abstract[129]	new[129]	_	_
+26-8	_	,	abstract[129]	new[129]	_	_
+26-9	_	brigadier	abstract[129]	new[129]	_	_
+26-10	_	of	abstract[129]	new[129]	_	_
+26-11	_	the	abstract[129]|abstract[131]	new[129]|new[131]	coref	27-7[131_132]
+26-12	_	Russian	abstract[129]|abstract[131]	new[129]|new[131]	_	_
+26-13	_	army	abstract[129]|abstract[131]	new[129]|new[131]	_	_
 26-14	_	,	_	_	_	_
 26-15	_	was	_	_	_	_
 26-16	_	created	_	_	_	_
-26-17	_	Count	abstract[132]	new[132]	_	_
-26-18	_	of	abstract[132]	new[132]	_	_
-26-19	_	the	abstract[132]	new[132]	_	_
-26-20	_	Holy	abstract[132]	new[132]	_	_
-26-21	_	Roman	abstract[132]	new[132]	_	_
-26-22	_	Empire	abstract[132]	new[132]	_	_
+26-17	_	Count	abstract[130]	new[130]	_	_
+26-18	_	of	abstract[130]	new[130]	_	_
+26-19	_	the	abstract[130]	new[130]	_	_
+26-20	_	Holy	abstract[130]	new[130]	_	_
+26-21	_	Roman	abstract[130]	new[130]	_	_
+26-22	_	Empire	abstract[130]	new[130]	_	_
 26-23	_	in	_	_	_	_
 26-24	_	1701	_	_	_	_
 26-25	_	.	_	_	_	_
@@ -758,8 +758,8 @@
 27-4	_	him	abstract[110]	new[110]	coref	27-18[110_111]
 27-5	_	in	_	_	_	_
 27-6	_	organizing	_	_	_	_
-27-7	_	his	abstract[98]|abstract[134]	new[98]|new[134]	coref	28-7[98_99]
-27-8	_	army	abstract[134]	new[134]	_	_
+27-7	_	his	abstract[98]|abstract[132]	new[98]|new[132]	coref	28-7[98_99]
+27-8	_	army	abstract[132]	new[132]	_	_
 27-9	_	according	_	_	_	_
 27-10	_	to	_	_	_	_
 27-11	_	the	_	_	_	_
@@ -771,11 +771,11 @@
 27-17	_	raised	_	_	_	_
 27-18	_	him	abstract[111]	new[111]	coref	28-5[111_112]
 27-19	_	to	_	_	_	_
-27-20	_	the	abstract[136]	new[136]	_	_
-27-21	_	rank	abstract[136]	new[136]	_	_
-27-22	_	of	abstract[136]	new[136]	_	_
-27-23	_	full	abstract[136]	new[136]	_	_
-27-24	_	general	abstract[136]	new[136]	_	_
+27-20	_	the	abstract[134]	new[134]	_	_
+27-21	_	rank	abstract[134]	new[134]	_	_
+27-22	_	of	abstract[134]	new[134]	_	_
+27-23	_	full	abstract[134]	new[134]	_	_
+27-24	_	general	abstract[134]	new[134]	_	_
 27-25	_	.	_	_	_	_
 
 #Text=At the end of his life the Tsar , who had visited Gordon frequently during his illness , was with him when he died , and with his own hands closed his eyes .
@@ -827,7 +827,7 @@
 29-10	_	were	_	_	_	_
 29-11	_	reinterred	_	_	_	_
 29-12	_	at	_	_	_	_
-29-13	_	Azov	abstract[138]	new[138]	_	_
+29-13	_	Azov	abstract[136]	new[136]	_	_
 29-14	_	in	_	_	_	_
 29-15	_	1877	_	_	_	_
 29-16	_	,	_	_	_	_
@@ -853,23 +853,23 @@
 30-3	_	left	_	_	_	_
 30-4	_	behind	_	_	_	_
 30-5	_	him	abstract[121]	new[121]	coref	30-11[121_122]
-30-6	_	a	abstract[139]	new[139]	coref	31-1[139_140]
-30-7	_	uniquely	abstract[139]	new[139]	_	_
-30-8	_	detailed	abstract[139]	new[139]	_	_
-30-9	_	diary	abstract[139]	new[139]	_	_
-30-10	_	of	abstract[139]	new[139]	_	_
-30-11	_	his	abstract[105]|abstract[122]|abstract[139]	new[105]|new[122]|new[139]	coref	32-54[122_123]
-30-12	_	life	abstract[105]|abstract[139]	new[105]|new[139]	_	_
-30-13	_	and	abstract[139]	new[139]	_	_
-30-14	_	times	abstract[139]	new[139]	_	_
-30-15	_	,	abstract[139]	new[139]	_	_
-30-16	_	written	abstract[139]	new[139]	_	_
-30-17	_	in	abstract[139]	new[139]	_	_
-30-18	_	English	abstract[139]|abstract[145]	new[139]|new[145]	coref	33-12[145_146]
+30-6	_	a	abstract[137]	new[137]	coref	31-1[137_138]
+30-7	_	uniquely	abstract[137]	new[137]	_	_
+30-8	_	detailed	abstract[137]	new[137]	_	_
+30-9	_	diary	abstract[137]	new[137]	_	_
+30-10	_	of	abstract[137]	new[137]	_	_
+30-11	_	his	abstract[105]|abstract[122]|abstract[137]	new[105]|new[122]|new[137]	coref	32-54[122_123]
+30-12	_	life	abstract[105]|abstract[137]	new[105]|new[137]	_	_
+30-13	_	and	abstract[137]	new[137]	_	_
+30-14	_	times	abstract[137]	new[137]	_	_
+30-15	_	,	abstract[137]	new[137]	_	_
+30-16	_	written	abstract[137]	new[137]	_	_
+30-17	_	in	abstract[137]	new[137]	_	_
+30-18	_	English	abstract[137]|abstract[143]	new[137]|new[143]	coref	33-12[143_144]
 30-19	_	.	_	_	_	_
 
 #Text=This is preserved in manuscript in the Russian State Military Archive in Moscow .
-31-1	_	This	abstract[140]	new[140]	_	_
+31-1	_	This	abstract[138]	new[138]	_	_
 31-2	_	is	_	_	_	_
 31-3	_	preserved	_	_	_	_
 31-4	_	in	_	_	_	_
@@ -918,8 +918,8 @@
 32-31	_	the	_	_	_	_
 32-32	_	second	_	_	_	_
 32-33	_	at	_	_	_	_
-32-34	_	St	abstract[141]	new[141]	coref	32-43[141_142]
-32-35	_	Petersburg	abstract[141]	new[141]	_	_
+32-34	_	St	abstract[139]	new[139]	coref	32-43[139_140]
+32-35	_	Petersburg	abstract[139]	new[139]	_	_
 32-36	_	in	_	_	_	_
 32-37	_	1851	_	_	_	_
 32-38	_	,	_	_	_	_
@@ -927,8 +927,8 @@
 32-40	_	the	_	_	_	_
 32-41	_	third	_	_	_	_
 32-42	_	at	_	_	_	_
-32-43	_	St	abstract[142]	new[142]	_	_
-32-44	_	Petersburg	abstract[142]	new[142]	_	_
+32-43	_	St	abstract[140]	new[140]	_	_
+32-44	_	Petersburg	abstract[140]	new[140]	_	_
 32-45	_	in	_	_	_	_
 32-46	_	1853	_	_	_	_
 32-47	_	;	_	_	_	_
@@ -942,7 +942,7 @@
 32-55	_	Patrick	abstract[123]	new[123]	_	_
 32-56	_	Gordon	abstract[123]	new[123]	_	_
 32-57	_	of	abstract[123]	new[123]	_	_
-32-58	_	Auchleuchries	abstract[123]|abstract[144]	new[123]|new[144]	_	_
+32-58	_	Auchleuchries	abstract[123]|abstract[142]	new[123]|new[142]	_	_
 32-59	_	(	_	_	_	_
 32-60	_	1635	_	_	_	_
 32-61	_	–	_	_	_	_
@@ -965,25 +965,25 @@
 32-78	_	Club	_	_	_	_
 32-79	_	,	_	_	_	_
 32-80	_	at	_	_	_	_
-32-81	_	Aberdeen	abstract[147]	new[147]	coref	33-24[147_148]
-32-82	_	,	abstract[147]	new[147]	_	_
-32-83	_	Scotland	abstract[31]|abstract[147]	new[31]|new[147]	coref	36-16[31_32]
+32-81	_	Aberdeen	abstract[145]	new[145]	coref	33-24[145_146]
+32-82	_	,	abstract[145]	new[145]	_	_
+32-83	_	Scotland	abstract[31]|abstract[145]	new[31]|new[145]	coref	36-5[31_32]
 32-84	_	,	_	_	_	_
 32-85	_	1859	_	_	_	_
 32-86	_	.	_	_	_	_
 
 #Text=A new full scholarly edition of Gordon 's Diary in English was published by the Centre for Irish and Scottish Studies in Aberdeen ( 6 vols , 2009 - 2016 ) , as well as its translation into Russian .
-33-1	_	A	abstract[149]	new[149]	coref	33-37[149_150]
-33-2	_	new	abstract[149]	new[149]	_	_
-33-3	_	full	abstract[149]	new[149]	_	_
-33-4	_	scholarly	abstract[149]	new[149]	_	_
-33-5	_	edition	abstract[149]	new[149]	_	_
-33-6	_	of	abstract[149]	new[149]	_	_
-33-7	_	Gordon	abstract[124]|abstract[149]	new[124]|new[149]	coref	34-1[124_125]
-33-8	_	's	abstract[124]|abstract[149]	new[124]|new[149]	_	_
-33-9	_	Diary	abstract[149]	new[149]	_	_
-33-10	_	in	abstract[149]	new[149]	_	_
-33-11	_	English	abstract[146]|abstract[149]	new[146]|new[149]	_	_
+33-1	_	A	abstract[147]	new[147]	coref	33-37[147_148]
+33-2	_	new	abstract[147]	new[147]	_	_
+33-3	_	full	abstract[147]	new[147]	_	_
+33-4	_	scholarly	abstract[147]	new[147]	_	_
+33-5	_	edition	abstract[147]	new[147]	_	_
+33-6	_	of	abstract[147]	new[147]	_	_
+33-7	_	Gordon	abstract[124]|abstract[147]	new[124]|new[147]	coref	34-1[124_125]
+33-8	_	's	abstract[124]|abstract[147]	new[124]|new[147]	_	_
+33-9	_	Diary	abstract[147]	new[147]	_	_
+33-10	_	in	abstract[147]	new[147]	_	_
+33-11	_	English	abstract[144]|abstract[147]	new[144]|new[147]	_	_
 33-12	_	was	_	_	_	_
 33-13	_	published	_	_	_	_
 33-14	_	by	_	_	_	_
@@ -995,7 +995,7 @@
 33-20	_	Scottish	_	_	_	_
 33-21	_	Studies	_	_	_	_
 33-22	_	in	_	_	_	_
-33-23	_	Aberdeen	abstract[148]	new[148]	_	_
+33-23	_	Aberdeen	abstract[146]	new[146]	_	_
 33-24	_	(	_	_	_	_
 33-25	_	6	_	_	_	_
 33-26	_	vols	_	_	_	_
@@ -1008,15 +1008,15 @@
 33-33	_	as	_	_	_	_
 33-34	_	well	_	_	_	_
 33-35	_	as	_	_	_	_
-33-36	_	its	abstract[150]	new[150]	_	_
+33-36	_	its	abstract[148]	new[148]	_	_
 33-37	_	translation	_	_	_	_
 33-38	_	into	_	_	_	_
 33-39	_	Russian	_	_	_	_
 33-40	_	.	_	_	_	_
 
 #Text=His daughter was married firstly to the German - Russian Colonel Rudolf Strasburgh , and then from 1699 or 1700 to his kinsman in the Russian service Alexander Gordon of Auchintoul , author of " The History of Peter the Great , Emperor of Russia " .
-34-1	_	His	abstract[125]|abstract[153]	new[125]|new[153]	coref|coref	34-22[125_126]|35-1[153_154]
-34-2	_	daughter	abstract[153]	new[153]	_	_
+34-1	_	His	abstract[125]|abstract[151]	new[125]|new[151]	coref|coref	34-22[125_126]|35-1[151_152]
+34-2	_	daughter	abstract[151]	new[151]	_	_
 34-3	_	was	_	_	_	_
 34-4	_	married	_	_	_	_
 34-5	_	firstly	_	_	_	_
@@ -1036,16 +1036,16 @@
 34-19	_	or	_	_	_	_
 34-20	_	1700	_	_	_	_
 34-21	_	to	_	_	_	_
-34-22	_	his	abstract[126]	new[126]	coref	36-1[126_127]
-34-23	_	kinsman	_	_	_	_
-34-24	_	in	_	_	_	_
-34-25	_	the	abstract[152]	new[152]	_	_
-34-26	_	Russian	abstract[152]	new[152]	_	_
-34-27	_	service	abstract[152]	new[152]	_	_
-34-28	_	Alexander	_	_	_	_
-34-29	_	Gordon	_	_	_	_
-34-30	_	of	_	_	_	_
-34-31	_	Auchintoul	_	_	_	_
+34-22	_	his	abstract[126]|abstract[153]	new[126]|new[153]	coref	36-11[153_154]
+34-23	_	kinsman	abstract[153]	new[153]	_	_
+34-24	_	in	abstract[153]	new[153]	_	_
+34-25	_	the	abstract[150]|abstract[153]	new[150]|new[153]	_	_
+34-26	_	Russian	abstract[150]|abstract[153]	new[150]|new[153]	_	_
+34-27	_	service	abstract[150]|abstract[153]	new[150]|new[153]	_	_
+34-28	_	Alexander	abstract[153]	new[153]	_	_
+34-29	_	Gordon	abstract[153]	new[153]	_	_
+34-30	_	of	abstract[153]	new[153]	_	_
+34-31	_	Auchintoul	abstract[153]	new[153]	_	_
 34-32	_	,	_	_	_	_
 34-33	_	author	_	_	_	_
 34-34	_	of	_	_	_	_
@@ -1059,12 +1059,12 @@
 34-42	_	,	abstract[101]	new[101]	_	_
 34-43	_	Emperor	abstract[101]	new[101]	_	_
 34-44	_	of	abstract[101]	new[101]	_	_
-34-45	_	Russia	abstract[20]|abstract[101]	new[20]|new[101]	coref	36-9[20_21]
+34-45	_	Russia	abstract[20]|abstract[101]	new[20]|new[101]	coref	36-23[20_21]
 34-46	_	"	abstract[101]	new[101]	_	_
 34-47	_	.	_	_	_	_
 
 #Text=She lived until 1739 . [ 4 ]
-35-1	_	She	abstract[154]	new[154]	_	_
+35-1	_	She	abstract[152]	new[152]	_	_
 35-2	_	lived	_	_	_	_
 35-3	_	until	_	_	_	_
 35-4	_	1739	_	_	_	_
@@ -1073,22 +1073,29 @@
 35-7	_	4	_	_	_	_
 35-8	_	]	_	_	_	_
 
-#Text=Patrick Gordon and his family became involved in Russia , forming the royal family of Scotland .
-36-1	_	Patrick	abstract[127]	new[127]	coref	36-4[127_128]
-36-2	_	Gordon	abstract[127]	new[127]	_	_
-36-3	_	and	_	_	_	_
-36-4	_	his	abstract[128]	new[128]	_	_
-36-5	_	family	_	_	_	_
-36-6	_	became	_	_	_	_
-36-7	_	involved	_	_	_	_
-36-8	_	in	_	_	_	_
-36-9	_	Russia	abstract[21]	new[21]	_	_
-36-10	_	,	_	_	_	_
-36-11	_	forming	_	_	_	_
-36-12	_	the	_	_	_	_
-36-13	_	royal	_	_	_	_
-36-14	_	family	_	_	_	_
-36-15	_	of	_	_	_	_
-36-16	_	Scotland	abstract[32]	new[32]	_	_
-36-17	_	.	_	_	_	_
+#Text=Born in Auchleuchries , Scotland , Gordon , son of Alexander , became a Catholic soldier and later the First Count of Russia .
+36-1	_	Born	_	_	_	_
+36-2	_	in	_	_	_	_
+36-3	_	Auchleuchries	_	_	_	_
+36-4	_	,	_	_	_	_
+36-5	_	Scotland	abstract[32]	new[32]	_	_
+36-6	_	,	_	_	_	_
+36-7	_	Gordon	_	_	_	_
+36-8	_	,	_	_	_	_
+36-9	_	son	_	_	_	_
+36-10	_	of	_	_	_	_
+36-11	_	Alexander	abstract[154]	new[154]	_	_
+36-12	_	,	_	_	_	_
+36-13	_	became	_	_	_	_
+36-14	_	a	_	_	_	_
+36-15	_	Catholic	_	_	_	_
+36-16	_	soldier	_	_	_	_
+36-17	_	and	_	_	_	_
+36-18	_	later	_	_	_	_
+36-19	_	the	_	_	_	_
+36-20	_	First	_	_	_	_
+36-21	_	Count	_	_	_	_
+36-22	_	of	_	_	_	_
+36-23	_	Russia	abstract[21]	new[21]	_	_
+36-24	_	.	_	_	_	_
 

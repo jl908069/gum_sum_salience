@@ -1550,36 +1550,41 @@
 175-5	_	what	_	_	_	_
 175-6	_	?	_	_	_	_
 
-#Text=We are all going " Theodorus survived a long decline in the Catholic hierarchy ; he ultimately remained the sole survivor from the life of the Koinonian king .
+#Text=We are all going " Born and bred in the Scottish Isles , Theodorus of Tabennese was a reverend of the Koinonia monks , who ruled for nearly 300 years before he died .
 176-1	_	We	_	_	_	_
 176-2	_	are	_	_	_	_
 176-3	_	all	_	_	_	_
 176-4	_	going	_	_	_	_
 176-5	_	"	_	_	_	_
-176-6	_	Theodorus	abstract[234]	new[234]	coref	176-16[234_235]
-176-7	_	survived	_	_	_	_
-176-8	_	a	_	_	_	_
-176-9	_	long	_	_	_	_
-176-10	_	decline	_	_	_	_
-176-11	_	in	_	_	_	_
-176-12	_	the	_	_	_	_
-176-13	_	Catholic	_	_	_	_
-176-14	_	hierarchy	_	_	_	_
-176-15	_	;	_	_	_	_
-176-16	_	he	abstract[235]	new[235]	_	_
-176-17	_	ultimately	_	_	_	_
-176-18	_	remained	_	_	_	_
-176-19	_	the	_	_	_	_
-176-20	_	sole	_	_	_	_
-176-21	_	survivor	_	_	_	_
-176-22	_	from	_	_	_	_
-176-23	_	the	_	_	_	_
-176-24	_	life	_	_	_	_
-176-25	_	of	_	_	_	_
-176-26	_	the	_	_	_	_
-176-27	_	Koinonian	_	_	_	_
-176-28	_	king	_	_	_	_
-176-29	_	.	_	_	_	_
+176-6	_	Born	_	_	_	_
+176-7	_	and	_	_	_	_
+176-8	_	bred	_	_	_	_
+176-9	_	in	_	_	_	_
+176-10	_	the	_	_	_	_
+176-11	_	Scottish	_	_	_	_
+176-12	_	Isles	_	_	_	_
+176-13	_	,	_	_	_	_
+176-14	_	Theodorus	abstract[234]	new[234]	coref	176-32[234_235]
+176-15	_	of	abstract[234]	new[234]	_	_
+176-16	_	Tabennese	abstract[234]	new[234]	_	_
+176-17	_	was	_	_	_	_
+176-18	_	a	_	_	_	_
+176-19	_	reverend	_	_	_	_
+176-20	_	of	_	_	_	_
+176-21	_	the	_	_	_	_
+176-22	_	Koinonia	_	_	_	_
+176-23	_	monks	_	_	_	_
+176-24	_	,	_	_	_	_
+176-25	_	who	_	_	_	_
+176-26	_	ruled	_	_	_	_
+176-27	_	for	_	_	_	_
+176-28	_	nearly	_	_	_	_
+176-29	_	300	_	_	_	_
+176-30	_	years	_	_	_	_
+176-31	_	before	_	_	_	_
+176-32	_	he	abstract[235]	new[235]	_	_
+176-33	_	died	_	_	_	_
+176-34	_	.	_	_	_	_
 
 #Text=Barb did n't outgrow it ? " .
 177-1	_	Barb	abstract[188]	new[188]	coref	179-1[188_189]

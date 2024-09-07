@@ -75,7 +75,7 @@
 7-3	_	have	_	_	_	_
 7-4	_	been	_	_	_	_
 7-5	_	like	_	_	_	_
-7-6	_	Michael	abstract[126]	new[126]	coref	51-3[126_127]
+7-6	_	Michael	abstract[129]	new[129]	coref	51-3[129_130]
 7-7	_	.	_	_	_	_
 
 #Text=Scary .
@@ -567,28 +567,28 @@
 #Text=That 's Michael 's – those are Michael 's nephews –
 51-1	_	That	_	_	_	_
 51-2	_	's	_	_	_	_
-51-3	_	Michael	abstract[127]	new[127]	coref	51-8[127_128]
-51-4	_	's	abstract[127]	new[127]	_	_
+51-3	_	Michael	abstract[130]	new[130]	coref	51-8[130_131]
+51-4	_	's	abstract[130]	new[130]	_	_
 51-5	_	–	_	_	_	_
 51-6	_	those	_	_	_	_
 51-7	_	are	_	_	_	_
-51-8	_	Michael	abstract[128]	new[128]	coref	125-1[128_129]
-51-9	_	's	abstract[128]	new[128]	_	_
+51-8	_	Michael	abstract[131]	new[131]	coref	125-1[131_132]
+51-9	_	's	abstract[131]	new[131]	_	_
 51-10	_	nephews	_	_	_	_
 51-11	_	–	_	_	_	_
 
 #Text=Jose –
-52-1	_	Jose	abstract[131]	new[131]	coref	53-1[131_132]
+52-1	_	Jose	abstract[134]	new[134]	coref	53-1[134_135]
 52-2	_	–	_	_	_	_
 
 #Text=That 's Jose –
-53-1	_	That	abstract[132]	new[132]	coref	54-1[132_133]
+53-1	_	That	abstract[135]	new[135]	coref	54-1[135_136]
 53-2	_	's	_	_	_	_
 53-3	_	Jose	_	_	_	_
 53-4	_	–	_	_	_	_
 
 #Text=Jose and then –
-54-1	_	Jose	abstract[133]	new[133]	_	_
+54-1	_	Jose	abstract[136]	new[136]	_	_
 54-2	_	and	_	_	_	_
 54-3	_	then	_	_	_	_
 54-4	_	–	_	_	_	_
@@ -596,33 +596,33 @@
 #Text=And then Gino 's the one in the middle .
 55-1	_	And	_	_	_	_
 55-2	_	then	_	_	_	_
-55-3	_	Gino	abstract[134]	new[134]	coref	56-1[134_135]
+55-3	_	Gino	abstract[137]	new[137]	coref	56-1[137_138]
 55-4	_	's	_	_	_	_
 55-5	_	the	_	_	_	_
 55-6	_	one	_	_	_	_
 55-7	_	in	_	_	_	_
-55-8	_	the	abstract[150]	new[150]	coref	56-4[150_151]
-55-9	_	middle	abstract[150]	new[150]	_	_
+55-8	_	the	abstract[153]	new[153]	coref	56-4[153_154]
+55-9	_	middle	abstract[153]	new[153]	_	_
 55-10	_	.	_	_	_	_
 
 #Text=Gino is in the middle .
-56-1	_	Gino	abstract[135]	new[135]	coref	57-3[135_136]
+56-1	_	Gino	abstract[138]	new[138]	coref	57-3[138_139]
 56-2	_	is	_	_	_	_
 56-3	_	in	_	_	_	_
-56-4	_	the	abstract[151]	new[151]	_	_
-56-5	_	middle	abstract[151]	new[151]	_	_
+56-4	_	the	abstract[154]	new[154]	_	_
+56-5	_	middle	abstract[154]	new[154]	_	_
 56-6	_	.	_	_	_	_
 
 #Text=That 's his sister .
 57-1	_	That	_	_	_	_
 57-2	_	's	_	_	_	_
-57-3	_	his	abstract[136]	new[136]	coref	58-2[136_137]
+57-3	_	his	abstract[139]	new[139]	coref	58-2[139_140]
 57-4	_	sister	_	_	_	_
 57-5	_	.	_	_	_	_
 
 #Text=Aw he 's a bit older .
 58-1	_	Aw	_	_	_	_
-58-2	_	he	abstract[137]	new[137]	coref	60-2[137_138]
+58-2	_	he	abstract[140]	new[140]	coref	60-2[140_141]
 58-3	_	's	_	_	_	_
 58-4	_	a	_	_	_	_
 58-5	_	bit	_	_	_	_
@@ -635,13 +635,13 @@
 
 #Text=Yeah he 's three .
 60-1	_	Yeah	_	_	_	_
-60-2	_	he	abstract[138]	new[138]	coref	61-1[138_139]
+60-2	_	he	abstract[141]	new[141]	coref	61-1[141_142]
 60-3	_	's	_	_	_	_
 60-4	_	three	_	_	_	_
 60-5	_	.	_	_	_	_
 
 #Text=He does n't look that –
-61-1	_	He	abstract[139]	new[139]	coref	62-1[139_140]
+61-1	_	He	abstract[142]	new[142]	coref	62-1[142_143]
 61-2	_	does	_	_	_	_
 61-3	_	n't	_	_	_	_
 61-4	_	look	_	_	_	_
@@ -649,17 +649,17 @@
 61-6	_	–	_	_	_	_
 
 #Text=He 's o- he 's three .
-62-1	_	He	abstract[140]	new[140]	coref	62-4[140_141]
+62-1	_	He	abstract[143]	new[143]	coref	62-4[143_144]
 62-2	_	's	_	_	_	_
 62-3	_	o-	_	_	_	_
-62-4	_	he	abstract[141]	new[141]	coref	63-2[141_142]
+62-4	_	he	abstract[144]	new[144]	coref	63-2[144_145]
 62-5	_	's	_	_	_	_
 62-6	_	three	_	_	_	_
 62-7	_	.	_	_	_	_
 
 #Text=Is he talking any more ?
 63-1	_	Is	_	_	_	_
-63-2	_	he	abstract[142]	new[142]	coref	64-2[142_143]
+63-2	_	he	abstract[145]	new[145]	coref	64-2[145_146]
 63-3	_	talking	_	_	_	_
 63-4	_	any	_	_	_	_
 63-5	_	more	_	_	_	_
@@ -667,7 +667,7 @@
 
 #Text=Is he talking good now ?
 64-1	_	Is	_	_	_	_
-64-2	_	he	abstract[143]	new[143]	coref	65-6[143_144]
+64-2	_	he	abstract[146]	new[146]	coref	65-6[146_147]
 64-3	_	talking	_	_	_	_
 64-4	_	good	_	_	_	_
 64-5	_	now	_	_	_	_
@@ -679,7 +679,7 @@
 65-3	_	n't	_	_	_	_
 65-4	_	understan-	_	_	_	_
 65-5	_	–	_	_	_	_
-65-6	_	he	abstract[144]	new[144]	coref	65-23[144_145]
+65-6	_	he	abstract[147]	new[147]	coref	65-23[147_148]
 65-7	_	–	_	_	_	_
 65-8	_	you	abstract[99]	new[99]	coref	65-13[99_100]
 65-9	_	can	_	_	_	_
@@ -696,43 +696,43 @@
 65-20	_	of	_	_	_	_
 65-21	_	the	_	_	_	_
 65-22	_	things	_	_	_	_
-65-23	_	he	abstract[145]	new[145]	coref	66-2[145_146]
+65-23	_	he	abstract[148]	new[148]	coref	66-2[148_149]
 65-24	_	says	_	_	_	_
 65-25	_	.	_	_	_	_
 
 #Text=Does he talk big long things but you just ca n't understand em ?
 66-1	_	Does	_	_	_	_
-66-2	_	he	abstract[146]	new[146]	coref	67-3[146_147]
+66-2	_	he	abstract[149]	new[149]	coref	67-3[149_150]
 66-3	_	talk	_	_	_	_
-66-4	_	big	abstract[152]	new[152]	coref	66-13[152_153]
-66-5	_	long	abstract[152]	new[152]	_	_
-66-6	_	things	abstract[152]	new[152]	_	_
+66-4	_	big	abstract[155]	new[155]	coref	66-13[155_156]
+66-5	_	long	abstract[155]	new[155]	_	_
+66-6	_	things	abstract[155]	new[155]	_	_
 66-7	_	but	_	_	_	_
 66-8	_	you	abstract[101]	new[101]	coref	99-44[101_102]
 66-9	_	just	_	_	_	_
 66-10	_	ca	_	_	_	_
 66-11	_	n't	_	_	_	_
 66-12	_	understand	_	_	_	_
-66-13	_	em	abstract[153]	new[153]	_	_
+66-13	_	em	abstract[156]	new[156]	_	_
 66-14	_	?	_	_	_	_
 
 #Text=No , he 's okay then .
 67-1	_	No	_	_	_	_
 67-2	_	,	_	_	_	_
-67-3	_	he	abstract[147]	new[147]	coref	68-1[147_148]
+67-3	_	he	abstract[150]	new[150]	coref	68-1[150_151]
 67-4	_	's	_	_	_	_
 67-5	_	okay	_	_	_	_
 67-6	_	then	_	_	_	_
 67-7	_	.	_	_	_	_
 
 #Text=A gestalt kid .
-68-1	_	A	abstract[148]	new[148]	coref	69-1[148_149]
-68-2	_	gestalt	abstract[148]	new[148]	_	_
-68-3	_	kid	abstract[148]	new[148]	_	_
+68-1	_	A	abstract[151]	new[151]	coref	69-1[151_152]
+68-2	_	gestalt	abstract[151]	new[151]	_	_
+68-3	_	kid	abstract[151]	new[151]	_	_
 68-4	_	.	_	_	_	_
 
 #Text=He 's a gestalt child .
-69-1	_	He	abstract[149]	new[149]	_	_
+69-1	_	He	abstract[152]	new[152]	_	_
 69-2	_	's	_	_	_	_
 69-3	_	a	_	_	_	_
 69-4	_	gestalt	_	_	_	_
@@ -743,9 +743,9 @@
 70-1	_	No	_	_	_	_
 70-2	_	there	_	_	_	_
 70-3	_	's	_	_	_	_
-70-4	_	two	abstract[154]	new[154]	coref	73-1[154_155]
-70-5	_	different	abstract[154]	new[154]	_	_
-70-6	_	wa-	abstract[154]	new[154]	_	_
+70-4	_	two	abstract[157]	new[157]	coref	73-1[157_158]
+70-5	_	different	abstract[157]	new[157]	_	_
+70-6	_	wa-	abstract[157]	new[157]	_	_
 70-7	_	–	_	_	_	_
 
 #Text=Yeah , psychotherapist .
@@ -769,7 +769,7 @@
 72-12	_	.	_	_	_	_
 
 #Text=It 's just two different ways .
-73-1	_	It	abstract[155]	new[155]	_	_
+73-1	_	It	abstract[158]	new[158]	_	_
 73-2	_	's	_	_	_	_
 73-3	_	just	_	_	_	_
 73-4	_	two	_	_	_	_
@@ -780,22 +780,22 @@
 #Text=Like , kids can either like , they 'll say one word , but they 'll say it really , like pretty clear , and that the way they 're th- they 'll have like twenty words or whatever , and they 'll just ask for one thing .
 74-1	_	Like	_	_	_	_
 74-2	_	,	_	_	_	_
-74-3	_	kids	abstract[156]	new[156]	coref	74-8[156_157]
+74-3	_	kids	abstract[159]	new[159]	coref	74-8[159_160]
 74-4	_	can	_	_	_	_
 74-5	_	either	_	_	_	_
 74-6	_	like	_	_	_	_
 74-7	_	,	_	_	_	_
-74-8	_	they	abstract[157]	new[157]	coref	74-15[157_158]
+74-8	_	they	abstract[160]	new[160]	coref	74-15[160_161]
 74-9	_	'll	_	_	_	_
 74-10	_	say	_	_	_	_
-74-11	_	one	abstract[162]	new[162]	coref	74-18[162_163]
-74-12	_	word	abstract[162]	new[162]	_	_
+74-11	_	one	abstract[165]	new[165]	coref	74-18[165_166]
+74-12	_	word	abstract[165]	new[165]	_	_
 74-13	_	,	_	_	_	_
 74-14	_	but	_	_	_	_
-74-15	_	they	abstract[158]	new[158]	coref	74-29[158_159]
+74-15	_	they	abstract[161]	new[161]	coref	74-29[161_162]
 74-16	_	'll	_	_	_	_
 74-17	_	say	_	_	_	_
-74-18	_	it	abstract[163]	new[163]	_	_
+74-18	_	it	abstract[166]	new[166]	_	_
 74-19	_	really	_	_	_	_
 74-20	_	,	_	_	_	_
 74-21	_	like	_	_	_	_
@@ -806,10 +806,10 @@
 74-26	_	that	_	_	_	_
 74-27	_	the	_	_	_	_
 74-28	_	way	_	_	_	_
-74-29	_	they	abstract[159]	new[159]	coref	74-32[159_160]
+74-29	_	they	abstract[162]	new[162]	coref	74-32[162_163]
 74-30	_	're	_	_	_	_
 74-31	_	th-	_	_	_	_
-74-32	_	they	abstract[160]	new[160]	coref	74-42[160_161]
+74-32	_	they	abstract[163]	new[163]	coref	74-42[163_164]
 74-33	_	'll	_	_	_	_
 74-34	_	have	_	_	_	_
 74-35	_	like	_	_	_	_
@@ -819,7 +819,7 @@
 74-39	_	whatever	_	_	_	_
 74-40	_	,	_	_	_	_
 74-41	_	and	_	_	_	_
-74-42	_	they	abstract[161]	new[161]	_	_
+74-42	_	they	abstract[164]	new[164]	_	_
 74-43	_	'll	_	_	_	_
 74-44	_	just	_	_	_	_
 74-45	_	ask	_	_	_	_
@@ -886,7 +886,7 @@
 81-6	_	.	_	_	_	_
 
 #Text=It 's all my fault .
-82-1	_	It	abstract[166]	new[166]	coref	87-1[166_167]
+82-1	_	It	abstract[169]	new[169]	coref	87-1[169_170]
 82-2	_	's	_	_	_	_
 82-3	_	all	_	_	_	_
 82-4	_	my	abstract[116]	new[116]	_	_
@@ -896,8 +896,8 @@
 #Text=Give him a drink .
 83-1	_	Give	_	_	_	_
 83-2	_	him	abstract[20]	new[20]	coref	84-3[20_21]
-83-3	_	a	abstract[164]	new[164]	coref	85-1[164_165]
-83-4	_	drink	abstract[164]	new[164]	_	_
+83-3	_	a	abstract[167]	new[167]	coref	85-1[167_168]
+83-4	_	drink	abstract[167]	new[167]	_	_
 83-5	_	.	_	_	_	_
 
 #Text=It 's he drinks too fast .
@@ -910,7 +910,7 @@
 84-7	_	.	_	_	_	_
 
 #Text=It just went down the wrong pipe .
-85-1	_	It	abstract[165]	new[165]	_	_
+85-1	_	It	abstract[168]	new[168]	_	_
 85-2	_	just	_	_	_	_
 85-3	_	went	_	_	_	_
 85-4	_	down	_	_	_	_
@@ -927,7 +927,7 @@
 86-5	_	?	_	_	_	_
 
 #Text=It was n't that bad .
-87-1	_	It	abstract[167]	new[167]	_	_
+87-1	_	It	abstract[170]	new[170]	_	_
 87-2	_	was	_	_	_	_
 87-3	_	n't	_	_	_	_
 87-4	_	that	_	_	_	_
@@ -974,7 +974,7 @@
 92-3	_	.	_	_	_	_
 
 #Text=They 're allowed to do it either way .
-93-1	_	They	abstract[168]	new[168]	coref	94-1[168_169]
+93-1	_	They	abstract[171]	new[171]	coref	94-1[171_172]
 93-2	_	're	_	_	_	_
 93-3	_	allowed	_	_	_	_
 93-4	_	to	_	_	_	_
@@ -985,7 +985,7 @@
 93-9	_	.	_	_	_	_
 
 #Text=They 're allowed .
-94-1	_	They	abstract[169]	new[169]	_	_
+94-1	_	They	abstract[172]	new[172]	_	_
 94-2	_	're	_	_	_	_
 94-3	_	allowed	_	_	_	_
 94-4	_	.	_	_	_	_
@@ -1102,9 +1102,9 @@
 103-2	_	he	abstract[33]	new[33]	coref	104-2[33_34]
 103-3	_	was	_	_	_	_
 103-4	_	watching	_	_	_	_
-103-5	_	the	abstract[170]	new[170]	coref	106-4[170_171]
-103-6	_	football	abstract[170]	new[170]	_	_
-103-7	_	game	abstract[170]	new[170]	_	_
+103-5	_	the	abstract[173]	new[173]	coref	106-4[173_174]
+103-6	_	football	abstract[173]	new[173]	_	_
+103-7	_	game	abstract[173]	new[173]	_	_
 103-8	_	–	_	_	_	_
 
 #Text=Like his grandpa .
@@ -1118,16 +1118,16 @@
 105-2	_	's	_	_	_	_
 105-3	_	low	_	_	_	_
 105-4	_	,	_	_	_	_
-105-5	_	Issac	abstract[125]	new[125]	_	_
+105-5	_	Issac	abstract[125]	new[125]	coref	136-46[125_126]
 105-6	_	–	_	_	_	_
 
 #Text=He was watching the football game –
 106-1	_	He	abstract[35]	new[35]	coref	115-1[35_36]
 106-2	_	was	_	_	_	_
 106-3	_	watching	_	_	_	_
-106-4	_	the	abstract[171]	new[171]	_	_
-106-5	_	football	abstract[171]	new[171]	_	_
-106-6	_	game	abstract[171]	new[171]	_	_
+106-4	_	the	abstract[174]	new[174]	_	_
+106-5	_	football	abstract[174]	new[174]	_	_
+106-6	_	game	abstract[174]	new[174]	_	_
 106-7	_	–	_	_	_	_
 
 #Text=Bottle in one hand , half asleep , watching TV .
@@ -1144,7 +1144,7 @@
 107-11	_	.	_	_	_	_
 
 #Text=That 's low .
-108-1	_	That	abstract[172]	new[172]	coref	113-1[172_173]
+108-1	_	That	abstract[175]	new[175]	coref	113-1[175_176]
 108-2	_	's	_	_	_	_
 108-3	_	low	_	_	_	_
 108-4	_	.	_	_	_	_
@@ -1173,7 +1173,7 @@
 112-3	_	.	_	_	_	_
 
 #Text=It 's true .
-113-1	_	It	abstract[173]	new[173]	_	_
+113-1	_	It	abstract[176]	new[176]	_	_
 113-2	_	's	_	_	_	_
 113-3	_	true	_	_	_	_
 113-4	_	.	_	_	_	_
@@ -1224,8 +1224,8 @@
 122-8	_	.	_	_	_	_
 
 #Text=Baby slobber , ew .
-123-1	_	Baby	abstract[174]	new[174]	coref	124-3[174_175]
-123-2	_	slobber	abstract[174]	new[174]	_	_
+123-1	_	Baby	abstract[177]	new[177]	coref	124-3[177_178]
+123-2	_	slobber	abstract[177]	new[177]	_	_
 123-3	_	,	_	_	_	_
 123-4	_	ew	_	_	_	_
 123-5	_	.	_	_	_	_
@@ -1233,16 +1233,16 @@
 #Text=You seen it was gross .
 124-1	_	You	_	_	_	_
 124-2	_	seen	_	_	_	_
-124-3	_	it	abstract[175]	new[175]	_	_
+124-3	_	it	abstract[178]	new[178]	_	_
 124-4	_	was	_	_	_	_
 124-5	_	gross	_	_	_	_
 124-6	_	.	_	_	_	_
 
 #Text=Michael , Michael 's shirt was all wet , from right here , from him just drooling .
-125-1	_	Michael	abstract[129]	new[129]	coref	125-3[129_130]
+125-1	_	Michael	abstract[132]	new[132]	coref	125-3[132_133]
 125-2	_	,	_	_	_	_
-125-3	_	Michael	abstract[130]	new[130]	_	_
-125-4	_	's	abstract[130]	new[130]	_	_
+125-3	_	Michael	abstract[133]	new[133]	_	_
+125-4	_	's	abstract[133]	new[133]	_	_
 125-5	_	shirt	_	_	_	_
 125-6	_	was	_	_	_	_
 125-7	_	all	_	_	_	_
@@ -1255,11 +1255,11 @@
 125-14	_	from	_	_	_	_
 125-15	_	him	abstract[38]	new[38]	coref	127-2[38_39]
 125-16	_	just	_	_	_	_
-125-17	_	drooling	abstract[176]	new[176]	coref	126-1[176_177]
+125-17	_	drooling	abstract[179]	new[179]	coref	126-1[179_180]
 125-18	_	.	_	_	_	_
 
 #Text=It was –
-126-1	_	It	abstract[177]	new[177]	_	_
+126-1	_	It	abstract[180]	new[180]	_	_
 126-2	_	was	_	_	_	_
 126-3	_	–	_	_	_	_
 
@@ -1315,12 +1315,12 @@
 131-11	_	,	_	_	_	_
 131-12	_	um	_	_	_	_
 131-13	_	,	_	_	_	_
-131-14	_	they	abstract[180]	new[180]	coref	134-1[180_181]
+131-14	_	they	abstract[183]	new[183]	coref	134-1[183_184]
 131-15	_	had	_	_	_	_
-131-16	_	this	abstract[178]	new[178]	coref	131-19[178_179]
-131-17	_	thing	abstract[178]	new[178]	_	_
+131-16	_	this	abstract[181]	new[181]	coref	131-19[181_182]
+131-17	_	thing	abstract[181]	new[181]	_	_
 131-18	_	,	_	_	_	_
-131-19	_	it	abstract[179]	new[179]	_	_
+131-19	_	it	abstract[182]	new[182]	_	_
 131-20	_	was	_	_	_	_
 131-21	_	this	_	_	_	_
 131-22	_	big	_	_	_	_
@@ -1347,30 +1347,80 @@
 133-10	_	–	_	_	_	_
 
 #Text=They put a mist –
-134-1	_	They	abstract[181]	new[181]	_	_
+134-1	_	They	abstract[184]	new[184]	_	_
 134-2	_	put	_	_	_	_
 134-3	_	a	_	_	_	_
 134-4	_	mist	_	_	_	_
 134-5	_	–	_	_	_	_
 
 #Text=Child , you 're having problems .
-135-1	_	Child	abstract[182]	new[182]	coref	135-3[182_183]
+135-1	_	Child	abstract[185]	new[185]	coref	135-3[185_186]
 135-2	_	,	_	_	_	_
-135-3	_	you	abstract[183]	new[183]	_	_
+135-3	_	you	abstract[186]	new[186]	_	_
 135-4	_	're	_	_	_	_
 135-5	_	having	_	_	_	_
 135-6	_	problems	_	_	_	_
 135-7	_	.	_	_	_	_
 
-#Text=Carolyn , a mother , has a bad back .
-136-1	_	Carolyn	_	_	_	_
-136-2	_	,	_	_	_	_
-136-3	_	a	_	_	_	_
-136-4	_	mother	_	_	_	_
-136-5	_	,	_	_	_	_
-136-6	_	has	_	_	_	_
+#Text=Kevin and two other friends discuss a recent emergency room visit for Jito , one of the friends ' baby , as well as the dangerous effects of a high fever , some relatives they identify on a picture , and how baby Jito resembles his grandfather when he watches TV half asleep with a bottle in his hand .
+136-1	_	Kevin	abstract[189]	new[189]	coref	136-35[189_190]
+136-2	_	and	abstract[189]	new[189]	_	_
+136-3	_	two	abstract[187]|abstract[189]	new[187]|new[189]	coref	136-17[187_188]
+136-4	_	other	abstract[187]|abstract[189]	new[187]|new[189]	_	_
+136-5	_	friends	abstract[187]|abstract[189]	new[187]|new[189]	_	_
+136-6	_	discuss	_	_	_	_
 136-7	_	a	_	_	_	_
-136-8	_	bad	_	_	_	_
-136-9	_	back	_	_	_	_
-136-10	_	.	_	_	_	_
+136-8	_	recent	_	_	_	_
+136-9	_	emergency	_	_	_	_
+136-10	_	room	_	_	_	_
+136-11	_	visit	_	_	_	_
+136-12	_	for	_	_	_	_
+136-13	_	Jito	abstract[191]	new[191]	coref	136-43[191_192]
+136-14	_	,	abstract[191]	new[191]	_	_
+136-15	_	one	abstract[191]	new[191]	_	_
+136-16	_	of	abstract[191]	new[191]	_	_
+136-17	_	the	abstract[188]|abstract[191]	new[188]|new[191]	_	_
+136-18	_	friends	abstract[188]|abstract[191]	new[188]|new[191]	_	_
+136-19	_	'	abstract[188]|abstract[191]	new[188]|new[191]	_	_
+136-20	_	baby	abstract[191]	new[191]	_	_
+136-21	_	,	_	_	_	_
+136-22	_	as	_	_	_	_
+136-23	_	well	_	_	_	_
+136-24	_	as	_	_	_	_
+136-25	_	the	_	_	_	_
+136-26	_	dangerous	_	_	_	_
+136-27	_	effects	_	_	_	_
+136-28	_	of	_	_	_	_
+136-29	_	a	_	_	_	_
+136-30	_	high	_	_	_	_
+136-31	_	fever	_	_	_	_
+136-32	_	,	_	_	_	_
+136-33	_	some	_	_	_	_
+136-34	_	relatives	_	_	_	_
+136-35	_	they	abstract[190]	new[190]	_	_
+136-36	_	identify	_	_	_	_
+136-37	_	on	_	_	_	_
+136-38	_	a	_	_	_	_
+136-39	_	picture	_	_	_	_
+136-40	_	,	_	_	_	_
+136-41	_	and	_	_	_	_
+136-42	_	how	_	_	_	_
+136-43	_	baby	abstract[192]	new[192]	coref	136-46[192_193]
+136-44	_	Jito	abstract[192]	new[192]	_	_
+136-45	_	resembles	_	_	_	_
+136-46	_	his	abstract[126]|abstract[193]	new[126]|new[193]	coref	136-49[126_127]
+136-47	_	grandfather	abstract[126]	new[126]	_	_
+136-48	_	when	_	_	_	_
+136-49	_	he	abstract[127]	new[127]	coref	136-58[127_128]
+136-50	_	watches	_	_	_	_
+136-51	_	TV	_	_	_	_
+136-52	_	half	_	_	_	_
+136-53	_	asleep	_	_	_	_
+136-54	_	with	_	_	_	_
+136-55	_	a	_	_	_	_
+136-56	_	bottle	_	_	_	_
+136-57	_	in	_	_	_	_
+136-58	_	his	abstract[128]	new[128]	_	_
+136-59	_	hand	_	_	_	_
+136-60	_	.	_	_	_	_
 

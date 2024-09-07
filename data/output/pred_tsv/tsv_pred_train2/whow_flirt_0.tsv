@@ -18,10 +18,10 @@
 2-4	_	to	_	_	_	_
 2-5	_	flirt	_	_	_	_
 2-6	_	with	_	_	_	_
-2-7	_	a	abstract[46]	new[46]	coref	8-2[46_47]
-2-8	_	guy	abstract[46]	new[46]	_	_
-2-9	_	or	abstract[46]	new[46]	_	_
-2-10	_	gal	abstract[46]	new[46]	_	_
+2-7	_	a	abstract[47]	new[47]	coref	8-2[47_48]
+2-8	_	guy	abstract[47]	new[47]	_	_
+2-9	_	or	abstract[47]	new[47]	_	_
+2-10	_	gal	abstract[47]	new[47]	_	_
 2-11	_	on	_	_	_	_
 2-12	_	MSN	_	_	_	_
 2-13	_	,	_	_	_	_
@@ -128,20 +128,20 @@
 
 #Text=Text the other person a brief message asking them about their day , asking them a specific question about work or school , or simply saying " Hi ! " .
 8-1	_	Text	_	_	_	_
-8-2	_	the	abstract[47]	new[47]	coref	8-9[47_48]
-8-3	_	other	abstract[47]	new[47]	_	_
-8-4	_	person	abstract[47]	new[47]	_	_
+8-2	_	the	abstract[48]	new[48]	coref	8-9[48_49]
+8-3	_	other	abstract[48]	new[48]	_	_
+8-4	_	person	abstract[48]	new[48]	_	_
 8-5	_	a	_	_	_	_
 8-6	_	brief	_	_	_	_
 8-7	_	message	_	_	_	_
 8-8	_	asking	_	_	_	_
-8-9	_	them	abstract[48]	new[48]	coref	8-11[48_49]
+8-9	_	them	abstract[49]	new[49]	coref	8-11[49_50]
 8-10	_	about	_	_	_	_
-8-11	_	their	abstract[49]	new[49]	coref	8-15[49_50]
+8-11	_	their	abstract[50]	new[50]	coref	8-15[50_51]
 8-12	_	day	_	_	_	_
 8-13	_	,	_	_	_	_
 8-14	_	asking	_	_	_	_
-8-15	_	them	abstract[50]	new[50]	coref	11-2[50_51]
+8-15	_	them	abstract[51]	new[51]	coref	11-2[51_52]
 8-16	_	a	_	_	_	_
 8-17	_	specific	_	_	_	_
 8-18	_	question	_	_	_	_
@@ -164,7 +164,7 @@
 9-2	_	hardest	_	_	_	_
 9-3	_	part	_	_	_	_
 9-4	_	of	_	_	_	_
-9-5	_	flirting	abstract[54]	new[54]	coref	9-34[54_55]
+9-5	_	flirting	abstract[55]	new[55]	coref	9-34[55_56]
 9-6	_	is	_	_	_	_
 9-7	_	to	_	_	_	_
 9-8	_	break	_	_	_	_
@@ -193,10 +193,10 @@
 9-31	_	matter	_	_	_	_
 9-32	_	how	_	_	_	_
 9-33	_	badly	_	_	_	_
-9-34	_	it	abstract[55]	new[55]	coref	9-37[55_56]
+9-34	_	it	abstract[56]	new[56]	coref	9-37[56_57]
 9-35	_	goes	_	_	_	_
 9-36	_	,	_	_	_	_
-9-37	_	it	abstract[56]	new[56]	_	_
+9-37	_	it	abstract[57]	new[57]	_	_
 9-38	_	'll	_	_	_	_
 9-39	_	be	_	_	_	_
 9-40	_	less	_	_	_	_
@@ -228,13 +228,13 @@
 
 #Text=if the person you want to talk to does n't want to talk to you , s/he always has the option of simply not responding to your message , as , from your point of view , this is indistinguishable from him or her simply being away from the computer .
 11-1	_	if	_	_	_	_
-11-2	_	the	abstract[51]	new[51]	coref	11-17[51_52]
-11-3	_	person	abstract[51]	new[51]	_	_
-11-4	_	you	abstract[8]|abstract[51]	new[8]|new[51]	coref	11-15[8_9]
-11-5	_	want	abstract[51]	new[51]	_	_
-11-6	_	to	abstract[51]	new[51]	_	_
-11-7	_	talk	abstract[51]	new[51]	_	_
-11-8	_	to	abstract[51]	new[51]	_	_
+11-2	_	the	abstract[52]	new[52]	coref	11-17[52_53]
+11-3	_	person	abstract[52]	new[52]	_	_
+11-4	_	you	abstract[8]|abstract[52]	new[8]|new[52]	coref	11-15[8_9]
+11-5	_	want	abstract[52]	new[52]	_	_
+11-6	_	to	abstract[52]	new[52]	_	_
+11-7	_	talk	abstract[52]	new[52]	_	_
+11-8	_	to	abstract[52]	new[52]	_	_
 11-9	_	does	_	_	_	_
 11-10	_	n't	_	_	_	_
 11-11	_	want	_	_	_	_
@@ -243,18 +243,18 @@
 11-14	_	to	_	_	_	_
 11-15	_	you	abstract[9]	new[9]	coref	11-27[9_10]
 11-16	_	,	_	_	_	_
-11-17	_	s/he	abstract[52]	new[52]	coref	11-42[52_53]
+11-17	_	s/he	abstract[53]	new[53]	coref	11-42[53_54]
 11-18	_	always	_	_	_	_
 11-19	_	has	_	_	_	_
-11-20	_	the	abstract[57]	new[57]	coref	11-38[57_58]
-11-21	_	option	abstract[57]	new[57]	_	_
-11-22	_	of	abstract[57]	new[57]	_	_
-11-23	_	simply	abstract[57]	new[57]	_	_
-11-24	_	not	abstract[57]	new[57]	_	_
-11-25	_	responding	abstract[57]	new[57]	_	_
-11-26	_	to	abstract[57]	new[57]	_	_
-11-27	_	your	abstract[10]|abstract[57]	new[10]|new[57]	coref	11-33[10_11]
-11-28	_	message	abstract[57]	new[57]	_	_
+11-20	_	the	abstract[58]	new[58]	coref	11-38[58_59]
+11-21	_	option	abstract[58]	new[58]	_	_
+11-22	_	of	abstract[58]	new[58]	_	_
+11-23	_	simply	abstract[58]	new[58]	_	_
+11-24	_	not	abstract[58]	new[58]	_	_
+11-25	_	responding	abstract[58]	new[58]	_	_
+11-26	_	to	abstract[58]	new[58]	_	_
+11-27	_	your	abstract[10]|abstract[58]	new[10]|new[58]	coref	11-33[10_11]
+11-28	_	message	abstract[58]	new[58]	_	_
 11-29	_	,	_	_	_	_
 11-30	_	as	_	_	_	_
 11-31	_	,	_	_	_	_
@@ -264,13 +264,13 @@
 11-35	_	of	_	_	_	_
 11-36	_	view	_	_	_	_
 11-37	_	,	_	_	_	_
-11-38	_	this	abstract[58]	new[58]	_	_
+11-38	_	this	abstract[59]	new[59]	_	_
 11-39	_	is	_	_	_	_
 11-40	_	indistinguishable	_	_	_	_
 11-41	_	from	_	_	_	_
-11-42	_	him	abstract[53]	new[53]	_	_
-11-43	_	or	abstract[53]	new[53]	_	_
-11-44	_	her	abstract[53]	new[53]	_	_
+11-42	_	him	abstract[54]	new[54]	_	_
+11-43	_	or	abstract[54]	new[54]	_	_
+11-44	_	her	abstract[54]	new[54]	_	_
 11-45	_	simply	_	_	_	_
 11-46	_	being	_	_	_	_
 11-47	_	away	_	_	_	_
@@ -288,7 +288,7 @@
 12-6	_	you	abstract[12]	new[12]	coref	14-14[12_13]
 12-7	_	barely	_	_	_	_
 12-8	_	know	_	_	_	_
-12-9	_	someone	abstract[59]	new[59]	coref	13-28[59_60]
+12-9	_	someone	abstract[60]	new[60]	coref	13-28[60_61]
 12-10	_	,	_	_	_	_
 12-11	_	it	_	_	_	_
 12-12	_	can	_	_	_	_
@@ -337,8 +337,8 @@
 13-25	_	something	_	_	_	_
 13-26	_	striking	_	_	_	_
 13-27	_	about	_	_	_	_
-13-28	_	the	abstract[60]	new[60]	coref	14-5[60_61]
-13-29	_	person	abstract[60]	new[60]	_	_
+13-28	_	the	abstract[61]	new[61]	coref	14-5[61_62]
+13-29	_	person	abstract[61]	new[61]	_	_
 13-30	_	.	_	_	_	_
 
 #Text=For instance , if the person has a band - related username , you might say : " Hey , cool name . Did you see those guys when they last came to town ? "
@@ -346,8 +346,8 @@
 14-2	_	instance	_	_	_	_
 14-3	_	,	_	_	_	_
 14-4	_	if	_	_	_	_
-14-5	_	the	abstract[61]	new[61]	coref	14-25[61_62]
-14-6	_	person	abstract[61]	new[61]	_	_
+14-5	_	the	abstract[62]	new[62]	coref	14-25[62_63]
+14-6	_	person	abstract[62]	new[62]	_	_
 14-7	_	has	_	_	_	_
 14-8	_	a	_	_	_	_
 14-9	_	band	_	_	_	_
@@ -362,16 +362,16 @@
 14-18	_	"	_	_	_	_
 14-19	_	Hey	_	_	_	_
 14-20	_	,	_	_	_	_
-14-21	_	cool	abstract[79]	new[79]	coref	23-20[79_80]
-14-22	_	name	abstract[79]	new[79]	_	_
+14-21	_	cool	abstract[80]	new[80]	coref	23-20[80_81]
+14-22	_	name	abstract[80]	new[80]	_	_
 14-23	_	.	_	_	_	_
 14-24	_	Did	_	_	_	_
-14-25	_	you	abstract[62]	new[62]	coref	16-17[62_63]
+14-25	_	you	abstract[63]	new[63]	coref	16-17[63_64]
 14-26	_	see	_	_	_	_
-14-27	_	those	abstract[75]	new[75]	coref	14-30[75_76]
-14-28	_	guys	abstract[75]	new[75]	_	_
+14-27	_	those	abstract[76]	new[76]	coref	14-30[76_77]
+14-28	_	guys	abstract[76]	new[76]	_	_
 14-29	_	when	_	_	_	_
-14-30	_	they	abstract[76]	new[76]	coref	23-17[76_77]
+14-30	_	they	abstract[77]	new[77]	coref	23-17[77_78]
 14-31	_	last	_	_	_	_
 14-32	_	came	_	_	_	_
 14-33	_	to	_	_	_	_
@@ -402,8 +402,8 @@
 16-14	_	to	_	_	_	_
 16-15	_	ask	_	_	_	_
 16-16	_	how	_	_	_	_
-16-17	_	the	abstract[63]	new[63]	coref	17-2[63_64]
-16-18	_	person	abstract[63]	new[63]	_	_
+16-17	_	the	abstract[64]	new[64]	coref	17-2[64_65]
+16-18	_	person	abstract[64]	new[64]	_	_
 16-19	_	's	_	_	_	_
 16-20	_	doing	_	_	_	_
 16-21	_	(	_	_	_	_
@@ -420,17 +420,17 @@
 
 #Text=Ask him or her about work or school , his / her interests , or any recent trips , for instance .
 17-1	_	Ask	_	_	_	_
-17-2	_	him	abstract[64]	new[64]	coref	17-10[64_65]
-17-3	_	or	abstract[64]	new[64]	_	_
-17-4	_	her	abstract[64]	new[64]	_	_
+17-2	_	him	abstract[65]	new[65]	coref	17-10[65_66]
+17-3	_	or	abstract[65]	new[65]	_	_
+17-4	_	her	abstract[65]	new[65]	_	_
 17-5	_	about	_	_	_	_
 17-6	_	work	_	_	_	_
 17-7	_	or	_	_	_	_
 17-8	_	school	_	_	_	_
 17-9	_	,	_	_	_	_
-17-10	_	his	abstract[65]	new[65]	coref	19-2[65_66]
-17-11	_	/	abstract[65]	new[65]	_	_
-17-12	_	her	abstract[65]	new[65]	_	_
+17-10	_	his	abstract[66]	new[66]	coref	19-2[66_67]
+17-11	_	/	abstract[66]	new[66]	_	_
+17-12	_	her	abstract[66]	new[66]	_	_
 17-13	_	interests	_	_	_	_
 17-14	_	,	_	_	_	_
 17-15	_	or	_	_	_	_
@@ -463,7 +463,7 @@
 
 #Text=When s/he responds , add your own comments or ask follow - up questions and proceed from there !
 19-1	_	When	_	_	_	_
-19-2	_	s/he	abstract[66]	new[66]	coref	20-6[66_67]
+19-2	_	s/he	abstract[67]	new[67]	coref	20-6[67_68]
 19-3	_	responds	_	_	_	_
 19-4	_	,	_	_	_	_
 19-5	_	add	_	_	_	_
@@ -487,9 +487,9 @@
 20-2	_	n't	_	_	_	_
 20-3	_	pry	_	_	_	_
 20-4	_	into	_	_	_	_
-20-5	_	his	abstract[67]	new[67]	coref	23-12[67_68]
-20-6	_	or	abstract[67]	new[67]	_	_
-20-7	_	her	abstract[67]	new[67]	_	_
+20-5	_	his	abstract[68]	new[68]	coref	23-12[68_69]
+20-6	_	or	abstract[68]	new[68]	_	_
+20-7	_	her	abstract[68]	new[68]	_	_
 20-8	_	personal	_	_	_	_
 20-9	_	life	_	_	_	_
 20-10	_	—	_	_	_	_
@@ -545,25 +545,25 @@
 23-2	_	example	_	_	_	_
 23-3	_	,	_	_	_	_
 23-4	_	after	_	_	_	_
-23-5	_	we	abstract[89]	new[89]	coref	32-2[89_90]
+23-5	_	we	abstract[90]	new[90]	coref	32-2[90_91]
 23-6	_	've	_	_	_	_
 23-7	_	opened	_	_	_	_
 23-8	_	up	_	_	_	_
 23-9	_	by	_	_	_	_
 23-10	_	asking	_	_	_	_
 23-11	_	about	_	_	_	_
-23-12	_	this	abstract[68]	new[68]	coref	23-20[68_69]
-23-13	_	person	abstract[68]	new[68]	_	_
-23-14	_	's	abstract[68]	new[68]	_	_
+23-12	_	this	abstract[69]	new[69]	coref	23-20[69_70]
+23-13	_	person	abstract[69]	new[69]	_	_
+23-14	_	's	abstract[69]	new[69]	_	_
 23-15	_	interest	_	_	_	_
 23-16	_	in	_	_	_	_
-23-17	_	the	abstract[77]	new[77]	coref	25-14[77_78]
-23-18	_	band	abstract[77]	new[77]	_	_
-23-19	_	in	abstract[77]	new[77]	_	_
-23-20	_	his	abstract[69]|abstract[77]|abstract[80]	new[69]|new[77]|new[80]	coref	23-33[69_70]
-23-21	_	/	abstract[69]|abstract[77]|abstract[80]	new[69]|new[77]|new[80]	_	_
-23-22	_	her	abstract[69]|abstract[77]|abstract[80]	new[69]|new[77]|new[80]	_	_
-23-23	_	username	abstract[77]|abstract[80]	new[77]|new[80]	_	_
+23-17	_	the	abstract[78]	new[78]	coref	25-14[78_79]
+23-18	_	band	abstract[78]	new[78]	_	_
+23-19	_	in	abstract[78]	new[78]	_	_
+23-20	_	his	abstract[70]|abstract[78]|abstract[81]	new[70]|new[78]|new[81]	coref	23-33[70_71]
+23-21	_	/	abstract[70]|abstract[78]|abstract[81]	new[70]|new[78]|new[81]	_	_
+23-22	_	her	abstract[70]|abstract[78]|abstract[81]	new[70]|new[78]|new[81]	_	_
+23-23	_	username	abstract[78]|abstract[81]	new[78]|new[81]	_	_
 23-24	_	,	_	_	_	_
 23-25	_	it	_	_	_	_
 23-26	_	's	_	_	_	_
@@ -573,9 +573,9 @@
 23-30	_	to	_	_	_	_
 23-31	_	ask	_	_	_	_
 23-32	_	about	_	_	_	_
-23-33	_	this	abstract[70]	new[70]	coref	25-12[70_71]
-23-34	_	person	abstract[70]	new[70]	_	_
-23-35	_	's	abstract[70]	new[70]	_	_
+23-33	_	this	abstract[71]	new[71]	coref	25-12[71_72]
+23-34	_	person	abstract[71]	new[71]	_	_
+23-35	_	's	abstract[71]	new[71]	_	_
 23-36	_	musical	_	_	_	_
 23-37	_	likes	_	_	_	_
 23-38	_	and	_	_	_	_
@@ -606,24 +606,24 @@
 25-9	_	:	_	_	_	_
 25-10	_	"	_	_	_	_
 25-11	_	If	_	_	_	_
-25-12	_	you	abstract[71]	new[71]	coref	25-17[71_72]
+25-12	_	you	abstract[72]	new[72]	coref	25-17[72_73]
 25-13	_	like	_	_	_	_
-25-14	_	those	abstract[78]	new[78]	_	_
-25-15	_	guys	abstract[78]	new[78]	_	_
+25-14	_	those	abstract[79]	new[79]	_	_
+25-15	_	guys	abstract[79]	new[79]	_	_
 25-16	_	,	_	_	_	_
-25-17	_	you	abstract[72]	new[72]	coref	25-44[72_73]
+25-17	_	you	abstract[73]	new[73]	coref	25-44[73_74]
 25-18	_	might	_	_	_	_
 25-19	_	want	_	_	_	_
 25-20	_	to	_	_	_	_
 25-21	_	check	_	_	_	_
 25-22	_	out	_	_	_	_
-25-23	_	this	abstract[81]	new[81]	coref	25-29[81_82]
-25-24	_	band	abstract[81]	new[81]	_	_
-25-25	_	called	abstract[81]	new[81]	_	_
-25-26	_	Manic	abstract[81]	new[81]	_	_
-25-27	_	Albatross	abstract[81]	new[81]	_	_
+25-23	_	this	abstract[82]	new[82]	coref	25-29[82_83]
+25-24	_	band	abstract[82]	new[82]	_	_
+25-25	_	called	abstract[82]	new[82]	_	_
+25-26	_	Manic	abstract[82]	new[82]	_	_
+25-27	_	Albatross	abstract[82]	new[82]	_	_
 25-28	_	-	_	_	_	_
-25-29	_	they	abstract[82]	new[82]	_	_
+25-29	_	they	abstract[83]	new[83]	_	_
 25-30	_	're	_	_	_	_
 25-31	_	like	_	_	_	_
 25-32	_	the	_	_	_	_
@@ -638,7 +638,7 @@
 25-41	_	other	_	_	_	_
 25-42	_	bands	_	_	_	_
 25-43	_	do	_	_	_	_
-25-44	_	you	abstract[73]	new[73]	coref	29-16[73_74]
+25-44	_	you	abstract[74]	new[74]	coref	29-16[74_75]
 25-45	_	like	_	_	_	_
 25-46	_	?	_	_	_	_
 25-47	_	"	_	_	_	_
@@ -659,26 +659,26 @@
 
 #Text=In the immortal words of Marilyn Monroe , " If you can make a woman laugh , you can make her do anything " ( do n't worry , ladies — the same is true for men ! )
 28-1	_	In	_	_	_	_
-28-2	_	the	abstract[87]	new[87]	coref	28-32[87_88]
-28-3	_	immortal	abstract[87]	new[87]	_	_
-28-4	_	words	abstract[87]	new[87]	_	_
-28-5	_	of	abstract[87]	new[87]	_	_
-28-6	_	Marilyn	abstract[87]	new[87]	_	_
-28-7	_	Monroe	abstract[87]	new[87]	_	_
+28-2	_	the	abstract[88]	new[88]	coref	28-32[88_89]
+28-3	_	immortal	abstract[88]	new[88]	_	_
+28-4	_	words	abstract[88]	new[88]	_	_
+28-5	_	of	abstract[88]	new[88]	_	_
+28-6	_	Marilyn	abstract[88]	new[88]	_	_
+28-7	_	Monroe	abstract[88]	new[88]	_	_
 28-8	_	,	_	_	_	_
 28-9	_	"	_	_	_	_
 28-10	_	If	_	_	_	_
-28-11	_	you	abstract[83]	new[83]	coref	28-18[83_84]
+28-11	_	you	abstract[84]	new[84]	coref	28-18[84_85]
 28-12	_	can	_	_	_	_
 28-13	_	make	_	_	_	_
-28-14	_	a	abstract[85]	new[85]	coref	28-21[85_86]
-28-15	_	woman	abstract[85]	new[85]	_	_
+28-14	_	a	abstract[86]	new[86]	coref	28-21[86_87]
+28-15	_	woman	abstract[86]	new[86]	_	_
 28-16	_	laugh	_	_	_	_
 28-17	_	,	_	_	_	_
-28-18	_	you	abstract[84]	new[84]	_	_
+28-18	_	you	abstract[85]	new[85]	_	_
 28-19	_	can	_	_	_	_
 28-20	_	make	_	_	_	_
-28-21	_	her	abstract[86]	new[86]	_	_
+28-21	_	her	abstract[87]	new[87]	_	_
 28-22	_	do	_	_	_	_
 28-23	_	anything	_	_	_	_
 28-24	_	"	_	_	_	_
@@ -689,8 +689,8 @@
 28-29	_	,	_	_	_	_
 28-30	_	ladies	_	_	_	_
 28-31	_	—	_	_	_	_
-28-32	_	the	abstract[88]	new[88]	_	_
-28-33	_	same	abstract[88]	new[88]	_	_
+28-32	_	the	abstract[89]	new[89]	_	_
+28-33	_	same	abstract[89]	new[89]	_	_
 28-34	_	is	_	_	_	_
 28-35	_	true	_	_	_	_
 28-36	_	for	_	_	_	_
@@ -714,12 +714,12 @@
 29-13	_	the	_	_	_	_
 29-14	_	statements	_	_	_	_
 29-15	_	of	_	_	_	_
-29-16	_	the	abstract[74]	new[74]	_	_
-29-17	_	person	abstract[74]	new[74]	_	_
-29-18	_	you	abstract[74]	new[74]	_	_
-29-19	_	're	abstract[74]	new[74]	_	_
-29-20	_	talking	abstract[74]	new[74]	_	_
-29-21	_	to	abstract[74]	new[74]	_	_
+29-16	_	the	abstract[75]	new[75]	_	_
+29-17	_	person	abstract[75]	new[75]	_	_
+29-18	_	you	abstract[75]	new[75]	_	_
+29-19	_	're	abstract[75]	new[75]	_	_
+29-20	_	talking	abstract[75]	new[75]	_	_
+29-21	_	to	abstract[75]	new[75]	_	_
 29-22	_	.	_	_	_	_
 
 #Text=For instance , if you 're asked what you 're up to , rather than saying , " looking for people to hit on on Facebook " you might find that it 's a better idea to give a sarcastic answer like " writing the great American novel " or " drowning my sorrows " .
@@ -820,7 +820,7 @@
 
 #Text=In our example conversation , you might work a joke or two into your music - related small talk .
 32-1	_	In	_	_	_	_
-32-2	_	our	abstract[90]	new[90]	_	_
+32-2	_	our	abstract[91]	new[91]	_	_
 32-3	_	example	_	_	_	_
 32-4	_	conversation	_	_	_	_
 32-5	_	,	_	_	_	_
@@ -864,12 +864,12 @@
 33-21	_	nowadays	_	_	_	_
 33-22	_	has	_	_	_	_
 33-23	_	a	_	_	_	_
-33-24	_	Texas	abstract[91]	new[91]	coref	33-29[91_92]
-33-25	_	Flynn	abstract[91]	new[91]	_	_
+33-24	_	Texas	abstract[92]	new[92]	coref	33-29[92_93]
+33-25	_	Flynn	abstract[92]	new[92]	_	_
 33-26	_	feature	_	_	_	_
 33-27	_	.	_	_	_	_
 33-28	_	Does	_	_	_	_
-33-29	_	he	abstract[92]	new[92]	_	_
+33-29	_	he	abstract[93]	new[93]	_	_
 33-30	_	even	_	_	_	_
 33-31	_	have	_	_	_	_
 33-32	_	time	_	_	_	_
@@ -910,7 +910,7 @@
 36-7	_	.	_	_	_	_
 
 #Text=This is more true for real - life situations than it is online , but this mantra has some truth in the world of IM flirting as well .
-37-1	_	This	abstract[93]	new[93]	coref	37-11[93_94]
+37-1	_	This	abstract[94]	new[94]	coref	37-11[94_95]
 37-2	_	is	_	_	_	_
 37-3	_	more	_	_	_	_
 37-4	_	true	_	_	_	_
@@ -920,13 +920,13 @@
 37-8	_	life	_	_	_	_
 37-9	_	situations	_	_	_	_
 37-10	_	than	_	_	_	_
-37-11	_	it	abstract[94]	new[94]	coref	37-16[94_95]
+37-11	_	it	abstract[95]	new[95]	coref	37-16[95_96]
 37-12	_	is	_	_	_	_
 37-13	_	online	_	_	_	_
 37-14	_	,	_	_	_	_
 37-15	_	but	_	_	_	_
-37-16	_	this	abstract[95]	new[95]	_	_
-37-17	_	mantra	abstract[95]	new[95]	_	_
+37-16	_	this	abstract[96]	new[96]	_	_
+37-17	_	mantra	abstract[96]	new[96]	_	_
 37-18	_	has	_	_	_	_
 37-19	_	some	_	_	_	_
 37-20	_	truth	_	_	_	_
@@ -965,7 +965,7 @@
 39-3	_	is	_	_	_	_
 39-4	_	plenty	_	_	_	_
 39-5	_	—	_	_	_	_
-39-6	_	it	abstract[96]	new[96]	coref	40-3[96_97]
+39-6	_	it	abstract[97]	new[97]	coref	40-3[97_98]
 39-7	_	should	_	_	_	_
 39-8	_	n't	_	_	_	_
 39-9	_	be	_	_	_	_
@@ -979,7 +979,7 @@
 
 #Text=Doing this too often can quickly turn an otherwise flirtatious conversation into one in which you appear needy and self - loathing .
 40-1	_	Doing	_	_	_	_
-40-2	_	this	abstract[97]	new[97]	_	_
+40-2	_	this	abstract[98]	new[98]	_	_
 40-3	_	too	_	_	_	_
 40-4	_	often	_	_	_	_
 40-5	_	can	_	_	_	_
@@ -1078,8 +1078,8 @@
 
 #Text=For most people , receiving compliments is only fun up to a point — getting more than one or two can make someone feel embarrassed and self - conscious .
 45-1	_	For	_	_	_	_
-45-2	_	most	abstract[98]	new[98]	coref	45-23[98_99]
-45-3	_	people	abstract[98]	new[98]	_	_
+45-2	_	most	abstract[99]	new[99]	coref	45-23[99_100]
+45-3	_	people	abstract[99]	new[99]	_	_
 45-4	_	,	_	_	_	_
 45-5	_	receiving	_	_	_	_
 45-6	_	compliments	_	_	_	_
@@ -1091,7 +1091,7 @@
 45-12	_	a	_	_	_	_
 45-13	_	point	_	_	_	_
 45-14	_	—	_	_	_	_
-45-15	_	getting	abstract[105]	new[105]	coref	46-1[105_106]
+45-15	_	getting	abstract[106]	new[106]	coref	46-1[106_107]
 45-16	_	more	_	_	_	_
 45-17	_	than	_	_	_	_
 45-18	_	one	_	_	_	_
@@ -1099,7 +1099,7 @@
 45-20	_	two	_	_	_	_
 45-21	_	can	_	_	_	_
 45-22	_	make	_	_	_	_
-45-23	_	someone	abstract[99]	new[99]	coref	46-5[99_100]
+45-23	_	someone	abstract[100]	new[100]	coref	46-5[100_101]
 45-24	_	feel	_	_	_	_
 45-25	_	embarrassed	_	_	_	_
 45-26	_	and	_	_	_	_
@@ -1109,20 +1109,20 @@
 45-30	_	.	_	_	_	_
 
 #Text=It can also make him or her question your motives , leading the person to believe that you may be trying to get something out of him or her .
-46-1	_	It	abstract[106]	new[106]	_	_
+46-1	_	It	abstract[107]	new[107]	_	_
 46-2	_	can	_	_	_	_
 46-3	_	also	_	_	_	_
 46-4	_	make	_	_	_	_
-46-5	_	him	abstract[100]	new[100]	coref	46-13[100_101]
-46-6	_	or	abstract[100]	new[100]	_	_
-46-7	_	her	abstract[100]	new[100]	_	_
+46-5	_	him	abstract[101]	new[101]	coref	46-13[101_102]
+46-6	_	or	abstract[101]	new[101]	_	_
+46-7	_	her	abstract[101]	new[101]	_	_
 46-8	_	question	_	_	_	_
 46-9	_	your	abstract[42]	new[42]	coref	46-18[42_43]
 46-10	_	motives	_	_	_	_
 46-11	_	,	_	_	_	_
 46-12	_	leading	_	_	_	_
-46-13	_	the	abstract[101]	new[101]	coref	46-27[101_102]
-46-14	_	person	abstract[101]	new[101]	_	_
+46-13	_	the	abstract[102]	new[102]	coref	46-27[102_103]
+46-14	_	person	abstract[102]	new[102]	_	_
 46-15	_	to	_	_	_	_
 46-16	_	believe	_	_	_	_
 46-17	_	that	_	_	_	_
@@ -1135,9 +1135,9 @@
 46-24	_	something	_	_	_	_
 46-25	_	out	_	_	_	_
 46-26	_	of	_	_	_	_
-46-27	_	him	abstract[102]	new[102]	coref	50-11[102_103]
-46-28	_	or	abstract[102]	new[102]	_	_
-46-29	_	her	abstract[102]	new[102]	_	_
+46-27	_	him	abstract[103]	new[103]	coref	50-11[103_104]
+46-28	_	or	abstract[103]	new[103]	_	_
+46-29	_	her	abstract[103]	new[103]	_	_
 46-30	_	.	_	_	_	_
 
 #Text=Besides , the wooing power of flowery , gushing compliments is diminished ( to say the least ) when the compliments are displayed in a tiny box at the bottom of the screen alongside cartoon smiley faces .
@@ -1147,10 +1147,10 @@
 47-4	_	wooing	_	_	_	_
 47-5	_	power	_	_	_	_
 47-6	_	of	_	_	_	_
-47-7	_	flowery	abstract[107]	new[107]	coref	47-20[107_108]
-47-8	_	,	abstract[107]	new[107]	_	_
-47-9	_	gushing	abstract[107]	new[107]	_	_
-47-10	_	compliments	abstract[107]	new[107]	_	_
+47-7	_	flowery	abstract[108]	new[108]	coref	47-20[108_109]
+47-8	_	,	abstract[108]	new[108]	_	_
+47-9	_	gushing	abstract[108]	new[108]	_	_
+47-10	_	compliments	abstract[108]	new[108]	_	_
 47-11	_	is	_	_	_	_
 47-12	_	diminished	_	_	_	_
 47-13	_	(	_	_	_	_
@@ -1160,8 +1160,8 @@
 47-17	_	least	_	_	_	_
 47-18	_	)	_	_	_	_
 47-19	_	when	_	_	_	_
-47-20	_	the	abstract[108]	new[108]	_	_
-47-21	_	compliments	abstract[108]	new[108]	_	_
+47-20	_	the	abstract[109]	new[109]	_	_
+47-21	_	compliments	abstract[109]	new[109]	_	_
 47-22	_	are	_	_	_	_
 47-23	_	displayed	_	_	_	_
 47-24	_	in	_	_	_	_
@@ -1221,17 +1221,17 @@
 50-4	_	,	_	_	_	_
 50-5	_	show	_	_	_	_
 50-6	_	that	_	_	_	_
-50-7	_	you	abstract[44]	new[44]	coref	51-2[44_45]
+50-7	_	you	abstract[44]	new[44]	coref	51-3[44_45]
 50-8	_	're	_	_	_	_
 50-9	_	attracted	_	_	_	_
 50-10	_	to	_	_	_	_
-50-11	_	this	abstract[103]	new[103]	coref	50-15[103_104]
-50-12	_	person	abstract[103]	new[103]	_	_
+50-11	_	this	abstract[104]	new[104]	coref	50-15[104_105]
+50-12	_	person	abstract[104]	new[104]	_	_
 50-13	_	by	_	_	_	_
 50-14	_	giving	_	_	_	_
-50-15	_	him	abstract[104]	new[104]	_	_
-50-16	_	or	abstract[104]	new[104]	_	_
-50-17	_	her	abstract[104]	new[104]	_	_
+50-15	_	him	abstract[105]	new[105]	_	_
+50-16	_	or	abstract[105]	new[105]	_	_
+50-17	_	her	abstract[105]	new[105]	_	_
 50-18	_	a	_	_	_	_
 50-19	_	great	_	_	_	_
 50-20	_	conversation	_	_	_	_
@@ -1243,19 +1243,25 @@
 50-26	_	outright	_	_	_	_
 50-27	_	.	_	_	_	_
 
-#Text=Assume you can handle the elevator . Run . Laugh . Add more .
-51-1	_	Assume	_	_	_	_
-51-2	_	you	abstract[45]	new[45]	_	_
-51-3	_	can	_	_	_	_
-51-4	_	handle	_	_	_	_
-51-5	_	the	_	_	_	_
-51-6	_	elevator	_	_	_	_
-51-7	_	.	_	_	_	_
-51-8	_	Run	_	_	_	_
+#Text=Put on your clothes and be a prankster . Put on some pranks on your feet . Do stunts .
+51-1	_	Put	_	_	_	_
+51-2	_	on	_	_	_	_
+51-3	_	your	abstract[45]	new[45]	coref	51-15[45_46]
+51-4	_	clothes	_	_	_	_
+51-5	_	and	_	_	_	_
+51-6	_	be	_	_	_	_
+51-7	_	a	_	_	_	_
+51-8	_	prankster	_	_	_	_
 51-9	_	.	_	_	_	_
-51-10	_	Laugh	_	_	_	_
-51-11	_	.	_	_	_	_
-51-12	_	Add	_	_	_	_
-51-13	_	more	_	_	_	_
-51-14	_	.	_	_	_	_
+51-10	_	Put	_	_	_	_
+51-11	_	on	_	_	_	_
+51-12	_	some	_	_	_	_
+51-13	_	pranks	_	_	_	_
+51-14	_	on	_	_	_	_
+51-15	_	your	abstract[46]	new[46]	_	_
+51-16	_	feet	_	_	_	_
+51-17	_	.	_	_	_	_
+51-18	_	Do	_	_	_	_
+51-19	_	stunts	_	_	_	_
+51-20	_	.	_	_	_	_
 

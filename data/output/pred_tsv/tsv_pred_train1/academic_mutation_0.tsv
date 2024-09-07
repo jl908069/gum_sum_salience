@@ -95,8 +95,8 @@
 6-4	_	process	_	_	_	_
 6-5	_	for	_	_	_	_
 6-6	_	applying	_	_	_	_
-6-7	_	the	abstract[43]	new[43]	coref	21-25[43_44]
-6-8	_	operators	abstract[43]	new[43]	_	_
+6-7	_	the	abstract[44]	new[44]	coref	21-25[44_45]
+6-8	_	operators	abstract[44]	new[44]	_	_
 6-9	_	and	_	_	_	_
 6-10	_	generating	_	_	_	_
 6-11	_	mutants	_	_	_	_
@@ -266,30 +266,30 @@
 
 #Text=In this article , we propose mutation operators specific to the domain of Geographic Information Systems ( GIS ) applications .
 14-1	_	In	_	_	_	_
-14-2	_	this	abstract[25]	new[25]	_	_
+14-2	_	this	abstract[25]	new[25]	coref	51-1[25_26]
 14-3	_	article	abstract[25]	new[25]	_	_
 14-4	_	,	_	_	_	_
 14-5	_	we	abstract[7]	new[7]	coref	16-4[7_8]
 14-6	_	propose	_	_	_	_
-14-7	_	mutation	abstract[26]	new[26]	coref	15-1[26_27]
-14-8	_	operators	abstract[26]	new[26]	_	_
-14-9	_	specific	abstract[26]	new[26]	_	_
-14-10	_	to	abstract[26]	new[26]	_	_
-14-11	_	the	abstract[26]	new[26]	_	_
-14-12	_	domain	abstract[26]	new[26]	_	_
-14-13	_	of	abstract[26]	new[26]	_	_
-14-14	_	Geographic	abstract[26]	new[26]	_	_
-14-15	_	Information	abstract[26]	new[26]	_	_
-14-16	_	Systems	abstract[26]	new[26]	_	_
-14-17	_	(	abstract[26]	new[26]	_	_
-14-18	_	GIS	abstract[26]	new[26]	_	_
-14-19	_	)	abstract[26]	new[26]	_	_
-14-20	_	applications	abstract[26]	new[26]	_	_
+14-7	_	mutation	abstract[27]	new[27]	coref	15-1[27_28]
+14-8	_	operators	abstract[27]	new[27]	_	_
+14-9	_	specific	abstract[27]	new[27]	_	_
+14-10	_	to	abstract[27]	new[27]	_	_
+14-11	_	the	abstract[27]	new[27]	_	_
+14-12	_	domain	abstract[27]	new[27]	_	_
+14-13	_	of	abstract[27]	new[27]	_	_
+14-14	_	Geographic	abstract[27]	new[27]	_	_
+14-15	_	Information	abstract[27]	new[27]	_	_
+14-16	_	Systems	abstract[27]	new[27]	_	_
+14-17	_	(	abstract[27]	new[27]	_	_
+14-18	_	GIS	abstract[27]	new[27]	_	_
+14-19	_	)	abstract[27]	new[27]	_	_
+14-20	_	applications	abstract[27]	new[27]	_	_
 14-21	_	.	_	_	_	_
 
 #Text=These operators reproduce programming errors that are litely to occur during the development of this type of applications .
-15-1	_	These	abstract[27]	new[27]	coref	16-9[27_28]
-15-2	_	operators	abstract[27]	new[27]	_	_
+15-1	_	These	abstract[28]	new[28]	coref	16-9[28_29]
+15-2	_	operators	abstract[28]	new[28]	_	_
 15-3	_	reproduce	_	_	_	_
 15-4	_	programming	_	_	_	_
 15-5	_	errors	_	_	_	_
@@ -299,13 +299,13 @@
 15-9	_	to	_	_	_	_
 15-10	_	occur	_	_	_	_
 15-11	_	during	_	_	_	_
-15-12	_	the	abstract[32]	new[32]	coref	18-19[32_33]
-15-13	_	development	abstract[32]	new[32]	_	_
-15-14	_	of	abstract[32]	new[32]	_	_
-15-15	_	this	abstract[32]	new[32]	_	_
-15-16	_	type	abstract[32]	new[32]	_	_
-15-17	_	of	abstract[32]	new[32]	_	_
-15-18	_	applications	abstract[32]	new[32]	_	_
+15-12	_	the	abstract[33]	new[33]	coref	18-19[33_34]
+15-13	_	development	abstract[33]	new[33]	_	_
+15-14	_	of	abstract[33]	new[33]	_	_
+15-15	_	this	abstract[33]	new[33]	_	_
+15-16	_	type	abstract[33]	new[33]	_	_
+15-17	_	of	abstract[33]	new[33]	_	_
+15-18	_	applications	abstract[33]	new[33]	_	_
 15-19	_	.	_	_	_	_
 
 #Text=In addition , we present the implementation of these operators and as proof of concept we apply these operators to two real - world GIS applications and we generate the mutants .
@@ -317,8 +317,8 @@
 16-6	_	the	_	_	_	_
 16-7	_	implementation	_	_	_	_
 16-8	_	of	_	_	_	_
-16-9	_	these	abstract[28]	new[28]	coref	16-18[28_29]
-16-10	_	operators	abstract[28]	new[28]	_	_
+16-9	_	these	abstract[29]	new[29]	coref	16-18[29_30]
+16-10	_	operators	abstract[29]	new[29]	_	_
 16-11	_	and	_	_	_	_
 16-12	_	as	_	_	_	_
 16-13	_	proof	_	_	_	_
@@ -326,8 +326,8 @@
 16-15	_	concept	_	_	_	_
 16-16	_	we	abstract[9]	new[9]	coref	16-28[9_10]
 16-17	_	apply	_	_	_	_
-16-18	_	these	abstract[29]	new[29]	coref	17-2[29_30]
-16-19	_	operators	abstract[29]	new[29]	_	_
+16-18	_	these	abstract[30]	new[30]	coref	17-2[30_31]
+16-19	_	operators	abstract[30]	new[30]	_	_
 16-20	_	to	_	_	_	_
 16-21	_	two	_	_	_	_
 16-22	_	real	_	_	_	_
@@ -344,10 +344,10 @@
 
 #Text=2. Mutation Operators for GIS
 17-1	_	2.	_	_	_	_
-17-2	_	Mutation	abstract[30]	new[30]	coref	18-7[30_31]
-17-3	_	Operators	abstract[30]	new[30]	_	_
-17-4	_	for	abstract[30]	new[30]	_	_
-17-5	_	GIS	abstract[30]|abstract[35]	new[30]|new[35]	coref	18-22[35_36]
+17-2	_	Mutation	abstract[31]	new[31]	coref	18-7[31_32]
+17-3	_	Operators	abstract[31]	new[31]	_	_
+17-4	_	for	abstract[31]	new[31]	_	_
+17-5	_	GIS	abstract[31]|abstract[36]	new[31]|new[36]	coref	18-22[36_37]
 
 #Text=As a previous step to designing the mutation operators , we analyzed the main technologies used specifically in the development of GIS , and we identified typical errors a programmer can introduce during the development .
 18-1	_	As	_	_	_	_
@@ -356,9 +356,9 @@
 18-4	_	step	_	_	_	_
 18-5	_	to	_	_	_	_
 18-6	_	designing	_	_	_	_
-18-7	_	the	abstract[31]	new[31]	_	_
-18-8	_	mutation	abstract[31]	new[31]	_	_
-18-9	_	operators	abstract[31]	new[31]	_	_
+18-7	_	the	abstract[32]	new[32]	_	_
+18-8	_	mutation	abstract[32]	new[32]	_	_
+18-9	_	operators	abstract[32]	new[32]	_	_
 18-10	_	,	_	_	_	_
 18-11	_	we	abstract[11]	new[11]	coref	18-25[11_12]
 18-12	_	analyzed	_	_	_	_
@@ -368,33 +368,33 @@
 18-16	_	used	_	_	_	_
 18-17	_	specifically	_	_	_	_
 18-18	_	in	_	_	_	_
-18-19	_	the	abstract[33]	new[33]	coref	18-34[33_34]
-18-20	_	development	abstract[33]	new[33]	_	_
-18-21	_	of	abstract[33]	new[33]	_	_
-18-22	_	GIS	abstract[33]|abstract[36]	new[33]|new[36]	_	_
+18-19	_	the	abstract[34]	new[34]	coref	18-34[34_35]
+18-20	_	development	abstract[34]	new[34]	_	_
+18-21	_	of	abstract[34]	new[34]	_	_
+18-22	_	GIS	abstract[34]|abstract[37]	new[34]|new[37]	_	_
 18-23	_	,	_	_	_	_
 18-24	_	and	_	_	_	_
 18-25	_	we	abstract[12]	new[12]	coref	20-11[12_13]
 18-26	_	identified	_	_	_	_
-18-27	_	typical	abstract[37]	new[37]	coref	19-1[37_38]
-18-28	_	errors	abstract[37]	new[37]	_	_
-18-29	_	a	abstract[37]	new[37]	_	_
-18-30	_	programmer	abstract[37]	new[37]	_	_
-18-31	_	can	abstract[37]	new[37]	_	_
-18-32	_	introduce	abstract[37]	new[37]	_	_
-18-33	_	during	abstract[37]	new[37]	_	_
-18-34	_	the	abstract[34]|abstract[37]	new[34]|new[37]	_	_
-18-35	_	development	abstract[34]|abstract[37]	new[34]|new[37]	_	_
+18-27	_	typical	abstract[38]	new[38]	coref	19-1[38_39]
+18-28	_	errors	abstract[38]	new[38]	_	_
+18-29	_	a	abstract[38]	new[38]	_	_
+18-30	_	programmer	abstract[38]	new[38]	_	_
+18-31	_	can	abstract[38]	new[38]	_	_
+18-32	_	introduce	abstract[38]	new[38]	_	_
+18-33	_	during	abstract[38]	new[38]	_	_
+18-34	_	the	abstract[35]|abstract[38]	new[35]|new[38]	_	_
+18-35	_	development	abstract[35]|abstract[38]	new[35]|new[38]	_	_
 18-36	_	.	_	_	_	_
 
 #Text=These errors were formalized into mutation operators .
-19-1	_	These	abstract[38]	new[38]	_	_
-19-2	_	errors	abstract[38]	new[38]	_	_
+19-1	_	These	abstract[39]	new[39]	_	_
+19-2	_	errors	abstract[39]	new[39]	_	_
 19-3	_	were	_	_	_	_
 19-4	_	formalized	_	_	_	_
 19-5	_	into	_	_	_	_
-19-6	_	mutation	abstract[39]	new[39]	coref	20-5[39_40]
-19-7	_	operators	abstract[39]	new[39]	_	_
+19-6	_	mutation	abstract[40]	new[40]	coref	20-5[40_41]
+19-7	_	operators	abstract[40]	new[40]	_	_
 19-8	_	.	_	_	_	_
 
 #Text=In order to apply these operators to a SUT , we rely on Java reflection and aspect - oriented programming .
@@ -402,11 +402,11 @@
 20-2	_	order	_	_	_	_
 20-3	_	to	_	_	_	_
 20-4	_	apply	_	_	_	_
-20-5	_	these	abstract[40]	new[40]	_	_
-20-6	_	operators	abstract[40]	new[40]	_	_
+20-5	_	these	abstract[41]	new[41]	_	_
+20-6	_	operators	abstract[41]	new[41]	_	_
 20-7	_	to	_	_	_	_
-20-8	_	a	abstract[41]	new[41]	coref	21-13[41_42]
-20-9	_	SUT	abstract[41]	new[41]	_	_
+20-8	_	a	abstract[42]	new[42]	coref	21-13[42_43]
+20-9	_	SUT	abstract[42]	new[42]	_	_
 20-10	_	,	_	_	_	_
 20-11	_	we	abstract[13]	new[13]	coref	21-3[13_14]
 20-12	_	rely	_	_	_	_
@@ -433,23 +433,23 @@
 21-10	_	and	_	_	_	_
 21-11	_	methods	_	_	_	_
 21-12	_	of	_	_	_	_
-21-13	_	the	abstract[42]	new[42]	_	_
-21-14	_	SUT	abstract[42]	new[42]	_	_
+21-13	_	the	abstract[43]	new[43]	_	_
+21-14	_	SUT	abstract[43]	new[43]	_	_
 21-15	_	,	_	_	_	_
 21-16	_	so	_	_	_	_
 21-17	_	the	_	_	_	_
 21-18	_	user	_	_	_	_
 21-19	_	can	_	_	_	_
 21-20	_	decide	_	_	_	_
-21-21	_	the	abstract[45]	new[45]	coref	22-7[45_46]
-21-22	_	methods	abstract[45]	new[45]	_	_
-21-23	_	to	abstract[45]	new[45]	_	_
-21-24	_	wish	abstract[45]	new[45]	_	_
-21-25	_	the	abstract[44]|abstract[45]	new[44]|new[45]	_	_
-21-26	_	operators	abstract[44]|abstract[45]	new[44]|new[45]	_	_
-21-27	_	will	abstract[45]	new[45]	_	_
-21-28	_	be	abstract[45]	new[45]	_	_
-21-29	_	applied	abstract[45]	new[45]	_	_
+21-21	_	the	abstract[46]	new[46]	coref	22-7[46_47]
+21-22	_	methods	abstract[46]	new[46]	_	_
+21-23	_	to	abstract[46]	new[46]	_	_
+21-24	_	wish	abstract[46]	new[46]	_	_
+21-25	_	the	abstract[45]|abstract[46]	new[45]|new[46]	_	_
+21-26	_	operators	abstract[45]|abstract[46]	new[45]|new[46]	_	_
+21-27	_	will	abstract[46]	new[46]	_	_
+21-28	_	be	abstract[46]	new[46]	_	_
+21-29	_	applied	abstract[46]	new[46]	_	_
 21-30	_	.	_	_	_	_
 
 #Text=Later , we capture information about the methods of the SUT to be mutated , together with the information of the mutation operators that were already defined .
@@ -459,14 +459,14 @@
 22-4	_	capture	_	_	_	_
 22-5	_	information	_	_	_	_
 22-6	_	about	_	_	_	_
-22-7	_	the	abstract[46]	new[46]	_	_
-22-8	_	methods	abstract[46]	new[46]	_	_
-22-9	_	of	abstract[46]	new[46]	_	_
-22-10	_	the	abstract[46]|abstract[47]	new[46]|new[47]	coref	23-27[47_48]
-22-11	_	SUT	abstract[46]|abstract[47]	new[46]|new[47]	_	_
-22-12	_	to	abstract[46]|abstract[47]	new[46]|new[47]	_	_
-22-13	_	be	abstract[46]|abstract[47]	new[46]|new[47]	_	_
-22-14	_	mutated	abstract[46]|abstract[47]	new[46]|new[47]	_	_
+22-7	_	the	abstract[47]	new[47]	_	_
+22-8	_	methods	abstract[47]	new[47]	_	_
+22-9	_	of	abstract[47]	new[47]	_	_
+22-10	_	the	abstract[47]|abstract[48]	new[47]|new[48]	coref	23-27[48_49]
+22-11	_	SUT	abstract[47]|abstract[48]	new[47]|new[48]	_	_
+22-12	_	to	abstract[47]|abstract[48]	new[47]|new[48]	_	_
+22-13	_	be	abstract[47]|abstract[48]	new[47]|new[48]	_	_
+22-14	_	mutated	abstract[47]|abstract[48]	new[47]|new[48]	_	_
 22-15	_	,	_	_	_	_
 22-16	_	together	_	_	_	_
 22-17	_	with	_	_	_	_
@@ -508,15 +508,15 @@
 23-23	_	to	_	_	_	_
 23-24	_	interweave	_	_	_	_
 23-25	_	with	_	_	_	_
-23-26	_	the	abstract[48]	new[48]	coref	23-34[48_49]
-23-27	_	SUT	abstract[48]	new[48]	_	_
+23-26	_	the	abstract[49]	new[49]	coref	23-34[49_50]
+23-27	_	SUT	abstract[49]	new[49]	_	_
 23-28	_	which	_	_	_	_
 23-29	_	generates	_	_	_	_
 23-30	_	a	_	_	_	_
 23-31	_	mutant	_	_	_	_
 23-32	_	of	_	_	_	_
-23-33	_	the	abstract[49]	new[49]	_	_
-23-34	_	SUT	abstract[49]	new[49]	_	_
+23-33	_	the	abstract[50]	new[50]	_	_
+23-34	_	SUT	abstract[50]	new[50]	_	_
 23-35	_	.	_	_	_	_
 
 #Text=Next , we describe the definition of two operators and two cases of application on real - world GIS applications .
@@ -543,71 +543,71 @@
 24-21	_	.	_	_	_	_
 
 #Text=ChangeCoordSys Operator ( Listing 1 ) :
-25-1	_	ChangeCoordSys	abstract[50]	new[50]	coref	26-1[50_51]
-25-2	_	Operator	abstract[50]	new[50]	_	_
+25-1	_	ChangeCoordSys	abstract[51]	new[51]	coref	26-1[51_52]
+25-2	_	Operator	abstract[51]	new[51]	_	_
 25-3	_	(	_	_	_	_
-25-4	_	Listing	abstract[62]	new[62]	coref	29-1[62_63]
-25-5	_	1	abstract[62]	new[62]	_	_
+25-4	_	Listing	abstract[63]	new[63]	coref	29-1[63_64]
+25-5	_	1	abstract[63]	new[63]	_	_
 25-6	_	)	_	_	_	_
 25-7	_	:	_	_	_	_
 
 #Text=It exchanges the coordinate system of a geometry , so it does not match the coordinate system that is being used in the user interface .
-26-1	_	It	abstract[51]	new[51]	coref	27-1[51_52]
+26-1	_	It	abstract[52]	new[52]	coref	27-1[52_53]
 26-2	_	exchanges	_	_	_	_
-26-3	_	the	abstract[55]	new[55]	coref	26-11[55_56]
-26-4	_	coordinate	abstract[55]	new[55]	_	_
-26-5	_	system	abstract[55]	new[55]	_	_
-26-6	_	of	abstract[55]	new[55]	_	_
-26-7	_	a	abstract[55]	new[55]	_	_
-26-8	_	geometry	abstract[55]	new[55]	_	_
+26-3	_	the	abstract[56]	new[56]	coref	26-11[56_57]
+26-4	_	coordinate	abstract[56]	new[56]	_	_
+26-5	_	system	abstract[56]	new[56]	_	_
+26-6	_	of	abstract[56]	new[56]	_	_
+26-7	_	a	abstract[56]	new[56]	_	_
+26-8	_	geometry	abstract[56]	new[56]	_	_
 26-9	_	,	_	_	_	_
 26-10	_	so	_	_	_	_
-26-11	_	it	abstract[56]	new[56]	coref	26-15[56_57]
+26-11	_	it	abstract[57]	new[57]	coref	26-15[57_58]
 26-12	_	does	_	_	_	_
 26-13	_	not	_	_	_	_
 26-14	_	match	_	_	_	_
-26-15	_	the	abstract[57]	new[57]	coref	27-9[57_58]
-26-16	_	coordinate	abstract[57]	new[57]	_	_
-26-17	_	system	abstract[57]	new[57]	_	_
-26-18	_	that	abstract[57]	new[57]	_	_
-26-19	_	is	abstract[57]	new[57]	_	_
-26-20	_	being	abstract[57]	new[57]	_	_
-26-21	_	used	abstract[57]	new[57]	_	_
-26-22	_	in	abstract[57]	new[57]	_	_
-26-23	_	the	abstract[57]	new[57]	_	_
-26-24	_	user	abstract[57]	new[57]	_	_
-26-25	_	interface	abstract[57]	new[57]	_	_
+26-15	_	the	abstract[58]	new[58]	coref	27-9[58_59]
+26-16	_	coordinate	abstract[58]	new[58]	_	_
+26-17	_	system	abstract[58]	new[58]	_	_
+26-18	_	that	abstract[58]	new[58]	_	_
+26-19	_	is	abstract[58]	new[58]	_	_
+26-20	_	being	abstract[58]	new[58]	_	_
+26-21	_	used	abstract[58]	new[58]	_	_
+26-22	_	in	abstract[58]	new[58]	_	_
+26-23	_	the	abstract[58]	new[58]	_	_
+26-24	_	user	abstract[58]	new[58]	_	_
+26-25	_	interface	abstract[58]	new[58]	_	_
 26-26	_	.	_	_	_	_
 
 #Text=It simulates the error of not checking that the coordinate system is correct .
-27-1	_	It	abstract[52]	new[52]	coref	29-8[52_53]
+27-1	_	It	abstract[53]	new[53]	coref	29-8[53_54]
 27-2	_	simulates	_	_	_	_
-27-3	_	the	abstract[60]	new[60]	coref	28-1[60_61]
-27-4	_	error	abstract[60]	new[60]	_	_
-27-5	_	of	abstract[60]	new[60]	_	_
-27-6	_	not	abstract[60]	new[60]	_	_
-27-7	_	checking	abstract[60]	new[60]	_	_
-27-8	_	that	abstract[60]	new[60]	_	_
-27-9	_	the	abstract[58]|abstract[60]	new[58]|new[60]	coref	28-8[58_59]
-27-10	_	coordinate	abstract[58]|abstract[60]	new[58]|new[60]	_	_
-27-11	_	system	abstract[58]|abstract[60]	new[58]|new[60]	_	_
-27-12	_	is	abstract[60]	new[60]	_	_
-27-13	_	correct	abstract[60]	new[60]	_	_
+27-3	_	the	abstract[61]	new[61]	coref	28-1[61_62]
+27-4	_	error	abstract[61]	new[61]	_	_
+27-5	_	of	abstract[61]	new[61]	_	_
+27-6	_	not	abstract[61]	new[61]	_	_
+27-7	_	checking	abstract[61]	new[61]	_	_
+27-8	_	that	abstract[61]	new[61]	_	_
+27-9	_	the	abstract[59]|abstract[61]	new[59]|new[61]	coref	28-8[59_60]
+27-10	_	coordinate	abstract[59]|abstract[61]	new[59]|new[61]	_	_
+27-11	_	system	abstract[59]|abstract[61]	new[59]|new[61]	_	_
+27-12	_	is	abstract[61]	new[61]	_	_
+27-13	_	correct	abstract[61]	new[61]	_	_
 27-14	_	.	_	_	_	_
 
 #Text=The error is introduced by directly modifying the coordinate system of geometry when recovering the wrapping of the figure .
-28-1	_	The	abstract[61]	new[61]	_	_
-28-2	_	error	abstract[61]	new[61]	_	_
+28-1	_	The	abstract[62]	new[62]	_	_
+28-2	_	error	abstract[62]	new[62]	_	_
 28-3	_	is	_	_	_	_
 28-4	_	introduced	_	_	_	_
 28-5	_	by	_	_	_	_
 28-6	_	directly	_	_	_	_
 28-7	_	modifying	_	_	_	_
-28-8	_	the	abstract[59]	new[59]	_	_
-28-9	_	coordinate	abstract[59]	new[59]	_	_
-28-10	_	system	abstract[59]	new[59]	_	_
-28-11	_	of	abstract[59]	new[59]	_	_
-28-12	_	geometry	abstract[59]	new[59]	_	_
+28-8	_	the	abstract[60]	new[60]	_	_
+28-9	_	coordinate	abstract[60]	new[60]	_	_
+28-10	_	system	abstract[60]	new[60]	_	_
+28-11	_	of	abstract[60]	new[60]	_	_
+28-12	_	geometry	abstract[60]	new[60]	_	_
 28-13	_	when	_	_	_	_
 28-14	_	recovering	_	_	_	_
 28-15	_	the	_	_	_	_
@@ -618,49 +618,49 @@
 28-20	_	.	_	_	_	_
 
 #Text=Listing 1 : A simplified definition of the ChangeCoordSys Operator .
-29-1	_	Listing	abstract[63]	new[63]	_	_
-29-2	_	1	abstract[63]	new[63]	_	_
-29-3	_	:	abstract[63]	new[63]	_	_
-29-4	_	A	abstract[63]	new[63]	_	_
-29-5	_	simplified	abstract[63]	new[63]	_	_
-29-6	_	definition	abstract[63]	new[63]	_	_
-29-7	_	of	abstract[63]	new[63]	_	_
-29-8	_	the	abstract[53]|abstract[63]	new[53]|new[63]	coref	30-1[53_54]
-29-9	_	ChangeCoordSys	abstract[53]|abstract[63]	new[53]|new[63]	_	_
-29-10	_	Operator	abstract[53]|abstract[63]	new[53]|new[63]	_	_
+29-1	_	Listing	abstract[64]	new[64]	_	_
+29-2	_	1	abstract[64]	new[64]	_	_
+29-3	_	:	abstract[64]	new[64]	_	_
+29-4	_	A	abstract[64]	new[64]	_	_
+29-5	_	simplified	abstract[64]	new[64]	_	_
+29-6	_	definition	abstract[64]	new[64]	_	_
+29-7	_	of	abstract[64]	new[64]	_	_
+29-8	_	the	abstract[54]|abstract[64]	new[54]|new[64]	coref	30-1[54_55]
+29-9	_	ChangeCoordSys	abstract[54]|abstract[64]	new[54]|new[64]	_	_
+29-10	_	Operator	abstract[54]|abstract[64]	new[54]|new[64]	_	_
 29-11	_	.	_	_	_	_
 
 #Text=This operator was applied to a mobile technology GIS application .
-30-1	_	This	abstract[54]	new[54]	_	_
-30-2	_	operator	abstract[54]	new[54]	_	_
+30-1	_	This	abstract[55]	new[55]	_	_
+30-2	_	operator	abstract[55]	new[55]	_	_
 30-3	_	was	_	_	_	_
 30-4	_	applied	_	_	_	_
 30-5	_	to	_	_	_	_
-30-6	_	a	abstract[64]	new[64]	coref	31-1[64_65]
-30-7	_	mobile	abstract[64]	new[64]	_	_
-30-8	_	technology	abstract[64]	new[64]	_	_
-30-9	_	GIS	abstract[64]	new[64]	_	_
-30-10	_	application	abstract[64]	new[64]	_	_
+30-6	_	a	abstract[65]	new[65]	coref	31-1[65_66]
+30-7	_	mobile	abstract[65]	new[65]	_	_
+30-8	_	technology	abstract[65]	new[65]	_	_
+30-9	_	GIS	abstract[65]	new[65]	_	_
+30-10	_	application	abstract[65]	new[65]	_	_
 30-11	_	.	_	_	_	_
 
 #Text=This application allows registering places of interest for the user .
-31-1	_	This	abstract[65]	new[65]	_	_
-31-2	_	application	abstract[65]	new[65]	_	_
+31-1	_	This	abstract[66]	new[66]	_	_
+31-2	_	application	abstract[66]	new[66]	_	_
 31-3	_	allows	_	_	_	_
 31-4	_	registering	_	_	_	_
-31-5	_	places	abstract[66]	new[66]	coref	32-1[66_67]
-31-6	_	of	abstract[66]	new[66]	_	_
-31-7	_	interest	abstract[66]	new[66]	_	_
+31-5	_	places	abstract[67]	new[67]	coref	32-1[67_68]
+31-6	_	of	abstract[67]	new[67]	_	_
+31-7	_	interest	abstract[67]	new[67]	_	_
 31-8	_	for	_	_	_	_
-31-9	_	the	abstract[68]	new[68]	coref	35-5[68_69]
-31-10	_	user	abstract[68]	new[68]	_	_
+31-9	_	the	abstract[69]	new[69]	coref	35-5[69_70]
+31-10	_	user	abstract[69]	new[69]	_	_
 31-11	_	.	_	_	_	_
 
 #Text=These areas of interest are called Geofences .
-32-1	_	These	abstract[67]	new[67]	_	_
-32-2	_	areas	abstract[67]	new[67]	_	_
-32-3	_	of	abstract[67]	new[67]	_	_
-32-4	_	interest	abstract[67]	new[67]	_	_
+32-1	_	These	abstract[68]	new[68]	_	_
+32-2	_	areas	abstract[68]	new[68]	_	_
+32-3	_	of	abstract[68]	new[68]	_	_
+32-4	_	interest	abstract[68]	new[68]	_	_
 32-5	_	are	_	_	_	_
 32-6	_	called	_	_	_	_
 32-7	_	Geofences	_	_	_	_
@@ -719,8 +719,8 @@
 35-2	_	a	_	_	_	_
 35-3	_	result	_	_	_	_
 35-4	_	,	_	_	_	_
-35-5	_	the	abstract[69]	new[69]	_	_
-35-6	_	user	abstract[69]	new[69]	_	_
+35-5	_	the	abstract[70]	new[70]	_	_
+35-6	_	user	abstract[70]	new[70]	_	_
 35-7	_	will	_	_	_	_
 35-8	_	see	_	_	_	_
 35-9	_	in	_	_	_	_
@@ -736,14 +736,14 @@
 35-19	_	erroneous	_	_	_	_
 35-20	_	zones	_	_	_	_
 35-21	_	(	_	_	_	_
-35-22	_	Figure	abstract[70]	new[70]	coref	36-1[70_71]
-35-23	_	1	abstract[70]	new[70]	_	_
+35-22	_	Figure	abstract[71]	new[71]	coref	36-1[71_72]
+35-23	_	1	abstract[71]	new[71]	_	_
 35-24	_	)	_	_	_	_
 35-25	_	.	_	_	_	_
 
 #Text=Figure 1 . Original and mutant application .
-36-1	_	Figure	abstract[71]	new[71]	_	_
-36-2	_	1	abstract[71]	new[71]	_	_
+36-1	_	Figure	abstract[72]	new[72]	_	_
+36-2	_	1	abstract[72]	new[72]	_	_
 36-3	_	.	_	_	_	_
 36-4	_	Original	_	_	_	_
 36-5	_	and	_	_	_	_
@@ -752,16 +752,16 @@
 36-8	_	.	_	_	_	_
 
 #Text=BooleanPolygonConstraint Operator ( Listing 2 ) :
-37-1	_	BooleanPolygonConstraint	abstract[72]	new[72]	coref	38-1[72_73]
-37-2	_	Operator	abstract[72]	new[72]	_	_
+37-1	_	BooleanPolygonConstraint	abstract[73]	new[73]	coref	38-1[73_74]
+37-2	_	Operator	abstract[73]	new[73]	_	_
 37-3	_	(	_	_	_	_
-37-4	_	Listing	abstract[77]	new[77]	coref	39-1[77_78]
-37-5	_	2	abstract[77]	new[77]	_	_
+37-4	_	Listing	abstract[78]	new[78]	coref	39-1[78_79]
+37-5	_	2	abstract[78]	new[78]	_	_
 37-6	_	)	_	_	_	_
 37-7	_	:	_	_	_	_
 
 #Text=It introduces errors in the processing of geometries , manipulating the result of the operations that carry out the verification of different topological restrictions between geometries , such as intersects , covers or overlap .
-38-1	_	It	abstract[73]	new[73]	coref	39-8[73_74]
+38-1	_	It	abstract[74]	new[74]	coref	39-8[74_75]
 38-2	_	introduces	_	_	_	_
 38-3	_	errors	_	_	_	_
 38-4	_	in	_	_	_	_
@@ -798,31 +798,31 @@
 38-35	_	.	_	_	_	_
 
 #Text=Listing 2 : A simplified definition of the BooleanPolygonConstraint Operator .
-39-1	_	Listing	abstract[78]	new[78]	_	_
-39-2	_	2	abstract[78]	new[78]	_	_
-39-3	_	:	abstract[78]	new[78]	_	_
-39-4	_	A	abstract[78]	new[78]	_	_
-39-5	_	simplified	abstract[78]	new[78]	_	_
-39-6	_	definition	abstract[78]	new[78]	_	_
-39-7	_	of	abstract[78]	new[78]	_	_
-39-8	_	the	abstract[74]|abstract[78]	new[74]|new[78]	coref	40-3[74_75]
-39-9	_	BooleanPolygonConstraint	abstract[74]|abstract[78]	new[74]|new[78]	_	_
-39-10	_	Operator	abstract[74]|abstract[78]	new[74]|new[78]	_	_
+39-1	_	Listing	abstract[79]	new[79]	_	_
+39-2	_	2	abstract[79]	new[79]	_	_
+39-3	_	:	abstract[79]	new[79]	_	_
+39-4	_	A	abstract[79]	new[79]	_	_
+39-5	_	simplified	abstract[79]	new[79]	_	_
+39-6	_	definition	abstract[79]	new[79]	_	_
+39-7	_	of	abstract[79]	new[79]	_	_
+39-8	_	the	abstract[75]|abstract[79]	new[75]|new[79]	coref	40-3[75_76]
+39-9	_	BooleanPolygonConstraint	abstract[75]|abstract[79]	new[75]|new[79]	_	_
+39-10	_	Operator	abstract[75]|abstract[79]	new[75]|new[79]	_	_
 39-11	_	.	_	_	_	_
 
 #Text=To test this operator it was applied to a land reparcelling system .
 40-1	_	To	_	_	_	_
 40-2	_	test	_	_	_	_
-40-3	_	this	abstract[75]	new[75]	coref	40-5[75_76]
-40-4	_	operator	abstract[75]	new[75]	_	_
-40-5	_	it	abstract[76]	new[76]	_	_
+40-3	_	this	abstract[76]	new[76]	coref	40-5[76_77]
+40-4	_	operator	abstract[76]	new[76]	_	_
+40-5	_	it	abstract[77]	new[77]	_	_
 40-6	_	was	_	_	_	_
 40-7	_	applied	_	_	_	_
 40-8	_	to	_	_	_	_
-40-9	_	a	abstract[81]	new[81]	coref	42-2[81_82]
-40-10	_	land	abstract[81]	new[81]	_	_
-40-11	_	reparcelling	abstract[81]	new[81]	_	_
-40-12	_	system	abstract[81]	new[81]	_	_
+40-9	_	a	abstract[82]	new[82]	coref	42-2[82_83]
+40-10	_	land	abstract[82]	new[82]	_	_
+40-11	_	reparcelling	abstract[82]	new[82]	_	_
+40-12	_	system	abstract[82]	new[82]	_	_
 40-13	_	.	_	_	_	_
 
 #Text=The objective of the land reparcelling is to reunify the lands of an owner to facilitate their exploitation .
@@ -835,38 +835,38 @@
 41-7	_	is	_	_	_	_
 41-8	_	to	_	_	_	_
 41-9	_	reunify	_	_	_	_
-41-10	_	the	abstract[79]	new[79]	coref	41-17[79_80]
-41-11	_	lands	abstract[79]	new[79]	_	_
-41-12	_	of	abstract[79]	new[79]	_	_
-41-13	_	an	abstract[79]	new[79]	_	_
-41-14	_	owner	abstract[79]	new[79]	_	_
+41-10	_	the	abstract[80]	new[80]	coref	41-17[80_81]
+41-11	_	lands	abstract[80]	new[80]	_	_
+41-12	_	of	abstract[80]	new[80]	_	_
+41-13	_	an	abstract[80]	new[80]	_	_
+41-14	_	owner	abstract[80]	new[80]	_	_
 41-15	_	to	_	_	_	_
 41-16	_	facilitate	_	_	_	_
-41-17	_	their	abstract[80]	new[80]	_	_
+41-17	_	their	abstract[81]	new[81]	_	_
 41-18	_	exploitation	_	_	_	_
 41-19	_	.	_	_	_	_
 
 #Text=In this application , the result of the operation between two polygons has been affected .
 42-1	_	In	_	_	_	_
-42-2	_	this	abstract[82]	new[82]	_	_
-42-3	_	application	abstract[82]	new[82]	_	_
+42-2	_	this	abstract[83]	new[83]	_	_
+42-3	_	application	abstract[83]	new[83]	_	_
 42-4	_	,	_	_	_	_
-42-5	_	the	abstract[83]	new[83]	coref	43-1[83_84]
-42-6	_	result	abstract[83]	new[83]	_	_
-42-7	_	of	abstract[83]	new[83]	_	_
-42-8	_	the	abstract[83]|abstract[85]	new[83]|new[85]	coref	43-20[85_86]
-42-9	_	operation	abstract[83]|abstract[85]	new[83]|new[85]	_	_
-42-10	_	between	abstract[83]|abstract[85]	new[83]|new[85]	_	_
-42-11	_	two	abstract[83]|abstract[85]|abstract[87]	new[83]|new[85]|new[87]	coref	43-24[87_88]
-42-12	_	polygons	abstract[83]|abstract[85]|abstract[87]	new[83]|new[85]|new[87]	_	_
+42-5	_	the	abstract[84]	new[84]	coref	43-1[84_85]
+42-6	_	result	abstract[84]	new[84]	_	_
+42-7	_	of	abstract[84]	new[84]	_	_
+42-8	_	the	abstract[84]|abstract[86]	new[84]|new[86]	coref	43-20[86_87]
+42-9	_	operation	abstract[84]|abstract[86]	new[84]|new[86]	_	_
+42-10	_	between	abstract[84]|abstract[86]	new[84]|new[86]	_	_
+42-11	_	two	abstract[84]|abstract[86]|abstract[88]	new[84]|new[86]|new[88]	coref	43-24[88_89]
+42-12	_	polygons	abstract[84]|abstract[86]|abstract[88]	new[84]|new[86]|new[88]	_	_
 42-13	_	has	_	_	_	_
 42-14	_	been	_	_	_	_
 42-15	_	affected	_	_	_	_
 42-16	_	.	_	_	_	_
 
 #Text=This error causes the incorrect display of the resulting geometry that should be drawn in the user interface after the operation applied to the two initial geometries ( Figure 2 ) .
-43-1	_	This	abstract[84]	new[84]	_	_
-43-2	_	error	abstract[84]	new[84]	_	_
+43-1	_	This	abstract[85]	new[85]	_	_
+43-2	_	error	abstract[85]	new[85]	_	_
 43-3	_	causes	_	_	_	_
 43-4	_	the	_	_	_	_
 43-5	_	incorrect	_	_	_	_
@@ -884,23 +884,23 @@
 43-17	_	user	_	_	_	_
 43-18	_	interface	_	_	_	_
 43-19	_	after	_	_	_	_
-43-20	_	the	abstract[86]	new[86]	_	_
-43-21	_	operation	abstract[86]	new[86]	_	_
-43-22	_	applied	abstract[86]	new[86]	_	_
-43-23	_	to	abstract[86]	new[86]	_	_
-43-24	_	the	abstract[86]|abstract[88]	new[86]|new[88]	_	_
-43-25	_	two	abstract[86]|abstract[88]	new[86]|new[88]	_	_
-43-26	_	initial	abstract[86]|abstract[88]	new[86]|new[88]	_	_
-43-27	_	geometries	abstract[86]|abstract[88]	new[86]|new[88]	_	_
+43-20	_	the	abstract[87]	new[87]	_	_
+43-21	_	operation	abstract[87]	new[87]	_	_
+43-22	_	applied	abstract[87]	new[87]	_	_
+43-23	_	to	abstract[87]	new[87]	_	_
+43-24	_	the	abstract[87]|abstract[89]	new[87]|new[89]	_	_
+43-25	_	two	abstract[87]|abstract[89]	new[87]|new[89]	_	_
+43-26	_	initial	abstract[87]|abstract[89]	new[87]|new[89]	_	_
+43-27	_	geometries	abstract[87]|abstract[89]	new[87]|new[89]	_	_
 43-28	_	(	_	_	_	_
-43-29	_	Figure	abstract[89]	new[89]	coref	44-1[89_90]
-43-30	_	2	abstract[89]	new[89]	_	_
+43-29	_	Figure	abstract[90]	new[90]	coref	44-1[90_91]
+43-30	_	2	abstract[90]	new[90]	_	_
 43-31	_	)	_	_	_	_
 43-32	_	.	_	_	_	_
 
 #Text=Figure 2 . Original and mutant application .
-44-1	_	Figure	abstract[90]	new[90]	_	_
-44-2	_	2	abstract[90]	new[90]	_	_
+44-1	_	Figure	abstract[91]	new[91]	coref	51-20[91_92]
+44-2	_	2	abstract[91]	new[91]	_	_
 44-3	_	.	_	_	_	_
 44-4	_	Original	_	_	_	_
 44-5	_	and	_	_	_	_
@@ -917,21 +917,21 @@
 46-2	_	existing	_	_	_	_
 46-3	_	proposals	_	_	_	_
 46-4	_	,	_	_	_	_
-46-5	_	we	abstract[93]	new[93]	coref	48-2[93_94]
+46-5	_	we	abstract[95]	new[95]	coref	48-2[95_96]
 46-6	_	can	_	_	_	_
 46-7	_	find	_	_	_	_
-46-8	_	both	abstract[91]	new[91]	coref	47-3[91_92]
-46-9	_	generic	abstract[91]	new[91]	_	_
-46-10	_	and	abstract[91]	new[91]	_	_
-46-11	_	specific	abstract[91]	new[91]	_	_
-46-12	_	mutation	abstract[91]	new[91]	_	_
-46-13	_	operators	abstract[91]	new[91]	_	_
+46-8	_	both	abstract[93]	new[93]	coref	47-3[93_94]
+46-9	_	generic	abstract[93]	new[93]	_	_
+46-10	_	and	abstract[93]	new[93]	_	_
+46-11	_	specific	abstract[93]	new[93]	_	_
+46-12	_	mutation	abstract[93]	new[93]	_	_
+46-13	_	operators	abstract[93]	new[93]	_	_
 46-14	_	.	_	_	_	_
 
 #Text=However , these are not adequate to cover errors in particular domains .
 47-1	_	However	_	_	_	_
 47-2	_	,	_	_	_	_
-47-3	_	these	abstract[92]	new[92]	_	_
+47-3	_	these	abstract[94]	new[94]	_	_
 47-4	_	are	_	_	_	_
 47-5	_	not	_	_	_	_
 47-6	_	adequate	_	_	_	_
@@ -944,22 +944,22 @@
 47-13	_	.	_	_	_	_
 
 #Text=We have defined new operators specific to the GIS domain and a way to apply them to a SUT .
-48-1	_	We	abstract[94]	new[94]	coref	49-4[94_95]
+48-1	_	We	abstract[96]	new[96]	coref	49-4[96_97]
 48-2	_	have	_	_	_	_
 48-3	_	defined	_	_	_	_
-48-4	_	new	abstract[98]	new[98]	coref	48-17[98_99]
-48-5	_	operators	abstract[98]	new[98]	_	_
-48-6	_	specific	abstract[98]	new[98]	_	_
-48-7	_	to	abstract[98]	new[98]	_	_
-48-8	_	the	abstract[98]	new[98]	_	_
-48-9	_	GIS	abstract[98]	new[98]	_	_
-48-10	_	domain	abstract[98]	new[98]	_	_
+48-4	_	new	abstract[99]	new[99]	coref	48-17[99_100]
+48-5	_	operators	abstract[99]	new[99]	_	_
+48-6	_	specific	abstract[99]	new[99]	_	_
+48-7	_	to	abstract[99]	new[99]	_	_
+48-8	_	the	abstract[99]	new[99]	_	_
+48-9	_	GIS	abstract[99]	new[99]	_	_
+48-10	_	domain	abstract[99]	new[99]	_	_
 48-11	_	and	_	_	_	_
 48-12	_	a	_	_	_	_
 48-13	_	way	_	_	_	_
 48-14	_	to	_	_	_	_
 48-15	_	apply	_	_	_	_
-48-16	_	them	abstract[99]	new[99]	coref	49-7[99_100]
+48-16	_	them	abstract[100]	new[100]	coref	49-7[100_101]
 48-17	_	to	_	_	_	_
 48-18	_	a	_	_	_	_
 48-19	_	SUT	_	_	_	_
@@ -969,16 +969,16 @@
 49-1	_	In	_	_	_	_
 49-2	_	addition	_	_	_	_
 49-3	_	,	_	_	_	_
-49-4	_	we	abstract[95]	new[95]	coref	50-5[95_96]
+49-4	_	we	abstract[97]	new[97]	coref	50-5[97_98]
 49-5	_	have	_	_	_	_
 49-6	_	tested	_	_	_	_
-49-7	_	the	abstract[100]	new[100]	_	_
-49-8	_	operators	abstract[100]	new[100]	_	_
-49-9	_	defined	abstract[100]	new[100]	_	_
-49-10	_	in	abstract[100]	new[100]	_	_
-49-11	_	two	abstract[100]	new[100]	_	_
-49-12	_	GIS	abstract[100]	new[100]	_	_
-49-13	_	applications	abstract[100]	new[100]	_	_
+49-7	_	the	abstract[101]	new[101]	_	_
+49-8	_	operators	abstract[101]	new[101]	_	_
+49-9	_	defined	abstract[101]	new[101]	_	_
+49-10	_	in	abstract[101]	new[101]	_	_
+49-11	_	two	abstract[101]	new[101]	_	_
+49-12	_	GIS	abstract[101]	new[101]	_	_
+49-13	_	applications	abstract[101]	new[101]	_	_
 49-14	_	.	_	_	_	_
 
 #Text=As future work , we intend to extend this approach to other domains , as well as to use the developed operators for the automatic improvement of sets of test cases .
@@ -986,7 +986,7 @@
 50-2	_	future	_	_	_	_
 50-3	_	work	_	_	_	_
 50-4	_	,	_	_	_	_
-50-5	_	we	abstract[96]	new[96]	coref	51-1[96_97]
+50-5	_	we	abstract[98]	new[98]	_	_
 50-6	_	intend	_	_	_	_
 50-7	_	to	_	_	_	_
 50-8	_	extend	_	_	_	_
@@ -1015,15 +1015,34 @@
 50-31	_	cases	_	_	_	_
 50-32	_	.	_	_	_	_
 
-#Text=We describe and implement mutation operators for GIS applications .
-51-1	_	We	abstract[97]	new[97]	_	_
-51-2	_	describe	_	_	_	_
-51-3	_	and	_	_	_	_
-51-4	_	implement	_	_	_	_
-51-5	_	mutation	_	_	_	_
-51-6	_	operators	_	_	_	_
-51-7	_	for	_	_	_	_
-51-8	_	GIS	_	_	_	_
-51-9	_	applications	_	_	_	_
-51-10	_	.	_	_	_	_
+#Text=This paper presents a study of mutation operators , which simulate likely software errors for testing purposes , in the area of Geographic Information Systems ( GIS ) .
+51-1	_	This	abstract[26]	new[26]	_	_
+51-2	_	paper	abstract[26]	new[26]	_	_
+51-3	_	presents	_	_	_	_
+51-4	_	a	_	_	_	_
+51-5	_	study	_	_	_	_
+51-6	_	of	_	_	_	_
+51-7	_	mutation	_	_	_	_
+51-8	_	operators	_	_	_	_
+51-9	_	,	_	_	_	_
+51-10	_	which	_	_	_	_
+51-11	_	simulate	_	_	_	_
+51-12	_	likely	_	_	_	_
+51-13	_	software	_	_	_	_
+51-14	_	errors	_	_	_	_
+51-15	_	for	_	_	_	_
+51-16	_	testing	_	_	_	_
+51-17	_	purposes	_	_	_	_
+51-18	_	,	_	_	_	_
+51-19	_	in	_	_	_	_
+51-20	_	the	abstract[92]	new[92]	_	_
+51-21	_	area	abstract[92]	new[92]	_	_
+51-22	_	of	abstract[92]	new[92]	_	_
+51-23	_	Geographic	abstract[92]	new[92]	_	_
+51-24	_	Information	abstract[92]	new[92]	_	_
+51-25	_	Systems	abstract[92]	new[92]	_	_
+51-26	_	(	abstract[92]	new[92]	_	_
+51-27	_	GIS	abstract[92]	new[92]	_	_
+51-28	_	)	abstract[92]	new[92]	_	_
+51-29	_	.	_	_	_	_
 

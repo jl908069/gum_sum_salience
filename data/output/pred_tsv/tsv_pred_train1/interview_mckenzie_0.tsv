@@ -24,40 +24,40 @@
 3-3	_	,	_	_	_	_
 3-4	_	Wikinews	abstract[15]	new[15]	coref	5-1[15_16]
 3-5	_	interviewed	_	_	_	_
-3-6	_	Tina	abstract[4]	new[4]	coref	4-1[4_5]
-3-7	_	McKenzie	abstract[4]	new[4]	_	_
-3-8	_	,	abstract[4]	new[4]	_	_
-3-9	_	a	abstract[4]	new[4]	_	_
-3-10	_	former	abstract[4]	new[4]	_	_
-3-11	_	member	abstract[4]	new[4]	_	_
-3-12	_	of	abstract[4]	new[4]	_	_
-3-13	_	the	abstract[4]|abstract[25]	new[4]|new[25]	coref	7-8[25_26]
-3-14	_	Australia	abstract[2]|abstract[4]|abstract[25]	new[2]|new[4]|new[25]	coref	13-13[2_3]
-3-15	_	women	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-16	_	's	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-17	_	national	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-18	_	wheelchair	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-19	_	basketball	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-20	_	team	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-21	_	,	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-22	_	known	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-23	_	as	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-24	_	the	abstract[4]|abstract[25]	new[4]|new[25]	_	_
-3-25	_	Gliders	abstract[4]|abstract[25]	new[4]|new[25]	_	_
+3-6	_	Tina	abstract[5]	new[5]	coref	4-1[5_6]
+3-7	_	McKenzie	abstract[5]	new[5]	_	_
+3-8	_	,	abstract[5]	new[5]	_	_
+3-9	_	a	abstract[5]	new[5]	_	_
+3-10	_	former	abstract[5]	new[5]	_	_
+3-11	_	member	abstract[5]	new[5]	_	_
+3-12	_	of	abstract[5]	new[5]	_	_
+3-13	_	the	abstract[5]|abstract[25]	new[5]|new[25]	coref	7-8[25_26]
+3-14	_	Australia	abstract[2]|abstract[5]|abstract[25]	new[2]|new[5]|new[25]	coref	13-13[2_3]
+3-15	_	women	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-16	_	's	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-17	_	national	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-18	_	wheelchair	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-19	_	basketball	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-20	_	team	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-21	_	,	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-22	_	known	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-23	_	as	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-24	_	the	abstract[5]|abstract[25]	new[5]|new[25]	_	_
+3-25	_	Gliders	abstract[5]|abstract[25]	new[5]|new[25]	_	_
 3-26	_	.	_	_	_	_
 
 #Text=McKenzie , a silver and bronze Paralympic medalist in wheelchair basketball , retired from the game after the 2012 Summer Paralympics in London .
-4-1	_	McKenzie	abstract[5]	new[5]	coref	5-5[5_6]
-4-2	_	,	abstract[5]	new[5]	_	_
-4-3	_	a	abstract[5]	new[5]	_	_
-4-4	_	silver	abstract[5]	new[5]	_	_
-4-5	_	and	abstract[5]	new[5]	_	_
-4-6	_	bronze	abstract[5]	new[5]	_	_
-4-7	_	Paralympic	abstract[5]	new[5]	_	_
-4-8	_	medalist	abstract[5]	new[5]	_	_
-4-9	_	in	abstract[5]	new[5]	_	_
-4-10	_	wheelchair	abstract[5]	new[5]	_	_
-4-11	_	basketball	abstract[5]	new[5]	_	_
+4-1	_	McKenzie	abstract[6]	new[6]	coref	5-5[6_7]
+4-2	_	,	abstract[6]	new[6]	_	_
+4-3	_	a	abstract[6]	new[6]	_	_
+4-4	_	silver	abstract[6]	new[6]	_	_
+4-5	_	and	abstract[6]	new[6]	_	_
+4-6	_	bronze	abstract[6]	new[6]	_	_
+4-7	_	Paralympic	abstract[6]	new[6]	_	_
+4-8	_	medalist	abstract[6]	new[6]	_	_
+4-9	_	in	abstract[6]	new[6]	_	_
+4-10	_	wheelchair	abstract[6]	new[6]	_	_
+4-11	_	basketball	abstract[6]	new[6]	_	_
 4-12	_	,	_	_	_	_
 4-13	_	retired	_	_	_	_
 4-14	_	from	_	_	_	_
@@ -77,7 +77,7 @@
 5-2	_	caught	_	_	_	_
 5-3	_	up	_	_	_	_
 5-4	_	with	_	_	_	_
-5-5	_	her	abstract[6]	new[6]	coref	7-6[6_7]
+5-5	_	her	abstract[7]	new[7]	coref	7-6[7_8]
 5-6	_	in	_	_	_	_
 5-7	_	a	_	_	_	_
 5-8	_	cafe	_	_	_	_
@@ -112,7 +112,7 @@
 7-3	_	a	_	_	_	_
 7-4	_	tournament	_	_	_	_
 7-5	_	that	_	_	_	_
-7-6	_	I	abstract[7]	new[7]	coref	19-6[7_8]
+7-6	_	I	abstract[8]	new[8]	coref	19-6[8_9]
 7-7	_	wish	_	_	_	_
 7-8	_	we	abstract[26]	new[26]	coref	9-11[26_27]
 7-9	_	'd	_	_	_	_
@@ -212,7 +212,7 @@
 13-10	_	the	_	_	_	_
 13-11	_	time	_	_	_	_
 13-12	_	within	_	_	_	_
-13-13	_	Australia	abstract[3]	new[3]	_	_
+13-13	_	Australia	abstract[3]	new[3]	coref	46-15[3_4]
 13-14	_	but	_	_	_	_
 13-15	_	we	abstract[34]	new[34]	coref	15-28[34_35]
 13-16	_	really	_	_	_	_
@@ -224,7 +224,7 @@
 13-22	_	...	_	_	_	_
 
 #Text=It 's not the same .
-14-1	_	It	abstract[48]	new[48]	coref	15-3[48_49]
+14-1	_	It	abstract[49]	new[49]	coref	15-3[49_50]
 14-2	_	's	_	_	_	_
 14-3	_	not	_	_	_	_
 14-4	_	the	_	_	_	_
@@ -234,7 +234,7 @@
 #Text=No , it 's really not , so it 's really important to be able to get as a many international trips throughout the year to continue our improvement .
 15-1	_	No	_	_	_	_
 15-2	_	,	_	_	_	_
-15-3	_	it	abstract[49]	new[49]	_	_
+15-3	_	it	abstract[50]	new[50]	_	_
 15-4	_	's	_	_	_	_
 15-5	_	really	_	_	_	_
 15-6	_	not	_	_	_	_
@@ -303,21 +303,21 @@
 18-14	_	,	_	_	_	_
 18-15	_	leading	_	_	_	_
 18-16	_	into	_	_	_	_
-18-17	_	the	abstract[50]	new[50]	coref	19-2[50_51]
-18-18	_	World	abstract[50]	new[50]	_	_
-18-19	_	Cup	abstract[50]	new[50]	_	_
-18-20	_	in	abstract[50]	new[50]	_	_
-18-21	_	the	abstract[50]	new[50]	_	_
-18-22	_	Netherlands	abstract[50]	new[50]	_	_
+18-17	_	the	abstract[51]	new[51]	coref	19-2[51_52]
+18-18	_	World	abstract[51]	new[51]	_	_
+18-19	_	Cup	abstract[51]	new[51]	_	_
+18-20	_	in	abstract[51]	new[51]	_	_
+18-21	_	the	abstract[51]	new[51]	_	_
+18-22	_	Netherlands	abstract[51]	new[51]	_	_
 18-23	_	.	_	_	_	_
 
 #Text=Was that the one where you were the captain of the team , in 2005 ?
 19-1	_	Was	_	_	_	_
-19-2	_	that	abstract[51]	new[51]	_	_
+19-2	_	that	abstract[52]	new[52]	_	_
 19-3	_	the	_	_	_	_
 19-4	_	one	_	_	_	_
 19-5	_	where	_	_	_	_
-19-6	_	you	abstract[8]	new[8]	coref	21-3[8_9]
+19-6	_	you	abstract[9]	new[9]	coref	21-3[9_10]
 19-7	_	were	_	_	_	_
 19-8	_	the	_	_	_	_
 19-9	_	captain	_	_	_	_
@@ -341,7 +341,7 @@
 #Text=No , I captained in 2010 .
 21-1	_	No	_	_	_	_
 21-2	_	,	_	_	_	_
-21-3	_	I	abstract[9]	new[9]	coref	23-3[9_10]
+21-3	_	I	abstract[10]	new[10]	coref	23-3[10_11]
 21-4	_	captained	_	_	_	_
 21-5	_	in	_	_	_	_
 21-6	_	2010	_	_	_	_
@@ -359,7 +359,7 @@
 #Text=And then I had a bit of some time off in 2011 .
 23-1	_	And	_	_	_	_
 23-2	_	then	_	_	_	_
-23-3	_	I	abstract[10]	new[10]	coref	26-1[10_11]
+23-3	_	I	abstract[11]	new[11]	coref	26-1[11_12]
 23-4	_	had	_	_	_	_
 23-5	_	a	_	_	_	_
 23-6	_	bit	_	_	_	_
@@ -377,9 +377,9 @@
 24-3	_	have	_	_	_	_
 24-4	_	never	_	_	_	_
 24-5	_	won	_	_	_	_
-24-6	_	the	abstract[52]	new[52]	coref	25-15[52_53]
-24-7	_	World	abstract[52]	new[52]	_	_
-24-8	_	Championship	abstract[52]	new[52]	_	_
+24-6	_	the	abstract[53]	new[53]	coref	25-15[53_54]
+24-7	_	World	abstract[53]	new[53]	_	_
+24-8	_	Championship	abstract[53]	new[53]	_	_
 24-9	_	.	_	_	_	_
 
 #Text=We always seem to have just a little bit of a chill out at the World Cup .
@@ -397,13 +397,13 @@
 25-12	_	chill	_	_	_	_
 25-13	_	out	_	_	_	_
 25-14	_	at	_	_	_	_
-25-15	_	the	abstract[53]	new[53]	coref	36-3[53_54]
-25-16	_	World	abstract[53]	new[53]	_	_
-25-17	_	Cup	abstract[53]	new[53]	_	_
+25-15	_	the	abstract[54]	new[54]	coref	36-3[54_55]
+25-16	_	World	abstract[54]	new[54]	_	_
+25-17	_	Cup	abstract[54]	new[54]	_	_
 25-18	_	.	_	_	_	_
 
 #Text=I do n't know why .
-26-1	_	I	abstract[11]	new[11]	coref	31-8[11_12]
+26-1	_	I	abstract[12]	new[12]	coref	31-8[12_13]
 26-2	_	do	_	_	_	_
 26-3	_	n't	_	_	_	_
 26-4	_	know	_	_	_	_
@@ -465,7 +465,7 @@
 31-5	_	we	abstract[43]	new[43]	coref	32-1[43_44]
 31-6	_	just	_	_	_	_
 31-7	_	...	_	_	_	_
-31-8	_	I	abstract[12]	new[12]	coref	44-1[12_13]
+31-8	_	I	abstract[13]	new[13]	coref	44-1[13_14]
 31-9	_	do	_	_	_	_
 31-10	_	n't	_	_	_	_
 31-11	_	know	_	_	_	_
@@ -495,7 +495,7 @@
 
 #Text=But you know what ?
 34-1	_	But	_	_	_	_
-34-2	_	you	abstract[61]	new[61]	coref	37-16[61_62]
+34-2	_	you	abstract[63]	new[63]	coref	37-16[63_64]
 34-3	_	know	_	_	_	_
 34-4	_	what	_	_	_	_
 34-5	_	?	_	_	_	_
@@ -512,9 +512,9 @@
 
 #Text=So the World Cup is ... it 's good to be able to do well at the World Cup , to be placed , but it also means that you get a really good opportunity to know where you 're at in that two year gap between the Paralympics .
 36-1	_	So	_	_	_	_
-36-2	_	the	abstract[54]	new[54]	coref	36-18[54_55]
-36-3	_	World	abstract[54]	new[54]	_	_
-36-4	_	Cup	abstract[54]	new[54]	_	_
+36-2	_	the	abstract[55]	new[55]	coref	36-18[55_56]
+36-3	_	World	abstract[55]	new[55]	_	_
+36-4	_	Cup	abstract[55]	new[55]	_	_
 36-5	_	is	_	_	_	_
 36-6	_	...	_	_	_	_
 36-7	_	it	_	_	_	_
@@ -527,9 +527,9 @@
 36-14	_	do	_	_	_	_
 36-15	_	well	_	_	_	_
 36-16	_	at	_	_	_	_
-36-17	_	the	abstract[55]	new[55]	coref	39-8[55_56]
-36-18	_	World	abstract[55]	new[55]	_	_
-36-19	_	Cup	abstract[55]	new[55]	_	_
+36-17	_	the	abstract[56]	new[56]	coref	39-8[56_57]
+36-18	_	World	abstract[56]	new[56]	_	_
+36-19	_	Cup	abstract[56]	new[56]	_	_
 36-20	_	,	_	_	_	_
 36-21	_	to	_	_	_	_
 36-22	_	be	_	_	_	_
@@ -540,7 +540,7 @@
 36-27	_	also	_	_	_	_
 36-28	_	means	_	_	_	_
 36-29	_	that	_	_	_	_
-36-30	_	you	abstract[58]	new[58]	coref	37-2[58_59]
+36-30	_	you	abstract[60]	new[60]	coref	37-2[60_61]
 36-31	_	get	_	_	_	_
 36-32	_	a	_	_	_	_
 36-33	_	really	_	_	_	_
@@ -558,13 +558,13 @@
 36-45	_	year	_	_	_	_
 36-46	_	gap	_	_	_	_
 36-47	_	between	_	_	_	_
-36-48	_	the	abstract[63]	new[63]	coref	39-17[63_64]
-36-49	_	Paralympics	abstract[63]	new[63]	_	_
+36-48	_	the	abstract[65]	new[65]	coref	39-17[65_66]
+36-49	_	Paralympics	abstract[65]	new[65]	_	_
 36-50	_	.	_	_	_	_
 
 #Text=So you can come back home and revisit what you need to do and , you know , where the team 's at .
 37-1	_	So	_	_	_	_
-37-2	_	you	abstract[59]	new[59]	coref	37-10[59_60]
+37-2	_	you	abstract[61]	new[61]	coref	37-10[61_62]
 37-3	_	can	_	_	_	_
 37-4	_	come	_	_	_	_
 37-5	_	back	_	_	_	_
@@ -572,17 +572,17 @@
 37-7	_	and	_	_	_	_
 37-8	_	revisit	_	_	_	_
 37-9	_	what	_	_	_	_
-37-10	_	you	abstract[60]	new[60]	_	_
+37-10	_	you	abstract[62]	new[62]	_	_
 37-11	_	need	_	_	_	_
 37-12	_	to	_	_	_	_
 37-13	_	do	_	_	_	_
 37-14	_	and	_	_	_	_
 37-15	_	,	_	_	_	_
-37-16	_	you	abstract[62]	new[62]	_	_
+37-16	_	you	abstract[64]	new[64]	_	_
 37-17	_	know	_	_	_	_
 37-18	_	,	_	_	_	_
 37-19	_	where	_	_	_	_
-37-20	_	the	abstract[47]	new[47]	_	_
+37-20	_	the	abstract[47]	new[47]	coref	46-25[47_48]
 37-21	_	team	abstract[47]	new[47]	_	_
 37-22	_	's	_	_	_	_
 37-23	_	at	_	_	_	_
@@ -605,17 +605,17 @@
 39-5	_	talking	_	_	_	_
 39-6	_	about	_	_	_	_
 39-7	_	moving	_	_	_	_
-39-8	_	it	abstract[56]	new[56]	coref	39-10[56_57]
+39-8	_	it	abstract[57]	new[57]	coref	39-10[57_58]
 39-9	_	so	_	_	_	_
-39-10	_	it	abstract[57]	new[57]	_	_
+39-10	_	it	abstract[58]	new[58]	coref	46-34[58_59]
 39-11	_	will	_	_	_	_
 39-12	_	be	_	_	_	_
 39-13	_	on	_	_	_	_
 39-14	_	the	_	_	_	_
 39-15	_	year	_	_	_	_
 39-16	_	before	_	_	_	_
-39-17	_	the	abstract[64]	new[64]	_	_
-39-18	_	Paralympics	abstract[64]	new[64]	_	_
+39-17	_	the	abstract[66]	new[66]	coref	46-31[66_67]
+39-18	_	Paralympics	abstract[66]	new[66]	_	_
 39-19	_	.	_	_	_	_
 
 #Text=Oh really .
@@ -651,8 +651,8 @@
 43-7	_	.	_	_	_	_
 
 #Text=Tina McKenzie .
-44-1	_	Tina	abstract[13]	new[13]	coref	46-3[13_14]
-44-2	_	McKenzie	abstract[13]	new[13]	_	_
+44-1	_	Tina	abstract[14]	new[14]	_	_
+44-2	_	McKenzie	abstract[14]	new[14]	_	_
 44-3	_	.	_	_	_	_
 
 #Text=Image : Australian Paralympic Committee .
@@ -663,14 +663,42 @@
 45-5	_	Committee	_	_	_	_
 45-6	_	.	_	_	_	_
 
-#Text=What do you think about the LibriVox site ?
-46-1	_	What	_	_	_	_
-46-2	_	do	_	_	_	_
-46-3	_	you	abstract[14]	new[14]	_	_
-46-4	_	think	_	_	_	_
-46-5	_	about	_	_	_	_
-46-6	_	the	_	_	_	_
-46-7	_	LibriVox	_	_	_	_
-46-8	_	site	_	_	_	_
-46-9	_	?	_	_	_	_
+#Text=Wikinews interviews paralympic medalist Tina McKenzie , a former member of the Gliders , Australia 's women 's national wheelchair basketball team , about her team 's international games at the Paralympics and the World Cup .
+46-1	_	Wikinews	_	_	_	_
+46-2	_	interviews	_	_	_	_
+46-3	_	paralympic	abstract[68]	new[68]	coref	46-25[68_69]
+46-4	_	medalist	abstract[68]	new[68]	_	_
+46-5	_	Tina	abstract[68]	new[68]	_	_
+46-6	_	McKenzie	abstract[68]	new[68]	_	_
+46-7	_	,	abstract[68]	new[68]	_	_
+46-8	_	a	abstract[68]	new[68]	_	_
+46-9	_	former	abstract[68]	new[68]	_	_
+46-10	_	member	abstract[68]	new[68]	_	_
+46-11	_	of	abstract[68]	new[68]	_	_
+46-12	_	the	abstract[68]	new[68]	_	_
+46-13	_	Gliders	abstract[68]	new[68]	_	_
+46-14	_	,	abstract[68]	new[68]	_	_
+46-15	_	Australia	abstract[4]|abstract[68]	new[4]|new[68]	_	_
+46-16	_	's	abstract[4]|abstract[68]	new[4]|new[68]	_	_
+46-17	_	women	abstract[68]	new[68]	_	_
+46-18	_	's	abstract[68]	new[68]	_	_
+46-19	_	national	abstract[68]	new[68]	_	_
+46-20	_	wheelchair	abstract[68]	new[68]	_	_
+46-21	_	basketball	abstract[68]	new[68]	_	_
+46-22	_	team	abstract[68]	new[68]	_	_
+46-23	_	,	_	_	_	_
+46-24	_	about	_	_	_	_
+46-25	_	her	abstract[48]|abstract[69]	new[48]|new[69]	_	_
+46-26	_	team	abstract[48]	new[48]	_	_
+46-27	_	's	abstract[48]	new[48]	_	_
+46-28	_	international	_	_	_	_
+46-29	_	games	_	_	_	_
+46-30	_	at	_	_	_	_
+46-31	_	the	abstract[67]	new[67]	_	_
+46-32	_	Paralympics	abstract[67]	new[67]	_	_
+46-33	_	and	_	_	_	_
+46-34	_	the	abstract[59]	new[59]	_	_
+46-35	_	World	abstract[59]	new[59]	_	_
+46-36	_	Cup	abstract[59]	new[59]	_	_
+46-37	_	.	_	_	_	_
 

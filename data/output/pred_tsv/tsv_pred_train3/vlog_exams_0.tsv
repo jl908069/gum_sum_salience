@@ -1565,27 +1565,11 @@
 143-1	_	Bye	_	_	_	_
 143-2	_	!	_	_	_	_
 
-#Text=Jasmine , you know , Covid is one of the most often treated by medical professionals and has long known its effectiveness
-144-1	_	Jasmine	abstract[194]	new[194]	coref	144-3[194_195]
-144-2	_	,	_	_	_	_
-144-3	_	you	abstract[195]	new[195]	_	_
-144-4	_	know	_	_	_	_
-144-5	_	,	_	_	_	_
-144-6	_	Covid	abstract[196]	new[196]	coref	144-21[196_197]
-144-7	_	is	_	_	_	_
-144-8	_	one	_	_	_	_
-144-9	_	of	_	_	_	_
-144-10	_	the	_	_	_	_
-144-11	_	most	_	_	_	_
-144-12	_	often	_	_	_	_
-144-13	_	treated	_	_	_	_
-144-14	_	by	_	_	_	_
-144-15	_	medical	_	_	_	_
-144-16	_	professionals	_	_	_	_
-144-17	_	and	_	_	_	_
-144-18	_	has	_	_	_	_
-144-19	_	long	_	_	_	_
-144-20	_	known	_	_	_	_
-144-21	_	its	abstract[197]	new[197]	_	_
-144-22	_	effectiveness	_	_	_	_
+#Text=And when does smelling change ?
+144-1	_	And	_	_	_	_
+144-2	_	when	_	_	_	_
+144-3	_	does	_	_	_	_
+144-4	_	smelling	_	_	_	_
+144-5	_	change	_	_	_	_
+144-6	_	?	_	_	_	_
 

@@ -593,7 +593,7 @@
 29-5	_	enjambment	abstract[50]	new[50]	coref	30-20[50_51]
 29-6	_	(	abstract[50]	new[50]	_	_
 29-7	_	in	abstract[50]	new[50]	_	_
-29-8	_	Spanish	abstract[46]|abstract[50]	new[46]|new[50]	coref	43-5[46_47]
+29-8	_	Spanish	abstract[46]|abstract[50]	new[46]|new[50]	coref	43-10[46_47]
 29-9	_	,	abstract[50]	new[50]	_	_
 29-10	_	"	abstract[50]	new[50]	_	_
 29-11	_	encabalgamiento	abstract[50]	new[50]	_	_
@@ -974,20 +974,16 @@
 42-12	_	cases	_	_	_	_
 42-13	_	.	_	_	_	_
 
-#Text=Detection of enjambment in Spanish by 300,000 names from the 15th to 19th century .
-43-1	_	Detection	_	_	_	_
-43-2	_	of	_	_	_	_
-43-3	_	enjambment	_	_	_	_
-43-4	_	in	_	_	_	_
-43-5	_	Spanish	abstract[47]	new[47]	_	_
-43-6	_	by	_	_	_	_
-43-7	_	300,000	_	_	_	_
-43-8	_	names	_	_	_	_
-43-9	_	from	_	_	_	_
-43-10	_	the	_	_	_	_
-43-11	_	15th	_	_	_	_
-43-12	_	to	_	_	_	_
-43-13	_	19th	_	_	_	_
-43-14	_	century	_	_	_	_
-43-15	_	.	_	_	_	_
+#Text=A computational language processing system to recognize enjambment in Spanish .
+43-1	_	A	_	_	_	_
+43-2	_	computational	_	_	_	_
+43-3	_	language	_	_	_	_
+43-4	_	processing	_	_	_	_
+43-5	_	system	_	_	_	_
+43-6	_	to	_	_	_	_
+43-7	_	recognize	_	_	_	_
+43-8	_	enjambment	_	_	_	_
+43-9	_	in	_	_	_	_
+43-10	_	Spanish	abstract[47]	new[47]	_	_
+43-11	_	.	_	_	_	_
 

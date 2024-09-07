@@ -1343,34 +1343,20 @@
 51-17	_	answers	_	_	_	_
 51-18	_	.	_	_	_	_
 
-#Text=The latest issue of Business Insider 's Innovation Series offers the latest business and technology news , insights , and thoughts about the key themes in business marketing .
-52-1	_	The	_	_	_	_
-52-2	_	latest	_	_	_	_
-52-3	_	issue	_	_	_	_
-52-4	_	of	_	_	_	_
-52-5	_	Business	_	_	_	_
-52-6	_	Insider	_	_	_	_
-52-7	_	's	_	_	_	_
-52-8	_	Innovation	_	_	_	_
-52-9	_	Series	_	_	_	_
-52-10	_	offers	_	_	_	_
-52-11	_	the	_	_	_	_
-52-12	_	latest	_	_	_	_
-52-13	_	business	_	_	_	_
-52-14	_	and	_	_	_	_
-52-15	_	technology	_	_	_	_
-52-16	_	news	_	_	_	_
-52-17	_	,	_	_	_	_
-52-18	_	insights	_	_	_	_
-52-19	_	,	_	_	_	_
-52-20	_	and	_	_	_	_
-52-21	_	thoughts	_	_	_	_
-52-22	_	about	_	_	_	_
-52-23	_	the	_	_	_	_
-52-24	_	key	_	_	_	_
-52-25	_	themes	_	_	_	_
-52-26	_	in	_	_	_	_
-52-27	_	business	_	_	_	_
-52-28	_	marketing	_	_	_	_
-52-29	_	.	_	_	_	_
+#Text=Business leaders need a strong entrepreneurial mindset to avoid mistakes and learn from them .
+52-1	_	Business	_	_	_	_
+52-2	_	leaders	_	_	_	_
+52-3	_	need	_	_	_	_
+52-4	_	a	_	_	_	_
+52-5	_	strong	_	_	_	_
+52-6	_	entrepreneurial	_	_	_	_
+52-7	_	mindset	_	_	_	_
+52-8	_	to	_	_	_	_
+52-9	_	avoid	_	_	_	_
+52-10	_	mistakes	abstract[138]	new[138]	coref	52-14[138_139]
+52-11	_	and	_	_	_	_
+52-12	_	learn	_	_	_	_
+52-13	_	from	_	_	_	_
+52-14	_	them	abstract[139]	new[139]	_	_
+52-15	_	.	_	_	_	_
 

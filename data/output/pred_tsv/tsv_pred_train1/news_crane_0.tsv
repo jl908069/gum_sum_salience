@@ -37,8 +37,8 @@
 4-2	_	storm	_	_	_	_
 4-3	_	yesterday	_	_	_	_
 4-4	_	caused	_	_	_	_
-4-5	_	a	abstract[21]	new[21]	coref	7-19[21_22]
-4-6	_	crane	abstract[21]	new[21]	_	_
+4-5	_	a	abstract[24]	new[24]	coref	7-19[24_25]
+4-6	_	crane	abstract[24]	new[24]	_	_
 4-7	_	to	_	_	_	_
 4-8	_	fall	_	_	_	_
 4-9	_	into	_	_	_	_
@@ -48,12 +48,12 @@
 4-13	_	Mosque	abstract[9]	new[9]	_	_
 4-14	_	,	_	_	_	_
 4-15	_	killing	_	_	_	_
-4-16	_	107	abstract[19]	new[19]	coref	6-7[19_20]
+4-16	_	107	abstract[22]	new[22]	coref	6-7[22_23]
 4-17	_	or	_	_	_	_
 4-18	_	more	_	_	_	_
 4-19	_	and	_	_	_	_
 4-20	_	wounding	_	_	_	_
-4-21	_	238	abstract[17]	new[17]	coref	6-1[17_18]
+4-21	_	238	abstract[20]	new[20]	coref	6-1[20_21]
 4-22	_	,	_	_	_	_
 4-23	_	according	_	_	_	_
 4-24	_	to	_	_	_	_
@@ -65,7 +65,7 @@
 4-30	_	Authority	abstract[15]	new[15]	_	_
 4-31	_	.	_	_	_	_
 
-#Text=Civil Defense Authority director General Suleiman al - Amr , in remarks to al - Ikhbariya television , said " Returned boat of Rohingya rescued off Indonesian coast
+#Text=Civil Defense Authority director General Suleiman al - Amr , in remarks to al - Ikhbariya television , said " Ahmed Mohamed , a 14 year old muslim boy from Irving , Texas , was wrongfully arrested at school on September 14 , 2015 by local police after a digital clock he had built was mistaken for a bomb , sparking protests on social media and leading to invitations for Ahmed to visit the White House , U.N. headquarters in New York , Facebook and Google Science Fair .
 5-1	_	Civil	abstract[16]	new[16]	_	_
 5-2	_	Defense	abstract[16]	new[16]	_	_
 5-3	_	Authority	abstract[16]	new[16]	_	_
@@ -86,24 +86,85 @@
 5-18	_	,	_	_	_	_
 5-19	_	said	_	_	_	_
 5-20	_	"	_	_	_	_
-5-21	_	Returned	_	_	_	_
-5-22	_	boat	_	_	_	_
-5-23	_	of	_	_	_	_
-5-24	_	Rohingya	_	_	_	_
-5-25	_	rescued	_	_	_	_
-5-26	_	off	_	_	_	_
-5-27	_	Indonesian	_	_	_	_
-5-28	_	coast	_	_	_	_
+5-21	_	Ahmed	abstract[17]	new[17]	coref	5-52[17_18]
+5-22	_	Mohamed	abstract[17]	new[17]	_	_
+5-23	_	,	abstract[17]	new[17]	_	_
+5-24	_	a	abstract[17]	new[17]	_	_
+5-25	_	14	abstract[17]	new[17]	_	_
+5-26	_	year	abstract[17]	new[17]	_	_
+5-27	_	old	abstract[17]	new[17]	_	_
+5-28	_	muslim	abstract[17]	new[17]	_	_
+5-29	_	boy	abstract[17]	new[17]	_	_
+5-30	_	from	abstract[17]	new[17]	_	_
+5-31	_	Irving	abstract[17]	new[17]	_	_
+5-32	_	,	abstract[17]	new[17]	_	_
+5-33	_	Texas	abstract[17]	new[17]	_	_
+5-34	_	,	_	_	_	_
+5-35	_	was	_	_	_	_
+5-36	_	wrongfully	_	_	_	_
+5-37	_	arrested	_	_	_	_
+5-38	_	at	_	_	_	_
+5-39	_	school	_	_	_	_
+5-40	_	on	_	_	_	_
+5-41	_	September	_	_	_	_
+5-42	_	14	_	_	_	_
+5-43	_	,	_	_	_	_
+5-44	_	2015	_	_	_	_
+5-45	_	by	_	_	_	_
+5-46	_	local	_	_	_	_
+5-47	_	police	_	_	_	_
+5-48	_	after	_	_	_	_
+5-49	_	a	_	_	_	_
+5-50	_	digital	_	_	_	_
+5-51	_	clock	_	_	_	_
+5-52	_	he	abstract[18]	new[18]	coref	5-71[18_19]
+5-53	_	had	_	_	_	_
+5-54	_	built	_	_	_	_
+5-55	_	was	_	_	_	_
+5-56	_	mistaken	_	_	_	_
+5-57	_	for	_	_	_	_
+5-58	_	a	_	_	_	_
+5-59	_	bomb	_	_	_	_
+5-60	_	,	_	_	_	_
+5-61	_	sparking	_	_	_	_
+5-62	_	protests	_	_	_	_
+5-63	_	on	_	_	_	_
+5-64	_	social	_	_	_	_
+5-65	_	media	_	_	_	_
+5-66	_	and	_	_	_	_
+5-67	_	leading	_	_	_	_
+5-68	_	to	_	_	_	_
+5-69	_	invitations	_	_	_	_
+5-70	_	for	_	_	_	_
+5-71	_	Ahmed	abstract[19]	new[19]	_	_
+5-72	_	to	_	_	_	_
+5-73	_	visit	_	_	_	_
+5-74	_	the	_	_	_	_
+5-75	_	White	_	_	_	_
+5-76	_	House	_	_	_	_
+5-77	_	,	_	_	_	_
+5-78	_	U.N.	_	_	_	_
+5-79	_	headquarters	_	_	_	_
+5-80	_	in	_	_	_	_
+5-81	_	New	_	_	_	_
+5-82	_	York	_	_	_	_
+5-83	_	,	_	_	_	_
+5-84	_	Facebook	_	_	_	_
+5-85	_	and	_	_	_	_
+5-86	_	Google	_	_	_	_
+5-87	_	Science	_	_	_	_
+5-88	_	Fair	_	_	_	_
+5-89	_	.	_	_	_	_
 
 #Text=All those who were wounded and the dead have been taken to hospital . There are no casualties left at the location . "
-6-1	_	All	abstract[18]	new[18]	_	_
-6-2	_	those	abstract[18]	new[18]	_	_
-6-3	_	who	abstract[18]	new[18]	_	_
-6-4	_	were	abstract[18]	new[18]	_	_
-6-5	_	wounded	abstract[18]	new[18]	_	_
+6-1	_	All	abstract[21]	new[21]	_	_
+6-2	_	those	abstract[21]	new[21]	_	_
+6-3	_	who	abstract[21]	new[21]	_	_
+6-4	_	were	abstract[21]	new[21]	_	_
+6-5	_	wounded	abstract[21]	new[21]	_	_
 6-6	_	and	_	_	_	_
-6-7	_	the	abstract[20]	new[20]	_	_
-6-8	_	dead	abstract[20]	new[20]	_	_
+6-7	_	the	abstract[23]	new[23]	_	_
+6-8	_	dead	abstract[23]	new[23]	_	_
 6-9	_	have	_	_	_	_
 6-10	_	been	_	_	_	_
 6-11	_	taken	_	_	_	_
@@ -140,8 +201,8 @@
 7-16	_	rain	_	_	_	_
 7-17	_	that	_	_	_	_
 7-18	_	led	_	_	_	_
-7-19	_	the	abstract[22]	new[22]	_	_
-7-20	_	crane	abstract[22]	new[22]	_	_
+7-19	_	the	abstract[25]	new[25]	_	_
+7-20	_	crane	abstract[25]	new[25]	_	_
 7-21	_	to	_	_	_	_
 7-22	_	fall	_	_	_	_
 7-23	_	.	_	_	_	_
@@ -163,8 +224,8 @@
 8-14	_	.	_	_	_	_
 
 #Text=The accident occurred at a time when the mosque was relatively uncrowded .
-9-1	_	The	abstract[23]	new[23]	coref	10-3[23_24]
-9-2	_	accident	abstract[23]	new[23]	_	_
+9-1	_	The	abstract[26]	new[26]	coref	10-3[26_27]
+9-2	_	accident	abstract[26]	new[26]	_	_
 9-3	_	occurred	_	_	_	_
 9-4	_	at	_	_	_	_
 9-5	_	a	_	_	_	_
@@ -180,12 +241,12 @@
 #Text=" Had it happened an hour later it would have been much worse , " Khaled Al - Maeena , editor at large at the Saudi Gazette , said .
 10-1	_	"	_	_	_	_
 10-2	_	Had	_	_	_	_
-10-3	_	it	abstract[24]	new[24]	coref	10-8[24_25]
+10-3	_	it	abstract[27]	new[27]	coref	10-8[27_28]
 10-4	_	happened	_	_	_	_
 10-5	_	an	_	_	_	_
 10-6	_	hour	_	_	_	_
 10-7	_	later	_	_	_	_
-10-8	_	it	abstract[25]	new[25]	coref	11-3[25_26]
+10-8	_	it	abstract[28]	new[28]	coref	11-3[28_29]
 10-9	_	would	_	_	_	_
 10-10	_	have	_	_	_	_
 10-11	_	been	_	_	_	_
@@ -193,18 +254,18 @@
 10-13	_	worse	_	_	_	_
 10-14	_	,	_	_	_	_
 10-15	_	"	_	_	_	_
-10-16	_	Khaled	abstract[28]	new[28]	coref	11-13[28_29]
-10-17	_	Al	abstract[28]	new[28]	_	_
-10-18	_	-	abstract[28]	new[28]	_	_
-10-19	_	Maeena	abstract[28]	new[28]	_	_
-10-20	_	,	abstract[28]	new[28]	_	_
-10-21	_	editor	abstract[28]	new[28]	_	_
-10-22	_	at	abstract[28]	new[28]	_	_
-10-23	_	large	abstract[28]	new[28]	_	_
-10-24	_	at	abstract[28]	new[28]	_	_
-10-25	_	the	abstract[28]	new[28]	_	_
-10-26	_	Saudi	abstract[28]	new[28]	_	_
-10-27	_	Gazette	abstract[28]	new[28]	_	_
+10-16	_	Khaled	abstract[31]	new[31]	coref	11-13[31_32]
+10-17	_	Al	abstract[31]	new[31]	_	_
+10-18	_	-	abstract[31]	new[31]	_	_
+10-19	_	Maeena	abstract[31]	new[31]	_	_
+10-20	_	,	abstract[31]	new[31]	_	_
+10-21	_	editor	abstract[31]	new[31]	_	_
+10-22	_	at	abstract[31]	new[31]	_	_
+10-23	_	large	abstract[31]	new[31]	_	_
+10-24	_	at	abstract[31]	new[31]	_	_
+10-25	_	the	abstract[31]	new[31]	_	_
+10-26	_	Saudi	abstract[31]	new[31]	_	_
+10-27	_	Gazette	abstract[31]	new[31]	_	_
 10-28	_	,	_	_	_	_
 10-29	_	said	_	_	_	_
 10-30	_	.	_	_	_	_
@@ -212,7 +273,7 @@
 #Text=" Had it happened five hours earlier or four hours earlier , I think the death toll would have been more than a thousand . "
 11-1	_	"	_	_	_	_
 11-2	_	Had	_	_	_	_
-11-3	_	it	abstract[26]	new[26]	coref	12-1[26_27]
+11-3	_	it	abstract[29]	new[29]	coref	12-1[29_30]
 11-4	_	happened	_	_	_	_
 11-5	_	five	_	_	_	_
 11-6	_	hours	_	_	_	_
@@ -222,7 +283,7 @@
 11-10	_	hours	_	_	_	_
 11-11	_	earlier	_	_	_	_
 11-12	_	,	_	_	_	_
-11-13	_	I	abstract[29]	new[29]	_	_
+11-13	_	I	abstract[32]	new[32]	_	_
 11-14	_	think	_	_	_	_
 11-15	_	the	_	_	_	_
 11-16	_	death	_	_	_	_
@@ -238,9 +299,9 @@
 11-26	_	"	_	_	_	_
 
 #Text=The crane accident comes just ten days before the beginning of the Hajj , the annual pilgrimage to Mecca , Islam 's holiest site .
-12-1	_	The	abstract[27]	new[27]	_	_
-12-2	_	crane	abstract[27]	new[27]	_	_
-12-3	_	accident	abstract[27]	new[27]	_	_
+12-1	_	The	abstract[30]	new[30]	_	_
+12-2	_	crane	abstract[30]	new[30]	_	_
+12-3	_	accident	abstract[30]	new[30]	_	_
 12-4	_	comes	_	_	_	_
 12-5	_	just	_	_	_	_
 12-6	_	ten	_	_	_	_
@@ -267,10 +328,10 @@
 #Text=As undergoing a pilgrimage to Mecca is a mandatory religious duty for all Muslims who physically and financially can , millions of pilgrims arrive in Mecca each year for the Hajj .
 13-1	_	As	_	_	_	_
 13-2	_	undergoing	_	_	_	_
-13-3	_	a	abstract[30]	new[30]	coref	13-30[30_31]
-13-4	_	pilgrimage	abstract[30]	new[30]	_	_
-13-5	_	to	abstract[30]	new[30]	_	_
-13-6	_	Mecca	abstract[5]|abstract[30]	new[5]|new[30]	coref	13-26[5_6]
+13-3	_	a	abstract[33]	new[33]	coref	13-30[33_34]
+13-4	_	pilgrimage	abstract[33]	new[33]	_	_
+13-5	_	to	abstract[33]	new[33]	_	_
+13-6	_	Mecca	abstract[5]|abstract[33]	new[5]|new[33]	coref	13-26[5_6]
 13-7	_	is	_	_	_	_
 13-8	_	a	_	_	_	_
 13-9	_	mandatory	_	_	_	_
@@ -294,8 +355,8 @@
 13-27	_	each	_	_	_	_
 13-28	_	year	_	_	_	_
 13-29	_	for	_	_	_	_
-13-30	_	the	abstract[31]	new[31]	_	_
-13-31	_	Hajj	abstract[31]	new[31]	_	_
+13-30	_	the	abstract[34]	new[34]	_	_
+13-31	_	Hajj	abstract[34]	new[34]	_	_
 13-32	_	.	_	_	_	_
 
 #Text=Construction was underway at the mosque in order to enlarge the mosque and improve crowd control , which has been a recurring problem during Mecca 's pilgrimages .

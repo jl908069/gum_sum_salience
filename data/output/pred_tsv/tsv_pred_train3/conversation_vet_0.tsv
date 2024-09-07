@@ -354,7 +354,7 @@
 36-1	_	Um	_	_	_	_
 36-2	_	,	_	_	_	_
 36-3	_	did	_	_	_	_
-36-4	_	you	abstract[142]	new[142]	coref	98-1[142_143]
+36-4	_	you	abstract[143]	new[143]	coref	98-1[143_144]
 36-5	_	get	_	_	_	_
 36-6	_	hold	_	_	_	_
 36-7	_	of	_	_	_	_
@@ -764,8 +764,8 @@
 73-6	_	he	abstract[76]	new[76]	coref	84-5[76_77]
 73-7	_	's	_	_	_	_
 73-8	_	in	_	_	_	_
-73-9	_	the	abstract[110]	new[110]	coref	74-5[110_111]
-73-10	_	barn	abstract[110]	new[110]	_	_
+73-9	_	the	abstract[111]	new[111]	coref	74-5[111_112]
+73-10	_	barn	abstract[111]	new[111]	_	_
 73-11	_	,	_	_	_	_
 73-12	_	from	_	_	_	_
 73-13	_	home	_	_	_	_
@@ -776,8 +776,8 @@
 74-2	_	back	_	_	_	_
 74-3	_	in	_	_	_	_
 74-4	_	from	_	_	_	_
-74-5	_	the	abstract[111]	new[111]	_	_
-74-6	_	barn	abstract[111]	new[111]	_	_
+74-5	_	the	abstract[112]	new[112]	_	_
+74-6	_	barn	abstract[112]	new[112]	_	_
 74-7	_	yet	_	_	_	_
 74-8	_	or	_	_	_	_
 74-9	_	not	_	_	_	_
@@ -789,19 +789,19 @@
 
 #Text=Called both the house number and the barn number , and both of em , and , a little kid answered .
 76-1	_	Called	_	_	_	_
-76-2	_	both	abstract[112]	new[112]	coref	76-12[112_113]
-76-3	_	the	abstract[112]	new[112]	_	_
-76-4	_	house	abstract[112]	new[112]	_	_
-76-5	_	number	abstract[112]	new[112]	_	_
-76-6	_	and	abstract[112]	new[112]	_	_
-76-7	_	the	abstract[112]	new[112]	_	_
-76-8	_	barn	abstract[112]	new[112]	_	_
-76-9	_	number	abstract[112]	new[112]	_	_
+76-2	_	both	abstract[113]	new[113]	coref	76-12[113_114]
+76-3	_	the	abstract[113]	new[113]	_	_
+76-4	_	house	abstract[113]	new[113]	_	_
+76-5	_	number	abstract[113]	new[113]	_	_
+76-6	_	and	abstract[113]	new[113]	_	_
+76-7	_	the	abstract[113]	new[113]	_	_
+76-8	_	barn	abstract[113]	new[113]	_	_
+76-9	_	number	abstract[113]	new[113]	_	_
 76-10	_	,	_	_	_	_
 76-11	_	and	_	_	_	_
-76-12	_	both	abstract[113]	new[113]	_	_
-76-13	_	of	abstract[113]	new[113]	_	_
-76-14	_	em	abstract[113]	new[113]	_	_
+76-12	_	both	abstract[114]	new[114]	_	_
+76-13	_	of	abstract[114]	new[114]	_	_
+76-14	_	em	abstract[114]	new[114]	_	_
 76-15	_	,	_	_	_	_
 76-16	_	and	_	_	_	_
 76-17	_	,	_	_	_	_
@@ -816,7 +816,7 @@
 77-2	_	,	_	_	_	_
 77-3	_	yeah	_	_	_	_
 77-4	_	and	_	_	_	_
-77-5	_	they	abstract[114]	new[114]	coref	79-1[114_115]
+77-5	_	they	abstract[115]	new[115]	coref	79-1[115_116]
 77-6	_	're	_	_	_	_
 77-7	_	little	_	_	_	_
 77-8	_	little	_	_	_	_
@@ -829,11 +829,11 @@
 78-2	_	?	_	_	_	_
 
 #Text=They 're like ' I 'm three . '
-79-1	_	They	abstract[115]	new[115]	coref	79-5[115_116]
+79-1	_	They	abstract[116]	new[116]	coref	79-5[116_117]
 79-2	_	're	_	_	_	_
 79-3	_	like	_	_	_	_
 79-4	_	'	_	_	_	_
-79-5	_	I	abstract[116]	new[116]	_	_
+79-5	_	I	abstract[117]	new[117]	_	_
 79-6	_	'm	_	_	_	_
 79-7	_	three	_	_	_	_
 79-8	_	.	_	_	_	_
@@ -841,7 +841,7 @@
 
 #Text=Yeah Carol ?
 80-1	_	Yeah	_	_	_	_
-80-2	_	Carol	abstract[117]	new[117]	coref	83-18[117_118]
+80-2	_	Carol	abstract[118]	new[118]	coref	83-18[118_119]
 80-3	_	?	_	_	_	_
 
 #Text=It 's Marcia .
@@ -859,9 +859,9 @@
 83-2	_	,	_	_	_	_
 83-3	_	we	abstract[63]	new[63]	coref	92-25[63_64]
 83-4	_	got	_	_	_	_
-83-5	_	x	abstract[130]	new[130]	coref	89-22[130_131]
-83-6	_	-	abstract[130]	new[130]	_	_
-83-7	_	rays	abstract[130]	new[130]	_	_
+83-5	_	x	abstract[131]	new[131]	coref	89-22[131_132]
+83-6	_	-	abstract[131]	new[131]	_	_
+83-7	_	rays	abstract[131]	new[131]	_	_
 83-8	_	done	_	_	_	_
 83-9	_	already	_	_	_	_
 83-10	_	,	_	_	_	_
@@ -872,7 +872,7 @@
 83-15	_	gon	_	_	_	_
 83-16	_	na	_	_	_	_
 83-17	_	let	_	_	_	_
-83-18	_	you	abstract[118]	new[118]	coref	84-8[118_119]
+83-18	_	you	abstract[119]	new[119]	coref	84-8[119_120]
 83-19	_	know	_	_	_	_
 83-20	_	what	_	_	_	_
 83-21	_	,	_	_	_	_
@@ -890,7 +890,7 @@
 84-5	_	Richard	abstract[77]	new[77]	coref	96-10[77_78]
 84-6	_	or	_	_	_	_
 84-7	_	are	_	_	_	_
-84-8	_	you	abstract[119]	new[119]	coref	96-6[119_120]
+84-8	_	you	abstract[120]	new[120]	coref	96-6[120_121]
 84-9	_	okay	_	_	_	_
 84-10	_	?	_	_	_	_
 
@@ -933,10 +933,10 @@
 86-32	_	,	_	_	_	_
 86-33	_	um	_	_	_	_
 86-34	_	,	_	_	_	_
-86-35	_	it	abstract[125]	new[125]	coref	86-38[125_126]
+86-35	_	it	abstract[126]	new[126]	coref	86-38[126_127]
 86-36	_	's	_	_	_	_
 86-37	_	f-	_	_	_	_
-86-38	_	it	abstract[126]	new[126]	coref	87-1[126_127]
+86-38	_	it	abstract[127]	new[127]	coref	87-1[127_128]
 86-39	_	's	_	_	_	_
 86-40	_	really	_	_	_	_
 86-41	_	looks	_	_	_	_
@@ -946,7 +946,7 @@
 86-45	_	.	_	_	_	_
 
 #Text=It 's not displaced very far anyway , and it 's um , pretty much , you know , locked in place , so to speak .
-87-1	_	It	abstract[127]	new[127]	coref	87-10[127_128]
+87-1	_	It	abstract[128]	new[128]	coref	87-10[128_129]
 87-2	_	's	_	_	_	_
 87-3	_	not	_	_	_	_
 87-4	_	displaced	_	_	_	_
@@ -955,7 +955,7 @@
 87-7	_	anyway	_	_	_	_
 87-8	_	,	_	_	_	_
 87-9	_	and	_	_	_	_
-87-10	_	it	abstract[128]	new[128]	coref	92-48[128_129]
+87-10	_	it	abstract[129]	new[129]	coref	92-48[129_130]
 87-11	_	's	_	_	_	_
 87-12	_	um	_	_	_	_
 87-13	_	,	_	_	_	_
@@ -1002,10 +1002,10 @@
 89-6	_	pretty	_	_	_	_
 89-7	_	much	_	_	_	_
 89-8	_	got	_	_	_	_
-89-9	_	an	abstract[132]	new[132]	coref	89-29[132_133]
-89-10	_	estimate	abstract[132]	new[132]	_	_
-89-11	_	so	abstract[132]	new[132]	_	_
-89-12	_	far	abstract[132]	new[132]	_	_
+89-9	_	an	abstract[133]	new[133]	coref	89-29[133_134]
+89-10	_	estimate	abstract[133]	new[133]	_	_
+89-11	_	so	abstract[133]	new[133]	_	_
+89-12	_	far	abstract[133]	new[133]	_	_
 89-13	_	,	_	_	_	_
 89-14	_	with	_	_	_	_
 89-15	_	the	_	_	_	_
@@ -1015,15 +1015,15 @@
 89-19	_	yesterday	_	_	_	_
 89-20	_	,	_	_	_	_
 89-21	_	and	_	_	_	_
-89-22	_	the	abstract[131]	new[131]	_	_
-89-23	_	x	abstract[131]	new[131]	_	_
-89-24	_	-	abstract[131]	new[131]	_	_
-89-25	_	rays	abstract[131]	new[131]	_	_
+89-22	_	the	abstract[132]	new[132]	_	_
+89-23	_	x	abstract[132]	new[132]	_	_
+89-24	_	-	abstract[132]	new[132]	_	_
+89-25	_	rays	abstract[132]	new[132]	_	_
 89-26	_	and	_	_	_	_
 89-27	_	everything	_	_	_	_
 89-28	_	,	_	_	_	_
-89-29	_	the	abstract[133]	new[133]	_	_
-89-30	_	bill	abstract[133]	new[133]	_	_
+89-29	_	the	abstract[134]	new[134]	_	_
+89-30	_	bill	abstract[134]	new[134]	_	_
 89-31	_	was	_	_	_	_
 89-32	_	about	_	_	_	_
 89-33	_	fifty	_	_	_	_
@@ -1085,17 +1085,17 @@
 #Text=And , the only , then it would be , the only extra would be , in about six to eight weeks , we 'd have her come in again , we would tranquilize her , and take the X - rays , and see if it 's healed , enough to take off .
 92-1	_	And	_	_	_	_
 92-2	_	,	_	_	_	_
-92-3	_	the	abstract[134]	new[134]	coref	92-8[134_135]
-92-4	_	only	abstract[134]	new[134]	_	_
+92-3	_	the	abstract[135]	new[135]	coref	92-8[135_136]
+92-4	_	only	abstract[135]	new[135]	_	_
 92-5	_	,	_	_	_	_
 92-6	_	then	_	_	_	_
-92-7	_	it	abstract[135]	new[135]	coref	92-12[135_136]
+92-7	_	it	abstract[136]	new[136]	coref	92-12[136_137]
 92-8	_	would	_	_	_	_
 92-9	_	be	_	_	_	_
 92-10	_	,	_	_	_	_
-92-11	_	the	abstract[136]	new[136]	_	_
-92-12	_	only	abstract[136]	new[136]	_	_
-92-13	_	extra	abstract[136]	new[136]	_	_
+92-11	_	the	abstract[137]	new[137]	_	_
+92-12	_	only	abstract[137]	new[137]	_	_
+92-13	_	extra	abstract[137]	new[137]	_	_
 92-14	_	would	_	_	_	_
 92-15	_	be	_	_	_	_
 92-16	_	,	_	_	_	_
@@ -1129,7 +1129,7 @@
 92-44	_	and	_	_	_	_
 92-45	_	see	_	_	_	_
 92-46	_	if	_	_	_	_
-92-47	_	it	abstract[129]	new[129]	_	_
+92-47	_	it	abstract[130]	new[130]	_	_
 92-48	_	's	_	_	_	_
 92-49	_	healed	_	_	_	_
 92-50	_	,	_	_	_	_
@@ -1191,11 +1191,11 @@
 95-28	_	but	_	_	_	_
 95-29	_	,	_	_	_	_
 95-30	_	so	_	_	_	_
-95-31	_	it	abstract[137]	new[137]	coref	95-33[137_138]
+95-31	_	it	abstract[138]	new[138]	coref	95-33[138_139]
 95-32	_	's	_	_	_	_
-95-33	_	it	abstract[138]	new[138]	coref	95-35[138_139]
+95-33	_	it	abstract[139]	new[139]	coref	95-35[139_140]
 95-34	_	's	_	_	_	_
-95-35	_	that	abstract[139]	new[139]	coref	96-31[139_140]
+95-35	_	that	abstract[140]	new[140]	coref	96-31[140_141]
 95-36	_	's	_	_	_	_
 95-37	_	about	_	_	_	_
 95-38	_	the	_	_	_	_
@@ -1223,7 +1223,7 @@
 96-3	_	so	_	_	_	_
 96-4	_	,	_	_	_	_
 96-5	_	if	_	_	_	_
-96-6	_	you	abstract[120]	new[120]	coref	96-21[120_121]
+96-6	_	you	abstract[121]	new[121]	coref	96-21[121_122]
 96-7	_	want	_	_	_	_
 96-8	_	to	_	_	_	_
 96-9	_	let	_	_	_	_
@@ -1238,17 +1238,17 @@
 96-18	_	back	_	_	_	_
 96-19	_	,	_	_	_	_
 96-20	_	if	_	_	_	_
-96-21	_	you	abstract[121]	new[121]	coref	96-24[121_122]
+96-21	_	you	abstract[122]	new[122]	coref	96-24[122_123]
 96-22	_	,	_	_	_	_
 96-23	_	if	_	_	_	_
-96-24	_	you	abstract[122]	new[122]	coref	103-6[122_123]
+96-24	_	you	abstract[123]	new[123]	coref	103-6[123_124]
 96-25	_	wan	_	_	_	_
 96-26	_	na	_	_	_	_
 96-27	_	go	_	_	_	_
 96-28	_	ahead	_	_	_	_
 96-29	_	and	_	_	_	_
 96-30	_	do	_	_	_	_
-96-31	_	it	abstract[140]	new[140]	coref	102-11[140_141]
+96-31	_	it	abstract[141]	new[141]	coref	102-11[141_142]
 96-32	_	.	_	_	_	_
 
 #Text=Okay ?
@@ -1256,7 +1256,7 @@
 97-2	_	?	_	_	_	_
 
 #Text=Lindsey ?
-98-1	_	Lindsey	abstract[143]	new[143]	_	_
+98-1	_	Lindsey	abstract[144]	new[144]	_	_
 98-2	_	?	_	_	_	_
 
 #Text=You wan na put this kitty castration down ?
@@ -1289,9 +1289,9 @@
 102-8	_	if	_	_	_	_
 102-9	_	we	abstract[67]	new[67]	_	_
 102-10	_	did	_	_	_	_
-102-11	_	it	abstract[141]	new[141]	_	_
+102-11	_	it	abstract[142]	new[142]	_	_
 102-12	_	,	_	_	_	_
-102-13	_	she	abstract[109]	new[109]	_	_
+102-13	_	she	abstract[109]	new[109]	coref	106-14[109_110]
 102-14	_	could	_	_	_	_
 102-15	_	probably	_	_	_	_
 102-16	_	go	_	_	_	_
@@ -1305,7 +1305,7 @@
 103-3	_	whenever	_	_	_	_
 103-4	_	,	_	_	_	_
 103-5	_	whenever	_	_	_	_
-103-6	_	you	abstract[123]	new[123]	coref	104-4[123_124]
+103-6	_	you	abstract[124]	new[124]	coref	104-4[124_125]
 103-7	_	get	_	_	_	_
 103-8	_	a	_	_	_	_
 103-9	_	chance	_	_	_	_
@@ -1315,7 +1315,7 @@
 104-1	_	Okay	_	_	_	_
 104-2	_	,	_	_	_	_
 104-3	_	thanks	_	_	_	_
-104-4	_	Carol	abstract[124]	new[124]	_	_
+104-4	_	Carol	abstract[125]	new[125]	_	_
 104-5	_	.	_	_	_	_
 
 #Text=Mhm , bye - bye .
@@ -1326,18 +1326,31 @@
 105-5	_	bye	_	_	_	_
 105-6	_	.	_	_	_	_
 
-#Text=They 've always been on the crusade for scientific responsibility , right ?
-106-1	_	They	_	_	_	_
-106-2	_	've	_	_	_	_
-106-3	_	always	_	_	_	_
-106-4	_	been	_	_	_	_
-106-5	_	on	_	_	_	_
-106-6	_	the	_	_	_	_
-106-7	_	crusade	_	_	_	_
-106-8	_	for	_	_	_	_
-106-9	_	scientific	_	_	_	_
-106-10	_	responsibility	_	_	_	_
-106-11	_	,	_	_	_	_
-106-12	_	right	_	_	_	_
-106-13	_	?	_	_	_	_
+#Text=A doctor approaches a scientist , looking at one of his inventions . She walks away from the field with a frightened , confused headache .
+106-1	_	A	_	_	_	_
+106-2	_	doctor	_	_	_	_
+106-3	_	approaches	_	_	_	_
+106-4	_	a	abstract[145]	new[145]	coref	106-11[145_146]
+106-5	_	scientist	abstract[145]	new[145]	_	_
+106-6	_	,	_	_	_	_
+106-7	_	looking	_	_	_	_
+106-8	_	at	_	_	_	_
+106-9	_	one	_	_	_	_
+106-10	_	of	_	_	_	_
+106-11	_	his	abstract[146]	new[146]	_	_
+106-12	_	inventions	_	_	_	_
+106-13	_	.	_	_	_	_
+106-14	_	She	abstract[110]	new[110]	_	_
+106-15	_	walks	_	_	_	_
+106-16	_	away	_	_	_	_
+106-17	_	from	_	_	_	_
+106-18	_	the	_	_	_	_
+106-19	_	field	_	_	_	_
+106-20	_	with	_	_	_	_
+106-21	_	a	_	_	_	_
+106-22	_	frightened	_	_	_	_
+106-23	_	,	_	_	_	_
+106-24	_	confused	_	_	_	_
+106-25	_	headache	_	_	_	_
+106-26	_	.	_	_	_	_
 

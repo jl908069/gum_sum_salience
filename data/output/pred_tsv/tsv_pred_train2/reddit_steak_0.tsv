@@ -841,12 +841,10 @@
 46-17	_	"	_	_	_	_
 46-18	_	.	_	_	_	_
 
-#Text=' Space Religion """" , this nonsense
-47-1	_	'	_	_	_	_
-47-2	_	Space	_	_	_	_
-47-3	_	Religion	_	_	_	_
-47-4	_	""""	_	_	_	_
-47-5	_	,	_	_	_	_
-47-6	_	this	_	_	_	_
-47-7	_	nonsense	_	_	_	_
+#Text=Space religion 's denial .
+47-1	_	Space	_	_	_	_
+47-2	_	religion	_	_	_	_
+47-3	_	's	_	_	_	_
+47-4	_	denial	_	_	_	_
+47-5	_	.	_	_	_	_
 

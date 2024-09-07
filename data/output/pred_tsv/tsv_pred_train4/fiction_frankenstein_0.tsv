@@ -1006,8 +1006,8 @@
 65-29	_	we	abstract[197]	new[197]	_	_
 65-30	_	pull	_	_	_	_
 65-31	_	in	_	_	_	_
-65-32	_	the	abstract[237]	new[237]	coref	85-9[237_238]
-65-33	_	driveway	abstract[237]	new[237]	_	_
+65-32	_	the	abstract[239]	new[239]	coref	85-9[239_240]
+65-33	_	driveway	abstract[239]	new[239]	_	_
 65-34	_	,	_	_	_	_
 65-35	_	she	abstract[102]	new[102]	coref	65-42[102_103]
 65-36	_	’s	_	_	_	_
@@ -1216,7 +1216,7 @@
 79-2	_	Can	_	_	_	_
 79-3	_	Toph	abstract[234]	new[234]	_	_
 79-4	_	and	_	_	_	_
-79-5	_	Len	abstract[236]	new[236]	_	_
+79-5	_	Len	abstract[236]	new[236]	coref	90-1[236_237]
 79-6	_	come	_	_	_	_
 79-7	_	over	_	_	_	_
 79-8	_	?	_	_	_	_
@@ -1272,8 +1272,8 @@
 85-6	_	her	abstract[220]	new[220]	coref	86-1[220_221]
 85-7	_	back	_	_	_	_
 85-8	_	down	_	_	_	_
-85-9	_	the	abstract[238]	new[238]	_	_
-85-10	_	driveway	abstract[238]	new[238]	_	_
+85-9	_	the	abstract[240]	new[240]	_	_
+85-10	_	driveway	abstract[240]	new[240]	_	_
 85-11	_	.	_	_	_	_
 
 #Text=She turns back , watching where she ’s going , and she needs to get her hair done again because I can really see the gray roots .
@@ -1307,7 +1307,7 @@
 86-28	_	.	_	_	_	_
 
 #Text=Cara is watching me through the watery glass , her mouth a little open .
-87-1	_	Cara	abstract[239]	new[239]	coref	87-10[239_240]
+87-1	_	Cara	abstract[241]	new[241]	coref	87-10[241_242]
 87-2	_	is	_	_	_	_
 87-3	_	watching	_	_	_	_
 87-4	_	me	abstract[151]	new[151]	coref	88-1[151_152]
@@ -1316,7 +1316,7 @@
 87-7	_	watery	_	_	_	_
 87-8	_	glass	_	_	_	_
 87-9	_	,	_	_	_	_
-87-10	_	her	abstract[207]|abstract[240]	new[207]|new[240]	_	_
+87-10	_	her	abstract[207]|abstract[242]	new[207]|new[242]	_	_
 87-11	_	mouth	abstract[207]	new[207]	_	_
 87-12	_	a	_	_	_	_
 87-13	_	little	_	_	_	_
@@ -1340,41 +1340,19 @@
 89-6	_	gone	_	_	_	_
 89-7	_	.	_	_	_	_
 
-#Text=Tyler 's grandmother was his favorite person in the world because Tyler thought she would fill in the gaps in his knowledge — Santa Claus and the Easter Bunny ; Father Christmas , Easter Basket .
-90-1	_	Tyler	abstract[241]|abstract[245]	new[241]|new[245]	coref|coref	90-5[241_242]|90-14[245_246]
-90-2	_	's	abstract[241]|abstract[245]	new[241]|new[245]	_	_
-90-3	_	grandmother	abstract[245]	new[245]	_	_
-90-4	_	was	_	_	_	_
-90-5	_	his	abstract[242]	new[242]	coref	90-12[242_243]
-90-6	_	favorite	_	_	_	_
-90-7	_	person	_	_	_	_
-90-8	_	in	_	_	_	_
-90-9	_	the	_	_	_	_
-90-10	_	world	_	_	_	_
-90-11	_	because	_	_	_	_
-90-12	_	Tyler	abstract[243]	new[243]	coref	90-21[243_244]
-90-13	_	thought	_	_	_	_
-90-14	_	she	abstract[246]	new[246]	_	_
-90-15	_	would	_	_	_	_
-90-16	_	fill	_	_	_	_
-90-17	_	in	_	_	_	_
-90-18	_	the	_	_	_	_
-90-19	_	gaps	_	_	_	_
-90-20	_	in	_	_	_	_
-90-21	_	his	abstract[244]	new[244]	_	_
-90-22	_	knowledge	_	_	_	_
-90-23	_	—	_	_	_	_
-90-24	_	Santa	_	_	_	_
-90-25	_	Claus	_	_	_	_
-90-26	_	and	_	_	_	_
-90-27	_	the	_	_	_	_
-90-28	_	Easter	abstract[247]	new[247]	coref	90-34[247_248]
-90-29	_	Bunny	_	_	_	_
-90-30	_	;	_	_	_	_
-90-31	_	Father	_	_	_	_
-90-32	_	Christmas	_	_	_	_
-90-33	_	,	_	_	_	_
-90-34	_	Easter	abstract[248]	new[248]	_	_
-90-35	_	Basket	_	_	_	_
-90-36	_	.	_	_	_	_
+#Text=Tyler recalls the emotional pain of his grandmother ’s death for many years .
+90-1	_	Tyler	abstract[237]	new[237]	coref	90-7[237_238]
+90-2	_	recalls	_	_	_	_
+90-3	_	the	_	_	_	_
+90-4	_	emotional	_	_	_	_
+90-5	_	pain	_	_	_	_
+90-6	_	of	_	_	_	_
+90-7	_	his	abstract[238]	new[238]	_	_
+90-8	_	grandmother	_	_	_	_
+90-9	_	’s	_	_	_	_
+90-10	_	death	_	_	_	_
+90-11	_	for	_	_	_	_
+90-12	_	many	_	_	_	_
+90-13	_	years	_	_	_	_
+90-14	_	.	_	_	_	_
 

@@ -140,7 +140,7 @@
 9-6	_	arrogance	_	_	_	_
 9-7	_	.	_	_	_	_
 
-#Text=Arrogance and smugness is often a reflection of limited life experience , and feeling concerned that those with greater life experience " Visit Tulsa . Understand the geography and culture of Tulsa . Learn about the arts , culture , and economy in Tulsa . Visit the Tulsa Convention Center or the Tulsa County Court House .
+#Text=Arrogance and smugness is often a reflection of limited life experience , and feeling concerned that those with greater life experience " Visit Tulsa . Visit The Tulsa City Museum , which includes one of the Tulsa Museum of Natural History . Tour Tulsa in the Tulsa International Airport . Visit the park at 311 N. Colorado Rd . , which offers a lovely """" park - and - ride """" ride . Tour the underground metropolis at N. P
 10-1	_	Arrogance	_	_	_	_
 10-2	_	and	_	_	_	_
 10-3	_	smugness	_	_	_	_
@@ -164,40 +164,63 @@
 10-21	_	experience	_	_	_	_
 10-22	_	"	_	_	_	_
 10-23	_	Visit	_	_	_	_
-10-24	_	Tulsa	abstract[30]	new[30]	coref	10-32[30_31]
+10-24	_	Tulsa	abstract[30]	new[30]	coref	10-28[30_31]
 10-25	_	.	_	_	_	_
-10-26	_	Understand	_	_	_	_
-10-27	_	the	_	_	_	_
-10-28	_	geography	_	_	_	_
-10-29	_	and	_	_	_	_
-10-30	_	culture	_	_	_	_
-10-31	_	of	_	_	_	_
-10-32	_	Tulsa	abstract[31]	new[31]	coref	10-44[31_32]
-10-33	_	.	_	_	_	_
-10-34	_	Learn	_	_	_	_
-10-35	_	about	_	_	_	_
+10-26	_	Visit	_	_	_	_
+10-27	_	The	_	_	_	_
+10-28	_	Tulsa	abstract[31]	new[31]	coref	10-37[31_32]
+10-29	_	City	_	_	_	_
+10-30	_	Museum	_	_	_	_
+10-31	_	,	_	_	_	_
+10-32	_	which	_	_	_	_
+10-33	_	includes	_	_	_	_
+10-34	_	one	_	_	_	_
+10-35	_	of	_	_	_	_
 10-36	_	the	_	_	_	_
-10-37	_	arts	_	_	_	_
-10-38	_	,	_	_	_	_
-10-39	_	culture	_	_	_	_
-10-40	_	,	_	_	_	_
-10-41	_	and	_	_	_	_
-10-42	_	economy	_	_	_	_
-10-43	_	in	_	_	_	_
-10-44	_	Tulsa	abstract[32]	new[32]	coref	10-48[32_33]
-10-45	_	.	_	_	_	_
-10-46	_	Visit	_	_	_	_
-10-47	_	the	_	_	_	_
-10-48	_	Tulsa	abstract[33]	new[33]	coref	10-53[33_34]
-10-49	_	Convention	_	_	_	_
-10-50	_	Center	_	_	_	_
-10-51	_	or	_	_	_	_
+10-37	_	Tulsa	abstract[32]	new[32]	coref	10-44[32_33]
+10-38	_	Museum	_	_	_	_
+10-39	_	of	_	_	_	_
+10-40	_	Natural	_	_	_	_
+10-41	_	History	_	_	_	_
+10-42	_	.	_	_	_	_
+10-43	_	Tour	_	_	_	_
+10-44	_	Tulsa	abstract[33]	new[33]	coref	10-47[33_34]
+10-45	_	in	_	_	_	_
+10-46	_	the	_	_	_	_
+10-47	_	Tulsa	abstract[34]	new[34]	_	_
+10-48	_	International	_	_	_	_
+10-49	_	Airport	_	_	_	_
+10-50	_	.	_	_	_	_
+10-51	_	Visit	_	_	_	_
 10-52	_	the	_	_	_	_
-10-53	_	Tulsa	abstract[34]	new[34]	_	_
-10-54	_	County	_	_	_	_
-10-55	_	Court	_	_	_	_
-10-56	_	House	_	_	_	_
-10-57	_	.	_	_	_	_
+10-53	_	park	_	_	_	_
+10-54	_	at	_	_	_	_
+10-55	_	311	_	_	_	_
+10-56	_	N.	_	_	_	_
+10-57	_	Colorado	_	_	_	_
+10-58	_	Rd	_	_	_	_
+10-59	_	.	_	_	_	_
+10-60	_	,	_	_	_	_
+10-61	_	which	_	_	_	_
+10-62	_	offers	_	_	_	_
+10-63	_	a	_	_	_	_
+10-64	_	lovely	_	_	_	_
+10-65	_	""""	_	_	_	_
+10-66	_	park	_	_	_	_
+10-67	_	-	_	_	_	_
+10-68	_	and	_	_	_	_
+10-69	_	-	_	_	_	_
+10-70	_	ride	_	_	_	_
+10-71	_	""""	_	_	_	_
+10-72	_	ride	_	_	_	_
+10-73	_	.	_	_	_	_
+10-74	_	Tour	_	_	_	_
+10-75	_	the	_	_	_	_
+10-76	_	underground	_	_	_	_
+10-77	_	metropolis	_	_	_	_
+10-78	_	at	_	_	_	_
+10-79	_	N.	_	_	_	_
+10-80	_	P	_	_	_	_
 
 #Text=have got something over them " .
 11-1	_	have	_	_	_	_
@@ -452,7 +475,7 @@
 23-8	_	people	abstract[57]	new[57]	_	_
 23-9	_	realize	_	_	_	_
 23-10	_	that	_	_	_	_
-23-11	_	the	abstract[62]	new[62]	coref	24-22[62_63]
+23-11	_	the	abstract[62]	new[62]	coref	24-23[62_63]
 23-12	_	world	abstract[62]	new[62]	_	_
 23-13	_	does	_	_	_	_
 23-14	_	n't	_	_	_	_
@@ -462,7 +485,7 @@
 23-18	_	.	_	_	_	_
 
 #Text=Arrogant people counteract this by creating an atmosphere that revolves around them , and get angry if they 're reminded of the real world .
-24-1	_	Arrogant	abstract[59]	new[59]	coref	24-12[59_60]
+24-1	_	Arrogant	abstract[59]	new[59]	coref	24-13[59_60]
 24-2	_	people	abstract[59]	new[59]	_	_
 24-3	_	counteract	_	_	_	_
 24-4	_	this	_	_	_	_
@@ -473,7 +496,7 @@
 24-9	_	that	_	_	_	_
 24-10	_	revolves	_	_	_	_
 24-11	_	around	_	_	_	_
-24-12	_	them	abstract[60]	new[60]	coref	24-18[60_61]
+24-12	_	them	abstract[60]	new[60]	coref	24-19[60_61]
 24-13	_	,	_	_	_	_
 24-14	_	and	_	_	_	_
 24-15	_	get	_	_	_	_
@@ -489,7 +512,7 @@
 24-25	_	.	_	_	_	_
 
 #Text=Ambiguity frightens arrogant people because it suggests imperfection , change and lack of certainty ( realities we all must contend with as best we can ) .
-25-1	_	Ambiguity	abstract[66]	new[66]	coref	25-7[66_67]
+25-1	_	Ambiguity	abstract[66]	new[66]	coref	25-6[66_67]
 25-2	_	frightens	_	_	_	_
 25-3	_	arrogant	abstract[70]	new[70]	coref	26-22[70_71]
 25-4	_	people	abstract[70]	new[70]	_	_
@@ -505,7 +528,7 @@
 25-14	_	certainty	_	_	_	_
 25-15	_	(	_	_	_	_
 25-16	_	realities	_	_	_	_
-25-17	_	we	abstract[68]	new[68]	coref	25-25[68_69]
+25-17	_	we	abstract[68]	new[68]	coref	25-24[68_69]
 25-18	_	all	abstract[68]	new[68]	_	_
 25-19	_	must	_	_	_	_
 25-20	_	contend	_	_	_	_
@@ -825,16 +848,16 @@
 37-23	_	those	_	_	_	_
 37-24	_	that	_	_	_	_
 37-25	_	contradict	_	_	_	_
-37-26	_	their	abstract[93]|abstract[115]	new[93]|new[115]	coref|coref	37-32[93_94]|40-12[115_116]
-37-27	_	fantasy	abstract[115]	new[115]	_	_
-37-28	_	land	abstract[115]	new[115]	_	_
-37-29	_	that	abstract[115]	new[115]	_	_
-37-30	_	caters	abstract[115]	new[115]	_	_
-37-31	_	to	abstract[115]	new[115]	_	_
-37-32	_	them	abstract[94]|abstract[115]	new[94]|new[115]	coref	37-34[94_95]
-37-33	_	and	abstract[115]	new[115]	_	_
-37-34	_	them	abstract[95]|abstract[115]	new[95]|new[115]	coref	38-5[95_96]
-37-35	_	only	abstract[115]	new[115]	_	_
+37-26	_	their	abstract[93]|abstract[116]	new[93]|new[116]	coref|coref	37-32[93_94]|40-12[116_117]
+37-27	_	fantasy	abstract[116]	new[116]	_	_
+37-28	_	land	abstract[116]	new[116]	_	_
+37-29	_	that	abstract[116]	new[116]	_	_
+37-30	_	caters	abstract[116]	new[116]	_	_
+37-31	_	to	abstract[116]	new[116]	_	_
+37-32	_	them	abstract[94]|abstract[116]	new[94]|new[116]	coref	37-34[94_95]
+37-33	_	and	abstract[116]	new[116]	_	_
+37-34	_	them	abstract[95]|abstract[116]	new[95]|new[116]	coref	38-5[95_96]
+37-35	_	only	abstract[116]	new[116]	_	_
 37-36	_	.	_	_	_	_
 
 #Text=Determine this based on their general personality and the people they 're interacting with .
@@ -842,9 +865,9 @@
 38-2	_	this	abstract[101]	new[101]	_	_
 38-3	_	based	_	_	_	_
 38-4	_	on	_	_	_	_
-38-5	_	their	abstract[96]|abstract[119]	new[96]|new[119]	coref|coref	38-11[96_97]|41-3[119_120]
-38-6	_	general	abstract[119]	new[119]	_	_
-38-7	_	personality	abstract[119]	new[119]	_	_
+38-5	_	their	abstract[96]|abstract[120]	new[96]|new[120]	coref|coref	38-11[96_97]|41-3[120_121]
+38-6	_	general	abstract[120]	new[120]	_	_
+38-7	_	personality	abstract[120]	new[120]	_	_
 38-8	_	and	_	_	_	_
 38-9	_	the	_	_	_	_
 38-10	_	people	_	_	_	_
@@ -889,16 +912,16 @@
 40-9	_	false	_	_	_	_
 40-10	_	image	_	_	_	_
 40-11	_	or	_	_	_	_
-40-12	_	their	abstract[106]|abstract[116]	new[106]|new[116]	coref|coref	41-3[106_107]|54-18[116_117]
-40-13	_	fantasy	abstract[116]	new[116]	_	_
-40-14	_	land	abstract[116]	new[116]	_	_
+40-12	_	their	abstract[106]|abstract[117]	new[106]|new[117]	coref|coref	41-3[106_107]|54-18[117_118]
+40-13	_	fantasy	abstract[117]	new[117]	_	_
+40-14	_	land	abstract[117]	new[117]	_	_
 40-15	_	.	_	_	_	_
 
 #Text=What 's their personality like ?
 41-1	_	What	_	_	_	_
 41-2	_	's	_	_	_	_
-41-3	_	their	abstract[107]|abstract[120]	new[107]|new[120]	coref	42-5[107_108]
-41-4	_	personality	abstract[120]	new[120]	_	_
+41-3	_	their	abstract[107]|abstract[121]	new[107]|new[121]	coref	42-5[107_108]
+41-4	_	personality	abstract[121]	new[121]	_	_
 41-5	_	like	_	_	_	_
 41-6	_	?	_	_	_	_
 
@@ -921,7 +944,7 @@
 
 #Text=Do they have a general sense of ' coolness ? '
 43-1	_	Do	_	_	_	_
-43-2	_	they	abstract[110]	new[110]	coref	45-2[110_111]
+43-2	_	they	abstract[110]	new[110]	coref	44-2[110_111]
 43-3	_	have	_	_	_	_
 43-4	_	a	_	_	_	_
 43-5	_	general	_	_	_	_
@@ -934,17 +957,17 @@
 
 #Text=Are they a chatterbox ?
 44-1	_	Are	_	_	_	_
-44-2	_	they	_	_	_	_
+44-2	_	they	abstract[111]	new[111]	coref	45-3[111_112]
 44-3	_	a	_	_	_	_
 44-4	_	chatterbox	_	_	_	_
 44-5	_	?	_	_	_	_
 
 #Text=Do they act like they own the place , or act like the ' big dog ? '
 45-1	_	Do	_	_	_	_
-45-2	_	they	abstract[111]	new[111]	coref	45-5[111_112]
+45-2	_	they	abstract[112]	new[112]	coref	45-6[112_113]
 45-3	_	act	_	_	_	_
 45-4	_	like	_	_	_	_
-45-5	_	they	abstract[112]	new[112]	coref	46-2[112_113]
+45-5	_	they	abstract[113]	new[113]	coref	46-2[113_114]
 45-6	_	own	_	_	_	_
 45-7	_	the	_	_	_	_
 45-8	_	place	_	_	_	_
@@ -961,20 +984,20 @@
 
 #Text=Are they very keen on their self - image ?
 46-1	_	Are	_	_	_	_
-46-2	_	they	abstract[113]	new[113]	coref	46-6[113_114]
+46-2	_	they	abstract[114]	new[114]	coref	46-6[114_115]
 46-3	_	very	_	_	_	_
 46-4	_	keen	_	_	_	_
 46-5	_	on	_	_	_	_
-46-6	_	their	abstract[114]	new[114]	_	_
+46-6	_	their	abstract[115]	new[115]	_	_
 46-7	_	self	_	_	_	_
 46-8	_	-	_	_	_	_
 46-9	_	image	_	_	_	_
 46-10	_	?	_	_	_	_
 
 #Text=Many arrogant people have a false charm that no one seems to see through .
-47-1	_	Many	abstract[121]	new[121]	coref	48-3[121_122]
-47-2	_	arrogant	abstract[121]	new[121]	_	_
-47-3	_	people	abstract[121]	new[121]	_	_
+47-1	_	Many	abstract[122]	new[122]	coref	48-2[122_123]
+47-2	_	arrogant	abstract[122]	new[122]	_	_
+47-3	_	people	abstract[122]	new[122]	_	_
 47-4	_	have	_	_	_	_
 47-5	_	a	_	_	_	_
 47-6	_	false	_	_	_	_
@@ -990,9 +1013,9 @@
 
 #Text=But the arrogant person is usually more than happy to show their cruel side to those that they do n't like .
 48-1	_	But	_	_	_	_
-48-2	_	the	abstract[122]	new[122]	coref	48-13[122_123]
-48-3	_	arrogant	abstract[122]	new[122]	_	_
-48-4	_	person	abstract[122]	new[122]	_	_
+48-2	_	the	abstract[123]	new[123]	coref	48-12[123_124]
+48-3	_	arrogant	abstract[123]	new[123]	_	_
+48-4	_	person	abstract[123]	new[123]	_	_
 48-5	_	is	_	_	_	_
 48-6	_	usually	_	_	_	_
 48-7	_	more	_	_	_	_
@@ -1000,13 +1023,13 @@
 48-9	_	happy	_	_	_	_
 48-10	_	to	_	_	_	_
 48-11	_	show	_	_	_	_
-48-12	_	their	abstract[123]	new[123]	coref	48-19[123_124]
+48-12	_	their	abstract[124]	new[124]	coref	48-18[124_125]
 48-13	_	cruel	_	_	_	_
 48-14	_	side	_	_	_	_
 48-15	_	to	_	_	_	_
 48-16	_	those	_	_	_	_
 48-17	_	that	_	_	_	_
-48-18	_	they	abstract[124]	new[124]	coref	49-2[124_125]
+48-18	_	they	abstract[125]	new[125]	coref	49-2[125_126]
 48-19	_	do	_	_	_	_
 48-20	_	n't	_	_	_	_
 48-21	_	like	_	_	_	_
@@ -1014,39 +1037,39 @@
 
 #Text=When they are cruel , their friends will usually ignore it or not do anything to stop it since they 're afraid that they 'll be treated badly by their ' friend . '
 49-1	_	When	_	_	_	_
-49-2	_	they	abstract[125]	new[125]	coref	49-6[125_126]
+49-2	_	they	abstract[126]	new[126]	coref	49-6[126_127]
 49-3	_	are	_	_	_	_
 49-4	_	cruel	_	_	_	_
 49-5	_	,	_	_	_	_
-49-6	_	their	abstract[126]|abstract[134]	new[126]|new[134]	coref|coref	49-30[126_127]|49-20[134_135]
-49-7	_	friends	abstract[134]	new[134]	_	_
+49-6	_	their	abstract[127]|abstract[135]	new[127]|new[135]	coref|coref	49-30[127_128]|49-20[135_136]
+49-7	_	friends	abstract[135]	new[135]	_	_
 49-8	_	will	_	_	_	_
 49-9	_	usually	_	_	_	_
 49-10	_	ignore	_	_	_	_
-49-11	_	it	abstract[132]	new[132]	coref	49-18[132_133]
+49-11	_	it	abstract[133]	new[133]	coref	49-18[133_134]
 49-12	_	or	_	_	_	_
 49-13	_	not	_	_	_	_
 49-14	_	do	_	_	_	_
 49-15	_	anything	_	_	_	_
 49-16	_	to	_	_	_	_
 49-17	_	stop	_	_	_	_
-49-18	_	it	abstract[133]	new[133]	_	_
+49-18	_	it	abstract[134]	new[134]	_	_
 49-19	_	since	_	_	_	_
-49-20	_	they	abstract[135]	new[135]	coref	49-24[135_136]
+49-20	_	they	abstract[136]	new[136]	coref	49-24[136_137]
 49-21	_	're	_	_	_	_
 49-22	_	afraid	_	_	_	_
 49-23	_	that	_	_	_	_
-49-24	_	they	abstract[136]	new[136]	coref	49-30[136_137]
+49-24	_	they	abstract[137]	new[137]	coref	49-30[137_138]
 49-25	_	'll	_	_	_	_
 49-26	_	be	_	_	_	_
 49-27	_	treated	_	_	_	_
 49-28	_	badly	_	_	_	_
 49-29	_	by	_	_	_	_
-49-30	_	their	abstract[127]|abstract[137]	new[127]|new[137]	coref	50-6[127_128]
-49-31	_	'	abstract[127]	new[127]	_	_
-49-32	_	friend	abstract[127]	new[127]	_	_
-49-33	_	.	abstract[127]	new[127]	_	_
-49-34	_	'	abstract[127]	new[127]	_	_
+49-30	_	their	abstract[128]|abstract[138]	new[128]|new[138]	coref	50-6[128_129]
+49-31	_	'	abstract[128]	new[128]	_	_
+49-32	_	friend	abstract[128]	new[128]	_	_
+49-33	_	.	abstract[128]	new[128]	_	_
+49-34	_	'	abstract[128]	new[128]	_	_
 
 #Text=Mention people you know that they do n't like .
 50-1	_	Mention	_	_	_	_
@@ -1054,7 +1077,7 @@
 50-3	_	you	abstract[21]	new[21]	coref	57-11[21_22]
 50-4	_	know	_	_	_	_
 50-5	_	that	_	_	_	_
-50-6	_	they	abstract[128]	new[128]	coref	52-2[128_129]
+50-6	_	they	abstract[129]	new[129]	coref	52-2[129_130]
 50-7	_	do	_	_	_	_
 50-8	_	n't	_	_	_	_
 50-9	_	like	_	_	_	_
@@ -1083,14 +1106,14 @@
 
 #Text=If their condemnation seems to be reasonable , they probably are n't hubristic .
 52-1	_	If	_	_	_	_
-52-2	_	their	abstract[129]|abstract[138]	new[129]|new[138]	coref|coref	52-9[129_130]|53-2[138_139]
-52-3	_	condemnation	abstract[138]	new[138]	_	_
+52-2	_	their	abstract[130]|abstract[139]	new[130]|new[139]	coref|coref	52-9[130_131]|53-2[139_140]
+52-3	_	condemnation	abstract[139]	new[139]	_	_
 52-4	_	seems	_	_	_	_
 52-5	_	to	_	_	_	_
 52-6	_	be	_	_	_	_
 52-7	_	reasonable	_	_	_	_
 52-8	_	,	_	_	_	_
-52-9	_	they	abstract[130]	new[130]	coref	53-6[130_131]
+52-9	_	they	abstract[131]	new[131]	coref	53-6[131_132]
 52-10	_	probably	_	_	_	_
 52-11	_	are	_	_	_	_
 52-12	_	n't	_	_	_	_
@@ -1099,11 +1122,11 @@
 
 #Text=If it 's harsh , they are .
 53-1	_	If	_	_	_	_
-53-2	_	it	abstract[139]	new[139]	_	_
+53-2	_	it	abstract[140]	new[140]	_	_
 53-3	_	's	_	_	_	_
 53-4	_	harsh	_	_	_	_
 53-5	_	,	_	_	_	_
-53-6	_	they	abstract[131]	new[131]	_	_
+53-6	_	they	abstract[132]	new[132]	_	_
 53-7	_	are	_	_	_	_
 53-8	_	.	_	_	_	_
 
@@ -1113,41 +1136,41 @@
 54-3	_	most	_	_	_	_
 54-4	_	part	_	_	_	_
 54-5	_	,	_	_	_	_
-54-6	_	arrogant	abstract[140]	new[140]	coref	54-11[140_141]
-54-7	_	people	abstract[140]	new[140]	_	_
+54-6	_	arrogant	abstract[141]	new[141]	coref	54-11[141_142]
+54-7	_	people	abstract[141]	new[141]	_	_
 54-8	_	see	_	_	_	_
 54-9	_	people	_	_	_	_
 54-10	_	that	_	_	_	_
-54-11	_	they	abstract[141]	new[141]	coref	54-18[141_142]
+54-11	_	they	abstract[142]	new[142]	coref	54-18[142_143]
 54-12	_	do	_	_	_	_
 54-13	_	n't	_	_	_	_
 54-14	_	like	_	_	_	_
 54-15	_	as	_	_	_	_
 54-16	_	threats	_	_	_	_
 54-17	_	to	_	_	_	_
-54-18	_	their	abstract[117]|abstract[142]	new[117]|new[142]	coref|coref	55-14[117_118]|55-3[142_143]
-54-19	_	perfect	abstract[117]	new[117]	_	_
-54-20	_	little	abstract[117]	new[117]	_	_
-54-21	_	world	abstract[117]	new[117]	_	_
+54-18	_	their	abstract[118]|abstract[143]	new[118]|new[143]	coref|coref	55-14[118_119]|55-3[143_144]
+54-19	_	perfect	abstract[118]	new[118]	_	_
+54-20	_	little	abstract[118]	new[118]	_	_
+54-21	_	world	abstract[118]	new[118]	_	_
 54-22	_	.	_	_	_	_
 
 #Text=The more they hate someone , the more dangerous that person is to their fantasy land .
 55-1	_	The	_	_	_	_
 55-2	_	more	_	_	_	_
-55-3	_	they	abstract[143]	new[143]	coref	55-14[143_144]
+55-3	_	they	abstract[144]	new[144]	coref	55-14[144_145]
 55-4	_	hate	_	_	_	_
-55-5	_	someone	abstract[151]	new[151]	coref	55-10[151_152]
+55-5	_	someone	abstract[152]	new[152]	coref	55-10[152_153]
 55-6	_	,	_	_	_	_
 55-7	_	the	_	_	_	_
 55-8	_	more	_	_	_	_
 55-9	_	dangerous	_	_	_	_
-55-10	_	that	abstract[152]	new[152]	_	_
-55-11	_	person	abstract[152]	new[152]	_	_
+55-10	_	that	abstract[153]	new[153]	_	_
+55-11	_	person	abstract[153]	new[153]	_	_
 55-12	_	is	_	_	_	_
 55-13	_	to	_	_	_	_
-55-14	_	their	abstract[118]|abstract[144]	new[118]|new[144]	coref	57-6[144_145]
-55-15	_	fantasy	abstract[118]	new[118]	_	_
-55-16	_	land	abstract[118]	new[118]	_	_
+55-14	_	their	abstract[119]|abstract[145]	new[119]|new[145]	coref	57-6[145_146]
+55-15	_	fantasy	abstract[119]	new[119]	_	_
+55-16	_	land	abstract[119]	new[119]	_	_
 55-17	_	.	_	_	_	_
 
 #Text=And in turn , the bigger the threat , the harsher the criticism .
@@ -1172,7 +1195,7 @@
 57-3	_	to	_	_	_	_
 57-4	_	see	_	_	_	_
 57-5	_	what	_	_	_	_
-57-6	_	they	abstract[145]	new[145]	coref	58-2[145_146]
+57-6	_	they	abstract[146]	new[146]	coref	58-2[146_147]
 57-7	_	've	_	_	_	_
 57-8	_	been	_	_	_	_
 57-9	_	saying	_	_	_	_
@@ -1182,7 +1205,7 @@
 
 #Text=If they have been saying bad things about you , they may simply not like you .
 58-1	_	If	_	_	_	_
-58-2	_	they	abstract[146]	new[146]	coref	58-11[146_147]
+58-2	_	they	abstract[147]	new[147]	coref	58-11[147_148]
 58-3	_	have	_	_	_	_
 58-4	_	been	_	_	_	_
 58-5	_	saying	_	_	_	_
@@ -1191,7 +1214,7 @@
 58-8	_	about	_	_	_	_
 58-9	_	you	abstract[23]	new[23]	coref	58-16[23_24]
 58-10	_	,	_	_	_	_
-58-11	_	they	abstract[147]	new[147]	coref	59-2[147_148]
+58-11	_	they	abstract[148]	new[148]	coref	59-2[148_149]
 58-12	_	may	_	_	_	_
 58-13	_	simply	_	_	_	_
 58-14	_	not	_	_	_	_
@@ -1201,7 +1224,7 @@
 
 #Text=If they 're nice to your face , but talk bad about you behind your back like it 's their favourite hobby , then they probably have a problem with pride .
 59-1	_	If	_	_	_	_
-59-2	_	they	abstract[148]	new[148]	coref	59-20[148_149]
+59-2	_	they	abstract[149]	new[149]	coref	59-20[149_150]
 59-3	_	're	_	_	_	_
 59-4	_	nice	_	_	_	_
 59-5	_	to	_	_	_	_
@@ -1219,12 +1242,12 @@
 59-17	_	like	_	_	_	_
 59-18	_	it	_	_	_	_
 59-19	_	's	_	_	_	_
-59-20	_	their	abstract[149]	new[149]	coref	59-25[149_150]
+59-20	_	their	abstract[150]	new[150]	coref	59-25[150_151]
 59-21	_	favourite	_	_	_	_
 59-22	_	hobby	_	_	_	_
 59-23	_	,	_	_	_	_
 59-24	_	then	_	_	_	_
-59-25	_	they	abstract[150]	new[150]	_	_
+59-25	_	they	abstract[151]	new[151]	_	_
 59-26	_	probably	_	_	_	_
 59-27	_	have	_	_	_	_
 59-28	_	a	_	_	_	_
@@ -1234,13 +1257,13 @@
 59-32	_	.	_	_	_	_
 
 #Text=Arrogant people often subconsciously know that they do n't have any good friends .
-60-1	_	Arrogant	abstract[153]	new[153]	coref	60-7[153_154]
-60-2	_	people	abstract[153]	new[153]	_	_
+60-1	_	Arrogant	abstract[154]	new[154]	coref	60-7[154_155]
+60-2	_	people	abstract[154]	new[154]	_	_
 60-3	_	often	_	_	_	_
 60-4	_	subconsciously	_	_	_	_
 60-5	_	know	_	_	_	_
 60-6	_	that	_	_	_	_
-60-7	_	they	abstract[154]	new[154]	coref	61-1[154_155]
+60-7	_	they	abstract[155]	new[155]	coref	61-1[155_156]
 60-8	_	do	_	_	_	_
 60-9	_	n't	_	_	_	_
 60-10	_	have	_	_	_	_
@@ -1250,7 +1273,7 @@
 60-14	_	.	_	_	_	_
 
 #Text=They compensate for this by creating the impression that they have a lot of friends - they have a ' quantity , not quality ' mentality .
-61-1	_	They	abstract[155]	new[155]	coref	61-10[155_156]
+61-1	_	They	abstract[156]	new[156]	coref	61-10[156_157]
 61-2	_	compensate	_	_	_	_
 61-3	_	for	_	_	_	_
 61-4	_	this	_	_	_	_
@@ -1259,14 +1282,14 @@
 61-7	_	the	_	_	_	_
 61-8	_	impression	_	_	_	_
 61-9	_	that	_	_	_	_
-61-10	_	they	abstract[156]	new[156]	coref	61-17[156_157]
+61-10	_	they	abstract[157]	new[157]	coref	61-17[157_158]
 61-11	_	have	_	_	_	_
 61-12	_	a	_	_	_	_
 61-13	_	lot	_	_	_	_
 61-14	_	of	_	_	_	_
 61-15	_	friends	_	_	_	_
 61-16	_	-	_	_	_	_
-61-17	_	they	abstract[157]	new[157]	coref	62-2[157_158]
+61-17	_	they	abstract[158]	new[158]	coref	62-2[158_159]
 61-18	_	have	_	_	_	_
 61-19	_	a	_	_	_	_
 61-20	_	'	_	_	_	_
@@ -1280,14 +1303,14 @@
 
 #Text=Then they simply insult their trophy friends when they are n't looking .
 62-1	_	Then	_	_	_	_
-62-2	_	they	abstract[158]	new[158]	coref	62-5[158_159]
+62-2	_	they	abstract[159]	new[159]	coref	62-5[159_160]
 62-3	_	simply	_	_	_	_
 62-4	_	insult	_	_	_	_
-62-5	_	their	abstract[159]|abstract[160]	new[159]|new[160]	coref	62-9[160_161]
-62-6	_	trophy	abstract[160]	new[160]	_	_
-62-7	_	friends	abstract[160]	new[160]	_	_
+62-5	_	their	abstract[160]|abstract[161]	new[160]|new[161]	coref	62-9[161_162]
+62-6	_	trophy	abstract[161]	new[161]	_	_
+62-7	_	friends	abstract[161]	new[161]	_	_
 62-8	_	when	_	_	_	_
-62-9	_	they	abstract[161]	new[161]	_	_
+62-9	_	they	abstract[162]	new[162]	_	_
 62-10	_	are	_	_	_	_
 62-11	_	n't	_	_	_	_
 62-12	_	looking	_	_	_	_

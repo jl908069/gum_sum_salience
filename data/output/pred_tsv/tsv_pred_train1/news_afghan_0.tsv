@@ -20,9 +20,9 @@
 1-14	_	achievement	_	_	_	_
 1-15	_	'	_	_	_	_
 1-16	_	at	_	_	_	_
-1-17	_	international	abstract[1]	new[1]	coref	4-7[1_2]
-1-18	_	robotics	abstract[1]	new[1]	_	_
-1-19	_	competition	abstract[1]	new[1]	_	_
+1-17	_	international	abstract[10]	new[10]	coref	4-7[10_11]
+1-18	_	robotics	abstract[10]	new[10]	_	_
+1-19	_	competition	abstract[10]	new[10]	_	_
 
 #Text=Friday , July 21 , 2017
 2-1	_	Friday	_	_	_	_
@@ -30,14 +30,14 @@
 2-3	_	July	_	_	_	_
 2-4	_	21	_	_	_	_
 2-5	_	,	_	_	_	_
-2-6	_	2017	abstract[58]	new[58]	coref	11-1[58_59]
+2-6	_	2017	abstract[51]	new[51]	coref	11-1[51_52]
 
-#Text=A group of Afghan teenagers was awarded a silver medal for " Interviews are now on Wikinews about mathematician Aner Shalev
-3-1	_	A	abstract[8]	new[8]	coref	5-1[8_9]
-3-2	_	group	abstract[8]	new[8]	_	_
-3-3	_	of	abstract[8]	new[8]	_	_
-3-4	_	Afghan	abstract[8]	new[8]	_	_
-3-5	_	teenagers	abstract[8]	new[8]	_	_
+#Text=A group of Afghan teenagers was awarded a silver medal for " Wikinews interviews Andrew Westphal , director of NASA 's Stardust@home project , which allows users to inspect vast amounts of data using a Virtual Microscope in their browser for interstellar dust particles , collected from comet 81P / Wild by NASA 's Stardust space capsule .
+3-1	_	A	abstract[17]	new[17]	coref	5-1[17_18]
+3-2	_	group	abstract[17]	new[17]	_	_
+3-3	_	of	abstract[17]	new[17]	_	_
+3-4	_	Afghan	abstract[17]	new[17]	_	_
+3-5	_	teenagers	abstract[17]	new[17]	_	_
 3-6	_	was	_	_	_	_
 3-7	_	awarded	_	_	_	_
 3-8	_	a	_	_	_	_
@@ -45,29 +45,66 @@
 3-10	_	medal	_	_	_	_
 3-11	_	for	_	_	_	_
 3-12	_	"	_	_	_	_
-3-13	_	Interviews	_	_	_	_
-3-14	_	are	_	_	_	_
-3-15	_	now	_	_	_	_
-3-16	_	on	_	_	_	_
-3-17	_	Wikinews	_	_	_	_
-3-18	_	about	_	_	_	_
-3-19	_	mathematician	_	_	_	_
-3-20	_	Aner	_	_	_	_
-3-21	_	Shalev	_	_	_	_
+3-13	_	Wikinews	_	_	_	_
+3-14	_	interviews	_	_	_	_
+3-15	_	Andrew	_	_	_	_
+3-16	_	Westphal	_	_	_	_
+3-17	_	,	_	_	_	_
+3-18	_	director	_	_	_	_
+3-19	_	of	_	_	_	_
+3-20	_	NASA	abstract[3]	new[3]	coref	3-53[3_4]
+3-21	_	's	abstract[3]	new[3]	_	_
+3-22	_	Stardust@home	_	_	_	_
+3-23	_	project	_	_	_	_
+3-24	_	,	_	_	_	_
+3-25	_	which	_	_	_	_
+3-26	_	allows	_	_	_	_
+3-27	_	users	abstract[1]	new[1]	coref	3-39[1_2]
+3-28	_	to	_	_	_	_
+3-29	_	inspect	_	_	_	_
+3-30	_	vast	_	_	_	_
+3-31	_	amounts	_	_	_	_
+3-32	_	of	_	_	_	_
+3-33	_	data	_	_	_	_
+3-34	_	using	_	_	_	_
+3-35	_	a	_	_	_	_
+3-36	_	Virtual	_	_	_	_
+3-37	_	Microscope	_	_	_	_
+3-38	_	in	_	_	_	_
+3-39	_	their	abstract[2]	new[2]	_	_
+3-40	_	browser	_	_	_	_
+3-41	_	for	_	_	_	_
+3-42	_	interstellar	_	_	_	_
+3-43	_	dust	_	_	_	_
+3-44	_	particles	_	_	_	_
+3-45	_	,	_	_	_	_
+3-46	_	collected	_	_	_	_
+3-47	_	from	_	_	_	_
+3-48	_	comet	_	_	_	_
+3-49	_	81P	_	_	_	_
+3-50	_	/	_	_	_	_
+3-51	_	Wild	_	_	_	_
+3-52	_	by	_	_	_	_
+3-53	_	NASA	abstract[4]	new[4]	coref	18-31[4_5]
+3-54	_	's	abstract[4]	new[4]	_	_
+3-55	_	Stardust	_	_	_	_
+3-56	_	space	_	_	_	_
+3-57	_	capsule	_	_	_	_
+3-58	_	.	_	_	_	_
 
 #Text=courageous achievement " on Tuesday in the FIRST Global Challenge Robot Olympics in the Daughters of the American Revolution Constitution Hall in Washington D.C.
 4-1	_	courageous	_	_	_	_
 4-2	_	achievement	_	_	_	_
 4-3	_	"	_	_	_	_
 4-4	_	on	_	_	_	_
-4-5	_	Tuesday	abstract[113]	new[113]	coref	38-5[113_114]
+4-5	_	Tuesday	abstract[117]	new[117]	coref	38-5[117_118]
 4-6	_	in	_	_	_	_
-4-7	_	the	abstract[2]	new[2]	coref	7-18[2_3]
-4-8	_	FIRST	abstract[2]|abstract[50]	new[2]|new[50]	coref	8-3[50_51]
-4-9	_	Global	abstract[2]	new[2]	_	_
-4-10	_	Challenge	abstract[2]	new[2]	_	_
-4-11	_	Robot	abstract[2]	new[2]	_	_
-4-12	_	Olympics	abstract[2]	new[2]	_	_
+4-7	_	the	abstract[11]	new[11]	coref	7-18[11_12]
+4-8	_	FIRST	abstract[11]|abstract[43]	new[11]|new[43]	coref	8-3[43_44]
+4-9	_	Global	abstract[11]	new[11]	_	_
+4-10	_	Challenge	abstract[11]	new[11]	_	_
+4-11	_	Robot	abstract[11]	new[11]	_	_
+4-12	_	Olympics	abstract[11]	new[11]	_	_
 4-13	_	in	_	_	_	_
 4-14	_	the	_	_	_	_
 4-15	_	Daughters	_	_	_	_
@@ -78,22 +115,22 @@
 4-20	_	Constitution	_	_	_	_
 4-21	_	Hall	_	_	_	_
 4-22	_	in	_	_	_	_
-4-23	_	Washington	abstract[56]	new[56]	coref	8-12[56_57]
-4-24	_	D.C.	abstract[56]	new[56]	_	_
+4-23	_	Washington	abstract[49]	new[49]	coref	8-12[49_50]
+4-24	_	D.C.	abstract[49]	new[49]	_	_
 
 #Text=The six - member Afghan team , which consists entirely of girls , had been denied visas to enter the United States until last week , drawing notice from critics of U.S. President Donald Trump 's policies regarding Muslims traveling to the U.S.
-5-1	_	The	abstract[9]	new[9]	coref	6-9[9_10]
-5-2	_	six	abstract[9]	new[9]	_	_
-5-3	_	-	abstract[9]	new[9]	_	_
-5-4	_	member	abstract[9]	new[9]	_	_
-5-5	_	Afghan	abstract[9]	new[9]	_	_
-5-6	_	team	abstract[9]	new[9]	_	_
-5-7	_	,	abstract[9]	new[9]	_	_
-5-8	_	which	abstract[9]	new[9]	_	_
-5-9	_	consists	abstract[9]	new[9]	_	_
-5-10	_	entirely	abstract[9]	new[9]	_	_
-5-11	_	of	abstract[9]	new[9]	_	_
-5-12	_	girls	abstract[9]|abstract[66]	new[9]|new[66]	coref	23-14[66_67]
+5-1	_	The	abstract[18]	new[18]	coref	6-9[18_19]
+5-2	_	six	abstract[18]	new[18]	_	_
+5-3	_	-	abstract[18]	new[18]	_	_
+5-4	_	member	abstract[18]	new[18]	_	_
+5-5	_	Afghan	abstract[18]	new[18]	_	_
+5-6	_	team	abstract[18]	new[18]	_	_
+5-7	_	,	abstract[18]	new[18]	_	_
+5-8	_	which	abstract[18]	new[18]	_	_
+5-9	_	consists	abstract[18]	new[18]	_	_
+5-10	_	entirely	abstract[18]	new[18]	_	_
+5-11	_	of	abstract[18]	new[18]	_	_
+5-12	_	girls	abstract[18]|abstract[69]	new[18]|new[69]	coref	23-14[69_70]
 5-13	_	,	_	_	_	_
 5-14	_	had	_	_	_	_
 5-15	_	been	_	_	_	_
@@ -101,9 +138,9 @@
 5-17	_	visas	_	_	_	_
 5-18	_	to	_	_	_	_
 5-19	_	enter	_	_	_	_
-5-20	_	the	abstract[29]	new[29]	coref	5-32[29_30]
-5-21	_	United	abstract[29]	new[29]	_	_
-5-22	_	States	abstract[29]	new[29]	_	_
+5-20	_	the	abstract[27]	new[27]	coref	5-32[27_28]
+5-21	_	United	abstract[27]	new[27]	_	_
+5-22	_	States	abstract[27]	new[27]	_	_
 5-23	_	until	_	_	_	_
 5-24	_	last	_	_	_	_
 5-25	_	week	_	_	_	_
@@ -113,33 +150,33 @@
 5-29	_	from	_	_	_	_
 5-30	_	critics	_	_	_	_
 5-31	_	of	_	_	_	_
-5-32	_	U.S.	abstract[30]|abstract[43]	new[30]|new[43]	coref|coref	5-42[30_31]|6-1[43_44]
-5-33	_	President	abstract[43]	new[43]	_	_
-5-34	_	Donald	abstract[43]	new[43]	_	_
-5-35	_	Trump	abstract[43]	new[43]	_	_
-5-36	_	's	abstract[43]	new[43]	_	_
+5-32	_	U.S.	abstract[28]|abstract[41]	new[28]|new[41]	coref|coref	5-42[28_29]|6-1[41_42]
+5-33	_	President	abstract[41]	new[41]	_	_
+5-34	_	Donald	abstract[41]	new[41]	_	_
+5-35	_	Trump	abstract[41]	new[41]	_	_
+5-36	_	's	abstract[41]	new[41]	_	_
 5-37	_	policies	_	_	_	_
 5-38	_	regarding	_	_	_	_
 5-39	_	Muslims	_	_	_	_
 5-40	_	traveling	_	_	_	_
 5-41	_	to	_	_	_	_
-5-42	_	the	abstract[31]	new[31]	coref	6-12[31_32]
-5-43	_	U.S.	abstract[31]	new[31]	_	_
+5-42	_	the	abstract[29]	new[29]	coref	6-12[29_30]
+5-43	_	U.S.	abstract[29]	new[29]	_	_
 
 #Text=The President later personally took action to allow the team into the country .
-6-1	_	The	abstract[44]	new[44]	coref	18-31[44_45]
-6-2	_	President	abstract[44]	new[44]	_	_
+6-1	_	The	abstract[42]	new[42]	_	_
+6-2	_	President	abstract[42]	new[42]	_	_
 6-3	_	later	_	_	_	_
 6-4	_	personally	_	_	_	_
 6-5	_	took	_	_	_	_
 6-6	_	action	_	_	_	_
 6-7	_	to	_	_	_	_
 6-8	_	allow	_	_	_	_
-6-9	_	the	abstract[10]	new[10]	coref	7-15[10_11]
-6-10	_	team	abstract[10]	new[10]	_	_
+6-9	_	the	abstract[19]	new[19]	coref	7-15[19_20]
+6-10	_	team	abstract[19]	new[19]	_	_
 6-11	_	into	_	_	_	_
-6-12	_	the	abstract[32]	new[32]	coref	7-6[32_33]
-6-13	_	country	abstract[32]	new[32]	_	_
+6-12	_	the	abstract[30]	new[30]	coref	7-6[30_31]
+6-13	_	country	abstract[30]	new[30]	_	_
 6-14	_	.	_	_	_	_
 
 #Text=According to Afghan Ambassador to the United States Hamdullah Mohib , the participation of this team in this science competition shows progress in Afghanistan 's response to nearly two decades of military conflict .
@@ -148,26 +185,26 @@
 7-3	_	Afghan	_	_	_	_
 7-4	_	Ambassador	_	_	_	_
 7-5	_	to	_	_	_	_
-7-6	_	the	abstract[33]	new[33]	coref	9-3[33_34]
-7-7	_	United	abstract[33]	new[33]	_	_
-7-8	_	States	abstract[33]	new[33]	_	_
+7-6	_	the	abstract[31]	new[31]	coref	9-3[31_32]
+7-7	_	United	abstract[31]	new[31]	_	_
+7-8	_	States	abstract[31]	new[31]	_	_
 7-9	_	Hamdullah	_	_	_	_
 7-10	_	Mohib	_	_	_	_
 7-11	_	,	_	_	_	_
-7-12	_	the	abstract[101]	new[101]	coref	33-6[101_102]
-7-13	_	participation	abstract[101]	new[101]	_	_
-7-14	_	of	abstract[101]	new[101]	_	_
-7-15	_	this	abstract[11]|abstract[101]	new[11]|new[101]	coref	15-3[11_12]
-7-16	_	team	abstract[11]|abstract[101]	new[11]|new[101]	_	_
-7-17	_	in	abstract[101]	new[101]	_	_
-7-18	_	this	abstract[3]|abstract[101]	new[3]|new[101]	coref	8-1[3_4]
-7-19	_	science	abstract[3]|abstract[101]	new[3]|new[101]	_	_
-7-20	_	competition	abstract[3]|abstract[101]	new[3]|new[101]	_	_
+7-12	_	the	abstract[105]	new[105]	coref	33-6[105_106]
+7-13	_	participation	abstract[105]	new[105]	_	_
+7-14	_	of	abstract[105]	new[105]	_	_
+7-15	_	this	abstract[20]|abstract[105]	new[20]|new[105]	coref	15-3[20_21]
+7-16	_	team	abstract[20]|abstract[105]	new[20]|new[105]	_	_
+7-17	_	in	abstract[105]	new[105]	_	_
+7-18	_	this	abstract[12]|abstract[105]	new[12]|new[105]	coref	8-1[12_13]
+7-19	_	science	abstract[12]|abstract[105]	new[12]|new[105]	_	_
+7-20	_	competition	abstract[12]|abstract[105]	new[12]|new[105]	_	_
 7-21	_	shows	_	_	_	_
 7-22	_	progress	_	_	_	_
 7-23	_	in	_	_	_	_
-7-24	_	Afghanistan	abstract[73]	new[73]	coref	25-25[73_74]
-7-25	_	's	abstract[73]	new[73]	_	_
+7-24	_	Afghanistan	abstract[76]	new[76]	coref	25-25[76_77]
+7-25	_	's	abstract[76]	new[76]	_	_
 7-26	_	response	_	_	_	_
 7-27	_	to	_	_	_	_
 7-28	_	nearly	_	_	_	_
@@ -179,42 +216,42 @@
 7-34	_	.	_	_	_	_
 
 #Text=The first FIRST Global robotics competition was held this week in Washington D.C.
-8-1	_	The	abstract[4]	new[4]	coref	10-1[4_5]
-8-2	_	first	abstract[4]	new[4]	_	_
-8-3	_	FIRST	abstract[4]|abstract[51]	new[4]|new[51]	coref	10-2[51_52]
-8-4	_	Global	abstract[4]	new[4]	_	_
-8-5	_	robotics	abstract[4]	new[4]	_	_
-8-6	_	competition	abstract[4]	new[4]	_	_
+8-1	_	The	abstract[13]	new[13]	coref	10-1[13_14]
+8-2	_	first	abstract[13]	new[13]	_	_
+8-3	_	FIRST	abstract[13]|abstract[44]	new[13]|new[44]	coref	10-2[44_45]
+8-4	_	Global	abstract[13]	new[13]	_	_
+8-5	_	robotics	abstract[13]	new[13]	_	_
+8-6	_	competition	abstract[13]	new[13]	_	_
 8-7	_	was	_	_	_	_
 8-8	_	held	_	_	_	_
 8-9	_	this	_	_	_	_
 8-10	_	week	_	_	_	_
 8-11	_	in	_	_	_	_
-8-12	_	Washington	abstract[57]	new[57]	_	_
-8-13	_	D.C.	abstract[57]	new[57]	_	_
+8-12	_	Washington	abstract[50]	new[50]	_	_
+8-13	_	D.C.	abstract[50]	new[50]	_	_
 
 #Text=Image : United States Navy .
 9-1	_	Image	_	_	_	_
 9-2	_	:	_	_	_	_
-9-3	_	United	abstract[34]	new[34]	coref	18-22[34_35]
-9-4	_	States	abstract[34]	new[34]	_	_
+9-3	_	United	abstract[32]	new[32]	coref	18-22[32_33]
+9-4	_	States	abstract[32]	new[32]	_	_
 9-5	_	Navy	_	_	_	_
 9-6	_	.	_	_	_	_
 
 #Text=The FIRST Global competition ( For Inspiration and Recognition of Science and Technlogy ) was founded by Dean Kamen to encourage interest in applied science , technology , engineering , and mathematics in young people .
-10-1	_	The	abstract[5]	new[5]	coref	12-2[5_6]
-10-2	_	FIRST	abstract[5]|abstract[52]	new[5]|new[52]	coref	10-6[52_53]
-10-3	_	Global	abstract[5]	new[5]	_	_
-10-4	_	competition	abstract[5]	new[5]	_	_
+10-1	_	The	abstract[14]	new[14]	coref	12-2[14_15]
+10-2	_	FIRST	abstract[14]|abstract[45]	new[14]|new[45]	coref	10-6[45_46]
+10-3	_	Global	abstract[14]	new[14]	_	_
+10-4	_	competition	abstract[14]	new[14]	_	_
 10-5	_	(	_	_	_	_
-10-6	_	For	abstract[53]	new[53]	coref	39-6[53_54]
-10-7	_	Inspiration	abstract[53]	new[53]	_	_
-10-8	_	and	abstract[53]	new[53]	_	_
-10-9	_	Recognition	abstract[53]	new[53]	_	_
-10-10	_	of	abstract[53]	new[53]	_	_
-10-11	_	Science	abstract[53]	new[53]	_	_
-10-12	_	and	abstract[53]	new[53]	_	_
-10-13	_	Technlogy	abstract[53]	new[53]	_	_
+10-6	_	For	abstract[46]	new[46]	coref	39-5[46_47]
+10-7	_	Inspiration	abstract[46]	new[46]	_	_
+10-8	_	and	abstract[46]	new[46]	_	_
+10-9	_	Recognition	abstract[46]	new[46]	_	_
+10-10	_	of	abstract[46]	new[46]	_	_
+10-11	_	Science	abstract[46]	new[46]	_	_
+10-12	_	and	abstract[46]	new[46]	_	_
+10-13	_	Technlogy	abstract[46]	new[46]	_	_
 10-14	_	)	_	_	_	_
 10-15	_	was	_	_	_	_
 10-16	_	founded	_	_	_	_
@@ -240,9 +277,9 @@
 10-36	_	.	_	_	_	_
 
 #Text=This year 's theme was water security .
-11-1	_	This	abstract[59]	new[59]	coref	16-1[59_60]
-11-2	_	year	abstract[59]	new[59]	_	_
-11-3	_	's	abstract[59]	new[59]	_	_
+11-1	_	This	abstract[52]	new[52]	coref	16-1[52_53]
+11-2	_	year	abstract[52]	new[52]	_	_
+11-3	_	's	abstract[52]	new[52]	_	_
 11-4	_	theme	_	_	_	_
 11-5	_	was	_	_	_	_
 11-6	_	water	_	_	_	_
@@ -251,8 +288,8 @@
 
 #Text=For the contest , the robots were required to recognize , pick up , carry , and deposit balls colored blue and orange to represent water and pollution , respectively .
 12-1	_	For	_	_	_	_
-12-2	_	the	abstract[6]	new[6]	coref	16-8[6_7]
-12-3	_	contest	abstract[6]	new[6]	_	_
+12-2	_	the	abstract[15]	new[15]	coref	16-8[15_16]
+12-3	_	contest	abstract[15]	new[15]	_	_
 12-4	_	,	_	_	_	_
 12-5	_	the	_	_	_	_
 12-6	_	robots	_	_	_	_
@@ -321,35 +358,35 @@
 #Text=According to the Afghan team 's coach , Alireza Mehraban , in their first matchup , the Afghan team 's robot , named " Better Idea of Afghan Girls , " scored one or two points for the three - nation alliance with the Gabonese and Estonian teams .
 15-1	_	According	_	_	_	_
 15-2	_	to	_	_	_	_
-15-3	_	the	abstract[12]	new[12]	coref	15-13[12_13]
-15-4	_	Afghan	abstract[12]	new[12]	_	_
-15-5	_	team	abstract[12]	new[12]	_	_
-15-6	_	's	abstract[12]	new[12]	_	_
+15-3	_	the	abstract[21]	new[21]	coref	15-13[21_22]
+15-4	_	Afghan	abstract[21]	new[21]	_	_
+15-5	_	team	abstract[21]	new[21]	_	_
+15-6	_	's	abstract[21]	new[21]	_	_
 15-7	_	coach	_	_	_	_
 15-8	_	,	_	_	_	_
 15-9	_	Alireza	_	_	_	_
 15-10	_	Mehraban	_	_	_	_
 15-11	_	,	_	_	_	_
 15-12	_	in	_	_	_	_
-15-13	_	their	abstract[13]	new[13]	coref	15-17[13_14]
+15-13	_	their	abstract[22]	new[22]	coref	15-17[22_23]
 15-14	_	first	_	_	_	_
 15-15	_	matchup	_	_	_	_
 15-16	_	,	_	_	_	_
-15-17	_	the	abstract[14]|abstract[109]	new[14]|new[109]	coref|coref	15-28[14_15]|37-17[109_110]
-15-18	_	Afghan	abstract[14]|abstract[109]	new[14]|new[109]	_	_
-15-19	_	team	abstract[14]|abstract[109]	new[14]|new[109]	_	_
-15-20	_	's	abstract[14]|abstract[109]	new[14]|new[109]	_	_
-15-21	_	robot	abstract[109]	new[109]	_	_
-15-22	_	,	abstract[109]	new[109]	_	_
-15-23	_	named	abstract[109]	new[109]	_	_
-15-24	_	"	abstract[109]	new[109]	_	_
-15-25	_	Better	abstract[109]	new[109]	_	_
-15-26	_	Idea	abstract[109]	new[109]	_	_
-15-27	_	of	abstract[109]	new[109]	_	_
-15-28	_	Afghan	abstract[15]|abstract[109]	new[15]|new[109]	coref	17-2[15_16]
-15-29	_	Girls	abstract[15]|abstract[109]	new[15]|new[109]	_	_
-15-30	_	,	abstract[109]	new[109]	_	_
-15-31	_	"	abstract[109]	new[109]	_	_
+15-17	_	the	abstract[23]|abstract[113]	new[23]|new[113]	coref|coref	15-28[23_24]|37-17[113_114]
+15-18	_	Afghan	abstract[23]|abstract[113]	new[23]|new[113]	_	_
+15-19	_	team	abstract[23]|abstract[113]	new[23]|new[113]	_	_
+15-20	_	's	abstract[23]|abstract[113]	new[23]|new[113]	_	_
+15-21	_	robot	abstract[113]	new[113]	_	_
+15-22	_	,	abstract[113]	new[113]	_	_
+15-23	_	named	abstract[113]	new[113]	_	_
+15-24	_	"	abstract[113]	new[113]	_	_
+15-25	_	Better	abstract[113]	new[113]	_	_
+15-26	_	Idea	abstract[113]	new[113]	_	_
+15-27	_	of	abstract[113]	new[113]	_	_
+15-28	_	Afghan	abstract[24]|abstract[113]	new[24]|new[113]	coref	17-3[24_25]
+15-29	_	Girls	abstract[24]|abstract[113]	new[24]|new[113]	_	_
+15-30	_	,	abstract[113]	new[113]	_	_
+15-31	_	"	abstract[113]	new[113]	_	_
 15-32	_	scored	_	_	_	_
 15-33	_	one	_	_	_	_
 15-34	_	or	_	_	_	_
@@ -370,15 +407,15 @@
 15-49	_	.	_	_	_	_
 
 #Text=This year , the European team won the competition overall , with the silver medal going to Poland and the bronze to Armenia .
-16-1	_	This	abstract[60]	new[60]	_	_
-16-2	_	year	abstract[60]	new[60]	_	_
+16-1	_	This	abstract[53]	new[53]	_	_
+16-2	_	year	abstract[53]	new[53]	_	_
 16-3	_	,	_	_	_	_
 16-4	_	the	_	_	_	_
 16-5	_	European	_	_	_	_
 16-6	_	team	_	_	_	_
 16-7	_	won	_	_	_	_
-16-8	_	the	abstract[7]	new[7]	_	_
-16-9	_	competition	abstract[7]	new[7]	_	_
+16-8	_	the	abstract[16]	new[16]	_	_
+16-9	_	competition	abstract[16]	new[16]	_	_
 16-10	_	overall	_	_	_	_
 16-11	_	,	_	_	_	_
 16-12	_	with	_	_	_	_
@@ -397,12 +434,12 @@
 
 #Text=" We are so interested because we find a big chance to show the talent and ability of Afghans , " team member Rodaba Noori told the press , " to show that Afghan women can make robots too and we can improve in this section — [ the ] robotics section .
 17-1	_	"	_	_	_	_
-17-2	_	We	abstract[16]	new[16]	coref	17-7[16_17]
+17-2	_	We	abstract[25]	new[25]	coref	17-8[25_26]
 17-3	_	are	_	_	_	_
 17-4	_	so	_	_	_	_
 17-5	_	interested	_	_	_	_
 17-6	_	because	_	_	_	_
-17-7	_	we	abstract[17]	new[17]	coref	19-2[17_18]
+17-7	_	we	abstract[26]	new[26]	_	_
 17-8	_	find	_	_	_	_
 17-9	_	a	_	_	_	_
 17-10	_	big	_	_	_	_
@@ -436,7 +473,7 @@
 17-38	_	robots	_	_	_	_
 17-39	_	too	_	_	_	_
 17-40	_	and	_	_	_	_
-17-41	_	we	abstract[61]	new[61]	coref	18-1[61_62]
+17-41	_	we	abstract[54]	new[54]	coref	18-1[54_55]
 17-42	_	can	_	_	_	_
 17-43	_	improve	_	_	_	_
 17-44	_	in	_	_	_	_
@@ -451,12 +488,12 @@
 17-53	_	.	_	_	_	_
 
 #Text=We were so interested because we had n't long or enough time to get ready for competition but we came to United States and now we are here because of Trump intervention . "
-18-1	_	We	abstract[62]	new[62]	coref	18-6[62_63]
+18-1	_	We	abstract[55]	new[55]	coref	18-6[55_56]
 18-2	_	were	_	_	_	_
 18-3	_	so	_	_	_	_
 18-4	_	interested	_	_	_	_
 18-5	_	because	_	_	_	_
-18-6	_	we	abstract[63]	new[63]	coref	18-19[63_64]
+18-6	_	we	abstract[56]	new[56]	coref	18-19[56_57]
 18-7	_	had	_	_	_	_
 18-8	_	n't	_	_	_	_
 18-9	_	long	_	_	_	_
@@ -467,28 +504,28 @@
 18-14	_	get	_	_	_	_
 18-15	_	ready	_	_	_	_
 18-16	_	for	_	_	_	_
-18-17	_	competition	abstract[77]	new[77]	coref	26-40[77_78]
+18-17	_	competition	abstract[80]	new[80]	coref	26-40[80_81]
 18-18	_	but	_	_	_	_
-18-19	_	we	abstract[64]	new[64]	coref	18-26[64_65]
+18-19	_	we	abstract[57]	new[57]	coref	18-26[57_58]
 18-20	_	came	_	_	_	_
 18-21	_	to	_	_	_	_
-18-22	_	United	abstract[35]	new[35]	coref	20-8[35_36]
-18-23	_	States	abstract[35]	new[35]	_	_
+18-22	_	United	abstract[33]	new[33]	coref	20-8[33_34]
+18-23	_	States	abstract[33]	new[33]	_	_
 18-24	_	and	_	_	_	_
 18-25	_	now	_	_	_	_
-18-26	_	we	abstract[65]	new[65]	_	_
+18-26	_	we	abstract[58]	new[58]	coref	20-1[58_59]
 18-27	_	are	_	_	_	_
 18-28	_	here	_	_	_	_
 18-29	_	because	_	_	_	_
 18-30	_	of	_	_	_	_
-18-31	_	Trump	abstract[45]	new[45]	coref	23-1[45_46]
+18-31	_	Trump	abstract[5]	new[5]	coref	23-1[5_6]
 18-32	_	intervention	_	_	_	_
 18-33	_	.	_	_	_	_
 18-34	_	"	_	_	_	_
 
 #Text=The team arrived in Washington D.C. after many difficulties .
-19-1	_	The	abstract[18]	new[18]	coref	20-1[18_19]
-19-2	_	team	abstract[18]	new[18]	_	_
+19-1	_	The	_	_	_	_
+19-2	_	team	_	_	_	_
 19-3	_	arrived	_	_	_	_
 19-4	_	in	_	_	_	_
 19-5	_	Washington	_	_	_	_
@@ -499,16 +536,16 @@
 19-10	_	.	_	_	_	_
 
 #Text=They were twice denied visas to enter the United States .
-20-1	_	They	abstract[19]	new[19]	coref	21-7[19_20]
+20-1	_	They	abstract[59]	new[59]	coref	21-7[59_60]
 20-2	_	were	_	_	_	_
 20-3	_	twice	_	_	_	_
 20-4	_	denied	_	_	_	_
 20-5	_	visas	_	_	_	_
 20-6	_	to	_	_	_	_
 20-7	_	enter	_	_	_	_
-20-8	_	the	abstract[36]	new[36]	coref	23-7[36_37]
-20-9	_	United	abstract[36]	new[36]	_	_
-20-10	_	States	abstract[36]	new[36]	_	_
+20-8	_	the	abstract[34]	new[34]	coref	23-7[34_35]
+20-9	_	United	abstract[34]	new[34]	_	_
+20-10	_	States	abstract[34]	new[34]	_	_
 20-11	_	.	_	_	_	_
 
 #Text=Even applying for a visa required the entire team to travel about 500 miles ( 800 km ) from Herat , their home , to the capital in Kabul , through territory controlled by the Taliban .
@@ -518,9 +555,9 @@
 21-4	_	a	_	_	_	_
 21-5	_	visa	_	_	_	_
 21-6	_	required	_	_	_	_
-21-7	_	the	abstract[20]	new[20]	coref	21-22[20_21]
-21-8	_	entire	abstract[20]	new[20]	_	_
-21-9	_	team	abstract[20]	new[20]	_	_
+21-7	_	the	abstract[60]	new[60]	coref	21-22[60_61]
+21-8	_	entire	abstract[60]	new[60]	_	_
+21-9	_	team	abstract[60]	new[60]	_	_
 21-10	_	to	_	_	_	_
 21-11	_	travel	_	_	_	_
 21-12	_	about	_	_	_	_
@@ -533,7 +570,7 @@
 21-19	_	from	_	_	_	_
 21-20	_	Herat	_	_	_	_
 21-21	_	,	_	_	_	_
-21-22	_	their	abstract[21]	new[21]	coref	22-1[21_22]
+21-22	_	their	abstract[61]	new[61]	coref	22-1[61_62]
 21-23	_	home	_	_	_	_
 21-24	_	,	_	_	_	_
 21-25	_	to	_	_	_	_
@@ -551,7 +588,7 @@
 21-37	_	.	_	_	_	_
 
 #Text=They made the trip twice and were turned down both times .
-22-1	_	They	abstract[22]	new[22]	coref	26-11[22_23]
+22-1	_	They	abstract[62]	new[62]	coref	26-11[62_63]
 22-2	_	made	_	_	_	_
 22-3	_	the	_	_	_	_
 22-4	_	trip	_	_	_	_
@@ -565,24 +602,24 @@
 22-12	_	.	_	_	_	_
 
 #Text=President Donald Trump personally asked the United States National Security Council to help the girls enter the country .
-23-1	_	President	abstract[46]	new[46]	coref	25-1[46_47]
-23-2	_	Donald	abstract[46]	new[46]	_	_
-23-3	_	Trump	abstract[46]	new[46]	_	_
+23-1	_	President	abstract[6]	new[6]	coref	25-1[6_7]
+23-2	_	Donald	abstract[6]	new[6]	_	_
+23-3	_	Trump	abstract[6]	new[6]	_	_
 23-4	_	personally	_	_	_	_
 23-5	_	asked	_	_	_	_
 23-6	_	the	_	_	_	_
-23-7	_	United	abstract[37]	new[37]	coref	23-17[37_38]
-23-8	_	States	abstract[37]	new[37]	_	_
+23-7	_	United	abstract[35]	new[35]	coref	23-17[35_36]
+23-8	_	States	abstract[35]	new[35]	_	_
 23-9	_	National	_	_	_	_
 23-10	_	Security	_	_	_	_
 23-11	_	Council	_	_	_	_
 23-12	_	to	_	_	_	_
 23-13	_	help	_	_	_	_
-23-14	_	the	abstract[67]	new[67]	coref	24-12[67_68]
-23-15	_	girls	abstract[67]	new[67]	_	_
+23-14	_	the	abstract[70]	new[70]	coref	24-12[70_71]
+23-15	_	girls	abstract[70]	new[70]	_	_
 23-16	_	enter	_	_	_	_
-23-17	_	the	abstract[38]	new[38]	coref	25-12[38_39]
-23-18	_	country	abstract[38]	new[38]	_	_
+23-17	_	the	abstract[36]	new[36]	coref	25-12[36_37]
+23-18	_	country	abstract[36]	new[36]	_	_
 23-19	_	.	_	_	_	_
 
 #Text=After some interplay between the State and Homeland Security Departments , the girls were granted " parole " status on the grounds that their entry would be a " significant public benefit . "
@@ -597,8 +634,8 @@
 24-9	_	Security	_	_	_	_
 24-10	_	Departments	_	_	_	_
 24-11	_	,	_	_	_	_
-24-12	_	the	abstract[68]	new[68]	coref	24-24[68_69]
-24-13	_	girls	abstract[68]	new[68]	_	_
+24-12	_	the	abstract[71]	new[71]	coref	24-24[71_72]
+24-13	_	girls	abstract[71]	new[71]	_	_
 24-14	_	were	_	_	_	_
 24-15	_	granted	_	_	_	_
 24-16	_	"	_	_	_	_
@@ -609,7 +646,7 @@
 24-21	_	the	_	_	_	_
 24-22	_	grounds	_	_	_	_
 24-23	_	that	_	_	_	_
-24-24	_	their	abstract[69]	new[69]	coref	25-9[69_70]
+24-24	_	their	abstract[72]	new[72]	coref	25-9[72_73]
 24-25	_	entry	_	_	_	_
 24-26	_	would	_	_	_	_
 24-27	_	be	_	_	_	_
@@ -622,23 +659,23 @@
 24-34	_	"	_	_	_	_
 
 #Text=The President has drawn both praise for helping the girls enter the U.S. and criticism for his travel ban , which does not cover Afghanistan , and for the atmosphere of hostility toward Muslims that critics blame for denying them entry in the first place .
-25-1	_	The	abstract[47]	new[47]	coref	25-17[47_48]
-25-2	_	President	abstract[47]	new[47]	_	_
+25-1	_	The	abstract[7]	new[7]	coref	25-17[7_8]
+25-2	_	President	abstract[7]	new[7]	_	_
 25-3	_	has	_	_	_	_
 25-4	_	drawn	_	_	_	_
 25-5	_	both	_	_	_	_
 25-6	_	praise	_	_	_	_
 25-7	_	for	_	_	_	_
 25-8	_	helping	_	_	_	_
-25-9	_	the	abstract[70]	new[70]	coref	25-40[70_71]
-25-10	_	girls	abstract[70]	new[70]	_	_
+25-9	_	the	abstract[73]	new[73]	coref	25-40[73_74]
+25-10	_	girls	abstract[73]	new[73]	_	_
 25-11	_	enter	_	_	_	_
-25-12	_	the	abstract[39]	new[39]	coref	26-5[39_40]
-25-13	_	U.S.	abstract[39]	new[39]	_	_
+25-12	_	the	abstract[37]	new[37]	coref	26-5[37_38]
+25-13	_	U.S.	abstract[37]	new[37]	_	_
 25-14	_	and	_	_	_	_
 25-15	_	criticism	_	_	_	_
 25-16	_	for	_	_	_	_
-25-17	_	his	abstract[48]	new[48]	coref	27-10[48_49]
+25-17	_	his	abstract[8]	new[8]	coref	27-10[8_9]
 25-18	_	travel	_	_	_	_
 25-19	_	ban	_	_	_	_
 25-20	_	,	_	_	_	_
@@ -646,7 +683,7 @@
 25-22	_	does	_	_	_	_
 25-23	_	not	_	_	_	_
 25-24	_	cover	_	_	_	_
-25-25	_	Afghanistan	abstract[74]	new[74]	coref	27-1[74_75]
+25-25	_	Afghanistan	abstract[77]	new[77]	coref	27-1[77_78]
 25-26	_	,	_	_	_	_
 25-27	_	and	_	_	_	_
 25-28	_	for	_	_	_	_
@@ -661,7 +698,7 @@
 25-37	_	blame	_	_	_	_
 25-38	_	for	_	_	_	_
 25-39	_	denying	_	_	_	_
-25-40	_	them	abstract[71]	new[71]	coref	35-1[71_72]
+25-40	_	them	abstract[74]	new[74]	coref	35-2[74_75]
 25-41	_	entry	_	_	_	_
 25-42	_	in	_	_	_	_
 25-43	_	the	_	_	_	_
@@ -674,47 +711,47 @@
 26-2	_	privacy	_	_	_	_
 26-3	_	rules	_	_	_	_
 26-4	_	,	_	_	_	_
-26-5	_	U.S.	abstract[40]	new[40]	coref	26-33[40_41]
+26-5	_	U.S.	abstract[38]	new[38]	coref	26-33[38_39]
 26-6	_	officials	_	_	_	_
 26-7	_	have	_	_	_	_
 26-8	_	not	_	_	_	_
 26-9	_	said	_	_	_	_
 26-10	_	why	_	_	_	_
-26-11	_	the	abstract[23]	new[23]	coref	26-27[23_24]
-26-12	_	team	abstract[23]	new[23]	_	_
+26-11	_	the	abstract[63]	new[63]	coref	26-27[63_64]
+26-12	_	team	abstract[63]	new[63]	_	_
 26-13	_	was	_	_	_	_
 26-14	_	initially	_	_	_	_
 26-15	_	denied	_	_	_	_
 26-16	_	visas	_	_	_	_
 26-17	_	,	_	_	_	_
 26-18	_	but	_	_	_	_
-26-19	_	Afghan	abstract[103]	new[103]	coref	33-17[103_104]
-26-20	_	Ambassador	abstract[103]	new[103]	_	_
-26-21	_	Hamdullah	abstract[103]	new[103]	_	_
-26-22	_	Mohib	abstract[103]	new[103]	_	_
+26-19	_	Afghan	abstract[107]	new[107]	coref	33-17[107_108]
+26-20	_	Ambassador	abstract[107]	new[107]	_	_
+26-21	_	Hamdullah	abstract[107]	new[107]	_	_
+26-22	_	Mohib	abstract[107]	new[107]	_	_
 26-23	_	says	_	_	_	_
 26-24	_	there	_	_	_	_
 26-25	_	were	_	_	_	_
 26-26	_	concerns	_	_	_	_
-26-27	_	they	abstract[24]	new[24]	coref	34-2[24_25]
+26-27	_	they	abstract[64]	new[64]	coref	34-2[64_65]
 26-28	_	would	_	_	_	_
 26-29	_	attempt	_	_	_	_
 26-30	_	to	_	_	_	_
 26-31	_	remain	_	_	_	_
 26-32	_	in	_	_	_	_
-26-33	_	the	abstract[41]	new[41]	coref	31-16[41_42]
-26-34	_	United	abstract[41]	new[41]	_	_
-26-35	_	States	abstract[41]	new[41]	_	_
+26-33	_	the	abstract[39]	new[39]	coref	31-16[39_40]
+26-34	_	United	abstract[39]	new[39]	_	_
+26-35	_	States	abstract[39]	new[39]	_	_
 26-36	_	or	_	_	_	_
 26-37	_	in	_	_	_	_
 26-38	_	Canada	_	_	_	_
 26-39	_	after	_	_	_	_
-26-40	_	the	abstract[78]	new[78]	coref	27-38[78_79]
-26-41	_	contest	abstract[78]	new[78]	_	_
+26-40	_	the	abstract[81]	new[81]	coref	27-38[81_82]
+26-41	_	contest	abstract[81]	new[81]	_	_
 26-42	_	.	_	_	_	_
 
 #Text=Afghanistan is not one of the nations covered by President Trump 's travel ban , but teams from Sudan , Iran , Libya , and Yemen , which are covered , are among the 163 teams in the competition .
-27-1	_	Afghanistan	abstract[75]	new[75]	coref	35-10[75_76]
+27-1	_	Afghanistan	abstract[78]	new[78]	coref	35-11[78_79]
 27-2	_	is	_	_	_	_
 27-3	_	not	_	_	_	_
 27-4	_	one	_	_	_	_
@@ -723,18 +760,18 @@
 27-7	_	nations	_	_	_	_
 27-8	_	covered	_	_	_	_
 27-9	_	by	_	_	_	_
-27-10	_	President	abstract[49]|abstract[83]	new[49]|new[83]	coref	29-8[83_84]
-27-11	_	Trump	abstract[49]|abstract[83]	new[49]|new[83]	_	_
-27-12	_	's	abstract[49]|abstract[83]	new[49]|new[83]	_	_
-27-13	_	travel	abstract[83]	new[83]	_	_
-27-14	_	ban	abstract[83]	new[83]	_	_
+27-10	_	President	abstract[9]|abstract[87]	new[9]|new[87]	coref	29-8[87_88]
+27-11	_	Trump	abstract[9]|abstract[87]	new[9]|new[87]	_	_
+27-12	_	's	abstract[9]|abstract[87]	new[9]|new[87]	_	_
+27-13	_	travel	abstract[87]	new[87]	_	_
+27-14	_	ban	abstract[87]	new[87]	_	_
 27-15	_	,	_	_	_	_
 27-16	_	but	_	_	_	_
 27-17	_	teams	_	_	_	_
 27-18	_	from	_	_	_	_
 27-19	_	Sudan	_	_	_	_
 27-20	_	,	_	_	_	_
-27-21	_	Iran	abstract[94]	new[94]	coref	31-5[94_95]
+27-21	_	Iran	abstract[98]	new[98]	coref	31-5[98_99]
 27-22	_	,	_	_	_	_
 27-23	_	Libya	_	_	_	_
 27-24	_	,	_	_	_	_
@@ -747,12 +784,12 @@
 27-31	_	,	_	_	_	_
 27-32	_	are	_	_	_	_
 27-33	_	among	_	_	_	_
-27-34	_	the	abstract[107]	new[107]	coref	36-1[107_108]
-27-35	_	163	abstract[107]	new[107]	_	_
-27-36	_	teams	abstract[107]	new[107]	_	_
-27-37	_	in	abstract[107]	new[107]	_	_
-27-38	_	the	abstract[79]|abstract[107]	new[79]|new[107]	coref	36-4[79_80]
-27-39	_	competition	abstract[79]|abstract[107]	new[79]|new[107]	_	_
+27-34	_	the	abstract[111]	new[111]	coref	36-1[111_112]
+27-35	_	163	abstract[111]	new[111]	_	_
+27-36	_	teams	abstract[111]	new[111]	_	_
+27-37	_	in	abstract[111]	new[111]	_	_
+27-38	_	the	abstract[82]|abstract[111]	new[82]|new[111]	coref	36-4[82_83]
+27-39	_	competition	abstract[82]|abstract[111]	new[82]|new[111]	_	_
 27-40	_	.	_	_	_	_
 
 #Text=There were also two Syrian teams scheduled to compete , one national and one made up of refugees .
@@ -769,33 +806,33 @@
 28-11	_	one	_	_	_	_
 28-12	_	national	_	_	_	_
 28-13	_	and	_	_	_	_
-28-14	_	one	abstract[85]	new[85]	coref	30-1[85_86]
-28-15	_	made	abstract[85]	new[85]	_	_
-28-16	_	up	abstract[85]	new[85]	_	_
-28-17	_	of	abstract[85]	new[85]	_	_
-28-18	_	refugees	abstract[85]	new[85]	_	_
+28-14	_	one	abstract[89]	new[89]	coref	30-1[89_90]
+28-15	_	made	abstract[89]	new[89]	_	_
+28-16	_	up	abstract[89]	new[89]	_	_
+28-17	_	of	abstract[89]	new[89]	_	_
+28-18	_	refugees	abstract[89]	new[89]	_	_
 28-19	_	.	_	_	_	_
 
 #Text=Syria and all refugees are covered by the ban .
-29-1	_	Syria	abstract[90]	new[90]	coref	30-6[90_91]
+29-1	_	Syria	abstract[94]	new[94]	coref	30-6[94_95]
 29-2	_	and	_	_	_	_
 29-3	_	all	_	_	_	_
 29-4	_	refugees	_	_	_	_
 29-5	_	are	_	_	_	_
 29-6	_	covered	_	_	_	_
 29-7	_	by	_	_	_	_
-29-8	_	the	abstract[84]	new[84]	_	_
-29-9	_	ban	abstract[84]	new[84]	_	_
+29-8	_	the	abstract[88]	new[88]	_	_
+29-9	_	ban	abstract[88]	new[88]	_	_
 29-10	_	.	_	_	_	_
 
 #Text=The Syrian refugee team listed their country as " Hope " on the backs of their shirts and named their robot " Robogee . "
-30-1	_	The	abstract[86]	new[86]	coref	30-6[86_87]
-30-2	_	Syrian	abstract[86]	new[86]	_	_
-30-3	_	refugee	abstract[86]	new[86]	_	_
-30-4	_	team	abstract[86]	new[86]	_	_
+30-1	_	The	abstract[90]	new[90]	coref	30-6[90_91]
+30-2	_	Syrian	abstract[90]	new[90]	_	_
+30-3	_	refugee	abstract[90]	new[90]	_	_
+30-4	_	team	abstract[90]	new[90]	_	_
 30-5	_	listed	_	_	_	_
-30-6	_	their	abstract[87]|abstract[91]	new[87]|new[91]	coref	30-16[87_88]
-30-7	_	country	abstract[91]	new[91]	_	_
+30-6	_	their	abstract[91]|abstract[95]	new[91]|new[95]	coref	30-16[91_92]
+30-7	_	country	abstract[95]	new[95]	_	_
 30-8	_	as	_	_	_	_
 30-9	_	"	_	_	_	_
 30-10	_	Hope	_	_	_	_
@@ -804,44 +841,44 @@
 30-13	_	the	_	_	_	_
 30-14	_	backs	_	_	_	_
 30-15	_	of	_	_	_	_
-30-16	_	their	abstract[88]	new[88]	coref	30-20[88_89]
+30-16	_	their	abstract[92]	new[92]	coref	30-20[92_93]
 30-17	_	shirts	_	_	_	_
 30-18	_	and	_	_	_	_
 30-19	_	named	_	_	_	_
-30-20	_	their	abstract[89]|abstract[92]	new[89]|new[92]	coref	30-23[92_93]
-30-21	_	robot	abstract[92]	new[92]	_	_
+30-20	_	their	abstract[93]|abstract[96]	new[93]|new[96]	coref	30-23[96_97]
+30-21	_	robot	abstract[96]	new[96]	_	_
 30-22	_	"	_	_	_	_
-30-23	_	Robogee	abstract[93]	new[93]	_	_
+30-23	_	Robogee	abstract[97]	new[97]	_	_
 30-24	_	.	_	_	_	_
 30-25	_	"	_	_	_	_
 
 #Text=Teams from Morocco and Iran both had difficulties getting themselves or their robots across the U.S. border .
-31-1	_	Teams	abstract[96]	new[96]	coref	31-10[96_97]
-31-2	_	from	abstract[96]	new[96]	_	_
-31-3	_	Morocco	abstract[96]	new[96]	_	_
-31-4	_	and	abstract[96]	new[96]	_	_
-31-5	_	Iran	abstract[95]|abstract[96]	new[95]|new[96]	_	_
+31-1	_	Teams	abstract[100]	new[100]	coref	31-10[100_101]
+31-2	_	from	abstract[100]	new[100]	_	_
+31-3	_	Morocco	abstract[100]	new[100]	_	_
+31-4	_	and	abstract[100]	new[100]	_	_
+31-5	_	Iran	abstract[99]|abstract[100]	new[99]|new[100]	_	_
 31-6	_	both	_	_	_	_
 31-7	_	had	_	_	_	_
 31-8	_	difficulties	_	_	_	_
 31-9	_	getting	_	_	_	_
-31-10	_	themselves	abstract[97]	new[97]	coref	31-12[97_98]
+31-10	_	themselves	abstract[101]	new[101]	coref	31-12[101_102]
 31-11	_	or	_	_	_	_
-31-12	_	their	abstract[98]	new[98]	_	_
+31-12	_	their	abstract[102]	new[102]	_	_
 31-13	_	robots	_	_	_	_
 31-14	_	across	_	_	_	_
 31-15	_	the	_	_	_	_
-31-16	_	U.S.	abstract[42]	new[42]	_	_
+31-16	_	U.S.	abstract[40]	new[40]	_	_
 31-17	_	border	_	_	_	_
 31-18	_	.	_	_	_	_
 
 #Text=Team Estonia had to rebuild their robot entirely after the original disappeared in transit .
-32-1	_	Team	abstract[99]	new[99]	coref	32-6[99_100]
-32-2	_	Estonia	abstract[99]	new[99]	_	_
+32-1	_	Team	abstract[103]	new[103]	coref	32-6[103_104]
+32-2	_	Estonia	abstract[103]	new[103]	_	_
 32-3	_	had	_	_	_	_
 32-4	_	to	_	_	_	_
 32-5	_	rebuild	_	_	_	_
-32-6	_	their	abstract[100]	new[100]	_	_
+32-6	_	their	abstract[104]	new[104]	_	_
 32-7	_	robot	_	_	_	_
 32-8	_	entirely	_	_	_	_
 32-9	_	after	_	_	_	_
@@ -858,7 +895,7 @@
 33-3	_	years	_	_	_	_
 33-4	_	ago	_	_	_	_
 33-5	_	,	_	_	_	_
-33-6	_	this	abstract[102]	new[102]	_	_
+33-6	_	this	abstract[106]	new[106]	_	_
 33-7	_	would	_	_	_	_
 33-8	_	not	_	_	_	_
 33-9	_	have	_	_	_	_
@@ -869,15 +906,15 @@
 33-14	_	,	_	_	_	_
 33-15	_	"	_	_	_	_
 33-16	_	said	_	_	_	_
-33-17	_	Ambassador	abstract[104]	new[104]	_	_
-33-18	_	Mohib	abstract[104]	new[104]	_	_
+33-17	_	Ambassador	abstract[108]	new[108]	_	_
+33-18	_	Mohib	abstract[108]	new[108]	_	_
 33-19	_	.	_	_	_	_
 
 #Text=" They represent our aspirations and resilience despite having been brought up in a perpetual conflict .
 34-1	_	"	_	_	_	_
-34-2	_	They	abstract[25]	new[25]	coref	37-1[25_26]
+34-2	_	They	abstract[65]	new[65]	coref	37-1[65_66]
 34-3	_	represent	_	_	_	_
-34-4	_	our	abstract[105]	new[105]	coref	35-16[105_106]
+34-4	_	our	abstract[109]	new[109]	coref	35-17[109_110]
 34-5	_	aspirations	_	_	_	_
 34-6	_	and	_	_	_	_
 34-7	_	resilience	_	_	_	_
@@ -893,8 +930,8 @@
 34-17	_	.	_	_	_	_
 
 #Text=These girls will be proving to the world and the nation that nothing will prevent us from being an equal and active member of the international community . "
-35-1	_	These	abstract[72]	new[72]	_	_
-35-2	_	girls	abstract[72]	new[72]	_	_
+35-1	_	These	abstract[75]	new[75]	_	_
+35-2	_	girls	abstract[75]	new[75]	_	_
 35-3	_	will	_	_	_	_
 35-4	_	be	_	_	_	_
 35-5	_	proving	_	_	_	_
@@ -902,13 +939,13 @@
 35-7	_	the	_	_	_	_
 35-8	_	world	_	_	_	_
 35-9	_	and	_	_	_	_
-35-10	_	the	abstract[76]	new[76]	_	_
-35-11	_	nation	abstract[76]	new[76]	_	_
+35-10	_	the	abstract[79]	new[79]	_	_
+35-11	_	nation	abstract[79]	new[79]	_	_
 35-12	_	that	_	_	_	_
 35-13	_	nothing	_	_	_	_
 35-14	_	will	_	_	_	_
 35-15	_	prevent	_	_	_	_
-35-16	_	us	abstract[106]	new[106]	_	_
+35-16	_	us	abstract[110]	new[110]	_	_
 35-17	_	from	_	_	_	_
 35-18	_	being	_	_	_	_
 35-19	_	an	_	_	_	_
@@ -924,11 +961,11 @@
 35-29	_	"	_	_	_	_
 
 #Text=Every team in the contest was sent a collection of robot parts roughly four months in advance of the competition .
-36-1	_	Every	abstract[108]	new[108]	_	_
-36-2	_	team	abstract[108]	new[108]	_	_
-36-3	_	in	abstract[108]	new[108]	_	_
-36-4	_	the	abstract[80]|abstract[108]	new[80]|new[108]	coref	36-19[80_81]
-36-5	_	contest	abstract[80]|abstract[108]	new[80]|new[108]	_	_
+36-1	_	Every	abstract[112]	new[112]	_	_
+36-2	_	team	abstract[112]	new[112]	_	_
+36-3	_	in	abstract[112]	new[112]	_	_
+36-4	_	the	abstract[83]|abstract[112]	new[83]|new[112]	coref	36-19[83_84]
+36-5	_	contest	abstract[83]|abstract[112]	new[83]|new[112]	_	_
 36-6	_	was	_	_	_	_
 36-7	_	sent	_	_	_	_
 36-8	_	a	_	_	_	_
@@ -942,39 +979,39 @@
 36-16	_	in	_	_	_	_
 36-17	_	advance	_	_	_	_
 36-18	_	of	_	_	_	_
-36-19	_	the	abstract[81]	new[81]	coref	39-16[81_82]
-36-20	_	competition	abstract[81]	new[81]	_	_
+36-19	_	the	abstract[84]	new[84]	coref	38-1[84_85]
+36-20	_	competition	abstract[84]	new[84]	_	_
 36-21	_	.	_	_	_	_
 
 #Text=The Afghan team 's supplies were delayed , leaving them only two weeks left to assemble their robot and only one day to test it before packing it up to mail to the competition site .
-37-1	_	The	abstract[26]	new[26]	coref	37-10[26_27]
-37-2	_	Afghan	abstract[26]	new[26]	_	_
-37-3	_	team	abstract[26]	new[26]	_	_
-37-4	_	's	abstract[26]	new[26]	_	_
+37-1	_	The	abstract[66]	new[66]	coref	37-10[66_67]
+37-2	_	Afghan	abstract[66]	new[66]	_	_
+37-3	_	team	abstract[66]	new[66]	_	_
+37-4	_	's	abstract[66]	new[66]	_	_
 37-5	_	supplies	_	_	_	_
 37-6	_	were	_	_	_	_
 37-7	_	delayed	_	_	_	_
 37-8	_	,	_	_	_	_
 37-9	_	leaving	_	_	_	_
-37-10	_	them	abstract[27]	new[27]	coref	37-17[27_28]
+37-10	_	them	abstract[67]	new[67]	coref	37-17[67_68]
 37-11	_	only	_	_	_	_
 37-12	_	two	_	_	_	_
 37-13	_	weeks	_	_	_	_
 37-14	_	left	_	_	_	_
 37-15	_	to	_	_	_	_
 37-16	_	assemble	_	_	_	_
-37-17	_	their	abstract[28]|abstract[110]	new[28]|new[110]	coref	37-25[110_111]
-37-18	_	robot	abstract[110]	new[110]	_	_
+37-17	_	their	abstract[68]|abstract[114]	new[68]|new[114]	coref	37-25[114_115]
+37-18	_	robot	abstract[114]	new[114]	_	_
 37-19	_	and	_	_	_	_
 37-20	_	only	_	_	_	_
 37-21	_	one	_	_	_	_
 37-22	_	day	_	_	_	_
 37-23	_	to	_	_	_	_
 37-24	_	test	_	_	_	_
-37-25	_	it	abstract[111]	new[111]	coref	37-28[111_112]
+37-25	_	it	abstract[115]	new[115]	coref	37-28[115_116]
 37-26	_	before	_	_	_	_
 37-27	_	packing	_	_	_	_
-37-28	_	it	abstract[112]	new[112]	_	_
+37-28	_	it	abstract[116]	new[116]	_	_
 37-29	_	up	_	_	_	_
 37-30	_	to	_	_	_	_
 37-31	_	mail	_	_	_	_
@@ -985,30 +1022,30 @@
 37-36	_	.	_	_	_	_
 
 #Text=The competition ended on Tuesday .
-38-1	_	The	abstract[115]	new[115]	coref	39-2[115_116]
-38-2	_	competition	abstract[115]	new[115]	_	_
+38-1	_	The	abstract[85]	new[85]	coref	39-1[85_86]
+38-2	_	competition	abstract[85]	new[85]	_	_
 38-3	_	ended	_	_	_	_
 38-4	_	on	_	_	_	_
-38-5	_	Tuesday	abstract[114]	new[114]	_	_
+38-5	_	Tuesday	abstract[118]	new[118]	_	_
 38-6	_	.	_	_	_	_
 
 #Text=This is the first FIRST Global competition , and the organization plans to hold the contest in a different country every year .
-39-1	_	This	abstract[116]	new[116]	_	_
+39-1	_	This	abstract[86]	new[86]	_	_
 39-2	_	is	_	_	_	_
 39-3	_	the	_	_	_	_
 39-4	_	first	_	_	_	_
-39-5	_	FIRST	abstract[54]	new[54]	coref	39-11[54_55]
+39-5	_	FIRST	abstract[47]	new[47]	coref	39-10[47_48]
 39-6	_	Global	_	_	_	_
 39-7	_	competition	_	_	_	_
 39-8	_	,	_	_	_	_
 39-9	_	and	_	_	_	_
-39-10	_	the	abstract[55]	new[55]	_	_
-39-11	_	organization	abstract[55]	new[55]	_	_
+39-10	_	the	abstract[48]	new[48]	_	_
+39-11	_	organization	abstract[48]	new[48]	_	_
 39-12	_	plans	_	_	_	_
 39-13	_	to	_	_	_	_
 39-14	_	hold	_	_	_	_
-39-15	_	the	abstract[82]	new[82]	_	_
-39-16	_	contest	abstract[82]	new[82]	_	_
+39-15	_	the	_	_	_	_
+39-16	_	contest	_	_	_	_
 39-17	_	in	_	_	_	_
 39-18	_	a	_	_	_	_
 39-19	_	different	_	_	_	_

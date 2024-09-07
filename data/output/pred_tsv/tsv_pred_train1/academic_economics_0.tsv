@@ -738,7 +738,7 @@
 32-1	_	The	_	_	_	_
 32-2	_	expropriation	_	_	_	_
 32-3	_	of	_	_	_	_
-32-4	_	YPF	_	_	_	_
+32-4	_	YPF	abstract[54]	new[54]	coref	41-26[54_55]
 32-5	_	is	_	_	_	_
 32-6	_	a	_	_	_	_
 32-7	_	case	_	_	_	_
@@ -847,7 +847,7 @@
 35-2	_	Institutional	_	_	_	_
 35-3	_	Structure	_	_	_	_
 35-4	_	of	_	_	_	_
-35-5	_	the	abstract[46]	new[46]	_	_
+35-5	_	the	abstract[46]	new[46]	coref	41-19[46_47]
 35-6	_	Argentine	abstract[46]	new[46]	_	_
 35-7	_	State	abstract[46]	new[46]	_	_
 
@@ -856,9 +856,9 @@
 36-2	_	order	_	_	_	_
 36-3	_	to	_	_	_	_
 36-4	_	understand	_	_	_	_
-36-5	_	policymaking	abstract[47]	new[47]	coref	36-7[47_48]
+36-5	_	policymaking	abstract[48]	new[48]	coref	36-7[48_49]
 36-6	_	and	_	_	_	_
-36-7	_	its	abstract[48]	new[48]	_	_
+36-7	_	its	abstract[49]	new[49]	_	_
 36-8	_	effects	_	_	_	_
 36-9	_	,	_	_	_	_
 36-10	_	one	_	_	_	_
@@ -878,8 +878,8 @@
 #Text=Most of Argentina ’s governments have been of the predatory type .
 37-1	_	Most	_	_	_	_
 37-2	_	of	_	_	_	_
-37-3	_	Argentina	abstract[49]	new[49]	coref	38-1[49_50]
-37-4	_	’s	abstract[49]	new[49]	_	_
+37-3	_	Argentina	abstract[50]	new[50]	coref	38-1[50_51]
+37-4	_	’s	abstract[50]	new[50]	_	_
 37-5	_	governments	_	_	_	_
 37-6	_	have	_	_	_	_
 37-7	_	been	_	_	_	_
@@ -890,9 +890,9 @@
 37-12	_	.	_	_	_	_
 
 #Text=The country ’s unequal economic growth originated in the colonial era and reflects how the Spanish metropolis influenced the establishment of extractive institutions [ 7 ] .
-38-1	_	The	abstract[50]	new[50]	_	_
-38-2	_	country	abstract[50]	new[50]	_	_
-38-3	_	’s	abstract[50]	new[50]	_	_
+38-1	_	The	abstract[51]	new[51]	_	_
+38-2	_	country	abstract[51]	new[51]	_	_
+38-3	_	’s	abstract[51]	new[51]	_	_
 38-4	_	unequal	_	_	_	_
 38-5	_	economic	_	_	_	_
 38-6	_	growth	_	_	_	_
@@ -933,11 +933,11 @@
 40-3	_	order	_	_	_	_
 40-4	_	would	_	_	_	_
 40-5	_	require	_	_	_	_
-40-6	_	the	abstract[51]	new[51]	coref	40-10[51_52]
-40-7	_	government	abstract[51]	new[51]	_	_
+40-6	_	the	abstract[52]	new[52]	coref	40-10[52_53]
+40-7	_	government	abstract[52]	new[52]	_	_
 40-8	_	to	_	_	_	_
 40-9	_	limit	_	_	_	_
-40-10	_	its	abstract[52]	new[52]	_	_
+40-10	_	its	abstract[53]	new[53]	_	_
 40-11	_	actions	_	_	_	_
 40-12	_	and	_	_	_	_
 40-13	_	guarantee	_	_	_	_
@@ -956,18 +956,32 @@
 40-26	_	Argentina	_	_	_	_
 40-27	_	.	_	_	_	_
 
-#Text=Theoretical foundations of Economism have provided the evidence required to establish policymaking .
-41-1	_	Theoretical	_	_	_	_
-41-2	_	foundations	_	_	_	_
-41-3	_	of	_	_	_	_
-41-4	_	Economism	_	_	_	_
-41-5	_	have	_	_	_	_
-41-6	_	provided	_	_	_	_
-41-7	_	the	_	_	_	_
-41-8	_	evidence	_	_	_	_
-41-9	_	required	_	_	_	_
-41-10	_	to	_	_	_	_
-41-11	_	establish	_	_	_	_
-41-12	_	policymaking	_	_	_	_
-41-13	_	.	_	_	_	_
+#Text=This study discusses the implications of nations appropriating assets in contradiction with property rights using the example of the Argentine State 's - expropriation of YPF .
+41-1	_	This	_	_	_	_
+41-2	_	study	_	_	_	_
+41-3	_	discusses	_	_	_	_
+41-4	_	the	_	_	_	_
+41-5	_	implications	_	_	_	_
+41-6	_	of	_	_	_	_
+41-7	_	nations	_	_	_	_
+41-8	_	appropriating	_	_	_	_
+41-9	_	assets	_	_	_	_
+41-10	_	in	_	_	_	_
+41-11	_	contradiction	_	_	_	_
+41-12	_	with	_	_	_	_
+41-13	_	property	_	_	_	_
+41-14	_	rights	_	_	_	_
+41-15	_	using	_	_	_	_
+41-16	_	the	_	_	_	_
+41-17	_	example	_	_	_	_
+41-18	_	of	_	_	_	_
+41-19	_	the	abstract[47]	new[47]	_	_
+41-20	_	Argentine	abstract[47]	new[47]	_	_
+41-21	_	State	abstract[47]	new[47]	_	_
+41-22	_	's	abstract[47]	new[47]	_	_
+41-23	_	-	_	_	_	_
+41-24	_	expropriation	_	_	_	_
+41-25	_	of	_	_	_	_
+41-26	_	YPF	abstract[55]	new[55]	_	_
+41-27	_	.	_	_	_	_
 

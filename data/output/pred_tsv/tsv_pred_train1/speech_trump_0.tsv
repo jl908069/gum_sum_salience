@@ -111,18 +111,18 @@
 13-5	_	tell	_	_	_	_
 13-6	_	you	abstract[5]	new[5]	coref	30-6[5_6]
 13-7	_	,	_	_	_	_
-13-8	_	some	abstract[35]	new[35]	coref	13-13[35_36]
-13-9	_	of	abstract[35]	new[35]	_	_
-13-10	_	the	abstract[35]	new[35]	_	_
-13-11	_	candidates	abstract[35]	new[35]	_	_
+13-8	_	some	abstract[37]	new[37]	coref	13-13[37_38]
+13-9	_	of	abstract[37]	new[37]	_	_
+13-10	_	the	abstract[37]	new[37]	_	_
+13-11	_	candidates	abstract[37]	new[37]	_	_
 13-12	_	,	_	_	_	_
-13-13	_	they	abstract[36]	new[36]	coref	14-1[36_37]
+13-13	_	they	abstract[38]	new[38]	coref	14-1[38_39]
 13-14	_	went	_	_	_	_
 13-15	_	in	_	_	_	_
 13-16	_	.	_	_	_	_
 
 #Text=They did n't know the air - conditioner did n't work .
-14-1	_	They	abstract[37]	new[37]	coref	15-1[37_38]
+14-1	_	They	abstract[39]	new[39]	coref	15-1[39_40]
 14-2	_	did	_	_	_	_
 14-3	_	n't	_	_	_	_
 14-4	_	know	_	_	_	_
@@ -136,14 +136,14 @@
 14-12	_	.	_	_	_	_
 
 #Text=They sweated like dogs .
-15-1	_	They	abstract[38]	new[38]	coref	16-1[38_39]
+15-1	_	They	abstract[40]	new[40]	coref	16-1[40_41]
 15-2	_	sweated	_	_	_	_
 15-3	_	like	_	_	_	_
 15-4	_	dogs	_	_	_	_
 15-5	_	.	_	_	_	_
 
 #Text=They did n't know the room was too big , because they did n't have anybody there .
-16-1	_	They	abstract[39]	new[39]	coref	16-12[39_40]
+16-1	_	They	abstract[41]	new[41]	coref	16-12[41_42]
 16-2	_	did	_	_	_	_
 16-3	_	n't	_	_	_	_
 16-4	_	know	_	_	_	_
@@ -154,7 +154,7 @@
 16-9	_	big	_	_	_	_
 16-10	_	,	_	_	_	_
 16-11	_	because	_	_	_	_
-16-12	_	they	abstract[40]	new[40]	coref	17-3[40_41]
+16-12	_	they	abstract[42]	new[42]	coref	17-3[42_43]
 16-13	_	did	_	_	_	_
 16-14	_	n't	_	_	_	_
 16-15	_	have	_	_	_	_
@@ -165,11 +165,11 @@
 #Text=How are they going to beat ISIS ?
 17-1	_	How	_	_	_	_
 17-2	_	are	_	_	_	_
-17-3	_	they	abstract[41]	new[41]	_	_
+17-3	_	they	abstract[43]	new[43]	_	_
 17-4	_	going	_	_	_	_
 17-5	_	to	_	_	_	_
 17-6	_	beat	_	_	_	_
-17-7	_	ISIS	abstract[147]	new[147]	coref	59-1[147_148]
+17-7	_	ISIS	abstract[153]	new[153]	coref	59-1[153_154]
 17-8	_	?	_	_	_	_
 
 #Text=I do n't think it 's gon na happen .
@@ -185,8 +185,8 @@
 18-10	_	.	_	_	_	_
 
 #Text=Our country is in serious trouble .
-19-1	_	Our	abstract[42]|abstract[110]	new[42]|new[110]	coref|coref	20-1[42_43]|38-1[110_111]
-19-2	_	country	abstract[110]	new[110]	_	_
+19-1	_	Our	abstract[44]|abstract[114]	new[44]|new[114]	coref|coref	20-1[44_45]|38-1[114_115]
+19-2	_	country	abstract[114]	new[114]	_	_
 19-3	_	is	_	_	_	_
 19-4	_	in	_	_	_	_
 19-5	_	serious	_	_	_	_
@@ -194,27 +194,27 @@
 19-7	_	.	_	_	_	_
 
 #Text=We do n't have victories anymore .
-20-1	_	We	abstract[43]	new[43]	coref	21-1[43_44]
+20-1	_	We	abstract[45]	new[45]	coref	21-1[45_46]
 20-2	_	do	_	_	_	_
 20-3	_	n't	_	_	_	_
 20-4	_	have	_	_	_	_
-20-5	_	victories	abstract[91]	new[91]	coref	21-12[91_92]
+20-5	_	victories	abstract[95]	new[95]	coref	21-12[95_96]
 20-6	_	anymore	_	_	_	_
 20-7	_	.	_	_	_	_
 
 #Text=We used to have victories , but we do n't have them .
-21-1	_	We	abstract[44]	new[44]	coref	21-8[44_45]
+21-1	_	We	abstract[46]	new[46]	coref	21-8[46_47]
 21-2	_	used	_	_	_	_
 21-3	_	to	_	_	_	_
 21-4	_	have	_	_	_	_
 21-5	_	victories	_	_	_	_
 21-6	_	,	_	_	_	_
 21-7	_	but	_	_	_	_
-21-8	_	we	abstract[45]	new[45]	coref	22-8[45_46]
+21-8	_	we	abstract[47]	new[47]	coref	22-8[47_48]
 21-9	_	do	_	_	_	_
 21-10	_	n't	_	_	_	_
 21-11	_	have	_	_	_	_
-21-12	_	them	abstract[92]	new[92]	_	_
+21-12	_	them	abstract[96]	new[96]	_	_
 21-13	_	.	_	_	_	_
 
 #Text=When was the last time anybody saw us beating , let 's say , China in a trade deal ?
@@ -225,7 +225,7 @@
 22-5	_	time	_	_	_	_
 22-6	_	anybody	_	_	_	_
 22-7	_	saw	_	_	_	_
-22-8	_	us	abstract[46]	new[46]	coref	23-3[46_47]
+22-8	_	us	abstract[48]	new[48]	coref	23-3[48_49]
 22-9	_	beating	_	_	_	_
 22-10	_	,	_	_	_	_
 22-11	_	let	_	_	_	_
@@ -242,13 +242,13 @@
 #Text=They kill us .
 23-1	_	They	_	_	_	_
 23-2	_	kill	_	_	_	_
-23-3	_	us	abstract[47]	new[47]	coref	28-3[47_48]
+23-3	_	us	abstract[49]	new[49]	coref	28-3[49_50]
 23-4	_	.	_	_	_	_
 
 #Text=I beat China all the time .
 24-1	_	I	abstract[12]	new[12]	coref	26-3[12_13]
 24-2	_	beat	_	_	_	_
-24-3	_	China	abstract[189]	new[189]	coref	98-14[189_190]
+24-3	_	China	abstract[195]	new[195]	coref	98-14[195_196]
 24-4	_	all	_	_	_	_
 24-5	_	the	_	_	_	_
 24-6	_	time	_	_	_	_
@@ -261,13 +261,13 @@
 25-4	_	.	_	_	_	_
 
 #Text=We want Trump .
-26-1	_	We	abstract[93]	new[93]	coref	27-1[93_94]
+26-1	_	We	abstract[97]	new[97]	coref	27-1[97_98]
 26-2	_	want	_	_	_	_
 26-3	_	Trump	abstract[13]	new[13]	coref	27-3[13_14]
 26-4	_	.	_	_	_	_
 
 #Text=We want Trump .
-27-1	_	We	abstract[94]	new[94]	_	_
+27-1	_	We	abstract[98]	new[98]	_	_
 27-2	_	want	_	_	_	_
 27-3	_	Trump	abstract[14]	new[14]	coref	36-8[14_15]
 27-4	_	.	_	_	_	_
@@ -275,7 +275,7 @@
 #Text=When did we beat Japan at anything ?
 28-1	_	When	_	_	_	_
 28-2	_	did	_	_	_	_
-28-3	_	we	abstract[48]	new[48]	coref	29-13[48_49]
+28-3	_	we	abstract[50]	new[50]	coref	29-13[50_51]
 28-4	_	beat	_	_	_	_
 28-5	_	Japan	_	_	_	_
 28-6	_	at	_	_	_	_
@@ -283,9 +283,9 @@
 28-8	_	?	_	_	_	_
 
 #Text=They send their cars over by the millions , and what do we do ?
-29-1	_	They	abstract[95]	new[95]	coref	29-3[95_96]
+29-1	_	They	abstract[99]	new[99]	coref	29-3[99_100]
 29-2	_	send	_	_	_	_
-29-3	_	their	abstract[96]	new[96]	coref	32-1[96_97]
+29-3	_	their	abstract[100]	new[100]	coref	32-1[100_101]
 29-4	_	cars	_	_	_	_
 29-5	_	over	_	_	_	_
 29-6	_	by	_	_	_	_
@@ -295,7 +295,7 @@
 29-10	_	and	_	_	_	_
 29-11	_	what	_	_	_	_
 29-12	_	do	_	_	_	_
-29-13	_	we	abstract[49]	new[49]	coref	32-3[49_50]
+29-13	_	we	abstract[51]	new[51]	coref	32-3[51_52]
 29-14	_	do	_	_	_	_
 29-15	_	?	_	_	_	_
 
@@ -307,25 +307,25 @@
 30-5	_	time	_	_	_	_
 30-6	_	you	abstract[6]	new[6]	_	_
 30-7	_	saw	_	_	_	_
-30-8	_	a	abstract[98]	new[98]	coref	31-1[98_99]
-30-9	_	Chevrolet	abstract[98]	new[98]	_	_
+30-8	_	a	abstract[102]	new[102]	coref	31-1[102_103]
+30-9	_	Chevrolet	abstract[102]	new[102]	_	_
 30-10	_	in	_	_	_	_
 30-11	_	Tokyo	_	_	_	_
 30-12	_	?	_	_	_	_
 
 #Text=It does n't exist , folks .
-31-1	_	It	abstract[99]	new[99]	_	_
+31-1	_	It	abstract[103]	new[103]	_	_
 31-2	_	does	_	_	_	_
 31-3	_	n't	_	_	_	_
 31-4	_	exist	_	_	_	_
 31-5	_	,	_	_	_	_
-31-6	_	folks	abstract[112]	new[112]	coref	39-2[112_113]
+31-6	_	folks	abstract[116]	new[116]	coref	39-2[116_117]
 31-7	_	.	_	_	_	_
 
 #Text=They beat us all the time .
-32-1	_	They	abstract[97]	new[97]	_	_
+32-1	_	They	abstract[101]	new[101]	_	_
 32-2	_	beat	_	_	_	_
-32-3	_	us	abstract[50]	new[50]	coref	33-3[50_51]
+32-3	_	us	abstract[52]	new[52]	coref	33-3[52_53]
 32-4	_	all	_	_	_	_
 32-5	_	the	_	_	_	_
 32-6	_	time	_	_	_	_
@@ -334,7 +334,7 @@
 #Text=When do we beat Mexico at the border ?
 33-1	_	When	_	_	_	_
 33-2	_	do	_	_	_	_
-33-3	_	we	abstract[51]	new[51]	coref	34-5[51_52]
+33-3	_	we	abstract[53]	new[53]	coref	34-5[53_54]
 33-4	_	beat	_	_	_	_
 33-5	_	Mexico	_	_	_	_
 33-6	_	at	_	_	_	_
@@ -343,32 +343,32 @@
 33-9	_	?	_	_	_	_
 
 #Text=They 're laughing at us , at our stupidity .
-34-1	_	They	abstract[100]	new[100]	coref	35-3[100_101]
+34-1	_	They	abstract[104]	new[104]	coref	35-3[104_105]
 34-2	_	're	_	_	_	_
 34-3	_	laughing	_	_	_	_
 34-4	_	at	_	_	_	_
-34-5	_	us	abstract[52]	new[52]	coref	34-8[52_53]
+34-5	_	us	abstract[54]	new[54]	coref	34-8[54_55]
 34-6	_	,	_	_	_	_
 34-7	_	at	_	_	_	_
-34-8	_	our	abstract[53]	new[53]	coref	35-6[53_54]
+34-8	_	our	abstract[55]	new[55]	coref	35-6[55_56]
 34-9	_	stupidity	_	_	_	_
 34-10	_	.	_	_	_	_
 
 #Text=And now they are beating us economically .
 35-1	_	And	_	_	_	_
 35-2	_	now	_	_	_	_
-35-3	_	they	abstract[101]	new[101]	coref	36-1[101_102]
+35-3	_	they	abstract[105]	new[105]	coref	36-1[105_106]
 35-4	_	are	_	_	_	_
 35-5	_	beating	_	_	_	_
-35-6	_	us	abstract[54]	new[54]	coref	36-4[54_55]
+35-6	_	us	abstract[56]	new[56]	coref	36-4[56_57]
 35-7	_	economically	_	_	_	_
 35-8	_	.	_	_	_	_
 
 #Text=They are not our friend , believe me .
-36-1	_	They	abstract[102]	new[102]	coref	37-2[102_103]
+36-1	_	They	abstract[106]	new[106]	coref	37-2[106_107]
 36-2	_	are	_	_	_	_
 36-3	_	not	_	_	_	_
-36-4	_	our	abstract[55]	new[55]	coref	37-5[55_56]
+36-4	_	our	abstract[57]	new[57]	coref	37-5[57_58]
 36-5	_	friend	_	_	_	_
 36-6	_	,	_	_	_	_
 36-7	_	believe	_	_	_	_
@@ -377,16 +377,16 @@
 
 #Text=But they 're killing us economically .
 37-1	_	But	_	_	_	_
-37-2	_	they	abstract[103]	new[103]	coref	41-7[103_104]
+37-2	_	they	abstract[107]	new[107]	coref	41-7[107_108]
 37-3	_	're	_	_	_	_
 37-4	_	killing	_	_	_	_
-37-5	_	us	abstract[56]	new[56]	coref	44-18[56_57]
+37-5	_	us	abstract[58]	new[58]	coref	44-18[58_59]
 37-6	_	economically	_	_	_	_
 37-7	_	.	_	_	_	_
 
 #Text=The U.S. has become a dumping ground for everybody else 's problems .
-38-1	_	The	abstract[111]	new[111]	_	_
-38-2	_	U.S.	abstract[111]	new[111]	_	_
+38-1	_	The	abstract[115]	new[115]	_	_
+38-2	_	U.S.	abstract[115]	new[115]	_	_
 38-3	_	has	_	_	_	_
 38-4	_	become	_	_	_	_
 38-5	_	a	_	_	_	_
@@ -401,16 +401,16 @@
 
 #Text=Thank you .
 39-1	_	Thank	_	_	_	_
-39-2	_	you	abstract[113]	new[113]	coref	40-6[113_114]
+39-2	_	you	abstract[117]	new[117]	coref	40-6[117_118]
 39-3	_	.	_	_	_	_
 
 #Text=It 's true , and these are the best and the finest .
-40-1	_	It	abstract[140]	new[140]	coref	57-2[140_141]
+40-1	_	It	abstract[146]	new[146]	coref	57-2[146_147]
 40-2	_	's	_	_	_	_
 40-3	_	true	_	_	_	_
 40-4	_	,	_	_	_	_
 40-5	_	and	_	_	_	_
-40-6	_	these	abstract[114]	new[114]	coref	42-5[114_115]
+40-6	_	these	abstract[118]	new[118]	coref	42-5[118_119]
 40-7	_	are	_	_	_	_
 40-8	_	the	_	_	_	_
 40-9	_	best	_	_	_	_
@@ -421,72 +421,72 @@
 
 #Text=When Mexico sends its people , they 're not sending their best .
 41-1	_	When	_	_	_	_
-41-2	_	Mexico	abstract[123]	new[123]	coref	41-4[123_124]
+41-2	_	Mexico	abstract[127]	new[127]	coref	41-4[127_128]
 41-3	_	sends	_	_	_	_
-41-4	_	its	abstract[124]	new[124]	coref	53-7[124_125]
+41-4	_	its	abstract[128]	new[128]	coref	53-7[128_129]
 41-5	_	people	_	_	_	_
 41-6	_	,	_	_	_	_
-41-7	_	they	abstract[104]	new[104]	coref	41-11[104_105]
+41-7	_	they	abstract[108]	new[108]	coref	41-11[108_109]
 41-8	_	're	_	_	_	_
 41-9	_	not	_	_	_	_
 41-10	_	sending	_	_	_	_
-41-11	_	their	abstract[105]	new[105]	coref	42-1[105_106]
+41-11	_	their	abstract[109]	new[109]	coref	42-1[109_110]
 41-12	_	best	_	_	_	_
 41-13	_	.	_	_	_	_
 
 #Text=They 're not sending you .
-42-1	_	They	abstract[106]	new[106]	coref	43-1[106_107]
+42-1	_	They	abstract[110]	new[110]	coref	43-1[110_111]
 42-2	_	're	_	_	_	_
 42-3	_	not	_	_	_	_
 42-4	_	sending	_	_	_	_
-42-5	_	you	abstract[115]	new[115]	coref	43-5[115_116]
+42-5	_	you	abstract[119]	new[119]	coref	43-5[119_120]
 42-6	_	.	_	_	_	_
 
 #Text=They 're not sending you .
-43-1	_	They	abstract[107]	new[107]	coref	44-1[107_108]
+43-1	_	They	abstract[111]	new[111]	coref	44-1[111_112]
 43-2	_	're	_	_	_	_
 43-3	_	not	_	_	_	_
 43-4	_	sending	_	_	_	_
-43-5	_	you	abstract[116]	new[116]	coref	62-2[116_117]
+43-5	_	you	abstract[120]	new[120]	coref	62-2[120_121]
 43-6	_	.	_	_	_	_
 
 #Text=They 're sending people that have lots of problems , and they 're bringing those problems with us .
-44-1	_	They	abstract[108]	new[108]	coref	52-1[108_109]
+44-1	_	They	abstract[112]	new[112]	coref	52-1[112_113]
 44-2	_	're	_	_	_	_
 44-3	_	sending	_	_	_	_
-44-4	_	people	abstract[127]	new[127]	coref	44-12[127_128]
-44-5	_	that	abstract[127]	new[127]	_	_
-44-6	_	have	abstract[127]	new[127]	_	_
-44-7	_	lots	abstract[127]|abstract[132]	new[127]|new[132]	coref	44-15[132_133]
-44-8	_	of	abstract[127]|abstract[132]	new[127]|new[132]	_	_
-44-9	_	problems	abstract[127]|abstract[132]	new[127]|new[132]	_	_
+44-4	_	people	abstract[133]	new[133]	coref	44-12[133_134]
+44-5	_	that	abstract[133]	new[133]	_	_
+44-6	_	have	abstract[133]	new[133]	_	_
+44-7	_	lots	abstract[133]|abstract[138]	new[133]|new[138]	coref	44-15[138_139]
+44-8	_	of	abstract[133]|abstract[138]	new[133]|new[138]	_	_
+44-9	_	problems	abstract[133]|abstract[138]	new[133]|new[138]	_	_
 44-10	_	,	_	_	_	_
 44-11	_	and	_	_	_	_
-44-12	_	they	abstract[128]	new[128]	coref	45-1[128_129]
+44-12	_	they	abstract[134]	new[134]	coref	45-1[134_135]
 44-13	_	're	_	_	_	_
 44-14	_	bringing	_	_	_	_
-44-15	_	those	abstract[133]	new[133]	_	_
-44-16	_	problems	abstract[133]	new[133]	_	_
+44-15	_	those	abstract[139]	new[139]	_	_
+44-16	_	problems	abstract[139]	new[139]	_	_
 44-17	_	with	_	_	_	_
-44-18	_	us	abstract[57]	new[57]	coref	49-10[57_58]
+44-18	_	us	abstract[59]	new[59]	coref	49-10[59_60]
 44-19	_	.	_	_	_	_
 
 #Text=They 're bringing drugs .
-45-1	_	They	abstract[129]	new[129]	coref	46-1[129_130]
+45-1	_	They	abstract[135]	new[135]	coref	46-1[135_136]
 45-2	_	're	_	_	_	_
 45-3	_	bringing	_	_	_	_
 45-4	_	drugs	_	_	_	_
 45-5	_	.	_	_	_	_
 
 #Text=They 're bringing crime .
-46-1	_	They	abstract[130]	new[130]	coref	47-1[130_131]
+46-1	_	They	abstract[136]	new[136]	coref	47-1[136_137]
 46-2	_	're	_	_	_	_
 46-3	_	bringing	_	_	_	_
 46-4	_	crime	_	_	_	_
 46-5	_	.	_	_	_	_
 
 #Text=They 're rapists .
-47-1	_	They	abstract[131]	new[131]	_	_
+47-1	_	They	abstract[137]	new[137]	_	_
 47-2	_	're	_	_	_	_
 47-3	_	rapists	_	_	_	_
 47-4	_	.	_	_	_	_
@@ -508,21 +508,21 @@
 49-2	_	I	abstract[17]	new[17]	coref	60-1[17_18]
 49-3	_	speak	_	_	_	_
 49-4	_	to	_	_	_	_
-49-5	_	border	abstract[134]	new[134]	coref	49-8[134_135]
-49-6	_	guards	abstract[134]	new[134]	_	_
+49-5	_	border	abstract[140]	new[140]	coref	49-8[140_141]
+49-6	_	guards	abstract[140]	new[140]	_	_
 49-7	_	and	_	_	_	_
-49-8	_	they	abstract[135]	new[135]	_	_
+49-8	_	they	abstract[141]	new[141]	_	_
 49-9	_	tell	_	_	_	_
-49-10	_	us	abstract[58]	new[58]	coref	49-12[58_59]
+49-10	_	us	abstract[60]	new[60]	coref	49-12[60_61]
 49-11	_	what	_	_	_	_
-49-12	_	we	abstract[59]	new[59]	coref	52-4[59_60]
+49-12	_	we	abstract[61]	new[61]	coref	52-4[61_62]
 49-13	_	're	_	_	_	_
 49-14	_	getting	_	_	_	_
 49-15	_	.	_	_	_	_
 
 #Text=And it only makes common sense .
 50-1	_	And	_	_	_	_
-50-2	_	it	abstract[136]	new[136]	coref	51-1[136_137]
+50-2	_	it	abstract[142]	new[142]	coref	51-1[142_143]
 50-3	_	only	_	_	_	_
 50-4	_	makes	_	_	_	_
 50-5	_	common	_	_	_	_
@@ -530,7 +530,7 @@
 50-7	_	.	_	_	_	_
 
 #Text=It only makes common sense .
-51-1	_	It	abstract[137]	new[137]	_	_
+51-1	_	It	abstract[143]	new[143]	_	_
 51-2	_	only	_	_	_	_
 51-3	_	makes	_	_	_	_
 51-4	_	common	_	_	_	_
@@ -538,10 +538,10 @@
 51-6	_	.	_	_	_	_
 
 #Text=They 're sending us not the right people .
-52-1	_	They	abstract[109]	new[109]	_	_
+52-1	_	They	abstract[113]	new[113]	_	_
 52-2	_	're	_	_	_	_
 52-3	_	sending	_	_	_	_
-52-4	_	us	abstract[60]	new[60]	coref	55-2[60_61]
+52-4	_	us	abstract[62]	new[62]	coref	55-2[62_63]
 52-5	_	not	_	_	_	_
 52-6	_	the	_	_	_	_
 52-7	_	right	_	_	_	_
@@ -549,17 +549,17 @@
 52-9	_	.	_	_	_	_
 
 #Text=It 's coming from more than Mexico .
-53-1	_	It	abstract[138]	new[138]	coref	54-2[138_139]
+53-1	_	It	abstract[144]	new[144]	coref	54-2[144_145]
 53-2	_	's	_	_	_	_
 53-3	_	coming	_	_	_	_
 53-4	_	from	_	_	_	_
 53-5	_	more	_	_	_	_
 53-6	_	than	_	_	_	_
-53-7	_	Mexico	abstract[125]	new[125]	coref	98-19[125_126]
+53-7	_	Mexico	abstract[129]	new[129]	coref	98-19[129_130]
 53-8	_	.	_	_	_	_
 
 #Text=It 's coming from all over South and Latin America , and it 's coming probably — probably — from the Middle East .
-54-1	_	It	abstract[139]	new[139]	_	_
+54-1	_	It	abstract[145]	new[145]	_	_
 54-2	_	's	_	_	_	_
 54-3	_	coming	_	_	_	_
 54-4	_	from	_	_	_	_
@@ -579,14 +579,14 @@
 54-18	_	probably	_	_	_	_
 54-19	_	—	_	_	_	_
 54-20	_	from	_	_	_	_
-54-21	_	the	abstract[143]	new[143]	coref	58-9[143_144]
-54-22	_	Middle	abstract[143]	new[143]	_	_
-54-23	_	East	abstract[143]	new[143]	_	_
+54-21	_	the	abstract[149]	new[149]	coref	58-9[149_150]
+54-22	_	Middle	abstract[149]	new[149]	_	_
+54-23	_	East	abstract[149]	new[149]	_	_
 54-24	_	.	_	_	_	_
 
 #Text=But we do n't know .
 55-1	_	But	_	_	_	_
-55-2	_	we	abstract[61]	new[61]	coref	56-2[61_62]
+55-2	_	we	abstract[63]	new[63]	coref	56-2[63_64]
 55-3	_	do	_	_	_	_
 55-4	_	n't	_	_	_	_
 55-5	_	know	_	_	_	_
@@ -594,17 +594,17 @@
 
 #Text=Because we have no protection and we have no competence , we do n't know what 's happening .
 56-1	_	Because	_	_	_	_
-56-2	_	we	abstract[62]	new[62]	coref	56-7[62_63]
+56-2	_	we	abstract[64]	new[64]	coref	56-7[64_65]
 56-3	_	have	_	_	_	_
 56-4	_	no	_	_	_	_
 56-5	_	protection	_	_	_	_
 56-6	_	and	_	_	_	_
-56-7	_	we	abstract[63]	new[63]	coref	56-12[63_64]
+56-7	_	we	abstract[65]	new[65]	coref	56-12[65_66]
 56-8	_	have	_	_	_	_
 56-9	_	no	_	_	_	_
 56-10	_	competence	_	_	_	_
 56-11	_	,	_	_	_	_
-56-12	_	we	abstract[64]	new[64]	coref	65-17[64_65]
+56-12	_	we	abstract[66]	new[66]	coref	65-17[66_67]
 56-13	_	do	_	_	_	_
 56-14	_	n't	_	_	_	_
 56-15	_	know	_	_	_	_
@@ -615,13 +615,13 @@
 
 #Text=And it 's got to stop and it 's got to stop fast .
 57-1	_	And	_	_	_	_
-57-2	_	it	abstract[141]	new[141]	coref	57-8[141_142]
+57-2	_	it	abstract[147]	new[147]	coref	57-8[147_148]
 57-3	_	's	_	_	_	_
 57-4	_	got	_	_	_	_
 57-5	_	to	_	_	_	_
 57-6	_	stop	_	_	_	_
 57-7	_	and	_	_	_	_
-57-8	_	it	abstract[142]	new[142]	_	_
+57-8	_	it	abstract[148]	new[148]	_	_
 57-9	_	's	_	_	_	_
 57-10	_	got	_	_	_	_
 57-11	_	to	_	_	_	_
@@ -638,13 +638,13 @@
 58-6	_	large	_	_	_	_
 58-7	_	portions	_	_	_	_
 58-8	_	of	_	_	_	_
-58-9	_	the	abstract[144]	new[144]	coref	68-19[144_145]
-58-10	_	Middle	abstract[144]	new[144]	_	_
-58-11	_	East	abstract[144]	new[144]	_	_
+58-9	_	the	abstract[150]	new[150]	coref	68-19[150_151]
+58-10	_	Middle	abstract[150]	new[150]	_	_
+58-11	_	East	abstract[150]	new[150]	_	_
 58-12	_	.	_	_	_	_
 
 #Text=They 've become rich .
-59-1	_	They	abstract[148]	new[148]	coref	60-6[148_149]
+59-1	_	They	abstract[154]	new[154]	coref	60-6[154_155]
 59-2	_	've	_	_	_	_
 59-3	_	become	_	_	_	_
 59-4	_	rich	_	_	_	_
@@ -656,11 +656,11 @@
 60-3	_	in	_	_	_	_
 60-4	_	competition	_	_	_	_
 60-5	_	with	_	_	_	_
-60-6	_	them	abstract[149]	new[149]	coref	61-1[149_150]
+60-6	_	them	abstract[155]	new[155]	coref	61-1[155_156]
 60-7	_	.	_	_	_	_
 
 #Text=They just built a hotel in Syria .
-61-1	_	They	abstract[150]	new[150]	coref	63-1[150_151]
+61-1	_	They	abstract[156]	new[156]	coref	63-1[156_157]
 61-2	_	just	_	_	_	_
 61-3	_	built	_	_	_	_
 61-4	_	a	_	_	_	_
@@ -671,13 +671,13 @@
 
 #Text=Can you believe this ?
 62-1	_	Can	_	_	_	_
-62-2	_	you	abstract[117]	new[117]	coref	67-9[117_118]
+62-2	_	you	abstract[121]	new[121]	coref	67-9[121_122]
 62-3	_	believe	_	_	_	_
 62-4	_	this	_	_	_	_
 62-5	_	?	_	_	_	_
 
 #Text=They built a hotel .
-63-1	_	They	abstract[151]	new[151]	coref	65-1[151_152]
+63-1	_	They	abstract[157]	new[157]	coref	65-1[157_158]
 63-2	_	built	_	_	_	_
 63-3	_	a	_	_	_	_
 63-4	_	hotel	_	_	_	_
@@ -698,7 +698,7 @@
 64-12	_	.	_	_	_	_
 
 #Text=They do n't have to pay interest , because they took the oil that , when we left Iraq , I said we should 've taken .
-65-1	_	They	abstract[152]	new[152]	coref	65-10[152_153]
+65-1	_	They	abstract[158]	new[158]	coref	65-10[158_159]
 65-2	_	do	_	_	_	_
 65-3	_	n't	_	_	_	_
 65-4	_	have	_	_	_	_
@@ -707,41 +707,41 @@
 65-7	_	interest	_	_	_	_
 65-8	_	,	_	_	_	_
 65-9	_	because	_	_	_	_
-65-10	_	they	abstract[153]	new[153]	coref	66-3[153_154]
+65-10	_	they	abstract[159]	new[159]	coref	66-3[159_160]
 65-11	_	took	_	_	_	_
-65-12	_	the	abstract[157]	new[157]	coref	66-5[157_158]
-65-13	_	oil	abstract[157]	new[157]	_	_
-65-14	_	that	abstract[157]	new[157]	_	_
-65-15	_	,	abstract[157]	new[157]	_	_
-65-16	_	when	abstract[157]	new[157]	_	_
-65-17	_	we	abstract[65]|abstract[157]	new[65]|new[157]	coref	65-23[65_66]
-65-18	_	left	abstract[157]	new[157]	_	_
-65-19	_	Iraq	abstract[157]|abstract[162]	new[157]|new[162]	coref	68-9[162_163]
-65-20	_	,	abstract[157]	new[157]	_	_
-65-21	_	I	abstract[21]|abstract[157]	new[21]|new[157]	coref	67-6[21_22]
-65-22	_	said	abstract[157]	new[157]	_	_
-65-23	_	we	abstract[66]|abstract[157]	new[66]|new[157]	coref	67-40[66_67]
-65-24	_	should	abstract[157]	new[157]	_	_
-65-25	_	've	abstract[157]	new[157]	_	_
-65-26	_	taken	abstract[157]	new[157]	_	_
+65-12	_	the	abstract[163]	new[163]	coref	66-5[163_164]
+65-13	_	oil	abstract[163]	new[163]	_	_
+65-14	_	that	abstract[163]	new[163]	_	_
+65-15	_	,	abstract[163]	new[163]	_	_
+65-16	_	when	abstract[163]	new[163]	_	_
+65-17	_	we	abstract[67]|abstract[163]	new[67]|new[163]	coref	65-23[67_68]
+65-18	_	left	abstract[163]	new[163]	_	_
+65-19	_	Iraq	abstract[163]|abstract[168]	new[163]|new[168]	coref	68-9[168_169]
+65-20	_	,	abstract[163]	new[163]	_	_
+65-21	_	I	abstract[21]|abstract[163]	new[21]|new[163]	coref	67-6[21_22]
+65-22	_	said	abstract[163]	new[163]	_	_
+65-23	_	we	abstract[68]|abstract[163]	new[68]|new[163]	coref	67-40[68_69]
+65-24	_	should	abstract[163]	new[163]	_	_
+65-25	_	've	abstract[163]	new[163]	_	_
+65-26	_	taken	abstract[163]	new[163]	_	_
 65-27	_	.	_	_	_	_
 
 #Text=So now ISIS has the oil , and what they do n't have , Iran has .
 66-1	_	So	_	_	_	_
 66-2	_	now	_	_	_	_
-66-3	_	ISIS	abstract[154]	new[154]	coref	66-10[154_155]
+66-3	_	ISIS	abstract[160]	new[160]	coref	66-10[160_161]
 66-4	_	has	_	_	_	_
-66-5	_	the	abstract[158]	new[158]	coref	69-17[158_159]
-66-6	_	oil	abstract[158]	new[158]	_	_
+66-5	_	the	abstract[164]	new[164]	coref	69-17[164_165]
+66-6	_	oil	abstract[164]	new[164]	_	_
 66-7	_	,	_	_	_	_
 66-8	_	and	_	_	_	_
 66-9	_	what	_	_	_	_
-66-10	_	they	abstract[155]	new[155]	coref	79-18[155_156]
+66-10	_	they	abstract[161]	new[161]	coref	79-18[161_162]
 66-11	_	do	_	_	_	_
 66-12	_	n't	_	_	_	_
 66-13	_	have	_	_	_	_
 66-14	_	,	_	_	_	_
-66-15	_	Iran	abstract[173]	new[173]	coref	69-1[173_174]
+66-15	_	Iran	abstract[179]	new[179]	coref	69-1[179_180]
 66-16	_	has	_	_	_	_
 66-17	_	.	_	_	_	_
 
@@ -754,7 +754,7 @@
 67-6	_	I	abstract[22]	new[22]	coref	67-13[22_23]
 67-7	_	will	_	_	_	_
 67-8	_	tell	_	_	_	_
-67-9	_	you	abstract[118]	new[118]	coref	83-1[118_119]
+67-9	_	you	abstract[122]	new[122]	coref	83-1[122_123]
 67-10	_	this	_	_	_	_
 67-11	_	,	_	_	_	_
 67-12	_	and	_	_	_	_
@@ -773,27 +773,27 @@
 67-25	_	and	_	_	_	_
 67-26	_	I	abstract[25]	new[25]	coref	67-32[25_26]
 67-27	_	love	_	_	_	_
-67-28	_	the	abstract[171]	new[171]	coref	68-13[171_172]
-67-29	_	military	abstract[171]	new[171]	_	_
+67-28	_	the	abstract[177]	new[177]	coref	68-13[177_178]
+67-29	_	military	abstract[177]	new[177]	_	_
 67-30	_	,	_	_	_	_
 67-31	_	and	_	_	_	_
 67-32	_	I	abstract[26]	new[26]	coref	68-2[26_27]
 67-33	_	want	_	_	_	_
 67-34	_	to	_	_	_	_
 67-35	_	have	_	_	_	_
-67-36	_	the	abstract[160]	new[160]	coref	67-48[160_161]
-67-37	_	strongest	abstract[160]	new[160]	_	_
-67-38	_	military	abstract[160]	new[160]	_	_
-67-39	_	that	abstract[160]	new[160]	_	_
-67-40	_	we	abstract[67]|abstract[160]	new[67]|new[160]	coref	67-46[67_68]
-67-41	_	've	abstract[160]	new[160]	_	_
-67-42	_	ever	abstract[160]	new[160]	_	_
-67-43	_	had	abstract[160]	new[160]	_	_
+67-36	_	the	abstract[166]	new[166]	coref	67-48[166_167]
+67-37	_	strongest	abstract[166]	new[166]	_	_
+67-38	_	military	abstract[166]	new[166]	_	_
+67-39	_	that	abstract[166]	new[166]	_	_
+67-40	_	we	abstract[69]|abstract[166]	new[69]|new[166]	coref	67-46[69_70]
+67-41	_	've	abstract[166]	new[166]	_	_
+67-42	_	ever	abstract[166]	new[166]	_	_
+67-43	_	had	abstract[166]	new[166]	_	_
 67-44	_	,	_	_	_	_
 67-45	_	and	_	_	_	_
-67-46	_	we	abstract[68]	new[68]	coref	72-1[68_69]
+67-46	_	we	abstract[70]	new[70]	coref	72-1[70_71]
 67-47	_	need	_	_	_	_
-67-48	_	it	abstract[161]	new[161]	_	_
+67-48	_	it	abstract[167]	new[167]	_	_
 67-49	_	more	_	_	_	_
 67-50	_	now	_	_	_	_
 67-51	_	than	_	_	_	_
@@ -809,52 +809,52 @@
 68-6	_	Do	_	_	_	_
 68-7	_	n't	_	_	_	_
 68-8	_	hit	_	_	_	_
-68-9	_	Iraq	abstract[163]	new[163]	coref	69-30[163_164]
+68-9	_	Iraq	abstract[169]	new[169]	coref	69-30[169_170]
 68-10	_	,	_	_	_	_
 68-11	_	"	_	_	_	_
 68-12	_	because	_	_	_	_
-68-13	_	you	abstract[172]	new[172]	_	_
+68-13	_	you	abstract[178]	new[178]	_	_
 68-14	_	're	_	_	_	_
 68-15	_	going	_	_	_	_
 68-16	_	to	_	_	_	_
 68-17	_	totally	_	_	_	_
 68-18	_	destabilize	_	_	_	_
-68-19	_	the	abstract[145]	new[145]	coref	69-7[145_146]
-68-20	_	Middle	abstract[145]	new[145]	_	_
-68-21	_	East	abstract[145]	new[145]	_	_
+68-19	_	the	abstract[151]	new[151]	coref	69-7[151_152]
+68-20	_	Middle	abstract[151]	new[151]	_	_
+68-21	_	East	abstract[151]	new[151]	_	_
 68-22	_	.	_	_	_	_
 
 #Text=Iran is going to take over the Middle East , Iran and somebody else will get the oil , and it turned out that Iran is now taking over Iraq .
-69-1	_	Iran	abstract[174]	new[174]	coref	69-11[174_175]
+69-1	_	Iran	abstract[180]	new[180]	coref	69-11[180_181]
 69-2	_	is	_	_	_	_
 69-3	_	going	_	_	_	_
 69-4	_	to	_	_	_	_
 69-5	_	take	_	_	_	_
 69-6	_	over	_	_	_	_
-69-7	_	the	abstract[146]	new[146]	_	_
-69-8	_	Middle	abstract[146]	new[146]	_	_
-69-9	_	East	abstract[146]	new[146]	_	_
+69-7	_	the	abstract[152]	new[152]	_	_
+69-8	_	Middle	abstract[152]	new[152]	_	_
+69-9	_	East	abstract[152]	new[152]	_	_
 69-10	_	,	_	_	_	_
-69-11	_	Iran	abstract[175]	new[175]	coref	69-25[175_176]
+69-11	_	Iran	abstract[181]	new[181]	coref	69-25[181_182]
 69-12	_	and	_	_	_	_
 69-13	_	somebody	_	_	_	_
 69-14	_	else	_	_	_	_
 69-15	_	will	_	_	_	_
 69-16	_	get	_	_	_	_
-69-17	_	the	abstract[159]	new[159]	_	_
-69-18	_	oil	abstract[159]	new[159]	_	_
+69-17	_	the	abstract[165]	new[165]	_	_
+69-18	_	oil	abstract[165]	new[165]	_	_
 69-19	_	,	_	_	_	_
 69-20	_	and	_	_	_	_
 69-21	_	it	_	_	_	_
 69-22	_	turned	_	_	_	_
 69-23	_	out	_	_	_	_
 69-24	_	that	_	_	_	_
-69-25	_	Iran	abstract[176]	new[176]	coref	71-1[176_177]
+69-25	_	Iran	abstract[182]	new[182]	coref	71-1[182_183]
 69-26	_	is	_	_	_	_
 69-27	_	now	_	_	_	_
 69-28	_	taking	_	_	_	_
 69-29	_	over	_	_	_	_
-69-30	_	Iraq	abstract[164]	new[164]	coref	71-5[164_165]
+69-30	_	Iraq	abstract[170]	new[170]	coref	71-5[170_171]
 69-31	_	.	_	_	_	_
 
 #Text=Think of it .
@@ -864,30 +864,30 @@
 70-4	_	.	_	_	_	_
 
 #Text=Iran is taking over Iraq , and they 're taking it over big league .
-71-1	_	Iran	abstract[177]	new[177]	coref	71-8[177_178]
+71-1	_	Iran	abstract[183]	new[183]	coref	71-8[183_184]
 71-2	_	is	_	_	_	_
 71-3	_	taking	_	_	_	_
 71-4	_	over	_	_	_	_
-71-5	_	Iraq	abstract[165]	new[165]	coref	71-11[165_166]
+71-5	_	Iraq	abstract[171]	new[171]	coref	71-11[171_172]
 71-6	_	,	_	_	_	_
 71-7	_	and	_	_	_	_
-71-8	_	they	abstract[178]	new[178]	_	_
+71-8	_	they	abstract[184]	new[184]	_	_
 71-9	_	're	_	_	_	_
 71-10	_	taking	_	_	_	_
-71-11	_	it	abstract[166]	new[166]	coref	72-7[166_167]
+71-11	_	it	abstract[172]	new[172]	coref	72-7[172_173]
 71-12	_	over	_	_	_	_
 71-13	_	big	_	_	_	_
 71-14	_	league	_	_	_	_
 71-15	_	.	_	_	_	_
 
 #Text=We spent $ 2 trillion in Iraq , $ 2 trillion .
-72-1	_	We	abstract[69]	new[69]	coref	73-1[69_70]
+72-1	_	We	abstract[71]	new[71]	coref	73-1[71_72]
 72-2	_	spent	_	_	_	_
 72-3	_	$	_	_	_	_
 72-4	_	2	_	_	_	_
 72-5	_	trillion	_	_	_	_
 72-6	_	in	_	_	_	_
-72-7	_	Iraq	abstract[167]	new[167]	coref	73-9[167_168]
+72-7	_	Iraq	abstract[173]	new[173]	coref	73-9[173_174]
 72-8	_	,	_	_	_	_
 72-9	_	$	_	_	_	_
 72-10	_	2	_	_	_	_
@@ -895,7 +895,7 @@
 72-12	_	.	_	_	_	_
 
 #Text=We lost thousands of lives , thousands in Iraq .
-73-1	_	We	abstract[70]	new[70]	coref	74-1[70_71]
+73-1	_	We	abstract[72]	new[72]	coref	74-1[72_73]
 73-2	_	lost	_	_	_	_
 73-3	_	thousands	_	_	_	_
 73-4	_	of	_	_	_	_
@@ -903,11 +903,11 @@
 73-6	_	,	_	_	_	_
 73-7	_	thousands	_	_	_	_
 73-8	_	in	_	_	_	_
-73-9	_	Iraq	abstract[168]	new[168]	coref	76-6[168_169]
+73-9	_	Iraq	abstract[174]	new[174]	coref	76-6[174_175]
 73-10	_	.	_	_	_	_
 
 #Text=We have wounded soldiers , who I love , I love — they 're great — all over the place , thousands and thousands of wounded soldiers .
-74-1	_	We	abstract[71]	new[71]	coref	75-2[71_72]
+74-1	_	We	abstract[73]	new[73]	coref	75-2[73_74]
 74-2	_	have	_	_	_	_
 74-3	_	wounded	_	_	_	_
 74-4	_	soldiers	_	_	_	_
@@ -938,22 +938,22 @@
 
 #Text=And we have nothing .
 75-1	_	And	_	_	_	_
-75-2	_	we	abstract[72]	new[72]	coref	76-1[72_73]
+75-2	_	we	abstract[74]	new[74]	coref	76-1[74_75]
 75-3	_	have	_	_	_	_
 75-4	_	nothing	_	_	_	_
 75-5	_	.	_	_	_	_
 
 #Text=We ca n't even go there .
-76-1	_	We	abstract[73]	new[73]	coref	77-1[73_74]
+76-1	_	We	abstract[75]	new[75]	coref	77-1[75_76]
 76-2	_	ca	_	_	_	_
 76-3	_	n't	_	_	_	_
 76-4	_	even	_	_	_	_
 76-5	_	go	_	_	_	_
-76-6	_	there	abstract[169]	new[169]	coref	78-6[169_170]
+76-6	_	there	abstract[175]	new[175]	coref	78-6[175_176]
 76-7	_	.	_	_	_	_
 
 #Text=We have nothing .
-77-1	_	We	abstract[74]	new[74]	coref	78-4[74_75]
+77-1	_	We	abstract[76]	new[76]	coref	78-4[76_77]
 77-2	_	have	_	_	_	_
 77-3	_	nothing	_	_	_	_
 77-4	_	.	_	_	_	_
@@ -962,10 +962,10 @@
 78-1	_	And	_	_	_	_
 78-2	_	every	_	_	_	_
 78-3	_	time	_	_	_	_
-78-4	_	we	abstract[75]	new[75]	coref	86-8[75_76]
+78-4	_	we	abstract[77]	new[77]	coref	86-8[77_78]
 78-5	_	give	_	_	_	_
-78-6	_	Iraq	abstract[170]	new[170]	_	_
-78-7	_	equipment	abstract[179]	new[179]	coref	78-22[179_180]
+78-6	_	Iraq	abstract[176]	new[176]	_	_
+78-7	_	equipment	abstract[185]	new[185]	coref	78-22[185_186]
 78-8	_	,	_	_	_	_
 78-9	_	the	_	_	_	_
 78-10	_	first	_	_	_	_
@@ -978,9 +978,9 @@
 78-17	_	the	_	_	_	_
 78-18	_	air	_	_	_	_
 78-19	_	,	_	_	_	_
-78-20	_	they	abstract[181]	new[181]	coref	82-5[181_182]
+78-20	_	they	abstract[187]	new[187]	coref	82-5[187_188]
 78-21	_	leave	_	_	_	_
-78-22	_	it	abstract[180]	new[180]	_	_
+78-22	_	it	abstract[186]	new[186]	_	_
 78-23	_	.	_	_	_	_
 
 #Text=Last week , I read 2,300 Humvees — these are big vehicles — were left behind for the enemy .
@@ -1001,8 +1001,8 @@
 79-15	_	left	_	_	_	_
 79-16	_	behind	_	_	_	_
 79-17	_	for	_	_	_	_
-79-18	_	the	abstract[156]	new[156]	_	_
-79-19	_	enemy	abstract[156]	new[156]	_	_
+79-18	_	the	abstract[162]	new[162]	_	_
+79-19	_	enemy	abstract[162]	new[162]	_	_
 79-20	_	.	_	_	_	_
 
 #Text=2,000 ?
@@ -1021,35 +1021,35 @@
 81-9	_	?	_	_	_	_
 
 #Text=2,300 sophisticated vehicles , they ran , and the enemy took them .
-82-1	_	2,300	abstract[183]	new[183]	coref	82-12[183_184]
-82-2	_	sophisticated	abstract[183]	new[183]	_	_
-82-3	_	vehicles	abstract[183]	new[183]	_	_
+82-1	_	2,300	abstract[189]	new[189]	coref	82-12[189_190]
+82-2	_	sophisticated	abstract[189]	new[189]	_	_
+82-3	_	vehicles	abstract[189]	new[189]	_	_
 82-4	_	,	_	_	_	_
-82-5	_	they	abstract[182]	new[182]	_	_
+82-5	_	they	abstract[188]	new[188]	_	_
 82-6	_	ran	_	_	_	_
 82-7	_	,	_	_	_	_
 82-8	_	and	_	_	_	_
 82-9	_	the	_	_	_	_
 82-10	_	enemy	_	_	_	_
 82-11	_	took	_	_	_	_
-82-12	_	them	abstract[184]	new[184]	_	_
+82-12	_	them	abstract[190]	new[190]	_	_
 82-13	_	.	_	_	_	_
 
 #Text=We need Trump now .
-83-1	_	We	abstract[119]	new[119]	coref	84-1[119_120]
+83-1	_	We	abstract[123]	new[123]	coref	84-1[123_124]
 83-2	_	need	_	_	_	_
 83-3	_	Trump	abstract[31]	new[31]	coref	85-3[31_32]
 83-4	_	now	_	_	_	_
 83-5	_	.	_	_	_	_
 
 #Text=You 're right .
-84-1	_	You	abstract[120]	new[120]	coref	85-1[120_121]
+84-1	_	You	abstract[124]	new[124]	coref	85-1[124_125]
 84-2	_	're	_	_	_	_
 84-3	_	right	_	_	_	_
 84-4	_	.	_	_	_	_
 
 #Text=We need Trump now .
-85-1	_	We	abstract[121]	new[121]	coref	101-1[121_122]
+85-1	_	We	abstract[125]	new[125]	coref	101-1[125_126]
 85-2	_	need	_	_	_	_
 85-3	_	Trump	abstract[32]	new[32]	coref	101-3[32_33]
 85-4	_	now	_	_	_	_
@@ -1063,7 +1063,7 @@
 86-5	_	was	_	_	_	_
 86-6	_	just	_	_	_	_
 86-7	_	announced	_	_	_	_
-86-8	_	our	abstract[76]	new[76]	coref	87-4[76_77]
+86-8	_	our	abstract[78]	new[78]	coref	87-4[78_79]
 86-9	_	gross	_	_	_	_
 86-10	_	domestic	_	_	_	_
 86-11	_	product	_	_	_	_
@@ -1080,7 +1080,7 @@
 87-1	_	But	_	_	_	_
 87-2	_	not	_	_	_	_
 87-3	_	for	_	_	_	_
-87-4	_	us	abstract[77]	new[77]	coref	91-1[77_78]
+87-4	_	us	abstract[79]	new[79]	coref	91-1[79_80]
 87-5	_	.	_	_	_	_
 
 #Text=It was below zero .
@@ -1106,7 +1106,7 @@
 90-6	_	.	_	_	_	_
 
 #Text=Our labor participation rate was the worst since 1978 .
-91-1	_	Our	abstract[78]	new[78]	coref	93-2[78_79]
+91-1	_	Our	abstract[80]	new[80]	coref	93-2[80_81]
 91-2	_	labor	_	_	_	_
 91-3	_	participation	_	_	_	_
 91-4	_	rate	_	_	_	_
@@ -1135,7 +1135,7 @@
 
 #Text=And our real unemployment is anywhere from 18 to 20 percent .
 93-1	_	And	_	_	_	_
-93-2	_	our	abstract[79]	new[79]	coref	98-16[79_80]
+93-2	_	our	abstract[81]	new[81]	coref	98-16[81_82]
 93-3	_	real	_	_	_	_
 93-4	_	unemployment	_	_	_	_
 93-5	_	is	_	_	_	_
@@ -1151,15 +1151,15 @@
 94-1	_	Do	_	_	_	_
 94-2	_	n't	_	_	_	_
 94-3	_	believe	_	_	_	_
-94-4	_	the	abstract[185]	new[185]	coref	95-4[185_186]
-94-5	_	5.6	abstract[185]	new[185]	_	_
+94-4	_	the	abstract[191]	new[191]	coref	95-4[191_192]
+94-5	_	5.6	abstract[191]	new[191]	_	_
 94-6	_	.	_	_	_	_
 
 #Text=Do n't believe it .
 95-1	_	Do	_	_	_	_
 95-2	_	n't	_	_	_	_
 95-3	_	believe	_	_	_	_
-95-4	_	it	abstract[186]	new[186]	_	_
+95-4	_	it	abstract[192]	new[192]	_	_
 95-5	_	.	_	_	_	_
 
 #Text=That 's right .
@@ -1169,12 +1169,12 @@
 96-4	_	.	_	_	_	_
 
 #Text=A lot of people up there ca n't get jobs .
-97-1	_	A	abstract[187]	new[187]	coref	98-1[187_188]
-97-2	_	lot	abstract[187]	new[187]	_	_
-97-3	_	of	abstract[187]	new[187]	_	_
-97-4	_	people	abstract[187]	new[187]	_	_
-97-5	_	up	abstract[187]	new[187]	_	_
-97-6	_	there	abstract[187]	new[187]	_	_
+97-1	_	A	abstract[193]	new[193]	coref	98-1[193_194]
+97-2	_	lot	abstract[193]	new[193]	_	_
+97-3	_	of	abstract[193]	new[193]	_	_
+97-4	_	people	abstract[193]	new[193]	_	_
+97-5	_	up	abstract[193]	new[193]	_	_
+97-6	_	there	abstract[193]	new[193]	_	_
 97-7	_	ca	_	_	_	_
 97-8	_	n't	_	_	_	_
 97-9	_	get	_	_	_	_
@@ -1182,7 +1182,7 @@
 97-11	_	.	_	_	_	_
 
 #Text=They ca n't get jobs , because there are no jobs , because China has our jobs and Mexico has our jobs .
-98-1	_	They	abstract[188]	new[188]	_	_
+98-1	_	They	abstract[194]	new[194]	_	_
 98-2	_	ca	_	_	_	_
 98-3	_	n't	_	_	_	_
 98-4	_	get	_	_	_	_
@@ -1195,15 +1195,15 @@
 98-11	_	jobs	_	_	_	_
 98-12	_	,	_	_	_	_
 98-13	_	because	_	_	_	_
-98-14	_	China	abstract[190]	new[190]	_	_
+98-14	_	China	abstract[196]	new[196]	coref	110-46[196_197]
 98-15	_	has	_	_	_	_
-98-16	_	our	abstract[80]|abstract[191]	new[80]|new[191]	coref|coref	98-21[80_81]|98-21[191_192]
-98-17	_	jobs	abstract[191]	new[191]	_	_
+98-16	_	our	abstract[82]|abstract[198]	new[82]|new[198]	coref|coref	98-21[82_83]|98-21[198_199]
+98-17	_	jobs	abstract[198]	new[198]	_	_
 98-18	_	and	_	_	_	_
-98-19	_	Mexico	abstract[126]	new[126]	_	_
+98-19	_	Mexico	abstract[130]	new[130]	coref	110-28[130_131]
 98-20	_	has	_	_	_	_
-98-21	_	our	abstract[81]|abstract[192]	new[81]|new[192]	coref	102-1[81_82]
-98-22	_	jobs	abstract[192]	new[192]	_	_
+98-21	_	our	abstract[83]|abstract[199]	new[83]|new[199]	coref	102-1[83_84]
+98-22	_	jobs	abstract[199]	new[199]	_	_
 98-23	_	.	_	_	_	_
 
 #Text=They all have jobs .
@@ -1215,13 +1215,13 @@
 
 #Text=But the real number , the real number is anywhere from 18 to 19 and maybe even 21 percent , and nobody talks about it , because it 's a statistic that 's full of nonsense .
 100-1	_	But	_	_	_	_
-100-2	_	the	abstract[193]	new[193]	coref	100-6[193_194]
-100-3	_	real	abstract[193]	new[193]	_	_
-100-4	_	number	abstract[193]	new[193]	_	_
+100-2	_	the	abstract[200]	new[200]	coref	100-6[200_201]
+100-3	_	real	abstract[200]	new[200]	_	_
+100-4	_	number	abstract[200]	new[200]	_	_
 100-5	_	,	_	_	_	_
-100-6	_	the	abstract[194]	new[194]	coref	100-25[194_195]
-100-7	_	real	abstract[194]	new[194]	_	_
-100-8	_	number	abstract[194]	new[194]	_	_
+100-6	_	the	abstract[201]	new[201]	coref	100-25[201_202]
+100-7	_	real	abstract[201]	new[201]	_	_
+100-8	_	number	abstract[201]	new[201]	_	_
 100-9	_	is	_	_	_	_
 100-10	_	anywhere	_	_	_	_
 100-11	_	from	_	_	_	_
@@ -1238,10 +1238,10 @@
 100-22	_	nobody	_	_	_	_
 100-23	_	talks	_	_	_	_
 100-24	_	about	_	_	_	_
-100-25	_	it	abstract[195]	new[195]	coref	100-28[195_196]
+100-25	_	it	abstract[202]	new[202]	coref	100-28[202_203]
 100-26	_	,	_	_	_	_
 100-27	_	because	_	_	_	_
-100-28	_	it	abstract[196]	new[196]	_	_
+100-28	_	it	abstract[203]	new[203]	_	_
 100-29	_	's	_	_	_	_
 100-30	_	a	_	_	_	_
 100-31	_	statistic	_	_	_	_
@@ -1253,14 +1253,14 @@
 100-37	_	.	_	_	_	_
 
 #Text=We want Trump now .
-101-1	_	We	abstract[122]	new[122]	_	_
+101-1	_	We	abstract[126]	new[126]	_	_
 101-2	_	want	_	_	_	_
 101-3	_	Trump	abstract[33]	new[33]	coref	106-2[33_34]
 101-4	_	now	_	_	_	_
 101-5	_	.	_	_	_	_
 
 #Text=Our enemies are getting stronger and stronger by the way , and we as a country are getting weaker .
-102-1	_	Our	abstract[82]	new[82]	coref	102-13[82_83]
+102-1	_	Our	abstract[84]	new[84]	coref	102-13[84_85]
 102-2	_	enemies	_	_	_	_
 102-3	_	are	_	_	_	_
 102-4	_	getting	_	_	_	_
@@ -1272,10 +1272,10 @@
 102-10	_	way	_	_	_	_
 102-11	_	,	_	_	_	_
 102-12	_	and	_	_	_	_
-102-13	_	we	abstract[83]	new[83]	coref	103-2[83_84]
-102-14	_	as	abstract[83]	new[83]	_	_
-102-15	_	a	abstract[83]|abstract[204]	new[83]|new[204]	coref	107-10[204_205]
-102-16	_	country	abstract[83]|abstract[204]	new[83]|new[204]	_	_
+102-13	_	we	abstract[85]	new[85]	coref	103-2[85_86]
+102-14	_	as	abstract[85]	new[85]	_	_
+102-15	_	a	abstract[85]|abstract[211]	new[85]|new[211]	coref	107-10[211_212]
+102-16	_	country	abstract[85]|abstract[211]	new[85]|new[211]	_	_
 102-17	_	are	_	_	_	_
 102-18	_	getting	_	_	_	_
 102-19	_	weaker	_	_	_	_
@@ -1283,7 +1283,7 @@
 
 #Text=Even our nuclear arsenal does n't work .
 103-1	_	Even	_	_	_	_
-103-2	_	our	abstract[84]	new[84]	coref	106-32[84_85]
+103-2	_	our	abstract[86]	new[86]	coref	106-32[86_87]
 103-3	_	nuclear	_	_	_	_
 103-4	_	arsenal	_	_	_	_
 103-5	_	does	_	_	_	_
@@ -1296,7 +1296,7 @@
 104-2	_	came	_	_	_	_
 104-3	_	out	_	_	_	_
 104-4	_	recently	_	_	_	_
-104-5	_	they	abstract[197]	new[197]	coref	105-1[197_198]
+104-5	_	they	abstract[204]	new[204]	coref	105-1[204_205]
 104-6	_	have	_	_	_	_
 104-7	_	equipment	_	_	_	_
 104-8	_	that	_	_	_	_
@@ -1307,7 +1307,7 @@
 104-13	_	.	_	_	_	_
 
 #Text=They do n't know if it worked .
-105-1	_	They	abstract[198]	new[198]	_	_
+105-1	_	They	abstract[205]	new[205]	_	_
 105-2	_	do	_	_	_	_
 105-3	_	n't	_	_	_	_
 105-4	_	know	_	_	_	_
@@ -1318,13 +1318,13 @@
 
 #Text=And I thought it was horrible when it was broadcast on television , because boy , does that send signals to Putin and all of the other people that look at us and they say ,
 106-1	_	And	_	_	_	_
-106-2	_	I	abstract[34]	new[34]	_	_
+106-2	_	I	abstract[34]	new[34]	coref	110-5[34_35]
 106-3	_	thought	_	_	_	_
-106-4	_	it	abstract[199]	new[199]	coref	106-8[199_200]
+106-4	_	it	abstract[206]	new[206]	coref	106-8[206_207]
 106-5	_	was	_	_	_	_
 106-6	_	horrible	_	_	_	_
 106-7	_	when	_	_	_	_
-106-8	_	it	abstract[200]	new[200]	coref	106-18[200_201]
+106-8	_	it	abstract[207]	new[207]	coref	106-18[207_208]
 106-9	_	was	_	_	_	_
 106-10	_	broadcast	_	_	_	_
 106-11	_	on	_	_	_	_
@@ -1334,29 +1334,29 @@
 106-15	_	boy	_	_	_	_
 106-16	_	,	_	_	_	_
 106-17	_	does	_	_	_	_
-106-18	_	that	abstract[201]	new[201]	_	_
+106-18	_	that	abstract[208]	new[208]	_	_
 106-19	_	send	_	_	_	_
 106-20	_	signals	_	_	_	_
 106-21	_	to	_	_	_	_
 106-22	_	Putin	_	_	_	_
 106-23	_	and	_	_	_	_
-106-24	_	all	abstract[202]	new[202]	coref	106-34[202_203]
-106-25	_	of	abstract[202]	new[202]	_	_
-106-26	_	the	abstract[202]	new[202]	_	_
-106-27	_	other	abstract[202]	new[202]	_	_
-106-28	_	people	abstract[202]	new[202]	_	_
-106-29	_	that	abstract[202]	new[202]	_	_
-106-30	_	look	abstract[202]	new[202]	_	_
-106-31	_	at	abstract[202]	new[202]	_	_
-106-32	_	us	abstract[85]|abstract[202]	new[85]|new[202]	coref	107-2[85_86]
+106-24	_	all	abstract[209]	new[209]	coref	106-34[209_210]
+106-25	_	of	abstract[209]	new[209]	_	_
+106-26	_	the	abstract[209]	new[209]	_	_
+106-27	_	other	abstract[209]	new[209]	_	_
+106-28	_	people	abstract[209]	new[209]	_	_
+106-29	_	that	abstract[209]	new[209]	_	_
+106-30	_	look	abstract[209]	new[209]	_	_
+106-31	_	at	abstract[209]	new[209]	_	_
+106-32	_	us	abstract[87]|abstract[209]	new[87]|new[209]	coref	107-2[87_88]
 106-33	_	and	_	_	_	_
-106-34	_	they	abstract[203]	new[203]	_	_
+106-34	_	they	abstract[210]	new[210]	_	_
 106-35	_	say	_	_	_	_
 106-36	_	,	_	_	_	_
 
 #Text=" That is a group of people , and that is a nation that truly has no clue .
 107-1	_	"	_	_	_	_
-107-2	_	That	abstract[86]	new[86]	coref	108-1[86_87]
+107-2	_	That	abstract[88]	new[88]	coref	108-1[88_89]
 107-3	_	is	_	_	_	_
 107-4	_	a	_	_	_	_
 107-5	_	group	_	_	_	_
@@ -1364,7 +1364,7 @@
 107-7	_	people	_	_	_	_
 107-8	_	,	_	_	_	_
 107-9	_	and	_	_	_	_
-107-10	_	that	abstract[205]	new[205]	_	_
+107-10	_	that	abstract[212]	new[212]	_	_
 107-11	_	is	_	_	_	_
 107-12	_	a	_	_	_	_
 107-13	_	nation	_	_	_	_
@@ -1376,46 +1376,78 @@
 107-19	_	.	_	_	_	_
 
 #Text=They do n't know what they 're doing .
-108-1	_	They	abstract[87]	new[87]	coref	108-6[87_88]
+108-1	_	They	abstract[89]	new[89]	coref	108-6[89_90]
 108-2	_	do	_	_	_	_
 108-3	_	n't	_	_	_	_
 108-4	_	know	_	_	_	_
 108-5	_	what	_	_	_	_
-108-6	_	they	abstract[88]	new[88]	coref	109-1[88_89]
+108-6	_	they	abstract[90]	new[90]	coref	109-1[90_91]
 108-7	_	're	_	_	_	_
 108-8	_	doing	_	_	_	_
 108-9	_	.	_	_	_	_
 
 #Text=They do n't know what they 're doing . "
-109-1	_	They	abstract[89]	new[89]	coref	109-6[89_90]
+109-1	_	They	abstract[91]	new[91]	coref	109-6[91_92]
 109-2	_	do	_	_	_	_
 109-3	_	n't	_	_	_	_
 109-4	_	know	_	_	_	_
 109-5	_	what	_	_	_	_
-109-6	_	they	abstract[90]	new[90]	_	_
+109-6	_	they	abstract[92]	new[92]	coref	110-18[92_93]
 109-7	_	're	_	_	_	_
 109-8	_	doing	_	_	_	_
 109-9	_	.	_	_	_	_
 109-10	_	"	_	_	_	_
 
-#Text=The first images are coming down from the James Webb Space Telescope ’s mission in Columbia , SC .
-110-1	_	The	_	_	_	_
-110-2	_	first	_	_	_	_
-110-3	_	images	_	_	_	_
-110-4	_	are	_	_	_	_
-110-5	_	coming	_	_	_	_
-110-6	_	down	_	_	_	_
-110-7	_	from	_	_	_	_
-110-8	_	the	_	_	_	_
-110-9	_	James	_	_	_	_
-110-10	_	Webb	_	_	_	_
-110-11	_	Space	_	_	_	_
-110-12	_	Telescope	_	_	_	_
-110-13	_	’s	_	_	_	_
-110-14	_	mission	_	_	_	_
-110-15	_	in	_	_	_	_
-110-16	_	Columbia	_	_	_	_
-110-17	_	,	_	_	_	_
-110-18	_	SC	_	_	_	_
-110-19	_	.	_	_	_	_
+#Text=In a speech at Trump Tower , Donald Trump berates other candidates for the Presidency and criticizes US military losses in the Middle East , immigration from Mexico , the state of the US nuclear arsenal , and economic and job losses in comparison to China , Mexico and Japan .
+110-1	_	In	_	_	_	_
+110-2	_	a	_	_	_	_
+110-3	_	speech	_	_	_	_
+110-4	_	at	_	_	_	_
+110-5	_	Trump	abstract[35]	new[35]	coref	110-8[35_36]
+110-6	_	Tower	_	_	_	_
+110-7	_	,	_	_	_	_
+110-8	_	Donald	abstract[36]	new[36]	_	_
+110-9	_	Trump	abstract[36]	new[36]	_	_
+110-10	_	berates	_	_	_	_
+110-11	_	other	_	_	_	_
+110-12	_	candidates	_	_	_	_
+110-13	_	for	_	_	_	_
+110-14	_	the	_	_	_	_
+110-15	_	Presidency	_	_	_	_
+110-16	_	and	_	_	_	_
+110-17	_	criticizes	_	_	_	_
+110-18	_	US	abstract[93]	new[93]	coref	110-34[93_94]
+110-19	_	military	_	_	_	_
+110-20	_	losses	_	_	_	_
+110-21	_	in	_	_	_	_
+110-22	_	the	_	_	_	_
+110-23	_	Middle	_	_	_	_
+110-24	_	East	_	_	_	_
+110-25	_	,	_	_	_	_
+110-26	_	immigration	_	_	_	_
+110-27	_	from	_	_	_	_
+110-28	_	Mexico	abstract[131]	new[131]	coref	110-48[131_132]
+110-29	_	,	_	_	_	_
+110-30	_	the	_	_	_	_
+110-31	_	state	_	_	_	_
+110-32	_	of	_	_	_	_
+110-33	_	the	_	_	_	_
+110-34	_	US	abstract[94]	new[94]	_	_
+110-35	_	nuclear	_	_	_	_
+110-36	_	arsenal	_	_	_	_
+110-37	_	,	_	_	_	_
+110-38	_	and	_	_	_	_
+110-39	_	economic	_	_	_	_
+110-40	_	and	_	_	_	_
+110-41	_	job	_	_	_	_
+110-42	_	losses	_	_	_	_
+110-43	_	in	_	_	_	_
+110-44	_	comparison	_	_	_	_
+110-45	_	to	_	_	_	_
+110-46	_	China	abstract[197]	new[197]	_	_
+110-47	_	,	_	_	_	_
+110-48	_	Mexico	abstract[132]	new[132]	_	_
+110-49	_	and	_	_	_	_
+110-50	_	Japan	_	_	_	_
+110-51	_	.	_	_	_	_
 

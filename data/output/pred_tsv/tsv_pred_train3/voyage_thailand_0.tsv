@@ -584,8 +584,8 @@
 30-16	_	;	_	_	_	_
 
 #Text=your dress should be unambiguously modest and cover your entire torso and most of your limbs .
-31-1	_	your	abstract[33]|abstract[50]	new[33]|new[50]	coref|coref	31-9[33_34]|35-6[50_51]
-31-2	_	dress	abstract[50]	new[50]	_	_
+31-1	_	your	abstract[33]|abstract[51]	new[33]|new[51]	coref|coref	31-9[33_34]|35-6[51_52]
+31-2	_	dress	abstract[51]	new[51]	_	_
 31-3	_	should	_	_	_	_
 31-4	_	be	_	_	_	_
 31-5	_	unambiguously	_	_	_	_
@@ -657,8 +657,8 @@
 35-3	_	make	_	_	_	_
 35-4	_	sure	_	_	_	_
 35-5	_	that	_	_	_	_
-35-6	_	your	abstract[37]|abstract[51]	new[37]|new[51]	coref	35-11[37_38]
-35-7	_	clothing	abstract[51]	new[51]	_	_
+35-6	_	your	abstract[37]|abstract[52]	new[37]|new[52]	coref	35-11[37_38]
+35-7	_	clothing	abstract[52]	new[52]	_	_
 35-8	_	covers	_	_	_	_
 35-9	_	at	_	_	_	_
 35-10	_	least	_	_	_	_
@@ -673,7 +673,7 @@
 35-19	_	may	_	_	_	_
 35-20	_	require	_	_	_	_
 35-21	_	that	_	_	_	_
-35-22	_	you	abstract[52]	new[52]	coref	37-14[52_53]
+35-22	_	you	abstract[53]	new[53]	coref	37-14[53_54]
 35-23	_	wear	_	_	_	_
 35-24	_	ankle	_	_	_	_
 35-25	_	-	_	_	_	_
@@ -716,13 +716,13 @@
 37-11	_	so	_	_	_	_
 37-12	_	even	_	_	_	_
 37-13	_	if	_	_	_	_
-37-14	_	you	abstract[53]	new[53]	_	_
+37-14	_	you	abstract[54]	new[54]	_	_
 37-15	_	see	_	_	_	_
 37-16	_	a	_	_	_	_
 37-17	_	local	_	_	_	_
 37-18	_	in	_	_	_	_
-37-19	_	shorts	abstract[54]	new[54]	coref	37-20[54_55]
-37-20	_	it	abstract[55]	new[55]	_	_
+37-19	_	shorts	abstract[55]	new[55]	coref	37-20[55_56]
+37-20	_	it	abstract[56]	new[56]	_	_
 37-21	_	's	_	_	_	_
 37-22	_	not	_	_	_	_
 37-23	_	OK	_	_	_	_
@@ -731,8 +731,8 @@
 37-26	_	.	_	_	_	_
 
 #Text=Topless sunbathing is common by Western women at many tourist beaches .
-38-1	_	Topless	abstract[56]	new[56]	coref	39-10[56_57]
-38-2	_	sunbathing	abstract[56]	new[56]	_	_
+38-1	_	Topless	abstract[57]	new[57]	coref	39-10[57_58]
+38-2	_	sunbathing	abstract[57]	new[57]	_	_
 38-3	_	is	_	_	_	_
 38-4	_	common	_	_	_	_
 38-5	_	by	_	_	_	_
@@ -754,7 +754,7 @@
 39-7	_	visitors	_	_	_	_
 39-8	_	however	_	_	_	_
 39-9	_	,	_	_	_	_
-39-10	_	this	abstract[57]	new[57]	_	_
+39-10	_	this	abstract[58]	new[58]	_	_
 39-11	_	is	_	_	_	_
 39-12	_	not	_	_	_	_
 39-13	_	advised	_	_	_	_
@@ -782,11 +782,11 @@
 42-6	_	of	_	_	_	_
 42-7	_	Buddhism	_	_	_	_
 42-8	_	in	_	_	_	_
-42-9	_	Thailand	abstract[49]	new[49]	_	_
+42-9	_	Thailand	abstract[49]	new[49]	coref	51-8[49_50]
 42-10	_	,	_	_	_	_
 42-11	_	and	_	_	_	_
-42-12	_	Thai	abstract[58]	new[58]	coref	42-32[58_59]
-42-13	_	men	abstract[58]	new[58]	_	_
+42-12	_	Thai	abstract[59]	new[59]	coref	42-32[59_60]
+42-13	_	men	abstract[59]	new[59]	_	_
 42-14	_	are	_	_	_	_
 42-15	_	generally	_	_	_	_
 42-16	_	expected	_	_	_	_
@@ -805,13 +805,13 @@
 42-29	_	least	_	_	_	_
 42-30	_	once	_	_	_	_
 42-31	_	in	_	_	_	_
-42-32	_	their	abstract[59]	new[59]	_	_
+42-32	_	their	abstract[60]	new[60]	_	_
 42-33	_	lifetime	_	_	_	_
 42-34	_	.	_	_	_	_
 
 #Text=Buddhist monks are meant to avoid sexual temptations , and in particular they do not touch women or take things from women 's hands .
-43-1	_	Buddhist	abstract[60]	new[60]	coref	43-13[60_61]
-43-2	_	monks	abstract[60]	new[60]	_	_
+43-1	_	Buddhist	abstract[61]	new[61]	coref	43-13[61_62]
+43-2	_	monks	abstract[61]	new[61]	_	_
 43-3	_	are	_	_	_	_
 43-4	_	meant	_	_	_	_
 43-5	_	to	_	_	_	_
@@ -822,7 +822,7 @@
 43-10	_	and	_	_	_	_
 43-11	_	in	_	_	_	_
 43-12	_	particular	_	_	_	_
-43-13	_	they	abstract[61]	new[61]	_	_
+43-13	_	they	abstract[62]	new[62]	_	_
 43-14	_	do	_	_	_	_
 43-15	_	not	_	_	_	_
 43-16	_	touch	_	_	_	_
@@ -837,7 +837,7 @@
 43-25	_	.	_	_	_	_
 
 #Text=Women should make every effort to make way for monks on the street and give them room so they do not have to make contact with you .
-44-1	_	Women	abstract[65]	new[65]	coref	44-27[65_66]
+44-1	_	Women	abstract[66]	new[66]	coref	44-27[66_67]
 44-2	_	should	_	_	_	_
 44-3	_	make	_	_	_	_
 44-4	_	every	_	_	_	_
@@ -846,16 +846,16 @@
 44-7	_	make	_	_	_	_
 44-8	_	way	_	_	_	_
 44-9	_	for	_	_	_	_
-44-10	_	monks	abstract[62]	new[62]	coref	44-16[62_63]
+44-10	_	monks	abstract[63]	new[63]	coref	44-16[63_64]
 44-11	_	on	_	_	_	_
 44-12	_	the	_	_	_	_
 44-13	_	street	_	_	_	_
 44-14	_	and	_	_	_	_
 44-15	_	give	_	_	_	_
-44-16	_	them	abstract[63]	new[63]	coref	44-19[63_64]
+44-16	_	them	abstract[64]	new[64]	coref	44-19[64_65]
 44-17	_	room	_	_	_	_
 44-18	_	so	_	_	_	_
-44-19	_	they	abstract[64]	new[64]	_	_
+44-19	_	they	abstract[65]	new[65]	_	_
 44-20	_	do	_	_	_	_
 44-21	_	not	_	_	_	_
 44-22	_	have	_	_	_	_
@@ -863,11 +863,11 @@
 44-24	_	make	_	_	_	_
 44-25	_	contact	_	_	_	_
 44-26	_	with	_	_	_	_
-44-27	_	you	abstract[66]	new[66]	coref	49-4[66_67]
+44-27	_	you	abstract[67]	new[67]	coref	49-4[67_68]
 44-28	_	.	_	_	_	_
 
 #Text=Women should avoid offering anything to a monk with their hands .
-45-1	_	Women	abstract[70]	new[70]	coref	45-10[70_71]
+45-1	_	Women	abstract[71]	new[71]	coref	45-10[71_72]
 45-2	_	should	_	_	_	_
 45-3	_	avoid	_	_	_	_
 45-4	_	offering	_	_	_	_
@@ -876,44 +876,44 @@
 45-7	_	a	_	_	_	_
 45-8	_	monk	_	_	_	_
 45-9	_	with	_	_	_	_
-45-10	_	their	abstract[71]	new[71]	_	_
+45-10	_	their	abstract[72]	new[72]	_	_
 45-11	_	hands	_	_	_	_
 45-12	_	.	_	_	_	_
 
 #Text=Objects or donations should be placed in front of a monk so he can pick it up , or place it on a special cloth he carries with him .
-46-1	_	Objects	abstract[76]	new[76]	coref	46-16[76_77]
-46-2	_	or	abstract[76]	new[76]	_	_
-46-3	_	donations	abstract[76]	new[76]	_	_
+46-1	_	Objects	abstract[77]	new[77]	coref	46-16[77_78]
+46-2	_	or	abstract[77]	new[77]	_	_
+46-3	_	donations	abstract[77]	new[77]	_	_
 46-4	_	should	_	_	_	_
 46-5	_	be	_	_	_	_
 46-6	_	placed	_	_	_	_
 46-7	_	in	_	_	_	_
 46-8	_	front	_	_	_	_
 46-9	_	of	_	_	_	_
-46-10	_	a	abstract[72]	new[72]	coref	46-13[72_73]
-46-11	_	monk	abstract[72]	new[72]	_	_
+46-10	_	a	abstract[73]	new[73]	coref	46-13[73_74]
+46-11	_	monk	abstract[73]	new[73]	_	_
 46-12	_	so	_	_	_	_
-46-13	_	he	abstract[73]	new[73]	coref	46-26[73_74]
+46-13	_	he	abstract[74]	new[74]	coref	46-26[74_75]
 46-14	_	can	_	_	_	_
 46-15	_	pick	_	_	_	_
-46-16	_	it	abstract[77]	new[77]	coref	46-21[77_78]
+46-16	_	it	abstract[78]	new[78]	coref	46-21[78_79]
 46-17	_	up	_	_	_	_
 46-18	_	,	_	_	_	_
 46-19	_	or	_	_	_	_
 46-20	_	place	_	_	_	_
-46-21	_	it	abstract[78]	new[78]	_	_
+46-21	_	it	abstract[79]	new[79]	_	_
 46-22	_	on	_	_	_	_
 46-23	_	a	_	_	_	_
 46-24	_	special	_	_	_	_
 46-25	_	cloth	_	_	_	_
-46-26	_	he	abstract[74]	new[74]	coref	46-29[74_75]
+46-26	_	he	abstract[75]	new[75]	coref	46-29[75_76]
 46-27	_	carries	_	_	_	_
 46-28	_	with	_	_	_	_
-46-29	_	him	abstract[75]	new[75]	_	_
+46-29	_	him	abstract[76]	new[76]	_	_
 46-30	_	.	_	_	_	_
 
 #Text=Monks will sometimes be aided by a layman who will accept things from women merit - makers on their behalf .
-47-1	_	Monks	abstract[79]	new[79]	coref	47-19[79_80]
+47-1	_	Monks	abstract[80]	new[80]	coref	47-19[80_81]
 47-2	_	will	_	_	_	_
 47-3	_	sometimes	_	_	_	_
 47-4	_	be	_	_	_	_
@@ -931,7 +931,7 @@
 47-16	_	-	_	_	_	_
 47-17	_	makers	_	_	_	_
 47-18	_	on	_	_	_	_
-47-19	_	their	abstract[80]	new[80]	_	_
+47-19	_	their	abstract[81]	new[81]	_	_
 47-20	_	behalf	_	_	_	_
 47-21	_	.	_	_	_	_
 
@@ -982,7 +982,7 @@
 49-1	_	Therefore	_	_	_	_
 49-2	_	,	_	_	_	_
 49-3	_	should	_	_	_	_
-49-4	_	you	abstract[67]	new[67]	coref	49-12[67_68]
+49-4	_	you	abstract[68]	new[68]	coref	49-12[68_69]
 49-5	_	wish	_	_	_	_
 49-6	_	to	_	_	_	_
 49-7	_	donate	_	_	_	_
@@ -990,7 +990,7 @@
 49-9	_	a	_	_	_	_
 49-10	_	monk	_	_	_	_
 49-11	_	,	_	_	_	_
-49-12	_	you	abstract[68]	new[68]	coref	49-20[68_69]
+49-12	_	you	abstract[69]	new[69]	coref	49-20[69_70]
 49-13	_	should	_	_	_	_
 49-14	_	only	_	_	_	_
 49-15	_	offer	_	_	_	_
@@ -998,7 +998,7 @@
 49-17	_	,	_	_	_	_
 49-18	_	and	_	_	_	_
 49-19	_	put	_	_	_	_
-49-20	_	your	abstract[69]	new[69]	_	_
+49-20	_	your	abstract[70]	new[70]	_	_
 49-21	_	monetary	_	_	_	_
 49-22	_	donation	_	_	_	_
 49-23	_	in	_	_	_	_
@@ -1023,47 +1023,68 @@
 50-9	_	fakes	_	_	_	_
 50-10	_	.	_	_	_	_
 
-#Text=Travel to the South Funen archipelago by ferry , boat or simply travel by sea . See the islands by boat and travel by ship . Take a ferry to Sydfynske hav to the island , then take a bike there .
-51-1	_	Travel	_	_	_	_
-51-2	_	to	_	_	_	_
-51-3	_	the	abstract[81]	new[81]	coref	51-19[81_82]
-51-4	_	South	abstract[81]	new[81]	_	_
-51-5	_	Funen	abstract[81]	new[81]	_	_
-51-6	_	archipelago	abstract[81]	new[81]	_	_
-51-7	_	by	_	_	_	_
-51-8	_	ferry	_	_	_	_
-51-9	_	,	_	_	_	_
-51-10	_	boat	_	_	_	_
-51-11	_	or	_	_	_	_
-51-12	_	simply	_	_	_	_
-51-13	_	travel	_	_	_	_
-51-14	_	by	_	_	_	_
-51-15	_	sea	_	_	_	_
-51-16	_	.	_	_	_	_
-51-17	_	See	_	_	_	_
-51-18	_	the	abstract[82]	new[82]	_	_
-51-19	_	islands	abstract[82]	new[82]	_	_
-51-20	_	by	_	_	_	_
-51-21	_	boat	_	_	_	_
-51-22	_	and	_	_	_	_
-51-23	_	travel	_	_	_	_
-51-24	_	by	_	_	_	_
-51-25	_	ship	_	_	_	_
+#Text=Visit Sydfynske hav to learn about the country 's unique biological features . Visit the South Funen Archipelago , where people migrate to the north . Take a boat for a day trip to the islands and islets . Take a boat ride to the islands . Travel around in private vehicles , although rare . See the island through the """" S
+51-1	_	Visit	_	_	_	_
+51-2	_	Sydfynske	abstract[85]	new[85]	coref	51-59[85_86]
+51-3	_	hav	abstract[85]	new[85]	_	_
+51-4	_	to	_	_	_	_
+51-5	_	learn	_	_	_	_
+51-6	_	about	_	_	_	_
+51-7	_	the	abstract[50]	new[50]	_	_
+51-8	_	country	abstract[50]	new[50]	_	_
+51-9	_	's	abstract[50]	new[50]	_	_
+51-10	_	unique	_	_	_	_
+51-11	_	biological	_	_	_	_
+51-12	_	features	_	_	_	_
+51-13	_	.	_	_	_	_
+51-14	_	Visit	_	_	_	_
+51-15	_	the	abstract[82]	new[82]	coref	51-36[82_83]
+51-16	_	South	abstract[82]	new[82]	_	_
+51-17	_	Funen	abstract[82]	new[82]	_	_
+51-18	_	Archipelago	abstract[82]	new[82]	_	_
+51-19	_	,	abstract[82]	new[82]	_	_
+51-20	_	where	abstract[82]	new[82]	_	_
+51-21	_	people	abstract[82]	new[82]	_	_
+51-22	_	migrate	abstract[82]	new[82]	_	_
+51-23	_	to	abstract[82]	new[82]	_	_
+51-24	_	the	abstract[82]	new[82]	_	_
+51-25	_	north	abstract[82]	new[82]	_	_
 51-26	_	.	_	_	_	_
 51-27	_	Take	_	_	_	_
 51-28	_	a	_	_	_	_
-51-29	_	ferry	_	_	_	_
-51-30	_	to	_	_	_	_
-51-31	_	Sydfynske	_	_	_	_
-51-32	_	hav	_	_	_	_
-51-33	_	to	_	_	_	_
-51-34	_	the	_	_	_	_
-51-35	_	island	_	_	_	_
-51-36	_	,	_	_	_	_
-51-37	_	then	_	_	_	_
-51-38	_	take	_	_	_	_
-51-39	_	a	_	_	_	_
-51-40	_	bike	_	_	_	_
-51-41	_	there	_	_	_	_
-51-42	_	.	_	_	_	_
+51-29	_	boat	_	_	_	_
+51-30	_	for	_	_	_	_
+51-31	_	a	_	_	_	_
+51-32	_	day	_	_	_	_
+51-33	_	trip	_	_	_	_
+51-34	_	to	_	_	_	_
+51-35	_	the	abstract[83]	new[83]	coref	51-46[83_84]
+51-36	_	islands	abstract[83]	new[83]	_	_
+51-37	_	and	_	_	_	_
+51-38	_	islets	_	_	_	_
+51-39	_	.	_	_	_	_
+51-40	_	Take	_	_	_	_
+51-41	_	a	_	_	_	_
+51-42	_	boat	_	_	_	_
+51-43	_	ride	_	_	_	_
+51-44	_	to	_	_	_	_
+51-45	_	the	abstract[84]	new[84]	_	_
+51-46	_	islands	abstract[84]	new[84]	_	_
+51-47	_	.	_	_	_	_
+51-48	_	Travel	_	_	_	_
+51-49	_	around	_	_	_	_
+51-50	_	in	_	_	_	_
+51-51	_	private	_	_	_	_
+51-52	_	vehicles	_	_	_	_
+51-53	_	,	_	_	_	_
+51-54	_	although	_	_	_	_
+51-55	_	rare	_	_	_	_
+51-56	_	.	_	_	_	_
+51-57	_	See	_	_	_	_
+51-58	_	the	abstract[86]	new[86]	_	_
+51-59	_	island	abstract[86]	new[86]	_	_
+51-60	_	through	_	_	_	_
+51-61	_	the	_	_	_	_
+51-62	_	""""	_	_	_	_
+51-63	_	S	_	_	_	_
 

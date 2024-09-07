@@ -870,12 +870,12 @@
 47-29	_	.	_	_	_	_
 
 #Text=One of the most famous plants is the dragon 's blood tree “ dracaena cinnabara ” which exists only on Socotra and nowhere else on the Earth .
-48-1	_	One	abstract[65]	new[65]	coref	49-1[65_66]
-48-2	_	of	abstract[65]	new[65]	_	_
-48-3	_	the	abstract[65]	new[65]	_	_
-48-4	_	most	abstract[65]	new[65]	_	_
-48-5	_	famous	abstract[65]	new[65]	_	_
-48-6	_	plants	abstract[65]	new[65]	_	_
+48-1	_	One	abstract[66]	new[66]	coref	49-1[66_67]
+48-2	_	of	abstract[66]	new[66]	_	_
+48-3	_	the	abstract[66]	new[66]	_	_
+48-4	_	most	abstract[66]	new[66]	_	_
+48-5	_	famous	abstract[66]	new[66]	_	_
+48-6	_	plants	abstract[66]	new[66]	_	_
 48-7	_	is	_	_	_	_
 48-8	_	the	_	_	_	_
 48-9	_	dragon	_	_	_	_
@@ -900,10 +900,10 @@
 48-28	_	.	_	_	_	_
 
 #Text=The tree got its name because if any damage is made to the bark then a dark red liquid oozes out .
-49-1	_	The	abstract[66]	new[66]	coref	49-4[66_67]
-49-2	_	tree	abstract[66]	new[66]	_	_
+49-1	_	The	abstract[67]	new[67]	coref	49-4[67_68]
+49-2	_	tree	abstract[67]	new[67]	_	_
 49-3	_	got	_	_	_	_
-49-4	_	its	abstract[67]	new[67]	_	_
+49-4	_	its	abstract[68]	new[68]	_	_
 49-5	_	name	_	_	_	_
 49-6	_	because	_	_	_	_
 49-7	_	if	_	_	_	_
@@ -1001,7 +1001,7 @@
 54-5	_	beauty	_	_	_	_
 54-6	_	all	_	_	_	_
 54-7	_	around	_	_	_	_
-54-8	_	the	abstract[64]	new[64]	_	_
+54-8	_	the	abstract[64]	new[64]	coref	55-3[64_65]
 54-9	_	island	abstract[64]	new[64]	_	_
 54-10	_	,	_	_	_	_
 54-11	_	it	_	_	_	_
@@ -1017,32 +1017,28 @@
 54-21	_	wildlife	_	_	_	_
 54-22	_	.	_	_	_	_
 
-#Text=Feature Articles : History of Phoenix from California 's Golden Valley . History of Phoenix from Arizona 's Golden Valley . Cityscapes and Phoenix 's Deserts .
-55-1	_	Feature	_	_	_	_
-55-2	_	Articles	_	_	_	_
-55-3	_	:	_	_	_	_
-55-4	_	History	_	_	_	_
-55-5	_	of	_	_	_	_
-55-6	_	Phoenix	abstract[68]	new[68]	coref	55-15[68_69]
-55-7	_	from	_	_	_	_
-55-8	_	California	_	_	_	_
-55-9	_	's	_	_	_	_
-55-10	_	Golden	_	_	_	_
-55-11	_	Valley	_	_	_	_
-55-12	_	.	_	_	_	_
-55-13	_	History	_	_	_	_
-55-14	_	of	_	_	_	_
-55-15	_	Phoenix	abstract[69]	new[69]	coref	55-24[69_70]
-55-16	_	from	_	_	_	_
-55-17	_	Arizona	_	_	_	_
-55-18	_	's	_	_	_	_
-55-19	_	Golden	_	_	_	_
-55-20	_	Valley	_	_	_	_
-55-21	_	.	_	_	_	_
-55-22	_	Cityscapes	_	_	_	_
-55-23	_	and	_	_	_	_
-55-24	_	Phoenix	abstract[70]	new[70]	_	_
-55-25	_	's	abstract[70]	new[70]	_	_
-55-26	_	Deserts	_	_	_	_
-55-27	_	.	_	_	_	_
+#Text=Go to Phoenix to see city history , learn about the local economy , learn about tourist attractions , and much more .
+55-1	_	Go	_	_	_	_
+55-2	_	to	_	_	_	_
+55-3	_	Phoenix	abstract[65]	new[65]	_	_
+55-4	_	to	_	_	_	_
+55-5	_	see	_	_	_	_
+55-6	_	city	_	_	_	_
+55-7	_	history	_	_	_	_
+55-8	_	,	_	_	_	_
+55-9	_	learn	_	_	_	_
+55-10	_	about	_	_	_	_
+55-11	_	the	_	_	_	_
+55-12	_	local	_	_	_	_
+55-13	_	economy	_	_	_	_
+55-14	_	,	_	_	_	_
+55-15	_	learn	_	_	_	_
+55-16	_	about	_	_	_	_
+55-17	_	tourist	_	_	_	_
+55-18	_	attractions	_	_	_	_
+55-19	_	,	_	_	_	_
+55-20	_	and	_	_	_	_
+55-21	_	much	_	_	_	_
+55-22	_	more	_	_	_	_
+55-23	_	.	_	_	_	_
 

@@ -19,7 +19,7 @@
 2-10	_	Sophronius	_	_	_	_
 2-11	_	Hieronymus	_	_	_	_
 2-12	_	;	_	_	_	_
-2-13	_	Greek	abstract[124]	new[124]	coref	41-9[124_125]
+2-13	_	Greek	abstract[120]	new[120]	coref	41-9[120_121]
 2-14	_	:	_	_	_	_
 2-15	_	Εὐσέβιος	abstract[3]	new[3]	coref	2-42[3_4]
 2-16	_	Σωφρόνιος	abstract[3]	new[3]	_	_
@@ -57,19 +57,19 @@
 3-2	_	was	_	_	_	_
 3-3	_	born	_	_	_	_
 3-4	_	at	_	_	_	_
-3-5	_	Stridon	abstract[27]	new[27]	coref	12-7[27_28]
-3-6	_	,	abstract[27]	new[27]	_	_
-3-7	_	a	abstract[27]	new[27]	_	_
-3-8	_	village	abstract[27]	new[27]	_	_
-3-9	_	near	abstract[27]	new[27]	_	_
-3-10	_	Emona	abstract[27]	new[27]	_	_
-3-11	_	on	abstract[27]	new[27]	_	_
-3-12	_	the	abstract[27]	new[27]	_	_
-3-13	_	border	abstract[27]	new[27]	_	_
-3-14	_	of	abstract[27]	new[27]	_	_
-3-15	_	Dalmatia	abstract[27]	new[27]	_	_
-3-16	_	and	abstract[27]	new[27]	_	_
-3-17	_	Pannonia	abstract[27]	new[27]	_	_
+3-5	_	Stridon	abstract[28]	new[28]	coref	12-7[28_29]
+3-6	_	,	abstract[28]	new[28]	_	_
+3-7	_	a	abstract[28]	new[28]	_	_
+3-8	_	village	abstract[28]	new[28]	_	_
+3-9	_	near	abstract[28]	new[28]	_	_
+3-10	_	Emona	abstract[28]	new[28]	_	_
+3-11	_	on	abstract[28]	new[28]	_	_
+3-12	_	the	abstract[28]	new[28]	_	_
+3-13	_	border	abstract[28]	new[28]	_	_
+3-14	_	of	abstract[28]	new[28]	_	_
+3-15	_	Dalmatia	abstract[28]	new[28]	_	_
+3-16	_	and	abstract[28]	new[28]	_	_
+3-17	_	Pannonia	abstract[28]	new[28]	_	_
 3-18	_	.	_	_	_	_
 3-19	_	[	_	_	_	_
 3-20	_	3	_	_	_	_
@@ -92,8 +92,8 @@
 4-8	_	of	_	_	_	_
 4-9	_	most	_	_	_	_
 4-10	_	of	_	_	_	_
-4-11	_	the	abstract[113]	new[113]	coref	35-24[113_114]
-4-12	_	Bible	abstract[113]	new[113]	_	_
+4-11	_	the	abstract[108]	new[108]	coref	35-24[108_109]
+4-12	_	Bible	abstract[108]	new[108]	_	_
 4-13	_	into	_	_	_	_
 4-14	_	Latin	abstract[21]	new[21]	coref	16-4[21_22]
 4-15	_	(	_	_	_	_
@@ -162,7 +162,7 @@
 6-32	_	centers	_	_	_	_
 6-33	_	such	_	_	_	_
 6-34	_	as	_	_	_	_
-6-35	_	Rome	abstract[40]	new[40]	coref	14-16[40_41]
+6-35	_	Rome	abstract[41]	new[41]	coref	14-16[41_42]
 6-36	_	.	_	_	_	_
 
 #Text=In many cases , he focused his attention on the lives of women and identified how a woman devoted to Jesus should live her life .
@@ -175,27 +175,27 @@
 7-7	_	his	abstract[14]	new[14]	coref	8-5[14_15]
 7-8	_	attention	_	_	_	_
 7-9	_	on	_	_	_	_
-7-10	_	the	abstract[25]	new[25]	coref	8-1[25_26]
-7-11	_	lives	abstract[25]	new[25]	_	_
-7-12	_	of	abstract[25]	new[25]	_	_
-7-13	_	women	abstract[25]	new[25]	_	_
+7-10	_	the	abstract[26]	new[26]	coref	8-1[26_27]
+7-11	_	lives	abstract[26]	new[26]	_	_
+7-12	_	of	abstract[26]	new[26]	_	_
+7-13	_	women	abstract[26]	new[26]	_	_
 7-14	_	and	_	_	_	_
 7-15	_	identified	_	_	_	_
 7-16	_	how	_	_	_	_
-7-17	_	a	abstract[23]	new[23]	coref	7-24[23_24]
-7-18	_	woman	abstract[23]	new[23]	_	_
-7-19	_	devoted	abstract[23]	new[23]	_	_
-7-20	_	to	abstract[23]	new[23]	_	_
-7-21	_	Jesus	abstract[23]	new[23]	_	_
+7-17	_	a	abstract[24]	new[24]	coref	7-24[24_25]
+7-18	_	woman	abstract[24]	new[24]	_	_
+7-19	_	devoted	abstract[24]	new[24]	_	_
+7-20	_	to	abstract[24]	new[24]	_	_
+7-21	_	Jesus	abstract[24]	new[24]	_	_
 7-22	_	should	_	_	_	_
 7-23	_	live	_	_	_	_
-7-24	_	her	abstract[24]	new[24]	_	_
+7-24	_	her	abstract[25]	new[25]	_	_
 7-25	_	life	_	_	_	_
 7-26	_	.	_	_	_	_
 
 #Text=This focus stemmed from his close patron relationships with several prominent female ascetics who were members of affluent senatorial families . [ 7 ]
-8-1	_	This	abstract[26]	new[26]	_	_
-8-2	_	focus	abstract[26]	new[26]	_	_
+8-1	_	This	abstract[27]	new[27]	_	_
+8-2	_	focus	abstract[27]	new[27]	_	_
 8-3	_	stemmed	_	_	_	_
 8-4	_	from	_	_	_	_
 8-5	_	his	abstract[15]	new[15]	coref	9-1[15_16]
@@ -267,13 +267,13 @@
 11-1	_	Life	_	_	_	_
 
 #Text=Eusebius Sophronius Hieronymus was born at Stridon around 347 AD . [ 9 ]
-12-1	_	Eusebius	abstract[29]	new[29]	coref	13-1[29_30]
-12-2	_	Sophronius	abstract[29]	new[29]	_	_
-12-3	_	Hieronymus	abstract[29]	new[29]	_	_
+12-1	_	Eusebius	abstract[30]	new[30]	coref	13-1[30_31]
+12-2	_	Sophronius	abstract[30]	new[30]	_	_
+12-3	_	Hieronymus	abstract[30]	new[30]	_	_
 12-4	_	was	_	_	_	_
 12-5	_	born	_	_	_	_
 12-6	_	at	_	_	_	_
-12-7	_	Stridon	abstract[28]	new[28]	_	_
+12-7	_	Stridon	abstract[29]	new[29]	_	_
 12-8	_	around	_	_	_	_
 12-9	_	347	_	_	_	_
 12-10	_	AD	_	_	_	_
@@ -283,7 +283,7 @@
 12-14	_	]	_	_	_	_
 
 #Text=He was of Illyrian ancestry , [ 10 ] although his ability to speak the Illyrian languages causes controversy .
-13-1	_	He	abstract[30]	new[30]	coref	13-11[30_31]
+13-1	_	He	abstract[31]	new[31]	coref	13-11[31_32]
 13-2	_	was	_	_	_	_
 13-3	_	of	_	_	_	_
 13-4	_	Illyrian	_	_	_	_
@@ -293,7 +293,7 @@
 13-8	_	10	_	_	_	_
 13-9	_	]	_	_	_	_
 13-10	_	although	_	_	_	_
-13-11	_	his	abstract[31]	new[31]	coref	14-1[31_32]
+13-11	_	his	abstract[32]	new[32]	coref	14-1[32_33]
 13-12	_	ability	_	_	_	_
 13-13	_	to	_	_	_	_
 13-14	_	speak	_	_	_	_
@@ -305,7 +305,7 @@
 13-20	_	.	_	_	_	_
 
 #Text=He was not baptized until about 360 - 366 , when he had gone to Rome with his friend Bonosus of Sardica ( who may or may not have been the same Bonosus whom Jerome identifies as his friend who went to live as a hermit on an island in the Adriatic ) to pursue rhetorical and philosophical studies .
-14-1	_	He	abstract[32]	new[32]	coref	14-12[32_33]
+14-1	_	He	abstract[33]	new[33]	coref	14-12[33_34]
 14-2	_	was	_	_	_	_
 14-3	_	not	_	_	_	_
 14-4	_	baptized	_	_	_	_
@@ -316,13 +316,13 @@
 14-9	_	366	_	_	_	_
 14-10	_	,	_	_	_	_
 14-11	_	when	_	_	_	_
-14-12	_	he	abstract[33]	new[33]	coref	14-18[33_34]
+14-12	_	he	abstract[34]	new[34]	coref	14-18[34_35]
 14-13	_	had	_	_	_	_
 14-14	_	gone	_	_	_	_
 14-15	_	to	_	_	_	_
-14-16	_	Rome	abstract[41]	new[41]	coref	17-5[41_42]
+14-16	_	Rome	abstract[42]	new[42]	coref	17-5[42_43]
 14-17	_	with	_	_	_	_
-14-18	_	his	abstract[34]	new[34]	coref	14-35[34_35]
+14-18	_	his	abstract[35]	new[35]	coref	14-35[35_36]
 14-19	_	friend	_	_	_	_
 14-20	_	Bonosus	_	_	_	_
 14-21	_	of	_	_	_	_
@@ -339,10 +339,10 @@
 14-32	_	same	_	_	_	_
 14-33	_	Bonosus	_	_	_	_
 14-34	_	whom	_	_	_	_
-14-35	_	Jerome	abstract[35]	new[35]	coref	14-38[35_36]
+14-35	_	Jerome	abstract[36]	new[36]	coref	14-38[36_37]
 14-36	_	identifies	_	_	_	_
 14-37	_	as	_	_	_	_
-14-38	_	his	abstract[36]	new[36]	coref	15-1[36_37]
+14-38	_	his	abstract[37]	new[37]	coref	15-1[37_38]
 14-39	_	friend	_	_	_	_
 14-40	_	who	_	_	_	_
 14-41	_	went	_	_	_	_
@@ -367,7 +367,7 @@
 14-60	_	.	_	_	_	_
 
 #Text=He studied under the grammarian Aelius Donatus .
-15-1	_	He	abstract[37]	new[37]	coref	16-2[37_38]
+15-1	_	He	abstract[38]	new[38]	coref	16-2[38_39]
 15-2	_	studied	_	_	_	_
 15-3	_	under	_	_	_	_
 15-4	_	the	_	_	_	_
@@ -378,9 +378,9 @@
 
 #Text=There Jerome learned Latin and at least some Greek , [ 11 ] though probably not the familiarity with Greek literature he would later claim to have acquired as a schoolboy . [ 12 ]
 16-1	_	There	_	_	_	_
-16-2	_	Jerome	abstract[38]	new[38]	coref	16-22[38_39]
+16-2	_	Jerome	abstract[39]	new[39]	coref	16-22[39_40]
 16-3	_	learned	_	_	_	_
-16-4	_	Latin	abstract[22]	new[22]	_	_
+16-4	_	Latin	abstract[22]	new[22]	coref	42-33[22_23]
 16-5	_	and	_	_	_	_
 16-6	_	at	_	_	_	_
 16-7	_	least	_	_	_	_
@@ -398,7 +398,7 @@
 16-19	_	with	_	_	_	_
 16-20	_	Greek	_	_	_	_
 16-21	_	literature	_	_	_	_
-16-22	_	he	abstract[39]	new[39]	_	_
+16-22	_	he	abstract[40]	new[40]	_	_
 16-23	_	would	_	_	_	_
 16-24	_	later	_	_	_	_
 16-25	_	claim	_	_	_	_
@@ -406,8 +406,8 @@
 16-27	_	have	_	_	_	_
 16-28	_	acquired	_	_	_	_
 16-29	_	as	_	_	_	_
-16-30	_	a	abstract[43]	new[43]	coref	17-2[43_44]
-16-31	_	schoolboy	abstract[43]	new[43]	_	_
+16-30	_	a	abstract[44]	new[44]	coref	17-2[44_45]
+16-31	_	schoolboy	abstract[44]	new[44]	_	_
 16-32	_	.	_	_	_	_
 16-33	_	[	_	_	_	_
 16-34	_	12	_	_	_	_
@@ -415,12 +415,12 @@
 
 #Text=As a student in Rome , Jerome engaged in the superficial escapades and sexual experimentation of students there , which he indulged in quite casually but for which he suffered terrible bouts of guilt afterwards . [ 13 ] [ better source needed ]
 17-1	_	As	_	_	_	_
-17-2	_	a	abstract[44]	new[44]	coref	17-7[44_45]
-17-3	_	student	abstract[44]	new[44]	_	_
-17-4	_	in	abstract[44]	new[44]	_	_
-17-5	_	Rome	abstract[42]|abstract[44]	new[42]|new[44]	_	_
+17-2	_	a	abstract[45]	new[45]	coref	17-7[45_46]
+17-3	_	student	abstract[45]	new[45]	_	_
+17-4	_	in	abstract[45]	new[45]	_	_
+17-5	_	Rome	abstract[43]|abstract[45]	new[43]|new[45]	_	_
 17-6	_	,	_	_	_	_
-17-7	_	Jerome	abstract[45]	new[45]	coref	17-21[45_46]
+17-7	_	Jerome	abstract[46]	new[46]	coref	17-21[46_47]
 17-8	_	engaged	_	_	_	_
 17-9	_	in	_	_	_	_
 17-10	_	the	_	_	_	_
@@ -434,7 +434,7 @@
 17-18	_	there	_	_	_	_
 17-19	_	,	_	_	_	_
 17-20	_	which	_	_	_	_
-17-21	_	he	abstract[46]	new[46]	coref	17-29[46_47]
+17-21	_	he	abstract[47]	new[47]	coref	17-29[47_48]
 17-22	_	indulged	_	_	_	_
 17-23	_	in	_	_	_	_
 17-24	_	quite	_	_	_	_
@@ -442,7 +442,7 @@
 17-26	_	but	_	_	_	_
 17-27	_	for	_	_	_	_
 17-28	_	which	_	_	_	_
-17-29	_	he	abstract[47]	new[47]	coref	18-4[47_48]
+17-29	_	he	abstract[48]	new[48]	coref	18-4[48_49]
 17-30	_	suffered	_	_	_	_
 17-31	_	terrible	_	_	_	_
 17-32	_	bouts	_	_	_	_
@@ -462,10 +462,10 @@
 #Text=To appease his conscience , he would visit on Sundays the sepulchres of the martyrs and the Apostles in the catacombs .
 18-1	_	To	_	_	_	_
 18-2	_	appease	_	_	_	_
-18-3	_	his	abstract[48]	new[48]	coref	18-7[48_49]
+18-3	_	his	abstract[49]	new[49]	coref	18-7[49_50]
 18-4	_	conscience	_	_	_	_
 18-5	_	,	_	_	_	_
-18-6	_	he	abstract[49]	new[49]	coref	19-5[49_50]
+18-6	_	he	abstract[50]	new[50]	coref	19-5[50_51]
 18-7	_	would	_	_	_	_
 18-8	_	visit	_	_	_	_
 18-9	_	on	_	_	_	_
@@ -488,20 +488,20 @@
 19-2	_	experience	_	_	_	_
 19-3	_	would	_	_	_	_
 19-4	_	remind	_	_	_	_
-19-5	_	him	abstract[50]	new[50]	coref	20-2[50_51]
+19-5	_	him	abstract[51]	new[51]	coref	20-2[51_52]
 19-6	_	of	_	_	_	_
 19-7	_	the	_	_	_	_
 19-8	_	terrors	_	_	_	_
 19-9	_	of	_	_	_	_
-19-10	_	hell	abstract[90]	new[90]	coref	20-54[90_91]
+19-10	_	hell	abstract[88]	new[88]	coref	20-54[88_89]
 19-11	_	:	_	_	_	_
 
 #Text=Often I would find myself entering those crypts , deep dug in the earth , with their walls on either side lined with the bodies of the dead , where everything was so dark that almost it seemed as though the Psalmist 's words were fulfilled , Let them go down quick into Hell . [ 14 ]
 20-1	_	Often	_	_	_	_
-20-2	_	I	abstract[51]	new[51]	coref	20-5[51_52]
+20-2	_	I	abstract[52]	new[52]	coref	20-5[52_53]
 20-3	_	would	_	_	_	_
 20-4	_	find	_	_	_	_
-20-5	_	myself	abstract[52]	new[52]	coref	22-23[52_53]
+20-5	_	myself	abstract[53]	new[53]	coref	22-23[53_54]
 20-6	_	entering	_	_	_	_
 20-7	_	those	_	_	_	_
 20-8	_	crypts	_	_	_	_
@@ -550,7 +550,7 @@
 20-51	_	down	_	_	_	_
 20-52	_	quick	_	_	_	_
 20-53	_	into	_	_	_	_
-20-54	_	Hell	abstract[91]	new[91]	coref	25-36[91_92]
+20-54	_	Hell	abstract[89]	new[89]	coref	25-36[89_90]
 20-55	_	.	_	_	_	_
 20-56	_	[	_	_	_	_
 20-57	_	14	_	_	_	_
@@ -581,65 +581,95 @@
 21-22	_	the	_	_	_	_
 21-23	_	horror	_	_	_	_
 21-24	_	of	_	_	_	_
-21-25	_	the	abstract[95]	new[95]	coref	22-14[95_96]
-21-26	_	darkness	abstract[95]	new[95]	_	_
+21-25	_	the	abstract[93]	new[93]	coref	22-14[93_94]
+21-26	_	darkness	abstract[93]	new[93]	_	_
 21-27	_	.	_	_	_	_
 
-#Text=But again , as soon as you found yourself cautiously moving forward , the black night closed around and there came to my mind the line of Vergil , " Written with Japanese writing , she contributed to the rise of Japanese literature . She continues to write with the Japanese literary establishment .
+#Text=But again , as soon as you found yourself cautiously moving forward , the black night closed around and there came to my mind the line of Vergil , " Ichiyō Higuchi ( pseudonym for Higuchi Natsu ) was a Meiji era Japanese short story author , known for works such as Umoregi ( """" In Obscurity """" ) , who , despite dying of tuberculosis at 24 , became influential in Japanese literature and was commemorated on the Japense 5,000 yen banknote .
 22-1	_	But	_	_	_	_
 22-2	_	again	_	_	_	_
 22-3	_	,	_	_	_	_
 22-4	_	as	_	_	_	_
 22-5	_	soon	_	_	_	_
 22-6	_	as	_	_	_	_
-22-7	_	you	abstract[93]	new[93]	coref	22-9[93_94]
+22-7	_	you	abstract[91]	new[91]	coref	22-9[91_92]
 22-8	_	found	_	_	_	_
-22-9	_	yourself	abstract[94]	new[94]	_	_
+22-9	_	yourself	abstract[92]	new[92]	_	_
 22-10	_	cautiously	_	_	_	_
 22-11	_	moving	_	_	_	_
 22-12	_	forward	_	_	_	_
 22-13	_	,	_	_	_	_
-22-14	_	the	abstract[96]	new[96]	_	_
-22-15	_	black	abstract[96]	new[96]	_	_
-22-16	_	night	abstract[96]	new[96]	_	_
+22-14	_	the	abstract[94]	new[94]	_	_
+22-15	_	black	abstract[94]	new[94]	_	_
+22-16	_	night	abstract[94]	new[94]	_	_
 22-17	_	closed	_	_	_	_
 22-18	_	around	_	_	_	_
 22-19	_	and	_	_	_	_
 22-20	_	there	_	_	_	_
 22-21	_	came	_	_	_	_
 22-22	_	to	_	_	_	_
-22-23	_	my	abstract[53]	new[53]	coref	24-1[53_54]
+22-23	_	my	abstract[54]	new[54]	coref	24-1[54_55]
 22-24	_	mind	_	_	_	_
 22-25	_	the	_	_	_	_
 22-26	_	line	_	_	_	_
 22-27	_	of	_	_	_	_
-22-28	_	Vergil	abstract[99]	new[99]	coref	25-6[99_100]
+22-28	_	Vergil	abstract[95]	new[95]	coref	25-6[95_96]
 22-29	_	,	_	_	_	_
 22-30	_	"	_	_	_	_
-22-31	_	Written	_	_	_	_
-22-32	_	with	_	_	_	_
-22-33	_	Japanese	_	_	_	_
-22-34	_	writing	_	_	_	_
-22-35	_	,	_	_	_	_
-22-36	_	she	abstract[97]	new[97]	coref	22-45[97_98]
-22-37	_	contributed	_	_	_	_
-22-38	_	to	_	_	_	_
-22-39	_	the	_	_	_	_
-22-40	_	rise	_	_	_	_
-22-41	_	of	_	_	_	_
-22-42	_	Japanese	_	_	_	_
-22-43	_	literature	_	_	_	_
-22-44	_	.	_	_	_	_
-22-45	_	She	abstract[98]	new[98]	_	_
-22-46	_	continues	_	_	_	_
-22-47	_	to	_	_	_	_
-22-48	_	write	_	_	_	_
-22-49	_	with	_	_	_	_
-22-50	_	the	_	_	_	_
-22-51	_	Japanese	_	_	_	_
-22-52	_	literary	_	_	_	_
-22-53	_	establishment	_	_	_	_
-22-54	_	.	_	_	_	_
+22-31	_	Ichiyō	_	_	_	_
+22-32	_	Higuchi	_	_	_	_
+22-33	_	(	_	_	_	_
+22-34	_	pseudonym	_	_	_	_
+22-35	_	for	_	_	_	_
+22-36	_	Higuchi	_	_	_	_
+22-37	_	Natsu	_	_	_	_
+22-38	_	)	_	_	_	_
+22-39	_	was	_	_	_	_
+22-40	_	a	_	_	_	_
+22-41	_	Meiji	_	_	_	_
+22-42	_	era	_	_	_	_
+22-43	_	Japanese	_	_	_	_
+22-44	_	short	_	_	_	_
+22-45	_	story	_	_	_	_
+22-46	_	author	_	_	_	_
+22-47	_	,	_	_	_	_
+22-48	_	known	_	_	_	_
+22-49	_	for	_	_	_	_
+22-50	_	works	_	_	_	_
+22-51	_	such	_	_	_	_
+22-52	_	as	_	_	_	_
+22-53	_	Umoregi	_	_	_	_
+22-54	_	(	_	_	_	_
+22-55	_	""""	_	_	_	_
+22-56	_	In	_	_	_	_
+22-57	_	Obscurity	_	_	_	_
+22-58	_	""""	_	_	_	_
+22-59	_	)	_	_	_	_
+22-60	_	,	_	_	_	_
+22-61	_	who	_	_	_	_
+22-62	_	,	_	_	_	_
+22-63	_	despite	_	_	_	_
+22-64	_	dying	_	_	_	_
+22-65	_	of	_	_	_	_
+22-66	_	tuberculosis	_	_	_	_
+22-67	_	at	_	_	_	_
+22-68	_	24	_	_	_	_
+22-69	_	,	_	_	_	_
+22-70	_	became	_	_	_	_
+22-71	_	influential	_	_	_	_
+22-72	_	in	_	_	_	_
+22-73	_	Japanese	_	_	_	_
+22-74	_	literature	_	_	_	_
+22-75	_	and	_	_	_	_
+22-76	_	was	_	_	_	_
+22-77	_	commemorated	_	_	_	_
+22-78	_	on	_	_	_	_
+22-79	_	the	_	_	_	_
+22-80	_	Japense	_	_	_	_
+22-81	_	5,000	_	_	_	_
+22-82	_	yen	_	_	_	_
+22-83	_	banknote	_	_	_	_
+22-84	_	.	_	_	_	_
 
 #Text=Horror ubique animos , simul ipsa silentia terrent " . [ 15 ] [ 16 ]
 23-1	_	Horror	_	_	_	_
@@ -660,10 +690,10 @@
 23-16	_	]	_	_	_	_
 
 #Text=St. Jerome in His Study ( 1480 ) , by Domenico Ghirlandaio
-24-1	_	St.	abstract[54]	new[54]	coref	24-4[54_55]
-24-2	_	Jerome	abstract[54]	new[54]	_	_
+24-1	_	St.	abstract[55]	new[55]	coref	24-4[55_56]
+24-2	_	Jerome	abstract[55]	new[55]	_	_
 24-3	_	in	_	_	_	_
-24-4	_	His	abstract[55]	new[55]	coref	25-1[55_56]
+24-4	_	His	abstract[56]	new[56]	coref	25-1[56_57]
 24-5	_	Study	_	_	_	_
 24-6	_	(	_	_	_	_
 24-7	_	1480	_	_	_	_
@@ -674,12 +704,12 @@
 24-12	_	Ghirlandaio	_	_	_	_
 
 #Text=Jerome used a quote from Virgil — " On all sides round horror spread wide ; the very silence breathed a terror on my soul " [ 17 ] — to describe the horror of hell .
-25-1	_	Jerome	abstract[56]	new[56]	coref	26-1[56_57]
+25-1	_	Jerome	abstract[57]	new[57]	coref	26-1[57_58]
 25-2	_	used	_	_	_	_
 25-3	_	a	_	_	_	_
 25-4	_	quote	_	_	_	_
 25-5	_	from	_	_	_	_
-25-6	_	Virgil	abstract[100]	new[100]	_	_
+25-6	_	Virgil	abstract[96]	new[96]	_	_
 25-7	_	—	_	_	_	_
 25-8	_	"	_	_	_	_
 25-9	_	On	_	_	_	_
@@ -709,15 +739,15 @@
 25-33	_	the	_	_	_	_
 25-34	_	horror	_	_	_	_
 25-35	_	of	_	_	_	_
-25-36	_	hell	abstract[92]	new[92]	_	_
+25-36	_	hell	abstract[90]	new[90]	_	_
 25-37	_	.	_	_	_	_
 
 #Text=Jerome initially used classical authors to describe Christian concepts such as hell that indicated both his classical education and his deep shame of their associated practices , such as pederasty which was found in Rome . [ citation needed ]
-26-1	_	Jerome	abstract[57]	new[57]	coref	26-16[57_58]
+26-1	_	Jerome	abstract[58]	new[58]	coref	26-16[58_59]
 26-2	_	initially	_	_	_	_
 26-3	_	used	_	_	_	_
-26-4	_	classical	abstract[101]	new[101]	coref	26-24[101_102]
-26-5	_	authors	abstract[101]	new[101]	_	_
+26-4	_	classical	abstract[97]	new[97]	coref	26-24[97_98]
+26-5	_	authors	abstract[97]	new[97]	_	_
 26-6	_	to	_	_	_	_
 26-7	_	describe	_	_	_	_
 26-8	_	Christian	_	_	_	_
@@ -728,15 +758,15 @@
 26-13	_	that	_	_	_	_
 26-14	_	indicated	_	_	_	_
 26-15	_	both	_	_	_	_
-26-16	_	his	abstract[58]	new[58]	coref	26-20[58_59]
+26-16	_	his	abstract[59]	new[59]	coref	26-20[59_60]
 26-17	_	classical	_	_	_	_
 26-18	_	education	_	_	_	_
 26-19	_	and	_	_	_	_
-26-20	_	his	abstract[59]	new[59]	coref	28-1[59_60]
+26-20	_	his	abstract[60]	new[60]	coref	28-1[60_61]
 26-21	_	deep	_	_	_	_
 26-22	_	shame	_	_	_	_
 26-23	_	of	_	_	_	_
-26-24	_	their	abstract[102]	new[102]	_	_
+26-24	_	their	abstract[98]	new[98]	_	_
 26-25	_	associated	_	_	_	_
 26-26	_	practices	_	_	_	_
 26-27	_	,	_	_	_	_
@@ -747,7 +777,7 @@
 26-32	_	was	_	_	_	_
 26-33	_	found	_	_	_	_
 26-34	_	in	_	_	_	_
-26-35	_	Rome	abstract[105]	new[105]	coref	30-5[105_106]
+26-35	_	Rome	abstract[101]	new[101]	coref	30-5[101_102]
 26-36	_	.	_	_	_	_
 26-37	_	[	_	_	_	_
 26-38	_	citation	_	_	_	_
@@ -757,11 +787,11 @@
 #Text=Conversion to Christianity
 27-1	_	Conversion	_	_	_	_
 27-2	_	to	_	_	_	_
-27-3	_	Christianity	abstract[103]	new[103]	coref	29-5[103_104]
+27-3	_	Christianity	abstract[99]	new[99]	coref	29-5[99_100]
 
 #Text=St Jerome in the Nuremberg Chronicle "
-28-1	_	St	abstract[60]	new[60]	coref	29-7[60_61]
-28-2	_	Jerome	abstract[60]	new[60]	_	_
+28-1	_	St	abstract[61]	new[61]	coref	29-7[61_62]
+28-2	_	Jerome	abstract[61]	new[61]	_	_
 28-3	_	in	_	_	_	_
 28-4	_	the	_	_	_	_
 28-5	_	Nuremberg	_	_	_	_
@@ -773,9 +803,9 @@
 29-2	_	initially	_	_	_	_
 29-3	_	skeptical	_	_	_	_
 29-4	_	of	_	_	_	_
-29-5	_	Christianity	abstract[104]	new[104]	_	_
+29-5	_	Christianity	abstract[100]	new[100]	_	_
 29-6	_	,	_	_	_	_
-29-7	_	he	abstract[61]	new[61]	coref	30-7[61_62]
+29-7	_	he	abstract[62]	new[62]	coref	30-7[62_63]
 29-8	_	was	_	_	_	_
 29-9	_	eventually	_	_	_	_
 29-10	_	converted	_	_	_	_
@@ -789,9 +819,9 @@
 30-2	_	several	_	_	_	_
 30-3	_	years	_	_	_	_
 30-4	_	in	_	_	_	_
-30-5	_	Rome	abstract[106]	new[106]	_	_
+30-5	_	Rome	abstract[102]	new[102]	_	_
 30-6	_	,	_	_	_	_
-30-7	_	he	abstract[62]	new[62]	coref	30-18[62_63]
+30-7	_	he	abstract[63]	new[63]	coref	30-18[63_64]
 30-8	_	travelled	_	_	_	_
 30-9	_	with	_	_	_	_
 30-10	_	Bonosus	_	_	_	_
@@ -802,7 +832,7 @@
 30-15	_	in	_	_	_	_
 30-16	_	Trier	_	_	_	_
 30-17	_	where	_	_	_	_
-30-18	_	he	abstract[63]	new[63]	coref	30-32[63_64]
+30-18	_	he	abstract[64]	new[64]	coref	30-32[64_65]
 30-19	_	seems	_	_	_	_
 30-20	_	to	_	_	_	_
 30-21	_	have	_	_	_	_
@@ -816,12 +846,12 @@
 30-29	_	where	_	_	_	_
 30-30	_	,	_	_	_	_
 30-31	_	for	_	_	_	_
-30-32	_	his	abstract[64]|abstract[107]	new[64]|new[107]	coref|coref	30-37[64_65]|31-16[107_108]
-30-33	_	friend	abstract[107]	new[107]	_	_
-30-34	_	Tyrannius	abstract[107]	new[107]	_	_
-30-35	_	Rufinus	abstract[107]	new[107]	_	_
+30-32	_	his	abstract[65]|abstract[103]	new[65]|new[103]	coref|coref	30-37[65_66]|31-16[103_104]
+30-33	_	friend	abstract[103]	new[103]	_	_
+30-34	_	Tyrannius	abstract[103]	new[103]	_	_
+30-35	_	Rufinus	abstract[103]	new[103]	_	_
 30-36	_	,	_	_	_	_
-30-37	_	he	abstract[65]	new[65]	coref	31-21[65_66]
+30-37	_	he	abstract[66]	new[66]	coref	31-21[66_67]
 30-38	_	copied	_	_	_	_
 30-39	_	Hilary	_	_	_	_
 30-40	_	of	_	_	_	_
@@ -854,29 +884,29 @@
 31-13	_	years	_	_	_	_
 31-14	_	,	_	_	_	_
 31-15	_	with	_	_	_	_
-31-16	_	Rufinus	abstract[108]	new[108]	_	_
+31-16	_	Rufinus	abstract[104]	new[104]	_	_
 31-17	_	at	_	_	_	_
 31-18	_	Aquileia	_	_	_	_
 31-19	_	,	_	_	_	_
 31-20	_	where	_	_	_	_
-31-21	_	he	abstract[66]	new[66]	coref	32-5[66_67]
+31-21	_	he	abstract[67]	new[67]	coref	32-6[67_68]
 31-22	_	made	_	_	_	_
-31-23	_	many	abstract[109]	new[109]	coref	32-3[109_110]
-31-24	_	Christian	abstract[109]	new[109]	_	_
-31-25	_	friends	abstract[109]	new[109]	_	_
+31-23	_	many	_	_	_	_
+31-24	_	Christian	_	_	_	_
+31-25	_	friends	_	_	_	_
 31-26	_	.	_	_	_	_
 
 #Text=Some of these accompanied Jerome when about 373 , he set out on a journey through Thrace and Asia Minor into northern Syria .
-32-1	_	Some	abstract[111]	new[111]	coref	33-12[111_112]
-32-2	_	of	abstract[111]	new[111]	_	_
-32-3	_	these	abstract[110]|abstract[111]	new[110]|new[111]	_	_
+32-1	_	Some	abstract[105]	new[105]	coref	32-4[105_106]
+32-2	_	of	abstract[105]	new[105]	_	_
+32-3	_	these	abstract[105]|abstract[106]	new[105]|new[106]	coref	33-12[106_107]
 32-4	_	accompanied	_	_	_	_
-32-5	_	Jerome	abstract[67]	new[67]	coref	32-10[67_68]
+32-5	_	Jerome	abstract[68]	new[68]	coref	32-11[68_69]
 32-6	_	when	_	_	_	_
 32-7	_	about	_	_	_	_
 32-8	_	373	_	_	_	_
 32-9	_	,	_	_	_	_
-32-10	_	he	abstract[68]	new[68]	coref	33-5[68_69]
+32-10	_	he	abstract[69]	new[69]	coref	33-5[69_70]
 32-11	_	set	_	_	_	_
 32-12	_	out	_	_	_	_
 32-13	_	on	_	_	_	_
@@ -894,22 +924,22 @@
 
 #Text=At Antioch , where he stayed the longest , two of his companions died and he himself was seriously ill more than once .
 33-1	_	At	_	_	_	_
-33-2	_	Antioch	abstract[115]	new[115]	coref	35-38[115_116]
-33-3	_	,	abstract[115]	new[115]	_	_
-33-4	_	where	abstract[115]	new[115]	_	_
-33-5	_	he	abstract[69]|abstract[115]	new[69]|new[115]	coref	33-12[69_70]
-33-6	_	stayed	abstract[115]	new[115]	_	_
-33-7	_	the	abstract[115]	new[115]	_	_
-33-8	_	longest	abstract[115]	new[115]	_	_
+33-2	_	Antioch	abstract[111]	new[111]	coref	35-38[111_112]
+33-3	_	,	abstract[111]	new[111]	_	_
+33-4	_	where	abstract[111]	new[111]	_	_
+33-5	_	he	abstract[70]|abstract[111]	new[70]|new[111]	coref	33-12[70_71]
+33-6	_	stayed	abstract[111]	new[111]	_	_
+33-7	_	the	abstract[111]	new[111]	_	_
+33-8	_	longest	abstract[111]	new[111]	_	_
 33-9	_	,	_	_	_	_
 33-10	_	two	_	_	_	_
 33-11	_	of	_	_	_	_
-33-12	_	his	abstract[70]|abstract[112]	new[70]|new[112]	coref	33-16[70_71]
-33-13	_	companions	abstract[112]	new[112]	_	_
+33-12	_	his	abstract[71]|abstract[107]	new[71]|new[107]	coref	33-16[71_72]
+33-13	_	companions	abstract[107]	new[107]	_	_
 33-14	_	died	_	_	_	_
 33-15	_	and	_	_	_	_
-33-16	_	he	abstract[71]	new[71]	coref	34-17[71_72]
-33-17	_	himself	abstract[71]	new[71]	_	_
+33-16	_	he	abstract[72]	new[72]	coref	34-16[72_73]
+33-17	_	himself	abstract[72]	new[72]	_	_
 33-18	_	was	_	_	_	_
 33-19	_	seriously	_	_	_	_
 33-20	_	ill	_	_	_	_
@@ -934,28 +964,28 @@
 34-13	_	374	_	_	_	_
 34-14	_	)	_	_	_	_
 34-15	_	,	_	_	_	_
-34-16	_	he	abstract[72]	new[72]	coref	34-23[72_73]
+34-16	_	he	abstract[73]	new[73]	coref	34-22[73_74]
 34-17	_	had	_	_	_	_
 34-18	_	a	_	_	_	_
 34-19	_	vision	_	_	_	_
 34-20	_	that	_	_	_	_
 34-21	_	led	_	_	_	_
-34-22	_	him	abstract[73]	new[73]	coref	34-27[73_74]
+34-22	_	him	abstract[74]	new[74]	coref	34-26[74_75]
 34-23	_	to	_	_	_	_
 34-24	_	lay	_	_	_	_
 34-25	_	aside	_	_	_	_
-34-26	_	his	abstract[74]	new[74]	coref	34-32[74_75]
+34-26	_	his	abstract[75]	new[75]	coref	34-31[75_76]
 34-27	_	secular	_	_	_	_
 34-28	_	studies	_	_	_	_
 34-29	_	and	_	_	_	_
 34-30	_	devote	_	_	_	_
-34-31	_	himself	abstract[75]	new[75]	coref	35-1[75_76]
+34-31	_	himself	abstract[76]	new[76]	coref	35-1[76_77]
 34-32	_	to	_	_	_	_
 34-33	_	God	_	_	_	_
 34-34	_	.	_	_	_	_
 
 #Text=He seems to have abstained for a considerable time from the study of the classics and to have plunged deeply into that of the Bible , under the impulse of Apollinaris of Laodicea , then teaching in Antioch and not yet suspected of heresy .
-35-1	_	He	abstract[76]	new[76]	coref	36-1[76_77]
+35-1	_	He	abstract[77]	new[77]	coref	36-1[77_78]
 35-2	_	seems	_	_	_	_
 35-3	_	to	_	_	_	_
 35-4	_	have	_	_	_	_
@@ -978,8 +1008,8 @@
 35-21	_	into	_	_	_	_
 35-22	_	that	_	_	_	_
 35-23	_	of	_	_	_	_
-35-24	_	the	abstract[114]	new[114]	_	_
-35-25	_	Bible	abstract[114]	new[114]	_	_
+35-24	_	the	abstract[109]	new[109]	coref	42-30[109_110]
+35-25	_	Bible	abstract[109]	new[109]	_	_
 35-26	_	,	_	_	_	_
 35-27	_	under	_	_	_	_
 35-28	_	the	_	_	_	_
@@ -992,7 +1022,7 @@
 35-35	_	then	_	_	_	_
 35-36	_	teaching	_	_	_	_
 35-37	_	in	_	_	_	_
-35-38	_	Antioch	abstract[116]	new[116]	coref	37-27[116_117]
+35-38	_	Antioch	abstract[112]	new[112]	coref	37-27[112_113]
 35-39	_	and	_	_	_	_
 35-40	_	not	_	_	_	_
 35-41	_	yet	_	_	_	_
@@ -1002,8 +1032,8 @@
 35-45	_	.	_	_	_	_
 
 #Text=St. Jerome in the Desert , by Giovanni Bellini ( 1505 )
-36-1	_	St.	abstract[77]	new[77]	coref	37-12[77_78]
-36-2	_	Jerome	abstract[77]	new[77]	_	_
+36-1	_	St.	abstract[78]	new[78]	coref	37-12[78_79]
+36-2	_	Jerome	abstract[78]	new[78]	_	_
 36-3	_	in	_	_	_	_
 36-4	_	the	_	_	_	_
 36-5	_	Desert	_	_	_	_
@@ -1027,11 +1057,11 @@
 37-9	_	ascetic	_	_	_	_
 37-10	_	penance	_	_	_	_
 37-11	_	,	_	_	_	_
-37-12	_	Jerome	abstract[78]	new[78]	coref	38-5[78_79]
+37-12	_	Jerome	abstract[79]	new[79]	coref	38-5[79_80]
 37-13	_	went	_	_	_	_
 37-14	_	for	_	_	_	_
-37-15	_	a	abstract[119]	new[119]	coref	38-2[119_120]
-37-16	_	time	abstract[119]	new[119]	_	_
+37-15	_	a	abstract[115]	new[115]	coref	38-2[115_116]
+37-16	_	time	abstract[115]	new[115]	_	_
 37-17	_	to	_	_	_	_
 37-18	_	the	_	_	_	_
 37-19	_	desert	_	_	_	_
@@ -1042,7 +1072,7 @@
 37-24	_	the	_	_	_	_
 37-25	_	southeast	_	_	_	_
 37-26	_	of	_	_	_	_
-37-27	_	Antioch	abstract[117]	new[117]	coref	39-29[117_118]
+37-27	_	Antioch	abstract[113]	new[113]	coref	39-29[113_114]
 37-28	_	,	_	_	_	_
 37-29	_	known	_	_	_	_
 37-30	_	as	_	_	_	_
@@ -1063,10 +1093,10 @@
 
 #Text=During this period , he seems to have found time for studying and writing .
 38-1	_	During	_	_	_	_
-38-2	_	this	abstract[120]	new[120]	coref	40-2[120_121]
-38-3	_	period	abstract[120]	new[120]	_	_
+38-2	_	this	abstract[116]	new[116]	coref	40-2[116_117]
+38-3	_	period	abstract[116]	new[116]	_	_
 38-4	_	,	_	_	_	_
-38-5	_	he	abstract[79]	new[79]	coref	39-1[79_80]
+38-5	_	he	abstract[80]	new[80]	coref	39-1[80_81]
 38-6	_	seems	_	_	_	_
 38-7	_	to	_	_	_	_
 38-8	_	have	_	_	_	_
@@ -1079,9 +1109,9 @@
 38-15	_	.	_	_	_	_
 
 #Text=He made his first attempt to learn Hebrew under the guidance of a converted Jew ; and he seems to have been in correspondence with Jewish Christians in Antioch .
-39-1	_	He	abstract[80]	new[80]	coref	39-3[80_81]
+39-1	_	He	abstract[81]	new[81]	coref	39-3[81_82]
 39-2	_	made	_	_	_	_
-39-3	_	his	abstract[81]	new[81]	coref	39-18[81_82]
+39-3	_	his	abstract[82]	new[82]	coref	39-18[82_83]
 39-4	_	first	_	_	_	_
 39-5	_	attempt	_	_	_	_
 39-6	_	to	_	_	_	_
@@ -1091,12 +1121,12 @@
 39-10	_	the	_	_	_	_
 39-11	_	guidance	_	_	_	_
 39-12	_	of	_	_	_	_
-39-13	_	a	abstract[122]	new[122]	coref	40-4[122_123]
-39-14	_	converted	abstract[122]	new[122]	_	_
-39-15	_	Jew	abstract[122]	new[122]	_	_
+39-13	_	a	abstract[118]	new[118]	coref	40-4[118_119]
+39-14	_	converted	abstract[118]	new[118]	_	_
+39-15	_	Jew	abstract[118]	new[118]	_	_
 39-16	_	;	_	_	_	_
 39-17	_	and	_	_	_	_
-39-18	_	he	abstract[82]	new[82]	coref	40-8[82_83]
+39-18	_	he	abstract[83]	new[83]	coref	40-8[83_84]
 39-19	_	seems	_	_	_	_
 39-20	_	to	_	_	_	_
 39-21	_	have	_	_	_	_
@@ -1107,18 +1137,18 @@
 39-26	_	Jewish	_	_	_	_
 39-27	_	Christians	_	_	_	_
 39-28	_	in	_	_	_	_
-39-29	_	Antioch	abstract[118]	new[118]	_	_
+39-29	_	Antioch	abstract[114]	new[114]	_	_
 39-30	_	.	_	_	_	_
 
 #Text=Around this time he had copied for him a Hebrew Gospel , of which fragments are preserved in his notes , and is known today as the Gospel of the Hebrews , and which the Nazarenes considered to be the true Gospel of Matthew . [ 19 ]
 40-1	_	Around	_	_	_	_
-40-2	_	this	abstract[121]	new[121]	_	_
-40-3	_	time	abstract[121]	new[121]	_	_
-40-4	_	he	abstract[123]	new[123]	_	_
+40-2	_	this	abstract[117]	new[117]	_	_
+40-3	_	time	abstract[117]	new[117]	_	_
+40-4	_	he	abstract[119]	new[119]	_	_
 40-5	_	had	_	_	_	_
 40-6	_	copied	_	_	_	_
 40-7	_	for	_	_	_	_
-40-8	_	him	abstract[83]	new[83]	coref	40-19[83_84]
+40-8	_	him	abstract[84]	new[84]	coref	40-19[84_85]
 40-9	_	a	_	_	_	_
 40-10	_	Hebrew	_	_	_	_
 40-11	_	Gospel	_	_	_	_
@@ -1129,7 +1159,7 @@
 40-16	_	are	_	_	_	_
 40-17	_	preserved	_	_	_	_
 40-18	_	in	_	_	_	_
-40-19	_	his	abstract[84]	new[84]	coref	41-1[84_85]
+40-19	_	his	abstract[85]	new[85]	coref	41-1[85_86]
 40-20	_	notes	_	_	_	_
 40-21	_	,	_	_	_	_
 40-22	_	and	_	_	_	_
@@ -1161,7 +1191,7 @@
 40-48	_	]	_	_	_	_
 
 #Text=Jerome translated parts of this Hebrew Gospel into Greek . [ 20 ]
-41-1	_	Jerome	abstract[85]	new[85]	coref	42-5[85_86]
+41-1	_	Jerome	abstract[86]	new[86]	coref	42-35[86_87]
 41-2	_	translated	_	_	_	_
 41-3	_	parts	_	_	_	_
 41-4	_	of	_	_	_	_
@@ -1169,75 +1199,52 @@
 41-6	_	Hebrew	_	_	_	_
 41-7	_	Gospel	_	_	_	_
 41-8	_	into	_	_	_	_
-41-9	_	Greek	abstract[125]	new[125]	_	_
+41-9	_	Greek	abstract[121]	new[121]	_	_
 41-10	_	.	_	_	_	_
 41-11	_	[	_	_	_	_
 41-12	_	20	_	_	_	_
 41-13	_	]	_	_	_	_
 
-#Text=Born at Stridon , he studied rhetoric and physics at Cambridge University and in the Dominican University before moving to the Catholic Church to become a Papificat ( priest ) . After his training at the """" Phoenix of the Catholic Empire """" he compiled his chronicles and commentary on the Church and the Gospel , and , at times , translated it .
-42-1	_	Born	_	_	_	_
-42-2	_	at	_	_	_	_
-42-3	_	Stridon	_	_	_	_
-42-4	_	,	_	_	_	_
-42-5	_	he	abstract[86]	new[86]	coref	42-33[86_87]
-42-6	_	studied	_	_	_	_
-42-7	_	rhetoric	_	_	_	_
-42-8	_	and	_	_	_	_
-42-9	_	physics	_	_	_	_
-42-10	_	at	_	_	_	_
-42-11	_	Cambridge	_	_	_	_
-42-12	_	University	_	_	_	_
-42-13	_	and	_	_	_	_
-42-14	_	in	_	_	_	_
-42-15	_	the	_	_	_	_
-42-16	_	Dominican	_	_	_	_
-42-17	_	University	_	_	_	_
-42-18	_	before	_	_	_	_
-42-19	_	moving	_	_	_	_
-42-20	_	to	_	_	_	_
-42-21	_	the	_	_	_	_
-42-22	_	Catholic	_	_	_	_
-42-23	_	Church	_	_	_	_
-42-24	_	to	_	_	_	_
-42-25	_	become	_	_	_	_
-42-26	_	a	_	_	_	_
-42-27	_	Papificat	_	_	_	_
-42-28	_	(	_	_	_	_
-42-29	_	priest	_	_	_	_
-42-30	_	)	_	_	_	_
-42-31	_	.	_	_	_	_
-42-32	_	After	_	_	_	_
-42-33	_	his	abstract[87]	new[87]	coref	42-44[87_88]
-42-34	_	training	_	_	_	_
-42-35	_	at	_	_	_	_
-42-36	_	the	_	_	_	_
-42-37	_	""""	_	_	_	_
-42-38	_	Phoenix	_	_	_	_
-42-39	_	of	_	_	_	_
-42-40	_	the	_	_	_	_
-42-41	_	Catholic	_	_	_	_
-42-42	_	Empire	_	_	_	_
-42-43	_	""""	_	_	_	_
-42-44	_	he	abstract[88]	new[88]	coref	42-46[88_89]
-42-45	_	compiled	_	_	_	_
-42-46	_	his	abstract[89]|abstract[126]	new[89]|new[126]	coref	42-63[126_127]
-42-47	_	chronicles	abstract[126]	new[126]	_	_
-42-48	_	and	abstract[126]	new[126]	_	_
-42-49	_	commentary	abstract[126]	new[126]	_	_
-42-50	_	on	abstract[126]	new[126]	_	_
-42-51	_	the	abstract[126]	new[126]	_	_
-42-52	_	Church	abstract[126]	new[126]	_	_
-42-53	_	and	abstract[126]	new[126]	_	_
-42-54	_	the	abstract[126]	new[126]	_	_
-42-55	_	Gospel	abstract[126]	new[126]	_	_
-42-56	_	,	_	_	_	_
-42-57	_	and	_	_	_	_
-42-58	_	,	_	_	_	_
-42-59	_	at	_	_	_	_
-42-60	_	times	_	_	_	_
-42-61	_	,	_	_	_	_
-42-62	_	translated	_	_	_	_
-42-63	_	it	abstract[127]	new[127]	_	_
-42-64	_	.	_	_	_	_
+#Text=Saint Jerome ( born Eusebius Sophronius Hieronymus ) was a 4th-5th Century Latin Catholic priest , confessor , theologian , and historian , known for the Vulgate translation of the Bible into Latin and his teachings on Christian moral life .
+42-1	_	Saint	_	_	_	_
+42-2	_	Jerome	_	_	_	_
+42-3	_	(	_	_	_	_
+42-4	_	born	_	_	_	_
+42-5	_	Eusebius	_	_	_	_
+42-6	_	Sophronius	_	_	_	_
+42-7	_	Hieronymus	_	_	_	_
+42-8	_	)	_	_	_	_
+42-9	_	was	_	_	_	_
+42-10	_	a	_	_	_	_
+42-11	_	4th-5th	_	_	_	_
+42-12	_	Century	_	_	_	_
+42-13	_	Latin	_	_	_	_
+42-14	_	Catholic	_	_	_	_
+42-15	_	priest	_	_	_	_
+42-16	_	,	_	_	_	_
+42-17	_	confessor	_	_	_	_
+42-18	_	,	_	_	_	_
+42-19	_	theologian	_	_	_	_
+42-20	_	,	_	_	_	_
+42-21	_	and	_	_	_	_
+42-22	_	historian	_	_	_	_
+42-23	_	,	_	_	_	_
+42-24	_	known	_	_	_	_
+42-25	_	for	_	_	_	_
+42-26	_	the	_	_	_	_
+42-27	_	Vulgate	_	_	_	_
+42-28	_	translation	_	_	_	_
+42-29	_	of	_	_	_	_
+42-30	_	the	abstract[110]	new[110]	_	_
+42-31	_	Bible	abstract[110]	new[110]	_	_
+42-32	_	into	_	_	_	_
+42-33	_	Latin	abstract[23]	new[23]	_	_
+42-34	_	and	_	_	_	_
+42-35	_	his	abstract[87]	new[87]	_	_
+42-36	_	teachings	_	_	_	_
+42-37	_	on	_	_	_	_
+42-38	_	Christian	_	_	_	_
+42-39	_	moral	_	_	_	_
+42-40	_	life	_	_	_	_
+42-41	_	.	_	_	_	_
 

@@ -870,11 +870,11 @@
 21-1	_	In	_	_	_	_
 21-2	_	addition	_	_	_	_
 21-3	_	,	_	_	_	_
-21-4	_	the	abstract[33]	new[33]	coref	24-6[33_34]
-21-5	_	widely	abstract[33]	new[33]	_	_
-21-6	_	used	abstract[33]	new[33]	_	_
-21-7	_	empirical	abstract[33]	new[33]	_	_
-21-8	_	models	abstract[33]	new[33]	_	_
+21-4	_	the	abstract[34]	new[34]	coref	24-6[34_35]
+21-5	_	widely	abstract[34]	new[34]	_	_
+21-6	_	used	abstract[34]	new[34]	_	_
+21-7	_	empirical	abstract[34]	new[34]	_	_
+21-8	_	models	abstract[34]	new[34]	_	_
 21-9	_	decouple	_	_	_	_
 21-10	_	the	_	_	_	_
 21-11	_	wind	_	_	_	_
@@ -909,7 +909,7 @@
 21-40	_	.	_	_	_	_
 
 #Text=The wind - roughened sea surface is associated with the increased brightness temperature ( due to sea surface roughness effect ) , which induces regional biases when applied to different areas [ 32 ] .
-22-1	_	The	abstract[32]	new[32]	_	_
+22-1	_	The	abstract[32]	new[32]	coref	25-29[32_33]
 22-2	_	wind	abstract[32]	new[32]	_	_
 22-3	_	-	abstract[32]	new[32]	_	_
 22-4	_	roughened	abstract[32]	new[32]	_	_
@@ -969,7 +969,7 @@
 23-21	_	offshore	_	_	_	_
 23-22	_	areas	_	_	_	_
 23-23	_	of	_	_	_	_
-23-24	_	China	abstract[35]	new[35]	coref	24-12[35_36]
+23-24	_	China	abstract[36]	new[36]	coref	24-12[36_37]
 23-25	_	(	_	_	_	_
 23-26	_	i.e.	_	_	_	_
 23-27	_	,	_	_	_	_
@@ -1005,13 +1005,13 @@
 24-3	_	the	_	_	_	_
 24-4	_	compatibility	_	_	_	_
 24-5	_	of	_	_	_	_
-24-6	_	these	abstract[34]	new[34]	_	_
-24-7	_	models	abstract[34]	new[34]	_	_
+24-6	_	these	abstract[35]	new[35]	_	_
+24-7	_	models	abstract[35]	new[35]	_	_
 24-8	_	in	_	_	_	_
 24-9	_	coastal	_	_	_	_
 24-10	_	area	_	_	_	_
 24-11	_	of	_	_	_	_
-24-12	_	China	abstract[36]	new[36]	_	_
+24-12	_	China	abstract[37]	new[37]	_	_
 24-13	_	needs	_	_	_	_
 24-14	_	to	_	_	_	_
 24-15	_	be	_	_	_	_
@@ -1034,20 +1034,50 @@
 24-32	_	observations	_	_	_	_
 24-33	_	.	_	_	_	_
 
-#Text=It is important to have full and accurate knowledge and experience in this field .
-25-1	_	It	_	_	_	_
+#Text=SSS is a global marine parameter . Satellites can monitor global ocean salinity within a certain range . Some factors for remote sensing of SSS include disturbances in the sea surface , and irregularity of brightness or magnitude and the effect of surface roughness .
+25-1	_	SSS	_	_	_	_
 25-2	_	is	_	_	_	_
-25-3	_	important	_	_	_	_
-25-4	_	to	_	_	_	_
-25-5	_	have	_	_	_	_
-25-6	_	full	_	_	_	_
-25-7	_	and	_	_	_	_
-25-8	_	accurate	_	_	_	_
-25-9	_	knowledge	_	_	_	_
-25-10	_	and	_	_	_	_
-25-11	_	experience	_	_	_	_
-25-12	_	in	_	_	_	_
-25-13	_	this	_	_	_	_
-25-14	_	field	_	_	_	_
-25-15	_	.	_	_	_	_
+25-3	_	a	_	_	_	_
+25-4	_	global	_	_	_	_
+25-5	_	marine	_	_	_	_
+25-6	_	parameter	_	_	_	_
+25-7	_	.	_	_	_	_
+25-8	_	Satellites	_	_	_	_
+25-9	_	can	_	_	_	_
+25-10	_	monitor	_	_	_	_
+25-11	_	global	_	_	_	_
+25-12	_	ocean	_	_	_	_
+25-13	_	salinity	_	_	_	_
+25-14	_	within	_	_	_	_
+25-15	_	a	_	_	_	_
+25-16	_	certain	_	_	_	_
+25-17	_	range	_	_	_	_
+25-18	_	.	_	_	_	_
+25-19	_	Some	_	_	_	_
+25-20	_	factors	_	_	_	_
+25-21	_	for	_	_	_	_
+25-22	_	remote	_	_	_	_
+25-23	_	sensing	_	_	_	_
+25-24	_	of	_	_	_	_
+25-25	_	SSS	_	_	_	_
+25-26	_	include	_	_	_	_
+25-27	_	disturbances	_	_	_	_
+25-28	_	in	_	_	_	_
+25-29	_	the	abstract[33]	new[33]	_	_
+25-30	_	sea	abstract[33]	new[33]	_	_
+25-31	_	surface	abstract[33]	new[33]	_	_
+25-32	_	,	_	_	_	_
+25-33	_	and	_	_	_	_
+25-34	_	irregularity	_	_	_	_
+25-35	_	of	_	_	_	_
+25-36	_	brightness	_	_	_	_
+25-37	_	or	_	_	_	_
+25-38	_	magnitude	_	_	_	_
+25-39	_	and	_	_	_	_
+25-40	_	the	_	_	_	_
+25-41	_	effect	_	_	_	_
+25-42	_	of	_	_	_	_
+25-43	_	surface	_	_	_	_
+25-44	_	roughness	_	_	_	_
+25-45	_	.	_	_	_	_
 

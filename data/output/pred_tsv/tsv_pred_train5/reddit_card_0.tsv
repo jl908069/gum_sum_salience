@@ -1,0 +1,782 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Be careful what you say in public
+1-1	_	Be	_	_	_	_
+1-2	_	careful	_	_	_	_
+1-3	_	what	_	_	_	_
+1-4	_	you	abstract[24]	new[24]	coref	8-4[24_25]
+1-5	_	say	_	_	_	_
+1-6	_	in	_	_	_	_
+1-7	_	public	_	_	_	_
+
+#Text=My wife and I were at Panera eating breakfast and we noticed a lady be hind us talking on the phone very loudly .
+2-1	_	My	abstract[1]|abstract[3]	new[1]|new[3]	coref|coref	2-4[1_2]|2-11[3_4]
+2-2	_	wife	abstract[3]	new[3]	_	_
+2-3	_	and	abstract[3]	new[3]	_	_
+2-4	_	I	abstract[2]|abstract[3]	new[2]|new[3]	_	_
+2-5	_	were	_	_	_	_
+2-6	_	at	_	_	_	_
+2-7	_	Panera	abstract[20]	new[20]	coref	4-12[20_21]
+2-8	_	eating	_	_	_	_
+2-9	_	breakfast	_	_	_	_
+2-10	_	and	_	_	_	_
+2-11	_	we	abstract[4]	new[4]	coref	2-17[4_5]
+2-12	_	noticed	_	_	_	_
+2-13	_	a	abstract[12]	new[12]	coref	3-7[12_13]
+2-14	_	lady	abstract[12]	new[12]	_	_
+2-15	_	be	abstract[12]	new[12]	_	_
+2-16	_	hind	abstract[12]	new[12]	_	_
+2-17	_	us	abstract[5]|abstract[12]	new[5]|new[12]	coref	3-1[5_6]
+2-18	_	talking	abstract[12]	new[12]	_	_
+2-19	_	on	abstract[12]	new[12]	_	_
+2-20	_	the	abstract[12]	new[12]	_	_
+2-21	_	phone	abstract[12]	new[12]	_	_
+2-22	_	very	abstract[12]	new[12]	_	_
+2-23	_	loudly	abstract[12]	new[12]	_	_
+2-24	_	.	_	_	_	_
+
+#Text=We could n’t help over hearing her talk about a bill not being paid .
+3-1	_	We	abstract[6]	new[6]	coref	4-1[6_7]
+3-2	_	could	_	_	_	_
+3-3	_	n’t	_	_	_	_
+3-4	_	help	_	_	_	_
+3-5	_	over	_	_	_	_
+3-6	_	hearing	_	_	_	_
+3-7	_	her	abstract[13]	new[13]	coref	5-11[13_14]
+3-8	_	talk	_	_	_	_
+3-9	_	about	_	_	_	_
+3-10	_	a	_	_	_	_
+3-11	_	bill	_	_	_	_
+3-12	_	not	_	_	_	_
+3-13	_	being	_	_	_	_
+3-14	_	paid	_	_	_	_
+3-15	_	.	_	_	_	_
+
+#Text=We were a little annoyed but not a big deal because it was a public restaurant .
+4-1	_	We	abstract[7]	new[7]	coref	5-1[7_8]
+4-2	_	were	_	_	_	_
+4-3	_	a	_	_	_	_
+4-4	_	little	_	_	_	_
+4-5	_	annoyed	_	_	_	_
+4-6	_	but	_	_	_	_
+4-7	_	not	_	_	_	_
+4-8	_	a	_	_	_	_
+4-9	_	big	_	_	_	_
+4-10	_	deal	_	_	_	_
+4-11	_	because	_	_	_	_
+4-12	_	it	abstract[21]	new[21]	_	_
+4-13	_	was	_	_	_	_
+4-14	_	a	_	_	_	_
+4-15	_	public	_	_	_	_
+4-16	_	restaurant	_	_	_	_
+4-17	_	.	_	_	_	_
+
+#Text=We were not trying to listen but were shocked when she announced that she was about to read her card number .
+5-1	_	We	abstract[8]	new[8]	coref	7-1[8_9]
+5-2	_	were	_	_	_	_
+5-3	_	not	_	_	_	_
+5-4	_	trying	_	_	_	_
+5-5	_	to	_	_	_	_
+5-6	_	listen	_	_	_	_
+5-7	_	but	_	_	_	_
+5-8	_	were	_	_	_	_
+5-9	_	shocked	_	_	_	_
+5-10	_	when	_	_	_	_
+5-11	_	she	abstract[14]	new[14]	coref	5-14[14_15]
+5-12	_	announced	_	_	_	_
+5-13	_	that	_	_	_	_
+5-14	_	she	abstract[15]	new[15]	coref	5-19[15_16]
+5-15	_	was	_	_	_	_
+5-16	_	about	_	_	_	_
+5-17	_	to	_	_	_	_
+5-18	_	read	_	_	_	_
+5-19	_	her	abstract[16]|abstract[22]	new[16]|new[22]	coref|coref	6-1[16_17]|7-11[22_23]
+5-20	_	card	abstract[22]	new[22]	_	_
+5-21	_	number	abstract[22]	new[22]	_	_
+5-22	_	.	_	_	_	_
+
+#Text=She then gave the card ’s expiration date , security code , and her zip code .
+6-1	_	She	abstract[17]	new[17]	coref	6-14[17_18]
+6-2	_	then	_	_	_	_
+6-3	_	gave	_	_	_	_
+6-4	_	the	_	_	_	_
+6-5	_	card	_	_	_	_
+6-6	_	’s	_	_	_	_
+6-7	_	expiration	_	_	_	_
+6-8	_	date	_	_	_	_
+6-9	_	,	_	_	_	_
+6-10	_	security	_	_	_	_
+6-11	_	code	_	_	_	_
+6-12	_	,	_	_	_	_
+6-13	_	and	_	_	_	_
+6-14	_	her	abstract[18]	new[18]	coref	7-12[18_19]
+6-15	_	zip	_	_	_	_
+6-16	_	code	_	_	_	_
+6-17	_	.	_	_	_	_
+
+#Text=We clearly heard and if we were planning on stealing it she gave us plenty of notice to get a pen .
+7-1	_	We	abstract[9]	new[9]	coref	7-6[9_10]
+7-2	_	clearly	_	_	_	_
+7-3	_	heard	_	_	_	_
+7-4	_	and	_	_	_	_
+7-5	_	if	_	_	_	_
+7-6	_	we	abstract[10]	new[10]	coref	7-14[10_11]
+7-7	_	were	_	_	_	_
+7-8	_	planning	_	_	_	_
+7-9	_	on	_	_	_	_
+7-10	_	stealing	_	_	_	_
+7-11	_	it	abstract[23]	new[23]	_	_
+7-12	_	she	abstract[19]	new[19]	_	_
+7-13	_	gave	_	_	_	_
+7-14	_	us	abstract[11]	new[11]	_	_
+7-15	_	plenty	_	_	_	_
+7-16	_	of	_	_	_	_
+7-17	_	notice	_	_	_	_
+7-18	_	to	_	_	_	_
+7-19	_	get	_	_	_	_
+7-20	_	a	_	_	_	_
+7-21	_	pen	_	_	_	_
+7-22	_	.	_	_	_	_
+
+#Text=Do n’t read your personal information in public like this .
+8-1	_	Do	_	_	_	_
+8-2	_	n’t	_	_	_	_
+8-3	_	read	_	_	_	_
+8-4	_	your	abstract[25]	new[25]	coref	9-1[25_26]
+8-5	_	personal	_	_	_	_
+8-6	_	information	_	_	_	_
+8-7	_	in	_	_	_	_
+8-8	_	public	_	_	_	_
+8-9	_	like	_	_	_	_
+8-10	_	this	_	_	_	_
+8-11	_	.	_	_	_	_
+
+#Text=You never know who is listening and who is writing stuff down .
+9-1	_	You	abstract[26]	new[26]	_	_
+9-2	_	never	_	_	_	_
+9-3	_	know	_	_	_	_
+9-4	_	who	_	_	_	_
+9-5	_	is	_	_	_	_
+9-6	_	listening	_	_	_	_
+9-7	_	and	_	_	_	_
+9-8	_	who	_	_	_	_
+9-9	_	is	_	_	_	_
+9-10	_	writing	_	_	_	_
+9-11	_	stuff	_	_	_	_
+9-12	_	down	_	_	_	_
+9-13	_	.	_	_	_	_
+
+#Text=Wow I ca n't believe someone would blurt that out .
+10-1	_	Wow	_	_	_	_
+10-2	_	I	_	_	_	_
+10-3	_	ca	_	_	_	_
+10-4	_	n't	_	_	_	_
+10-5	_	believe	_	_	_	_
+10-6	_	someone	_	_	_	_
+10-7	_	would	_	_	_	_
+10-8	_	blurt	_	_	_	_
+10-9	_	that	_	_	_	_
+10-10	_	out	_	_	_	_
+10-11	_	.	_	_	_	_
+
+#Text=Post in a week :
+11-1	_	Post	_	_	_	_
+11-2	_	in	_	_	_	_
+11-3	_	a	_	_	_	_
+11-4	_	week	_	_	_	_
+11-5	_	:	_	_	_	_
+
+#Text=" Help !
+12-1	_	"	_	_	_	_
+12-2	_	Help	_	_	_	_
+12-3	_	!	_	_	_	_
+
+#Text=someone somehow stole my credit card info !
+13-1	_	someone	_	_	_	_
+13-2	_	somehow	_	_	_	_
+13-3	_	stole	_	_	_	_
+13-4	_	my	_	_	_	_
+13-5	_	credit	_	_	_	_
+13-6	_	card	_	_	_	_
+13-7	_	info	_	_	_	_
+13-8	_	!	_	_	_	_
+
+#Text=advice ! ? ! ? ! "
+14-1	_	advice	_	_	_	_
+14-2	_	!	_	_	_	_
+14-3	_	?	_	_	_	_
+14-4	_	!	_	_	_	_
+14-5	_	?	_	_	_	_
+14-6	_	!	_	_	_	_
+14-7	_	"	_	_	_	_
+
+#Text=I worked at a call center and some people are really lax about their information and expect other to be lax about their info as well .
+15-1	_	I	abstract[31]	new[31]	coref	16-1[31_32]
+15-2	_	worked	_	_	_	_
+15-3	_	at	_	_	_	_
+15-4	_	a	_	_	_	_
+15-5	_	call	_	_	_	_
+15-6	_	center	_	_	_	_
+15-7	_	and	_	_	_	_
+15-8	_	some	abstract[27]	new[27]	coref	15-14[27_28]
+15-9	_	people	abstract[27]	new[27]	_	_
+15-10	_	are	_	_	_	_
+15-11	_	really	_	_	_	_
+15-12	_	lax	_	_	_	_
+15-13	_	about	_	_	_	_
+15-14	_	their	abstract[28]	new[28]	_	_
+15-15	_	information	_	_	_	_
+15-16	_	and	_	_	_	_
+15-17	_	expect	_	_	_	_
+15-18	_	other	abstract[29]	new[29]	coref	15-23[29_30]
+15-19	_	to	_	_	_	_
+15-20	_	be	_	_	_	_
+15-21	_	lax	_	_	_	_
+15-22	_	about	_	_	_	_
+15-23	_	their	abstract[30]	new[30]	_	_
+15-24	_	info	_	_	_	_
+15-25	_	as	_	_	_	_
+15-26	_	well	_	_	_	_
+15-27	_	.	_	_	_	_
+
+#Text=I 'd have conversations that would go like this :
+16-1	_	I	abstract[32]	new[32]	coref	17-1[32_33]
+16-2	_	'd	_	_	_	_
+16-3	_	have	_	_	_	_
+16-4	_	conversations	_	_	_	_
+16-5	_	that	_	_	_	_
+16-6	_	would	_	_	_	_
+16-7	_	go	_	_	_	_
+16-8	_	like	_	_	_	_
+16-9	_	this	_	_	_	_
+16-10	_	:	_	_	_	_
+
+#Text=Me :
+17-1	_	Me	abstract[33]	new[33]	coref	18-4[33_34]
+17-2	_	:	_	_	_	_
+
+#Text=" Ok , I 'm ready for your card number . "
+18-1	_	"	_	_	_	_
+18-2	_	Ok	_	_	_	_
+18-3	_	,	_	_	_	_
+18-4	_	I	abstract[34]	new[34]	coref	21-1[34_35]
+18-5	_	'm	_	_	_	_
+18-6	_	ready	_	_	_	_
+18-7	_	for	_	_	_	_
+18-8	_	your	abstract[45]	new[45]	coref	20-6[45_46]
+18-9	_	card	abstract[45]	new[45]	_	_
+18-10	_	number	abstract[45]	new[45]	_	_
+18-11	_	.	_	_	_	_
+18-12	_	"	_	_	_	_
+
+#Text=Customer :
+19-1	_	Customer	abstract[49]	new[49]	coref	20-8[49_50]
+19-2	_	:	_	_	_	_
+
+#Text=" Well , just use the one I used last time . "
+20-1	_	"	_	_	_	_
+20-2	_	Well	_	_	_	_
+20-3	_	,	_	_	_	_
+20-4	_	just	_	_	_	_
+20-5	_	use	_	_	_	_
+20-6	_	the	abstract[46]	new[46]	coref	22-12[46_47]
+20-7	_	one	abstract[46]	new[46]	_	_
+20-8	_	I	abstract[46]|abstract[50]	new[46]|new[50]	coref	22-12[50_51]
+20-9	_	used	abstract[46]	new[46]	_	_
+20-10	_	last	abstract[46]	new[46]	_	_
+20-11	_	time	abstract[46]	new[46]	_	_
+20-12	_	.	_	_	_	_
+20-13	_	"	_	_	_	_
+
+#Text=Me :
+21-1	_	Me	abstract[35]	new[35]	coref	22-2[35_36]
+21-2	_	:	_	_	_	_
+
+#Text=" I 'm sorry , I do n't have access to your card number . "
+22-1	_	"	_	_	_	_
+22-2	_	I	abstract[36]	new[36]	coref	22-6[36_37]
+22-3	_	'm	_	_	_	_
+22-4	_	sorry	_	_	_	_
+22-5	_	,	_	_	_	_
+22-6	_	I	abstract[37]	new[37]	coref	25-3[37_38]
+22-7	_	do	_	_	_	_
+22-8	_	n't	_	_	_	_
+22-9	_	have	_	_	_	_
+22-10	_	access	_	_	_	_
+22-11	_	to	_	_	_	_
+22-12	_	your	abstract[47]|abstract[51]	new[47]|new[51]	coref	25-5[47_48]
+22-13	_	card	abstract[47]	new[47]	_	_
+22-14	_	number	abstract[47]	new[47]	_	_
+22-15	_	.	_	_	_	_
+22-16	_	"	_	_	_	_
+
+#Text=Customer :
+23-1	_	Customer	abstract[52]	new[52]	coref	24-2[52_53]
+23-2	_	:	_	_	_	_
+
+#Text=" I do n't understand ...
+24-1	_	"	_	_	_	_
+24-2	_	I	abstract[53]	new[53]	coref	25-1[53_54]
+24-3	_	do	_	_	_	_
+24-4	_	n't	_	_	_	_
+24-5	_	understand	_	_	_	_
+24-6	_	...	_	_	_	_
+
+#Text=I know you have it right in front of you . "
+25-1	_	I	abstract[54]	new[54]	_	_
+25-2	_	know	_	_	_	_
+25-3	_	you	abstract[38]	new[38]	coref	25-10[38_39]
+25-4	_	have	_	_	_	_
+25-5	_	it	abstract[48]	new[48]	_	_
+25-6	_	right	_	_	_	_
+25-7	_	in	_	_	_	_
+25-8	_	front	_	_	_	_
+25-9	_	of	_	_	_	_
+25-10	_	you	abstract[39]	new[39]	coref	26-1[39_40]
+25-11	_	.	_	_	_	_
+25-12	_	"	_	_	_	_
+
+#Text=Me :
+26-1	_	Me	abstract[40]	new[40]	coref	27-2[40_41]
+26-2	_	:	_	_	_	_
+
+#Text=" I can only see the last four digits for security purposes . "
+27-1	_	"	_	_	_	_
+27-2	_	I	abstract[41]	new[41]	coref	30-7[41_42]
+27-3	_	can	_	_	_	_
+27-4	_	only	_	_	_	_
+27-5	_	see	_	_	_	_
+27-6	_	the	_	_	_	_
+27-7	_	last	_	_	_	_
+27-8	_	four	_	_	_	_
+27-9	_	digits	_	_	_	_
+27-10	_	for	_	_	_	_
+27-11	_	security	_	_	_	_
+27-12	_	purposes	_	_	_	_
+27-13	_	.	_	_	_	_
+27-14	_	"	_	_	_	_
+
+#Text=Customer :
+28-1	_	Customer	abstract[55]	new[55]	coref	29-3[55_56]
+28-2	_	:	_	_	_	_
+
+#Text=" Well I do n't have my card on me right now ...
+29-1	_	"	_	_	_	_
+29-2	_	Well	_	_	_	_
+29-3	_	I	abstract[56]	new[56]	coref	29-7[56_57]
+29-4	_	do	_	_	_	_
+29-5	_	n't	_	_	_	_
+29-6	_	have	_	_	_	_
+29-7	_	my	abstract[57]|abstract[61]	new[57]|new[61]	coref|coref	29-10[57_58]|30-11[61_62]
+29-8	_	card	abstract[61]	new[61]	_	_
+29-9	_	on	_	_	_	_
+29-10	_	me	abstract[58]	new[58]	coref	30-1[58_59]
+29-11	_	right	_	_	_	_
+29-12	_	now	_	_	_	_
+29-13	_	...	_	_	_	_
+
+#Text=I just do n't understand why you ca n't use the card I used before . "
+30-1	_	I	abstract[59]	new[59]	coref	30-13[59_60]
+30-2	_	just	_	_	_	_
+30-3	_	do	_	_	_	_
+30-4	_	n't	_	_	_	_
+30-5	_	understand	_	_	_	_
+30-6	_	why	_	_	_	_
+30-7	_	you	abstract[42]	new[42]	coref	31-1[42_43]
+30-8	_	ca	_	_	_	_
+30-9	_	n't	_	_	_	_
+30-10	_	use	_	_	_	_
+30-11	_	the	abstract[62]	new[62]	_	_
+30-12	_	card	abstract[62]	new[62]	_	_
+30-13	_	I	abstract[60]|abstract[62]	new[60]|new[62]	_	_
+30-14	_	used	abstract[62]	new[62]	_	_
+30-15	_	before	abstract[62]	new[62]	_	_
+30-16	_	.	_	_	_	_
+30-17	_	"	_	_	_	_
+
+#Text=I had people cancel orders over this sort of thing and a few times I had to get a supervisor get their car number to place an order .
+31-1	_	I	abstract[43]	new[43]	coref	31-15[43_44]
+31-2	_	had	_	_	_	_
+31-3	_	people	abstract[63]	new[63]	coref	31-22[63_64]
+31-4	_	cancel	_	_	_	_
+31-5	_	orders	_	_	_	_
+31-6	_	over	_	_	_	_
+31-7	_	this	_	_	_	_
+31-8	_	sort	_	_	_	_
+31-9	_	of	_	_	_	_
+31-10	_	thing	_	_	_	_
+31-11	_	and	_	_	_	_
+31-12	_	a	_	_	_	_
+31-13	_	few	_	_	_	_
+31-14	_	times	_	_	_	_
+31-15	_	I	abstract[44]	new[44]	_	_
+31-16	_	had	_	_	_	_
+31-17	_	to	_	_	_	_
+31-18	_	get	_	_	_	_
+31-19	_	a	_	_	_	_
+31-20	_	supervisor	_	_	_	_
+31-21	_	get	_	_	_	_
+31-22	_	their	abstract[64]	new[64]	_	_
+31-23	_	car	_	_	_	_
+31-24	_	number	_	_	_	_
+31-25	_	to	_	_	_	_
+31-26	_	place	_	_	_	_
+31-27	_	an	_	_	_	_
+31-28	_	order	_	_	_	_
+31-29	_	.	_	_	_	_
+
+#Text=You think people would be happy that your average call center advocate does n't have access to all their credit card information .
+32-1	_	You	abstract[65]	new[65]	coref	32-8[65_66]
+32-2	_	think	_	_	_	_
+32-3	_	people	abstract[67]	new[67]	coref	32-19[67_68]
+32-4	_	would	_	_	_	_
+32-5	_	be	_	_	_	_
+32-6	_	happy	_	_	_	_
+32-7	_	that	_	_	_	_
+32-8	_	your	abstract[66]	new[66]	_	_
+32-9	_	average	_	_	_	_
+32-10	_	call	_	_	_	_
+32-11	_	center	_	_	_	_
+32-12	_	advocate	_	_	_	_
+32-13	_	does	_	_	_	_
+32-14	_	n't	_	_	_	_
+32-15	_	have	_	_	_	_
+32-16	_	access	_	_	_	_
+32-17	_	to	_	_	_	_
+32-18	_	all	_	_	_	_
+32-19	_	their	abstract[68]	new[68]	_	_
+32-20	_	credit	_	_	_	_
+32-21	_	card	_	_	_	_
+32-22	_	information	_	_	_	_
+32-23	_	.	_	_	_	_
+
+#Text=In the tradeoff between convenience and security , a vasty majority prefer convenience .
+33-1	_	In	_	_	_	_
+33-2	_	the	_	_	_	_
+33-3	_	tradeoff	_	_	_	_
+33-4	_	between	_	_	_	_
+33-5	_	convenience	_	_	_	_
+33-6	_	and	_	_	_	_
+33-7	_	security	_	_	_	_
+33-8	_	,	_	_	_	_
+33-9	_	a	abstract[69]	new[69]	coref	34-1[69_70]
+33-10	_	vasty	abstract[69]	new[69]	_	_
+33-11	_	majority	abstract[69]	new[69]	_	_
+33-12	_	prefer	_	_	_	_
+33-13	_	convenience	_	_	_	_
+33-14	_	.	_	_	_	_
+
+#Text=They only chose security when something has already gone wrong .
+34-1	_	They	abstract[70]	new[70]	_	_
+34-2	_	only	_	_	_	_
+34-3	_	chose	_	_	_	_
+34-4	_	security	_	_	_	_
+34-5	_	when	_	_	_	_
+34-6	_	something	_	_	_	_
+34-7	_	has	_	_	_	_
+34-8	_	already	_	_	_	_
+34-9	_	gone	_	_	_	_
+34-10	_	wrong	_	_	_	_
+34-11	_	.	_	_	_	_
+
+#Text=Info gets stolen :
+35-1	_	Info	_	_	_	_
+35-2	_	gets	_	_	_	_
+35-3	_	stolen	_	_	_	_
+35-4	_	:	_	_	_	_
+
+#Text=" Why do you have my stuff saved on file ? ! ? "
+36-1	_	"	_	_	_	_
+36-2	_	Why	_	_	_	_
+36-3	_	do	_	_	_	_
+36-4	_	you	_	_	_	_
+36-5	_	have	_	_	_	_
+36-6	_	my	_	_	_	_
+36-7	_	stuff	_	_	_	_
+36-8	_	saved	_	_	_	_
+36-9	_	on	_	_	_	_
+36-10	_	file	_	_	_	_
+36-11	_	?	_	_	_	_
+36-12	_	!	_	_	_	_
+36-13	_	?	_	_	_	_
+36-14	_	"	_	_	_	_
+
+#Text=Ca n't order item because stuff is n't saved on file :
+37-1	_	Ca	_	_	_	_
+37-2	_	n't	_	_	_	_
+37-3	_	order	_	_	_	_
+37-4	_	item	_	_	_	_
+37-5	_	because	_	_	_	_
+37-6	_	stuff	abstract[71]	new[71]	coref	38-7[71_72]
+37-7	_	is	_	_	_	_
+37-8	_	n't	_	_	_	_
+37-9	_	saved	_	_	_	_
+37-10	_	on	_	_	_	_
+37-11	_	file	_	_	_	_
+37-12	_	:	_	_	_	_
+
+#Text=" Why do n't you save it you trash company ? ? "
+38-1	_	"	_	_	_	_
+38-2	_	Why	_	_	_	_
+38-3	_	do	_	_	_	_
+38-4	_	n't	_	_	_	_
+38-5	_	you	_	_	_	_
+38-6	_	save	_	_	_	_
+38-7	_	it	abstract[72]	new[72]	_	_
+38-8	_	you	_	_	_	_
+38-9	_	trash	_	_	_	_
+38-10	_	company	_	_	_	_
+38-11	_	?	_	_	_	_
+38-12	_	?	_	_	_	_
+38-13	_	"	_	_	_	_
+
+#Text=Info gets stolen :
+39-1	_	Info	abstract[73]	new[73]	coref	40-8[73_74]
+39-2	_	gets	_	_	_	_
+39-3	_	stolen	_	_	_	_
+39-4	_	:	_	_	_	_
+
+#Text=“ why ca n’t you secure the information I gave you , because security and convenience should n’t be mutually exclusive , you trash company that makes billions / yr and can afford to take it seriously ! ”
+40-1	_	“	_	_	_	_
+40-2	_	why	_	_	_	_
+40-3	_	ca	_	_	_	_
+40-4	_	n’t	_	_	_	_
+40-5	_	you	abstract[75]	new[75]	coref	40-12[75_76]
+40-6	_	secure	_	_	_	_
+40-7	_	the	abstract[74]	new[74]	_	_
+40-8	_	information	abstract[74]	new[74]	_	_
+40-9	_	I	abstract[74]	new[74]	_	_
+40-10	_	gave	abstract[74]	new[74]	_	_
+40-11	_	you	abstract[74]|abstract[76]	new[74]|new[76]	_	_
+40-12	_	,	_	_	_	_
+40-13	_	because	_	_	_	_
+40-14	_	security	abstract[77]	new[77]	coref	40-37[77_78]
+40-15	_	and	_	_	_	_
+40-16	_	convenience	_	_	_	_
+40-17	_	should	_	_	_	_
+40-18	_	n’t	_	_	_	_
+40-19	_	be	_	_	_	_
+40-20	_	mutually	_	_	_	_
+40-21	_	exclusive	_	_	_	_
+40-22	_	,	_	_	_	_
+40-23	_	you	_	_	_	_
+40-24	_	trash	_	_	_	_
+40-25	_	company	_	_	_	_
+40-26	_	that	_	_	_	_
+40-27	_	makes	_	_	_	_
+40-28	_	billions	_	_	_	_
+40-29	_	/	_	_	_	_
+40-30	_	yr	_	_	_	_
+40-31	_	and	_	_	_	_
+40-32	_	can	_	_	_	_
+40-33	_	afford	_	_	_	_
+40-34	_	to	_	_	_	_
+40-35	_	take	_	_	_	_
+40-36	_	it	abstract[78]	new[78]	_	_
+40-37	_	seriously	_	_	_	_
+40-38	_	!	_	_	_	_
+40-39	_	”	_	_	_	_
+
+#Text=Well unfortunately , some companies do n't have very good security .
+41-1	_	Well	_	_	_	_
+41-2	_	unfortunately	_	_	_	_
+41-3	_	,	_	_	_	_
+41-4	_	some	_	_	_	_
+41-5	_	companies	_	_	_	_
+41-6	_	do	_	_	_	_
+41-7	_	n't	_	_	_	_
+41-8	_	have	_	_	_	_
+41-9	_	very	_	_	_	_
+41-10	_	good	_	_	_	_
+41-11	_	security	_	_	_	_
+41-12	_	.	_	_	_	_
+
+#Text=Wish it was the case that you could easily have security and convenience though .
+42-1	_	Wish	_	_	_	_
+42-2	_	it	_	_	_	_
+42-3	_	was	_	_	_	_
+42-4	_	the	_	_	_	_
+42-5	_	case	_	_	_	_
+42-6	_	that	_	_	_	_
+42-7	_	you	_	_	_	_
+42-8	_	could	_	_	_	_
+42-9	_	easily	_	_	_	_
+42-10	_	have	_	_	_	_
+42-11	_	security	abstract[79]	new[79]	coref	44-13[79_80]
+42-12	_	and	_	_	_	_
+42-13	_	convenience	_	_	_	_
+42-14	_	though	_	_	_	_
+42-15	_	.	_	_	_	_
+
+#Text=Some companies do n’t , but I think we see that the companies that can still do n’t .
+43-1	_	Some	_	_	_	_
+43-2	_	companies	_	_	_	_
+43-3	_	do	_	_	_	_
+43-4	_	n’t	_	_	_	_
+43-5	_	,	_	_	_	_
+43-6	_	but	_	_	_	_
+43-7	_	I	abstract[84]	new[84]	coref	45-1[84_85]
+43-8	_	think	_	_	_	_
+43-9	_	we	_	_	_	_
+43-10	_	see	_	_	_	_
+43-11	_	that	_	_	_	_
+43-12	_	the	_	_	_	_
+43-13	_	companies	_	_	_	_
+43-14	_	that	_	_	_	_
+43-15	_	can	_	_	_	_
+43-16	_	still	_	_	_	_
+43-17	_	do	_	_	_	_
+43-18	_	n’t	_	_	_	_
+43-19	_	.	_	_	_	_
+
+#Text=So largely it appears less a “ generally companies ca n’t afford it ” and more a “ generally companies are n’t prioritizing it , budget aside . ”
+44-1	_	So	_	_	_	_
+44-2	_	largely	_	_	_	_
+44-3	_	it	_	_	_	_
+44-4	_	appears	_	_	_	_
+44-5	_	less	_	_	_	_
+44-6	_	a	_	_	_	_
+44-7	_	“	_	_	_	_
+44-8	_	generally	_	_	_	_
+44-9	_	companies	_	_	_	_
+44-10	_	ca	_	_	_	_
+44-11	_	n’t	_	_	_	_
+44-12	_	afford	_	_	_	_
+44-13	_	it	abstract[80]	new[80]	coref	44-24[80_81]
+44-14	_	”	_	_	_	_
+44-15	_	and	_	_	_	_
+44-16	_	more	_	_	_	_
+44-17	_	a	_	_	_	_
+44-18	_	“	_	_	_	_
+44-19	_	generally	_	_	_	_
+44-20	_	companies	_	_	_	_
+44-21	_	are	_	_	_	_
+44-22	_	n’t	_	_	_	_
+44-23	_	prioritizing	_	_	_	_
+44-24	_	it	abstract[81]	new[81]	coref	50-5[81_82]
+44-25	_	,	_	_	_	_
+44-26	_	budget	_	_	_	_
+44-27	_	aside	_	_	_	_
+44-28	_	.	_	_	_	_
+44-29	_	”	_	_	_	_
+
+#Text=I ’m looking at you , capital one .
+45-1	_	I	abstract[85]	new[85]	coref	49-5[85_86]
+45-2	_	’m	_	_	_	_
+45-3	_	looking	_	_	_	_
+45-4	_	at	_	_	_	_
+45-5	_	you	_	_	_	_
+45-6	_	,	_	_	_	_
+45-7	_	capital	_	_	_	_
+45-8	_	one	_	_	_	_
+45-9	_	.	_	_	_	_
+
+#Text=Or equifax .
+46-1	_	Or	_	_	_	_
+46-2	_	equifax	_	_	_	_
+46-3	_	.	_	_	_	_
+
+#Text=Or any of the massive thefts that basically affected a third or more of the country .
+47-1	_	Or	_	_	_	_
+47-2	_	any	_	_	_	_
+47-3	_	of	_	_	_	_
+47-4	_	the	_	_	_	_
+47-5	_	massive	_	_	_	_
+47-6	_	thefts	_	_	_	_
+47-7	_	that	_	_	_	_
+47-8	_	basically	_	_	_	_
+47-9	_	affected	_	_	_	_
+47-10	_	a	_	_	_	_
+47-11	_	third	_	_	_	_
+47-12	_	or	_	_	_	_
+47-13	_	more	_	_	_	_
+47-14	_	of	_	_	_	_
+47-15	_	the	_	_	_	_
+47-16	_	country	_	_	_	_
+47-17	_	.	_	_	_	_
+
+#Text=Yeah sony could be thrown in there too with the big ps3 hack that happened back in the day , but I 'm not sure if that was poor security , good hackers , or both .
+48-1	_	Yeah	_	_	_	_
+48-2	_	sony	_	_	_	_
+48-3	_	could	_	_	_	_
+48-4	_	be	_	_	_	_
+48-5	_	thrown	_	_	_	_
+48-6	_	in	_	_	_	_
+48-7	_	there	_	_	_	_
+48-8	_	too	_	_	_	_
+48-9	_	with	_	_	_	_
+48-10	_	the	abstract[88]	new[88]	coref	48-27[88_89]
+48-11	_	big	abstract[88]	new[88]	_	_
+48-12	_	ps3	abstract[88]	new[88]	_	_
+48-13	_	hack	abstract[88]	new[88]	_	_
+48-14	_	that	abstract[88]	new[88]	_	_
+48-15	_	happened	abstract[88]	new[88]	_	_
+48-16	_	back	abstract[88]	new[88]	_	_
+48-17	_	in	abstract[88]	new[88]	_	_
+48-18	_	the	abstract[88]	new[88]	_	_
+48-19	_	day	abstract[88]	new[88]	_	_
+48-20	_	,	_	_	_	_
+48-21	_	but	_	_	_	_
+48-22	_	I	abstract[90]	new[90]	coref	49-1[90_91]
+48-23	_	'm	_	_	_	_
+48-24	_	not	_	_	_	_
+48-25	_	sure	_	_	_	_
+48-26	_	if	_	_	_	_
+48-27	_	that	abstract[89]	new[89]	_	_
+48-28	_	was	_	_	_	_
+48-29	_	poor	_	_	_	_
+48-30	_	security	_	_	_	_
+48-31	_	,	_	_	_	_
+48-32	_	good	_	_	_	_
+48-33	_	hackers	_	_	_	_
+48-34	_	,	_	_	_	_
+48-35	_	or	_	_	_	_
+48-36	_	both	_	_	_	_
+48-37	_	.	_	_	_	_
+
+#Text=I 'm totally with you though .
+49-1	_	I	abstract[91]	new[91]	_	_
+49-2	_	'm	_	_	_	_
+49-3	_	totally	_	_	_	_
+49-4	_	with	_	_	_	_
+49-5	_	you	abstract[86]	new[86]	coref	51-4[86_87]
+49-6	_	though	_	_	_	_
+49-7	_	.	_	_	_	_
+
+#Text=If they can afford it , they should have it .
+50-1	_	If	_	_	_	_
+50-2	_	they	abstract[92]	new[92]	coref	50-7[92_93]
+50-3	_	can	_	_	_	_
+50-4	_	afford	_	_	_	_
+50-5	_	it	abstract[82]	new[82]	coref	50-10[82_83]
+50-6	_	,	_	_	_	_
+50-7	_	they	abstract[93]	new[93]	_	_
+50-8	_	should	_	_	_	_
+50-9	_	have	_	_	_	_
+50-10	_	it	abstract[83]	new[83]	_	_
+50-11	_	.	_	_	_	_
+
+#Text=A coworker of mine is getting a good amount of work done and not satisfied with her job .
+51-1	_	A	abstract[94]	new[94]	coref	51-17[94_95]
+51-2	_	coworker	abstract[94]	new[94]	_	_
+51-3	_	of	abstract[94]	new[94]	_	_
+51-4	_	mine	abstract[87]|abstract[94]	new[87]|new[94]	_	_
+51-5	_	is	_	_	_	_
+51-6	_	getting	_	_	_	_
+51-7	_	a	_	_	_	_
+51-8	_	good	_	_	_	_
+51-9	_	amount	_	_	_	_
+51-10	_	of	_	_	_	_
+51-11	_	work	_	_	_	_
+51-12	_	done	_	_	_	_
+51-13	_	and	_	_	_	_
+51-14	_	not	_	_	_	_
+51-15	_	satisfied	_	_	_	_
+51-16	_	with	_	_	_	_
+51-17	_	her	abstract[95]	new[95]	_	_
+51-18	_	job	_	_	_	_
+51-19	_	.	_	_	_	_
+

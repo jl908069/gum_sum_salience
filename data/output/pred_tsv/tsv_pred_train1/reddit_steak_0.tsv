@@ -4,14 +4,14 @@
 
 
 #Text=TIFU by throwing my steak out a window
-1-1	_	TIFU	abstract[114]	new[114]	coref	46-10[114_115]
+1-1	_	TIFU	abstract[118]	new[118]	coref	46-10[118_119]
 1-2	_	by	_	_	_	_
 1-3	_	throwing	_	_	_	_
-1-4	_	my	abstract[1]|abstract[80]	new[1]|new[80]	coref|coref	2-4[1_2]|9-7[80_81]
-1-5	_	steak	abstract[80]	new[80]	_	_
+1-4	_	my	abstract[1]|abstract[81]	new[1]|new[81]	coref|coref	2-4[1_2]|9-7[81_82]
+1-5	_	steak	abstract[81]	new[81]	_	_
 1-6	_	out	_	_	_	_
-1-7	_	a	abstract[91]	new[91]	coref	18-11[91_92]
-1-8	_	window	abstract[91]	new[91]	_	_
+1-7	_	a	abstract[92]	new[92]	coref	18-11[92_93]
+1-8	_	window	abstract[92]	new[92]	_	_
 
 #Text=Last night , my wife 's boss from her brand new job invited us over for dinner .
 2-1	_	Last	_	_	_	_
@@ -27,7 +27,7 @@
 2-11	_	new	abstract[69]	new[69]	_	_
 2-12	_	job	abstract[69]	new[69]	_	_
 2-13	_	invited	_	_	_	_
-2-14	_	us	abstract[89]	new[89]	coref	17-4[89_90]
+2-14	_	us	abstract[90]	new[90]	coref	17-4[90_91]
 2-15	_	over	_	_	_	_
 2-16	_	for	_	_	_	_
 2-17	_	dinner	_	_	_	_
@@ -99,7 +99,7 @@
 5-21	_	.	_	_	_	_
 
 #Text=We chitchatted over drinks and salads and seemed to really be hitting it off .
-6-1	_	We	abstract[78]	new[78]	coref	8-17[78_79]
+6-1	_	We	abstract[79]	new[79]	coref	8-17[79_80]
 6-2	_	chitchatted	_	_	_	_
 6-3	_	over	_	_	_	_
 6-4	_	drinks	_	_	_	_
@@ -129,8 +129,8 @@
 7-11	_	appropriate	_	_	_	_
 7-12	_	jokes	_	_	_	_
 7-13	_	and	_	_	_	_
-7-14	_	my	abstract[12]|abstract[99]	new[12]|new[99]	coref|coref	9-2[12_13]|26-1[99_100]
-7-15	_	wife	abstract[99]	new[99]	_	_
+7-14	_	my	abstract[12]|abstract[100]	new[12]|new[100]	coref|coref	9-2[12_13]|26-1[100_101]
+7-15	_	wife	abstract[100]	new[100]	_	_
 7-16	_	seemed	_	_	_	_
 7-17	_	pleased	_	_	_	_
 7-18	_	.	_	_	_	_
@@ -152,7 +152,7 @@
 8-14	_	for	_	_	_	_
 8-15	_	each	_	_	_	_
 8-16	_	of	_	_	_	_
-8-17	_	us	abstract[79]	new[79]	_	_
+8-17	_	us	abstract[80]	new[80]	_	_
 8-18	_	.	_	_	_	_
 
 #Text=As I began to cut into my steak , I was discouraged to discover how under cooked this steak was .
@@ -162,8 +162,8 @@
 9-4	_	to	_	_	_	_
 9-5	_	cut	_	_	_	_
 9-6	_	into	_	_	_	_
-9-7	_	my	abstract[14]|abstract[81]	new[14]|new[81]	coref|coref	9-10[14_15]|9-18[81_82]
-9-8	_	steak	abstract[81]	new[81]	_	_
+9-7	_	my	abstract[14]|abstract[82]	new[14]|new[82]	coref|coref	9-10[14_15]|9-18[82_83]
+9-8	_	steak	abstract[82]	new[82]	_	_
 9-9	_	,	_	_	_	_
 9-10	_	I	abstract[15]	new[15]	coref	10-3[15_16]
 9-11	_	was	_	_	_	_
@@ -173,8 +173,8 @@
 9-15	_	how	_	_	_	_
 9-16	_	under	_	_	_	_
 9-17	_	cooked	_	_	_	_
-9-18	_	this	abstract[82]	new[82]	coref	12-1[82_83]
-9-19	_	steak	abstract[82]	new[82]	_	_
+9-18	_	this	abstract[83]	new[83]	coref	12-1[83_84]
+9-19	_	steak	abstract[83]	new[83]	_	_
 9-20	_	was	_	_	_	_
 9-21	_	.	_	_	_	_
 
@@ -205,7 +205,7 @@
 11-10	_	.	_	_	_	_
 
 #Text=This was several - minutes - on - a - hot - grill short of rare .
-12-1	_	This	abstract[83]	new[83]	_	_
+12-1	_	This	abstract[84]	new[84]	_	_
 12-2	_	was	_	_	_	_
 12-3	_	several	_	_	_	_
 12-4	_	-	_	_	_	_
@@ -261,8 +261,8 @@
 14-22	_	with	_	_	_	_
 14-23	_	not	_	_	_	_
 14-24	_	eating	_	_	_	_
-14-25	_	this	abstract[84]	new[84]	coref	16-11[84_85]
-14-26	_	steak	abstract[84]	new[84]	_	_
+14-25	_	this	abstract[85]	new[85]	coref	16-11[85_86]
+14-26	_	steak	abstract[85]	new[85]	_	_
 14-27	_	.	_	_	_	_
 
 #Text=Claim vegan-ism ?
@@ -281,15 +281,15 @@
 16-8	_	enthusiasm	_	_	_	_
 16-9	_	upon	_	_	_	_
 16-10	_	seeing	_	_	_	_
-16-11	_	the	abstract[85]	new[85]	coref	21-3[85_86]
-16-12	_	steak	abstract[85]	new[85]	_	_
+16-11	_	the	abstract[86]	new[86]	coref	21-3[86_87]
+16-12	_	steak	abstract[86]	new[86]	_	_
 16-13	_	.	_	_	_	_
 
 #Text=Just then , our hostess excused herself to the kitchen to take care of some dessert preparations .
 17-1	_	Just	_	_	_	_
 17-2	_	then	_	_	_	_
 17-3	_	,	_	_	_	_
-17-4	_	our	abstract[73]|abstract[90]	new[73]|new[90]	coref	17-7[73_74]
+17-4	_	our	abstract[73]|abstract[91]	new[73]|new[91]	coref	17-7[73_74]
 17-5	_	hostess	abstract[73]	new[73]	_	_
 17-6	_	excused	_	_	_	_
 17-7	_	herself	abstract[74]	new[74]	coref	19-11[74_75]
@@ -316,14 +316,14 @@
 18-8	_	room	_	_	_	_
 18-9	_	table	_	_	_	_
 18-10	_	at	_	_	_	_
-18-11	_	the	abstract[92]	new[92]	coref	21-24[92_93]
-18-12	_	open	abstract[92]	new[92]	_	_
-18-13	_	window	abstract[92]	new[92]	_	_
-18-14	_	of	abstract[92]	new[92]	_	_
-18-15	_	this	abstract[92]	new[92]	_	_
-18-16	_	3rd	abstract[92]	new[92]	_	_
-18-17	_	story	abstract[92]	new[92]	_	_
-18-18	_	apartment	abstract[92]	new[92]	_	_
+18-11	_	the	abstract[93]	new[93]	coref	21-24[93_94]
+18-12	_	open	abstract[93]	new[93]	_	_
+18-13	_	window	abstract[93]	new[93]	_	_
+18-14	_	of	abstract[93]	new[93]	_	_
+18-15	_	this	abstract[93]	new[93]	_	_
+18-16	_	3rd	abstract[93]	new[93]	_	_
+18-17	_	story	abstract[93]	new[93]	_	_
+18-18	_	apartment	abstract[93]	new[93]	_	_
 18-19	_	...	_	_	_	_
 18-20	_	a	_	_	_	_
 18-21	_	cartoon	_	_	_	_
@@ -362,8 +362,8 @@
 #Text=I grabbed the steak with my hand , gently shook off the juice and executed a perfect throw right through the center of the open window .
 21-1	_	I	abstract[31]	new[31]	coref	21-6[31_32]
 21-2	_	grabbed	_	_	_	_
-21-3	_	the	abstract[86]	new[86]	coref	25-5[86_87]
-21-4	_	steak	abstract[86]	new[86]	_	_
+21-3	_	the	abstract[87]	new[87]	coref	25-5[87_88]
+21-4	_	steak	abstract[87]	new[87]	_	_
 21-5	_	with	_	_	_	_
 21-6	_	my	abstract[32]	new[32]	coref	25-5[32_33]
 21-7	_	hand	_	_	_	_
@@ -383,9 +383,9 @@
 21-21	_	the	_	_	_	_
 21-22	_	center	_	_	_	_
 21-23	_	of	_	_	_	_
-21-24	_	the	abstract[93]	new[93]	coref	23-1[93_94]
-21-25	_	open	abstract[93]	new[93]	_	_
-21-26	_	window	abstract[93]	new[93]	_	_
+21-24	_	the	abstract[94]	new[94]	coref	23-1[94_95]
+21-25	_	open	abstract[94]	new[94]	_	_
+21-26	_	window	abstract[94]	new[94]	_	_
 21-27	_	.	_	_	_	_
 
 #Text=Here 's the big time FU .
@@ -398,26 +398,26 @@
 22-7	_	.	_	_	_	_
 
 #Text=The window was n't open .
-23-1	_	The	abstract[94]	new[94]	coref	24-1[94_95]
-23-2	_	window	abstract[94]	new[94]	_	_
+23-1	_	The	abstract[95]	new[95]	coref	24-1[95_96]
+23-2	_	window	abstract[95]	new[95]	_	_
 23-3	_	was	_	_	_	_
 23-4	_	n't	_	_	_	_
 23-5	_	open	_	_	_	_
 23-6	_	.	_	_	_	_
 
 #Text=It was the cleanest fricking window you 've ever seen in your life .
-24-1	_	It	abstract[95]	new[95]	coref	25-14[95_96]
+24-1	_	It	abstract[96]	new[96]	coref	25-14[96_97]
 24-2	_	was	_	_	_	_
 24-3	_	the	_	_	_	_
 24-4	_	cleanest	_	_	_	_
 24-5	_	fricking	_	_	_	_
 24-6	_	window	_	_	_	_
-24-7	_	you	abstract[97]	new[97]	coref	24-12[97_98]
+24-7	_	you	abstract[98]	new[98]	coref	24-12[98_99]
 24-8	_	've	_	_	_	_
 24-9	_	ever	_	_	_	_
 24-10	_	seen	_	_	_	_
 24-11	_	in	_	_	_	_
-24-12	_	your	abstract[98]	new[98]	_	_
+24-12	_	your	abstract[99]	new[99]	_	_
 24-13	_	life	_	_	_	_
 24-14	_	.	_	_	_	_
 
@@ -426,48 +426,48 @@
 25-2	_	is	_	_	_	_
 25-3	_	,	_	_	_	_
 25-4	_	until	_	_	_	_
-25-5	_	my	abstract[33]|abstract[87]	new[33]|new[87]	coref|coref	26-15[33_34]|25-26[87_88]
-25-6	_	mostly	abstract[87]	new[87]	_	_
-25-7	_	raw	abstract[87]	new[87]	_	_
-25-8	_	slab	abstract[87]	new[87]	_	_
-25-9	_	of	abstract[87]	new[87]	_	_
-25-10	_	steak	abstract[87]	new[87]	_	_
+25-5	_	my	abstract[33]|abstract[88]	new[33]|new[88]	coref|coref	26-15[33_34]|25-26[88_89]
+25-6	_	mostly	abstract[88]	new[88]	_	_
+25-7	_	raw	abstract[88]	new[88]	_	_
+25-8	_	slab	abstract[88]	new[88]	_	_
+25-9	_	of	abstract[88]	new[88]	_	_
+25-10	_	steak	abstract[88]	new[88]	_	_
 25-11	_	slammed	_	_	_	_
 25-12	_	up	_	_	_	_
 25-13	_	against	_	_	_	_
-25-14	_	it	abstract[96]	new[96]	_	_
+25-14	_	it	abstract[97]	new[97]	_	_
 25-15	_	and	_	_	_	_
 25-16	_	slowly	_	_	_	_
 25-17	_	slid	_	_	_	_
 25-18	_	down	_	_	_	_
 25-19	_	leaving	_	_	_	_
-25-20	_	a	abstract[104]	new[104]	coref	29-15[104_105]
-25-21	_	trail	abstract[104]	new[104]	_	_
-25-22	_	of	abstract[104]	new[104]	_	_
-25-23	_	bloody	abstract[104]	new[104]	_	_
-25-24	_	juice	abstract[104]	new[104]	_	_
+25-20	_	a	abstract[105]	new[105]	coref	29-15[105_106]
+25-21	_	trail	abstract[105]	new[105]	_	_
+25-22	_	of	abstract[105]	new[105]	_	_
+25-23	_	bloody	abstract[105]	new[105]	_	_
+25-24	_	juice	abstract[105]	new[105]	_	_
 25-25	_	in	_	_	_	_
-25-26	_	its	abstract[88]	new[88]	_	_
+25-26	_	its	abstract[89]	new[89]	_	_
 25-27	_	wake	_	_	_	_
 25-28	_	.	_	_	_	_
 
 #Text=My wife - who's steak was a nice medium rare and was unaware of my predicament - turned , jaw dropped , and stared at me like I was an alien from another planet .
-26-1	_	My	abstract[100]	new[100]	_	_
-26-2	_	wife	abstract[100]	new[100]	_	_
-26-3	_	-	abstract[100]	new[100]	_	_
-26-4	_	who's	abstract[100]	new[100]	_	_
-26-5	_	steak	abstract[100]	new[100]	_	_
-26-6	_	was	abstract[100]	new[100]	_	_
-26-7	_	a	abstract[100]	new[100]	_	_
-26-8	_	nice	abstract[100]	new[100]	_	_
-26-9	_	medium	abstract[100]	new[100]	_	_
-26-10	_	rare	abstract[100]	new[100]	_	_
-26-11	_	and	abstract[100]	new[100]	_	_
-26-12	_	was	abstract[100]	new[100]	_	_
-26-13	_	unaware	abstract[100]	new[100]	_	_
-26-14	_	of	abstract[100]	new[100]	_	_
-26-15	_	my	abstract[34]|abstract[100]	new[34]|new[100]	coref	26-26[34_35]
-26-16	_	predicament	abstract[100]	new[100]	_	_
+26-1	_	My	abstract[101]	new[101]	_	_
+26-2	_	wife	abstract[101]	new[101]	_	_
+26-3	_	-	abstract[101]	new[101]	_	_
+26-4	_	who's	abstract[101]	new[101]	_	_
+26-5	_	steak	abstract[101]	new[101]	_	_
+26-6	_	was	abstract[101]	new[101]	_	_
+26-7	_	a	abstract[101]	new[101]	_	_
+26-8	_	nice	abstract[101]	new[101]	_	_
+26-9	_	medium	abstract[101]	new[101]	_	_
+26-10	_	rare	abstract[101]	new[101]	_	_
+26-11	_	and	abstract[101]	new[101]	_	_
+26-12	_	was	abstract[101]	new[101]	_	_
+26-13	_	unaware	abstract[101]	new[101]	_	_
+26-14	_	of	abstract[101]	new[101]	_	_
+26-15	_	my	abstract[34]|abstract[101]	new[34]|new[101]	coref	26-26[34_35]
+26-16	_	predicament	abstract[101]	new[101]	_	_
 26-17	_	-	_	_	_	_
 26-18	_	turned	_	_	_	_
 26-19	_	,	_	_	_	_
@@ -522,7 +522,7 @@
 27-31	_	-	_	_	_	_
 27-32	_	from	_	_	_	_
 27-33	_	-	_	_	_	_
-27-34	_	me	abstract[101]	new[101]	coref	28-1[101_102]
+27-34	_	me	abstract[102]	new[102]	coref	28-1[102_103]
 27-35	_	expression	_	_	_	_
 27-36	_	of	_	_	_	_
 27-37	_	demonic	_	_	_	_
@@ -530,9 +530,9 @@
 27-39	_	.	_	_	_	_
 
 #Text=My wife 's boss heard the thud of the steak - on - window impact and came quickly .
-28-1	_	My	abstract[38]|abstract[76]|abstract[102]	new[38]|new[76]|new[102]	coref|coref|coref	29-19[38_39]|29-1[76_77]|36-11[102_103]
-28-2	_	wife	abstract[76]|abstract[102]	new[76]|new[102]	_	_
-28-3	_	's	abstract[76]|abstract[102]	new[76]|new[102]	_	_
+28-1	_	My	abstract[38]|abstract[76]|abstract[103]	new[38]|new[76]|new[103]	coref|coref|coref	29-19[38_39]|29-1[76_77]|36-11[103_104]
+28-2	_	wife	abstract[76]|abstract[103]	new[76]|new[103]	_	_
+28-3	_	's	abstract[76]|abstract[103]	new[76]|new[103]	_	_
 28-4	_	boss	abstract[76]	new[76]	_	_
 28-5	_	heard	_	_	_	_
 28-6	_	the	_	_	_	_
@@ -543,7 +543,7 @@
 28-11	_	-	_	_	_	_
 28-12	_	on	_	_	_	_
 28-13	_	-	_	_	_	_
-28-14	_	window	abstract[112]	new[112]	coref	41-23[112_113]
+28-14	_	window	abstract[113]	new[113]	coref	41-23[113_114]
 28-15	_	impact	_	_	_	_
 28-16	_	and	_	_	_	_
 28-17	_	came	_	_	_	_
@@ -551,23 +551,23 @@
 28-19	_	.	_	_	_	_
 
 #Text=She took in the scene , the steak sitting on the window sill , the blood trail , my empty plate , and then gave me an inquisitive , puzzled look .
-29-1	_	She	abstract[77]	new[77]	_	_
+29-1	_	She	abstract[77]	new[77]	coref	47-4[77_78]
 29-2	_	took	_	_	_	_
 29-3	_	in	_	_	_	_
 29-4	_	the	_	_	_	_
 29-5	_	scene	_	_	_	_
 29-6	_	,	_	_	_	_
-29-7	_	the	abstract[106]	new[106]	coref	35-5[106_107]
-29-8	_	steak	abstract[106]	new[106]	_	_
-29-9	_	sitting	abstract[106]	new[106]	_	_
-29-10	_	on	abstract[106]	new[106]	_	_
-29-11	_	the	abstract[106]	new[106]	_	_
-29-12	_	window	abstract[106]	new[106]	_	_
-29-13	_	sill	abstract[106]	new[106]	_	_
+29-7	_	the	abstract[107]	new[107]	coref	35-5[107_108]
+29-8	_	steak	abstract[107]	new[107]	_	_
+29-9	_	sitting	abstract[107]	new[107]	_	_
+29-10	_	on	abstract[107]	new[107]	_	_
+29-11	_	the	abstract[107]	new[107]	_	_
+29-12	_	window	abstract[107]	new[107]	_	_
+29-13	_	sill	abstract[107]	new[107]	_	_
 29-14	_	,	_	_	_	_
-29-15	_	the	abstract[105]	new[105]	_	_
-29-16	_	blood	abstract[105]	new[105]	_	_
-29-17	_	trail	abstract[105]	new[105]	_	_
+29-15	_	the	abstract[106]	new[106]	_	_
+29-16	_	blood	abstract[106]	new[106]	_	_
+29-17	_	trail	abstract[106]	new[106]	_	_
 29-18	_	,	_	_	_	_
 29-19	_	my	abstract[39]	new[39]	coref	29-26[39_40]
 29-20	_	empty	_	_	_	_
@@ -651,22 +651,22 @@
 35-2	_	was	_	_	_	_
 35-3	_	just	_	_	_	_
 35-4	_	cutting	_	_	_	_
-35-5	_	it	abstract[107]	new[107]	coref	36-3[107_108]
+35-5	_	it	abstract[108]	new[108]	coref	36-3[108_109]
 35-6	_	..	_	_	_	_
 
 #Text=and ... it ... ... it slipped ... just ask my wife , I really am a clutz ... right honey ?
 36-1	_	and	_	_	_	_
 36-2	_	...	_	_	_	_
-36-3	_	it	abstract[108]	new[108]	coref	36-6[108_109]
+36-3	_	it	abstract[109]	new[109]	coref	36-6[109_110]
 36-4	_	...	_	_	_	_
 36-5	_	...	_	_	_	_
-36-6	_	it	abstract[109]	new[109]	coref	41-32[109_110]
+36-6	_	it	abstract[110]	new[110]	coref	41-32[110_111]
 36-7	_	slipped	_	_	_	_
 36-8	_	...	_	_	_	_
 36-9	_	just	_	_	_	_
 36-10	_	ask	_	_	_	_
-36-11	_	my	abstract[48]|abstract[103]	new[48]|new[103]	coref	36-14[48_49]
-36-12	_	wife	abstract[103]	new[103]	_	_
+36-11	_	my	abstract[48]|abstract[104]	new[48]|new[104]	coref	36-14[48_49]
+36-12	_	wife	abstract[104]	new[104]	_	_
 36-13	_	,	_	_	_	_
 36-14	_	I	abstract[49]	new[49]	coref	38-1[49_50]
 36-15	_	really	_	_	_	_
@@ -740,8 +740,8 @@
 41-20	_	the	_	_	_	_
 41-21	_	blood	_	_	_	_
 41-22	_	around	_	_	_	_
-41-23	_	the	abstract[113]	new[113]	_	_
-41-24	_	window	abstract[113]	new[113]	_	_
+41-23	_	the	abstract[114]	new[114]	coref	47-27[114_115]
+41-24	_	window	abstract[114]	new[114]	_	_
 41-25	_	with	_	_	_	_
 41-26	_	my	abstract[56]	new[56]	coref	41-39[56_57]
 41-27	_	cloth	_	_	_	_
@@ -749,8 +749,8 @@
 41-29	_	,	_	_	_	_
 41-30	_	dusted	_	_	_	_
 41-31	_	off	_	_	_	_
-41-32	_	the	abstract[110]	new[110]	coref	44-14[110_111]
-41-33	_	steak	abstract[110]	new[110]	_	_
+41-32	_	the	abstract[111]	new[111]	coref	44-14[111_112]
+41-33	_	steak	abstract[111]	new[111]	_	_
 41-34	_	,	_	_	_	_
 41-35	_	and	_	_	_	_
 41-36	_	continued	_	_	_	_
@@ -796,17 +796,17 @@
 44-11	_	every	_	_	_	_
 44-12	_	bite	_	_	_	_
 44-13	_	of	_	_	_	_
-44-14	_	that	abstract[111]	new[111]	_	_
-44-15	_	disgusting	abstract[111]	new[111]	_	_
-44-16	_	,	abstract[111]	new[111]	_	_
-44-17	_	cold	abstract[111]	new[111]	_	_
-44-18	_	,	abstract[111]	new[111]	_	_
-44-19	_	chewy	abstract[111]	new[111]	_	_
-44-20	_	,	abstract[111]	new[111]	_	_
-44-21	_	bloody	abstract[111]	new[111]	_	_
-44-22	_	,	abstract[111]	new[111]	_	_
-44-23	_	raw	abstract[111]	new[111]	_	_
-44-24	_	steak	abstract[111]	new[111]	_	_
+44-14	_	that	abstract[112]	new[112]	_	_
+44-15	_	disgusting	abstract[112]	new[112]	_	_
+44-16	_	,	abstract[112]	new[112]	_	_
+44-17	_	cold	abstract[112]	new[112]	_	_
+44-18	_	,	abstract[112]	new[112]	_	_
+44-19	_	chewy	abstract[112]	new[112]	_	_
+44-20	_	,	abstract[112]	new[112]	_	_
+44-21	_	bloody	abstract[112]	new[112]	_	_
+44-22	_	,	abstract[112]	new[112]	_	_
+44-23	_	raw	abstract[112]	new[112]	_	_
+44-24	_	steak	abstract[112]	new[112]	_	_
 44-25	_	.	_	_	_	_
 
 #Text=I remained pretty quiet the rest of the evening .
@@ -822,29 +822,84 @@
 45-10	_	.	_	_	_	_
 
 #Text=My wife 's only two words to me since the incident are " I 'm fine " .
-46-1	_	My	abstract[64]|abstract[116]	new[64]|new[116]	coref|coref	46-8[64_65]|46-14[116_117]
-46-2	_	wife	abstract[116]	new[116]	_	_
-46-3	_	's	abstract[116]	new[116]	_	_
+46-1	_	My	abstract[64]|abstract[120]	new[64]|new[120]	coref|coref	46-8[64_65]|46-14[120_121]
+46-2	_	wife	abstract[120]	new[120]	_	_
+46-3	_	's	abstract[120]	new[120]	_	_
 46-4	_	only	_	_	_	_
 46-5	_	two	_	_	_	_
 46-6	_	words	_	_	_	_
 46-7	_	to	_	_	_	_
 46-8	_	me	abstract[65]	new[65]	_	_
 46-9	_	since	_	_	_	_
-46-10	_	the	abstract[115]	new[115]	_	_
-46-11	_	incident	abstract[115]	new[115]	_	_
+46-10	_	the	abstract[119]	new[119]	_	_
+46-11	_	incident	abstract[119]	new[119]	_	_
 46-12	_	are	_	_	_	_
 46-13	_	"	_	_	_	_
-46-14	_	I	abstract[117]	new[117]	_	_
+46-14	_	I	abstract[121]	new[121]	coref	47-4[121_122]
 46-15	_	'm	_	_	_	_
 46-16	_	fine	_	_	_	_
 46-17	_	"	_	_	_	_
 46-18	_	.	_	_	_	_
 
-#Text=Space religion 's denial .
-47-1	_	Space	_	_	_	_
-47-2	_	religion	_	_	_	_
-47-3	_	's	_	_	_	_
-47-4	_	denial	_	_	_	_
-47-5	_	.	_	_	_	_
+#Text=During dinner at his wife 's boss 's home , a man who is disgusted by his undercooked steak attempts to secretly throw it out of the window , but does not realize the window is closed , leading to great embarrassment and having to claim the steak slipped after it slides against the window leaving a bloody trail .
+47-1	_	During	_	_	_	_
+47-2	_	dinner	_	_	_	_
+47-3	_	at	_	_	_	_
+47-4	_	his	abstract[78]|abstract[122]	new[78]|new[122]	_	_
+47-5	_	wife	abstract[78]|abstract[122]	new[78]|new[122]	_	_
+47-6	_	's	abstract[78]|abstract[122]	new[78]|new[122]	_	_
+47-7	_	boss	abstract[78]	new[78]	_	_
+47-8	_	's	abstract[78]	new[78]	_	_
+47-9	_	home	_	_	_	_
+47-10	_	,	_	_	_	_
+47-11	_	a	abstract[123]	new[123]	coref	47-17[123_124]
+47-12	_	man	abstract[123]	new[123]	_	_
+47-13	_	who	abstract[123]	new[123]	_	_
+47-14	_	is	abstract[123]	new[123]	_	_
+47-15	_	disgusted	abstract[123]	new[123]	_	_
+47-16	_	by	abstract[123]	new[123]	_	_
+47-17	_	his	abstract[123]|abstract[124]|abstract[125]	new[123]|new[124]|new[125]	coref|coref	47-17[124_125]|47-24[125_126]
+47-18	_	undercooked	abstract[123]|abstract[125]	new[123]|new[125]	_	_
+47-19	_	steak	abstract[123]|abstract[125]	new[123]|new[125]	_	_
+47-20	_	attempts	_	_	_	_
+47-21	_	to	_	_	_	_
+47-22	_	secretly	_	_	_	_
+47-23	_	throw	_	_	_	_
+47-24	_	it	abstract[126]	new[126]	coref	47-47[126_127]
+47-25	_	out	_	_	_	_
+47-26	_	of	_	_	_	_
+47-27	_	the	abstract[115]	new[115]	coref	47-34[115_116]
+47-28	_	window	abstract[115]	new[115]	_	_
+47-29	_	,	_	_	_	_
+47-30	_	but	_	_	_	_
+47-31	_	does	_	_	_	_
+47-32	_	not	_	_	_	_
+47-33	_	realize	_	_	_	_
+47-34	_	the	abstract[116]	new[116]	coref	47-54[116_117]
+47-35	_	window	abstract[116]	new[116]	_	_
+47-36	_	is	_	_	_	_
+47-37	_	closed	_	_	_	_
+47-38	_	,	_	_	_	_
+47-39	_	leading	_	_	_	_
+47-40	_	to	_	_	_	_
+47-41	_	great	_	_	_	_
+47-42	_	embarrassment	_	_	_	_
+47-43	_	and	_	_	_	_
+47-44	_	having	_	_	_	_
+47-45	_	to	_	_	_	_
+47-46	_	claim	_	_	_	_
+47-47	_	the	abstract[127]	new[127]	coref	47-51[127_128]
+47-48	_	steak	abstract[127]	new[127]	_	_
+47-49	_	slipped	_	_	_	_
+47-50	_	after	_	_	_	_
+47-51	_	it	abstract[128]	new[128]	_	_
+47-52	_	slides	_	_	_	_
+47-53	_	against	_	_	_	_
+47-54	_	the	abstract[117]	new[117]	_	_
+47-55	_	window	abstract[117]	new[117]	_	_
+47-56	_	leaving	_	_	_	_
+47-57	_	a	_	_	_	_
+47-58	_	bloody	_	_	_	_
+47-59	_	trail	_	_	_	_
+47-60	_	.	_	_	_	_
 

@@ -1282,7 +1282,7 @@
 #Text=This makes your first language a proto-language — a language that branches off into a family of languages .
 69-1	_	This	_	_	_	_
 69-2	_	makes	_	_	_	_
-69-3	_	your	abstract[59]|abstract[85]	new[59]|new[85]	coref	70-8[59_60]
+69-3	_	your	abstract[59]|abstract[85]	new[59]|new[85]	coref	70-7[59_60]
 69-4	_	first	abstract[85]	new[85]	_	_
 69-5	_	language	abstract[85]	new[85]	_	_
 69-6	_	a	_	_	_	_
@@ -1300,39 +1300,32 @@
 69-18	_	languages	_	_	_	_
 69-19	_	.	_	_	_	_
 
-#Text=Practice telling a joke . Put on your protective gear . Prepare the fumes . Fill the containers so that the liquid is dissolved . Turn off the lights . Check the glows .
-70-1	_	Practice	_	_	_	_
-70-2	_	telling	_	_	_	_
-70-3	_	a	_	_	_	_
-70-4	_	joke	_	_	_	_
-70-5	_	.	_	_	_	_
-70-6	_	Put	_	_	_	_
-70-7	_	on	_	_	_	_
-70-8	_	your	abstract[60]	new[60]	_	_
-70-9	_	protective	_	_	_	_
-70-10	_	gear	_	_	_	_
-70-11	_	.	_	_	_	_
-70-12	_	Prepare	_	_	_	_
-70-13	_	the	_	_	_	_
-70-14	_	fumes	_	_	_	_
-70-15	_	.	_	_	_	_
-70-16	_	Fill	_	_	_	_
-70-17	_	the	_	_	_	_
-70-18	_	containers	_	_	_	_
-70-19	_	so	_	_	_	_
-70-20	_	that	_	_	_	_
-70-21	_	the	_	_	_	_
-70-22	_	liquid	_	_	_	_
-70-23	_	is	_	_	_	_
-70-24	_	dissolved	_	_	_	_
-70-25	_	.	_	_	_	_
-70-26	_	Turn	_	_	_	_
-70-27	_	off	_	_	_	_
-70-28	_	the	_	_	_	_
-70-29	_	lights	_	_	_	_
-70-30	_	.	_	_	_	_
-70-31	_	Check	_	_	_	_
-70-32	_	the	_	_	_	_
-70-33	_	glows	_	_	_	_
-70-34	_	.	_	_	_	_
+#Text=Put on protective gear and wear your glasses . Collect the other materials and mix thoroughly . Fill containers the correct size . Let it burn .
+70-1	_	Put	_	_	_	_
+70-2	_	on	_	_	_	_
+70-3	_	protective	_	_	_	_
+70-4	_	gear	_	_	_	_
+70-5	_	and	_	_	_	_
+70-6	_	wear	_	_	_	_
+70-7	_	your	abstract[60]	new[60]	_	_
+70-8	_	glasses	_	_	_	_
+70-9	_	.	_	_	_	_
+70-10	_	Collect	_	_	_	_
+70-11	_	the	abstract[128]	new[128]	coref	70-25[128_129]
+70-12	_	other	abstract[128]	new[128]	_	_
+70-13	_	materials	abstract[128]	new[128]	_	_
+70-14	_	and	abstract[128]	new[128]	_	_
+70-15	_	mix	abstract[128]	new[128]	_	_
+70-16	_	thoroughly	_	_	_	_
+70-17	_	.	_	_	_	_
+70-18	_	Fill	_	_	_	_
+70-19	_	containers	_	_	_	_
+70-20	_	the	_	_	_	_
+70-21	_	correct	_	_	_	_
+70-22	_	size	_	_	_	_
+70-23	_	.	_	_	_	_
+70-24	_	Let	_	_	_	_
+70-25	_	it	abstract[129]	new[129]	_	_
+70-26	_	burn	_	_	_	_
+70-27	_	.	_	_	_	_
 

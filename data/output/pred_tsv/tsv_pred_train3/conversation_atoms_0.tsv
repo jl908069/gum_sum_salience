@@ -65,23 +65,23 @@
 5-2	_	have	_	_	_	_
 5-3	_	here	_	_	_	_
 5-4	_	,	_	_	_	_
-5-5	_	some	abstract[40]	new[40]	coref	10-1[40_41]
-5-6	_	ice	abstract[40]	new[40]	_	_
-5-7	_	in	abstract[40]	new[40]	_	_
-5-8	_	a	abstract[40]|abstract[45]	new[40]|new[45]	coref	10-5[45_46]
-5-9	_	pan	abstract[40]|abstract[45]	new[40]|new[45]	_	_
+5-5	_	some	abstract[43]	new[43]	coref	10-1[43_44]
+5-6	_	ice	abstract[43]	new[43]	_	_
+5-7	_	in	abstract[43]	new[43]	_	_
+5-8	_	a	abstract[43]|abstract[48]	new[43]|new[48]	coref	10-5[48_49]
+5-9	_	pan	abstract[43]|abstract[48]	new[43]|new[48]	_	_
 5-10	_	,	_	_	_	_
-5-11	_	water	abstract[47]	new[47]	coref	11-1[47_48]
-5-12	_	in	abstract[47]	new[47]	_	_
-5-13	_	this	abstract[47]|abstract[50]	new[47]|new[50]	coref	11-4[50_51]
-5-14	_	glass	abstract[47]|abstract[50]	new[47]|new[50]	_	_
+5-11	_	water	abstract[50]	new[50]	coref	11-1[50_51]
+5-12	_	in	abstract[50]	new[50]	_	_
+5-13	_	this	abstract[50]|abstract[53]	new[50]|new[53]	coref	11-4[53_54]
+5-14	_	glass	abstract[50]|abstract[53]	new[50]|new[53]	_	_
 5-15	_	,	_	_	_	_
 5-16	_	and	_	_	_	_
-5-17	_	steam	abstract[53]	new[53]	coref	11-8[53_54]
-5-18	_	rising	abstract[53]	new[53]	_	_
-5-19	_	from	abstract[53]	new[53]	_	_
-5-20	_	this	abstract[53]|abstract[57]	new[53]|new[57]	coref	11-12[57_58]
-5-21	_	pot	abstract[53]|abstract[57]	new[53]|new[57]	_	_
+5-17	_	steam	abstract[56]	new[56]	coref	11-8[56_57]
+5-18	_	rising	abstract[56]	new[56]	_	_
+5-19	_	from	abstract[56]	new[56]	_	_
+5-20	_	this	abstract[56]|abstract[60]	new[56]|new[60]	coref	11-12[60_61]
+5-21	_	pot	abstract[56]|abstract[60]	new[56]|new[60]	_	_
 5-22	_	.	_	_	_	_
 
 #Text=Now , I would like to ask you , how these three things .
@@ -95,9 +95,9 @@
 6-8	_	you	abstract[4]	new[4]	coref	14-11[4_5]
 6-9	_	,	_	_	_	_
 6-10	_	how	_	_	_	_
-6-11	_	these	abstract[35]	new[35]	coref	8-3[35_36]
-6-12	_	three	abstract[35]	new[35]	_	_
-6-13	_	things	abstract[35]	new[35]	_	_
+6-11	_	these	abstract[38]	new[38]	coref	8-3[38_39]
+6-12	_	three	abstract[38]	new[38]	_	_
+6-13	_	things	abstract[38]	new[38]	_	_
 6-14	_	.	_	_	_	_
 
 #Text=Tell me please .
@@ -109,47 +109,47 @@
 #Text=How are they all alike .
 8-1	_	How	_	_	_	_
 8-2	_	are	_	_	_	_
-8-3	_	they	abstract[36]	new[36]	coref	9-1[36_37]
-8-4	_	all	abstract[36]	new[36]	_	_
+8-3	_	they	abstract[39]	new[39]	coref	9-1[39_40]
+8-4	_	all	abstract[39]	new[39]	_	_
 8-5	_	alike	_	_	_	_
 8-6	_	.	_	_	_	_
 
 #Text=These three things .
-9-1	_	These	abstract[37]	new[37]	coref	13-1[37_38]
-9-2	_	three	abstract[37]	new[37]	_	_
-9-3	_	things	abstract[37]	new[37]	_	_
+9-1	_	These	abstract[40]	new[40]	coref	13-1[40_41]
+9-2	_	three	abstract[40]	new[40]	_	_
+9-3	_	things	abstract[40]	new[40]	_	_
 9-4	_	.	_	_	_	_
 
 #Text=This ice here in this pan .
-10-1	_	This	abstract[41]	new[41]	coref	14-1[41_42]
-10-2	_	ice	abstract[41]	new[41]	_	_
-10-3	_	here	abstract[41]	new[41]	_	_
-10-4	_	in	abstract[41]	new[41]	_	_
-10-5	_	this	abstract[41]|abstract[46]	new[41]|new[46]	_	_
-10-6	_	pan	abstract[41]|abstract[46]	new[41]|new[46]	_	_
+10-1	_	This	abstract[44]	new[44]	coref	14-1[44_45]
+10-2	_	ice	abstract[44]	new[44]	_	_
+10-3	_	here	abstract[44]	new[44]	_	_
+10-4	_	in	abstract[44]	new[44]	_	_
+10-5	_	this	abstract[44]|abstract[49]	new[44]|new[49]	_	_
+10-6	_	pan	abstract[44]|abstract[49]	new[44]|new[49]	_	_
 10-7	_	.	_	_	_	_
 
 #Text=This water in this glass , and the steam rising from this pot , just yell it out , we are informal here , yes .
-11-1	_	This	abstract[48]	new[48]	coref	18-4[48_49]
-11-2	_	water	abstract[48]	new[48]	_	_
-11-3	_	in	abstract[48]	new[48]	_	_
-11-4	_	this	abstract[48]|abstract[51]	new[48]|new[51]	coref	14-16[51_52]
-11-5	_	glass	abstract[48]|abstract[51]	new[48]|new[51]	_	_
+11-1	_	This	abstract[51]	new[51]	coref	18-4[51_52]
+11-2	_	water	abstract[51]	new[51]	_	_
+11-3	_	in	abstract[51]	new[51]	_	_
+11-4	_	this	abstract[51]|abstract[54]	new[51]|new[54]	coref	14-16[54_55]
+11-5	_	glass	abstract[51]|abstract[54]	new[51]|new[54]	_	_
 11-6	_	,	_	_	_	_
 11-7	_	and	_	_	_	_
-11-8	_	the	abstract[54]	new[54]	coref	18-18[54_55]
-11-9	_	steam	abstract[54]	new[54]	_	_
-11-10	_	rising	abstract[54]	new[54]	_	_
-11-11	_	from	abstract[54]	new[54]	_	_
-11-12	_	this	abstract[54]|abstract[58]	new[54]|new[58]	_	_
-11-13	_	pot	abstract[54]|abstract[58]	new[54]|new[58]	_	_
+11-8	_	the	abstract[57]	new[57]	coref	18-18[57_58]
+11-9	_	steam	abstract[57]	new[57]	_	_
+11-10	_	rising	abstract[57]	new[57]	_	_
+11-11	_	from	abstract[57]	new[57]	_	_
+11-12	_	this	abstract[57]|abstract[61]	new[57]|new[61]	_	_
+11-13	_	pot	abstract[57]|abstract[61]	new[57]|new[61]	_	_
 11-14	_	,	_	_	_	_
 11-15	_	just	_	_	_	_
 11-16	_	yell	_	_	_	_
 11-17	_	it	_	_	_	_
 11-18	_	out	_	_	_	_
 11-19	_	,	_	_	_	_
-11-20	_	we	abstract[59]	new[59]	coref	15-4[59_60]
+11-20	_	we	abstract[62]	new[62]	coref	15-4[62_63]
 11-21	_	are	_	_	_	_
 11-22	_	informal	_	_	_	_
 11-23	_	here	_	_	_	_
@@ -162,7 +162,7 @@
 12-2	_	.	_	_	_	_
 
 #Text=They are all forms of water .
-13-1	_	They	abstract[38]	new[38]	coref	15-10[38_39]
+13-1	_	They	abstract[41]	new[41]	coref	15-10[41_42]
 13-2	_	are	_	_	_	_
 13-3	_	all	_	_	_	_
 13-4	_	forms	_	_	_	_
@@ -171,9 +171,9 @@
 13-7	_	.	_	_	_	_
 
 #Text=This ice here of course is water , I told you there was water in this glass , and you have all seen water boil at home , so you are familiar with steam .
-14-1	_	This	abstract[42]	new[42]	coref	16-5[42_43]
-14-2	_	ice	abstract[42]	new[42]	_	_
-14-3	_	here	abstract[42]	new[42]	_	_
+14-1	_	This	abstract[45]	new[45]	coref	16-5[45_46]
+14-2	_	ice	abstract[45]	new[45]	_	_
+14-3	_	here	abstract[45]	new[45]	_	_
 14-4	_	of	_	_	_	_
 14-5	_	course	_	_	_	_
 14-6	_	is	_	_	_	_
@@ -186,8 +186,8 @@
 14-13	_	was	_	_	_	_
 14-14	_	water	_	_	_	_
 14-15	_	in	_	_	_	_
-14-16	_	this	abstract[52]	new[52]	_	_
-14-17	_	glass	abstract[52]	new[52]	_	_
+14-16	_	this	abstract[55]	new[55]	_	_
+14-17	_	glass	abstract[55]	new[55]	_	_
 14-18	_	,	_	_	_	_
 14-19	_	and	_	_	_	_
 14-20	_	you	abstract[6]	new[6]	coref	14-30[6_7]
@@ -211,17 +211,17 @@
 15-1	_	But	_	_	_	_
 15-2	_	now	_	_	_	_
 15-3	_	let	_	_	_	_
-15-4	_	's	abstract[60]	new[60]	coref	15-14[60_61]
+15-4	_	's	abstract[63]	new[63]	coref	15-14[63_64]
 15-5	_	try	_	_	_	_
 15-6	_	to	_	_	_	_
 15-7	_	figure	_	_	_	_
 15-8	_	out	_	_	_	_
 15-9	_	how	_	_	_	_
-15-10	_	they	abstract[39]	new[39]	_	_
+15-10	_	they	abstract[42]	new[42]	_	_
 15-11	_	're	_	_	_	_
 15-12	_	different	_	_	_	_
 15-13	_	,	_	_	_	_
-15-14	_	we	abstract[61]	new[61]	coref	23-11[61_62]
+15-14	_	we	abstract[64]	new[64]	coref	23-11[64_65]
 15-15	_	'll	_	_	_	_
 15-16	_	look	_	_	_	_
 15-17	_	at	_	_	_	_
@@ -235,12 +235,12 @@
 16-2	_	the	_	_	_	_
 16-3	_	temperature	_	_	_	_
 16-4	_	of	_	_	_	_
-16-5	_	this	abstract[43]	new[43]	coref	23-19[43_44]
-16-6	_	water	abstract[43]	new[43]	_	_
-16-7	_	here	abstract[43]	new[43]	_	_
-16-8	_	,	abstract[43]	new[43]	_	_
-16-9	_	the	abstract[43]	new[43]	_	_
-16-10	_	ice	abstract[43]	new[43]	_	_
+16-5	_	this	abstract[46]	new[46]	coref	23-19[46_47]
+16-6	_	water	abstract[46]	new[46]	_	_
+16-7	_	here	abstract[46]	new[46]	_	_
+16-8	_	,	abstract[46]	new[46]	_	_
+16-9	_	the	abstract[46]	new[46]	_	_
+16-10	_	ice	abstract[46]	new[46]	_	_
 16-11	_	,	_	_	_	_
 16-12	_	is	_	_	_	_
 16-13	_	,	_	_	_	_
@@ -261,13 +261,13 @@
 17-3	_	.	_	_	_	_
 
 #Text=The temperature of this w- water here , is sixty - four degrees , the temperature of this steam , is , I know it 's hotter than that .
-18-1	_	The	abstract[81]	new[81]	coref	18-29[81_82]
-18-2	_	temperature	abstract[81]	new[81]	_	_
-18-3	_	of	abstract[81]	new[81]	_	_
-18-4	_	this	abstract[49]|abstract[81]	new[49]|new[81]	_	_
-18-5	_	w-	abstract[49]|abstract[81]	new[49]|new[81]	_	_
-18-6	_	water	abstract[49]|abstract[81]	new[49]|new[81]	_	_
-18-7	_	here	abstract[49]|abstract[81]	new[49]|new[81]	_	_
+18-1	_	The	abstract[84]	new[84]	coref	18-29[84_85]
+18-2	_	temperature	abstract[84]	new[84]	_	_
+18-3	_	of	abstract[84]	new[84]	_	_
+18-4	_	this	abstract[52]|abstract[84]	new[52]|new[84]	_	_
+18-5	_	w-	abstract[52]|abstract[84]	new[52]|new[84]	_	_
+18-6	_	water	abstract[52]|abstract[84]	new[52]|new[84]	_	_
+18-7	_	here	abstract[52]|abstract[84]	new[52]|new[84]	_	_
 18-8	_	,	_	_	_	_
 18-9	_	is	_	_	_	_
 18-10	_	sixty	_	_	_	_
@@ -275,27 +275,27 @@
 18-12	_	four	_	_	_	_
 18-13	_	degrees	_	_	_	_
 18-14	_	,	_	_	_	_
-18-15	_	the	abstract[78]	new[78]	coref	18-25[78_79]
-18-16	_	temperature	abstract[78]	new[78]	_	_
-18-17	_	of	abstract[78]	new[78]	_	_
-18-18	_	this	abstract[55]|abstract[78]	new[55]|new[78]	coref	47-18[55_56]
-18-19	_	steam	abstract[55]|abstract[78]	new[55]|new[78]	_	_
+18-15	_	the	abstract[81]	new[81]	coref	18-25[81_82]
+18-16	_	temperature	abstract[81]	new[81]	_	_
+18-17	_	of	abstract[81]	new[81]	_	_
+18-18	_	this	abstract[58]|abstract[81]	new[58]|new[81]	coref	47-18[58_59]
+18-19	_	steam	abstract[58]|abstract[81]	new[58]|new[81]	_	_
 18-20	_	,	_	_	_	_
 18-21	_	is	_	_	_	_
 18-22	_	,	_	_	_	_
 18-23	_	I	abstract[15]	new[15]	coref	30-6[15_16]
 18-24	_	know	_	_	_	_
-18-25	_	it	abstract[79]	new[79]	coref	19-3[79_80]
+18-25	_	it	abstract[82]	new[82]	coref	19-3[82_83]
 18-26	_	's	_	_	_	_
 18-27	_	hotter	_	_	_	_
 18-28	_	than	_	_	_	_
-18-29	_	that	abstract[82]	new[82]	_	_
+18-29	_	that	abstract[85]	new[85]	_	_
 18-30	_	.	_	_	_	_
 
 #Text=Yeah , it 's about a hundred and eleven degrees .
 19-1	_	Yeah	_	_	_	_
 19-2	_	,	_	_	_	_
-19-3	_	it	abstract[80]	new[80]	_	_
+19-3	_	it	abstract[83]	new[83]	_	_
 19-4	_	's	_	_	_	_
 19-5	_	about	_	_	_	_
 19-6	_	a	_	_	_	_
@@ -324,40 +324,40 @@
 23-4	_	by	_	_	_	_
 23-5	_	the	_	_	_	_
 23-6	_	way	_	_	_	_
-23-7	_	guys	abstract[85]	new[85]	coref	27-1[85_86]
+23-7	_	guys	abstract[88]	new[88]	coref	27-1[88_89]
 23-8	_	,	_	_	_	_
 23-9	_	what	_	_	_	_
 23-10	_	do	_	_	_	_
-23-11	_	we	abstract[62]	new[62]	coref	24-1[62_63]
+23-11	_	we	abstract[65]	new[65]	coref	24-1[65_66]
 23-12	_	call	_	_	_	_
-23-13	_	something	abstract[83]	new[83]	coref	24-3[83_84]
-23-14	_	that	abstract[83]	new[83]	_	_
-23-15	_	's	abstract[83]	new[83]	_	_
-23-16	_	hard	abstract[83]	new[83]	_	_
-23-17	_	,	abstract[83]	new[83]	_	_
-23-18	_	like	abstract[83]	new[83]	_	_
-23-19	_	this	abstract[44]|abstract[83]	new[44]|new[83]	_	_
-23-20	_	ice	abstract[44]|abstract[83]	new[44]|new[83]	_	_
-23-21	_	here	abstract[44]|abstract[83]	new[44]|new[83]	_	_
-23-22	_	,	abstract[83]	new[83]	_	_
-23-23	_	or	abstract[83]	new[83]	_	_
-23-24	_	a	abstract[83]	new[83]	_	_
-23-25	_	table	abstract[83]	new[83]	_	_
-23-26	_	,	abstract[83]	new[83]	_	_
-23-27	_	or	abstract[83]	new[83]	_	_
-23-28	_	a	abstract[83]	new[83]	_	_
-23-29	_	rock	abstract[83]	new[83]	_	_
+23-13	_	something	abstract[86]	new[86]	coref	24-3[86_87]
+23-14	_	that	abstract[86]	new[86]	_	_
+23-15	_	's	abstract[86]	new[86]	_	_
+23-16	_	hard	abstract[86]	new[86]	_	_
+23-17	_	,	abstract[86]	new[86]	_	_
+23-18	_	like	abstract[86]	new[86]	_	_
+23-19	_	this	abstract[47]|abstract[86]	new[47]|new[86]	_	_
+23-20	_	ice	abstract[47]|abstract[86]	new[47]|new[86]	_	_
+23-21	_	here	abstract[47]|abstract[86]	new[47]|new[86]	_	_
+23-22	_	,	abstract[86]	new[86]	_	_
+23-23	_	or	abstract[86]	new[86]	_	_
+23-24	_	a	abstract[86]	new[86]	_	_
+23-25	_	table	abstract[86]	new[86]	_	_
+23-26	_	,	abstract[86]	new[86]	_	_
+23-27	_	or	abstract[86]	new[86]	_	_
+23-28	_	a	abstract[86]	new[86]	_	_
+23-29	_	rock	abstract[86]	new[86]	_	_
 23-30	_	?	_	_	_	_
 
 #Text=We call it a ?
-24-1	_	We	abstract[63]	new[63]	coref	34-3[63_64]
+24-1	_	We	abstract[66]	new[66]	coref	34-3[66_67]
 24-2	_	call	_	_	_	_
-24-3	_	it	abstract[84]	new[84]	_	_
+24-3	_	it	abstract[87]	new[87]	_	_
 24-4	_	a	_	_	_	_
 24-5	_	?	_	_	_	_
 
 #Text=Solid .
-25-1	_	Solid	abstract[98]	new[98]	coref	34-5[98_99]
+25-1	_	Solid	abstract[101]	new[101]	coref	34-5[101_102]
 25-2	_	.	_	_	_	_
 
 #Text=Very good .
@@ -366,11 +366,11 @@
 26-3	_	.	_	_	_	_
 
 #Text=You should g- — you should be a choir .
-27-1	_	You	abstract[86]	new[86]	coref	27-5[86_87]
+27-1	_	You	abstract[89]	new[89]	coref	27-5[89_90]
 27-2	_	should	_	_	_	_
 27-3	_	g-	_	_	_	_
 27-4	_	—	_	_	_	_
-27-5	_	you	abstract[87]	new[87]	coref	28-1[87_88]
+27-5	_	you	abstract[90]	new[90]	coref	28-1[90_91]
 27-6	_	should	_	_	_	_
 27-7	_	be	_	_	_	_
 27-8	_	a	_	_	_	_
@@ -378,7 +378,7 @@
 27-10	_	.	_	_	_	_
 
 #Text=You should go out on the road there , like , yeah .
-28-1	_	You	abstract[88]	new[88]	coref	30-11[88_89]
+28-1	_	You	abstract[91]	new[91]	coref	30-11[91_92]
 28-2	_	should	_	_	_	_
 28-3	_	go	_	_	_	_
 28-4	_	out	_	_	_	_
@@ -408,14 +408,14 @@
 30-8	_	glad	_	_	_	_
 30-9	_	to	_	_	_	_
 30-10	_	meet	_	_	_	_
-30-11	_	you	abstract[89]	new[89]	coref	31-4[89_90]
+30-11	_	you	abstract[92]	new[92]	coref	31-4[92_93]
 30-12	_	.	_	_	_	_
 
 #Text=Please give me your itinerary after the show .
 31-1	_	Please	_	_	_	_
 31-2	_	give	_	_	_	_
 31-3	_	me	abstract[17]	new[17]	coref	42-7[17_18]
-31-4	_	your	abstract[90]	new[90]	coref	38-8[90_91]
+31-4	_	your	abstract[93]	new[93]	coref	38-8[93_94]
 31-5	_	itinerary	_	_	_	_
 31-6	_	after	_	_	_	_
 31-7	_	the	_	_	_	_
@@ -433,9 +433,9 @@
 #Text=Of course we call it a sholids .
 34-1	_	Of	_	_	_	_
 34-2	_	course	_	_	_	_
-34-3	_	we	abstract[64]	new[64]	coref	38-4[64_65]
+34-3	_	we	abstract[67]	new[67]	coref	38-4[67_68]
 34-4	_	call	_	_	_	_
-34-5	_	it	abstract[99]	new[99]	_	_
+34-5	_	it	abstract[102]	new[102]	_	_
 34-6	_	a	_	_	_	_
 34-7	_	sholids	_	_	_	_
 34-8	_	.	_	_	_	_
@@ -447,35 +447,35 @@
 
 #Text=And a solid has one shape .
 36-1	_	And	_	_	_	_
-36-2	_	a	abstract[102]	new[102]	coref	37-4[102_103]
-36-3	_	solid	abstract[102]	new[102]	_	_
+36-2	_	a	abstract[105]	new[105]	coref	37-4[105_106]
+36-3	_	solid	abstract[105]	new[105]	_	_
 36-4	_	has	_	_	_	_
-36-5	_	one	abstract[100]	new[100]	coref	37-1[100_101]
-36-6	_	shape	abstract[100]	new[100]	_	_
+36-5	_	one	abstract[103]	new[103]	coref	37-1[103_104]
+36-6	_	shape	abstract[103]	new[103]	_	_
 36-7	_	.	_	_	_	_
 
 #Text=The shape that it starts out with .
-37-1	_	The	abstract[101]	new[101]	_	_
-37-2	_	shape	abstract[101]	new[101]	_	_
-37-3	_	that	abstract[101]	new[101]	_	_
-37-4	_	it	abstract[101]|abstract[103]	new[101]|new[103]	_	_
-37-5	_	starts	abstract[101]	new[101]	_	_
-37-6	_	out	abstract[101]	new[101]	_	_
-37-7	_	with	abstract[101]	new[101]	_	_
+37-1	_	The	abstract[104]	new[104]	_	_
+37-2	_	shape	abstract[104]	new[104]	_	_
+37-3	_	that	abstract[104]	new[104]	_	_
+37-4	_	it	abstract[104]|abstract[106]	new[104]|new[106]	_	_
+37-5	_	starts	abstract[104]	new[104]	_	_
+37-6	_	out	abstract[104]	new[104]	_	_
+37-7	_	with	abstract[104]	new[104]	_	_
 37-8	_	.	_	_	_	_
 
 #Text=And what do we call something that you — that you can splish splash ?
 38-1	_	And	_	_	_	_
 38-2	_	what	_	_	_	_
 38-3	_	do	_	_	_	_
-38-4	_	we	abstract[65]	new[65]	coref	43-3[65_66]
+38-4	_	we	abstract[68]	new[68]	coref	43-3[68_69]
 38-5	_	call	_	_	_	_
 38-6	_	something	_	_	_	_
 38-7	_	that	_	_	_	_
-38-8	_	you	abstract[91]	new[91]	coref	38-11[91_92]
+38-8	_	you	abstract[94]	new[94]	coref	38-11[94_95]
 38-9	_	—	_	_	_	_
 38-10	_	that	_	_	_	_
-38-11	_	you	abstract[92]	new[92]	coref	42-1[92_93]
+38-11	_	you	abstract[95]	new[95]	coref	42-1[95_96]
 38-12	_	can	_	_	_	_
 38-13	_	splish	_	_	_	_
 38-14	_	splash	_	_	_	_
@@ -498,11 +498,11 @@
 40-7	_	.	_	_	_	_
 
 #Text=Liquid .
-41-1	_	Liquid	abstract[104]	new[104]	coref	43-5[104_105]
+41-1	_	Liquid	abstract[107]	new[107]	coref	43-5[107_108]
 41-2	_	.	_	_	_	_
 
 #Text=You 're not gon na let me finish , are you ?
-42-1	_	You	abstract[93]	new[93]	coref	42-11[93_94]
+42-1	_	You	abstract[96]	new[96]	coref	42-11[96_97]
 42-2	_	're	_	_	_	_
 42-3	_	not	_	_	_	_
 42-4	_	gon	_	_	_	_
@@ -512,15 +512,15 @@
 42-8	_	finish	_	_	_	_
 42-9	_	,	_	_	_	_
 42-10	_	are	_	_	_	_
-42-11	_	you	abstract[94]	new[94]	coref	46-18[94_95]
+42-11	_	you	abstract[97]	new[97]	coref	46-18[97_98]
 42-12	_	?	_	_	_	_
 
 #Text=Yes , we call it a ?
 43-1	_	Yes	_	_	_	_
 43-2	_	,	_	_	_	_
-43-3	_	we	abstract[66]	new[66]	coref	47-7[66_67]
+43-3	_	we	abstract[69]	new[69]	coref	47-7[69_70]
 43-4	_	call	_	_	_	_
-43-5	_	it	abstract[105]	new[105]	_	_
+43-5	_	it	abstract[108]	new[108]	_	_
 43-6	_	a	_	_	_	_
 43-7	_	?	_	_	_	_
 
@@ -535,11 +535,11 @@
 
 #Text=And a liquid can change its shape , to f- completely fill the bottom of whatever container you put it in .
 46-1	_	And	_	_	_	_
-46-2	_	a	abstract[106]	new[106]	coref	46-6[106_107]
-46-3	_	liquid	abstract[106]	new[106]	_	_
+46-2	_	a	abstract[109]	new[109]	coref	46-6[109_110]
+46-3	_	liquid	abstract[109]	new[109]	_	_
 46-4	_	can	_	_	_	_
 46-5	_	change	_	_	_	_
-46-6	_	its	abstract[107]	new[107]	coref	46-20[107_108]
+46-6	_	its	abstract[110]	new[110]	coref	46-20[110_111]
 46-7	_	shape	_	_	_	_
 46-8	_	,	_	_	_	_
 46-9	_	to	_	_	_	_
@@ -551,9 +551,9 @@
 46-15	_	of	_	_	_	_
 46-16	_	whatever	_	_	_	_
 46-17	_	container	_	_	_	_
-46-18	_	you	abstract[95]	new[95]	coref	52-9[95_96]
+46-18	_	you	abstract[98]	new[98]	coref	52-9[98_99]
 46-19	_	put	_	_	_	_
-46-20	_	it	abstract[108]	new[108]	_	_
+46-20	_	it	abstract[111]	new[111]	_	_
 46-21	_	in	_	_	_	_
 46-22	_	.	_	_	_	_
 
@@ -563,20 +563,20 @@
 47-3	_	,	_	_	_	_
 47-4	_	what	_	_	_	_
 47-5	_	do	_	_	_	_
-47-6	_	we	abstract[67]	new[67]	coref	48-8[67_68]
+47-6	_	we	abstract[70]	new[70]	coref	48-8[70_71]
 47-7	_	call	_	_	_	_
-47-8	_	something	abstract[109]	new[109]	coref	48-13[109_110]
-47-9	_	that	abstract[109]	new[109]	_	_
-47-10	_	's	abstract[109]	new[109]	_	_
-47-11	_	loose	abstract[109]	new[109]	_	_
-47-12	_	,	abstract[109]	new[109]	_	_
-47-13	_	and	abstract[109]	new[109]	_	_
-47-14	_	floating	abstract[109]	new[109]	_	_
-47-15	_	around	abstract[109]	new[109]	_	_
-47-16	_	like	abstract[109]	new[109]	_	_
-47-17	_	this	abstract[56]|abstract[109]	new[56]|new[109]	_	_
-47-18	_	steam	abstract[56]|abstract[109]	new[56]|new[109]	_	_
-47-19	_	here	abstract[56]|abstract[109]	new[56]|new[109]	_	_
+47-8	_	something	abstract[112]	new[112]	coref	48-13[112_113]
+47-9	_	that	abstract[112]	new[112]	_	_
+47-10	_	's	abstract[112]	new[112]	_	_
+47-11	_	loose	abstract[112]	new[112]	_	_
+47-12	_	,	abstract[112]	new[112]	_	_
+47-13	_	and	abstract[112]	new[112]	_	_
+47-14	_	floating	abstract[112]	new[112]	_	_
+47-15	_	around	abstract[112]	new[112]	_	_
+47-16	_	like	abstract[112]	new[112]	_	_
+47-17	_	this	abstract[59]|abstract[112]	new[59]|new[112]	_	_
+47-18	_	steam	abstract[59]|abstract[112]	new[59]|new[112]	_	_
+47-19	_	here	abstract[59]|abstract[112]	new[59]|new[112]	_	_
 47-20	_	?	_	_	_	_
 
 #Text=Or a cloud , or the air we breathe , we call it a ?
@@ -587,12 +587,12 @@
 48-5	_	or	_	_	_	_
 48-6	_	the	_	_	_	_
 48-7	_	air	_	_	_	_
-48-8	_	we	abstract[68]	new[68]	coref	48-11[68_69]
+48-8	_	we	abstract[71]	new[71]	coref	48-11[71_72]
 48-9	_	breathe	_	_	_	_
 48-10	_	,	_	_	_	_
-48-11	_	we	abstract[69]	new[69]	coref	61-13[69_70]
+48-11	_	we	abstract[72]	new[72]	coref	61-13[72_73]
 48-12	_	call	_	_	_	_
-48-13	_	it	abstract[110]	new[110]	_	_
+48-13	_	it	abstract[113]	new[113]	_	_
 48-14	_	a	_	_	_	_
 48-15	_	?	_	_	_	_
 
@@ -611,16 +611,16 @@
 
 #Text=And a gas completely fills whatever shape container you put it in .
 52-1	_	And	_	_	_	_
-52-2	_	a	abstract[111]	new[111]	coref	52-11[111_112]
-52-3	_	gas	abstract[111]	new[111]	_	_
+52-2	_	a	abstract[114]	new[114]	coref	52-11[114_115]
+52-3	_	gas	abstract[114]	new[114]	_	_
 52-4	_	completely	_	_	_	_
 52-5	_	fills	_	_	_	_
 52-6	_	whatever	_	_	_	_
 52-7	_	shape	_	_	_	_
 52-8	_	container	_	_	_	_
-52-9	_	you	abstract[96]	new[96]	coref	53-6[96_97]
+52-9	_	you	abstract[99]	new[99]	coref	53-6[99_100]
 52-10	_	put	_	_	_	_
-52-11	_	it	abstract[112]	new[112]	_	_
+52-11	_	it	abstract[115]	new[115]	_	_
 52-12	_	in	_	_	_	_
 52-13	_	.	_	_	_	_
 
@@ -630,7 +630,7 @@
 53-3	_	,	_	_	_	_
 53-4	_	how	_	_	_	_
 53-5	_	do	_	_	_	_
-53-6	_	you	abstract[97]	new[97]	_	_
+53-6	_	you	abstract[100]	new[100]	_	_
 53-7	_	get	_	_	_	_
 53-8	_	water	_	_	_	_
 53-9	_	to	_	_	_	_
@@ -670,7 +670,7 @@
 56-4	_	way	_	_	_	_
 56-5	_	he	_	_	_	_
 56-6	_	expressed	_	_	_	_
-56-7	_	that	abstract[113]	new[113]	coref	57-6[113_114]
+56-7	_	that	abstract[116]	new[116]	coref	57-6[116_117]
 56-8	_	.	_	_	_	_
 
 #Text=Never before have I heard it , add or subtract energy , or , heat , change the temperature , basically .
@@ -679,7 +679,7 @@
 57-3	_	have	_	_	_	_
 57-4	_	I	abstract[20]	new[20]	coref	60-5[20_21]
 57-5	_	heard	_	_	_	_
-57-6	_	it	abstract[114]	new[114]	_	_
+57-6	_	it	abstract[117]	new[117]	_	_
 57-7	_	,	_	_	_	_
 57-8	_	add	_	_	_	_
 57-9	_	or	_	_	_	_
@@ -691,8 +691,8 @@
 57-15	_	heat	_	_	_	_
 57-16	_	,	_	_	_	_
 57-17	_	change	_	_	_	_
-57-18	_	the	abstract[118]	new[118]	coref	60-18[118_119]
-57-19	_	temperature	abstract[118]	new[118]	_	_
+57-18	_	the	abstract[121]	new[121]	coref	60-18[121_122]
+57-19	_	temperature	abstract[121]	new[121]	_	_
 57-20	_	,	_	_	_	_
 57-21	_	basically	_	_	_	_
 57-22	_	.	_	_	_	_
@@ -707,7 +707,7 @@
 
 #Text=Well folks , now I 'm going to show you something else that happens when you change the temperature , and that 's where these balloons come in .
 60-1	_	Well	_	_	_	_
-60-2	_	folks	abstract[115]	new[115]	coref	60-10[115_116]
+60-2	_	folks	abstract[118]	new[118]	coref	60-10[118_119]
 60-3	_	,	_	_	_	_
 60-4	_	now	_	_	_	_
 60-5	_	I	abstract[21]	new[21]	coref	61-1[21_22]
@@ -715,16 +715,16 @@
 60-7	_	going	_	_	_	_
 60-8	_	to	_	_	_	_
 60-9	_	show	_	_	_	_
-60-10	_	you	abstract[116]	new[116]	coref	60-16[116_117]
+60-10	_	you	abstract[119]	new[119]	coref	60-16[119_120]
 60-11	_	something	_	_	_	_
 60-12	_	else	_	_	_	_
 60-13	_	that	_	_	_	_
 60-14	_	happens	_	_	_	_
 60-15	_	when	_	_	_	_
-60-16	_	you	abstract[117]	new[117]	_	_
+60-16	_	you	abstract[120]	new[120]	_	_
 60-17	_	change	_	_	_	_
-60-18	_	the	abstract[119]	new[119]	_	_
-60-19	_	temperature	abstract[119]	new[119]	_	_
+60-18	_	the	abstract[122]	new[122]	_	_
+60-19	_	temperature	abstract[122]	new[122]	_	_
 60-20	_	,	_	_	_	_
 60-21	_	and	_	_	_	_
 60-22	_	that	_	_	_	_
@@ -740,47 +740,47 @@
 61-1	_	I	abstract[22]	new[22]	coref	61-21[22_23]
 61-2	_	have	_	_	_	_
 61-3	_	here	_	_	_	_
-61-4	_	a	abstract[120]	new[120]	coref	61-18[120_121]
-61-5	_	number	abstract[120]	new[120]	_	_
-61-6	_	of	abstract[120]	new[120]	_	_
-61-7	_	balloons	abstract[120]	new[120]	_	_
+61-4	_	a	abstract[123]	new[123]	coref	61-18[123_124]
+61-5	_	number	abstract[123]	new[123]	_	_
+61-6	_	of	abstract[123]	new[123]	_	_
+61-7	_	balloons	abstract[123]	new[123]	_	_
 61-8	_	,	_	_	_	_
 61-9	_	but	_	_	_	_
 61-10	_	,	_	_	_	_
 61-11	_	l-	_	_	_	_
 61-12	_	let	_	_	_	_
-61-13	_	's	abstract[70]	new[70]	coref	68-4[70_71]
+61-13	_	's	abstract[73]	new[73]	coref	68-4[73_74]
 61-14	_	see	_	_	_	_
 61-15	_	how	_	_	_	_
 61-16	_	many	_	_	_	_
 61-17	_	of	_	_	_	_
-61-18	_	these	abstract[121]	new[121]	coref	82-6[121_122]
-61-19	_	balloons	abstract[121]	new[121]	_	_
+61-18	_	these	abstract[124]	new[124]	coref	82-6[124_125]
+61-19	_	balloons	abstract[124]	new[124]	_	_
 61-20	_	,	_	_	_	_
 61-21	_	I	abstract[23]	new[23]	coref	65-12[23_24]
 61-22	_	can	_	_	_	_
 61-23	_	fit	_	_	_	_
 61-24	_	,	_	_	_	_
 61-25	_	into	_	_	_	_
-61-26	_	this	abstract[126]	new[126]	coref	72-5[126_127]
-61-27	_	little	abstract[126]	new[126]	_	_
-61-28	_	itty	abstract[126]	new[126]	_	_
-61-29	_	-	abstract[126]	new[126]	_	_
-61-30	_	bitty	abstract[126]	new[126]	_	_
-61-31	_	container	abstract[126]	new[126]	_	_
-61-32	_	here	abstract[126]	new[126]	_	_
+61-26	_	this	abstract[129]	new[129]	coref	72-5[129_130]
+61-27	_	little	abstract[129]	new[129]	_	_
+61-28	_	itty	abstract[129]	new[129]	_	_
+61-29	_	-	abstract[129]	new[129]	_	_
+61-30	_	bitty	abstract[129]	new[129]	_	_
+61-31	_	container	abstract[129]	new[129]	_	_
+61-32	_	here	abstract[129]	new[129]	_	_
 61-33	_	.	_	_	_	_
 
 #Text=Well , everybody count together .
 62-1	_	Well	_	_	_	_
 62-2	_	,	_	_	_	_
-62-3	_	everybody	abstract[123]	new[123]	coref	65-1[123_124]
+62-3	_	everybody	abstract[126]	new[126]	coref	65-1[126_127]
 62-4	_	count	_	_	_	_
 62-5	_	together	_	_	_	_
 62-6	_	.	_	_	_	_
 
 #Text=This would be ...
-63-1	_	This	abstract[135]	new[135]	coref	83-6[135_136]
+63-1	_	This	abstract[138]	new[138]	coref	83-6[138_139]
 63-2	_	would	_	_	_	_
 63-3	_	be	_	_	_	_
 63-4	_	...	_	_	_	_
@@ -794,7 +794,7 @@
 64-6	_	.	_	_	_	_
 
 #Text=You think , well , okay , w- th- th- , I 'm glad I never saw d- Citizen Kane with you .
-65-1	_	You	abstract[124]	new[124]	coref	65-22[124_125]
+65-1	_	You	abstract[127]	new[127]	coref	65-22[127_128]
 65-2	_	think	_	_	_	_
 65-3	_	,	_	_	_	_
 65-4	_	well	_	_	_	_
@@ -815,7 +815,7 @@
 65-19	_	Citizen	_	_	_	_
 65-20	_	Kane	_	_	_	_
 65-21	_	with	_	_	_	_
-65-22	_	you	abstract[125]	new[125]	_	_
+65-22	_	you	abstract[128]	new[128]	_	_
 65-23	_	.	_	_	_	_
 
 #Text=Rosebud is a sled .
@@ -833,7 +833,7 @@
 68-1	_	Well	_	_	_	_
 68-2	_	,	_	_	_	_
 68-3	_	let	_	_	_	_
-68-4	_	's	abstract[71]	new[71]	coref	84-2[71_72]
+68-4	_	's	abstract[74]	new[74]	coref	84-2[74_75]
 68-5	_	all	_	_	_	_
 68-6	_	count	_	_	_	_
 68-7	_	together	_	_	_	_
@@ -861,10 +861,10 @@
 72-2	_	balloon	_	_	_	_
 72-3	_	going	_	_	_	_
 72-4	_	into	_	_	_	_
-72-5	_	the	abstract[127]	new[127]	coref	79-5[127_128]
-72-6	_	little	abstract[127]	new[127]	_	_
-72-7	_	container	abstract[127]	new[127]	_	_
-72-8	_	here	abstract[127]	new[127]	_	_
+72-5	_	the	abstract[130]	new[130]	coref	79-5[130_131]
+72-6	_	little	abstract[130]	new[130]	_	_
+72-7	_	container	abstract[130]	new[130]	_	_
+72-8	_	here	abstract[130]	new[130]	_	_
 72-9	_	.	_	_	_	_
 
 #Text=And this would be ...
@@ -898,20 +898,20 @@
 78-2	_	.	_	_	_	_
 
 #Text=Two balloons going into the little container here .
-79-1	_	Two	abstract[133]	new[133]	coref	80-3[133_134]
-79-2	_	balloons	abstract[133]	new[133]	_	_
+79-1	_	Two	abstract[136]	new[136]	coref	80-3[136_137]
+79-2	_	balloons	abstract[136]	new[136]	_	_
 79-3	_	going	_	_	_	_
 79-4	_	into	_	_	_	_
-79-5	_	the	abstract[128]	new[128]	coref	82-9[128_129]
-79-6	_	little	abstract[128]	new[128]	_	_
-79-7	_	container	abstract[128]	new[128]	_	_
-79-8	_	here	abstract[128]	new[128]	_	_
+79-5	_	the	abstract[131]	new[131]	coref	82-9[131_132]
+79-6	_	little	abstract[131]	new[131]	_	_
+79-7	_	container	abstract[131]	new[131]	_	_
+79-8	_	here	abstract[131]	new[131]	_	_
 79-9	_	.	_	_	_	_
 
 #Text=Ah , they 're not fitting in so easily .
 80-1	_	Ah	_	_	_	_
 80-2	_	,	_	_	_	_
-80-3	_	they	abstract[134]	new[134]	_	_
+80-3	_	they	abstract[137]	new[137]	_	_
 80-4	_	're	_	_	_	_
 80-5	_	not	_	_	_	_
 80-6	_	fitting	_	_	_	_
@@ -931,12 +931,12 @@
 82-3	_	I	abstract[26]	new[26]	coref	123-2[26_27]
 82-4	_	can	_	_	_	_
 82-5	_	fit	_	_	_	_
-82-6	_	all	abstract[122]	new[122]	_	_
-82-7	_	balloons	abstract[122]	new[122]	_	_
+82-6	_	all	abstract[125]	new[125]	_	_
+82-7	_	balloons	abstract[125]	new[125]	_	_
 82-8	_	into	_	_	_	_
-82-9	_	this	abstract[129]	new[129]	coref	91-5[129_130]
-82-10	_	little	abstract[129]	new[129]	_	_
-82-11	_	container	abstract[129]	new[129]	_	_
+82-9	_	this	abstract[132]	new[132]	coref	91-5[132_133]
+82-10	_	little	abstract[132]	new[132]	_	_
+82-11	_	container	abstract[132]	new[132]	_	_
 82-12	_	here	_	_	_	_
 82-13	_	.	_	_	_	_
 
@@ -946,13 +946,13 @@
 83-3	_	guessing	_	_	_	_
 83-4	_	at	_	_	_	_
 83-5	_	what	_	_	_	_
-83-6	_	this	abstract[136]	new[136]	coref	87-2[136_137]
+83-6	_	this	abstract[139]	new[139]	coref	87-2[139_140]
 83-7	_	is	_	_	_	_
 83-8	_	.	_	_	_	_
 
 #Text=Let 's have some suspense here .
 84-1	_	Let	_	_	_	_
-84-2	_	's	abstract[72]	new[72]	coref	117-4[72_73]
+84-2	_	's	abstract[75]	new[75]	coref	117-4[75_76]
 84-3	_	have	_	_	_	_
 84-4	_	some	_	_	_	_
 84-5	_	suspense	_	_	_	_
@@ -970,7 +970,7 @@
 
 #Text=And this would be ?
 87-1	_	And	_	_	_	_
-87-2	_	this	abstract[137]	new[137]	_	_
+87-2	_	this	abstract[140]	new[140]	_	_
 87-3	_	would	_	_	_	_
 87-4	_	be	_	_	_	_
 87-5	_	?	_	_	_	_
@@ -993,10 +993,10 @@
 91-2	_	balloons	_	_	_	_
 91-3	_	going	_	_	_	_
 91-4	_	onto	_	_	_	_
-91-5	_	the	abstract[130]	new[130]	coref	139-8[130_131]
-91-6	_	the	abstract[130]	new[130]	_	_
-91-7	_	little	abstract[130]	new[130]	_	_
-91-8	_	container	abstract[130]	new[130]	_	_
+91-5	_	the	abstract[133]	new[133]	coref	139-8[133_134]
+91-6	_	the	abstract[133]	new[133]	_	_
+91-7	_	little	abstract[133]	new[133]	_	_
+91-8	_	container	abstract[133]	new[133]	_	_
 91-9	_	there	_	_	_	_
 91-10	_	.	_	_	_	_
 
@@ -1033,7 +1033,7 @@
 96-2	_	.	_	_	_	_
 
 #Text=Four .
-97-1	_	Four	abstract[141]	new[141]	coref	99-11[141_142]
+97-1	_	Four	abstract[144]	new[144]	coref	99-11[144_145]
 97-2	_	.	_	_	_	_
 
 #Text=Very good .
@@ -1044,27 +1044,27 @@
 #Text=At first he was confused , but then he figured it out .
 99-1	_	At	_	_	_	_
 99-2	_	first	_	_	_	_
-99-3	_	he	abstract[138]	new[138]	coref	99-9[138_139]
+99-3	_	he	abstract[141]	new[141]	coref	99-9[141_142]
 99-4	_	was	_	_	_	_
 99-5	_	confused	_	_	_	_
 99-6	_	,	_	_	_	_
 99-7	_	but	_	_	_	_
 99-8	_	then	_	_	_	_
-99-9	_	he	abstract[139]	new[139]	coref	100-3[139_140]
+99-9	_	he	abstract[142]	new[142]	coref	100-3[142_143]
 99-10	_	figured	_	_	_	_
-99-11	_	it	abstract[142]	new[142]	coref	100-5[142_143]
+99-11	_	it	abstract[145]	new[145]	coref	100-5[145_146]
 99-12	_	out	_	_	_	_
 99-13	_	.	_	_	_	_
 
 #Text=Everybody tell him what this is , it 's ...
-100-1	_	Everybody	abstract[146]	new[146]	coref	103-2[146_147]
+100-1	_	Everybody	abstract[149]	new[149]	coref	103-2[149_150]
 100-2	_	tell	_	_	_	_
-100-3	_	him	abstract[140]	new[140]	_	_
+100-3	_	him	abstract[143]	new[143]	_	_
 100-4	_	what	_	_	_	_
-100-5	_	this	abstract[143]	new[143]	coref	100-8[143_144]
+100-5	_	this	abstract[146]	new[146]	coref	100-8[146_147]
 100-6	_	is	_	_	_	_
 100-7	_	,	_	_	_	_
-100-8	_	it	abstract[144]	new[144]	coref	102-1[144_145]
+100-8	_	it	abstract[147]	new[147]	coref	102-1[147_148]
 100-9	_	's	_	_	_	_
 100-10	_	...	_	_	_	_
 
@@ -1073,15 +1073,15 @@
 101-2	_	.	_	_	_	_
 
 #Text=It 's four .
-102-1	_	It	abstract[145]	new[145]	_	_
+102-1	_	It	abstract[148]	new[148]	_	_
 102-2	_	's	_	_	_	_
 102-3	_	four	_	_	_	_
 102-4	_	.	_	_	_	_
 
 #Text=Boy you people did n't watch enough Sesame Street as a child .
 103-1	_	Boy	_	_	_	_
-103-2	_	you	abstract[147]	new[147]	coref	106-2[147_148]
-103-3	_	people	abstract[147]	new[147]	_	_
+103-2	_	you	abstract[150]	new[150]	coref	106-2[150_151]
+103-3	_	people	abstract[150]	new[150]	_	_
 103-4	_	did	_	_	_	_
 103-5	_	n't	_	_	_	_
 103-6	_	watch	_	_	_	_
@@ -1105,7 +1105,7 @@
 
 #Text=Thank you very much , yes .
 106-1	_	Thank	_	_	_	_
-106-2	_	you	abstract[148]	new[148]	coref	127-2[148_149]
+106-2	_	you	abstract[151]	new[151]	coref	127-2[151_152]
 106-3	_	very	_	_	_	_
 106-4	_	much	_	_	_	_
 106-5	_	,	_	_	_	_
@@ -1156,7 +1156,7 @@
 115-2	_	.	_	_	_	_
 
 #Text=Six , good .
-116-1	_	Six	abstract[159]	new[159]	coref	118-3[159_160]
+116-1	_	Six	abstract[164]	new[164]	coref	118-3[164_165]
 116-2	_	,	_	_	_	_
 116-3	_	good	_	_	_	_
 116-4	_	.	_	_	_	_
@@ -1164,24 +1164,24 @@
 #Text=And let 's do this uh , let 's add some complexities to this here , let 's do it in another language .
 117-1	_	And	_	_	_	_
 117-2	_	let	_	_	_	_
-117-3	_	's	abstract[73]	new[73]	coref	117-10[73_74]
+117-3	_	's	abstract[76]	new[76]	coref	117-10[76_77]
 117-4	_	do	_	_	_	_
-117-5	_	this	abstract[156]	new[156]	coref	117-15[156_157]
+117-5	_	this	abstract[161]	new[161]	coref	117-15[161_162]
 117-6	_	uh	_	_	_	_
 117-7	_	,	_	_	_	_
 117-8	_	let	_	_	_	_
-117-9	_	's	abstract[74]	new[74]	coref	117-19[74_75]
+117-9	_	's	abstract[77]	new[77]	coref	117-19[77_78]
 117-10	_	add	_	_	_	_
 117-11	_	some	_	_	_	_
 117-12	_	complexities	_	_	_	_
 117-13	_	to	_	_	_	_
-117-14	_	this	abstract[157]	new[157]	coref	117-21[157_158]
+117-14	_	this	abstract[162]	new[162]	coref	117-21[162_163]
 117-15	_	here	_	_	_	_
 117-16	_	,	_	_	_	_
 117-17	_	let	_	_	_	_
-117-18	_	's	abstract[75]	new[75]	coref	124-5[75_76]
+117-18	_	's	abstract[78]	new[78]	coref	124-5[78_79]
 117-19	_	do	_	_	_	_
-117-20	_	it	abstract[158]	new[158]	_	_
+117-20	_	it	abstract[163]	new[163]	_	_
 117-21	_	in	_	_	_	_
 117-22	_	another	_	_	_	_
 117-23	_	language	_	_	_	_
@@ -1189,28 +1189,28 @@
 
 #Text=In Spanish it would be ?
 118-1	_	In	_	_	_	_
-118-2	_	Spanish	abstract[173]	new[173]	coref	135-6[173_174]
-118-3	_	it	abstract[160]	new[160]	coref	120-1[160_161]
+118-2	_	Spanish	abstract[178]	new[178]	coref	135-6[178_179]
+118-3	_	it	abstract[165]	new[165]	coref	120-1[165_166]
 118-4	_	would	_	_	_	_
 118-5	_	be	_	_	_	_
 118-6	_	?	_	_	_	_
 
 #Text=Ocho .
-119-1	_	Ocho	abstract[163]	new[163]	coref	122-2[163_164]
+119-1	_	Ocho	abstract[168]	new[168]	coref	122-2[168_169]
 119-2	_	.	_	_	_	_
 
 #Text=Seis .
-120-1	_	Seis	abstract[161]	new[161]	coref	121-2[161_162]
+120-1	_	Seis	abstract[166]	new[166]	coref	121-2[166_167]
 120-2	_	.	_	_	_	_
 
 #Text=S- seis .
 121-1	_	S-	_	_	_	_
-121-2	_	seis	abstract[162]	new[162]	_	_
+121-2	_	seis	abstract[167]	new[167]	_	_
 121-3	_	.	_	_	_	_
 
 #Text=N- ocho .
 122-1	_	N-	_	_	_	_
-122-2	_	ocho	abstract[164]	new[164]	_	_
+122-2	_	ocho	abstract[169]	new[169]	_	_
 122-3	_	.	_	_	_	_
 
 #Text=Oh my gosh .
@@ -1224,7 +1224,7 @@
 124-2	_	'm	_	_	_	_
 124-3	_	afraid	_	_	_	_
 124-4	_	for	_	_	_	_
-124-5	_	our	abstract[76]	new[76]	coref	147-2[76_77]
+124-5	_	our	abstract[79]	new[79]	coref	147-2[79_80]
 124-6	_	nation	_	_	_	_
 124-7	_	.	_	_	_	_
 
@@ -1234,18 +1234,18 @@
 125-3	_	well	_	_	_	_
 125-4	_	,	_	_	_	_
 125-5	_	and	_	_	_	_
-125-6	_	this	abstract[165]	new[165]	coref	126-1[165_166]
+125-6	_	this	abstract[170]	new[170]	coref	126-1[170_171]
 125-7	_	would	_	_	_	_
 125-8	_	be	_	_	_	_
 125-9	_	?	_	_	_	_
 
 #Text=Siete .
-126-1	_	Siete	abstract[166]	new[166]	_	_
+126-1	_	Siete	abstract[171]	new[171]	_	_
 126-2	_	.	_	_	_	_
 
 #Text=Thank you .
 127-1	_	Thank	_	_	_	_
-127-2	_	you	abstract[149]	new[149]	coref	135-15[149_150]
+127-2	_	you	abstract[152]	new[152]	coref	135-15[152_153]
 127-3	_	.	_	_	_	_
 
 #Text=Seven .
@@ -1274,29 +1274,29 @@
 132-7	_	?	_	_	_	_
 
 #Text=Eight .
-133-1	_	Eight	abstract[167]	new[167]	coref	134-1[167_168]
+133-1	_	Eight	abstract[172]	new[172]	coref	134-1[172_173]
 133-2	_	.	_	_	_	_
 
 #Text=Ocho .
-134-1	_	Ocho	abstract[168]	new[168]	_	_
+134-1	_	Ocho	abstract[173]	new[173]	_	_
 134-2	_	.	_	_	_	_
 
 #Text=Eight , or ocho in Spanish , and uh huit in French , thank you very much .
-135-1	_	Eight	abstract[169]	new[169]	coref	135-4[169_170]
+135-1	_	Eight	abstract[174]	new[174]	coref	135-4[174_175]
 135-2	_	,	_	_	_	_
 135-3	_	or	_	_	_	_
-135-4	_	ocho	abstract[170]	new[170]	coref	135-10[170_171]
+135-4	_	ocho	abstract[175]	new[175]	coref	135-10[175_176]
 135-5	_	in	_	_	_	_
-135-6	_	Spanish	abstract[174]	new[174]	_	_
+135-6	_	Spanish	abstract[179]	new[179]	_	_
 135-7	_	,	_	_	_	_
 135-8	_	and	_	_	_	_
 135-9	_	uh	_	_	_	_
-135-10	_	huit	abstract[171]	new[171]	coref	137-10[171_172]
+135-10	_	huit	abstract[176]	new[176]	coref	137-10[176_177]
 135-11	_	in	_	_	_	_
 135-12	_	French	_	_	_	_
 135-13	_	,	_	_	_	_
 135-14	_	thank	_	_	_	_
-135-15	_	you	abstract[150]	new[150]	coref	136-3[150_151]
+135-15	_	you	abstract[153]	new[153]	coref	136-3[153_154]
 135-16	_	very	_	_	_	_
 135-17	_	much	_	_	_	_
 135-18	_	.	_	_	_	_
@@ -1304,17 +1304,17 @@
 #Text=I thought you were telling me your breakfast .
 136-1	_	I	abstract[29]	new[29]	coref	136-6[29_30]
 136-2	_	thought	_	_	_	_
-136-3	_	you	abstract[151]	new[151]	coref	136-7[151_152]
+136-3	_	you	abstract[154]	new[154]	coref	136-7[154_155]
 136-4	_	were	_	_	_	_
 136-5	_	telling	_	_	_	_
 136-6	_	me	abstract[30]	new[30]	coref	139-2[30_31]
-136-7	_	your	abstract[152]	new[152]	coref	137-2[152_153]
+136-7	_	your	abstract[155]	new[155]	coref	137-2[155_156]
 136-8	_	breakfast	_	_	_	_
 136-9	_	.	_	_	_	_
 
 #Text=What you had for b- — But no , huit .
 137-1	_	What	_	_	_	_
-137-2	_	you	abstract[153]	new[153]	coref	139-15[153_154]
+137-2	_	you	abstract[156]	new[156]	coref	139-15[156_157]
 137-3	_	had	_	_	_	_
 137-4	_	for	_	_	_	_
 137-5	_	b-	_	_	_	_
@@ -1322,7 +1322,7 @@
 137-7	_	But	_	_	_	_
 137-8	_	no	_	_	_	_
 137-9	_	,	_	_	_	_
-137-10	_	huit	abstract[172]	new[172]	_	_
+137-10	_	huit	abstract[177]	new[177]	_	_
 137-11	_	.	_	_	_	_
 
 #Text=Very good .
@@ -1335,22 +1335,22 @@
 139-2	_	my	abstract[31]	new[31]	coref	139-13[31_32]
 139-3	_	gosh	_	_	_	_
 139-4	_	,	_	_	_	_
-139-5	_	eight	abstract[175]|abstract[177]	new[175]|new[177]	coref|coref	139-20[175_176]|144-2[177_178]
-139-6	_	balloons	abstract[175]|abstract[177]	new[175]|new[177]	_	_
-139-7	_	into	abstract[175]	new[175]	_	_
-139-8	_	this	abstract[131]|abstract[175]	new[131]|new[175]	coref	141-6[131_132]
-139-9	_	little	abstract[131]|abstract[175]	new[131]|new[175]	_	_
-139-10	_	container	abstract[131]|abstract[175]	new[131]|new[175]	_	_
-139-11	_	here	abstract[131]|abstract[175]	new[131]|new[175]	_	_
+139-5	_	eight	abstract[180]|abstract[182]	new[180]|new[182]	coref|coref	139-20[180_181]|144-2[182_183]
+139-6	_	balloons	abstract[180]|abstract[182]	new[180]|new[182]	_	_
+139-7	_	into	abstract[180]	new[180]	_	_
+139-8	_	this	abstract[134]|abstract[180]	new[134]|new[180]	coref	141-6[134_135]
+139-9	_	little	abstract[134]|abstract[180]	new[134]|new[180]	_	_
+139-10	_	container	abstract[134]|abstract[180]	new[134]|new[180]	_	_
+139-11	_	here	abstract[134]|abstract[180]	new[134]|new[180]	_	_
 139-12	_	,	_	_	_	_
 139-13	_	I	abstract[32]	new[32]	coref	140-1[32_33]
 139-14	_	bet	_	_	_	_
-139-15	_	you	abstract[154]	new[154]	coref	142-11[154_155]
+139-15	_	you	abstract[157]	new[157]	coref	142-11[157_158]
 139-16	_	're	_	_	_	_
 139-17	_	wondering	_	_	_	_
 139-18	_	r-	_	_	_	_
 139-19	_	how	_	_	_	_
-139-20	_	that	abstract[176]	new[176]	_	_
+139-20	_	that	abstract[181]	new[181]	_	_
 139-21	_	happened	_	_	_	_
 139-22	_	.	_	_	_	_
 
@@ -1366,7 +1366,7 @@
 141-3	_	a	_	_	_	_
 141-4	_	hole	_	_	_	_
 141-5	_	in	_	_	_	_
-141-6	_	it	abstract[132]	new[132]	_	_
+141-6	_	it	abstract[135]	new[135]	_	_
 141-7	_	.	_	_	_	_
 
 #Text=Well , there 's a hole , no , if you 're thinking there 's a hole , think again .
@@ -1380,7 +1380,7 @@
 142-8	_	no	_	_	_	_
 142-9	_	,	_	_	_	_
 142-10	_	if	_	_	_	_
-142-11	_	you	abstract[155]	new[155]	_	_
+142-11	_	you	abstract[158]	new[158]	coref	148-14[158_159]
 142-12	_	're	_	_	_	_
 142-13	_	thinking	_	_	_	_
 142-14	_	there	_	_	_	_
@@ -1408,12 +1408,12 @@
 
 #Text=Pull em out .
 144-1	_	Pull	_	_	_	_
-144-2	_	em	abstract[178]	new[178]	_	_
+144-2	_	em	abstract[183]	new[183]	_	_
 144-3	_	out	_	_	_	_
 144-4	_	.	_	_	_	_
 
 #Text=You slowed down the molecules ,
-145-1	_	You	abstract[34]	new[34]	_	_
+145-1	_	You	abstract[34]	new[34]	coref	148-3[34_35]
 145-2	_	slowed	_	_	_	_
 145-3	_	down	_	_	_	_
 145-4	_	the	_	_	_	_
@@ -1443,7 +1443,7 @@
 
 #Text=Let 's all figure it out together .
 147-1	_	Let	_	_	_	_
-147-2	_	's	abstract[77]	new[77]	_	_
+147-2	_	's	abstract[80]	new[80]	_	_
 147-3	_	all	_	_	_	_
 147-4	_	figure	_	_	_	_
 147-5	_	it	_	_	_	_
@@ -1451,16 +1451,31 @@
 147-7	_	together	_	_	_	_
 147-8	_	.	_	_	_	_
 
-#Text=A conversation about water , fire , balloons and more .
-148-1	_	A	_	_	_	_
-148-2	_	conversation	_	_	_	_
-148-3	_	about	_	_	_	_
-148-4	_	water	_	_	_	_
-148-5	_	,	_	_	_	_
-148-6	_	fire	_	_	_	_
-148-7	_	,	_	_	_	_
-148-8	_	balloons	_	_	_	_
-148-9	_	and	_	_	_	_
-148-10	_	more	_	_	_	_
+#Text=Now , I 'm getting a little ahead of me . I thought you were noticing a series of things on your dinner table here .
+148-1	_	Now	_	_	_	_
+148-2	_	,	_	_	_	_
+148-3	_	I	abstract[35]	new[35]	coref	148-10[35_36]
+148-4	_	'm	_	_	_	_
+148-5	_	getting	_	_	_	_
+148-6	_	a	_	_	_	_
+148-7	_	little	_	_	_	_
+148-8	_	ahead	_	_	_	_
+148-9	_	of	_	_	_	_
+148-10	_	me	abstract[36]	new[36]	coref	148-12[36_37]
 148-11	_	.	_	_	_	_
+148-12	_	I	abstract[37]	new[37]	_	_
+148-13	_	thought	_	_	_	_
+148-14	_	you	abstract[159]	new[159]	coref	148-22[159_160]
+148-15	_	were	_	_	_	_
+148-16	_	noticing	_	_	_	_
+148-17	_	a	_	_	_	_
+148-18	_	series	_	_	_	_
+148-19	_	of	_	_	_	_
+148-20	_	things	_	_	_	_
+148-21	_	on	_	_	_	_
+148-22	_	your	abstract[160]	new[160]	_	_
+148-23	_	dinner	_	_	_	_
+148-24	_	table	_	_	_	_
+148-25	_	here	_	_	_	_
+148-26	_	.	_	_	_	_
 

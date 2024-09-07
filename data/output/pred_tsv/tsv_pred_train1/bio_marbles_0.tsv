@@ -28,10 +28,10 @@
 2-18	_	better	abstract[2]	new[2]	_	_
 2-19	_	known	abstract[2]	new[2]	_	_
 2-20	_	by	abstract[2]	new[2]	_	_
-2-21	_	her	abstract[2]|abstract[3]|abstract[53]	new[2]|new[3]|new[53]	coref|coref	3-6[3_4]|20-2[53_54]
-2-22	_	pseudonym	abstract[2]|abstract[53]	new[2]|new[53]	_	_
-2-23	_	Jenna	abstract[2]|abstract[53]	new[2]|new[53]	_	_
-2-24	_	Marbles	abstract[2]|abstract[53]	new[2]|new[53]	_	_
+2-21	_	her	abstract[2]|abstract[3]|abstract[55]	new[2]|new[3]|new[55]	coref|coref	3-6[3_4]|20-2[55_56]
+2-22	_	pseudonym	abstract[2]|abstract[55]	new[2]|new[55]	_	_
+2-23	_	Jenna	abstract[2]|abstract[55]	new[2]|new[55]	_	_
+2-24	_	Marbles	abstract[2]|abstract[55]	new[2]|new[55]	_	_
 2-25	_	,	_	_	_	_
 2-26	_	is	_	_	_	_
 2-27	_	an	_	_	_	_
@@ -109,15 +109,15 @@
 4-12	_	figure	_	_	_	_
 4-13	_	displayed	_	_	_	_
 4-14	_	in	_	_	_	_
-4-15	_	Madame	abstract[88]|abstract[91]	new[88]|new[91]	coref|coref	29-12[88_89]|29-12[91_92]
-4-16	_	Tussauds	abstract[88]|abstract[91]	new[88]|new[91]	_	_
-4-17	_	Museum	abstract[91]	new[91]	_	_
-4-18	_	,	abstract[91]	new[91]	_	_
-4-19	_	located	abstract[91]	new[91]	_	_
-4-20	_	in	abstract[91]	new[91]	_	_
-4-21	_	New	abstract[91]|abstract[95]	new[91]|new[95]	coref	29-14[95_96]
-4-22	_	York	abstract[91]|abstract[95]	new[91]|new[95]	_	_
-4-23	_	City	abstract[91]|abstract[95]	new[91]|new[95]	_	_
+4-15	_	Madame	abstract[90]|abstract[93]	new[90]|new[93]	coref|coref	29-12[90_91]|29-12[93_94]
+4-16	_	Tussauds	abstract[90]|abstract[93]	new[90]|new[93]	_	_
+4-17	_	Museum	abstract[93]	new[93]	_	_
+4-18	_	,	abstract[93]	new[93]	_	_
+4-19	_	located	abstract[93]	new[93]	_	_
+4-20	_	in	abstract[93]	new[93]	_	_
+4-21	_	New	abstract[93]|abstract[97]	new[93]|new[97]	coref	29-14[97_98]
+4-22	_	York	abstract[93]|abstract[97]	new[93]|new[97]	_	_
+4-23	_	City	abstract[93]|abstract[97]	new[93]|new[97]	_	_
 4-24	_	.	_	_	_	_
 4-25	_	[	_	_	_	_
 4-26	_	5	_	_	_	_
@@ -370,23 +370,23 @@
 17-37	_	]	_	_	_	_
 
 #Text=Her video " How To Avoid Talking To People You Do n't Want To Talk To " was featured in articles by The New York Times and ABC News in August 2011 .
-18-1	_	Her	abstract[36]|abstract[50]	new[36]|new[50]	coref|coref	19-5[36_37]|19-2[50_51]
-18-2	_	video	abstract[50]	new[50]	_	_
-18-3	_	"	abstract[50]	new[50]	_	_
-18-4	_	How	abstract[50]	new[50]	_	_
-18-5	_	To	abstract[50]	new[50]	_	_
-18-6	_	Avoid	abstract[50]	new[50]	_	_
-18-7	_	Talking	abstract[50]	new[50]	_	_
-18-8	_	To	abstract[50]	new[50]	_	_
-18-9	_	People	abstract[50]	new[50]	_	_
-18-10	_	You	abstract[49]|abstract[50]	new[49]|new[50]	_	_
-18-11	_	Do	abstract[50]	new[50]	_	_
-18-12	_	n't	abstract[50]	new[50]	_	_
-18-13	_	Want	abstract[50]	new[50]	_	_
-18-14	_	To	abstract[50]	new[50]	_	_
-18-15	_	Talk	abstract[50]	new[50]	_	_
-18-16	_	To	abstract[50]	new[50]	_	_
-18-17	_	"	abstract[50]	new[50]	_	_
+18-1	_	Her	abstract[36]|abstract[52]	new[36]|new[52]	coref|coref	19-5[36_37]|19-2[52_53]
+18-2	_	video	abstract[52]	new[52]	_	_
+18-3	_	"	abstract[52]	new[52]	_	_
+18-4	_	How	abstract[52]	new[52]	_	_
+18-5	_	To	abstract[52]	new[52]	_	_
+18-6	_	Avoid	abstract[52]	new[52]	_	_
+18-7	_	Talking	abstract[52]	new[52]	_	_
+18-8	_	To	abstract[52]	new[52]	_	_
+18-9	_	People	abstract[52]	new[52]	_	_
+18-10	_	You	abstract[49]|abstract[52]	new[49]|new[52]	coref	44-36[49_50]
+18-11	_	Do	abstract[52]	new[52]	_	_
+18-12	_	n't	abstract[52]	new[52]	_	_
+18-13	_	Want	abstract[52]	new[52]	_	_
+18-14	_	To	abstract[52]	new[52]	_	_
+18-15	_	Talk	abstract[52]	new[52]	_	_
+18-16	_	To	abstract[52]	new[52]	_	_
+18-17	_	"	abstract[52]	new[52]	_	_
 18-18	_	was	_	_	_	_
 18-19	_	featured	_	_	_	_
 18-20	_	in	_	_	_	_
@@ -406,8 +406,8 @@
 
 #Text=In the video , she stated , " I 'm sick and tired of guys thinking that just because I showed up at a club or a dance or a bar , that I want to have their genitalia touching my backside " ; [ 12 ] [ 13 ] the video had approximately 36.2 million views as of March 2018 . [ 14 ]
 19-1	_	In	_	_	_	_
-19-2	_	the	abstract[51]	new[51]	coref	19-51[51_52]
-19-3	_	video	abstract[51]	new[51]	_	_
+19-2	_	the	abstract[53]	new[53]	coref	19-51[53_54]
+19-3	_	video	abstract[53]	new[53]	_	_
 19-4	_	,	_	_	_	_
 19-5	_	she	abstract[37]	new[37]	coref	19-9[37_38]
 19-6	_	stated	_	_	_	_
@@ -455,8 +455,8 @@
 19-48	_	[	_	_	_	_
 19-49	_	13	_	_	_	_
 19-50	_	]	_	_	_	_
-19-51	_	the	abstract[52]	new[52]	_	_
-19-52	_	video	abstract[52]	new[52]	_	_
+19-51	_	the	abstract[54]	new[54]	_	_
+19-52	_	video	abstract[54]	new[54]	_	_
 19-53	_	had	_	_	_	_
 19-54	_	approximately	_	_	_	_
 19-55	_	36.2	_	_	_	_
@@ -472,15 +472,15 @@
 19-65	_	]	_	_	_	_
 
 #Text=The pseudonym " Jenna Marbles " comes from her mother 's complaint that " Mourey " , their legal surname , pulled up only Jenna 's videos on Google .
-20-1	_	The	abstract[54]	new[54]	coref	22-1[54_55]
-20-2	_	pseudonym	abstract[54]	new[54]	_	_
-20-3	_	"	abstract[54]	new[54]	_	_
-20-4	_	Jenna	abstract[54]	new[54]	_	_
-20-5	_	Marbles	abstract[54]	new[54]	_	_
-20-6	_	"	abstract[54]	new[54]	_	_
+20-1	_	The	abstract[56]	new[56]	coref	22-1[56_57]
+20-2	_	pseudonym	abstract[56]	new[56]	_	_
+20-3	_	"	abstract[56]	new[56]	_	_
+20-4	_	Jenna	abstract[56]	new[56]	_	_
+20-5	_	Marbles	abstract[56]	new[56]	_	_
+20-6	_	"	abstract[56]	new[56]	_	_
 20-7	_	comes	_	_	_	_
 20-8	_	from	_	_	_	_
-20-9	_	her	abstract[56]	new[56]	coref	20-26[56_57]
+20-9	_	her	abstract[58]	new[58]	coref	20-26[58_59]
 20-10	_	mother	_	_	_	_
 20-11	_	's	_	_	_	_
 20-12	_	complaint	_	_	_	_
@@ -496,25 +496,25 @@
 20-22	_	pulled	_	_	_	_
 20-23	_	up	_	_	_	_
 20-24	_	only	_	_	_	_
-20-25	_	Jenna	abstract[57]	new[57]	coref	21-1[57_58]
-20-26	_	's	abstract[57]	new[57]	_	_
+20-25	_	Jenna	abstract[59]	new[59]	coref	21-1[59_60]
+20-26	_	's	abstract[59]	new[59]	_	_
 20-27	_	videos	_	_	_	_
 20-28	_	on	_	_	_	_
 20-29	_	Google	_	_	_	_
 20-30	_	.	_	_	_	_
 
 #Text=Jenna 's mother was unemployed at the time that Jenna 's first video went viral , and was concerned that their content might put off potential employers . [ 7 ]
-21-1	_	Jenna	abstract[58]|abstract[102]	new[58]|new[102]	coref|coref	21-10[58_59]|31-30[102_103]
-21-2	_	's	abstract[58]|abstract[102]	new[58]|new[102]	_	_
-21-3	_	mother	abstract[102]	new[102]	_	_
+21-1	_	Jenna	abstract[60]|abstract[104]	new[60]|new[104]	coref|coref	21-10[60_61]|31-30[104_105]
+21-2	_	's	abstract[60]|abstract[104]	new[60]|new[104]	_	_
+21-3	_	mother	abstract[104]	new[104]	_	_
 21-4	_	was	_	_	_	_
 21-5	_	unemployed	_	_	_	_
 21-6	_	at	_	_	_	_
 21-7	_	the	_	_	_	_
 21-8	_	time	_	_	_	_
 21-9	_	that	_	_	_	_
-21-10	_	Jenna	abstract[59]	new[59]	coref	22-8[59_60]
-21-11	_	's	abstract[59]	new[59]	_	_
+21-10	_	Jenna	abstract[61]	new[61]	coref	22-8[61_62]
+21-11	_	's	abstract[61]	new[61]	_	_
 21-12	_	first	_	_	_	_
 21-13	_	video	_	_	_	_
 21-14	_	went	_	_	_	_
@@ -537,19 +537,19 @@
 21-31	_	]	_	_	_	_
 
 #Text=The name " Marbles " comes from her dog " Mr. Marbles " .
-22-1	_	The	abstract[55]	new[55]	_	_
-22-2	_	name	abstract[55]	new[55]	_	_
-22-3	_	"	abstract[55]	new[55]	_	_
-22-4	_	Marbles	abstract[55]	new[55]	_	_
-22-5	_	"	abstract[55]	new[55]	_	_
+22-1	_	The	abstract[57]	new[57]	_	_
+22-2	_	name	abstract[57]	new[57]	_	_
+22-3	_	"	abstract[57]	new[57]	_	_
+22-4	_	Marbles	abstract[57]	new[57]	_	_
+22-5	_	"	abstract[57]	new[57]	_	_
 22-6	_	comes	_	_	_	_
 22-7	_	from	_	_	_	_
-22-8	_	her	abstract[60]|abstract[113]	new[60]|new[113]	coref|coref	23-6[60_61]|36-12[113_114]
-22-9	_	dog	abstract[113]	new[113]	_	_
-22-10	_	"	abstract[113]	new[113]	_	_
-22-11	_	Mr.	abstract[113]	new[113]	_	_
-22-12	_	Marbles	abstract[113]	new[113]	_	_
-22-13	_	"	abstract[113]	new[113]	_	_
+22-8	_	her	abstract[62]|abstract[115]	new[62]|new[115]	coref|coref	23-6[62_63]|36-12[115_116]
+22-9	_	dog	abstract[115]	new[115]	_	_
+22-10	_	"	abstract[115]	new[115]	_	_
+22-11	_	Mr.	abstract[115]	new[115]	_	_
+22-12	_	Marbles	abstract[115]	new[115]	_	_
+22-13	_	"	abstract[115]	new[115]	_	_
 22-14	_	.	_	_	_	_
 
 #Text=As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views . [ 15 ] [ 16 ]
@@ -558,8 +558,8 @@
 23-3	_	January	_	_	_	_
 23-4	_	2019	_	_	_	_
 23-5	_	,	_	_	_	_
-23-6	_	Marbles	abstract[61]	new[61]	coref	24-1[61_62]
-23-7	_	's	abstract[61]	new[61]	_	_
+23-6	_	Marbles	abstract[63]	new[63]	coref	24-1[63_64]
+23-7	_	's	abstract[63]	new[63]	_	_
 23-8	_	YouTube	abstract[17]	new[17]	coref	26-15[17_18]
 23-9	_	channel	_	_	_	_
 23-10	_	had	_	_	_	_
@@ -581,10 +581,10 @@
 23-26	_	]	_	_	_	_
 
 #Text=Marbles appeared as Eve in season 2 of Epic Rap Battles of History , episode 13 , " Adam vs. Eve " [ 17 ]
-24-1	_	Marbles	abstract[62]	new[62]	coref	25-1[62_63]
+24-1	_	Marbles	abstract[64]	new[64]	coref	25-1[64_65]
 24-2	_	appeared	_	_	_	_
 24-3	_	as	_	_	_	_
-24-4	_	Eve	abstract[86]	new[86]	coref	24-21[86_87]
+24-4	_	Eve	abstract[88]	new[88]	coref	24-21[88_89]
 24-5	_	in	_	_	_	_
 24-6	_	season	_	_	_	_
 24-7	_	2	_	_	_	_
@@ -601,14 +601,14 @@
 24-18	_	"	_	_	_	_
 24-19	_	Adam	_	_	_	_
 24-20	_	vs.	_	_	_	_
-24-21	_	Eve	abstract[87]	new[87]	_	_
+24-21	_	Eve	abstract[89]	new[89]	_	_
 24-22	_	"	_	_	_	_
 24-23	_	[	_	_	_	_
 24-24	_	17	_	_	_	_
 24-25	_	]	_	_	_	_
 
 #Text=She played a banana in The Annoying Orange episode " Fake n' Bacon " .
-25-1	_	She	abstract[63]	new[63]	coref	26-1[63_64]
+25-1	_	She	abstract[65]	new[65]	coref	26-1[65_66]
 25-2	_	played	_	_	_	_
 25-3	_	a	_	_	_	_
 25-4	_	banana	_	_	_	_
@@ -625,7 +625,7 @@
 25-15	_	.	_	_	_	_
 
 #Text=She played Miley Cyrus in a " Wrecking Ball " - inspired segment of YouTube Rewind 2013 .
-26-1	_	She	abstract[64]	new[64]	coref	27-7[64_65]
+26-1	_	She	abstract[66]	new[66]	coref	27-7[66_67]
 26-2	_	played	_	_	_	_
 26-3	_	Miley	_	_	_	_
 26-4	_	Cyrus	_	_	_	_
@@ -651,7 +651,7 @@
 27-4	_	,	_	_	_	_
 27-5	_	2014	_	_	_	_
 27-6	_	,	_	_	_	_
-27-7	_	she	abstract[65]	new[65]	coref	28-1[65_66]
+27-7	_	she	abstract[67]	new[67]	coref	28-1[67_68]
 27-8	_	appeared	_	_	_	_
 27-9	_	in	_	_	_	_
 27-10	_	season	_	_	_	_
@@ -661,10 +661,10 @@
 27-14	_	.	_	_	_	_
 
 #Text=Marbles appeared as herself in Smosh : The Movie . [ 18 ]
-28-1	_	Marbles	abstract[66]	new[66]	coref	28-4[66_67]
+28-1	_	Marbles	abstract[68]	new[68]	coref	28-4[68_69]
 28-2	_	appeared	_	_	_	_
 28-3	_	as	_	_	_	_
-28-4	_	herself	abstract[67]	new[67]	coref	29-4[67_68]
+28-4	_	herself	abstract[69]	new[69]	coref	29-4[69_70]
 28-5	_	in	_	_	_	_
 28-6	_	Smosh	_	_	_	_
 28-7	_	:	_	_	_	_
@@ -679,22 +679,22 @@
 29-1	_	In	_	_	_	_
 29-2	_	2015	_	_	_	_
 29-3	_	,	_	_	_	_
-29-4	_	Marbles	abstract[68]	new[68]	coref	29-10[68_69]
+29-4	_	Marbles	abstract[70]	new[70]	coref	29-10[70_71]
 29-5	_	unveiled	_	_	_	_
-29-6	_	a	abstract[98]	new[98]	coref	30-17[98_99]
-29-7	_	wax	abstract[98]	new[98]	_	_
-29-8	_	figure	abstract[98]	new[98]	_	_
-29-9	_	of	abstract[98]	new[98]	_	_
-29-10	_	herself	abstract[69]|abstract[98]	new[69]|new[98]	coref	30-1[69_70]
+29-6	_	a	abstract[100]	new[100]	coref	30-17[100_101]
+29-7	_	wax	abstract[100]	new[100]	_	_
+29-8	_	figure	abstract[100]	new[100]	_	_
+29-9	_	of	abstract[100]	new[100]	_	_
+29-10	_	herself	abstract[71]|abstract[100]	new[71]|new[100]	coref	30-1[71_72]
 29-11	_	at	_	_	_	_
-29-12	_	Madame	abstract[89]|abstract[92]	new[89]|new[92]	coref|coref	30-12[89_90]|30-12[92_93]
-29-13	_	Tussauds	abstract[89]|abstract[92]	new[89]|new[92]	_	_
-29-14	_	New	abstract[92]|abstract[96]	new[92]|new[96]	coref	30-14[96_97]
-29-15	_	York	abstract[92]|abstract[96]	new[92]|new[96]	_	_
+29-12	_	Madame	abstract[91]|abstract[94]	new[91]|new[94]	coref|coref	30-12[91_92]|30-12[94_95]
+29-13	_	Tussauds	abstract[91]|abstract[94]	new[91]|new[94]	_	_
+29-14	_	New	abstract[94]|abstract[98]	new[94]|new[98]	coref	30-14[98_99]
+29-15	_	York	abstract[94]|abstract[98]	new[94]|new[98]	_	_
 29-16	_	.	_	_	_	_
 
 #Text=She was the first ever YouTube star to be immortalized at Madame Tussauds New York and her figure is the first selfie - taking wax figure at this location . [ 19 ]
-30-1	_	She	abstract[70]	new[70]	coref	30-17[70_71]
+30-1	_	She	abstract[72]	new[72]	coref	30-17[72_73]
 30-2	_	was	_	_	_	_
 30-3	_	the	_	_	_	_
 30-4	_	first	_	_	_	_
@@ -705,13 +705,13 @@
 30-9	_	be	_	_	_	_
 30-10	_	immortalized	_	_	_	_
 30-11	_	at	_	_	_	_
-30-12	_	Madame	abstract[90]|abstract[93]	new[90]|new[93]	coref	30-28[93_94]
-30-13	_	Tussauds	abstract[90]|abstract[93]	new[90]|new[93]	_	_
-30-14	_	New	abstract[93]|abstract[97]	new[93]|new[97]	_	_
-30-15	_	York	abstract[93]|abstract[97]	new[93]|new[97]	_	_
+30-12	_	Madame	abstract[92]|abstract[95]	new[92]|new[95]	coref	30-28[95_96]
+30-13	_	Tussauds	abstract[92]|abstract[95]	new[92]|new[95]	_	_
+30-14	_	New	abstract[95]|abstract[99]	new[95]|new[99]	_	_
+30-15	_	York	abstract[95]|abstract[99]	new[95]|new[99]	_	_
 30-16	_	and	_	_	_	_
-30-17	_	her	abstract[71]|abstract[99]	new[71]|new[99]	coref	31-1[71_72]
-30-18	_	figure	abstract[99]	new[99]	_	_
+30-17	_	her	abstract[73]|abstract[101]	new[73]|new[101]	coref	31-1[73_74]
+30-18	_	figure	abstract[101]	new[101]	_	_
 30-19	_	is	_	_	_	_
 30-20	_	the	_	_	_	_
 30-21	_	first	_	_	_	_
@@ -721,25 +721,25 @@
 30-25	_	wax	_	_	_	_
 30-26	_	figure	_	_	_	_
 30-27	_	at	_	_	_	_
-30-28	_	this	abstract[94]	new[94]	_	_
-30-29	_	location	abstract[94]	new[94]	_	_
+30-28	_	this	abstract[96]	new[96]	_	_
+30-29	_	location	abstract[96]	new[96]	_	_
 30-30	_	.	_	_	_	_
 30-31	_	[	_	_	_	_
 30-32	_	19	_	_	_	_
 30-33	_	]	_	_	_	_
 
 #Text=Marbles has also professionalized her business affairs by expanding her business and bringing in people to help , including , a personal assistant , a business manager , and her mother ( the chief executive officer ) . [ 8 ]
-31-1	_	Marbles	abstract[72]	new[72]	coref	31-5[72_73]
+31-1	_	Marbles	abstract[74]	new[74]	coref	31-5[74_75]
 31-2	_	has	_	_	_	_
 31-3	_	also	_	_	_	_
 31-4	_	professionalized	_	_	_	_
-31-5	_	her	abstract[73]|abstract[100]	new[73]|new[100]	coref|coref	31-10[73_74]|31-10[100_101]
-31-6	_	business	abstract[100]	new[100]	_	_
-31-7	_	affairs	abstract[100]	new[100]	_	_
+31-5	_	her	abstract[75]|abstract[102]	new[75]|new[102]	coref|coref	31-10[75_76]|31-10[102_103]
+31-6	_	business	abstract[102]	new[102]	_	_
+31-7	_	affairs	abstract[102]	new[102]	_	_
 31-8	_	by	_	_	_	_
 31-9	_	expanding	_	_	_	_
-31-10	_	her	abstract[74]|abstract[101]	new[74]|new[101]	coref	31-30[74_75]
-31-11	_	business	abstract[101]	new[101]	_	_
+31-10	_	her	abstract[76]|abstract[103]	new[76]|new[103]	coref	31-30[76_77]
+31-11	_	business	abstract[103]	new[103]	_	_
 31-12	_	and	_	_	_	_
 31-13	_	bringing	_	_	_	_
 31-14	_	in	_	_	_	_
@@ -758,35 +758,35 @@
 31-27	_	manager	_	_	_	_
 31-28	_	,	_	_	_	_
 31-29	_	and	_	_	_	_
-31-30	_	her	abstract[75]|abstract[103]	new[75]|new[103]	coref	32-1[75_76]
-31-31	_	mother	abstract[103]	new[103]	_	_
-31-32	_	(	abstract[103]	new[103]	_	_
-31-33	_	the	abstract[103]	new[103]	_	_
-31-34	_	chief	abstract[103]	new[103]	_	_
-31-35	_	executive	abstract[103]	new[103]	_	_
-31-36	_	officer	abstract[103]	new[103]	_	_
-31-37	_	)	abstract[103]	new[103]	_	_
+31-30	_	her	abstract[77]|abstract[105]	new[77]|new[105]	coref	32-1[77_78]
+31-31	_	mother	abstract[105]	new[105]	_	_
+31-32	_	(	abstract[105]	new[105]	_	_
+31-33	_	the	abstract[105]	new[105]	_	_
+31-34	_	chief	abstract[105]	new[105]	_	_
+31-35	_	executive	abstract[105]	new[105]	_	_
+31-36	_	officer	abstract[105]	new[105]	_	_
+31-37	_	)	abstract[105]	new[105]	_	_
 31-38	_	.	_	_	_	_
 31-39	_	[	_	_	_	_
 31-40	_	8	_	_	_	_
 31-41	_	]	_	_	_	_
 
 #Text=Marbles does a weekly podcast with her boyfriend Julien Solomita called " The Jenna Julien Podcast " ( formerly called " The Jenna and Julien Podcast " ) .
-32-1	_	Marbles	abstract[76]	new[76]	coref	32-7[76_77]
+32-1	_	Marbles	abstract[78]	new[78]	coref	32-7[78_79]
 32-2	_	does	_	_	_	_
 32-3	_	a	_	_	_	_
 32-4	_	weekly	_	_	_	_
 32-5	_	podcast	_	_	_	_
 32-6	_	with	_	_	_	_
-32-7	_	her	abstract[77]|abstract[104]	new[77]|new[104]	coref|coref	32-14[77_78]|32-15[104_105]
-32-8	_	boyfriend	abstract[104]	new[104]	_	_
-32-9	_	Julien	abstract[104]	new[104]	_	_
-32-10	_	Solomita	abstract[104]	new[104]	_	_
+32-7	_	her	abstract[79]|abstract[106]	new[79]|new[106]	coref|coref	32-14[79_80]|32-15[106_107]
+32-8	_	boyfriend	abstract[106]	new[106]	_	_
+32-9	_	Julien	abstract[106]	new[106]	_	_
+32-10	_	Solomita	abstract[106]	new[106]	_	_
 32-11	_	called	_	_	_	_
 32-12	_	"	_	_	_	_
 32-13	_	The	_	_	_	_
-32-14	_	Jenna	abstract[78]	new[78]	coref	32-23[78_79]
-32-15	_	Julien	abstract[105]	new[105]	coref	32-25[105_106]
+32-14	_	Jenna	abstract[80]	new[80]	coref	32-23[80_81]
+32-15	_	Julien	abstract[107]	new[107]	coref	32-25[107_108]
 32-16	_	Podcast	_	_	_	_
 32-17	_	"	_	_	_	_
 32-18	_	(	_	_	_	_
@@ -794,9 +794,9 @@
 32-20	_	called	_	_	_	_
 32-21	_	"	_	_	_	_
 32-22	_	The	_	_	_	_
-32-23	_	Jenna	abstract[79]|abstract[108]	new[79]|new[108]	coref|coref	36-1[79_80]|34-1[108_109]
-32-24	_	and	abstract[108]	new[108]	_	_
-32-25	_	Julien	abstract[106]|abstract[108]	new[106]|new[108]	coref	43-8[106_107]
+32-23	_	Jenna	abstract[81]|abstract[110]	new[81]|new[110]	coref|coref	36-1[81_82]|34-1[110_111]
+32-24	_	and	abstract[110]	new[110]	_	_
+32-25	_	Julien	abstract[108]|abstract[110]	new[108]|new[110]	coref	43-8[108_109]
 32-26	_	Podcast	_	_	_	_
 32-27	_	"	_	_	_	_
 32-28	_	)	_	_	_	_
@@ -821,7 +821,7 @@
 33-16	_	.	_	_	_	_
 
 #Text=They sometimes feature other YouTubers as guests on their podcast , including Shane Dawson . [ 20 ]
-34-1	_	They	abstract[109]	new[109]	coref	34-9[109_110]
+34-1	_	They	abstract[111]	new[111]	coref	34-9[111_112]
 34-2	_	sometimes	_	_	_	_
 34-3	_	feature	_	_	_	_
 34-4	_	other	_	_	_	_
@@ -829,7 +829,7 @@
 34-6	_	as	_	_	_	_
 34-7	_	guests	_	_	_	_
 34-8	_	on	_	_	_	_
-34-9	_	their	abstract[110]	new[110]	coref	43-16[110_111]
+34-9	_	their	abstract[112]	new[112]	coref	43-16[112_113]
 34-10	_	podcast	_	_	_	_
 34-11	_	,	_	_	_	_
 34-12	_	including	_	_	_	_
@@ -845,30 +845,30 @@
 35-2	_	ventures	_	_	_	_
 
 #Text=Marbles released a brand of dog toys called Kermie Worm & Mr. Marbles .
-36-1	_	Marbles	abstract[80]	new[80]	coref	37-8[80_81]
+36-1	_	Marbles	abstract[82]	new[82]	coref	37-8[82_83]
 36-2	_	released	_	_	_	_
 36-3	_	a	_	_	_	_
 36-4	_	brand	_	_	_	_
 36-5	_	of	_	_	_	_
-36-6	_	dog	abstract[115]	new[115]	coref	37-1[115_116]
-36-7	_	toys	abstract[115]	new[115]	_	_
-36-8	_	called	abstract[115]	new[115]	_	_
-36-9	_	Kermie	abstract[115]	new[115]	_	_
-36-10	_	Worm	abstract[115]	new[115]	_	_
-36-11	_	&	abstract[115]	new[115]	_	_
-36-12	_	Mr.	abstract[114]|abstract[115]	new[114]|new[115]	_	_
-36-13	_	Marbles	abstract[114]|abstract[115]	new[114]|new[115]	_	_
+36-6	_	dog	abstract[117]	new[117]	coref	37-1[117_118]
+36-7	_	toys	abstract[117]	new[117]	_	_
+36-8	_	called	abstract[117]	new[117]	_	_
+36-9	_	Kermie	abstract[117]	new[117]	_	_
+36-10	_	Worm	abstract[117]	new[117]	_	_
+36-11	_	&	abstract[117]	new[117]	_	_
+36-12	_	Mr.	abstract[116]|abstract[117]	new[116]|new[117]	_	_
+36-13	_	Marbles	abstract[116]|abstract[117]	new[116]|new[117]	_	_
 36-14	_	.	_	_	_	_
 
 #Text=The toys ' appearances are based upon her real dogs . [ 7 ]
-37-1	_	The	abstract[116]	new[116]	_	_
-37-2	_	toys	abstract[116]	new[116]	_	_
-37-3	_	'	abstract[116]	new[116]	_	_
+37-1	_	The	abstract[118]	new[118]	_	_
+37-2	_	toys	abstract[118]	new[118]	_	_
+37-3	_	'	abstract[118]	new[118]	_	_
 37-4	_	appearances	_	_	_	_
 37-5	_	are	_	_	_	_
 37-6	_	based	_	_	_	_
 37-7	_	upon	_	_	_	_
-37-8	_	her	abstract[81]	new[81]	coref	38-1[81_82]
+37-8	_	her	abstract[83]	new[83]	coref	38-1[83_84]
 37-9	_	real	_	_	_	_
 37-10	_	dogs	_	_	_	_
 37-11	_	.	_	_	_	_
@@ -877,7 +877,7 @@
 37-14	_	]	_	_	_	_
 
 #Text=She has also created items with some of her most memorable quotes printed on them ( e.g. " what are this " ) .
-38-1	_	She	abstract[82]	new[82]	coref	38-9[82_83]
+38-1	_	She	abstract[84]	new[84]	coref	38-9[84_85]
 38-2	_	has	_	_	_	_
 38-3	_	also	_	_	_	_
 38-4	_	created	_	_	_	_
@@ -885,7 +885,7 @@
 38-6	_	with	_	_	_	_
 38-7	_	some	_	_	_	_
 38-8	_	of	_	_	_	_
-38-9	_	her	abstract[83]	new[83]	coref	39-1[83_84]
+38-9	_	her	abstract[85]	new[85]	coref	39-1[85_86]
 38-10	_	most	_	_	_	_
 38-11	_	memorable	_	_	_	_
 38-12	_	quotes	_	_	_	_
@@ -903,7 +903,7 @@
 38-24	_	.	_	_	_	_
 
 #Text=Marbles also hosts a weekly pop countdown on SiriusXM Hits 1 called " YouTube 15 " . [ 21 ] [ 22 ]
-39-1	_	Marbles	abstract[84]	new[84]	coref	40-5[84_85]
+39-1	_	Marbles	abstract[86]	new[86]	coref	40-5[86_87]
 39-2	_	also	_	_	_	_
 39-3	_	hosts	_	_	_	_
 39-4	_	a	_	_	_	_
@@ -916,7 +916,7 @@
 39-11	_	1	_	_	_	_
 39-12	_	called	_	_	_	_
 39-13	_	"	_	_	_	_
-39-14	_	YouTube	abstract[20]	new[20]	coref	44-2[20_21]
+39-14	_	YouTube	abstract[20]	new[20]	coref	44-16[20_21]
 39-15	_	15	_	_	_	_
 39-16	_	"	_	_	_	_
 39-17	_	.	_	_	_	_
@@ -931,30 +931,30 @@
 40-1	_	In	_	_	_	_
 40-2	_	2016	_	_	_	_
 40-3	_	,	_	_	_	_
-40-4	_	Marbles	abstract[85]	new[85]	_	_
+40-4	_	Marbles	abstract[87]	new[87]	_	_
 40-5	_	became	_	_	_	_
-40-6	_	an	abstract[117]	new[117]	coref	42-4[117_118]
-40-7	_	executive	abstract[117]	new[117]	_	_
-40-8	_	producer	abstract[117]	new[117]	_	_
-40-9	_	for	abstract[117]	new[117]	_	_
-40-10	_	Maximum	abstract[117]	new[117]	_	_
-40-11	_	Ride	abstract[117]	new[117]	_	_
-40-12	_	,	abstract[117]	new[117]	_	_
-40-13	_	a	abstract[117]	new[117]	_	_
-40-14	_	film	abstract[117]	new[117]	_	_
-40-15	_	based	abstract[117]	new[117]	_	_
-40-16	_	on	abstract[117]	new[117]	_	_
-40-17	_	the	abstract[117]	new[117]	_	_
-40-18	_	series	abstract[117]	new[117]	_	_
-40-19	_	of	abstract[117]	new[117]	_	_
-40-20	_	novels	abstract[117]	new[117]	_	_
-40-21	_	of	abstract[117]	new[117]	_	_
-40-22	_	the	abstract[117]	new[117]	_	_
-40-23	_	same	abstract[117]	new[117]	_	_
-40-24	_	name	abstract[117]	new[117]	_	_
-40-25	_	by	abstract[117]	new[117]	_	_
-40-26	_	James	abstract[117]	new[117]	_	_
-40-27	_	Patterson	abstract[117]	new[117]	_	_
+40-6	_	an	abstract[119]	new[119]	coref	42-4[119_120]
+40-7	_	executive	abstract[119]	new[119]	_	_
+40-8	_	producer	abstract[119]	new[119]	_	_
+40-9	_	for	abstract[119]	new[119]	_	_
+40-10	_	Maximum	abstract[119]	new[119]	_	_
+40-11	_	Ride	abstract[119]	new[119]	_	_
+40-12	_	,	abstract[119]	new[119]	_	_
+40-13	_	a	abstract[119]	new[119]	_	_
+40-14	_	film	abstract[119]	new[119]	_	_
+40-15	_	based	abstract[119]	new[119]	_	_
+40-16	_	on	abstract[119]	new[119]	_	_
+40-17	_	the	abstract[119]	new[119]	_	_
+40-18	_	series	abstract[119]	new[119]	_	_
+40-19	_	of	abstract[119]	new[119]	_	_
+40-20	_	novels	abstract[119]	new[119]	_	_
+40-21	_	of	abstract[119]	new[119]	_	_
+40-22	_	the	abstract[119]	new[119]	_	_
+40-23	_	same	abstract[119]	new[119]	_	_
+40-24	_	name	abstract[119]	new[119]	_	_
+40-25	_	by	abstract[119]	new[119]	_	_
+40-26	_	James	abstract[119]	new[119]	_	_
+40-27	_	Patterson	abstract[119]	new[119]	_	_
 40-28	_	.	_	_	_	_
 40-29	_	[	_	_	_	_
 40-30	_	23	_	_	_	_
@@ -968,13 +968,13 @@
 42-1	_	In	_	_	_	_
 42-2	_	2015	_	_	_	_
 42-3	_	,	_	_	_	_
-42-4	_	Marbles	abstract[118]	new[118]	coref	42-6[118_119]
+42-4	_	Marbles	abstract[120]	new[120]	coref	42-6[120_121]
 42-5	_	became	_	_	_	_
-42-6	_	a	abstract[119]	new[119]	coref	43-1[119_120]
-42-7	_	full	abstract[119]	new[119]	_	_
-42-8	_	-	abstract[119]	new[119]	_	_
-42-9	_	time	abstract[119]	new[119]	_	_
-42-10	_	vegan	abstract[119]	new[119]	_	_
+42-6	_	a	abstract[121]	new[121]	coref	43-1[121_122]
+42-7	_	full	abstract[121]	new[121]	_	_
+42-8	_	-	abstract[121]	new[121]	_	_
+42-9	_	time	abstract[121]	new[121]	_	_
+42-10	_	vegan	abstract[121]	new[121]	_	_
 42-11	_	.	_	_	_	_
 42-12	_	[	_	_	_	_
 42-13	_	24	_	_	_	_
@@ -984,29 +984,29 @@
 42-17	_	]	_	_	_	_
 
 #Text=Marbles has been in a relationship with fellow YouTuber Julien Solomita since 2013 , and the two live together in California with their four dogs , Marbles , Kermit , Peach and Bunny , who regularly appear in her videos . [ 26 ]
-43-1	_	Marbles	abstract[120]	new[120]	coref	43-39[120_121]
+43-1	_	Marbles	abstract[122]	new[122]	coref	43-39[122_123]
 43-2	_	has	_	_	_	_
 43-3	_	been	_	_	_	_
 43-4	_	in	_	_	_	_
 43-5	_	a	_	_	_	_
 43-6	_	relationship	_	_	_	_
 43-7	_	with	_	_	_	_
-43-8	_	fellow	abstract[107]	new[107]	_	_
-43-9	_	YouTuber	abstract[107]	new[107]	_	_
-43-10	_	Julien	abstract[107]	new[107]	_	_
-43-11	_	Solomita	abstract[107]	new[107]	_	_
+43-8	_	fellow	abstract[109]	new[109]	_	_
+43-9	_	YouTuber	abstract[109]	new[109]	_	_
+43-10	_	Julien	abstract[109]	new[109]	_	_
+43-11	_	Solomita	abstract[109]	new[109]	_	_
 43-12	_	since	_	_	_	_
 43-13	_	2013	_	_	_	_
 43-14	_	,	_	_	_	_
 43-15	_	and	_	_	_	_
-43-16	_	the	abstract[111]	new[111]	coref	43-23[111_112]
-43-17	_	two	abstract[111]	new[111]	_	_
+43-16	_	the	abstract[113]	new[113]	coref	43-23[113_114]
+43-17	_	two	abstract[113]	new[113]	_	_
 43-18	_	live	_	_	_	_
 43-19	_	together	_	_	_	_
 43-20	_	in	_	_	_	_
 43-21	_	California	_	_	_	_
 43-22	_	with	_	_	_	_
-43-23	_	their	abstract[112]	new[112]	_	_
+43-23	_	their	abstract[114]	new[114]	_	_
 43-24	_	four	_	_	_	_
 43-25	_	dogs	_	_	_	_
 43-26	_	,	_	_	_	_
@@ -1022,23 +1022,69 @@
 43-36	_	regularly	_	_	_	_
 43-37	_	appear	_	_	_	_
 43-38	_	in	_	_	_	_
-43-39	_	her	abstract[121]	new[121]	_	_
+43-39	_	her	abstract[123]	new[123]	_	_
 43-40	_	videos	_	_	_	_
 43-41	_	.	_	_	_	_
 43-42	_	[	_	_	_	_
 43-43	_	26	_	_	_	_
 43-44	_	]	_	_	_	_
 
-#Text=The YouTube voice of beauty and social celebrity Jenna Marbles .
-44-1	_	The	_	_	_	_
-44-2	_	YouTube	abstract[21]	new[21]	_	_
-44-3	_	voice	_	_	_	_
-44-4	_	of	_	_	_	_
-44-5	_	beauty	_	_	_	_
-44-6	_	and	_	_	_	_
-44-7	_	social	_	_	_	_
-44-8	_	celebrity	_	_	_	_
-44-9	_	Jenna	_	_	_	_
-44-10	_	Marbles	_	_	_	_
-44-11	_	.	_	_	_	_
+#Text=Jenna Nicole Mourey , better known as Jenna Marbles , is a very successful American YouTube personality , vlogger , comedian and actress , known for her videos """" How To Trick People Into Thinking You 're Good Looking """" and """" How To Avoid Talking To People You Do n't Want To Talk To """" .
+44-1	_	Jenna	abstract[124]	new[124]	coref	44-27[124_125]
+44-2	_	Nicole	abstract[124]	new[124]	_	_
+44-3	_	Mourey	abstract[124]	new[124]	_	_
+44-4	_	,	abstract[124]	new[124]	_	_
+44-5	_	better	abstract[124]	new[124]	_	_
+44-6	_	known	abstract[124]	new[124]	_	_
+44-7	_	as	abstract[124]	new[124]	_	_
+44-8	_	Jenna	abstract[124]	new[124]	_	_
+44-9	_	Marbles	abstract[124]	new[124]	_	_
+44-10	_	,	_	_	_	_
+44-11	_	is	_	_	_	_
+44-12	_	a	_	_	_	_
+44-13	_	very	_	_	_	_
+44-14	_	successful	_	_	_	_
+44-15	_	American	_	_	_	_
+44-16	_	YouTube	abstract[21]	new[21]	_	_
+44-17	_	personality	_	_	_	_
+44-18	_	,	_	_	_	_
+44-19	_	vlogger	_	_	_	_
+44-20	_	,	_	_	_	_
+44-21	_	comedian	_	_	_	_
+44-22	_	and	_	_	_	_
+44-23	_	actress	_	_	_	_
+44-24	_	,	_	_	_	_
+44-25	_	known	_	_	_	_
+44-26	_	for	_	_	_	_
+44-27	_	her	abstract[125]	new[125]	_	_
+44-28	_	videos	_	_	_	_
+44-29	_	""""	_	_	_	_
+44-30	_	How	_	_	_	_
+44-31	_	To	_	_	_	_
+44-32	_	Trick	_	_	_	_
+44-33	_	People	_	_	_	_
+44-34	_	Into	_	_	_	_
+44-35	_	Thinking	_	_	_	_
+44-36	_	You	abstract[50]	new[50]	coref	44-49[50_51]
+44-37	_	're	_	_	_	_
+44-38	_	Good	_	_	_	_
+44-39	_	Looking	_	_	_	_
+44-40	_	""""	_	_	_	_
+44-41	_	and	_	_	_	_
+44-42	_	""""	_	_	_	_
+44-43	_	How	_	_	_	_
+44-44	_	To	_	_	_	_
+44-45	_	Avoid	_	_	_	_
+44-46	_	Talking	_	_	_	_
+44-47	_	To	_	_	_	_
+44-48	_	People	_	_	_	_
+44-49	_	You	abstract[51]	new[51]	_	_
+44-50	_	Do	_	_	_	_
+44-51	_	n't	_	_	_	_
+44-52	_	Want	_	_	_	_
+44-53	_	To	_	_	_	_
+44-54	_	Talk	_	_	_	_
+44-55	_	To	_	_	_	_
+44-56	_	""""	_	_	_	_
+44-57	_	.	_	_	_	_
 

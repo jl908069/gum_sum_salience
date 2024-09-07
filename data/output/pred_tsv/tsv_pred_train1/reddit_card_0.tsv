@@ -676,7 +676,7 @@
 
 #Text=Or equifax .
 46-1	_	Or	_	_	_	_
-46-2	_	equifax	_	_	_	_
+46-2	_	equifax	abstract[95]	new[95]	coref	51-60[95_96]
 46-3	_	.	_	_	_	_
 
 #Text=Or any of the massive thefts that basically affected a third or more of the country .
@@ -759,15 +759,68 @@
 50-10	_	it	abstract[83]	new[83]	_	_
 50-11	_	.	_	_	_	_
 
-#Text=This Monday , at 7 pm , at work .
-51-1	_	This	_	_	_	_
-51-2	_	Monday	_	_	_	_
-51-3	_	,	_	_	_	_
-51-4	_	at	_	_	_	_
-51-5	_	7	_	_	_	_
-51-6	_	pm	_	_	_	_
-51-7	_	,	_	_	_	_
-51-8	_	at	_	_	_	_
-51-9	_	work	_	_	_	_
-51-10	_	.	_	_	_	_
+#Text=One person recounts hearing a woman reading her credit card number loudly in public over the phone , prompting a discussion about people 's laxness with credit card data , such as expecting call center workers to have access to credit card numbers , as well as a number of security breaches at major companies including Capital One , Equifax and Sony .
+51-1	_	One	abstract[93]	new[93]	coref	51-8[93_94]
+51-2	_	person	abstract[93]	new[93]	_	_
+51-3	_	recounts	_	_	_	_
+51-4	_	hearing	_	_	_	_
+51-5	_	a	_	_	_	_
+51-6	_	woman	_	_	_	_
+51-7	_	reading	_	_	_	_
+51-8	_	her	abstract[94]	new[94]	_	_
+51-9	_	credit	_	_	_	_
+51-10	_	card	_	_	_	_
+51-11	_	number	_	_	_	_
+51-12	_	loudly	_	_	_	_
+51-13	_	in	_	_	_	_
+51-14	_	public	_	_	_	_
+51-15	_	over	_	_	_	_
+51-16	_	the	_	_	_	_
+51-17	_	phone	_	_	_	_
+51-18	_	,	_	_	_	_
+51-19	_	prompting	_	_	_	_
+51-20	_	a	_	_	_	_
+51-21	_	discussion	_	_	_	_
+51-22	_	about	_	_	_	_
+51-23	_	people	_	_	_	_
+51-24	_	's	_	_	_	_
+51-25	_	laxness	_	_	_	_
+51-26	_	with	_	_	_	_
+51-27	_	credit	_	_	_	_
+51-28	_	card	_	_	_	_
+51-29	_	data	_	_	_	_
+51-30	_	,	_	_	_	_
+51-31	_	such	_	_	_	_
+51-32	_	as	_	_	_	_
+51-33	_	expecting	_	_	_	_
+51-34	_	call	_	_	_	_
+51-35	_	center	_	_	_	_
+51-36	_	workers	_	_	_	_
+51-37	_	to	_	_	_	_
+51-38	_	have	_	_	_	_
+51-39	_	access	_	_	_	_
+51-40	_	to	_	_	_	_
+51-41	_	credit	_	_	_	_
+51-42	_	card	_	_	_	_
+51-43	_	numbers	_	_	_	_
+51-44	_	,	_	_	_	_
+51-45	_	as	_	_	_	_
+51-46	_	well	_	_	_	_
+51-47	_	as	_	_	_	_
+51-48	_	a	_	_	_	_
+51-49	_	number	_	_	_	_
+51-50	_	of	_	_	_	_
+51-51	_	security	_	_	_	_
+51-52	_	breaches	_	_	_	_
+51-53	_	at	_	_	_	_
+51-54	_	major	_	_	_	_
+51-55	_	companies	_	_	_	_
+51-56	_	including	_	_	_	_
+51-57	_	Capital	_	_	_	_
+51-58	_	One	_	_	_	_
+51-59	_	,	_	_	_	_
+51-60	_	Equifax	abstract[96]	new[96]	_	_
+51-61	_	and	_	_	_	_
+51-62	_	Sony	_	_	_	_
+51-63	_	.	_	_	_	_
 

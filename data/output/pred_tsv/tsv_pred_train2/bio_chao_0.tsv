@@ -615,7 +615,7 @@
 #Text=He visited China again between May and June in 1981 after his wife died in March the same year .
 25-1	_	He	abstract[71]	new[71]	coref	25-12[71_72]
 25-2	_	visited	_	_	_	_
-25-3	_	China	abstract[29]	new[29]	coref	29-51[29_30]
+25-3	_	China	abstract[29]	new[29]	coref	29-3[29_30]
 25-4	_	again	_	_	_	_
 25-5	_	between	_	_	_	_
 25-6	_	May	_	_	_	_
@@ -640,7 +640,7 @@
 26-3	_	in	_	_	_	_
 26-4	_	Cambridge	_	_	_	_
 26-5	_	,	_	_	_	_
-26-6	_	Massachusetts	abstract[87]	new[87]	coref	29-21[87_88]
+26-6	_	Massachusetts	_	_	_	_
 26-7	_	.	_	_	_	_
 
 #Text=His first daughter Rulan Chao Pian ( 1922 - 2013 ) was Professor of East Asian Studies and Music at Harvard .
@@ -687,57 +687,16 @@
 28-17	_	mathematician	_	_	_	_
 28-18	_	.	_	_	_	_
 
-#Text=An 18th - century American linguist , Joseph E. Chao was born in Tianjin , now located in Boston , Massachusetts and was born in California in 1911 . He was one of the first members of the Liangsu People 's Republic of China , the first Chinese linguists in China .
-29-1	_	An	abstract[89]	new[89]	coref	29-30[89_90]
-29-2	_	18th	abstract[89]	new[89]	_	_
-29-3	_	-	abstract[89]	new[89]	_	_
-29-4	_	century	abstract[89]	new[89]	_	_
-29-5	_	American	abstract[89]	new[89]	_	_
-29-6	_	linguist	abstract[89]	new[89]	_	_
-29-7	_	,	abstract[89]	new[89]	_	_
-29-8	_	Joseph	abstract[89]	new[89]	_	_
-29-9	_	E.	abstract[89]	new[89]	_	_
-29-10	_	Chao	abstract[89]	new[89]	_	_
-29-11	_	was	_	_	_	_
-29-12	_	born	_	_	_	_
-29-13	_	in	_	_	_	_
-29-14	_	Tianjin	_	_	_	_
-29-15	_	,	_	_	_	_
-29-16	_	now	_	_	_	_
-29-17	_	located	_	_	_	_
-29-18	_	in	_	_	_	_
-29-19	_	Boston	_	_	_	_
-29-20	_	,	_	_	_	_
-29-21	_	Massachusetts	abstract[88]	new[88]	_	_
-29-22	_	and	_	_	_	_
-29-23	_	was	_	_	_	_
-29-24	_	born	_	_	_	_
-29-25	_	in	_	_	_	_
-29-26	_	California	_	_	_	_
-29-27	_	in	_	_	_	_
-29-28	_	1911	_	_	_	_
-29-29	_	.	_	_	_	_
-29-30	_	He	abstract[90]	new[90]	_	_
-29-31	_	was	_	_	_	_
-29-32	_	one	_	_	_	_
-29-33	_	of	_	_	_	_
-29-34	_	the	_	_	_	_
-29-35	_	first	_	_	_	_
-29-36	_	members	_	_	_	_
-29-37	_	of	_	_	_	_
-29-38	_	the	_	_	_	_
-29-39	_	Liangsu	_	_	_	_
-29-40	_	People	_	_	_	_
-29-41	_	's	_	_	_	_
-29-42	_	Republic	_	_	_	_
-29-43	_	of	_	_	_	_
-29-44	_	China	_	_	_	_
-29-45	_	,	_	_	_	_
-29-46	_	the	_	_	_	_
-29-47	_	first	_	_	_	_
-29-48	_	Chinese	_	_	_	_
-29-49	_	linguists	_	_	_	_
-29-50	_	in	_	_	_	_
-29-51	_	China	abstract[30]	new[30]	_	_
-29-52	_	.	_	_	_	_
+#Text=History of China , including Western European studies and languages .
+29-1	_	History	_	_	_	_
+29-2	_	of	_	_	_	_
+29-3	_	China	abstract[30]	new[30]	_	_
+29-4	_	,	_	_	_	_
+29-5	_	including	_	_	_	_
+29-6	_	Western	_	_	_	_
+29-7	_	European	_	_	_	_
+29-8	_	studies	_	_	_	_
+29-9	_	and	_	_	_	_
+29-10	_	languages	_	_	_	_
+29-11	_	.	_	_	_	_
 

@@ -14,13 +14,13 @@
 2-1	_	Three	_	_	_	_
 2-2	_	Methods	_	_	_	_
 2-3	_	:	_	_	_	_
-2-4	_	Single	abstract[51]	new[51]	coref	12-6[51_52]
-2-5	_	Serving	abstract[51]	new[51]	_	_
-2-6	_	(	abstract[51]	new[51]	_	_
-2-7	_	25	abstract[51]	new[51]	_	_
-2-8	_	mL	abstract[51]	new[51]	_	_
-2-9	_	Shot	abstract[51]	new[51]	_	_
-2-10	_	)	abstract[51]	new[51]	_	_
+2-4	_	Single	abstract[54]	new[54]	coref	12-6[54_55]
+2-5	_	Serving	abstract[54]	new[54]	_	_
+2-6	_	(	abstract[54]	new[54]	_	_
+2-7	_	25	abstract[54]	new[54]	_	_
+2-8	_	mL	abstract[54]	new[54]	_	_
+2-9	_	Shot	abstract[54]	new[54]	_	_
+2-10	_	)	abstract[54]	new[54]	_	_
 
 #Text=Bottles of " Skittled "
 3-1	_	Bottles	_	_	_	_
@@ -37,8 +37,8 @@
 
 #Text=Making Skittles vodka is a fun way to add a splash of fruity flavor and color to regular vodka .
 5-1	_	Making	_	_	_	_
-5-2	_	Skittles	abstract[2]|abstract[48]	new[2]|new[48]	coref|coref	7-6[2_3]|7-5[48_49]
-5-3	_	vodka	abstract[48]	new[48]	_	_
+5-2	_	Skittles	abstract[2]|abstract[51]	new[2]|new[51]	coref|coref	7-6[2_3]|7-5[51_52]
+5-3	_	vodka	abstract[51]	new[51]	_	_
 5-4	_	is	_	_	_	_
 5-5	_	a	_	_	_	_
 5-6	_	fun	_	_	_	_
@@ -59,18 +59,18 @@
 
 #Text=All you need to do is place your favorite combination of Skittles candies into a glass or bottle of vodka and wait for it to infuse .
 6-1	_	All	_	_	_	_
-6-2	_	you	abstract[14]	new[14]	coref	6-8[14_15]
+6-2	_	you	abstract[13]	new[13]	coref	6-8[13_14]
 6-3	_	need	_	_	_	_
 6-4	_	to	_	_	_	_
 6-5	_	do	_	_	_	_
 6-6	_	is	_	_	_	_
 6-7	_	place	_	_	_	_
-6-8	_	your	abstract[15]|abstract[46]	new[15]|new[46]	coref|coref	7-1[15_16]|6-24[46_47]
-6-9	_	favorite	abstract[46]	new[46]	_	_
-6-10	_	combination	abstract[46]	new[46]	_	_
-6-11	_	of	abstract[46]	new[46]	_	_
-6-12	_	Skittles	abstract[46]	new[46]	_	_
-6-13	_	candies	abstract[46]	new[46]	_	_
+6-8	_	your	abstract[14]|abstract[49]	new[14]|new[49]	coref|coref	7-1[14_15]|6-24[49_50]
+6-9	_	favorite	abstract[49]	new[49]	_	_
+6-10	_	combination	abstract[49]	new[49]	_	_
+6-11	_	of	abstract[49]	new[49]	_	_
+6-12	_	Skittles	abstract[49]	new[49]	_	_
+6-13	_	candies	abstract[49]	new[49]	_	_
 6-14	_	into	_	_	_	_
 6-15	_	a	_	_	_	_
 6-16	_	glass	_	_	_	_
@@ -81,19 +81,19 @@
 6-21	_	and	_	_	_	_
 6-22	_	wait	_	_	_	_
 6-23	_	for	_	_	_	_
-6-24	_	it	abstract[47]	new[47]	_	_
+6-24	_	it	abstract[50]	new[50]	_	_
 6-25	_	to	_	_	_	_
 6-26	_	infuse	_	_	_	_
 6-27	_	.	_	_	_	_
 
 #Text=You can then use your Skittles vodka to make brightly - colored cocktails or even serve it as a sugary shot !
-7-1	_	You	abstract[16]	new[16]	coref	7-5[16_17]
+7-1	_	You	abstract[15]	new[15]	coref	7-5[15_16]
 7-2	_	can	_	_	_	_
 7-3	_	then	_	_	_	_
 7-4	_	use	_	_	_	_
-7-5	_	your	abstract[17]|abstract[49]	new[17]|new[49]	coref|coref	8-14[17_18]|7-17[49_50]
-7-6	_	Skittles	abstract[3]|abstract[49]	new[3]|new[49]	coref	8-6[3_4]
-7-7	_	vodka	abstract[49]	new[49]	_	_
+7-5	_	your	abstract[16]|abstract[52]	new[16]|new[52]	coref|coref	8-14[16_17]|7-17[52_53]
+7-6	_	Skittles	abstract[3]|abstract[52]	new[3]|new[52]	coref	8-6[3_4]
+7-7	_	vodka	abstract[52]	new[52]	_	_
 7-8	_	to	_	_	_	_
 7-9	_	make	_	_	_	_
 7-10	_	brightly	_	_	_	_
@@ -103,7 +103,7 @@
 7-14	_	or	_	_	_	_
 7-15	_	even	_	_	_	_
 7-16	_	serve	_	_	_	_
-7-17	_	it	abstract[50]	new[50]	_	_
+7-17	_	it	abstract[53]	new[53]	_	_
 7-18	_	as	_	_	_	_
 7-19	_	a	_	_	_	_
 7-20	_	sugary	_	_	_	_
@@ -124,7 +124,7 @@
 8-11	_	--	_	_	_	_
 8-12	_	and	_	_	_	_
 8-13	_	soon	_	_	_	_
-8-14	_	you	abstract[18]	new[18]	coref	13-7[18_19]
+8-14	_	you	abstract[17]	new[17]	coref	13-7[17_18]
 8-15	_	'll	_	_	_	_
 8-16	_	be	_	_	_	_
 8-17	_	tasting	_	_	_	_
@@ -176,12 +176,12 @@
 12-3	_	of	_	_	_	_
 12-4	_	3	_	_	_	_
 12-5	_	:	_	_	_	_
-12-6	_	Single	abstract[52]	new[52]	_	_
-12-7	_	Serving	abstract[52]	new[52]	_	_
+12-6	_	Single	abstract[55]	new[55]	_	_
+12-7	_	Serving	abstract[55]	new[55]	_	_
 12-8	_	(	_	_	_	_
-12-9	_	25	abstract[58]	new[58]	coref	14-46[58_59]
-12-10	_	mL	abstract[58]	new[58]	_	_
-12-11	_	Shot	abstract[58]	new[58]	_	_
+12-9	_	25	abstract[61]	new[61]	coref	14-46[61_62]
+12-10	_	mL	abstract[61]	new[61]	_	_
+12-11	_	Shot	abstract[61]	new[61]	_	_
 12-12	_	)	_	_	_	_
 
 #Text=Separate the colors of Skittles that you want to flavor the vodka with .
@@ -191,7 +191,7 @@
 13-4	_	of	_	_	_	_
 13-5	_	Skittles	_	_	_	_
 13-6	_	that	_	_	_	_
-13-7	_	you	abstract[19]	new[19]	coref	14-14[19_20]
+13-7	_	you	abstract[18]	new[18]	coref	14-14[18_19]
 13-8	_	want	_	_	_	_
 13-9	_	to	_	_	_	_
 13-10	_	flavor	_	_	_	_
@@ -207,32 +207,32 @@
 14-4	_	to	_	_	_	_
 14-5	_	leave	_	_	_	_
 14-6	_	out	_	_	_	_
-14-7	_	the	abstract[55]|abstract[100]	new[55]|new[100]	coref|coref	14-32[55_56]|54-1[100_101]
-14-8	_	green	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-9	_	,	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-10	_	which	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-11	_	is	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-12	_	lime	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-13	_	if	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-14	_	you	abstract[20]|abstract[55]|abstract[100]	new[20]|new[55]|new[100]	coref	15-3[20_21]
-14-15	_	're	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-16	_	using	abstract[55]|abstract[100]	new[55]|new[100]	_	_
-14-17	_	original	abstract[53]|abstract[55]|abstract[100]	new[53]|new[55]|new[100]	coref	14-27[53_54]
-14-18	_	Skittles	abstract[53]|abstract[55]|abstract[100]	new[53]|new[55]|new[100]	_	_
-14-19	_	,	abstract[55]	new[55]	_	_
-14-20	_	and	abstract[55]	new[55]	_	_
-14-21	_	purple	abstract[55]	new[55]	_	_
-14-22	_	,	abstract[55]	new[55]	_	_
-14-23	_	which	abstract[55]	new[55]	_	_
-14-24	_	is	abstract[55]	new[55]	_	_
-14-25	_	grape	abstract[55]	new[55]	_	_
-14-26	_	in	abstract[55]	new[55]	_	_
-14-27	_	the	abstract[54]|abstract[55]	new[54]|new[55]	_	_
-14-28	_	original	abstract[54]|abstract[55]	new[54]|new[55]	_	_
-14-29	_	style	abstract[54]|abstract[55]	new[54]|new[55]	_	_
+14-7	_	the	abstract[58]|abstract[103]	new[58]|new[103]	coref|coref	14-32[58_59]|54-1[103_104]
+14-8	_	green	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-9	_	,	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-10	_	which	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-11	_	is	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-12	_	lime	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-13	_	if	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-14	_	you	abstract[19]|abstract[58]|abstract[103]	new[19]|new[58]|new[103]	coref	15-3[19_20]
+14-15	_	're	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-16	_	using	abstract[58]|abstract[103]	new[58]|new[103]	_	_
+14-17	_	original	abstract[56]|abstract[58]|abstract[103]	new[56]|new[58]|new[103]	coref	14-27[56_57]
+14-18	_	Skittles	abstract[56]|abstract[58]|abstract[103]	new[56]|new[58]|new[103]	_	_
+14-19	_	,	abstract[58]	new[58]	_	_
+14-20	_	and	abstract[58]	new[58]	_	_
+14-21	_	purple	abstract[58]	new[58]	_	_
+14-22	_	,	abstract[58]	new[58]	_	_
+14-23	_	which	abstract[58]	new[58]	_	_
+14-24	_	is	abstract[58]	new[58]	_	_
+14-25	_	grape	abstract[58]	new[58]	_	_
+14-26	_	in	abstract[58]	new[58]	_	_
+14-27	_	the	abstract[57]|abstract[58]	new[57]|new[58]	_	_
+14-28	_	original	abstract[57]|abstract[58]	new[57]|new[58]	_	_
+14-29	_	style	abstract[57]|abstract[58]	new[57]|new[58]	_	_
 14-30	_	,	_	_	_	_
 14-31	_	as	_	_	_	_
-14-32	_	they	abstract[56]	new[56]	coref	15-6[56_57]
+14-32	_	they	abstract[59]	new[59]	coref	15-6[59_60]
 14-33	_	can	_	_	_	_
 14-34	_	create	_	_	_	_
 14-35	_	a	_	_	_	_
@@ -246,34 +246,34 @@
 14-43	_	appealing	_	_	_	_
 14-44	_	color	_	_	_	_
 14-45	_	for	_	_	_	_
-14-46	_	the	abstract[59]	new[59]	_	_
-14-47	_	final	abstract[59]	new[59]	_	_
-14-48	_	product	abstract[59]	new[59]	_	_
+14-46	_	the	abstract[62]	new[62]	_	_
+14-47	_	final	abstract[62]	new[62]	_	_
+14-48	_	product	abstract[62]	new[62]	_	_
 14-49	_	.	_	_	_	_
 
 #Text=However , you can put them in if you want .
 15-1	_	However	_	_	_	_
 15-2	_	,	_	_	_	_
-15-3	_	you	abstract[21]	new[21]	coref	15-9[21_22]
+15-3	_	you	abstract[20]	new[20]	coref	15-9[20_21]
 15-4	_	can	_	_	_	_
 15-5	_	put	_	_	_	_
-15-6	_	them	abstract[57]	new[57]	_	_
+15-6	_	them	abstract[60]	new[60]	_	_
 15-7	_	in	_	_	_	_
 15-8	_	if	_	_	_	_
-15-9	_	you	abstract[22]	new[22]	coref	16-2[22_23]
+15-9	_	you	abstract[21]	new[21]	coref	16-2[21_22]
 15-10	_	want	_	_	_	_
 15-11	_	.	_	_	_	_
 
 #Text=If you do n't mind mixed flavors , you can just skip this step altogether .
 16-1	_	If	_	_	_	_
-16-2	_	you	abstract[23]	new[23]	coref	16-9[23_24]
+16-2	_	you	abstract[22]	new[22]	coref	16-9[22_23]
 16-3	_	do	_	_	_	_
 16-4	_	n't	_	_	_	_
 16-5	_	mind	_	_	_	_
 16-6	_	mixed	_	_	_	_
 16-7	_	flavors	_	_	_	_
 16-8	_	,	_	_	_	_
-16-9	_	you	abstract[24]	new[24]	coref	20-1[24_25]
+16-9	_	you	abstract[23]	new[23]	coref	20-1[23_24]
 16-10	_	can	_	_	_	_
 16-11	_	just	_	_	_	_
 16-12	_	skip	_	_	_	_
@@ -284,8 +284,8 @@
 
 #Text=Add six Skittles to 25 ml of vodka .
 17-1	_	Add	_	_	_	_
-17-2	_	six	abstract[60]	new[60]	coref	18-6[60_61]
-17-3	_	Skittles	abstract[60]	new[60]	_	_
+17-2	_	six	abstract[63]	new[63]	coref	18-6[63_64]
+17-3	_	Skittles	abstract[63]	new[63]	_	_
 17-4	_	to	_	_	_	_
 17-5	_	25	_	_	_	_
 17-6	_	ml	_	_	_	_
@@ -299,8 +299,8 @@
 18-3	_	the	_	_	_	_
 18-4	_	mixture	_	_	_	_
 18-5	_	until	_	_	_	_
-18-6	_	the	abstract[61]	new[61]	_	_
-18-7	_	Skittles	abstract[61]	new[61]	_	_
+18-6	_	the	abstract[64]	new[64]	_	_
+18-7	_	Skittles	abstract[64]	new[64]	_	_
 18-8	_	are	_	_	_	_
 18-9	_	almost	_	_	_	_
 18-10	_	completely	_	_	_	_
@@ -324,12 +324,12 @@
 19-14	_	.	_	_	_	_
 
 #Text=You should experiment to find your preferred mix before making larger bottles .
-20-1	_	You	abstract[25]	new[25]	coref	20-6[25_26]
+20-1	_	You	abstract[24]	new[24]	coref	20-6[24_25]
 20-2	_	should	_	_	_	_
 20-3	_	experiment	_	_	_	_
 20-4	_	to	_	_	_	_
 20-5	_	find	_	_	_	_
-20-6	_	your	abstract[26]	new[26]	coref	22-7[26_27]
+20-6	_	your	abstract[25]	new[25]	coref	22-7[25_26]
 20-7	_	preferred	_	_	_	_
 20-8	_	mix	_	_	_	_
 20-9	_	before	_	_	_	_
@@ -351,17 +351,17 @@
 
 #Text=With single servings like this , you can decide which flavor(s) you like best and proceed to making bottles , if you desire .
 22-1	_	With	_	_	_	_
-22-2	_	single	abstract[62]	new[62]	coref	22-5[62_63]
-22-3	_	servings	abstract[62]	new[62]	_	_
+22-2	_	single	abstract[65]	new[65]	coref	22-5[65_66]
+22-3	_	servings	abstract[65]	new[65]	_	_
 22-4	_	like	_	_	_	_
-22-5	_	this	abstract[63]	new[63]	_	_
+22-5	_	this	abstract[66]	new[66]	_	_
 22-6	_	,	_	_	_	_
-22-7	_	you	abstract[27]	new[27]	coref	22-12[27_28]
+22-7	_	you	abstract[26]	new[26]	coref	22-12[26_27]
 22-8	_	can	_	_	_	_
 22-9	_	decide	_	_	_	_
 22-10	_	which	_	_	_	_
 22-11	_	flavor(s)	_	_	_	_
-22-12	_	you	abstract[28]	new[28]	coref	22-22[28_29]
+22-12	_	you	abstract[27]	new[27]	coref	22-22[27_28]
 22-13	_	like	_	_	_	_
 22-14	_	best	_	_	_	_
 22-15	_	and	_	_	_	_
@@ -371,7 +371,7 @@
 22-19	_	bottles	_	_	_	_
 22-20	_	,	_	_	_	_
 22-21	_	if	_	_	_	_
-22-22	_	you	abstract[29]	new[29]	coref	34-5[29_30]
+22-22	_	you	abstract[28]	new[28]	coref	34-5[28_29]
 22-23	_	desire	_	_	_	_
 22-24	_	.	_	_	_	_
 
@@ -383,10 +383,10 @@
 23-5	_	:	_	_	_	_
 23-6	_	Bottles	_	_	_	_
 23-7	_	of	_	_	_	_
-23-8	_	"	abstract[92]	new[92]	coref	48-6[92_93]
-23-9	_	Skittled	abstract[92]	new[92]	_	_
-23-10	_	"	abstract[92]	new[92]	_	_
-23-11	_	Vodka	abstract[92]	new[92]	_	_
+23-8	_	"	abstract[95]	new[95]	coref	48-6[95_96]
+23-9	_	Skittled	abstract[95]	new[95]	_	_
+23-10	_	"	abstract[95]	new[95]	_	_
+23-11	_	Vodka	abstract[95]	new[95]	_	_
 
 #Text=Pour out some vodka from a bottle to make room for Skittles .
 24-1	_	Pour	_	_	_	_
@@ -400,25 +400,25 @@
 24-9	_	make	_	_	_	_
 24-10	_	room	_	_	_	_
 24-11	_	for	_	_	_	_
-24-12	_	Skittles	abstract[64]	new[64]	coref	25-2[64_65]
+24-12	_	Skittles	abstract[67]	new[67]	coref	25-2[67_68]
 24-13	_	.	_	_	_	_
 
 #Text=Separate the Skittles by color .
 25-1	_	Separate	_	_	_	_
-25-2	_	the	abstract[65]	new[65]	coref	26-2[65_66]
-25-3	_	Skittles	abstract[65]	new[65]	_	_
+25-2	_	the	abstract[68]	new[68]	coref	26-2[68_69]
+25-3	_	Skittles	abstract[68]	new[68]	_	_
 25-4	_	by	_	_	_	_
 25-5	_	color	_	_	_	_
 25-6	_	.	_	_	_	_
 
 #Text=Add the Skittles ( 20 - 25 per 350 ml / 11.8 fl oz ) .
 26-1	_	Add	_	_	_	_
-26-2	_	the	abstract[66]	new[66]	coref	29-3[66_67]
-26-3	_	Skittles	abstract[66]	new[66]	_	_
-26-4	_	(	abstract[66]	new[66]	_	_
-26-5	_	20	abstract[66]	new[66]	_	_
-26-6	_	-	abstract[66]	new[66]	_	_
-26-7	_	25	abstract[66]	new[66]	_	_
+26-2	_	the	abstract[69]	new[69]	coref	29-3[69_70]
+26-3	_	Skittles	abstract[69]	new[69]	_	_
+26-4	_	(	abstract[69]	new[69]	_	_
+26-5	_	20	abstract[69]	new[69]	_	_
+26-6	_	-	abstract[69]	new[69]	_	_
+26-7	_	25	abstract[69]	new[69]	_	_
 26-8	_	per	_	_	_	_
 26-9	_	350	_	_	_	_
 26-10	_	ml	_	_	_	_
@@ -454,8 +454,8 @@
 #Text=Strain out the Skittles using a filter , such as a paper coffee filter or a clean t - shirt .
 29-1	_	Strain	_	_	_	_
 29-2	_	out	_	_	_	_
-29-3	_	the	abstract[67]	new[67]	_	_
-29-4	_	Skittles	abstract[67]	new[67]	_	_
+29-3	_	the	abstract[70]	new[70]	_	_
+29-4	_	Skittles	abstract[70]	new[70]	_	_
 29-5	_	using	_	_	_	_
 29-6	_	a	_	_	_	_
 29-7	_	filter	_	_	_	_
@@ -518,35 +518,35 @@
 33-13	_	300	_	_	_	_
 33-14	_	ml	_	_	_	_
 33-15	_	/	_	_	_	_
-33-16	_	10.1	abstract[79]	new[79]	coref	39-2[79_80]
-33-17	_	fl	abstract[79]	new[79]	_	_
-33-18	_	oz	abstract[79]	new[79]	_	_
-33-19	_	of	abstract[79]	new[79]	_	_
-33-20	_	vodka	abstract[79]	new[79]	_	_
+33-16	_	10.1	abstract[82]	new[82]	coref	39-2[82_83]
+33-17	_	fl	abstract[82]	new[82]	_	_
+33-18	_	oz	abstract[82]	new[82]	_	_
+33-19	_	of	abstract[82]	new[82]	_	_
+33-20	_	vodka	abstract[82]	new[82]	_	_
 33-21	_	into	_	_	_	_
 33-22	_	a	_	_	_	_
 33-23	_	jug	_	_	_	_
 33-24	_	and	_	_	_	_
 33-25	_	fill	_	_	_	_
-33-26	_	each	abstract[68]	new[68]	coref	34-2[68_69]
-33-27	_	bottle	abstract[68]	new[68]	_	_
+33-26	_	each	abstract[71]	new[71]	coref	34-2[71_72]
+33-27	_	bottle	abstract[71]	new[71]	_	_
 33-28	_	with	_	_	_	_
 33-29	_	skittles	_	_	_	_
 33-30	_	.	_	_	_	_
 
 #Text=Place the bottles in your dishwasher and put on an intensive cycle .
 34-1	_	Place	_	_	_	_
-34-2	_	the	abstract[69]	new[69]	coref	35-12[69_70]
-34-3	_	bottles	abstract[69]	new[69]	_	_
+34-2	_	the	abstract[72]	new[72]	coref	35-12[72_73]
+34-3	_	bottles	abstract[72]	new[72]	_	_
 34-4	_	in	_	_	_	_
-34-5	_	your	abstract[30]	new[30]	coref	43-10[30_31]
+34-5	_	your	abstract[29]	new[29]	coref	43-10[29_30]
 34-6	_	dishwasher	_	_	_	_
 34-7	_	and	_	_	_	_
 34-8	_	put	_	_	_	_
 34-9	_	on	_	_	_	_
-34-10	_	an	abstract[75]	new[75]	coref	35-8[75_76]
-34-11	_	intensive	abstract[75]	new[75]	_	_
-34-12	_	cycle	abstract[75]	new[75]	_	_
+34-10	_	an	abstract[78]	new[78]	coref	35-8[78_79]
+34-11	_	intensive	abstract[78]	new[78]	_	_
+34-12	_	cycle	abstract[78]	new[78]	_	_
 34-13	_	.	_	_	_	_
 
 #Text=One third of of the way through the cycle , shake all bottles vigorously .
@@ -557,12 +557,12 @@
 35-5	_	the	_	_	_	_
 35-6	_	way	_	_	_	_
 35-7	_	through	_	_	_	_
-35-8	_	the	abstract[76]	new[76]	coref	36-7[76_77]
-35-9	_	cycle	abstract[76]	new[76]	_	_
+35-8	_	the	abstract[79]	new[79]	coref	36-7[79_80]
+35-9	_	cycle	abstract[79]	new[79]	_	_
 35-10	_	,	_	_	_	_
 35-11	_	shake	_	_	_	_
-35-12	_	all	abstract[70]	new[70]	coref	36-11[70_71]
-35-13	_	bottles	abstract[70]	new[70]	_	_
+35-12	_	all	abstract[73]	new[73]	coref	36-11[73_74]
+35-13	_	bottles	abstract[73]	new[73]	_	_
 35-14	_	vigorously	_	_	_	_
 35-15	_	.	_	_	_	_
 
@@ -573,25 +573,25 @@
 36-4	_	the	_	_	_	_
 36-5	_	way	_	_	_	_
 36-6	_	through	_	_	_	_
-36-7	_	the	abstract[77]	new[77]	coref	37-2[77_78]
-36-8	_	cycle	abstract[77]	new[77]	_	_
+36-7	_	the	abstract[80]	new[80]	coref	37-2[80_81]
+36-8	_	cycle	abstract[80]	new[80]	_	_
 36-9	_	,	_	_	_	_
 36-10	_	shake	_	_	_	_
-36-11	_	all	abstract[71]	new[71]	coref	37-8[71_72]
-36-12	_	bottles	abstract[71]	new[71]	_	_
+36-11	_	all	abstract[74]	new[74]	coref	37-8[74_75]
+36-12	_	bottles	abstract[74]	new[74]	_	_
 36-13	_	vigorously	_	_	_	_
 36-14	_	.	_	_	_	_
 
 #Text=Once the cycle has finished , shake all bottles vigorously again .
 37-1	_	Once	_	_	_	_
-37-2	_	the	abstract[78]	new[78]	_	_
-37-3	_	cycle	abstract[78]	new[78]	_	_
+37-2	_	the	abstract[81]	new[81]	_	_
+37-3	_	cycle	abstract[81]	new[81]	_	_
 37-4	_	has	_	_	_	_
 37-5	_	finished	_	_	_	_
 37-6	_	,	_	_	_	_
 37-7	_	shake	_	_	_	_
-37-8	_	all	abstract[72]	new[72]	coref	42-7[72_73]
-37-9	_	bottles	abstract[72]	new[72]	_	_
+37-8	_	all	abstract[75]	new[75]	coref	42-7[75_76]
+37-9	_	bottles	abstract[75]	new[75]	_	_
 37-10	_	vigorously	_	_	_	_
 37-11	_	again	_	_	_	_
 37-12	_	.	_	_	_	_
@@ -600,8 +600,8 @@
 38-1	_	Then	_	_	_	_
 38-2	_	place	_	_	_	_
 38-3	_	in	_	_	_	_
-38-4	_	the	abstract[90]	new[90]	coref	43-7[90_91]
-38-5	_	freezer	abstract[90]	new[90]	_	_
+38-4	_	the	abstract[93]	new[93]	coref	43-7[93_94]
+38-5	_	freezer	abstract[93]	new[93]	_	_
 38-6	_	for	_	_	_	_
 38-7	_	2	_	_	_	_
 38-8	_	hours	_	_	_	_
@@ -609,12 +609,12 @@
 
 #Text=Once the vodka is cold , it should be syrupy .
 39-1	_	Once	_	_	_	_
-39-2	_	the	abstract[80]	new[80]	coref	39-7[80_81]
-39-3	_	vodka	abstract[80]	new[80]	_	_
+39-2	_	the	abstract[83]	new[83]	coref	39-7[83_84]
+39-3	_	vodka	abstract[83]	new[83]	_	_
 39-4	_	is	_	_	_	_
 39-5	_	cold	_	_	_	_
 39-6	_	,	_	_	_	_
-39-7	_	it	abstract[81]	new[81]	coref	40-27[81_82]
+39-7	_	it	abstract[84]	new[84]	coref	40-27[84_85]
 39-8	_	should	_	_	_	_
 39-9	_	be	_	_	_	_
 39-10	_	syrupy	_	_	_	_
@@ -622,11 +622,11 @@
 
 #Text=Take a sieve , line it with a piece of cheesecloth ( muslin ) or a coffee filter , place above a large jug and pour the vodka through slowly .
 40-1	_	Take	_	_	_	_
-40-2	_	a	abstract[86]	new[86]	coref	40-6[86_87]
-40-3	_	sieve	abstract[86]	new[86]	_	_
+40-2	_	a	abstract[89]	new[89]	coref	40-6[89_90]
+40-3	_	sieve	abstract[89]	new[89]	_	_
 40-4	_	,	_	_	_	_
 40-5	_	line	_	_	_	_
-40-6	_	it	abstract[87]	new[87]	_	_
+40-6	_	it	abstract[90]	new[90]	_	_
 40-7	_	with	_	_	_	_
 40-8	_	a	_	_	_	_
 40-9	_	piece	_	_	_	_
@@ -647,30 +647,30 @@
 40-24	_	jug	_	_	_	_
 40-25	_	and	_	_	_	_
 40-26	_	pour	_	_	_	_
-40-27	_	the	abstract[82]	new[82]	coref	41-15[82_83]
-40-28	_	vodka	abstract[82]	new[82]	_	_
+40-27	_	the	abstract[85]	new[85]	coref	41-15[85_86]
+40-28	_	vodka	abstract[85]	new[85]	_	_
 40-29	_	through	_	_	_	_
 40-30	_	slowly	_	_	_	_
 40-31	_	.	_	_	_	_
 
 #Text=Once the first bottle has been filtered , wash out the bottle and pour the Skittles vodka back in .
 41-1	_	Once	_	_	_	_
-41-2	_	the	abstract[88]	new[88]	coref	41-11[88_89]
-41-3	_	first	abstract[88]	new[88]	_	_
-41-4	_	bottle	abstract[88]	new[88]	_	_
+41-2	_	the	abstract[91]	new[91]	coref	41-11[91_92]
+41-3	_	first	abstract[91]	new[91]	_	_
+41-4	_	bottle	abstract[91]	new[91]	_	_
 41-5	_	has	_	_	_	_
 41-6	_	been	_	_	_	_
 41-7	_	filtered	_	_	_	_
 41-8	_	,	_	_	_	_
 41-9	_	wash	_	_	_	_
 41-10	_	out	_	_	_	_
-41-11	_	the	abstract[89]	new[89]	_	_
-41-12	_	bottle	abstract[89]	new[89]	_	_
+41-11	_	the	abstract[92]	new[92]	_	_
+41-12	_	bottle	abstract[92]	new[92]	_	_
 41-13	_	and	_	_	_	_
 41-14	_	pour	_	_	_	_
-41-15	_	the	abstract[83]	new[83]	coref	44-5[83_84]
-41-16	_	Skittles	abstract[7]|abstract[83]	new[7]|new[83]	coref	52-8[7_8]
-41-17	_	vodka	abstract[83]	new[83]	_	_
+41-15	_	the	abstract[86]	new[86]	coref	44-5[86_87]
+41-16	_	Skittles	abstract[7]|abstract[86]	new[7]|new[86]	coref	52-8[7_8]
+41-17	_	vodka	abstract[86]	new[86]	_	_
 41-18	_	back	_	_	_	_
 41-19	_	in	_	_	_	_
 41-20	_	.	_	_	_	_
@@ -682,8 +682,8 @@
 42-4	_	two	_	_	_	_
 42-5	_	steps	_	_	_	_
 42-6	_	for	_	_	_	_
-42-7	_	all	abstract[73]	new[73]	coref	43-2[73_74]
-42-8	_	bottles	abstract[73]	new[73]	_	_
+42-7	_	all	abstract[76]	new[76]	coref	43-2[76_77]
+42-8	_	bottles	abstract[76]	new[76]	_	_
 42-9	_	,	_	_	_	_
 42-10	_	ensuring	_	_	_	_
 42-11	_	that	_	_	_	_
@@ -700,15 +700,15 @@
 
 #Text=Place all of the bottles in the freezer until you are ready to drink .
 43-1	_	Place	_	_	_	_
-43-2	_	all	abstract[74]	new[74]	_	_
-43-3	_	of	abstract[74]	new[74]	_	_
-43-4	_	the	abstract[74]	new[74]	_	_
-43-5	_	bottles	abstract[74]	new[74]	_	_
+43-2	_	all	abstract[77]	new[77]	_	_
+43-3	_	of	abstract[77]	new[77]	_	_
+43-4	_	the	abstract[77]	new[77]	_	_
+43-5	_	bottles	abstract[77]	new[77]	_	_
 43-6	_	in	_	_	_	_
-43-7	_	the	abstract[91]	new[91]	_	_
-43-8	_	freezer	abstract[91]	new[91]	_	_
+43-7	_	the	abstract[94]	new[94]	_	_
+43-8	_	freezer	abstract[94]	new[94]	_	_
 43-9	_	until	_	_	_	_
-43-10	_	you	abstract[31]	new[31]	coref	45-1[31_32]
+43-10	_	you	abstract[30]	new[30]	coref	45-1[30_31]
 43-11	_	are	_	_	_	_
 43-12	_	ready	_	_	_	_
 43-13	_	to	_	_	_	_
@@ -720,24 +720,24 @@
 44-2	_	n't	_	_	_	_
 44-3	_	worry	_	_	_	_
 44-4	_	,	_	_	_	_
-44-5	_	the	abstract[84]	new[84]	coref	46-2[84_85]
-44-6	_	vodka	abstract[84]	new[84]	_	_
+44-5	_	the	abstract[87]	new[87]	coref	46-2[87_88]
+44-6	_	vodka	abstract[87]	new[87]	_	_
 44-7	_	wo	_	_	_	_
 44-8	_	n't	_	_	_	_
 44-9	_	freeze	_	_	_	_
 44-10	_	.	_	_	_	_
 
 #Text=You are finished .
-45-1	_	You	abstract[32]	new[32]	coref	46-2[32_33]
+45-1	_	You	abstract[31]	new[31]	coref	46-2[31_32]
 45-2	_	are	_	_	_	_
 45-3	_	finished	_	_	_	_
 45-4	_	.	_	_	_	_
 
 #Text=Enjoy your tasty creation .
 46-1	_	Enjoy	_	_	_	_
-46-2	_	your	abstract[33]|abstract[85]	new[33]|new[85]	coref	48-2[33_34]
-46-3	_	tasty	abstract[85]	new[85]	_	_
-46-4	_	creation	abstract[85]	new[85]	_	_
+46-2	_	your	abstract[32]|abstract[88]	new[32]|new[88]	coref	48-2[32_33]
+46-3	_	tasty	abstract[88]	new[88]	_	_
+46-4	_	creation	abstract[88]	new[88]	_	_
 46-5	_	.	_	_	_	_
 
 #Text=Tips .
@@ -746,22 +746,22 @@
 
 #Text=If you want to make it more quickly , cut the skittles in half before putting them into vodka .
 48-1	_	If	_	_	_	_
-48-2	_	you	abstract[34]	new[34]	coref	51-2[34_35]
+48-2	_	you	abstract[33]	new[33]	coref	51-2[33_34]
 48-3	_	want	_	_	_	_
 48-4	_	to	_	_	_	_
 48-5	_	make	_	_	_	_
-48-6	_	it	abstract[93]	new[93]	coref	54-9[93_94]
+48-6	_	it	abstract[96]	new[96]	coref	54-9[96_97]
 48-7	_	more	_	_	_	_
 48-8	_	quickly	_	_	_	_
 48-9	_	,	_	_	_	_
 48-10	_	cut	_	_	_	_
-48-11	_	the	abstract[95]	new[95]	coref	48-17[95_96]
-48-12	_	skittles	abstract[95]	new[95]	_	_
+48-11	_	the	abstract[98]	new[98]	coref	48-17[98_99]
+48-12	_	skittles	abstract[98]	new[98]	_	_
 48-13	_	in	_	_	_	_
 48-14	_	half	_	_	_	_
 48-15	_	before	_	_	_	_
 48-16	_	putting	_	_	_	_
-48-17	_	them	abstract[96]	new[96]	coref	50-1[96_97]
+48-17	_	them	abstract[99]	new[99]	coref	50-1[99_100]
 48-18	_	into	_	_	_	_
 48-19	_	vodka	_	_	_	_
 48-20	_	.	_	_	_	_
@@ -774,7 +774,7 @@
 49-5	_	.	_	_	_	_
 
 #Text=They 'll dissolve in an hour instead of a day .
-50-1	_	They	abstract[97]	new[97]	_	_
+50-1	_	They	abstract[100]	new[100]	_	_
 50-2	_	'll	_	_	_	_
 50-3	_	dissolve	_	_	_	_
 50-4	_	in	_	_	_	_
@@ -788,7 +788,7 @@
 
 #Text=Or you could just scoop them out when the color dissolves .
 51-1	_	Or	_	_	_	_
-51-2	_	you	abstract[35]	new[35]	coref	52-18[35_36]
+51-2	_	you	abstract[34]	new[34]	coref	52-18[34_35]
 51-3	_	could	_	_	_	_
 51-4	_	just	_	_	_	_
 51-5	_	scoop	_	_	_	_
@@ -816,14 +816,14 @@
 52-13	_	which	_	_	_	_
 52-14	_	combination	_	_	_	_
 52-15	_	of	_	_	_	_
-52-16	_	taste	abstract[98]	new[98]	coref	53-20[98_99]
+52-16	_	taste	abstract[101]	new[101]	coref	53-20[101_102]
 52-17	_	suits	_	_	_	_
-52-18	_	you	abstract[36]	new[36]	coref	53-1[36_37]
+52-18	_	you	abstract[35]	new[35]	coref	53-1[35_36]
 52-19	_	best	_	_	_	_
 52-20	_	.	_	_	_	_
 
 #Text=You can carry this out with larger amount of vodka and Skittles once you have decided that you enjoy the taste .
-53-1	_	You	abstract[37]	new[37]	coref	53-14[37_38]
+53-1	_	You	abstract[36]	new[36]	coref	53-14[36_37]
 53-2	_	can	_	_	_	_
 53-3	_	carry	_	_	_	_
 53-4	_	this	_	_	_	_
@@ -836,31 +836,31 @@
 53-11	_	and	_	_	_	_
 53-12	_	Skittles	abstract[9]	new[9]	coref	55-14[9_10]
 53-13	_	once	_	_	_	_
-53-14	_	you	abstract[38]	new[38]	coref	53-18[38_39]
+53-14	_	you	abstract[37]	new[37]	coref	53-18[37_38]
 53-15	_	have	_	_	_	_
 53-16	_	decided	_	_	_	_
 53-17	_	that	_	_	_	_
-53-18	_	you	abstract[39]	new[39]	coref	54-14[39_40]
+53-18	_	you	abstract[38]	new[38]	coref	54-14[38_39]
 53-19	_	enjoy	_	_	_	_
-53-20	_	the	abstract[99]	new[99]	_	_
-53-21	_	taste	abstract[99]	new[99]	_	_
+53-20	_	the	abstract[102]	new[102]	_	_
+53-21	_	taste	abstract[102]	new[102]	_	_
 53-22	_	.	_	_	_	_
 
 #Text=The lime green Skittles add a sourness to the drink , so if you want one that 's sweet , leave the green ones out and add them to their own bottle for a sour lime vodka .
-54-1	_	The	abstract[101]	new[101]	coref	54-22[101_102]
-54-2	_	lime	abstract[101]	new[101]	_	_
-54-3	_	green	abstract[101]	new[101]	_	_
-54-4	_	Skittles	abstract[101]	new[101]	_	_
+54-1	_	The	abstract[104]	new[104]	coref	54-22[104_105]
+54-2	_	lime	abstract[104]	new[104]	_	_
+54-3	_	green	abstract[104]	new[104]	_	_
+54-4	_	Skittles	abstract[104]	new[104]	_	_
 54-5	_	add	_	_	_	_
 54-6	_	a	_	_	_	_
 54-7	_	sourness	_	_	_	_
 54-8	_	to	_	_	_	_
-54-9	_	the	abstract[94]	new[94]	_	_
-54-10	_	drink	abstract[94]	new[94]	_	_
+54-9	_	the	abstract[97]	new[97]	_	_
+54-10	_	drink	abstract[97]	new[97]	_	_
 54-11	_	,	_	_	_	_
 54-12	_	so	_	_	_	_
 54-13	_	if	_	_	_	_
-54-14	_	you	abstract[40]	new[40]	coref	62-2[40_41]
+54-14	_	you	abstract[39]	new[39]	coref	62-2[39_40]
 54-15	_	want	_	_	_	_
 54-16	_	one	_	_	_	_
 54-17	_	that	_	_	_	_
@@ -868,15 +868,15 @@
 54-19	_	sweet	_	_	_	_
 54-20	_	,	_	_	_	_
 54-21	_	leave	_	_	_	_
-54-22	_	the	abstract[102]	new[102]	coref	54-28[102_103]
-54-23	_	green	abstract[102]	new[102]	_	_
-54-24	_	ones	abstract[102]	new[102]	_	_
+54-22	_	the	abstract[105]	new[105]	coref	54-28[105_106]
+54-23	_	green	abstract[105]	new[105]	_	_
+54-24	_	ones	abstract[105]	new[105]	_	_
 54-25	_	out	_	_	_	_
 54-26	_	and	_	_	_	_
 54-27	_	add	_	_	_	_
-54-28	_	them	abstract[103]	new[103]	coref	54-30[103_104]
+54-28	_	them	abstract[106]	new[106]	coref	54-30[106_107]
 54-29	_	to	_	_	_	_
-54-30	_	their	abstract[104]	new[104]	_	_
+54-30	_	their	abstract[107]	new[107]	_	_
 54-31	_	own	_	_	_	_
 54-32	_	bottle	_	_	_	_
 54-33	_	for	_	_	_	_
@@ -897,17 +897,17 @@
 55-8	_	of	_	_	_	_
 55-9	_	vodka	_	_	_	_
 55-10	_	and	_	_	_	_
-55-11	_	five	abstract[105]	new[105]	coref	56-3[105_106]
-55-12	_	bags	abstract[105]	new[105]	_	_
-55-13	_	of	abstract[105]	new[105]	_	_
-55-14	_	Skittles	abstract[10]|abstract[105]	new[10]|new[105]	coref	65-20[10_11]
+55-11	_	five	abstract[108]	new[108]	coref	56-3[108_109]
+55-12	_	bags	abstract[108]	new[108]	_	_
+55-13	_	of	abstract[108]	new[108]	_	_
+55-14	_	Skittles	abstract[10]|abstract[108]	new[10]|new[108]	coref	65-20[10_11]
 55-15	_	.	_	_	_	_
 
 #Text=Then separate the candy and use one flavor for each bottle .
 56-1	_	Then	_	_	_	_
 56-2	_	separate	_	_	_	_
-56-3	_	the	abstract[106]	new[106]	coref	57-14[106_107]
-56-4	_	candy	abstract[106]	new[106]	_	_
+56-3	_	the	abstract[109]	new[109]	coref	57-14[109_110]
+56-4	_	candy	abstract[109]	new[109]	_	_
 56-5	_	and	_	_	_	_
 56-6	_	use	_	_	_	_
 56-7	_	one	_	_	_	_
@@ -931,18 +931,18 @@
 57-11	_	allow	_	_	_	_
 57-12	_	room	_	_	_	_
 57-13	_	for	_	_	_	_
-57-14	_	the	abstract[107]	new[107]	_	_
-57-15	_	skittles	abstract[107]	new[107]	_	_
+57-14	_	the	abstract[110]	new[110]	_	_
+57-15	_	skittles	abstract[110]	new[110]	_	_
 57-16	_	.	_	_	_	_
 57-17	_	)	_	_	_	_
 
 #Text=If using a t - shirt to strain , be sure fabric softener or a dryer sheet had not been used with it , lets you get some extra ( unwanted ) flavoring ( and potentially toxic chemicals ) .
 58-1	_	If	_	_	_	_
 58-2	_	using	_	_	_	_
-58-3	_	a	abstract[108]	new[108]	coref	58-23[108_109]
-58-4	_	t	abstract[108]	new[108]	_	_
-58-5	_	-	abstract[108]	new[108]	_	_
-58-6	_	shirt	abstract[108]	new[108]	_	_
+58-3	_	a	abstract[111]	new[111]	coref	58-23[111_112]
+58-4	_	t	abstract[111]	new[111]	_	_
+58-5	_	-	abstract[111]	new[111]	_	_
+58-6	_	shirt	abstract[111]	new[111]	_	_
 58-7	_	to	_	_	_	_
 58-8	_	strain	_	_	_	_
 58-9	_	,	_	_	_	_
@@ -959,7 +959,7 @@
 58-20	_	been	_	_	_	_
 58-21	_	used	_	_	_	_
 58-22	_	with	_	_	_	_
-58-23	_	it	abstract[109]	new[109]	_	_
+58-23	_	it	abstract[112]	new[112]	_	_
 58-24	_	,	_	_	_	_
 58-25	_	lets	_	_	_	_
 58-26	_	you	_	_	_	_
@@ -995,7 +995,7 @@
 
 #Text=Know your limits , and do not drink to the extent of intoxication .
 62-1	_	Know	_	_	_	_
-62-2	_	your	abstract[41]	new[41]	coref	63-7[41_42]
+62-2	_	your	abstract[40]	new[40]	coref	63-7[40_41]
 62-3	_	limits	_	_	_	_
 62-4	_	,	_	_	_	_
 62-5	_	and	_	_	_	_
@@ -1016,13 +1016,13 @@
 63-4	_	if	_	_	_	_
 63-5	_	underage	_	_	_	_
 63-6	_	in	_	_	_	_
-63-7	_	your	abstract[42]	new[42]	coref	64-2[42_43]
+63-7	_	your	abstract[41]	new[41]	coref	64-2[41_42]
 63-8	_	country	_	_	_	_
 63-9	_	.	_	_	_	_
 
 #Text=Things You 'll Need
 64-1	_	Things	_	_	_	_
-64-2	_	You	abstract[43]	new[43]	coref	65-24[43_44]
+64-2	_	You	abstract[42]	new[42]	coref	65-24[42_43]
 64-3	_	'll	_	_	_	_
 64-4	_	Need	_	_	_	_
 
@@ -1050,7 +1050,7 @@
 65-21	_	,	_	_	_	_
 65-22	_	so	_	_	_	_
 65-23	_	if	_	_	_	_
-65-24	_	you	abstract[44]	new[44]	coref	65-36[44_45]
+65-24	_	you	abstract[43]	new[43]	coref	65-36[43_44]
 65-25	_	plan	_	_	_	_
 65-26	_	on	_	_	_	_
 65-27	_	doing	_	_	_	_
@@ -1062,7 +1062,7 @@
 65-33	_	flavorful	_	_	_	_
 65-34	_	vodka	_	_	_	_
 65-35	_	,	_	_	_	_
-65-36	_	you	abstract[45]	new[45]	_	_
+65-36	_	you	abstract[44]	new[44]	coref	68-2[44_45]
 65-37	_	'll	_	_	_	_
 65-38	_	have	_	_	_	_
 65-39	_	to	_	_	_	_
@@ -1071,7 +1071,7 @@
 65-42	_	large	_	_	_	_
 65-43	_	bags	_	_	_	_
 65-44	_	of	_	_	_	_
-65-45	_	Skittles	abstract[12]	new[12]	coref	68-5[12_13]
+65-45	_	Skittles	abstract[12]	new[12]	_	_
 65-46	_	.	_	_	_	_
 
 #Text=Coffee filter , cheesecloth / muslin , or an extremely clean T - shirt
@@ -1099,42 +1099,28 @@
 67-6	_	hold	_	_	_	_
 67-7	_	filter	_	_	_	_
 
-#Text=Learn how to prepare the food . Find out how to prepare quinoa . Wash the quinoa . Prepare quinoa for rice . Wash the quinoa . Consider adding other vegetables to the mix as well .
-68-1	_	Learn	_	_	_	_
-68-2	_	how	_	_	_	_
-68-3	_	to	_	_	_	_
-68-4	_	prepare	_	_	_	_
-68-5	_	the	abstract[13]	new[13]	_	_
-68-6	_	food	abstract[13]	new[13]	_	_
-68-7	_	.	_	_	_	_
-68-8	_	Find	_	_	_	_
-68-9	_	out	_	_	_	_
-68-10	_	how	_	_	_	_
-68-11	_	to	_	_	_	_
-68-12	_	prepare	_	_	_	_
-68-13	_	quinoa	abstract[110]	new[110]	coref	68-16[110_111]
-68-14	_	.	_	_	_	_
-68-15	_	Wash	_	_	_	_
-68-16	_	the	abstract[111]	new[111]	_	_
-68-17	_	quinoa	abstract[111]	new[111]	_	_
+#Text=Prepare your prepared quinoa . Prepare your quinoa for cooking , too . Prepare your rice cooker . Prepare your rice cooker !
+68-1	_	Prepare	_	_	_	_
+68-2	_	your	abstract[45]|abstract[113]	new[45]|new[113]	coref|coref	68-7[45_46]|68-7[113_114]
+68-3	_	prepared	abstract[113]	new[113]	_	_
+68-4	_	quinoa	abstract[113]	new[113]	_	_
+68-5	_	.	_	_	_	_
+68-6	_	Prepare	_	_	_	_
+68-7	_	your	abstract[46]|abstract[114]	new[46]|new[114]	coref	68-15[46_47]
+68-8	_	quinoa	abstract[114]	new[114]	_	_
+68-9	_	for	_	_	_	_
+68-10	_	cooking	_	_	_	_
+68-11	_	,	_	_	_	_
+68-12	_	too	_	_	_	_
+68-13	_	.	_	_	_	_
+68-14	_	Prepare	_	_	_	_
+68-15	_	your	abstract[47]|abstract[115]	new[47]|new[115]	coref|coref	68-20[47_48]|68-20[115_116]
+68-16	_	rice	abstract[115]	new[115]	_	_
+68-17	_	cooker	abstract[115]	new[115]	_	_
 68-18	_	.	_	_	_	_
 68-19	_	Prepare	_	_	_	_
-68-20	_	quinoa	abstract[112]	new[112]	coref	68-25[112_113]
-68-21	_	for	_	_	_	_
-68-22	_	rice	_	_	_	_
-68-23	_	.	_	_	_	_
-68-24	_	Wash	_	_	_	_
-68-25	_	the	abstract[113]	new[113]	_	_
-68-26	_	quinoa	abstract[113]	new[113]	_	_
-68-27	_	.	_	_	_	_
-68-28	_	Consider	_	_	_	_
-68-29	_	adding	_	_	_	_
-68-30	_	other	_	_	_	_
-68-31	_	vegetables	_	_	_	_
-68-32	_	to	_	_	_	_
-68-33	_	the	_	_	_	_
-68-34	_	mix	_	_	_	_
-68-35	_	as	_	_	_	_
-68-36	_	well	_	_	_	_
-68-37	_	.	_	_	_	_
+68-20	_	your	abstract[48]|abstract[116]	new[48]|new[116]	_	_
+68-21	_	rice	abstract[116]	new[116]	_	_
+68-22	_	cooker	abstract[116]	new[116]	_	_
+68-23	_	!	_	_	_	_
 

@@ -136,29 +136,29 @@
 6-1	_	He	abstract[6]	new[6]	_	_
 6-2	_	served	_	_	_	_
 6-3	_	as	_	_	_	_
-6-4	_	Bertrand	abstract[11]|abstract[13]	new[11]|new[13]	coref|coref	6-9[11_12]|7-2[13_14]
-6-5	_	Russell	abstract[11]|abstract[13]	new[11]|new[13]	_	_
-6-6	_	's	abstract[11]|abstract[13]	new[11]|new[13]	_	_
-6-7	_	interpreter	abstract[13]	new[13]	_	_
+6-4	_	Bertrand	abstract[12]|abstract[14]	new[12]|new[14]	coref|coref	6-9[12_13]|7-2[14_15]
+6-5	_	Russell	abstract[12]|abstract[14]	new[12]|new[14]	_	_
+6-6	_	's	abstract[12]|abstract[14]	new[12]|new[14]	_	_
+6-7	_	interpreter	abstract[14]	new[14]	_	_
 6-8	_	when	_	_	_	_
-6-9	_	Russell	abstract[12]	new[12]	_	_
+6-9	_	Russell	abstract[13]	new[13]	_	_
 6-10	_	visited	_	_	_	_
-6-11	_	China	abstract[21]	new[21]	coref	10-4[21_22]
+6-11	_	China	abstract[22]	new[22]	coref	10-4[22_23]
 6-12	_	in	_	_	_	_
 6-13	_	1920	_	_	_	_
 6-14	_	.	_	_	_	_
 
 #Text=In his My Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort .
 7-1	_	In	_	_	_	_
-7-2	_	his	abstract[14]	new[14]	coref	7-3[14_15]
-7-3	_	My	abstract[15]	new[15]	coref	7-7[15_16]
+7-2	_	his	abstract[15]	new[15]	coref	7-3[15_16]
+7-3	_	My	abstract[16]	new[16]	coref	7-7[16_17]
 7-4	_	Linguistic	_	_	_	_
 7-5	_	Autobiography	_	_	_	_
 7-6	_	,	_	_	_	_
-7-7	_	he	abstract[16]	new[16]	coref	7-10[16_17]
+7-7	_	he	abstract[17]	new[17]	coref	7-10[17_18]
 7-8	_	wrote	_	_	_	_
 7-9	_	of	_	_	_	_
-7-10	_	his	abstract[17]	new[17]	coref	8-1[17_18]
+7-10	_	his	abstract[18]	new[18]	coref	8-1[18_19]
 7-11	_	ability	_	_	_	_
 7-12	_	to	_	_	_	_
 7-13	_	pick	_	_	_	_
@@ -174,7 +174,7 @@
 7-23	_	.	_	_	_	_
 
 #Text=Chao possessed a natural gift for hearing fine distinctions in pronunciation that was said to be " legendary for its acuity " , enabling him to record the sounds of various dialects with a high degree of accuracy .
-8-1	_	Chao	abstract[18]	new[18]	coref	8-25[18_19]
+8-1	_	Chao	abstract[19]	new[19]	coref	8-25[19_20]
 8-2	_	possessed	_	_	_	_
 8-3	_	a	_	_	_	_
 8-4	_	natural	_	_	_	_
@@ -198,7 +198,7 @@
 8-22	_	"	_	_	_	_
 8-23	_	,	_	_	_	_
 8-24	_	enabling	_	_	_	_
-8-25	_	him	abstract[19]	new[19]	coref	10-1[19_20]
+8-25	_	him	abstract[20]	new[20]	coref	10-1[20_21]
 8-26	_	to	_	_	_	_
 8-27	_	record	_	_	_	_
 8-28	_	the	_	_	_	_
@@ -222,10 +222,10 @@
 9-5	_	life	_	_	_	_
 
 #Text=He returned to China in 1920 , marrying the physician Yang Buwei there that year .
-10-1	_	He	abstract[20]	new[20]	_	_
+10-1	_	He	abstract[21]	new[21]	_	_
 10-2	_	returned	_	_	_	_
 10-3	_	to	_	_	_	_
-10-4	_	China	abstract[22]	new[22]	coref	10-13[22_23]
+10-4	_	China	abstract[23]	new[23]	coref	10-13[23_24]
 10-5	_	in	_	_	_	_
 10-6	_	1920	abstract[31]	new[31]	coref	10-14[31_32]
 10-7	_	,	_	_	_	_
@@ -234,7 +234,7 @@
 10-10	_	physician	_	_	_	_
 10-11	_	Yang	_	_	_	_
 10-12	_	Buwei	_	_	_	_
-10-13	_	there	abstract[23]	new[23]	coref	12-18[23_24]
+10-13	_	there	abstract[24]	new[24]	coref	12-18[24_25]
 10-14	_	that	abstract[32]	new[32]	_	_
 10-15	_	year	abstract[32]	new[32]	_	_
 10-16	_	.	_	_	_	_
@@ -281,8 +281,8 @@
 12-15	_	modern	abstract[76]	new[76]	_	_
 12-16	_	marriage	abstract[76]	new[76]	_	_
 12-17	_	for	abstract[76]	new[76]	_	_
-12-18	_	China	abstract[24]|abstract[57]|abstract[76]	new[24]|new[57]|new[76]	coref|coref	14-5[24_25]|16-25[57_58]
-12-19	_	's	abstract[24]|abstract[57]|abstract[76]	new[24]|new[57]|new[76]	_	_
+12-18	_	China	abstract[25]|abstract[57]|abstract[76]	new[25]|new[57]|new[76]	coref|coref	14-5[25_26]|16-25[57_58]
+12-19	_	's	abstract[25]|abstract[57]|abstract[76]	new[25]|new[57]|new[76]	_	_
 12-20	_	New	abstract[39]|abstract[57]|abstract[76]	new[39]|new[57]|new[76]	_	_
 12-21	_	Culture	abstract[39]|abstract[57]|abstract[76]	new[39]|new[57]|new[76]	_	_
 12-22	_	generation	abstract[57]|abstract[76]	new[57]|new[76]	_	_
@@ -317,7 +317,7 @@
 14-2	_	again	_	_	_	_
 14-3	_	returned	_	_	_	_
 14-4	_	to	_	_	_	_
-14-5	_	China	abstract[25]	new[25]	coref	15-8[25_26]
+14-5	_	China	abstract[26]	new[26]	coref	15-8[26_27]
 14-6	_	in	_	_	_	_
 14-7	_	1925	_	_	_	_
 14-8	_	,	_	_	_	_
@@ -345,7 +345,7 @@
 15-5	_	linguistic	_	_	_	_
 15-6	_	fieldwork	_	_	_	_
 15-7	_	throughout	_	_	_	_
-15-8	_	China	abstract[26]	new[26]	coref	23-15[26_27]
+15-8	_	China	abstract[27]	new[27]	coref	23-15[27_28]
 15-9	_	for	_	_	_	_
 15-10	_	the	_	_	_	_
 15-11	_	Institute	_	_	_	_
@@ -502,7 +502,7 @@
 21-11	_	of	_	_	_	_
 21-12	_	California	_	_	_	_
 21-13	_	at	_	_	_	_
-21-14	_	Berkeley	_	_	_	_
+21-14	_	Berkeley	abstract[87]	new[87]	coref	29-24[87_88]
 21-15	_	,	_	_	_	_
 21-16	_	where	_	_	_	_
 21-17	_	in	_	_	_	_
@@ -577,7 +577,7 @@
 23-12	_	to	_	_	_	_
 23-13	_	return	_	_	_	_
 23-14	_	to	_	_	_	_
-23-15	_	China	abstract[27]	new[27]	coref	24-18[27_28]
+23-15	_	China	abstract[28]	new[28]	coref	24-18[28_29]
 23-16	_	in	_	_	_	_
 23-17	_	1981	_	_	_	_
 23-18	_	.	_	_	_	_
@@ -600,7 +600,7 @@
 24-15	_	wife	abstract[83]	new[83]	_	_
 24-16	_	returned	_	_	_	_
 24-17	_	to	_	_	_	_
-24-18	_	China	abstract[28]	new[28]	coref	25-3[28_29]
+24-18	_	China	abstract[29]	new[29]	coref	25-3[29_30]
 24-19	_	in	_	_	_	_
 24-20	_	1973	_	_	_	_
 24-21	_	for	_	_	_	_
@@ -615,7 +615,7 @@
 #Text=He visited China again between May and June in 1981 after his wife died in March the same year .
 25-1	_	He	abstract[71]	new[71]	coref	25-12[71_72]
 25-2	_	visited	_	_	_	_
-25-3	_	China	abstract[29]	new[29]	coref	29-3[29_30]
+25-3	_	China	abstract[30]	new[30]	_	_
 25-4	_	again	_	_	_	_
 25-5	_	between	_	_	_	_
 25-6	_	May	_	_	_	_
@@ -664,7 +664,7 @@
 27-18	_	and	_	_	_	_
 27-19	_	Music	_	_	_	_
 27-20	_	at	_	_	_	_
-27-21	_	Harvard	abstract[10]	new[10]	_	_
+27-21	_	Harvard	abstract[10]	new[10]	coref	29-22[10_11]
 27-22	_	.	_	_	_	_
 
 #Text=His third daughter Lensey , born in 1929 , is a children 's book author and mathematician .
@@ -687,16 +687,35 @@
 28-17	_	mathematician	_	_	_	_
 28-18	_	.	_	_	_	_
 
-#Text=History of China , including Western European studies and languages .
-29-1	_	History	_	_	_	_
-29-2	_	of	_	_	_	_
-29-3	_	China	abstract[30]	new[30]	_	_
-29-4	_	,	_	_	_	_
-29-5	_	including	_	_	_	_
-29-6	_	Western	_	_	_	_
-29-7	_	European	_	_	_	_
-29-8	_	studies	_	_	_	_
-29-9	_	and	_	_	_	_
-29-10	_	languages	_	_	_	_
-29-11	_	.	_	_	_	_
+#Text=Yuen Ren Chao was a Chinese and American dialectologist and polyglot who sudied Chinese dialects and taught at Tsinghua University , Harvard and Berkeley between the 1920s and 1960s .
+29-1	_	Yuen	_	_	_	_
+29-2	_	Ren	_	_	_	_
+29-3	_	Chao	_	_	_	_
+29-4	_	was	_	_	_	_
+29-5	_	a	_	_	_	_
+29-6	_	Chinese	_	_	_	_
+29-7	_	and	_	_	_	_
+29-8	_	American	_	_	_	_
+29-9	_	dialectologist	_	_	_	_
+29-10	_	and	_	_	_	_
+29-11	_	polyglot	_	_	_	_
+29-12	_	who	_	_	_	_
+29-13	_	sudied	_	_	_	_
+29-14	_	Chinese	_	_	_	_
+29-15	_	dialects	_	_	_	_
+29-16	_	and	_	_	_	_
+29-17	_	taught	_	_	_	_
+29-18	_	at	_	_	_	_
+29-19	_	Tsinghua	_	_	_	_
+29-20	_	University	_	_	_	_
+29-21	_	,	_	_	_	_
+29-22	_	Harvard	abstract[11]	new[11]	_	_
+29-23	_	and	_	_	_	_
+29-24	_	Berkeley	abstract[88]	new[88]	_	_
+29-25	_	between	_	_	_	_
+29-26	_	the	_	_	_	_
+29-27	_	1920s	_	_	_	_
+29-28	_	and	_	_	_	_
+29-29	_	1960s	_	_	_	_
+29-30	_	.	_	_	_	_
 

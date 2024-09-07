@@ -907,8 +907,8 @@
 78-10	_	expiration	_	_	_	_
 78-11	_	date	_	_	_	_
 78-12	_	on	_	_	_	_
-78-13	_	their	abstract[160]|abstract[163]	new[160]|new[163]	coref|coref	124-6[160_161]|79-9[163_164]
-78-14	_	products	abstract[163]	new[163]	_	_
+78-13	_	their	abstract[160]|abstract[164]	new[160]|new[164]	coref|coref	124-6[160_161]|79-9[164_165]
+78-14	_	products	abstract[164]	new[164]	_	_
 78-15	_	.	_	_	_	_
 
 #Text=I do n't know if this means that they just do n't expire or I do n't know .
@@ -917,10 +917,10 @@
 79-3	_	n't	_	_	_	_
 79-4	_	know	_	_	_	_
 79-5	_	if	_	_	_	_
-79-6	_	this	abstract[166]	new[166]	coref	80-6[166_167]
+79-6	_	this	abstract[167]	new[167]	coref	80-6[167_168]
 79-7	_	means	_	_	_	_
 79-8	_	that	_	_	_	_
-79-9	_	they	abstract[164]	new[164]	coref	83-6[164_165]
+79-9	_	they	abstract[165]	new[165]	coref	83-6[165_166]
 79-10	_	just	_	_	_	_
 79-11	_	do	_	_	_	_
 79-12	_	n't	_	_	_	_
@@ -938,7 +938,7 @@
 80-3	_	n't	_	_	_	_
 80-4	_	know	_	_	_	_
 80-5	_	what	_	_	_	_
-80-6	_	that	abstract[167]	new[167]	coref	83-16[167_168]
+80-6	_	that	abstract[168]	new[168]	coref	83-16[168_169]
 80-7	_	means	_	_	_	_
 80-8	_	.	_	_	_	_
 
@@ -959,17 +959,17 @@
 83-3	_	a	_	_	_	_
 83-4	_	just	_	_	_	_
 83-5	_	put	_	_	_	_
-83-6	_	all	abstract[165]	new[165]	_	_
-83-7	_	the	abstract[165]	new[165]	_	_
-83-8	_	Dose	abstract[165]	new[165]	_	_
-83-9	_	of	abstract[165]	new[165]	_	_
-83-10	_	Color	abstract[165]	new[165]	_	_
+83-6	_	all	abstract[166]	new[166]	_	_
+83-7	_	the	abstract[166]	new[166]	_	_
+83-8	_	Dose	abstract[166]	new[166]	_	_
+83-9	_	of	abstract[166]	new[166]	_	_
+83-10	_	Color	abstract[166]	new[166]	_	_
 83-11	_	in	_	_	_	_
 83-12	_	a	_	_	_	_
 83-13	_	separate	_	_	_	_
 83-14	_	pile	_	_	_	_
 83-15	_	cuz	_	_	_	_
-83-16	_	that	abstract[168]	new[168]	coref	84-6[168_169]
+83-16	_	that	abstract[169]	new[169]	coref	84-6[169_170]
 83-17	_	's	_	_	_	_
 83-18	_	kind	_	_	_	_
 83-19	_	of	_	_	_	_
@@ -982,7 +982,7 @@
 84-3	_	need	_	_	_	_
 84-4	_	to	_	_	_	_
 84-5	_	research	_	_	_	_
-84-6	_	that	abstract[169]	new[169]	_	_
+84-6	_	that	abstract[170]	new[170]	_	_
 84-7	_	a	_	_	_	_
 84-8	_	little	_	_	_	_
 84-9	_	bit	_	_	_	_
@@ -1000,12 +1000,12 @@
 87-1	_	Let	_	_	_	_
 87-2	_	me	abstract[76]	new[76]	coref	91-1[76_77]
 87-3	_	show	_	_	_	_
-87-4	_	you	abstract[186]	new[186]	coref	112-7[186_187]
-87-5	_	guys	abstract[186]	new[186]	_	_
+87-4	_	you	abstract[187]	new[187]	coref	112-7[187_188]
+87-5	_	guys	abstract[187]	new[187]	_	_
 87-6	_	.	_	_	_	_
 
 #Text=That is an expired lipstick .
-88-1	_	That	abstract[170]	new[170]	coref	91-7[170_171]
+88-1	_	That	abstract[171]	new[171]	coref	91-7[171_172]
 88-2	_	is	_	_	_	_
 88-3	_	an	_	_	_	_
 88-4	_	expired	_	_	_	_
@@ -1043,7 +1043,7 @@
 91-4	_	've	_	_	_	_
 91-5	_	definitely	_	_	_	_
 91-6	_	had	_	_	_	_
-91-7	_	this	abstract[171]	new[171]	coref	93-4[171_172]
+91-7	_	this	abstract[172]	new[172]	coref	93-4[172_173]
 91-8	_	over	_	_	_	_
 91-9	_	a	_	_	_	_
 91-10	_	year	_	_	_	_
@@ -1059,7 +1059,7 @@
 93-1	_	Have	_	_	_	_
 93-2	_	I	abstract[80]	new[80]	coref	99-2[80_81]
 93-3	_	had	_	_	_	_
-93-4	_	this	abstract[172]	new[172]	coref	95-3[172_173]
+93-4	_	this	abstract[173]	new[173]	coref	95-3[173_174]
 93-5	_	over	_	_	_	_
 93-6	_	a	_	_	_	_
 93-7	_	year	_	_	_	_
@@ -1079,7 +1079,7 @@
 #Text=But yeah this just does not look good .
 95-1	_	But	_	_	_	_
 95-2	_	yeah	_	_	_	_
-95-3	_	this	abstract[173]	new[173]	coref	96-1[173_174]
+95-3	_	this	abstract[174]	new[174]	coref	96-1[174_175]
 95-4	_	just	_	_	_	_
 95-5	_	does	_	_	_	_
 95-6	_	not	_	_	_	_
@@ -1088,7 +1088,7 @@
 95-9	_	.	_	_	_	_
 
 #Text=That 's gon na have to go in the expired pile .
-96-1	_	That	abstract[174]	new[174]	_	_
+96-1	_	That	abstract[175]	new[175]	_	_
 96-2	_	's	_	_	_	_
 96-3	_	gon	_	_	_	_
 96-4	_	na	_	_	_	_
@@ -1106,8 +1106,8 @@
 97-2	_	!	_	_	_	_
 
 #Text=This black is also not looking good .
-98-1	_	This	abstract[175]	new[175]	coref	99-9[175_176]
-98-2	_	black	abstract[175]	new[175]	_	_
+98-1	_	This	abstract[176]	new[176]	coref	99-9[176_177]
+98-2	_	black	abstract[176]	new[176]	_	_
 98-3	_	is	_	_	_	_
 98-4	_	also	_	_	_	_
 98-5	_	not	_	_	_	_
@@ -1123,8 +1123,8 @@
 99-5	_	've	_	_	_	_
 99-6	_	only	_	_	_	_
 99-7	_	had	_	_	_	_
-99-8	_	the	abstract[176]	new[176]	coref	103-1[176_177]
-99-9	_	black	abstract[176]	new[176]	_	_
+99-8	_	the	abstract[177]	new[177]	coref	103-1[177_178]
+99-9	_	black	abstract[177]	new[177]	_	_
 99-10	_	since	_	_	_	_
 99-11	_	last	_	_	_	_
 99-12	_	year	_	_	_	_
@@ -1163,7 +1163,7 @@
 102-9	_	.	_	_	_	_
 
 #Text=It 's not looking good though .
-103-1	_	It	abstract[177]	new[177]	coref	104-1[177_178]
+103-1	_	It	abstract[178]	new[178]	coref	104-1[178_179]
 103-2	_	's	_	_	_	_
 103-3	_	not	_	_	_	_
 103-4	_	looking	_	_	_	_
@@ -1172,7 +1172,7 @@
 103-7	_	.	_	_	_	_
 
 #Text=It 's all like super separated .
-104-1	_	It	abstract[178]	new[178]	coref	105-6[178_179]
+104-1	_	It	abstract[179]	new[179]	coref	105-6[179_180]
 104-2	_	's	_	_	_	_
 104-3	_	all	_	_	_	_
 104-4	_	like	_	_	_	_
@@ -1186,7 +1186,7 @@
 105-3	_	n't	_	_	_	_
 105-4	_	like	_	_	_	_
 105-5	_	how	_	_	_	_
-105-6	_	that	abstract[179]	new[179]	_	_
+105-6	_	that	abstract[180]	new[180]	_	_
 105-7	_	looks	_	_	_	_
 105-8	_	.	_	_	_	_
 
@@ -1203,29 +1203,29 @@
 107-6	_	.	_	_	_	_
 
 #Text=Black Up actually has twenty four months of shelf life for their lip pencils which is really really good .
-108-1	_	Black	abstract[180]	new[180]	coref	108-12[180_181]
-108-2	_	Up	abstract[180]	new[180]	_	_
+108-1	_	Black	abstract[181]	new[181]	coref	108-12[181_182]
+108-2	_	Up	abstract[181]	new[181]	_	_
 108-3	_	actually	_	_	_	_
 108-4	_	has	_	_	_	_
-108-5	_	twenty	abstract[182]	new[182]	coref	109-1[182_183]
-108-6	_	four	abstract[182]	new[182]	_	_
-108-7	_	months	abstract[182]	new[182]	_	_
-108-8	_	of	abstract[182]	new[182]	_	_
-108-9	_	shelf	abstract[182]	new[182]	_	_
-108-10	_	life	abstract[182]	new[182]	_	_
-108-11	_	for	abstract[182]	new[182]	_	_
-108-12	_	their	abstract[181]|abstract[182]	new[181]|new[182]	_	_
-108-13	_	lip	abstract[182]	new[182]	_	_
-108-14	_	pencils	abstract[182]	new[182]	_	_
-108-15	_	which	abstract[182]	new[182]	_	_
-108-16	_	is	abstract[182]	new[182]	_	_
-108-17	_	really	abstract[182]	new[182]	_	_
-108-18	_	really	abstract[182]	new[182]	_	_
-108-19	_	good	abstract[182]	new[182]	_	_
+108-5	_	twenty	abstract[183]	new[183]	coref	109-1[183_184]
+108-6	_	four	abstract[183]	new[183]	_	_
+108-7	_	months	abstract[183]	new[183]	_	_
+108-8	_	of	abstract[183]	new[183]	_	_
+108-9	_	shelf	abstract[183]	new[183]	_	_
+108-10	_	life	abstract[183]	new[183]	_	_
+108-11	_	for	abstract[183]	new[183]	_	_
+108-12	_	their	abstract[182]|abstract[183]	new[182]|new[183]	_	_
+108-13	_	lip	abstract[183]	new[183]	_	_
+108-14	_	pencils	abstract[183]	new[183]	_	_
+108-15	_	which	abstract[183]	new[183]	_	_
+108-16	_	is	abstract[183]	new[183]	_	_
+108-17	_	really	abstract[183]	new[183]	_	_
+108-18	_	really	abstract[183]	new[183]	_	_
+108-19	_	good	abstract[183]	new[183]	_	_
 108-20	_	.	_	_	_	_
 
 #Text=That 's two years .
-109-1	_	That	abstract[183]	new[183]	_	_
+109-1	_	That	abstract[184]	new[184]	_	_
 109-2	_	's	_	_	_	_
 109-3	_	two	_	_	_	_
 109-4	_	years	_	_	_	_
@@ -1234,17 +1234,17 @@
 #Text=But is that actually good ?
 110-1	_	But	_	_	_	_
 110-2	_	is	_	_	_	_
-110-3	_	that	abstract[184]	new[184]	coref	111-2[184_185]
+110-3	_	that	abstract[185]	new[185]	coref	111-2[185_186]
 110-4	_	actually	_	_	_	_
 110-5	_	good	_	_	_	_
 110-6	_	?	_	_	_	_
 
 #Text=Does that mean that this is chocked full of preservatives ?
 111-1	_	Does	_	_	_	_
-111-2	_	that	abstract[185]	new[185]	_	_
+111-2	_	that	abstract[186]	new[186]	_	_
 111-3	_	mean	_	_	_	_
 111-4	_	that	_	_	_	_
-111-5	_	this	abstract[190]	new[190]	coref	114-6[190_191]
+111-5	_	this	abstract[191]	new[191]	coref	114-6[191_192]
 111-6	_	is	_	_	_	_
 111-7	_	chocked	_	_	_	_
 111-8	_	full	_	_	_	_
@@ -1259,7 +1259,7 @@
 112-4	_	not	_	_	_	_
 112-5	_	healthy	_	_	_	_
 112-6	_	for	_	_	_	_
-112-7	_	you	abstract[187]	new[187]	coref	118-6[187_188]
+112-7	_	you	abstract[188]	new[188]	coref	118-6[188_189]
 112-8	_	?	_	_	_	_
 
 #Text=I do n't know !
@@ -1275,7 +1275,7 @@
 114-3	_	've	_	_	_	_
 114-4	_	definitely	_	_	_	_
 114-5	_	had	_	_	_	_
-114-6	_	this	abstract[191]	new[191]	_	_
+114-6	_	this	abstract[192]	new[192]	_	_
 114-7	_	for	_	_	_	_
 114-8	_	more	_	_	_	_
 114-9	_	than	_	_	_	_
@@ -1288,9 +1288,9 @@
 115-2	_	.	_	_	_	_
 
 #Text=This blue lipstick is definitely old .
-116-1	_	This	abstract[192]	new[192]	coref	118-13[192_193]
-116-2	_	blue	abstract[192]	new[192]	_	_
-116-3	_	lipstick	abstract[192]	new[192]	_	_
+116-1	_	This	abstract[193]	new[193]	coref	118-13[193_194]
+116-2	_	blue	abstract[193]	new[193]	_	_
+116-3	_	lipstick	abstract[193]	new[193]	_	_
 116-4	_	is	_	_	_	_
 116-5	_	definitely	_	_	_	_
 116-6	_	old	_	_	_	_
@@ -1307,16 +1307,16 @@
 118-3	_	n't	_	_	_	_
 118-4	_	know	_	_	_	_
 118-5	_	if	_	_	_	_
-118-6	_	you	abstract[188]	new[188]	coref	122-2[188_189]
+118-6	_	you	abstract[189]	new[189]	coref	122-2[189_190]
 118-7	_	can	_	_	_	_
 118-8	_	actually	_	_	_	_
 118-9	_	tell	_	_	_	_
 118-10	_	by	_	_	_	_
 118-11	_	looking	_	_	_	_
 118-12	_	at	_	_	_	_
-118-13	_	it	abstract[193]	new[193]	coref	118-15[193_194]
+118-13	_	it	abstract[194]	new[194]	coref	118-15[194_195]
 118-14	_	but	_	_	_	_
-118-15	_	she	abstract[194]	new[194]	_	_
+118-15	_	she	abstract[195]	new[195]	_	_
 118-16	_	's	_	_	_	_
 118-17	_	old	_	_	_	_
 118-18	_	.	_	_	_	_
@@ -1349,31 +1349,31 @@
 121-8	_	shelf	_	_	_	_
 121-9	_	life	_	_	_	_
 121-10	_	on	_	_	_	_
-121-11	_	the	abstract[203]	new[203]	coref	125-8[203_204]
-121-12	_	actual	abstract[203]	new[203]	_	_
-121-13	_	stick	abstract[203]	new[203]	_	_
+121-11	_	the	abstract[204]	new[204]	coref	125-8[204_205]
+121-12	_	actual	abstract[204]	new[204]	_	_
+121-13	_	stick	abstract[204]	new[204]	_	_
 121-14	_	.	_	_	_	_
 
 #Text=So you know how lipsticks usually come in packaging ?
 122-1	_	So	_	_	_	_
-122-2	_	you	abstract[189]	new[189]	_	_
+122-2	_	you	abstract[190]	new[190]	_	_
 122-3	_	know	_	_	_	_
 122-4	_	how	_	_	_	_
-122-5	_	lipsticks	abstract[195]	new[195]	coref	123-1[195_196]
+122-5	_	lipsticks	abstract[196]	new[196]	coref	123-1[196_197]
 122-6	_	usually	_	_	_	_
 122-7	_	come	_	_	_	_
 122-8	_	in	_	_	_	_
-122-9	_	packaging	abstract[198]	new[198]	coref	123-5[198_199]
+122-9	_	packaging	abstract[199]	new[199]	coref	123-5[199_200]
 122-10	_	?	_	_	_	_
 
 #Text=It usually comes in that little box ?
-123-1	_	It	abstract[196]	new[196]	coref	124-23[196_197]
+123-1	_	It	abstract[197]	new[197]	coref	124-23[197_198]
 123-2	_	usually	_	_	_	_
 123-3	_	comes	_	_	_	_
 123-4	_	in	_	_	_	_
-123-5	_	that	abstract[199]	new[199]	coref	124-18[199_200]
-123-6	_	little	abstract[199]	new[199]	_	_
-123-7	_	box	abstract[199]	new[199]	_	_
+123-5	_	that	abstract[200]	new[200]	coref	124-18[200_201]
+123-6	_	little	abstract[200]	new[200]	_	_
+123-7	_	box	abstract[200]	new[200]	_	_
 123-8	_	?	_	_	_	_
 
 #Text=I 'm thinking that maybe Dose of Colors and Urban Decay have the shelf life printed on those boxes but who keeps their lipsticks in a box ?
@@ -1394,13 +1394,13 @@
 124-15	_	life	_	_	_	_
 124-16	_	printed	_	_	_	_
 124-17	_	on	_	_	_	_
-124-18	_	those	abstract[200]	new[200]	_	_
-124-19	_	boxes	abstract[200]	new[200]	_	_
+124-18	_	those	abstract[201]	new[201]	_	_
+124-19	_	boxes	abstract[201]	new[201]	_	_
 124-20	_	but	_	_	_	_
-124-21	_	who	abstract[201]	new[201]	coref	124-23[201_202]
+124-21	_	who	abstract[202]	new[202]	coref	124-23[202_203]
 124-22	_	keeps	_	_	_	_
-124-23	_	their	abstract[197]|abstract[202]	new[197]|new[202]	_	_
-124-24	_	lipsticks	abstract[197]	new[197]	_	_
+124-23	_	their	abstract[198]|abstract[203]	new[198]|new[203]	_	_
+124-24	_	lipsticks	abstract[198]	new[198]	_	_
 124-25	_	in	_	_	_	_
 124-26	_	a	_	_	_	_
 124-27	_	box	_	_	_	_
@@ -1414,7 +1414,7 @@
 125-5	_	know	_	_	_	_
 125-6	_	now	_	_	_	_
 125-7	_	if	_	_	_	_
-125-8	_	this	abstract[204]	new[204]	coref	126-5[204_205]
+125-8	_	this	abstract[205]	new[205]	coref	126-5[205_206]
 125-9	_	is	_	_	_	_
 125-10	_	expired	_	_	_	_
 125-11	_	or	_	_	_	_
@@ -1426,7 +1426,7 @@
 126-2	_	've	_	_	_	_
 126-3	_	definitely	_	_	_	_
 126-4	_	had	_	_	_	_
-126-5	_	this	abstract[205]	new[205]	coref	126-20[205_206]
+126-5	_	this	abstract[206]	new[206]	coref	126-20[206_207]
 126-6	_	over	_	_	_	_
 126-7	_	two	_	_	_	_
 126-8	_	years	_	_	_	_
@@ -1441,7 +1441,7 @@
 126-17	_	ahead	_	_	_	_
 126-18	_	and	_	_	_	_
 126-19	_	throw	_	_	_	_
-126-20	_	it	abstract[206]	new[206]	_	_
+126-20	_	it	abstract[207]	new[207]	_	_
 126-21	_	in	_	_	_	_
 126-22	_	the	abstract[153]	new[153]	coref	130-2[153_154]
 126-23	_	expired	abstract[153]	new[153]	_	_
@@ -1452,19 +1452,19 @@
 127-1	_	I	abstract[94]	new[94]	coref	127-12[94_95]
 127-2	_	feel	_	_	_	_
 127-3	_	like	_	_	_	_
-127-4	_	two	abstract[207]	new[207]	coref	127-9[207_208]
-127-5	_	years	abstract[207]	new[207]	_	_
+127-4	_	two	abstract[208]	new[208]	coref	127-9[208_209]
+127-5	_	years	abstract[208]	new[208]	_	_
 127-6	_	is	_	_	_	_
 127-7	_	kind	_	_	_	_
 127-8	_	of	_	_	_	_
-127-9	_	the	abstract[208]	new[208]	_	_
-127-10	_	limit	abstract[208]	new[208]	_	_
-127-11	_	that	abstract[208]	new[208]	_	_
-127-12	_	I	abstract[95]|abstract[208]	new[95]|new[208]	coref	131-4[95_96]
-127-13	_	've	abstract[208]	new[208]	_	_
-127-14	_	seen	abstract[208]	new[208]	_	_
-127-15	_	so	abstract[208]	new[208]	_	_
-127-16	_	far	abstract[208]	new[208]	_	_
+127-9	_	the	abstract[209]	new[209]	_	_
+127-10	_	limit	abstract[209]	new[209]	_	_
+127-11	_	that	abstract[209]	new[209]	_	_
+127-12	_	I	abstract[95]|abstract[209]	new[95]|new[209]	coref	131-4[95_96]
+127-13	_	've	abstract[209]	new[209]	_	_
+127-14	_	seen	abstract[209]	new[209]	_	_
+127-15	_	so	abstract[209]	new[209]	_	_
+127-16	_	far	abstract[209]	new[209]	_	_
 127-17	_	.	_	_	_	_
 
 #Text=This has a shelf life of six months !
@@ -1516,7 +1516,7 @@
 131-19	_	are	_	_	_	_
 131-20	_	all	_	_	_	_
 131-21	_	the	_	_	_	_
-131-22	_	Dose	abstract[162]	new[162]	_	_
+131-22	_	Dose	abstract[162]	new[162]	coref	132-52[162_163]
 131-23	_	of	abstract[162]	new[162]	_	_
 131-24	_	Colors	abstract[162]	new[162]	_	_
 131-25	_	lipsticks	_	_	_	_
@@ -1534,21 +1534,66 @@
 131-37	_	years	_	_	_	_
 131-38	_	.	_	_	_	_
 
-#Text=Sally Smith vlogged her first day of her Glacier life vlogging for SEGA - TV .
-132-1	_	Sally	abstract[209]	new[209]	coref	132-4[209_210]
-132-2	_	Smith	abstract[209]	new[209]	_	_
-132-3	_	vlogged	_	_	_	_
-132-4	_	her	abstract[210]	new[210]	coref	132-8[210_211]
-132-5	_	first	_	_	_	_
-132-6	_	day	_	_	_	_
-132-7	_	of	_	_	_	_
-132-8	_	her	abstract[211]	new[211]	_	_
-132-9	_	Glacier	_	_	_	_
-132-10	_	life	_	_	_	_
-132-11	_	vlogging	_	_	_	_
-132-12	_	for	_	_	_	_
-132-13	_	SEGA	_	_	_	_
-132-14	_	-	_	_	_	_
-132-15	_	TV	_	_	_	_
-132-16	_	.	_	_	_	_
+#Text=For spring cleaning , a vlogger goes over her old lipsticks in order to clear out expired ones , and decides to throw out her Too Faced Melted Matte Liquid , Ofra , Ashton Liquid and Urban Decay lipsticks , but not her favority red Pat McGrath lipstick , or the Dose of Color products which have no expiration date .
+132-1	_	For	_	_	_	_
+132-2	_	spring	_	_	_	_
+132-3	_	cleaning	_	_	_	_
+132-4	_	,	_	_	_	_
+132-5	_	a	abstract[210]	new[210]	coref	132-9[210_211]
+132-6	_	vlogger	abstract[210]	new[210]	_	_
+132-7	_	goes	_	_	_	_
+132-8	_	over	_	_	_	_
+132-9	_	her	abstract[211]	new[211]	coref	132-25[211_212]
+132-10	_	old	_	_	_	_
+132-11	_	lipsticks	_	_	_	_
+132-12	_	in	_	_	_	_
+132-13	_	order	_	_	_	_
+132-14	_	to	_	_	_	_
+132-15	_	clear	_	_	_	_
+132-16	_	out	_	_	_	_
+132-17	_	expired	_	_	_	_
+132-18	_	ones	_	_	_	_
+132-19	_	,	_	_	_	_
+132-20	_	and	_	_	_	_
+132-21	_	decides	_	_	_	_
+132-22	_	to	_	_	_	_
+132-23	_	throw	_	_	_	_
+132-24	_	out	_	_	_	_
+132-25	_	her	abstract[212]	new[212]	coref	132-43[212_213]
+132-26	_	Too	_	_	_	_
+132-27	_	Faced	_	_	_	_
+132-28	_	Melted	_	_	_	_
+132-29	_	Matte	_	_	_	_
+132-30	_	Liquid	_	_	_	_
+132-31	_	,	_	_	_	_
+132-32	_	Ofra	_	_	_	_
+132-33	_	,	_	_	_	_
+132-34	_	Ashton	_	_	_	_
+132-35	_	Liquid	_	_	_	_
+132-36	_	and	_	_	_	_
+132-37	_	Urban	_	_	_	_
+132-38	_	Decay	_	_	_	_
+132-39	_	lipsticks	_	_	_	_
+132-40	_	,	_	_	_	_
+132-41	_	but	_	_	_	_
+132-42	_	not	_	_	_	_
+132-43	_	her	abstract[213]	new[213]	_	_
+132-44	_	favority	_	_	_	_
+132-45	_	red	_	_	_	_
+132-46	_	Pat	_	_	_	_
+132-47	_	McGrath	_	_	_	_
+132-48	_	lipstick	_	_	_	_
+132-49	_	,	_	_	_	_
+132-50	_	or	_	_	_	_
+132-51	_	the	_	_	_	_
+132-52	_	Dose	abstract[163]	new[163]	_	_
+132-53	_	of	abstract[163]	new[163]	_	_
+132-54	_	Color	abstract[163]	new[163]	_	_
+132-55	_	products	_	_	_	_
+132-56	_	which	_	_	_	_
+132-57	_	have	_	_	_	_
+132-58	_	no	_	_	_	_
+132-59	_	expiration	_	_	_	_
+132-60	_	date	_	_	_	_
+132-61	_	.	_	_	_	_
 

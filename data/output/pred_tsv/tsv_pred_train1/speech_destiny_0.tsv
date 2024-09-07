@@ -44,8 +44,8 @@
 4-17	_	we	abstract[2]	new[2]	coref	4-20[2_3]
 4-18	_	shall	_	_	_	_
 4-19	_	redeem	_	_	_	_
-4-20	_	our	abstract[3]|abstract[53]	new[3]|new[53]	coref|coref	6-13[3_4]|7-12[53_54]
-4-21	_	pledge	abstract[53]	new[53]	_	_
+4-20	_	our	abstract[3]|abstract[55]	new[3]|new[55]	coref|coref	6-13[3_4]|7-12[55_56]
+4-21	_	pledge	abstract[55]	new[55]	_	_
 4-22	_	,	_	_	_	_
 4-23	_	not	_	_	_	_
 4-24	_	wholly	_	_	_	_
@@ -137,26 +137,26 @@
 7-9	_	,	_	_	_	_
 7-10	_	we	abstract[5]	new[5]	coref	10-1[5_6]
 7-11	_	take	_	_	_	_
-7-12	_	the	abstract[54]	new[54]	coref	18-27[54_55]
-7-13	_	pledge	abstract[54]	new[54]	_	_
-7-14	_	of	abstract[54]	new[54]	_	_
-7-15	_	dedication	abstract[54]	new[54]	_	_
-7-16	_	to	abstract[54]	new[54]	_	_
-7-17	_	the	abstract[54]|abstract[71]	new[54]|new[71]	coref	19-1[71_72]
-7-18	_	service	abstract[54]|abstract[71]	new[54]|new[71]	_	_
-7-19	_	of	abstract[54]|abstract[71]	new[54]|new[71]	_	_
-7-20	_	India	abstract[23]|abstract[54]|abstract[71]	new[23]|new[54]|new[71]	coref	7-22[23_24]
-7-21	_	and	abstract[54]|abstract[71]	new[54]|new[71]	_	_
-7-22	_	her	abstract[24]|abstract[54]|abstract[63]|abstract[71]	new[24]|new[54]|new[63]|new[71]	coref|coref	8-7[24_25]|14-12[63_64]
-7-23	_	people	abstract[54]|abstract[63]|abstract[71]	new[54]|new[63]|new[71]	_	_
-7-24	_	and	abstract[54]	new[54]	_	_
-7-25	_	to	abstract[54]	new[54]	_	_
-7-26	_	the	abstract[54]	new[54]	_	_
-7-27	_	still	abstract[54]	new[54]	_	_
-7-28	_	larger	abstract[54]	new[54]	_	_
-7-29	_	cause	abstract[54]	new[54]	_	_
-7-30	_	of	abstract[54]	new[54]	_	_
-7-31	_	humanity	abstract[54]	new[54]	_	_
+7-12	_	the	abstract[56]	new[56]	coref	18-27[56_57]
+7-13	_	pledge	abstract[56]	new[56]	_	_
+7-14	_	of	abstract[56]	new[56]	_	_
+7-15	_	dedication	abstract[56]	new[56]	_	_
+7-16	_	to	abstract[56]	new[56]	_	_
+7-17	_	the	abstract[56]|abstract[72]	new[56]|new[72]	coref	19-1[72_73]
+7-18	_	service	abstract[56]|abstract[72]	new[56]|new[72]	_	_
+7-19	_	of	abstract[56]|abstract[72]	new[56]|new[72]	_	_
+7-20	_	India	abstract[23]|abstract[56]|abstract[72]	new[23]|new[56]|new[72]	coref	7-22[23_24]
+7-21	_	and	abstract[56]|abstract[72]	new[56]|new[72]	_	_
+7-22	_	her	abstract[24]|abstract[56]|abstract[65]|abstract[72]	new[24]|new[56]|new[65]|new[72]	coref|coref	8-7[24_25]|14-12[65_66]
+7-23	_	people	abstract[56]|abstract[65]|abstract[72]	new[56]|new[65]|new[72]	_	_
+7-24	_	and	abstract[56]	new[56]	_	_
+7-25	_	to	abstract[56]	new[56]	_	_
+7-26	_	the	abstract[56]	new[56]	_	_
+7-27	_	still	abstract[56]	new[56]	_	_
+7-28	_	larger	abstract[56]	new[56]	_	_
+7-29	_	cause	abstract[56]	new[56]	_	_
+7-30	_	of	abstract[56]	new[56]	_	_
+7-31	_	humanity	abstract[56]	new[56]	_	_
 7-32	_	.	_	_	_	_
 
 #Text=At the dawn of history , India started on her unending quest , and trackless centuries are filled with her striving and grandeur of her success and failures .
@@ -169,9 +169,9 @@
 8-7	_	India	abstract[25]	new[25]	coref	8-10[25_26]
 8-8	_	started	_	_	_	_
 8-9	_	on	_	_	_	_
-8-10	_	her	abstract[26]|abstract[57]	new[26]|new[57]	coref|coref	8-20[26_27]|9-14[57_58]
-8-11	_	unending	abstract[57]	new[57]	_	_
-8-12	_	quest	abstract[57]	new[57]	_	_
+8-10	_	her	abstract[26]|abstract[59]	new[26]|new[59]	coref|coref	8-20[26_27]|9-14[59_60]
+8-11	_	unending	abstract[59]	new[59]	_	_
+8-12	_	quest	abstract[59]	new[59]	_	_
 8-13	_	,	_	_	_	_
 8-14	_	and	_	_	_	_
 8-15	_	trackless	_	_	_	_
@@ -204,8 +204,8 @@
 9-11	_	lost	_	_	_	_
 9-12	_	sight	_	_	_	_
 9-13	_	of	_	_	_	_
-9-14	_	that	abstract[58]	new[58]	_	_
-9-15	_	quest	abstract[58]	new[58]	_	_
+9-14	_	that	abstract[60]	new[60]	_	_
+9-15	_	quest	abstract[60]	new[60]	_	_
 9-16	_	,	_	_	_	_
 9-17	_	forgotten	_	_	_	_
 9-18	_	the	_	_	_	_
@@ -245,7 +245,7 @@
 11-11	_	an	_	_	_	_
 11-12	_	opening	_	_	_	_
 11-13	_	of	_	_	_	_
-11-14	_	opportunity	abstract[59]	new[59]	coref	12-10[59_60]
+11-14	_	opportunity	abstract[61]	new[61]	coref	12-10[61_62]
 11-15	_	to	_	_	_	_
 11-16	_	the	_	_	_	_
 11-17	_	greater	_	_	_	_
@@ -267,15 +267,15 @@
 12-7	_	enough	_	_	_	_
 12-8	_	to	_	_	_	_
 12-9	_	grasp	_	_	_	_
-12-10	_	this	abstract[60]	new[60]	_	_
-12-11	_	opportunity	abstract[60]	new[60]	_	_
+12-10	_	this	abstract[62]	new[62]	_	_
+12-11	_	opportunity	abstract[62]	new[62]	_	_
 12-12	_	and	_	_	_	_
 12-13	_	accept	_	_	_	_
 12-14	_	the	_	_	_	_
 12-15	_	challenge	_	_	_	_
 12-16	_	of	_	_	_	_
-12-17	_	the	abstract[66]	new[66]	coref	17-8[66_67]
-12-18	_	future	abstract[66]	new[66]	_	_
+12-17	_	the	abstract[68]	new[68]	coref	17-8[68_69]
+12-18	_	future	abstract[68]	new[68]	_	_
 12-19	_	?	_	_	_	_
 
 #Text=Freedom and power bring responsibility .
@@ -283,12 +283,12 @@
 13-2	_	and	_	_	_	_
 13-3	_	power	_	_	_	_
 13-4	_	bring	_	_	_	_
-13-5	_	responsibility	abstract[61]	new[61]	coref	14-1[61_62]
+13-5	_	responsibility	abstract[63]	new[63]	coref	14-1[63_64]
 13-6	_	.	_	_	_	_
 
 #Text=The responsibility rests upon this Assembly , a sovereign body representing the sovereign people of India .
-14-1	_	The	abstract[62]	new[62]	_	_
-14-2	_	responsibility	abstract[62]	new[62]	_	_
+14-1	_	The	abstract[64]	new[64]	_	_
+14-2	_	responsibility	abstract[64]	new[64]	_	_
 14-3	_	rests	_	_	_	_
 14-4	_	upon	_	_	_	_
 14-5	_	this	_	_	_	_
@@ -298,11 +298,11 @@
 14-9	_	sovereign	_	_	_	_
 14-10	_	body	_	_	_	_
 14-11	_	representing	_	_	_	_
-14-12	_	the	abstract[64]	new[64]	coref	26-2[64_65]
-14-13	_	sovereign	abstract[64]	new[64]	_	_
-14-14	_	people	abstract[64]	new[64]	_	_
-14-15	_	of	abstract[64]	new[64]	_	_
-14-16	_	India	abstract[33]|abstract[64]	new[33]|new[64]	coref	19-4[33_34]
+14-12	_	the	abstract[66]	new[66]	coref	26-2[66_67]
+14-13	_	sovereign	abstract[66]	new[66]	_	_
+14-14	_	people	abstract[66]	new[66]	_	_
+14-15	_	of	abstract[66]	new[66]	_	_
+14-16	_	India	abstract[33]|abstract[66]	new[33]|new[66]	coref	19-4[33_34]
 14-17	_	.	_	_	_	_
 
 #Text=Before the birth of freedom , we have endured all the pains of labour and our hearts are heavy with the memory of this sorrrow .
@@ -351,7 +351,7 @@
 17-5	_	is	_	_	_	_
 17-6	_	over	_	_	_	_
 17-7	_	and	_	_	_	_
-17-8	_	it	abstract[67]	new[67]	coref	18-1[67_68]
+17-8	_	it	abstract[69]	new[69]	coref	18-1[69_70]
 17-9	_	is	_	_	_	_
 17-10	_	the	_	_	_	_
 17-11	_	future	_	_	_	_
@@ -362,8 +362,8 @@
 17-16	_	.	_	_	_	_
 
 #Text=That future is not one of ease or resting but of incessant striving so that we may fulfill the pledges we have so often taken and the one we shall take today .
-18-1	_	That	abstract[68]	new[68]	coref	43-1[68_69]
-18-2	_	future	abstract[68]	new[68]	_	_
+18-1	_	That	abstract[70]	new[70]	coref	43-1[70_71]
+18-2	_	future	abstract[70]	new[70]	_	_
 18-3	_	is	_	_	_	_
 18-4	_	not	_	_	_	_
 18-5	_	one	_	_	_	_
@@ -388,32 +388,32 @@
 18-24	_	often	abstract[138]	new[138]	_	_
 18-25	_	taken	abstract[138]	new[138]	_	_
 18-26	_	and	_	_	_	_
-18-27	_	the	abstract[55]	new[55]	coref	47-13[55_56]
-18-28	_	one	abstract[55]	new[55]	_	_
-18-29	_	we	abstract[15]|abstract[55]	new[15]|new[55]	coref	21-8[15_16]
-18-30	_	shall	abstract[55]	new[55]	_	_
-18-31	_	take	abstract[55]	new[55]	_	_
-18-32	_	today	abstract[55]	new[55]	_	_
+18-27	_	the	abstract[57]	new[57]	coref	47-13[57_58]
+18-28	_	one	abstract[57]	new[57]	_	_
+18-29	_	we	abstract[15]|abstract[57]	new[15]|new[57]	coref	21-8[15_16]
+18-30	_	shall	abstract[57]	new[57]	_	_
+18-31	_	take	abstract[57]	new[57]	_	_
+18-32	_	today	abstract[57]	new[57]	_	_
 18-33	_	.	_	_	_	_
 
 #Text=The service of India means , the service of the millions who suffer .
-19-1	_	The	abstract[72]	new[72]	coref	19-7[72_73]
-19-2	_	service	abstract[72]	new[72]	_	_
-19-3	_	of	abstract[72]	new[72]	_	_
-19-4	_	India	abstract[34]|abstract[72]	new[34]|new[72]	coref	24-6[34_35]
+19-1	_	The	abstract[73]	new[73]	coref	19-7[73_74]
+19-2	_	service	abstract[73]	new[73]	_	_
+19-3	_	of	abstract[73]	new[73]	_	_
+19-4	_	India	abstract[34]|abstract[73]	new[34]|new[73]	coref	24-6[34_35]
 19-5	_	means	_	_	_	_
 19-6	_	,	_	_	_	_
-19-7	_	the	abstract[73]	new[73]	coref	20-1[73_74]
-19-8	_	service	abstract[73]	new[73]	_	_
-19-9	_	of	abstract[73]	new[73]	_	_
-19-10	_	the	abstract[73]	new[73]	_	_
-19-11	_	millions	abstract[73]	new[73]	_	_
-19-12	_	who	abstract[73]	new[73]	_	_
-19-13	_	suffer	abstract[73]	new[73]	_	_
+19-7	_	the	abstract[74]	new[74]	coref	20-1[74_75]
+19-8	_	service	abstract[74]	new[74]	_	_
+19-9	_	of	abstract[74]	new[74]	_	_
+19-10	_	the	abstract[74]	new[74]	_	_
+19-11	_	millions	abstract[74]	new[74]	_	_
+19-12	_	who	abstract[74]	new[74]	_	_
+19-13	_	suffer	abstract[74]	new[74]	_	_
 19-14	_	.	_	_	_	_
 
 #Text=It means the ending of poverty and ignorance and poverty and disease and inequality of opportunity .
-20-1	_	It	abstract[74]	new[74]	coref	52-33[74_75]
+20-1	_	It	abstract[75]	new[75]	coref	52-33[75_76]
 20-2	_	means	_	_	_	_
 20-3	_	the	_	_	_	_
 20-4	_	ending	_	_	_	_
@@ -432,15 +432,15 @@
 20-17	_	.	_	_	_	_
 
 #Text=The ambition of the greatest men of our generation has been to wipe every tear from every eye .
-21-1	_	The	abstract[76]	new[76]	coref	22-1[76_77]
-21-2	_	ambition	abstract[76]	new[76]	_	_
-21-3	_	of	abstract[76]	new[76]	_	_
-21-4	_	the	abstract[76]	new[76]	_	_
-21-5	_	greatest	abstract[76]	new[76]	_	_
-21-6	_	men	abstract[76]	new[76]	_	_
-21-7	_	of	abstract[76]	new[76]	_	_
-21-8	_	our	abstract[16]|abstract[76]	new[16]|new[76]	coref	22-5[16_17]
-21-9	_	generation	abstract[76]	new[76]	_	_
+21-1	_	The	abstract[77]	new[77]	coref	22-1[77_78]
+21-2	_	ambition	abstract[77]	new[77]	_	_
+21-3	_	of	abstract[77]	new[77]	_	_
+21-4	_	the	abstract[77]	new[77]	_	_
+21-5	_	greatest	abstract[77]	new[77]	_	_
+21-6	_	men	abstract[77]	new[77]	_	_
+21-7	_	of	abstract[77]	new[77]	_	_
+21-8	_	our	abstract[16]|abstract[77]	new[16]|new[77]	coref	22-5[16_17]
+21-9	_	generation	abstract[77]	new[77]	_	_
 21-10	_	has	_	_	_	_
 21-11	_	been	_	_	_	_
 21-12	_	to	_	_	_	_
@@ -453,7 +453,7 @@
 21-19	_	.	_	_	_	_
 
 #Text=That may be beyond us , but as long as there are tears and suffering , so long our work will not be over .
-22-1	_	That	abstract[77]	new[77]	_	_
+22-1	_	That	abstract[78]	new[78]	_	_
 22-2	_	may	_	_	_	_
 22-3	_	be	_	_	_	_
 22-4	_	beyond	_	_	_	_
@@ -499,19 +499,19 @@
 23-17	_	give	_	_	_	_
 23-18	_	reality	_	_	_	_
 23-19	_	to	_	_	_	_
-23-20	_	our	abstract[20]|abstract[78]	new[20]|new[78]	coref	24-2[78_79]
-23-21	_	dreams	abstract[78]	new[78]	_	_
+23-20	_	our	abstract[20]|abstract[79]	new[20]|new[79]	coref	24-2[79_80]
+23-21	_	dreams	abstract[79]	new[79]	_	_
 23-22	_	.	_	_	_	_
 
 #Text=Those dreams are for India , but they are also for the world , for all the nations and peoples are too closely knit together today for any one of them to imagine that it can live apart .
-24-1	_	Those	abstract[79]	new[79]	coref	24-9[79_80]
-24-2	_	dreams	abstract[79]	new[79]	_	_
+24-1	_	Those	abstract[80]	new[80]	coref	24-9[80_81]
+24-2	_	dreams	abstract[80]	new[80]	_	_
 24-3	_	are	_	_	_	_
 24-4	_	for	_	_	_	_
 24-5	_	India	abstract[35]	new[35]	coref	26-5[35_36]
 24-6	_	,	_	_	_	_
 24-7	_	but	_	_	_	_
-24-8	_	they	abstract[80]	new[80]	_	_
+24-8	_	they	abstract[81]	new[81]	_	_
 24-9	_	are	_	_	_	_
 24-10	_	also	_	_	_	_
 24-11	_	for	_	_	_	_
@@ -519,11 +519,11 @@
 24-13	_	world	_	_	_	_
 24-14	_	,	_	_	_	_
 24-15	_	for	_	_	_	_
-24-16	_	all	abstract[81]	new[81]	coref	24-32[81_82]
-24-17	_	the	abstract[81]	new[81]	_	_
-24-18	_	nations	abstract[81]	new[81]	_	_
-24-19	_	and	abstract[81]	new[81]	_	_
-24-20	_	peoples	abstract[81]	new[81]	_	_
+24-16	_	all	abstract[82]	new[82]	coref	24-32[82_83]
+24-17	_	the	abstract[82]	new[82]	_	_
+24-18	_	nations	abstract[82]	new[82]	_	_
+24-19	_	and	abstract[82]	new[82]	_	_
+24-20	_	peoples	abstract[82]	new[82]	_	_
 24-21	_	are	_	_	_	_
 24-22	_	too	_	_	_	_
 24-23	_	closely	_	_	_	_
@@ -531,14 +531,14 @@
 24-25	_	together	_	_	_	_
 24-26	_	today	_	_	_	_
 24-27	_	for	_	_	_	_
-24-28	_	any	abstract[84]	new[84]	coref	24-36[84_85]
-24-29	_	one	abstract[84]	new[84]	_	_
-24-30	_	of	abstract[84]	new[84]	_	_
-24-31	_	them	abstract[82]|abstract[84]	new[82]|new[84]	coref	51-2[82_83]
+24-28	_	any	abstract[85]	new[85]	coref	24-36[85_86]
+24-29	_	one	abstract[85]	new[85]	_	_
+24-30	_	of	abstract[85]	new[85]	_	_
+24-31	_	them	abstract[83]|abstract[85]	new[83]|new[85]	coref	51-2[83_84]
 24-32	_	to	_	_	_	_
 24-33	_	imagine	_	_	_	_
 24-34	_	that	_	_	_	_
-24-35	_	it	abstract[85]	new[85]	_	_
+24-35	_	it	abstract[86]	new[86]	_	_
 24-36	_	can	_	_	_	_
 24-37	_	live	_	_	_	_
 24-38	_	apart	_	_	_	_
@@ -582,23 +582,23 @@
 
 #Text=To the people of India , whose representatives we are , we make an appeal to join us with faith and confidence in this great adventure .
 26-1	_	To	_	_	_	_
-26-2	_	the	abstract[65]	new[65]	_	_
-26-3	_	people	abstract[65]	new[65]	_	_
-26-4	_	of	abstract[65]	new[65]	_	_
-26-5	_	India	abstract[36]|abstract[65]	new[36]|new[65]	coref	28-9[36_37]
-26-6	_	,	abstract[65]	new[65]	_	_
-26-7	_	whose	abstract[65]	new[65]	_	_
-26-8	_	representatives	abstract[65]	new[65]	_	_
-26-9	_	we	abstract[65]	new[65]	_	_
-26-10	_	are	abstract[65]	new[65]	_	_
+26-2	_	the	abstract[67]	new[67]	_	_
+26-3	_	people	abstract[67]	new[67]	_	_
+26-4	_	of	abstract[67]	new[67]	_	_
+26-5	_	India	abstract[36]|abstract[67]	new[36]|new[67]	coref	28-9[36_37]
+26-6	_	,	abstract[67]	new[67]	_	_
+26-7	_	whose	abstract[67]	new[67]	_	_
+26-8	_	representatives	abstract[67]	new[67]	_	_
+26-9	_	we	abstract[67]	new[67]	_	_
+26-10	_	are	abstract[67]	new[67]	_	_
 26-11	_	,	_	_	_	_
-26-12	_	we	abstract[86]	new[86]	coref	26-18[86_87]
+26-12	_	we	abstract[87]	new[87]	coref	26-18[87_88]
 26-13	_	make	_	_	_	_
 26-14	_	an	_	_	_	_
 26-15	_	appeal	_	_	_	_
 26-16	_	to	_	_	_	_
 26-17	_	join	_	_	_	_
-26-18	_	us	abstract[87]	new[87]	coref	28-1[87_88]
+26-18	_	us	abstract[88]	new[88]	coref	28-1[88_89]
 26-19	_	with	_	_	_	_
 26-20	_	faith	_	_	_	_
 26-21	_	and	_	_	_	_
@@ -630,7 +630,7 @@
 27-18	_	.	_	_	_	_
 
 #Text=We have to build the noble mansion of free India where all her children may dwell .
-28-1	_	We	abstract[88]	new[88]	coref	30-6[88_89]
+28-1	_	We	abstract[89]	new[89]	coref	30-6[89_90]
 28-2	_	have	_	_	_	_
 28-3	_	to	_	_	_	_
 28-4	_	build	_	_	_	_
@@ -688,23 +688,23 @@
 30-3	_	clings	_	_	_	_
 30-4	_	on	_	_	_	_
 30-5	_	to	_	_	_	_
-30-6	_	us	abstract[89]	new[89]	coref	30-12[89_90]
+30-6	_	us	abstract[90]	new[90]	coref	30-12[90_91]
 30-7	_	still	_	_	_	_
 30-8	_	in	_	_	_	_
 30-9	_	some	_	_	_	_
 30-10	_	measure	_	_	_	_
 30-11	_	and	_	_	_	_
-30-12	_	we	abstract[90]	new[90]	coref	30-18[90_91]
+30-12	_	we	abstract[91]	new[91]	coref	30-18[91_92]
 30-13	_	have	_	_	_	_
 30-14	_	to	_	_	_	_
 30-15	_	do	_	_	_	_
 30-16	_	much	_	_	_	_
 30-17	_	before	_	_	_	_
-30-18	_	we	abstract[91]	new[91]	coref	30-22[91_92]
+30-18	_	we	abstract[92]	new[92]	coref	30-22[92_93]
 30-19	_	redeem	_	_	_	_
 30-20	_	the	abstract[139]	new[139]	_	_
 30-21	_	pledges	abstract[139]	new[139]	_	_
-30-22	_	we	abstract[92]|abstract[139]	new[92]|new[139]	coref	31-14[92_93]
+30-22	_	we	abstract[93]|abstract[139]	new[93]|new[139]	coref	31-14[93_94]
 30-23	_	have	abstract[139]	new[139]	_	_
 30-24	_	so	abstract[139]	new[139]	_	_
 30-25	_	often	abstract[139]	new[139]	_	_
@@ -725,12 +725,12 @@
 31-11	_	begins	_	_	_	_
 31-12	_	anew	_	_	_	_
 31-13	_	for	_	_	_	_
-31-14	_	us	abstract[93]	new[93]	coref	31-19[93_94]
+31-14	_	us	abstract[94]	new[94]	coref	31-19[94_95]
 31-15	_	,	_	_	_	_
 31-16	_	the	abstract[141]	new[141]	_	_
 31-17	_	history	abstract[141]	new[141]	_	_
 31-18	_	which	abstract[141]	new[141]	_	_
-31-19	_	we	abstract[94]|abstract[141]	new[94]|new[141]	coref	35-1[94_95]
+31-19	_	we	abstract[95]|abstract[141]	new[95]|new[141]	coref	35-1[95_96]
 31-20	_	shall	abstract[141]	new[141]	_	_
 31-21	_	live	abstract[141]	new[141]	_	_
 31-22	_	and	abstract[141]	new[141]	_	_
@@ -805,7 +805,7 @@
 34-12	_	!	_	_	_	_
 
 #Text=We rejoice in that freedom , even though clouds surround us , and many of our people are sorrowstricken and difficult problems encompass us .
-35-1	_	We	abstract[95]	new[95]	coref	35-11[95_96]
+35-1	_	We	abstract[96]	new[96]	coref	35-11[96_97]
 35-2	_	rejoice	_	_	_	_
 35-3	_	in	_	_	_	_
 35-4	_	that	abstract[153]	new[153]	coref	37-12[153_154]
@@ -815,12 +815,12 @@
 35-8	_	though	_	_	_	_
 35-9	_	clouds	_	_	_	_
 35-10	_	surround	_	_	_	_
-35-11	_	us	abstract[96]	new[96]	coref	35-16[96_97]
+35-11	_	us	abstract[97]	new[97]	coref	35-16[97_98]
 35-12	_	,	_	_	_	_
 35-13	_	and	_	_	_	_
 35-14	_	many	_	_	_	_
 35-15	_	of	_	_	_	_
-35-16	_	our	abstract[97]|abstract[157]	new[97]|new[157]	coref|coref	35-24[97_98]|47-21[157_158]
+35-16	_	our	abstract[98]|abstract[157]	new[98]|new[157]	coref|coref	35-24[98_99]|47-21[157_158]
 35-17	_	people	abstract[157]	new[157]	_	_
 35-18	_	are	_	_	_	_
 35-19	_	sorrowstricken	_	_	_	_
@@ -828,7 +828,7 @@
 35-21	_	difficult	_	_	_	_
 35-22	_	problems	_	_	_	_
 35-23	_	encompass	_	_	_	_
-35-24	_	us	abstract[98]	new[98]	coref	36-8[98_99]
+35-24	_	us	abstract[99]	new[99]	coref	36-8[99_100]
 35-25	_	.	_	_	_	_
 
 #Text=But freedom brings responsibilities and burdens and we have to face them in the spirit of a free and disciplined people .
@@ -839,7 +839,7 @@
 36-5	_	and	abstract[160]	new[160]	_	_
 36-6	_	burdens	abstract[160]	new[160]	_	_
 36-7	_	and	_	_	_	_
-36-8	_	we	abstract[99]	new[99]	coref	37-4[99_100]
+36-8	_	we	abstract[100]	new[100]	coref	37-4[100_101]
 36-9	_	have	_	_	_	_
 36-10	_	to	_	_	_	_
 36-11	_	face	_	_	_	_
@@ -859,7 +859,7 @@
 37-1	_	On	_	_	_	_
 37-2	_	this	abstract[135]	new[135]	_	_
 37-3	_	day	abstract[135]	new[135]	_	_
-37-4	_	our	abstract[100]	new[100]	coref	37-18[100_101]
+37-4	_	our	abstract[101]	new[101]	coref	37-18[101_102]
 37-5	_	first	_	_	_	_
 37-6	_	thoughts	_	_	_	_
 37-7	_	go	_	_	_	_
@@ -873,7 +873,7 @@
 37-15	_	the	_	_	_	_
 37-16	_	Father	_	_	_	_
 37-17	_	of	_	_	_	_
-37-18	_	our	abstract[41]|abstract[101]	new[41]|new[101]	coref|coref	37-28[41_42]|37-43[101_102]
+37-18	_	our	abstract[41]|abstract[102]	new[41]|new[102]	coref|coref	37-28[41_42]|37-43[102_103]
 37-19	_	Nation	abstract[41]	new[41]	_	_
 37-20	_	,	_	_	_	_
 37-21	_	who	_	_	_	_
@@ -898,11 +898,11 @@
 37-40	_	darkness	_	_	_	_
 37-41	_	that	_	_	_	_
 37-42	_	surrounded	_	_	_	_
-37-43	_	us	abstract[102]	new[102]	coref	38-1[102_103]
+37-43	_	us	abstract[103]	new[103]	coref	38-1[103_104]
 37-44	_	.	_	_	_	_
 
 #Text=We have often been unworthy followers of his and have strayed from his message , but not only we but succeeding generations will remember this message and bear the imprint in their hearts of this great son of India , magnificent in his faith and strength and courage and humility .
-38-1	_	We	abstract[103]	new[103]	coref	38-19[103_104]
+38-1	_	We	abstract[104]	new[104]	coref	38-19[104_105]
 38-2	_	have	_	_	_	_
 38-3	_	often	_	_	_	_
 38-4	_	been	_	_	_	_
@@ -920,7 +920,7 @@
 38-16	_	but	_	_	_	_
 38-17	_	not	_	_	_	_
 38-18	_	only	_	_	_	_
-38-19	_	we	abstract[104]	new[104]	coref	39-1[104_105]
+38-19	_	we	abstract[105]	new[105]	coref	39-1[105_106]
 38-20	_	but	_	_	_	_
 38-21	_	succeeding	abstract[167]	new[167]	coref	38-32[167_168]
 38-22	_	generations	abstract[167]	new[167]	_	_
@@ -955,7 +955,7 @@
 38-51	_	.	_	_	_	_
 
 #Text=We shall never allow that torch of freedom to be blown out , however high the wind or stormy the tempest .
-39-1	_	We	abstract[105]	new[105]	coref	40-1[105_106]
+39-1	_	We	abstract[106]	new[106]	coref	40-1[106_107]
 39-2	_	shall	_	_	_	_
 39-3	_	never	_	_	_	_
 39-4	_	allow	_	_	_	_
@@ -979,7 +979,7 @@
 39-22	_	.	_	_	_	_
 
 #Text=Our next thoughts must be of the unknown volunteers and soldiers of freedom who , without praise or reward , have served India even unto death .
-40-1	_	Our	abstract[106]	new[106]	coref	41-2[106_107]
+40-1	_	Our	abstract[107]	new[107]	coref	41-2[107_108]
 40-2	_	next	_	_	_	_
 40-3	_	thoughts	_	_	_	_
 40-4	_	must	_	_	_	_
@@ -1008,11 +1008,11 @@
 40-27	_	.	_	_	_	_
 
 #Text=We think also of our brothers and sisters who have been cut off from us by political boundaries and who unhappily can not share at present in the freedom that has come .
-41-1	_	We	abstract[107]	new[107]	coref	41-6[107_108]
+41-1	_	We	abstract[108]	new[108]	coref	41-6[108_109]
 41-2	_	think	_	_	_	_
 41-3	_	also	_	_	_	_
 41-4	_	of	_	_	_	_
-41-5	_	our	abstract[108]	new[108]	coref	41-16[108_109]
+41-5	_	our	abstract[109]	new[109]	coref	41-16[109_110]
 41-6	_	brothers	_	_	_	_
 41-7	_	and	_	_	_	_
 41-8	_	sisters	_	_	_	_
@@ -1022,7 +1022,7 @@
 41-12	_	cut	_	_	_	_
 41-13	_	off	_	_	_	_
 41-14	_	from	_	_	_	_
-41-15	_	us	abstract[109]	new[109]	coref	42-4[109_110]
+41-15	_	us	abstract[110]	new[110]	coref	42-4[110_111]
 41-16	_	by	_	_	_	_
 41-17	_	political	_	_	_	_
 41-18	_	boundaries	_	_	_	_
@@ -1046,18 +1046,18 @@
 42-1	_	They	abstract[171]	new[171]	coref	42-20[171_172]
 42-2	_	are	_	_	_	_
 42-3	_	of	_	_	_	_
-42-4	_	us	abstract[110]	new[110]	coref	42-9[110_111]
+42-4	_	us	abstract[111]	new[111]	coref	42-9[111_112]
 42-5	_	and	_	_	_	_
 42-6	_	will	_	_	_	_
 42-7	_	remain	_	_	_	_
 42-8	_	of	_	_	_	_
-42-9	_	us	abstract[111]	new[111]	coref	42-15[111_112]
+42-9	_	us	abstract[112]	new[112]	coref	42-15[112_113]
 42-10	_	whatever	_	_	_	_
 42-11	_	may	_	_	_	_
 42-12	_	happen	_	_	_	_
 42-13	_	,	_	_	_	_
 42-14	_	and	_	_	_	_
-42-15	_	we	abstract[112]	new[112]	coref	43-5[112_113]
+42-15	_	we	abstract[113]	new[113]	coref	43-5[113_114]
 42-16	_	shall	_	_	_	_
 42-17	_	be	_	_	_	_
 42-18	_	sharers	_	_	_	_
@@ -1073,23 +1073,23 @@
 42-28	_	.	_	_	_	_
 
 #Text=The future beckons to us .
-43-1	_	The	abstract[69]	new[69]	coref	53-34[69_70]
-43-2	_	future	abstract[69]	new[69]	_	_
+43-1	_	The	abstract[71]	new[71]	_	_
+43-2	_	future	abstract[71]	new[71]	_	_
 43-3	_	beckons	_	_	_	_
 43-4	_	to	_	_	_	_
-43-5	_	us	abstract[113]	new[113]	coref	44-3[113_114]
+43-5	_	us	abstract[114]	new[114]	coref	44-3[114_115]
 43-6	_	.	_	_	_	_
 
 #Text=Whither do we go and what shall be our endeavour ?
 44-1	_	Whither	_	_	_	_
 44-2	_	do	_	_	_	_
-44-3	_	we	abstract[114]	new[114]	coref	44-9[114_115]
+44-3	_	we	abstract[115]	new[115]	coref	44-9[115_116]
 44-4	_	go	_	_	_	_
 44-5	_	and	_	_	_	_
 44-6	_	what	_	_	_	_
 44-7	_	shall	_	_	_	_
 44-8	_	be	_	_	_	_
-44-9	_	our	abstract[115]	new[115]	coref	46-1[115_116]
+44-9	_	our	abstract[116]	new[116]	coref	46-1[116_117]
 44-10	_	endeavour	_	_	_	_
 44-11	_	?	_	_	_	_
 
@@ -1158,7 +1158,7 @@
 45-62	_	.	_	_	_	_
 
 #Text=We have hard work ahead .
-46-1	_	We	abstract[116]	new[116]	coref	47-9[116_117]
+46-1	_	We	abstract[117]	new[117]	coref	47-9[117_118]
 46-2	_	have	_	_	_	_
 46-3	_	hard	_	_	_	_
 46-4	_	work	_	_	_	_
@@ -1174,17 +1174,17 @@
 47-6	_	any	_	_	_	_
 47-7	_	one	_	_	_	_
 47-8	_	of	_	_	_	_
-47-9	_	us	abstract[117]	new[117]	coref	47-11[117_118]
+47-9	_	us	abstract[118]	new[118]	coref	47-11[118_119]
 47-10	_	till	_	_	_	_
-47-11	_	we	abstract[118]	new[118]	coref	47-13[118_119]
+47-11	_	we	abstract[119]	new[119]	coref	47-13[119_120]
 47-12	_	redeem	_	_	_	_
-47-13	_	our	abstract[56]|abstract[119]	new[56]|new[119]	coref	47-19[119_120]
-47-14	_	pledge	abstract[56]	new[56]	_	_
+47-13	_	our	abstract[58]|abstract[120]	new[58]|new[120]	coref	47-19[120_121]
+47-14	_	pledge	abstract[58]	new[58]	_	_
 47-15	_	in	_	_	_	_
 47-16	_	full	_	_	_	_
 47-17	_	,	_	_	_	_
 47-18	_	till	_	_	_	_
-47-19	_	we	abstract[120]	new[120]	coref	48-1[120_121]
+47-19	_	we	abstract[121]	new[121]	coref	48-1[121_122]
 47-20	_	make	_	_	_	_
 47-21	_	all	abstract[158]	new[158]	coref	47-29[158_159]
 47-22	_	the	abstract[158]	new[158]	_	_
@@ -1200,7 +1200,7 @@
 47-32	_	.	_	_	_	_
 
 #Text=We are citizens of a great country on the verge of bold advance , and we have to live up to that high standard .
-48-1	_	We	abstract[121]	new[121]	coref	48-16[121_122]
+48-1	_	We	abstract[122]	new[122]	coref	48-16[122_123]
 48-2	_	are	_	_	_	_
 48-3	_	citizens	_	_	_	_
 48-4	_	of	_	_	_	_
@@ -1215,7 +1215,7 @@
 48-13	_	advance	abstract[46]	new[46]	_	_
 48-14	_	,	_	_	_	_
 48-15	_	and	_	_	_	_
-48-16	_	we	abstract[122]	new[122]	coref	49-1[122_123]
+48-16	_	we	abstract[123]	new[123]	coref	49-1[123_124]
 48-17	_	have	_	_	_	_
 48-18	_	to	_	_	_	_
 48-19	_	live	_	_	_	_
@@ -1227,16 +1227,16 @@
 48-25	_	.	_	_	_	_
 
 #Text=All of us , to whatever religion we may belong , are equally the children of India with equal rights , privileges and obligations .
-49-1	_	All	abstract[123]	new[123]	coref	50-1[123_124]
-49-2	_	of	abstract[123]	new[123]	_	_
-49-3	_	us	abstract[123]	new[123]	_	_
-49-4	_	,	abstract[123]	new[123]	_	_
-49-5	_	to	abstract[123]	new[123]	_	_
-49-6	_	whatever	abstract[123]	new[123]	_	_
-49-7	_	religion	abstract[123]	new[123]	_	_
-49-8	_	we	abstract[123]	new[123]	_	_
-49-9	_	may	abstract[123]	new[123]	_	_
-49-10	_	belong	abstract[123]	new[123]	_	_
+49-1	_	All	abstract[124]	new[124]	coref	50-1[124_125]
+49-2	_	of	abstract[124]	new[124]	_	_
+49-3	_	us	abstract[124]	new[124]	_	_
+49-4	_	,	abstract[124]	new[124]	_	_
+49-5	_	to	abstract[124]	new[124]	_	_
+49-6	_	whatever	abstract[124]	new[124]	_	_
+49-7	_	religion	abstract[124]	new[124]	_	_
+49-8	_	we	abstract[124]	new[124]	_	_
+49-9	_	may	abstract[124]	new[124]	_	_
+49-10	_	belong	abstract[124]	new[124]	_	_
 49-11	_	,	_	_	_	_
 49-12	_	are	_	_	_	_
 49-13	_	equally	_	_	_	_
@@ -1254,7 +1254,7 @@
 49-25	_	.	_	_	_	_
 
 #Text=We can not encourage communalism or narrow - mindedness , for no nation can be great whose people are narrow in thought or in action .
-50-1	_	We	abstract[124]	new[124]	coref	51-9[124_125]
+50-1	_	We	abstract[125]	new[125]	coref	51-9[125_126]
 50-2	_	can	_	_	_	_
 50-3	_	not	_	_	_	_
 50-4	_	encourage	_	_	_	_
@@ -1283,19 +1283,19 @@
 
 #Text=To the nations and peoples of the world we send greetings and pledge ourselves to cooperate with them in furthering peace , freedom and democracy .
 51-1	_	To	_	_	_	_
-51-2	_	the	abstract[83]	new[83]	_	_
-51-3	_	nations	abstract[83]	new[83]	_	_
-51-4	_	and	abstract[83]	new[83]	_	_
-51-5	_	peoples	abstract[83]	new[83]	_	_
-51-6	_	of	abstract[83]	new[83]	_	_
-51-7	_	the	abstract[83]|abstract[144]	new[83]|new[144]	_	_
-51-8	_	world	abstract[83]|abstract[144]	new[83]|new[144]	_	_
-51-9	_	we	abstract[125]	new[125]	coref	51-14[125_126]
+51-2	_	the	abstract[84]	new[84]	_	_
+51-3	_	nations	abstract[84]	new[84]	_	_
+51-4	_	and	abstract[84]	new[84]	_	_
+51-5	_	peoples	abstract[84]	new[84]	_	_
+51-6	_	of	abstract[84]	new[84]	_	_
+51-7	_	the	abstract[84]|abstract[144]	new[84]|new[144]	_	_
+51-8	_	world	abstract[84]|abstract[144]	new[84]|new[144]	_	_
+51-9	_	we	abstract[126]	new[126]	coref	51-14[126_127]
 51-10	_	send	_	_	_	_
 51-11	_	greetings	_	_	_	_
 51-12	_	and	_	_	_	_
 51-13	_	pledge	_	_	_	_
-51-14	_	ourselves	abstract[126]	new[126]	coref	52-5[126_127]
+51-14	_	ourselves	abstract[127]	new[127]	coref	52-5[127_128]
 51-15	_	to	_	_	_	_
 51-16	_	cooperate	_	_	_	_
 51-17	_	with	_	_	_	_
@@ -1314,7 +1314,7 @@
 52-2	_	to	_	_	_	_
 52-3	_	India	abstract[48]	new[48]	coref	52-11[48_49]
 52-4	_	,	abstract[48]	new[48]	_	_
-52-5	_	our	abstract[48]|abstract[127]	new[48]|new[127]	coref	52-22[127_128]
+52-5	_	our	abstract[48]|abstract[128]	new[48]|new[128]	coref	52-22[128_129]
 52-6	_	much	abstract[48]	new[48]	_	_
 52-7	_	-	abstract[48]	new[48]	_	_
 52-8	_	loved	abstract[48]	new[48]	_	_
@@ -1331,69 +1331,67 @@
 52-19	_	-	abstract[51]	new[51]	_	_
 52-20	_	new	abstract[51]	new[51]	_	_
 52-21	_	,	_	_	_	_
-52-22	_	we	abstract[128]	new[128]	coref	52-24[128_129]
+52-22	_	we	abstract[129]	new[129]	coref	52-24[129_130]
 52-23	_	pay	_	_	_	_
-52-24	_	our	abstract[129]	new[129]	coref	52-28[129_130]
+52-24	_	our	abstract[130]	new[130]	coref	52-28[130_131]
 52-25	_	reverent	_	_	_	_
 52-26	_	homage	_	_	_	_
 52-27	_	and	_	_	_	_
-52-28	_	we	abstract[130]	new[130]	coref	52-30[130_131]
+52-28	_	we	abstract[131]	new[131]	coref	52-30[131_132]
 52-29	_	bind	_	_	_	_
-52-30	_	ourselves	abstract[131]	new[131]	coref	53-46[131_132]
+52-30	_	ourselves	abstract[132]	new[132]	_	_
 52-31	_	afresh	_	_	_	_
 52-32	_	to	_	_	_	_
-52-33	_	her	abstract[52]|abstract[75]	new[52]|new[75]	_	_
-52-34	_	service	abstract[75]	new[75]	_	_
+52-33	_	her	abstract[52]|abstract[76]	new[52]|new[76]	coref	53-18[52_53]
+52-34	_	service	abstract[76]	new[76]	_	_
 52-35	_	.	_	_	_	_
 
-#Text=The Environmental Protection Agency will soon unveil an IT and ICT - based network in Taiwan . What 's going on in the next couple of months wo n't be any less : the future , not just in the domain of building more of our digital universe .
-53-1	_	The	_	_	_	_
-53-2	_	Environmental	_	_	_	_
-53-3	_	Protection	_	_	_	_
-53-4	_	Agency	_	_	_	_
-53-5	_	will	_	_	_	_
-53-6	_	soon	_	_	_	_
-53-7	_	unveil	_	_	_	_
-53-8	_	an	_	_	_	_
-53-9	_	IT	_	_	_	_
-53-10	_	and	_	_	_	_
-53-11	_	ICT	_	_	_	_
-53-12	_	-	_	_	_	_
-53-13	_	based	_	_	_	_
-53-14	_	network	_	_	_	_
-53-15	_	in	_	_	_	_
-53-16	_	Taiwan	_	_	_	_
-53-17	_	.	_	_	_	_
-53-18	_	What	_	_	_	_
-53-19	_	's	_	_	_	_
-53-20	_	going	_	_	_	_
-53-21	_	on	_	_	_	_
-53-22	_	in	_	_	_	_
-53-23	_	the	_	_	_	_
-53-24	_	next	_	_	_	_
-53-25	_	couple	_	_	_	_
-53-26	_	of	_	_	_	_
-53-27	_	months	_	_	_	_
-53-28	_	wo	_	_	_	_
-53-29	_	n't	_	_	_	_
-53-30	_	be	_	_	_	_
-53-31	_	any	_	_	_	_
-53-32	_	less	_	_	_	_
-53-33	_	:	_	_	_	_
-53-34	_	the	abstract[70]	new[70]	_	_
-53-35	_	future	abstract[70]	new[70]	_	_
-53-36	_	,	_	_	_	_
-53-37	_	not	_	_	_	_
-53-38	_	just	_	_	_	_
-53-39	_	in	_	_	_	_
-53-40	_	the	_	_	_	_
-53-41	_	domain	_	_	_	_
-53-42	_	of	_	_	_	_
-53-43	_	building	_	_	_	_
-53-44	_	more	_	_	_	_
-53-45	_	of	_	_	_	_
-53-46	_	our	abstract[132]	new[132]	_	_
-53-47	_	digital	_	_	_	_
-53-48	_	universe	_	_	_	_
-53-49	_	.	_	_	_	_
+#Text=In his inaugural address on August 14 , 1947 , Indian Prime Minister Jawaharlal Nehru speaks of India 's painful past and his hopes for a future of freedom ending poverty , ignorance and disease in India while creating a prosperous , democratic and progressive nation .
+53-1	_	In	_	_	_	_
+53-2	_	his	_	_	_	_
+53-3	_	inaugural	_	_	_	_
+53-4	_	address	_	_	_	_
+53-5	_	on	_	_	_	_
+53-6	_	August	_	_	_	_
+53-7	_	14	_	_	_	_
+53-8	_	,	_	_	_	_
+53-9	_	1947	_	_	_	_
+53-10	_	,	_	_	_	_
+53-11	_	Indian	abstract[173]	new[173]	coref	53-23[173_174]
+53-12	_	Prime	abstract[173]	new[173]	_	_
+53-13	_	Minister	abstract[173]	new[173]	_	_
+53-14	_	Jawaharlal	abstract[173]	new[173]	_	_
+53-15	_	Nehru	abstract[173]	new[173]	_	_
+53-16	_	speaks	_	_	_	_
+53-17	_	of	_	_	_	_
+53-18	_	India	abstract[53]	new[53]	coref	53-37[53_54]
+53-19	_	's	abstract[53]	new[53]	_	_
+53-20	_	painful	_	_	_	_
+53-21	_	past	_	_	_	_
+53-22	_	and	_	_	_	_
+53-23	_	his	abstract[174]	new[174]	_	_
+53-24	_	hopes	_	_	_	_
+53-25	_	for	_	_	_	_
+53-26	_	a	_	_	_	_
+53-27	_	future	_	_	_	_
+53-28	_	of	_	_	_	_
+53-29	_	freedom	_	_	_	_
+53-30	_	ending	_	_	_	_
+53-31	_	poverty	_	_	_	_
+53-32	_	,	_	_	_	_
+53-33	_	ignorance	_	_	_	_
+53-34	_	and	_	_	_	_
+53-35	_	disease	_	_	_	_
+53-36	_	in	_	_	_	_
+53-37	_	India	abstract[54]	new[54]	_	_
+53-38	_	while	_	_	_	_
+53-39	_	creating	_	_	_	_
+53-40	_	a	_	_	_	_
+53-41	_	prosperous	_	_	_	_
+53-42	_	,	_	_	_	_
+53-43	_	democratic	_	_	_	_
+53-44	_	and	_	_	_	_
+53-45	_	progressive	_	_	_	_
+53-46	_	nation	_	_	_	_
+53-47	_	.	_	_	_	_
 

@@ -262,30 +262,47 @@
 10-11	_	2010	_	_	_	_
 10-12	_	.	_	_	_	_
 
-#Text=The city reasoned , " Since 1990 , the Taipei City Lantern Festival has been celebrated with music , fireworks and lasers .
+#Text=The city reasoned , " On day 5 of the 2018 FIFA World Cup , Sweden defeated South Korea 1–0 , Belgium defeated Panama 3–0 and Tunisia lost 1–2 to England , earning the winning teams three points each .
 11-1	_	The	abstract[13]	new[13]	_	_
 11-2	_	city	abstract[13]	new[13]	_	_
 11-3	_	reasoned	_	_	_	_
 11-4	_	,	_	_	_	_
 11-5	_	"	_	_	_	_
-11-6	_	Since	_	_	_	_
-11-7	_	1990	_	_	_	_
-11-8	_	,	_	_	_	_
-11-9	_	the	_	_	_	_
-11-10	_	Taipei	_	_	_	_
-11-11	_	City	_	_	_	_
-11-12	_	Lantern	_	_	_	_
-11-13	_	Festival	_	_	_	_
-11-14	_	has	_	_	_	_
-11-15	_	been	_	_	_	_
-11-16	_	celebrated	_	_	_	_
-11-17	_	with	_	_	_	_
-11-18	_	music	_	_	_	_
-11-19	_	,	_	_	_	_
-11-20	_	fireworks	_	_	_	_
-11-21	_	and	_	_	_	_
-11-22	_	lasers	_	_	_	_
-11-23	_	.	_	_	_	_
+11-6	_	On	_	_	_	_
+11-7	_	day	_	_	_	_
+11-8	_	5	_	_	_	_
+11-9	_	of	_	_	_	_
+11-10	_	the	_	_	_	_
+11-11	_	2018	_	_	_	_
+11-12	_	FIFA	_	_	_	_
+11-13	_	World	_	_	_	_
+11-14	_	Cup	_	_	_	_
+11-15	_	,	_	_	_	_
+11-16	_	Sweden	_	_	_	_
+11-17	_	defeated	_	_	_	_
+11-18	_	South	_	_	_	_
+11-19	_	Korea	_	_	_	_
+11-20	_	1–0	_	_	_	_
+11-21	_	,	_	_	_	_
+11-22	_	Belgium	_	_	_	_
+11-23	_	defeated	_	_	_	_
+11-24	_	Panama	_	_	_	_
+11-25	_	3–0	_	_	_	_
+11-26	_	and	_	_	_	_
+11-27	_	Tunisia	_	_	_	_
+11-28	_	lost	_	_	_	_
+11-29	_	1–2	_	_	_	_
+11-30	_	to	_	_	_	_
+11-31	_	England	_	_	_	_
+11-32	_	,	_	_	_	_
+11-33	_	earning	_	_	_	_
+11-34	_	the	_	_	_	_
+11-35	_	winning	_	_	_	_
+11-36	_	teams	_	_	_	_
+11-37	_	three	_	_	_	_
+11-38	_	points	_	_	_	_
+11-39	_	each	_	_	_	_
+11-40	_	.	_	_	_	_
 
 #Text=because the users of the private schools pay a frequency fee , this kind of activity is considered as a commercial one " ( ( it ) ) .
 12-1	_	because	_	_	_	_

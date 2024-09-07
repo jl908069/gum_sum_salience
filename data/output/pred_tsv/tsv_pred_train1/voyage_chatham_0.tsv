@@ -82,7 +82,7 @@
 5-5	_	km	_	_	_	_
 5-6	_	east	_	_	_	_
 5-7	_	of	_	_	_	_
-5-8	_	Christchurch	abstract[30]	new[30]	coref	16-11[30_31]
+5-8	_	Christchurch	abstract[31]	new[31]	coref	16-11[31_32]
 5-9	_	,	_	_	_	_
 5-10	_	in	_	_	_	_
 5-11	_	the	_	_	_	_
@@ -131,13 +131,13 @@
 9-3	_	Islands	abstract[8]	new[8]	_	_
 9-4	_	consist	_	_	_	_
 9-5	_	of	_	_	_	_
-9-6	_	the	abstract[85]	new[85]	coref	33-6[85_86]
-9-7	_	main	abstract[85]	new[85]	_	_
-9-8	_	island	abstract[85]	new[85]	_	_
-9-9	_	,	abstract[85]	new[85]	_	_
-9-10	_	Chatham	abstract[85]	new[85]	_	_
-9-11	_	Island	abstract[85]	new[85]	_	_
-9-12	_	itself	abstract[85]	new[85]	_	_
+9-6	_	the	abstract[89]	new[89]	coref	33-6[89_90]
+9-7	_	main	abstract[89]	new[89]	_	_
+9-8	_	island	abstract[89]	new[89]	_	_
+9-9	_	,	abstract[89]	new[89]	_	_
+9-10	_	Chatham	abstract[89]	new[89]	_	_
+9-11	_	Island	abstract[89]	new[89]	_	_
+9-12	_	itself	abstract[89]	new[89]	_	_
 9-13	_	,	_	_	_	_
 9-14	_	with	_	_	_	_
 9-15	_	a	_	_	_	_
@@ -189,8 +189,8 @@
 11-2	_	original	abstract[17]	new[17]	_	_
 11-3	_	people	abstract[17]	new[17]	_	_
 11-4	_	of	abstract[17]	new[17]	_	_
-11-5	_	the	abstract[17]|abstract[25]	new[17]|new[25]	coref	15-9[25_26]
-11-6	_	islands	abstract[17]|abstract[25]	new[17]|new[25]	_	_
+11-5	_	the	abstract[17]|abstract[26]	new[17]|new[26]	coref	15-9[26_27]
+11-6	_	islands	abstract[17]|abstract[26]	new[17]|new[26]	_	_
 11-7	_	are	_	_	_	_
 11-8	_	the	_	_	_	_
 11-9	_	Moriori	_	_	_	_
@@ -203,8 +203,8 @@
 11-16	_	Maori	_	_	_	_
 11-17	_	of	_	_	_	_
 11-18	_	mainland	abstract[13]	new[13]	coref	12-6[13_14]
-11-19	_	New	abstract[13]|abstract[32]	new[13]|new[32]	coref	17-12[32_33]
-11-20	_	Zealand	abstract[13]|abstract[32]	new[13]|new[32]	_	_
+11-19	_	New	abstract[13]|abstract[33]	new[13]|new[33]	coref	17-12[33_34]
+11-20	_	Zealand	abstract[13]|abstract[33]	new[13]|new[33]	_	_
 11-21	_	,	_	_	_	_
 11-22	_	but	_	_	_	_
 11-23	_	who	_	_	_	_
@@ -253,8 +253,8 @@
 15-6	_	to	_	_	_	_
 15-7	_	travel	_	_	_	_
 15-8	_	to	_	_	_	_
-15-9	_	the	abstract[26]	new[26]	coref	17-6[26_27]
-15-10	_	Chathams	abstract[26]	new[26]	_	_
+15-9	_	the	abstract[27]	new[27]	coref	17-6[27_28]
+15-10	_	Chathams	abstract[27]	new[27]	_	_
 15-11	_	is	_	_	_	_
 15-12	_	via	_	_	_	_
 15-13	_	scheduled	_	_	_	_
@@ -275,7 +275,7 @@
 16-8	_	,	_	_	_	_
 16-9	_	from	_	_	_	_
 16-10	_	either	_	_	_	_
-16-11	_	Christchurch	abstract[31]	new[31]	_	_
+16-11	_	Christchurch	abstract[32]	new[32]	_	_
 16-12	_	,	_	_	_	_
 16-13	_	Auckland	_	_	_	_
 16-14	_	or	_	_	_	_
@@ -294,14 +294,14 @@
 17-3	_	is	_	_	_	_
 17-4	_	based	_	_	_	_
 17-5	_	in	_	_	_	_
-17-6	_	the	abstract[27]	new[27]	coref	17-21[27_28]
-17-7	_	Chathams	abstract[27]	new[27]	_	_
+17-6	_	the	abstract[28]	new[28]	coref	17-21[28_29]
+17-7	_	Chathams	abstract[28]	new[28]	_	_
 17-8	_	and	_	_	_	_
 17-9	_	flies	_	_	_	_
 17-10	_	to	_	_	_	_
 17-11	_	mainland	abstract[15]	new[15]	coref	18-21[15_16]
-17-12	_	New	abstract[15]|abstract[33]	new[15]|new[33]	coref	18-4[33_34]
-17-13	_	Zealand	abstract[15]|abstract[33]	new[15]|new[33]	_	_
+17-12	_	New	abstract[15]|abstract[34]	new[15]|new[34]	coref	18-4[34_35]
+17-13	_	Zealand	abstract[15]|abstract[34]	new[15]|new[34]	_	_
 17-14	_	in	_	_	_	_
 17-15	_	the	_	_	_	_
 17-16	_	morning	_	_	_	_
@@ -309,8 +309,8 @@
 17-18	_	then	_	_	_	_
 17-19	_	back	_	_	_	_
 17-20	_	to	_	_	_	_
-17-21	_	the	abstract[28]	new[28]	coref	19-13[28_29]
-17-22	_	Chathams	abstract[28]	new[28]	_	_
+17-21	_	the	abstract[29]	new[29]	coref	19-13[29_30]
+17-22	_	Chathams	abstract[29]	new[29]	_	_
 17-23	_	in	_	_	_	_
 17-24	_	the	_	_	_	_
 17-25	_	afternoon	_	_	_	_
@@ -320,8 +320,8 @@
 18-1	_	As	_	_	_	_
 18-2	_	part	_	_	_	_
 18-3	_	of	_	_	_	_
-18-4	_	New	abstract[34]	new[34]	coref	30-17[34_35]
-18-5	_	Zealand	abstract[34]	new[34]	_	_
+18-4	_	New	abstract[35]	new[35]	coref	30-17[35_36]
+18-5	_	Zealand	abstract[35]	new[35]	_	_
 18-6	_	,	_	_	_	_
 18-7	_	there	_	_	_	_
 18-8	_	are	_	_	_	_
@@ -342,20 +342,20 @@
 18-23	_	.	_	_	_	_
 
 #Text=You should book or ensure accommodation before you board a flight for the Chathams , as during the popular months of the tourism season , between October and April , accommodation can be severely limited .
-19-1	_	You	abstract[38]	new[38]	coref	19-8[38_39]
+19-1	_	You	abstract[41]	new[41]	coref	19-8[41_42]
 19-2	_	should	_	_	_	_
 19-3	_	book	_	_	_	_
 19-4	_	or	_	_	_	_
 19-5	_	ensure	_	_	_	_
 19-6	_	accommodation	_	_	_	_
 19-7	_	before	_	_	_	_
-19-8	_	you	abstract[39]	new[39]	coref	20-13[39_40]
+19-8	_	you	abstract[42]	new[42]	coref	20-13[42_43]
 19-9	_	board	_	_	_	_
 19-10	_	a	_	_	_	_
 19-11	_	flight	_	_	_	_
 19-12	_	for	_	_	_	_
-19-13	_	the	abstract[29]	new[29]	_	_
-19-14	_	Chathams	abstract[29]	new[29]	_	_
+19-13	_	the	abstract[30]	new[30]	_	_
+19-14	_	Chathams	abstract[30]	new[30]	_	_
 19-15	_	,	_	_	_	_
 19-16	_	as	_	_	_	_
 19-17	_	during	_	_	_	_
@@ -391,8 +391,8 @@
 20-9	_	,	_	_	_	_
 20-10	_	so	_	_	_	_
 20-11	_	once	_	_	_	_
-20-12	_	there	abstract[58]	new[58]	coref	21-4[58_59]
-20-13	_	you	abstract[40]	new[40]	coref	23-3[40_41]
+20-12	_	there	abstract[61]	new[61]	coref	21-4[61_62]
+20-13	_	you	abstract[43]	new[43]	coref	23-3[43_44]
 20-14	_	have	_	_	_	_
 20-15	_	to	_	_	_	_
 20-16	_	stay	_	_	_	_
@@ -404,17 +404,17 @@
 
 #Text=Although flying to the Chathams and back is not cheap , it is worth it .
 21-1	_	Although	_	_	_	_
-21-2	_	flying	abstract[60]	new[60]	coref	21-12[60_61]
+21-2	_	flying	abstract[63]	new[63]	coref	21-12[63_64]
 21-3	_	to	_	_	_	_
-21-4	_	the	abstract[59]	new[59]	_	_
-21-5	_	Chathams	abstract[59]	new[59]	_	_
+21-4	_	the	abstract[62]	new[62]	_	_
+21-5	_	Chathams	abstract[62]	new[62]	_	_
 21-6	_	and	_	_	_	_
 21-7	_	back	_	_	_	_
 21-8	_	is	_	_	_	_
 21-9	_	not	_	_	_	_
 21-10	_	cheap	_	_	_	_
 21-11	_	,	_	_	_	_
-21-12	_	it	abstract[61]	new[61]	_	_
+21-12	_	it	abstract[64]	new[64]	_	_
 21-13	_	is	_	_	_	_
 21-14	_	worth	_	_	_	_
 21-15	_	it	_	_	_	_
@@ -438,8 +438,8 @@
 22-15	_	to	_	_	_	_
 22-16	_	stay	_	_	_	_
 22-17	_	at	_	_	_	_
-22-18	_	Kopinga	abstract[64]	new[64]	coref	24-31[64_65]
-22-19	_	Marae	abstract[64]	new[64]	_	_
+22-18	_	Kopinga	abstract[67]	new[67]	coref	24-31[67_68]
+22-19	_	Marae	abstract[67]	new[67]	_	_
 22-20	_	[	_	_	_	_
 22-21	_	1	_	_	_	_
 22-22	_	]	_	_	_	_
@@ -458,7 +458,7 @@
 #Text=Anyway , you do n't have a choice on how you get there , unless you happen to own an aeroplane .
 23-1	_	Anyway	_	_	_	_
 23-2	_	,	_	_	_	_
-23-3	_	you	abstract[41]	new[41]	coref	23-11[41_42]
+23-3	_	you	abstract[44]	new[44]	coref	23-11[44_45]
 23-4	_	do	_	_	_	_
 23-5	_	n't	_	_	_	_
 23-6	_	have	_	_	_	_
@@ -466,37 +466,37 @@
 23-8	_	choice	_	_	_	_
 23-9	_	on	_	_	_	_
 23-10	_	how	_	_	_	_
-23-11	_	you	abstract[42]	new[42]	coref	23-16[42_43]
+23-11	_	you	abstract[45]	new[45]	coref	23-16[45_46]
 23-12	_	get	_	_	_	_
-23-13	_	there	abstract[71]	new[71]	coref	26-7[71_72]
+23-13	_	there	abstract[75]	new[75]	coref	26-7[75_76]
 23-14	_	,	_	_	_	_
 23-15	_	unless	_	_	_	_
-23-16	_	you	abstract[43]	new[43]	coref	24-5[43_44]
+23-16	_	you	abstract[46]	new[46]	coref	24-5[46_47]
 23-17	_	happen	_	_	_	_
 23-18	_	to	_	_	_	_
 23-19	_	own	_	_	_	_
-23-20	_	an	abstract[62]	new[62]	coref	24-8[62_63]
-23-21	_	aeroplane	abstract[62]	new[62]	_	_
+23-20	_	an	abstract[65]	new[65]	coref	24-8[65_66]
+23-21	_	aeroplane	abstract[65]	new[65]	_	_
 23-22	_	.	_	_	_	_
 
 #Text=However , when you get off that aeroplane , if you have n't pre-organised transport , you will have to walk , and it is a long way into town .
 24-1	_	However	_	_	_	_
 24-2	_	,	_	_	_	_
 24-3	_	when	_	_	_	_
-24-4	_	you	abstract[44]	new[44]	coref	24-12[44_45]
+24-4	_	you	abstract[47]	new[47]	coref	24-12[47_48]
 24-5	_	get	_	_	_	_
 24-6	_	off	_	_	_	_
-24-7	_	that	abstract[63]	new[63]	_	_
-24-8	_	aeroplane	abstract[63]	new[63]	_	_
+24-7	_	that	abstract[66]	new[66]	_	_
+24-8	_	aeroplane	abstract[66]	new[66]	_	_
 24-9	_	,	_	_	_	_
 24-10	_	if	_	_	_	_
-24-11	_	you	abstract[45]	new[45]	coref	24-18[45_46]
+24-11	_	you	abstract[48]	new[48]	coref	24-18[48_49]
 24-12	_	have	_	_	_	_
 24-13	_	n't	_	_	_	_
 24-14	_	pre-organised	_	_	_	_
 24-15	_	transport	_	_	_	_
 24-16	_	,	_	_	_	_
-24-17	_	you	abstract[46]	new[46]	coref	30-14[46_47]
+24-17	_	you	abstract[49]	new[49]	coref	30-14[49_50]
 24-18	_	will	_	_	_	_
 24-19	_	have	_	_	_	_
 24-20	_	to	_	_	_	_
@@ -509,7 +509,7 @@
 24-27	_	long	_	_	_	_
 24-28	_	way	_	_	_	_
 24-29	_	into	_	_	_	_
-24-30	_	town	abstract[65]	new[65]	coref	52-1[65_66]
+24-30	_	town	abstract[68]	new[68]	coref	52-1[68_69]
 24-31	_	.	_	_	_	_
 
 #Text=By boat
@@ -523,36 +523,36 @@
 26-4	_	shipping	_	_	_	_
 26-5	_	service	_	_	_	_
 26-6	_	to	_	_	_	_
-26-7	_	the	abstract[72]	new[72]	coref	27-5[72_73]
-26-8	_	Chatham	abstract[72]	new[72]	_	_
-26-9	_	Islands	abstract[72]	new[72]	_	_
+26-7	_	the	abstract[76]	new[76]	coref	27-5[76_77]
+26-8	_	Chatham	abstract[76]	new[76]	_	_
+26-9	_	Islands	abstract[76]	new[76]	_	_
 26-10	_	remains	_	_	_	_
-26-11	_	the	abstract[80]	new[80]	coref	27-1[80_81]
-26-12	_	Black	abstract[80]	new[80]	_	_
-26-13	_	Robin	abstract[80]	new[80]	_	_
-26-14	_	Freighters	abstract[80]	new[80]	_	_
-26-15	_	"	abstract[80]	new[80]	_	_
-26-16	_	Rangatira	abstract[80]	new[80]	_	_
-26-17	_	"	abstract[80]	new[80]	_	_
-26-18	_	,	abstract[80]	new[80]	_	_
-26-19	_	an	abstract[80]	new[80]	_	_
-26-20	_	antiquated	abstract[80]	new[80]	_	_
-26-21	_	,	abstract[80]	new[80]	_	_
-26-22	_	slow	abstract[80]	new[80]	_	_
-26-23	_	and	abstract[80]	new[80]	_	_
-26-24	_	small	abstract[80]	new[80]	_	_
-26-25	_	coastal	abstract[80]	new[80]	_	_
-26-26	_	trading	abstract[80]	new[80]	_	_
-26-27	_	vessel	abstract[80]	new[80]	_	_
+26-11	_	the	abstract[84]	new[84]	coref	27-1[84_85]
+26-12	_	Black	abstract[84]	new[84]	_	_
+26-13	_	Robin	abstract[84]	new[84]	_	_
+26-14	_	Freighters	abstract[84]	new[84]	_	_
+26-15	_	"	abstract[84]	new[84]	_	_
+26-16	_	Rangatira	abstract[84]	new[84]	_	_
+26-17	_	"	abstract[84]	new[84]	_	_
+26-18	_	,	abstract[84]	new[84]	_	_
+26-19	_	an	abstract[84]	new[84]	_	_
+26-20	_	antiquated	abstract[84]	new[84]	_	_
+26-21	_	,	abstract[84]	new[84]	_	_
+26-22	_	slow	abstract[84]	new[84]	_	_
+26-23	_	and	abstract[84]	new[84]	_	_
+26-24	_	small	abstract[84]	new[84]	_	_
+26-25	_	coastal	abstract[84]	new[84]	_	_
+26-26	_	trading	abstract[84]	new[84]	_	_
+26-27	_	vessel	abstract[84]	new[84]	_	_
 26-28	_	.	_	_	_	_
 
 #Text=This boat has serviced the islands for many years , but does not carry passengers .
-27-1	_	This	abstract[81]	new[81]	coref	28-4[81_82]
-27-2	_	boat	abstract[81]	new[81]	_	_
+27-1	_	This	abstract[85]	new[85]	coref	28-4[85_86]
+27-2	_	boat	abstract[85]	new[85]	_	_
 27-3	_	has	_	_	_	_
 27-4	_	serviced	_	_	_	_
-27-5	_	the	abstract[73]	new[73]	coref	29-5[73_74]
-27-6	_	islands	abstract[73]	new[73]	_	_
+27-5	_	the	abstract[77]	new[77]	coref	29-5[77_78]
+27-6	_	islands	abstract[77]	new[77]	_	_
 27-7	_	for	_	_	_	_
 27-8	_	many	_	_	_	_
 27-9	_	years	_	_	_	_
@@ -568,8 +568,8 @@
 28-1	_	Freight	_	_	_	_
 28-2	_	charges	_	_	_	_
 28-3	_	on	_	_	_	_
-28-4	_	the	abstract[82]	new[82]	_	_
-28-5	_	Rangatira	abstract[82]	new[82]	_	_
+28-4	_	the	abstract[86]	new[86]	_	_
+28-5	_	Rangatira	abstract[86]	new[86]	_	_
 28-6	_	appear	_	_	_	_
 28-7	_	to	_	_	_	_
 28-8	_	be	_	_	_	_
@@ -585,8 +585,8 @@
 29-2	_	can	_	_	_	_
 29-3	_	call	_	_	_	_
 29-4	_	at	_	_	_	_
-29-5	_	the	abstract[74]	new[74]	coref	30-20[74_75]
-29-6	_	Chathams	abstract[74]	new[74]	_	_
+29-5	_	the	abstract[78]	new[78]	coref	30-20[78_79]
+29-6	_	Chathams	abstract[78]	new[78]	_	_
 29-7	_	and	_	_	_	_
 29-8	_	there	_	_	_	_
 29-9	_	are	_	_	_	_
@@ -619,39 +619,39 @@
 30-11	_	Fisheries	_	_	_	_
 30-12	_	officer	_	_	_	_
 30-13	_	if	_	_	_	_
-30-14	_	you	abstract[47]	new[47]	coref	31-2[47_48]
+30-14	_	you	abstract[50]	new[50]	coref	31-2[50_51]
 30-15	_	are	_	_	_	_
 30-16	_	entering	_	_	_	_
-30-17	_	New	abstract[35]	new[35]	coref	46-10[35_36]
-30-18	_	Zealand	abstract[35]	new[35]	_	_
+30-17	_	New	abstract[36]	new[36]	coref	46-10[36_37]
+30-18	_	Zealand	abstract[36]	new[36]	_	_
 30-19	_	via	_	_	_	_
-30-20	_	the	abstract[75]	new[75]	coref	31-16[75_76]
-30-21	_	Chathams	abstract[75]	new[75]	_	_
+30-20	_	the	abstract[79]	new[79]	coref	31-16[79_80]
+30-21	_	Chathams	abstract[79]	new[79]	_	_
 30-22	_	.	_	_	_	_
 
 #Text=If you want a wharf berthage then call the local harbour master as you near the Chathams and he will sort you out .
 31-1	_	If	_	_	_	_
-31-2	_	you	abstract[48]	new[48]	coref	31-14[48_49]
+31-2	_	you	abstract[51]	new[51]	coref	31-14[51_52]
 31-3	_	want	_	_	_	_
 31-4	_	a	_	_	_	_
 31-5	_	wharf	_	_	_	_
 31-6	_	berthage	_	_	_	_
 31-7	_	then	_	_	_	_
 31-8	_	call	_	_	_	_
-31-9	_	the	abstract[83]	new[83]	coref	31-19[83_84]
-31-10	_	local	abstract[83]	new[83]	_	_
-31-11	_	harbour	abstract[83]	new[83]	_	_
-31-12	_	master	abstract[83]	new[83]	_	_
+31-9	_	the	abstract[87]	new[87]	coref	31-19[87_88]
+31-10	_	local	abstract[87]	new[87]	_	_
+31-11	_	harbour	abstract[87]	new[87]	_	_
+31-12	_	master	abstract[87]	new[87]	_	_
 31-13	_	as	_	_	_	_
-31-14	_	you	abstract[49]	new[49]	coref	31-22[49_50]
+31-14	_	you	abstract[52]	new[52]	coref	31-22[52_53]
 31-15	_	near	_	_	_	_
-31-16	_	the	abstract[76]	new[76]	coref	51-7[76_77]
-31-17	_	Chathams	abstract[76]	new[76]	_	_
+31-16	_	the	abstract[80]	new[80]	coref	51-7[80_81]
+31-17	_	Chathams	abstract[80]	new[80]	_	_
 31-18	_	and	_	_	_	_
-31-19	_	he	abstract[84]	new[84]	_	_
+31-19	_	he	abstract[88]	new[88]	_	_
 31-20	_	will	_	_	_	_
 31-21	_	sort	_	_	_	_
-31-22	_	you	abstract[50]	new[50]	coref	33-11[50_51]
+31-22	_	you	abstract[53]	new[53]	coref	33-11[53_54]
 31-23	_	out	_	_	_	_
 31-24	_	.	_	_	_	_
 
@@ -665,14 +665,14 @@
 33-3	_	several	_	_	_	_
 33-4	_	businesses	_	_	_	_
 33-5	_	on	_	_	_	_
-33-6	_	Chatham	abstract[86]	new[86]	_	_
-33-7	_	Island	abstract[86]	new[86]	_	_
-33-8	_	that	abstract[86]	new[86]	_	_
-33-9	_	will	abstract[86]	new[86]	_	_
-33-10	_	rent	abstract[86]	new[86]	_	_
-33-11	_	you	abstract[51]|abstract[86]	new[51]|new[86]	coref	46-31[51_52]
-33-12	_	a	abstract[86]|abstract[87]	new[86]|new[87]	coref	35-1[87_88]
-33-13	_	vehicle	abstract[86]|abstract[87]	new[86]|new[87]	_	_
+33-6	_	Chatham	abstract[90]	new[90]	_	_
+33-7	_	Island	abstract[90]	new[90]	_	_
+33-8	_	that	abstract[90]	new[90]	_	_
+33-9	_	will	abstract[90]	new[90]	_	_
+33-10	_	rent	abstract[90]	new[90]	_	_
+33-11	_	you	abstract[54]|abstract[90]	new[54]|new[90]	coref	46-31[54_55]
+33-12	_	a	abstract[90]|abstract[91]	new[90]|new[91]	coref	35-1[91_92]
+33-13	_	vehicle	abstract[90]|abstract[91]	new[90]|new[91]	_	_
 33-14	_	.	_	_	_	_
 
 #Text=Do not expect the flashest and latest in rental cars though .
@@ -690,8 +690,8 @@
 34-12	_	.	_	_	_	_
 
 #Text=The cars " will " be warranted and safe , but they wo n't be exceptionally " flash " .
-35-1	_	The	abstract[88]	new[88]	coref	35-12[88_89]
-35-2	_	cars	abstract[88]	new[88]	_	_
+35-1	_	The	abstract[92]	new[92]	coref	35-12[92_93]
+35-2	_	cars	abstract[92]	new[92]	_	_
 35-3	_	"	_	_	_	_
 35-4	_	will	_	_	_	_
 35-5	_	"	_	_	_	_
@@ -701,7 +701,7 @@
 35-9	_	safe	_	_	_	_
 35-10	_	,	_	_	_	_
 35-11	_	but	_	_	_	_
-35-12	_	they	abstract[89]	new[89]	_	_
+35-12	_	they	abstract[93]	new[93]	_	_
 35-13	_	wo	_	_	_	_
 35-14	_	n't	_	_	_	_
 35-15	_	be	_	_	_	_
@@ -712,8 +712,8 @@
 35-20	_	.	_	_	_	_
 
 #Text=Chatham Motors have a range of nice rental vans available as well and they provide pretty good service for both visitors and locals .
-36-1	_	Chatham	abstract[90]	new[90]	coref	36-14[90_91]
-36-2	_	Motors	abstract[90]	new[90]	_	_
+36-1	_	Chatham	abstract[94]	new[94]	coref	36-14[94_95]
+36-2	_	Motors	abstract[94]	new[94]	_	_
 36-3	_	have	_	_	_	_
 36-4	_	a	_	_	_	_
 36-5	_	range	_	_	_	_
@@ -725,7 +725,7 @@
 36-11	_	as	_	_	_	_
 36-12	_	well	_	_	_	_
 36-13	_	and	_	_	_	_
-36-14	_	they	abstract[91]	new[91]	_	_
+36-14	_	they	abstract[95]	new[95]	_	_
 36-15	_	provide	_	_	_	_
 36-16	_	pretty	_	_	_	_
 36-17	_	good	_	_	_	_
@@ -778,30 +778,30 @@
 40-14	_	.	_	_	_	_
 
 #Text=Henga Scenic Reserve .
-41-1	_	Henga	abstract[92]	new[92]	coref	42-7[92_93]
-41-2	_	Scenic	abstract[92]	new[92]	_	_
-41-3	_	Reserve	abstract[92]	new[92]	_	_
+41-1	_	Henga	abstract[96]	new[96]	coref	42-7[96_97]
+41-2	_	Scenic	abstract[96]	new[96]	_	_
+41-3	_	Reserve	abstract[96]	new[96]	_	_
 41-4	_	.	_	_	_	_
 
 #Text=Set adjacent to Henga Lodge is the magnificent Henga Scenic Reserve .
 42-1	_	Set	_	_	_	_
 42-2	_	adjacent	_	_	_	_
 42-3	_	to	_	_	_	_
-42-4	_	Henga	abstract[94]	new[94]	coref	43-3[94_95]
-42-5	_	Lodge	abstract[94]	new[94]	_	_
+42-4	_	Henga	abstract[98]	new[98]	coref	43-3[98_99]
+42-5	_	Lodge	abstract[98]	new[98]	_	_
 42-6	_	is	_	_	_	_
-42-7	_	the	abstract[93]	new[93]	_	_
-42-8	_	magnificent	abstract[93]	new[93]	_	_
-42-9	_	Henga	abstract[93]	new[93]	_	_
-42-10	_	Scenic	abstract[93]	new[93]	_	_
-42-11	_	Reserve	abstract[93]	new[93]	_	_
+42-7	_	the	abstract[97]	new[97]	_	_
+42-8	_	magnificent	abstract[97]	new[97]	_	_
+42-9	_	Henga	abstract[97]	new[97]	_	_
+42-10	_	Scenic	abstract[97]	new[97]	_	_
+42-11	_	Reserve	abstract[97]	new[97]	_	_
 42-12	_	.	_	_	_	_
 
 #Text=Guests of the lodge can meander around either a short easy walk , or take the longer 2 hr return walk out onto the spectacular beach .
 43-1	_	Guests	_	_	_	_
 43-2	_	of	_	_	_	_
-43-3	_	the	abstract[95]	new[95]	coref	44-5[95_96]
-43-4	_	lodge	abstract[95]	new[95]	_	_
+43-3	_	the	abstract[99]	new[99]	coref	44-5[99_100]
+43-4	_	lodge	abstract[99]	new[99]	_	_
 43-5	_	can	_	_	_	_
 43-6	_	meander	_	_	_	_
 43-7	_	around	_	_	_	_
@@ -831,12 +831,12 @@
 44-2	_	is	_	_	_	_
 44-3	_	free	_	_	_	_
 44-4	_	to	_	_	_	_
-44-5	_	Lodge	abstract[96]	new[96]	_	_
+44-5	_	Lodge	abstract[100]	new[100]	_	_
 44-6	_	guests	_	_	_	_
 44-7	_	.	_	_	_	_
 
 #Text=Hapupu National Historic Scenic Reserve .
-45-1	_	Hapupu	abstract[97]	new[97]	coref	46-1[97_98]
+45-1	_	Hapupu	abstract[101]	new[101]	coref	46-1[101_102]
 45-2	_	National	_	_	_	_
 45-3	_	Historic	_	_	_	_
 45-4	_	Scenic	_	_	_	_
@@ -844,17 +844,17 @@
 45-6	_	.	_	_	_	_
 
 #Text=One of only two National Historic Scenic Reserves in New Zealand ( the other is the Waitangi Treaty Grounds ) , Hapupu is a special place , and somewhere that you will want to tell others about .
-46-1	_	One	abstract[98]	new[98]	coref	46-22[98_99]
-46-2	_	of	abstract[98]	new[98]	_	_
-46-3	_	only	abstract[98]	new[98]	_	_
-46-4	_	two	abstract[98]	new[98]	_	_
-46-5	_	National	abstract[98]	new[98]	_	_
-46-6	_	Historic	abstract[98]	new[98]	_	_
-46-7	_	Scenic	abstract[98]	new[98]	_	_
-46-8	_	Reserves	abstract[98]	new[98]	_	_
-46-9	_	in	abstract[98]	new[98]	_	_
-46-10	_	New	abstract[36]|abstract[98]	new[36]|new[98]	coref	50-13[36_37]
-46-11	_	Zealand	abstract[36]|abstract[98]	new[36]|new[98]	_	_
+46-1	_	One	abstract[102]	new[102]	coref	46-22[102_103]
+46-2	_	of	abstract[102]	new[102]	_	_
+46-3	_	only	abstract[102]	new[102]	_	_
+46-4	_	two	abstract[102]	new[102]	_	_
+46-5	_	National	abstract[102]	new[102]	_	_
+46-6	_	Historic	abstract[102]	new[102]	_	_
+46-7	_	Scenic	abstract[102]	new[102]	_	_
+46-8	_	Reserves	abstract[102]	new[102]	_	_
+46-9	_	in	abstract[102]	new[102]	_	_
+46-10	_	New	abstract[37]|abstract[102]	new[37]|new[102]	coref	50-13[37_38]
+46-11	_	Zealand	abstract[37]|abstract[102]	new[37]|new[102]	_	_
 46-12	_	(	_	_	_	_
 46-13	_	the	_	_	_	_
 46-14	_	other	_	_	_	_
@@ -865,7 +865,7 @@
 46-19	_	Grounds	_	_	_	_
 46-20	_	)	_	_	_	_
 46-21	_	,	_	_	_	_
-46-22	_	Hapupu	abstract[99]	new[99]	coref	47-8[99_100]
+46-22	_	Hapupu	abstract[103]	new[103]	coref	47-8[103_104]
 46-23	_	is	_	_	_	_
 46-24	_	a	_	_	_	_
 46-25	_	special	_	_	_	_
@@ -874,7 +874,7 @@
 46-28	_	and	_	_	_	_
 46-29	_	somewhere	_	_	_	_
 46-30	_	that	_	_	_	_
-46-31	_	you	abstract[52]	new[52]	coref	48-17[52_53]
+46-31	_	you	abstract[55]	new[55]	coref	48-17[55_56]
 46-32	_	will	_	_	_	_
 46-33	_	want	_	_	_	_
 46-34	_	to	_	_	_	_
@@ -891,7 +891,7 @@
 47-5	_	to	_	_	_	_
 47-6	_	Moriori	abstract[20]	new[20]	coref	47-27[20_21]
 47-7	_	,	_	_	_	_
-47-8	_	it	abstract[100]	new[100]	_	_
+47-8	_	it	abstract[104]	new[104]	_	_
 47-9	_	holds	_	_	_	_
 47-10	_	the	_	_	_	_
 47-11	_	last	_	_	_	_
@@ -903,16 +903,16 @@
 47-17	_	rakau	_	_	_	_
 47-18	_	,	_	_	_	_
 47-19	_	or	_	_	_	_
-47-20	_	tree	abstract[104]	new[104]	coref	48-9[104_105]
-47-21	_	carvings	abstract[104]	new[104]	_	_
-47-22	_	done	abstract[104]	new[104]	_	_
-47-23	_	by	abstract[104]	new[104]	_	_
-47-24	_	the	abstract[101]|abstract[104]	new[101]|new[104]	coref	48-7[101_102]
-47-25	_	ancestors	abstract[101]|abstract[104]	new[101]|new[104]	_	_
-47-26	_	of	abstract[101]|abstract[104]	new[101]|new[104]	_	_
-47-27	_	today	abstract[21]|abstract[101]|abstract[104]	new[21]|new[101]|new[104]	coref	54-12[21_22]
-47-28	_	's	abstract[21]|abstract[101]|abstract[104]	new[21]|new[101]|new[104]	_	_
-47-29	_	Moriori	abstract[21]|abstract[101]|abstract[104]	new[21]|new[101]|new[104]	_	_
+47-20	_	tree	abstract[108]	new[108]	coref	48-9[108_109]
+47-21	_	carvings	abstract[108]	new[108]	_	_
+47-22	_	done	abstract[108]	new[108]	_	_
+47-23	_	by	abstract[108]	new[108]	_	_
+47-24	_	the	abstract[105]|abstract[108]	new[105]|new[108]	coref	48-7[105_106]
+47-25	_	ancestors	abstract[105]|abstract[108]	new[105]|new[108]	_	_
+47-26	_	of	abstract[105]|abstract[108]	new[105]|new[108]	_	_
+47-27	_	today	abstract[21]|abstract[105]|abstract[108]	new[21]|new[105]|new[108]	coref	54-12[21_22]
+47-28	_	's	abstract[21]|abstract[105]|abstract[108]	new[21]|new[105]|new[108]	_	_
+47-29	_	Moriori	abstract[21]|abstract[105]|abstract[108]	new[21]|new[105]|new[108]	_	_
 47-30	_	.	_	_	_	_
 
 #Text=There are many views on why they did these carvings , but whatever the reason , you will find them a very special attraction .
@@ -922,20 +922,20 @@
 48-4	_	views	_	_	_	_
 48-5	_	on	_	_	_	_
 48-6	_	why	_	_	_	_
-48-7	_	they	abstract[102]	new[102]	coref	55-24[102_103]
+48-7	_	they	abstract[106]	new[106]	coref	55-24[106_107]
 48-8	_	did	_	_	_	_
-48-9	_	these	abstract[105]	new[105]	coref	48-20[105_106]
-48-10	_	carvings	abstract[105]	new[105]	_	_
+48-9	_	these	abstract[109]	new[109]	coref	48-20[109_110]
+48-10	_	carvings	abstract[109]	new[109]	_	_
 48-11	_	,	_	_	_	_
 48-12	_	but	_	_	_	_
 48-13	_	whatever	_	_	_	_
 48-14	_	the	_	_	_	_
 48-15	_	reason	_	_	_	_
 48-16	_	,	_	_	_	_
-48-17	_	you	abstract[53]	new[53]	coref	53-2[53_54]
+48-17	_	you	abstract[56]	new[56]	coref	53-2[56_57]
 48-18	_	will	_	_	_	_
 48-19	_	find	_	_	_	_
-48-20	_	them	abstract[106]	new[106]	_	_
+48-20	_	them	abstract[110]	new[110]	_	_
 48-21	_	a	_	_	_	_
 48-22	_	very	_	_	_	_
 48-23	_	special	_	_	_	_
@@ -943,27 +943,27 @@
 48-25	_	.	_	_	_	_
 
 #Text=Port Hutt .
-49-1	_	Port	abstract[107]	new[107]	coref	50-2[107_108]
-49-2	_	Hutt	abstract[107]	new[107]	_	_
+49-1	_	Port	abstract[111]	new[111]	coref	50-2[111_112]
+49-2	_	Hutt	abstract[111]	new[111]	_	_
 49-3	_	.	_	_	_	_
 
 #Text=One of the most scenicly attractive ports in the whole of New Zealand , Port Hutt boasts an incredibly sheltered little harbour , with picturesque views and safe anchorage in all weather .
-50-1	_	One	abstract[108]	new[108]	coref	50-16[108_109]
-50-2	_	of	abstract[108]	new[108]	_	_
-50-3	_	the	abstract[108]	new[108]	_	_
-50-4	_	most	abstract[108]	new[108]	_	_
-50-5	_	scenicly	abstract[108]	new[108]	_	_
-50-6	_	attractive	abstract[108]	new[108]	_	_
-50-7	_	ports	abstract[108]	new[108]	_	_
-50-8	_	in	abstract[108]	new[108]	_	_
-50-9	_	the	abstract[108]	new[108]	_	_
-50-10	_	whole	abstract[108]	new[108]	_	_
-50-11	_	of	abstract[108]	new[108]	_	_
-50-12	_	New	abstract[37]|abstract[108]	new[37]|new[108]	_	_
-50-13	_	Zealand	abstract[37]|abstract[108]	new[37]|new[108]	_	_
+50-1	_	One	abstract[112]	new[112]	coref	50-16[112_113]
+50-2	_	of	abstract[112]	new[112]	_	_
+50-3	_	the	abstract[112]	new[112]	_	_
+50-4	_	most	abstract[112]	new[112]	_	_
+50-5	_	scenicly	abstract[112]	new[112]	_	_
+50-6	_	attractive	abstract[112]	new[112]	_	_
+50-7	_	ports	abstract[112]	new[112]	_	_
+50-8	_	in	abstract[112]	new[112]	_	_
+50-9	_	the	abstract[112]	new[112]	_	_
+50-10	_	whole	abstract[112]	new[112]	_	_
+50-11	_	of	abstract[112]	new[112]	_	_
+50-12	_	New	abstract[38]|abstract[112]	new[38]|new[112]	coref	64-6[38_39]
+50-13	_	Zealand	abstract[38]|abstract[112]	new[38]|new[112]	_	_
 50-14	_	,	_	_	_	_
-50-15	_	Port	abstract[109]	new[109]	_	_
-50-16	_	Hutt	abstract[109]	new[109]	_	_
+50-15	_	Port	abstract[113]	new[113]	_	_
+50-16	_	Hutt	abstract[113]	new[113]	_	_
 50-17	_	boasts	_	_	_	_
 50-18	_	an	_	_	_	_
 50-19	_	incredibly	_	_	_	_
@@ -989,8 +989,8 @@
 51-4	_	economically	_	_	_	_
 51-5	_	crucial	_	_	_	_
 51-6	_	for	_	_	_	_
-51-7	_	these	abstract[77]	new[77]	coref	53-15[77_78]
-51-8	_	islands	abstract[77]	new[77]	_	_
+51-7	_	these	abstract[81]	new[81]	coref	53-15[81_82]
+51-8	_	islands	abstract[81]	new[81]	_	_
 51-9	_	today	_	_	_	_
 51-10	_	,	_	_	_	_
 51-11	_	Port	_	_	_	_
@@ -1017,13 +1017,13 @@
 51-32	_	.	_	_	_	_
 
 #Text=Kopinga Marae .
-52-1	_	Kopinga	abstract[66]	new[66]	coref	53-19[66_67]
-52-2	_	Marae	abstract[66]	new[66]	_	_
+52-1	_	Kopinga	abstract[69]	new[69]	coref	53-19[69_70]
+52-2	_	Marae	abstract[69]	new[69]	_	_
 52-3	_	.	_	_	_	_
 
 #Text=If you could define a place that will remind you of your visit to the Chathams , then this very special place will be at the top of your list .
 53-1	_	If	_	_	_	_
-53-2	_	you	abstract[54]	new[54]	coref	53-10[54_55]
+53-2	_	you	abstract[57]	new[57]	coref	53-10[57_58]
 53-3	_	could	_	_	_	_
 53-4	_	define	_	_	_	_
 53-5	_	a	_	_	_	_
@@ -1031,26 +1031,26 @@
 53-7	_	that	_	_	_	_
 53-8	_	will	_	_	_	_
 53-9	_	remind	_	_	_	_
-53-10	_	you	abstract[55]	new[55]	coref	53-12[55_56]
+53-10	_	you	abstract[58]	new[58]	coref	53-12[58_59]
 53-11	_	of	_	_	_	_
-53-12	_	your	abstract[56]	new[56]	coref	53-29[56_57]
+53-12	_	your	abstract[59]	new[59]	coref	53-29[59_60]
 53-13	_	visit	_	_	_	_
 53-14	_	to	_	_	_	_
-53-15	_	the	abstract[78]	new[78]	coref	63-18[78_79]
-53-16	_	Chathams	abstract[78]	new[78]	_	_
+53-15	_	the	abstract[82]	new[82]	coref	63-18[82_83]
+53-16	_	Chathams	abstract[82]	new[82]	_	_
 53-17	_	,	_	_	_	_
 53-18	_	then	_	_	_	_
-53-19	_	this	abstract[67]	new[67]	coref	56-6[67_68]
-53-20	_	very	abstract[67]	new[67]	_	_
-53-21	_	special	abstract[67]	new[67]	_	_
-53-22	_	place	abstract[67]	new[67]	_	_
+53-19	_	this	abstract[70]	new[70]	coref	56-6[70_71]
+53-20	_	very	abstract[70]	new[70]	_	_
+53-21	_	special	abstract[70]	new[70]	_	_
+53-22	_	place	abstract[70]	new[70]	_	_
 53-23	_	will	_	_	_	_
 53-24	_	be	_	_	_	_
 53-25	_	at	_	_	_	_
 53-26	_	the	_	_	_	_
 53-27	_	top	_	_	_	_
 53-28	_	of	_	_	_	_
-53-29	_	your	abstract[57]	new[57]	_	_
+53-29	_	your	abstract[60]	new[60]	_	_
 53-30	_	list	_	_	_	_
 53-31	_	.	_	_	_	_
 
@@ -1095,12 +1095,12 @@
 55-21	_	contemporary	_	_	_	_
 55-22	_	testament	_	_	_	_
 55-23	_	to	_	_	_	_
-55-24	_	the	abstract[103]	new[103]	_	_
-55-25	_	ancestors	abstract[103]	new[103]	_	_
-55-26	_	of	abstract[103]	new[103]	_	_
-55-27	_	Te	abstract[23]|abstract[103]	new[23]|new[103]	coref	61-8[23_24]
-55-28	_	Imi	abstract[23]|abstract[103]	new[23]|new[103]	_	_
-55-29	_	Moriori	abstract[23]|abstract[103]	new[23]|new[103]	_	_
+55-24	_	the	abstract[107]	new[107]	_	_
+55-25	_	ancestors	abstract[107]	new[107]	_	_
+55-26	_	of	abstract[107]	new[107]	_	_
+55-27	_	Te	abstract[23]|abstract[107]	new[23]|new[107]	coref	61-8[23_24]
+55-28	_	Imi	abstract[23]|abstract[107]	new[23]|new[107]	_	_
+55-29	_	Moriori	abstract[23]|abstract[107]	new[23]|new[107]	_	_
 55-30	_	.	_	_	_	_
 
 #Text=Enjoy a guided tour of this beautiful and peaceful building .
@@ -1109,11 +1109,11 @@
 56-3	_	guided	_	_	_	_
 56-4	_	tour	_	_	_	_
 56-5	_	of	_	_	_	_
-56-6	_	this	abstract[68]	new[68]	coref	57-5[68_69]
-56-7	_	beautiful	abstract[68]	new[68]	_	_
-56-8	_	and	abstract[68]	new[68]	_	_
-56-9	_	peaceful	abstract[68]	new[68]	_	_
-56-10	_	building	abstract[68]	new[68]	_	_
+56-6	_	this	abstract[71]	new[71]	coref	57-5[71_72]
+56-7	_	beautiful	abstract[71]	new[71]	_	_
+56-8	_	and	abstract[71]	new[71]	_	_
+56-9	_	peaceful	abstract[71]	new[71]	_	_
+56-10	_	building	abstract[71]	new[71]	_	_
 56-11	_	.	_	_	_	_
 
 #Text=School - Camps At Kopinga Marae [ 3 ] also utilise this wonderful national treasure for hosting visiting school groups .
@@ -1121,17 +1121,17 @@
 57-2	_	-	_	_	_	_
 57-3	_	Camps	_	_	_	_
 57-4	_	At	_	_	_	_
-57-5	_	Kopinga	abstract[69]	new[69]	coref	57-12[69_70]
-57-6	_	Marae	abstract[69]	new[69]	_	_
+57-5	_	Kopinga	abstract[72]	new[72]	coref	57-12[72_73]
+57-6	_	Marae	abstract[72]	new[72]	_	_
 57-7	_	[	_	_	_	_
 57-8	_	3	_	_	_	_
 57-9	_	]	_	_	_	_
 57-10	_	also	_	_	_	_
 57-11	_	utilise	_	_	_	_
-57-12	_	this	abstract[70]	new[70]	_	_
-57-13	_	wonderful	abstract[70]	new[70]	_	_
-57-14	_	national	abstract[70]	new[70]	_	_
-57-15	_	treasure	abstract[70]	new[70]	_	_
+57-12	_	this	abstract[73]	new[73]	coref	64-42[73_74]
+57-13	_	wonderful	abstract[73]	new[73]	_	_
+57-14	_	national	abstract[73]	new[73]	_	_
+57-15	_	treasure	abstract[73]	new[73]	_	_
 57-16	_	for	_	_	_	_
 57-17	_	hosting	_	_	_	_
 57-18	_	visiting	_	_	_	_
@@ -1140,15 +1140,15 @@
 57-21	_	.	_	_	_	_
 
 #Text=Tommy Solomon Statue .
-58-1	_	Tommy	abstract[116]	new[116]	coref	62-7[116_117]
-58-2	_	Solomon	abstract[116]	new[116]	_	_
-58-3	_	Statue	abstract[116]	new[116]	_	_
+58-1	_	Tommy	abstract[120]	new[120]	coref	62-7[120_121]
+58-2	_	Solomon	abstract[120]	new[120]	_	_
+58-3	_	Statue	abstract[120]	new[120]	_	_
 58-4	_	.	_	_	_	_
 
 #Text=Tame Horomona Rehe was the last known full - blooded Moriori and he passed away in 1933 .
-59-1	_	Tame	abstract[110]	new[110]	coref	59-13[110_111]
-59-2	_	Horomona	abstract[110]	new[110]	_	_
-59-3	_	Rehe	abstract[110]	new[110]	_	_
+59-1	_	Tame	abstract[114]	new[114]	coref	59-13[114_115]
+59-2	_	Horomona	abstract[114]	new[114]	_	_
+59-3	_	Rehe	abstract[114]	new[114]	_	_
 59-4	_	was	_	_	_	_
 59-5	_	the	_	_	_	_
 59-6	_	last	_	_	_	_
@@ -1158,7 +1158,7 @@
 59-10	_	blooded	_	_	_	_
 59-11	_	Moriori	_	_	_	_
 59-12	_	and	_	_	_	_
-59-13	_	he	abstract[111]	new[111]	coref	60-1[111_112]
+59-13	_	he	abstract[115]	new[115]	coref	60-1[115_116]
 59-14	_	passed	_	_	_	_
 59-15	_	away	_	_	_	_
 59-16	_	in	_	_	_	_
@@ -1166,7 +1166,7 @@
 59-18	_	.	_	_	_	_
 
 #Text=He was however , not the last Moriori .
-60-1	_	He	abstract[112]	new[112]	coref	61-1[112_113]
+60-1	_	He	abstract[116]	new[116]	coref	61-1[116_117]
 60-2	_	was	_	_	_	_
 60-3	_	however	_	_	_	_
 60-4	_	,	_	_	_	_
@@ -1177,14 +1177,14 @@
 60-9	_	.	_	_	_	_
 
 #Text=His own descendants and the descendants of other Moriori live on today .
-61-1	_	His	abstract[113]|abstract[118]	new[113]|new[118]	coref|coref	62-15[113_114]|63-9[118_119]
-61-2	_	own	abstract[118]	new[118]	_	_
-61-3	_	descendants	abstract[118]	new[118]	_	_
+61-1	_	His	abstract[117]|abstract[122]	new[117]|new[122]	coref|coref	62-15[117_118]|63-9[122_123]
+61-2	_	own	abstract[122]	new[122]	_	_
+61-3	_	descendants	abstract[122]	new[122]	_	_
 61-4	_	and	_	_	_	_
 61-5	_	the	_	_	_	_
 61-6	_	descendants	_	_	_	_
 61-7	_	of	_	_	_	_
-61-8	_	other	abstract[24]	new[24]	_	_
+61-8	_	other	abstract[24]	new[24]	coref	64-48[24_25]
 61-9	_	Moriori	abstract[24]	new[24]	_	_
 61-10	_	live	_	_	_	_
 61-11	_	on	_	_	_	_
@@ -1198,16 +1198,16 @@
 62-4	_	a	_	_	_	_
 62-5	_	look	_	_	_	_
 62-6	_	at	_	_	_	_
-62-7	_	this	abstract[117]	new[117]	_	_
-62-8	_	statue	abstract[117]	new[117]	_	_
-62-9	_	,	abstract[117]	new[117]	_	_
-62-10	_	erected	abstract[117]	new[117]	_	_
-62-11	_	in	abstract[117]	new[117]	_	_
-62-12	_	1985	abstract[117]	new[117]	_	_
-62-13	_	to	abstract[117]	new[117]	_	_
-62-14	_	commemorate	abstract[117]	new[117]	_	_
-62-15	_	his	abstract[114]|abstract[117]	new[114]|new[117]	coref	63-9[114_115]
-62-16	_	passing	abstract[117]	new[117]	_	_
+62-7	_	this	abstract[121]	new[121]	_	_
+62-8	_	statue	abstract[121]	new[121]	_	_
+62-9	_	,	abstract[121]	new[121]	_	_
+62-10	_	erected	abstract[121]	new[121]	_	_
+62-11	_	in	abstract[121]	new[121]	_	_
+62-12	_	1985	abstract[121]	new[121]	_	_
+62-13	_	to	abstract[121]	new[121]	_	_
+62-14	_	commemorate	abstract[121]	new[121]	_	_
+62-15	_	his	abstract[118]|abstract[121]	new[118]|new[121]	coref	63-9[118_119]
+62-16	_	passing	abstract[121]	new[121]	_	_
 62-17	_	.	_	_	_	_
 
 #Text=Come and see Manakau , the property of his descendants , located on the eastern corner of Rekohu and blessed with the sun 's first rays as they rise above the sea each day .
@@ -1219,8 +1219,8 @@
 63-6	_	the	_	_	_	_
 63-7	_	property	_	_	_	_
 63-8	_	of	_	_	_	_
-63-9	_	his	abstract[115]|abstract[119]	new[115]|new[119]	_	_
-63-10	_	descendants	abstract[119]	new[119]	_	_
+63-9	_	his	abstract[119]|abstract[123]	new[119]|new[123]	_	_
+63-10	_	descendants	abstract[123]	new[123]	_	_
 63-11	_	,	_	_	_	_
 63-12	_	located	_	_	_	_
 63-13	_	on	_	_	_	_
@@ -1228,17 +1228,17 @@
 63-15	_	eastern	_	_	_	_
 63-16	_	corner	_	_	_	_
 63-17	_	of	_	_	_	_
-63-18	_	Rekohu	abstract[79]	new[79]	_	_
+63-18	_	Rekohu	abstract[83]	new[83]	_	_
 63-19	_	and	_	_	_	_
 63-20	_	blessed	_	_	_	_
 63-21	_	with	_	_	_	_
-63-22	_	the	abstract[120]	new[120]	coref	63-28[120_121]
-63-23	_	sun	abstract[120]	new[120]	_	_
-63-24	_	's	abstract[120]	new[120]	_	_
-63-25	_	first	abstract[120]	new[120]	_	_
-63-26	_	rays	abstract[120]	new[120]	_	_
+63-22	_	the	abstract[124]	new[124]	coref	63-28[124_125]
+63-23	_	sun	abstract[124]	new[124]	_	_
+63-24	_	's	abstract[124]	new[124]	_	_
+63-25	_	first	abstract[124]	new[124]	_	_
+63-26	_	rays	abstract[124]	new[124]	_	_
 63-27	_	as	_	_	_	_
-63-28	_	they	abstract[121]	new[121]	_	_
+63-28	_	they	abstract[125]	new[125]	_	_
 63-29	_	rise	_	_	_	_
 63-30	_	above	_	_	_	_
 63-31	_	the	_	_	_	_
@@ -1247,27 +1247,57 @@
 63-34	_	day	_	_	_	_
 63-35	_	.	_	_	_	_
 
-#Text=The winery is a great place to take a wine trip and this time in Oregon , it 's the whites .
+#Text=The Chatham Islands east of New Zealand ( population 640 ) , which are reachable by plane from New Zealand , feature the magestic Henga Scenic Reserve and beach , Hapupu National Historic Scenic Reserve , the picturesque Port Hutt and Kopinga Marae , meeting place of the indigenous Moriori people .
 64-1	_	The	_	_	_	_
-64-2	_	winery	_	_	_	_
-64-3	_	is	_	_	_	_
-64-4	_	a	_	_	_	_
-64-5	_	great	_	_	_	_
-64-6	_	place	_	_	_	_
-64-7	_	to	_	_	_	_
-64-8	_	take	_	_	_	_
-64-9	_	a	_	_	_	_
-64-10	_	wine	_	_	_	_
-64-11	_	trip	_	_	_	_
-64-12	_	and	_	_	_	_
-64-13	_	this	_	_	_	_
-64-14	_	time	_	_	_	_
-64-15	_	in	_	_	_	_
-64-16	_	Oregon	_	_	_	_
-64-17	_	,	_	_	_	_
-64-18	_	it	_	_	_	_
-64-19	_	's	_	_	_	_
-64-20	_	the	_	_	_	_
-64-21	_	whites	_	_	_	_
-64-22	_	.	_	_	_	_
+64-2	_	Chatham	_	_	_	_
+64-3	_	Islands	_	_	_	_
+64-4	_	east	_	_	_	_
+64-5	_	of	_	_	_	_
+64-6	_	New	abstract[39]	new[39]	coref	64-19[39_40]
+64-7	_	Zealand	abstract[39]	new[39]	_	_
+64-8	_	(	_	_	_	_
+64-9	_	population	_	_	_	_
+64-10	_	640	_	_	_	_
+64-11	_	)	_	_	_	_
+64-12	_	,	_	_	_	_
+64-13	_	which	_	_	_	_
+64-14	_	are	_	_	_	_
+64-15	_	reachable	_	_	_	_
+64-16	_	by	_	_	_	_
+64-17	_	plane	_	_	_	_
+64-18	_	from	_	_	_	_
+64-19	_	New	abstract[40]	new[40]	_	_
+64-20	_	Zealand	abstract[40]	new[40]	_	_
+64-21	_	,	_	_	_	_
+64-22	_	feature	_	_	_	_
+64-23	_	the	_	_	_	_
+64-24	_	magestic	_	_	_	_
+64-25	_	Henga	_	_	_	_
+64-26	_	Scenic	_	_	_	_
+64-27	_	Reserve	_	_	_	_
+64-28	_	and	_	_	_	_
+64-29	_	beach	_	_	_	_
+64-30	_	,	_	_	_	_
+64-31	_	Hapupu	_	_	_	_
+64-32	_	National	_	_	_	_
+64-33	_	Historic	_	_	_	_
+64-34	_	Scenic	_	_	_	_
+64-35	_	Reserve	_	_	_	_
+64-36	_	,	_	_	_	_
+64-37	_	the	_	_	_	_
+64-38	_	picturesque	_	_	_	_
+64-39	_	Port	_	_	_	_
+64-40	_	Hutt	_	_	_	_
+64-41	_	and	_	_	_	_
+64-42	_	Kopinga	abstract[74]	new[74]	_	_
+64-43	_	Marae	abstract[74]	new[74]	_	_
+64-44	_	,	abstract[74]	new[74]	_	_
+64-45	_	meeting	abstract[74]	new[74]	_	_
+64-46	_	place	abstract[74]	new[74]	_	_
+64-47	_	of	abstract[74]	new[74]	_	_
+64-48	_	the	abstract[25]|abstract[74]	new[25]|new[74]	_	_
+64-49	_	indigenous	abstract[25]|abstract[74]	new[25]|new[74]	_	_
+64-50	_	Moriori	abstract[25]|abstract[74]	new[25]|new[74]	_	_
+64-51	_	people	abstract[25]|abstract[74]	new[25]|new[74]	_	_
+64-52	_	.	_	_	_	_
 

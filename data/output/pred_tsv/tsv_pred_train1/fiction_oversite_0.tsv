@@ -130,15 +130,15 @@
 7-17	_	.	_	_	_	_
 
 #Text=The doctor , a woman I do n’t know , is sitting in the other chair .
-8-1	_	The	abstract[56]	new[56]	coref	20-1[56_57]
-8-2	_	doctor	abstract[56]	new[56]	_	_
-8-3	_	,	abstract[56]	new[56]	_	_
-8-4	_	a	abstract[56]	new[56]	_	_
-8-5	_	woman	abstract[56]	new[56]	_	_
-8-6	_	I	abstract[14]|abstract[56]	new[14]|new[56]	coref	9-1[14_15]
-8-7	_	do	abstract[56]	new[56]	_	_
-8-8	_	n’t	abstract[56]	new[56]	_	_
-8-9	_	know	abstract[56]	new[56]	_	_
+8-1	_	The	abstract[61]	new[61]	coref	20-1[61_62]
+8-2	_	doctor	abstract[61]	new[61]	_	_
+8-3	_	,	abstract[61]	new[61]	_	_
+8-4	_	a	abstract[61]	new[61]	_	_
+8-5	_	woman	abstract[61]	new[61]	_	_
+8-6	_	I	abstract[14]|abstract[61]	new[14]|new[61]	coref	9-1[14_15]
+8-7	_	do	abstract[61]	new[61]	_	_
+8-8	_	n’t	abstract[61]	new[61]	_	_
+8-9	_	know	abstract[61]	new[61]	_	_
 8-10	_	,	_	_	_	_
 8-11	_	is	_	_	_	_
 8-12	_	sitting	_	_	_	_
@@ -259,9 +259,9 @@
 17-16	_	grasps	_	_	_	_
 17-17	_	and	_	_	_	_
 17-18	_	loses	_	_	_	_
-17-19	_	phrases	abstract[54]	new[54]	coref	17-21[54_55]
+17-19	_	phrases	abstract[59]	new[59]	coref	17-21[59_60]
 17-20	_	as	_	_	_	_
-17-21	_	they	abstract[55]	new[55]	_	_
+17-21	_	they	abstract[60]	new[60]	_	_
 17-22	_	go	_	_	_	_
 17-23	_	past	_	_	_	_
 17-24	_	.	_	_	_	_
@@ -287,7 +287,7 @@
 18-18	_	.	_	_	_	_
 
 #Text=We have worn her down .
-19-1	_	We	abstract[120]	new[120]	coref	29-1[120_121]
+19-1	_	We	abstract[123]	new[123]	coref	29-1[123_124]
 19-2	_	have	_	_	_	_
 19-3	_	worn	_	_	_	_
 19-4	_	her	abstract[34]	new[34]	coref	20-4[34_35]
@@ -295,10 +295,10 @@
 19-6	_	.	_	_	_	_
 
 #Text=The doctor bares my mother ’s arm , where the crepey flesh hangs loosely on the bones .
-20-1	_	The	abstract[57]	new[57]	coref	21-1[57_58]
-20-2	_	doctor	abstract[57]	new[57]	_	_
+20-1	_	The	abstract[62]	new[62]	coref	21-1[62_63]
+20-2	_	doctor	abstract[62]	new[62]	_	_
 20-3	_	bares	_	_	_	_
-20-4	_	my	abstract[35]|abstract[71]	new[35]|new[71]	coref|coref	21-4[35_36]|22-2[71_72]
+20-4	_	my	abstract[35]|abstract[76]	new[35]|new[76]	coref|coref	21-4[35_36]|22-2[76_77]
 20-5	_	mother	abstract[35]	new[35]	_	_
 20-6	_	’s	abstract[35]	new[35]	_	_
 20-7	_	arm	_	_	_	_
@@ -315,28 +315,28 @@
 20-18	_	.	_	_	_	_
 
 #Text=The doctor swabs her upper arm with antiseptic and says , “ I ’m going to give you something to numb it , okay ? ”
-21-1	_	The	abstract[58]	new[58]	coref	21-13[58_59]
-21-2	_	doctor	abstract[58]	new[58]	_	_
+21-1	_	The	abstract[63]	new[63]	coref	21-13[63_64]
+21-2	_	doctor	abstract[63]	new[63]	_	_
 21-3	_	swabs	_	_	_	_
-21-4	_	her	abstract[36]|abstract[69]	new[36]|new[69]	coref|coref	21-18[36_37]|21-22[69_70]
-21-5	_	upper	abstract[69]	new[69]	_	_
-21-6	_	arm	abstract[69]	new[69]	_	_
+21-4	_	her	abstract[36]|abstract[74]	new[36]|new[74]	coref|coref	21-18[36_37]|21-22[74_75]
+21-5	_	upper	abstract[74]	new[74]	_	_
+21-6	_	arm	abstract[74]	new[74]	_	_
 21-7	_	with	_	_	_	_
 21-8	_	antiseptic	_	_	_	_
 21-9	_	and	_	_	_	_
 21-10	_	says	_	_	_	_
 21-11	_	,	_	_	_	_
 21-12	_	“	_	_	_	_
-21-13	_	I	abstract[59]	new[59]	coref	22-3[59_60]
+21-13	_	I	abstract[64]	new[64]	coref	22-3[64_65]
 21-14	_	’m	_	_	_	_
 21-15	_	going	_	_	_	_
 21-16	_	to	_	_	_	_
 21-17	_	give	_	_	_	_
 21-18	_	you	abstract[37]	new[37]	coref	27-1[37_38]
-21-19	_	something	abstract[118]	new[118]	coref	22-12[118_119]
+21-19	_	something	abstract[121]	new[121]	coref	22-12[121_122]
 21-20	_	to	_	_	_	_
 21-21	_	numb	_	_	_	_
-21-22	_	it	abstract[70]	new[70]	_	_
+21-22	_	it	abstract[75]	new[75]	_	_
 21-23	_	,	_	_	_	_
 21-24	_	okay	_	_	_	_
 21-25	_	?	_	_	_	_
@@ -344,17 +344,17 @@
 
 #Text=To me the doctor says in her normal voice , “ It ’s just a little lidocaine . ”
 22-1	_	To	_	_	_	_
-22-2	_	me	abstract[72]	new[72]	coref	23-1[72_73]
-22-3	_	the	abstract[60]	new[60]	coref	22-7[60_61]
-22-4	_	doctor	abstract[60]	new[60]	_	_
+22-2	_	me	abstract[77]	new[77]	coref	23-1[77_78]
+22-3	_	the	abstract[65]	new[65]	coref	22-7[65_66]
+22-4	_	doctor	abstract[65]	new[65]	_	_
 22-5	_	says	_	_	_	_
 22-6	_	in	_	_	_	_
-22-7	_	her	abstract[61]	new[61]	coref	23-5[61_62]
+22-7	_	her	abstract[66]	new[66]	coref	23-5[66_67]
 22-8	_	normal	_	_	_	_
 22-9	_	voice	_	_	_	_
 22-10	_	,	_	_	_	_
 22-11	_	“	_	_	_	_
-22-12	_	It	abstract[119]	new[119]	_	_
+22-12	_	It	abstract[122]	new[122]	_	_
 22-13	_	’s	_	_	_	_
 22-14	_	just	_	_	_	_
 22-15	_	a	_	_	_	_
@@ -364,15 +364,15 @@
 22-19	_	”	_	_	_	_
 
 #Text=I do n’t like the doctor , but I do n’t know why .
-23-1	_	I	abstract[73]	new[73]	coref	23-9[73_74]
+23-1	_	I	abstract[78]	new[78]	coref	23-9[78_79]
 23-2	_	do	_	_	_	_
 23-3	_	n’t	_	_	_	_
 23-4	_	like	_	_	_	_
-23-5	_	the	abstract[62]	new[62]	coref	24-1[62_63]
-23-6	_	doctor	abstract[62]	new[62]	_	_
+23-5	_	the	abstract[67]	new[67]	coref	24-1[67_68]
+23-6	_	doctor	abstract[67]	new[67]	_	_
 23-7	_	,	_	_	_	_
 23-8	_	but	_	_	_	_
-23-9	_	I	abstract[74]	new[74]	coref	27-1[74_75]
+23-9	_	I	abstract[79]	new[79]	coref	27-1[79_80]
 23-10	_	do	_	_	_	_
 23-11	_	n’t	_	_	_	_
 23-12	_	know	_	_	_	_
@@ -380,7 +380,7 @@
 23-14	_	.	_	_	_	_
 
 #Text=She is no - nonsense .
-24-1	_	She	abstract[63]	new[63]	coref	25-1[63_64]
+24-1	_	She	abstract[68]	new[68]	coref	25-1[68_69]
 24-2	_	is	_	_	_	_
 24-3	_	no	_	_	_	_
 24-4	_	-	_	_	_	_
@@ -388,7 +388,7 @@
 24-6	_	.	_	_	_	_
 
 #Text=She has professional hair , lightly streaked .
-25-1	_	She	abstract[64]	new[64]	coref	26-7[64_65]
+25-1	_	She	abstract[69]	new[69]	coref	26-7[69_70]
 25-2	_	has	_	_	_	_
 25-3	_	professional	_	_	_	_
 25-4	_	hair	_	_	_	_
@@ -404,11 +404,11 @@
 26-4	_	reason	_	_	_	_
 26-5	_	to	_	_	_	_
 26-6	_	dislike	_	_	_	_
-26-7	_	her	abstract[65]	new[65]	coref	42-11[65_66]
+26-7	_	her	abstract[70]	new[70]	coref	42-11[70_71]
 26-8	_	.	_	_	_	_
 
 #Text=My mother winces at the injection and is surprised again .
-27-1	_	My	abstract[38]|abstract[75]	new[38]|new[75]	coref|coref	28-1[38_39]|28-5[75_76]
+27-1	_	My	abstract[38]|abstract[80]	new[38]|new[80]	coref|coref	28-1[38_39]|28-5[80_81]
 27-2	_	mother	abstract[38]	new[38]	_	_
 27-3	_	winces	_	_	_	_
 27-4	_	at	_	_	_	_
@@ -425,20 +425,20 @@
 28-2	_	looks	_	_	_	_
 28-3	_	up	_	_	_	_
 28-4	_	at	_	_	_	_
-28-5	_	me	abstract[76]	new[76]	coref	30-5[76_77]
+28-5	_	me	abstract[81]	new[81]	coref	30-5[81_82]
 28-6	_	,	_	_	_	_
 28-7	_	at	_	_	_	_
-28-8	_	Renata	abstract[136]	new[136]	coref	42-7[136_137]
+28-8	_	Renata	abstract[139]	new[139]	coref	42-7[139_140]
 28-9	_	.	_	_	_	_
 
 #Text=We are smiling , both of us .
-29-1	_	We	abstract[121]	new[121]	coref	29-7[121_122]
+29-1	_	We	abstract[124]	new[124]	coref	29-7[124_125]
 29-2	_	are	_	_	_	_
 29-3	_	smiling	_	_	_	_
 29-4	_	,	_	_	_	_
 29-5	_	both	_	_	_	_
 29-6	_	of	_	_	_	_
-29-7	_	us	abstract[122]	new[122]	coref	33-1[122_123]
+29-7	_	us	abstract[125]	new[125]	coref	33-1[125_126]
 29-8	_	.	_	_	_	_
 
 #Text=“ Okay , ” my mother says .
@@ -446,7 +446,7 @@
 30-2	_	Okay	_	_	_	_
 30-3	_	,	_	_	_	_
 30-4	_	”	_	_	_	_
-30-5	_	my	abstract[40]|abstract[77]	new[40]|new[77]	coref|coref	34-1[40_41]|32-1[77_78]
+30-5	_	my	abstract[40]|abstract[82]	new[40]|new[82]	coref|coref	34-1[40_41]|32-1[82_83]
 30-6	_	mother	abstract[40]	new[40]	_	_
 30-7	_	says	_	_	_	_
 30-8	_	.	_	_	_	_
@@ -458,14 +458,14 @@
 31-4	_	?	_	_	_	_
 
 #Text=I have no idea .
-32-1	_	I	abstract[78]	new[78]	coref	34-1[78_79]
+32-1	_	I	abstract[83]	new[83]	coref	34-1[83_84]
 32-2	_	have	_	_	_	_
 32-3	_	no	_	_	_	_
 32-4	_	idea	_	_	_	_
 32-5	_	.	_	_	_	_
 
 #Text=We wait for a few minutes .
-33-1	_	We	abstract[123]	new[123]	coref	47-26[123_124]
+33-1	_	We	abstract[126]	new[126]	coref	47-26[126_127]
 33-2	_	wait	_	_	_	_
 33-3	_	for	_	_	_	_
 33-4	_	a	_	_	_	_
@@ -474,7 +474,7 @@
 33-7	_	.	_	_	_	_
 
 #Text=My mother says , “ Is it time to go ? ”
-34-1	_	My	abstract[41]|abstract[79]	new[41]|new[79]	coref|coref	36-7[41_42]|35-6[79_80]
+34-1	_	My	abstract[41]|abstract[84]	new[41]|new[84]	coref|coref	36-7[41_42]|35-6[84_85]
 34-2	_	mother	abstract[41]	new[41]	_	_
 34-3	_	says	_	_	_	_
 34-4	_	,	_	_	_	_
@@ -493,13 +493,13 @@
 35-3	_	yet	_	_	_	_
 35-4	_	,	_	_	_	_
 35-5	_	”	_	_	_	_
-35-6	_	I	abstract[80]	new[80]	coref	37-5[80_81]
+35-6	_	I	abstract[85]	new[85]	coref	37-5[85_86]
 35-7	_	say	_	_	_	_
 35-8	_	.	_	_	_	_
 
 #Text=“ They ’re going to give you an injection . ”
 36-1	_	“	_	_	_	_
-36-2	_	They	abstract[127]	new[127]	coref	38-2[127_128]
+36-2	_	They	abstract[130]	new[130]	coref	38-2[130_131]
 36-3	_	’re	_	_	_	_
 36-4	_	going	_	_	_	_
 36-5	_	to	_	_	_	_
@@ -515,27 +515,27 @@
 37-2	_	What	_	_	_	_
 37-3	_	?	_	_	_	_
 37-4	_	”	_	_	_	_
-37-5	_	my	abstract[43]|abstract[81]	new[43]|new[81]	coref|coref	39-9[43_44]|40-1[81_82]
+37-5	_	my	abstract[43]|abstract[86]	new[43]|new[86]	coref|coref	39-9[43_44]|40-1[86_87]
 37-6	_	mother	abstract[43]	new[43]	_	_
 37-7	_	says	_	_	_	_
 37-8	_	.	_	_	_	_
 
 #Text=“ They ’re going to implant a chip .
 38-1	_	“	_	_	_	_
-38-2	_	They	abstract[128]	new[128]	coref	39-5[128_129]
+38-2	_	They	abstract[131]	new[131]	coref	39-5[131_132]
 38-3	_	’re	_	_	_	_
 38-4	_	going	_	_	_	_
 38-5	_	to	_	_	_	_
 38-6	_	implant	_	_	_	_
-38-7	_	a	abstract[130]	new[130]	coref	39-2[130_131]
-38-8	_	chip	abstract[130]	new[130]	_	_
+38-7	_	a	abstract[133]	new[133]	coref	39-2[133_134]
+38-8	_	chip	abstract[133]	new[133]	_	_
 38-9	_	.	_	_	_	_
 
 #Text=It will help them take care of you . ”
-39-1	_	It	abstract[131]	new[131]	coref	45-28[131_132]
+39-1	_	It	abstract[134]	new[134]	coref	45-28[134_135]
 39-2	_	will	_	_	_	_
 39-3	_	help	_	_	_	_
-39-4	_	them	abstract[129]	new[129]	_	_
+39-4	_	them	abstract[132]	new[132]	_	_
 39-5	_	take	_	_	_	_
 39-6	_	care	_	_	_	_
 39-7	_	of	_	_	_	_
@@ -544,11 +544,11 @@
 39-10	_	”	_	_	_	_
 
 #Text=I try to say it every time as if it was the first time I said it .
-40-1	_	I	abstract[82]	new[82]	coref	40-15[82_83]
+40-1	_	I	abstract[87]	new[87]	coref	40-15[87_88]
 40-2	_	try	_	_	_	_
 40-3	_	to	_	_	_	_
 40-4	_	say	_	_	_	_
-40-5	_	it	abstract[134]	new[134]	coref	40-17[134_135]
+40-5	_	it	abstract[137]	new[137]	coref	40-17[137_138]
 40-6	_	every	_	_	_	_
 40-7	_	time	_	_	_	_
 40-8	_	as	_	_	_	_
@@ -558,13 +558,13 @@
 40-12	_	the	_	_	_	_
 40-13	_	first	_	_	_	_
 40-14	_	time	_	_	_	_
-40-15	_	I	abstract[83]	new[83]	coref	41-1[83_84]
+40-15	_	I	abstract[88]	new[88]	coref	41-1[88_89]
 40-16	_	said	_	_	_	_
-40-17	_	it	abstract[135]	new[135]	_	_
+40-17	_	it	abstract[138]	new[138]	_	_
 40-18	_	.	_	_	_	_
 
 #Text=I do n’t want to embarrass her .
-41-1	_	I	abstract[84]	new[84]	coref	42-9[84_85]
+41-1	_	I	abstract[89]	new[89]	coref	42-9[89_90]
 41-2	_	do	_	_	_	_
 41-3	_	n’t	_	_	_	_
 41-4	_	want	_	_	_	_
@@ -580,17 +580,17 @@
 42-4	_	around	_	_	_	_
 42-5	_	,	_	_	_	_
 42-6	_	from	_	_	_	_
-42-7	_	Renata	abstract[137]	new[137]	coref	42-17[137_138]
+42-7	_	Renata	abstract[140]	new[140]	coref	42-17[140_141]
 42-8	_	to	_	_	_	_
-42-9	_	me	abstract[85]	new[85]	coref	44-5[85_86]
+42-9	_	me	abstract[90]	new[90]	coref	44-5[90_91]
 42-10	_	to	_	_	_	_
-42-11	_	the	abstract[66]	new[66]	coref	45-1[66_67]
-42-12	_	doctor	abstract[66]	new[66]	_	_
+42-11	_	the	abstract[71]	new[71]	coref	45-1[71_72]
+42-12	_	doctor	abstract[71]	new[71]	_	_
 42-13	_	and	_	_	_	_
 42-14	_	then	_	_	_	_
 42-15	_	back	_	_	_	_
 42-16	_	to	_	_	_	_
-42-17	_	Renata	abstract[138]	new[138]	coref	43-9[138_139]
+42-17	_	Renata	abstract[141]	new[141]	coref	43-9[141_142]
 42-18	_	.	_	_	_	_
 
 #Text=“ It ’s okay , Gram , ” Renata says .
@@ -602,50 +602,50 @@
 43-6	_	Gram	abstract[47]	new[47]	coref	44-5[47_48]
 43-7	_	,	_	_	_	_
 43-8	_	”	_	_	_	_
-43-9	_	Renata	abstract[139]	new[139]	coref	44-2[139_140]
+43-9	_	Renata	abstract[142]	new[142]	coref	44-2[142_143]
 43-10	_	says	_	_	_	_
 43-11	_	.	_	_	_	_
 
 #Text=“ Renata , ” my mother says .
 44-1	_	“	_	_	_	_
-44-2	_	Renata	abstract[140]	new[140]	coref	45-14[140_141]
+44-2	_	Renata	abstract[143]	new[143]	coref	45-14[143_144]
 44-3	_	,	_	_	_	_
 44-4	_	”	_	_	_	_
-44-5	_	my	abstract[48]|abstract[86]	new[48]|new[86]	coref|coref	45-9[48_49]|45-9[86_87]
+44-5	_	my	abstract[48]|abstract[91]	new[48]|new[91]	coref|coref	45-9[48_49]|45-9[91_92]
 44-6	_	mother	abstract[48]	new[48]	_	_
 44-7	_	says	_	_	_	_
 44-8	_	.	_	_	_	_
 
 #Text=The doctor has an injection gun and while my mother is focused on my daughter , she puts it firmly against my mother ’s arm and puts the chip in .
-45-1	_	The	abstract[67]	new[67]	coref	45-17[67_68]
-45-2	_	doctor	abstract[67]	new[67]	_	_
+45-1	_	The	abstract[72]	new[72]	coref	45-17[72_73]
+45-2	_	doctor	abstract[72]	new[72]	_	_
 45-3	_	has	_	_	_	_
-45-4	_	an	abstract[150]	new[150]	coref	45-19[150_151]
-45-5	_	injection	abstract[150]	new[150]	_	_
-45-6	_	gun	abstract[150]	new[150]	_	_
+45-4	_	an	abstract[153]	new[153]	coref	45-19[153_154]
+45-5	_	injection	abstract[153]	new[153]	_	_
+45-6	_	gun	abstract[153]	new[153]	_	_
 45-7	_	and	_	_	_	_
 45-8	_	while	_	_	_	_
-45-9	_	my	abstract[49]|abstract[87]	new[49]|new[87]	coref|coref	45-22[49_50]|45-14[87_88]
+45-9	_	my	abstract[49]|abstract[92]	new[49]|new[92]	coref|coref	45-22[49_50]|45-14[92_93]
 45-10	_	mother	abstract[49]	new[49]	_	_
 45-11	_	is	_	_	_	_
 45-12	_	focused	_	_	_	_
 45-13	_	on	_	_	_	_
-45-14	_	my	abstract[88]|abstract[141]	new[88]|new[141]	coref|coref	45-22[88_89]|47-22[141_142]
-45-15	_	daughter	abstract[141]	new[141]	_	_
+45-14	_	my	abstract[93]|abstract[144]	new[93]|new[144]	coref|coref	45-22[93_94]|47-22[144_145]
+45-15	_	daughter	abstract[144]	new[144]	_	_
 45-16	_	,	_	_	_	_
-45-17	_	she	abstract[68]	new[68]	_	_
+45-17	_	she	abstract[73]	new[73]	_	_
 45-18	_	puts	_	_	_	_
-45-19	_	it	abstract[151]	new[151]	_	_
+45-19	_	it	abstract[154]	new[154]	_	_
 45-20	_	firmly	_	_	_	_
 45-21	_	against	_	_	_	_
-45-22	_	my	abstract[50]|abstract[89]	new[50]|new[89]	coref|coref	46-6[50_51]|46-6[89_90]
+45-22	_	my	abstract[50]|abstract[94]	new[50]|new[94]	coref|coref	46-6[50_51]|46-6[94_95]
 45-23	_	mother	abstract[50]	new[50]	_	_
 45-24	_	’s	abstract[50]	new[50]	_	_
 45-25	_	arm	_	_	_	_
 45-26	_	and	_	_	_	_
 45-27	_	puts	_	_	_	_
-45-28	_	the	abstract[132]	new[132]	coref	50-26[132_133]
-45-29	_	chip	abstract[132]	new[132]	_	_
+45-28	_	the	abstract[135]	new[135]	coref	50-26[135_136]
+45-29	_	chip	abstract[135]	new[135]	_	_
 45-30	_	in	_	_	_	_
 45-31	_	.	_	_	_	_
 
@@ -655,12 +655,12 @@
 46-3	_	!	_	_	_	_
 46-4	_	”	_	_	_	_
 46-5	_	says	_	_	_	_
-46-6	_	my	abstract[51]|abstract[90]	new[51]|new[90]	coref|coref	47-19[51_52]|47-12[90_91]
+46-6	_	my	abstract[51]|abstract[95]	new[51]|new[95]	coref|coref	47-19[51_52]|47-12[95_96]
 46-7	_	mother	abstract[51]	new[51]	_	_
 46-8	_	.	_	_	_	_
 
 #Text=It ’s another low - grade moment of horror , but I think about that particular time with my mother because Renata was there and we were united , she and I .
-47-1	_	It	abstract[152]	new[152]	coref	47-15[152_153]
+47-1	_	It	abstract[155]	new[155]	coref	47-15[155_156]
 47-2	_	’s	_	_	_	_
 47-3	_	another	_	_	_	_
 47-4	_	low	_	_	_	_
@@ -671,32 +671,32 @@
 47-9	_	horror	_	_	_	_
 47-10	_	,	_	_	_	_
 47-11	_	but	_	_	_	_
-47-12	_	I	abstract[91]	new[91]	coref	47-19[91_92]
+47-12	_	I	abstract[96]	new[96]	coref	47-19[96_97]
 47-13	_	think	_	_	_	_
 47-14	_	about	_	_	_	_
-47-15	_	that	abstract[153]	new[153]	_	_
-47-16	_	particular	abstract[153]	new[153]	_	_
-47-17	_	time	abstract[153]	new[153]	_	_
-47-18	_	with	abstract[153]	new[153]	_	_
-47-19	_	my	abstract[52]|abstract[92]|abstract[153]	new[52]|new[92]|new[153]	coref|coref	50-23[52_53]|47-32[92_93]
-47-20	_	mother	abstract[52]|abstract[153]	new[52]|new[153]	_	_
+47-15	_	that	abstract[156]	new[156]	_	_
+47-16	_	particular	abstract[156]	new[156]	_	_
+47-17	_	time	abstract[156]	new[156]	_	_
+47-18	_	with	abstract[156]	new[156]	_	_
+47-19	_	my	abstract[52]|abstract[97]|abstract[156]	new[52]|new[97]|new[156]	coref|coref	50-23[52_53]|47-32[97_98]
+47-20	_	mother	abstract[52]|abstract[156]	new[52]|new[156]	_	_
 47-21	_	because	_	_	_	_
-47-22	_	Renata	abstract[142]	new[142]	coref	47-30[142_143]
+47-22	_	Renata	abstract[145]	new[145]	coref	47-30[145_146]
 47-23	_	was	_	_	_	_
 47-24	_	there	_	_	_	_
 47-25	_	and	_	_	_	_
-47-26	_	we	abstract[124]	new[124]	coref	47-30[124_125]
+47-26	_	we	abstract[127]	new[127]	coref	47-30[127_128]
 47-27	_	were	_	_	_	_
 47-28	_	united	_	_	_	_
 47-29	_	,	_	_	_	_
-47-30	_	she	abstract[125]|abstract[143]	new[125]|new[143]	coref|coref	57-16[125_126]|50-8[143_144]
-47-31	_	and	abstract[125]	new[125]	_	_
-47-32	_	I	abstract[93]|abstract[125]	new[93]|new[125]	coref	49-1[93_94]
+47-30	_	she	abstract[128]|abstract[146]	new[128]|new[146]	coref|coref	57-16[128_129]|50-8[146_147]
+47-31	_	and	abstract[128]	new[128]	_	_
+47-32	_	I	abstract[98]|abstract[128]	new[98]|new[128]	coref	49-1[98_99]
 47-33	_	.	_	_	_	_
 
 #Text=So that ’s a good memory .
 48-1	_	So	_	_	_	_
-48-2	_	that	abstract[154]	new[154]	coref	49-5[154_155]
+48-2	_	that	abstract[157]	new[157]	coref	49-5[157_158]
 48-3	_	’s	_	_	_	_
 48-4	_	a	_	_	_	_
 48-5	_	good	_	_	_	_
@@ -704,11 +704,11 @@
 48-7	_	.	_	_	_	_
 
 #Text=I come back to it a lot .
-49-1	_	I	abstract[94]	new[94]	coref	51-5[94_95]
+49-1	_	I	abstract[99]	new[99]	coref	51-5[99_100]
 49-2	_	come	_	_	_	_
 49-3	_	back	_	_	_	_
 49-4	_	to	_	_	_	_
-49-5	_	it	abstract[155]	new[155]	_	_
+49-5	_	it	abstract[158]	new[158]	_	_
 49-6	_	a	_	_	_	_
 49-7	_	lot	_	_	_	_
 49-8	_	.	_	_	_	_
@@ -721,26 +721,26 @@
 50-5	_	shining	_	_	_	_
 50-6	_	,	_	_	_	_
 50-7	_	is	_	_	_	_
-50-8	_	Renata	abstract[144]	new[144]	coref	50-19[144_145]
-50-9	_	,	abstract[144]	new[144]	_	_
-50-10	_	who	abstract[144]	new[144]	_	_
-50-11	_	is	abstract[144]	new[144]	_	_
-50-12	_	young	abstract[144]	new[144]	_	_
-50-13	_	and	abstract[144]	new[144]	_	_
-50-14	_	healthy	abstract[144]	new[144]	_	_
-50-15	_	and	abstract[144]	new[144]	_	_
-50-16	_	good	abstract[144]	new[144]	_	_
+50-8	_	Renata	abstract[147]	new[147]	coref	50-19[147_148]
+50-9	_	,	abstract[147]	new[147]	_	_
+50-10	_	who	abstract[147]	new[147]	_	_
+50-11	_	is	abstract[147]	new[147]	_	_
+50-12	_	young	abstract[147]	new[147]	_	_
+50-13	_	and	abstract[147]	new[147]	_	_
+50-14	_	healthy	abstract[147]	new[147]	_	_
+50-15	_	and	abstract[147]	new[147]	_	_
+50-16	_	good	abstract[147]	new[147]	_	_
 50-17	_	,	_	_	_	_
 50-18	_	raising	_	_	_	_
-50-19	_	her	abstract[145]	new[145]	coref	50-23[145_146]
+50-19	_	her	abstract[148]	new[148]	coref	50-23[148_149]
 50-20	_	arm	_	_	_	_
 50-21	_	to	_	_	_	_
 50-22	_	show	_	_	_	_
-50-23	_	her	abstract[53]|abstract[146]	new[53]|new[146]	coref	52-6[146_147]
+50-23	_	her	abstract[53]|abstract[149]	new[53]|new[149]	coref|coref	67-3[53_54]|52-6[149_150]
 50-24	_	grandmother	abstract[53]	new[53]	_	_
 50-25	_	that	_	_	_	_
-50-26	_	the	abstract[133]	new[133]	_	_
-50-27	_	chip	abstract[133]	new[133]	_	_
+50-26	_	the	abstract[136]	new[136]	_	_
+50-27	_	chip	abstract[136]	new[136]	_	_
 50-28	_	is	_	_	_	_
 50-29	_	nothing	_	_	_	_
 50-30	_	,	_	_	_	_
@@ -754,7 +754,7 @@
 51-2	_	last	_	_	_	_
 51-3	_	two	_	_	_	_
 51-4	_	nights	_	_	_	_
-51-5	_	I	abstract[95]	new[95]	coref	52-1[95_96]
+51-5	_	I	abstract[100]	new[100]	coref	52-1[100_101]
 51-6	_	have	_	_	_	_
 51-7	_	dreamed	_	_	_	_
 51-8	_	of	_	_	_	_
@@ -764,52 +764,52 @@
 51-12	_	.	_	_	_	_
 
 #Text=I do n’t dream about Renata , although when the dreams wake me up , it ’s thinking about Renata that keeps me awake .
-52-1	_	I	abstract[96]	new[96]	coref	52-13[96_97]
+52-1	_	I	abstract[101]	new[101]	coref	52-13[101_102]
 52-2	_	do	_	_	_	_
 52-3	_	n’t	_	_	_	_
 52-4	_	dream	_	_	_	_
 52-5	_	about	_	_	_	_
-52-6	_	Renata	abstract[147]	new[147]	coref	52-20[147_148]
+52-6	_	Renata	abstract[150]	new[150]	coref	52-20[150_151]
 52-7	_	,	_	_	_	_
 52-8	_	although	_	_	_	_
 52-9	_	when	_	_	_	_
 52-10	_	the	_	_	_	_
 52-11	_	dreams	_	_	_	_
 52-12	_	wake	_	_	_	_
-52-13	_	me	abstract[97]	new[97]	coref	52-23[97_98]
+52-13	_	me	abstract[102]	new[102]	coref	52-23[102_103]
 52-14	_	up	_	_	_	_
 52-15	_	,	_	_	_	_
 52-16	_	it	_	_	_	_
 52-17	_	’s	_	_	_	_
 52-18	_	thinking	_	_	_	_
 52-19	_	about	_	_	_	_
-52-20	_	Renata	abstract[148]	new[148]	coref	54-6[148_149]
+52-20	_	Renata	abstract[151]	new[151]	coref	54-6[151_152]
 52-21	_	that	_	_	_	_
 52-22	_	keeps	_	_	_	_
-52-23	_	me	abstract[98]	new[98]	coref	53-4[98_99]
+52-23	_	me	abstract[103]	new[103]	coref	53-4[103_104]
 52-24	_	awake	_	_	_	_
 52-25	_	.	_	_	_	_
 
 #Text=The first night I dreamed of seeing a stray dog and not stopping to pick it up although it was wandering in an empty parking lot near a busy road .
-53-1	_	The	abstract[159]	new[159]	coref	54-1[159_160]
-53-2	_	first	abstract[159]	new[159]	_	_
-53-3	_	night	abstract[159]	new[159]	_	_
-53-4	_	I	abstract[99]	new[99]	coref	55-12[99_100]
+53-1	_	The	abstract[162]	new[162]	coref	54-1[162_163]
+53-2	_	first	abstract[162]	new[162]	_	_
+53-3	_	night	abstract[162]	new[162]	_	_
+53-4	_	I	abstract[104]	new[104]	coref	55-12[104_105]
 53-5	_	dreamed	_	_	_	_
 53-6	_	of	_	_	_	_
 53-7	_	seeing	_	_	_	_
-53-8	_	a	abstract[156]	new[156]	coref	53-16[156_157]
-53-9	_	stray	abstract[156]	new[156]	_	_
-53-10	_	dog	abstract[156]	new[156]	_	_
+53-8	_	a	abstract[159]	new[159]	coref	53-16[159_160]
+53-9	_	stray	abstract[159]	new[159]	_	_
+53-10	_	dog	abstract[159]	new[159]	_	_
 53-11	_	and	_	_	_	_
 53-12	_	not	_	_	_	_
 53-13	_	stopping	_	_	_	_
 53-14	_	to	_	_	_	_
 53-15	_	pick	_	_	_	_
-53-16	_	it	abstract[157]	new[157]	coref	53-19[157_158]
+53-16	_	it	abstract[160]	new[160]	coref	53-19[160_161]
 53-17	_	up	_	_	_	_
 53-18	_	although	_	_	_	_
-53-19	_	it	abstract[158]	new[158]	_	_
+53-19	_	it	abstract[161]	new[161]	_	_
 53-20	_	was	_	_	_	_
 53-21	_	wandering	_	_	_	_
 53-22	_	in	_	_	_	_
@@ -824,12 +824,12 @@
 53-31	_	.	_	_	_	_
 
 #Text=That was the first night Renata did n’t come home and it does n’t take Freud to figure out what that meant .
-54-1	_	That	abstract[160]	new[160]	_	_
+54-1	_	That	abstract[163]	new[163]	_	_
 54-2	_	was	_	_	_	_
 54-3	_	the	_	_	_	_
 54-4	_	first	_	_	_	_
 54-5	_	night	_	_	_	_
-54-6	_	Renata	abstract[149]	new[149]	_	_
+54-6	_	Renata	abstract[152]	new[152]	_	_
 54-7	_	did	_	_	_	_
 54-8	_	n’t	_	_	_	_
 54-9	_	come	_	_	_	_
@@ -860,18 +860,18 @@
 55-9	_	’	_	_	_	_
 55-10	_	couches	_	_	_	_
 55-11	_	,	_	_	_	_
-55-12	_	I	abstract[100]	new[100]	coref	57-4[100_101]
+55-12	_	I	abstract[105]	new[105]	coref	57-4[105_106]
 55-13	_	know	_	_	_	_
 55-14	_	.	_	_	_	_
 
 #Text=Or Renata might be sleeping in her car .
 56-1	_	Or	_	_	_	_
-56-2	_	Renata	abstract[161]	new[161]	coref	56-7[161_162]
+56-2	_	Renata	abstract[164]	new[164]	coref	56-7[164_165]
 56-3	_	might	_	_	_	_
 56-4	_	be	_	_	_	_
 56-5	_	sleeping	_	_	_	_
 56-6	_	in	_	_	_	_
-56-7	_	her	abstract[162]	new[162]	coref	66-9[162_163]
+56-7	_	her	abstract[165]	new[165]	coref	66-9[165_166]
 56-8	_	car	_	_	_	_
 56-9	_	.	_	_	_	_
 
@@ -879,25 +879,25 @@
 57-1	_	The	_	_	_	_
 57-2	_	second	_	_	_	_
 57-3	_	night	_	_	_	_
-57-4	_	I	abstract[101]	new[101]	coref	57-7[101_102]
+57-4	_	I	abstract[106]	new[106]	coref	57-7[106_107]
 57-5	_	dreamed	_	_	_	_
 57-6	_	that	_	_	_	_
-57-7	_	I	abstract[102]	new[102]	coref	57-22[102_103]
+57-7	_	I	abstract[107]	new[107]	coref	57-22[107_108]
 57-8	_	was	_	_	_	_
 57-9	_	on	_	_	_	_
 57-10	_	a	_	_	_	_
 57-11	_	desert	_	_	_	_
 57-12	_	island	_	_	_	_
 57-13	_	and	_	_	_	_
-57-14	_	Sonia	abstract[164]	new[164]	coref	58-8[164_165]
-57-15	_	,	abstract[164]	new[164]	_	_
-57-16	_	our	abstract[126]|abstract[164]	new[126]|new[164]	_	_
-57-17	_	golden	abstract[164]	new[164]	_	_
-57-18	_	retriever	abstract[164]	new[164]	_	_
+57-14	_	Sonia	abstract[167]	new[167]	coref	58-8[167_168]
+57-15	_	,	abstract[167]	new[167]	_	_
+57-16	_	our	abstract[129]|abstract[167]	new[129]|new[167]	_	_
+57-17	_	golden	abstract[167]	new[167]	_	_
+57-18	_	retriever	abstract[167]	new[167]	_	_
 57-19	_	,	_	_	_	_
 57-20	_	was	_	_	_	_
 57-21	_	with	_	_	_	_
-57-22	_	me	abstract[103]	new[103]	coref	58-10[103_104]
+57-22	_	me	abstract[108]	new[108]	coref	58-10[108_109]
 57-23	_	.	_	_	_	_
 
 #Text=There was some horrible fate impending for Sonia and I had to kill her before something worse happened .
@@ -908,13 +908,13 @@
 58-5	_	fate	_	_	_	_
 58-6	_	impending	_	_	_	_
 58-7	_	for	_	_	_	_
-58-8	_	Sonia	abstract[165]	new[165]	coref	58-14[165_166]
+58-8	_	Sonia	abstract[168]	new[168]	coref	58-14[168_169]
 58-9	_	and	_	_	_	_
-58-10	_	I	abstract[104]	new[104]	coref	59-1[104_105]
+58-10	_	I	abstract[109]	new[109]	coref	59-1[109_110]
 58-11	_	had	_	_	_	_
 58-12	_	to	_	_	_	_
 58-13	_	kill	_	_	_	_
-58-14	_	her	abstract[166]	new[166]	coref	59-3[166_167]
+58-14	_	her	abstract[169]	new[169]	coref	59-3[169_170]
 58-15	_	before	_	_	_	_
 58-16	_	something	_	_	_	_
 58-17	_	worse	_	_	_	_
@@ -922,9 +922,9 @@
 58-19	_	.	_	_	_	_
 
 #Text=I laid her down on some sticks .
-59-1	_	I	abstract[105]	new[105]	coref	60-3[105_106]
+59-1	_	I	abstract[110]	new[110]	coref	60-3[110_111]
 59-2	_	laid	_	_	_	_
-59-3	_	her	abstract[167]	new[167]	coref	60-1[167_168]
+59-3	_	her	abstract[170]	new[170]	coref	60-1[170_171]
 59-4	_	down	_	_	_	_
 59-5	_	on	_	_	_	_
 59-6	_	some	_	_	_	_
@@ -932,62 +932,62 @@
 59-8	_	.	_	_	_	_
 
 #Text=She trusts me , she ’s more my dog than anyone ’s , and she did n’t like it but for me she lay there .
-60-1	_	She	abstract[168]	new[168]	coref	60-5[168_169]
+60-1	_	She	abstract[171]	new[171]	coref	60-5[171_172]
 60-2	_	trusts	_	_	_	_
-60-3	_	me	abstract[106]	new[106]	coref	60-8[106_107]
+60-3	_	me	abstract[111]	new[111]	coref	60-8[111_112]
 60-4	_	,	_	_	_	_
-60-5	_	she	abstract[169]	new[169]	coref	60-15[169_170]
+60-5	_	she	abstract[172]	new[172]	coref	60-15[172_173]
 60-6	_	’s	_	_	_	_
 60-7	_	more	_	_	_	_
-60-8	_	my	abstract[107]	new[107]	coref	60-22[107_108]
+60-8	_	my	abstract[112]	new[112]	coref	60-22[112_113]
 60-9	_	dog	_	_	_	_
 60-10	_	than	_	_	_	_
 60-11	_	anyone	_	_	_	_
 60-12	_	’s	_	_	_	_
 60-13	_	,	_	_	_	_
 60-14	_	and	_	_	_	_
-60-15	_	she	abstract[170]	new[170]	coref	60-23[170_171]
+60-15	_	she	abstract[173]	new[173]	coref	60-23[173_174]
 60-16	_	did	_	_	_	_
 60-17	_	n’t	_	_	_	_
 60-18	_	like	_	_	_	_
 60-19	_	it	_	_	_	_
 60-20	_	but	_	_	_	_
 60-21	_	for	_	_	_	_
-60-22	_	me	abstract[108]	new[108]	coref	61-2[108_109]
-60-23	_	she	abstract[171]	new[171]	coref	61-6[171_172]
+60-22	_	me	abstract[113]	new[113]	coref	61-2[113_114]
+60-23	_	she	abstract[174]	new[174]	coref	61-6[174_175]
 60-24	_	lay	_	_	_	_
 60-25	_	there	_	_	_	_
 60-26	_	.	_	_	_	_
 
 #Text=In my dream I told her , “ Stay , Sonia . Stay . ”
 61-1	_	In	_	_	_	_
-61-2	_	my	abstract[109]|abstract[179]	new[109]|new[179]	coref|coref	61-4[109_110]|66-1[179_180]
-61-3	_	dream	abstract[179]	new[179]	_	_
-61-4	_	I	abstract[110]	new[110]	coref	62-4[110_111]
+61-2	_	my	abstract[114]|abstract[182]	new[114]|new[182]	coref|coref	61-4[114_115]|66-1[182_183]
+61-3	_	dream	abstract[182]	new[182]	_	_
+61-4	_	I	abstract[115]	new[115]	coref	62-4[115_116]
 61-5	_	told	_	_	_	_
-61-6	_	her	abstract[172]	new[172]	coref	61-11[172_173]
+61-6	_	her	abstract[175]	new[175]	coref	61-11[175_176]
 61-7	_	,	_	_	_	_
 61-8	_	“	_	_	_	_
 61-9	_	Stay	_	_	_	_
 61-10	_	,	_	_	_	_
-61-11	_	Sonia	abstract[173]	new[173]	coref	62-1[173_174]
+61-11	_	Sonia	abstract[176]	new[176]	coref	62-1[176_177]
 61-12	_	.	_	_	_	_
 61-13	_	Stay	_	_	_	_
 61-14	_	.	_	_	_	_
 61-15	_	”	_	_	_	_
 
 #Text=She stayed because I held her there by looking at her , the way you can sometimes will a dog into submission .
-62-1	_	She	abstract[174]	new[174]	coref	62-6[174_175]
+62-1	_	She	abstract[177]	new[177]	coref	62-6[177_178]
 62-2	_	stayed	_	_	_	_
 62-3	_	because	_	_	_	_
-62-4	_	I	abstract[111]	new[111]	coref	63-4[111_112]
+62-4	_	I	abstract[116]	new[116]	coref	63-4[116_117]
 62-5	_	held	_	_	_	_
-62-6	_	her	abstract[175]	new[175]	coref	62-11[175_176]
+62-6	_	her	abstract[178]	new[178]	coref	62-11[178_179]
 62-7	_	there	_	_	_	_
 62-8	_	by	_	_	_	_
 62-9	_	looking	_	_	_	_
 62-10	_	at	_	_	_	_
-62-11	_	her	abstract[176]	new[176]	coref	63-1[176_177]
+62-11	_	her	abstract[179]	new[179]	coref	63-1[179_180]
 62-12	_	,	_	_	_	_
 62-13	_	the	_	_	_	_
 62-14	_	way	_	_	_	_
@@ -1002,10 +1002,10 @@
 62-23	_	.	_	_	_	_
 
 #Text=She stayed while I lit the fire .
-63-1	_	She	abstract[177]	new[177]	coref	64-15[177_178]
+63-1	_	She	abstract[180]	new[180]	coref	64-15[180_181]
 63-2	_	stayed	_	_	_	_
 63-3	_	while	_	_	_	_
-63-4	_	I	abstract[112]	new[112]	coref	64-9[112_113]
+63-4	_	I	abstract[117]	new[117]	coref	64-9[117_118]
 63-5	_	lit	_	_	_	_
 63-6	_	the	_	_	_	_
 63-7	_	fire	_	_	_	_
@@ -1020,13 +1020,13 @@
 64-6	_	it	_	_	_	_
 64-7	_	all	_	_	_	_
 64-8	_	hit	_	_	_	_
-64-9	_	me	abstract[113]	new[113]	coref	64-11[113_114]
+64-9	_	me	abstract[118]	new[118]	coref	64-11[118_119]
 64-10	_	and	_	_	_	_
-64-11	_	I	abstract[114]	new[114]	coref	65-2[114_115]
+64-11	_	I	abstract[119]	new[119]	coref	65-2[119_120]
 64-12	_	said	_	_	_	_
 64-13	_	,	_	_	_	_
 64-14	_	“	_	_	_	_
-64-15	_	Sonia	abstract[178]	new[178]	_	_
+64-15	_	Sonia	abstract[181]	new[181]	_	_
 64-16	_	,	_	_	_	_
 64-17	_	up	_	_	_	_
 64-18	_	!	_	_	_	_
@@ -1034,13 +1034,13 @@
 
 #Text=And I woke up .
 65-1	_	And	_	_	_	_
-65-2	_	I	abstract[115]	new[115]	coref	67-2[115_116]
+65-2	_	I	abstract[120]	new[120]	_	_
 65-3	_	woke	_	_	_	_
 65-4	_	up	_	_	_	_
 65-5	_	.	_	_	_	_
 
 #Text=That was last night , the second night Renata did n’t come home .
-66-1	_	That	abstract[180]	new[180]	_	_
+66-1	_	That	abstract[183]	new[183]	_	_
 66-2	_	was	_	_	_	_
 66-3	_	last	_	_	_	_
 66-4	_	night	_	_	_	_
@@ -1048,41 +1048,60 @@
 66-6	_	the	_	_	_	_
 66-7	_	second	_	_	_	_
 66-8	_	night	_	_	_	_
-66-9	_	Renata	abstract[163]	new[163]	_	_
+66-9	_	Renata	abstract[166]	new[166]	_	_
 66-10	_	did	_	_	_	_
 66-11	_	n’t	_	_	_	_
 66-12	_	come	_	_	_	_
 66-13	_	home	_	_	_	_
 66-14	_	.	_	_	_	_
 
-#Text=I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
-67-1	_	I	abstract[116]	new[116]	coref	67-7[116_117]
-67-2	_	hate	_	_	_	_
-67-3	_	the	abstract[181]	new[181]	coref	67-11[181_182]
-67-4	_	moon	abstract[181]	new[181]	_	_
-67-5	_	-	_	_	_	_
-67-6	_	I	abstract[117]	new[117]	_	_
-67-7	_	am	_	_	_	_
-67-8	_	afraid	_	_	_	_
-67-9	_	of	_	_	_	_
-67-10	_	it	abstract[182]	new[182]	coref	67-15[182_183]
-67-11	_	-	_	_	_	_
-67-12	_	for	_	_	_	_
-67-13	_	when	_	_	_	_
-67-14	_	it	abstract[183]	new[183]	coref	67-23[183_184]
-67-15	_	shines	_	_	_	_
-67-16	_	on	_	_	_	_
-67-17	_	certain	abstract[185]	new[185]	coref	67-26[185_186]
-67-18	_	scenes	abstract[185]	new[185]	_	_
-67-19	_	familiar	abstract[185]	new[185]	_	_
-67-20	_	and	abstract[185]	new[185]	_	_
-67-21	_	loved	abstract[185]	new[185]	_	_
-67-22	_	it	abstract[184]	new[184]	_	_
-67-23	_	sometimes	_	_	_	_
-67-24	_	makes	_	_	_	_
-67-25	_	them	abstract[186]	new[186]	_	_
-67-26	_	unfamiliar	_	_	_	_
-67-27	_	and	_	_	_	_
-67-28	_	hideous	_	_	_	_
-67-29	_	.	_	_	_	_
+#Text=After the protagonist and her daughter Renata help a doctor to place a tracking chip in the arm of the protagonist 's mother , who has Alzheimer 's , Renata stays out at night and the protagonist has a nightmare about having to sacrifice her dog Sonia .
+67-1	_	After	_	_	_	_
+67-2	_	the	abstract[54]	new[54]	coref	67-6[54_55]
+67-3	_	protagonist	abstract[54]	new[54]	_	_
+67-4	_	and	_	_	_	_
+67-5	_	her	abstract[55]|abstract[184]	new[55]|new[184]	coref|coref	67-21[55_56]|67-31[184_185]
+67-6	_	daughter	abstract[184]	new[184]	_	_
+67-7	_	Renata	abstract[184]	new[184]	_	_
+67-8	_	help	_	_	_	_
+67-9	_	a	_	_	_	_
+67-10	_	doctor	_	_	_	_
+67-11	_	to	_	_	_	_
+67-12	_	place	_	_	_	_
+67-13	_	a	_	_	_	_
+67-14	_	tracking	_	_	_	_
+67-15	_	chip	_	_	_	_
+67-16	_	in	_	_	_	_
+67-17	_	the	_	_	_	_
+67-18	_	arm	_	_	_	_
+67-19	_	of	_	_	_	_
+67-20	_	the	abstract[56]	new[56]	coref	67-37[56_57]
+67-21	_	protagonist	abstract[56]	new[56]	_	_
+67-22	_	's	abstract[56]	new[56]	_	_
+67-23	_	mother	_	_	_	_
+67-24	_	,	_	_	_	_
+67-25	_	who	_	_	_	_
+67-26	_	has	_	_	_	_
+67-27	_	Alzheimer	_	_	_	_
+67-28	_	's	_	_	_	_
+67-29	_	,	_	_	_	_
+67-30	_	Renata	abstract[185]	new[185]	_	_
+67-31	_	stays	_	_	_	_
+67-32	_	out	_	_	_	_
+67-33	_	at	_	_	_	_
+67-34	_	night	_	_	_	_
+67-35	_	and	_	_	_	_
+67-36	_	the	abstract[57]	new[57]	coref	67-46[57_58]
+67-37	_	protagonist	abstract[57]	new[57]	_	_
+67-38	_	has	_	_	_	_
+67-39	_	a	_	_	_	_
+67-40	_	nightmare	_	_	_	_
+67-41	_	about	_	_	_	_
+67-42	_	having	_	_	_	_
+67-43	_	to	_	_	_	_
+67-44	_	sacrifice	_	_	_	_
+67-45	_	her	abstract[58]	new[58]	_	_
+67-46	_	dog	_	_	_	_
+67-47	_	Sonia	_	_	_	_
+67-48	_	.	_	_	_	_
 

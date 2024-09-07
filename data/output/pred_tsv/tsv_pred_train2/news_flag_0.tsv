@@ -176,7 +176,7 @@
 8-35	_	choice	_	_	_	_
 8-36	_	.	_	_	_	_
 
-#Text=Professor Burrows also said resources and kits would be accessible for schools and communities , " The Hong Kong legislative election was held on Sunday , with a record - breaking turnout of around 2 million voters and turnout rate of 58 % .
+#Text=Professor Burrows also said resources and kits would be accessible for schools and communities , " The Hong Kong Legislative Council election , to elect 70 members of the Legislative Council , saw a record - breaking turnout of around 2 million voters this year .
 9-1	_	Professor	abstract[26]	new[26]	_	_
 9-2	_	Burrows	abstract[26]	new[26]	_	_
 9-3	_	also	_	_	_	_
@@ -196,31 +196,33 @@
 9-17	_	The	_	_	_	_
 9-18	_	Hong	_	_	_	_
 9-19	_	Kong	_	_	_	_
-9-20	_	legislative	_	_	_	_
-9-21	_	election	_	_	_	_
-9-22	_	was	_	_	_	_
-9-23	_	held	_	_	_	_
-9-24	_	on	_	_	_	_
-9-25	_	Sunday	_	_	_	_
-9-26	_	,	_	_	_	_
-9-27	_	with	_	_	_	_
-9-28	_	a	_	_	_	_
-9-29	_	record	_	_	_	_
-9-30	_	-	_	_	_	_
-9-31	_	breaking	_	_	_	_
-9-32	_	turnout	_	_	_	_
-9-33	_	of	_	_	_	_
-9-34	_	around	_	_	_	_
-9-35	_	2	_	_	_	_
-9-36	_	million	_	_	_	_
-9-37	_	voters	_	_	_	_
-9-38	_	and	_	_	_	_
-9-39	_	turnout	_	_	_	_
-9-40	_	rate	_	_	_	_
-9-41	_	of	_	_	_	_
-9-42	_	58	_	_	_	_
-9-43	_	%	_	_	_	_
-9-44	_	.	_	_	_	_
+9-20	_	Legislative	_	_	_	_
+9-21	_	Council	_	_	_	_
+9-22	_	election	_	_	_	_
+9-23	_	,	_	_	_	_
+9-24	_	to	_	_	_	_
+9-25	_	elect	_	_	_	_
+9-26	_	70	_	_	_	_
+9-27	_	members	_	_	_	_
+9-28	_	of	_	_	_	_
+9-29	_	the	_	_	_	_
+9-30	_	Legislative	_	_	_	_
+9-31	_	Council	_	_	_	_
+9-32	_	,	_	_	_	_
+9-33	_	saw	_	_	_	_
+9-34	_	a	_	_	_	_
+9-35	_	record	_	_	_	_
+9-36	_	-	_	_	_	_
+9-37	_	breaking	_	_	_	_
+9-38	_	turnout	_	_	_	_
+9-39	_	of	_	_	_	_
+9-40	_	around	_	_	_	_
+9-41	_	2	_	_	_	_
+9-42	_	million	_	_	_	_
+9-43	_	voters	_	_	_	_
+9-44	_	this	_	_	_	_
+9-45	_	year	_	_	_	_
+9-46	_	.	_	_	_	_
 
 #Text=For example , schools can run their own flag discussions and referendums to mirror the formal process as part of their own learning exercise " .
 10-1	_	For	_	_	_	_

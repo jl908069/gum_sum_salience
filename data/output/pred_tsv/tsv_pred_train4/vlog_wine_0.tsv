@@ -1432,19 +1432,16 @@
 95-6	_	me	abstract[141]	new[141]	_	_
 95-7	_	.	_	_	_	_
 
-#Text=Radiology resident says she 's pregnant ... and had the urge to reveal it
-96-1	_	Radiology	abstract[175]	new[175]	coref	96-4[175_176]
-96-2	_	resident	abstract[175]	new[175]	_	_
-96-3	_	says	_	_	_	_
-96-4	_	she	abstract[176]	new[176]	_	_
-96-5	_	's	_	_	_	_
-96-6	_	pregnant	_	_	_	_
-96-7	_	...	_	_	_	_
-96-8	_	and	_	_	_	_
-96-9	_	had	_	_	_	_
-96-10	_	the	_	_	_	_
-96-11	_	urge	_	_	_	_
-96-12	_	to	_	_	_	_
-96-13	_	reveal	_	_	_	_
-96-14	_	it	_	_	_	_
+#Text=Is anyone on the nuclear medicine program expecting a baby ?
+96-1	_	Is	_	_	_	_
+96-2	_	anyone	_	_	_	_
+96-3	_	on	_	_	_	_
+96-4	_	the	_	_	_	_
+96-5	_	nuclear	_	_	_	_
+96-6	_	medicine	_	_	_	_
+96-7	_	program	_	_	_	_
+96-8	_	expecting	_	_	_	_
+96-9	_	a	_	_	_	_
+96-10	_	baby	_	_	_	_
+96-11	_	?	_	_	_	_
 

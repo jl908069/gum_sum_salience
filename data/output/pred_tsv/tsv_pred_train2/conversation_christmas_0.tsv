@@ -1169,7 +1169,7 @@
 164-5	_	.	_	_	_	_
 
 #Text=People decide to —
-165-1	_	People	abstract[169]	new[169]	coref	204-4[169_170]
+165-1	_	People	abstract[171]	new[171]	coref	204-4[171_172]
 165-2	_	decide	_	_	_	_
 165-3	_	to	_	_	_	_
 165-4	_	—	_	_	_	_
@@ -1181,7 +1181,7 @@
 166-4	_	too	_	_	_	_
 166-5	_	small	_	_	_	_
 166-6	_	,	_	_	_	_
-166-7	_	Mom	abstract[156]	new[156]	coref	191-1[156_157]
+166-7	_	Mom	abstract[158]	new[158]	coref	191-1[158_159]
 166-8	_	can	_	_	_	_
 166-9	_	take	_	_	_	_
 166-10	_	it	abstract[124]	new[124]	coref	167-3[124_125]
@@ -1351,7 +1351,7 @@
 190-2	_	.	_	_	_	_
 
 #Text=I think you 'll have to wait on that one .
-191-1	_	I	abstract[157]	new[157]	coref	204-2[157_158]
+191-1	_	I	abstract[159]	new[159]	coref	204-2[159_160]
 191-2	_	think	_	_	_	_
 191-3	_	you	abstract[151]	new[151]	coref	203-2[151_152]
 191-4	_	'll	_	_	_	_
@@ -1390,20 +1390,20 @@
 196-5	_	of	_	_	_	_
 196-6	_	these	_	_	_	_
 196-7	_	from	_	_	_	_
-196-8	_	Diana	abstract[159]	new[159]	coref	197-4[159_160]
+196-8	_	Diana	abstract[161]	new[161]	coref	197-4[161_162]
 196-9	_	?	_	_	_	_
 
 #Text=Uh , to Diana , and from — from Diana .
 197-1	_	Uh	_	_	_	_
 197-2	_	,	_	_	_	_
 197-3	_	to	_	_	_	_
-197-4	_	Diana	abstract[160]	new[160]	coref	197-10[160_161]
+197-4	_	Diana	abstract[162]	new[162]	coref	197-10[162_163]
 197-5	_	,	_	_	_	_
 197-6	_	and	_	_	_	_
 197-7	_	from	_	_	_	_
 197-8	_	—	_	_	_	_
 197-9	_	from	_	_	_	_
-197-10	_	Diana	abstract[161]	new[161]	coref	201-2[161_162]
+197-10	_	Diana	abstract[163]	new[163]	coref	201-2[163_164]
 197-11	_	.	_	_	_	_
 
 #Text=T- what ?
@@ -1424,11 +1424,11 @@
 
 #Text=To Diana , and from Diana .
 201-1	_	To	_	_	_	_
-201-2	_	Diana	abstract[162]	new[162]	coref	201-6[162_163]
+201-2	_	Diana	abstract[164]	new[164]	coref	201-6[164_165]
 201-3	_	,	_	_	_	_
 201-4	_	and	_	_	_	_
 201-5	_	from	_	_	_	_
-201-6	_	Diana	abstract[163]	new[163]	coref	204-10[163_164]
+201-6	_	Diana	abstract[165]	new[165]	coref	204-10[165_166]
 201-7	_	.	_	_	_	_
 
 #Text=Oh .
@@ -1443,25 +1443,25 @@
 
 #Text=So I thought we 'd wait , to open her gifts and —
 204-1	_	So	_	_	_	_
-204-2	_	I	abstract[158]	new[158]	_	_
+204-2	_	I	abstract[160]	new[160]	_	_
 204-3	_	thought	_	_	_	_
-204-4	_	we	abstract[170]	new[170]	coref	205-2[170_171]
+204-4	_	we	abstract[172]	new[172]	coref	205-2[172_173]
 204-5	_	'd	_	_	_	_
 204-6	_	wait	_	_	_	_
 204-7	_	,	_	_	_	_
 204-8	_	to	_	_	_	_
 204-9	_	open	_	_	_	_
-204-10	_	her	abstract[164]|abstract[175]	new[164]|new[175]	coref|coref	205-5[164_165]|209-9[175_176]
-204-11	_	gifts	abstract[175]	new[175]	_	_
+204-10	_	her	abstract[166]|abstract[177]	new[166]|new[177]	coref|coref	205-5[166_167]|209-9[177_178]
+204-11	_	gifts	abstract[177]	new[177]	_	_
 204-12	_	and	_	_	_	_
 204-13	_	—	_	_	_	_
 
 #Text=And our gifts to her .
 205-1	_	And	_	_	_	_
-205-2	_	our	abstract[171]|abstract[173]	new[171]|new[173]	coref|coref	209-3[171_172]|208-5[173_174]
-205-3	_	gifts	abstract[173]	new[173]	_	_
-205-4	_	to	abstract[173]	new[173]	_	_
-205-5	_	her	abstract[165]|abstract[173]	new[165]|new[173]	coref	207-3[165_166]
+205-2	_	our	abstract[173]|abstract[175]	new[173]|new[175]	coref|coref	209-3[173_174]|208-5[175_176]
+205-3	_	gifts	abstract[175]	new[175]	_	_
+205-4	_	to	abstract[175]	new[175]	_	_
+205-5	_	her	abstract[167]|abstract[175]	new[167]|new[175]	coref	207-3[167_168]
 205-6	_	.	_	_	_	_
 
 #Text=Yeah .
@@ -1471,18 +1471,18 @@
 #Text=Uh , she can —
 207-1	_	Uh	_	_	_	_
 207-2	_	,	_	_	_	_
-207-3	_	she	abstract[166]	new[166]	coref	208-1[166_167]
+207-3	_	she	abstract[168]	new[168]	coref	208-1[168_169]
 207-4	_	can	_	_	_	_
 207-5	_	—	_	_	_	_
 
 #Text=She ca n't open em till she gets here .
-208-1	_	She	abstract[167]	new[167]	coref	208-7[167_168]
+208-1	_	She	abstract[169]	new[169]	coref	208-7[169_170]
 208-2	_	ca	_	_	_	_
 208-3	_	n't	_	_	_	_
 208-4	_	open	_	_	_	_
-208-5	_	em	abstract[174]	new[174]	_	_
+208-5	_	em	abstract[176]	new[176]	_	_
 208-6	_	till	_	_	_	_
-208-7	_	she	abstract[168]	new[168]	_	_
+208-7	_	she	abstract[170]	new[170]	_	_
 208-8	_	gets	_	_	_	_
 208-9	_	here	_	_	_	_
 208-10	_	.	_	_	_	_
@@ -1490,23 +1490,23 @@
 #Text=So , we 'll just wait , on ours .
 209-1	_	So	_	_	_	_
 209-2	_	,	_	_	_	_
-209-3	_	we	abstract[172]	new[172]	_	_
+209-3	_	we	abstract[174]	new[174]	_	_
 209-4	_	'll	_	_	_	_
 209-5	_	just	_	_	_	_
 209-6	_	wait	_	_	_	_
 209-7	_	,	_	_	_	_
 209-8	_	on	_	_	_	_
-209-9	_	ours	abstract[176]	new[176]	_	_
+209-9	_	ours	abstract[178]	new[178]	_	_
 209-10	_	.	_	_	_	_
 
 #Text=Oh here 's one you can open .
 210-1	_	Oh	_	_	_	_
 210-2	_	here	_	_	_	_
 210-3	_	's	_	_	_	_
-210-4	_	one	abstract[177]	new[177]	coref	212-5[177_178]
-210-5	_	you	abstract[153]|abstract[177]	new[153]|new[177]	coref	213-2[153_154]
-210-6	_	can	abstract[177]	new[177]	_	_
-210-7	_	open	abstract[177]	new[177]	_	_
+210-4	_	one	abstract[179]	new[179]	coref	212-5[179_180]
+210-5	_	you	abstract[153]|abstract[179]	new[153]|new[179]	coref	213-2[153_154]
+210-6	_	can	abstract[179]	new[179]	_	_
+210-7	_	open	abstract[179]	new[179]	_	_
 210-8	_	.	_	_	_	_
 
 #Text=Oh .
@@ -1518,7 +1518,7 @@
 212-2	_	,	_	_	_	_
 212-3	_	who	_	_	_	_
 212-4	_	's	_	_	_	_
-212-5	_	this	abstract[178]	new[178]	coref	213-5[178_179]
+212-5	_	this	abstract[180]	new[180]	coref	213-5[180_181]
 212-6	_	from	_	_	_	_
 212-7	_	?	_	_	_	_
 
@@ -1527,7 +1527,7 @@
 213-2	_	you	abstract[154]	new[154]	coref	215-2[154_155]
 213-3	_	can	_	_	_	_
 213-4	_	open	_	_	_	_
-213-5	_	that	abstract[179]	new[179]	_	_
+213-5	_	that	abstract[181]	new[181]	_	_
 213-6	_	.	_	_	_	_
 
 #Text=Right now .
@@ -1537,7 +1537,7 @@
 
 #Text=To Judy , from Mom .
 215-1	_	To	_	_	_	_
-215-2	_	Judy	abstract[155]	new[155]	_	_
+215-2	_	Judy	abstract[155]	new[155]	coref	217-2[155_156]
 215-3	_	,	_	_	_	_
 215-4	_	from	_	_	_	_
 215-5	_	Mom	_	_	_	_
@@ -1547,15 +1547,26 @@
 216-1	_	Mhm	_	_	_	_
 216-2	_	.	_	_	_	_
 
-#Text=There are some quite interesting presents in the house .
-217-1	_	There	_	_	_	_
-217-2	_	are	_	_	_	_
-217-3	_	some	_	_	_	_
-217-4	_	quite	_	_	_	_
-217-5	_	interesting	_	_	_	_
-217-6	_	presents	_	_	_	_
-217-7	_	in	_	_	_	_
-217-8	_	the	_	_	_	_
-217-9	_	house	_	_	_	_
-217-10	_	.	_	_	_	_
+#Text=As Sabrina becomes a new follower of family traditions , her mother and Dad are chatting about their holiday gifts .
+217-1	_	As	_	_	_	_
+217-2	_	Sabrina	abstract[156]	new[156]	coref	217-11[156_157]
+217-3	_	becomes	_	_	_	_
+217-4	_	a	_	_	_	_
+217-5	_	new	_	_	_	_
+217-6	_	follower	_	_	_	_
+217-7	_	of	_	_	_	_
+217-8	_	family	_	_	_	_
+217-9	_	traditions	_	_	_	_
+217-10	_	,	_	_	_	_
+217-11	_	her	abstract[157]|abstract[182]	new[157]|new[182]	coref	217-18[182_183]
+217-12	_	mother	abstract[182]	new[182]	_	_
+217-13	_	and	abstract[182]	new[182]	_	_
+217-14	_	Dad	abstract[182]	new[182]	_	_
+217-15	_	are	_	_	_	_
+217-16	_	chatting	_	_	_	_
+217-17	_	about	_	_	_	_
+217-18	_	their	abstract[183]	new[183]	_	_
+217-19	_	holiday	_	_	_	_
+217-20	_	gifts	_	_	_	_
+217-21	_	.	_	_	_	_
 

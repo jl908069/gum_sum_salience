@@ -947,19 +947,19 @@
 48-1	_	We	abstract[94]	new[94]	coref	49-4[94_95]
 48-2	_	have	_	_	_	_
 48-3	_	defined	_	_	_	_
-48-4	_	new	abstract[99]	new[99]	coref	48-17[99_100]
-48-5	_	operators	abstract[99]	new[99]	_	_
-48-6	_	specific	abstract[99]	new[99]	_	_
-48-7	_	to	abstract[99]	new[99]	_	_
-48-8	_	the	abstract[99]	new[99]	_	_
-48-9	_	GIS	abstract[99]	new[99]	_	_
-48-10	_	domain	abstract[99]	new[99]	_	_
+48-4	_	new	abstract[98]	new[98]	coref	48-17[98_99]
+48-5	_	operators	abstract[98]	new[98]	_	_
+48-6	_	specific	abstract[98]	new[98]	_	_
+48-7	_	to	abstract[98]	new[98]	_	_
+48-8	_	the	abstract[98]	new[98]	_	_
+48-9	_	GIS	abstract[98]	new[98]	_	_
+48-10	_	domain	abstract[98]	new[98]	_	_
 48-11	_	and	_	_	_	_
 48-12	_	a	_	_	_	_
 48-13	_	way	_	_	_	_
 48-14	_	to	_	_	_	_
 48-15	_	apply	_	_	_	_
-48-16	_	them	abstract[100]	new[100]	coref	49-7[100_101]
+48-16	_	them	abstract[99]	new[99]	coref	49-7[99_100]
 48-17	_	to	_	_	_	_
 48-18	_	a	_	_	_	_
 48-19	_	SUT	_	_	_	_
@@ -972,13 +972,13 @@
 49-4	_	we	abstract[95]	new[95]	coref	50-5[95_96]
 49-5	_	have	_	_	_	_
 49-6	_	tested	_	_	_	_
-49-7	_	the	abstract[101]	new[101]	_	_
-49-8	_	operators	abstract[101]	new[101]	_	_
-49-9	_	defined	abstract[101]	new[101]	_	_
-49-10	_	in	abstract[101]	new[101]	_	_
-49-11	_	two	abstract[101]	new[101]	_	_
-49-12	_	GIS	abstract[101]	new[101]	_	_
-49-13	_	applications	abstract[101]	new[101]	_	_
+49-7	_	the	abstract[100]	new[100]	_	_
+49-8	_	operators	abstract[100]	new[100]	_	_
+49-9	_	defined	abstract[100]	new[100]	_	_
+49-10	_	in	abstract[100]	new[100]	_	_
+49-11	_	two	abstract[100]	new[100]	_	_
+49-12	_	GIS	abstract[100]	new[100]	_	_
+49-13	_	applications	abstract[100]	new[100]	_	_
 49-14	_	.	_	_	_	_
 
 #Text=As future work , we intend to extend this approach to other domains , as well as to use the developed operators for the automatic improvement of sets of test cases .
@@ -1015,29 +1015,14 @@
 50-31	_	cases	_	_	_	_
 50-32	_	.	_	_	_	_
 
-#Text=We propose a new approach for the identification of errors in GIS applications . We propose two specific operators for testing these problems .
-51-1	_	We	abstract[97]	new[97]	coref	51-15[97_98]
+#Text=We propose mutation operators specific to GIS applications .
+51-1	_	We	abstract[97]	new[97]	_	_
 51-2	_	propose	_	_	_	_
-51-3	_	a	_	_	_	_
-51-4	_	new	_	_	_	_
-51-5	_	approach	_	_	_	_
-51-6	_	for	_	_	_	_
-51-7	_	the	_	_	_	_
-51-8	_	identification	_	_	_	_
-51-9	_	of	_	_	_	_
-51-10	_	errors	abstract[102]	new[102]	coref	51-22[102_103]
-51-11	_	in	abstract[102]	new[102]	_	_
-51-12	_	GIS	abstract[102]	new[102]	_	_
-51-13	_	applications	abstract[102]	new[102]	_	_
-51-14	_	.	_	_	_	_
-51-15	_	We	abstract[98]	new[98]	_	_
-51-16	_	propose	_	_	_	_
-51-17	_	two	_	_	_	_
-51-18	_	specific	_	_	_	_
-51-19	_	operators	_	_	_	_
-51-20	_	for	_	_	_	_
-51-21	_	testing	_	_	_	_
-51-22	_	these	abstract[103]	new[103]	_	_
-51-23	_	problems	abstract[103]	new[103]	_	_
-51-24	_	.	_	_	_	_
+51-3	_	mutation	_	_	_	_
+51-4	_	operators	_	_	_	_
+51-5	_	specific	_	_	_	_
+51-6	_	to	_	_	_	_
+51-7	_	GIS	_	_	_	_
+51-8	_	applications	_	_	_	_
+51-9	_	.	_	_	_	_
 

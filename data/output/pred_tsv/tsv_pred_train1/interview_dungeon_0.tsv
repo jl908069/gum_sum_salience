@@ -1227,15 +1227,44 @@
 93-26	_	position	_	_	_	_
 93-27	_	.	_	_	_	_
 
-#Text=Is this anemone a science fiction or a mystery ?
-94-1	_	Is	_	_	_	_
-94-2	_	this	_	_	_	_
-94-3	_	anemone	_	_	_	_
-94-4	_	a	_	_	_	_
-94-5	_	science	_	_	_	_
-94-6	_	fiction	_	_	_	_
-94-7	_	or	_	_	_	_
-94-8	_	a	_	_	_	_
-94-9	_	mystery	_	_	_	_
-94-10	_	?	_	_	_	_
+#Text=Two owners of a BDSM dungeon in New York talk about their business in an interview , explaining about how they choose who to hire , the costs of operating the business , and how it is advertised .
+94-1	_	Two	abstract[161]	new[161]	coref	94-12[161_162]
+94-2	_	owners	abstract[161]	new[161]	_	_
+94-3	_	of	abstract[161]	new[161]	_	_
+94-4	_	a	abstract[161]|abstract[164]	new[161]|new[164]	coref	94-12[164_165]
+94-5	_	BDSM	abstract[161]|abstract[164]	new[161]|new[164]	_	_
+94-6	_	dungeon	abstract[161]|abstract[164]	new[161]|new[164]	_	_
+94-7	_	in	abstract[161]|abstract[164]	new[161]|new[164]	_	_
+94-8	_	New	abstract[161]|abstract[164]	new[161]|new[164]	_	_
+94-9	_	York	abstract[161]|abstract[164]	new[161]|new[164]	_	_
+94-10	_	talk	_	_	_	_
+94-11	_	about	_	_	_	_
+94-12	_	their	abstract[162]|abstract[165]	new[162]|new[165]	coref|coref	94-21[162_163]|94-31[165_166]
+94-13	_	business	abstract[165]	new[165]	_	_
+94-14	_	in	_	_	_	_
+94-15	_	an	_	_	_	_
+94-16	_	interview	_	_	_	_
+94-17	_	,	_	_	_	_
+94-18	_	explaining	_	_	_	_
+94-19	_	about	_	_	_	_
+94-20	_	how	_	_	_	_
+94-21	_	they	abstract[163]	new[163]	_	_
+94-22	_	choose	_	_	_	_
+94-23	_	who	_	_	_	_
+94-24	_	to	_	_	_	_
+94-25	_	hire	_	_	_	_
+94-26	_	,	_	_	_	_
+94-27	_	the	_	_	_	_
+94-28	_	costs	_	_	_	_
+94-29	_	of	_	_	_	_
+94-30	_	operating	_	_	_	_
+94-31	_	the	abstract[166]	new[166]	coref	94-36[166_167]
+94-32	_	business	abstract[166]	new[166]	_	_
+94-33	_	,	_	_	_	_
+94-34	_	and	_	_	_	_
+94-35	_	how	_	_	_	_
+94-36	_	it	abstract[167]	new[167]	_	_
+94-37	_	is	_	_	_	_
+94-38	_	advertised	_	_	_	_
+94-39	_	.	_	_	_	_
 

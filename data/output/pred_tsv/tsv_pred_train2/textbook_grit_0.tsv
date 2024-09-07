@@ -995,11 +995,11 @@
 44-6	_	you	abstract[39]	new[39]	coref	45-5[39_40]
 44-7	_	copy	_	_	_	_
 44-8	_	down	_	_	_	_
-44-9	_	all	abstract[134]	new[134]	coref	49-11[134_135]
-44-10	_	of	abstract[134]	new[134]	_	_
-44-11	_	the	abstract[134]	new[134]	_	_
-44-12	_	main	abstract[134]	new[134]	_	_
-44-13	_	points	abstract[134]	new[134]	_	_
+44-9	_	all	abstract[132]	new[132]	coref	49-11[132_133]
+44-10	_	of	abstract[132]	new[132]	_	_
+44-11	_	the	abstract[132]	new[132]	_	_
+44-12	_	main	abstract[132]	new[132]	_	_
+44-13	_	points	abstract[132]	new[132]	_	_
 44-14	_	onto	_	_	_	_
 44-15	_	a	_	_	_	_
 44-16	_	piece	_	_	_	_
@@ -1089,7 +1089,7 @@
 
 #Text=In this example , while you may not have yet achieved complete success , you will have learned what you need to do next .
 47-1	_	In	_	_	_	_
-47-2	_	this	abstract[129]	new[129]	coref	51-1[129_130]
+47-2	_	this	abstract[129]	new[129]	_	_
 47-3	_	example	abstract[129]	new[129]	_	_
 47-4	_	,	_	_	_	_
 47-5	_	while	_	_	_	_
@@ -1121,9 +1121,9 @@
 48-4	_	fashion	_	_	_	_
 48-5	_	,	_	_	_	_
 48-6	_	for	_	_	_	_
-48-7	_	your	abstract[52]|abstract[132]	new[52]|new[132]	coref|coref	48-11[52_53]|49-1[132_133]
-48-8	_	next	abstract[132]	new[132]	_	_
-48-9	_	try	abstract[132]	new[132]	_	_
+48-7	_	your	abstract[52]|abstract[130]	new[52]|new[130]	coref|coref	48-11[52_53]|49-1[130_131]
+48-8	_	next	abstract[130]	new[130]	_	_
+48-9	_	try	abstract[130]	new[130]	_	_
 48-10	_	,	_	_	_	_
 48-11	_	you	abstract[53]	new[53]	coref	48-16[53_54]
 48-12	_	study	_	_	_	_
@@ -1153,8 +1153,8 @@
 48-36	_	.	_	_	_	_
 
 #Text=This time you are able to write down summaries of all the important points , and you are confident you have the knowledge you need to do well on the exam .
-49-1	_	This	abstract[133]	new[133]	_	_
-49-2	_	time	abstract[133]	new[133]	_	_
+49-1	_	This	abstract[131]	new[131]	_	_
+49-2	_	time	abstract[131]	new[131]	_	_
 49-3	_	you	abstract[59]	new[59]	coref	49-17[59_60]
 49-4	_	are	_	_	_	_
 49-5	_	able	_	_	_	_
@@ -1163,10 +1163,10 @@
 49-8	_	down	_	_	_	_
 49-9	_	summaries	_	_	_	_
 49-10	_	of	_	_	_	_
-49-11	_	all	abstract[135]	new[135]	_	_
-49-12	_	the	abstract[135]	new[135]	_	_
-49-13	_	important	abstract[135]	new[135]	_	_
-49-14	_	points	abstract[135]	new[135]	_	_
+49-11	_	all	abstract[133]	new[133]	_	_
+49-12	_	the	abstract[133]	new[133]	_	_
+49-13	_	important	abstract[133]	new[133]	_	_
+49-14	_	points	abstract[133]	new[133]	_	_
 49-15	_	,	_	_	_	_
 49-16	_	and	_	_	_	_
 49-17	_	you	abstract[60]	new[60]	coref	49-20[60_61]
@@ -1218,39 +1218,10 @@
 50-29	_	mind	_	_	_	_
 50-30	_	.	_	_	_	_
 
-#Text=This installment in the series of chapters on evolutionary ethics is a primer for practical use in human philosophy ; it also addresses important questions about ethical ethics : What are moral facts ?
-51-1	_	This	abstract[130]	new[130]	coref	51-21[130_131]
-51-2	_	installment	abstract[130]	new[130]	_	_
-51-3	_	in	abstract[130]	new[130]	_	_
-51-4	_	the	abstract[130]	new[130]	_	_
-51-5	_	series	abstract[130]	new[130]	_	_
-51-6	_	of	abstract[130]	new[130]	_	_
-51-7	_	chapters	abstract[130]	new[130]	_	_
-51-8	_	on	abstract[130]	new[130]	_	_
-51-9	_	evolutionary	abstract[130]	new[130]	_	_
-51-10	_	ethics	abstract[130]	new[130]	_	_
-51-11	_	is	_	_	_	_
-51-12	_	a	_	_	_	_
-51-13	_	primer	_	_	_	_
-51-14	_	for	_	_	_	_
-51-15	_	practical	_	_	_	_
-51-16	_	use	_	_	_	_
-51-17	_	in	_	_	_	_
-51-18	_	human	_	_	_	_
-51-19	_	philosophy	_	_	_	_
-51-20	_	;	_	_	_	_
-51-21	_	it	abstract[131]	new[131]	_	_
-51-22	_	also	_	_	_	_
-51-23	_	addresses	_	_	_	_
-51-24	_	important	_	_	_	_
-51-25	_	questions	_	_	_	_
-51-26	_	about	_	_	_	_
-51-27	_	ethical	_	_	_	_
-51-28	_	ethics	_	_	_	_
-51-29	_	:	_	_	_	_
-51-30	_	What	_	_	_	_
-51-31	_	are	_	_	_	_
-51-32	_	moral	_	_	_	_
-51-33	_	facts	_	_	_	_
-51-34	_	?	_	_	_	_
+#Text=Emotionally about Evolutionary Ethics .
+51-1	_	Emotionally	_	_	_	_
+51-2	_	about	_	_	_	_
+51-3	_	Evolutionary	_	_	_	_
+51-4	_	Ethics	_	_	_	_
+51-5	_	.	_	_	_	_
 

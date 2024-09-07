@@ -21,11 +21,11 @@
 #Text=View of the George Washington Bridge 's long span and Manhattan , as seen while looking east from Fort Lee Historic Park
 3-1	_	View	_	_	_	_
 3-2	_	of	_	_	_	_
-3-3	_	the	abstract[43]	new[43]	coref	12-14[43_44]
-3-4	_	George	abstract[43]|abstract[50]	new[43]|new[50]	coref	12-15[50_51]
-3-5	_	Washington	abstract[43]|abstract[50]	new[43]|new[50]	_	_
-3-6	_	Bridge	abstract[43]	new[43]	_	_
-3-7	_	's	abstract[43]	new[43]	_	_
+3-3	_	the	abstract[33]	new[33]	coref	12-14[33_34]
+3-4	_	George	abstract[33]|abstract[40]	new[33]|new[40]	coref	12-15[40_41]
+3-5	_	Washington	abstract[33]|abstract[40]	new[33]|new[40]	_	_
+3-6	_	Bridge	abstract[33]	new[33]	_	_
+3-7	_	's	abstract[33]	new[33]	_	_
 3-8	_	long	_	_	_	_
 3-9	_	span	_	_	_	_
 3-10	_	and	_	_	_	_
@@ -54,7 +54,7 @@
 5-6	_	the	_	_	_	_
 5-7	_	Paramus	_	_	_	_
 5-8	_	,	_	_	_	_
-5-9	_	NJ	abstract[52]	new[52]	coref	18-9[52_53]
+5-9	_	NJ	abstract[42]	new[42]	coref	18-9[42_43]
 5-10	_	retail	_	_	_	_
 5-11	_	corridor	_	_	_	_
 5-12	_	and	_	_	_	_
@@ -80,8 +80,8 @@
 6-15	_	,	_	_	_	_
 6-16	_	transplants	_	_	_	_
 6-17	_	from	_	_	_	_
-6-18	_	New	abstract[38]	new[38]	coref	10-2[38_39]
-6-19	_	York	abstract[38]	new[38]	_	_
+6-18	_	New	abstract[28]	new[28]	coref	10-2[28_29]
+6-19	_	York	abstract[28]	new[28]	_	_
 6-20	_	,	_	_	_	_
 6-21	_	and	_	_	_	_
 6-22	_	immigrants	_	_	_	_
@@ -155,9 +155,9 @@
 9-7	_	the	_	_	_	_
 9-8	_	banks	_	_	_	_
 9-9	_	of	_	_	_	_
-9-10	_	the	abstract[34]	new[34]	coref	9-23[34_35]
-9-11	_	Hudson	abstract[34]	new[34]	_	_
-9-12	_	River	abstract[34]	new[34]	_	_
+9-10	_	the	abstract[24]	new[24]	coref	9-23[24_25]
+9-11	_	Hudson	abstract[24]	new[24]	_	_
+9-12	_	River	abstract[24]	new[24]	_	_
 9-13	_	,	_	_	_	_
 9-14	_	there	_	_	_	_
 9-15	_	are	_	_	_	_
@@ -168,15 +168,15 @@
 9-20	_	any	_	_	_	_
 9-21	_	window	_	_	_	_
 9-22	_	facing	_	_	_	_
-9-23	_	the	abstract[35]	new[35]	coref	10-14[35_36]
-9-24	_	river	abstract[35]	new[35]	_	_
+9-23	_	the	abstract[25]	new[25]	coref	10-14[25_26]
+9-24	_	river	abstract[25]	new[25]	_	_
 9-25	_	.	_	_	_	_
 
 #Text=The New York City skyline and 4th of July fireworks are spectacular over the river .
 10-1	_	The	_	_	_	_
-10-2	_	New	abstract[39]	new[39]	coref	17-4[39_40]
-10-3	_	York	abstract[39]	new[39]	_	_
-10-4	_	City	abstract[39]	new[39]	_	_
+10-2	_	New	abstract[29]	new[29]	coref	17-4[29_30]
+10-3	_	York	abstract[29]	new[29]	_	_
+10-4	_	City	abstract[29]	new[29]	_	_
 10-5	_	skyline	_	_	_	_
 10-6	_	and	_	_	_	_
 10-7	_	4th	_	_	_	_
@@ -186,8 +186,8 @@
 10-11	_	are	_	_	_	_
 10-12	_	spectacular	_	_	_	_
 10-13	_	over	_	_	_	_
-10-14	_	the	abstract[36]	new[36]	coref	43-18[36_37]
-10-15	_	river	abstract[36]	new[36]	_	_
+10-14	_	the	abstract[26]	new[26]	coref	43-18[26_27]
+10-15	_	river	abstract[26]	new[26]	_	_
 10-16	_	.	_	_	_	_
 
 #Text=Although it is highly built up , Fort Lee also houses many playing fields and recreational parks as well as bike and running trails .
@@ -231,17 +231,17 @@
 12-11	_	to	_	_	_	_
 12-12	_	and	_	_	_	_
 12-13	_	from	_	_	_	_
-12-14	_	the	abstract[44]	new[44]	coref	12-59[44_45]
-12-15	_	George	abstract[44]|abstract[51]	new[44]|new[51]	_	_
-12-16	_	Washington	abstract[44]|abstract[51]	new[44]|new[51]	_	_
-12-17	_	Bridge	abstract[44]	new[44]	_	_
-12-18	_	,	abstract[44]	new[44]	_	_
-12-19	_	which	abstract[44]	new[44]	_	_
-12-20	_	connects	abstract[44]	new[44]	_	_
-12-21	_	Fort	abstract[11]|abstract[44]	new[11]|new[44]	coref	12-32[11_12]
-12-22	_	Lee	abstract[11]|abstract[44]	new[11]|new[44]	_	_
-12-23	_	with	abstract[44]	new[44]	_	_
-12-24	_	Manhattan	abstract[44]	new[44]	_	_
+12-14	_	the	abstract[34]	new[34]	coref	12-59[34_35]
+12-15	_	George	abstract[34]|abstract[41]	new[34]|new[41]	_	_
+12-16	_	Washington	abstract[34]|abstract[41]	new[34]|new[41]	_	_
+12-17	_	Bridge	abstract[34]	new[34]	_	_
+12-18	_	,	abstract[34]	new[34]	_	_
+12-19	_	which	abstract[34]	new[34]	_	_
+12-20	_	connects	abstract[34]	new[34]	_	_
+12-21	_	Fort	abstract[11]|abstract[34]	new[11]|new[34]	coref	12-32[11_12]
+12-22	_	Lee	abstract[11]|abstract[34]	new[11]|new[34]	_	_
+12-23	_	with	abstract[34]	new[34]	_	_
+12-24	_	Manhattan	abstract[34]	new[34]	_	_
 12-25	_	,	_	_	_	_
 12-26	_	one	_	_	_	_
 12-27	_	of	_	_	_	_
@@ -276,8 +276,8 @@
 12-56	_	frequently	_	_	_	_
 12-57	_	run	_	_	_	_
 12-58	_	across	_	_	_	_
-12-59	_	the	abstract[45]	new[45]	coref	17-9[45_46]
-12-60	_	bridge	abstract[45]	new[45]	_	_
+12-59	_	the	abstract[35]	new[35]	coref	17-9[35_36]
+12-60	_	bridge	abstract[35]	new[35]	_	_
 12-61	_	and	_	_	_	_
 12-62	_	up	_	_	_	_
 12-63	_	and	_	_	_	_
@@ -312,7 +312,7 @@
 15-3	_	is	_	_	_	_
 15-4	_	bordered	_	_	_	_
 15-5	_	by	_	_	_	_
-15-6	_	Edgewater	abstract[63]	new[63]	coref	22-16[63_64]
+15-6	_	Edgewater	abstract[53]	new[53]	coref	22-16[53_54]
 15-7	_	,	_	_	_	_
 15-8	_	Englewood	_	_	_	_
 15-9	_	Cliffs	_	_	_	_
@@ -331,15 +331,15 @@
 17-1	_	If	_	_	_	_
 17-2	_	coming	_	_	_	_
 17-3	_	from	_	_	_	_
-17-4	_	New	abstract[40]	new[40]	coref	22-12[40_41]
-17-5	_	York	abstract[40]	new[40]	_	_
-17-6	_	City	abstract[40]	new[40]	_	_
+17-4	_	New	abstract[30]	new[30]	coref	22-12[30_31]
+17-5	_	York	abstract[30]	new[30]	_	_
+17-6	_	City	abstract[30]	new[30]	_	_
 17-7	_	,	_	_	_	_
 17-8	_	take	_	_	_	_
-17-9	_	the	abstract[46]	new[46]	coref	18-13[46_47]
-17-10	_	George	abstract[46]|abstract[55]	new[46]|new[55]	coref	20-12[55_56]
-17-11	_	Washington	abstract[46]|abstract[55]	new[46]|new[55]	_	_
-17-12	_	Bridge	abstract[46]	new[46]	_	_
+17-9	_	the	abstract[36]	new[36]	coref	18-13[36_37]
+17-10	_	George	abstract[36]|abstract[45]	new[36]|new[45]	coref	20-12[45_46]
+17-11	_	Washington	abstract[36]|abstract[45]	new[36]|new[45]	_	_
+17-12	_	Bridge	abstract[36]	new[36]	_	_
 17-13	_	;	_	_	_	_
 
 #Text=Fort Lee is the first town on the New Jersey side of the bridge .
@@ -351,12 +351,12 @@
 18-6	_	town	_	_	_	_
 18-7	_	on	_	_	_	_
 18-8	_	the	_	_	_	_
-18-9	_	New	abstract[53]	new[53]	coref	38-31[53_54]
-18-10	_	Jersey	abstract[53]	new[53]	_	_
+18-9	_	New	abstract[43]	new[43]	coref	38-31[43_44]
+18-10	_	Jersey	abstract[43]	new[43]	_	_
 18-11	_	side	_	_	_	_
 18-12	_	of	_	_	_	_
-18-13	_	the	abstract[47]	new[47]	coref	43-8[47_48]
-18-14	_	bridge	abstract[47]	new[47]	_	_
+18-13	_	the	abstract[37]	new[37]	coref	43-8[37_38]
+18-14	_	bridge	abstract[37]	new[37]	_	_
 18-15	_	.	_	_	_	_
 
 #Text=By bus or jitney
@@ -367,28 +367,28 @@
 
 #Text=Ask any bus or jitney driver leaving from the Port Authority George Washington Bus Station on 177 St. whether s/he can let you off in Fort Lee .
 20-1	_	Ask	_	_	_	_
-20-2	_	any	abstract[61]	new[61]	coref	20-20[61_62]
-20-3	_	bus	abstract[61]	new[61]	_	_
-20-4	_	or	abstract[61]	new[61]	_	_
-20-5	_	jitney	abstract[61]	new[61]	_	_
-20-6	_	driver	abstract[61]	new[61]	_	_
-20-7	_	leaving	abstract[61]	new[61]	_	_
-20-8	_	from	abstract[61]	new[61]	_	_
-20-9	_	the	abstract[61]	new[61]	_	_
-20-10	_	Port	abstract[61]	new[61]	_	_
-20-11	_	Authority	abstract[61]	new[61]	_	_
-20-12	_	George	abstract[56]|abstract[61]	new[56]|new[61]	coref	35-1[56_57]
-20-13	_	Washington	abstract[56]|abstract[61]	new[56]|new[61]	_	_
-20-14	_	Bus	abstract[61]	new[61]	_	_
-20-15	_	Station	abstract[61]	new[61]	_	_
-20-16	_	on	abstract[61]	new[61]	_	_
-20-17	_	177	abstract[61]	new[61]	_	_
-20-18	_	St.	abstract[61]	new[61]	_	_
+20-2	_	any	abstract[51]	new[51]	coref	20-20[51_52]
+20-3	_	bus	abstract[51]	new[51]	_	_
+20-4	_	or	abstract[51]	new[51]	_	_
+20-5	_	jitney	abstract[51]	new[51]	_	_
+20-6	_	driver	abstract[51]	new[51]	_	_
+20-7	_	leaving	abstract[51]	new[51]	_	_
+20-8	_	from	abstract[51]	new[51]	_	_
+20-9	_	the	abstract[51]	new[51]	_	_
+20-10	_	Port	abstract[51]	new[51]	_	_
+20-11	_	Authority	abstract[51]	new[51]	_	_
+20-12	_	George	abstract[46]|abstract[51]	new[46]|new[51]	coref	35-1[46_47]
+20-13	_	Washington	abstract[46]|abstract[51]	new[46]|new[51]	_	_
+20-14	_	Bus	abstract[51]	new[51]	_	_
+20-15	_	Station	abstract[51]	new[51]	_	_
+20-16	_	on	abstract[51]	new[51]	_	_
+20-17	_	177	abstract[51]	new[51]	_	_
+20-18	_	St.	abstract[51]	new[51]	_	_
 20-19	_	whether	_	_	_	_
-20-20	_	s/he	abstract[62]	new[62]	_	_
+20-20	_	s/he	abstract[52]	new[52]	_	_
 20-21	_	can	_	_	_	_
 20-22	_	let	_	_	_	_
-20-23	_	you	abstract[70]	new[70]	coref	31-2[70_71]
+20-23	_	you	abstract[60]	new[60]	coref	31-2[60_61]
 20-24	_	off	_	_	_	_
 20-25	_	in	_	_	_	_
 20-26	_	Fort	abstract[16]	new[16]	coref	22-1[16_17]
@@ -411,11 +411,11 @@
 22-9	_	or	_	_	_	_
 22-10	_	ferry	_	_	_	_
 22-11	_	from	_	_	_	_
-22-12	_	New	abstract[41]	new[41]	coref	30-17[41_42]
-22-13	_	York	abstract[41]	new[41]	_	_
-22-14	_	City	abstract[41]	new[41]	_	_
+22-12	_	New	abstract[31]	new[31]	coref	30-17[31_32]
+22-13	_	York	abstract[31]	new[31]	_	_
+22-14	_	City	abstract[31]	new[31]	_	_
 22-15	_	via	_	_	_	_
-22-16	_	Edgewater	abstract[64]	new[64]	_	_
+22-16	_	Edgewater	abstract[54]	new[54]	_	_
 22-17	_	and	_	_	_	_
 22-18	_	Weehawken	_	_	_	_
 22-19	_	docks	_	_	_	_
@@ -458,7 +458,7 @@
 25-2	_	around	_	_	_	_
 
 #Text=Old and new meet in Fort Lee , as the Good Shepherd Episcopalian Church is dwarfed by a residential highrise immediately behind it
-26-1	_	Old	abstract[65]	new[65]	coref	26-10[65_66]
+26-1	_	Old	abstract[55]	new[55]	coref	26-10[55_56]
 26-2	_	and	_	_	_	_
 26-3	_	new	_	_	_	_
 26-4	_	meet	_	_	_	_
@@ -467,11 +467,11 @@
 26-7	_	Lee	abstract[19]	new[19]	_	_
 26-8	_	,	_	_	_	_
 26-9	_	as	_	_	_	_
-26-10	_	the	abstract[66]	new[66]	coref	26-23[66_67]
-26-11	_	Good	abstract[66]	new[66]	_	_
-26-12	_	Shepherd	abstract[66]	new[66]	_	_
-26-13	_	Episcopalian	abstract[66]	new[66]	_	_
-26-14	_	Church	abstract[66]	new[66]	_	_
+26-10	_	the	abstract[56]	new[56]	coref	26-23[56_57]
+26-11	_	Good	abstract[56]	new[56]	_	_
+26-12	_	Shepherd	abstract[56]	new[56]	_	_
+26-13	_	Episcopalian	abstract[56]	new[56]	_	_
+26-14	_	Church	abstract[56]	new[56]	_	_
 26-15	_	is	_	_	_	_
 26-16	_	dwarfed	_	_	_	_
 26-17	_	by	_	_	_	_
@@ -480,7 +480,7 @@
 26-20	_	highrise	_	_	_	_
 26-21	_	immediately	_	_	_	_
 26-22	_	behind	_	_	_	_
-26-23	_	it	abstract[67]	new[67]	_	_
+26-23	_	it	abstract[57]	new[57]	_	_
 
 #Text=Most people choose cars , but if headed to a central area , such as Main Street , it is best to drive there , park in a municipal parking lot , and walk around from there .
 27-1	_	Most	_	_	_	_
@@ -506,7 +506,7 @@
 27-21	_	best	_	_	_	_
 27-22	_	to	_	_	_	_
 27-23	_	drive	_	_	_	_
-27-24	_	there	abstract[82]	new[82]	coref	57-1[82_83]
+27-24	_	there	abstract[90]	new[90]	coref	57-1[90_91]
 27-25	_	,	_	_	_	_
 27-26	_	park	_	_	_	_
 27-27	_	in	_	_	_	_
@@ -583,11 +583,11 @@
 29-19	_	pocket	_	_	_	_
 29-20	_	change	_	_	_	_
 29-21	_	;	_	_	_	_
-29-22	_	the	abstract[68]	new[68]	coref	29-26[68_69]
-29-23	_	meter	abstract[68]	new[68]	_	_
-29-24	_	maids	abstract[68]	new[68]	_	_
+29-22	_	the	abstract[58]	new[58]	coref	29-26[58_59]
+29-23	_	meter	abstract[58]	new[58]	_	_
+29-24	_	maids	abstract[58]	new[58]	_	_
 29-25	_	take	_	_	_	_
-29-26	_	their	abstract[69]	new[69]	_	_
+29-26	_	their	abstract[59]	new[59]	_	_
 29-27	_	job	_	_	_	_
 29-28	_	very	_	_	_	_
 29-29	_	seriously	_	_	_	_
@@ -610,8 +610,8 @@
 30-14	_	to	_	_	_	_
 30-15	_	and	_	_	_	_
 30-16	_	from	_	_	_	_
-30-17	_	the	abstract[42]	new[42]	_	_
-30-18	_	city	abstract[42]	new[42]	_	_
+30-17	_	the	abstract[32]	new[32]	_	_
+30-18	_	city	abstract[32]	new[32]	_	_
 30-19	_	,	_	_	_	_
 30-20	_	there	_	_	_	_
 30-21	_	is	_	_	_	_
@@ -627,7 +627,7 @@
 
 #Text=If you are planning on being somewhere at a certain time , one might suggest leaving a good 10 to 15 minutes to escape local traffic before hitting any major roadways .
 31-1	_	If	_	_	_	_
-31-2	_	you	abstract[71]	new[71]	coref	47-21[71_72]
+31-2	_	you	abstract[61]	new[61]	coref	47-22[61_62]
 31-3	_	are	_	_	_	_
 31-4	_	planning	_	_	_	_
 31-5	_	on	_	_	_	_
@@ -714,8 +714,8 @@
 34-13	_	.	_	_	_	_
 
 #Text=G W Taxi 1696 Bergen Blvd , tel : 1 201 363-0555 .
-35-1	_	G	abstract[57]	new[57]	coref	38-12[57_58]
-35-2	_	W	abstract[57]	new[57]	_	_
+35-1	_	G	abstract[47]	new[47]	coref	38-12[47_48]
+35-2	_	W	abstract[47]	new[47]	_	_
 35-3	_	Taxi	_	_	_	_
 35-4	_	1696	_	_	_	_
 35-5	_	Bergen	_	_	_	_
@@ -737,23 +737,23 @@
 37-3	_	Historic	_	_	_	_
 37-4	_	Park	_	_	_	_
 37-5	_	,	_	_	_	_
-37-6	_	a	abstract[78]	new[78]	coref	42-1[78_79]
-37-7	_	reconstruction	abstract[78]	new[78]	_	_
-37-8	_	of	abstract[78]	new[78]	_	_
-37-9	_	a	abstract[78]	new[78]	_	_
-37-10	_	Revolutionary	abstract[76]|abstract[78]	new[76]|new[78]	coref	40-14[76_77]
-37-11	_	War	abstract[76]|abstract[78]	new[76]|new[78]	_	_
-37-12	_	encampment	abstract[78]	new[78]	_	_
-37-13	_	,	abstract[78]	new[78]	_	_
-37-14	_	with	abstract[78]	new[78]	_	_
-37-15	_	beautiful	abstract[78]	new[78]	_	_
-37-16	_	views	abstract[78]	new[78]	_	_
-37-17	_	and	abstract[78]	new[78]	_	_
-37-18	_	pleasant	abstract[78]	new[78]	_	_
-37-19	_	greenery	abstract[78]	new[78]	_	_
+37-6	_	a	abstract[82]	new[82]	coref	42-1[82_83]
+37-7	_	reconstruction	abstract[82]	new[82]	_	_
+37-8	_	of	abstract[82]	new[82]	_	_
+37-9	_	a	abstract[82]	new[82]	_	_
+37-10	_	Revolutionary	abstract[80]|abstract[82]	new[80]|new[82]	coref	40-14[80_81]
+37-11	_	War	abstract[80]|abstract[82]	new[80]|new[82]	_	_
+37-12	_	encampment	abstract[82]	new[82]	_	_
+37-13	_	,	abstract[82]	new[82]	_	_
+37-14	_	with	abstract[82]	new[82]	_	_
+37-15	_	beautiful	abstract[82]	new[82]	_	_
+37-16	_	views	abstract[82]	new[82]	_	_
+37-17	_	and	abstract[82]	new[82]	_	_
+37-18	_	pleasant	abstract[82]	new[82]	_	_
+37-19	_	greenery	abstract[82]	new[82]	_	_
 
-#Text=Fort Lee is known and named for the story of how General George Washington was forced to evacuate the area in November of 1776 and begin his famous retreat through New Jersey during the winter of 1776 - 77 in the protection of " Learn about the history of New Zealand . Find out about New Zealand 's history and culture . Browse through local attractions . Take a guided tour .
-38-1	_	Fort	abstract[23]	new[23]	coref	39-1[23_24]
+#Text=Fort Lee is known and named for the story of how General George Washington was forced to evacuate the area in November of 1776 and begin his famous retreat through New Jersey during the winter of 1776 - 77 in the protection of " This article details some of the history of Cleveland , Ohio , and its attractions , including museums ( the Cleveland Museum of Art , HealthSpace , Rock and Roll Hall of Fame ) , professional sports venues ( Progressive Field , QuickenLoans Arena , Cleveland Browns Stadium , Wolstein Center ) , most golf courses per capita in the US , and a """" Big Five """" orchestra .
+38-1	_	Fort	abstract[23]	new[23]	_	_
 38-2	_	Lee	abstract[23]	new[23]	_	_
 38-3	_	is	_	_	_	_
 38-4	_	known	_	_	_	_
@@ -764,9 +764,9 @@
 38-9	_	story	_	_	_	_
 38-10	_	of	_	_	_	_
 38-11	_	how	_	_	_	_
-38-12	_	General	abstract[58]	new[58]	coref	43-9[58_59]
-38-13	_	George	abstract[58]	new[58]	_	_
-38-14	_	Washington	abstract[58]	new[58]	_	_
+38-12	_	General	abstract[48]	new[48]	coref	43-9[48_49]
+38-13	_	George	abstract[48]	new[48]	_	_
+38-14	_	Washington	abstract[48]	new[48]	_	_
 38-15	_	was	_	_	_	_
 38-16	_	forced	_	_	_	_
 38-17	_	to	_	_	_	_
@@ -783,8 +783,8 @@
 38-28	_	famous	_	_	_	_
 38-29	_	retreat	_	_	_	_
 38-30	_	through	_	_	_	_
-38-31	_	New	abstract[54]	new[54]	_	_
-38-32	_	Jersey	abstract[54]	new[54]	_	_
+38-31	_	New	abstract[44]	new[44]	_	_
+38-32	_	Jersey	abstract[44]	new[44]	_	_
 38-33	_	during	_	_	_	_
 38-34	_	the	_	_	_	_
 38-35	_	winter	_	_	_	_
@@ -797,38 +797,80 @@
 38-42	_	protection	_	_	_	_
 38-43	_	of	_	_	_	_
 38-44	_	"	_	_	_	_
-38-45	_	Learn	_	_	_	_
-38-46	_	about	_	_	_	_
-38-47	_	the	_	_	_	_
-38-48	_	history	_	_	_	_
+38-45	_	This	_	_	_	_
+38-46	_	article	_	_	_	_
+38-47	_	details	_	_	_	_
+38-48	_	some	_	_	_	_
 38-49	_	of	_	_	_	_
-38-50	_	New	abstract[74]	new[74]	coref	38-56[74_75]
-38-51	_	Zealand	abstract[74]	new[74]	_	_
-38-52	_	.	_	_	_	_
-38-53	_	Find	_	_	_	_
-38-54	_	out	_	_	_	_
-38-55	_	about	_	_	_	_
-38-56	_	New	abstract[75]	new[75]	_	_
-38-57	_	Zealand	abstract[75]	new[75]	_	_
-38-58	_	's	abstract[75]	new[75]	_	_
-38-59	_	history	_	_	_	_
-38-60	_	and	_	_	_	_
-38-61	_	culture	_	_	_	_
-38-62	_	.	_	_	_	_
-38-63	_	Browse	_	_	_	_
-38-64	_	through	_	_	_	_
-38-65	_	local	_	_	_	_
-38-66	_	attractions	_	_	_	_
-38-67	_	.	_	_	_	_
-38-68	_	Take	_	_	_	_
-38-69	_	a	_	_	_	_
-38-70	_	guided	_	_	_	_
-38-71	_	tour	_	_	_	_
-38-72	_	.	_	_	_	_
+38-50	_	the	_	_	_	_
+38-51	_	history	_	_	_	_
+38-52	_	of	_	_	_	_
+38-53	_	Cleveland	abstract[64]	new[64]	coref	38-58[64_65]
+38-54	_	,	abstract[64]	new[64]	_	_
+38-55	_	Ohio	abstract[64]	new[64]	_	_
+38-56	_	,	_	_	_	_
+38-57	_	and	_	_	_	_
+38-58	_	its	abstract[65]	new[65]	_	_
+38-59	_	attractions	_	_	_	_
+38-60	_	,	_	_	_	_
+38-61	_	including	_	_	_	_
+38-62	_	museums	_	_	_	_
+38-63	_	(	_	_	_	_
+38-64	_	the	_	_	_	_
+38-65	_	Cleveland	_	_	_	_
+38-66	_	Museum	_	_	_	_
+38-67	_	of	_	_	_	_
+38-68	_	Art	_	_	_	_
+38-69	_	,	_	_	_	_
+38-70	_	HealthSpace	_	_	_	_
+38-71	_	,	_	_	_	_
+38-72	_	Rock	_	_	_	_
+38-73	_	and	_	_	_	_
+38-74	_	Roll	_	_	_	_
+38-75	_	Hall	_	_	_	_
+38-76	_	of	_	_	_	_
+38-77	_	Fame	_	_	_	_
+38-78	_	)	_	_	_	_
+38-79	_	,	_	_	_	_
+38-80	_	professional	_	_	_	_
+38-81	_	sports	_	_	_	_
+38-82	_	venues	_	_	_	_
+38-83	_	(	_	_	_	_
+38-84	_	Progressive	_	_	_	_
+38-85	_	Field	_	_	_	_
+38-86	_	,	_	_	_	_
+38-87	_	QuickenLoans	_	_	_	_
+38-88	_	Arena	_	_	_	_
+38-89	_	,	_	_	_	_
+38-90	_	Cleveland	_	_	_	_
+38-91	_	Browns	_	_	_	_
+38-92	_	Stadium	_	_	_	_
+38-93	_	,	_	_	_	_
+38-94	_	Wolstein	_	_	_	_
+38-95	_	Center	_	_	_	_
+38-96	_	)	_	_	_	_
+38-97	_	,	_	_	_	_
+38-98	_	most	_	_	_	_
+38-99	_	golf	_	_	_	_
+38-100	_	courses	_	_	_	_
+38-101	_	per	_	_	_	_
+38-102	_	capita	_	_	_	_
+38-103	_	in	_	_	_	_
+38-104	_	the	_	_	_	_
+38-105	_	US	_	_	_	_
+38-106	_	,	_	_	_	_
+38-107	_	and	_	_	_	_
+38-108	_	a	_	_	_	_
+38-109	_	""""	_	_	_	_
+38-110	_	Big	_	_	_	_
+38-111	_	Five	_	_	_	_
+38-112	_	""""	_	_	_	_
+38-113	_	orchestra	_	_	_	_
+38-114	_	.	_	_	_	_
 
 #Text=Fort Lee " .
-39-1	_	Fort	abstract[24]	new[24]	coref	40-11[24_25]
-39-2	_	Lee	abstract[24]	new[24]	_	_
+39-1	_	Fort	abstract[66]	new[66]	coref	40-11[66_67]
+39-2	_	Lee	abstract[66]	new[66]	_	_
 39-3	_	"	_	_	_	_
 39-4	_	.	_	_	_	_
 
@@ -843,11 +885,11 @@
 40-8	_	the	_	_	_	_
 40-9	_	role	_	_	_	_
 40-10	_	of	_	_	_	_
-40-11	_	Fort	abstract[25]	new[25]	coref	41-15[25_26]
-40-12	_	Lee	abstract[25]	new[25]	_	_
+40-11	_	Fort	abstract[67]	new[67]	coref	41-15[67_68]
+40-12	_	Lee	abstract[67]	new[67]	_	_
 40-13	_	in	_	_	_	_
-40-14	_	the	abstract[77]	new[77]	_	_
-40-15	_	War	abstract[77]	new[77]	_	_
+40-14	_	the	abstract[81]	new[81]	_	_
+40-15	_	War	abstract[81]	new[81]	_	_
 40-16	_	.	_	_	_	_
 
 #Text=Audio - visual displays , detailed exhibits , gives visitors a sense of what this town was like centuries ago .
@@ -865,8 +907,8 @@
 41-12	_	sense	_	_	_	_
 41-13	_	of	_	_	_	_
 41-14	_	what	_	_	_	_
-41-15	_	this	abstract[26]	new[26]	coref	42-1[26_27]
-41-16	_	town	abstract[26]	new[26]	_	_
+41-15	_	this	abstract[68]	new[68]	coref	42-1[68_69]
+41-16	_	town	abstract[68]	new[68]	_	_
 41-17	_	was	_	_	_	_
 41-18	_	like	_	_	_	_
 41-19	_	centuries	_	_	_	_
@@ -874,10 +916,10 @@
 41-21	_	.	_	_	_	_
 
 #Text=Fort Lee Historic Park , Hudson Terrace , tel : 1 201 461-1776 .
-42-1	_	Fort	abstract[27]|abstract[79]	new[27]|new[79]	coref	46-1[27_28]
-42-2	_	Lee	abstract[27]|abstract[79]	new[27]|new[79]	_	_
-42-3	_	Historic	abstract[79]	new[79]	_	_
-42-4	_	Park	abstract[79]	new[79]	_	_
+42-1	_	Fort	abstract[69]|abstract[83]	new[69]|new[83]	coref	46-1[69_70]
+42-2	_	Lee	abstract[69]|abstract[83]	new[69]|new[83]	_	_
+42-3	_	Historic	abstract[83]	new[83]	_	_
+42-4	_	Park	abstract[83]	new[83]	_	_
 42-5	_	,	_	_	_	_
 42-6	_	Hudson	_	_	_	_
 42-7	_	Terrace	_	_	_	_
@@ -897,9 +939,9 @@
 43-5	_	breathtaking	_	_	_	_
 43-6	_	views	_	_	_	_
 43-7	_	of	_	_	_	_
-43-8	_	the	abstract[48]	new[48]	coref	44-1[48_49]
-43-9	_	GW	abstract[48]|abstract[59]	new[48]|new[59]	coref	44-2[59_60]
-43-10	_	Bridge	abstract[48]	new[48]	_	_
+43-8	_	the	abstract[38]	new[38]	coref	44-1[38_39]
+43-9	_	GW	abstract[38]|abstract[49]	new[38]|new[49]	coref	44-2[49_50]
+43-10	_	Bridge	abstract[38]	new[38]	_	_
 43-11	_	,	_	_	_	_
 43-12	_	the	_	_	_	_
 43-13	_	Little	_	_	_	_
@@ -907,8 +949,8 @@
 43-15	_	Light	_	_	_	_
 43-16	_	House	_	_	_	_
 43-17	_	,	_	_	_	_
-43-18	_	Hudson	abstract[37]	new[37]	_	_
-43-19	_	River	abstract[37]	new[37]	_	_
+43-18	_	Hudson	abstract[27]	new[27]	_	_
+43-19	_	River	abstract[27]	new[27]	_	_
 43-20	_	and	_	_	_	_
 43-21	_	majestic	_	_	_	_
 43-22	_	city	_	_	_	_
@@ -916,10 +958,10 @@
 43-24	_	.	_	_	_	_
 
 #Text=The George Washington Bridge can be crossed by bicycle or on foot as well as in a motorized vehicle .
-44-1	_	The	abstract[49]	new[49]	_	_
-44-2	_	George	abstract[49]|abstract[60]	new[49]|new[60]	_	_
-44-3	_	Washington	abstract[49]|abstract[60]	new[49]|new[60]	_	_
-44-4	_	Bridge	abstract[49]	new[49]	_	_
+44-1	_	The	abstract[39]	new[39]	_	_
+44-2	_	George	abstract[39]|abstract[50]	new[39]|new[50]	_	_
+44-3	_	Washington	abstract[39]|abstract[50]	new[39]|new[50]	_	_
+44-4	_	Bridge	abstract[39]	new[39]	_	_
 44-5	_	can	_	_	_	_
 44-6	_	be	_	_	_	_
 44-7	_	crossed	_	_	_	_
@@ -941,9 +983,9 @@
 45-1	_	Do	_	_	_	_
 
 #Text=Fort Lee 's Public School 4 , a daily activity for the elementary school set
-46-1	_	Fort	abstract[28]	new[28]	coref	47-24[28_29]
-46-2	_	Lee	abstract[28]	new[28]	_	_
-46-3	_	's	abstract[28]	new[28]	_	_
+46-1	_	Fort	abstract[70]	new[70]	coref	47-25[70_71]
+46-2	_	Lee	abstract[70]	new[70]	_	_
+46-3	_	's	abstract[70]	new[70]	_	_
 46-4	_	Public	_	_	_	_
 46-5	_	School	_	_	_	_
 46-6	_	4	_	_	_	_
@@ -978,33 +1020,33 @@
 47-18	_	to	_	_	_	_
 47-19	_	do	_	_	_	_
 47-20	_	unless	_	_	_	_
-47-21	_	you	abstract[72]	new[72]	coref	57-23[72_73]
+47-21	_	you	abstract[62]	new[62]	coref	57-23[62_63]
 47-22	_	work	_	_	_	_
 47-23	_	in	_	_	_	_
-47-24	_	Fort	abstract[29]	new[29]	coref	48-1[29_30]
-47-25	_	Lee	abstract[29]	new[29]	_	_
+47-24	_	Fort	abstract[71]	new[71]	coref	48-1[71_72]
+47-25	_	Lee	abstract[71]	new[71]	_	_
 47-26	_	.	_	_	_	_
 
 #Text=Fort Lee also has a great community center open to all borough residents .
-48-1	_	Fort	abstract[30]	new[30]	coref	49-2[30_31]
-48-2	_	Lee	abstract[30]	new[30]	_	_
+48-1	_	Fort	abstract[72]	new[72]	coref	51-3[72_73]
+48-2	_	Lee	abstract[72]	new[72]	_	_
 48-3	_	also	_	_	_	_
 48-4	_	has	_	_	_	_
-48-5	_	a	_	_	_	_
-48-6	_	great	_	_	_	_
-48-7	_	community	_	_	_	_
-48-8	_	center	_	_	_	_
-48-9	_	open	_	_	_	_
-48-10	_	to	_	_	_	_
-48-11	_	all	_	_	_	_
-48-12	_	borough	_	_	_	_
-48-13	_	residents	_	_	_	_
+48-5	_	a	abstract[84]	new[84]	coref	49-1[84_85]
+48-6	_	great	abstract[84]	new[84]	_	_
+48-7	_	community	abstract[84]	new[84]	_	_
+48-8	_	center	abstract[84]	new[84]	_	_
+48-9	_	open	abstract[84]	new[84]	_	_
+48-10	_	to	abstract[84]	new[84]	_	_
+48-11	_	all	abstract[84]	new[84]	_	_
+48-12	_	borough	abstract[84]	new[84]	_	_
+48-13	_	residents	abstract[84]	new[84]	_	_
 48-14	_	.	_	_	_	_
 
 #Text=The community center has dance , yoga , and other exercise classes , offers open gym hours for basketball or other recreation .
-49-1	_	The	abstract[31]	new[31]	coref	50-4[31_32]
-49-2	_	community	abstract[31]	new[31]	_	_
-49-3	_	center	abstract[31]	new[31]	_	_
+49-1	_	The	abstract[85]	new[85]	coref	50-4[85_86]
+49-2	_	community	abstract[85]	new[85]	_	_
+49-3	_	center	abstract[85]	new[85]	_	_
 49-4	_	has	_	_	_	_
 49-5	_	dance	_	_	_	_
 49-6	_	,	_	_	_	_
@@ -1030,7 +1072,7 @@
 50-1	_	During	_	_	_	_
 50-2	_	the	_	_	_	_
 50-3	_	summer	_	_	_	_
-50-4	_	their	abstract[32]	new[32]	coref	51-1[32_33]
+50-4	_	their	abstract[86]	new[86]	coref	51-1[86_87]
 50-5	_	outdoor	_	_	_	_
 50-6	_	theatre	_	_	_	_
 50-7	_	is	_	_	_	_
@@ -1050,12 +1092,12 @@
 50-21	_	.	_	_	_	_
 
 #Text=Jack Alter Fort Lee Community Center , 1355 Inwood Terrace , tel : 1 201-592-4699 , contact for membership information , and upcoming events .
-51-1	_	Jack	abstract[33]	new[33]	_	_
-51-2	_	Alter	abstract[33]	new[33]	_	_
-51-3	_	Fort	abstract[33]|abstract[85]	new[33]|new[85]	coref	57-9[85_86]
-51-4	_	Lee	abstract[33]|abstract[85]	new[33]|new[85]	_	_
-51-5	_	Community	abstract[33]	new[33]	_	_
-51-6	_	Center	abstract[33]	new[33]	_	_
+51-1	_	Jack	abstract[87]	new[87]	_	_
+51-2	_	Alter	abstract[87]	new[87]	_	_
+51-3	_	Fort	abstract[73]|abstract[87]	new[73]|new[87]	coref	57-9[73_74]
+51-4	_	Lee	abstract[73]|abstract[87]	new[73]|new[87]	_	_
+51-5	_	Community	abstract[87]	new[87]	_	_
+51-6	_	Center	abstract[87]	new[87]	_	_
 51-7	_	,	_	_	_	_
 51-8	_	1355	_	_	_	_
 51-9	_	Inwood	_	_	_	_
@@ -1087,12 +1129,12 @@
 53-5	_	of	_	_	_	_
 53-6	_	supermarkets	_	_	_	_
 53-7	_	,	_	_	_	_
-53-8	_	one	abstract[80]	new[80]	coref	55-1[80_81]
-53-9	_	the	abstract[80]	new[80]	_	_
-53-10	_	most	abstract[80]	new[80]	_	_
-53-11	_	famous	abstract[80]	new[80]	_	_
-53-12	_	and	abstract[80]	new[80]	_	_
-53-13	_	unique	abstract[80]	new[80]	_	_
+53-8	_	one	abstract[88]	new[88]	coref	55-1[88_89]
+53-9	_	the	abstract[88]	new[88]	_	_
+53-10	_	most	abstract[88]	new[88]	_	_
+53-11	_	famous	abstract[88]	new[88]	_	_
+53-12	_	and	abstract[88]	new[88]	_	_
+53-13	_	unique	abstract[88]	new[88]	_	_
 53-14	_	being	_	_	_	_
 53-15	_	Caffasso	_	_	_	_
 53-16	_	’s	_	_	_	_
@@ -1120,10 +1162,10 @@
 54-17	_	.	_	_	_	_
 
 #Text=Cafasso 's Fairway Market 1214 Anderson Ave , 1 201-224-7900 .
-55-1	_	Cafasso	abstract[81]	new[81]	_	_
-55-2	_	's	abstract[81]	new[81]	_	_
-55-3	_	Fairway	abstract[81]	new[81]	_	_
-55-4	_	Market	abstract[81]	new[81]	_	_
+55-1	_	Cafasso	abstract[89]	new[89]	_	_
+55-2	_	's	abstract[89]	new[89]	_	_
+55-3	_	Fairway	abstract[89]	new[89]	_	_
+55-4	_	Market	abstract[89]	new[89]	_	_
 55-5	_	1214	_	_	_	_
 55-6	_	Anderson	_	_	_	_
 55-7	_	Ave	_	_	_	_
@@ -1160,16 +1202,16 @@
 56-25	_	pm	_	_	_	_
 
 #Text=Main Street is the primary retail section of Fort Lee , and features stores such as Borders and liquor stores , and you can find a deli or drug store on every corner .
-57-1	_	Main	abstract[83]	new[83]	coref	59-3[83_84]
-57-2	_	Street	abstract[83]	new[83]	_	_
+57-1	_	Main	abstract[91]	new[91]	coref	59-3[91_92]
+57-2	_	Street	abstract[91]	new[91]	_	_
 57-3	_	is	_	_	_	_
 57-4	_	the	_	_	_	_
 57-5	_	primary	_	_	_	_
 57-6	_	retail	_	_	_	_
 57-7	_	section	_	_	_	_
 57-8	_	of	_	_	_	_
-57-9	_	Fort	abstract[86]	new[86]	coref	61-2[86_87]
-57-10	_	Lee	abstract[86]	new[86]	_	_
+57-9	_	Fort	abstract[74]	new[74]	coref	61-2[74_75]
+57-10	_	Lee	abstract[74]	new[74]	_	_
 57-11	_	,	_	_	_	_
 57-12	_	and	_	_	_	_
 57-13	_	features	_	_	_	_
@@ -1182,7 +1224,7 @@
 57-20	_	stores	_	_	_	_
 57-21	_	,	_	_	_	_
 57-22	_	and	_	_	_	_
-57-23	_	you	abstract[73]	new[73]	_	_
+57-23	_	you	abstract[63]	new[63]	_	_
 57-24	_	can	_	_	_	_
 57-25	_	find	_	_	_	_
 57-26	_	a	_	_	_	_
@@ -1219,8 +1261,8 @@
 #Text=Also on Main St. is Metropolitan Plants , a haven for flower lovers , with a very large selection of products for gardeners .
 59-1	_	Also	_	_	_	_
 59-2	_	on	_	_	_	_
-59-3	_	Main	abstract[84]	new[84]	_	_
-59-4	_	St.	abstract[84]	new[84]	_	_
+59-3	_	Main	abstract[92]	new[92]	_	_
+59-4	_	St.	abstract[92]	new[92]	_	_
 59-5	_	is	_	_	_	_
 59-6	_	Metropolitan	_	_	_	_
 59-7	_	Plants	_	_	_	_
@@ -1247,23 +1289,23 @@
 
 #Text=Within Fort Lee , the main attraction would be its collection of restaurants .
 61-1	_	Within	_	_	_	_
-61-2	_	Fort	abstract[87]	new[87]	coref	61-10[87_88]
-61-3	_	Lee	abstract[87]	new[87]	_	_
+61-2	_	Fort	abstract[75]	new[75]	coref	61-10[75_76]
+61-3	_	Lee	abstract[75]	new[75]	_	_
 61-4	_	,	_	_	_	_
 61-5	_	the	_	_	_	_
 61-6	_	main	_	_	_	_
 61-7	_	attraction	_	_	_	_
 61-8	_	would	_	_	_	_
 61-9	_	be	_	_	_	_
-61-10	_	its	abstract[88]	new[88]	coref	62-1[88_89]
+61-10	_	its	abstract[76]	new[76]	coref	62-1[76_77]
 61-11	_	collection	_	_	_	_
 61-12	_	of	_	_	_	_
 61-13	_	restaurants	_	_	_	_
 61-14	_	.	_	_	_	_
 
 #Text=Fort Lee offers international cuisine and is famous for their pizzerias , delis and 24 - hour diners , in addition to its Korean restaurants .
-62-1	_	Fort	abstract[89]	new[89]	coref	62-10[89_90]
-62-2	_	Lee	abstract[89]	new[89]	_	_
+62-1	_	Fort	abstract[77]	new[77]	coref	62-10[77_78]
+62-2	_	Lee	abstract[77]	new[77]	_	_
 62-3	_	offers	_	_	_	_
 62-4	_	international	_	_	_	_
 62-5	_	cuisine	_	_	_	_
@@ -1271,26 +1313,26 @@
 62-7	_	is	_	_	_	_
 62-8	_	famous	_	_	_	_
 62-9	_	for	_	_	_	_
-62-10	_	their	abstract[90]|abstract[92]	new[90]|new[92]	coref|coref	62-23[90_91]|63-1[92_93]
-62-11	_	pizzerias	abstract[92]	new[92]	_	_
-62-12	_	,	abstract[92]	new[92]	_	_
-62-13	_	delis	abstract[92]	new[92]	_	_
-62-14	_	and	abstract[92]	new[92]	_	_
-62-15	_	24	abstract[92]	new[92]	_	_
-62-16	_	-	abstract[92]	new[92]	_	_
-62-17	_	hour	abstract[92]	new[92]	_	_
-62-18	_	diners	abstract[92]	new[92]	_	_
-62-19	_	,	abstract[92]	new[92]	_	_
-62-20	_	in	abstract[92]	new[92]	_	_
-62-21	_	addition	abstract[92]	new[92]	_	_
-62-22	_	to	abstract[92]	new[92]	_	_
-62-23	_	its	abstract[91]|abstract[92]	new[91]|new[92]	_	_
-62-24	_	Korean	abstract[92]	new[92]	_	_
-62-25	_	restaurants	abstract[92]	new[92]	_	_
+62-10	_	their	abstract[78]|abstract[93]	new[78]|new[93]	coref|coref	62-23[78_79]|63-1[93_94]
+62-11	_	pizzerias	abstract[93]	new[93]	_	_
+62-12	_	,	abstract[93]	new[93]	_	_
+62-13	_	delis	abstract[93]	new[93]	_	_
+62-14	_	and	abstract[93]	new[93]	_	_
+62-15	_	24	abstract[93]	new[93]	_	_
+62-16	_	-	abstract[93]	new[93]	_	_
+62-17	_	hour	abstract[93]	new[93]	_	_
+62-18	_	diners	abstract[93]	new[93]	_	_
+62-19	_	,	abstract[93]	new[93]	_	_
+62-20	_	in	abstract[93]	new[93]	_	_
+62-21	_	addition	abstract[93]	new[93]	_	_
+62-22	_	to	abstract[93]	new[93]	_	_
+62-23	_	its	abstract[79]|abstract[93]	new[79]|new[93]	_	_
+62-24	_	Korean	abstract[93]	new[93]	_	_
+62-25	_	restaurants	abstract[93]	new[93]	_	_
 62-26	_	.	_	_	_	_
 
 #Text=They have a warm local atmosphere and taste great .
-63-1	_	They	abstract[93]	new[93]	_	_
+63-1	_	They	abstract[94]	new[94]	_	_
 63-2	_	have	_	_	_	_
 63-3	_	a	_	_	_	_
 63-4	_	warm	_	_	_	_

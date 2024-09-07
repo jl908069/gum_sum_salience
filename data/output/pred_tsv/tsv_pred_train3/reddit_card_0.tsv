@@ -738,7 +738,7 @@
 48-37	_	.	_	_	_	_
 
 #Text=I 'm totally with you though .
-49-1	_	I	abstract[90]	new[90]	coref	51-6[90_91]
+49-1	_	I	abstract[90]	new[90]	_	_
 49-2	_	'm	_	_	_	_
 49-3	_	totally	_	_	_	_
 49-4	_	with	_	_	_	_
@@ -748,36 +748,19 @@
 
 #Text=If they can afford it , they should have it .
 50-1	_	If	_	_	_	_
-50-2	_	they	abstract[92]	new[92]	coref	50-7[92_93]
+50-2	_	they	abstract[91]	new[91]	coref	50-7[91_92]
 50-3	_	can	_	_	_	_
 50-4	_	afford	_	_	_	_
 50-5	_	it	abstract[82]	new[82]	coref	50-10[82_83]
 50-6	_	,	_	_	_	_
-50-7	_	they	abstract[93]	new[93]	_	_
+50-7	_	they	abstract[92]	new[92]	_	_
 50-8	_	should	_	_	_	_
 50-9	_	have	_	_	_	_
 50-10	_	it	abstract[83]	new[83]	_	_
 50-11	_	.	_	_	_	_
 
-#Text=This is a bit like me being stuck in an infancy juggernaut , but not like a real professional .
-51-1	_	This	_	_	_	_
-51-2	_	is	_	_	_	_
-51-3	_	a	_	_	_	_
-51-4	_	bit	_	_	_	_
-51-5	_	like	_	_	_	_
-51-6	_	me	abstract[91]	new[91]	_	_
-51-7	_	being	_	_	_	_
-51-8	_	stuck	_	_	_	_
-51-9	_	in	_	_	_	_
-51-10	_	an	_	_	_	_
-51-11	_	infancy	_	_	_	_
-51-12	_	juggernaut	_	_	_	_
-51-13	_	,	_	_	_	_
-51-14	_	but	_	_	_	_
-51-15	_	not	_	_	_	_
-51-16	_	like	_	_	_	_
-51-17	_	a	_	_	_	_
-51-18	_	real	_	_	_	_
-51-19	_	professional	_	_	_	_
-51-20	_	.	_	_	_	_
+#Text=( Smiling )
+51-1	_	(	_	_	_	_
+51-2	_	Smiling	_	_	_	_
+51-3	_	)	_	_	_	_
 

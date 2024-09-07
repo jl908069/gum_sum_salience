@@ -57,7 +57,7 @@
 3-22	_	followed	_	_	_	_
 3-23	_	.	_	_	_	_
 
-#Text=Biologists think that fear causes this " Get set up for training . Learn the basics . Wear shoes . Find a space . Look in a studio .
+#Text=Biologists think that fear causes this " Prepare yourself for a dance . Get the basics and proper footwear . Recruit a teacher or salesman . Find an appropriate location .
 4-1	_	Biologists	_	_	_	_
 4-2	_	think	_	_	_	_
 4-3	_	that	_	_	_	_
@@ -65,28 +65,30 @@
 4-5	_	causes	_	_	_	_
 4-6	_	this	_	_	_	_
 4-7	_	"	_	_	_	_
-4-8	_	Get	_	_	_	_
-4-9	_	set	_	_	_	_
-4-10	_	up	_	_	_	_
-4-11	_	for	_	_	_	_
-4-12	_	training	_	_	_	_
+4-8	_	Prepare	_	_	_	_
+4-9	_	yourself	abstract[47]	new[47]	coref	11-1[47_48]
+4-10	_	for	_	_	_	_
+4-11	_	a	_	_	_	_
+4-12	_	dance	_	_	_	_
 4-13	_	.	_	_	_	_
-4-14	_	Learn	_	_	_	_
+4-14	_	Get	_	_	_	_
 4-15	_	the	_	_	_	_
 4-16	_	basics	_	_	_	_
-4-17	_	.	_	_	_	_
-4-18	_	Wear	_	_	_	_
-4-19	_	shoes	_	_	_	_
+4-17	_	and	_	_	_	_
+4-18	_	proper	_	_	_	_
+4-19	_	footwear	_	_	_	_
 4-20	_	.	_	_	_	_
-4-21	_	Find	_	_	_	_
+4-21	_	Recruit	_	_	_	_
 4-22	_	a	_	_	_	_
-4-23	_	space	_	_	_	_
-4-24	_	.	_	_	_	_
-4-25	_	Look	_	_	_	_
-4-26	_	in	_	_	_	_
-4-27	_	a	_	_	_	_
-4-28	_	studio	_	_	_	_
-4-29	_	.	_	_	_	_
+4-23	_	teacher	_	_	_	_
+4-24	_	or	_	_	_	_
+4-25	_	salesman	_	_	_	_
+4-26	_	.	_	_	_	_
+4-27	_	Find	_	_	_	_
+4-28	_	an	_	_	_	_
+4-29	_	appropriate	_	_	_	_
+4-30	_	location	_	_	_	_
+4-31	_	.	_	_	_	_
 
 #Text=hypnosis , " which may be an attempt to " play dead " to fool predators .
 5-1	_	hypnosis	_	_	_	_
@@ -174,7 +176,7 @@
 10-12	_	.	_	_	_	_
 
 #Text=You can place the chicken on its breast instead .
-11-1	_	You	abstract[47]	new[47]	coref	13-2[47_48]
+11-1	_	You	abstract[48]	new[48]	coref	13-2[48_49]
 11-2	_	can	_	_	_	_
 11-3	_	place	_	_	_	_
 11-4	_	the	abstract[11]	new[11]	coref	11-7[11_12]
@@ -196,8 +198,8 @@
 12-8	_	and	_	_	_	_
 12-9	_	gently	_	_	_	_
 12-10	_	move	_	_	_	_
-12-11	_	its	abstract[14]|abstract[55]	new[14]|new[55]	coref|coref	12-15[14_15]|18-4[55_56]
-12-12	_	legs	abstract[55]	new[55]	_	_
+12-11	_	its	abstract[14]|abstract[56]	new[14]|new[56]	coref|coref	12-15[14_15]|18-4[56_57]
+12-12	_	legs	abstract[56]	new[56]	_	_
 12-13	_	back	_	_	_	_
 12-14	_	if	_	_	_	_
 12-15	_	it	abstract[15]	new[15]	coref	14-2[15_16]
@@ -209,7 +211,7 @@
 
 #Text=Wiggle your finger .
 13-1	_	Wiggle	_	_	_	_
-13-2	_	your	abstract[48]	new[48]	coref	15-5[48_49]
+13-2	_	your	abstract[49]	new[49]	coref	15-5[49_50]
 13-3	_	finger	_	_	_	_
 13-4	_	.	_	_	_	_
 
@@ -229,7 +231,7 @@
 15-2	_	one	_	_	_	_
 15-3	_	finger	_	_	_	_
 15-4	_	on	_	_	_	_
-15-5	_	your	abstract[49]	new[49]	coref	23-8[49_50]
+15-5	_	your	abstract[50]	new[50]	coref	23-8[50_51]
 15-6	_	other	_	_	_	_
 15-7	_	hand	_	_	_	_
 15-8	_	just	_	_	_	_
@@ -280,8 +282,8 @@
 18-1	_	Let	_	_	_	_
 18-2	_	go	_	_	_	_
 18-3	_	of	_	_	_	_
-18-4	_	its	abstract[19]|abstract[56]	new[19]|new[56]	coref	19-1[19_20]
-18-5	_	legs	abstract[56]	new[56]	_	_
+18-4	_	its	abstract[19]|abstract[57]	new[19]|new[57]	coref	19-1[19_20]
+18-5	_	legs	abstract[57]	new[57]	_	_
 18-6	_	.	_	_	_	_
 
 #Text=The chicken should be " hypnotized " and cease to struggle .
@@ -346,12 +348,12 @@
 23-5	_	stick	_	_	_	_
 23-6	_	,	_	_	_	_
 23-7	_	or	_	_	_	_
-23-8	_	your	abstract[50]	new[50]	coref	26-4[50_51]
+23-8	_	your	abstract[51]	new[51]	coref	26-4[51_52]
 23-9	_	finger	_	_	_	_
 23-10	_	,	_	_	_	_
 23-11	_	draw	_	_	_	_
-23-12	_	a	abstract[57]	new[57]	coref	24-9[57_58]
-23-13	_	line	abstract[57]	new[57]	_	_
+23-12	_	a	abstract[58]	new[58]	coref	24-9[58_59]
+23-13	_	line	abstract[58]	new[58]	_	_
 23-14	_	on	_	_	_	_
 23-15	_	the	abstract[46]	new[46]	_	_
 23-16	_	ground	abstract[46]	new[46]	_	_
@@ -373,8 +375,8 @@
 24-6	_	beak	_	_	_	_
 24-7	_	and	_	_	_	_
 24-8	_	draw	_	_	_	_
-24-9	_	the	abstract[58]	new[58]	_	_
-24-10	_	line	abstract[58]	new[58]	_	_
+24-9	_	the	abstract[59]	new[59]	_	_
+24-10	_	line	abstract[59]	new[59]	_	_
 24-11	_	slowly	_	_	_	_
 24-12	_	outward	_	_	_	_
 24-13	_	,	_	_	_	_
@@ -397,7 +399,7 @@
 26-1	_	Be	_	_	_	_
 26-2	_	nice	_	_	_	_
 26-3	_	to	_	_	_	_
-26-4	_	your	abstract[27]|abstract[51]	new[27]|new[51]	coref|coref	26-9[27_28]|27-2[51_52]
+26-4	_	your	abstract[27]|abstract[52]	new[27]|new[52]	coref|coref	26-9[27_28]|27-2[52_53]
 26-5	_	feathered	abstract[27]	new[27]	_	_
 26-6	_	friend	abstract[27]	new[27]	_	_
 26-7	_	and	_	_	_	_
@@ -412,7 +414,7 @@
 
 #Text=Clap your hands or give it a gentle shove until it jumps up and walks away .
 27-1	_	Clap	_	_	_	_
-27-2	_	your	abstract[52]	new[52]	coref	40-14[52_53]
+27-2	_	your	abstract[53]	new[53]	coref	40-14[53_54]
 27-3	_	hands	_	_	_	_
 27-4	_	or	_	_	_	_
 27-5	_	give	_	_	_	_
@@ -443,48 +445,48 @@
 
 #Text=Understand the hypnotic effect .
 29-1	_	Understand	_	_	_	_
-29-2	_	the	abstract[59]	new[59]	coref	30-3[59_60]
-29-3	_	hypnotic	abstract[59]	new[59]	_	_
-29-4	_	effect	abstract[59]	new[59]	_	_
+29-2	_	the	abstract[60]	new[60]	coref	30-3[60_61]
+29-3	_	hypnotic	abstract[60]	new[60]	_	_
+29-4	_	effect	abstract[60]	new[60]	_	_
 29-5	_	.	_	_	_	_
 
 #Text=Researchers call this effect " tonic immobility " .
 30-1	_	Researchers	_	_	_	_
 30-2	_	call	_	_	_	_
-30-3	_	this	abstract[60]	new[60]	_	_
-30-4	_	effect	abstract[60]	new[60]	_	_
-30-5	_	"	abstract[60]	new[60]	_	_
-30-6	_	tonic	abstract[60]	new[60]	_	_
-30-7	_	immobility	abstract[60]	new[60]	_	_
-30-8	_	"	abstract[60]	new[60]	_	_
+30-3	_	this	abstract[61]	new[61]	_	_
+30-4	_	effect	abstract[61]	new[61]	_	_
+30-5	_	"	abstract[61]	new[61]	_	_
+30-6	_	tonic	abstract[61]	new[61]	_	_
+30-7	_	immobility	abstract[61]	new[61]	_	_
+30-8	_	"	abstract[61]	new[61]	_	_
 30-9	_	.	_	_	_	_
 
 #Text=" When a chicken or another animal with this tendency becomes frightened , its heart rate lowers and it stops moving .
 31-1	_	"	_	_	_	_
 31-2	_	When	_	_	_	_
-31-3	_	a	abstract[61]	new[61]	coref	31-14[61_62]
-31-4	_	chicken	abstract[61]	new[61]	_	_
-31-5	_	or	abstract[61]	new[61]	_	_
-31-6	_	another	abstract[61]	new[61]	_	_
-31-7	_	animal	abstract[61]	new[61]	_	_
-31-8	_	with	abstract[61]	new[61]	_	_
-31-9	_	this	abstract[61]|abstract[64]	new[61]|new[64]	coref	32-1[64_65]
-31-10	_	tendency	abstract[61]|abstract[64]	new[61]|new[64]	_	_
+31-3	_	a	abstract[62]	new[62]	coref	31-14[62_63]
+31-4	_	chicken	abstract[62]	new[62]	_	_
+31-5	_	or	abstract[62]	new[62]	_	_
+31-6	_	another	abstract[62]	new[62]	_	_
+31-7	_	animal	abstract[62]	new[62]	_	_
+31-8	_	with	abstract[62]	new[62]	_	_
+31-9	_	this	abstract[62]|abstract[65]	new[62]|new[65]	coref	32-1[65_66]
+31-10	_	tendency	abstract[62]|abstract[65]	new[62]|new[65]	_	_
 31-11	_	becomes	_	_	_	_
 31-12	_	frightened	_	_	_	_
 31-13	_	,	_	_	_	_
-31-14	_	its	abstract[62]	new[62]	coref	31-19[62_63]
+31-14	_	its	abstract[63]	new[63]	coref	31-19[63_64]
 31-15	_	heart	_	_	_	_
 31-16	_	rate	_	_	_	_
 31-17	_	lowers	_	_	_	_
 31-18	_	and	_	_	_	_
-31-19	_	it	abstract[63]	new[63]	_	_
+31-19	_	it	abstract[64]	new[64]	_	_
 31-20	_	stops	_	_	_	_
 31-21	_	moving	_	_	_	_
 31-22	_	.	_	_	_	_
 
 #Text=This may be an attempt to play dead , discouraging predators that prefer live prey .
-32-1	_	This	abstract[65]	new[65]	_	_
+32-1	_	This	abstract[66]	new[66]	_	_
 32-2	_	may	_	_	_	_
 32-3	_	be	_	_	_	_
 32-4	_	an	_	_	_	_
@@ -546,10 +548,10 @@
 35-5	_	uncommon	_	_	_	_
 35-6	_	to	_	_	_	_
 35-7	_	transport	_	_	_	_
-35-8	_	a	abstract[66]	new[66]	coref	35-11[66_67]
-35-9	_	chicken	abstract[66]	new[66]	_	_
+35-8	_	a	abstract[67]	new[67]	coref	35-11[67_68]
+35-9	_	chicken	abstract[67]	new[67]	_	_
 35-10	_	by	_	_	_	_
-35-11	_	its	abstract[67]	new[67]	_	_
+35-11	_	its	abstract[68]	new[68]	_	_
 35-12	_	feet	_	_	_	_
 35-13	_	,	_	_	_	_
 35-14	_	this	_	_	_	_
@@ -571,10 +573,10 @@
 36-3	_	that	_	_	_	_
 36-4	_	involve	_	_	_	_
 36-5	_	laying	_	_	_	_
-36-6	_	a	abstract[68]	new[68]	coref	36-9[68_69]
-36-7	_	chicken	abstract[68]	new[68]	_	_
+36-6	_	a	abstract[69]	new[69]	coref	36-9[69_70]
+36-7	_	chicken	abstract[69]	new[69]	_	_
 36-8	_	on	_	_	_	_
-36-9	_	its	abstract[69]	new[69]	coref	36-18[69_70]
+36-9	_	its	abstract[70]	new[70]	coref	36-18[70_71]
 36-10	_	back	_	_	_	_
 36-11	_	may	_	_	_	_
 36-12	_	"	_	_	_	_
@@ -583,7 +585,7 @@
 36-15	_	by	_	_	_	_
 36-16	_	cutting	_	_	_	_
 36-17	_	off	_	_	_	_
-36-18	_	its	abstract[70]	new[70]	_	_
+36-18	_	its	abstract[71]	new[71]	_	_
 36-19	_	air	_	_	_	_
 36-20	_	supply	_	_	_	_
 36-21	_	.	_	_	_	_
@@ -610,7 +612,7 @@
 
 #Text=Keep hypnosis short and infrequent .
 38-1	_	Keep	_	_	_	_
-38-2	_	hypnosis	abstract[71]	new[71]	coref	39-9[71_72]
+38-2	_	hypnosis	abstract[72]	new[72]	coref	39-9[72_73]
 38-3	_	short	_	_	_	_
 38-4	_	and	_	_	_	_
 38-5	_	infrequent	_	_	_	_
@@ -625,15 +627,15 @@
 39-6	_	how	_	_	_	_
 39-7	_	much	_	_	_	_
 39-8	_	stress	_	_	_	_
-39-9	_	this	abstract[72]	new[72]	coref	40-3[72_73]
-39-10	_	hypnosis	abstract[72]	new[72]	_	_
+39-9	_	this	abstract[73]	new[73]	coref	40-3[73_74]
+39-10	_	hypnosis	abstract[73]	new[73]	_	_
 39-11	_	causes	_	_	_	_
 39-12	_	.	_	_	_	_
 
 #Text=Even if it does , the chicken should n't suffer as long as you let it go soon afterward .
 40-1	_	Even	_	_	_	_
 40-2	_	if	_	_	_	_
-40-3	_	it	abstract[73]	new[73]	coref	48-21[73_74]
+40-3	_	it	abstract[74]	new[74]	coref	48-21[74_75]
 40-4	_	does	_	_	_	_
 40-5	_	,	_	_	_	_
 40-6	_	the	abstract[39]	new[39]	coref	40-16[39_40]
@@ -644,7 +646,7 @@
 40-11	_	as	_	_	_	_
 40-12	_	long	_	_	_	_
 40-13	_	as	_	_	_	_
-40-14	_	you	abstract[53]	new[53]	coref	42-2[53_54]
+40-14	_	you	abstract[54]	new[54]	coref	42-2[54_55]
 40-15	_	let	_	_	_	_
 40-16	_	it	abstract[40]	new[40]	_	_
 40-17	_	go	_	_	_	_
@@ -673,7 +675,7 @@
 
 #Text=Get your chickens used to humans and novelty .
 42-1	_	Get	_	_	_	_
-42-2	_	your	abstract[54]	new[54]	_	_
+42-2	_	your	abstract[55]	new[55]	_	_
 42-3	_	chickens	_	_	_	_
 42-4	_	used	_	_	_	_
 42-5	_	to	_	_	_	_
@@ -777,32 +779,17 @@
 48-18	_	a	_	_	_	_
 48-19	_	chicken	_	_	_	_
 48-20	_	in	_	_	_	_
-48-21	_	this	abstract[74]	new[74]	_	_
-48-22	_	state	abstract[74]	new[74]	_	_
+48-21	_	this	abstract[75]	new[75]	_	_
+48-22	_	state	abstract[75]	new[75]	_	_
 48-23	_	.	_	_	_	_
 
-#Text=Start the seeds indoors . Plant the seeds in the spring . Transplant the basil . Pinch and trim the basil plants .
-49-1	_	Start	_	_	_	_
-49-2	_	the	abstract[75]	new[75]	coref	49-7[75_76]
-49-3	_	seeds	abstract[75]	new[75]	_	_
-49-4	_	indoors	_	_	_	_
-49-5	_	.	_	_	_	_
-49-6	_	Plant	_	_	_	_
-49-7	_	the	abstract[76]	new[76]	_	_
-49-8	_	seeds	abstract[76]	new[76]	_	_
-49-9	_	in	_	_	_	_
-49-10	_	the	_	_	_	_
-49-11	_	spring	_	_	_	_
-49-12	_	.	_	_	_	_
-49-13	_	Transplant	_	_	_	_
-49-14	_	the	abstract[77]	new[77]	coref	49-20[77_78]
-49-15	_	basil	abstract[77]	new[77]	_	_
-49-16	_	.	_	_	_	_
-49-17	_	Pinch	_	_	_	_
-49-18	_	and	_	_	_	_
-49-19	_	trim	_	_	_	_
-49-20	_	the	abstract[78]	new[78]	_	_
-49-21	_	basil	abstract[78]	new[78]	_	_
-49-22	_	plants	abstract[78]	new[78]	_	_
-49-23	_	.	_	_	_	_
+#Text=Get to work . Get to work .
+49-1	_	Get	_	_	_	_
+49-2	_	to	_	_	_	_
+49-3	_	work	_	_	_	_
+49-4	_	.	_	_	_	_
+49-5	_	Get	_	_	_	_
+49-6	_	to	_	_	_	_
+49-7	_	work	_	_	_	_
+49-8	_	.	_	_	_	_
 

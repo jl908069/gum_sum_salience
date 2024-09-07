@@ -45,25 +45,25 @@
 2-34	_	.	_	_	_	_
 
 #Text=An empire whose costly mistakes would for many years to come echo into every corner of the known galaxy .
-3-1	_	An	abstract[92]	new[92]	coref	27-7[92_93]
-3-2	_	empire	abstract[92]	new[92]	_	_
-3-3	_	whose	abstract[92]	new[92]	_	_
-3-4	_	costly	abstract[92]	new[92]	_	_
-3-5	_	mistakes	abstract[92]	new[92]	_	_
-3-6	_	would	abstract[92]	new[92]	_	_
-3-7	_	for	abstract[92]	new[92]	_	_
-3-8	_	many	abstract[92]	new[92]	_	_
-3-9	_	years	abstract[92]	new[92]	_	_
-3-10	_	to	abstract[92]	new[92]	_	_
-3-11	_	come	abstract[92]	new[92]	_	_
-3-12	_	echo	abstract[92]	new[92]	_	_
-3-13	_	into	abstract[92]	new[92]	_	_
-3-14	_	every	abstract[92]	new[92]	_	_
-3-15	_	corner	abstract[92]	new[92]	_	_
-3-16	_	of	abstract[92]	new[92]	_	_
-3-17	_	the	abstract[92]	new[92]	_	_
-3-18	_	known	abstract[92]	new[92]	_	_
-3-19	_	galaxy	abstract[92]	new[92]	_	_
+3-1	_	An	abstract[91]	new[91]	coref	27-7[91_92]
+3-2	_	empire	abstract[91]	new[91]	_	_
+3-3	_	whose	abstract[91]	new[91]	_	_
+3-4	_	costly	abstract[91]	new[91]	_	_
+3-5	_	mistakes	abstract[91]	new[91]	_	_
+3-6	_	would	abstract[91]	new[91]	_	_
+3-7	_	for	abstract[91]	new[91]	_	_
+3-8	_	many	abstract[91]	new[91]	_	_
+3-9	_	years	abstract[91]	new[91]	_	_
+3-10	_	to	abstract[91]	new[91]	_	_
+3-11	_	come	abstract[91]	new[91]	_	_
+3-12	_	echo	abstract[91]	new[91]	_	_
+3-13	_	into	abstract[91]	new[91]	_	_
+3-14	_	every	abstract[91]	new[91]	_	_
+3-15	_	corner	abstract[91]	new[91]	_	_
+3-16	_	of	abstract[91]	new[91]	_	_
+3-17	_	the	abstract[91]	new[91]	_	_
+3-18	_	known	abstract[91]	new[91]	_	_
+3-19	_	galaxy	abstract[91]	new[91]	_	_
 3-20	_	.	_	_	_	_
 
 #Text=And with those mistakes would come death to billions of innocent , unsuspecting lives .
@@ -157,16 +157,16 @@
 7-15	_	display	_	_	_	_
 7-16	_	options	_	_	_	_
 7-17	_	for	_	_	_	_
-7-18	_	his	abstract[11]|abstract[74]	new[11]|new[74]	coref|coref	8-1[11_12]|20-39[74_75]
-7-19	_	starfighter	abstract[74]	new[74]	_	_
-7-20	_	's	abstract[74]	new[74]	_	_
+7-18	_	his	abstract[11]|abstract[73]	new[11]|new[73]	coref|coref	8-1[11_12]|20-39[73_74]
+7-19	_	starfighter	abstract[73]	new[73]	_	_
+7-20	_	's	abstract[73]	new[73]	_	_
 7-21	_	radar	_	_	_	_
 7-22	_	system	_	_	_	_
 7-23	_	.	_	_	_	_
 
 #Text=His anxiety continued to grow with each passing second , every change of the screen doing nothing to abate it .
-8-1	_	His	abstract[12]|abstract[70]	new[12]|new[70]	coref|coref	9-1[12_13]|8-20[70_71]
-8-2	_	anxiety	abstract[70]	new[70]	_	_
+8-1	_	His	abstract[12]|abstract[69]	new[12]|new[69]	coref|coref	9-1[12_13]|8-20[69_70]
+8-2	_	anxiety	abstract[69]	new[69]	_	_
 8-3	_	continued	_	_	_	_
 8-4	_	to	_	_	_	_
 8-5	_	grow	_	_	_	_
@@ -184,7 +184,7 @@
 8-17	_	nothing	_	_	_	_
 8-18	_	to	_	_	_	_
 8-19	_	abate	_	_	_	_
-8-20	_	it	abstract[71]	new[71]	_	_
+8-20	_	it	abstract[70]	new[70]	_	_
 8-21	_	.	_	_	_	_
 
 #Text=He stopped midway through the calibration and glanced out of his cockpit .
@@ -198,18 +198,18 @@
 9-8	_	glanced	_	_	_	_
 9-9	_	out	_	_	_	_
 9-10	_	of	_	_	_	_
-9-11	_	his	abstract[14]|abstract[133]	new[14]|new[133]	coref|coref	10-17[14_15]|51-19[133_134]
-9-12	_	cockpit	abstract[133]	new[133]	_	_
+9-11	_	his	abstract[14]|abstract[132]	new[14]|new[132]	coref|coref	10-17[14_15]|51-19[132_133]
+9-12	_	cockpit	abstract[132]	new[132]	_	_
 9-13	_	.	_	_	_	_
 
 #Text=The scene was the same as it had been a few moments ago and it brought him no comfort .
-10-1	_	The	abstract[72]	new[72]	coref	10-7[72_73]
-10-2	_	scene	abstract[72]	new[72]	_	_
+10-1	_	The	abstract[71]	new[71]	coref	10-7[71_72]
+10-2	_	scene	abstract[71]	new[71]	_	_
 10-3	_	was	_	_	_	_
 10-4	_	the	_	_	_	_
 10-5	_	same	_	_	_	_
 10-6	_	as	_	_	_	_
-10-7	_	it	abstract[73]	new[73]	_	_
+10-7	_	it	abstract[72]	new[72]	_	_
 10-8	_	had	_	_	_	_
 10-9	_	been	_	_	_	_
 10-10	_	a	_	_	_	_
@@ -261,10 +261,10 @@
 15-4	_	of	_	_	_	_
 15-5	_	service	_	_	_	_
 15-6	_	to	_	_	_	_
-15-7	_	the	abstract[127]	new[127]	coref	47-17[127_128]
-15-8	_	Imperial	abstract[127]	new[127]	_	_
-15-9	_	Naval	abstract[127]	new[127]	_	_
-15-10	_	Forces	abstract[127]	new[127]	_	_
+15-7	_	the	abstract[126]	new[126]	coref	47-17[126_127]
+15-8	_	Imperial	abstract[126]	new[126]	_	_
+15-9	_	Naval	abstract[126]	new[126]	_	_
+15-10	_	Forces	abstract[126]	new[126]	_	_
 15-11	_	he	abstract[18]	new[18]	coref	18-3[18_19]
 15-12	_	had	_	_	_	_
 15-13	_	never	_	_	_	_
@@ -369,13 +369,13 @@
 20-6	_	been	_	_	_	_
 20-7	_	standing	_	_	_	_
 20-8	_	on	_	_	_	_
-20-9	_	the	abstract[84]	new[84]	coref	23-25[84_85]
-20-10	_	flight	abstract[84]	new[84]	_	_
-20-11	_	deck	abstract[84]	new[84]	_	_
-20-12	_	of	abstract[84]	new[84]	_	_
-20-13	_	his	abstract[23]|abstract[84]	new[23]|new[84]	coref	20-22[23_24]
-20-14	_	deployment	abstract[84]	new[84]	_	_
-20-15	_	carrier	abstract[84]	new[84]	_	_
+20-9	_	the	abstract[83]	new[83]	coref	23-25[83_84]
+20-10	_	flight	abstract[83]	new[83]	_	_
+20-11	_	deck	abstract[83]	new[83]	_	_
+20-12	_	of	abstract[83]	new[83]	_	_
+20-13	_	his	abstract[23]|abstract[83]	new[23]|new[83]	coref	20-22[23_24]
+20-14	_	deployment	abstract[83]	new[83]	_	_
+20-15	_	carrier	abstract[83]	new[83]	_	_
 20-16	_	,	_	_	_	_
 20-17	_	amongst	_	_	_	_
 20-18	_	the	_	_	_	_
@@ -389,8 +389,8 @@
 20-26	_	his	abstract[25]	new[25]	coref	20-29[25_26]
 20-27	_	ears	_	_	_	_
 20-28	_	,	_	_	_	_
-20-29	_	his	abstract[26]|abstract[135]	new[26]|new[135]	coref|coref	20-33[26_27]|52-20[135_136]
-20-30	_	hands	abstract[135]	new[135]	_	_
+20-29	_	his	abstract[26]|abstract[134]	new[26]|new[134]	coref|coref	20-33[26_27]|52-20[134_135]
+20-30	_	hands	abstract[134]	new[134]	_	_
 20-31	_	sweating	_	_	_	_
 20-32	_	as	_	_	_	_
 20-33	_	he	abstract[27]	new[27]	coref	20-39[27_28]
@@ -399,19 +399,19 @@
 20-36	_	order	_	_	_	_
 20-37	_	to	_	_	_	_
 20-38	_	board	_	_	_	_
-20-39	_	his	abstract[28]|abstract[75]	new[28]|new[75]	coref|coref	21-1[28_29]|51-5[75_76]
-20-40	_	fighter	abstract[75]	new[75]	_	_
+20-39	_	his	abstract[28]|abstract[74]	new[28]|new[74]	coref|coref	21-1[28_29]|51-5[74_75]
+20-40	_	fighter	abstract[74]	new[74]	_	_
 20-41	_	.	_	_	_	_
 
 #Text=Chalmers saw his friends run forward as their names were called out , scrambling into cockpits , pulling on helmets and performing last - minute safety checks .
 21-1	_	Chalmers	abstract[29]	new[29]	coref	21-3[29_30]
 21-2	_	saw	_	_	_	_
-21-3	_	his	abstract[30]|abstract[78]	new[30]|new[78]	coref|coref	22-7[30_31]|21-8[78_79]
-21-4	_	friends	abstract[78]	new[78]	_	_
+21-3	_	his	abstract[30]|abstract[77]	new[30]|new[77]	coref|coref	22-7[30_31]|21-8[77_78]
+21-4	_	friends	abstract[77]	new[77]	_	_
 21-5	_	run	_	_	_	_
 21-6	_	forward	_	_	_	_
 21-7	_	as	_	_	_	_
-21-8	_	their	abstract[79]	new[79]	_	_
+21-8	_	their	abstract[78]	new[78]	_	_
 21-9	_	names	_	_	_	_
 21-10	_	were	_	_	_	_
 21-11	_	called	_	_	_	_
@@ -443,7 +443,7 @@
 22-7	_	he	abstract[31]	new[31]	coref	22-18[31_32]
 22-8	_	was	_	_	_	_
 22-9	_	convinced	_	_	_	_
-22-10	_	they	abstract[80]	new[80]	coref	22-22[80_81]
+22-10	_	they	abstract[79]	new[79]	coref	22-22[79_80]
 22-11	_	were	_	_	_	_
 22-12	_	all	_	_	_	_
 22-13	_	as	_	_	_	_
@@ -455,14 +455,14 @@
 22-19	_	was	_	_	_	_
 22-20	_	-	_	_	_	_
 22-21	_	knowing	_	_	_	_
-22-22	_	they	abstract[81]	new[81]	coref	22-29[81_82]
+22-22	_	they	abstract[80]	new[80]	coref	22-29[80_81]
 22-23	_	could	_	_	_	_
 22-24	_	well	_	_	_	_
 22-25	_	be	_	_	_	_
 22-26	_	speeding	_	_	_	_
 22-27	_	only	_	_	_	_
 22-28	_	to	_	_	_	_
-22-29	_	their	abstract[82]	new[82]	coref	23-4[82_83]
+22-29	_	their	abstract[81]	new[81]	coref	23-4[81_82]
 22-30	_	own	_	_	_	_
 22-31	_	deaths	_	_	_	_
 22-32	_	.	_	_	_	_
@@ -471,30 +471,30 @@
 23-1	_	As	_	_	_	_
 23-2	_	he	abstract[33]	new[33]	coref	23-4[33_34]
 23-3	_	watched	_	_	_	_
-23-4	_	his	abstract[34]|abstract[83]	new[34]|new[83]	coref	23-13[34_35]
-23-5	_	friends	abstract[83]	new[83]	_	_
-23-6	_	'	abstract[83]	new[83]	_	_
+23-4	_	his	abstract[34]|abstract[82]	new[34]|new[82]	coref	23-13[34_35]
+23-5	_	friends	abstract[82]	new[82]	_	_
+23-6	_	'	abstract[82]	new[82]	_	_
 23-7	_	fighters	_	_	_	_
 23-8	_	hurtle	_	_	_	_
 23-9	_	down	_	_	_	_
-23-10	_	the	abstract[137]	new[137]	coref	53-9[137_138]
-23-11	_	catapult	abstract[137]	new[137]	_	_
+23-10	_	the	abstract[136]	new[136]	coref	53-9[136_137]
+23-11	_	catapult	abstract[136]	new[136]	_	_
 23-12	_	,	_	_	_	_
 23-13	_	his	abstract[35]	new[35]	coref	30-6[35_36]
 23-14	_	commanding	_	_	_	_
 23-15	_	officer	_	_	_	_
 23-16	_	had	_	_	_	_
 23-17	_	addressed	_	_	_	_
-23-18	_	the	abstract[112]	new[112]	coref	36-7[112_113]
-23-19	_	last	abstract[112]	new[112]	_	_
-23-20	_	remaining	abstract[112]	new[112]	_	_
-23-21	_	pilots	abstract[112]	new[112]	_	_
-23-22	_	still	abstract[112]	new[112]	_	_
-23-23	_	standing	abstract[112]	new[112]	_	_
-23-24	_	on	abstract[112]	new[112]	_	_
-23-25	_	the	abstract[85]|abstract[112]	new[85]|new[112]	coref	41-23[85_86]
-23-26	_	flight	abstract[85]|abstract[112]	new[85]|new[112]	_	_
-23-27	_	deck	abstract[85]|abstract[112]	new[85]|new[112]	_	_
+23-18	_	the	abstract[111]	new[111]	coref	36-7[111_112]
+23-19	_	last	abstract[111]	new[111]	_	_
+23-20	_	remaining	abstract[111]	new[111]	_	_
+23-21	_	pilots	abstract[111]	new[111]	_	_
+23-22	_	still	abstract[111]	new[111]	_	_
+23-23	_	standing	abstract[111]	new[111]	_	_
+23-24	_	on	abstract[111]	new[111]	_	_
+23-25	_	the	abstract[84]|abstract[111]	new[84]|new[111]	coref	41-23[84_85]
+23-26	_	flight	abstract[84]|abstract[111]	new[84]|new[111]	_	_
+23-27	_	deck	abstract[84]|abstract[111]	new[84]|new[111]	_	_
 23-28	_	.	_	_	_	_
 
 #Text=“ Right , listen up , ” he started .
@@ -505,7 +505,7 @@
 24-5	_	up	_	_	_	_
 24-6	_	,	_	_	_	_
 24-7	_	”	_	_	_	_
-24-8	_	he	abstract[110]	new[110]	coref	36-2[110_111]
+24-8	_	he	abstract[109]	new[109]	coref	36-2[109_110]
 24-9	_	started	_	_	_	_
 24-10	_	.	_	_	_	_
 
@@ -514,16 +514,16 @@
 25-2	_	This	_	_	_	_
 25-3	_	is	_	_	_	_
 25-4	_	where	_	_	_	_
-25-5	_	we	abstract[87]	new[87]	coref	25-9[87_88]
+25-5	_	we	abstract[86]	new[86]	coref	25-9[86_87]
 25-6	_	must	_	_	_	_
 25-7	_	make	_	_	_	_
-25-8	_	our	abstract[88]	new[88]	coref	27-2[88_89]
+25-8	_	our	abstract[87]	new[87]	coref	27-2[87_88]
 25-9	_	stand	_	_	_	_
 25-10	_	.	_	_	_	_
 
 #Text=The Enemy can not be allowed to advance any further .
-26-1	_	The	abstract[100]	new[100]	coref	33-19[100_101]
-26-2	_	Enemy	abstract[100]	new[100]	_	_
+26-1	_	The	abstract[99]	new[99]	coref	33-19[99_100]
+26-2	_	Enemy	abstract[99]	new[99]	_	_
 26-3	_	can	_	_	_	_
 26-4	_	not	_	_	_	_
 26-5	_	be	_	_	_	_
@@ -536,49 +536,49 @@
 
 #Text=Tonight we fight the battle for Kethlan and for the Imperium ; the battle for our survival .
 27-1	_	Tonight	_	_	_	_
-27-2	_	we	abstract[89]	new[89]	coref	27-16[89_90]
+27-2	_	we	abstract[88]	new[88]	coref	27-16[88_89]
 27-3	_	fight	_	_	_	_
-27-4	_	the	abstract[115]	new[115]	coref	36-10[115_116]
-27-5	_	battle	abstract[115]	new[115]	_	_
-27-6	_	for	abstract[115]	new[115]	_	_
-27-7	_	Kethlan	abstract[93]|abstract[115]	new[93]|new[115]	coref	27-10[93_94]
-27-8	_	and	abstract[115]	new[115]	_	_
-27-9	_	for	abstract[115]	new[115]	_	_
-27-10	_	the	abstract[94]|abstract[115]	new[94]|new[115]	coref	45-2[94_95]
-27-11	_	Imperium	abstract[94]|abstract[115]	new[94]|new[115]	_	_
-27-12	_	;	abstract[115]	new[115]	_	_
-27-13	_	the	abstract[115]	new[115]	_	_
-27-14	_	battle	abstract[115]	new[115]	_	_
-27-15	_	for	abstract[115]	new[115]	_	_
-27-16	_	our	abstract[90]|abstract[115]	new[90]|new[115]	coref	28-9[90_91]
-27-17	_	survival	abstract[115]	new[115]	_	_
+27-4	_	the	abstract[114]	new[114]	coref	36-10[114_115]
+27-5	_	battle	abstract[114]	new[114]	_	_
+27-6	_	for	abstract[114]	new[114]	_	_
+27-7	_	Kethlan	abstract[92]|abstract[114]	new[92]|new[114]	coref	27-10[92_93]
+27-8	_	and	abstract[114]	new[114]	_	_
+27-9	_	for	abstract[114]	new[114]	_	_
+27-10	_	the	abstract[93]|abstract[114]	new[93]|new[114]	coref	45-2[93_94]
+27-11	_	Imperium	abstract[93]|abstract[114]	new[93]|new[114]	_	_
+27-12	_	;	abstract[114]	new[114]	_	_
+27-13	_	the	abstract[114]	new[114]	_	_
+27-14	_	battle	abstract[114]	new[114]	_	_
+27-15	_	for	abstract[114]	new[114]	_	_
+27-16	_	our	abstract[89]|abstract[114]	new[89]|new[114]	coref	28-9[89_90]
+27-17	_	survival	abstract[114]	new[114]	_	_
 27-18	_	.	_	_	_	_
 
 #Text=Hundreds of millions of lives are depending on our actions here .
-28-1	_	Hundreds	abstract[96]	new[96]	coref	29-2[96_97]
-28-2	_	of	abstract[96]	new[96]	_	_
-28-3	_	millions	abstract[96]	new[96]	_	_
-28-4	_	of	abstract[96]	new[96]	_	_
-28-5	_	lives	abstract[96]	new[96]	_	_
+28-1	_	Hundreds	abstract[95]	new[95]	coref	29-2[95_96]
+28-2	_	of	abstract[95]	new[95]	_	_
+28-3	_	millions	abstract[95]	new[95]	_	_
+28-4	_	of	abstract[95]	new[95]	_	_
+28-5	_	lives	abstract[95]	new[95]	_	_
 28-6	_	are	_	_	_	_
 28-7	_	depending	_	_	_	_
 28-8	_	on	_	_	_	_
-28-9	_	our	abstract[91]	new[91]	_	_
+28-9	_	our	abstract[90]	new[90]	_	_
 28-10	_	actions	_	_	_	_
 28-11	_	here	_	_	_	_
 28-12	_	.	_	_	_	_
 
 #Text=Make them proud ! ”
 29-1	_	Make	_	_	_	_
-29-2	_	them	abstract[97]	new[97]	_	_
+29-2	_	them	abstract[96]	new[96]	_	_
 29-3	_	proud	_	_	_	_
 29-4	_	!	_	_	_	_
 29-5	_	”	_	_	_	_
 
 #Text=Hundreds of millions ? thought Chalmers .
-30-1	_	Hundreds	abstract[98]	new[98]	coref	31-2[98_99]
-30-2	_	of	abstract[98]	new[98]	_	_
-30-3	_	millions	abstract[98]	new[98]	_	_
+30-1	_	Hundreds	abstract[97]	new[97]	coref	31-2[97_98]
+30-2	_	of	abstract[97]	new[97]	_	_
+30-3	_	millions	abstract[97]	new[97]	_	_
 30-4	_	?	_	_	_	_
 30-5	_	thought	_	_	_	_
 30-6	_	Chalmers	abstract[36]	new[36]	coref	34-4[36_37]
@@ -586,7 +586,7 @@
 
 #Text=Is that all that 's left ?
 31-1	_	Is	_	_	_	_
-31-2	_	that	abstract[99]	new[99]	_	_
+31-2	_	that	abstract[98]	new[98]	_	_
 31-3	_	all	_	_	_	_
 31-4	_	that	_	_	_	_
 31-5	_	's	_	_	_	_
@@ -622,13 +622,13 @@
 33-16	_	had	_	_	_	_
 33-17	_	fallen	_	_	_	_
 33-18	_	to	_	_	_	_
-33-19	_	the	abstract[101]	new[101]	coref	33-23[101_102]
-33-20	_	Enemy	abstract[101]	new[101]	_	_
+33-19	_	the	abstract[100]	new[100]	coref	33-23[100_101]
+33-20	_	Enemy	abstract[100]	new[100]	_	_
 33-21	_	;	_	_	_	_
 33-22	_	to	_	_	_	_
-33-23	_	those	abstract[102]	new[102]	coref	45-7[102_103]
-33-24	_	damned	abstract[102]	new[102]	_	_
-33-25	_	Pandorans	abstract[102]	new[102]	_	_
+33-23	_	those	abstract[101]	new[101]	coref	45-7[101_102]
+33-24	_	damned	abstract[101]	new[101]	_	_
+33-25	_	Pandorans	abstract[101]	new[101]	_	_
 33-26	_	;	_	_	_	_
 33-27	_	to	_	_	_	_
 33-28	_	the	_	_	_	_
@@ -641,8 +641,8 @@
 34-1	_	How	_	_	_	_
 34-2	_	many	_	_	_	_
 34-3	_	of	_	_	_	_
-34-4	_	his	abstract[37]|abstract[107]	new[37]|new[107]	coref|coref	34-7[37_38]|35-2[107_108]
-34-5	_	friends	abstract[107]	new[107]	_	_
+34-4	_	his	abstract[37]|abstract[106]	new[37]|new[106]	coref|coref	34-7[37_38]|35-2[106_107]
+34-5	_	friends	abstract[106]	new[106]	_	_
 34-6	_	had	_	_	_	_
 34-7	_	he	abstract[38]	new[38]	coref	36-2[38_39]
 34-8	_	lost	_	_	_	_
@@ -656,12 +656,12 @@
 
 #Text=Had they died fast or were they now suffering a fate far worse . . ?
 35-1	_	Had	_	_	_	_
-35-2	_	they	abstract[108]	new[108]	coref	35-7[108_109]
+35-2	_	they	abstract[107]	new[107]	coref	35-7[107_108]
 35-3	_	died	_	_	_	_
 35-4	_	fast	_	_	_	_
 35-5	_	or	_	_	_	_
 35-6	_	were	_	_	_	_
-35-7	_	they	abstract[109]	new[109]	_	_
+35-7	_	they	abstract[108]	new[108]	_	_
 35-8	_	now	_	_	_	_
 35-9	_	suffering	_	_	_	_
 35-10	_	a	_	_	_	_
@@ -674,17 +674,17 @@
 
 #Text=As his CO continued to pump them up for the critical battle , Chalmers ' head was filled with visions of row upon row of black - clad soldiers .
 36-1	_	As	_	_	_	_
-36-2	_	his	abstract[39]|abstract[111]	new[39]|new[111]	coref	36-14[39_40]
-36-3	_	CO	abstract[111]	new[111]	_	_
+36-2	_	his	abstract[39]|abstract[110]	new[39]|new[110]	coref	36-14[39_40]
+36-3	_	CO	abstract[110]	new[110]	_	_
 36-4	_	continued	_	_	_	_
 36-5	_	to	_	_	_	_
 36-6	_	pump	_	_	_	_
-36-7	_	them	abstract[113]	new[113]	coref	47-10[113_114]
+36-7	_	them	abstract[112]	new[112]	coref	47-10[112_113]
 36-8	_	up	_	_	_	_
 36-9	_	for	_	_	_	_
-36-10	_	the	abstract[116]	new[116]	_	_
-36-11	_	critical	abstract[116]	new[116]	_	_
-36-12	_	battle	abstract[116]	new[116]	_	_
+36-10	_	the	abstract[115]	new[115]	_	_
+36-11	_	critical	abstract[115]	new[115]	_	_
+36-12	_	battle	abstract[115]	new[115]	_	_
 36-13	_	,	_	_	_	_
 36-14	_	Chalmers	abstract[40]	new[40]	coref	39-8[40_41]
 36-15	_	'	abstract[40]	new[40]	_	_
@@ -698,10 +698,10 @@
 36-23	_	upon	_	_	_	_
 36-24	_	row	_	_	_	_
 36-25	_	of	_	_	_	_
-36-26	_	black	abstract[117]	new[117]	coref	37-6[117_118]
-36-27	_	-	abstract[117]	new[117]	_	_
-36-28	_	clad	abstract[117]	new[117]	_	_
-36-29	_	soldiers	abstract[117]	new[117]	_	_
+36-26	_	black	abstract[116]	new[116]	coref	37-6[116_117]
+36-27	_	-	abstract[116]	new[116]	_	_
+36-28	_	clad	abstract[116]	new[116]	_	_
+36-29	_	soldiers	abstract[116]	new[116]	_	_
 36-30	_	.	_	_	_	_
 
 #Text=A white emblem resided on their right arms and left breast , an all - encompassing full black helmet upon their heads , its smooth form negating all facial features .
@@ -710,25 +710,25 @@
 37-3	_	emblem	_	_	_	_
 37-4	_	resided	_	_	_	_
 37-5	_	on	_	_	_	_
-37-6	_	their	abstract[118]	new[118]	coref	37-21[118_119]
+37-6	_	their	abstract[117]	new[117]	coref	37-21[117_118]
 37-7	_	right	_	_	_	_
 37-8	_	arms	_	_	_	_
 37-9	_	and	_	_	_	_
 37-10	_	left	_	_	_	_
 37-11	_	breast	_	_	_	_
 37-12	_	,	_	_	_	_
-37-13	_	an	abstract[121]	new[121]	coref	37-24[121_122]
-37-14	_	all	abstract[121]	new[121]	_	_
-37-15	_	-	abstract[121]	new[121]	_	_
-37-16	_	encompassing	abstract[121]	new[121]	_	_
-37-17	_	full	abstract[121]	new[121]	_	_
-37-18	_	black	abstract[121]	new[121]	_	_
-37-19	_	helmet	abstract[121]	new[121]	_	_
-37-20	_	upon	abstract[121]	new[121]	_	_
-37-21	_	their	abstract[119]|abstract[121]	new[119]|new[121]	coref	39-3[119_120]
-37-22	_	heads	abstract[121]	new[121]	_	_
+37-13	_	an	abstract[120]	new[120]	coref	37-24[120_121]
+37-14	_	all	abstract[120]	new[120]	_	_
+37-15	_	-	abstract[120]	new[120]	_	_
+37-16	_	encompassing	abstract[120]	new[120]	_	_
+37-17	_	full	abstract[120]	new[120]	_	_
+37-18	_	black	abstract[120]	new[120]	_	_
+37-19	_	helmet	abstract[120]	new[120]	_	_
+37-20	_	upon	abstract[120]	new[120]	_	_
+37-21	_	their	abstract[118]|abstract[120]	new[118]|new[120]	coref	39-3[118_119]
+37-22	_	heads	abstract[120]	new[120]	_	_
 37-23	_	,	_	_	_	_
-37-24	_	its	abstract[122]	new[122]	_	_
+37-24	_	its	abstract[121]	new[121]	_	_
 37-25	_	smooth	_	_	_	_
 37-26	_	form	_	_	_	_
 37-27	_	negating	_	_	_	_
@@ -756,11 +756,11 @@
 38-16	_	all	_	_	_	_
 38-17	_	around	_	_	_	_
 38-18	_	,	_	_	_	_
-38-19	_	the	abstract[123]	new[123]	coref	38-23[123_124]
-38-20	_	“	abstract[123]	new[123]	_	_
-38-21	_	eyes	abstract[123]	new[123]	_	_
-38-22	_	”	abstract[123]	new[123]	_	_
-38-23	_	themselves	abstract[124]	new[124]	_	_
+38-19	_	the	abstract[122]	new[122]	coref	38-23[122_123]
+38-20	_	“	abstract[122]	new[122]	_	_
+38-21	_	eyes	abstract[122]	new[122]	_	_
+38-22	_	”	abstract[122]	new[122]	_	_
+38-23	_	themselves	abstract[123]	new[123]	_	_
 38-24	_	slanted	_	_	_	_
 38-25	_	into	_	_	_	_
 38-26	_	a	_	_	_	_
@@ -773,8 +773,8 @@
 #Text=One of the soldiers turned to face him , the ruby - like eyes seeming to pierce his very soul .
 39-1	_	One	_	_	_	_
 39-2	_	of	_	_	_	_
-39-3	_	the	abstract[120]	new[120]	_	_
-39-4	_	soldiers	abstract[120]	new[120]	_	_
+39-3	_	the	abstract[119]	new[119]	_	_
+39-4	_	soldiers	abstract[119]	new[119]	_	_
 39-5	_	turned	_	_	_	_
 39-6	_	to	_	_	_	_
 39-7	_	face	_	_	_	_
@@ -800,11 +800,11 @@
 40-4	_	hand	_	_	_	_
 40-5	_	tighten	_	_	_	_
 40-6	_	on	_	_	_	_
-40-7	_	the	abstract[131]	new[131]	coref	51-11[131_132]
-40-8	_	flight	abstract[131]	new[131]	_	_
-40-9	_	helmet	abstract[131]	new[131]	_	_
-40-10	_	he	abstract[45]|abstract[131]	new[45]|new[131]	coref	42-4[45_46]
-40-11	_	held	abstract[131]	new[131]	_	_
+40-7	_	the	abstract[130]	new[130]	coref	51-11[130_131]
+40-8	_	flight	abstract[130]	new[130]	_	_
+40-9	_	helmet	abstract[130]	new[130]	_	_
+40-10	_	he	abstract[45]|abstract[130]	new[45]|new[130]	coref	42-4[45_46]
+40-11	_	held	abstract[130]	new[130]	_	_
 40-12	_	,	_	_	_	_
 40-13	_	swallowing	_	_	_	_
 40-14	_	hard	_	_	_	_
@@ -833,9 +833,9 @@
 41-20	_	sounds	_	_	_	_
 41-21	_	that	_	_	_	_
 41-22	_	filled	_	_	_	_
-41-23	_	the	abstract[86]	new[86]	_	_
-41-24	_	flight	abstract[86]	new[86]	_	_
-41-25	_	deck	abstract[86]	new[86]	_	_
+41-23	_	the	abstract[85]	new[85]	_	_
+41-24	_	flight	abstract[85]	new[85]	_	_
+41-25	_	deck	abstract[85]	new[85]	_	_
 41-26	_	.	_	_	_	_
 
 #Text=Feet moved and Chalmers felt his stomach lurch .
@@ -850,8 +850,8 @@
 42-9	_	.	_	_	_	_
 
 #Text=His name would be called soon .
-43-1	_	His	abstract[48]|abstract[129]	new[48]|new[129]	coref|coref	44-1[48_49]|50-5[129_130]
-43-2	_	name	abstract[129]	new[129]	_	_
+43-1	_	His	abstract[48]|abstract[128]	new[48]|new[128]	coref|coref	44-1[48_49]|50-5[128_129]
+43-2	_	name	abstract[128]	new[128]	_	_
 43-3	_	would	_	_	_	_
 43-4	_	be	_	_	_	_
 43-5	_	called	_	_	_	_
@@ -869,13 +869,13 @@
 
 #Text=If the Empire could not stop the Enemy before , what hope did they have now ?
 45-1	_	If	_	_	_	_
-45-2	_	the	abstract[95]	new[95]	_	_
-45-3	_	Empire	abstract[95]	new[95]	_	_
+45-2	_	the	abstract[94]	new[94]	_	_
+45-3	_	Empire	abstract[94]	new[94]	_	_
 45-4	_	could	_	_	_	_
 45-5	_	not	_	_	_	_
 45-6	_	stop	_	_	_	_
-45-7	_	the	abstract[103]	new[103]	coref	46-1[103_104]
-45-8	_	Enemy	abstract[103]	new[103]	_	_
+45-7	_	the	abstract[102]	new[102]	coref	46-1[102_103]
+45-8	_	Enemy	abstract[102]	new[102]	_	_
 45-9	_	before	_	_	_	_
 45-10	_	,	_	_	_	_
 45-11	_	what	_	_	_	_
@@ -887,20 +887,20 @@
 45-17	_	?	_	_	_	_
 
 #Text=The Enemy 's power had grown exponentially and they had crushed everything in their path with harrowing little effort .
-46-1	_	The	abstract[104]	new[104]	coref	46-9[104_105]
-46-2	_	Enemy	abstract[104]	new[104]	_	_
-46-3	_	's	abstract[104]	new[104]	_	_
+46-1	_	The	abstract[103]	new[103]	coref	46-9[103_104]
+46-2	_	Enemy	abstract[103]	new[103]	_	_
+46-3	_	's	abstract[103]	new[103]	_	_
 46-4	_	power	_	_	_	_
 46-5	_	had	_	_	_	_
 46-6	_	grown	_	_	_	_
 46-7	_	exponentially	_	_	_	_
 46-8	_	and	_	_	_	_
-46-9	_	they	abstract[105]	new[105]	coref	46-14[105_106]
+46-9	_	they	abstract[104]	new[104]	coref	46-14[104_105]
 46-10	_	had	_	_	_	_
 46-11	_	crushed	_	_	_	_
 46-12	_	everything	_	_	_	_
 46-13	_	in	_	_	_	_
-46-14	_	their	abstract[106]	new[106]	_	_
+46-14	_	their	abstract[105]	new[105]	_	_
 46-15	_	path	_	_	_	_
 46-16	_	with	_	_	_	_
 46-17	_	harrowing	_	_	_	_
@@ -915,20 +915,20 @@
 47-4	_	forced	_	_	_	_
 47-5	_	to	_	_	_	_
 47-6	_	accept	_	_	_	_
-47-7	_	the	abstract[125]	new[125]	coref	47-10[125_126]
-47-8	_	truth	abstract[125]	new[125]	_	_
+47-7	_	the	abstract[124]	new[124]	coref	47-10[124_125]
+47-8	_	truth	abstract[124]	new[124]	_	_
 47-9	_	:	_	_	_	_
-47-10	_	they	abstract[114]|abstract[126]	new[114]|new[126]	_	_
-47-11	_	were	abstract[126]	new[126]	_	_
-47-12	_	all	abstract[126]	new[126]	_	_
-47-13	_	that	abstract[126]	new[126]	_	_
-47-14	_	was	abstract[126]	new[126]	_	_
-47-15	_	left	abstract[126]	new[126]	_	_
-47-16	_	of	abstract[126]	new[126]	_	_
-47-17	_	the	abstract[126]|abstract[128]	new[126]|new[128]	_	_
-47-18	_	Imperial	abstract[126]|abstract[128]	new[126]|new[128]	_	_
-47-19	_	Naval	abstract[126]|abstract[128]	new[126]|new[128]	_	_
-47-20	_	Forces	abstract[126]|abstract[128]	new[126]|new[128]	_	_
+47-10	_	they	abstract[113]|abstract[125]	new[113]|new[125]	_	_
+47-11	_	were	abstract[125]	new[125]	_	_
+47-12	_	all	abstract[125]	new[125]	_	_
+47-13	_	that	abstract[125]	new[125]	_	_
+47-14	_	was	abstract[125]	new[125]	_	_
+47-15	_	left	abstract[125]	new[125]	_	_
+47-16	_	of	abstract[125]	new[125]	_	_
+47-17	_	the	abstract[125]|abstract[127]	new[125]|new[127]	_	_
+47-18	_	Imperial	abstract[125]|abstract[127]	new[125]|new[127]	_	_
+47-19	_	Naval	abstract[125]|abstract[127]	new[125]|new[127]	_	_
+47-20	_	Forces	abstract[125]|abstract[127]	new[125]|new[127]	_	_
 47-21	_	.	_	_	_	_
 
 #Text=This was a battle that could not be won ; not now , not ever .
@@ -971,8 +971,8 @@
 50-2	_	the	_	_	_	_
 50-3	_	sound	_	_	_	_
 50-4	_	of	_	_	_	_
-50-5	_	his	abstract[52]|abstract[130]	new[52]|new[130]	coref	50-8[52_53]
-50-6	_	name	abstract[130]	new[130]	_	_
+50-5	_	his	abstract[52]|abstract[129]	new[52]|new[129]	coref	50-8[52_53]
+50-6	_	name	abstract[129]	new[129]	_	_
 50-7	_	,	_	_	_	_
 50-8	_	Chalmers	abstract[53]	new[53]	coref	50-10[53_54]
 50-9	_	felt	_	_	_	_
@@ -998,22 +998,22 @@
 51-2	_	ran	_	_	_	_
 51-3	_	over	_	_	_	_
 51-4	_	to	_	_	_	_
-51-5	_	the	abstract[76]	new[76]	coref	53-4[76_77]
-51-6	_	waiting	abstract[76]	new[76]	_	_
-51-7	_	starfighter	abstract[76]	new[76]	_	_
+51-5	_	the	abstract[75]	new[75]	coref	53-4[75_76]
+51-6	_	waiting	abstract[75]	new[75]	_	_
+51-7	_	starfighter	abstract[75]	new[75]	_	_
 51-8	_	,	_	_	_	_
 51-9	_	threw	_	_	_	_
 51-10	_	on	_	_	_	_
-51-11	_	his	abstract[58]|abstract[132]	new[58]|new[132]	coref	52-5[58_59]
-51-12	_	helmet	abstract[132]	new[132]	_	_
+51-11	_	his	abstract[58]|abstract[131]	new[58]|new[131]	coref	52-5[58_59]
+51-12	_	helmet	abstract[131]	new[131]	_	_
 51-13	_	and	_	_	_	_
 51-14	_	begun	_	_	_	_
 51-15	_	ascending	_	_	_	_
 51-16	_	the	_	_	_	_
 51-17	_	ladder	_	_	_	_
 51-18	_	into	_	_	_	_
-51-19	_	the	abstract[134]	new[134]	_	_
-51-20	_	cockpit	abstract[134]	new[134]	_	_
+51-19	_	the	abstract[133]	new[133]	_	_
+51-20	_	cockpit	abstract[133]	new[133]	_	_
 51-21	_	.	_	_	_	_
 
 #Text=Zombie - like he sank down into the seat , watching as if from outside his body as his hands buckled him in , his fingers flip switches , press buttons , acknowledge questions and confirmations on the screens before him .
@@ -1035,8 +1035,8 @@
 52-16	_	his	abstract[60]	new[60]	coref	52-20[60_61]
 52-17	_	body	_	_	_	_
 52-18	_	as	_	_	_	_
-52-19	_	his	abstract[61]|abstract[136]	new[61]|new[136]	coref	52-23[61_62]
-52-20	_	hands	abstract[136]	new[136]	_	_
+52-19	_	his	abstract[61]|abstract[135]	new[61]|new[135]	coref	52-23[61_62]
+52-20	_	hands	abstract[135]	new[135]	_	_
 52-21	_	buckled	_	_	_	_
 52-22	_	him	abstract[62]	new[62]	coref	52-26[62_63]
 52-23	_	in	_	_	_	_
@@ -1064,13 +1064,13 @@
 53-1	_	Moments	_	_	_	_
 53-2	_	later	_	_	_	_
 53-3	_	,	_	_	_	_
-53-4	_	his	abstract[65]|abstract[77]	new[65]|new[77]	coref	53-14[65_66]
-53-5	_	craft	abstract[77]	new[77]	_	_
+53-4	_	his	abstract[65]|abstract[76]	new[65]|new[76]	coref	53-14[65_66]
+53-5	_	craft	abstract[76]	new[76]	_	_
 53-6	_	was	_	_	_	_
 53-7	_	taxied	_	_	_	_
 53-8	_	to	_	_	_	_
-53-9	_	the	abstract[138]	new[138]	_	_
-53-10	_	catapult	abstract[138]	new[138]	_	_
+53-9	_	the	abstract[137]	new[137]	_	_
+53-10	_	catapult	abstract[137]	new[137]	_	_
 53-11	_	and	_	_	_	_
 53-12	_	before	_	_	_	_
 53-13	_	long	_	_	_	_
@@ -1094,7 +1094,7 @@
 54-2	_	that	_	_	_	_
 54-3	_	moment	_	_	_	_
 54-4	_	,	_	_	_	_
-54-5	_	his	abstract[68]	new[68]	coref	55-1[68_69]
+54-5	_	his	abstract[68]	new[68]	_	_
 54-6	_	worst	_	_	_	_
 54-7	_	fears	_	_	_	_
 54-8	_	had	_	_	_	_
@@ -1109,18 +1109,37 @@
 54-17	_	exceeded	_	_	_	_
 54-18	_	.	_	_	_	_
 
-#Text=This writer sat at a bar by the waters of Lake Geneva .
-55-1	_	This	abstract[69]	new[69]	_	_
-55-2	_	writer	abstract[69]	new[69]	_	_
-55-3	_	sat	_	_	_	_
-55-4	_	at	_	_	_	_
-55-5	_	a	_	_	_	_
-55-6	_	bar	_	_	_	_
-55-7	_	by	_	_	_	_
-55-8	_	the	_	_	_	_
-55-9	_	waters	_	_	_	_
-55-10	_	of	_	_	_	_
-55-11	_	Lake	_	_	_	_
-55-12	_	Geneva	_	_	_	_
-55-13	_	.	_	_	_	_
+#Text=There is not much we can say about the small islands of the French East Indies . One can imagine the joy that a language learned from a stranger can bring .
+55-1	_	There	_	_	_	_
+55-2	_	is	_	_	_	_
+55-3	_	not	_	_	_	_
+55-4	_	much	_	_	_	_
+55-5	_	we	_	_	_	_
+55-6	_	can	_	_	_	_
+55-7	_	say	_	_	_	_
+55-8	_	about	_	_	_	_
+55-9	_	the	_	_	_	_
+55-10	_	small	_	_	_	_
+55-11	_	islands	_	_	_	_
+55-12	_	of	_	_	_	_
+55-13	_	the	_	_	_	_
+55-14	_	French	_	_	_	_
+55-15	_	East	_	_	_	_
+55-16	_	Indies	_	_	_	_
+55-17	_	.	_	_	_	_
+55-18	_	One	_	_	_	_
+55-19	_	can	_	_	_	_
+55-20	_	imagine	_	_	_	_
+55-21	_	the	_	_	_	_
+55-22	_	joy	_	_	_	_
+55-23	_	that	_	_	_	_
+55-24	_	a	_	_	_	_
+55-25	_	language	_	_	_	_
+55-26	_	learned	_	_	_	_
+55-27	_	from	_	_	_	_
+55-28	_	a	_	_	_	_
+55-29	_	stranger	_	_	_	_
+55-30	_	can	_	_	_	_
+55-31	_	bring	_	_	_	_
+55-32	_	.	_	_	_	_
 

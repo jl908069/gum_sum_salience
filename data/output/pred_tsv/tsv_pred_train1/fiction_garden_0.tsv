@@ -537,7 +537,7 @@
 24-6	_	rocks	_	_	_	_
 24-7	_	surrounded	_	_	_	_
 24-8	_	by	_	_	_	_
-24-9	_	sea	abstract[94]	new[94]	coref	33-7[94_95]
+24-9	_	sea	abstract[95]	new[95]	coref	33-7[95_96]
 24-10	_	with	_	_	_	_
 24-11	_	mermaids	abstract[46]	new[46]	coref	24-17[46_47]
 24-12	_	swimming	_	_	_	_
@@ -573,8 +573,8 @@
 25-5	_	they	abstract[50]	new[50]	coref	25-8[50_51]
 25-6	_	sang	_	_	_	_
 25-7	_	,	_	_	_	_
-25-8	_	their	abstract[51]|abstract[75]	new[51]|new[75]	coref|coref	25-25[51_52]|28-23[75_76]
-25-9	_	voices	abstract[75]	new[75]	_	_
+25-8	_	their	abstract[51]|abstract[76]	new[51]|new[76]	coref|coref	25-25[51_52]|28-23[76_77]
+25-9	_	voices	abstract[76]	new[76]	_	_
 25-10	_	born	_	_	_	_
 25-11	_	on	_	_	_	_
 25-12	_	the	_	_	_	_
@@ -659,8 +659,8 @@
 28-20	_	coming	_	_	_	_
 28-21	_	,	_	_	_	_
 28-22	_	until	_	_	_	_
-28-23	_	their	abstract[58]|abstract[76]	new[58]|new[76]	_	_
-28-24	_	voices	abstract[76]	new[76]	_	_
+28-23	_	their	abstract[58]|abstract[77]	new[58]|new[77]	_	_
+28-24	_	voices	abstract[77]	new[77]	_	_
 28-25	_	were	_	_	_	_
 28-26	_	lost	_	_	_	_
 28-27	_	in	_	_	_	_
@@ -675,25 +675,25 @@
 28-36	_	.	_	_	_	_
 
 #Text=A great whiskered head arose , then a belly , wet and sleek , long enough to wrap itself twice around the world .
-29-1	_	A	abstract[96]	new[96]	coref	34-7[96_97]
-29-2	_	great	abstract[96]	new[96]	_	_
-29-3	_	whiskered	abstract[96]	new[96]	_	_
-29-4	_	head	abstract[96]	new[96]	_	_
+29-1	_	A	abstract[97]	new[97]	coref	34-7[97_98]
+29-2	_	great	abstract[97]	new[97]	_	_
+29-3	_	whiskered	abstract[97]	new[97]	_	_
+29-4	_	head	abstract[97]	new[97]	_	_
 29-5	_	arose	_	_	_	_
 29-6	_	,	_	_	_	_
 29-7	_	then	_	_	_	_
-29-8	_	a	abstract[77]	new[77]	coref	29-19[77_78]
-29-9	_	belly	abstract[77]	new[77]	_	_
-29-10	_	,	abstract[77]	new[77]	_	_
-29-11	_	wet	abstract[77]	new[77]	_	_
-29-12	_	and	abstract[77]	new[77]	_	_
-29-13	_	sleek	abstract[77]	new[77]	_	_
+29-8	_	a	abstract[78]	new[78]	coref	29-19[78_79]
+29-9	_	belly	abstract[78]	new[78]	_	_
+29-10	_	,	abstract[78]	new[78]	_	_
+29-11	_	wet	abstract[78]	new[78]	_	_
+29-12	_	and	abstract[78]	new[78]	_	_
+29-13	_	sleek	abstract[78]	new[78]	_	_
 29-14	_	,	_	_	_	_
 29-15	_	long	_	_	_	_
 29-16	_	enough	_	_	_	_
 29-17	_	to	_	_	_	_
 29-18	_	wrap	_	_	_	_
-29-19	_	itself	abstract[78]	new[78]	_	_
+29-19	_	itself	abstract[79]	new[79]	_	_
 29-20	_	twice	_	_	_	_
 29-21	_	around	_	_	_	_
 29-22	_	the	_	_	_	_
@@ -722,16 +722,16 @@
 30-19	_	.	_	_	_	_
 
 #Text=We pulled off wet socks and shoes , letting them float away on the tide , before the great worm turned and the wake engulfed the creaking , cracking house .
-31-1	_	We	abstract[81]	new[81]	coref	32-1[81_82]
+31-1	_	We	abstract[82]	new[82]	coref	32-1[82_83]
 31-2	_	pulled	_	_	_	_
 31-3	_	off	_	_	_	_
-31-4	_	wet	abstract[79]	new[79]	coref	31-10[79_80]
-31-5	_	socks	abstract[79]	new[79]	_	_
-31-6	_	and	abstract[79]	new[79]	_	_
-31-7	_	shoes	abstract[79]	new[79]	_	_
+31-4	_	wet	abstract[80]	new[80]	coref	31-10[80_81]
+31-5	_	socks	abstract[80]	new[80]	_	_
+31-6	_	and	abstract[80]	new[80]	_	_
+31-7	_	shoes	abstract[80]	new[80]	_	_
 31-8	_	,	_	_	_	_
 31-9	_	letting	_	_	_	_
-31-10	_	them	abstract[80]	new[80]	_	_
+31-10	_	them	abstract[81]	new[81]	_	_
 31-11	_	float	_	_	_	_
 31-12	_	away	_	_	_	_
 31-13	_	on	_	_	_	_
@@ -755,7 +755,7 @@
 31-31	_	.	_	_	_	_
 
 #Text=We clambered up onto the roof , sliding on the tiles and clinging to chimney stacks , sheltering our eyes from the driving downpour .
-32-1	_	We	abstract[82]	new[82]	coref	32-19[82_83]
+32-1	_	We	abstract[83]	new[83]	coref	32-19[83_84]
 32-2	_	clambered	_	_	_	_
 32-3	_	up	_	_	_	_
 32-4	_	onto	_	_	_	_
@@ -769,12 +769,12 @@
 32-12	_	and	_	_	_	_
 32-13	_	clinging	_	_	_	_
 32-14	_	to	_	_	_	_
-32-15	_	chimney	abstract[98]	new[98]	coref	35-1[98_99]
-32-16	_	stacks	abstract[98]	new[98]	_	_
+32-15	_	chimney	abstract[99]	new[99]	coref	35-1[99_100]
+32-16	_	stacks	abstract[99]	new[99]	_	_
 32-17	_	,	_	_	_	_
 32-18	_	sheltering	_	_	_	_
-32-19	_	our	abstract[83]|abstract[100]	new[83]|new[100]	coref|coref	35-7[83_84]|38-10[100_101]
-32-20	_	eyes	abstract[100]	new[100]	_	_
+32-19	_	our	abstract[84]|abstract[101]	new[84]|new[101]	coref|coref	35-7[84_85]|38-10[101_102]
+32-20	_	eyes	abstract[101]	new[101]	_	_
 32-21	_	from	_	_	_	_
 32-22	_	the	abstract[64]	new[64]	coref	36-4[64_65]
 32-23	_	driving	abstract[64]	new[64]	_	_
@@ -788,9 +788,9 @@
 33-4	_	black	_	_	_	_
 33-5	_	,	_	_	_	_
 33-6	_	and	_	_	_	_
-33-7	_	the	abstract[95]	new[95]	_	_
-33-8	_	stormy	abstract[95]	new[95]	_	_
-33-9	_	sea	abstract[95]	new[95]	_	_
+33-7	_	the	abstract[96]	new[96]	_	_
+33-8	_	stormy	abstract[96]	new[96]	_	_
+33-9	_	sea	abstract[96]	new[96]	_	_
 33-10	_	all	_	_	_	_
 33-11	_	the	_	_	_	_
 33-12	_	deepest	_	_	_	_
@@ -820,12 +820,12 @@
 34-4	_	making	_	_	_	_
 34-5	_	way	_	_	_	_
 34-6	_	for	_	_	_	_
-34-7	_	the	abstract[97]	new[97]	_	_
-34-8	_	gnarled	abstract[97]	new[97]	_	_
-34-9	_	head	abstract[97]	new[97]	_	_
-34-10	_	of	abstract[97]	new[97]	_	_
-34-11	_	a	abstract[97]	new[97]	_	_
-34-12	_	whale	abstract[97]	new[97]	_	_
+34-7	_	the	abstract[98]	new[98]	_	_
+34-8	_	gnarled	abstract[98]	new[98]	_	_
+34-9	_	head	abstract[98]	new[98]	_	_
+34-10	_	of	abstract[98]	new[98]	_	_
+34-11	_	a	abstract[98]	new[98]	_	_
+34-12	_	whale	abstract[98]	new[98]	_	_
 34-13	_	,	_	_	_	_
 34-14	_	spouting	_	_	_	_
 34-15	_	water	_	_	_	_
@@ -857,13 +857,13 @@
 34-41	_	.	_	_	_	_
 
 #Text=The chimneys washed away , so we scrambled onto the blue - black back encrusted with barnacles and cockles like stars in a night sky and held on tight as he rode the waves , dipping and blowing , dipping and blowing .
-35-1	_	The	abstract[99]	new[99]	_	_
-35-2	_	chimneys	abstract[99]	new[99]	_	_
+35-1	_	The	abstract[100]	new[100]	_	_
+35-2	_	chimneys	abstract[100]	new[100]	_	_
 35-3	_	washed	_	_	_	_
 35-4	_	away	_	_	_	_
 35-5	_	,	_	_	_	_
 35-6	_	so	_	_	_	_
-35-7	_	we	abstract[84]	new[84]	coref	36-8[84_85]
+35-7	_	we	abstract[85]	new[85]	coref	36-8[85_86]
 35-8	_	scrambled	_	_	_	_
 35-9	_	onto	_	_	_	_
 35-10	_	the	_	_	_	_
@@ -887,7 +887,7 @@
 35-28	_	on	_	_	_	_
 35-29	_	tight	_	_	_	_
 35-30	_	as	_	_	_	_
-35-31	_	he	abstract[104]	new[104]	coref	39-26[104_105]
+35-31	_	he	abstract[105]	new[105]	coref	39-26[105_106]
 35-32	_	rode	_	_	_	_
 35-33	_	the	_	_	_	_
 35-34	_	waves	_	_	_	_
@@ -902,14 +902,14 @@
 35-43	_	.	_	_	_	_
 
 #Text=The wind and the rain tugged at our hair .
-36-1	_	The	abstract[102]	new[102]	coref	38-34[102_103]
-36-2	_	wind	abstract[102]	new[102]	_	_
+36-1	_	The	abstract[103]	new[103]	coref	38-34[103_104]
+36-2	_	wind	abstract[103]	new[103]	_	_
 36-3	_	and	_	_	_	_
 36-4	_	the	abstract[65]	new[65]	_	_
 36-5	_	rain	abstract[65]	new[65]	_	_
 36-6	_	tugged	_	_	_	_
 36-7	_	at	_	_	_	_
-36-8	_	our	abstract[85]	new[85]	coref	38-1[85_86]
+36-8	_	our	abstract[86]	new[86]	coref	38-1[86_87]
 36-9	_	hair	_	_	_	_
 36-10	_	.	_	_	_	_
 
@@ -921,7 +921,7 @@
 37-5	_	.	_	_	_	_
 
 #Text=We heard a fearsome creaking and cracking and before our eyes a great patch of sky peeled away , deeping down in the troughs and riding the crests with torn sails set against the wind .
-38-1	_	We	abstract[86]	new[86]	coref	38-10[86_87]
+38-1	_	We	abstract[87]	new[87]	coref	38-10[87_88]
 38-2	_	heard	_	_	_	_
 38-3	_	a	_	_	_	_
 38-4	_	fearsome	_	_	_	_
@@ -930,8 +930,8 @@
 38-7	_	cracking	_	_	_	_
 38-8	_	and	_	_	_	_
 38-9	_	before	_	_	_	_
-38-10	_	our	abstract[87]|abstract[101]	new[87]|new[101]	coref	41-7[87_88]
-38-11	_	eyes	abstract[101]	new[101]	_	_
+38-10	_	our	abstract[88]|abstract[102]	new[88]|new[102]	coref	41-7[88_89]
+38-11	_	eyes	abstract[102]	new[102]	_	_
 38-12	_	a	_	_	_	_
 38-13	_	great	_	_	_	_
 38-14	_	patch	_	_	_	_
@@ -954,8 +954,8 @@
 38-31	_	sails	_	_	_	_
 38-32	_	set	_	_	_	_
 38-33	_	against	_	_	_	_
-38-34	_	the	abstract[103]	new[103]	_	_
-38-35	_	wind	abstract[103]	new[103]	_	_
+38-34	_	the	abstract[104]	new[104]	_	_
+38-35	_	wind	abstract[104]	new[104]	_	_
 38-36	_	.	_	_	_	_
 
 #Text=It was a galleon with masts like a dead man ’s fingers , tarred timbers groaning and a mermaid sat on the bow as he ship dipped and passed .
@@ -976,14 +976,14 @@
 39-15	_	timbers	_	_	_	_
 39-16	_	groaning	_	_	_	_
 39-17	_	and	_	_	_	_
-39-18	_	a	abstract[107]	new[107]	coref	40-9[107_108]
-39-19	_	mermaid	abstract[107]	new[107]	_	_
+39-18	_	a	abstract[109]	new[109]	coref	40-9[109_110]
+39-19	_	mermaid	abstract[109]	new[109]	_	_
 39-20	_	sat	_	_	_	_
 39-21	_	on	_	_	_	_
 39-22	_	the	_	_	_	_
 39-23	_	bow	_	_	_	_
 39-24	_	as	_	_	_	_
-39-25	_	he	abstract[105]	new[105]	coref	41-12[105_106]
+39-25	_	he	abstract[106]	new[106]	coref	41-12[106_107]
 39-26	_	ship	_	_	_	_
 39-27	_	dipped	_	_	_	_
 39-28	_	and	_	_	_	_
@@ -999,7 +999,7 @@
 40-6	_	is	_	_	_	_
 40-7	_	coming	_	_	_	_
 40-8	_	,	_	_	_	_
-40-9	_	she	abstract[108]	new[108]	_	_
+40-9	_	she	abstract[110]	new[110]	_	_
 40-10	_	sang	_	_	_	_
 40-11	_	out	_	_	_	_
 40-12	_	.	_	_	_	_
@@ -1011,14 +1011,14 @@
 41-4	_	the	_	_	_	_
 41-5	_	wash	_	_	_	_
 41-6	_	hit	_	_	_	_
-41-7	_	us	abstract[88]	new[88]	coref	41-10[88_89]
+41-7	_	us	abstract[89]	new[89]	coref	41-10[89_90]
 41-8	_	,	_	_	_	_
 41-9	_	prising	_	_	_	_
-41-10	_	us	abstract[89]	new[89]	coref	41-30[89_90]
+41-10	_	us	abstract[90]	new[90]	coref	41-30[90_91]
 41-11	_	from	_	_	_	_
-41-12	_	the	abstract[106]	new[106]	_	_
-41-13	_	whale	abstract[106]	new[106]	_	_
-41-14	_	’s	abstract[106]	new[106]	_	_
+41-12	_	the	abstract[107]	new[107]	coref	45-20[107_108]
+41-13	_	whale	abstract[107]	new[107]	_	_
+41-14	_	’s	abstract[107]	new[107]	_	_
 41-15	_	speckled	_	_	_	_
 41-16	_	back	_	_	_	_
 41-17	_	and	_	_	_	_
@@ -1034,7 +1034,7 @@
 41-27	_	knotted	_	_	_	_
 41-28	_	rope	_	_	_	_
 41-29	_	and	_	_	_	_
-41-30	_	we	abstract[90]	new[90]	coref	42-5[90_91]
+41-30	_	we	abstract[91]	new[91]	coref	42-5[91_92]
 41-31	_	hung	_	_	_	_
 41-32	_	on	_	_	_	_
 41-33	_	for	_	_	_	_
@@ -1047,7 +1047,7 @@
 42-2	_	singing	_	_	_	_
 42-3	_	sailors	_	_	_	_
 42-4	_	hauled	_	_	_	_
-42-5	_	us	abstract[91]	new[91]	coref	43-2[91_92]
+42-5	_	us	abstract[92]	new[92]	coref	43-2[92_93]
 42-6	_	aboard	_	_	_	_
 42-7	_	chanting	_	_	_	_
 42-8	_	,	_	_	_	_
@@ -1068,7 +1068,7 @@
 
 #Text=And we fell onto the deck like fish bursting from a net .
 43-1	_	And	_	_	_	_
-43-2	_	we	abstract[92]	new[92]	coref	44-5[92_93]
+43-2	_	we	abstract[93]	new[93]	coref	44-5[93_94]
 43-3	_	fell	_	_	_	_
 43-4	_	onto	_	_	_	_
 43-5	_	the	_	_	_	_
@@ -1082,11 +1082,11 @@
 43-13	_	.	_	_	_	_
 
 #Text=The Captain stood above us dressed in jewels and finery from a thousand pillagings .
-44-1	_	The	abstract[74]	new[74]	_	_
+44-1	_	The	abstract[74]	new[74]	coref	45-35[74_75]
 44-2	_	Captain	abstract[74]	new[74]	_	_
 44-3	_	stood	_	_	_	_
 44-4	_	above	_	_	_	_
-44-5	_	us	abstract[93]	new[93]	_	_
+44-5	_	us	abstract[94]	new[94]	_	_
 44-6	_	dressed	_	_	_	_
 44-7	_	in	_	_	_	_
 44-8	_	jewels	_	_	_	_
@@ -1098,21 +1098,45 @@
 44-14	_	pillagings	_	_	_	_
 44-15	_	.	_	_	_	_
 
-#Text=I ’m having a sleepless night and I hope to make it home before noon .
-45-1	_	I	abstract[109]	new[109]	coref	45-8[109_110]
-45-2	_	’m	_	_	_	_
-45-3	_	having	_	_	_	_
-45-4	_	a	_	_	_	_
-45-5	_	sleepless	_	_	_	_
-45-6	_	night	_	_	_	_
+#Text=After torrential rain floods their house and garden , some people are swept away to sea amid mermaids and a whale , and climb aboard a galleon with singing sailors , where they meet the captain of the ship .
+45-1	_	After	_	_	_	_
+45-2	_	torrential	_	_	_	_
+45-3	_	rain	_	_	_	_
+45-4	_	floods	_	_	_	_
+45-5	_	their	_	_	_	_
+45-6	_	house	_	_	_	_
 45-7	_	and	_	_	_	_
-45-8	_	I	abstract[110]	new[110]	_	_
-45-9	_	hope	_	_	_	_
-45-10	_	to	_	_	_	_
-45-11	_	make	_	_	_	_
-45-12	_	it	_	_	_	_
-45-13	_	home	_	_	_	_
-45-14	_	before	_	_	_	_
-45-15	_	noon	_	_	_	_
-45-16	_	.	_	_	_	_
+45-8	_	garden	_	_	_	_
+45-9	_	,	_	_	_	_
+45-10	_	some	abstract[111]	new[111]	coref	45-33[111_112]
+45-11	_	people	abstract[111]	new[111]	_	_
+45-12	_	are	_	_	_	_
+45-13	_	swept	_	_	_	_
+45-14	_	away	_	_	_	_
+45-15	_	to	_	_	_	_
+45-16	_	sea	_	_	_	_
+45-17	_	amid	_	_	_	_
+45-18	_	mermaids	_	_	_	_
+45-19	_	and	_	_	_	_
+45-20	_	a	abstract[108]	new[108]	_	_
+45-21	_	whale	abstract[108]	new[108]	_	_
+45-22	_	,	_	_	_	_
+45-23	_	and	_	_	_	_
+45-24	_	climb	_	_	_	_
+45-25	_	aboard	_	_	_	_
+45-26	_	a	_	_	_	_
+45-27	_	galleon	_	_	_	_
+45-28	_	with	_	_	_	_
+45-29	_	singing	_	_	_	_
+45-30	_	sailors	_	_	_	_
+45-31	_	,	_	_	_	_
+45-32	_	where	_	_	_	_
+45-33	_	they	abstract[112]	new[112]	_	_
+45-34	_	meet	_	_	_	_
+45-35	_	the	abstract[75]	new[75]	_	_
+45-36	_	captain	abstract[75]	new[75]	_	_
+45-37	_	of	abstract[75]	new[75]	_	_
+45-38	_	the	abstract[75]	new[75]	_	_
+45-39	_	ship	abstract[75]	new[75]	_	_
+45-40	_	.	_	_	_	_
 

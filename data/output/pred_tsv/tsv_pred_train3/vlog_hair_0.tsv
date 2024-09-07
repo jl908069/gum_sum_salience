@@ -38,20 +38,20 @@
 3-18	_	you	_	_	_	_
 3-19	_	guys	_	_	_	_
 3-20	_	about	_	_	_	_
-3-21	_	number	abstract[77]	new[77]	coref	11-2[77_78]
-3-22	_	one	abstract[77]	new[77]	_	_
-3-23	_	:	abstract[77]	new[77]	_	_
-3-24	_	my	abstract[5]|abstract[77]	new[5]|new[77]	coref	4-1[5_6]
-3-25	_	new	abstract[77]	new[77]	_	_
-3-26	_	product	abstract[77]	new[77]	_	_
-3-27	_	line	abstract[77]	new[77]	_	_
+3-21	_	number	abstract[83]	new[83]	coref	11-2[83_84]
+3-22	_	one	abstract[83]	new[83]	_	_
+3-23	_	:	abstract[83]	new[83]	_	_
+3-24	_	my	abstract[5]|abstract[83]	new[5]|new[83]	coref	4-1[5_6]
+3-25	_	new	abstract[83]	new[83]	_	_
+3-26	_	product	abstract[83]	new[83]	_	_
+3-27	_	line	abstract[83]	new[83]	_	_
 3-28	_	.	_	_	_	_
 
 #Text=I have new products out , and I 'm gon na be showing you guys today exactly how I 'm going to be using my products , and I 'm also going to be showing you guys this extreme moisture bomb routine that you can do , um , for wintertime because it is getting a little bit colder outside .
 4-1	_	I	abstract[6]	new[6]	coref	4-8[6_7]
 4-2	_	have	_	_	_	_
-4-3	_	new	abstract[66]	new[66]	coref	4-25[66_67]
-4-4	_	products	abstract[66]	new[66]	_	_
+4-3	_	new	abstract[72]	new[72]	coref	4-25[72_73]
+4-4	_	products	abstract[72]	new[72]	_	_
 4-5	_	out	_	_	_	_
 4-6	_	,	_	_	_	_
 4-7	_	and	_	_	_	_
@@ -72,8 +72,8 @@
 4-22	_	to	_	_	_	_
 4-23	_	be	_	_	_	_
 4-24	_	using	_	_	_	_
-4-25	_	my	abstract[9]|abstract[67]	new[9]|new[67]	coref|coref	4-29[9_10]|9-23[67_68]
-4-26	_	products	abstract[67]	new[67]	_	_
+4-25	_	my	abstract[9]|abstract[73]	new[9]|new[73]	coref|coref	4-29[9_10]|9-23[73_74]
+4-26	_	products	abstract[73]	new[73]	_	_
 4-27	_	,	_	_	_	_
 4-28	_	and	_	_	_	_
 4-29	_	I	abstract[10]	new[10]	coref	6-11[10_11]
@@ -83,15 +83,15 @@
 4-33	_	to	_	_	_	_
 4-34	_	be	_	_	_	_
 4-35	_	showing	_	_	_	_
-4-36	_	you	abstract[70]	new[70]	coref	4-44[70_71]
-4-37	_	guys	abstract[70]	new[70]	_	_
+4-36	_	you	abstract[76]	new[76]	coref	4-44[76_77]
+4-37	_	guys	abstract[76]	new[76]	_	_
 4-38	_	this	_	_	_	_
 4-39	_	extreme	_	_	_	_
 4-40	_	moisture	_	_	_	_
 4-41	_	bomb	_	_	_	_
 4-42	_	routine	_	_	_	_
 4-43	_	that	_	_	_	_
-4-44	_	you	abstract[71]	new[71]	coref	5-4[71_72]
+4-44	_	you	abstract[77]	new[77]	coref	5-4[77_78]
 4-45	_	can	_	_	_	_
 4-46	_	do	_	_	_	_
 4-47	_	,	_	_	_	_
@@ -114,7 +114,7 @@
 5-1	_	Um	_	_	_	_
 5-2	_	,	_	_	_	_
 5-3	_	which	_	_	_	_
-5-4	_	you	abstract[72]	new[72]	coref	5-13[72_73]
+5-4	_	you	abstract[78]	new[78]	coref	5-13[78_79]
 5-5	_	always	_	_	_	_
 5-6	_	want	_	_	_	_
 5-7	_	to	_	_	_	_
@@ -123,8 +123,8 @@
 5-10	_	the	_	_	_	_
 5-11	_	moisture	_	_	_	_
 5-12	_	of	_	_	_	_
-5-13	_	your	abstract[73]|abstract[121]	new[73]|new[121]	coref	26-15[121_122]
-5-14	_	hair	abstract[121]	new[121]	_	_
+5-13	_	your	abstract[79]|abstract[127]	new[79]|new[127]	coref	26-15[127_128]
+5-14	_	hair	abstract[127]	new[127]	_	_
 5-15	_	,	_	_	_	_
 5-16	_	but	_	_	_	_
 5-17	_	the	_	_	_	_
@@ -165,8 +165,8 @@
 6-21	_	,	_	_	_	_
 6-22	_	so	_	_	_	_
 6-23	_	ignore	_	_	_	_
-6-24	_	my	abstract[12]|abstract[74]	new[12]|new[74]	coref|coref	7-1[12_13]|7-3[74_75]
-6-25	_	hair	abstract[74]	new[74]	_	_
+6-24	_	my	abstract[12]|abstract[80]	new[12]|new[80]	coref|coref	7-1[12_13]|7-3[80_81]
+6-25	_	hair	abstract[80]	new[80]	_	_
 6-26	_	right	_	_	_	_
 6-27	_	now	_	_	_	_
 6-28	_	.	_	_	_	_
@@ -174,7 +174,7 @@
 #Text=I know it looks kinda crazy .
 7-1	_	I	abstract[13]	new[13]	coref	8-1[13_14]
 7-2	_	know	_	_	_	_
-7-3	_	it	abstract[75]	new[75]	coref	8-7[75_76]
+7-3	_	it	abstract[81]	new[81]	coref	8-7[81_82]
 7-4	_	looks	_	_	_	_
 7-5	_	kinda	_	_	_	_
 7-6	_	crazy	_	_	_	_
@@ -187,7 +187,7 @@
 8-4	_	got	_	_	_	_
 8-5	_	done	_	_	_	_
 8-6	_	washing	_	_	_	_
-8-7	_	it	abstract[76]	new[76]	_	_
+8-7	_	it	abstract[82]	new[82]	_	_
 8-8	_	.	_	_	_	_
 
 #Text=I 'm gon na tell you guys about that process as well , but first let 's go ahead and get into these products !
@@ -207,14 +207,14 @@
 9-14	_	but	_	_	_	_
 9-15	_	first	_	_	_	_
 9-16	_	let	_	_	_	_
-9-17	_	's	abstract[87]	new[87]	coref	13-21[87_88]
+9-17	_	's	abstract[93]	new[93]	coref	13-21[93_94]
 9-18	_	go	_	_	_	_
 9-19	_	ahead	_	_	_	_
 9-20	_	and	_	_	_	_
 9-21	_	get	_	_	_	_
 9-22	_	into	_	_	_	_
-9-23	_	these	abstract[68]	new[68]	coref	10-12[68_69]
-9-24	_	products	abstract[68]	new[68]	_	_
+9-23	_	these	abstract[74]	new[74]	coref	10-12[74_75]
+9-24	_	products	abstract[74]	new[74]	_	_
 9-25	_	!	_	_	_	_
 
 #Text=I can not believe that I 'm actually showing you guys these products .
@@ -229,15 +229,15 @@
 10-9	_	showing	_	_	_	_
 10-10	_	you	_	_	_	_
 10-11	_	guys	_	_	_	_
-10-12	_	these	abstract[69]	new[69]	_	_
-10-13	_	products	abstract[69]	new[69]	_	_
+10-12	_	these	abstract[75]	new[75]	_	_
+10-13	_	products	abstract[75]	new[75]	_	_
 10-14	_	.	_	_	_	_
 
 #Text=So this product line is the Angelic Coco line , and I have been working on this line since 2019 .
 11-1	_	So	_	_	_	_
-11-2	_	this	abstract[78]	new[78]	coref	11-17[78_79]
-11-3	_	product	abstract[78]	new[78]	_	_
-11-4	_	line	abstract[78]	new[78]	_	_
+11-2	_	this	abstract[84]	new[84]	coref	11-17[84_85]
+11-3	_	product	abstract[84]	new[84]	_	_
+11-4	_	line	abstract[84]	new[84]	_	_
 11-5	_	is	_	_	_	_
 11-6	_	the	_	_	_	_
 11-7	_	Angelic	_	_	_	_
@@ -250,8 +250,8 @@
 11-14	_	been	_	_	_	_
 11-15	_	working	_	_	_	_
 11-16	_	on	_	_	_	_
-11-17	_	this	abstract[79]	new[79]	coref	39-22[79_80]
-11-18	_	line	abstract[79]	new[79]	_	_
+11-17	_	this	abstract[85]	new[85]	coref	39-22[85_86]
+11-18	_	line	abstract[85]	new[85]	_	_
 11-19	_	since	_	_	_	_
 11-20	_	2019	_	_	_	_
 11-21	_	.	_	_	_	_
@@ -266,8 +266,8 @@
 12-7	_	there	_	_	_	_
 12-8	_	's	_	_	_	_
 12-9	_	only	_	_	_	_
-12-10	_	two	abstract[92]	new[92]	coref	13-26[92_93]
-12-11	_	products	abstract[92]	new[92]	_	_
+12-10	_	two	abstract[98]	new[98]	coref	13-26[98_99]
+12-11	_	products	abstract[98]	new[98]	_	_
 12-12	_	,	_	_	_	_
 12-13	_	but	_	_	_	_
 12-14	_	of	_	_	_	_
@@ -301,14 +301,14 @@
 13-18	_	,	_	_	_	_
 13-19	_	but	_	_	_	_
 13-20	_	first	_	_	_	_
-13-21	_	we	abstract[88]	new[88]	coref	50-4[88_89]
+13-21	_	we	abstract[94]	new[94]	coref	50-4[94_95]
 13-22	_	want	_	_	_	_
 13-23	_	to	_	_	_	_
 13-24	_	focus	_	_	_	_
 13-25	_	on	_	_	_	_
-13-26	_	these	abstract[93]	new[93]	coref	14-5[93_94]
-13-27	_	two	abstract[93]	new[93]	_	_
-13-28	_	products	abstract[93]	new[93]	_	_
+13-26	_	these	abstract[99]	new[99]	coref	14-5[99_100]
+13-27	_	two	abstract[99]	new[99]	_	_
+13-28	_	products	abstract[99]	new[99]	_	_
 13-29	_	.	_	_	_	_
 
 #Text=I wanted to get these out to you guys because you guys have been asking for styling products since the beginning , so I 'm so glad to finally have actual styling products that I can , um , you know , present to you guys .
@@ -316,14 +316,14 @@
 14-2	_	wanted	_	_	_	_
 14-3	_	to	_	_	_	_
 14-4	_	get	_	_	_	_
-14-5	_	these	abstract[94]	new[94]	_	_
+14-5	_	these	abstract[100]	new[100]	_	_
 14-6	_	out	_	_	_	_
 14-7	_	to	_	_	_	_
 14-8	_	you	_	_	_	_
 14-9	_	guys	_	_	_	_
 14-10	_	because	_	_	_	_
-14-11	_	you	abstract[95]	new[95]	coref	14-40[95_96]
-14-12	_	guys	abstract[95]	new[95]	_	_
+14-11	_	you	abstract[101]	new[101]	coref	14-40[101_102]
+14-12	_	guys	abstract[101]	new[101]	_	_
 14-13	_	have	_	_	_	_
 14-14	_	been	_	_	_	_
 14-15	_	asking	_	_	_	_
@@ -351,7 +351,7 @@
 14-37	_	,	_	_	_	_
 14-38	_	um	_	_	_	_
 14-39	_	,	_	_	_	_
-14-40	_	you	abstract[96]	new[96]	_	_
+14-40	_	you	abstract[102]	new[102]	_	_
 14-41	_	know	_	_	_	_
 14-42	_	,	_	_	_	_
 14-43	_	present	_	_	_	_
@@ -362,17 +362,17 @@
 
 #Text=So this first product that I 'm going to show you guys is the Nourished by Shawnta Curl Defining and Soft Hold Styler , which is enriched with sesame seed oil and rose essence .
 15-1	_	So	_	_	_	_
-15-2	_	this	abstract[97]	new[97]	coref	16-2[97_98]
-15-3	_	first	abstract[97]	new[97]	_	_
-15-4	_	product	abstract[97]	new[97]	_	_
-15-5	_	that	abstract[97]	new[97]	_	_
-15-6	_	I	abstract[23]|abstract[97]	new[23]|new[97]	coref	15-17[23_24]
-15-7	_	'm	abstract[97]	new[97]	_	_
-15-8	_	going	abstract[97]	new[97]	_	_
-15-9	_	to	abstract[97]	new[97]	_	_
-15-10	_	show	abstract[97]	new[97]	_	_
-15-11	_	you	abstract[97]	new[97]	_	_
-15-12	_	guys	abstract[97]	new[97]	_	_
+15-2	_	this	abstract[103]	new[103]	coref	16-2[103_104]
+15-3	_	first	abstract[103]	new[103]	_	_
+15-4	_	product	abstract[103]	new[103]	_	_
+15-5	_	that	abstract[103]	new[103]	_	_
+15-6	_	I	abstract[23]|abstract[103]	new[23]|new[103]	coref	15-17[23_24]
+15-7	_	'm	abstract[103]	new[103]	_	_
+15-8	_	going	abstract[103]	new[103]	_	_
+15-9	_	to	abstract[103]	new[103]	_	_
+15-10	_	show	abstract[103]	new[103]	_	_
+15-11	_	you	abstract[103]	new[103]	_	_
+15-12	_	guys	abstract[103]	new[103]	_	_
 15-13	_	is	_	_	_	_
 15-14	_	the	_	_	_	_
 15-15	_	Nourished	_	_	_	_
@@ -399,29 +399,29 @@
 
 #Text=So it 's the Angelic Coco Curl Creator Cream , and it has coconut plus rose in it .
 16-1	_	So	_	_	_	_
-16-2	_	it	abstract[98]	new[98]	coref	16-12[98_99]
+16-2	_	it	abstract[104]	new[104]	coref	16-12[104_105]
 16-3	_	's	_	_	_	_
 16-4	_	the	_	_	_	_
-16-5	_	Angelic	abstract[112]	new[112]	coref	23-9[112_113]
-16-6	_	Coco	abstract[112]	new[112]	_	_
+16-5	_	Angelic	abstract[118]	new[118]	coref	23-9[118_119]
+16-6	_	Coco	abstract[118]	new[118]	_	_
 16-7	_	Curl	_	_	_	_
 16-8	_	Creator	_	_	_	_
 16-9	_	Cream	_	_	_	_
 16-10	_	,	_	_	_	_
 16-11	_	and	_	_	_	_
-16-12	_	it	abstract[99]	new[99]	coref	16-18[99_100]
+16-12	_	it	abstract[105]	new[105]	coref	16-18[105_106]
 16-13	_	has	_	_	_	_
 16-14	_	coconut	_	_	_	_
 16-15	_	plus	_	_	_	_
 16-16	_	rose	_	_	_	_
 16-17	_	in	_	_	_	_
-16-18	_	it	abstract[100]	new[100]	coref	17-2[100_101]
+16-18	_	it	abstract[106]	new[106]	coref	17-2[106_107]
 16-19	_	.	_	_	_	_
 
 #Text=So this product is – I just – I love it .
 17-1	_	So	_	_	_	_
-17-2	_	this	abstract[101]	new[101]	coref	17-11[101_102]
-17-3	_	product	abstract[101]	new[101]	_	_
+17-2	_	this	abstract[107]	new[107]	coref	17-11[107_108]
+17-3	_	product	abstract[107]	new[107]	_	_
 17-4	_	is	_	_	_	_
 17-5	_	–	_	_	_	_
 17-6	_	I	abstract[25]	new[25]	coref	17-9[25_26]
@@ -429,18 +429,18 @@
 17-8	_	–	_	_	_	_
 17-9	_	I	abstract[26]	new[26]	coref	26-1[26_27]
 17-10	_	love	_	_	_	_
-17-11	_	it	abstract[102]	new[102]	coref	18-1[102_103]
+17-11	_	it	abstract[108]	new[108]	coref	18-1[108_109]
 17-12	_	.	_	_	_	_
 
 #Text=It 's so moisturizing .
-18-1	_	It	abstract[103]	new[103]	coref	19-1[103_104]
+18-1	_	It	abstract[109]	new[109]	coref	19-1[109_110]
 18-2	_	's	_	_	_	_
 18-3	_	so	_	_	_	_
 18-4	_	moisturizing	_	_	_	_
 18-5	_	.	_	_	_	_
 
 #Text=It 's really really thick .
-19-1	_	It	abstract[104]	new[104]	coref	20-8[104_105]
+19-1	_	It	abstract[110]	new[110]	coref	20-8[110_111]
 19-2	_	's	_	_	_	_
 19-3	_	really	_	_	_	_
 19-4	_	really	_	_	_	_
@@ -448,14 +448,14 @@
 19-6	_	.	_	_	_	_
 
 #Text=You guys can see on the camera it 's super thick .
-20-1	_	You	abstract[116]	new[116]	coref	26-15[116_117]
-20-2	_	guys	abstract[116]	new[116]	_	_
+20-1	_	You	abstract[122]	new[122]	coref	26-15[122_123]
+20-2	_	guys	abstract[122]	new[122]	_	_
 20-3	_	can	_	_	_	_
 20-4	_	see	_	_	_	_
 20-5	_	on	_	_	_	_
 20-6	_	the	_	_	_	_
 20-7	_	camera	_	_	_	_
-20-8	_	it	abstract[105]	new[105]	coref	21-3[105_106]
+20-8	_	it	abstract[111]	new[111]	coref	21-3[111_112]
 20-9	_	's	_	_	_	_
 20-10	_	super	_	_	_	_
 20-11	_	thick	_	_	_	_
@@ -464,7 +464,7 @@
 #Text=Um , it does have like a butter feel to it .
 21-1	_	Um	_	_	_	_
 21-2	_	,	_	_	_	_
-21-3	_	it	abstract[106]	new[106]	coref	21-11[106_107]
+21-3	_	it	abstract[112]	new[112]	coref	21-11[112_113]
 21-4	_	does	_	_	_	_
 21-5	_	have	_	_	_	_
 21-6	_	like	_	_	_	_
@@ -472,48 +472,48 @@
 21-8	_	butter	_	_	_	_
 21-9	_	feel	_	_	_	_
 21-10	_	to	_	_	_	_
-21-11	_	it	abstract[107]	new[107]	coref	22-1[107_108]
+21-11	_	it	abstract[113]	new[113]	coref	22-1[113_114]
 21-12	_	.	_	_	_	_
 
 #Text=It 's a cream , but it has a really buttery feel to it .
-22-1	_	It	abstract[108]	new[108]	coref	22-7[108_109]
+22-1	_	It	abstract[114]	new[114]	coref	22-7[114_115]
 22-2	_	's	_	_	_	_
 22-3	_	a	_	_	_	_
 22-4	_	cream	_	_	_	_
 22-5	_	,	_	_	_	_
 22-6	_	but	_	_	_	_
-22-7	_	it	abstract[109]	new[109]	coref	22-14[109_110]
+22-7	_	it	abstract[115]	new[115]	coref	22-14[115_116]
 22-8	_	has	_	_	_	_
 22-9	_	a	_	_	_	_
 22-10	_	really	_	_	_	_
 22-11	_	buttery	_	_	_	_
 22-12	_	feel	_	_	_	_
 22-13	_	to	_	_	_	_
-22-14	_	it	abstract[110]	new[110]	coref	23-2[110_111]
+22-14	_	it	abstract[116]	new[116]	coref	23-2[116_117]
 22-15	_	.	_	_	_	_
 
 #Text=And it 's of course white , hence the name " Angelic Coco " .
 23-1	_	And	_	_	_	_
-23-2	_	it	abstract[111]	new[111]	_	_
+23-2	_	it	abstract[117]	new[117]	_	_
 23-3	_	's	_	_	_	_
 23-4	_	of	_	_	_	_
 23-5	_	course	_	_	_	_
 23-6	_	white	_	_	_	_
 23-7	_	,	_	_	_	_
 23-8	_	hence	_	_	_	_
-23-9	_	the	abstract[113]	new[113]	_	_
-23-10	_	name	abstract[113]	new[113]	_	_
-23-11	_	"	abstract[113]	new[113]	_	_
-23-12	_	Angelic	abstract[113]	new[113]	_	_
-23-13	_	Coco	abstract[113]	new[113]	_	_
-23-14	_	"	abstract[113]	new[113]	_	_
+23-9	_	the	abstract[119]	new[119]	_	_
+23-10	_	name	abstract[119]	new[119]	_	_
+23-11	_	"	abstract[119]	new[119]	_	_
+23-12	_	Angelic	abstract[119]	new[119]	_	_
+23-13	_	Coco	abstract[119]	new[119]	_	_
+23-14	_	"	abstract[119]	new[119]	_	_
 23-15	_	.	_	_	_	_
 
 #Text=The ingredients in here are super jam - packed .
-24-1	_	The	abstract[135]	new[135]	coref	30-7[135_136]
-24-2	_	ingredients	abstract[135]	new[135]	_	_
-24-3	_	in	abstract[135]	new[135]	_	_
-24-4	_	here	abstract[135]	new[135]	_	_
+24-1	_	The	abstract[141]	new[141]	coref	30-7[141_142]
+24-2	_	ingredients	abstract[141]	new[141]	_	_
+24-3	_	in	abstract[141]	new[141]	_	_
+24-4	_	here	abstract[141]	new[141]	_	_
 24-5	_	are	_	_	_	_
 24-6	_	super	_	_	_	_
 24-7	_	jam	_	_	_	_
@@ -527,7 +527,7 @@
 25-3	_	even	_	_	_	_
 25-4	_	honey	_	_	_	_
 25-5	_	in	_	_	_	_
-25-6	_	here	abstract[114]	new[114]	coref	26-7[114_115]
+25-6	_	here	abstract[120]	new[120]	coref	26-7[120_121]
 25-7	_	.	_	_	_	_
 
 #Text=I wanted to make sure that this styler actually contributes to the health of your hair .
@@ -537,16 +537,16 @@
 26-4	_	make	_	_	_	_
 26-5	_	sure	_	_	_	_
 26-6	_	that	_	_	_	_
-26-7	_	this	abstract[115]	new[115]	_	_
-26-8	_	styler	abstract[115]	new[115]	_	_
+26-7	_	this	abstract[121]	new[121]	_	_
+26-8	_	styler	abstract[121]	new[121]	_	_
 26-9	_	actually	_	_	_	_
 26-10	_	contributes	_	_	_	_
 26-11	_	to	_	_	_	_
-26-12	_	the	abstract[130]	new[130]	coref	27-41[130_131]
-26-13	_	health	abstract[130]	new[130]	_	_
-26-14	_	of	abstract[130]	new[130]	_	_
-26-15	_	your	abstract[117]|abstract[122]|abstract[130]	new[117]|new[122]|new[130]	coref|coref	27-13[117_118]|32-7[122_123]
-26-16	_	hair	abstract[122]|abstract[130]	new[122]|new[130]	_	_
+26-12	_	the	abstract[136]	new[136]	coref	27-41[136_137]
+26-13	_	health	abstract[136]	new[136]	_	_
+26-14	_	of	abstract[136]	new[136]	_	_
+26-15	_	your	abstract[123]|abstract[128]|abstract[136]	new[123]|new[128]|new[136]	coref|coref	27-13[123_124]|32-7[128_129]
+26-16	_	hair	abstract[128]|abstract[136]	new[128]|new[136]	_	_
 26-17	_	.	_	_	_	_
 
 #Text=So a lot of times with stylers , they 're just , you know , there to give you a nice style , which is great , but I want to make sure that all my products are geared towards the health of the hair even if they 're styling products .
@@ -556,19 +556,19 @@
 27-4	_	of	_	_	_	_
 27-5	_	times	_	_	_	_
 27-6	_	with	_	_	_	_
-27-7	_	stylers	abstract[128]	new[128]	coref	27-9[128_129]
+27-7	_	stylers	abstract[134]	new[134]	coref	27-9[134_135]
 27-8	_	,	_	_	_	_
-27-9	_	they	abstract[129]	new[129]	_	_
+27-9	_	they	abstract[135]	new[135]	_	_
 27-10	_	're	_	_	_	_
 27-11	_	just	_	_	_	_
 27-12	_	,	_	_	_	_
-27-13	_	you	abstract[118]	new[118]	coref	27-19[118_119]
+27-13	_	you	abstract[124]	new[124]	coref	27-19[124_125]
 27-14	_	know	_	_	_	_
 27-15	_	,	_	_	_	_
 27-16	_	there	_	_	_	_
 27-17	_	to	_	_	_	_
 27-18	_	give	_	_	_	_
-27-19	_	you	abstract[119]	new[119]	coref	32-7[119_120]
+27-19	_	you	abstract[125]	new[125]	coref	32-7[125_126]
 27-20	_	a	_	_	_	_
 27-21	_	nice	_	_	_	_
 27-22	_	style	_	_	_	_
@@ -584,23 +584,23 @@
 27-32	_	make	_	_	_	_
 27-33	_	sure	_	_	_	_
 27-34	_	that	_	_	_	_
-27-35	_	all	abstract[133]	new[133]	coref	27-48[133_134]
-27-36	_	my	abstract[29]|abstract[133]	new[29]|new[133]	coref	28-2[29_30]
-27-37	_	products	abstract[133]	new[133]	_	_
+27-35	_	all	abstract[139]	new[139]	coref	27-48[139_140]
+27-36	_	my	abstract[29]|abstract[139]	new[29]|new[139]	coref	28-2[29_30]
+27-37	_	products	abstract[139]	new[139]	_	_
 27-38	_	are	_	_	_	_
 27-39	_	geared	_	_	_	_
 27-40	_	towards	_	_	_	_
-27-41	_	the	abstract[131]	new[131]	coref	44-25[131_132]
-27-42	_	health	abstract[131]	new[131]	_	_
-27-43	_	of	abstract[131]	new[131]	_	_
-27-44	_	the	abstract[131]	new[131]	_	_
-27-45	_	hair	abstract[131]	new[131]	_	_
+27-41	_	the	abstract[137]	new[137]	coref	44-25[137_138]
+27-42	_	health	abstract[137]	new[137]	_	_
+27-43	_	of	abstract[137]	new[137]	_	_
+27-44	_	the	abstract[137]	new[137]	_	_
+27-45	_	hair	abstract[137]	new[137]	_	_
 27-46	_	even	_	_	_	_
 27-47	_	if	_	_	_	_
-27-48	_	they	abstract[134]	new[134]	_	_
+27-48	_	they	abstract[140]	new[140]	_	_
 27-49	_	're	_	_	_	_
-27-50	_	styling	abstract[146]	new[146]	coref	37-2[146_147]
-27-51	_	products	abstract[146]	new[146]	_	_
+27-50	_	styling	abstract[152]	new[152]	coref	37-2[152_153]
+27-51	_	products	abstract[152]	new[152]	_	_
 27-52	_	.	_	_	_	_
 
 #Text=So I was , like , not backing down on that part .
@@ -644,8 +644,8 @@
 30-4	_	,	_	_	_	_
 30-5	_	one	_	_	_	_
 30-6	_	of	_	_	_	_
-30-7	_	the	abstract[136]	new[136]	_	_
-30-8	_	ingredients	abstract[136]	new[136]	_	_
+30-7	_	the	abstract[142]	new[142]	_	_
+30-8	_	ingredients	abstract[142]	new[142]	_	_
 30-9	_	is	_	_	_	_
 30-10	_	pure	_	_	_	_
 30-11	_	honey	_	_	_	_
@@ -667,27 +667,27 @@
 31-1	_	There	_	_	_	_
 31-2	_	's	_	_	_	_
 31-3	_	even	_	_	_	_
-31-4	_	horsetail	abstract[142]	new[142]	coref	34-11[142_143]
-31-5	_	in	abstract[142]	new[142]	_	_
-31-6	_	here	abstract[137]|abstract[142]	new[137]|new[142]	coref	32-2[137_138]
-31-7	_	,	abstract[142]	new[142]	_	_
-31-8	_	which	abstract[142]	new[142]	_	_
-31-9	_	is	abstract[142]	new[142]	_	_
-31-10	_	amazing	abstract[142]	new[142]	_	_
-31-11	_	for	abstract[142]	new[142]	_	_
-31-12	_	hair	abstract[142]	new[142]	_	_
-31-13	_	growth	abstract[142]	new[142]	_	_
+31-4	_	horsetail	abstract[148]	new[148]	coref	34-11[148_149]
+31-5	_	in	abstract[148]	new[148]	_	_
+31-6	_	here	abstract[143]|abstract[148]	new[143]|new[148]	coref	32-2[143_144]
+31-7	_	,	abstract[148]	new[148]	_	_
+31-8	_	which	abstract[148]	new[148]	_	_
+31-9	_	is	abstract[148]	new[148]	_	_
+31-10	_	amazing	abstract[148]	new[148]	_	_
+31-11	_	for	abstract[148]	new[148]	_	_
+31-12	_	hair	abstract[148]	new[148]	_	_
+31-13	_	growth	abstract[148]	new[148]	_	_
 31-14	_	.	_	_	_	_
 
 #Text=So this is geared towards moisturizing your hair and also hair growth .
 32-1	_	So	_	_	_	_
-32-2	_	this	abstract[138]	new[138]	coref	34-13[138_139]
+32-2	_	this	abstract[144]	new[144]	coref	34-13[144_145]
 32-3	_	is	_	_	_	_
 32-4	_	geared	_	_	_	_
 32-5	_	towards	_	_	_	_
 32-6	_	moisturizing	_	_	_	_
-32-7	_	your	abstract[120]|abstract[123]	new[120]|new[123]	coref	44-29[123_124]
-32-8	_	hair	abstract[123]	new[123]	_	_
+32-7	_	your	abstract[126]|abstract[129]	new[126]|new[129]	coref	44-29[129_130]
+32-8	_	hair	abstract[129]	new[129]	_	_
 32-9	_	and	_	_	_	_
 32-10	_	also	_	_	_	_
 32-11	_	hair	_	_	_	_
@@ -707,8 +707,8 @@
 33-10	_	talk	_	_	_	_
 33-11	_	about	_	_	_	_
 33-12	_	on	_	_	_	_
-33-13	_	my	abstract[33]|abstract[157]	new[33]|new[157]	coref|coref	34-1[33_34]|48-13[157_158]
-33-14	_	channel	abstract[157]	new[157]	_	_
+33-13	_	my	abstract[33]|abstract[163]	new[33]|new[163]	coref|coref	34-1[33_34]|48-13[163_164]
+33-14	_	channel	abstract[163]	new[163]	_	_
 33-15	_	most	_	_	_	_
 33-16	_	of	_	_	_	_
 33-17	_	the	_	_	_	_
@@ -726,39 +726,39 @@
 34-8	_	that	_	_	_	_
 34-9	_	I	abstract[35]	new[35]	coref	37-4[35_36]
 34-10	_	infused	_	_	_	_
-34-11	_	that	abstract[143]	new[143]	_	_
+34-11	_	that	abstract[149]	new[149]	_	_
 34-12	_	into	_	_	_	_
-34-13	_	the	abstract[139]	new[139]	coref	35-10[139_140]
-34-14	_	product	abstract[139]	new[139]	_	_
+34-13	_	the	abstract[145]	new[145]	coref	35-10[145_146]
+34-14	_	product	abstract[145]	new[145]	_	_
 34-15	_	as	_	_	_	_
 34-16	_	well	_	_	_	_
 34-17	_	.	_	_	_	_
 
 #Text=If you guys are wondering , the smell of this product is very natural .
 35-1	_	If	_	_	_	_
-35-2	_	you	abstract[149]	new[149]	coref	39-13[149_150]
-35-3	_	guys	abstract[149]	new[149]	_	_
+35-2	_	you	abstract[155]	new[155]	coref	39-13[155_156]
+35-3	_	guys	abstract[155]	new[155]	_	_
 35-4	_	are	_	_	_	_
 35-5	_	wondering	_	_	_	_
 35-6	_	,	_	_	_	_
-35-7	_	the	abstract[144]	new[144]	coref	36-1[144_145]
-35-8	_	smell	abstract[144]	new[144]	_	_
-35-9	_	of	abstract[144]	new[144]	_	_
-35-10	_	this	abstract[140]|abstract[144]	new[140]|new[144]	coref	36-7[140_141]
-35-11	_	product	abstract[140]|abstract[144]	new[140]|new[144]	_	_
+35-7	_	the	abstract[150]	new[150]	coref	36-1[150_151]
+35-8	_	smell	abstract[150]	new[150]	_	_
+35-9	_	of	abstract[150]	new[150]	_	_
+35-10	_	this	abstract[146]|abstract[150]	new[146]|new[150]	coref	36-7[146_147]
+35-11	_	product	abstract[146]|abstract[150]	new[146]|new[150]	_	_
 35-12	_	is	_	_	_	_
 35-13	_	very	_	_	_	_
 35-14	_	natural	_	_	_	_
 35-15	_	.	_	_	_	_
 
 #Text=It 's very natural , and it does n't have a strong scent .
-36-1	_	It	abstract[145]	new[145]	_	_
+36-1	_	It	abstract[151]	new[151]	_	_
 36-2	_	's	_	_	_	_
 36-3	_	very	_	_	_	_
 36-4	_	natural	_	_	_	_
 36-5	_	,	_	_	_	_
 36-6	_	and	_	_	_	_
-36-7	_	it	abstract[141]	new[141]	_	_
+36-7	_	it	abstract[147]	new[147]	_	_
 36-8	_	does	_	_	_	_
 36-9	_	n't	_	_	_	_
 36-10	_	have	_	_	_	_
@@ -769,10 +769,10 @@
 
 #Text=With all of my products are normally like a pretty natural smell .
 37-1	_	With	_	_	_	_
-37-2	_	all	abstract[147]	new[147]	coref	38-10[147_148]
-37-3	_	of	abstract[147]	new[147]	_	_
-37-4	_	my	abstract[36]|abstract[147]	new[36]|new[147]	coref	38-1[36_37]
-37-5	_	products	abstract[147]	new[147]	_	_
+37-2	_	all	abstract[153]	new[153]	coref	38-10[153_154]
+37-3	_	of	abstract[153]	new[153]	_	_
+37-4	_	my	abstract[36]|abstract[153]	new[36]|new[153]	coref	38-1[36_37]
+37-5	_	products	abstract[153]	new[153]	_	_
 37-6	_	are	_	_	_	_
 37-7	_	normally	_	_	_	_
 37-8	_	like	_	_	_	_
@@ -792,8 +792,8 @@
 38-7	_	strong	_	_	_	_
 38-8	_	scents	_	_	_	_
 38-9	_	in	_	_	_	_
-38-10	_	my	abstract[38]|abstract[148]	new[38]|new[148]	coref	39-1[38_39]
-38-11	_	products	abstract[148]	new[148]	_	_
+38-10	_	my	abstract[38]|abstract[154]	new[38]|new[154]	coref	39-1[38_39]
+38-11	_	products	abstract[154]	new[154]	_	_
 38-12	_	.	_	_	_	_
 
 #Text=I can just like – I ca n't even begin to tell you how much time and effort I put into this line .
@@ -809,7 +809,7 @@
 39-10	_	begin	_	_	_	_
 39-11	_	to	_	_	_	_
 39-12	_	tell	_	_	_	_
-39-13	_	you	abstract[150]	new[150]	_	_
+39-13	_	you	abstract[156]	new[156]	_	_
 39-14	_	how	_	_	_	_
 39-15	_	much	_	_	_	_
 39-16	_	time	_	_	_	_
@@ -818,8 +818,8 @@
 39-19	_	I	abstract[41]	new[41]	coref	40-5[41_42]
 39-20	_	put	_	_	_	_
 39-21	_	into	_	_	_	_
-39-22	_	this	abstract[80]	new[80]	coref	44-12[80_81]
-39-23	_	line	abstract[80]	new[80]	_	_
+39-22	_	this	abstract[86]	new[86]	coref	44-12[86_87]
+39-23	_	line	abstract[86]	new[86]	_	_
 39-24	_	.	_	_	_	_
 
 #Text=And , um , I 'm just super excited .
@@ -888,60 +888,60 @@
 44-9	_	like	_	_	_	_
 44-10	_	,	_	_	_	_
 44-11	_	give	_	_	_	_
-44-12	_	it	abstract[81]	new[81]	coref	44-19[81_82]
+44-12	_	it	abstract[87]	new[87]	coref	44-19[87_88]
 44-13	_	to	_	_	_	_
-44-14	_	you	abstract[151]	new[151]	coref	44-29[151_152]
-44-15	_	guys	abstract[151]	new[151]	_	_
+44-14	_	you	abstract[157]	new[157]	coref	44-29[157_158]
+44-15	_	guys	abstract[157]	new[157]	_	_
 44-16	_	and	_	_	_	_
 44-17	_	know	_	_	_	_
 44-18	_	that	_	_	_	_
-44-19	_	it	abstract[82]	new[82]	coref	45-4[82_83]
+44-19	_	it	abstract[88]	new[88]	coref	45-4[88_89]
 44-20	_	's	_	_	_	_
 44-21	_	gon	_	_	_	_
 44-22	_	na	_	_	_	_
 44-23	_	contribute	_	_	_	_
 44-24	_	to	_	_	_	_
-44-25	_	the	abstract[132]	new[132]	_	_
-44-26	_	actual	abstract[132]	new[132]	_	_
-44-27	_	health	abstract[132]	new[132]	_	_
-44-28	_	of	abstract[132]	new[132]	_	_
-44-29	_	your	abstract[124]|abstract[132]|abstract[152]	new[124]|new[132]|new[152]	coref|coref	55-20[124_125]|45-1[152_153]
-44-30	_	hair	abstract[124]|abstract[132]	new[124]|new[132]	_	_
+44-25	_	the	abstract[138]	new[138]	_	_
+44-26	_	actual	abstract[138]	new[138]	_	_
+44-27	_	health	abstract[138]	new[138]	_	_
+44-28	_	of	abstract[138]	new[138]	_	_
+44-29	_	your	abstract[130]|abstract[138]|abstract[158]	new[130]|new[138]|new[158]	coref|coref	55-20[130_131]|45-1[158_159]
+44-30	_	hair	abstract[130]|abstract[138]	new[130]|new[138]	_	_
 44-31	_	.	_	_	_	_
 
 #Text=You can use this on twist outs .
-45-1	_	You	abstract[153]	new[153]	coref	46-1[153_154]
+45-1	_	You	abstract[159]	new[159]	coref	46-1[159_160]
 45-2	_	can	_	_	_	_
 45-3	_	use	_	_	_	_
-45-4	_	this	abstract[83]	new[83]	coref	46-4[83_84]
+45-4	_	this	abstract[89]	new[89]	coref	46-4[89_90]
 45-5	_	on	_	_	_	_
 45-6	_	twist	_	_	_	_
 45-7	_	outs	_	_	_	_
 45-8	_	.	_	_	_	_
 
 #Text=You can use this on braid outs .
-46-1	_	You	abstract[154]	new[154]	coref	47-1[154_155]
+46-1	_	You	abstract[160]	new[160]	coref	47-1[160_161]
 46-2	_	can	_	_	_	_
 46-3	_	use	_	_	_	_
-46-4	_	this	abstract[84]	new[84]	coref	47-5[84_85]
+46-4	_	this	abstract[90]	new[90]	coref	47-5[90_91]
 46-5	_	on	_	_	_	_
 46-6	_	braid	_	_	_	_
 46-7	_	outs	_	_	_	_
 46-8	_	.	_	_	_	_
 
 #Text=You can even use it on your wash - n - go as well .
-47-1	_	You	abstract[155]	new[155]	coref	47-7[155_156]
+47-1	_	You	abstract[161]	new[161]	coref	47-7[161_162]
 47-2	_	can	_	_	_	_
 47-3	_	even	_	_	_	_
 47-4	_	use	_	_	_	_
-47-5	_	it	abstract[85]	new[85]	coref	51-9[85_86]
+47-5	_	it	abstract[91]	new[91]	coref	51-9[91_92]
 47-6	_	on	_	_	_	_
-47-7	_	your	abstract[156]|abstract[173]	new[156]|new[173]	coref	49-23[173_174]
-47-8	_	wash	abstract[173]	new[173]	_	_
-47-9	_	-	abstract[173]	new[173]	_	_
-47-10	_	n	abstract[173]	new[173]	_	_
-47-11	_	-	abstract[173]	new[173]	_	_
-47-12	_	go	abstract[173]	new[173]	_	_
+47-7	_	your	abstract[162]|abstract[179]	new[162]|new[179]	coref	49-23[179_180]
+47-8	_	wash	abstract[179]	new[179]	_	_
+47-9	_	-	abstract[179]	new[179]	_	_
+47-10	_	n	abstract[179]	new[179]	_	_
+47-11	_	-	abstract[179]	new[179]	_	_
+47-12	_	go	abstract[179]	new[179]	_	_
 47-13	_	as	_	_	_	_
 47-14	_	well	_	_	_	_
 47-15	_	.	_	_	_	_
@@ -959,8 +959,8 @@
 48-10	_	go's	_	_	_	_
 48-11	_	a-	_	_	_	_
 48-12	_	on	_	_	_	_
-48-13	_	my	abstract[51]|abstract[158]	new[51]|new[158]	coref|coref	48-16[51_52]|49-43[158_159]
-48-14	_	channel	abstract[158]	new[158]	_	_
+48-13	_	my	abstract[51]|abstract[164]	new[51]|new[164]	coref|coref	48-16[51_52]|49-43[164_165]
+48-14	_	channel	abstract[164]	new[164]	_	_
 48-15	_	,	_	_	_	_
 48-16	_	I	abstract[52]	new[52]	coref	48-27[52_53]
 48-17	_	always	_	_	_	_
@@ -989,26 +989,26 @@
 49-5	_	come	_	_	_	_
 49-6	_	out	_	_	_	_
 49-7	_	with	_	_	_	_
-49-8	_	a	abstract[171]	new[171]	coref	49-21[171_172]
-49-9	_	cream	abstract[171]	new[171]	_	_
+49-8	_	a	abstract[177]	new[177]	coref	49-21[177_178]
+49-9	_	cream	abstract[177]	new[177]	_	_
 49-10	_	and	_	_	_	_
 49-11	_	tell	_	_	_	_
-49-12	_	you	abstract[162]	new[162]	coref	49-18[162_163]
-49-13	_	guys	abstract[162]	new[162]	_	_
+49-12	_	you	abstract[168]	new[168]	coref	49-18[168_169]
+49-13	_	guys	abstract[168]	new[168]	_	_
 49-14	_	just	_	_	_	_
 49-15	_	–	_	_	_	_
 49-16	_	"	_	_	_	_
-49-17	_	You	abstract[163]	new[163]	coref	49-23[163_164]
+49-17	_	You	abstract[169]	new[169]	coref	49-23[169_170]
 49-18	_	can	_	_	_	_
 49-19	_	use	_	_	_	_
-49-20	_	it	abstract[172]	new[172]	_	_
+49-20	_	it	abstract[178]	new[178]	_	_
 49-21	_	on	_	_	_	_
-49-22	_	your	abstract[164]|abstract[174]	new[164]|new[174]	coref|coref	49-54[164_165]|49-54[174_175]
-49-23	_	wash	abstract[174]	new[174]	_	_
-49-24	_	-	abstract[174]	new[174]	_	_
-49-25	_	n	abstract[174]	new[174]	_	_
-49-26	_	-	abstract[174]	new[174]	_	_
-49-27	_	go's	abstract[174]	new[174]	_	_
+49-22	_	your	abstract[170]|abstract[180]	new[170]|new[180]	coref|coref	49-54[170_171]|49-54[180_181]
+49-23	_	wash	abstract[180]	new[180]	_	_
+49-24	_	-	abstract[180]	new[180]	_	_
+49-25	_	n	abstract[180]	new[180]	_	_
+49-26	_	-	abstract[180]	new[180]	_	_
+49-27	_	go's	abstract[180]	new[180]	_	_
 49-28	_	"	_	_	_	_
 49-29	_	when	_	_	_	_
 49-30	_	that	_	_	_	_
@@ -1023,8 +1023,8 @@
 49-39	_	always	_	_	_	_
 49-40	_	said	_	_	_	_
 49-41	_	on	_	_	_	_
-49-42	_	my	abstract[56]|abstract[159]	new[56]|new[159]	coref|coref	50-12[56_57]|60-10[159_160]
-49-43	_	channel	abstract[159]	new[159]	_	_
+49-42	_	my	abstract[56]|abstract[165]	new[56]|new[165]	coref|coref	50-12[56_57]|60-10[165_166]
+49-43	_	channel	abstract[165]	new[165]	_	_
 49-44	_	,	_	_	_	_
 49-45	_	which	_	_	_	_
 49-46	_	is	_	_	_	_
@@ -1034,12 +1034,12 @@
 49-50	_	are	_	_	_	_
 49-51	_	what	_	_	_	_
 49-52	_	make	_	_	_	_
-49-53	_	your	abstract[165]|abstract[175]	new[165]|new[175]	coref	55-9[165_166]
-49-54	_	wash	abstract[175]	new[175]	_	_
-49-55	_	-	abstract[175]	new[175]	_	_
-49-56	_	n	abstract[175]	new[175]	_	_
-49-57	_	-	abstract[175]	new[175]	_	_
-49-58	_	go	abstract[175]	new[175]	_	_
+49-53	_	your	abstract[171]|abstract[181]	new[171]|new[181]	coref	55-9[171_172]
+49-54	_	wash	abstract[181]	new[181]	_	_
+49-55	_	-	abstract[181]	new[181]	_	_
+49-56	_	n	abstract[181]	new[181]	_	_
+49-57	_	-	abstract[181]	new[181]	_	_
+49-58	_	go	abstract[181]	new[181]	_	_
 49-59	_	stay	_	_	_	_
 49-60	_	.	_	_	_	_
 49-61	_	"	_	_	_	_
@@ -1048,7 +1048,7 @@
 50-1	_	So	_	_	_	_
 50-2	_	that	_	_	_	_
 50-3	_	brings	_	_	_	_
-50-4	_	us	abstract[89]	new[89]	coref	57-6[89_90]
+50-4	_	us	abstract[95]	new[95]	coref	57-6[95_96]
 50-5	_	to	_	_	_	_
 50-6	_	the	_	_	_	_
 50-7	_	next	_	_	_	_
@@ -1071,7 +1071,7 @@
 51-6	_	well	_	_	_	_
 51-7	_	,	_	_	_	_
 51-8	_	so	_	_	_	_
-51-9	_	it	abstract[86]	new[86]	_	_
+51-9	_	it	abstract[92]	new[92]	_	_
 51-10	_	's	_	_	_	_
 51-11	_	not	_	_	_	_
 51-12	_	just	_	_	_	_
@@ -1082,22 +1082,22 @@
 #Text=I have another styler as well , which is a gel .
 52-1	_	I	abstract[59]	new[59]	coref	58-2[59_60]
 52-2	_	have	_	_	_	_
-52-3	_	another	abstract[176]	new[176]	coref	53-2[176_177]
-52-4	_	styler	abstract[176]	new[176]	_	_
-52-5	_	as	abstract[176]	new[176]	_	_
-52-6	_	well	abstract[176]	new[176]	_	_
-52-7	_	,	abstract[176]	new[176]	_	_
-52-8	_	which	abstract[176]	new[176]	_	_
-52-9	_	is	abstract[176]	new[176]	_	_
-52-10	_	a	abstract[176]	new[176]	_	_
-52-11	_	gel	abstract[176]	new[176]	_	_
+52-3	_	another	abstract[182]	new[182]	coref	53-2[182_183]
+52-4	_	styler	abstract[182]	new[182]	_	_
+52-5	_	as	abstract[182]	new[182]	_	_
+52-6	_	well	abstract[182]	new[182]	_	_
+52-7	_	,	abstract[182]	new[182]	_	_
+52-8	_	which	abstract[182]	new[182]	_	_
+52-9	_	is	abstract[182]	new[182]	_	_
+52-10	_	a	abstract[182]	new[182]	_	_
+52-11	_	gel	abstract[182]	new[182]	_	_
 52-12	_	.	_	_	_	_
 
 #Text=So the next product is the Angelic Clear Coarse Jelly with aloe plus rosemary , and it 's a curl - defining and light - to - medium whole jelly , and it 's enriched with aloe vera juice , which is amazing .
 53-1	_	So	_	_	_	_
-53-2	_	the	abstract[177]	new[177]	coref	53-17[177_178]
-53-3	_	next	abstract[177]	new[177]	_	_
-53-4	_	product	abstract[177]	new[177]	_	_
+53-2	_	the	abstract[183]	new[183]	coref	53-17[183_184]
+53-3	_	next	abstract[183]	new[183]	_	_
+53-4	_	product	abstract[183]	new[183]	_	_
 53-5	_	is	_	_	_	_
 53-6	_	the	_	_	_	_
 53-7	_	Angelic	_	_	_	_
@@ -1110,7 +1110,7 @@
 53-14	_	rosemary	_	_	_	_
 53-15	_	,	_	_	_	_
 53-16	_	and	_	_	_	_
-53-17	_	it	abstract[178]	new[178]	coref	53-33[178_179]
+53-17	_	it	abstract[184]	new[184]	coref	53-33[184_185]
 53-18	_	's	_	_	_	_
 53-19	_	a	_	_	_	_
 53-20	_	curl	_	_	_	_
@@ -1126,7 +1126,7 @@
 53-30	_	jelly	_	_	_	_
 53-31	_	,	_	_	_	_
 53-32	_	and	_	_	_	_
-53-33	_	it	abstract[179]	new[179]	_	_
+53-33	_	it	abstract[185]	new[185]	_	_
 53-34	_	's	_	_	_	_
 53-35	_	enriched	_	_	_	_
 53-36	_	with	_	_	_	_
@@ -1155,19 +1155,19 @@
 55-6	_	lot	_	_	_	_
 55-7	_	of	_	_	_	_
 55-8	_	times	_	_	_	_
-55-9	_	you	abstract[166]	new[166]	coref	55-20[166_167]
+55-9	_	you	abstract[172]	new[172]	coref	55-20[172_173]
 55-10	_	will	_	_	_	_
 55-11	_	find	_	_	_	_
-55-12	_	gels	abstract[180]	new[180]	coref	56-5[180_181]
-55-13	_	that	abstract[180]	new[180]	_	_
-55-14	_	kinda	abstract[180]	new[180]	_	_
-55-15	_	,	abstract[180]	new[180]	_	_
-55-16	_	like	abstract[180]	new[180]	_	_
-55-17	_	,	abstract[180]	new[180]	_	_
-55-18	_	dry	abstract[180]	new[180]	_	_
-55-19	_	out	abstract[180]	new[180]	_	_
-55-20	_	your	abstract[125]|abstract[167]|abstract[180]	new[125]|new[167]|new[180]	coref|coref	56-16[125_126]|56-11[167_168]
-55-21	_	hair	abstract[125]|abstract[180]	new[125]|new[180]	_	_
+55-12	_	gels	abstract[186]	new[186]	coref	56-5[186_187]
+55-13	_	that	abstract[186]	new[186]	_	_
+55-14	_	kinda	abstract[186]	new[186]	_	_
+55-15	_	,	abstract[186]	new[186]	_	_
+55-16	_	like	abstract[186]	new[186]	_	_
+55-17	_	,	abstract[186]	new[186]	_	_
+55-18	_	dry	abstract[186]	new[186]	_	_
+55-19	_	out	abstract[186]	new[186]	_	_
+55-20	_	your	abstract[131]|abstract[173]|abstract[186]	new[131]|new[173]|new[186]	coref|coref	56-16[131_132]|56-11[173_174]
+55-21	_	hair	abstract[131]|abstract[186]	new[131]|new[186]	_	_
 55-22	_	.	_	_	_	_
 
 #Text=Lots of ingredients in it that kinda like counteracts what you would typically want for your hair .
@@ -1175,19 +1175,19 @@
 56-2	_	of	_	_	_	_
 56-3	_	ingredients	_	_	_	_
 56-4	_	in	_	_	_	_
-56-5	_	it	abstract[181]	new[181]	coref	57-13[181_182]
+56-5	_	it	abstract[187]	new[187]	coref	57-13[187_188]
 56-6	_	that	_	_	_	_
 56-7	_	kinda	_	_	_	_
 56-8	_	like	_	_	_	_
 56-9	_	counteracts	_	_	_	_
 56-10	_	what	_	_	_	_
-56-11	_	you	abstract[168]	new[168]	coref	56-16[168_169]
+56-11	_	you	abstract[174]	new[174]	coref	56-16[174_175]
 56-12	_	would	_	_	_	_
 56-13	_	typically	_	_	_	_
 56-14	_	want	_	_	_	_
 56-15	_	for	_	_	_	_
-56-16	_	your	abstract[126]|abstract[169]	new[126]|new[169]	coref|coref	61-15[126_127]|57-16[169_170]
-56-17	_	hair	abstract[126]	new[126]	_	_
+56-16	_	your	abstract[132]|abstract[175]	new[132]|new[175]	coref|coref	61-15[132_133]|57-16[175_176]
+56-17	_	hair	abstract[132]	new[132]	_	_
 56-18	_	.	_	_	_	_
 
 #Text=But a lot of times we kinda , like , deal with it because , you know , the gel is what 's gon na keep our hair in place and make it actually last .
@@ -1196,34 +1196,34 @@
 57-3	_	lot	_	_	_	_
 57-4	_	of	_	_	_	_
 57-5	_	times	_	_	_	_
-57-6	_	we	abstract[90]	new[90]	coref	57-27[90_91]
+57-6	_	we	abstract[96]	new[96]	coref	57-27[96_97]
 57-7	_	kinda	_	_	_	_
 57-8	_	,	_	_	_	_
 57-9	_	like	_	_	_	_
 57-10	_	,	_	_	_	_
 57-11	_	deal	_	_	_	_
 57-12	_	with	_	_	_	_
-57-13	_	it	abstract[182]	new[182]	coref	57-19[182_183]
+57-13	_	it	abstract[188]	new[188]	coref	57-19[188_189]
 57-14	_	because	_	_	_	_
 57-15	_	,	_	_	_	_
-57-16	_	you	abstract[170]	new[170]	_	_
+57-16	_	you	abstract[176]	new[176]	_	_
 57-17	_	know	_	_	_	_
 57-18	_	,	_	_	_	_
-57-19	_	the	abstract[183]	new[183]	_	_
-57-20	_	gel	abstract[183]	new[183]	_	_
+57-19	_	the	abstract[189]	new[189]	_	_
+57-20	_	gel	abstract[189]	new[189]	_	_
 57-21	_	is	_	_	_	_
 57-22	_	what	_	_	_	_
 57-23	_	's	_	_	_	_
 57-24	_	gon	_	_	_	_
 57-25	_	na	_	_	_	_
 57-26	_	keep	_	_	_	_
-57-27	_	our	abstract[91]|abstract[184]	new[91]|new[184]	coref	57-33[184_185]
-57-28	_	hair	abstract[184]	new[184]	_	_
+57-27	_	our	abstract[97]|abstract[190]	new[97]|new[190]	coref	57-33[190_191]
+57-28	_	hair	abstract[190]	new[190]	_	_
 57-29	_	in	_	_	_	_
 57-30	_	place	_	_	_	_
 57-31	_	and	_	_	_	_
 57-32	_	make	_	_	_	_
-57-33	_	it	abstract[185]	new[185]	_	_
+57-33	_	it	abstract[191]	new[191]	_	_
 57-34	_	actually	_	_	_	_
 57-35	_	last	_	_	_	_
 57-36	_	.	_	_	_	_
@@ -1234,22 +1234,22 @@
 58-3	_	wanted	_	_	_	_
 58-4	_	to	_	_	_	_
 58-5	_	make	_	_	_	_
-58-6	_	a	abstract[186]	new[186]	coref	59-2[186_187]
-58-7	_	gel	abstract[186]	new[186]	_	_
-58-8	_	that	abstract[186]	new[186]	_	_
-58-9	_	did	abstract[186]	new[186]	_	_
-58-10	_	not	abstract[186]	new[186]	_	_
-58-11	_	do	abstract[186]	new[186]	_	_
-58-12	_	any	abstract[186]	new[186]	_	_
-58-13	_	of	abstract[186]	new[186]	_	_
-58-14	_	those	abstract[186]	new[186]	_	_
-58-15	_	things	abstract[186]	new[186]	_	_
+58-6	_	a	abstract[192]	new[192]	coref	59-2[192_193]
+58-7	_	gel	abstract[192]	new[192]	_	_
+58-8	_	that	abstract[192]	new[192]	_	_
+58-9	_	did	abstract[192]	new[192]	_	_
+58-10	_	not	abstract[192]	new[192]	_	_
+58-11	_	do	abstract[192]	new[192]	_	_
+58-12	_	any	abstract[192]	new[192]	_	_
+58-13	_	of	abstract[192]	new[192]	_	_
+58-14	_	those	abstract[192]	new[192]	_	_
+58-15	_	things	abstract[192]	new[192]	_	_
 58-16	_	.	_	_	_	_
 
 #Text=So this gel is going to give a light - to - medium health .
 59-1	_	So	_	_	_	_
-59-2	_	this	abstract[187]	new[187]	_	_
-59-3	_	gel	abstract[187]	new[187]	_	_
+59-2	_	this	abstract[193]	new[193]	_	_
+59-3	_	gel	abstract[193]	new[193]	_	_
 59-4	_	is	_	_	_	_
 59-5	_	going	_	_	_	_
 59-6	_	to	_	_	_	_
@@ -1264,22 +1264,22 @@
 59-15	_	.	_	_	_	_
 
 #Text=You guys already know that – if you follow my channel for a while , you know that I use , like , light defining gels and jellies and stuff all throughout my channel .
-60-1	_	You	abstract[188]	new[188]	coref	60-8[188_189]
-60-2	_	guys	abstract[188]	new[188]	_	_
+60-1	_	You	abstract[194]	new[194]	coref	60-8[194_195]
+60-2	_	guys	abstract[194]	new[194]	_	_
 60-3	_	already	_	_	_	_
 60-4	_	know	_	_	_	_
 60-5	_	that	_	_	_	_
 60-6	_	–	_	_	_	_
 60-7	_	if	_	_	_	_
-60-8	_	you	abstract[189]	new[189]	coref	60-16[189_190]
+60-8	_	you	abstract[195]	new[195]	coref	60-16[195_196]
 60-9	_	follow	_	_	_	_
-60-10	_	my	abstract[61]|abstract[160]	new[61]|new[160]	coref|coref	60-19[61_62]|60-33[160_161]
-60-11	_	channel	abstract[160]	new[160]	_	_
+60-10	_	my	abstract[61]|abstract[166]	new[61]|new[166]	coref|coref	60-19[61_62]|60-33[166_167]
+60-11	_	channel	abstract[166]	new[166]	_	_
 60-12	_	for	_	_	_	_
 60-13	_	a	_	_	_	_
 60-14	_	while	_	_	_	_
 60-15	_	,	_	_	_	_
-60-16	_	you	abstract[190]	new[190]	coref	61-15[190_191]
+60-16	_	you	abstract[196]	new[196]	coref	61-15[196_197]
 60-17	_	know	_	_	_	_
 60-18	_	that	_	_	_	_
 60-19	_	I	abstract[62]	new[62]	coref	60-33[62_63]
@@ -1296,8 +1296,8 @@
 60-30	_	stuff	_	_	_	_
 60-31	_	all	_	_	_	_
 60-32	_	throughout	_	_	_	_
-60-33	_	my	abstract[63]|abstract[161]	new[63]|new[161]	coref	61-21[63_64]
-60-34	_	channel	abstract[161]	new[161]	_	_
+60-33	_	my	abstract[63]|abstract[167]	new[63]|new[167]	coref	61-21[63_64]
+60-34	_	channel	abstract[167]	new[167]	_	_
 60-35	_	.	_	_	_	_
 
 #Text=Um , and more of the harder gels that really , like , make your hair feel super hard – I do n't normally use those because I do n't feel like you need all that .
@@ -1306,41 +1306,41 @@
 61-3	_	and	_	_	_	_
 61-4	_	more	_	_	_	_
 61-5	_	of	_	_	_	_
-61-6	_	the	abstract[194]	new[194]	coref	61-26[194_195]
-61-7	_	harder	abstract[194]	new[194]	_	_
-61-8	_	gels	abstract[194]	new[194]	_	_
-61-9	_	that	abstract[194]	new[194]	_	_
-61-10	_	really	abstract[194]	new[194]	_	_
-61-11	_	,	abstract[194]	new[194]	_	_
-61-12	_	like	abstract[194]	new[194]	_	_
-61-13	_	,	abstract[194]	new[194]	_	_
-61-14	_	make	abstract[194]	new[194]	_	_
-61-15	_	your	abstract[127]|abstract[191]|abstract[194]	new[127]|new[191]|new[194]	coref	61-33[191_192]
-61-16	_	hair	abstract[127]|abstract[194]	new[127]|new[194]	_	_
-61-17	_	feel	abstract[194]	new[194]	_	_
-61-18	_	super	abstract[194]	new[194]	_	_
-61-19	_	hard	abstract[194]	new[194]	_	_
+61-6	_	the	abstract[201]	new[201]	coref	61-26[201_202]
+61-7	_	harder	abstract[201]	new[201]	_	_
+61-8	_	gels	abstract[201]	new[201]	_	_
+61-9	_	that	abstract[201]	new[201]	_	_
+61-10	_	really	abstract[201]	new[201]	_	_
+61-11	_	,	abstract[201]	new[201]	_	_
+61-12	_	like	abstract[201]	new[201]	_	_
+61-13	_	,	abstract[201]	new[201]	_	_
+61-14	_	make	abstract[201]	new[201]	_	_
+61-15	_	your	abstract[133]|abstract[197]|abstract[201]	new[133]|new[197]|new[201]	coref	61-33[197_198]
+61-16	_	hair	abstract[133]|abstract[201]	new[133]|new[201]	_	_
+61-17	_	feel	abstract[201]	new[201]	_	_
+61-18	_	super	abstract[201]	new[201]	_	_
+61-19	_	hard	abstract[201]	new[201]	_	_
 61-20	_	–	_	_	_	_
 61-21	_	I	abstract[64]	new[64]	coref	61-28[64_65]
 61-22	_	do	_	_	_	_
 61-23	_	n't	_	_	_	_
 61-24	_	normally	_	_	_	_
 61-25	_	use	_	_	_	_
-61-26	_	those	abstract[195]	new[195]	coref	61-35[195_196]
+61-26	_	those	abstract[202]	new[202]	coref	61-35[202_203]
 61-27	_	because	_	_	_	_
-61-28	_	I	abstract[65]	new[65]	_	_
+61-28	_	I	abstract[65]	new[65]	coref	63-2[65_66]
 61-29	_	do	_	_	_	_
 61-30	_	n't	_	_	_	_
 61-31	_	feel	_	_	_	_
 61-32	_	like	_	_	_	_
-61-33	_	you	abstract[192]	new[192]	coref	62-1[192_193]
+61-33	_	you	abstract[198]	new[198]	coref	62-1[198_199]
 61-34	_	need	_	_	_	_
-61-35	_	all	abstract[196]	new[196]	_	_
-61-36	_	that	abstract[196]	new[196]	_	_
+61-35	_	all	abstract[203]	new[203]	_	_
+61-36	_	that	abstract[203]	new[203]	_	_
 61-37	_	.	_	_	_	_
 
 #Text=You just need , like , a nice holding gel .
-62-1	_	You	abstract[193]	new[193]	_	_
+62-1	_	You	abstract[199]	new[199]	coref	63-52[199_200]
 62-2	_	just	_	_	_	_
 62-3	_	need	_	_	_	_
 62-4	_	,	_	_	_	_
@@ -1352,9 +1352,61 @@
 62-10	_	gel	_	_	_	_
 62-11	_	.	_	_	_	_
 
-#Text=Hi , Miyuki !
-63-1	_	Hi	_	_	_	_
-63-2	_	,	_	_	_	_
-63-3	_	Miyuki	_	_	_	_
-63-4	_	!	_	_	_	_
+#Text="""" My hair is in a bun . I took a shower . I ... Was it wrong ? ... Ok , I have some coffee and I 'll be focusing entirely on chem and neuro today , I think . Full day of studying , not really much to update you all on . """"
+63-1	_	""""	_	_	_	_
+63-2	_	My	abstract[66]	new[66]	coref	63-9[66_67]
+63-3	_	hair	_	_	_	_
+63-4	_	is	_	_	_	_
+63-5	_	in	_	_	_	_
+63-6	_	a	_	_	_	_
+63-7	_	bun	_	_	_	_
+63-8	_	.	_	_	_	_
+63-9	_	I	abstract[67]	new[67]	coref	63-14[67_68]
+63-10	_	took	_	_	_	_
+63-11	_	a	_	_	_	_
+63-12	_	shower	_	_	_	_
+63-13	_	.	_	_	_	_
+63-14	_	I	abstract[68]	new[68]	coref	63-23[68_69]
+63-15	_	...	_	_	_	_
+63-16	_	Was	_	_	_	_
+63-17	_	it	_	_	_	_
+63-18	_	wrong	_	_	_	_
+63-19	_	?	_	_	_	_
+63-20	_	...	_	_	_	_
+63-21	_	Ok	_	_	_	_
+63-22	_	,	_	_	_	_
+63-23	_	I	abstract[69]	new[69]	coref	63-28[69_70]
+63-24	_	have	_	_	_	_
+63-25	_	some	_	_	_	_
+63-26	_	coffee	_	_	_	_
+63-27	_	and	_	_	_	_
+63-28	_	I	abstract[70]	new[70]	coref	63-39[70_71]
+63-29	_	'll	_	_	_	_
+63-30	_	be	_	_	_	_
+63-31	_	focusing	_	_	_	_
+63-32	_	entirely	_	_	_	_
+63-33	_	on	_	_	_	_
+63-34	_	chem	_	_	_	_
+63-35	_	and	_	_	_	_
+63-36	_	neuro	_	_	_	_
+63-37	_	today	_	_	_	_
+63-38	_	,	_	_	_	_
+63-39	_	I	abstract[71]	new[71]	_	_
+63-40	_	think	_	_	_	_
+63-41	_	.	_	_	_	_
+63-42	_	Full	_	_	_	_
+63-43	_	day	_	_	_	_
+63-44	_	of	_	_	_	_
+63-45	_	studying	_	_	_	_
+63-46	_	,	_	_	_	_
+63-47	_	not	_	_	_	_
+63-48	_	really	_	_	_	_
+63-49	_	much	_	_	_	_
+63-50	_	to	_	_	_	_
+63-51	_	update	_	_	_	_
+63-52	_	you	abstract[200]	new[200]	_	_
+63-53	_	all	abstract[200]	new[200]	_	_
+63-54	_	on	_	_	_	_
+63-55	_	.	_	_	_	_
+63-56	_	""""	_	_	_	_
 

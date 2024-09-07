@@ -56,7 +56,7 @@
 3-34	_	down	_	_	_	_
 3-35	_	.	_	_	_	_
 
-#Text=The attack was launched on Wednesday by a user labelled " The 22nd Fan Expo Canada took place this weekend , attracting thousands to the event , one of North America 's most popular .
+#Text=The attack was launched on Wednesday by a user labelled " The 22nd Fan Expo Canada took place at the Metro Toronto Convention Centre this weekend , attracting thousands to the event , one of the most popular in North America .
 4-1	_	The	abstract[18]	new[18]	coref	6-17[18_19]
 4-2	_	attack	abstract[18]	new[18]	_	_
 4-3	_	was	_	_	_	_
@@ -68,30 +68,37 @@
 4-9	_	user	_	_	_	_
 4-10	_	labelled	_	_	_	_
 4-11	_	"	_	_	_	_
-4-12	_	The	abstract[14]	new[14]	coref	4-25[14_15]
+4-12	_	The	abstract[14]	new[14]	coref	4-31[14_15]
 4-13	_	22nd	abstract[14]	new[14]	_	_
 4-14	_	Fan	abstract[14]	new[14]	_	_
 4-15	_	Expo	abstract[14]	new[14]	_	_
 4-16	_	Canada	abstract[14]	new[14]	_	_
 4-17	_	took	_	_	_	_
 4-18	_	place	_	_	_	_
-4-19	_	this	_	_	_	_
-4-20	_	weekend	_	_	_	_
-4-21	_	,	_	_	_	_
-4-22	_	attracting	_	_	_	_
-4-23	_	thousands	_	_	_	_
-4-24	_	to	_	_	_	_
-4-25	_	the	abstract[15]	new[15]	_	_
-4-26	_	event	abstract[15]	new[15]	_	_
+4-19	_	at	_	_	_	_
+4-20	_	the	_	_	_	_
+4-21	_	Metro	_	_	_	_
+4-22	_	Toronto	_	_	_	_
+4-23	_	Convention	_	_	_	_
+4-24	_	Centre	_	_	_	_
+4-25	_	this	_	_	_	_
+4-26	_	weekend	_	_	_	_
 4-27	_	,	_	_	_	_
-4-28	_	one	_	_	_	_
-4-29	_	of	_	_	_	_
-4-30	_	North	_	_	_	_
-4-31	_	America	_	_	_	_
-4-32	_	's	_	_	_	_
-4-33	_	most	_	_	_	_
-4-34	_	popular	_	_	_	_
-4-35	_	.	_	_	_	_
+4-28	_	attracting	_	_	_	_
+4-29	_	thousands	_	_	_	_
+4-30	_	to	_	_	_	_
+4-31	_	the	abstract[15]	new[15]	_	_
+4-32	_	event	abstract[15]	new[15]	_	_
+4-33	_	,	abstract[15]	new[15]	_	_
+4-34	_	one	abstract[15]	new[15]	_	_
+4-35	_	of	abstract[15]	new[15]	_	_
+4-36	_	the	abstract[15]	new[15]	_	_
+4-37	_	most	abstract[15]	new[15]	_	_
+4-38	_	popular	abstract[15]	new[15]	_	_
+4-39	_	in	abstract[15]	new[15]	_	_
+4-40	_	North	abstract[15]	new[15]	_	_
+4-41	_	America	abstract[15]	new[15]	_	_
+4-42	_	.	_	_	_	_
 
 #Text=Anonymous " , on the website " Insurgency Wiki " , a spinoff of 4chan .
 5-1	_	Anonymous	_	_	_	_

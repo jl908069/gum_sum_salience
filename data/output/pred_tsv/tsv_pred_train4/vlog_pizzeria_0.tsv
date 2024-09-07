@@ -1127,35 +1127,13 @@
 127-5	_	animal	_	_	_	_
 127-6	_	!	_	_	_	_
 
-#Text=As the vacation gets closer to the end of June , Katie reveals her favorite locations for photo shoot and how to get over the fear of being missed .
-128-1	_	As	_	_	_	_
-128-2	_	the	_	_	_	_
-128-3	_	vacation	_	_	_	_
-128-4	_	gets	_	_	_	_
-128-5	_	closer	_	_	_	_
-128-6	_	to	_	_	_	_
-128-7	_	the	_	_	_	_
-128-8	_	end	_	_	_	_
-128-9	_	of	_	_	_	_
-128-10	_	June	_	_	_	_
-128-11	_	,	_	_	_	_
-128-12	_	Katie	abstract[158]	new[158]	coref	128-15[158_159]
-128-13	_	reveals	_	_	_	_
-128-14	_	her	abstract[159]	new[159]	_	_
-128-15	_	favorite	_	_	_	_
-128-16	_	locations	_	_	_	_
-128-17	_	for	_	_	_	_
-128-18	_	photo	_	_	_	_
-128-19	_	shoot	_	_	_	_
-128-20	_	and	_	_	_	_
-128-21	_	how	_	_	_	_
-128-22	_	to	_	_	_	_
-128-23	_	get	_	_	_	_
-128-24	_	over	_	_	_	_
-128-25	_	the	_	_	_	_
-128-26	_	fear	_	_	_	_
-128-27	_	of	_	_	_	_
-128-28	_	being	_	_	_	_
-128-29	_	missed	_	_	_	_
-128-30	_	.	_	_	_	_
+#Text=How to plan the best summer vacation .
+128-1	_	How	_	_	_	_
+128-2	_	to	_	_	_	_
+128-3	_	plan	_	_	_	_
+128-4	_	the	_	_	_	_
+128-5	_	best	_	_	_	_
+128-6	_	summer	_	_	_	_
+128-7	_	vacation	_	_	_	_
+128-8	_	.	_	_	_	_
 

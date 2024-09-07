@@ -1142,22 +1142,37 @@
 38-30	_	reputations	_	_	_	_
 38-31	_	.	_	_	_	_
 
-#Text=In this issue , Martina Streisand asks how to avoid the poisonous effects of epistemic pollution .
-39-1	_	In	_	_	_	_
-39-2	_	this	_	_	_	_
-39-3	_	issue	_	_	_	_
-39-4	_	,	_	_	_	_
-39-5	_	Martina	_	_	_	_
-39-6	_	Streisand	_	_	_	_
-39-7	_	asks	_	_	_	_
-39-8	_	how	_	_	_	_
-39-9	_	to	_	_	_	_
-39-10	_	avoid	_	_	_	_
-39-11	_	the	_	_	_	_
-39-12	_	poisonous	_	_	_	_
-39-13	_	effects	_	_	_	_
-39-14	_	of	_	_	_	_
-39-15	_	epistemic	_	_	_	_
-39-16	_	pollution	_	_	_	_
-39-17	_	.	_	_	_	_
+#Text=The editors of Science magazine surveyed 20 scientists and scientists from the fields of science to try to determine whether they were a true expert or a hoax that erodes reputations .
+39-1	_	The	_	_	_	_
+39-2	_	editors	_	_	_	_
+39-3	_	of	_	_	_	_
+39-4	_	Science	_	_	_	_
+39-5	_	magazine	_	_	_	_
+39-6	_	surveyed	_	_	_	_
+39-7	_	20	abstract[77]	new[77]	coref	39-21[77_78]
+39-8	_	scientists	abstract[77]	new[77]	_	_
+39-9	_	and	abstract[77]	new[77]	_	_
+39-10	_	scientists	abstract[77]	new[77]	_	_
+39-11	_	from	abstract[77]	new[77]	_	_
+39-12	_	the	abstract[77]	new[77]	_	_
+39-13	_	fields	abstract[77]	new[77]	_	_
+39-14	_	of	abstract[77]	new[77]	_	_
+39-15	_	science	abstract[77]	new[77]	_	_
+39-16	_	to	_	_	_	_
+39-17	_	try	_	_	_	_
+39-18	_	to	_	_	_	_
+39-19	_	determine	_	_	_	_
+39-20	_	whether	_	_	_	_
+39-21	_	they	abstract[78]	new[78]	_	_
+39-22	_	were	_	_	_	_
+39-23	_	a	_	_	_	_
+39-24	_	true	_	_	_	_
+39-25	_	expert	_	_	_	_
+39-26	_	or	_	_	_	_
+39-27	_	a	_	_	_	_
+39-28	_	hoax	_	_	_	_
+39-29	_	that	_	_	_	_
+39-30	_	erodes	_	_	_	_
+39-31	_	reputations	_	_	_	_
+39-32	_	.	_	_	_	_
 

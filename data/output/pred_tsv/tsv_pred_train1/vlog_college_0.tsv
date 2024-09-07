@@ -4,8 +4,8 @@
 
 
 #Text=Good morning friends !
-1-1	_	Good	abstract[139]	new[139]	coref	45-11[139_140]
-1-2	_	morning	abstract[139]	new[139]	_	_
+1-1	_	Good	abstract[143]	new[143]	coref	45-11[143_144]
+1-2	_	morning	abstract[143]	new[143]	_	_
 1-3	_	friends	_	_	_	_
 1-4	_	!	_	_	_	_
 
@@ -389,8 +389,8 @@
 19-2	_	'm	_	_	_	_
 19-3	_	going	_	_	_	_
 19-4	_	to	_	_	_	_
-19-5	_	Saxby	abstract[127]	new[127]	coref	34-8[127_128]
-19-6	_	's	abstract[127]	new[127]	_	_
+19-5	_	Saxby	abstract[130]	new[130]	coref	34-8[130_131]
+19-6	_	's	abstract[130]	new[130]	_	_
 19-7	_	right	_	_	_	_
 19-8	_	after	_	_	_	_
 19-9	_	to	_	_	_	_
@@ -494,23 +494,23 @@
 27-6	_	.	_	_	_	_
 
 #Text=She 's nice .
-28-1	_	She	abstract[121]	new[121]	coref	29-1[121_122]
+28-1	_	She	abstract[124]	new[124]	coref	29-1[124_125]
 28-2	_	's	_	_	_	_
 28-3	_	nice	_	_	_	_
 28-4	_	.	_	_	_	_
 
 #Text=She gave me a foot massage .
-29-1	_	She	abstract[122]	new[122]	_	_
+29-1	_	She	abstract[125]	new[125]	_	_
 29-2	_	gave	_	_	_	_
-29-3	_	me	abstract[129]	new[129]	coref	38-1[129_130]
-29-4	_	a	abstract[123]	new[123]	coref	30-2[123_124]
-29-5	_	foot	abstract[123]	new[123]	_	_
-29-6	_	massage	abstract[123]	new[123]	_	_
+29-3	_	me	abstract[133]	new[133]	coref	38-1[133_134]
+29-4	_	a	abstract[126]	new[126]	coref	30-2[126_127]
+29-5	_	foot	abstract[126]	new[126]	_	_
+29-6	_	massage	abstract[126]	new[126]	_	_
 29-7	_	.	_	_	_	_
 
 #Text=That one I was kind of like , whoa I 'm being touched now .
-30-1	_	That	abstract[124]	new[124]	coref	31-1[124_125]
-30-2	_	one	abstract[124]	new[124]	_	_
+30-1	_	That	abstract[127]	new[127]	coref	31-1[127_128]
+30-2	_	one	abstract[127]	new[127]	_	_
 30-3	_	I	abstract[73]	new[73]	coref	30-11[73_74]
 30-4	_	was	_	_	_	_
 30-5	_	kind	_	_	_	_
@@ -526,7 +526,7 @@
 30-15	_	.	_	_	_	_
 
 #Text=It was nice , though .
-31-1	_	It	abstract[125]	new[125]	coref	33-11[125_126]
+31-1	_	It	abstract[128]	new[128]	coref	33-11[128_129]
 31-2	_	was	_	_	_	_
 31-3	_	nice	_	_	_	_
 31-4	_	,	_	_	_	_
@@ -548,7 +548,7 @@
 33-8	_	but	_	_	_	_
 33-9	_	like	_	_	_	_
 33-10	_	,	_	_	_	_
-33-11	_	this	abstract[126]	new[126]	_	_
+33-11	_	this	abstract[129]	new[129]	_	_
 33-12	_	was	_	_	_	_
 33-13	_	fine	_	_	_	_
 33-14	_	.	_	_	_	_
@@ -557,12 +557,12 @@
 34-1	_	But	_	_	_	_
 34-2	_	yeah	_	_	_	_
 34-3	_	,	_	_	_	_
-34-4	_	we	abstract[142]	new[142]	coref	47-3[142_143]
+34-4	_	we	abstract[146]	new[146]	coref	47-3[146_147]
 34-5	_	're	_	_	_	_
 34-6	_	heading	_	_	_	_
 34-7	_	to	_	_	_	_
-34-8	_	Saxby	abstract[128]	new[128]	_	_
-34-9	_	's	abstract[128]	new[128]	_	_
+34-8	_	Saxby	abstract[131]	new[131]	coref	107-25[131_132]
+34-9	_	's	abstract[131]	new[131]	_	_
 34-10	_	now	_	_	_	_
 34-11	_	to	_	_	_	_
 34-12	_	do	_	_	_	_
@@ -602,21 +602,21 @@
 37-12	_	.	_	_	_	_
 
 #Text=I got Starbucks and went to United by Blue one day and I poured it into a different cup .
-38-1	_	I	abstract[130]	new[130]	coref	38-13[130_131]
+38-1	_	I	abstract[134]	new[134]	coref	38-13[134_135]
 38-2	_	got	_	_	_	_
-38-3	_	Starbucks	abstract[133]	new[133]	coref	38-15[133_134]
+38-3	_	Starbucks	abstract[137]	new[137]	coref	38-15[137_138]
 38-4	_	and	_	_	_	_
 38-5	_	went	_	_	_	_
 38-6	_	to	_	_	_	_
-38-7	_	United	abstract[136]	new[136]	coref	41-5[136_137]
-38-8	_	by	abstract[136]	new[136]	_	_
-38-9	_	Blue	abstract[136]	new[136]	_	_
+38-7	_	United	abstract[140]	new[140]	coref	41-5[140_141]
+38-8	_	by	abstract[140]	new[140]	_	_
+38-9	_	Blue	abstract[140]	new[140]	_	_
 38-10	_	one	_	_	_	_
 38-11	_	day	_	_	_	_
 38-12	_	and	_	_	_	_
-38-13	_	I	abstract[131]	new[131]	coref	39-2[131_132]
+38-13	_	I	abstract[135]	new[135]	coref	39-2[135_136]
 38-14	_	poured	_	_	_	_
-38-15	_	it	abstract[134]	new[134]	coref	40-1[134_135]
+38-15	_	it	abstract[138]	new[138]	coref	40-1[138_139]
 38-16	_	into	_	_	_	_
 38-17	_	a	_	_	_	_
 38-18	_	different	_	_	_	_
@@ -625,14 +625,14 @@
 
 #Text=Are you fucking kidding me ?
 39-1	_	Are	_	_	_	_
-39-2	_	you	abstract[132]	new[132]	_	_
+39-2	_	you	abstract[136]	new[136]	_	_
 39-3	_	fucking	_	_	_	_
 39-4	_	kidding	_	_	_	_
 39-5	_	me	abstract[81]	new[81]	coref	45-1[81_82]
 39-6	_	?	_	_	_	_
 
 #Text=It 's cheaper !
-40-1	_	It	abstract[135]	new[135]	_	_
+40-1	_	It	abstract[139]	new[139]	_	_
 40-2	_	's	_	_	_	_
 40-3	_	cheaper	_	_	_	_
 40-4	_	!	_	_	_	_
@@ -642,9 +642,9 @@
 41-2	_	is	_	_	_	_
 41-3	_	cheaper	_	_	_	_
 41-4	_	than	_	_	_	_
-41-5	_	United	abstract[137]	new[137]	coref	43-1[137_138]
-41-6	_	by	abstract[137]	new[137]	_	_
-41-7	_	Blue	abstract[137]	new[137]	_	_
+41-5	_	United	abstract[141]	new[141]	coref	43-1[141_142]
+41-6	_	by	abstract[141]	new[141]	_	_
+41-7	_	Blue	abstract[141]	new[141]	_	_
 41-8	_	?	_	_	_	_
 
 #Text=Yeah .
@@ -652,7 +652,7 @@
 42-2	_	.	_	_	_	_
 
 #Text=That 's just like a local cafe .
-43-1	_	That	abstract[138]	new[138]	_	_
+43-1	_	That	abstract[142]	new[142]	_	_
 43-2	_	's	_	_	_	_
 43-3	_	just	_	_	_	_
 43-4	_	like	_	_	_	_
@@ -680,8 +680,8 @@
 45-8	_	than	_	_	_	_
 45-9	_	I	abstract[83]	new[83]	coref	46-1[83_84]
 45-10	_	was	_	_	_	_
-45-11	_	this	abstract[140]	new[140]	coref	103-20[140_141]
-45-12	_	morning	abstract[140]	new[140]	_	_
+45-11	_	this	abstract[144]	new[144]	coref	103-20[144_145]
+45-12	_	morning	abstract[144]	new[144]	_	_
 45-13	_	.	_	_	_	_
 
 #Text=I literally started the vlog and I was like , " hey ! " .
@@ -704,7 +704,7 @@
 #Text=And now we did yoga !
 47-1	_	And	_	_	_	_
 47-2	_	now	_	_	_	_
-47-3	_	we	abstract[143]	new[143]	coref	48-3[143_144]
+47-3	_	we	abstract[147]	new[147]	coref	48-3[147_148]
 47-4	_	did	_	_	_	_
 47-5	_	yoga	_	_	_	_
 47-6	_	!	_	_	_	_
@@ -712,7 +712,7 @@
 #Text=So now we did yoga .
 48-1	_	So	_	_	_	_
 48-2	_	now	_	_	_	_
-48-3	_	we	abstract[144]	new[144]	_	_
+48-3	_	we	abstract[148]	new[148]	_	_
 48-4	_	did	_	_	_	_
 48-5	_	yoga	_	_	_	_
 48-6	_	.	_	_	_	_
@@ -766,7 +766,7 @@
 #Text=Good afternoon friends !
 52-1	_	Good	_	_	_	_
 52-2	_	afternoon	_	_	_	_
-52-3	_	friends	abstract[145]	new[145]	coref	59-2[145_146]
+52-3	_	friends	abstract[149]	new[149]	coref	59-2[149_150]
 52-4	_	!	_	_	_	_
 
 #Text=I was a terrible vlogger today because I got home and just completely knocked so .
@@ -775,7 +775,7 @@
 53-3	_	a	_	_	_	_
 53-4	_	terrible	_	_	_	_
 53-5	_	vlogger	_	_	_	_
-53-6	_	today	abstract[155]	new[155]	coref	60-3[155_156]
+53-6	_	today	abstract[159]	new[159]	coref	60-3[159_160]
 53-7	_	because	_	_	_	_
 53-8	_	I	abstract[90]	new[90]	coref	60-10[90_91]
 53-9	_	got	_	_	_	_
@@ -817,7 +817,7 @@
 57-7	_	p.m.	_	_	_	_
 
 #Text=We 're making dinner .
-58-1	_	We	abstract[147]	new[147]	coref	59-6[147_148]
+58-1	_	We	abstract[151]	new[151]	coref	59-6[151_152]
 58-2	_	're	_	_	_	_
 58-3	_	making	_	_	_	_
 58-4	_	dinner	_	_	_	_
@@ -825,13 +825,13 @@
 
 #Text=As you can see , we 're we 're actively making dinner .
 59-1	_	As	_	_	_	_
-59-2	_	you	abstract[146]	new[146]	_	_
+59-2	_	you	abstract[150]	new[150]	_	_
 59-3	_	can	_	_	_	_
 59-4	_	see	_	_	_	_
 59-5	_	,	_	_	_	_
-59-6	_	we	abstract[148]	new[148]	coref	59-8[148_149]
+59-6	_	we	abstract[152]	new[152]	coref	59-8[152_153]
 59-7	_	're	_	_	_	_
-59-8	_	we	abstract[149]	new[149]	coref	62-3[149_150]
+59-8	_	we	abstract[153]	new[153]	coref	62-3[153_154]
 59-9	_	're	_	_	_	_
 59-10	_	actively	_	_	_	_
 59-11	_	making	_	_	_	_
@@ -841,8 +841,8 @@
 #Text=And on today 's vlog segment of cooking with Ash , Harry !
 60-1	_	And	_	_	_	_
 60-2	_	on	_	_	_	_
-60-3	_	today	abstract[156]	new[156]	coref	102-4[156_157]
-60-4	_	's	abstract[156]	new[156]	_	_
+60-3	_	today	abstract[160]	new[160]	coref	102-4[160_161]
+60-4	_	's	abstract[160]	new[160]	_	_
 60-5	_	vlog	_	_	_	_
 60-6	_	segment	_	_	_	_
 60-7	_	of	_	_	_	_
@@ -850,7 +850,7 @@
 60-9	_	with	_	_	_	_
 60-10	_	Ash	abstract[91]	new[91]	coref	63-6[91_92]
 60-11	_	,	_	_	_	_
-60-12	_	Harry	abstract[159]	new[159]	coref	63-2[159_160]
+60-12	_	Harry	abstract[163]	new[163]	coref	63-2[163_164]
 60-13	_	!	_	_	_	_
 
 #Text=Both wearing sorority sweatshirts .
@@ -863,7 +863,7 @@
 #Text=One of us needs to change .
 62-1	_	One	_	_	_	_
 62-2	_	of	_	_	_	_
-62-3	_	us	abstract[150]	new[150]	coref	64-1[150_151]
+62-3	_	us	abstract[154]	new[154]	coref	64-1[154_155]
 62-4	_	needs	_	_	_	_
 62-5	_	to	_	_	_	_
 62-6	_	change	_	_	_	_
@@ -871,87 +871,87 @@
 
 #Text=Well I got this from you and I put it on first .
 63-1	_	Well	_	_	_	_
-63-2	_	I	abstract[160]	new[160]	coref	63-8[160_161]
+63-2	_	I	abstract[164]	new[164]	coref	63-8[164_165]
 63-3	_	got	_	_	_	_
-63-4	_	this	abstract[164]	new[164]	coref	63-10[164_165]
+63-4	_	this	abstract[168]	new[168]	coref	63-10[168_169]
 63-5	_	from	_	_	_	_
 63-6	_	you	abstract[92]	new[92]	coref	65-6[92_93]
 63-7	_	and	_	_	_	_
-63-8	_	I	abstract[161]	new[161]	coref	69-1[161_162]
+63-8	_	I	abstract[165]	new[165]	coref	69-1[165_166]
 63-9	_	put	_	_	_	_
-63-10	_	it	abstract[165]	new[165]	_	_
+63-10	_	it	abstract[169]	new[169]	_	_
 63-11	_	on	_	_	_	_
 63-12	_	first	_	_	_	_
 63-13	_	.	_	_	_	_
 
 #Text=We 're making pesto pasta with penne , roasted peppers , onion , garlic , and avocado .
-64-1	_	We	abstract[151]	new[151]	coref	70-3[151_152]
+64-1	_	We	abstract[155]	new[155]	coref	70-3[155_156]
 64-2	_	're	_	_	_	_
 64-3	_	making	_	_	_	_
-64-4	_	pesto	abstract[166]	new[166]	coref	65-2[166_167]
-64-5	_	pasta	abstract[166]	new[166]	_	_
-64-6	_	with	abstract[166]	new[166]	_	_
-64-7	_	penne	abstract[166]	new[166]	_	_
-64-8	_	,	abstract[166]	new[166]	_	_
-64-9	_	roasted	abstract[166]	new[166]	_	_
-64-10	_	peppers	abstract[166]	new[166]	_	_
-64-11	_	,	abstract[166]	new[166]	_	_
-64-12	_	onion	abstract[166]	new[166]	_	_
-64-13	_	,	abstract[166]	new[166]	_	_
-64-14	_	garlic	abstract[166]	new[166]	_	_
-64-15	_	,	abstract[166]	new[166]	_	_
-64-16	_	and	abstract[166]	new[166]	_	_
-64-17	_	avocado	abstract[166]	new[166]	_	_
+64-4	_	pesto	abstract[170]	new[170]	coref	65-2[170_171]
+64-5	_	pasta	abstract[170]	new[170]	_	_
+64-6	_	with	abstract[170]	new[170]	_	_
+64-7	_	penne	abstract[170]	new[170]	_	_
+64-8	_	,	abstract[170]	new[170]	_	_
+64-9	_	roasted	abstract[170]	new[170]	_	_
+64-10	_	peppers	abstract[170]	new[170]	_	_
+64-11	_	,	abstract[170]	new[170]	_	_
+64-12	_	onion	abstract[170]	new[170]	_	_
+64-13	_	,	abstract[170]	new[170]	_	_
+64-14	_	garlic	abstract[170]	new[170]	_	_
+64-15	_	,	abstract[170]	new[170]	_	_
+64-16	_	and	abstract[170]	new[170]	_	_
+64-17	_	avocado	abstract[170]	new[170]	_	_
 64-18	_	.	_	_	_	_
 
 #Text=AKA every vegetarian thing that Ash has in her fridge that will remotely go well together .
 65-1	_	AKA	_	_	_	_
-65-2	_	every	abstract[167]	new[167]	coref	91-6[167_168]
-65-3	_	vegetarian	abstract[167]	new[167]	_	_
-65-4	_	thing	abstract[167]	new[167]	_	_
-65-5	_	that	abstract[167]	new[167]	_	_
-65-6	_	Ash	abstract[93]|abstract[167]	new[93]|new[167]	coref	65-9[93_94]
-65-7	_	has	abstract[167]	new[167]	_	_
-65-8	_	in	abstract[167]	new[167]	_	_
-65-9	_	her	abstract[94]|abstract[167]	new[94]|new[167]	coref	69-3[94_95]
-65-10	_	fridge	abstract[167]	new[167]	_	_
-65-11	_	that	abstract[167]	new[167]	_	_
-65-12	_	will	abstract[167]	new[167]	_	_
-65-13	_	remotely	abstract[167]	new[167]	_	_
-65-14	_	go	abstract[167]	new[167]	_	_
-65-15	_	well	abstract[167]	new[167]	_	_
-65-16	_	together	abstract[167]	new[167]	_	_
+65-2	_	every	abstract[171]	new[171]	coref	91-6[171_172]
+65-3	_	vegetarian	abstract[171]	new[171]	_	_
+65-4	_	thing	abstract[171]	new[171]	_	_
+65-5	_	that	abstract[171]	new[171]	_	_
+65-6	_	Ash	abstract[93]|abstract[171]	new[93]|new[171]	coref	65-9[93_94]
+65-7	_	has	abstract[171]	new[171]	_	_
+65-8	_	in	abstract[171]	new[171]	_	_
+65-9	_	her	abstract[94]|abstract[171]	new[94]|new[171]	coref	69-3[94_95]
+65-10	_	fridge	abstract[171]	new[171]	_	_
+65-11	_	that	abstract[171]	new[171]	_	_
+65-12	_	will	abstract[171]	new[171]	_	_
+65-13	_	remotely	abstract[171]	new[171]	_	_
+65-14	_	go	abstract[171]	new[171]	_	_
+65-15	_	well	abstract[171]	new[171]	_	_
+65-16	_	together	abstract[171]	new[171]	_	_
 65-17	_	.	_	_	_	_
 
 #Text=Gordon Ramsay could never with this technique .
-66-1	_	Gordon	abstract[172]	new[172]	coref	69-23[172_173]
-66-2	_	Ramsay	abstract[172]	new[172]	_	_
+66-1	_	Gordon	abstract[176]	new[176]	coref	69-23[176_177]
+66-2	_	Ramsay	abstract[176]	new[176]	_	_
 66-3	_	could	_	_	_	_
 66-4	_	never	_	_	_	_
 66-5	_	with	_	_	_	_
-66-6	_	this	abstract[169]	new[169]	coref	67-1[169_170]
-66-7	_	technique	abstract[169]	new[169]	_	_
+66-6	_	this	abstract[173]	new[173]	coref	67-1[173_174]
+66-7	_	technique	abstract[173]	new[173]	_	_
 66-8	_	.	_	_	_	_
 
 #Text=The one - handed type .
-67-1	_	The	abstract[170]	new[170]	coref	68-1[170_171]
-67-2	_	one	abstract[170]	new[170]	_	_
-67-3	_	-	abstract[170]	new[170]	_	_
-67-4	_	handed	abstract[170]	new[170]	_	_
-67-5	_	type	abstract[170]	new[170]	_	_
+67-1	_	The	abstract[174]	new[174]	coref	68-1[174_175]
+67-2	_	one	abstract[174]	new[174]	_	_
+67-3	_	-	abstract[174]	new[174]	_	_
+67-4	_	handed	abstract[174]	new[174]	_	_
+67-5	_	type	abstract[174]	new[174]	_	_
 67-6	_	.	_	_	_	_
 
 #Text=The one - handed chop whatever .
-68-1	_	The	abstract[171]	new[171]	_	_
-68-2	_	one	abstract[171]	new[171]	_	_
-68-3	_	-	abstract[171]	new[171]	_	_
-68-4	_	handed	abstract[171]	new[171]	_	_
-68-5	_	chop	abstract[171]	new[171]	_	_
-68-6	_	whatever	abstract[171]	new[171]	_	_
+68-1	_	The	abstract[175]	new[175]	_	_
+68-2	_	one	abstract[175]	new[175]	_	_
+68-3	_	-	abstract[175]	new[175]	_	_
+68-4	_	handed	abstract[175]	new[175]	_	_
+68-5	_	chop	abstract[175]	new[175]	_	_
+68-6	_	whatever	abstract[175]	new[175]	_	_
 68-7	_	.	_	_	_	_
 
 #Text=You know I 've been cooking a lot more in my vlogs and I 'm starting to think like , what if Gordon Ramsay is watching my vlogs and just absolutely shitting on me .
-69-1	_	You	abstract[162]	new[162]	coref	70-10[162_163]
+69-1	_	You	abstract[166]	new[166]	coref	70-10[166_167]
 69-2	_	know	_	_	_	_
 69-3	_	I	abstract[95]	new[95]	coref	69-11[95_96]
 69-4	_	've	_	_	_	_
@@ -961,8 +961,8 @@
 69-8	_	lot	_	_	_	_
 69-9	_	more	_	_	_	_
 69-10	_	in	_	_	_	_
-69-11	_	my	abstract[96]|abstract[174]	new[96]|new[174]	coref|coref	69-14[96_97]|69-27[174_175]
-69-12	_	vlogs	abstract[174]	new[174]	_	_
+69-11	_	my	abstract[96]|abstract[178]	new[96]|new[178]	coref|coref	69-14[96_97]|69-27[178_179]
+69-12	_	vlogs	abstract[178]	new[178]	_	_
 69-13	_	and	_	_	_	_
 69-14	_	I	abstract[97]	new[97]	coref	69-27[97_98]
 69-15	_	'm	_	_	_	_
@@ -973,12 +973,12 @@
 69-20	_	,	_	_	_	_
 69-21	_	what	_	_	_	_
 69-22	_	if	_	_	_	_
-69-23	_	Gordon	abstract[173]	new[173]	_	_
-69-24	_	Ramsay	abstract[173]	new[173]	_	_
+69-23	_	Gordon	abstract[177]	new[177]	_	_
+69-24	_	Ramsay	abstract[177]	new[177]	_	_
 69-25	_	is	_	_	_	_
 69-26	_	watching	_	_	_	_
-69-27	_	my	abstract[98]|abstract[175]	new[98]|new[175]	coref	69-34[98_99]
-69-28	_	vlogs	abstract[175]	new[175]	_	_
+69-27	_	my	abstract[98]|abstract[179]	new[98]|new[179]	coref	69-34[98_99]
+69-28	_	vlogs	abstract[179]	new[179]	_	_
 69-29	_	and	_	_	_	_
 69-30	_	just	_	_	_	_
 69-31	_	absolutely	_	_	_	_
@@ -990,15 +990,15 @@
 #Text=Alright friends we 're back , but now on Harry 's phone because my phone died .
 70-1	_	Alright	_	_	_	_
 70-2	_	friends	_	_	_	_
-70-3	_	we	abstract[152]	new[152]	coref	84-2[152_153]
+70-3	_	we	abstract[156]	new[156]	coref	84-2[156_157]
 70-4	_	're	_	_	_	_
 70-5	_	back	_	_	_	_
 70-6	_	,	_	_	_	_
 70-7	_	but	_	_	_	_
 70-8	_	now	_	_	_	_
 70-9	_	on	_	_	_	_
-70-10	_	Harry	abstract[163]	new[163]	_	_
-70-11	_	's	abstract[163]	new[163]	_	_
+70-10	_	Harry	abstract[167]	new[167]	_	_
+70-11	_	's	abstract[167]	new[167]	_	_
 70-12	_	phone	_	_	_	_
 70-13	_	because	_	_	_	_
 70-14	_	my	abstract[100]	new[100]	coref	74-7[100_101]
@@ -1014,13 +1014,13 @@
 72-1	_	We	abstract[49]	new[49]	coref	72-3[49_50]
 72-2	_	we	abstract[50]	new[50]	_	_
 72-3	_	love	_	_	_	_
-72-4	_	a	abstract[176]	new[176]	coref	73-5[176_177]
-72-5	_	boyfriend	abstract[176]	new[176]	_	_
-72-6	_	that	abstract[176]	new[176]	_	_
-72-7	_	supports	abstract[176]	new[176]	_	_
-72-8	_	the	abstract[176]	new[176]	_	_
-72-9	_	YouTube	abstract[176]	new[176]	_	_
-72-10	_	hustle	abstract[176]	new[176]	_	_
+72-4	_	a	abstract[180]	new[180]	coref	73-5[180_181]
+72-5	_	boyfriend	abstract[180]	new[180]	_	_
+72-6	_	that	abstract[180]	new[180]	_	_
+72-7	_	supports	abstract[180]	new[180]	_	_
+72-8	_	the	abstract[180]	new[180]	_	_
+72-9	_	YouTube	abstract[180]	new[180]	_	_
+72-10	_	hustle	abstract[180]	new[180]	_	_
 72-11	_	.	_	_	_	_
 
 #Text=Yes it 's a I provide a service .
@@ -1028,7 +1028,7 @@
 73-2	_	it	_	_	_	_
 73-3	_	's	_	_	_	_
 73-4	_	a	_	_	_	_
-73-5	_	I	abstract[177]	new[177]	coref	74-3[177_178]
+73-5	_	I	abstract[181]	new[181]	coref	74-3[181_182]
 73-6	_	provide	_	_	_	_
 73-7	_	a	_	_	_	_
 73-8	_	service	_	_	_	_
@@ -1037,32 +1037,32 @@
 #Text=Yeah , he does n't watch my videos though .
 74-1	_	Yeah	_	_	_	_
 74-2	_	,	_	_	_	_
-74-3	_	he	abstract[178]	new[178]	coref	75-1[178_179]
+74-3	_	he	abstract[182]	new[182]	coref	75-1[182_183]
 74-4	_	does	_	_	_	_
 74-5	_	n't	_	_	_	_
 74-6	_	watch	_	_	_	_
-74-7	_	my	abstract[101]|abstract[195]	new[101]|new[195]	coref|coref	76-4[101_102]|75-3[195_196]
-74-8	_	videos	abstract[195]	new[195]	_	_
+74-7	_	my	abstract[101]|abstract[199]	new[101]|new[199]	coref|coref	76-4[101_102]|75-3[199_200]
+74-8	_	videos	abstract[199]	new[199]	_	_
 74-9	_	though	_	_	_	_
 74-10	_	.	_	_	_	_
 
 #Text=I like them .
-75-1	_	I	abstract[179]	new[179]	coref	76-1[179_180]
+75-1	_	I	abstract[183]	new[183]	coref	76-1[183_184]
 75-2	_	like	_	_	_	_
-75-3	_	them	abstract[196]	new[196]	coref	76-4[196_197]
+75-3	_	them	abstract[200]	new[200]	coref	76-4[200_201]
 75-4	_	.	_	_	_	_
 
 #Text=You you like my videos ?
-76-1	_	You	abstract[180]	new[180]	coref	76-2[180_181]
-76-2	_	you	abstract[181]	new[181]	coref	77-2[181_182]
+76-1	_	You	abstract[184]	new[184]	coref	76-2[184_185]
+76-2	_	you	abstract[185]	new[185]	coref	77-2[185_186]
 76-3	_	like	_	_	_	_
-76-4	_	my	abstract[102]|abstract[197]	new[102]|new[197]	coref|coref	85-1[102_103]|78-11[197_198]
-76-5	_	videos	abstract[197]	new[197]	_	_
+76-4	_	my	abstract[102]|abstract[201]	new[102]|new[201]	coref|coref	85-1[102_103]|78-11[201_202]
+76-5	_	videos	abstract[201]	new[201]	_	_
 76-6	_	?	_	_	_	_
 
 #Text=Yeah I press the like button .
 77-1	_	Yeah	_	_	_	_
-77-2	_	I	abstract[182]	new[182]	coref	78-3[182_183]
+77-2	_	I	abstract[186]	new[186]	coref	78-3[186_187]
 77-3	_	press	_	_	_	_
 77-4	_	the	_	_	_	_
 77-5	_	like	_	_	_	_
@@ -1072,7 +1072,7 @@
 #Text=Oh so you do n't even like , emotionally like them .
 78-1	_	Oh	_	_	_	_
 78-2	_	so	_	_	_	_
-78-3	_	you	abstract[183]	new[183]	coref	79-1[183_184]
+78-3	_	you	abstract[187]	new[187]	coref	79-1[187_188]
 78-4	_	do	_	_	_	_
 78-5	_	n't	_	_	_	_
 78-6	_	even	_	_	_	_
@@ -1080,72 +1080,72 @@
 78-8	_	,	_	_	_	_
 78-9	_	emotionally	_	_	_	_
 78-10	_	like	_	_	_	_
-78-11	_	them	abstract[198]	new[198]	coref	79-5[198_199]
+78-11	_	them	abstract[202]	new[202]	coref	79-5[202_203]
 78-12	_	.	_	_	_	_
 
 #Text=You just physically like them .
-79-1	_	You	abstract[184]	new[184]	coref	80-2[184_185]
+79-1	_	You	abstract[188]	new[188]	coref	80-2[188_189]
 79-2	_	just	_	_	_	_
 79-3	_	physically	_	_	_	_
 79-4	_	like	_	_	_	_
-79-5	_	them	abstract[199]	new[199]	coref	80-8[199_200]
+79-5	_	them	abstract[203]	new[203]	coref	80-8[203_204]
 79-6	_	.	_	_	_	_
 
 #Text=Well I 'm there for some of them so I like those .
 80-1	_	Well	_	_	_	_
-80-2	_	I	abstract[185]	new[185]	coref	80-10[185_186]
+80-2	_	I	abstract[189]	new[189]	coref	80-10[189_190]
 80-3	_	'm	_	_	_	_
 80-4	_	there	_	_	_	_
 80-5	_	for	_	_	_	_
-80-6	_	some	abstract[201]	new[201]	coref	80-12[201_202]
-80-7	_	of	abstract[201]	new[201]	_	_
-80-8	_	them	abstract[200]|abstract[201]	new[200]|new[201]	_	_
+80-6	_	some	abstract[205]	new[205]	coref	80-12[205_206]
+80-7	_	of	abstract[205]	new[205]	_	_
+80-8	_	them	abstract[204]|abstract[205]	new[204]|new[205]	_	_
 80-9	_	so	_	_	_	_
-80-10	_	I	abstract[186]	new[186]	coref	81-1[186_187]
+80-10	_	I	abstract[190]	new[190]	coref	81-1[190_191]
 80-11	_	like	_	_	_	_
-80-12	_	those	abstract[202]	new[202]	coref	81-4[202_203]
+80-12	_	those	abstract[206]	new[206]	coref	81-4[206_207]
 80-13	_	.	_	_	_	_
 
 #Text=You only like the ones you 're featured in ?
-81-1	_	You	abstract[187]	new[187]	coref	81-6[187_188]
+81-1	_	You	abstract[191]	new[191]	coref	81-6[191_192]
 81-2	_	only	_	_	_	_
 81-3	_	like	_	_	_	_
-81-4	_	the	abstract[203]	new[203]	_	_
-81-5	_	ones	abstract[203]	new[203]	_	_
-81-6	_	you	abstract[188]|abstract[203]	new[188]|new[203]	coref	82-5[188_189]
-81-7	_	're	abstract[203]	new[203]	_	_
-81-8	_	featured	abstract[203]	new[203]	_	_
-81-9	_	in	abstract[203]	new[203]	_	_
+81-4	_	the	abstract[207]	new[207]	_	_
+81-5	_	ones	abstract[207]	new[207]	_	_
+81-6	_	you	abstract[192]|abstract[207]	new[192]|new[207]	coref	82-5[192_193]
+81-7	_	're	abstract[207]	new[207]	_	_
+81-8	_	featured	abstract[207]	new[207]	_	_
+81-9	_	in	abstract[207]	new[207]	_	_
 81-10	_	?	_	_	_	_
 
 #Text=That 's not what I — that 's not what I said .
-82-1	_	That	abstract[204]	new[204]	coref	82-7[204_205]
+82-1	_	That	abstract[208]	new[208]	coref	82-7[208_209]
 82-2	_	's	_	_	_	_
 82-3	_	not	_	_	_	_
 82-4	_	what	_	_	_	_
-82-5	_	I	abstract[189]	new[189]	coref	82-11[189_190]
+82-5	_	I	abstract[193]	new[193]	coref	82-11[193_194]
 82-6	_	—	_	_	_	_
-82-7	_	that	abstract[205]	new[205]	coref	83-1[205_206]
+82-7	_	that	abstract[209]	new[209]	coref	83-1[209_210]
 82-8	_	's	_	_	_	_
 82-9	_	not	_	_	_	_
 82-10	_	what	_	_	_	_
-82-11	_	I	abstract[190]	new[190]	coref	83-4[190_191]
+82-11	_	I	abstract[194]	new[194]	coref	83-4[194_195]
 82-12	_	said	_	_	_	_
 82-13	_	.	_	_	_	_
 
 #Text=That 's what you implied .
-83-1	_	That	abstract[206]	new[206]	_	_
+83-1	_	That	abstract[210]	new[210]	_	_
 83-2	_	's	_	_	_	_
 83-3	_	what	_	_	_	_
-83-4	_	you	abstract[191]	new[191]	coref	85-7[191_192]
+83-4	_	you	abstract[195]	new[195]	coref	85-7[195_196]
 83-5	_	implied	_	_	_	_
 83-6	_	.	_	_	_	_
 
 #Text=Are we having our first couple fight on the vlog ?
 84-1	_	Are	_	_	_	_
-84-2	_	we	abstract[153]	new[153]	coref	84-4[153_154]
+84-2	_	we	abstract[157]	new[157]	coref	84-4[157_158]
 84-3	_	having	_	_	_	_
-84-4	_	our	abstract[154]	new[154]	_	_
+84-4	_	our	abstract[158]	new[158]	_	_
 84-5	_	first	_	_	_	_
 84-6	_	couple	_	_	_	_
 84-7	_	fight	_	_	_	_
@@ -1161,12 +1161,12 @@
 85-4	_	words	_	_	_	_
 85-5	_	out	_	_	_	_
 85-6	_	of	_	_	_	_
-85-7	_	my	abstract[192]	new[192]	coref	86-1[192_193]
+85-7	_	my	abstract[196]	new[196]	coref	86-1[196_197]
 85-8	_	mouth	_	_	_	_
 85-9	_	.	_	_	_	_
 
 #Text=I just do n't appreciate it .
-86-1	_	I	abstract[193]	new[193]	coref	89-2[193_194]
+86-1	_	I	abstract[197]	new[197]	coref	89-2[197_198]
 86-2	_	just	_	_	_	_
 86-3	_	do	_	_	_	_
 86-4	_	n't	_	_	_	_
@@ -1188,8 +1188,8 @@
 87-11	_	gon	_	_	_	_
 87-12	_	na	_	_	_	_
 87-13	_	call	_	_	_	_
-87-14	_	this	abstract[216]	new[216]	coref	97-8[216_217]
-87-15	_	vlog	abstract[216]	new[216]	_	_
+87-14	_	this	abstract[220]	new[220]	coref	97-8[220_221]
+87-15	_	vlog	abstract[220]	new[220]	_	_
 87-16	_	first	_	_	_	_
 87-17	_	couple	_	_	_	_
 87-18	_	fight	_	_	_	_
@@ -1201,33 +1201,33 @@
 
 #Text=Anyways we 're going to chop these bad boys up .
 88-1	_	Anyways	_	_	_	_
-88-2	_	we	abstract[211]	new[211]	coref	90-4[211_212]
+88-2	_	we	abstract[215]	new[215]	coref	90-4[215_216]
 88-3	_	're	_	_	_	_
 88-4	_	going	_	_	_	_
 88-5	_	to	_	_	_	_
 88-6	_	chop	_	_	_	_
-88-7	_	these	abstract[207]	new[207]	coref	89-6[207_208]
-88-8	_	bad	abstract[207]	new[207]	_	_
-88-9	_	boys	abstract[207]	new[207]	_	_
+88-7	_	these	abstract[211]	new[211]	coref	89-6[211_212]
+88-8	_	bad	abstract[211]	new[211]	_	_
+88-9	_	boys	abstract[211]	new[211]	_	_
 88-10	_	up	_	_	_	_
 88-11	_	.	_	_	_	_
 
 #Text=Do you want to use all three of them or just like one of them or ?
 89-1	_	Do	_	_	_	_
-89-2	_	you	abstract[194]	new[194]	_	_
+89-2	_	you	abstract[198]	new[198]	_	_
 89-3	_	want	_	_	_	_
 89-4	_	to	_	_	_	_
 89-5	_	use	_	_	_	_
-89-6	_	all	abstract[208]	new[208]	coref	89-15[208_209]
-89-7	_	three	abstract[208]	new[208]	_	_
-89-8	_	of	abstract[208]	new[208]	_	_
-89-9	_	them	abstract[208]	new[208]	_	_
+89-6	_	all	abstract[212]	new[212]	coref	89-15[212_213]
+89-7	_	three	abstract[212]	new[212]	_	_
+89-8	_	of	abstract[212]	new[212]	_	_
+89-9	_	them	abstract[212]	new[212]	_	_
 89-10	_	or	_	_	_	_
 89-11	_	just	_	_	_	_
 89-12	_	like	_	_	_	_
 89-13	_	one	_	_	_	_
 89-14	_	of	_	_	_	_
-89-15	_	them	abstract[209]	new[209]	coref	90-11[209_210]
+89-15	_	them	abstract[213]	new[213]	coref	90-11[213_214]
 89-16	_	or	_	_	_	_
 89-17	_	?	_	_	_	_
 
@@ -1235,17 +1235,17 @@
 90-1	_	Why	_	_	_	_
 90-2	_	do	_	_	_	_
 90-3	_	n't	_	_	_	_
-90-4	_	we	abstract[212]	new[212]	coref	90-14[212_213]
+90-4	_	we	abstract[216]	new[216]	coref	90-14[216_217]
 90-5	_	just	_	_	_	_
 90-6	_	use	_	_	_	_
 90-7	_	a	_	_	_	_
 90-8	_	little	_	_	_	_
 90-9	_	bit	_	_	_	_
 90-10	_	from	_	_	_	_
-90-11	_	all	abstract[210]	new[210]	_	_
-90-12	_	three	abstract[210]	new[210]	_	_
+90-11	_	all	abstract[214]	new[214]	_	_
+90-12	_	three	abstract[214]	new[214]	_	_
 90-13	_	so	_	_	_	_
-90-14	_	we	abstract[213]	new[213]	_	_
+90-14	_	we	abstract[217]	new[217]	_	_
 90-15	_	get	_	_	_	_
 90-16	_	some	_	_	_	_
 90-17	_	color	_	_	_	_
@@ -1259,7 +1259,7 @@
 91-3	_	let	_	_	_	_
 91-4	_	's	_	_	_	_
 91-5	_	make	_	_	_	_
-91-6	_	it	abstract[168]	new[168]	_	_
+91-6	_	it	abstract[172]	new[172]	_	_
 91-7	_	colorful	_	_	_	_
 91-8	_	.	_	_	_	_
 
@@ -1299,36 +1299,36 @@
 96-4	_	.	_	_	_	_
 
 #Text=Mom and dad if you 're watching this , I 'm making healthy food .
-97-1	_	Mom	abstract[214]	new[214]	coref	97-5[214_215]
-97-2	_	and	abstract[214]	new[214]	_	_
-97-3	_	dad	abstract[214]	new[214]	_	_
+97-1	_	Mom	abstract[218]	new[218]	coref	97-5[218_219]
+97-2	_	and	abstract[218]	new[218]	_	_
+97-3	_	dad	abstract[218]	new[218]	_	_
 97-4	_	if	_	_	_	_
-97-5	_	you	abstract[215]	new[215]	_	_
+97-5	_	you	abstract[219]	new[219]	_	_
 97-6	_	're	_	_	_	_
 97-7	_	watching	_	_	_	_
-97-8	_	this	abstract[217]	new[217]	coref	101-16[217_218]
+97-8	_	this	abstract[221]	new[221]	coref	101-16[221_222]
 97-9	_	,	_	_	_	_
 97-10	_	I	abstract[111]	new[111]	coref	101-4[111_112]
 97-11	_	'm	_	_	_	_
 97-12	_	making	_	_	_	_
-97-13	_	healthy	abstract[220]	new[220]	coref	98-3[220_221]
-97-14	_	food	abstract[220]	new[220]	_	_
+97-13	_	healthy	abstract[224]	new[224]	coref	98-3[224_225]
+97-14	_	food	abstract[224]	new[224]	_	_
 97-15	_	.	_	_	_	_
 
 #Text=Here comes the pasta .
 98-1	_	Here	_	_	_	_
 98-2	_	comes	_	_	_	_
-98-3	_	the	abstract[221]	new[221]	_	_
-98-4	_	pasta	abstract[221]	new[221]	_	_
+98-3	_	the	abstract[225]	new[225]	_	_
+98-4	_	pasta	abstract[225]	new[225]	_	_
 98-5	_	.	_	_	_	_
 
 #Text=Yay dinner !
 99-1	_	Yay	_	_	_	_
-99-2	_	dinner	abstract[222]	new[222]	coref	100-1[222_223]
+99-2	_	dinner	abstract[226]	new[226]	coref	100-1[226_227]
 99-3	_	!	_	_	_	_
 
 #Text=It 's delicious .
-100-1	_	It	abstract[223]	new[223]	_	_
+100-1	_	It	abstract[227]	new[227]	_	_
 100-2	_	's	_	_	_	_
 100-3	_	delicious	_	_	_	_
 100-4	_	.	_	_	_	_
@@ -1349,14 +1349,14 @@
 101-13	_	an	_	_	_	_
 101-14	_	outro	_	_	_	_
 101-15	_	for	_	_	_	_
-101-16	_	this	abstract[218]	new[218]	coref	105-9[218_219]
+101-16	_	this	abstract[222]	new[222]	coref	105-9[222_223]
 101-17	_	.	_	_	_	_
 
 #Text=But yeah , that was just a little day in my life .
 102-1	_	But	_	_	_	_
 102-2	_	yeah	_	_	_	_
 102-3	_	,	_	_	_	_
-102-4	_	that	abstract[157]	new[157]	coref	103-1[157_158]
+102-4	_	that	abstract[161]	new[161]	coref	103-1[161_162]
 102-5	_	was	_	_	_	_
 102-6	_	just	_	_	_	_
 102-7	_	a	_	_	_	_
@@ -1368,8 +1368,8 @@
 102-13	_	.	_	_	_	_
 
 #Text=My day really did turn around um and I did n't feel as bad as I used to in the morning .
-103-1	_	My	abstract[115]|abstract[158]	new[115]|new[158]	coref	103-9[115_116]
-103-2	_	day	abstract[158]	new[158]	_	_
+103-1	_	My	abstract[115]|abstract[162]	new[115]|new[162]	coref	103-9[115_116]
+103-2	_	day	abstract[162]	new[162]	_	_
 103-3	_	really	_	_	_	_
 103-4	_	did	_	_	_	_
 103-5	_	turn	_	_	_	_
@@ -1387,8 +1387,8 @@
 103-17	_	used	_	_	_	_
 103-18	_	to	_	_	_	_
 103-19	_	in	_	_	_	_
-103-20	_	the	abstract[141]	new[141]	_	_
-103-21	_	morning	abstract[141]	new[141]	_	_
+103-20	_	the	abstract[145]	new[145]	_	_
+103-21	_	morning	abstract[145]	new[145]	_	_
 103-22	_	.	_	_	_	_
 
 #Text=So yeah , I hope you guys enjoyed watching !
@@ -1397,25 +1397,25 @@
 104-3	_	,	_	_	_	_
 104-4	_	I	abstract[118]	new[118]	coref	105-20[118_119]
 104-5	_	hope	_	_	_	_
-104-6	_	you	abstract[224]	new[224]	coref	105-2[224_225]
-104-7	_	guys	abstract[224]	new[224]	_	_
+104-6	_	you	abstract[228]	new[228]	coref	105-2[228_229]
+104-7	_	guys	abstract[228]	new[228]	_	_
 104-8	_	enjoyed	_	_	_	_
 104-9	_	watching	_	_	_	_
 104-10	_	!	_	_	_	_
 
 #Text=If you made it to this point in the video , you are a very good human , and I 'll see you in my next one !
 105-1	_	If	_	_	_	_
-105-2	_	you	abstract[225]	new[225]	coref	105-12[225_226]
+105-2	_	you	abstract[229]	new[229]	coref	105-12[229_230]
 105-3	_	made	_	_	_	_
 105-4	_	it	_	_	_	_
 105-5	_	to	_	_	_	_
 105-6	_	this	_	_	_	_
 105-7	_	point	_	_	_	_
 105-8	_	in	_	_	_	_
-105-9	_	the	abstract[219]	new[219]	_	_
-105-10	_	video	abstract[219]	new[219]	_	_
+105-9	_	the	abstract[223]	new[223]	_	_
+105-10	_	video	abstract[223]	new[223]	_	_
 105-11	_	,	_	_	_	_
-105-12	_	you	abstract[226]	new[226]	coref	105-23[226_227]
+105-12	_	you	abstract[230]	new[230]	coref	105-23[230_231]
 105-13	_	are	_	_	_	_
 105-14	_	a	_	_	_	_
 105-15	_	very	_	_	_	_
@@ -1426,9 +1426,9 @@
 105-20	_	I	abstract[119]	new[119]	coref	105-25[119_120]
 105-21	_	'll	_	_	_	_
 105-22	_	see	_	_	_	_
-105-23	_	you	abstract[227]	new[227]	_	_
+105-23	_	you	abstract[231]	new[231]	_	_
 105-24	_	in	_	_	_	_
-105-25	_	my	abstract[120]	new[120]	_	_
+105-25	_	my	abstract[120]	new[120]	coref	107-1[120_121]
 105-26	_	next	_	_	_	_
 105-27	_	one	_	_	_	_
 105-28	_	!	_	_	_	_
@@ -1437,25 +1437,46 @@
 106-1	_	Bye	_	_	_	_
 106-2	_	!	_	_	_	_
 
-#Text=A radiology resident is trying to make a face change , and he needs to relax to do so .
-107-1	_	A	abstract[228]	new[228]	coref	107-13[228_229]
-107-2	_	radiology	abstract[228]	new[228]	_	_
-107-3	_	resident	abstract[228]	new[228]	_	_
-107-4	_	is	_	_	_	_
-107-5	_	trying	_	_	_	_
-107-6	_	to	_	_	_	_
-107-7	_	make	_	_	_	_
-107-8	_	a	_	_	_	_
-107-9	_	face	_	_	_	_
-107-10	_	change	_	_	_	_
-107-11	_	,	_	_	_	_
-107-12	_	and	_	_	_	_
-107-13	_	he	abstract[229]	new[229]	_	_
-107-14	_	needs	_	_	_	_
-107-15	_	to	_	_	_	_
-107-16	_	relax	_	_	_	_
-107-17	_	to	_	_	_	_
-107-18	_	do	_	_	_	_
-107-19	_	so	_	_	_	_
-107-20	_	.	_	_	_	_
+#Text=Ash tells about her day , which includes a yoga class , marketing brand management class , doing some work while having coffee at Saxby 's , and finally cooking pasta with peppers for dinner together with her boyfriend Harry .
+107-1	_	Ash	abstract[121]	new[121]	coref	107-4[121_122]
+107-2	_	tells	_	_	_	_
+107-3	_	about	_	_	_	_
+107-4	_	her	abstract[122]	new[122]	coref	107-38[122_123]
+107-5	_	day	_	_	_	_
+107-6	_	,	_	_	_	_
+107-7	_	which	_	_	_	_
+107-8	_	includes	_	_	_	_
+107-9	_	a	_	_	_	_
+107-10	_	yoga	_	_	_	_
+107-11	_	class	_	_	_	_
+107-12	_	,	_	_	_	_
+107-13	_	marketing	_	_	_	_
+107-14	_	brand	_	_	_	_
+107-15	_	management	_	_	_	_
+107-16	_	class	_	_	_	_
+107-17	_	,	_	_	_	_
+107-18	_	doing	_	_	_	_
+107-19	_	some	_	_	_	_
+107-20	_	work	_	_	_	_
+107-21	_	while	_	_	_	_
+107-22	_	having	_	_	_	_
+107-23	_	coffee	_	_	_	_
+107-24	_	at	_	_	_	_
+107-25	_	Saxby	abstract[132]	new[132]	_	_
+107-26	_	's	abstract[132]	new[132]	_	_
+107-27	_	,	_	_	_	_
+107-28	_	and	_	_	_	_
+107-29	_	finally	_	_	_	_
+107-30	_	cooking	_	_	_	_
+107-31	_	pasta	_	_	_	_
+107-32	_	with	_	_	_	_
+107-33	_	peppers	_	_	_	_
+107-34	_	for	_	_	_	_
+107-35	_	dinner	_	_	_	_
+107-36	_	together	_	_	_	_
+107-37	_	with	_	_	_	_
+107-38	_	her	abstract[123]	new[123]	_	_
+107-39	_	boyfriend	_	_	_	_
+107-40	_	Harry	_	_	_	_
+107-41	_	.	_	_	_	_
 

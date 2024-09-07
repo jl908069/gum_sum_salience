@@ -1016,8 +1016,8 @@
 30-21	_	.	_	_	_	_
 
 #Text=Our study is organized as follows .
-31-1	_	Our	abstract[31]	new[31]	coref	32-1[31_32]
-31-2	_	study	_	_	_	_
+31-1	_	Our	abstract[31]|abstract[41]	new[31]|new[41]	coref|coref	32-1[31_32]|36-1[41_42]
+31-2	_	study	abstract[41]	new[41]	_	_
 31-3	_	is	_	_	_	_
 31-4	_	organized	_	_	_	_
 31-5	_	as	_	_	_	_
@@ -1129,25 +1129,39 @@
 35-32	_	retention	_	_	_	_
 35-33	_	.	_	_	_	_
 
-#Text=A new and automated census collection tool that automatically assembles census data for any academic field using digital data .
-36-1	_	A	_	_	_	_
-36-2	_	new	_	_	_	_
-36-3	_	and	_	_	_	_
-36-4	_	automated	_	_	_	_
-36-5	_	census	_	_	_	_
-36-6	_	collection	_	_	_	_
-36-7	_	tool	_	_	_	_
-36-8	_	that	_	_	_	_
-36-9	_	automatically	_	_	_	_
-36-10	_	assembles	_	_	_	_
-36-11	_	census	_	_	_	_
-36-12	_	data	_	_	_	_
-36-13	_	for	_	_	_	_
-36-14	_	any	_	_	_	_
-36-15	_	academic	_	_	_	_
-36-16	_	field	_	_	_	_
-36-17	_	using	_	_	_	_
-36-18	_	digital	_	_	_	_
-36-19	_	data	_	_	_	_
-36-20	_	.	_	_	_	_
+#Text=The current study provides a comprehensive overview on current faculty and academic diversity , providing clear estimates of how many will be employed in a scientific field and how many will be appointed .
+36-1	_	The	abstract[42]	new[42]	_	_
+36-2	_	current	abstract[42]	new[42]	_	_
+36-3	_	study	abstract[42]	new[42]	_	_
+36-4	_	provides	_	_	_	_
+36-5	_	a	_	_	_	_
+36-6	_	comprehensive	_	_	_	_
+36-7	_	overview	_	_	_	_
+36-8	_	on	_	_	_	_
+36-9	_	current	_	_	_	_
+36-10	_	faculty	_	_	_	_
+36-11	_	and	_	_	_	_
+36-12	_	academic	_	_	_	_
+36-13	_	diversity	_	_	_	_
+36-14	_	,	_	_	_	_
+36-15	_	providing	_	_	_	_
+36-16	_	clear	_	_	_	_
+36-17	_	estimates	_	_	_	_
+36-18	_	of	_	_	_	_
+36-19	_	how	_	_	_	_
+36-20	_	many	_	_	_	_
+36-21	_	will	_	_	_	_
+36-22	_	be	_	_	_	_
+36-23	_	employed	_	_	_	_
+36-24	_	in	_	_	_	_
+36-25	_	a	_	_	_	_
+36-26	_	scientific	_	_	_	_
+36-27	_	field	_	_	_	_
+36-28	_	and	_	_	_	_
+36-29	_	how	_	_	_	_
+36-30	_	many	_	_	_	_
+36-31	_	will	_	_	_	_
+36-32	_	be	_	_	_	_
+36-33	_	appointed	_	_	_	_
+36-34	_	.	_	_	_	_
 

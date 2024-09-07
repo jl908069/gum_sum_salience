@@ -43,8 +43,8 @@
 #Text=Image : Nick Moreau .
 4-1	_	Image	_	_	_	_
 4-2	_	:	_	_	_	_
-4-3	_	Nick	abstract[58]	new[58]	coref	23-3[58_59]
-4-4	_	Moreau	abstract[58]	new[58]	_	_
+4-3	_	Nick	_	_	_	_
+4-4	_	Moreau	_	_	_	_
 4-5	_	.	_	_	_	_
 
 #Text=The 22nd Fan Expo Canada took place at the Metro Toronto Convention Centre this weekend , attracting thousands to the event , one of the most popular in North America .
@@ -366,12 +366,12 @@
 16-26	_	.	_	_	_	_
 
 #Text=The finals saw US team Cloud9 and Immortals , from Brazil , face off in Counter-Strike : Global Offensive .
-17-1	_	The	abstract[50]	new[50]	coref	20-9[50_51]
-17-2	_	finals	abstract[50]	new[50]	_	_
+17-1	_	The	abstract[49]	new[49]	coref	20-9[49_50]
+17-2	_	finals	abstract[49]	new[49]	_	_
 17-3	_	saw	_	_	_	_
-17-4	_	US	abstract[43]|abstract[56]	new[43]|new[56]	coref|coref	18-1[43_44]|21-24[56_57]
-17-5	_	team	abstract[43]|abstract[56]	new[43]|new[56]	_	_
-17-6	_	Cloud9	abstract[43]|abstract[56]	new[43]|new[56]	_	_
+17-4	_	US	abstract[43]|abstract[55]	new[43]|new[55]	coref|coref	18-1[43_44]|21-24[55_56]
+17-5	_	team	abstract[43]|abstract[55]	new[43]|new[55]	_	_
+17-6	_	Cloud9	abstract[43]|abstract[55]	new[43]|new[55]	_	_
 17-7	_	and	abstract[43]	new[43]	_	_
 17-8	_	Immortals	abstract[43]	new[43]	_	_
 17-9	_	,	abstract[43]	new[43]	_	_
@@ -405,37 +405,55 @@
 18-15	_	50,000	_	_	_	_
 18-16	_	.	_	_	_	_
 
-#Text=Gameplay was delayed during the " According to a source close to Daniel Montalvo in September 2010 , he was persuaded to join a Scientology group called the Sea Org
+#Text=Gameplay was delayed during the " In the 2016 Hong Kong legislative election with a historically high turnout of 58 % , the anti - establishment camp maintained its majority and veto powers , as a range of young and new candidates were elected across multiple constituencies .
 19-1	_	Gameplay	_	_	_	_
 19-2	_	was	_	_	_	_
 19-3	_	delayed	_	_	_	_
 19-4	_	during	_	_	_	_
 19-5	_	the	_	_	_	_
 19-6	_	"	_	_	_	_
-19-7	_	According	_	_	_	_
-19-8	_	to	_	_	_	_
-19-9	_	a	abstract[47]	new[47]	coref	19-13[47_48]
-19-10	_	source	abstract[47]	new[47]	_	_
-19-11	_	close	abstract[47]	new[47]	_	_
-19-12	_	to	abstract[47]	new[47]	_	_
-19-13	_	Daniel	abstract[47]|abstract[48]	new[47]|new[48]	coref	19-19[48_49]
-19-14	_	Montalvo	abstract[47]|abstract[48]	new[47]|new[48]	_	_
-19-15	_	in	_	_	_	_
-19-16	_	September	_	_	_	_
-19-17	_	2010	_	_	_	_
-19-18	_	,	_	_	_	_
-19-19	_	he	abstract[49]	new[49]	_	_
-19-20	_	was	_	_	_	_
-19-21	_	persuaded	_	_	_	_
-19-22	_	to	_	_	_	_
-19-23	_	join	_	_	_	_
-19-24	_	a	_	_	_	_
-19-25	_	Scientology	_	_	_	_
-19-26	_	group	_	_	_	_
-19-27	_	called	_	_	_	_
-19-28	_	the	_	_	_	_
-19-29	_	Sea	_	_	_	_
-19-30	_	Org	_	_	_	_
+19-7	_	In	_	_	_	_
+19-8	_	the	_	_	_	_
+19-9	_	2016	_	_	_	_
+19-10	_	Hong	_	_	_	_
+19-11	_	Kong	_	_	_	_
+19-12	_	legislative	_	_	_	_
+19-13	_	election	_	_	_	_
+19-14	_	with	_	_	_	_
+19-15	_	a	_	_	_	_
+19-16	_	historically	_	_	_	_
+19-17	_	high	_	_	_	_
+19-18	_	turnout	_	_	_	_
+19-19	_	of	_	_	_	_
+19-20	_	58	_	_	_	_
+19-21	_	%	_	_	_	_
+19-22	_	,	_	_	_	_
+19-23	_	the	abstract[47]	new[47]	coref	19-29[47_48]
+19-24	_	anti	abstract[47]	new[47]	_	_
+19-25	_	-	abstract[47]	new[47]	_	_
+19-26	_	establishment	abstract[47]	new[47]	_	_
+19-27	_	camp	abstract[47]	new[47]	_	_
+19-28	_	maintained	_	_	_	_
+19-29	_	its	abstract[48]	new[48]	_	_
+19-30	_	majority	_	_	_	_
+19-31	_	and	_	_	_	_
+19-32	_	veto	_	_	_	_
+19-33	_	powers	_	_	_	_
+19-34	_	,	_	_	_	_
+19-35	_	as	_	_	_	_
+19-36	_	a	_	_	_	_
+19-37	_	range	_	_	_	_
+19-38	_	of	_	_	_	_
+19-39	_	young	_	_	_	_
+19-40	_	and	_	_	_	_
+19-41	_	new	_	_	_	_
+19-42	_	candidates	_	_	_	_
+19-43	_	were	_	_	_	_
+19-44	_	elected	_	_	_	_
+19-45	_	across	_	_	_	_
+19-46	_	multiple	_	_	_	_
+19-47	_	constituencies	_	_	_	_
+19-48	_	.	_	_	_	_
 
 #Text=third map " ( third round ) of the finals , when one Immortals player was caught with their headset off .
 20-1	_	third	_	_	_	_
@@ -446,17 +464,17 @@
 20-6	_	round	_	_	_	_
 20-7	_	)	_	_	_	_
 20-8	_	of	_	_	_	_
-20-9	_	the	abstract[51]	new[51]	_	_
-20-10	_	finals	abstract[51]	new[51]	_	_
+20-9	_	the	abstract[50]	new[50]	_	_
+20-10	_	finals	abstract[50]	new[50]	_	_
 20-11	_	,	_	_	_	_
 20-12	_	when	_	_	_	_
-20-13	_	one	abstract[52]	new[52]	coref	20-19[52_53]
-20-14	_	Immortals	abstract[52]|abstract[54]	new[52]|new[54]	coref	21-7[54_55]
-20-15	_	player	abstract[52]	new[52]	_	_
+20-13	_	one	abstract[51]	new[51]	coref	20-19[51_52]
+20-14	_	Immortals	abstract[51]|abstract[53]	new[51]|new[53]	coref	21-7[53_54]
+20-15	_	player	abstract[51]	new[51]	_	_
 20-16	_	was	_	_	_	_
 20-17	_	caught	_	_	_	_
 20-18	_	with	_	_	_	_
-20-19	_	their	abstract[53]	new[53]	_	_
+20-19	_	their	abstract[52]	new[52]	_	_
 20-20	_	headset	_	_	_	_
 20-21	_	off	_	_	_	_
 20-22	_	.	_	_	_	_
@@ -468,8 +486,8 @@
 21-4	_	an	_	_	_	_
 21-5	_	hour	_	_	_	_
 21-6	_	,	_	_	_	_
-21-7	_	the	abstract[55]	new[55]	_	_
-21-8	_	team	abstract[55]	new[55]	_	_
+21-7	_	the	abstract[54]	new[54]	_	_
+21-8	_	team	abstract[54]	new[54]	_	_
 21-9	_	was	_	_	_	_
 21-10	_	deducted	_	_	_	_
 21-11	_	a	_	_	_	_
@@ -485,9 +503,9 @@
 21-21	_	of	_	_	_	_
 21-22	_	success	_	_	_	_
 21-23	_	by	_	_	_	_
-21-24	_	the	abstract[57]	new[57]	_	_
-21-25	_	US	abstract[57]	new[57]	_	_
-21-26	_	team	abstract[57]	new[57]	_	_
+21-24	_	the	abstract[56]	new[56]	coref	23-4[56_57]
+21-25	_	US	abstract[56]	new[56]	_	_
+21-26	_	team	abstract[56]	new[56]	_	_
 21-27	_	.	_	_	_	_
 
 #Text=Playstation VR demo
@@ -498,8 +516,8 @@
 #Text=Image : Nick Moreau .
 23-1	_	Image	_	_	_	_
 23-2	_	:	_	_	_	_
-23-3	_	Nick	abstract[59]	new[59]	coref	30-3[59_60]
-23-4	_	Moreau	abstract[59]	new[59]	_	_
+23-3	_	Nick	abstract[57]	new[57]	coref	30-3[57_58]
+23-4	_	Moreau	abstract[57]	new[57]	_	_
 23-5	_	.	_	_	_	_
 
 #Text=Displays of charity at event
@@ -510,15 +528,15 @@
 24-5	_	event	_	_	_	_
 
 #Text=The Canadian garrison of 501st Legion returned with their setup of photo - ops , with proceeds to the Make - A - Wish Foundation .
-25-1	_	The	abstract[69]	new[69]	coref	25-10[69_70]
-25-2	_	Canadian	abstract[69]	new[69]	_	_
-25-3	_	garrison	abstract[69]	new[69]	_	_
-25-4	_	of	abstract[69]	new[69]	_	_
-25-5	_	501st	abstract[69]|abstract[74]	new[69]|new[74]	coref	31-5[74_75]
-25-6	_	Legion	abstract[69]|abstract[74]	new[69]|new[74]	_	_
+25-1	_	The	abstract[67]	new[67]	coref	25-9[67_68]
+25-2	_	Canadian	abstract[67]	new[67]	_	_
+25-3	_	garrison	abstract[67]	new[67]	_	_
+25-4	_	of	abstract[67]	new[67]	_	_
+25-5	_	501st	abstract[67]|abstract[72]	new[67]|new[72]	coref	31-5[72_73]
+25-6	_	Legion	abstract[67]|abstract[72]	new[67]|new[72]	_	_
 25-7	_	returned	_	_	_	_
 25-8	_	with	_	_	_	_
-25-9	_	their	abstract[70]	new[70]	_	_
+25-9	_	their	abstract[68]	new[68]	_	_
 25-10	_	setup	_	_	_	_
 25-11	_	of	_	_	_	_
 25-12	_	photo	_	_	_	_
@@ -538,12 +556,12 @@
 25-26	_	.	_	_	_	_
 
 #Text=Volunteer organization Comic Corps of Canada collects donations of comics , to distribute to children and youth in the hospital .
-26-1	_	Volunteer	abstract[71]	new[71]	coref	27-9[71_72]
-26-2	_	organization	abstract[71]	new[71]	_	_
-26-3	_	Comic	abstract[71]	new[71]	_	_
-26-4	_	Corps	abstract[71]	new[71]	_	_
-26-5	_	of	abstract[71]	new[71]	_	_
-26-6	_	Canada	abstract[5]|abstract[71]	new[5]|new[71]	coref	28-16[5_6]
+26-1	_	Volunteer	abstract[69]	new[69]	coref	27-9[69_70]
+26-2	_	organization	abstract[69]	new[69]	_	_
+26-3	_	Comic	abstract[69]	new[69]	_	_
+26-4	_	Corps	abstract[69]	new[69]	_	_
+26-5	_	of	abstract[69]	new[69]	_	_
+26-6	_	Canada	abstract[5]|abstract[69]	new[5]|new[69]	coref	28-16[5_6]
 26-7	_	collects	_	_	_	_
 26-8	_	donations	_	_	_	_
 26-9	_	of	_	_	_	_
@@ -569,8 +587,8 @@
 27-6	_	-	_	_	_	_
 27-7	_	site	_	_	_	_
 27-8	_	,	_	_	_	_
-27-9	_	the	abstract[72]	new[72]	coref	29-11[72_73]
-27-10	_	group	abstract[72]	new[72]	_	_
+27-9	_	the	abstract[70]	new[70]	coref	29-11[70_71]
+27-10	_	group	abstract[70]	new[70]	_	_
 27-11	_	was	_	_	_	_
 27-12	_	fundraising	_	_	_	_
 27-13	_	through	_	_	_	_
@@ -592,8 +610,8 @@
 28-9	_	Ontario	_	_	_	_
 28-10	_	Ghostbusters	_	_	_	_
 28-11	_	,	_	_	_	_
-28-12	_	Doctor	abstract[86]	new[86]	coref	53-4[86_87]
-28-13	_	Who	abstract[86]	new[86]	_	_
+28-12	_	Doctor	abstract[84]	new[84]	coref	53-4[84_85]
+28-13	_	Who	abstract[84]	new[84]	_	_
 28-14	_	Society	_	_	_	_
 28-15	_	of	_	_	_	_
 28-16	_	Canada	abstract[6]	new[6]	_	_
@@ -615,16 +633,16 @@
 29-8	_	pose	_	_	_	_
 29-9	_	at	_	_	_	_
 29-10	_	the	_	_	_	_
-29-11	_	Comic	abstract[73]	new[73]	_	_
-29-12	_	Corps	abstract[73]	new[73]	_	_
+29-11	_	Comic	abstract[71]	new[71]	_	_
+29-12	_	Corps	abstract[71]	new[71]	_	_
 29-13	_	booth	_	_	_	_
 29-14	_	.	_	_	_	_
 
 #Text=Image : Nick Moreau .
 30-1	_	Image	_	_	_	_
 30-2	_	:	_	_	_	_
-30-3	_	Nick	abstract[60]	new[60]	coref	32-3[60_61]
-30-4	_	Moreau	abstract[60]	new[60]	_	_
+30-3	_	Nick	abstract[58]	new[58]	coref	32-3[58_59]
+30-4	_	Moreau	abstract[58]	new[58]	_	_
 30-5	_	.	_	_	_	_
 
 #Text=A showdown at the 501st Legion booth .
@@ -632,16 +650,16 @@
 31-2	_	showdown	_	_	_	_
 31-3	_	at	_	_	_	_
 31-4	_	the	_	_	_	_
-31-5	_	501st	abstract[75]	new[75]	_	_
-31-6	_	Legion	abstract[75]	new[75]	_	_
+31-5	_	501st	abstract[73]	new[73]	_	_
+31-6	_	Legion	abstract[73]	new[73]	_	_
 31-7	_	booth	_	_	_	_
 31-8	_	.	_	_	_	_
 
 #Text=Image : Nick Moreau .
 32-1	_	Image	_	_	_	_
 32-2	_	:	_	_	_	_
-32-3	_	Nick	abstract[61]	new[61]	coref	34-3[61_62]
-32-4	_	Moreau	abstract[61]	new[61]	_	_
+32-3	_	Nick	abstract[59]	new[59]	coref	34-3[59_60]
+32-4	_	Moreau	abstract[59]	new[59]	_	_
 32-5	_	.	_	_	_	_
 
 #Text=Successful Stormtroopers share a high - five .
@@ -657,8 +675,8 @@
 #Text=Image : Nick Moreau .
 34-1	_	Image	_	_	_	_
 34-2	_	:	_	_	_	_
-34-3	_	Nick	abstract[62]	new[62]	coref	37-3[62_63]
-34-4	_	Moreau	abstract[62]	new[62]	_	_
+34-3	_	Nick	abstract[60]	new[60]	coref	37-3[60_61]
+34-4	_	Moreau	abstract[60]	new[60]	_	_
 34-5	_	.	_	_	_	_
 
 #Text=Cosplay celebration of craftsmanship and characters
@@ -670,18 +688,18 @@
 35-6	_	characters	_	_	_	_
 
 #Text=Epic Mickey by The Katherinator .
-36-1	_	Epic	abstract[82]	new[82]	coref	41-21[82_83]
-36-2	_	Mickey	abstract[82]	new[82]	_	_
-36-3	_	by	abstract[82]	new[82]	_	_
-36-4	_	The	abstract[76]|abstract[82]	new[76]|new[82]	coref	40-8[76_77]
-36-5	_	Katherinator	abstract[76]|abstract[82]	new[76]|new[82]	_	_
+36-1	_	Epic	abstract[80]	new[80]	coref	41-21[80_81]
+36-2	_	Mickey	abstract[80]	new[80]	_	_
+36-3	_	by	abstract[80]	new[80]	_	_
+36-4	_	The	abstract[74]|abstract[80]	new[74]|new[80]	coref	40-8[74_75]
+36-5	_	Katherinator	abstract[74]|abstract[80]	new[74]|new[80]	_	_
 36-6	_	.	_	_	_	_
 
 #Text=Image : Nick Moreau .
 37-1	_	Image	_	_	_	_
 37-2	_	:	_	_	_	_
-37-3	_	Nick	abstract[63]	new[63]	coref	45-3[63_64]
-37-4	_	Moreau	abstract[63]	new[63]	_	_
+37-3	_	Nick	abstract[61]	new[61]	coref	45-3[61_62]
+37-4	_	Moreau	abstract[61]	new[61]	_	_
 37-5	_	.	_	_	_	_
 
 #Text=The thousands of cosplay outfits on parade around the various halls offered a tremendous cross-section of genres and eras of pop culture .
@@ -738,20 +756,20 @@
 40-5	_	Wikinews	_	_	_	_
 40-6	_	spoke	_	_	_	_
 40-7	_	with	_	_	_	_
-40-8	_	a	abstract[77]	new[77]	coref	41-1[77_78]
-40-9	_	cosplayer	abstract[77]	new[77]	_	_
-40-10	_	going	abstract[77]	new[77]	_	_
-40-11	_	by	abstract[77]	new[77]	_	_
-40-12	_	the	abstract[77]	new[77]	_	_
-40-13	_	name	abstract[77]	new[77]	_	_
-40-14	_	"	abstract[77]	new[77]	_	_
-40-15	_	The	abstract[77]	new[77]	_	_
-40-16	_	Katherinator	abstract[77]	new[77]	_	_
-40-17	_	"	abstract[77]	new[77]	_	_
+40-8	_	a	abstract[75]	new[75]	coref	41-1[75_76]
+40-9	_	cosplayer	abstract[75]	new[75]	_	_
+40-10	_	going	abstract[75]	new[75]	_	_
+40-11	_	by	abstract[75]	new[75]	_	_
+40-12	_	the	abstract[75]	new[75]	_	_
+40-13	_	name	abstract[75]	new[75]	_	_
+40-14	_	"	abstract[75]	new[75]	_	_
+40-15	_	The	abstract[75]	new[75]	_	_
+40-16	_	Katherinator	abstract[75]	new[75]	_	_
+40-17	_	"	abstract[75]	new[75]	_	_
 40-18	_	.	_	_	_	_
 
 #Text=She was outside the building in the gardens , waiting for a photographer she had arranged to shoot her new Epic Mickey costumed character - style outfit .
-41-1	_	She	abstract[78]	new[78]	coref	41-14[78_79]
+41-1	_	She	abstract[76]	new[76]	coref	41-14[76_77]
 41-2	_	was	_	_	_	_
 41-3	_	outside	_	_	_	_
 41-4	_	the	_	_	_	_
@@ -764,20 +782,20 @@
 41-11	_	for	_	_	_	_
 41-12	_	a	_	_	_	_
 41-13	_	photographer	_	_	_	_
-41-14	_	she	abstract[79]	new[79]	coref	41-19[79_80]
+41-14	_	she	abstract[77]	new[77]	coref	41-19[77_78]
 41-15	_	had	_	_	_	_
 41-16	_	arranged	_	_	_	_
 41-17	_	to	_	_	_	_
 41-18	_	shoot	_	_	_	_
-41-19	_	her	abstract[80]|abstract[84]	new[80]|new[84]	coref|coref	42-17[80_81]|42-33[84_85]
-41-20	_	new	abstract[84]	new[84]	_	_
-41-21	_	Epic	abstract[83]|abstract[84]	new[83]|new[84]	_	_
-41-22	_	Mickey	abstract[83]|abstract[84]	new[83]|new[84]	_	_
-41-23	_	costumed	abstract[84]	new[84]	_	_
-41-24	_	character	abstract[84]	new[84]	_	_
-41-25	_	-	abstract[84]	new[84]	_	_
-41-26	_	style	abstract[84]	new[84]	_	_
-41-27	_	outfit	abstract[84]	new[84]	_	_
+41-19	_	her	abstract[78]|abstract[82]	new[78]|new[82]	coref|coref	42-17[78_79]|42-33[82_83]
+41-20	_	new	abstract[82]	new[82]	_	_
+41-21	_	Epic	abstract[81]|abstract[82]	new[81]|new[82]	_	_
+41-22	_	Mickey	abstract[81]|abstract[82]	new[81]|new[82]	_	_
+41-23	_	costumed	abstract[82]	new[82]	_	_
+41-24	_	character	abstract[82]	new[82]	_	_
+41-25	_	-	abstract[82]	new[82]	_	_
+41-26	_	style	abstract[82]	new[82]	_	_
+41-27	_	outfit	abstract[82]	new[82]	_	_
 41-28	_	.	_	_	_	_
 
 #Text=With shoes as wide as a forearm , and a rigid torso of carved foam , she remained exuberant even when caught in the traffic between halls , many hours into wearing the outfit .
@@ -797,7 +815,7 @@
 42-14	_	carved	_	_	_	_
 42-15	_	foam	_	_	_	_
 42-16	_	,	_	_	_	_
-42-17	_	she	abstract[81]	new[81]	_	_
+42-17	_	she	abstract[79]	new[79]	_	_
 42-18	_	remained	_	_	_	_
 42-19	_	exuberant	_	_	_	_
 42-20	_	even	_	_	_	_
@@ -813,8 +831,8 @@
 42-30	_	hours	_	_	_	_
 42-31	_	into	_	_	_	_
 42-32	_	wearing	_	_	_	_
-42-33	_	the	abstract[85]	new[85]	_	_
-42-34	_	outfit	abstract[85]	new[85]	_	_
+42-33	_	the	abstract[83]	new[83]	_	_
+42-34	_	outfit	abstract[83]	new[83]	_	_
 42-35	_	.	_	_	_	_
 
 #Text=Disney
@@ -826,8 +844,8 @@
 #Text=Image : Nick Moreau .
 45-1	_	Image	_	_	_	_
 45-2	_	:	_	_	_	_
-45-3	_	Nick	abstract[64]	new[64]	coref	48-3[64_65]
-45-4	_	Moreau	abstract[64]	new[64]	_	_
+45-3	_	Nick	abstract[62]	new[62]	coref	48-3[62_63]
+45-4	_	Moreau	abstract[62]	new[62]	_	_
 45-5	_	.	_	_	_	_
 
 #Text=Superheroes
@@ -843,8 +861,8 @@
 #Text=Image : Nick Moreau .
 48-1	_	Image	_	_	_	_
 48-2	_	:	_	_	_	_
-48-3	_	Nick	abstract[65]	new[65]	coref	51-3[65_66]
-48-4	_	Moreau	abstract[65]	new[65]	_	_
+48-3	_	Nick	abstract[63]	new[63]	coref	51-3[63_64]
+48-4	_	Moreau	abstract[63]	new[63]	_	_
 48-5	_	.	_	_	_	_
 
 #Text=Anime
@@ -870,8 +888,8 @@
 #Text=Image : Nick Moreau .
 51-1	_	Image	_	_	_	_
 51-2	_	:	_	_	_	_
-51-3	_	Nick	abstract[66]	new[66]	coref	54-3[66_67]
-51-4	_	Moreau	abstract[66]	new[66]	_	_
+51-3	_	Nick	abstract[64]	new[64]	coref	54-3[64_65]
+51-4	_	Moreau	abstract[64]	new[64]	_	_
 51-5	_	.	_	_	_	_
 
 #Text=Video games , movies , and more
@@ -887,15 +905,15 @@
 53-1	_	Lady	_	_	_	_
 53-2	_	Cassandra	_	_	_	_
 53-3	_	from	_	_	_	_
-53-4	_	Doctor	abstract[87]	new[87]	_	_
-53-5	_	Who	abstract[87]	new[87]	_	_
+53-4	_	Doctor	abstract[85]	new[85]	_	_
+53-5	_	Who	abstract[85]	new[85]	_	_
 53-6	_	.	_	_	_	_
 
 #Text=Image : Nick Moreau .
 54-1	_	Image	_	_	_	_
 54-2	_	:	_	_	_	_
-54-3	_	Nick	abstract[67]	new[67]	coref	56-3[67_68]
-54-4	_	Moreau	abstract[67]	new[67]	_	_
+54-3	_	Nick	abstract[65]	new[65]	coref	56-3[65_66]
+54-4	_	Moreau	abstract[65]	new[65]	_	_
 54-5	_	.	_	_	_	_
 
 #Text=Peekaboo Cosplay as The Fawn
@@ -908,7 +926,7 @@
 #Text=Image : Nick Moreau .
 56-1	_	Image	_	_	_	_
 56-2	_	:	_	_	_	_
-56-3	_	Nick	abstract[68]	new[68]	_	_
-56-4	_	Moreau	abstract[68]	new[68]	_	_
+56-3	_	Nick	abstract[66]	new[66]	_	_
+56-4	_	Moreau	abstract[66]	new[66]	_	_
 56-5	_	.	_	_	_	_
 

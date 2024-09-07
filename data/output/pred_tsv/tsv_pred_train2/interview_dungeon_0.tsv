@@ -1227,29 +1227,15 @@
 93-26	_	position	_	_	_	_
 93-27	_	.	_	_	_	_
 
-#Text=A new type of mystery sea anemone , Edwardsiella andrillae , is discovered by a European biologist on Monday in the Ross Sea .
-94-1	_	A	_	_	_	_
-94-2	_	new	_	_	_	_
-94-3	_	type	_	_	_	_
-94-4	_	of	_	_	_	_
-94-5	_	mystery	_	_	_	_
-94-6	_	sea	_	_	_	_
-94-7	_	anemone	_	_	_	_
-94-8	_	,	_	_	_	_
-94-9	_	Edwardsiella	_	_	_	_
-94-10	_	andrillae	_	_	_	_
-94-11	_	,	_	_	_	_
-94-12	_	is	_	_	_	_
-94-13	_	discovered	_	_	_	_
-94-14	_	by	_	_	_	_
-94-15	_	a	_	_	_	_
-94-16	_	European	_	_	_	_
-94-17	_	biologist	_	_	_	_
-94-18	_	on	_	_	_	_
-94-19	_	Monday	_	_	_	_
-94-20	_	in	_	_	_	_
-94-21	_	the	_	_	_	_
-94-22	_	Ross	_	_	_	_
-94-23	_	Sea	_	_	_	_
-94-24	_	.	_	_	_	_
+#Text=Is this anemone a science fiction or a mystery ?
+94-1	_	Is	_	_	_	_
+94-2	_	this	_	_	_	_
+94-3	_	anemone	_	_	_	_
+94-4	_	a	_	_	_	_
+94-5	_	science	_	_	_	_
+94-6	_	fiction	_	_	_	_
+94-7	_	or	_	_	_	_
+94-8	_	a	_	_	_	_
+94-9	_	mystery	_	_	_	_
+94-10	_	?	_	_	_	_
 

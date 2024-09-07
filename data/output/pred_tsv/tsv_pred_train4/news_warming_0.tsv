@@ -154,7 +154,7 @@
 7-18	_	percent	_	_	_	_
 7-19	_	.	_	_	_	_
 
-#Text=As coauthor Colette Heald told The Huffington Post , " A decision of the Italian Supreme Court to allow Catholic schools to pay property taxes has been upheld by local authorities .
+#Text=As coauthor Colette Heald told The Huffington Post , " In the past few days in Italy , several municipalities have started asking religious schools to pay taxes for property and local services , despite the resistance of the Catholic Church .
 8-1	_	As	_	_	_	_
 8-2	_	coauthor	abstract[9]	new[9]	coref	13-1[9_10]
 8-3	_	Colette	abstract[9]	new[9]	_	_
@@ -165,28 +165,38 @@
 8-8	_	Post	abstract[27]	new[27]	_	_
 8-9	_	,	_	_	_	_
 8-10	_	"	_	_	_	_
-8-11	_	A	_	_	_	_
-8-12	_	decision	_	_	_	_
-8-13	_	of	_	_	_	_
-8-14	_	the	_	_	_	_
-8-15	_	Italian	_	_	_	_
-8-16	_	Supreme	_	_	_	_
-8-17	_	Court	_	_	_	_
-8-18	_	to	_	_	_	_
-8-19	_	allow	_	_	_	_
-8-20	_	Catholic	_	_	_	_
-8-21	_	schools	_	_	_	_
-8-22	_	to	_	_	_	_
-8-23	_	pay	_	_	_	_
-8-24	_	property	_	_	_	_
-8-25	_	taxes	_	_	_	_
-8-26	_	has	_	_	_	_
-8-27	_	been	_	_	_	_
-8-28	_	upheld	_	_	_	_
-8-29	_	by	_	_	_	_
-8-30	_	local	_	_	_	_
-8-31	_	authorities	_	_	_	_
-8-32	_	.	_	_	_	_
+8-11	_	In	_	_	_	_
+8-12	_	the	_	_	_	_
+8-13	_	past	_	_	_	_
+8-14	_	few	_	_	_	_
+8-15	_	days	_	_	_	_
+8-16	_	in	_	_	_	_
+8-17	_	Italy	_	_	_	_
+8-18	_	,	_	_	_	_
+8-19	_	several	_	_	_	_
+8-20	_	municipalities	_	_	_	_
+8-21	_	have	_	_	_	_
+8-22	_	started	_	_	_	_
+8-23	_	asking	_	_	_	_
+8-24	_	religious	_	_	_	_
+8-25	_	schools	_	_	_	_
+8-26	_	to	_	_	_	_
+8-27	_	pay	_	_	_	_
+8-28	_	taxes	_	_	_	_
+8-29	_	for	_	_	_	_
+8-30	_	property	_	_	_	_
+8-31	_	and	_	_	_	_
+8-32	_	local	_	_	_	_
+8-33	_	services	_	_	_	_
+8-34	_	,	_	_	_	_
+8-35	_	despite	_	_	_	_
+8-36	_	the	_	_	_	_
+8-37	_	resistance	_	_	_	_
+8-38	_	of	_	_	_	_
+8-39	_	the	_	_	_	_
+8-40	_	Catholic	_	_	_	_
+8-41	_	Church	_	_	_	_
+8-42	_	.	_	_	_	_
 
 #Text=The climate projections are quite consistent [...]
 9-1	_	The	_	_	_	_
@@ -341,7 +351,7 @@
 
 #Text=The U.S. Department of Agriculture notes , " Ground - level ozone causes more damage to plants than all other air pollutants combined " , highlighting the importance of air quality for agriculture .
 15-1	_	The	_	_	_	_
-15-2	_	U.S.	abstract[18]	new[18]	coref	19-3[18_19]
+15-2	_	U.S.	abstract[18]	new[18]	coref	19-2[18_19]
 15-3	_	Department	_	_	_	_
 15-4	_	of	_	_	_	_
 15-5	_	Agriculture	abstract[25]	new[25]	coref	15-33[25_26]

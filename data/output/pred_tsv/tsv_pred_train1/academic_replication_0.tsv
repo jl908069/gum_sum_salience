@@ -723,7 +723,7 @@
 17-12	_	been	_	_	_	_
 17-13	_	established	_	_	_	_
 17-14	_	in	_	_	_	_
-17-15	_	the	abstract[45]	new[45]	coref	26-12[45_46]
+17-15	_	the	abstract[45]	new[45]	coref	26-26[45_46]
 17-16	_	field	abstract[45]	new[45]	_	_
 17-17	_	of	abstract[45]	new[45]	_	_
 17-18	_	L2	abstract[45]	new[45]	_	_
@@ -765,9 +765,9 @@
 18-14	_	.	_	_	_	_
 
 #Text=The narrative review considers challenges in replication research and is largely informed by commentaries and metascience from psychology , given that the cognitive and social subdomains of psychology are highly influential in L2 research , and also from education , another key sister discipline .
-19-1	_	The	abstract[47]	new[47]	coref	20-1[47_48]
-19-2	_	narrative	abstract[47]	new[47]	_	_
-19-3	_	review	abstract[47]	new[47]	_	_
+19-1	_	The	abstract[48]	new[48]	coref	20-1[48_49]
+19-2	_	narrative	abstract[48]	new[48]	_	_
+19-3	_	review	abstract[48]	new[48]	_	_
 19-4	_	considers	_	_	_	_
 19-5	_	challenges	_	_	_	_
 19-6	_	in	_	_	_	_
@@ -812,9 +812,9 @@
 19-45	_	.	_	_	_	_
 
 #Text=The narrative review is organized around four broad themes : (a) the quantity of replication research , (b) the nature of replication research , (c) the relationship between initial and replication studies , and (d) the interpretation and extent of reproducibility of the findings of initial studies .
-20-1	_	The	abstract[48]	new[48]	coref	22-15[48_49]
-20-2	_	narrative	abstract[48]	new[48]	_	_
-20-3	_	review	abstract[48]	new[48]	_	_
+20-1	_	The	abstract[49]	new[49]	coref	22-15[49_50]
+20-2	_	narrative	abstract[49]	new[49]	_	_
+20-3	_	review	abstract[49]	new[49]	_	_
 20-4	_	is	_	_	_	_
 20-5	_	organized	_	_	_	_
 20-6	_	around	_	_	_	_
@@ -852,13 +852,13 @@
 20-38	_	and	_	_	_	_
 20-39	_	extent	_	_	_	_
 20-40	_	of	_	_	_	_
-20-41	_	reproducibility	abstract[55]	new[55]	coref	24-10[55_56]
-20-42	_	of	abstract[55]	new[55]	_	_
-20-43	_	the	abstract[55]	new[55]	_	_
-20-44	_	findings	abstract[55]	new[55]	_	_
-20-45	_	of	abstract[55]	new[55]	_	_
-20-46	_	initial	abstract[55]	new[55]	_	_
-20-47	_	studies	abstract[55]	new[55]	_	_
+20-41	_	reproducibility	abstract[57]	new[57]	coref	24-10[57_58]
+20-42	_	of	abstract[57]	new[57]	_	_
+20-43	_	the	abstract[57]	new[57]	_	_
+20-44	_	findings	abstract[57]	new[57]	_	_
+20-45	_	of	abstract[57]	new[57]	_	_
+20-46	_	initial	abstract[57]	new[57]	_	_
+20-47	_	studies	abstract[57]	new[57]	_	_
 20-48	_	.	_	_	_	_
 
 #Text=To gain insight into these issues in the context of L2 research , the systematic review provides a synthesis of L2 studies in journal articles that self - labeled as replications .
@@ -875,9 +875,9 @@
 21-11	_	L2	_	_	_	_
 21-12	_	research	_	_	_	_
 21-13	_	,	_	_	_	_
-21-14	_	the	abstract[50]	new[50]	coref	22-8[50_51]
-21-15	_	systematic	abstract[50]	new[50]	_	_
-21-16	_	review	abstract[50]	new[50]	_	_
+21-14	_	the	abstract[52]	new[52]	coref	22-8[52_53]
+21-15	_	systematic	abstract[52]	new[52]	_	_
+21-16	_	review	abstract[52]	new[52]	_	_
 21-17	_	provides	_	_	_	_
 21-18	_	a	_	_	_	_
 21-19	_	synthesis	_	_	_	_
@@ -902,16 +902,16 @@
 22-4	_	and	_	_	_	_
 22-5	_	methods	_	_	_	_
 22-6	_	of	_	_	_	_
-22-7	_	the	abstract[51]	new[51]	_	_
-22-8	_	systematic	abstract[51]	new[51]	_	_
-22-9	_	review	abstract[51]	new[51]	_	_
+22-7	_	the	abstract[53]	new[53]	_	_
+22-8	_	systematic	abstract[53]	new[53]	_	_
+22-9	_	review	abstract[53]	new[53]	_	_
 22-10	_	were	_	_	_	_
 22-11	_	largely	_	_	_	_
 22-12	_	determined	_	_	_	_
 22-13	_	by	_	_	_	_
-22-14	_	the	abstract[49]	new[49]	_	_
-22-15	_	narrative	abstract[49]	new[49]	_	_
-22-16	_	review	abstract[49]	new[49]	_	_
+22-14	_	the	abstract[50]	new[50]	coref	26-1[50_51]
+22-15	_	narrative	abstract[50]	new[50]	_	_
+22-16	_	review	abstract[50]	new[50]	_	_
 22-17	_	but	_	_	_	_
 22-18	_	also	_	_	_	_
 22-19	_	emerged	_	_	_	_
@@ -957,9 +957,9 @@
 23-28	_	out	_	_	_	_
 23-29	_	multisite	_	_	_	_
 23-30	_	(	_	_	_	_
-23-31	_	Morgan	abstract[52]	new[52]	coref	23-48[52_53]
-23-32	_	-	abstract[52]	new[52]	_	_
-23-33	_	Short	abstract[52]	new[52]	_	_
+23-31	_	Morgan	abstract[54]	new[54]	coref	23-48[54_55]
+23-32	_	-	abstract[54]	new[54]	_	_
+23-33	_	Short	abstract[54]	new[54]	_	_
 23-34	_	et	_	_	_	_
 23-35	_	al.	_	_	_	_
 23-36	_	,	_	_	_	_
@@ -974,9 +974,9 @@
 23-45	_	-	_	_	_	_
 23-46	_	Stutenberg	_	_	_	_
 23-47	_	&	_	_	_	_
-23-48	_	Morgan	abstract[53]	new[53]	coref	23-69[53_54]
-23-49	_	-	abstract[53]	new[53]	_	_
-23-50	_	Short	abstract[53]	new[53]	_	_
+23-48	_	Morgan	abstract[55]	new[55]	coref	23-69[55_56]
+23-49	_	-	abstract[55]	new[55]	_	_
+23-50	_	Short	abstract[55]	new[55]	_	_
 23-51	_	,	_	_	_	_
 23-52	_	2011	_	_	_	_
 23-53	_	;	_	_	_	_
@@ -995,9 +995,9 @@
 23-66	_	,	_	_	_	_
 23-67	_	2017	_	_	_	_
 23-68	_	;	_	_	_	_
-23-69	_	Morgan	abstract[54]	new[54]	_	_
-23-70	_	-	abstract[54]	new[54]	_	_
-23-71	_	Short	abstract[54]	new[54]	_	_
+23-69	_	Morgan	abstract[56]	new[56]	_	_
+23-70	_	-	abstract[56]	new[56]	_	_
+23-71	_	Short	abstract[56]	new[56]	_	_
 23-72	_	,	_	_	_	_
 23-73	_	Heil	_	_	_	_
 23-74	_	,	_	_	_	_
@@ -1023,10 +1023,10 @@
 24-7	_	premise	_	_	_	_
 24-8	_	that	_	_	_	_
 24-9	_	testing	_	_	_	_
-24-10	_	the	abstract[56]	new[56]	_	_
-24-11	_	reproducibility	abstract[56]	new[56]	_	_
-24-12	_	of	abstract[56]	new[56]	_	_
-24-13	_	findings	abstract[56]	new[56]	_	_
+24-10	_	the	abstract[58]	new[58]	_	_
+24-11	_	reproducibility	abstract[58]	new[58]	_	_
+24-12	_	of	abstract[58]	new[58]	_	_
+24-13	_	findings	abstract[58]	new[58]	_	_
 24-14	_	should	_	_	_	_
 24-15	_	have	_	_	_	_
 24-16	_	an	_	_	_	_
@@ -1107,22 +1107,45 @@
 25-36	_	research	_	_	_	_
 25-37	_	.	_	_	_	_
 
-#Text=Author authors explore the limitations , challenges , and implications of the field of translational research .
-26-1	_	Author	_	_	_	_
-26-2	_	authors	_	_	_	_
-26-3	_	explore	_	_	_	_
-26-4	_	the	_	_	_	_
-26-5	_	limitations	_	_	_	_
-26-6	_	,	_	_	_	_
-26-7	_	challenges	_	_	_	_
-26-8	_	,	_	_	_	_
-26-9	_	and	_	_	_	_
-26-10	_	implications	_	_	_	_
-26-11	_	of	_	_	_	_
-26-12	_	the	abstract[46]	new[46]	_	_
-26-13	_	field	abstract[46]	new[46]	_	_
-26-14	_	of	abstract[46]	new[46]	_	_
-26-15	_	translational	abstract[46]	new[46]	_	_
-26-16	_	research	abstract[46]	new[46]	_	_
-26-17	_	.	_	_	_	_
+#Text=This study argues for the establishment of a metascience studying the methodology of replication studies in second language acquisition and presents a narrative review of the field as well as a systematic review of replication studies in this area .
+26-1	_	This	abstract[51]	new[51]	_	_
+26-2	_	study	abstract[51]	new[51]	_	_
+26-3	_	argues	_	_	_	_
+26-4	_	for	_	_	_	_
+26-5	_	the	_	_	_	_
+26-6	_	establishment	_	_	_	_
+26-7	_	of	_	_	_	_
+26-8	_	a	_	_	_	_
+26-9	_	metascience	_	_	_	_
+26-10	_	studying	_	_	_	_
+26-11	_	the	_	_	_	_
+26-12	_	methodology	_	_	_	_
+26-13	_	of	_	_	_	_
+26-14	_	replication	_	_	_	_
+26-15	_	studies	_	_	_	_
+26-16	_	in	_	_	_	_
+26-17	_	second	_	_	_	_
+26-18	_	language	_	_	_	_
+26-19	_	acquisition	_	_	_	_
+26-20	_	and	_	_	_	_
+26-21	_	presents	_	_	_	_
+26-22	_	a	_	_	_	_
+26-23	_	narrative	_	_	_	_
+26-24	_	review	_	_	_	_
+26-25	_	of	_	_	_	_
+26-26	_	the	abstract[46]	new[46]	coref	26-38[46_47]
+26-27	_	field	abstract[46]	new[46]	_	_
+26-28	_	as	_	_	_	_
+26-29	_	well	_	_	_	_
+26-30	_	as	_	_	_	_
+26-31	_	a	_	_	_	_
+26-32	_	systematic	_	_	_	_
+26-33	_	review	_	_	_	_
+26-34	_	of	_	_	_	_
+26-35	_	replication	_	_	_	_
+26-36	_	studies	_	_	_	_
+26-37	_	in	_	_	_	_
+26-38	_	this	abstract[47]	new[47]	_	_
+26-39	_	area	abstract[47]	new[47]	_	_
+26-40	_	.	_	_	_	_
 

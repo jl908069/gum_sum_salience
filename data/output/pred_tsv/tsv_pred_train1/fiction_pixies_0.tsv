@@ -281,11 +281,11 @@
 17-20	_	wet	_	_	_	_
 17-21	_	,	_	_	_	_
 17-22	_	toward	_	_	_	_
-17-23	_	the	abstract[83]	new[83]	coref	37-4[83_84]
-17-24	_	phone	abstract[83]	new[83]	_	_
-17-25	_	in	abstract[83]	new[83]	_	_
-17-26	_	the	abstract[83]	new[83]	_	_
-17-27	_	kitchen	abstract[83]	new[83]	_	_
+17-23	_	the	abstract[89]	new[89]	coref	37-4[89_90]
+17-24	_	phone	abstract[89]	new[89]	_	_
+17-25	_	in	abstract[89]	new[89]	_	_
+17-26	_	the	abstract[89]	new[89]	_	_
+17-27	_	kitchen	abstract[89]	new[89]	_	_
 17-28	_	.	_	_	_	_
 
 #Text=She ’d be irritated by her own wet footprints on the battered wood of the hallway floor later , but right now she had blood on her mind .
@@ -360,9 +360,9 @@
 23-3	_	the	_	_	_	_
 23-4	_	brunt	_	_	_	_
 23-5	_	of	_	_	_	_
-23-6	_	the	abstract[51]	new[51]	coref	28-3[51_52]
-23-7	_	pixies	abstract[51]	new[51]	_	_
-23-8	_	’	abstract[51]	new[51]	_	_
+23-6	_	the	abstract[52]	new[52]	coref	28-3[52_53]
+23-7	_	pixies	abstract[52]	new[52]	_	_
+23-8	_	’	abstract[52]	new[52]	_	_
 23-9	_	odd	_	_	_	_
 23-10	_	sense	_	_	_	_
 23-11	_	of	_	_	_	_
@@ -431,8 +431,8 @@
 #Text=Ramon , the pixies are out of control .
 28-1	_	Ramon	abstract[42]	new[42]	coref	29-1[42_43]
 28-2	_	,	_	_	_	_
-28-3	_	the	abstract[52]	new[52]	coref	49-3[52_53]
-28-4	_	pixies	abstract[52]	new[52]	_	_
+28-3	_	the	abstract[53]	new[53]	coref	49-3[53_54]
+28-4	_	pixies	abstract[53]	new[53]	_	_
 28-5	_	are	_	_	_	_
 28-6	_	out	_	_	_	_
 28-7	_	of	_	_	_	_
@@ -472,7 +472,7 @@
 #Text=Really , we need you to do something sooner ...
 32-1	_	Really	_	_	_	_
 32-2	_	,	_	_	_	_
-32-3	_	we	abstract[55]	new[55]	coref	34-2[55_56]
+32-3	_	we	abstract[56]	new[56]	coref	34-2[56_57]
 32-4	_	need	_	_	_	_
 32-5	_	you	abstract[45]	new[45]	coref	35-3[45_46]
 32-6	_	to	_	_	_	_
@@ -484,7 +484,7 @@
 #Text=Well , I ’m just not ready to wait that long .
 33-1	_	Well	_	_	_	_
 33-2	_	,	_	_	_	_
-33-3	_	I	abstract[62]	new[62]	coref	37-1[62_63]
+33-3	_	I	abstract[63]	new[63]	coref	37-1[63_64]
 33-4	_	’m	_	_	_	_
 33-5	_	just	_	_	_	_
 33-6	_	not	_	_	_	_
@@ -496,14 +496,14 @@
 33-12	_	.	_	_	_	_
 
 #Text=We may have to try something on our own , then .
-34-1	_	We	abstract[56]	new[56]	coref	34-9[56_57]
+34-1	_	We	abstract[57]	new[57]	coref	34-9[57_58]
 34-2	_	may	_	_	_	_
 34-3	_	have	_	_	_	_
 34-4	_	to	_	_	_	_
 34-5	_	try	_	_	_	_
 34-6	_	something	_	_	_	_
 34-7	_	on	_	_	_	_
-34-8	_	our	abstract[57]	new[57]	coref	39-17[57_58]
+34-8	_	our	abstract[58]	new[58]	coref	39-17[58_59]
 34-9	_	own	_	_	_	_
 34-10	_	,	_	_	_	_
 34-11	_	then	_	_	_	_
@@ -527,11 +527,11 @@
 36-9	_	”	_	_	_	_
 
 #Text=She hung up the phone .
-37-1	_	She	abstract[63]	new[63]	coref	38-9[63_64]
+37-1	_	She	abstract[64]	new[64]	coref	38-9[64_65]
 37-2	_	hung	_	_	_	_
 37-3	_	up	_	_	_	_
-37-4	_	the	abstract[84]	new[84]	_	_
-37-5	_	phone	abstract[84]	new[84]	_	_
+37-4	_	the	abstract[90]	new[90]	_	_
+37-5	_	phone	abstract[90]	new[90]	_	_
 37-6	_	.	_	_	_	_
 
 #Text=“ Man , he ’s useless , ” she said .
@@ -543,7 +543,7 @@
 38-6	_	useless	_	_	_	_
 38-7	_	,	_	_	_	_
 38-8	_	”	_	_	_	_
-38-9	_	she	abstract[64]	new[64]	coref	40-15[64_65]
+38-9	_	she	abstract[65]	new[65]	coref	40-15[65_66]
 38-10	_	said	_	_	_	_
 38-11	_	.	_	_	_	_
 
@@ -555,7 +555,7 @@
 39-5	_	hand	_	_	_	_
 39-6	_	,	_	_	_	_
 39-7	_	”	_	_	_	_
-39-8	_	I	abstract[85]	new[85]	coref	40-1[85_86]
+39-8	_	I	abstract[91]	new[91]	coref	40-1[91_92]
 39-9	_	said	_	_	_	_
 39-10	_	,	_	_	_	_
 39-11	_	“	_	_	_	_
@@ -564,7 +564,7 @@
 39-14	_	the	_	_	_	_
 39-15	_	first	_	_	_	_
 39-16	_	super	_	_	_	_
-39-17	_	we	abstract[58]	new[58]	coref	46-5[58_59]
+39-17	_	we	abstract[59]	new[59]	coref	46-5[59_60]
 39-18	_	’ve	_	_	_	_
 39-19	_	had	_	_	_	_
 39-20	_	who	_	_	_	_
@@ -588,21 +588,21 @@
 39-38	_	”	_	_	_	_
 
 #Text=I took the robe I ’d brought from the bathroom and wrapped it around her shoulders .
-40-1	_	I	abstract[86]	new[86]	coref	40-5[86_87]
+40-1	_	I	abstract[92]	new[92]	coref	40-5[92_93]
 40-2	_	took	_	_	_	_
-40-3	_	the	abstract[95]	new[95]	coref	40-13[95_96]
-40-4	_	robe	abstract[95]	new[95]	_	_
-40-5	_	I	abstract[87]|abstract[95]	new[87]|new[95]	coref	44-2[87_88]
-40-6	_	’d	abstract[95]	new[95]	_	_
-40-7	_	brought	abstract[95]	new[95]	_	_
-40-8	_	from	abstract[95]	new[95]	_	_
-40-9	_	the	abstract[29]|abstract[95]	new[29]|new[95]	_	_
-40-10	_	bathroom	abstract[29]|abstract[95]	new[29]|new[95]	_	_
+40-3	_	the	abstract[101]	new[101]	coref	40-13[101_102]
+40-4	_	robe	abstract[101]	new[101]	_	_
+40-5	_	I	abstract[93]|abstract[101]	new[93]|new[101]	coref	44-2[93_94]
+40-6	_	’d	abstract[101]	new[101]	_	_
+40-7	_	brought	abstract[101]	new[101]	_	_
+40-8	_	from	abstract[101]	new[101]	_	_
+40-9	_	the	abstract[29]|abstract[101]	new[29]|new[101]	_	_
+40-10	_	bathroom	abstract[29]|abstract[101]	new[29]|new[101]	_	_
 40-11	_	and	_	_	_	_
 40-12	_	wrapped	_	_	_	_
-40-13	_	it	abstract[96]	new[96]	_	_
+40-13	_	it	abstract[102]	new[102]	_	_
 40-14	_	around	_	_	_	_
-40-15	_	her	abstract[65]	new[65]	coref	43-4[65_66]
+40-15	_	her	abstract[66]	new[66]	coref	43-4[66_67]
 40-16	_	shoulders	_	_	_	_
 40-17	_	.	_	_	_	_
 
@@ -630,7 +630,7 @@
 43-1	_	Spiral	_	_	_	_
 43-2	_	out	_	_	_	_
 43-3	_	from	_	_	_	_
-43-4	_	your	abstract[66]	new[66]	coref	48-2[66_67]
+43-4	_	your	abstract[67]	new[67]	coref	48-2[67_68]
 43-5	_	navel	_	_	_	_
 43-6	_	center	_	_	_	_
 43-7	_	,	_	_	_	_
@@ -641,7 +641,7 @@
 
 #Text=“ Robert , this sort of thing never happened in San Francisco . ”
 44-1	_	“	_	_	_	_
-44-2	_	Robert	abstract[88]	new[88]	coref	45-5[88_89]
+44-2	_	Robert	abstract[94]	new[94]	coref	45-5[94_95]
 44-3	_	,	_	_	_	_
 44-4	_	this	_	_	_	_
 44-5	_	sort	_	_	_	_
@@ -650,8 +650,8 @@
 44-8	_	never	_	_	_	_
 44-9	_	happened	_	_	_	_
 44-10	_	in	_	_	_	_
-44-11	_	San	abstract[97]	new[97]	coref	46-3[97_98]
-44-12	_	Francisco	abstract[97]	new[97]	_	_
+44-11	_	San	abstract[103]	new[103]	coref	46-3[103_104]
+44-12	_	Francisco	abstract[103]	new[103]	_	_
 44-13	_	.	_	_	_	_
 44-14	_	”	_	_	_	_
 
@@ -660,16 +660,16 @@
 45-2	_	No	_	_	_	_
 45-3	_	,	_	_	_	_
 45-4	_	”	_	_	_	_
-45-5	_	I	abstract[89]	new[89]	coref	50-12[89_90]
+45-5	_	I	abstract[95]	new[95]	coref	50-12[95_96]
 45-6	_	said	_	_	_	_
 45-7	_	.	_	_	_	_
 
 #Text=“ In San Francisco we got earthquakes , and there were wood sprites in Golden Gate Park .
 46-1	_	“	_	_	_	_
 46-2	_	In	_	_	_	_
-46-3	_	San	abstract[98]	new[98]	_	_
-46-4	_	Francisco	abstract[98]	new[98]	_	_
-46-5	_	we	abstract[59]	new[59]	coref	57-3[59_60]
+46-3	_	San	abstract[104]	new[104]	_	_
+46-4	_	Francisco	abstract[104]	new[104]	_	_
+46-5	_	we	abstract[60]	new[60]	coref	57-3[60_61]
 46-6	_	got	_	_	_	_
 46-7	_	earthquakes	_	_	_	_
 46-8	_	,	_	_	_	_
@@ -694,12 +694,12 @@
 
 #Text=“ I keep trying to tell myself that this is cool .
 48-1	_	“	_	_	_	_
-48-2	_	I	abstract[67]	new[67]	coref	48-7[67_68]
+48-2	_	I	abstract[68]	new[68]	coref	48-7[68_69]
 48-3	_	keep	_	_	_	_
 48-4	_	trying	_	_	_	_
 48-5	_	to	_	_	_	_
 48-6	_	tell	_	_	_	_
-48-7	_	myself	abstract[68]	new[68]	coref	49-6[68_69]
+48-7	_	myself	abstract[69]	new[69]	coref	49-6[69_70]
 48-8	_	that	_	_	_	_
 48-9	_	this	_	_	_	_
 48-10	_	is	_	_	_	_
@@ -709,35 +709,35 @@
 #Text=But then they come at me on a Sunday morning , when I have no work to do and I ’m trying to relax and I ’m naked , and I just lose it ... . ”
 49-1	_	But	_	_	_	_
 49-2	_	then	_	_	_	_
-49-3	_	they	abstract[53]	new[53]	coref	58-9[53_54]
+49-3	_	they	abstract[54]	new[54]	coref	58-9[54_55]
 49-4	_	come	_	_	_	_
 49-5	_	at	_	_	_	_
-49-6	_	me	abstract[69]	new[69]	coref	49-13[69_70]
+49-6	_	me	abstract[70]	new[70]	coref	49-13[70_71]
 49-7	_	on	_	_	_	_
 49-8	_	a	_	_	_	_
 49-9	_	Sunday	_	_	_	_
 49-10	_	morning	_	_	_	_
 49-11	_	,	_	_	_	_
 49-12	_	when	_	_	_	_
-49-13	_	I	abstract[70]	new[70]	coref	49-20[70_71]
+49-13	_	I	abstract[71]	new[71]	coref	49-20[71_72]
 49-14	_	have	_	_	_	_
 49-15	_	no	_	_	_	_
 49-16	_	work	_	_	_	_
 49-17	_	to	_	_	_	_
 49-18	_	do	_	_	_	_
 49-19	_	and	_	_	_	_
-49-20	_	I	abstract[71]	new[71]	coref	49-26[71_72]
+49-20	_	I	abstract[72]	new[72]	coref	49-26[72_73]
 49-21	_	’m	_	_	_	_
 49-22	_	trying	_	_	_	_
 49-23	_	to	_	_	_	_
 49-24	_	relax	_	_	_	_
 49-25	_	and	_	_	_	_
-49-26	_	I	abstract[72]	new[72]	coref	49-31[72_73]
+49-26	_	I	abstract[73]	new[73]	coref	49-31[73_74]
 49-27	_	’m	_	_	_	_
 49-28	_	naked	_	_	_	_
 49-29	_	,	_	_	_	_
 49-30	_	and	_	_	_	_
-49-31	_	I	abstract[73]	new[73]	coref	50-3[73_74]
+49-31	_	I	abstract[74]	new[74]	coref	50-3[74_75]
 49-32	_	just	_	_	_	_
 49-33	_	lose	_	_	_	_
 49-34	_	it	_	_	_	_
@@ -748,16 +748,16 @@
 #Text=“ And you take it out on the super , ” I said .
 50-1	_	“	_	_	_	_
 50-2	_	And	_	_	_	_
-50-3	_	you	abstract[74]	new[74]	coref	51-4[74_75]
+50-3	_	you	abstract[75]	new[75]	coref	51-4[75_76]
 50-4	_	take	_	_	_	_
 50-5	_	it	_	_	_	_
 50-6	_	out	_	_	_	_
 50-7	_	on	_	_	_	_
-50-8	_	the	abstract[50]	new[50]	_	_
+50-8	_	the	abstract[50]	new[50]	coref	60-12[50_51]
 50-9	_	super	abstract[50]	new[50]	_	_
 50-10	_	,	_	_	_	_
 50-11	_	”	_	_	_	_
-50-12	_	I	abstract[90]	new[90]	coref	53-9[90_91]
+50-12	_	I	abstract[96]	new[96]	coref	53-9[96_97]
 50-13	_	said	_	_	_	_
 50-14	_	.	_	_	_	_
 
@@ -765,7 +765,7 @@
 51-1	_	“	_	_	_	_
 51-2	_	And	_	_	_	_
 51-3	_	now	_	_	_	_
-51-4	_	I	abstract[75]	new[75]	coref	51-12[75_76]
+51-4	_	I	abstract[76]	new[76]	coref	51-12[76_77]
 51-5	_	’m	_	_	_	_
 51-6	_	gon	_	_	_	_
 51-7	_	na	_	_	_	_
@@ -773,13 +773,13 @@
 51-9	_	a	_	_	_	_
 51-10	_	bruise	_	_	_	_
 51-11	_	on	_	_	_	_
-51-12	_	my	abstract[76]	new[76]	coref	51-18[76_77]
+51-12	_	my	abstract[77]	new[77]	coref	51-18[77_78]
 51-13	_	butt	_	_	_	_
 51-14	_	,	_	_	_	_
 51-15	_	too	_	_	_	_
 51-16	_	,	_	_	_	_
 51-17	_	”	_	_	_	_
-51-18	_	she	abstract[77]	new[77]	coref	52-8[77_78]
+51-18	_	she	abstract[78]	new[78]	coref	52-8[78_79]
 51-19	_	said	_	_	_	_
 51-20	_	.	_	_	_	_
 
@@ -791,7 +791,7 @@
 52-5	_	’s	_	_	_	_
 52-6	_	karma	_	_	_	_
 52-7	_	for	_	_	_	_
-52-8	_	you	abstract[78]	new[78]	coref	53-12[78_79]
+52-8	_	you	abstract[79]	new[79]	coref	53-12[79_80]
 52-9	_	.	_	_	_	_
 
 #Text=Now stretch out on the couch , and I ’ll bring you coffee and rub your feet . ”
@@ -803,20 +803,20 @@
 53-6	_	couch	_	_	_	_
 53-7	_	,	_	_	_	_
 53-8	_	and	_	_	_	_
-53-9	_	I	abstract[91]	new[91]	coref	58-1[91_92]
+53-9	_	I	abstract[97]	new[97]	coref	58-1[97_98]
 53-10	_	’ll	_	_	_	_
 53-11	_	bring	_	_	_	_
-53-12	_	you	abstract[79]	new[79]	coref	53-16[79_80]
+53-12	_	you	abstract[80]	new[80]	coref	53-16[80_81]
 53-13	_	coffee	_	_	_	_
 53-14	_	and	_	_	_	_
 53-15	_	rub	_	_	_	_
-53-16	_	your	abstract[80]	new[80]	coref	54-1[80_81]
+53-16	_	your	abstract[81]	new[81]	coref	54-1[81_82]
 53-17	_	feet	_	_	_	_
 53-18	_	.	_	_	_	_
 53-19	_	”	_	_	_	_
 
 #Text=Jenna smiled .
-54-1	_	Jenna	abstract[81]	new[81]	coref	55-16[81_82]
+54-1	_	Jenna	abstract[82]	new[82]	coref	55-16[82_83]
 54-2	_	smiled	_	_	_	_
 54-3	_	.	_	_	_	_
 
@@ -836,7 +836,7 @@
 55-13	_	,	_	_	_	_
 55-14	_	is	_	_	_	_
 55-15	_	all	_	_	_	_
-55-16	_	I	abstract[82]	new[82]	_	_
+55-16	_	I	abstract[83]	new[83]	coref	60-5[83_84]
 55-17	_	ask	_	_	_	_
 55-18	_	.	_	_	_	_
 55-19	_	”	_	_	_	_
@@ -848,7 +848,7 @@
 #Text=That was our previous Sunday morning adventure : most unpleasant , and marked by the death of a new French - press pot .
 57-1	_	That	_	_	_	_
 57-2	_	was	_	_	_	_
-57-3	_	our	abstract[60]	new[60]	coref	59-2[60_61]
+57-3	_	our	abstract[61]	new[61]	coref	59-2[61_62]
 57-4	_	previous	_	_	_	_
 57-5	_	Sunday	_	_	_	_
 57-6	_	morning	_	_	_	_
@@ -872,41 +872,69 @@
 57-24	_	.	_	_	_	_
 
 #Text=I realized that I , too , hated the pixies .
-58-1	_	I	abstract[92]	new[92]	coref	58-4[92_93]
+58-1	_	I	abstract[98]	new[98]	coref	58-4[98_99]
 58-2	_	realized	_	_	_	_
 58-3	_	that	_	_	_	_
-58-4	_	I	abstract[93]	new[93]	coref	59-8[93_94]
+58-4	_	I	abstract[99]	new[99]	coref	59-8[99_100]
 58-5	_	,	_	_	_	_
 58-6	_	too	_	_	_	_
 58-7	_	,	_	_	_	_
 58-8	_	hated	_	_	_	_
-58-9	_	the	abstract[54]	new[54]	_	_
-58-10	_	pixies	abstract[54]	new[54]	_	_
+58-9	_	the	abstract[55]	new[55]	_	_
+58-10	_	pixies	abstract[55]	new[55]	_	_
 58-11	_	.	_	_	_	_
 
 #Text=“ We need a plan , ” I said .
 59-1	_	“	_	_	_	_
-59-2	_	We	abstract[61]	new[61]	_	_
+59-2	_	We	abstract[62]	new[62]	_	_
 59-3	_	need	_	_	_	_
 59-4	_	a	_	_	_	_
 59-5	_	plan	_	_	_	_
 59-6	_	,	_	_	_	_
 59-7	_	”	_	_	_	_
-59-8	_	I	abstract[94]	new[94]	_	_
+59-8	_	I	abstract[100]	new[100]	_	_
 59-9	_	said	_	_	_	_
 59-10	_	.	_	_	_	_
 
-#Text="""" Try to touch the past , """" writes Ted Bundy .
-60-1	_	""""	_	_	_	_
-60-2	_	Try	_	_	_	_
-60-3	_	to	_	_	_	_
-60-4	_	touch	_	_	_	_
-60-5	_	the	_	_	_	_
-60-6	_	past	_	_	_	_
-60-7	_	,	_	_	_	_
-60-8	_	""""	_	_	_	_
-60-9	_	writes	_	_	_	_
-60-10	_	Ted	_	_	_	_
-60-11	_	Bundy	_	_	_	_
-60-12	_	.	_	_	_	_
+#Text=After water pixies harrass Jenna in her bathtub , she calls the super for her Manhattan apartment for help to no avail , making her partner Robert want to come up with plan to get rid of the pixies .
+60-1	_	After	_	_	_	_
+60-2	_	water	abstract[105]	new[105]	coref	60-38[105_106]
+60-3	_	pixies	abstract[105]	new[105]	_	_
+60-4	_	harrass	_	_	_	_
+60-5	_	Jenna	abstract[84]	new[84]	coref	60-7[84_85]
+60-6	_	in	_	_	_	_
+60-7	_	her	abstract[85]	new[85]	coref	60-10[85_86]
+60-8	_	bathtub	_	_	_	_
+60-9	_	,	_	_	_	_
+60-10	_	she	abstract[86]	new[86]	coref	60-15[86_87]
+60-11	_	calls	_	_	_	_
+60-12	_	the	abstract[51]	new[51]	_	_
+60-13	_	super	abstract[51]	new[51]	_	_
+60-14	_	for	abstract[51]	new[51]	_	_
+60-15	_	her	abstract[51]|abstract[87]	new[51]|new[87]	coref	60-25[87_88]
+60-16	_	Manhattan	abstract[51]	new[51]	_	_
+60-17	_	apartment	abstract[51]	new[51]	_	_
+60-18	_	for	_	_	_	_
+60-19	_	help	_	_	_	_
+60-20	_	to	_	_	_	_
+60-21	_	no	_	_	_	_
+60-22	_	avail	_	_	_	_
+60-23	_	,	_	_	_	_
+60-24	_	making	_	_	_	_
+60-25	_	her	abstract[88]	new[88]	_	_
+60-26	_	partner	_	_	_	_
+60-27	_	Robert	_	_	_	_
+60-28	_	want	_	_	_	_
+60-29	_	to	_	_	_	_
+60-30	_	come	_	_	_	_
+60-31	_	up	_	_	_	_
+60-32	_	with	_	_	_	_
+60-33	_	plan	_	_	_	_
+60-34	_	to	_	_	_	_
+60-35	_	get	_	_	_	_
+60-36	_	rid	_	_	_	_
+60-37	_	of	_	_	_	_
+60-38	_	the	abstract[106]	new[106]	_	_
+60-39	_	pixies	abstract[106]	new[106]	_	_
+60-40	_	.	_	_	_	_
 
