@@ -221,7 +221,7 @@ def align_llm(doc_mentions, summary_text):
     return results
 
 
-def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # Make user specify this
+def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"):
     """
     Align mentions using a Huggingface model.
 
@@ -233,7 +233,7 @@ def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # 
     Returns:
         list of list of list of tuples: A list of lists of lists of tuples where each tuple's `word_span` is found in the corresponding document.
     """
-    aligner = pipeline("text2text-generation", model=model_name)
+    aligner = pipeline("text2text-generation", model=model_name, device=0) # Run on GPU
     
     prompt_template = (
         "Document: {doc_text}\n"
@@ -278,12 +278,10 @@ def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"): # 
                         extracted_mentions.append((span, idx, coref))
                         break
 
-            summary_results.append(extracted_mentions)
+            # Append extracted mentions or empty list
+            summary_results.append(extracted_mentions if extracted_mentions else [])
         
         results.append(summary_results)
-
-    # Remove empty lists from results
-    results = [[mentions for mentions in doc_results if mentions] for doc_results in results]
 
     return results
 
