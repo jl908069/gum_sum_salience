@@ -193,16 +193,27 @@ def extract_first_mentions(sc, sum1_alignments):
         seen_mentions = set()  # Set to keep track of unique mentions
 
         for alignment_list in st_doc:
-            for alignment in alignment_list:
-                salient_mention = alignment[0].lower()  # Get the salient mention in lowercase
-                
-                for sc_tuple in sc_doc:
-                    sc_mentions = [mention.lower() for mention in sc_tuple]  # Normalize mentions in sc to lowercase
+            # If alignment_list is empty, continue with an empty list in the results
+            if not alignment_list:
+                doc_results.append([])
+                continue
 
-                    if salient_mention in sc_mentions and sc_tuple[0] not in seen_mentions:
+            found_match = False
+            for alignment in alignment_list:
+                salient_mention = alignment[0].strip().lower()  # Get the salient mention in lowercase
+
+                for sc_tuple in sc_doc:
+                    sc_mentions = [mention.strip().lower() for mention in sc_tuple]  # Normalize mentions in sc to lowercase
+
+                    # Check if the salient mention is a substring of any mention in sc
+                    if any(salient_mention in mention for mention in sc_mentions) and sc_tuple[0] not in seen_mentions:
                         doc_results.append(sc_tuple[0])  # Append the first matching mention from sc
                         seen_mentions.add(sc_tuple[0])  # Mark this mention as seen
-                        break  # Break out of the current `sc_tuple` loop after finding the match
+                        found_match = True
+                        break  # Break after finding the match for this alignment
+
+            if not found_match:
+                doc_results.append([])  # Append empty list if no match is found
 
         results.append(doc_results)
 
