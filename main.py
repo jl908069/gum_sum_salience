@@ -19,7 +19,7 @@ def main():
 
     # Input data folder
     pred_tsv_folder =args.data_folder + '/output/pred_tsv'
-    gold_tsv_folder = args.data_folder + '/input/tsv/train' #use 'train' for scoring
+    gold_tsv_folder = args.data_folder + '/input/tsv/test' # use 'test' for scoring
 
     folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_train{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_train{i}', '*.tsv'))] #default to train
 
@@ -34,11 +34,11 @@ def main():
     sc=sal_coref_cluster(sal_mentions)
 
     # Extract mentions from gold TSV folder
-    all_mentions_from_tsv = extract_mentions_from_gold_tsv(args.data_folder + '/input/tsv/train', docnames=doc_ids) #use 'train' for scoring
+    all_mentions_from_tsv = extract_mentions_from_gold_tsv(args.data_folder + '/input/tsv/test', docnames=doc_ids) # use 'test' for scoring
 
     # Get as many summaries as specified for each document
     summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
-    gold_summaries=extract_gold_summaries_from_xml(args.data_folder + '/input/xml/train') #use 'train' for scoring
+    gold_summaries=extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test') # use 'test' for scoring
 
     # Get all mentions from each summary
     all_mentions = parse_summaries(list(summaries.values()))
@@ -48,7 +48,7 @@ def main():
     alignments = align(all_mentions_from_tsv, list(summaries.values()), all_mentions, data_folder=folders_with_pred_tsv, n_summaries=args.n_summaries , component=args.alignment_component)
     sum1_alignments = align(all_mentions_from_tsv, list(gold_summaries.values()), sum1_mentions, data_folder=folders_with_pred_tsv, n_summaries=1 , component=args.alignment_component)
 
-    if args.alignment_component=='coref_system': 
+    if args.alignment_component in ['coref_system', 'LLM_hf']: 
         pred=extract_first_mentions(sc, sum1_alignments[0]) #TODO
     else:
         pred=extract_first_mentions(sc, sum1_alignments)
