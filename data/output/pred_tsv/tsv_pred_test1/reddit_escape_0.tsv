@@ -1,0 +1,1070 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=Escape The Room Employees , what is the weirdest thing you 've seen someone do in one of the rooms ?
+1-1	_	Escape	_	_	_	_
+1-2	_	The	_	_	_	_
+1-3	_	Room	_	_	_	_
+1-4	_	Employees	_	_	_	_
+1-5	_	,	_	_	_	_
+1-6	_	what	_	_	_	_
+1-7	_	is	_	_	_	_
+1-8	_	the	_	_	_	_
+1-9	_	weirdest	_	_	_	_
+1-10	_	thing	_	_	_	_
+1-11	_	you	abstract[54]	new[54]	coref	26-39[54_55]
+1-12	_	've	_	_	_	_
+1-13	_	seen	_	_	_	_
+1-14	_	someone	_	_	_	_
+1-15	_	do	_	_	_	_
+1-16	_	in	_	_	_	_
+1-17	_	one	_	_	_	_
+1-18	_	of	_	_	_	_
+1-19	_	the	abstract[49]	new[49]	coref	8-23[49_50]
+1-20	_	rooms	abstract[49]	new[49]	_	_
+1-21	_	?	_	_	_	_
+
+#Text=The most depressing shit I saw was a tired looking couple who brought in their bespectacled , NASA shirt wearing , 8 year old geek of a son in to have some fun .
+2-1	_	The	_	_	_	_
+2-2	_	most	_	_	_	_
+2-3	_	depressing	_	_	_	_
+2-4	_	shit	_	_	_	_
+2-5	_	I	abstract[37]	new[37]	coref	8-1[37_38]
+2-6	_	saw	_	_	_	_
+2-7	_	was	_	_	_	_
+2-8	_	a	_	_	_	_
+2-9	_	tired	_	_	_	_
+2-10	_	looking	_	_	_	_
+2-11	_	couple	_	_	_	_
+2-12	_	who	_	_	_	_
+2-13	_	brought	_	_	_	_
+2-14	_	in	_	_	_	_
+2-15	_	their	abstract[1]	new[1]	coref	3-10[1_2]
+2-16	_	bespectacled	abstract[1]	new[1]	_	_
+2-17	_	,	abstract[1]	new[1]	_	_
+2-18	_	NASA	abstract[1]	new[1]	_	_
+2-19	_	shirt	abstract[1]	new[1]	_	_
+2-20	_	wearing	abstract[1]	new[1]	_	_
+2-21	_	,	abstract[1]	new[1]	_	_
+2-22	_	8	abstract[1]	new[1]	_	_
+2-23	_	year	abstract[1]	new[1]	_	_
+2-24	_	old	abstract[1]	new[1]	_	_
+2-25	_	geek	abstract[1]	new[1]	_	_
+2-26	_	of	abstract[1]	new[1]	_	_
+2-27	_	a	abstract[1]	new[1]	_	_
+2-28	_	son	abstract[1]	new[1]	_	_
+2-29	_	in	_	_	_	_
+2-30	_	to	_	_	_	_
+2-31	_	have	_	_	_	_
+2-32	_	some	_	_	_	_
+2-33	_	fun	_	_	_	_
+2-34	_	.	_	_	_	_
+
+#Text=The parents could n't have been more discouraging to him .
+3-1	_	The	abstract[28]	new[28]	coref	4-18[28_29]
+3-2	_	parents	abstract[28]	new[28]	_	_
+3-3	_	could	_	_	_	_
+3-4	_	n't	_	_	_	_
+3-5	_	have	_	_	_	_
+3-6	_	been	_	_	_	_
+3-7	_	more	_	_	_	_
+3-8	_	discouraging	_	_	_	_
+3-9	_	to	_	_	_	_
+3-10	_	him	abstract[2]	new[2]	coref	4-1[2_3]
+3-11	_	.	_	_	_	_
+
+#Text=He was excitedly bouncing around the room pointing out things that he thought were clues clues while the parents dismissed every idea he had and told him to stop getting so excited .
+4-1	_	He	abstract[3]	new[3]	coref	4-12[3_4]
+4-2	_	was	_	_	_	_
+4-3	_	excitedly	_	_	_	_
+4-4	_	bouncing	_	_	_	_
+4-5	_	around	_	_	_	_
+4-6	_	the	_	_	_	_
+4-7	_	room	_	_	_	_
+4-8	_	pointing	_	_	_	_
+4-9	_	out	_	_	_	_
+4-10	_	things	_	_	_	_
+4-11	_	that	_	_	_	_
+4-12	_	he	abstract[4]	new[4]	coref	4-23[4_5]
+4-13	_	thought	_	_	_	_
+4-14	_	were	_	_	_	_
+4-15	_	clues	_	_	_	_
+4-16	_	clues	_	_	_	_
+4-17	_	while	_	_	_	_
+4-18	_	the	abstract[29]	new[29]	coref	5-1[29_30]
+4-19	_	parents	abstract[29]	new[29]	_	_
+4-20	_	dismissed	_	_	_	_
+4-21	_	every	_	_	_	_
+4-22	_	idea	_	_	_	_
+4-23	_	he	abstract[5]	new[5]	coref	4-27[5_6]
+4-24	_	had	_	_	_	_
+4-25	_	and	_	_	_	_
+4-26	_	told	_	_	_	_
+4-27	_	him	abstract[6]	new[6]	coref	5-12[6_7]
+4-28	_	to	_	_	_	_
+4-29	_	stop	_	_	_	_
+4-30	_	getting	_	_	_	_
+4-31	_	so	_	_	_	_
+4-32	_	excited	_	_	_	_
+4-33	_	.	_	_	_	_
+
+#Text=The parents took charge and proceeded to ignore the obvious clues he was pointing out and spent most of the time pursuing dead ends .
+5-1	_	The	abstract[30]	new[30]	coref	6-13[30_31]
+5-2	_	parents	abstract[30]	new[30]	_	_
+5-3	_	took	_	_	_	_
+5-4	_	charge	_	_	_	_
+5-5	_	and	_	_	_	_
+5-6	_	proceeded	_	_	_	_
+5-7	_	to	_	_	_	_
+5-8	_	ignore	_	_	_	_
+5-9	_	the	_	_	_	_
+5-10	_	obvious	_	_	_	_
+5-11	_	clues	_	_	_	_
+5-12	_	he	abstract[7]	new[7]	coref	6-4[7_8]
+5-13	_	was	_	_	_	_
+5-14	_	pointing	_	_	_	_
+5-15	_	out	_	_	_	_
+5-16	_	and	_	_	_	_
+5-17	_	spent	_	_	_	_
+5-18	_	most	_	_	_	_
+5-19	_	of	_	_	_	_
+5-20	_	the	_	_	_	_
+5-21	_	time	_	_	_	_
+5-22	_	pursuing	_	_	_	_
+5-23	_	dead	_	_	_	_
+5-24	_	ends	_	_	_	_
+5-25	_	.	_	_	_	_
+
+#Text=Sad part is his instincts were more often than not correct but his parents just did n't listen and refused to let him explore and try stuff out .
+6-1	_	Sad	_	_	_	_
+6-2	_	part	_	_	_	_
+6-3	_	is	_	_	_	_
+6-4	_	his	abstract[8]	new[8]	coref	6-13[8_9]
+6-5	_	instincts	_	_	_	_
+6-6	_	were	_	_	_	_
+6-7	_	more	_	_	_	_
+6-8	_	often	_	_	_	_
+6-9	_	than	_	_	_	_
+6-10	_	not	_	_	_	_
+6-11	_	correct	_	_	_	_
+6-12	_	but	_	_	_	_
+6-13	_	his	abstract[9]|abstract[31]	new[9]|new[31]	coref|coref	6-23[9_10]|7-7[31_32]
+6-14	_	parents	abstract[31]	new[31]	_	_
+6-15	_	just	_	_	_	_
+6-16	_	did	_	_	_	_
+6-17	_	n't	_	_	_	_
+6-18	_	listen	_	_	_	_
+6-19	_	and	_	_	_	_
+6-20	_	refused	_	_	_	_
+6-21	_	to	_	_	_	_
+6-22	_	let	_	_	_	_
+6-23	_	him	abstract[10]	new[10]	coref	7-2[10_11]
+6-24	_	explore	_	_	_	_
+6-25	_	and	_	_	_	_
+6-26	_	try	_	_	_	_
+6-27	_	stuff	_	_	_	_
+6-28	_	out	_	_	_	_
+6-29	_	.	_	_	_	_
+
+#Text=Hopefully his curiosity and enthusiasm survives them .
+7-1	_	Hopefully	_	_	_	_
+7-2	_	his	abstract[11]	new[11]	coref	8-14[11_12]
+7-3	_	curiosity	_	_	_	_
+7-4	_	and	_	_	_	_
+7-5	_	enthusiasm	_	_	_	_
+7-6	_	survives	_	_	_	_
+7-7	_	them	abstract[32]	new[32]	coref	8-19[32_33]
+7-8	_	.	_	_	_	_
+
+#Text=I feel like if it were in my power in any way , that kid would have led his parents right through the damned thing .
+8-1	_	I	abstract[38]	new[38]	coref	8-8[38_39]
+8-2	_	feel	_	_	_	_
+8-3	_	like	_	_	_	_
+8-4	_	if	_	_	_	_
+8-5	_	it	_	_	_	_
+8-6	_	were	_	_	_	_
+8-7	_	in	_	_	_	_
+8-8	_	my	abstract[39]	new[39]	coref	9-2[39_40]
+8-9	_	power	_	_	_	_
+8-10	_	in	_	_	_	_
+8-11	_	any	_	_	_	_
+8-12	_	way	_	_	_	_
+8-13	_	,	_	_	_	_
+8-14	_	that	abstract[12]	new[12]	coref	8-19[12_13]
+8-15	_	kid	abstract[12]	new[12]	_	_
+8-16	_	would	_	_	_	_
+8-17	_	have	_	_	_	_
+8-18	_	led	_	_	_	_
+8-19	_	his	abstract[13]|abstract[33]	new[13]|new[33]	coref|coref	9-25[13_14]|9-19[33_34]
+8-20	_	parents	abstract[33]	new[33]	_	_
+8-21	_	right	_	_	_	_
+8-22	_	through	_	_	_	_
+8-23	_	the	abstract[50]	new[50]	coref	9-9[50_51]
+8-24	_	damned	abstract[50]	new[50]	_	_
+8-25	_	thing	abstract[50]	new[50]	_	_
+8-26	_	.	_	_	_	_
+
+#Text=If I were the ' operator ' of that site , at the end I would have walked the family through every damn clue the kid noticed and made sure the parents knew the kid was right .
+9-1	_	If	_	_	_	_
+9-2	_	I	abstract[40]	new[40]	coref	9-15[40_41]
+9-3	_	were	_	_	_	_
+9-4	_	the	_	_	_	_
+9-5	_	'	_	_	_	_
+9-6	_	operator	_	_	_	_
+9-7	_	'	_	_	_	_
+9-8	_	of	_	_	_	_
+9-9	_	that	abstract[51]	new[51]	_	_
+9-10	_	site	abstract[51]	new[51]	_	_
+9-11	_	,	_	_	_	_
+9-12	_	at	_	_	_	_
+9-13	_	the	_	_	_	_
+9-14	_	end	_	_	_	_
+9-15	_	I	abstract[41]	new[41]	coref	31-11[41_42]
+9-16	_	would	_	_	_	_
+9-17	_	have	_	_	_	_
+9-18	_	walked	_	_	_	_
+9-19	_	the	abstract[34]	new[34]	coref	9-31[34_35]
+9-20	_	family	abstract[34]	new[34]	_	_
+9-21	_	through	_	_	_	_
+9-22	_	every	_	_	_	_
+9-23	_	damn	_	_	_	_
+9-24	_	clue	_	_	_	_
+9-25	_	the	abstract[14]	new[14]	coref	9-34[14_15]
+9-26	_	kid	abstract[14]	new[14]	_	_
+9-27	_	noticed	_	_	_	_
+9-28	_	and	_	_	_	_
+9-29	_	made	_	_	_	_
+9-30	_	sure	_	_	_	_
+9-31	_	the	abstract[35]	new[35]	coref	10-1[35_36]
+9-32	_	parents	abstract[35]	new[35]	_	_
+9-33	_	knew	_	_	_	_
+9-34	_	the	abstract[15]	new[15]	coref	10-6[15_16]
+9-35	_	kid	abstract[15]	new[15]	_	_
+9-36	_	was	_	_	_	_
+9-37	_	right	_	_	_	_
+9-38	_	.	_	_	_	_
+
+#Text=They probably wo n't and he will develop chronic depression .
+10-1	_	They	abstract[36]	new[36]	_	_
+10-2	_	probably	_	_	_	_
+10-3	_	wo	_	_	_	_
+10-4	_	n't	_	_	_	_
+10-5	_	and	_	_	_	_
+10-6	_	he	abstract[16]	new[16]	coref	14-1[16_17]
+10-7	_	will	_	_	_	_
+10-8	_	develop	_	_	_	_
+10-9	_	chronic	_	_	_	_
+10-10	_	depression	_	_	_	_
+10-11	_	.	_	_	_	_
+
+#Text=Me irl
+11-1	_	Me	_	_	_	_
+11-2	_	irl	_	_	_	_
+
+#Text=That would seem to suggest parents are n't all knowing geniuses .
+12-1	_	That	_	_	_	_
+12-2	_	would	_	_	_	_
+12-3	_	seem	_	_	_	_
+12-4	_	to	_	_	_	_
+12-5	_	suggest	_	_	_	_
+12-6	_	parents	_	_	_	_
+12-7	_	are	_	_	_	_
+12-8	_	n't	_	_	_	_
+12-9	_	all	_	_	_	_
+12-10	_	knowing	_	_	_	_
+12-11	_	geniuses	_	_	_	_
+12-12	_	.	_	_	_	_
+
+#Text=Say it a nit so ! !
+13-1	_	Say	_	_	_	_
+13-2	_	it	_	_	_	_
+13-3	_	a	_	_	_	_
+13-4	_	nit	_	_	_	_
+13-5	_	so	_	_	_	_
+13-6	_	!	_	_	_	_
+13-7	_	!	_	_	_	_
+
+#Text=I will not go
+14-1	_	I	abstract[17]	new[17]	coref	16-2[17_18]
+14-2	_	will	_	_	_	_
+14-3	_	not	_	_	_	_
+14-4	_	go	_	_	_	_
+
+#Text=Turn the lights off
+15-1	_	Turn	_	_	_	_
+15-2	_	the	_	_	_	_
+15-3	_	lights	_	_	_	_
+15-4	_	off	_	_	_	_
+
+#Text=Carry me home
+16-1	_	Carry	_	_	_	_
+16-2	_	me	abstract[18]	new[18]	coref	21-4[18_19]
+16-3	_	home	_	_	_	_
+
+#Text=NANANANANANANANANANANANANANANANANANA
+17-1	_	NANANANANANANANANANANANANANANANANANA	_	_	_	_
+
+#Text=It amazes me the chunks of time it takes for people to respond to these things D:>
+18-1	_	It	_	_	_	_
+18-2	_	amazes	_	_	_	_
+18-3	_	me	_	_	_	_
+18-4	_	the	_	_	_	_
+18-5	_	chunks	_	_	_	_
+18-6	_	of	_	_	_	_
+18-7	_	time	_	_	_	_
+18-8	_	it	_	_	_	_
+18-9	_	takes	_	_	_	_
+18-10	_	for	_	_	_	_
+18-11	_	people	_	_	_	_
+18-12	_	to	_	_	_	_
+18-13	_	respond	_	_	_	_
+18-14	_	to	_	_	_	_
+18-15	_	these	_	_	_	_
+18-16	_	things	_	_	_	_
+18-17	_	D:>	_	_	_	_
+
+#Text=1 year later
+19-1	_	1	_	_	_	_
+19-2	_	year	_	_	_	_
+19-3	_	later	_	_	_	_
+
+#Text=Late night , come home
+20-1	_	Late	_	_	_	_
+20-2	_	night	_	_	_	_
+20-3	_	,	_	_	_	_
+20-4	_	come	_	_	_	_
+20-5	_	home	_	_	_	_
+
+#Text=Work sucks , I know
+21-1	_	Work	_	_	_	_
+21-2	_	sucks	_	_	_	_
+21-3	_	,	_	_	_	_
+21-4	_	I	abstract[19]	new[19]	coref	22-3[19_20]
+21-5	_	know	_	_	_	_
+
+#Text=She left me roses by the stairs .
+22-1	_	She	_	_	_	_
+22-2	_	left	_	_	_	_
+22-3	_	me	abstract[20]	new[20]	coref	23-5[20_21]
+22-4	_	roses	_	_	_	_
+22-5	_	by	_	_	_	_
+22-6	_	the	_	_	_	_
+22-7	_	stairs	_	_	_	_
+22-8	_	.	_	_	_	_
+
+#Text=Not to over step my boundaries but ... what cunts .
+23-1	_	Not	_	_	_	_
+23-2	_	to	_	_	_	_
+23-3	_	over	_	_	_	_
+23-4	_	step	_	_	_	_
+23-5	_	my	abstract[21]	new[21]	coref	24-1[21_22]
+23-6	_	boundaries	_	_	_	_
+23-7	_	but	_	_	_	_
+23-8	_	...	_	_	_	_
+23-9	_	what	_	_	_	_
+23-10	_	cunts	_	_	_	_
+23-11	_	.	_	_	_	_
+
+#Text=That poor child deserves to be encouraged and listened to . :(
+24-1	_	That	abstract[22]	new[22]	coref	26-1[22_23]
+24-2	_	poor	abstract[22]	new[22]	_	_
+24-3	_	child	abstract[22]	new[22]	_	_
+24-4	_	deserves	_	_	_	_
+24-5	_	to	_	_	_	_
+24-6	_	be	_	_	_	_
+24-7	_	encouraged	_	_	_	_
+24-8	_	and	_	_	_	_
+24-9	_	listened	_	_	_	_
+24-10	_	to	_	_	_	_
+24-11	_	.	_	_	_	_
+24-12	_	:(	_	_	_	_
+
+#Text=This is the flaw with the premise of the movie Idiocracy .
+25-1	_	This	_	_	_	_
+25-2	_	is	_	_	_	_
+25-3	_	the	_	_	_	_
+25-4	_	flaw	_	_	_	_
+25-5	_	with	_	_	_	_
+25-6	_	the	_	_	_	_
+25-7	_	premise	_	_	_	_
+25-8	_	of	_	_	_	_
+25-9	_	the	_	_	_	_
+25-10	_	movie	_	_	_	_
+25-11	_	Idiocracy	_	_	_	_
+25-12	_	.	_	_	_	_
+
+#Text=My parents always did that when I was a kid whenever there was a problem that needing thinking through they never let me help or dismissed every idea I had simply because I was understandably a kid but you still have to at least let your kids try and help or take their suggestions seriously
+26-1	_	My	abstract[23]|abstract[52]	new[23]|new[52]	coref|coref	26-7[23_24]|26-20[52_53]
+26-2	_	parents	abstract[52]	new[52]	_	_
+26-3	_	always	_	_	_	_
+26-4	_	did	_	_	_	_
+26-5	_	that	_	_	_	_
+26-6	_	when	_	_	_	_
+26-7	_	I	abstract[24]	new[24]	coref	26-23[24_25]
+26-8	_	was	_	_	_	_
+26-9	_	a	_	_	_	_
+26-10	_	kid	_	_	_	_
+26-11	_	whenever	_	_	_	_
+26-12	_	there	_	_	_	_
+26-13	_	was	_	_	_	_
+26-14	_	a	_	_	_	_
+26-15	_	problem	_	_	_	_
+26-16	_	that	_	_	_	_
+26-17	_	needing	_	_	_	_
+26-18	_	thinking	_	_	_	_
+26-19	_	through	_	_	_	_
+26-20	_	they	abstract[53]	new[53]	_	_
+26-21	_	never	_	_	_	_
+26-22	_	let	_	_	_	_
+26-23	_	me	abstract[25]	new[25]	coref	26-29[25_26]
+26-24	_	help	_	_	_	_
+26-25	_	or	_	_	_	_
+26-26	_	dismissed	_	_	_	_
+26-27	_	every	_	_	_	_
+26-28	_	idea	_	_	_	_
+26-29	_	I	abstract[26]	new[26]	coref	26-33[26_27]
+26-30	_	had	_	_	_	_
+26-31	_	simply	_	_	_	_
+26-32	_	because	_	_	_	_
+26-33	_	I	abstract[27]	new[27]	_	_
+26-34	_	was	_	_	_	_
+26-35	_	understandably	_	_	_	_
+26-36	_	a	_	_	_	_
+26-37	_	kid	_	_	_	_
+26-38	_	but	_	_	_	_
+26-39	_	you	abstract[55]	new[55]	coref	26-46[55_56]
+26-40	_	still	_	_	_	_
+26-41	_	have	_	_	_	_
+26-42	_	to	_	_	_	_
+26-43	_	at	_	_	_	_
+26-44	_	least	_	_	_	_
+26-45	_	let	_	_	_	_
+26-46	_	your	abstract[56]|abstract[57]	new[56]|new[57]	coref	26-53[57_58]
+26-47	_	kids	abstract[57]	new[57]	_	_
+26-48	_	try	_	_	_	_
+26-49	_	and	_	_	_	_
+26-50	_	help	_	_	_	_
+26-51	_	or	_	_	_	_
+26-52	_	take	_	_	_	_
+26-53	_	their	abstract[58]	new[58]	_	_
+26-54	_	suggestions	_	_	_	_
+26-55	_	seriously	_	_	_	_
+
+#Text=That s infuriating because the whole point is to be adventurous and curious
+27-1	_	That	_	_	_	_
+27-2	_	s	_	_	_	_
+27-3	_	infuriating	_	_	_	_
+27-4	_	because	_	_	_	_
+27-5	_	the	_	_	_	_
+27-6	_	whole	_	_	_	_
+27-7	_	point	_	_	_	_
+27-8	_	is	_	_	_	_
+27-9	_	to	_	_	_	_
+27-10	_	be	_	_	_	_
+27-11	_	adventurous	_	_	_	_
+27-12	_	and	_	_	_	_
+27-13	_	curious	_	_	_	_
+
+#Text=OH WAIT I THOUGHT OF ANOTHER ONE
+28-1	_	OH	_	_	_	_
+28-2	_	WAIT	_	_	_	_
+28-3	_	I	_	_	_	_
+28-4	_	THOUGHT	_	_	_	_
+28-5	_	OF	_	_	_	_
+28-6	_	ANOTHER	_	_	_	_
+28-7	_	ONE	_	_	_	_
+
+#Text=So we do proposals .
+29-1	_	So	_	_	_	_
+29-2	_	we	abstract[89]	new[89]	coref	33-20[89_90]
+29-3	_	do	_	_	_	_
+29-4	_	proposals	_	_	_	_
+29-5	_	.	_	_	_	_
+
+#Text=Ring in the final puzzle box , proposal signs , whole package deal , people love it .
+30-1	_	Ring	_	_	_	_
+30-2	_	in	_	_	_	_
+30-3	_	the	_	_	_	_
+30-4	_	final	_	_	_	_
+30-5	_	puzzle	_	_	_	_
+30-6	_	box	_	_	_	_
+30-7	_	,	_	_	_	_
+30-8	_	proposal	_	_	_	_
+30-9	_	signs	_	_	_	_
+30-10	_	,	_	_	_	_
+30-11	_	whole	_	_	_	_
+30-12	_	package	_	_	_	_
+30-13	_	deal	_	_	_	_
+30-14	_	,	_	_	_	_
+30-15	_	people	_	_	_	_
+30-16	_	love	_	_	_	_
+30-17	_	it	_	_	_	_
+30-18	_	.	_	_	_	_
+
+#Text=Dude calls up to set up a proposal , I ask what room he wants etcetera .
+31-1	_	Dude	abstract[59]	new[59]	coref	31-15[59_60]
+31-2	_	calls	_	_	_	_
+31-3	_	up	_	_	_	_
+31-4	_	to	_	_	_	_
+31-5	_	set	_	_	_	_
+31-6	_	up	_	_	_	_
+31-7	_	a	abstract[83]	new[83]	coref	32-16[83_84]
+31-8	_	proposal	abstract[83]	new[83]	_	_
+31-9	_	,	_	_	_	_
+31-10	_	I	abstract[42]	new[42]	coref	32-3[42_43]
+31-11	_	ask	_	_	_	_
+31-12	_	what	_	_	_	_
+31-13	_	room	_	_	_	_
+31-14	_	he	abstract[60]	new[60]	coref	32-5[60_61]
+31-15	_	wants	_	_	_	_
+31-16	_	etcetera	_	_	_	_
+31-17	_	.	_	_	_	_
+
+#Text=So then I tell him the total price to book out the entire room for the proposal .
+32-1	_	So	_	_	_	_
+32-2	_	then	_	_	_	_
+32-3	_	I	abstract[43]	new[43]	coref	33-17[43_44]
+32-4	_	tell	_	_	_	_
+32-5	_	him	abstract[61]	new[61]	coref	33-1[61_62]
+32-6	_	the	_	_	_	_
+32-7	_	total	_	_	_	_
+32-8	_	price	_	_	_	_
+32-9	_	to	_	_	_	_
+32-10	_	book	_	_	_	_
+32-11	_	out	_	_	_	_
+32-12	_	the	_	_	_	_
+32-13	_	entire	_	_	_	_
+32-14	_	room	_	_	_	_
+32-15	_	for	_	_	_	_
+32-16	_	the	abstract[84]	new[84]	coref	34-1[84_85]
+32-17	_	proposal	abstract[84]	new[84]	_	_
+32-18	_	.	_	_	_	_
+
+#Text=He says he just wants to buy the two tickets for him and his girlfriend , I tell him we ca n't have strangers playing a game that their experience is impacted / altered by the fact that there 's a proposal going on .
+33-1	_	He	abstract[62]	new[62]	coref	33-3[62_63]
+33-2	_	says	_	_	_	_
+33-3	_	he	abstract[63]	new[63]	coref	33-12[63_64]
+33-4	_	just	_	_	_	_
+33-5	_	wants	_	_	_	_
+33-6	_	to	_	_	_	_
+33-7	_	buy	_	_	_	_
+33-8	_	the	abstract[101]	new[101]	coref	36-8[101_102]
+33-9	_	two	abstract[101]	new[101]	_	_
+33-10	_	tickets	abstract[101]	new[101]	_	_
+33-11	_	for	abstract[101]	new[101]	_	_
+33-12	_	him	abstract[64]|abstract[101]	new[64]|new[101]	coref	33-14[64_65]
+33-13	_	and	abstract[101]	new[101]	_	_
+33-14	_	his	abstract[65]|abstract[101]	new[65]|new[101]	coref	33-19[65_66]
+33-15	_	girlfriend	abstract[101]	new[101]	_	_
+33-16	_	,	_	_	_	_
+33-17	_	I	abstract[44]	new[44]	coref	35-1[44_45]
+33-18	_	tell	_	_	_	_
+33-19	_	him	abstract[66]	new[66]	coref	36-3[66_67]
+33-20	_	we	abstract[90]	new[90]	coref	40-9[90_91]
+33-21	_	ca	_	_	_	_
+33-22	_	n't	_	_	_	_
+33-23	_	have	_	_	_	_
+33-24	_	strangers	abstract[97]	new[97]	coref	33-29[97_98]
+33-25	_	playing	_	_	_	_
+33-26	_	a	_	_	_	_
+33-27	_	game	_	_	_	_
+33-28	_	that	_	_	_	_
+33-29	_	their	abstract[98]	new[98]	_	_
+33-30	_	experience	_	_	_	_
+33-31	_	is	_	_	_	_
+33-32	_	impacted	_	_	_	_
+33-33	_	/	_	_	_	_
+33-34	_	altered	_	_	_	_
+33-35	_	by	_	_	_	_
+33-36	_	the	_	_	_	_
+33-37	_	fact	_	_	_	_
+33-38	_	that	_	_	_	_
+33-39	_	there	_	_	_	_
+33-40	_	's	_	_	_	_
+33-41	_	a	_	_	_	_
+33-42	_	proposal	_	_	_	_
+33-43	_	going	_	_	_	_
+33-44	_	on	_	_	_	_
+33-45	_	.	_	_	_	_
+
+#Text=Proposal happens in an Escape Room , there 's no longer a game , it becomes about the proposal .
+34-1	_	Proposal	abstract[85]	new[85]	coref	34-15[85_86]
+34-2	_	happens	_	_	_	_
+34-3	_	in	_	_	_	_
+34-4	_	an	_	_	_	_
+34-5	_	Escape	_	_	_	_
+34-6	_	Room	_	_	_	_
+34-7	_	,	_	_	_	_
+34-8	_	there	_	_	_	_
+34-9	_	's	_	_	_	_
+34-10	_	no	_	_	_	_
+34-11	_	longer	_	_	_	_
+34-12	_	a	_	_	_	_
+34-13	_	game	_	_	_	_
+34-14	_	,	_	_	_	_
+34-15	_	it	abstract[86]	new[86]	coref	34-18[86_87]
+34-16	_	becomes	_	_	_	_
+34-17	_	about	_	_	_	_
+34-18	_	the	abstract[87]	new[87]	coref	39-9[87_88]
+34-19	_	proposal	abstract[87]	new[87]	_	_
+34-20	_	.	_	_	_	_
+
+#Text=I know this because I 've seen it happen a hundred times .
+35-1	_	I	abstract[45]	new[45]	coref	35-5[45_46]
+35-2	_	know	_	_	_	_
+35-3	_	this	abstract[99]	new[99]	coref	35-8[99_100]
+35-4	_	because	_	_	_	_
+35-5	_	I	abstract[46]	new[46]	coref	38-1[46_47]
+35-6	_	've	_	_	_	_
+35-7	_	seen	_	_	_	_
+35-8	_	it	abstract[100]	new[100]	_	_
+35-9	_	happen	_	_	_	_
+35-10	_	a	_	_	_	_
+35-11	_	hundred	_	_	_	_
+35-12	_	times	_	_	_	_
+35-13	_	.	_	_	_	_
+
+#Text=Anyway , dude refuses to buy out all of the tickets .
+36-1	_	Anyway	_	_	_	_
+36-2	_	,	_	_	_	_
+36-3	_	dude	abstract[67]	new[67]	coref	37-2[67_68]
+36-4	_	refuses	_	_	_	_
+36-5	_	to	_	_	_	_
+36-6	_	buy	_	_	_	_
+36-7	_	out	_	_	_	_
+36-8	_	all	abstract[102]	new[102]	coref	37-15[102_103]
+36-9	_	of	abstract[102]	new[102]	_	_
+36-10	_	the	abstract[102]	new[102]	_	_
+36-11	_	tickets	abstract[102]	new[102]	_	_
+36-12	_	.	_	_	_	_
+
+#Text=Says he wants strangers to be there , he 's not going to buy the other four tickets .
+37-1	_	Says	_	_	_	_
+37-2	_	he	abstract[68]	new[68]	coref	37-9[68_69]
+37-3	_	wants	_	_	_	_
+37-4	_	strangers	_	_	_	_
+37-5	_	to	_	_	_	_
+37-6	_	be	_	_	_	_
+37-7	_	there	_	_	_	_
+37-8	_	,	_	_	_	_
+37-9	_	he	abstract[69]	new[69]	coref	39-12[69_70]
+37-10	_	's	_	_	_	_
+37-11	_	not	_	_	_	_
+37-12	_	going	_	_	_	_
+37-13	_	to	_	_	_	_
+37-14	_	buy	_	_	_	_
+37-15	_	the	abstract[103]	new[103]	_	_
+37-16	_	other	abstract[103]	new[103]	_	_
+37-17	_	four	abstract[103]	new[103]	_	_
+37-18	_	tickets	abstract[103]	new[103]	_	_
+37-19	_	.	_	_	_	_
+
+#Text=I hand the phone to my manager , they hash out details together .
+38-1	_	I	abstract[47]	new[47]	coref	38-6[47_48]
+38-2	_	hand	_	_	_	_
+38-3	_	the	_	_	_	_
+38-4	_	phone	_	_	_	_
+38-5	_	to	_	_	_	_
+38-6	_	my	abstract[48]	new[48]	_	_
+38-7	_	manager	_	_	_	_
+38-8	_	,	_	_	_	_
+38-9	_	they	_	_	_	_
+38-10	_	hash	_	_	_	_
+38-11	_	out	_	_	_	_
+38-12	_	details	_	_	_	_
+38-13	_	together	_	_	_	_
+38-14	_	.	_	_	_	_
+
+#Text=Over the next three weeks leading up to the proposal , this guy calls every . Single . Fucking . Day .
+39-1	_	Over	_	_	_	_
+39-2	_	the	_	_	_	_
+39-3	_	next	_	_	_	_
+39-4	_	three	_	_	_	_
+39-5	_	weeks	_	_	_	_
+39-6	_	leading	_	_	_	_
+39-7	_	up	_	_	_	_
+39-8	_	to	_	_	_	_
+39-9	_	the	abstract[88]	new[88]	_	_
+39-10	_	proposal	abstract[88]	new[88]	_	_
+39-11	_	,	_	_	_	_
+39-12	_	this	abstract[70]	new[70]	coref	40-18[70_71]
+39-13	_	guy	abstract[70]	new[70]	_	_
+39-14	_	calls	_	_	_	_
+39-15	_	every	abstract[104]	new[104]	coref	41-1[104_105]
+39-16	_	.	abstract[104]	new[104]	_	_
+39-17	_	Single	abstract[104]	new[104]	_	_
+39-18	_	.	abstract[104]	new[104]	_	_
+39-19	_	Fucking	abstract[104]	new[104]	_	_
+39-20	_	.	abstract[104]	new[104]	_	_
+39-21	_	Day	abstract[104]	new[104]	_	_
+39-22	_	.	_	_	_	_
+
+#Text=There 's nothing else to figure out , we 've got it all set up , but this guy is constantly badgering us .
+40-1	_	There	_	_	_	_
+40-2	_	's	_	_	_	_
+40-3	_	nothing	_	_	_	_
+40-4	_	else	_	_	_	_
+40-5	_	to	_	_	_	_
+40-6	_	figure	_	_	_	_
+40-7	_	out	_	_	_	_
+40-8	_	,	_	_	_	_
+40-9	_	we	abstract[91]	new[91]	coref	40-23[91_92]
+40-10	_	've	_	_	_	_
+40-11	_	got	_	_	_	_
+40-12	_	it	_	_	_	_
+40-13	_	all	_	_	_	_
+40-14	_	set	_	_	_	_
+40-15	_	up	_	_	_	_
+40-16	_	,	_	_	_	_
+40-17	_	but	_	_	_	_
+40-18	_	this	abstract[71]	new[71]	coref	41-7[71_72]
+40-19	_	guy	abstract[71]	new[71]	_	_
+40-20	_	is	_	_	_	_
+40-21	_	constantly	_	_	_	_
+40-22	_	badgering	_	_	_	_
+40-23	_	us	abstract[92]	new[92]	coref	43-18[92_93]
+40-24	_	.	_	_	_	_
+
+#Text=The big day rolls around , he arrives early so he can hide out , and this dude is a kid .
+41-1	_	The	abstract[105]	new[105]	_	_
+41-2	_	big	abstract[105]	new[105]	_	_
+41-3	_	day	abstract[105]	new[105]	_	_
+41-4	_	rolls	_	_	_	_
+41-5	_	around	_	_	_	_
+41-6	_	,	_	_	_	_
+41-7	_	he	abstract[72]	new[72]	coref	41-11[72_73]
+41-8	_	arrives	_	_	_	_
+41-9	_	early	_	_	_	_
+41-10	_	so	_	_	_	_
+41-11	_	he	abstract[73]	new[73]	coref	41-17[73_74]
+41-12	_	can	_	_	_	_
+41-13	_	hide	_	_	_	_
+41-14	_	out	_	_	_	_
+41-15	_	,	_	_	_	_
+41-16	_	and	_	_	_	_
+41-17	_	this	abstract[74]	new[74]	coref	43-9[74_75]
+41-18	_	dude	abstract[74]	new[74]	_	_
+41-19	_	is	_	_	_	_
+41-20	_	a	_	_	_	_
+41-21	_	kid	_	_	_	_
+41-22	_	.	_	_	_	_
+
+#Text=Like , pimple - faced , voice - cracking , hair - growing - in - weird - places kind of kid .
+42-1	_	Like	_	_	_	_
+42-2	_	,	_	_	_	_
+42-3	_	pimple	_	_	_	_
+42-4	_	-	_	_	_	_
+42-5	_	faced	_	_	_	_
+42-6	_	,	_	_	_	_
+42-7	_	voice	_	_	_	_
+42-8	_	-	_	_	_	_
+42-9	_	cracking	_	_	_	_
+42-10	_	,	_	_	_	_
+42-11	_	hair	_	_	_	_
+42-12	_	-	_	_	_	_
+42-13	_	growing	_	_	_	_
+42-14	_	-	_	_	_	_
+42-15	_	in	_	_	_	_
+42-16	_	-	_	_	_	_
+42-17	_	weird	_	_	_	_
+42-18	_	-	_	_	_	_
+42-19	_	places	_	_	_	_
+42-20	_	kind	_	_	_	_
+42-21	_	of	_	_	_	_
+42-22	_	kid	_	_	_	_
+42-23	_	.	_	_	_	_
+
+#Text=Everybody in the control room is talking about him , because he 's been a thorn in our collective sides for weeks , and we 're speculating about telling him marriage at his age is a horrible idea , but whatever it 's too late .
+43-1	_	Everybody	_	_	_	_
+43-2	_	in	_	_	_	_
+43-3	_	the	abstract[111]	new[111]	coref	46-2[111_112]
+43-4	_	control	abstract[111]	new[111]	_	_
+43-5	_	room	abstract[111]	new[111]	_	_
+43-6	_	is	_	_	_	_
+43-7	_	talking	_	_	_	_
+43-8	_	about	_	_	_	_
+43-9	_	him	abstract[75]	new[75]	coref	43-12[75_76]
+43-10	_	,	_	_	_	_
+43-11	_	because	_	_	_	_
+43-12	_	he	abstract[76]	new[76]	coref	43-30[76_77]
+43-13	_	's	_	_	_	_
+43-14	_	been	_	_	_	_
+43-15	_	a	_	_	_	_
+43-16	_	thorn	_	_	_	_
+43-17	_	in	_	_	_	_
+43-18	_	our	abstract[93]	new[93]	coref	43-25[93_94]
+43-19	_	collective	_	_	_	_
+43-20	_	sides	_	_	_	_
+43-21	_	for	_	_	_	_
+43-22	_	weeks	_	_	_	_
+43-23	_	,	_	_	_	_
+43-24	_	and	_	_	_	_
+43-25	_	we	abstract[94]	new[94]	coref	44-17[94_95]
+43-26	_	're	_	_	_	_
+43-27	_	speculating	_	_	_	_
+43-28	_	about	_	_	_	_
+43-29	_	telling	_	_	_	_
+43-30	_	him	abstract[77]	new[77]	coref	43-33[77_78]
+43-31	_	marriage	_	_	_	_
+43-32	_	at	_	_	_	_
+43-33	_	his	abstract[78]	new[78]	coref	44-2[78_79]
+43-34	_	age	_	_	_	_
+43-35	_	is	_	_	_	_
+43-36	_	a	_	_	_	_
+43-37	_	horrible	_	_	_	_
+43-38	_	idea	_	_	_	_
+43-39	_	,	_	_	_	_
+43-40	_	but	_	_	_	_
+43-41	_	whatever	_	_	_	_
+43-42	_	it	_	_	_	_
+43-43	_	's	_	_	_	_
+43-44	_	too	_	_	_	_
+43-45	_	late	_	_	_	_
+43-46	_	.	_	_	_	_
+
+#Text=So he hides , the girl and her friends show up , they get started and we stash the dude in the second hidden room that they 'll eventually end up in .
+44-1	_	So	_	_	_	_
+44-2	_	he	abstract[79]	new[79]	coref	44-19[79_80]
+44-3	_	hides	_	_	_	_
+44-4	_	,	_	_	_	_
+44-5	_	the	abstract[106]|abstract[108]	new[106]|new[108]	coref|coref	44-8[106_107]|44-13[108_109]
+44-6	_	girl	abstract[106]|abstract[108]	new[106]|new[108]	_	_
+44-7	_	and	abstract[108]	new[108]	_	_
+44-8	_	her	abstract[107]|abstract[108]	new[107]|new[108]	_	_
+44-9	_	friends	abstract[108]	new[108]	_	_
+44-10	_	show	_	_	_	_
+44-11	_	up	_	_	_	_
+44-12	_	,	_	_	_	_
+44-13	_	they	abstract[109]	new[109]	coref	44-27[109_110]
+44-14	_	get	_	_	_	_
+44-15	_	started	_	_	_	_
+44-16	_	and	_	_	_	_
+44-17	_	we	abstract[95]	new[95]	coref	47-16[95_96]
+44-18	_	stash	_	_	_	_
+44-19	_	the	abstract[80]	new[80]	coref	45-9[80_81]
+44-20	_	dude	abstract[80]	new[80]	_	_
+44-21	_	in	_	_	_	_
+44-22	_	the	_	_	_	_
+44-23	_	second	_	_	_	_
+44-24	_	hidden	_	_	_	_
+44-25	_	room	_	_	_	_
+44-26	_	that	_	_	_	_
+44-27	_	they	abstract[110]	new[110]	_	_
+44-28	_	'll	_	_	_	_
+44-29	_	eventually	_	_	_	_
+44-30	_	end	_	_	_	_
+44-31	_	up	_	_	_	_
+44-32	_	in	_	_	_	_
+44-33	_	.	_	_	_	_
+
+#Text=Everybody crowds around the monitor to watch and this guy pulls out a bouquet of flowers and unfurls a sign that says " NAME REDACTED , will you go with me to PROM ? "
+45-1	_	Everybody	_	_	_	_
+45-2	_	crowds	_	_	_	_
+45-3	_	around	_	_	_	_
+45-4	_	the	_	_	_	_
+45-5	_	monitor	_	_	_	_
+45-6	_	to	_	_	_	_
+45-7	_	watch	_	_	_	_
+45-8	_	and	_	_	_	_
+45-9	_	this	abstract[81]	new[81]	coref	45-31[81_82]
+45-10	_	guy	abstract[81]	new[81]	_	_
+45-11	_	pulls	_	_	_	_
+45-12	_	out	_	_	_	_
+45-13	_	a	_	_	_	_
+45-14	_	bouquet	_	_	_	_
+45-15	_	of	_	_	_	_
+45-16	_	flowers	_	_	_	_
+45-17	_	and	_	_	_	_
+45-18	_	unfurls	_	_	_	_
+45-19	_	a	_	_	_	_
+45-20	_	sign	_	_	_	_
+45-21	_	that	_	_	_	_
+45-22	_	says	_	_	_	_
+45-23	_	"	_	_	_	_
+45-24	_	NAME	_	_	_	_
+45-25	_	REDACTED	_	_	_	_
+45-26	_	,	_	_	_	_
+45-27	_	will	_	_	_	_
+45-28	_	you	abstract[114]	new[114]	coref	49-1[114_115]
+45-29	_	go	_	_	_	_
+45-30	_	with	_	_	_	_
+45-31	_	me	abstract[82]	new[82]	_	_
+45-32	_	to	_	_	_	_
+45-33	_	PROM	_	_	_	_
+45-34	_	?	_	_	_	_
+45-35	_	"	_	_	_	_
+
+#Text=And the entire staff loses their collective shit .
+46-1	_	And	_	_	_	_
+46-2	_	the	abstract[112]	new[112]	coref	46-6[112_113]
+46-3	_	entire	abstract[112]	new[112]	_	_
+46-4	_	staff	abstract[112]	new[112]	_	_
+46-5	_	loses	_	_	_	_
+46-6	_	their	abstract[113]	new[113]	_	_
+46-7	_	collective	_	_	_	_
+46-8	_	shit	_	_	_	_
+46-9	_	.	_	_	_	_
+
+#Text=Weeks of constant pestering , endless phone calls , and the most stressful proposal deal we 've ever put together .
+47-1	_	Weeks	_	_	_	_
+47-2	_	of	_	_	_	_
+47-3	_	constant	_	_	_	_
+47-4	_	pestering	_	_	_	_
+47-5	_	,	_	_	_	_
+47-6	_	endless	_	_	_	_
+47-7	_	phone	_	_	_	_
+47-8	_	calls	_	_	_	_
+47-9	_	,	_	_	_	_
+47-10	_	and	_	_	_	_
+47-11	_	the	_	_	_	_
+47-12	_	most	_	_	_	_
+47-13	_	stressful	_	_	_	_
+47-14	_	proposal	_	_	_	_
+47-15	_	deal	_	_	_	_
+47-16	_	we	abstract[96]	new[96]	_	_
+47-17	_	've	_	_	_	_
+47-18	_	ever	_	_	_	_
+47-19	_	put	_	_	_	_
+47-20	_	together	_	_	_	_
+47-21	_	.	_	_	_	_
+
+#Text=For a fucking PROMposal .
+48-1	_	For	_	_	_	_
+48-2	_	a	_	_	_	_
+48-3	_	fucking	_	_	_	_
+48-4	_	PROMposal	_	_	_	_
+48-5	_	.	_	_	_	_
+
+#Text=She said no .
+49-1	_	She	abstract[115]	new[115]	coref	50-3[115_116]
+49-2	_	said	_	_	_	_
+49-3	_	no	_	_	_	_
+49-4	_	.	_	_	_	_
+
+#Text=cheers for the girl saying no
+50-1	_	cheers	_	_	_	_
+50-2	_	for	_	_	_	_
+50-3	_	the	abstract[116]	new[116]	coref	51-2[116_117]
+50-4	_	girl	abstract[116]	new[116]	_	_
+50-5	_	saying	_	_	_	_
+50-6	_	no	_	_	_	_
+
+#Text=Made my day .
+51-1	_	Made	_	_	_	_
+51-2	_	my	abstract[117]	new[117]	coref	52-2[117_118]
+51-3	_	day	_	_	_	_
+51-4	_	.	_	_	_	_
+
+#Text=" Shes said no "
+52-1	_	"	_	_	_	_
+52-2	_	Shes	abstract[118]	new[118]	_	_
+52-3	_	said	_	_	_	_
+52-4	_	no	_	_	_	_
+52-5	_	"	_	_	_	_
+
+#Text=You ok ?
+53-1	_	You	_	_	_	_
+53-2	_	ok	_	_	_	_
+53-3	_	?	_	_	_	_
+
+#Text=What a fucking niche name . .
+54-1	_	What	_	_	_	_
+54-2	_	a	_	_	_	_
+54-3	_	fucking	_	_	_	_
+54-4	_	niche	_	_	_	_
+54-5	_	name	_	_	_	_
+54-6	_	.	_	_	_	_
+54-7	_	.	_	_	_	_
+
+#Text=parents must have been hippies who thought their daughter did n't need to be labeled by society .
+55-1	_	parents	_	_	_	_
+55-2	_	must	_	_	_	_
+55-3	_	have	_	_	_	_
+55-4	_	been	_	_	_	_
+55-5	_	hippies	_	_	_	_
+55-6	_	who	_	_	_	_
+55-7	_	thought	_	_	_	_
+55-8	_	their	_	_	_	_
+55-9	_	daughter	_	_	_	_
+55-10	_	did	_	_	_	_
+55-11	_	n't	_	_	_	_
+55-12	_	need	_	_	_	_
+55-13	_	to	_	_	_	_
+55-14	_	be	_	_	_	_
+55-15	_	labeled	_	_	_	_
+55-16	_	by	_	_	_	_
+55-17	_	society	_	_	_	_
+55-18	_	.	_	_	_	_
+
+#Text=Or Ron Swanson .
+56-1	_	Or	_	_	_	_
+56-2	_	Ron	_	_	_	_
+56-3	_	Swanson	_	_	_	_
+56-4	_	.	_	_	_	_
+
+#Text=AND I M DEAD
+57-1	_	AND	_	_	_	_
+57-2	_	I	_	_	_	_
+57-3	_	M	_	_	_	_
+57-4	_	DEAD	_	_	_	_
+
+#Text=Escape room employees talk about their weirdest customer experiences , focusing on one story about parents who discouraged their 8 year old son 's often correct suggestions , and another story about a failed escape room proposal which turned out to be for a kid going to a prom , rather than a marriage proposal .
+58-1	_	Escape	abstract[119]	new[119]	coref	58-7[119_120]
+58-2	_	room	abstract[119]	new[119]	_	_
+58-3	_	employees	abstract[119]	new[119]	_	_
+58-4	_	talk	_	_	_	_
+58-5	_	about	_	_	_	_
+58-6	_	their	abstract[120]	new[120]	_	_
+58-7	_	weirdest	_	_	_	_
+58-8	_	customer	_	_	_	_
+58-9	_	experiences	_	_	_	_
+58-10	_	,	_	_	_	_
+58-11	_	focusing	_	_	_	_
+58-12	_	on	_	_	_	_
+58-13	_	one	_	_	_	_
+58-14	_	story	_	_	_	_
+58-15	_	about	_	_	_	_
+58-16	_	parents	_	_	_	_
+58-17	_	who	_	_	_	_
+58-18	_	discouraged	_	_	_	_
+58-19	_	their	_	_	_	_
+58-20	_	8	_	_	_	_
+58-21	_	year	_	_	_	_
+58-22	_	old	_	_	_	_
+58-23	_	son	_	_	_	_
+58-24	_	's	_	_	_	_
+58-25	_	often	_	_	_	_
+58-26	_	correct	_	_	_	_
+58-27	_	suggestions	_	_	_	_
+58-28	_	,	_	_	_	_
+58-29	_	and	_	_	_	_
+58-30	_	another	_	_	_	_
+58-31	_	story	_	_	_	_
+58-32	_	about	_	_	_	_
+58-33	_	a	_	_	_	_
+58-34	_	failed	_	_	_	_
+58-35	_	escape	_	_	_	_
+58-36	_	room	_	_	_	_
+58-37	_	proposal	_	_	_	_
+58-38	_	which	_	_	_	_
+58-39	_	turned	_	_	_	_
+58-40	_	out	_	_	_	_
+58-41	_	to	_	_	_	_
+58-42	_	be	_	_	_	_
+58-43	_	for	_	_	_	_
+58-44	_	a	_	_	_	_
+58-45	_	kid	_	_	_	_
+58-46	_	going	_	_	_	_
+58-47	_	to	_	_	_	_
+58-48	_	a	_	_	_	_
+58-49	_	prom	_	_	_	_
+58-50	_	,	_	_	_	_
+58-51	_	rather	_	_	_	_
+58-52	_	than	_	_	_	_
+58-53	_	a	_	_	_	_
+58-54	_	marriage	_	_	_	_
+58-55	_	proposal	_	_	_	_
+58-56	_	.	_	_	_	_
+
