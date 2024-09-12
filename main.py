@@ -21,7 +21,7 @@ def main():
     pred_tsv_folder =args.data_folder + '/output/pred_tsv'
     gold_tsv_folder = args.data_folder + '/input/tsv/test' # use 'test' for scoring
 
-    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_train{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_train{i}', '*.tsv'))] #default to train
+    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_test{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_test{i}', '*.tsv'))] # default to test
 
     # Get document names and texts
     doc_ids, doc_texts = read_documents(args.data_folder)
