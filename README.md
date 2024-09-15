@@ -2,7 +2,7 @@
 
 ### Prepare datasets
 - Download the GUM tsv and xml folders from [GUM](https://github.com/amir-zeldes/gum) and put them in `./data`. Place the `train`, `dev`, and `test` documents in their corresponding folders.
-- To run the `coref_system` align method, put the prediction tsv files from [coref-mtl](https://github.com/yilunzhu/coref-mtl) under `./data/pred_tsv`. Name the folders this way: `tsv_pred_{train/dev/test}{summary_n}`. For example, `tsv_pred_train1` contains prediction tsv files from the `train` partition in summary 1 (the gold summary).
+- To run the `coref_system` align method, put the prediction tsv files from [coref-mtl](https://github.com/yilunzhu/coref-mtl) under `./data/pred_tsv`. Name the folders this way: `tsv_pred_{train/dev/test}{summary_n}`. For example, `tsv_pred_train1` contains prediction tsv files from the `train` partition in summary 1 (i.e. the gold summary).
 - The `./data` folder should look like this:
 ```
 ├── data
@@ -25,17 +25,17 @@
 ```
 #### `main.py`
   - Setup argument parsing for the script
-  - Loading documents (xlsx, tsv, xml), generating summaries, parsing summaries, aligning mentions, and serializing results
+  - Loading documents (tsv, xml), generating summaries, parsing summaries, aligning mentions, and serializing results
 
 #### `get_summary.py`
   - Define a function get_summary(doc_text, n=4) that interacts with the Huggingface API to generate n summaries
 
 #### `parse.py`
-  - Define a function parse(summary_text) that returns a list of noun phrase (NP) strings corresponding to all nominal mention strings (excluding pronouns)
+  - Define a function parse(summary_text) that returns a list of noun phrase (NP) strings corresponding to all nominal mention strings (excluding pronouns) using `spacy`
 
 #### `align.py`
   - Define a function align(doc_mentions, summary_text, mention_text) that aligns mentions from the summary with those in the document
-  - Use one of three components (LLM, string_match, coref_system) to perform the alignment
+  - Use one of three components (LLM, LLM_hf, string_match, coref_system) to perform the alignment
 
 #### `serialize.py`
   - Define a function serialize(tsv, xml, alignments) that takes the alignments and produces:
@@ -43,9 +43,10 @@
       - An XML file with new summaries embedded in the <text> element
    
 #### `generate_conll.py`
-  - Generates the merged conll files (document+summary) needed for running the [coref-mtl](https://github.com/yilunzhu/coref-mtl)
+  - Generates the merged conll files (document+summary) needed for running the [coref-mtl](https://github.com/yilunzhu/coref-mtl) (Zhu et al., 2023)
   - Download `v4_gold_conll` file (e.g. `train.gum.english.v4_gold_conll`) from the coref-mtl repo as well. Put it under `./data`
   - Follow the instructions there to generate the prediction tsv files needed for running `align.py`. Put the prediction files under `./data/pred_tsv`
 
 #### `score.py`
   - Precision/Recall/F1 score of salient entities (not mentions) for each one of the alignment component approaches
+  - Default to score 'test' set
