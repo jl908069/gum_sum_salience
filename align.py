@@ -3,11 +3,10 @@ import sys
 import subprocess
 #import spacy
 import json
-import openai
+from openai import OpenAI
 
-# Add coref-mtl to the Python path
-#sys.path.append(os.path.abspath("coref-mtl"))
-openai.api_key = "your_openai_api_key"
+
+client = OpenAI(api_key="your_openai_api_key")
 
 #nlp = spacy.load("en_core_web_sm") #for function word detection
 
@@ -149,23 +148,16 @@ def extract_mentions_from_pred_tsv(data_folder):
 
 def align_llm(doc_mentions, summary_text):
     """
-    Align mentions using GPT-4 API.
-
+    Align mentions using GPT-4o API (chat model).
+    
     Args:
         doc_mentions (list of list of tuples): List of lists of tuples where each tuple contains (word_span, word_index, coref_index).
         summary_text (list of list of str): List of lists of summaries.
-
+    
     Returns:
         list of list of list of tuples: A list of lists of lists of tuples where each tuple's `word_span` is found in the corresponding document.
     """
-    client = openai.OpenAI()
-    
-    assistant = client.beta.assistants.create(
-        name="Entity Mention Aligner",
-        instructions="You are an assistant for aligning entity mentions from summary text with entities mentioned in document text. For each noun phrase mention in the summary, determine whether it aligns with any word span in the document, and if so, return that span.",
-        model="gpt-4o"
-    )
-    
+
     prompt_template = (
         "Document: {doc_text}\n"
         "Summary: {summary}\n"
@@ -182,11 +174,11 @@ def align_llm(doc_mentions, summary_text):
     # Extract each summary through all documents to a list of summaries
     num_summaries = len(summary_text_lower[0])
     summaries_by_index = [[] for _ in range(num_summaries)]
-    
+
     for doc_summaries in summary_text_lower:
         for i, summary in enumerate(doc_summaries):
             summaries_by_index[i].append(summary)
-    
+
     # Process each list of summaries
     for summary_idx in range(num_summaries):
         summary_results = []
@@ -198,13 +190,18 @@ def align_llm(doc_mentions, summary_text):
                 summary=summary
             )
 
-            response = client.completions.create(
-                assistant=assistant,
-                prompt=prompt,
+            # Making a chat completion request using the client object
+            response = client.chat.completions.create(
+                model="gpt-4o",  # Use the gpt-4o chat model
+                messages=[
+                    {"role": "system", "content": "You are an assistant for aligning entity mentions."},
+                    {"role": "user", "content": prompt}
+                ],
                 max_tokens=150  # Adjust as necessary to handle multiple mentions
             )
 
-            answer = response.choices[0].text.strip().split("\n")
+            # Extract and parse the model response
+            answer = response.choices[0].message.content.strip().split("\n")
             extracted_mentions = []
 
             for ans in answer:
@@ -213,9 +210,9 @@ def align_llm(doc_mentions, summary_text):
                         extracted_mentions.append((span, idx, coref))
                         break
 
-            if extracted_mentions:
-                summary_results.append(extracted_mentions)
-        
+            # Append extracted mentions or an empty list
+            summary_results.append(extracted_mentions if extracted_mentions else [])
+
         results.append(summary_results)
 
     return results
