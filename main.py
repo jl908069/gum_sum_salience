@@ -48,9 +48,9 @@ def main():
     alignments = align(all_mentions_from_tsv, list(summaries.values()), all_mentions, data_folder=folders_with_pred_tsv, n_summaries=args.n_summaries , component=args.alignment_component)
     sum1_alignments = align(all_mentions_from_tsv, list(gold_summaries.values()), sum1_mentions, data_folder=folders_with_pred_tsv, n_summaries=1 , component=args.alignment_component)
 
-    if args.alignment_component in ['coref_system', 'LLM_hf']: 
+    if args.alignment_component in ['coref_system', 'LLM_hf', 'LLM']: 
         pred=extract_first_mentions(sc, sum1_alignments[0]) #TODO
-    else:
+    else: # string_match
         pred=extract_first_mentions(sc, sum1_alignments)
     precision, recall, f1_score = calculate_scores(pred, gold_sal_ents)
     print(f"Precision: {precision:.2f}, Recall: {recall:.2f}, F1 Score: {f1_score:.2f}")
