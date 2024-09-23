@@ -146,32 +146,41 @@ def extract_mentions_from_pred_tsv(data_folder):
     return all_mentions
 
 
-def align_llm(doc_mentions, summary_text):
+def align_llm(doc_mentions, summary_text, doc_text):
     """
-    Align mentions using GPT-4o API (chat model).
-    
+    Align mentions using GPT-4o API (chat model) with custom parameters for temperature and top_p.
+
     Args:
         doc_mentions (list of list of tuples): List of lists of tuples where each tuple contains (word_span, word_index, coref_index).
         summary_text (list of list of str): List of lists of summaries.
-    
+        doc_text (list of str): List of document texts (one for each summary).
+
     Returns:
         list of list of list of tuples: A list of lists of lists of tuples where each tuple's `word_span` is found in the corresponding document.
     """
 
     prompt_template = (
+        "Consider the following document and summary:\n"
         "Document: {doc_text}\n"
         "Summary: {summary}\n"
-        "For each mention in the summary, determine if it aligns with (or makes an equivalent reference to) any word span in the document. "
-        "Return a list of matching word spans from the document."
+        "For each of the following entities in the document, if it matches with (refers to) the ones in the summary, "
+        "return the exact same entity in the phrase in bullet points. Otherwise, don't return anything. "
+        "When matching, please also consider synonyms or alternative phrases that refer to the same entity.\n"
+        "Entities: {entities}"
+        "Be very precise and only return entities that match those in the summary. Do not add extra or unrelated entities.\n\n"
+        "Example:\n"
+        "Summary: \nTwo people are playing a strategy game online involving cards and attacking countries, while discussing dinner plans.\n"
+        "Entities: we, you, I, countries you own, dinner, a percentage of the amount of countries you own, player six, their cards, one of each kind of card.\n"
+        "Answer: we, you, I, countries you own, dinner, their cards.\n\n"
     )
 
     results = []
 
-    # Lowercase all words in doc_mentions and summary_text
+    # Lowercase all words in doc_mentions, summary_text, and doc_text for normalization
     doc_mentions_lower = [[(span.lower(), idx, coref) for span, idx, coref in mentions] for mentions in doc_mentions]
     summary_text_lower = [[summary.lower() for summary in summaries] for summaries in summary_text]
+    doc_text_lower = [doc.lower() for doc in doc_text]  # Ensure document text is lowercased
 
-    # Extract each summary through all documents to a list of summaries
     num_summaries = len(summary_text_lower[0])
     summaries_by_index = [[] for _ in range(num_summaries)]
 
@@ -179,40 +188,46 @@ def align_llm(doc_mentions, summary_text):
         for i, summary in enumerate(doc_summaries):
             summaries_by_index[i].append(summary)
 
-    # Process each list of summaries
+    # Process each summary
     for summary_idx in range(num_summaries):
         summary_results = []
         for doc_idx in range(len(doc_mentions_lower)):
             summary = summaries_by_index[summary_idx][doc_idx]
             doc = doc_mentions_lower[doc_idx]
-            prompt = prompt_template.format(
-                doc_text=" ".join([span for span, _, _ in doc]),
-                summary=summary
-            )
+            entities = ", ".join([span for span, _, _ in doc])  # Join entities into a single string
 
-            # Making a chat completion request using the client object
+            prompt = prompt_template.format(
+                doc_text=doc_text_lower[doc_idx],  # Use lowercased doc_text
+                summary=summary,
+                entities=entities
+            )
+            #print('entities:', entities)
+            # Making a chat completion request using the client object with custom temperature and top_p
             response = client.chat.completions.create(
                 model="gpt-4o",  # Use the gpt-4o chat model
                 messages=[
                     {"role": "system", "content": "You are an assistant for aligning entity mentions."},
                     {"role": "user", "content": prompt}
                 ],
-                max_tokens=150  # Adjust as necessary to handle multiple mentions
+                max_tokens=300,  # Adjust as necessary to handle multiple mentions
+                temperature=0.2,  # Lower temperature for more deterministic results
+                top_p=0.7  # Lower top_p for higher precision and less diversity
             )
+            #print('response:',response)
 
             # Extract and parse the model response
             answer = response.choices[0].message.content.strip().split("\n")
+            cleaned_ans = [s.lstrip("- ").replace("**", "").replace("*", "").replace('"', '').replace('“ ', '').replace('#', '').replace(' [', '').replace(']', '').replace('\n', '').split(':', 1)[-1].lower().strip() for s in answer]
+            #print('cleaned_ans:',cleaned_ans)
             extracted_mentions = []
 
-            for ans in answer:
+            for ans in cleaned_ans:
                 for span, idx, coref in doc:
-                    if ans in span:
+                    if ans == span:
                         extracted_mentions.append((span, idx, coref))
                         break
-
-            # Append extracted mentions or an empty list
+            #print('extracted_mentions:',extracted_mentions)
             summary_results.append(extracted_mentions if extracted_mentions else [])
-
         results.append(summary_results)
 
     return results
@@ -392,7 +407,7 @@ def align_coref_system(data_folders, n_summaries):
 
 def align(doc_mentions, summary_text, mention_text, data_folder, n_summaries, component="string_match"):
     if component == "LLM":
-        return align_llm(doc_mentions, summary_text)
+        return align_llm(doc_mentions, summary_text, doc_text)
     elif component == "LLM_hf":
         return align_llm_hf(doc_mentions, summary_text)
     elif component == "string_match":
