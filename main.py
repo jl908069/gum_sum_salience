@@ -1,6 +1,6 @@
 import argparse
 import os, glob
-from get_summary import get_summary, read_documents, extract_gold_summaries_from_xml
+from get_summary import get_summary, read_documents, extract_gold_summaries_from_xml, extract_text_speaker_from_xml
 from parse import parse_summaries
 from align import align, extract_mentions_from_gold_tsv
 from serialize import add_summaries_to_xml, add_anno_to_tsv
@@ -22,12 +22,13 @@ def main():
     gold_tsv_folder = args.data_folder + '/input/tsv/test' # use 'test' for scoring
 
     folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_test{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_test{i}', '*.tsv'))] # default to test
+    doc_sp_texts=extract_text_speaker_from_xml(args.data_folder + '/input/xml/test') # default to test
 
     # Get document names and texts
-    doc_ids, doc_texts = read_documents(args.data_folder)
-    if args.max_docs is not None:
-        doc_ids = doc_ids[:args.max_docs]
-        doc_texts = doc_texts[:args.max_docs]
+    # doc_ids, doc_texts = read_documents(args.data_folder)
+    # if args.max_docs is not None:
+    #     doc_ids = doc_ids[:args.max_docs]
+    #     doc_texts = doc_texts[:args.max_docs]
 
     gold_sal_ents=get_sal_tsv(doc_ids)
     sal_mentions=get_sal_mentions(doc_ids)
@@ -46,8 +47,8 @@ def main():
 
     # Detect which entities from the document are mentioned in each summary
     alignments = align(all_mentions_from_tsv, list(summaries.values()), all_mentions, data_folder=folders_with_pred_tsv, n_summaries=args.n_summaries , component=args.alignment_component)
-    sum1_alignments = align(all_mentions_from_tsv, list(gold_summaries.values()), sum1_mentions, data_folder=folders_with_pred_tsv, n_summaries=1 , component=args.alignment_component)
-
+    sum1_alignments = align(all_mentions_from_tsv, list(gold_summaries.values()), sum1_mentions, doc_sp_texts, data_folder=folders_with_pred_tsv, n_summaries=1 , component=args.alignment_component)
+    
     if args.alignment_component in ['coref_system', 'LLM_hf', 'LLM']: 
         pred=extract_first_mentions(sc, sum1_alignments[0]) #TODO
     else: # string_match
