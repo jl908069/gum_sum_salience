@@ -132,6 +132,78 @@ def extract_gold_summaries_from_xml(directory):
     
     return result_dict
 
+def extract_text_speaker_from_xml(directory):
+    # List to store the concatenated text from each document
+    all_documents = []
+    
+    # Get and sort all XML files in the directory
+    xml_files = sorted([f for f in os.listdir(directory) if f.endswith('.xml')])
+
+    # Iterate through sorted XML files
+    for filename in xml_files:
+        filepath = os.path.join(directory, filename)
+        tree = ET.parse(filepath)
+        root = tree.getroot()
+
+        # List to store the text from the current document
+        document_text = []
+
+        # Track the current speaker
+        current_speaker = ''
+        
+        # Check if there are any <sp> tags
+        if root.findall('.//sp'):
+            # Loop through all <sp> tags in the XML
+            for sp in root.iter('sp'):
+                # Get the speaker from the 'who' attribute
+                current_speaker = sp.get('who', '').lstrip('#')
+                
+                # Loop through all <s> tags within this <sp>
+                for s in sp.iter('s'):
+                    tokens = []
+                    # Iterate over the text inside each <s> tag
+                    for elem in s.itertext():
+                        split_elem = elem.strip().split('\n')
+                        for token in split_elem:
+                            token_parts = token.split('\t')
+                            if len(token_parts) > 0:
+                                tokens.append(token_parts[0])  # Extract the first part (the token)
+                    
+                    # Join the tokens with a space to form the sentence
+                    sentence = ' '.join(tokens)
+                    
+                    # Add the speaker information before the sentence if there's a speaker
+                    if current_speaker:
+                        sentence = f"{current_speaker}: {sentence}"
+                    
+                    # Append the sentence to the current document text
+                    document_text.append(sentence)
+        else:
+            # If no <sp> tags are found, extract the text without speaker labels
+            for s in root.iter('s'):
+                tokens = []
+                # Iterate over the text inside each <s> tag
+                for elem in s.itertext():
+                    split_elem = elem.strip().split('\n')
+                    for token in split_elem:
+                        token_parts = token.split('\t')
+                        if len(token_parts) > 0:
+                            tokens.append(token_parts[0])  # Extract the first part (the token)
+                
+                # Join the tokens with a space to form the sentence
+                sentence = ' '.join(tokens)
+                
+                # Append the sentence to the current document text
+                document_text.append(sentence)
+        
+        # Concatenate all sentences from the current document into a single string
+        full_text = ' '.join(document_text)
+        
+        # Add the full text of the current document to the list
+        all_documents.append(full_text)
+    
+    return all_documents
+
 def read_documents(data_folder):
     # Read documents directly from tsv/ folder, since we have it as input
     files = glob(data_folder + os.sep + 'input' + os.sep + 'tsv' + os.sep + '*.tsv')
