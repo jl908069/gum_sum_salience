@@ -405,7 +405,7 @@ def align_coref_system(data_folders, n_summaries):
     return organized_predictions
 
 
-def align(doc_mentions, summary_text, mention_text, data_folder, n_summaries, component="string_match"):
+def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_summaries, component="string_match"):
     if component == "LLM":
         return align_llm(doc_mentions, summary_text, doc_text)
     elif component == "LLM_hf":
