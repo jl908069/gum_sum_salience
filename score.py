@@ -256,3 +256,24 @@ def calculate_scores(pred, gold):
 
     return avg_precision, avg_recall, avg_f1_score
 
+
+def best_m(pred1, pred2, pred3, gold):
+    # Store the best prediction list for each document based on the highest F1 score
+    best_preds = []
+
+    # Iterate through each document
+    for doc_idx in range(len(gold)):
+        # Calculate F1 scores for the current document for each prediction list
+        _, _, f1_1, _, _, _ = calculate_scores([pred_1[doc_idx]], [gold[doc_idx]])
+        _, _, f1_2, _, _, _ = calculate_scores([pred_2[doc_idx]], [gold[doc_idx]])
+        _, _, f1_3, _, _, _ = calculate_scores([pred_3[doc_idx]], [gold[doc_idx]])
+
+        # Use max() to get the prediction list with the highest F1 score
+        best_pred = max(
+            [(f1_1[0], pred_1[doc_idx]), (f1_2[0], pred_2[doc_idx]), (f1_3[0], pred_3[doc_idx])],
+            key=lambda x: x[0]
+        )[1]
+
+        best_preds.append(best_pred)
+
+    return best_preds
