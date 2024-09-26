@@ -1,15 +1,32 @@
 import os
 import sys
+import argparse
 import subprocess
 #import spacy
 import json
 from openai import OpenAI
+from transformers import pipeline
+import random
+import glob
+from get_summary import get_summary, extract_gold_summaries_from_xml, extract_text_speaker_from_xml
+from parse import parse_summaries
 
 
 client = OpenAI(api_key="your_openai_api_key")
 
 #nlp = spacy.load("en_core_web_sm") #for function word detection
 
+def extract_bracketed_number(s):
+    start = s.find("[")
+    end = s.find("]")
+    if start != -1 and end != -1:
+        return s[start+1:end]
+    return None
+
+def remove_bracketed_number(s):
+    parts = s.split('|')  # Split by "|" to handle multiple coref indices
+    cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
+    return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
 def extract_mentions_from_gold_tsv(data_folder, docnames=None):
     all_mentions = []
@@ -145,6 +162,54 @@ def extract_mentions_from_pred_tsv(data_folder):
 
     return all_mentions
 
+def get_entities_from_gold_tsv(data_folder):
+    all_results = []
+    tsv_files = sorted([f for f in os.listdir(data_folder) if f.endswith(".tsv")])
+
+    for tsv_file in tsv_files:
+        filepath = os.path.join(data_folder, tsv_file)
+        
+        file_result = []
+        with open(filepath, 'r') as file:
+            word_dict = {}
+            word_indices = {}
+            coref_indices = {}
+            
+            for line in file:
+                columns = line.strip().split('\t')
+                if len(columns) < 7:
+                    continue
+                
+                word_index = columns[0]
+                word = columns[2]
+                col5_values = columns[4].split('|')
+                col6_values = columns[5].split('|')
+                coref_index = columns[9] 
+                
+                # Now only extract mentions that are first mentions 
+                for col5, col6 in zip(col5_values, col6_values):
+                    if col5.startswith('new') or col5.startswith('acc:com') or col5.startswith('acc:inf'):  # First mentions
+                        cls_number = extract_bracketed_number(col5)
+                        if cls_number:
+                            if cls_number not in word_dict:
+                                word_dict[cls_number] = []
+                                word_indices[cls_number] = []
+                                coref_indices[cls_number] = []
+                            word_dict[cls_number].append(word)
+                            word_indices[cls_number].append(word_index)
+                            coref_indices[cls_number].append(coref_index)
+
+            for key in word_dict:
+                concatenated_words = " ".join(word_dict[key])
+                concatenated_indices = ", ".join(word_indices[key])
+                # Remove bracketed numbers and concatenate
+                filtered_corefs = [remove_bracketed_number(coref) for coref in coref_indices[key] if coref and coref != "_"]
+                concatenated_corefs = ", ".join(filtered_corefs)
+                file_result.append((concatenated_words, concatenated_indices, concatenated_corefs))
+        
+        all_results.append(file_result)
+    
+    return all_results
 
 def align_llm(doc_mentions, summary_text, doc_text):
     """
@@ -165,13 +230,14 @@ def align_llm(doc_mentions, summary_text, doc_text):
         "Summary: {summary}\n"
         "For each of the following entities in the document, if it matches with (refers to) the ones in the summary, "
         "return the exact same entity in the phrase in bullet points. Otherwise, don't return anything. "
-        "When matching, please also consider synonyms or alternative phrases that refer to the same entity.\n"
+        "When matching, please also consider synonyms or alternative phrases that refer to the same entity. If a speaker says 'I' or is mentioned as 'you', then the speaker's name or label is considered mentioned (e.g. Kim)\n"
         "Entities: {entities}"
         "Be very precise and only return entities that match those in the summary. Do not add extra or unrelated entities.\n\n"
         "Example:\n"
+        "Document:\nJennifer: We need a —  Jennifer: Do you have any sharp objects on you ? Dan: No . Dan: Keys ? Jennifer: No I need like a little pin or something . Jennifer: You have a pencil ? Dan: You have anything in your hair ? Jennifer: No . Jennifer: Fuck . Dan: What do you have to hit ? Jennifer: See this is the little -  Jennifer: Oh . Jennifer: Oh oh . Dan: Cool ? Jennifer: Okay . Jennifer: Alright . Jennifer: See , it was just slow . Jennifer: Okay . Jennifer: This is me ? Jennifer: Is this me ? Dan: Yeah . Dan: Yeah . Dan: Jennifer . Jennifer: Oh . Jennifer: That 's right . Dan: There you go thinking again . Jennifer: Smart ass . Jennifer: Smart ass . Jennifer: Alright . Dan: Wow . Dan: Who took over uh ... Jennifer: Oh . Jennifer: They got North America . Jennifer: But not for long . Jennifer: Oh , my God . Jennifer:  Oh my God , did you see that ? Dan: Because player thr- player three is aggressive , so he 's gon na like go for everything . Jennifer: How do you know ? Jennifer: Did I make him aggressive ? Dan: Yeah , you made him aggressive , so , he 's gon na like , try to tear everything up now . Dan: Um , that 's pretty well , like secure right there , so maybe —  Dan: That 's me . Jennifer: Oh fuck . Dan: Wow , he wiped my ass out . Jennifer: Ah , you suck . Jennifer: Watch this . Jennifer: Loser . Jennifer: What else can we do tomorrow ? Jennifer: Besides go to the movies , t- ? Dan: Go out to dinner ? Jennifer: I 'm so not hungry right now , it 's hard for me to think about food . Dan: Alright . Jennifer: I 'd like to go out to dinner though . Jennifer: Think we can find a hot dog ? Dan: Yeah , that 's a good idea . Dan: That 's an excellent idea . Jennifer: There you go thinking again again . Dan: There you go thinking again . Jennifer: I 'm gon na whip your butt . Dan: You think so , hunh ? Jennifer: Yeah . Dan: Un-unh . Dan: That 's all I get ? Dan: That 's me , right ? Jennifer: Yeah you get a percentage of the amount of countries you own , and then , for continents you get another set amount . Dan: So can I get something on this bad boy ? Jennifer: Yeah . Jennifer: See ? Dan: So I hit okay ? Jennifer: Yeah . Jennifer: Hit okay . Jennifer: See you got one of each kind of card . Dan: Excellent . Dan: Oh okay . Dan: So I get ... Jennifer: So you got ten , looks like sixteen . Dan: Sixteen ? Jennifer: Who you gon na trounce on ? Jennifer: That 's you up there , too , right there , you know . Dan: That 's me right there , too . Jennifer: Oh yeah . Dan: Um ... Jennifer: When w- you take over another person , you take a — you get , their cards . Jennifer: The MSG in that Chinese food really got me high for a little bit . Jennifer: Does MSG affect you ? Dan: No . Dan: Not really . Dan: It affects my mother . Dan: Gives her headaches . Jennifer: Are you gon na attack over there ? Dan: I do n't know . Dan: Thirteen . Dan: That leaves me with thirteen . Dan: I wan na fortify . Jennifer: You ca n't move those to there , because they 're not touching . Dan:  W- w- well that 's kind of bogus . Jennifer: Nun-unh . Dan: Maybe I 'll move em right there . Jennifer: Done . Dan: Done . Jennifer: Oh fuck . Jennifer: Oh . Jennifer: Who 's this guy ? Dan: Player six . Jennifer: Yakutsk . Jennifer: Look at that . Jennifer: See if I have any cards . Jennifer: Oh , I got a set . Jennifer: You know what I think , I think the first time that it does the card mode , it takes a long time . Dan: Yeah . Dan: Yeah . Jennifer: You remember the last time , that 's what happened . Dan: Yeah . Jennifer: You remember ? Dan: Yeah . Jennifer: Look at you being smart . Dan: I 'm not smart ? Jennifer: You 're stupid . Dan: Do n't call me stupid . Jennifer: Mm . Jennifer: Alright . Dan: Look at you with the uh little armies down here . Jennifer: Big armies . Dan:  Trying to — trying to win . Jennifer: I got big armies , buddy . Dan: Trying to conquer the world . Jennifer:  I 'm gon na conquer — I 'm gon na conquer you . Dan: Probably . Dan: Ooh . Dan: He 's giving you some problems over there . Jennifer: He is indeed . Dan: Go for that one . Dan: Go into Europe . Dan: Get Europe . Jennifer: Oops . Jennifer: You wo n't attack me yet . Jennifer: I think I 'll stop there . Dan: Hmm . Dan: I only have uh , that many cards , so ... Jennifer: How many cards you have ? Jennifer: You only have two . Dan: Just two . Jennifer: So you ca n't have a set . Dan: When do you get — h- — when do you get cards though ? Dan: I do n't understand that . Jennifer: Every time you take over a country you get cards . Dan: What row ? Jennifer: Attack with the twenty - two . Jennifer: Press twenty - two , attack . Dan: Wow . Jennifer: Look at that . Jennifer: Oh , see look , you just got all of his cards . Jennifer: Press okay . Dan: Bonus ? Jennifer: Oh my God . Jennifer: Fuck . Jennifer: Fuck . Jennifer: Fuck fuck fuck . Jennifer: Oh man . Jennifer: Look at that . Jennifer:  Twenty - seven . Jennifer:  Twenty - nine . Jennifer:  Th –  twenty - one two three four five six seven eight . Jennifer:  Twenty - eight . Jennifer: Do n't you fucking attack me . Jennifer: You ass . Jennifer: You asshole . Dan:  Two — hmm . Jennifer: I 'm tired ."
         "Summary: \nTwo people are playing a strategy game online involving cards and attacking countries, while discussing dinner plans.\n"
         "Entities: we, you, I, countries you own, dinner, a percentage of the amount of countries you own, player six, their cards, one of each kind of card.\n"
-        "Answer: we, you, I, countries you own, dinner, their cards.\n\n"
+        "Answer: we, dan, jennifer, countries you own, dinner, their cards.\n\n"
     )
 
     results = []
@@ -194,44 +260,68 @@ def align_llm(doc_mentions, summary_text, doc_text):
         for doc_idx in range(len(doc_mentions_lower)):
             summary = summaries_by_index[summary_idx][doc_idx]
             doc = doc_mentions_lower[doc_idx]
-            entities = ", ".join([span for span, _, _ in doc])  # Join entities into a single string
+            total_entities = len(doc)
 
-            prompt = prompt_template.format(
-                doc_text=doc_text_lower[doc_idx],  # Use lowercased doc_text
-                summary=summary,
-                entities=entities
-            )
-            #print('entities:', entities)
-            # Making a chat completion request using the client object with custom temperature and top_p
-            response = client.chat.completions.create(
-                model="gpt-4o",  # Use the gpt-4o chat model
-                messages=[
-                    {"role": "system", "content": "You are an assistant for aligning entity mentions."},
-                    {"role": "user", "content": prompt}
-                ],
-                max_tokens=300,  # Adjust as necessary to handle multiple mentions
-                temperature=0.2,  # Lower temperature for more deterministic results
-                top_p=0.7  # Lower top_p for higher precision and less diversity
-            )
-            #print('response:',response)
+            # Split doc_mentions into non-overlapping chunks of 15-20 entities
+            entity_indices = list(range(total_entities))
+            random.shuffle(entity_indices)  # Shuffle the indices for randomness
 
-            # Extract and parse the model response
-            answer = response.choices[0].message.content.strip().split("\n")
-            cleaned_ans = [s.lstrip("- ").replace("**", "").replace("*", "").replace('"', '').replace('“ ', '').replace('#', '').replace(' [', '').replace(']', '').replace('\n', '').split(':', 1)[-1].lower().strip() for s in answer]
-            #print('cleaned_ans:',cleaned_ans)
-            extracted_mentions = []
+            # Create chunks of 15-20 entities (non-overlapping)
+            chunks = [entity_indices[i:i + random.randint(15, 20)] for i in range(0, total_entities, 20)]
+            # print('chunks:',chunks)
 
-            for ans in cleaned_ans:
-                for span, idx, coref in doc:
-                    if ans == span:
-                        extracted_mentions.append((span, idx, coref))
-                        break
-            #print('extracted_mentions:',extracted_mentions)
-            summary_results.append(extracted_mentions if extracted_mentions else [])
+            all_extracted_mentions = []  # To store the results for each document
+
+            for chunk in chunks:
+                # Select the entities corresponding to the current chunk
+                selected_entities = [doc[i] for i in chunk]
+                entities_str = ", ".join([span for span, _, _ in selected_entities])  # Join entities into a single string
+
+                prompt = prompt_template.format(
+                    doc_text=doc_text_lower[doc_idx],  # Use lowercased doc_text
+                    summary=summary,
+                    entities=entities_str
+                )
+
+                # Debugging - Print constructed prompt
+                #print(f"Constructed Prompt for Document {doc_idx + 1}, Query Chunk: {entities_str}")
+
+                # Making a chat completion request using the client object
+                response = client.chat.completions.create(
+                    model="gpt-4o",  # Use the gpt-4o chat model
+                    messages=[
+                        {"role": "system", "content": "You are an assistant for aligning entity mentions."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    max_tokens=300,  # Adjust as necessary to handle multiple mentions
+                    temperature=0.2,  # Lower temperature for more deterministic results
+                    top_p=0.7  # Lower top_p for higher precision and less diversity
+                )
+
+                # Debugging - Print API response
+                #print("API Response:", response)
+
+                # Extract and parse the model response
+                answer = response.choices[0].message.content.strip().split("\n")
+                cleaned_ans = [s.lstrip("- ").replace("**", "").replace("*", "").replace('"', '').replace('“ ', '').replace('#', '').replace(' [', '').replace(']', '').replace('\n', '').split(':', 1)[-1].lower().strip() for s in answer]
+
+                # Extract mentions from the API response
+                extracted_mentions = []
+                for ans in cleaned_ans:
+                    for span, idx, coref in selected_entities:
+                        if ans == span:
+                            extracted_mentions.append((span, idx, coref))
+                            break
+                #print('extracted_mentions:',extracted_mentions)
+                # Store the extracted mentions
+                all_extracted_mentions.extend(extracted_mentions)
+                #print('all_extracted_mentions:',all_extracted_mentions)
+            # Append the combined results from multiple queries for one document
+            summary_results.append(all_extracted_mentions if all_extracted_mentions else [])
+
         results.append(summary_results)
 
     return results
-
 
 def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"):
     """
@@ -416,3 +506,35 @@ def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_sum
         return align_coref_system(data_folder, n_summaries)
     else:
         raise ValueError(f"Unknown alignment component: {component}")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Align document mentions based on the selected component")
+    parser.add_argument("--data_folder", required=False, default=None, help="Path to the data folder")
+    parser.add_argument("--n_summaries", type=int, required=False, default=1, help="Number of summaries")
+    parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "coref_system"], help="Component to use for alignment")
+
+    args = parser.parse_args()
+
+    all_entities_from_tsv =get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test')
+    gold_summaries=extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test')
+    sum1_mentions = parse_summaries(list(gold_summaries.values()))
+    doc_sp_texts=extract_text_speaker_from_xml(args.data_folder + '/input/xml/test')
+
+    alignments = align(
+        doc_mentions=all_entities_from_tsv,
+        summary_text=list(gold_summaries.values()),
+        mention_text=sum1_mentions,
+        doc_text=doc_sp_texts,
+        data_folder=args.data_folder,
+        n_summaries=args.n_summaries,
+        component=args.component
+    )
+
+    if args.component == "LLM":
+        print(f"LLM Alignment Result:\n{alignments}")
+    elif args.component == "LLM_hf":
+        print(f"LLM_hf Alignment Result:\n{alignments}")
+    elif args.component == "string_match":
+        print(f"String Match Alignment Result:\n{alignments}")
+    elif args.component == "coref_system":
+        print(f"Coreference MTL Alignment Result:\n{alignments}")
