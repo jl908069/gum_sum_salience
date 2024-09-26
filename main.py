@@ -1,10 +1,11 @@
 import argparse
 import os, glob
-from get_summary import get_summary, read_documents, extract_gold_summaries_from_xml, extract_text_speaker_from_xml
+from get_summary import get_summary, extract_gold_summaries_from_xml, read_documents, extract_text_speaker_from_xml
 from parse import parse_summaries
-from align import align, extract_mentions_from_gold_tsv
+from align import align, extract_mentions_from_gold_tsv, get_entities_from_gold_tsv, replace_empty_strings
 from serialize import add_summaries_to_xml, add_anno_to_tsv
 from score import get_sal_tsv, get_sal_mentions, sal_coref_cluster, extract_first_mentions, calculate_scores
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -35,8 +36,8 @@ def main():
     sc=sal_coref_cluster(sal_mentions)
 
     # Extract mentions from gold TSV folder
-    all_mentions_from_tsv = extract_mentions_from_gold_tsv(args.data_folder + '/input/tsv/test', docnames=doc_ids) # use 'test' for scoring
-
+    all_entities_from_tsv =get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test') #use 'test' for scoring
+    
     # Get as many summaries as specified for each document
     summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     gold_summaries=extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test') # use 'test' for scoring
@@ -47,12 +48,15 @@ def main():
 
     # Detect which entities from the document are mentioned in each summary
     alignments = align(all_mentions_from_tsv, list(summaries.values()), all_mentions, data_folder=folders_with_pred_tsv, n_summaries=args.n_summaries , component=args.alignment_component)
-    sum1_alignments = align(all_mentions_from_tsv, list(gold_summaries.values()), sum1_mentions, doc_sp_texts, data_folder=folders_with_pred_tsv, n_summaries=1 , component=args.alignment_component)
-    
+    sum1_alignments = align(all_entities_from_tsv, list(gold_summaries.values()), sum1_mentions, doc_sp_texts, data_folder=folders_with_pred_tsv, n_summaries=1 , component=args.alignment_component)
+
+    sum1_alignments=replace_empty_strings(sum1_alignments) # Replace empty strings with "_"
+
     if args.alignment_component in ['coref_system', 'LLM_hf', 'LLM']: 
         pred=extract_first_mentions(sc, sum1_alignments[0]) #TODO
     else: # string_match
         pred=extract_first_mentions(sc, sum1_alignments)
+    pred = [[item for item in inner_list if item != []] for inner_list in pred] #remove unnecessary empty lists
     precision, recall, f1_score = calculate_scores(pred, gold_sal_ents)
     print(f"Precision: {precision:.2f}, Recall: {recall:.2f}, F1 Score: {f1_score:.2f}")
 
