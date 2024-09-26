@@ -28,6 +28,20 @@ def remove_bracketed_number(s):
     cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
     return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
+def replace_empty_strings(data):
+    # Replace empty strings with "_"
+    if isinstance(data, list):
+        # Recursively process each item in the list
+        return [replace_empty_strings(item) for item in data]
+    elif isinstance(data, tuple):
+        # Convert tuple to list, process, and convert back to tuple
+        return tuple(replace_empty_strings(item) for item in data)
+    elif isinstance(data, str):
+        return "_" if data == "" else data
+    else:
+        # Return data as is if not list, tuple, or string
+        return data
+
 def extract_mentions_from_gold_tsv(data_folder, docnames=None):
     all_mentions = []
 
