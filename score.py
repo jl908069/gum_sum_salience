@@ -43,13 +43,15 @@ def find_coref_chain(start_tuple, file_result, used_indices):
     return tuple(chain)
 
 def get_sal_tsv(input_paths):
+# get salient entities (first mentions) from gold tsv     
     all_results = []
+
     # Check if input_paths is a directory or a list of file paths
     if isinstance(input_paths, str) and os.path.isdir(input_paths):
         filepaths = sorted(glob.glob(os.path.join(input_paths, "*.tsv")))
     elif isinstance(input_paths, list):
         # Prepend './data/input/tsv/' and append '.tsv' to each file name in the list
-        filepaths = [os.path.join('./data/input/tsv', f"{filename}.tsv") for filename in input_paths]
+        filepaths = [os.path.join('./data/tsv', f"{filename}.tsv") for filename in input_paths]
     else:
         raise ValueError("input_paths must be a directory or a list of file paths")
 
@@ -63,6 +65,7 @@ def get_sal_tsv(input_paths):
                 word_dict = {}
                 word_indices = {}
                 coref_indices = {}
+                first_ent_type = {}  # New dict to store the first entity type for each sal_number
                 
                 for line in file:
                     columns = line.strip().split('\t')
@@ -71,18 +74,20 @@ def get_sal_tsv(input_paths):
                     
                     word_index = columns[0]
                     word = columns[2]
+                    ent_type = columns[3].split('|')  # Extract ent_type values
                     col5_values = columns[4].split('|')
                     col6_values = columns[5].split('|')
                     coref_index = columns[9]  
                     
-                    for col5, col6 in zip(col5_values, col6_values):
-                        if col6.startswith('sal') and col5.startswith('new'):
+                    for i, (col5, col6, ent) in enumerate(zip(col5_values, col6_values, ent_type)):
+                        if col6.startswith('sal') and (col5.startswith('new') or col5.startswith('acc:com') or col5.startswith('acc:inf')):
                             sal_number = extract_bracketed_number(col6)
                             if sal_number:
                                 if sal_number not in word_dict:
                                     word_dict[sal_number] = []
                                     word_indices[sal_number] = []
                                     coref_indices[sal_number] = []
+                                    first_ent_type[sal_number] = ent  # Store only the first entity type for the word span
                                 word_dict[sal_number].append(word)
                                 word_indices[sal_number].append(word_index)
                                 coref_indices[sal_number].append(coref_index)
@@ -93,7 +98,8 @@ def get_sal_tsv(input_paths):
                     # Remove bracketed numbers and concatenate
                     filtered_corefs = [remove_bracketed_number(coref) for coref in coref_indices[key] if coref and coref != "_"]
                     concatenated_corefs = ", ".join(filtered_corefs)
-                    file_result.append((concatenated_words, concatenated_indices, concatenated_corefs))
+                    # Use only the first entity type for the first token of the span
+                    file_result.append((concatenated_words, concatenated_indices, concatenated_corefs, first_ent_type[key]))
         
         except FileNotFoundError as e:
             print(f"FileNotFoundError: {e}")
@@ -257,23 +263,23 @@ def calculate_scores(pred, gold):
     return avg_precision, avg_recall, avg_f1_score
 
 
-def best_m(pred1, pred2, pred3, gold):
-    # Store the best prediction list for each document based on the highest F1 score
-    best_preds = []
+# def best_m(pred1, pred2, pred3, gold):
+#     # Store the best prediction list for each document based on the highest F1 score
+#     best_preds = []
 
-    # Iterate through each document
-    for doc_idx in range(len(gold)):
-        # Calculate F1 scores for the current document for each prediction list
-        _, _, f1_1, _, _, _ = calculate_scores([pred_1[doc_idx]], [gold[doc_idx]])
-        _, _, f1_2, _, _, _ = calculate_scores([pred_2[doc_idx]], [gold[doc_idx]])
-        _, _, f1_3, _, _, _ = calculate_scores([pred_3[doc_idx]], [gold[doc_idx]])
+#     # Iterate through each document
+#     for doc_idx in range(len(gold)):
+#         # Calculate F1 scores for the current document for each prediction list
+#         _, _, f1_1, _, _, _ = calculate_scores([pred_1[doc_idx]], [gold[doc_idx]])
+#         _, _, f1_2, _, _, _ = calculate_scores([pred_2[doc_idx]], [gold[doc_idx]])
+#         _, _, f1_3, _, _, _ = calculate_scores([pred_3[doc_idx]], [gold[doc_idx]])
 
-        # Use max() to get the prediction list with the highest F1 score
-        best_pred = max(
-            [(f1_1[0], pred_1[doc_idx]), (f1_2[0], pred_2[doc_idx]), (f1_3[0], pred_3[doc_idx])],
-            key=lambda x: x[0]
-        )[1]
+#         # Use max() to get the prediction list with the highest F1 score
+#         best_pred = max(
+#             [(f1_1[0], pred_1[doc_idx]), (f1_2[0], pred_2[doc_idx]), (f1_3[0], pred_3[doc_idx])],
+#             key=lambda x: x[0]
+#         )[1]
 
-        best_preds.append(best_pred)
+#         best_preds.append(best_pred)
 
-    return best_preds
+#     return best_preds
