@@ -26,10 +26,10 @@ def main():
     doc_sp_texts=extract_text_speaker_from_xml(args.data_folder + '/input/xml/test') # default to test
 
     # Get document names and texts
-    # doc_ids, doc_texts = read_documents(args.data_folder)
-    # if args.max_docs is not None:
-    #     doc_ids = doc_ids[:args.max_docs]
-    #     doc_texts = doc_texts[:args.max_docs]
+    doc_ids, doc_texts = read_documents(args.data_folder)
+    if args.max_docs is not None:
+        doc_ids = doc_ids[:args.max_docs]
+        doc_texts = doc_texts[:args.max_docs]
 
     gold_sal_ents=get_sal_tsv(doc_ids)
     sal_mentions=get_sal_mentions(doc_ids)
