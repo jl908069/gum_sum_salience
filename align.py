@@ -509,6 +509,50 @@ def align_coref_system(data_folders, n_summaries):
     return organized_predictions
 
 
+def align_stanza(summary_text, doc_mentions, doc_text):
+    import stanza
+    tokenizer = stanza.Pipeline("en", processors="tokenize")
+    coref = stanza.Pipeline("en", processors="tokenize,coref")
+
+    output = []
+    for i, doc in enumerate(doc_text):
+        doc_output = []
+        for summary in summary_text[i]:
+            summary_output = []
+
+            tokenized_summary = tokenizer(summary)
+            summary_tokens = [word.text for sent in tokenized_summary.sentences for word in sent.words]
+            section_marker = "==="
+
+            tokenized_doc_with_summary = doc.strip() + " " + section_marker + " " + " ".join(summary_tokens).strip()
+            doc_coref = coref(tokenized_doc_with_summary)
+
+            summary_sents = len(tokenized_summary.sentences)
+            all_sents = list(range(len(doc_coref.sentences)))
+            summary_sents = all_sents[-summary_sents:]
+
+            # Extract mentions that have an antecedent in the document section from the summary section
+            for coref_chain in doc_coref.coref:
+                if all([m.sentence in summary_sents for m in coref_chain.mentions]):
+                    continue  # Skip if all mentions are in the summary section
+                for mention in coref_chain.mentions:
+                    if mention.sentence not in summary_sents:
+                        # Return only mentions from the document section which are also mentioned in the summary section
+                        start = mention.start_word
+                        end = mention.end_word
+                        mention_text = []
+                        indices = []
+                        for i in range(start, end):
+                            mention_text.append(doc_coref.sentences[mention.sentence].words[i].text)
+                            indices.append(str(mention.sentence+1) + "-"+ str(i+1))
+
+                        summary_output.append((" ".join(mention_text), ",".join(indices), str(coref_chain.index)))
+            doc_output.append(summary_output)
+        output.append(doc_output)
+
+    return output
+
+
 def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_summaries, component="string_match"):
     if component == "LLM":
         return align_llm(doc_mentions, summary_text, doc_text)
@@ -518,21 +562,24 @@ def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_sum
         return align_string_match(doc_mentions, mention_text)
     elif component == "coref_system":
         return align_coref_system(data_folder, n_summaries)
+    elif component == "stanza":
+        return align_stanza(summary_text, doc_mentions, doc_text)
     else:
         raise ValueError(f"Unknown alignment component: {component}")
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Align document mentions based on the selected component")
-    parser.add_argument("--data_folder", required=False, default=None, help="Path to the data folder")
+    parser.add_argument("--data_folder", required=False, default="data", help="Path to the data folder")
     parser.add_argument("--n_summaries", type=int, required=False, default=1, help="Number of summaries")
-    parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "coref_system"], help="Component to use for alignment")
+    parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "coref_system", "stanza"], help="Component to use for alignment")
 
     args = parser.parse_args()
 
-    all_entities_from_tsv =get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test')
-    gold_summaries=extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test')
+    all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test')
+    gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test')
     sum1_mentions = parse_summaries(list(gold_summaries.values()))
-    doc_sp_texts=extract_text_speaker_from_xml(args.data_folder + '/input/xml/test')
+    doc_sp_texts = extract_text_speaker_from_xml(args.data_folder + '/input/xml/test')
 
     alignments = align(
         doc_mentions=all_entities_from_tsv,
@@ -552,3 +599,5 @@ if __name__ == "__main__":
         print(f"String Match Alignment Result:\n{alignments}")
     elif args.component == "coref_system":
         print(f"Coreference MTL Alignment Result:\n{alignments}")
+    elif args.component == "stanza":
+        print(f"Stanza Alignment Result:\n{alignments}")
