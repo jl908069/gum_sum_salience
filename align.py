@@ -579,6 +579,7 @@ if __name__ == "__main__":
     all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test')
     gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test')
     sum1_mentions = parse_summaries(list(gold_summaries.values()))
+    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_test{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_test{i}', '*.tsv'))] 
     doc_sp_texts = extract_text_speaker_from_xml(args.data_folder + '/input/xml/test')
 
     alignments = align(
@@ -586,7 +587,7 @@ if __name__ == "__main__":
         summary_text=list(gold_summaries.values()),
         mention_text=sum1_mentions,
         doc_text=doc_sp_texts,
-        data_folder=args.data_folder,
+        data_folder=folders_with_pred_tsv,
         n_summaries=args.n_summaries,
         component=args.component
     )
