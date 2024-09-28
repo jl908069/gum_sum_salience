@@ -10,7 +10,7 @@ from score import get_sal_tsv, get_sal_mentions, sal_coref_cluster, extract_firs
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate")
-    parser.add_argument("--alignment_component", choices=["LLM", "LLM_hf", "string_match", "coref_system"], default="string_match", help="Component to use for alignment")
+    parser.add_argument("--alignment_component", choices=["LLM", "LLM_hf", "string_match", "coref_system", "stanza"], default="string_match", help="Component to use for alignment")
     parser.add_argument("--model_name", default="google/flan-t5-xl", help="Huggingface model name to use for summarization and/or alignment with component LLM_hf")
     parser.add_argument("--data_folder", type=str, default="data", help="Path to the data folder containing TSV, conllu or xml files")
     parser.add_argument("--max_docs", type=int, default=None, help="Maximum number of documents to processe (default: None = all; choose a small number to prototype)")
@@ -54,7 +54,7 @@ def main():
 
     if args.alignment_component in ['coref_system', 'LLM_hf', 'LLM']: 
         pred=extract_first_mentions(sc, sum1_alignments[0]) #TODO
-    else: # string_match
+    else: #string match, stanza
         pred=extract_first_mentions(sc, sum1_alignments)
     pred = [[item for item in inner_list if item != []] for inner_list in pred] #remove unnecessary empty lists
     precision, recall, f1_score = calculate_scores(pred, gold_sal_ents)
