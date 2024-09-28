@@ -576,6 +576,8 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    pred_tsv_folder =args.data_folder + '/output/pred_tsv'
+
     all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test')
     gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test')
     sum1_mentions = parse_summaries(list(gold_summaries.values()))
