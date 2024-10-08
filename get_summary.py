@@ -148,52 +148,43 @@ def extract_text_speaker_from_xml(directory):
         # List to store the text from the current document
         document_text = []
 
-        # Track the current speaker
+        # Track the current speaker and whether we're inside an <sp> tag
         current_speaker = ''
+        inside_sp = False
         
-        # Check if there are any <sp> tags
-        if root.findall('.//sp'):
-            # Loop through all <sp> tags in the XML
-            for sp in root.iter('sp'):
-                # Get the speaker from the 'who' attribute
-                current_speaker = sp.get('who', '').lstrip('#')
+        # Loop through all elements in the XML
+        for elem in root.iter():
+            # Check if the element is an <sp> tag
+            if elem.tag == 'sp':
+                inside_sp = True
+                current_speaker = elem.get('who', '').lstrip('#')
                 
                 # Loop through all <s> tags within this <sp>
-                for s in sp.iter('s'):
+                for s in elem.iter('s'):
                     tokens = []
-                    # Iterate over the text inside each <s> tag
-                    for elem in s.itertext():
-                        split_elem = elem.strip().split('\n')
-                        for token in split_elem:
-                            token_parts = token.split('\t')
-                            if len(token_parts) > 0:
-                                tokens.append(token_parts[0])  # Extract the first part (the token)
-                    
-                    # Join the tokens with a space to form the sentence
+                    for token_elem in s.itertext():
+                        split_elem = token_elem.strip().split('\n')
+                        for line in split_elem:
+                            token_parts = line.split('\t')
+                            if token_parts:
+                                tokens.append(token_parts[0])  # Extract only the first part (the token)
                     sentence = ' '.join(tokens)
-                    
-                    # Add the speaker information before the sentence if there's a speaker
                     if current_speaker:
                         sentence = f"{current_speaker}: {sentence}"
-                    
-                    # Append the sentence to the current document text
                     document_text.append(sentence)
-        else:
-            # If no <sp> tags are found, extract the text without speaker labels
-            for s in root.iter('s'):
+                
+                inside_sp = False  # Reset after processing <sp> block
+            
+            # Process <s> tags outside of any <sp> tag
+            elif elem.tag == 's' and not inside_sp:
                 tokens = []
-                # Iterate over the text inside each <s> tag
-                for elem in s.itertext():
-                    split_elem = elem.strip().split('\n')
-                    for token in split_elem:
-                        token_parts = token.split('\t')
-                        if len(token_parts) > 0:
-                            tokens.append(token_parts[0])  # Extract the first part (the token)
-                
-                # Join the tokens with a space to form the sentence
+                for token_elem in elem.itertext():
+                    split_elem = token_elem.strip().split('\n')
+                    for line in split_elem:
+                        token_parts = line.split('\t')
+                        if token_parts:
+                            tokens.append(token_parts[0])  # Extract only the first part (the token)
                 sentence = ' '.join(tokens)
-                
-                # Append the sentence to the current document text
                 document_text.append(sentence)
         
         # Concatenate all sentences from the current document into a single string
