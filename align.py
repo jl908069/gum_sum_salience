@@ -354,7 +354,7 @@ def align_llm_hf(doc_mentions, summary_text, model_name="google/flan-t5-xl"):
     prompt_template = (
         "Document: {doc_text}\n"
         "Summary: {summary}\n"
-        "For each mention in the summary, determine if it aligns with (or makes an equivalent reference to) any word span in the document. "
+        "For each entity in the document, determine if it aligns with (or makes an equivalent reference to) any word span in the summary. "
         "Return a list of matching word spans from the document."
     )
 
@@ -573,16 +573,17 @@ if __name__ == "__main__":
     parser.add_argument("--data_folder", required=False, default="data", help="Path to the data folder")
     parser.add_argument("--n_summaries", type=int, required=False, default=1, help="Number of summaries")
     parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "coref_system", "stanza"], help="Component to use for alignment")
+    parser.add_argument("--partition", required=False, default="test", choices=["test","dev", "train"], help="Data partition to use for alignment")
 
     args = parser.parse_args()
 
     pred_tsv_folder =args.data_folder + '/output/pred_tsv'
 
-    all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/test')
-    gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/test')
+    all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/'+ args.partition)
+    gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/'+ args.partition)
     sum1_mentions = parse_summaries(list(gold_summaries.values()))
-    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_test{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_test{i}', '*.tsv'))] 
-    doc_sp_texts = extract_text_speaker_from_xml(args.data_folder + '/input/xml/test')
+    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}', '*.tsv'))] 
+    doc_sp_texts = extract_text_speaker_from_xml(args.data_folder + '/input/xml/'+ args.partition)
 
     alignments = align(
         doc_mentions=all_entities_from_tsv,
@@ -591,7 +592,8 @@ if __name__ == "__main__":
         doc_text=doc_sp_texts,
         data_folder=folders_with_pred_tsv,
         n_summaries=args.n_summaries,
-        component=args.component
+        component=args.component,
+        partition=args.partition
     )
 
     if args.component == "LLM":
