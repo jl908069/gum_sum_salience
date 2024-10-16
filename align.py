@@ -553,7 +553,7 @@ def align_stanza(summary_text, doc_mentions, doc_text):
     return output
 
 
-def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_summaries, component="string_match"):
+def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_summaries, component="string_match", partition="test"):
     if component == "LLM":
         return align_llm(doc_mentions, summary_text, doc_text)
     elif component == "LLM_hf":
