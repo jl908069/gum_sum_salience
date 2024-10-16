@@ -236,60 +236,66 @@ def extract_first_mentions(sc, sum1_alignments):
     return results
 
 def calculate_scores(pred, gold):
+    # Initialize variables for micro-average calculation
     total_matches = 0
     total_pred_mentions = 0
     total_gold_mentions = 0
 
+    # Initialize lists for macro-average and per-document scores
     precision_scores = []
     recall_scores = []
     f1_scores = []
 
+    # List to hold scores for each document individually
+    per_document_scores = []
+
+    # Loop over each document's predictions and gold standard
     for pred_doc, gold_doc in zip(pred, gold):
         pred_mentions = [p for p in pred_doc if p is not None]  # Filter out None values
         gold_mentions = [g[0] for g in gold_doc]  # Extract the first element (word span) from gold tuples
 
+        # Update micro-average counters
         total_pred_mentions += len(pred_mentions)
         total_gold_mentions += len(gold_mentions)
 
-        # Count matches
+        # Count matches between predicted mentions and gold mentions
         matches = sum(1 for pm in pred_mentions if pm in gold_mentions)
         total_matches += matches
 
-        # Calculate precision, recall, and F1 for this document
+        # Calculate precision, recall, and F1 for this document (macro calculation)
         precision = matches / len(pred_mentions) if len(pred_mentions) > 0 else 0
         recall = matches / len(gold_mentions) if len(gold_mentions) > 0 else 0
         f1_score = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
 
-        # Append to the lists
+        # Append the scores for this document to the lists
         precision_scores.append(precision)
         recall_scores.append(recall)
         f1_scores.append(f1_score)
 
-    # Calculate the average for each score
+        # Store per-document scores in a dictionary
+        per_document_scores.append({
+            'precision': precision,
+            'recall': recall,
+            'f1': f1_score
+        })
+
+    # Macro-average calculation (average over documents)
     avg_precision = sum(precision_scores) / len(precision_scores) if precision_scores else 0
     avg_recall = sum(recall_scores) / len(recall_scores) if recall_scores else 0
     avg_f1_score = sum(f1_scores) / len(f1_scores) if f1_scores else 0
 
-    return avg_precision, avg_recall, avg_f1_score
+    # Micro-average calculation (aggregate totals across all documents)
+    micro_precision = total_matches / total_pred_mentions if total_pred_mentions > 0 else 0
+    micro_recall = total_matches / total_gold_mentions if total_gold_mentions > 0 else 0
+    micro_f1_score = (2 * micro_precision * micro_recall) / (micro_precision + micro_recall) if (micro_precision + micro_recall) > 0 else 0
 
-
-# def best_m(pred1, pred2, pred3, gold):
-#     # Store the best prediction list for each document based on the highest F1 score
-#     best_preds = []
-
-#     # Iterate through each document
-#     for doc_idx in range(len(gold)):
-#         # Calculate F1 scores for the current document for each prediction list
-#         _, _, f1_1, _, _, _ = calculate_scores([pred_1[doc_idx]], [gold[doc_idx]])
-#         _, _, f1_2, _, _, _ = calculate_scores([pred_2[doc_idx]], [gold[doc_idx]])
-#         _, _, f1_3, _, _, _ = calculate_scores([pred_3[doc_idx]], [gold[doc_idx]])
-
-#         # Use max() to get the prediction list with the highest F1 score
-#         best_pred = max(
-#             [(f1_1[0], pred_1[doc_idx]), (f1_2[0], pred_2[doc_idx]), (f1_3[0], pred_3[doc_idx])],
-#             key=lambda x: x[0]
-#         )[1]
-
-#         best_preds.append(best_pred)
-
-#     return best_preds
+    # Return both macro, micro averages, and individual document scores
+    return {
+        'macro_precision': avg_precision,
+        'macro_recall': avg_recall,
+        'macro_f1': avg_f1_score,
+        'micro_precision': micro_precision,
+        'micro_recall': micro_recall,
+        'micro_f1': micro_f1_score,
+        'per_document_scores': per_document_scores
+    }
