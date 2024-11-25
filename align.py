@@ -8,7 +8,7 @@ from openai import OpenAI
 from transformers import pipeline
 import random
 import glob
-from get_summary import get_summary, extract_gold_summaries_from_xml, extract_text_speaker_from_xml
+from get_summary import get_summary, get_summary_gpt4o, get_summary_claude35, extract_gold_summaries_from_xml, extract_text_speaker_from_xml, read_documents
 from parse import parse_summaries
 
 
@@ -282,7 +282,6 @@ def align_llm(doc_mentions, summary_text, doc_text):
 
             # Create chunks of 15-20 entities (non-overlapping)
             chunks = [entity_indices[i:i + random.randint(15, 20)] for i in range(0, total_entities, 20)]
-            # print('chunks:',chunks)
 
             all_extracted_mentions = []  # To store the results for each document
 
@@ -297,9 +296,6 @@ def align_llm(doc_mentions, summary_text, doc_text):
                     entities=entities_str
                 )
 
-                # Debugging - Print constructed prompt
-                #print(f"Constructed Prompt for Document {doc_idx + 1}, Query Chunk: {entities_str}")
-
                 # Making a chat completion request using the client object
                 response = client.chat.completions.create(
                     model="gpt-4o",  # Use the gpt-4o chat model
@@ -312,9 +308,6 @@ def align_llm(doc_mentions, summary_text, doc_text):
                     top_p=0.7  # Lower top_p for higher precision and less diversity
                 )
 
-                # Debugging - Print API response
-                #print("API Response:", response)
-
                 # Extract and parse the model response
                 answer = response.choices[0].message.content.strip().split("\n")
                 cleaned_ans = [s.lstrip("- ").replace("**", "").replace("*", "").replace('"', '').replace('“ ', '').replace('#', '').replace(' [', '').replace(']', '').replace('\n', '').split(':', 1)[-1].lower().strip() for s in answer]
@@ -326,10 +319,8 @@ def align_llm(doc_mentions, summary_text, doc_text):
                         if ans == span:
                             extracted_mentions.append((span, idx, coref))
                             break
-                #print('extracted_mentions:',extracted_mentions)
                 # Store the extracted mentions
                 all_extracted_mentions.extend(extracted_mentions)
-                #print('all_extracted_mentions:',all_extracted_mentions)
             # Append the combined results from multiple queries for one document
             summary_results.append(all_extracted_mentions if all_extracted_mentions else [])
 
@@ -520,38 +511,55 @@ def align_stanza(summary_text, doc_mentions, doc_text):
         for summary in summary_text[i]:
             summary_output = []
 
+            # Tokenize the summary and prepare for coreference
             tokenized_summary = tokenizer(summary)
             summary_tokens = [word.text for sent in tokenized_summary.sentences for word in sent.words]
             section_marker = "==="
 
+            # Concatenate document and summary text with a marker
             tokenized_doc_with_summary = doc.strip() + " " + section_marker + " " + " ".join(summary_tokens).strip()
             doc_coref = coref(tokenized_doc_with_summary)
 
+            # Identify sentences that belong to the summary section
             summary_sents = len(tokenized_summary.sentences)
             all_sents = list(range(len(doc_coref.sentences)))
             summary_sents = all_sents[-summary_sents:]
 
-            # Extract mentions that have an antecedent in the document section from the summary section
+            # Extract mentions that have antecedents in the document section
             for coref_chain in doc_coref.coref:
-                if all([m.sentence in summary_sents for m in coref_chain.mentions]):
-                    continue  # Skip if all mentions are in the summary section
+                # Check if any mention exists in both document and summary sections
+                doc_mentions_in_chain = []
+                summary_mentions_in_chain = []
                 for mention in coref_chain.mentions:
-                    if mention.sentence not in summary_sents:
-                        # Return only mentions from the document section which are also mentioned in the summary section
-                        start = mention.start_word
-                        end = mention.end_word
-                        mention_text = []
-                        indices = []
-                        for i in range(start, end):
-                            mention_text.append(doc_coref.sentences[mention.sentence].words[i].text)
-                            indices.append(str(mention.sentence+1) + "-"+ str(i+1))
+                    if mention.sentence in summary_sents:
+                        summary_mentions_in_chain.append(mention)
+                    else:
+                        doc_mentions_in_chain.append(mention)
 
-                        summary_output.append((" ".join(mention_text), ",".join(indices), str(coref_chain.index)))
-            doc_output.append(summary_output)
+                # Only add document mentions that have corresponding summary mentions
+                if summary_mentions_in_chain and doc_mentions_in_chain:
+                    for mention in doc_mentions_in_chain:
+                        start, end = mention.start_word, mention.end_word
+                        mention_text = " ".join(doc_coref.sentences[mention.sentence].words[i].text for i in range(start, end))
+
+                    for mention in summary_mentions_in_chain:
+                        start, end = mention.start_word, mention.end_word
+                        mention_text = " ".join(doc_coref.sentences[mention.sentence].words[i].text for i in range(start, end))
+
+                    # Append mentions from document section to summary_output if they appear in summary section
+                    for mention in doc_mentions_in_chain:
+                        mention_text = " ".join(
+                            doc_coref.sentences[mention.sentence].words[i].text for i in range(mention.start_word, mention.end_word)
+                        )
+                        indices = ",".join(f"{mention.sentence + 1}-{i + 1}" for i in range(mention.start_word, mention.end_word))
+                        summary_output.append((mention_text, indices, str(coref_chain.index)))
+
+            # Append only if summary_output has content to ensure unique doc_output
+            if summary_output:
+                doc_output.append(summary_output)
         output.append(doc_output)
 
     return output
-
 
 def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_summaries, component="string_match", partition="test"):
     if component == "LLM":
@@ -571,26 +579,43 @@ def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_sum
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Align document mentions based on the selected component")
     parser.add_argument("--data_folder", required=False, default="data", help="Path to the data folder")
+    parser.add_argument("--model_name", default="google/flan-t5-xl", choices=["gpt4o", "claude-3-5-sonnet-20241022","meta-llama/Llama-3.2-3B-Instruct", "Qwen/Qwen2.5-7B-Instruct"], help="Model name to use for summarization")
     parser.add_argument("--n_summaries", type=int, required=False, default=1, help="Number of summaries")
+    parser.add_argument("--max_docs", type=int, default=None, help="Maximum number of documents to processe (default: None = all; choose a small number to prototype)")
     parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "coref_system", "stanza"], help="Component to use for alignment")
+    parser.add_argument("--overwrite_cache", action="store_true", help="Overwrite cached summaries (default: False)")
     parser.add_argument("--partition", required=False, default="test", choices=["test","dev", "train"], help="Data partition to use for alignment")
 
     args = parser.parse_args()
 
-    pred_tsv_folder =args.data_folder + '/output/pred_tsv'
+    #pred_tsv_folder =args.data_folder + '/output/pred_tsv'
+    doc_ids, doc_texts = read_documents(args.data_folder, args.partition)
+    if args.max_docs is not None:
+        doc_ids = doc_ids[:args.max_docs]
+        doc_texts = doc_texts[:args.max_docs]
+    #print('doc_ids:',doc_ids)
 
     all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/'+ args.partition)
     gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/'+ args.partition)
+    if args.model_name=="gpt4o":
+        summaries = get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+    elif args.model_name=="claude-3-5-sonnet-20241022":
+        summaries = get_summary_claude35(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+    else:
+        summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+    
     sum1_mentions = parse_summaries(list(gold_summaries.values()))
-    folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}', '*.tsv'))] 
+    all_mentions = parse_summaries(list(summaries.values()))
+    #print('all mentions:',all_mentions, '\n','len of all mentions:', len(all_mentions[0])) 
+    #folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}', '*.tsv'))] 
     doc_sp_texts = extract_text_speaker_from_xml(args.data_folder + '/input/xml/'+ args.partition)
+    #print('doc_sp_texts:',doc_sp_texts, '\n','len of doc_sp_texts:', len(doc_sp_texts))
 
     alignments = align(
         doc_mentions=all_entities_from_tsv,
-        summary_text=list(gold_summaries.values()),
-        mention_text=sum1_mentions,
+        summary_text=list(summaries.values()),
+        mention_text=all_mentions,
         doc_text=doc_sp_texts,
-        data_folder=folders_with_pred_tsv,
         n_summaries=args.n_summaries,
         component=args.component,
         partition=args.partition
