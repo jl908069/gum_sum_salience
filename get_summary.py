@@ -1,10 +1,15 @@
 import os, re, sys
 from glob import glob
-from random import choice, shuffle
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, BitsAndBytesConfig
+from random import choice, shuffle, seed
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, BitsAndBytesConfig, AutoModelForCausalLM
 import pandas as pd
 import xml.etree.ElementTree as ET
+from openai import OpenAI
+import anthropic
+from anthropic import Anthropic, HUMAN_PROMPT, AI_PROMPT
 
+client = OpenAI(api_key="<your_API_key>")
+claude_client = anthropic.Anthropic(api_key="<your_API_key>")
 
 examples = {'academic': [
                 'This study shows that limited exposure to a second language (L2) after it is no longer being actively used generally causes attrition of L2 competence.',
@@ -52,19 +57,106 @@ examples = {'academic': [
                 "This guide to washing overalls suggests washing them with like clothing, avoiding clothes which can get twisted up with the straps, fastening straps to the bib with twist ties (also in the dryer), emptying pockets, moving the strap adjusters to make them last longer, using less detergent if washing overalls alone, and taking care plastic ties don't melt in the dryer."]}
 
 
-def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-base", n=4, overwrite=False):
+def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-xl", n=4, overwrite=False):
     global examples
 
+    # Adjust the quantization config to enable double quantization and optimize memory
     quantization_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_use_double_quant=False
+        load_in_8bit=True,
+        bnb_8bit_use_double_quant=True,  # Enable double quantization to reduce VRAM usage
+        bnb_8bit_quant_type="nf8"        # Can also try 'fp4' depending on memory/performance needs
     )
 
-    # Load the tokenizer and model from Huggingface
-    tokenizer = model = None
+    # Extract the actual model name (strip the company/organization prefix)
+    model_name_short = model_name.split("/")[-1]
+
+    # Load the tokenizer and model only once for all documents
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+
+    # Conditional loading with or without quantization
+    if model_name == "google/flan-t5-xl":
+        model = AutoModelForSeq2SeqLM.from_pretrained(model_name, quantization_config=quantization_config)
+    else:
+        model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=quantization_config)
+
+    # Ensure output directory exists
     if not data_folder.endswith(os.sep):
         data_folder += os.sep
-    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + model_name_short + os.sep
+    os.makedirs(summary_folder, exist_ok=True)
+
+    all_summaries = {}
+    cached_summaries = 0
+    cached_summary_docs = 0
+    written_summaries = 0
+    written_summary_docs = 0
+
+    # Process all documents in a single loop (no batches)
+    for i, doc_text in enumerate(doc_texts):
+        doc_id = doc_ids[i]
+        doc_summaries = []
+
+        # Check if summaries exist in the specified filename format and load them if overwrite is False
+        summaries_exist = all(
+            os.path.exists(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt") for j in range(n)
+        )
+
+        if summaries_exist and not overwrite:
+            # Load existing summaries
+            for j in range(n):
+                with open(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt", "r", encoding="utf-8") as f:
+                    doc_summaries.append(f.read().strip())
+                    cached_summaries += 1
+            cached_summary_docs += 1
+        else:
+            # Generate prompt for the document
+            genre = doc_id.split("_")[1]
+            example = choice(examples[genre])
+            prompt = f"Summarize the following article in 1 sentence. Example: {example}\n\n{doc_text}\n\nSummary:"
+
+            # Tokenize input and calculate input tokens
+            input_ids = tokenizer(prompt, return_tensors="pt", padding=True).to(model.device)
+            input_token_count = input_ids.input_ids.shape[-1]
+          
+            # Generate summaries
+            out = model.generate(
+                **input_ids, max_new_tokens=120, num_return_sequences=n, do_sample=True, eos_token_id=tokenizer.eos_token_id, repetition_penalty=1.1
+            )
+            doc_summaries = tokenizer.batch_decode(out, skip_special_tokens=True)
+
+            # Print output tokens for each summary
+            for j, summary in enumerate(doc_summaries):
+                output_token_count = len(tokenizer(summary).input_ids)
+                print(f"Document {doc_id} - Output tokens (Summary {j + 1}): {output_token_count}")
+
+            # Write summaries in the specified filename format
+            for k, summary in enumerate(doc_summaries):
+                with open(f"{summary_folder}{model_name_short}_{doc_id}{k}.txt", "w", encoding="utf-8", newline="\n") as f:
+                    f.write(summary)
+                    written_summaries += 1
+            written_summary_docs += 1
+
+        all_summaries[doc_id] = doc_summaries
+
+    if cached_summaries > 0:
+        sys.stderr.write(f"Loaded {cached_summaries} cached summaries for {cached_summary_docs} documents.\n")
+    if written_summaries > 0:
+        sys.stderr.write(f"Wrote {written_summaries} new summaries for {written_summary_docs} documents.\n")
+
+    return all_summaries
+
+def get_summary_gpt4o(doc_texts, doc_ids, data_folder, model_name="gpt4o", n=4, overwrite=False):
+    # Extract the actual model name (strip the company/organization prefix)
+    model_name_short = model_name.split("/")[-1]
+
+    if not data_folder.endswith(os.sep):
+        data_folder += os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + model_name_short + os.sep
+
+    # Ensure the output directory exists
+    os.makedirs(summary_folder, exist_ok=True)
 
     all_summaries = {}
     cached_summaries = 0
@@ -74,29 +166,130 @@ def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-base
 
     for i, doc_text in enumerate(doc_texts):
         doc_id = doc_ids[i]
-        if os.path.exists(summary_folder + doc_id + str(n) + ".txt") and not overwrite:
-            doc_summaries = []
+        doc_summaries = []
+
+        # Check if summaries exist in the specified filename format and load them if overwrite is False
+        summaries_exist = all(
+            os.path.exists(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt") for j in range(n)
+        )
+        
+        if summaries_exist and not overwrite:
+            # Load existing summaries
             for j in range(n):
-                with open(summary_folder + doc_id + str(j) + ".txt", "r", encoding="utf-8") as f:
+                with open(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt", "r", encoding="utf-8") as f:
                     doc_summaries.append(f.read().strip())
                     cached_summaries += 1
             cached_summary_docs += 1
         else:
-            if tokenizer is None:
-                tokenizer = AutoTokenizer.from_pretrained(model_name)
-                model = AutoModelForSeq2SeqLM.from_pretrained(model_name, quantization_config=quantization_config)
+            # Generate new summaries
             genre = doc_id.split("_")[1]
             example = choice(examples[genre])
             prompt = f"Summarize the following article in 1 sentence. Make sure your summary is one sentence long and may not exceed 380 characters. Example of summary style: {example}\n\n{doc_text}\n\nSummary:"
-            input_ids = tokenizer(prompt, return_tensors="pt", padding=True).to(0)
-            out = model.generate(**input_ids, max_new_tokens=80, num_return_sequences=n, do_sample=True)
-            doc_summaries = tokenizer.batch_decode(out, skip_special_tokens=True)
-            if overwrite:
-                for k, summary in enumerate(doc_summaries):
-                    with open(summary_folder + doc_id + str(k) + ".txt", "w", encoding="utf-8", newline="\n") as f:
-                        f.write(summary)
+            
+            # Call the GPT4o API
+            response = client.chat.completions.create(
+                model="gpt-4o",
+                messages=[
+                    {"role": "system", "content": "You are an assistant for generating one-sentence summaries."},
+                    {"role": "user", "content": prompt}
+                ]
+            )         
+
+            # Extract summaries from response
+            choices = response.choices
+            if len(choices) < n:
+                print(f"Warning: Only {len(choices)} summaries returned for document {doc_id}, expected {n}.")
+                while len(choices) < n:
+                    # Generate additional summaries if needed
+                    additional_response = client.chat.completions.create(
+                        model="gpt-4o",
+                        messages=[
+                            {"role": "system", "content": "You are an assistant for generating one-sentence summaries."},
+                            {"role": "user", "content": prompt}
+                        ]
+                    )
+                    choices.extend(additional_response.choices)
+            doc_summaries = [choice.message.content.strip() for choice in choices[:n]]
+
+            # Write summaries in the specified filename format
+            for k, summary in enumerate(doc_summaries):
+                with open(f"{summary_folder}{model_name_short}_{doc_id}{k}.txt", "w", encoding="utf-8", newline="\n") as f:
+                    f.write(summary)
                     written_summaries += 1
             written_summary_docs += 1
+            
+        all_summaries[doc_id] = doc_summaries
+
+    if cached_summaries > 0:
+        sys.stderr.write(f"Loaded {cached_summaries} cached summaries for {cached_summary_docs} documents.\n")
+    if written_summaries > 0:
+        sys.stderr.write(f"Wrote {written_summaries} new summaries for {written_summary_docs} documents.\n")
+
+    return all_summaries
+
+def get_summary_claude35(doc_texts, doc_ids, data_folder, model_name="claude-3-5-sonnet-20241022", n=4, overwrite=False):
+
+    HUMAN_PROMPT = "\n\nHuman: "
+    AI_PROMPT = "\n\nAssistant: "
+    # Extract the actual model name
+    model_name_short = model_name.split("/")[-1] if "/" in model_name else model_name
+
+    # Ensure the output directory exists
+    if not data_folder.endswith(os.sep):
+        data_folder += os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + model_name_short + os.sep
+    os.makedirs(summary_folder, exist_ok=True)
+
+    all_summaries = {}
+    cached_summaries = 0
+    cached_summary_docs = 0
+    written_summaries = 0
+    written_summary_docs = 0
+
+    for i, doc_text in enumerate(doc_texts):
+        doc_id = doc_ids[i]
+        doc_summaries = []
+
+        # Check if summaries exist in the specified filename format and load them if overwrite is False
+        summaries_exist = all(
+            os.path.exists(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt") for j in range(n)
+        )
+        
+        if summaries_exist and not overwrite:
+            # Load existing summaries
+            for j in range(n):
+                with open(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt", "r", encoding="utf-8") as f:
+                    doc_summaries.append(f.read().strip())
+                    cached_summaries += 1
+            cached_summary_docs += 1
+        else:
+            # Generate prompt for the document
+            genre = doc_id.split("_")[1]
+            example = choice(examples[genre])
+            prompt = f"Summarize the following article in 1 sentence. Make sure your summary is one sentence long and does not exceed 380 characters. Example of summary style: {example}\n\n{doc_text}\n\nSummary:"
+
+            # Call the Claude API to generate multiple summaries if needed
+            for _ in range(n):
+                response = claude_client.messages.create(
+                    model=model_name,
+                    max_tokens=120,  # Adjust as needed
+                    system="You are a summarization assistant generating concise one-sentence summaries.",
+                    messages=[
+                        {"role": "user", "content": prompt},
+                        {"role": "assistant", "content": "Here is the summary:"}
+                    ]
+                )
+
+                summary = ''.join([block.text for block in response.content])
+                doc_summaries.append(summary)
+
+            # Write summaries in the specified filename format
+            for k, summary in enumerate(doc_summaries):
+                with open(f"{summary_folder}{model_name_short}_{doc_id}{k}.txt", "w", encoding="utf-8", newline="\n") as f:
+                    f.write(summary)
+                    written_summaries += 1
+            written_summary_docs += 1
+
         all_summaries[doc_id] = doc_summaries
 
     if cached_summaries > 0:
@@ -195,9 +388,9 @@ def extract_text_speaker_from_xml(directory):
     
     return all_documents
 
-def read_documents(data_folder):
+def read_documents(data_folder, partition):
     # Read documents directly from tsv/ folder, since we have it as input
-    files = glob(data_folder + os.sep + 'input' + os.sep + 'tsv' + os.sep + '*.tsv')
+    files = sorted(glob(data_folder + os.sep + 'input' + os.sep + 'tsv' + os.sep + partition + os.sep + '*.tsv'))
     doc_ids = []
     doc_texts = []
     for file_ in files:
@@ -215,20 +408,27 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Generate summaries for GUM documents")
     parser.add_argument("--data_folder", default="data", help="Path to data folder")
-    parser.add_argument("--model_name", default="google/flan-t5-xl", help="Huggingface model name to use for summarization")
+    parser.add_argument("--model_name", default="google/flan-t5-xl", choices=["gpt4o", "claude-3-5-sonnet-20241022", "mistralai/Mistral-7B-Instruct-v0.3", "meta-llama/Llama-3.2-3B-Instruct", "Qwen/Qwen2.5-7B-Instruct"], help="Model name to use for summarization")
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate per document")
+    parser.add_argument("--overwrite_cache", action="store_true", help="Overwrite cached summaries (default: False)")
+    parser.add_argument("--partition", default="train", choices=["test", "dev", "train"], help="Data partition to use for generating summary")
 
     args = parser.parse_args()
 
-    doc_ids, doc_texts = read_documents(args.data_folder)
+    doc_ids, doc_texts = read_documents(args.data_folder, args.partition)
     docs = list(zip(doc_texts, doc_ids))
 
     # Sample just a few docs to test - comment this out to use all documents
-    shuffle(docs)
-    doc_texts, doc_ids = zip(*docs)
-    doc_texts = doc_texts[:2]
-
-    summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=True)
+    # seed(42) 
+    # shuffle(docs)
+    # doc_texts, doc_ids = zip(*docs)
+    # doc_texts = doc_texts[:12]
+    if args.model_name=="gpt4o":
+        summaries =get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+    elif args.model_name=="claude-3-5-sonnet-20241022":
+        summaries =get_summary_claude35(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+    else:
+        summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
 
     for doc_id, doc_summaries in summaries.items():
         print(f"Document ID: {doc_id}\n")
