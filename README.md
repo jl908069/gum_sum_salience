@@ -21,7 +21,12 @@
         └── tsv                                   # output tsv files with graded salience information
         └── pred_tsv
             └── tsv_pred_{train/dev/test}{summary_n} # prediction tsv files from `coref-mtl`
-        └── ...
+        └── alignment                             # alignment results from stanza, LLM, string_match
+            └── stanza                            # json files with predicted salient entities using stanza
+            └── LLM                               # json files with predicted salient entities using LLM (GPT4o)
+            └── string_match                      # json files with predicted salient entities using string_match
+        └── ensemble
+            └── `graded_sal_meta_learner_dev.tsv`   # training file for the logistic regression model
 ```
 #### `main.py`
   - Setup argument parsing for the script
@@ -35,18 +40,30 @@
 
 #### `align.py`
   - Define a function align(doc_mentions, summary_text, mention_text) that aligns mentions from the summary with those in the document
-  - Use one of three components (LLM, LLM_hf, string_match, coref_system) to perform the alignment
+  - Use one of these components (LLM, LLM_hf, string_match, stanza, coref_system) to perform the alignment
 
 #### `serialize.py`
   - Define a function serialize(tsv, xml, alignments) that takes the alignments and produces:
       - A TSV file with new annotations for salience
       - An XML file with new summaries embedded in the <text> element
-   
+
+#### `ensemble.py`
+- Take alignments from {string_match, stanza, LLM}, train a logistic regression model for predicting salient entities, and return a json file of salient entities with salience scores
+- Example:
+
+    ```bash
+    python3 ensemble.py \
+        --data_folder ./data \
+        --partition test \
+        --alignment_components stanza LLM string_match \
+        --model_names gold gpt4o claude-3-5-sonnet-20241022 meta-llama/Llama-3.2-3B-Instruct Qwen2.5-7B-Instruct
+    ```
+
 #### `generate_conll.py`
   - Generates the merged conll files (document+summary) needed for running the [coref-mtl](https://github.com/yilunzhu/coref-mtl) (Zhu et al., 2023)
   - Download `v4_gold_conll` file (e.g. `train.gum.english.v4_gold_conll`) from the coref-mtl repo as well. Put it under `./data`
   - Follow the instructions there to generate the prediction tsv files needed for running `align.py`. Put the prediction files under `./data/pred_tsv`
 
 #### `score.py`
-  - Precision/Recall/F1 score of salient entities (not mentions) for each one of the alignment component approaches
+  - Micro/Macro Precision/Recall/F1 score of salient entities (not mentions) for each one of the alignment component approaches
   - Default to score 'test' set
