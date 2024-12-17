@@ -14,7 +14,7 @@ def remove_bracketed_number(s):
     cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
     return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
-def find_coref_chain(start_tuple):
+def find_coref_chain(start_tuple, file_result, used_indices): 
     chain = [start_tuple[0]]  # Start with the word span of the first tuple
     current_word_index = start_tuple[1].split(',')[0].strip()  # Only use the first word index
     current_coref_indices = [ci.strip() for ci in start_tuple[2].split(',')]
@@ -168,8 +168,6 @@ def get_sal_mentions(input_paths):
 
 def sal_coref_cluster(sal_mentions):
     coref_clusters = []
-
-    # Define a set of pronouns (both upper and lowercase)
     pronouns = {'he', 'she', 'it', 'they', 'we', 'i', 'you', 
                 'him', 'her', 'them', 'us', 'me', 'it', 'there',
                 'his', 'hers', 'its', 'their', 'our', 'my', 'your',
@@ -184,15 +182,13 @@ def sal_coref_cluster(sal_mentions):
         for tup in file_result:
             words, word_indices, coref_indices = tup
 
-            # Handle singletons by only including the word span as a single string
             if coref_indices == "":
-                # Check if the word is a pronoun, and if so, skip this tuple
                 if words not in pronouns:
                     cluster.append((words,))
                 continue
 
             if tup not in used_indices:
-                coref_chain = find_coref_chain(tup)
+                coref_chain = find_coref_chain(tup, file_result, used_indices)
                 if len(coref_chain) > 1:
                     cluster.append(coref_chain)
                 used_indices.add(tup)
