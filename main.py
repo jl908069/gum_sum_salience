@@ -17,7 +17,7 @@ def main():
     parser.add_argument("--data_folder", type=str, default="data", help="Path to the data folder containing TSV, conllu or xml files")
     parser.add_argument("--max_docs", type=int, default=None, help="Maximum number of documents to processe (default: None = all; choose a small number to prototype)")
     parser.add_argument("--overwrite_cache", action="store_true", help="Overwrite cached summaries (default: False)")
-    parser.add_argument("--partition", default="test", choices=["test", "dev", "train"], help="Data partition to use for alignment")
+    parser.add_argument("--partition", default="test", choices=["test", "dev", "train"], help="Data partition to use for alignment or summaries")
 
     args = parser.parse_args()
 
@@ -46,11 +46,11 @@ def main():
     print('len of all_entities_from_tsv:', len(all_entities_from_tsv[:args.max_docs]))
     # Get as many summaries as specified for each document
     if args.model_name=="gpt4o":
-        summaries = get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     elif args.model_name=="claude-3-5-sonnet-20241022":
-        summaries = get_summary_claude35(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary_claude35(doc_texts, doc_ids, args.data_folder, args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     else:
-        summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary(doc_texts, doc_ids, args.data_folder, args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     print('summaries:',summaries)
     gold_summaries=extract_gold_summaries_from_xml(args.data_folder + '/input/xml/'+ args.partition) #use 'test' for scoring
 
