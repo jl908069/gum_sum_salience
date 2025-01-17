@@ -57,7 +57,7 @@ examples = {'academic': [
                 "This guide to washing overalls suggests washing them with like clothing, avoiding clothes which can get twisted up with the straps, fastening straps to the bib with twist ties (also in the dryer), emptying pockets, moving the strap adjusters to make them last longer, using less detergent if washing overalls alone, and taking care plastic ties don't melt in the dryer."]}
 
 
-def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-xl", n=4, overwrite=False):
+def get_summary(doc_texts, doc_ids, data_folder, partition, model_name="google/flan-t5-xl", n=4, overwrite=False):
     global examples
 
     # Adjust the quantization config to enable double quantization and optimize memory
@@ -84,7 +84,7 @@ def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-xl",
     # Ensure output directory exists
     if not data_folder.endswith(os.sep):
         data_folder += os.sep
-    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + model_name_short + os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + partition + os.sep + model_name_short + os.sep
     os.makedirs(summary_folder, exist_ok=True)
 
     all_summaries = {}
@@ -147,13 +147,13 @@ def get_summary(doc_texts, doc_ids, data_folder, model_name="google/flan-t5-xl",
 
     return all_summaries
 
-def get_summary_gpt4o(doc_texts, doc_ids, data_folder, model_name="gpt4o", n=4, overwrite=False):
+def get_summary_gpt4o(doc_texts, doc_ids, data_folder, partition, model_name="gpt4o", n=4, overwrite=False):
     # Extract the actual model name (strip the company/organization prefix)
     model_name_short = model_name.split("/")[-1]
 
     if not data_folder.endswith(os.sep):
         data_folder += os.sep
-    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + model_name_short + os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + partition + os.sep + model_name_short + os.sep
 
     # Ensure the output directory exists
     os.makedirs(summary_folder, exist_ok=True)
@@ -227,7 +227,7 @@ def get_summary_gpt4o(doc_texts, doc_ids, data_folder, model_name="gpt4o", n=4, 
 
     return all_summaries
 
-def get_summary_claude35(doc_texts, doc_ids, data_folder, model_name="claude-3-5-sonnet-20241022", n=4, overwrite=False):
+def get_summary_claude35(doc_texts, doc_ids, data_folder, partition, model_name="claude-3-5-sonnet-20241022", n=4, overwrite=False):
 
     HUMAN_PROMPT = "\n\nHuman: "
     AI_PROMPT = "\n\nAssistant: "
@@ -237,7 +237,7 @@ def get_summary_claude35(doc_texts, doc_ids, data_folder, model_name="claude-3-5
     # Ensure the output directory exists
     if not data_folder.endswith(os.sep):
         data_folder += os.sep
-    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + model_name_short + os.sep
+    summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + partition + os.sep + model_name_short + os.sep
     os.makedirs(summary_folder, exist_ok=True)
 
     all_summaries = {}
@@ -411,7 +411,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", default="google/flan-t5-xl", choices=["gpt4o", "claude-3-5-sonnet-20241022", "mistralai/Mistral-7B-Instruct-v0.3", "meta-llama/Llama-3.2-3B-Instruct", "Qwen/Qwen2.5-7B-Instruct"], help="Model name to use for summarization")
     parser.add_argument("--n_summaries", type=int, default=4, help="Number of summaries to generate per document")
     parser.add_argument("--overwrite_cache", action="store_true", help="Overwrite cached summaries (default: False)")
-    parser.add_argument("--partition", default="train", choices=["test", "dev", "train"], help="Data partition to use for generating summary")
+    parser.add_argument("--partition", default="train", choices=["test", "dev", "train"], help="Data partition to use for generating and storing summaries")
 
     args = parser.parse_args()
 
@@ -424,11 +424,11 @@ if __name__ == "__main__":
     # doc_texts, doc_ids = zip(*docs)
     # doc_texts = doc_texts[:12]
     if args.model_name=="gpt4o":
-        summaries =get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries =get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     elif args.model_name=="claude-3-5-sonnet-20241022":
-        summaries =get_summary_claude35(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries =get_summary_claude35(doc_texts, doc_ids, args.data_folder, args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     else:
-        summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary(doc_texts, doc_ids, args.data_folder, args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
 
     for doc_id, doc_summaries in summaries.items():
         print(f"Document ID: {doc_id}\n")
