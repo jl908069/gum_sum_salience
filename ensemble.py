@@ -10,6 +10,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from collections import defaultdict
+from serialize import add_anno_to_tsv
 
 def process_alignment_data(data_folder, partition, alignment_components, model_name):
     # Process model_name to ignore anything before "/", if any
@@ -17,10 +18,10 @@ def process_alignment_data(data_folder, partition, alignment_components, model_n
 
     # Step 1: Get Gold Entities
     gold_entities_raw = get_entities_from_gold_tsv(os.path.join(data_folder, 'input', 'tsv', partition))
-    gold_entities = [(tup[0], doc_id, tup[-1]) for doc_id, doc in enumerate(gold_entities_raw) for tup in doc]  # Extract "entity", "doc_id", and last tuple element
+    gold_entities = [(tup[0].lower(), doc_id, tup[-1]) for doc_id, doc in enumerate(gold_entities_raw) for tup in doc]  # Extract "entity", "doc_id", and last tuple element
     print('gold_entities:', gold_entities)
     # Create initial DataFrame with "Gold Entity" and document ID
-    df = pd.DataFrame([(tup[0], tup[1]) for tup in gold_entities], columns=['Gold Entity', 'Doc ID'])
+    df = pd.DataFrame([(tup[0].lower(), tup[1]) for tup in gold_entities], columns=['Gold Entity', 'Doc ID'])
 
     # Add "Doc Name" based on filenames (strip out ".tsv")
     doc_names = [os.path.basename(file).replace('.tsv', '') for file in sorted(os.listdir(os.path.join(data_folder, 'input', 'tsv', partition))) if file.endswith('.tsv')]
@@ -65,7 +66,7 @@ def process_alignment_data(data_folder, partition, alignment_components, model_n
 
         # Mark matches in the DataFrame
         for entity, doc_id in pred_with_doc_ids:
-            df.loc[(df['Gold Entity'] == entity) & (df['Doc ID'] == doc_id), pred_column] = 1
+            df.loc[(df['Gold Entity'].str.lower() == entity.lower()) & (df['Doc ID'] == doc_id), pred_column] = 1
 
     # Step 3: Get Gold Labels
     gold_labels_raw = get_sal_tsv(os.path.join(data_folder, 'input', 'tsv', partition))
@@ -76,7 +77,7 @@ def process_alignment_data(data_folder, partition, alignment_components, model_n
 
     # Mark matches in the DataFrame
     for entity, doc_id in gold_labels:
-        df.loc[(df['Gold Entity'] == entity) & (df['Doc ID'] == doc_id), 'Gold_label'] = 1
+        df.loc[(df['Gold Entity'].str.lower() == entity.lower()) & (df['Doc ID'] == doc_id), 'Gold_label'] = 1
 
     # Drop "Doc ID" column to match the desired output
     df = df.drop(columns=['Doc ID'])
@@ -191,11 +192,85 @@ def count_gold_entity_appearances_grouped(tsv_file_paths, output_json_path):
 
     return output_data
 
+def process_tsv_files(partition):
+    """
+    Process multiple TSV files and generate predictions based on the Gold_label and Predictions columns.
+    
+    Args:
+        data_partition (str): The partition of data to process (e.g., "test", "train")
+        
+    Returns:
+        list: A list of lists, where each inner list contains tuples of (entity, predictions) for one document.
+    """
+    base_path = f"./data/output/ensemble/{partition}"
+    
+    # Get all TSV files in the directory
+    tsv_files = [f for f in os.listdir(base_path) if f.endswith('.tsv')]
+    
+    # Define the preferred order of filenames
+    preferred_prefixes = ['gold', 'claude', 'gpt4o', 'Llama', 'Qwen']
+    
+    # Sort files based on preferred prefixes
+    ordered_files = []
+    remaining_files = tsv_files.copy()
+    
+    # First, add files that match preferred prefixes in order
+    for prefix in preferred_prefixes:
+        matching_files = [f for f in remaining_files if f.lower().startswith(prefix.lower())]
+        if matching_files:
+            # If multiple files match a prefix, sort them alphabetically
+            matching_files.sort()
+            ordered_files.extend(matching_files)
+            # Remove matched files from remaining_files
+            for f in matching_files:
+                remaining_files.remove(f)
+    
+    # Add any remaining files in alphabetical order
+    remaining_files.sort()
+    ordered_files.extend(remaining_files)
+    
+    # Read all TSV files in the determined order
+    dataframes = []
+    for filename in ordered_files:
+        file_path = os.path.join(base_path, filename)
+        df = pd.read_csv(file_path, sep='\t')
+        dataframes.append(df)
+    
+    # Create a dictionary to store results for each document
+    doc_results = {}
+    
+    # Process each row in the first dataset (assumed to be gold standard)
+    for idx, row in dataframes[0].iterrows():
+        doc_name = row['Doc Name']
+        gold_entity = row['Gold Entity']
+        
+        # Initialize predictions string
+        predictions = ''
+        
+        # Add predictions from each dataframe
+        for df in dataframes:
+            # Check if the column name is 'Gold_label' or 'Predictions'
+            pred_column = 'Gold_label' if 'Gold_label' in df.columns else 'Predictions'
+            predictions += 's' if df.iloc[idx][pred_column] == 1 else 'n'
+        
+        # Create or append to document's list of tuples
+        if doc_name not in doc_results:
+            doc_results[doc_name] = []
+        doc_results[doc_name].append((gold_entity, predictions))
+    
+    # Convert dictionary to list of lists, maintaining document grouping
+    result = list(doc_results.values())
+    # Only the non-gold ones
+    res=[[(item[0], item[1][1:]) for item in inner_list] for inner_list in results]
+    
+    return res
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process and analyze salient entities.")
     parser.add_argument("--data_folder", type=str, required=True, help="Base data folder path.")
     parser.add_argument("--partition", type=str, required=True, help="Partition name (e.g., dev, test).")
     parser.add_argument("--alignment_components", nargs='+', required=True, help="List of alignment components.")
+    parser.add_argument("--max_docs", type=int, default=None, help="Maximum number of documents to processe (default: None = all; choose a small number to prototype)")
     parser.add_argument("--model_names", nargs='+', required=True, help="List of model names.")
 
     args = parser.parse_args()
@@ -207,9 +282,13 @@ if __name__ == "__main__":
     # Step 2: Train and predict
     train_and_predict(args.data_folder, args.partition)
 
-    # Step 3: Count entity appearances
-    output_dir = os.path.join(args.data_folder, 'output', 'ensemble', args.partition)
-    tsv_file_paths = [os.path.join(output_dir, f) for f in os.listdir(output_dir) if f.endswith('.tsv')]
-    output_json_path = os.path.join(output_dir, "ens_sal_score.json")
+    # Step 3: Write the salience annotations into the tsv files
+    #output_dir = os.path.join(args.data_folder, 'output', 'ensemble', args.partition)
+    #tsv_file_paths = [os.path.join(output_dir, f) for f in os.listdir(output_dir) if f.endswith('.tsv')]
+    results = process_tsv_files(args.partition)
+    print('Salience annotations:', results)
+    # Write the final salience annotations to tsv files
+    add_anno_to_tsv(data_folder=args.data_folder, model_predictions= results, partition=args.partition, max_docs=args.max_docs)
+    #output_json_path = os.path.join(output_dir, "ens_sal_score.json")
 
-    count_gold_entity_appearances_grouped(tsv_file_paths, output_json_path)
+    #count_gold_entity_appearances_grouped(tsv_file_paths, output_json_path)
