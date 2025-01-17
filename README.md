@@ -48,13 +48,13 @@
       - An XML file with new summaries embedded in the <text> element
 
 #### `ensemble.py`
-- Take alignments from {string_match, stanza, LLM}, train a logistic regression model for predicting salient entities, and return a json file of salient entities with salience scores
+- Take alignments from {string_match, stanza, LLM}, train a logistic regression model for predicting salient entities, and write the annotations to tsv files
 - Example:
 
     ```bash
     python3 ensemble.py \
         --data_folder ./data \
-        --partition test \
+        --partition train \
         --alignment_components stanza LLM string_match \
         --model_names gold gpt4o claude-3-5-sonnet-20241022 meta-llama/Llama-3.2-3B-Instruct Qwen2.5-7B-Instruct
     ```
