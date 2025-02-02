@@ -69,7 +69,7 @@ def extract_mentions_from_gold_tsv(data_folder, docnames=None):
             word_index = columns[0]
             word = columns[2]
             entity_type = columns[3]
-            coref_info = columns[9]
+            coref_info = columns[-1]
             
             # Handle nested mentions
             entity_types = entity_type.split("|")
@@ -104,78 +104,6 @@ def extract_mentions_from_gold_tsv(data_folder, docnames=None):
 
     return all_mentions
 
-def extract_mentions_from_pred_tsv(data_folder):
-    all_mentions = []
-
-    # List all TSV files in the folder
-    tsv_files = sorted([f for f in os.listdir(data_folder) if f.endswith(".tsv")])
-
-    for tsv_file in tsv_files:
-        file_path = os.path.join(data_folder, tsv_file)
-        mentions = []
-
-        with open(file_path, 'r') as file:
-            lines = file.readlines()
-
-        current_mentions = {}
-        largest_sentence_index = -1
-
-        # Determine the largest sentence index
-        for line in lines:
-            if line.startswith("#") or not line.strip():
-                continue
-            columns = line.strip().split("\t")
-            sentence_index = int(columns[0].split("-")[0])
-            if sentence_index > largest_sentence_index:
-                largest_sentence_index = sentence_index
-
-        # Parse only the lines with the largest sentence index
-        for line in lines:
-            if line.startswith("#") or not line.strip():
-                continue
-
-            columns = line.strip().split("\t")
-            sentence_index = int(columns[0].split("-")[0])
-            if sentence_index == largest_sentence_index:
-                word_index = columns[0]
-                word = columns[2]
-                entity_type = columns[3]
-                coref_info = columns[-1]
-
-                # Handle nested mentions
-                entity_types = entity_type.split("|")
-                coref_infos = coref_info.split("|")
-
-                # Track current mentions for each entity type
-                for i, entity in enumerate(entity_types):
-                    if entity == "_" or not entity:
-                        continue
-
-                    if entity not in current_mentions:
-                        current_mentions[entity] = ([], [], coref_infos[i] if i < len(coref_infos) else "_")
-
-                    current_mentions[entity][0].append(word)
-                    current_mentions[entity][1].append(word_index)
-
-                # Check for completion of current mentions
-                completed_mentions = []
-                for entity in list(current_mentions.keys()):
-                    if entity not in entity_types:
-                        completed_mentions.append(entity)
-
-                # Add completed mentions to the result
-                for entity in completed_mentions:
-                    word_span, indices, coref_index = current_mentions.pop(entity)
-                    mentions.append((" ".join(word_span), ",".join(indices), coref_index))
-
-        # Add any remaining mention
-        for entity, (word_span, indices, coref_index) in current_mentions.items():
-            mentions.append((" ".join(word_span), ",".join(indices), coref_index))
-
-        all_mentions.append(mentions)
-
-    return all_mentions
-
 def get_entities_from_gold_tsv(data_folder):
     all_results = []
     tsv_files = sorted([f for f in os.listdir(data_folder) if f.endswith(".tsv")])
@@ -198,11 +126,11 @@ def get_entities_from_gold_tsv(data_folder):
                 word = columns[2]
                 col5_values = columns[4].split('|')
                 col6_values = columns[5].split('|')
-                coref_index = columns[9] 
+                coref_index = columns[-1]
                 
                 # Now only extract mentions that are first mentions 
                 for col5, col6 in zip(col5_values, col6_values):
-                    if col5.startswith('new') or col5.startswith('acc:com') or col5.startswith('acc:inf'):  # First mentions
+                    if not col5.startswith('giv'):  # First mentions
                         cls_number = extract_bracketed_number(col5)
                         if cls_number:
                             if cls_number not in word_dict:
@@ -466,40 +394,6 @@ def align_string_match(doc_mentions, mention_text):
     return results
 
 
-def align_coref_system(data_folders, n_summaries):
-    """
-    Align mentions using a coreference system.
-
-    Args:
-        data_folders (list of str): List of paths to folders containing TSV files with predictions for each summary.
-        n_summaries (int): Number of summaries to use.
-
-    Returns:
-        list of list of list of tuples: Organized predictions.
-    """
-    predictions_list = []
-
-    for i in range(n_summaries):
-        folder_path = data_folders[i]
-        predictions = extract_mentions_from_pred_tsv(folder_path)
-        predictions_list.append(predictions)
-
-    num_documents = len(predictions_list[0])  # Number of documents
-    organized_predictions = [[[] for _ in range(num_documents)] for _ in range(n_summaries)]
-
-    for summary_idx, predictions in enumerate(predictions_list):
-        for doc_idx, doc_predictions in enumerate(predictions):
-            organized_predictions[summary_idx][doc_idx] = doc_predictions
-
-    # Fill empty lists where there are no matches
-    for summary_idx in range(n_summaries):
-        for doc_idx in range(num_documents):
-            if not organized_predictions[summary_idx][doc_idx]:
-                organized_predictions[summary_idx][doc_idx] = []  # Append an empty list if no matches found
-
-    return organized_predictions
-
-
 def align_stanza(summary_text, doc_mentions, doc_text):
     import stanza
     tokenizer = stanza.Pipeline("en", processors="tokenize")
@@ -568,8 +462,8 @@ def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_sum
         return align_llm_hf(doc_mentions, summary_text)
     elif component == "string_match":
         return align_string_match(doc_mentions, mention_text)
-    elif component == "coref_system":
-        return align_coref_system(data_folder, n_summaries)
+    # elif component == "coref_system":
+    #     return align_coref_system(data_folder, n_summaries)
     elif component == "stanza":
         return align_stanza(summary_text, doc_mentions, doc_text)
     else:
@@ -582,7 +476,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", default="google/flan-t5-xl", choices=["gpt4o", "claude-3-5-sonnet-20241022","meta-llama/Llama-3.2-3B-Instruct", "Qwen/Qwen2.5-7B-Instruct"], help="Model name to use for summarization")
     parser.add_argument("--n_summaries", type=int, required=False, default=1, help="Number of summaries")
     parser.add_argument("--max_docs", type=int, default=None, help="Maximum number of documents to processe (default: None = all; choose a small number to prototype)")
-    parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "coref_system", "stanza"], help="Component to use for alignment")
+    parser.add_argument("--component", required=False, default="string_match", choices=["LLM", "LLM_hf", "string_match", "stanza"], help="Component to use for alignment")
     parser.add_argument("--overwrite_cache", action="store_true", help="Overwrite cached summaries (default: False)")
     parser.add_argument("--partition", required=False, default="test", choices=["test","dev", "train"], help="Data partition to use for alignment")
 
@@ -627,7 +521,7 @@ if __name__ == "__main__":
         print(f"LLM_hf Alignment Result:\n{alignments}")
     elif args.component == "string_match":
         print(f"String Match Alignment Result:\n{alignments}")
-    elif args.component == "coref_system":
-        print(f"Coreference MTL Alignment Result:\n{alignments}")
+    # elif args.component == "coref_system":
+    #     print(f"Coreference MTL Alignment Result:\n{alignments}")
     elif args.component == "stanza":
         print(f"Stanza Alignment Result:\n{alignments}")
