@@ -46,7 +46,7 @@ def process_alignment_data(data_folder, partition, alignment_components, model_n
         if model_name == "gold":
             file = f"pred_gold_{partition}.json"
         else:
-            file = f"pred_{model_name}.json"
+            file = f"pred_{model_name}_{partition}.json"
 
         pred_column = f"Pred_{component}"
     
@@ -87,7 +87,7 @@ def process_alignment_data(data_folder, partition, alignment_components, model_n
     os.makedirs(output_dir, exist_ok=True)
 
     # Save the DataFrame to a TSV file
-    output_file = os.path.join(output_dir, f"{model_name}.tsv")
+    output_file = os.path.join(output_dir, f"{model_name}.tsv") #For 'train'; For 'dev' and'test', we also have `h1~h5.tsv`` from human crowdsourced summaries
     df.to_csv(output_file, sep='\t', index=False)
 
     return df
@@ -287,7 +287,6 @@ if __name__ == "__main__":
     #tsv_file_paths = [os.path.join(output_dir, f) for f in os.listdir(output_dir) if f.endswith('.tsv')]
     results = process_tsv_files(args.partition)
     print('Salience annotations:', results)
-    # Write the final salience annotations to tsv files
     add_anno_to_tsv(data_folder=args.data_folder, model_predictions= results, partition=args.partition, max_docs=args.max_docs)
     #output_json_path = os.path.join(output_dir, "ens_sal_score.json")
 
