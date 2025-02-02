@@ -38,14 +38,14 @@
   - Loading documents (tsv, xml), generating summaries, parsing summaries, aligning mentions, and serializing results
 
 #### `get_summary.py`
-  - Define a function get_summary(doc_text, n=4) that interacts with the Huggingface API to generate n summaries
+  - Define a function get_summary(doc_text, n=4) that interacts with APIs (Huggingface, Anthropic, OpenAI) to generate n summaries
 
 #### `parse.py`
   - Define a function parse(summary_text) that returns a list of noun phrase (NP) strings corresponding to all nominal mention strings (excluding pronouns) using `spacy`
 
 #### `align.py`
   - Define a function align(doc_mentions, summary_text, mention_text) that aligns mentions from the summary with those in the document
-  - Use one of these components (LLM, LLM_hf, string_match, stanza, coref_system) to perform the alignment
+  - Use one of these components (LLM, LLM_hf, string_match, stanza) to perform the alignment
 
 #### `serialize.py`
   - Define a function serialize(tsv, xml, alignments) that takes the alignments and produces:
