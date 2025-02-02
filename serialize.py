@@ -70,7 +70,7 @@ def add_anno_to_tsv(data_folder, model_predictions, partition, max_docs):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Process each TSV file
+    # Process each TSV file, Use `/_build/src/tsv/` for input tsv 
     for filename in sorted(os.listdir(tsv_dir))[:max_docs]:
         if filename.endswith(".tsv"):
             input_file = os.path.join(tsv_dir, filename)
