@@ -1,0 +1,1 @@
+Microsoft is ending support for Internet Explorer 6, a 10-year-old browser, and is urging users to upgrade to newer versions, such as Internet Explorer 9, due to its declining market share and security vulnerabilities.

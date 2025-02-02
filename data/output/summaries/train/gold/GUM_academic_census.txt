@@ -1,0 +1,1 @@
+This paper presents a Web crawler-based computer system for automatically generating census data for an academic field, which is applied to the compilation of a census of faculty in Computer Science.

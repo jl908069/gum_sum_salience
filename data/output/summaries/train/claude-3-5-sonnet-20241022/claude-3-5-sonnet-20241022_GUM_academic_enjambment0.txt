@@ -1,0 +1,1 @@
+ This article presents an automated system that detects enjambment (the breaking of syntactic units across poetry lines) in Spanish sonnets, analyzing approximately 3,750 sonnets by 1,000 authors from the 15th to 19th century.

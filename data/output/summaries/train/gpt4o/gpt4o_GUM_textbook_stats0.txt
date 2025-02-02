@@ -1,0 +1,1 @@
+This section explains data location measures like quartiles and percentiles, with Q1, Q2 (median), and Q3 marking the 25th, 50th, and 75th percentiles; It highlights their use in determining data spread (IQR) and identifying outliers, with examples provided.

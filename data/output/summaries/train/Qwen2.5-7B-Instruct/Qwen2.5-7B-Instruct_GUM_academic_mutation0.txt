@@ -1,0 +1,1 @@
+The authors propose and implement domain-specific mutation operators tailored for testing Geographic Information Systems (GIS), demonstrating their effectiveness through applications in real-world GIS software, and suggest extending this approach to other domains.

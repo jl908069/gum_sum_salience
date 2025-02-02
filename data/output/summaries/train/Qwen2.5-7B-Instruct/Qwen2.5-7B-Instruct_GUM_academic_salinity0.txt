@@ -1,0 +1,1 @@
+Satellite-based remote sensing techniques like SMOS, Aquarius/SAC-D, and SMAP are crucial for measuring global sea surface salinity with precision, requiring advanced correction models to address factors such as roughness, foam, and RF interference, and vital for comprehending ocean dynamics, climate change, and the water cycle.

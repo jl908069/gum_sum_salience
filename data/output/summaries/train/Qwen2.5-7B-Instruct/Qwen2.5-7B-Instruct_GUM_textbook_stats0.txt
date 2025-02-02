@@ -1,0 +1,1 @@
+Quartiles and percentiles are measures of central tendency that divide data into quarters and hundredths respectively, while the median is the middle value that separates the data into two halves, and the interquartile range (IQR) is used to identify potential outliers.

@@ -1,0 +1,1 @@
+The article introduces mutation operators for testing Geographic Information Systems (GIS) and illustrates their application with case studies on real GIS applications; It shows how these operators replicate common programming errors in GIS, and suggests future expansions to other domains and enhancements in test case automation.

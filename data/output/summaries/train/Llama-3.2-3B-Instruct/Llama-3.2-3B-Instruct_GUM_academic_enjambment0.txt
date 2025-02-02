@@ -1,0 +1,1 @@
+Researchers developed a software tool to automatically detect enjambment in Spanish sonnets from the 15th to 19th centuries, covering a large corpus of 3750 sonnets and 1000 authors, and analyzed the results to better understand the stylistic effects of enjambment in Spanish poetry.

@@ -1,1 +1,0 @@
-We define mutation operators specific to the GIS domain and present a way to apply them to a SUT. We present a case study where these operators are applied to two real - world applications.

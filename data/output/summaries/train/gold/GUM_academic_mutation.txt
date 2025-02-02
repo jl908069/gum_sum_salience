@@ -1,0 +1,1 @@
+This paper presents a study of mutation operators, which simulate likely software errors for testing purposes, in the area of Geographic Information Systems (GIS).

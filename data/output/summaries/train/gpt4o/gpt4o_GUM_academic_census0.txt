@@ -1,0 +1,1 @@
+This article introduces a novel web crawler system designed to efficiently and accurately assemble a comprehensive census of academic fields from publicly available web data, which significantly reduces the time and labor involved in collecting faculty data by hand, enabling new research into faculty diversity, retention, and trends across disciplines.

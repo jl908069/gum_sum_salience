@@ -1,0 +1,1 @@
+This article proposes the definition of specific mutation operators for testing Geographic Information Systems (GIS) applications, which were applied to two real-world GIS applications to generate mutants and test their behavior.

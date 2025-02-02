@@ -1,0 +1,1 @@
+The article examines advancements in satellite technology for global sea surface salinity (SSS) monitoring, highlighting SMOS, Aquarius/SAC-D, and SMAP's roles and the need for precise models to correct errors from surface roughness, foam, and atmospheric interference, particularly in coastal areas like China.

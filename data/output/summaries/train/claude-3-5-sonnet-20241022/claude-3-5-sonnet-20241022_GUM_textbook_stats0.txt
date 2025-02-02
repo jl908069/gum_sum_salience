@@ -1,0 +1,1 @@
+ Chapter 2.3 explains data location measures, including quartiles and percentiles, which help analyze data distribution by dividing ordered datasets into quarters and hundredths respectively, with special emphasis on calculating medians, interquartile ranges, and identifying potential outliers.

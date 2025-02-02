@@ -1,0 +1,1 @@
+ This paper introduces an automated web crawling system that can efficiently collect comprehensive census data of academic faculty in any field, with a demonstration in computer science that enables studies of workforce diversity and dynamics over time.

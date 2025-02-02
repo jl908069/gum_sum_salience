@@ -1,0 +1,1 @@
+A study using natural language processing techniques has developed automated methods to detect enjambment in Spanish sonnets spanning four centuries, providing new insights into its usage patterns and supporting distant reading of poetic style over time.

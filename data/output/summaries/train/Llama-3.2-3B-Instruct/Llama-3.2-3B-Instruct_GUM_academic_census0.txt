@@ -1,0 +1,1 @@
+Researchers have developed a novel system to automatically assemble a census of an academic field using digital data from the public World Wide Web, providing a more accurate and efficient way to study the composition and diversity of the scientific workforce.

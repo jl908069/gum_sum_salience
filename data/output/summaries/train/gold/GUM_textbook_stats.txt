@@ -1,0 +1,1 @@
+This section of a statistics textbook explains measures of location for data, such as the median, quartiles and percentiles, as well as the interquartile range (IQR), using examples and an exercise to compute measures for some salary data.

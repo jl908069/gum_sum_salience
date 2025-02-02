@@ -1,0 +1,1 @@
+ Remote sensing of sea surface salinity (SSS) in global oceans has been enabled by satellites like SMOS, Aquarius/SAC-D, and SMAP, though challenges remain in accurate retrieval due to factors like sea surface roughness, foam effects, and radio frequency interference.

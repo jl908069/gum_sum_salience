@@ -1,0 +1,1 @@
+ This paper proposes new mutation operators designed specifically for testing Geographic Information Systems (GIS) applications by introducing artificial errors into the system and demonstrates their application on two real-world GIS cases.

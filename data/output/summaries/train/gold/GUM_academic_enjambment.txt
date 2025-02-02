@@ -1,0 +1,1 @@
+This paper presents a natural language processing system to identify and study enjambment in a large corpus of Spanish sonnets from the 15th to the 19th century.

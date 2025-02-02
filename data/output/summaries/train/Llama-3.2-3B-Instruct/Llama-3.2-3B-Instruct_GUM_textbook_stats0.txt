@@ -1,0 +1,1 @@
+This article explains the measures of location, including the median, quartiles, and percentiles, and provides examples of how to calculate these measures and use them to analyze data.
