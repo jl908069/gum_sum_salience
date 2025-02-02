@@ -2,62 +2,35 @@ import argparse
 import os
 import glob
 
-def extract_bracketed_number(s):
-    start = s.find("[")
-    end = s.find("]")
-    if start != -1 and end != -1:
-        return s[start+1:end]
-    return None
-    
-def remove_bracketed_number(s):
-    parts = s.split('|')  # Split by "|" to handle multiple coref indices
-    cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
-    return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
-def find_coref_chain(start_tuple, file_result, used_indices): 
-    chain = [start_tuple[0]]  # Start with the word span of the first tuple
-    current_word_index = start_tuple[1].split(',')[0].strip()  # Only use the first word index
-    current_coref_indices = [ci.strip() for ci in start_tuple[2].split(',')]
-
-    while True:
-        found = False
-        for tup in file_result:
-            if tup in used_indices:
-                continue
-
-            words, word_indices, coref_indices = tup
-            first_word_index = word_indices.split(',')[0].strip()  # Only check the first index
-            coref_indices_list = [ci.strip() for ci in coref_indices.split(',')]
-
-            if first_word_index in current_coref_indices:
-                chain.append(words)
-                used_indices.add(tup)
-                current_word_index = first_word_index
-                current_coref_indices = coref_indices_list
-                found = True
-                break
-
-        if not found:
-            break
-
-    return tuple(chain)
-
-def get_sal_tsv(input_paths):
-# get salient entities (first mentions) from gold tsv     
+def get_sal_tsv(input_paths): #get salient entities (only first mentions)
     all_results = []
+
+    def extract_bracketed_number(s):
+        start = s.find("[")
+        end = s.find("]")
+        if start != -1 and end != -1:
+            return s[start+1:end]
+        return None
+
+    def remove_bracketed_number(s):
+        parts = s.split('|')  # Split by "|" to handle multiple coref indices
+        cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
+        return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
     # Check if input_paths is a directory or a list of file paths
     if isinstance(input_paths, str) and os.path.isdir(input_paths):
         filepaths = sorted(glob.glob(os.path.join(input_paths, "*.tsv")))
     elif isinstance(input_paths, list):
         # Prepend './data/input/tsv/' and append '.tsv' to each file name in the list
-        filepaths = [os.path.join('./data/tsv', f"{filename}.tsv") for filename in input_paths]
+        filepaths = [os.path.join('./data/input/tsv', f"{filename}.tsv") for filename in input_paths]
     else:
         raise ValueError("input_paths must be a directory or a list of file paths")
 
     for filepath in filepaths:
         # Convert to absolute path to ensure it's correct
         filepath = os.path.abspath(filepath)
+        #print(f"Trying to open file: {filepath}")  # Debugging line
         
         file_result = []
         try:
@@ -65,13 +38,12 @@ def get_sal_tsv(input_paths):
                 word_dict = {}
                 word_indices = {}
                 coref_indices = {}
-                first_ent_type = {}  # New dict to store the first entity type for each sal_number
                 
                 for line in file:
                     columns = line.strip().split('\t')
                     if len(columns) < 7:
                         continue
-                    
+                    # Use coref/gum/tsv
                     word_index = columns[0]
                     word = columns[2]
                     ent_type = columns[3].split('|')  # Extract ent_type values
@@ -79,15 +51,14 @@ def get_sal_tsv(input_paths):
                     col6_values = columns[5].split('|')
                     coref_index = columns[9]  
                     
-                    for i, (col5, col6, ent) in enumerate(zip(col5_values, col6_values, ent_type)):
-                        if col6.startswith('sal') and (col5.startswith('new') or col5.startswith('acc:com') or col5.startswith('acc:inf')):
+                    for col5, col6 in zip(col5_values, col6_values):
+                        if col6.startswith('sal') and not col5.startswith('giv'):
                             sal_number = extract_bracketed_number(col6)
                             if sal_number:
                                 if sal_number not in word_dict:
                                     word_dict[sal_number] = []
                                     word_indices[sal_number] = []
                                     coref_indices[sal_number] = []
-                                    first_ent_type[sal_number] = ent  # Store only the first entity type for the word span
                                 word_dict[sal_number].append(word)
                                 word_indices[sal_number].append(word_index)
                                 coref_indices[sal_number].append(coref_index)
@@ -98,8 +69,7 @@ def get_sal_tsv(input_paths):
                     # Remove bracketed numbers and concatenate
                     filtered_corefs = [remove_bracketed_number(coref) for coref in coref_indices[key] if coref and coref != "_"]
                     concatenated_corefs = ", ".join(filtered_corefs)
-                    # Use only the first entity type for the first token of the span
-                    file_result.append((concatenated_words, concatenated_indices, concatenated_corefs, first_ent_type[key]))
+                    file_result.append((concatenated_words, concatenated_indices, concatenated_corefs))
         
         except FileNotFoundError as e:
             print(f"FileNotFoundError: {e}")
@@ -109,8 +79,22 @@ def get_sal_tsv(input_paths):
     
     return all_results
 
+# TO DO: results from `align.py` (problem: they are mentions!). And use that to calculate P/R/F with get_sal_tsv
+
 def get_sal_mentions(input_paths):
     all_results = []
+
+    def extract_bracketed_number(s):
+        start = s.find("[")
+        end = s.find("]")
+        if start != -1 and end != -1:
+            return s[start+1:end]
+        return None
+
+    def remove_bracketed_number(s):
+        parts = s.split('|')  # Split by "|" to handle multiple coref indices
+        cleaned_parts = [part.split('[')[0] for part in parts]  # Remove everything after "["
+        return ','.join(cleaned_parts)  # Rejoin the cleaned parts
 
     # Check if input_paths is a directory or a list of file names
     if isinstance(input_paths, str) and os.path.isdir(input_paths):
@@ -124,6 +108,7 @@ def get_sal_mentions(input_paths):
     for filepath in filepaths:
         # Convert to absolute path to ensure it's correct
         filepath = os.path.abspath(filepath)
+        #print(f"Trying to open file: {filepath}")  # Debugging line
         
         file_result = []
         with open(filepath, 'r') as file:
@@ -135,7 +120,7 @@ def get_sal_mentions(input_paths):
                 columns = line.strip().split('\t')
                 if len(columns) < 7:
                     continue
-                
+                # Use coref/gum/tsv
                 word_index = columns[0]
                 word = columns[2]
                 col5_values = columns[4].split('|')
@@ -168,6 +153,8 @@ def get_sal_mentions(input_paths):
 
 def sal_coref_cluster(sal_mentions):
     coref_clusters = []
+
+    # Define a set of pronouns (both upper and lowercase)
     pronouns = {'he', 'she', 'it', 'they', 'we', 'i', 'you', 
                 'him', 'her', 'them', 'us', 'me', 'it', 'there',
                 'his', 'hers', 'its', 'their', 'our', 'my', 'your',
@@ -179,16 +166,46 @@ def sal_coref_cluster(sal_mentions):
         cluster = []
         used_indices = set()
 
+        def find_coref_chain(start_tuple):
+            chain = [start_tuple[0]]  # Start with the word span of the first tuple
+            current_word_index = start_tuple[1].split(',')[0].strip()  # Only use the first word index
+            current_coref_indices = [ci.strip() for ci in start_tuple[2].split(',')]
+
+            while True:
+                found = False
+                for tup in file_result:
+                    if tup in used_indices:
+                        continue
+
+                    words, word_indices, coref_indices = tup
+                    first_word_index = word_indices.split(',')[0].strip()  # Only check the first index
+                    coref_indices_list = [ci.strip() for ci in coref_indices.split(',')]
+
+                    if first_word_index in current_coref_indices:
+                        chain.append(words)
+                        used_indices.add(tup)
+                        current_word_index = first_word_index
+                        current_coref_indices = coref_indices_list
+                        found = True
+                        break
+
+                if not found:
+                    break
+
+            return tuple(chain)
+
         for tup in file_result:
             words, word_indices, coref_indices = tup
 
+            # Handle singletons by only including the word span as a single string
             if coref_indices == "":
+                # Check if the word is a pronoun, and if so, skip this tuple
                 if words not in pronouns:
                     cluster.append((words,))
                 continue
 
             if tup not in used_indices:
-                coref_chain = find_coref_chain(tup, file_result, used_indices)
+                coref_chain = find_coref_chain(tup)
                 if len(coref_chain) > 1:
                     cluster.append(coref_chain)
                 used_indices.add(tup)
