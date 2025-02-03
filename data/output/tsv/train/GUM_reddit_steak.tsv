@@ -1,0 +1,842 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat|salience|identity
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=TIFU by throwing my steak out a window
+1-1	0-4	TIFU	event[1]	new[1]	snsnn[1]	_	coref	46-10[205_1]
+1-2	5-7	by	event[1]	new[1]	snsnn[1]	_	_	_
+1-3	8-16	throwing	event[1]	new[1]	snsnn[1]	_	_	_
+1-4	17-19	my	event[1]|object[2]|person[3]	new[1]|new[2]|acc[3]	snsnn[1]|snsnn[2]|snnnn[3]	_	coref|coref	9-7[47_2]|2-4[8_3]
+1-5	20-25	steak	event[1]|object[2]	new[1]|new[2]	snsnn[1]|snsnn[2]	_	_	_
+1-6	26-29	out	event[1]	new[1]	snsnn[1]	_	_	_
+1-7	30-31	a	event[1]|object[4]	new[1]|new[4]	snsnn[1]|snsnn[4]	_	coref	18-11[80_4]
+1-8	32-38	window	event[1]|object[4]	new[1]|new[4]	snsnn[1]|snsnn[4]	_	_	_
+
+#Text=Last night , my wife 's boss from her brand new job invited us over for dinner .
+2-1	39-43	Last	time[5]	acc[5]	nnnnn[5]	_	_	_
+2-2	44-49	night	time[5]	acc[5]	nnnnn[5]	_	_	_
+2-3	50-51	,	_	_	_	_	_	_	
+2-4	52-54	my	person[6]|person[7]|person[8]	new[6]|new[7]|giv[8]	snnnn[6]|snnnn[7]|nnnnn[8]	_	coref|coref|coref|bridge	5-1[26_6]|2-9[10_7]|3-6[15_8]|2-14[11_8]
+2-5	55-59	wife	person[6]|person[7]	new[6]|new[7]	snnnn[6]|snnnn[7]	_	_	_
+2-6	60-62	's	person[6]|person[7]	new[6]|new[7]	snnnn[6]|snnnn[7]	_	_	_
+2-7	63-67	boss	person[6]	new[6]	snnnn[6]	_	_	_
+2-8	68-72	from	person[6]	new[6]	snnnn[6]	_	_	_
+2-9	73-76	her	person[6]|abstract[9]|person[10]	new[6]|new[9]|giv[10]	snnnn[6]|nnnnn[9]|nnsnn[10]	_	coref|bridge	3-6[14_10]|2-14[11_10]
+2-10	77-82	brand	person[6]|abstract[9]	new[6]|new[9]	snnnn[6]|nnnnn[9]	_	_	_
+2-11	83-86	new	person[6]|abstract[9]	new[6]|new[9]	snnnn[6]|nnnnn[9]	_	_	_
+2-12	87-90	job	person[6]|abstract[9]	new[6]|new[9]	snnnn[6]|nnnnn[9]	_	_	_
+2-13	91-98	invited	_	_	_	_	_	_	
+2-14	99-101	us	person[11]	split[11]	nnnnn[11]	_	coref	17-4[72_11]
+2-15	102-106	over	_	_	_	_	_	_	
+2-16	107-110	for	_	_	_	_	_	_	
+2-17	111-117	dinner	event[12]	new[12]	nnnnn[12]	_	coref|bridge	5-14[32_12]|3-1[13_12]
+2-18	118-119	.	_	_	_	_	_	_	
+
+#Text=On the drive over , my wife reiterated many times to me just how important it was to make a good impression .
+3-1	120-122	On	event[13]	acc[13]	nnnnn[13]	_	_	_
+3-2	123-126	the	event[13]	acc[13]	nnnnn[13]	_	_	_
+3-3	127-132	drive	event[13]	acc[13]	nnnnn[13]	_	_	_
+3-4	133-137	over	event[13]	acc[13]	nnnnn[13]	_	_	_
+3-5	138-139	,	_	_	_	_	_	_	
+3-6	140-142	my	person[14]|person[15]	giv[14]|giv[15]	nnnnn[14]|nnnnn[15]	_	coref|coref	4-6[22_14]|3-12[17_15]
+3-7	143-147	wife	person[14]	giv[14]	nnnnn[14]	_	_	_
+3-8	148-158	reiterated	_	_	_	_	_	_	
+3-9	159-163	many	time[16]	new[16]	nnnnn[16]	_	_	_
+3-10	164-169	times	time[16]	new[16]	nnnnn[16]	_	_	_
+3-11	170-172	to	_	_	_	_	_	_	
+3-12	173-175	me	person[17]	giv[17]	nnnnn[17]	_	coref	4-1[21_17]
+3-13	176-180	just	_	_	_	_	_	_	
+3-14	181-184	how	_	_	_	_	_	_	
+3-15	185-194	important	_	_	_	_	_	_	
+3-16	195-197	it	abstract[18]	new[18]	nsnns[18]	_	coref	3-18[19_18]
+3-17	198-201	was	_	_	_	_	_	_	
+3-18	202-204	to	abstract[19]	giv[19]	nnnnn[19]	_	_	_
+3-19	205-209	make	abstract[19]	giv[19]	nnnnn[19]	_	_	_
+3-20	210-211	a	abstract[19]|abstract[20]	giv[19]|new[20]	nnnnn[19]|nnnnn[20]	_	_	_
+3-21	212-216	good	abstract[19]|abstract[20]	giv[19]|new[20]	nnnnn[19]|nnnnn[20]	_	_	_
+3-22	217-227	impression	abstract[19]|abstract[20]	giv[19]|new[20]	nnnnn[19]|nnnnn[20]	_	_	_
+3-23	228-229	.	_	_	_	_	_	_	
+
+#Text=I scoffed and arrogantly informed my silly wife that I always make good impressions .
+4-1	230-231	I	person[21]	giv[21]	nnnnn[21]	_	coref	4-6[23_21]
+4-2	232-239	scoffed	_	_	_	_	_	_	
+4-3	240-243	and	_	_	_	_	_	_	
+4-4	244-254	arrogantly	_	_	_	_	_	_	
+4-5	255-263	informed	_	_	_	_	_	_	
+4-6	264-266	my	person[22]|person[23]	giv[22]|giv[23]	n____[22]|nnnnn[23]	_	coref|coref	5-1[27_22]|4-10[24_23]
+4-7	267-272	silly	person[22]	giv[22]	n____[22]	_	_	_
+4-8	273-277	wife	person[22]	giv[22]	n____[22]	_	_	_
+4-9	278-282	that	_	_	_	_	_	_	
+4-10	283-284	I	person[24]	giv[24]	nnnnn[24]	_	coref	5-1[28_24]
+4-11	285-291	always	_	_	_	_	_	_	
+4-12	292-296	make	_	_	_	_	_	_	
+4-13	297-301	good	abstract[25]	new[25]	nnnnn[25]	_	_	_
+4-14	302-313	impressions	abstract[25]	new[25]	nnnnn[25]	_	_	_
+4-15	314-315	.	_	_	_	_	_	_	
+
+#Text=My wife 's boss is a single lady in her fifties , so it was just the three of us .
+5-1	316-318	My	person[26]|person[27]|person[28]	giv[26]|giv[27]|giv[28]	n____[26]|nnnnn[27]|nnnnn[28]	_	coref|coref|bridge|coref|bridge	5-6[29_26]|7-14[40_27]|5-17[33_27]|7-4[39_28]|5-17[33_28]
+5-2	319-323	wife	person[26]|person[27]	giv[26]|giv[27]	n____[26]|nnnnn[27]	_	_	_
+5-3	324-326	's	person[26]|person[27]	giv[26]|giv[27]	n____[26]|nnnnn[27]	_	_	_
+5-4	327-331	boss	person[26]	giv[26]	n____[26]	_	_	_
+5-5	332-334	is	_	_	_	_	_	_	
+5-6	335-336	a	person[29]	giv[29]	n____[29]	_	coref	5-10[31_29]
+5-7	337-343	single	person[29]	giv[29]	n____[29]	_	_	_
+5-8	344-348	lady	person[29]	giv[29]	n____[29]	_	_	_
+5-9	349-351	in	person[29]	giv[29]	n____[29]	_	_	_
+5-10	352-355	her	person[29]|time[30]|person[31]	giv[29]|new[30]|giv[31]	n____[29]|nnnnn[30]|nnsnn[31]	_	coref|bridge	7-1[37_31]|5-17[33_31]
+5-11	356-363	fifties	person[29]|time[30]	giv[29]|new[30]	n____[29]|nnnnn[30]	_	_	_
+5-12	364-365	,	_	_	_	_	_	_	
+5-13	366-368	so	_	_	_	_	_	_	
+5-14	369-371	it	event[32]	giv[32]	nsnns[32]	_	_	_
+5-15	372-375	was	_	_	_	_	_	_	
+5-16	376-380	just	_	_	_	_	_	_	
+5-17	381-384	the	person[33]	split[33]	n____[33]	_	coref	6-1[34_33]
+5-18	385-390	three	person[33]	split[33]	n____[33]	_	_	_
+5-19	391-393	of	person[33]	split[33]	n____[33]	_	_	_
+5-20	394-396	us	person[33]	split[33]	n____[33]	_	_	_
+5-21	397-398	.	_	_	_	_	_	_	
+
+#Text=We chitchatted over drinks and salads and seemed to really be hitting it off .
+6-1	399-401	We	person[34]	giv[34]	nnnnn[34]	_	coref	8-17[45_34]
+6-2	402-413	chitchatted	_	_	_	_	_	_	
+6-3	414-418	over	_	_	_	_	_	_	
+6-4	419-425	drinks	substance[35]	new[35]	nnnnn[35]	_	_	_
+6-5	426-429	and	_	_	_	_	_	_	
+6-6	430-436	salads	substance[36]	new[36]	nnnnn[36]	_	_	_
+6-7	437-440	and	_	_	_	_	_	_	
+6-8	441-447	seemed	_	_	_	_	_	_	
+6-9	448-450	to	_	_	_	_	_	_	
+6-10	451-457	really	_	_	_	_	_	_	
+6-11	458-460	be	_	_	_	_	_	_	
+6-12	461-468	hitting	_	_	_	_	_	_	
+6-13	469-471	it	_	_	_	_	_	_	
+6-14	472-475	off	_	_	_	_	_	_	
+6-15	476-477	.	_	_	_	_	_	_	
+
+#Text=She laughed at my well - timed , perfectly - appropriate jokes and my wife seemed pleased .
+7-1	478-481	She	person[37]	giv[37]	nnsnn[37]	_	coref	8-2[42_37]
+7-2	482-489	laughed	_	_	_	_	_	_	
+7-3	490-492	at	_	_	_	_	_	_	
+7-4	493-495	my	event[38]|person[39]	new[38]|giv[39]	nnnnn[38]|nnnnn[39]	_	coref	7-14[41_39]
+7-5	496-500	well	event[38]	new[38]	nnnnn[38]	_	_	_
+7-6	501-502	-	event[38]	new[38]	nnnnn[38]	_	_	_
+7-7	503-508	timed	event[38]	new[38]	nnnnn[38]	_	_	_
+7-8	509-510	,	event[38]	new[38]	nnnnn[38]	_	_	_
+7-9	511-520	perfectly	event[38]	new[38]	nnnnn[38]	_	_	_
+7-10	521-522	-	event[38]	new[38]	nnnnn[38]	_	_	_
+7-11	523-534	appropriate	event[38]	new[38]	nnnnn[38]	_	_	_
+7-12	535-540	jokes	event[38]	new[38]	nnnnn[38]	_	_	_
+7-13	541-544	and	_	_	_	_	_	_	
+7-14	545-547	my	person[40]|person[41]	giv[40]|giv[41]	nnnnn[40]|nnnnn[41]	_	coref|coref	26-1[112_40]|9-2[46_41]
+7-15	548-552	wife	person[40]	giv[40]	nnnnn[40]	_	_	_
+7-16	553-559	seemed	_	_	_	_	_	_	
+7-17	560-567	pleased	_	_	_	_	_	_	
+7-18	568-569	.	_	_	_	_	_	_	
+
+#Text=Soon she brought out the main course , a nice big juicy steak for each of us .
+8-1	570-574	Soon	_	_	_	_	_	_	
+8-2	575-578	she	person[42]	giv[42]	nnsnn[42]	_	coref	17-4[71_42]
+8-3	579-586	brought	_	_	_	_	_	_	
+8-4	587-590	out	_	_	_	_	_	_	
+8-5	591-594	the	object[43]	new[43]	nnnnn[43]	_	coref	8-9[44_43]
+8-6	595-599	main	object[43]	new[43]	nnnnn[43]	_	_	_
+8-7	600-606	course	object[43]	new[43]	nnnnn[43]	_	_	_
+8-8	607-608	,	_	_	_	_	_	_	
+8-9	609-610	a	object[44]	giv[44]	n____[44]	_	_	_
+8-10	611-615	nice	object[44]	giv[44]	n____[44]	_	_	_
+8-11	616-619	big	object[44]	giv[44]	n____[44]	_	_	_
+8-12	620-625	juicy	object[44]	giv[44]	n____[44]	_	_	_
+8-13	626-631	steak	object[44]	giv[44]	n____[44]	_	_	_
+8-14	632-635	for	object[44]	giv[44]	n____[44]	_	_	_
+8-15	636-640	each	object[44]	giv[44]	n____[44]	_	_	_
+8-16	641-643	of	object[44]	giv[44]	n____[44]	_	_	_
+8-17	644-646	us	object[44]|person[45]	giv[44]|giv[45]	n____[44]|nnnnn[45]	_	_	_
+8-18	647-648	.	_	_	_	_	_	_	
+
+#Text=As I began to cut into my steak , I was discouraged to discover how under cooked this steak was .
+9-1	649-651	As	_	_	_	_	_	_	
+9-2	652-653	I	person[46]	giv[46]	nnnnn[46]	_	coref	9-7[48_46]
+9-3	654-659	began	_	_	_	_	_	_	
+9-4	660-662	to	_	_	_	_	_	_	
+9-5	663-666	cut	_	_	_	_	_	_	
+9-6	667-671	into	_	_	_	_	_	_	
+9-7	672-674	my	object[47]|person[48]	giv[47]|giv[48]	nnsnn[47]|nnnnn[48]	_	coref|coref	9-18[50_47]|9-10[49_48]
+9-8	675-680	steak	object[47]	giv[47]	nnsnn[47]	_	_	_
+9-9	681-682	,	_	_	_	_	_	_	
+9-10	683-684	I	person[49]	giv[49]	nnnnn[49]	_	coref	10-3[51_49]
+9-11	685-688	was	_	_	_	_	_	_	
+9-12	689-700	discouraged	_	_	_	_	_	_	
+9-13	701-703	to	_	_	_	_	_	_	
+9-14	704-712	discover	_	_	_	_	_	_	
+9-15	713-716	how	_	_	_	_	_	_	
+9-16	717-722	under	_	_	_	_	_	_	
+9-17	723-729	cooked	_	_	_	_	_	_	
+9-18	730-734	this	object[50]	giv[50]	n____[50]	_	coref	12-1[57_50]
+9-19	735-740	steak	object[50]	giv[50]	n____[50]	_	_	_
+9-20	741-744	was	_	_	_	_	_	_	
+9-21	745-746	.	_	_	_	_	_	_	
+
+#Text=Now , I 've had my fair share of rare steak .
+10-1	747-750	Now	_	_	_	_	_	_	
+10-2	751-752	,	_	_	_	_	_	_	
+10-3	753-754	I	person[51]	giv[51]	nnnnn[51]	_	coref	10-6[53_51]
+10-4	755-758	've	_	_	_	_	_	_	
+10-5	759-762	had	_	_	_	_	_	_	
+10-6	763-765	my	abstract[52]|person[53]	new[52]|giv[53]	nnnnn[52]|nnnnn[53]	_	coref	11-1[55_53]
+10-7	766-770	fair	abstract[52]	new[52]	nnnnn[52]	_	_	_
+10-8	771-776	share	abstract[52]	new[52]	nnnnn[52]	_	_	_
+10-9	777-779	of	abstract[52]	new[52]	nnnnn[52]	_	_	_
+10-10	780-784	rare	abstract[52]|object[54]	new[52]|new[54]	nnnnn[52]|nnnnn[54]	_	_	_
+10-11	785-790	steak	abstract[52]|object[54]	new[52]|new[54]	nnnnn[52]|nnnnn[54]	_	_	_
+10-12	791-792	.	_	_	_	_	_	_	
+
+#Text=I prefer medium , but I can handle rare .
+11-1	793-794	I	person[55]	giv[55]	nnnnn[55]	_	coref	11-6[56_55]
+11-2	795-801	prefer	_	_	_	_	_	_	
+11-3	802-808	medium	_	_	_	_	_	_	
+11-4	809-810	,	_	_	_	_	_	_	
+11-5	811-814	but	_	_	_	_	_	_	
+11-6	815-816	I	person[56]	giv[56]	nnnnn[56]	_	coref	13-1[59_56]
+11-7	817-820	can	_	_	_	_	_	_	
+11-8	821-827	handle	_	_	_	_	_	_	
+11-9	828-832	rare	_	_	_	_	_	_	
+11-10	833-834	.	_	_	_	_	_	_	
+
+#Text=This was several - minutes - on - a - hot - grill short of rare .
+12-1	835-839	This	object[57]	giv[57]	nnnnn[57]	_	coref|bridge	14-25[66_57]|13-6[60_57]
+12-2	840-843	was	_	_	_	_	_	_	
+12-3	844-851	several	time[58]	new[58]	nnnnn[58]	_	_	_
+12-4	852-853	-	time[58]	new[58]	nnnnn[58]	_	_	_
+12-5	854-861	minutes	time[58]	new[58]	nnnnn[58]	_	_	_
+12-6	862-863	-	time[58]	new[58]	nnnnn[58]	_	_	_
+12-7	864-866	on	time[58]	new[58]	nnnnn[58]	_	_	_
+12-8	867-868	-	time[58]	new[58]	nnnnn[58]	_	_	_
+12-9	869-870	a	time[58]	new[58]	nnnnn[58]	_	_	_
+12-10	871-872	-	time[58]	new[58]	nnnnn[58]	_	_	_
+12-11	873-876	hot	time[58]	new[58]	nnnnn[58]	_	_	_
+12-12	877-878	-	time[58]	new[58]	nnnnn[58]	_	_	_
+12-13	879-884	grill	time[58]	new[58]	nnnnn[58]	_	_	_
+12-14	885-890	short	_	_	_	_	_	_	
+12-15	891-893	of	_	_	_	_	_	_	
+12-16	894-898	rare	_	_	_	_	_	_	
+12-17	899-900	.	_	_	_	_	_	_	
+
+#Text=I probably could 've resuscitated the cow had I tried .
+13-1	901-902	I	person[59]	giv[59]	nnnnn[59]	_	coref	13-9[61_59]
+13-2	903-911	probably	_	_	_	_	_	_	
+13-3	912-917	could	_	_	_	_	_	_	
+13-4	918-921	've	_	_	_	_	_	_	
+13-5	922-934	resuscitated	_	_	_	_	_	_	
+13-6	935-938	the	animal[60]	acc[60]	nnnnn[60]	_	_	_
+13-7	939-942	cow	animal[60]	acc[60]	nnnnn[60]	_	_	_
+13-8	943-946	had	_	_	_	_	_	_	
+13-9	947-948	I	person[61]	giv[61]	nnnnn[61]	_	coref	14-3[62_61]
+13-10	949-954	tried	_	_	_	_	_	_	
+13-11	955-956	.	_	_	_	_	_	_	
+
+#Text=Instead , I sat there fidgeting with my knife and fork , worrying about how I was going to get away with not eating this steak .
+14-1	957-964	Instead	_	_	_	_	_	_	
+14-2	965-966	,	_	_	_	_	_	_	
+14-3	967-968	I	person[62]	giv[62]	nnnnn[62]	_	coref	14-8[64_62]
+14-4	969-972	sat	_	_	_	_	_	_	
+14-5	973-978	there	_	_	_	_	_	_	
+14-6	979-988	fidgeting	_	_	_	_	_	_	
+14-7	989-993	with	_	_	_	_	_	_	
+14-8	994-996	my	object[63]|person[64]	new[63]|giv[64]	nnnnn[63]|nnnnn[64]	_	coref	14-16[65_64]
+14-9	997-1002	knife	object[63]	new[63]	nnnnn[63]	_	_	_
+14-10	1003-1006	and	object[63]	new[63]	nnnnn[63]	_	_	_
+14-11	1007-1011	fork	object[63]	new[63]	nnnnn[63]	_	_	_
+14-12	1012-1013	,	_	_	_	_	_	_	
+14-13	1014-1022	worrying	_	_	_	_	_	_	
+14-14	1023-1028	about	_	_	_	_	_	_	
+14-15	1029-1032	how	_	_	_	_	_	_	
+14-16	1033-1034	I	person[65]	giv[65]	nnnnn[65]	_	coref	16-3[68_65]
+14-17	1035-1038	was	_	_	_	_	_	_	
+14-18	1039-1044	going	_	_	_	_	_	_	
+14-19	1045-1047	to	_	_	_	_	_	_	
+14-20	1048-1051	get	_	_	_	_	_	_	
+14-21	1052-1056	away	_	_	_	_	_	_	
+14-22	1057-1061	with	_	_	_	_	_	_	
+14-23	1062-1065	not	_	_	_	_	_	_	
+14-24	1066-1072	eating	_	_	_	_	_	_	
+14-25	1073-1077	this	object[66]	giv[66]	n____[66]	_	coref	16-11[70_66]
+14-26	1078-1083	steak	object[66]	giv[66]	n____[66]	_	_	_
+14-27	1084-1085	.	_	_	_	_	_	_	
+
+#Text=Claim vegan-ism ?
+15-1	1086-1091	Claim	_	_	_	_	_	_	
+15-2	1092-1101	vegan-ism	abstract[67]	new[67]	nnnnn[67]	_	_	_
+15-3	1102-1103	?	_	_	_	_	_	_	
+
+#Text=No , I 'd already feigned great enthusiasm upon seeing the steak .
+16-1	1104-1106	No	_	_	_	_	_	_	
+16-2	1107-1108	,	_	_	_	_	_	_	
+16-3	1109-1110	I	person[68]	giv[68]	nnnnn[68]	_	coref	18-2[77_68]
+16-4	1111-1113	'd	_	_	_	_	_	_	
+16-5	1114-1121	already	_	_	_	_	_	_	
+16-6	1122-1129	feigned	_	_	_	_	_	_	
+16-7	1130-1135	great	abstract[69]	new[69]	nnnnn[69]	_	_	_
+16-8	1136-1146	enthusiasm	abstract[69]	new[69]	nnnnn[69]	_	_	_
+16-9	1147-1151	upon	_	_	_	_	_	_	
+16-10	1152-1158	seeing	_	_	_	_	_	_	
+16-11	1159-1162	the	object[70]	giv[70]	n____[70]	_	coref	21-3[92_70]
+16-12	1163-1168	steak	object[70]	giv[70]	n____[70]	_	_	_
+16-13	1169-1170	.	_	_	_	_	_	_	
+
+#Text=Just then , our hostess excused herself to the kitchen to take care of some dessert preparations .
+17-1	1171-1175	Just	_	_	_	_	_	_	
+17-2	1176-1180	then	_	_	_	_	_	_	
+17-3	1181-1182	,	_	_	_	_	_	_	
+17-4	1183-1186	our	person[71]|person[72]	giv[71]|giv[72]	n____[71]|nnnnn[72]	_	coref	17-7[73_71]
+17-5	1187-1194	hostess	person[71]	giv[71]	n____[71]	_	_	_
+17-6	1195-1202	excused	_	_	_	_	_	_	
+17-7	1203-1210	herself	person[73]	giv[73]	n____[73]	_	coref	19-11[88_73]
+17-8	1211-1213	to	_	_	_	_	_	_	
+17-9	1214-1217	the	place[74]	new[74]	nnnnn[74]	_	_	_
+17-10	1218-1225	kitchen	place[74]	new[74]	nnnnn[74]	_	_	_
+17-11	1226-1228	to	_	_	_	_	_	_	
+17-12	1229-1233	take	_	_	_	_	_	_	
+17-13	1234-1238	care	_	_	_	_	_	_	
+17-14	1239-1241	of	_	_	_	_	_	_	
+17-15	1242-1246	some	abstract[75]	new[75]	nnnnn[75]	_	_	_
+17-16	1247-1254	dessert	abstract[75]|object[76]	new[75]|new[76]	nnnnn[75]|nnnnn[76]	_	_	_
+17-17	1255-1267	preparations	abstract[75]	new[75]	nnnnn[75]	_	_	_
+17-18	1268-1269	.	_	_	_	_	_	_	
+
+#Text=As I looked across the fancy dining room table at the open window of this 3rd story apartment ... a cartoon light bulb appeared over my head .
+18-1	1270-1272	As	_	_	_	_	_	_	
+18-2	1273-1274	I	person[77]	giv[77]	nnnnn[77]	_	coref	18-26[85_77]
+18-3	1275-1281	looked	_	_	_	_	_	_	
+18-4	1282-1288	across	_	_	_	_	_	_	
+18-5	1289-1292	the	object[78]	new[78]	nnnnn[78]	_	_	_
+18-6	1293-1298	fancy	object[78]	new[78]	nnnnn[78]	_	_	_
+18-7	1299-1305	dining	object[78]|place[79]	new[78]|new[79]	nnnnn[78]|nnnnn[79]	_	_	_
+18-8	1306-1310	room	object[78]|place[79]	new[78]|new[79]	nnnnn[78]|nnnnn[79]	_	_	_
+18-9	1311-1316	table	object[78]	new[78]	nnnnn[78]	_	_	_
+18-10	1317-1319	at	_	_	_	_	_	_	
+18-11	1320-1323	the	object[80]	giv[80]	n____[80]	_	coref	21-24[98_80]
+18-12	1324-1328	open	object[80]	giv[80]	n____[80]	_	_	_
+18-13	1329-1335	window	object[80]	giv[80]	n____[80]	_	_	_
+18-14	1336-1338	of	object[80]	giv[80]	n____[80]	_	_	_
+18-15	1339-1343	this	object[80]|place[81]	giv[80]|new[81]	n____[80]|nnnnn[81]	_	_	_
+18-16	1344-1347	3rd	object[80]|place[81]|place[82]	giv[80]|new[81]|new[82]	n____[80]|nnnnn[81]|nnnnn[82]	_	_	_
+18-17	1348-1353	story	object[80]|place[81]|place[82]	giv[80]|new[81]|new[82]	n____[80]|nnnnn[81]|nnnnn[82]	_	_	_
+18-18	1354-1363	apartment	object[80]|place[81]	giv[80]|new[81]	n____[80]|nnnnn[81]	_	_	_
+18-19	1364-1367	...	_	_	_	_	_	_	
+18-20	1368-1369	a	object[83]	new[83]	nnnnn[83]	_	_	_
+18-21	1370-1377	cartoon	object[83]	new[83]	nnnnn[83]	_	_	_
+18-22	1378-1383	light	object[83]	new[83]	nnnnn[83]	_	_	_
+18-23	1384-1388	bulb	object[83]	new[83]	nnnnn[83]	_	_	_
+18-24	1389-1397	appeared	_	_	_	_	_	_	
+18-25	1398-1402	over	_	_	_	_	_	_	
+18-26	1403-1405	my	object[84]|person[85]	new[84]|giv[85]	nnnnn[84]|nnnnn[85]	_	coref	19-1[86_85]
+18-27	1406-1410	head	object[84]	new[84]	nnnnn[84]	_	_	_
+18-28	1411-1412	.	_	_	_	_	_	_	
+
+#Text=I knew I had to be decisive , realizing that she could return at any moment .
+19-1	1413-1414	I	person[86]	giv[86]	nnnnn[86]	_	coref	19-3[87_86]
+19-2	1415-1419	knew	_	_	_	_	_	_	
+19-3	1420-1421	I	person[87]	giv[87]	nnnnn[87]	_	coref	20-1[90_87]
+19-4	1422-1425	had	_	_	_	_	_	_	
+19-5	1426-1428	to	_	_	_	_	_	_	
+19-6	1429-1431	be	_	_	_	_	_	_	
+19-7	1432-1440	decisive	_	_	_	_	_	_	
+19-8	1441-1442	,	_	_	_	_	_	_	
+19-9	1443-1452	realizing	_	_	_	_	_	_	
+19-10	1453-1457	that	_	_	_	_	_	_	
+19-11	1458-1461	she	person[88]	giv[88]	nnsnn[88]	_	coref	28-1[129_88]
+19-12	1462-1467	could	_	_	_	_	_	_	
+19-13	1468-1474	return	_	_	_	_	_	_	
+19-14	1475-1477	at	_	_	_	_	_	_	
+19-15	1478-1481	any	time[89]	new[89]	nnnnn[89]	_	_	_
+19-16	1482-1488	moment	time[89]	new[89]	nnnnn[89]	_	_	_
+19-17	1489-1490	.	_	_	_	_	_	_	
+
+#Text=I committed .
+20-1	1491-1492	I	person[90]	giv[90]	nnnnn[90]	_	coref	21-1[91_90]
+20-2	1493-1502	committed	_	_	_	_	_	_	
+20-3	1503-1504	.	_	_	_	_	_	_	
+
+#Text=I grabbed the steak with my hand , gently shook off the juice and executed a perfect throw right through the center of the open window .
+21-1	1505-1506	I	person[91]	giv[91]	nnnnn[91]	_	coref	21-6[94_91]
+21-2	1507-1514	grabbed	_	_	_	_	_	_	
+21-3	1515-1518	the	object[92]	giv[92]	n____[92]	_	coref	25-5[107_92]
+21-4	1519-1524	steak	object[92]	giv[92]	n____[92]	_	_	_
+21-5	1525-1529	with	_	_	_	_	_	_	
+21-6	1530-1532	my	object[93]|person[94]	new[93]|giv[94]	nnnnn[93]|nnnnn[94]	_	coref	25-5[108_94]
+21-7	1533-1537	hand	object[93]	new[93]	nnnnn[93]	_	_	_
+21-8	1538-1539	,	_	_	_	_	_	_	
+21-9	1540-1546	gently	_	_	_	_	_	_	
+21-10	1547-1552	shook	_	_	_	_	_	_	
+21-11	1553-1556	off	_	_	_	_	_	_	
+21-12	1557-1560	the	substance[95]	new[95]	nnnnn[95]	_	_	_
+21-13	1561-1566	juice	substance[95]	new[95]	nnnnn[95]	_	_	_
+21-14	1567-1570	and	_	_	_	_	_	_	
+21-15	1571-1579	executed	_	_	_	_	_	_	
+21-16	1580-1581	a	event[96]	new[96]	nnnnn[96]	_	_	_
+21-17	1582-1589	perfect	event[96]	new[96]	nnnnn[96]	_	_	_
+21-18	1590-1595	throw	event[96]	new[96]	nnnnn[96]	_	_	_
+21-19	1596-1601	right	_	_	_	_	_	_	
+21-20	1602-1609	through	_	_	_	_	_	_	
+21-21	1610-1613	the	place[97]	new[97]	nnnnn[97]	_	_	_
+21-22	1614-1620	center	place[97]	new[97]	nnnnn[97]	_	_	_
+21-23	1621-1623	of	place[97]	new[97]	nnnnn[97]	_	_	_
+21-24	1624-1627	the	place[97]|object[98]	new[97]|giv[98]	nnnnn[97]|n____[98]	_	coref	23-1[101_98]
+21-25	1628-1632	open	place[97]|object[98]	new[97]|giv[98]	nnnnn[97]|n____[98]	_	_	_
+21-26	1633-1639	window	place[97]|object[98]	new[97]|giv[98]	nnnnn[97]|n____[98]	_	_	_
+21-27	1640-1641	.	_	_	_	_	_	_	
+
+#Text=Here 's the big time FU .
+22-1	1642-1646	Here	event[99]	new[99]	nnnnn[99]	_	coref	22-3[100_99]
+22-2	1647-1649	's	_	_	_	_	_	_	
+22-3	1650-1653	the	event[100]	giv[100]	n____[100]	_	_	_
+22-4	1654-1657	big	event[100]	giv[100]	n____[100]	_	_	_
+22-5	1658-1662	time	event[100]	giv[100]	n____[100]	_	_	_
+22-6	1663-1665	FU	event[100]	giv[100]	n____[100]	_	_	_
+22-7	1666-1667	.	_	_	_	_	_	_	
+
+#Text=The window was n't open .
+23-1	1668-1671	The	object[101]	giv[101]	n____[101]	_	coref	24-1[102_101]
+23-2	1672-1678	window	object[101]	giv[101]	n____[101]	_	_	_
+23-3	1679-1682	was	_	_	_	_	_	_	
+23-4	1683-1686	n't	_	_	_	_	_	_	
+23-5	1687-1691	open	_	_	_	_	_	_	
+23-6	1692-1693	.	_	_	_	_	_	_	
+
+#Text=It was the cleanest fricking window you 've ever seen in your life .
+24-1	1694-1696	It	object[102]	giv[102]	nsnns[102]	_	coref	24-3[103_102]
+24-2	1697-1700	was	_	_	_	_	_	_	
+24-3	1701-1704	the	object[103]	giv[103]	n____[103]	_	coref	25-14[109_103]
+24-4	1705-1713	cleanest	object[103]	giv[103]	n____[103]	_	_	_
+24-5	1714-1722	fricking	object[103]	giv[103]	n____[103]	_	_	_
+24-6	1723-1729	window	object[103]	giv[103]	n____[103]	_	_	_
+24-7	1730-1733	you	person[104]	acc[104]	nnnnn[104]	_	coref	24-12[106_104]
+24-8	1734-1737	've	_	_	_	_	_	_	
+24-9	1738-1742	ever	_	_	_	_	_	_	
+24-10	1743-1747	seen	_	_	_	_	_	_	
+24-11	1748-1750	in	_	_	_	_	_	_	
+24-12	1751-1755	your	abstract[105]|person[106]	new[105]|giv[106]	nnnnn[105]|nnnnn[106]	_	_	_
+24-13	1756-1760	life	abstract[105]	new[105]	nnnnn[105]	_	_	_
+24-14	1761-1762	.	_	_	_	_	_	_	
+
+#Text=That is , until my mostly raw slab of steak slammed up against it and slowly slid down leaving a trail of bloody juice in its wake .
+25-1	1763-1767	That	_	_	_	_	_	_	
+25-2	1768-1770	is	_	_	_	_	_	_	
+25-3	1771-1772	,	_	_	_	_	_	_	
+25-4	1773-1778	until	_	_	_	_	_	_	
+25-5	1779-1781	my	object[107]|person[108]	giv[107]|giv[108]	n____[107]|nnnnn[108]	_	coref|coref	25-26[111_107]|26-15[115_108]
+25-6	1782-1788	mostly	object[107]	giv[107]	n____[107]	_	_	_
+25-7	1789-1792	raw	object[107]	giv[107]	n____[107]	_	_	_
+25-8	1793-1797	slab	object[107]	giv[107]	n____[107]	_	_	_
+25-9	1798-1800	of	object[107]	giv[107]	n____[107]	_	_	_
+25-10	1801-1806	steak	object[107]	giv[107]	n____[107]	_	_	_
+25-11	1807-1814	slammed	_	_	_	_	_	_	
+25-12	1815-1817	up	_	_	_	_	_	_	
+25-13	1818-1825	against	_	_	_	_	_	_	
+25-14	1826-1828	it	object[109]	giv[109]	nsnns[109]	_	coref	28-14[135_109]
+25-15	1829-1832	and	_	_	_	_	_	_	
+25-16	1833-1839	slowly	_	_	_	_	_	_	
+25-17	1840-1844	slid	_	_	_	_	_	_	
+25-18	1845-1849	down	_	_	_	_	_	_	
+25-19	1850-1857	leaving	_	_	_	_	_	_	
+25-20	1858-1859	a	substance[110]	new[110]	nnsnn[110]	_	coref	29-15[141_110]
+25-21	1860-1865	trail	substance[110]	new[110]	nnsnn[110]	_	_	_
+25-22	1866-1868	of	substance[110]	new[110]	nnsnn[110]	_	_	_
+25-23	1869-1875	bloody	substance[110]	new[110]	nnsnn[110]	_	_	_
+25-24	1876-1881	juice	substance[110]	new[110]	nnsnn[110]	_	_	_
+25-25	1882-1884	in	_	_	_	_	_	_	
+25-26	1885-1888	its	object[111]	giv[111]	nnnnn[111]	_	coref	28-10[134_111]
+25-27	1889-1893	wake	_	_	_	_	_	_	
+25-28	1894-1895	.	_	_	_	_	_	_	
+
+#Text=My wife - who's steak was a nice medium rare and was unaware of my predicament - turned , jaw dropped , and stared at me like I was an alien from another planet .
+26-1	1896-1898	My	person[112]	giv[112]	n____[112]	_	coref|bridge	27-34[127_112]|26-20[116_112]
+26-2	1899-1903	wife	person[112]	giv[112]	n____[112]	_	_	_
+26-3	1904-1905	-	person[112]	giv[112]	n____[112]	_	_	_
+26-4	1906-1911	who's	person[112]|object[113]	giv[112]|new[113]	n____[112]|nnnnn[113]	_	_	_
+26-5	1912-1917	steak	person[112]|object[113]	giv[112]|new[113]	n____[112]|nnnnn[113]	_	_	_
+26-6	1918-1921	was	person[112]	giv[112]	n____[112]	_	_	_
+26-7	1922-1923	a	person[112]	giv[112]	n____[112]	_	_	_
+26-8	1924-1928	nice	person[112]	giv[112]	n____[112]	_	_	_
+26-9	1929-1935	medium	person[112]	giv[112]	n____[112]	_	_	_
+26-10	1936-1940	rare	person[112]	giv[112]	n____[112]	_	_	_
+26-11	1941-1944	and	person[112]	giv[112]	n____[112]	_	_	_
+26-12	1945-1948	was	person[112]	giv[112]	n____[112]	_	_	_
+26-13	1949-1956	unaware	person[112]	giv[112]	n____[112]	_	_	_
+26-14	1957-1959	of	person[112]	giv[112]	n____[112]	_	_	_
+26-15	1960-1962	my	person[112]|abstract[114]|person[115]	giv[112]|new[114]|giv[115]	n____[112]|nnnnn[114]|nnnnn[115]	_	coref	26-26[118_115]
+26-16	1963-1974	predicament	person[112]|abstract[114]	giv[112]|new[114]	n____[112]|nnnnn[114]	_	_	_
+26-17	1975-1976	-	_	_	_	_	_	_	
+26-18	1977-1983	turned	_	_	_	_	_	_	
+26-19	1984-1985	,	_	_	_	_	_	_	
+26-20	1986-1989	jaw	object[116]	acc[116]	nnnnn[116]	_	_	_
+26-21	1990-1997	dropped	_	_	_	_	_	_	
+26-22	1998-1999	,	_	_	_	_	_	_	
+26-23	2000-2003	and	_	_	_	_	_	_	
+26-24	2004-2010	stared	event[117]	new[117]	nnnnn[117]	_	coref	27-1[122_117]
+26-25	2011-2013	at	event[117]	new[117]	nnnnn[117]	_	_	_
+26-26	2014-2016	me	event[117]|person[118]	new[117]|giv[118]	nnnnn[117]|nnnnn[118]	_	coref	26-28[119_118]
+26-27	2017-2021	like	event[117]	new[117]	nnnnn[117]	_	_	_
+26-28	2022-2023	I	event[117]|person[119]	new[117]|giv[119]	nnnnn[117]|nnnnn[119]	_	coref	27-24[126_119]
+26-29	2024-2027	was	event[117]	new[117]	nnnnn[117]	_	_	_
+26-30	2028-2030	an	event[117]|animal[120]	new[117]|new[120]	nnnnn[117]|nnnnn[120]	_	_	_
+26-31	2031-2036	alien	event[117]|animal[120]	new[117]|new[120]	nnnnn[117]|nnnnn[120]	_	_	_
+26-32	2037-2041	from	event[117]|animal[120]	new[117]|new[120]	nnnnn[117]|nnnnn[120]	_	_	_
+26-33	2042-2049	another	event[117]|animal[120]|place[121]	new[117]|new[120]|new[121]	nnnnn[117]|nnnnn[120]|nnnnn[121]	_	_	_
+26-34	2050-2056	planet	event[117]|animal[120]|place[121]	new[117]|new[120]|new[121]	nnnnn[117]|nnnnn[120]|nnnnn[121]	_	_	_
+26-35	2057-2058	.	_	_	_	_	_	_	
+
+#Text=This look then slowly morphed into more of a there - is - no - place - on - this - planet - you - can - ever - hide - from - me expression of demonic anger .
+27-1	2059-2063	This	event[122]	giv[122]	n____[122]	_	_	_
+27-2	2064-2068	look	event[122]	giv[122]	n____[122]	_	_	_
+27-3	2069-2073	then	_	_	_	_	_	_	
+27-4	2074-2080	slowly	_	_	_	_	_	_	
+27-5	2081-2088	morphed	_	_	_	_	_	_	
+27-6	2089-2093	into	_	_	_	_	_	_	
+27-7	2094-2098	more	_	_	_	_	_	_	
+27-8	2099-2101	of	_	_	_	_	_	_	
+27-9	2102-2103	a	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-10	2104-2109	there	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-11	2110-2111	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-12	2112-2114	is	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-13	2115-2116	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-14	2117-2119	no	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-15	2120-2121	-	abstract[123]|place[124]	new[123]|new[124]	nnnnn[123]|nnnnn[124]	_	_	_
+27-16	2122-2127	place	abstract[123]|place[124]	new[123]|new[124]	nnnnn[123]|nnnnn[124]	_	_	_
+27-17	2128-2129	-	abstract[123]|place[124]	new[123]|new[124]	nnnnn[123]|nnnnn[124]	_	_	_
+27-18	2130-2132	on	abstract[123]|place[124]	new[123]|new[124]	nnnnn[123]|nnnnn[124]	_	_	_
+27-19	2133-2134	-	abstract[123]|place[124]|place[125]	new[123]|new[124]|acc[125]	nnnnn[123]|nnnnn[124]|nnnnn[125]	_	_	_
+27-20	2135-2139	this	abstract[123]|place[124]|place[125]	new[123]|new[124]|acc[125]	nnnnn[123]|nnnnn[124]|nnnnn[125]	_	_	_
+27-21	2140-2141	-	abstract[123]|place[124]|place[125]	new[123]|new[124]|acc[125]	nnnnn[123]|nnnnn[124]|nnnnn[125]	_	_	_
+27-22	2142-2148	planet	abstract[123]|place[124]|place[125]	new[123]|new[124]|acc[125]	nnnnn[123]|nnnnn[124]|nnnnn[125]	_	_	_
+27-23	2149-2150	-	abstract[123]|place[124]|place[125]	new[123]|new[124]|acc[125]	nnnnn[123]|nnnnn[124]|nnnnn[125]	_	_	_
+27-24	2151-2154	you	abstract[123]|person[126]	new[123]|giv[126]	nnnnn[123]|nnnnn[126]	_	coref	28-1[131_126]
+27-25	2155-2156	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-26	2157-2160	can	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-27	2161-2162	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-28	2163-2167	ever	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-29	2168-2169	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-30	2170-2174	hide	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-31	2175-2176	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-32	2177-2181	from	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-33	2182-2183	-	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-34	2184-2186	me	abstract[123]|person[127]	new[123]|giv[127]	nnnnn[123]|nnnnn[127]	_	coref	28-1[130_127]
+27-35	2187-2197	expression	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-36	2198-2200	of	abstract[123]	new[123]	nnnnn[123]	_	_	_
+27-37	2201-2208	demonic	abstract[123]|abstract[128]	new[123]|new[128]	nnnnn[123]|nnnnn[128]	_	_	_
+27-38	2209-2214	anger	abstract[123]|abstract[128]	new[123]|new[128]	nnnnn[123]|nnnnn[128]	_	_	_
+27-39	2215-2216	.	_	_	_	_	_	_	
+
+#Text=My wife 's boss heard the thud of the steak - on - window impact and came quickly .
+28-1	2217-2219	My	person[129]|person[130]|person[131]	giv[129]|giv[130]|giv[131]	n____[129]|nnnnn[130]|nnnnn[131]	_	coref|coref|coref	29-1[136_129]|36-11[164_130]|29-19[144_131]
+28-2	2220-2224	wife	person[129]|person[130]	giv[129]|giv[130]	n____[129]|nnnnn[130]	_	_	_
+28-3	2225-2227	's	person[129]|person[130]	giv[129]|giv[130]	n____[129]|nnnnn[130]	_	_	_
+28-4	2228-2232	boss	person[129]	giv[129]	n____[129]	_	_	_
+28-5	2233-2238	heard	_	_	_	_	_	_	
+28-6	2239-2242	the	event[132]	new[132]	nnnnn[132]	_	_	_
+28-7	2243-2247	thud	event[132]	new[132]	nnnnn[132]	_	_	_
+28-8	2248-2250	of	event[132]	new[132]	nnnnn[132]	_	_	_
+28-9	2251-2254	the	event[132]|event[133]	new[132]|new[133]	nnnnn[132]|nnnnn[133]	_	_	_
+28-10	2255-2260	steak	event[132]|event[133]|object[134]	new[132]|new[133]|giv[134]	nnnnn[132]|nnnnn[133]|n____[134]	_	coref	29-7[139_134]
+28-11	2261-2262	-	event[132]|event[133]	new[132]|new[133]	nnnnn[132]|nnnnn[133]	_	_	_
+28-12	2263-2265	on	event[132]|event[133]	new[132]|new[133]	nnnnn[132]|nnnnn[133]	_	_	_
+28-13	2266-2267	-	event[132]|event[133]	new[132]|new[133]	nnnnn[132]|nnnnn[133]	_	_	_
+28-14	2268-2274	window	event[132]|event[133]|object[135]	new[132]|new[133]|giv[135]	nnnnn[132]|nnnnn[133]|n____[135]	_	coref	41-23[182_135]
+28-15	2275-2281	impact	event[132]|event[133]	new[132]|new[133]	nnnnn[132]|nnnnn[133]	_	_	_
+28-16	2282-2285	and	_	_	_	_	_	_	
+28-17	2286-2290	came	_	_	_	_	_	_	
+28-18	2291-2298	quickly	_	_	_	_	_	_	
+28-19	2299-2300	.	_	_	_	_	_	_	
+
+#Text=She took in the scene , the steak sitting on the window sill , the blood trail , my empty plate , and then gave me an inquisitive , puzzled look .
+29-1	2301-2304	She	person[136]	giv[136]	nnsnn[136]	_	bridge	41-1[176_136]
+29-2	2305-2309	took	_	_	_	_	_	_	
+29-3	2310-2312	in	_	_	_	_	_	_	
+29-4	2313-2316	the	abstract[137]	new[137]	nnnnn[137]	_	coref	29-7[138_137]
+29-5	2317-2322	scene	abstract[137]	new[137]	nnnnn[137]	_	_	_
+29-6	2323-2324	,	_	_	_	_	_	_	
+29-7	2325-2328	the	abstract[138]|object[139]	giv[138]|giv[139]	n____[138]|n____[139]	_	coref	35-5[161_139]
+29-8	2329-2334	steak	abstract[138]|object[139]	giv[138]|giv[139]	n____[138]|n____[139]	_	_	_
+29-9	2335-2342	sitting	abstract[138]	giv[138]	n____[138]	_	_	_
+29-10	2343-2345	on	abstract[138]	giv[138]	n____[138]	_	_	_
+29-11	2346-2349	the	abstract[138]|place[140]	giv[138]|new[140]	n____[138]|nnnnn[140]	_	_	_
+29-12	2350-2356	window	abstract[138]|place[140]	giv[138]|new[140]	n____[138]|nnnnn[140]	_	_	_
+29-13	2357-2361	sill	abstract[138]|place[140]	giv[138]|new[140]	n____[138]|nnnnn[140]	_	_	_
+29-14	2362-2363	,	abstract[138]	giv[138]	n____[138]	_	_	_
+29-15	2364-2367	the	abstract[138]|substance[141]	giv[138]|giv[141]	n____[138]|s____[141]	_	_	_
+29-16	2368-2373	blood	abstract[138]|substance[141]|substance[142]	giv[138]|giv[141]|new[142]	n____[138]|s____[141]|snsnn[142]	_	coref	41-20[181_142]
+29-17	2374-2379	trail	abstract[138]|substance[141]	giv[138]|giv[141]	n____[138]|s____[141]	_	_	_
+29-18	2380-2381	,	abstract[138]	giv[138]	n____[138]	_	_	_
+29-19	2382-2384	my	abstract[138]|object[143]|person[144]	giv[138]|new[143]|giv[144]	n____[138]|nnnnn[143]|nnnnn[144]	_	coref	29-26[145_144]
+29-20	2385-2390	empty	abstract[138]|object[143]	giv[138]|new[143]	n____[138]|nnnnn[143]	_	_	_
+29-21	2391-2396	plate	abstract[138]|object[143]	giv[138]|new[143]	n____[138]|nnnnn[143]	_	_	_
+29-22	2397-2398	,	_	_	_	_	_	_	
+29-23	2399-2402	and	_	_	_	_	_	_	
+29-24	2403-2407	then	_	_	_	_	_	_	
+29-25	2408-2412	gave	_	_	_	_	_	_	
+29-26	2413-2415	me	person[145]	giv[145]	nnnnn[145]	_	coref	30-1[147_145]
+29-27	2416-2418	an	abstract[146]	new[146]	nnnnn[146]	_	_	_
+29-28	2419-2430	inquisitive	abstract[146]	new[146]	nnnnn[146]	_	_	_
+29-29	2431-2432	,	abstract[146]	new[146]	nnnnn[146]	_	_	_
+29-30	2433-2440	puzzled	abstract[146]	new[146]	nnnnn[146]	_	_	_
+29-31	2441-2445	look	abstract[146]	new[146]	nnnnn[146]	_	_	_
+29-32	2446-2447	.	_	_	_	_	_	_	
+
+#Text=I just did n't know what to say .
+30-1	2448-2449	I	person[147]	giv[147]	nnnnn[147]	_	coref	32-5[153_147]
+30-2	2450-2454	just	_	_	_	_	_	_	
+30-3	2455-2458	did	_	_	_	_	_	_	
+30-4	2459-2462	n't	_	_	_	_	_	_	
+30-5	2463-2467	know	_	_	_	_	_	_	
+30-6	2468-2472	what	_	_	_	_	_	_	
+30-7	2473-2475	to	_	_	_	_	_	_	
+30-8	2476-2479	say	_	_	_	_	_	_	
+30-9	2480-2481	.	_	_	_	_	_	_	
+
+#Text=It felt like a minute of silence , but was probably 3 or 4 seconds .
+31-1	2482-2484	It	time[148]	new[148]	nsnns[148]	_	coref	31-12[151_148]
+31-2	2485-2489	felt	_	_	_	_	_	_	
+31-3	2490-2494	like	_	_	_	_	_	_	
+31-4	2495-2496	a	time[149]	new[149]	nnnnn[149]	_	_	_
+31-5	2497-2503	minute	time[149]	new[149]	nnnnn[149]	_	_	_
+31-6	2504-2506	of	time[149]	new[149]	nnnnn[149]	_	_	_
+31-7	2507-2514	silence	time[149]|abstract[150]	new[149]|new[150]	nnnnn[149]|nnnnn[150]	_	_	_
+31-8	2515-2516	,	_	_	_	_	_	_	
+31-9	2517-2520	but	_	_	_	_	_	_	
+31-10	2521-2524	was	_	_	_	_	_	_	
+31-11	2525-2533	probably	_	_	_	_	_	_	
+31-12	2534-2535	3	time[151]	giv[151]	nnnnn[151]	_	_	_
+31-13	2536-2538	or	time[151]	giv[151]	nnnnn[151]	_	_	_
+31-14	2539-2540	4	time[151]	giv[151]	nnnnn[151]	_	_	_
+31-15	2541-2548	seconds	time[151]	giv[151]	nnnnn[151]	_	_	_
+31-16	2549-2550	.	_	_	_	_	_	_	
+
+#Text=Finally , the best I could manage was " I ... I 'm so sorry .
+32-1	2551-2558	Finally	_	_	_	_	_	_	
+32-2	2559-2560	,	_	_	_	_	_	_	
+32-3	2561-2564	the	abstract[152]	new[152]	nnnnn[152]	_	coref	32-10[154_152]
+32-4	2565-2569	best	abstract[152]	new[152]	nnnnn[152]	_	_	_
+32-5	2570-2571	I	abstract[152]|person[153]	new[152]|giv[153]	nnnnn[152]|nnnnn[153]	_	coref	32-10[155_153]
+32-6	2572-2577	could	abstract[152]	new[152]	nnnnn[152]	_	_	_
+32-7	2578-2584	manage	abstract[152]	new[152]	nnnnn[152]	_	_	_
+32-8	2585-2588	was	_	_	_	_	_	_	
+32-9	2589-2590	"	_	_	_	_	_	_	
+32-10	2591-2592	I	abstract[154]|person[155]	giv[154]|giv[155]	n____[154]|nnnnn[155]	_	coref	32-12[156_155]
+32-11	2593-2596	...	abstract[154]	giv[154]	n____[154]	_	_	_
+32-12	2597-2598	I	abstract[154]|person[156]	giv[154]|giv[156]	n____[154]|nnnnn[156]	_	coref	33-1[157_156]
+32-13	2599-2601	'm	abstract[154]	giv[154]	n____[154]	_	_	_
+32-14	2602-2604	so	abstract[154]	giv[154]	n____[154]	_	_	_
+32-15	2605-2610	sorry	abstract[154]	giv[154]	n____[154]	_	_	_
+32-16	2611-2612	.	_	_	_	_	_	_	
+
+#Text=I am such a clutz ...
+33-1	2613-2614	I	person[157]	giv[157]	nnnnn[157]	_	coref	33-3[158_157]
+33-2	2615-2617	am	_	_	_	_	_	_	
+33-3	2618-2622	such	person[158]	giv[158]	n____[158]	_	coref	34-1[159_158]
+33-4	2623-2624	a	person[158]	giv[158]	n____[158]	_	_	_
+33-5	2625-2630	clutz	person[158]	giv[158]	n____[158]	_	_	_
+33-6	2631-2634	...	_	_	_	_	_	_	
+
+#Text=I do n't know ...
+34-1	2635-2636	I	person[159]	giv[159]	nnnnn[159]	_	coref	35-1[160_159]
+34-2	2637-2639	do	_	_	_	_	_	_	
+34-3	2640-2643	n't	_	_	_	_	_	_	
+34-4	2644-2648	know	_	_	_	_	_	_	
+34-5	2649-2652	...	_	_	_	_	_	_	
+
+#Text=I was just cutting it ..
+35-1	2653-2654	I	person[160]	giv[160]	nnnnn[160]	_	coref	36-11[165_160]
+35-2	2655-2658	was	_	_	_	_	_	_	
+35-3	2659-2663	just	_	_	_	_	_	_	
+35-4	2664-2671	cutting	_	_	_	_	_	_	
+35-5	2672-2674	it	object[161]	giv[161]	nsnns[161]	_	coref	36-3[162_161]
+35-6	2675-2677	..	_	_	_	_	_	_	
+
+#Text=and ... it ... ... it slipped ... just ask my wife , I really am a clutz ... right honey ?
+36-1	2678-2681	and	_	_	_	_	_	_	
+36-2	2682-2685	...	_	_	_	_	_	_	
+36-3	2686-2688	it	object[162]	giv[162]	nsnns[162]	_	coref	36-6[163_162]
+36-4	2689-2692	...	_	_	_	_	_	_	
+36-5	2693-2696	...	_	_	_	_	_	_	
+36-6	2697-2699	it	object[163]	giv[163]	nsnns[163]	_	coref	41-32[185_163]
+36-7	2700-2707	slipped	_	_	_	_	_	_	
+36-8	2708-2711	...	_	_	_	_	_	_	
+36-9	2712-2716	just	_	_	_	_	_	_	
+36-10	2717-2720	ask	_	_	_	_	_	_	
+36-11	2721-2723	my	person[164]|person[165]	giv[164]|giv[165]	nnnnn[164]|nnnnn[165]	_	coref|coref	36-21[168_164]|36-14[166_165]
+36-12	2724-2728	wife	person[164]	giv[164]	nnnnn[164]	_	_	_
+36-13	2729-2730	,	_	_	_	_	_	_	
+36-14	2731-2732	I	person[166]	giv[166]	nnnnn[166]	_	coref	36-17[167_166]
+36-15	2733-2739	really	_	_	_	_	_	_	
+36-16	2740-2742	am	_	_	_	_	_	_	
+36-17	2743-2744	a	person[167]	giv[167]	n____[167]	_	coref	38-1[171_167]
+36-18	2745-2750	clutz	person[167]	giv[167]	n____[167]	_	_	_
+36-19	2751-2754	...	_	_	_	_	_	_	
+36-20	2755-2760	right	_	_	_	_	_	_	
+36-21	2761-2766	honey	person[168]	giv[168]	nnnnn[168]	_	coref|bridge	46-1[202_168]|41-1[176_168]
+36-22	2767-2768	?	_	_	_	_	_	_	
+
+#Text=... ( no help coming from that direction ) ...
+37-1	2769-2772	...	_	_	_	_	_	_	
+37-2	2773-2774	(	_	_	_	_	_	_	
+37-3	2775-2777	no	abstract[169]	new[169]	nnnnn[169]	_	_	_
+37-4	2778-2782	help	abstract[169]	new[169]	nnnnn[169]	_	_	_
+37-5	2783-2789	coming	_	_	_	_	_	_	
+37-6	2790-2794	from	_	_	_	_	_	_	
+37-7	2795-2799	that	abstract[170]	new[170]	nnnnn[170]	_	_	_
+37-8	2800-2809	direction	abstract[170]	new[170]	nnnnn[170]	_	_	_
+37-9	2810-2811	)	_	_	_	_	_	_	
+37-10	2812-2815	...	_	_	_	_	_	_	
+
+#Text=I will clean this up ...
+38-1	2816-2817	I	person[171]	giv[171]	nnnnn[171]	_	coref	39-1[173_171]
+38-2	2818-2822	will	_	_	_	_	_	_	
+38-3	2823-2828	clean	_	_	_	_	_	_	
+38-4	2829-2833	this	object[172]	acc[172]	nnnnn[172]	_	_	_
+38-5	2834-2836	up	_	_	_	_	_	_	
+38-6	2837-2840	...	_	_	_	_	_	_	
+
+#Text=I ca n't believe this ...
+39-1	2841-2842	I	person[173]	giv[173]	nnnnn[173]	_	coref	40-1[175_173]
+39-2	2843-2845	ca	_	_	_	_	_	_	
+39-3	2846-2849	n't	_	_	_	_	_	_	
+39-4	2850-2857	believe	_	_	_	_	_	_	
+39-5	2858-2862	this	abstract[174]	acc[174]	nnnnn[174]	_	_	_
+39-6	2863-2866	...	_	_	_	_	_	_	
+
+#Text=I am so sorry " etc ... etc ...
+40-1	2867-2868	I	person[175]	giv[175]	nnnnn[175]	_	coref	41-7[177_175]
+40-2	2869-2871	am	_	_	_	_	_	_	
+40-3	2872-2874	so	_	_	_	_	_	_	
+40-4	2875-2880	sorry	_	_	_	_	_	_	
+40-5	2881-2882	"	_	_	_	_	_	_	
+40-6	2883-2886	etc	_	_	_	_	_	_	
+40-7	2887-2890	...	_	_	_	_	_	_	
+40-8	2891-2894	etc	_	_	_	_	_	_	
+40-9	2895-2898	...	_	_	_	_	_	_	
+
+#Text=Both women continued to stare at me like I had escaped from the loony bin , as I smeared the blood around the window with my cloth napkin , dusted off the steak , and continued to mutter my incoherent explanation .
+41-1	2899-2903	Both	person[176]	split[176]	n____[176]	_	_	_
+41-2	2904-2909	women	person[176]	split[176]	n____[176]	_	_	_
+41-3	2910-2919	continued	_	_	_	_	_	_	
+41-4	2920-2922	to	_	_	_	_	_	_	
+41-5	2923-2928	stare	_	_	_	_	_	_	
+41-6	2929-2931	at	_	_	_	_	_	_	
+41-7	2932-2934	me	person[177]	giv[177]	nnnnn[177]	_	coref	41-9[178_177]
+41-8	2935-2939	like	_	_	_	_	_	_	
+41-9	2940-2941	I	person[178]	giv[178]	nnnnn[178]	_	coref	41-18[180_178]
+41-10	2942-2945	had	_	_	_	_	_	_	
+41-11	2946-2953	escaped	_	_	_	_	_	_	
+41-12	2954-2958	from	_	_	_	_	_	_	
+41-13	2959-2962	the	place[179]	new[179]	nnnnn[179]	_	_	_
+41-14	2963-2968	loony	place[179]	new[179]	nnnnn[179]	_	_	_
+41-15	2969-2972	bin	place[179]	new[179]	nnnnn[179]	_	_	_
+41-16	2973-2974	,	_	_	_	_	_	_	
+41-17	2975-2977	as	_	_	_	_	_	_	
+41-18	2978-2979	I	person[180]	giv[180]	nnnnn[180]	_	coref	41-26[184_180]
+41-19	2980-2987	smeared	_	_	_	_	_	_	
+41-20	2988-2991	the	substance[181]	giv[181]	n____[181]	_	_	_
+41-21	2992-2997	blood	substance[181]	giv[181]	n____[181]	_	_	_
+41-22	2998-3004	around	_	_	_	_	_	_	
+41-23	3005-3008	the	object[182]	giv[182]	n____[182]	_	_	_
+41-24	3009-3015	window	object[182]	giv[182]	n____[182]	_	_	_
+41-25	3016-3020	with	_	_	_	_	_	_	
+41-26	3021-3023	my	object[183]|person[184]	new[183]|giv[184]	nnnnn[183]|nnnnn[184]	_	coref	41-39[187_184]
+41-27	3024-3029	cloth	object[183]	new[183]	nnnnn[183]	_	_	_
+41-28	3030-3036	napkin	object[183]	new[183]	nnnnn[183]	_	_	_
+41-29	3037-3038	,	_	_	_	_	_	_	
+41-30	3039-3045	dusted	_	_	_	_	_	_	
+41-31	3046-3049	off	_	_	_	_	_	_	
+41-32	3050-3053	the	object[185]	giv[185]	n____[185]	_	coref	44-14[197_185]
+41-33	3054-3059	steak	object[185]	giv[185]	n____[185]	_	_	_
+41-34	3060-3061	,	_	_	_	_	_	_	
+41-35	3062-3065	and	_	_	_	_	_	_	
+41-36	3066-3075	continued	_	_	_	_	_	_	
+41-37	3076-3078	to	_	_	_	_	_	_	
+41-38	3079-3085	mutter	_	_	_	_	_	_	
+41-39	3086-3088	my	abstract[186]|person[187]	acc[186]|giv[187]	nnnnn[186]|nnnnn[187]	_	coref|coref	42-7[190_186]|42-1[188_187]
+41-40	3089-3099	incoherent	abstract[186]	acc[186]	nnnnn[186]	_	_	_
+41-41	3100-3111	explanation	abstract[186]	acc[186]	nnnnn[186]	_	_	_
+41-42	3112-3113	.	_	_	_	_	_	_	
+
+#Text=I knew no one was buying the story .
+42-1	3114-3115	I	person[188]	giv[188]	nnnnn[188]	_	coref	43-1[191_188]
+42-2	3116-3120	knew	_	_	_	_	_	_	
+42-3	3121-3123	no	person[189]	acc[189]	nnnnn[189]	_	_	_
+42-4	3124-3127	one	person[189]	acc[189]	nnnnn[189]	_	_	_
+42-5	3128-3131	was	_	_	_	_	_	_	
+42-6	3132-3138	buying	_	_	_	_	_	_	
+42-7	3139-3142	the	abstract[190]	new[190]	nnnnn[190]	_	_	_
+42-8	3143-3148	story	abstract[190]	new[190]	nnnnn[190]	_	_	_
+42-9	3149-3150	.	_	_	_	_	_	_	
+
+#Text=I knew what I had to do .
+43-1	3151-3152	I	person[191]	giv[191]	nnnnn[191]	_	coref	43-4[192_191]
+43-2	3153-3157	knew	_	_	_	_	_	_	
+43-3	3158-3162	what	_	_	_	_	_	_	
+43-4	3163-3164	I	person[192]	giv[192]	nnnnn[192]	_	coref	44-1[193_192]
+43-5	3165-3168	had	_	_	_	_	_	_	
+43-6	3169-3171	to	_	_	_	_	_	_	
+43-7	3172-3174	do	_	_	_	_	_	_	
+43-8	3175-3176	.	_	_	_	_	_	_	
+
+#Text=I sheepishly returned to my seat and proceeded to eat every bite of that disgusting , cold , chewy , bloody , raw steak .
+44-1	3177-3178	I	person[193]	giv[193]	nnnnn[193]	_	coref	44-5[195_193]
+44-2	3179-3189	sheepishly	_	_	_	_	_	_	
+44-3	3190-3198	returned	_	_	_	_	_	_	
+44-4	3199-3201	to	_	_	_	_	_	_	
+44-5	3202-3204	my	place[194]|person[195]	new[194]|giv[195]	nnnnn[194]|nnnnn[195]	_	coref	45-1[198_195]
+44-6	3205-3209	seat	place[194]	new[194]	nnnnn[194]	_	_	_
+44-7	3210-3213	and	_	_	_	_	_	_	
+44-8	3214-3223	proceeded	_	_	_	_	_	_	
+44-9	3224-3226	to	_	_	_	_	_	_	
+44-10	3227-3230	eat	_	_	_	_	_	_	
+44-11	3231-3236	every	substance[196]	new[196]	nnnnn[196]	_	_	_
+44-12	3237-3241	bite	substance[196]	new[196]	nnnnn[196]	_	_	_
+44-13	3242-3244	of	substance[196]	new[196]	nnnnn[196]	_	_	_
+44-14	3245-3249	that	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-15	3250-3260	disgusting	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-16	3261-3262	,	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-17	3263-3267	cold	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-18	3268-3269	,	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-19	3270-3275	chewy	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-20	3276-3277	,	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-21	3278-3284	bloody	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-22	3285-3286	,	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-23	3287-3290	raw	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-24	3291-3296	steak	substance[196]|object[197]	new[196]|giv[197]	nnnnn[196]|n____[197]	_	_	_
+44-25	3297-3298	.	_	_	_	_	_	_	
+
+#Text=I remained pretty quiet the rest of the evening .
+45-1	3299-3300	I	person[198]	giv[198]	nnnnn[198]	_	coref	46-1[203_198]
+45-2	3301-3309	remained	_	_	_	_	_	_	
+45-3	3310-3316	pretty	_	_	_	_	_	_	
+45-4	3317-3322	quiet	_	_	_	_	_	_	
+45-5	3323-3326	the	time[199]	new[199]	nnnnn[199]	_	_	_
+45-6	3327-3331	rest	time[199]	new[199]	nnnnn[199]	_	_	_
+45-7	3332-3334	of	time[199]	new[199]	nnnnn[199]	_	_	_
+45-8	3335-3338	the	time[199]|time[200]	new[199]|new[200]	nnnnn[199]|nnnnn[200]	_	_	_
+45-9	3339-3346	evening	time[199]|time[200]	new[199]|new[200]	nnnnn[199]|nnnnn[200]	_	_	_
+45-10	3347-3348	.	_	_	_	_	_	_	
+
+#Text=My wife 's only two words to me since the incident are " I 'm fine " .
+46-1	3349-3351	My	abstract[201]|person[202]|person[203]	new[201]|giv[202]|giv[203]	nnnnn[201]|nnnnn[202]|nnnnn[203]	_	coref|coref|coref	46-13[206_201]|46-14[207_202]|46-8[204_203]
+46-2	3352-3356	wife	abstract[201]|person[202]	new[201]|giv[202]	nnnnn[201]|nnnnn[202]	_	_	_
+46-3	3357-3359	's	abstract[201]|person[202]	new[201]|giv[202]	nnnnn[201]|nnnnn[202]	_	_	_
+46-4	3360-3364	only	abstract[201]	new[201]	nnnnn[201]	_	_	_
+46-5	3365-3368	two	abstract[201]	new[201]	nnnnn[201]	_	_	_
+46-6	3369-3374	words	abstract[201]	new[201]	nnnnn[201]	_	_	_
+46-7	3375-3377	to	abstract[201]	new[201]	nnnnn[201]	_	_	_
+46-8	3378-3380	me	abstract[201]|person[204]	new[201]|giv[204]	nnnnn[201]|nnnnn[204]	_	_	_
+46-9	3381-3386	since	abstract[201]	new[201]	nnnnn[201]	_	_	_
+46-10	3387-3390	the	abstract[201]|event[205]	new[201]|acc[205]	nnnnn[201]|nnsnn[205]	_	_	_
+46-11	3391-3399	incident	abstract[201]|event[205]	new[201]|acc[205]	nnnnn[201]|nnsnn[205]	_	_	_
+46-12	3400-3403	are	_	_	_	_	_	_	
+46-13	3404-3405	"	abstract[206]	giv[206]	n____[206]	_	_	_
+46-14	3406-3407	I	abstract[206]|person[207]	giv[206]|giv[207]	n____[206]|nnnnn[207]	_	_	_
+46-15	3408-3410	'm	abstract[206]	giv[206]	n____[206]	_	_	_
+46-16	3411-3415	fine	abstract[206]	giv[206]	n____[206]	_	_	_
+46-17	3416-3417	"	abstract[206]	giv[206]	n____[206]	_	_	_
+46-18	3418-3419	.	_	_	_	_	_	_	
