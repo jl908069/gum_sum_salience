@@ -30,7 +30,6 @@ def get_sal_tsv(input_paths): #get salient entities (only first mentions)
     for filepath in filepaths:
         # Convert to absolute path to ensure it's correct
         filepath = os.path.abspath(filepath)
-        #print(f"Trying to open file: {filepath}")  # Debugging line
         
         file_result = []
         try:
@@ -43,13 +42,13 @@ def get_sal_tsv(input_paths): #get salient entities (only first mentions)
                     columns = line.strip().split('\t')
                     if len(columns) < 7:
                         continue
-                    # Use coref/gum/tsv
+
                     word_index = columns[0]
                     word = columns[2]
                     ent_type = columns[3].split('|')  # Extract ent_type values
                     col5_values = columns[4].split('|')
                     col6_values = columns[5].split('|')
-                    coref_index = columns[9]  
+                    coref_index = columns[-1]  
                     
                     for col5, col6 in zip(col5_values, col6_values):
                         if col6.startswith('sal') and not col5.startswith('giv'):
@@ -79,9 +78,7 @@ def get_sal_tsv(input_paths): #get salient entities (only first mentions)
     
     return all_results
 
-# TO DO: results from `align.py` (problem: they are mentions!). And use that to calculate P/R/F with get_sal_tsv
-
-def get_sal_mentions(input_paths):
+def get_sal_mentions(input_paths): #get all salient mentions, only works in `coref/gum/tsv` files
     all_results = []
 
     def extract_bracketed_number(s):
@@ -108,7 +105,6 @@ def get_sal_mentions(input_paths):
     for filepath in filepaths:
         # Convert to absolute path to ensure it's correct
         filepath = os.path.abspath(filepath)
-        #print(f"Trying to open file: {filepath}")  # Debugging line
         
         file_result = []
         with open(filepath, 'r') as file:
@@ -120,12 +116,12 @@ def get_sal_mentions(input_paths):
                 columns = line.strip().split('\t')
                 if len(columns) < 7:
                     continue
-                # Use coref/gum/tsv
+                    
                 word_index = columns[0]
                 word = columns[2]
                 col5_values = columns[4].split('|')
                 col6_values = columns[5].split('|')
-                coref_index = columns[9]  
+                coref_index = columns[-1]  
                 
                 for col5, col6 in zip(col5_values, col6_values):
                     if col6.startswith('sal'):
