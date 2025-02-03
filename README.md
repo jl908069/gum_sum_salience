@@ -7,7 +7,7 @@
 ```
 ├── data
     └── input
-        └── tsv                                   # gold tsv files from GUM (Note: use `_build/src/tsv/` for running `serialize.py` now , use `/coref/gum/tsv/` for running others)
+        └── tsv                                   # gold tsv files from GUM (Note: use `_build/src/tsv/` files for running `serialize.py` now , use `/coref/gum/tsv/` for getting mentions)
             └── train
             └── dev
             └── test
@@ -25,10 +25,10 @@
         └── summaries                             # human or LLM generated summaries
             └── train                             # LLM generated summaries
                 └── {model_name} folder
-            └── dev                               # human crowdsourced summaries (h1~h5)
-            └── test                              # human crowdsourced summaries (h1~h5)
+            └── dev                               # human crowdsourced summaries (h1~h5 folders)
+            └── test                              # human crowdsourced summaries (h1~h5 folders)
         └── ensemble
-            └── `graded_sal_meta_learner_dev.tsv` # training tsv file for the logistic regression model
+            └── `graded_sal_meta_learner_dev.tsv` # training tsv file for the ensemble logistic regression model
             └── train                             # prediction tsv files obtained from `alignment` to run `ensemble.py`
             └── dev
             └── test 
@@ -41,7 +41,7 @@
   - Define a function get_summary(doc_text, n=4) that interacts with APIs (Huggingface, Anthropic, OpenAI) to generate n summaries
 
 #### `parse.py`
-  - Define a function parse(summary_text) that returns a list of noun phrase (NP) strings corresponding to all nominal mention strings (excluding pronouns) using `spacy`
+  - Define a function parse(summary_text) that returns a list of noun phrase (NP) strings corresponding to all nominal mention strings (excluding pronouns) using `stanza`
 
 #### `align.py`
   - Define a function align(doc_mentions, summary_text, mention_text) that aligns mentions from the summary with those in the document
