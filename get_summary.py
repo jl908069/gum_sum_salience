@@ -60,28 +60,23 @@ examples = {'academic': [
 def get_summary(doc_texts, doc_ids, data_folder, partition, model_name="google/flan-t5-xl", n=4, overwrite=False):
     global examples
 
-    # Adjust the quantization config to enable double quantization and optimize memory
     quantization_config = BitsAndBytesConfig(
         load_in_8bit=True,
-        bnb_8bit_use_double_quant=True,  # Enable double quantization to reduce VRAM usage
-        bnb_8bit_quant_type="nf8"        # Can also try 'fp4' depending on memory/performance needs
+        bnb_8bit_use_double_quant=True,
+        bnb_8bit_quant_type="nf8"
     )
 
-    # Extract the actual model name (strip the company/organization prefix)
     model_name_short = model_name.split("/")[-1]
-
-    # Load the tokenizer and model only once for all documents
+    
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
-    # Conditional loading with or without quantization
     if model_name == "google/flan-t5-xl":
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name, quantization_config=quantization_config)
     else:
         model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=quantization_config)
 
-    # Ensure output directory exists
     if not data_folder.endswith(os.sep):
         data_folder += os.sep
     summary_folder = data_folder + "output" + os.sep + "summaries" + os.sep + partition + os.sep + model_name_short + os.sep
@@ -93,51 +88,47 @@ def get_summary(doc_texts, doc_ids, data_folder, partition, model_name="google/f
     written_summaries = 0
     written_summary_docs = 0
 
-    # Process all documents in a single loop (no batches)
     for i, doc_text in enumerate(doc_texts):
         doc_id = doc_ids[i]
         doc_summaries = []
 
-        # Check if summaries exist in the specified filename format and load them if overwrite is False
         summaries_exist = all(
             os.path.exists(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt") for j in range(n)
         )
-
+        
         if summaries_exist and not overwrite:
-            # Load existing summaries
             for j in range(n):
                 with open(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt", "r", encoding="utf-8") as f:
                     doc_summaries.append(f.read().strip())
                     cached_summaries += 1
             cached_summary_docs += 1
         else:
-            # Generate prompt for the document
             genre = doc_id.split("_")[1]
             example = choice(examples[genre])
             prompt = f"Summarize the following article in 1 sentence. Example: {example}\n\n{doc_text}\n\nSummary:"
 
-            # Tokenize input and calculate input tokens
             input_ids = tokenizer(prompt, return_tensors="pt", padding=True).to(model.device)
-            input_token_count = input_ids.input_ids.shape[-1]
-          
-            # Generate summaries
-            out = model.generate(
-                **input_ids, max_new_tokens=120, num_return_sequences=n, do_sample=True, eos_token_id=tokenizer.eos_token_id, repetition_penalty=1.1
-            )
-            doc_summaries = tokenizer.batch_decode(out, skip_special_tokens=True)
 
-            # Print output tokens for each summary
-            for j, summary in enumerate(doc_summaries):
-                output_token_count = len(tokenizer(summary).input_ids)
-                print(f"Document {doc_id} - Output tokens (Summary {j + 1}): {output_token_count}")
+            def generate_valid_summary():
+                while True:
+                    out = model.generate(
+                        **input_ids, max_new_tokens=120, num_return_sequences=1, do_sample=True,
+                        eos_token_id=tokenizer.eos_token_id, repetition_penalty=1.1
+                    )
+                    summary = tokenizer.decode(out[0], skip_special_tokens=True).strip()
+                    
+                    if 50 <= len(summary) <= 380:
+                        return summary
+                    print(f"Reprompting: Invalid length {len(summary)} for document {doc_id}")
+            
+            doc_summaries = [generate_valid_summary() for _ in range(n)]
 
-            # Write summaries in the specified filename format
             for k, summary in enumerate(doc_summaries):
                 with open(f"{summary_folder}{model_name_short}_{doc_id}{k}.txt", "w", encoding="utf-8", newline="\n") as f:
                     f.write(summary)
                     written_summaries += 1
             written_summary_docs += 1
-
+        
         all_summaries[doc_id] = doc_summaries
 
     if cached_summaries > 0:
@@ -168,7 +159,7 @@ def get_summary_gpt4o(doc_texts, doc_ids, data_folder, partition, model_name="gp
         doc_id = doc_ids[i]
         doc_summaries = []
 
-        # Check if summaries exist in the specified filename format and load them if overwrite is False
+        # Check if summaries exist and load them if overwrite is False
         summaries_exist = all(
             os.path.exists(f"{summary_folder}{model_name_short}_{doc_id}{j}.txt") for j in range(n)
         )
@@ -186,30 +177,22 @@ def get_summary_gpt4o(doc_texts, doc_ids, data_folder, partition, model_name="gp
             example = choice(examples[genre])
             prompt = f"Summarize the following article in 1 sentence. Make sure your summary is one sentence long and may not exceed 380 characters. Example of summary style: {example}\n\n{doc_text}\n\nSummary:"
             
-            # Call the GPT4o API
-            response = client.chat.completions.create(
-                model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": "You are an assistant for generating one-sentence summaries."},
-                    {"role": "user", "content": prompt}
-                ]
-            )         
-
-            # Extract summaries from response
-            choices = response.choices
-            if len(choices) < n:
-                print(f"Warning: Only {len(choices)} summaries returned for document {doc_id}, expected {n}.")
-                while len(choices) < n:
-                    # Generate additional summaries if needed
-                    additional_response = client.chat.completions.create(
+            def generate_valid_summary(prompt):
+                while True:
+                    response = client.chat.completions.create(
                         model="gpt-4o",
                         messages=[
                             {"role": "system", "content": "You are an assistant for generating one-sentence summaries."},
                             {"role": "user", "content": prompt}
                         ]
                     )
-                    choices.extend(additional_response.choices)
-            doc_summaries = [choice.message.content.strip() for choice in choices[:n]]
+                    summary = response.choices[0].message.content.strip()
+                    
+                    if 50 <= len(summary) <= 380:
+                        return summary
+                    print(f"Reprompting GPT-4o: Invalid length {len(summary)} for document {doc_id}")
+            
+            doc_summaries = [generate_valid_summary(prompt) for _ in range(n)]
 
             # Write summaries in the specified filename format
             for k, summary in enumerate(doc_summaries):
@@ -217,7 +200,7 @@ def get_summary_gpt4o(doc_texts, doc_ids, data_folder, partition, model_name="gp
                     f.write(summary)
                     written_summaries += 1
             written_summary_docs += 1
-            
+        
         all_summaries[doc_id] = doc_summaries
 
     if cached_summaries > 0:
