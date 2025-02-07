@@ -455,7 +455,7 @@ def align_stanza(summary_text, doc_mentions, doc_text):
 
     return output
 
-def align(doc_mentions, summary_text, mention_text, doc_text, data_folder, n_summaries, component="string_match", partition="test"):
+def align(data_folder, doc_mentions, summary_text, mention_text, doc_text, n_summaries, component="string_match", partition="test"):
     if component == "LLM":
         return align_llm(doc_mentions, summary_text, doc_text)
     elif component == "LLM_hf":
@@ -492,20 +492,24 @@ if __name__ == "__main__":
     all_entities_from_tsv = get_entities_from_gold_tsv(args.data_folder + '/input/tsv/'+ args.partition)
     gold_summaries = extract_gold_summaries_from_xml(args.data_folder + '/input/xml/'+ args.partition)
     if args.model_name=="gpt4o":
-        summaries = get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary_gpt4o(doc_texts, doc_ids, args.data_folder, partition=args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     elif args.model_name=="claude-3-5-sonnet-20241022":
-        summaries = get_summary_claude35(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary_claude35(doc_texts, doc_ids, args.data_folder, partition=args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     else:
-        summaries = get_summary(doc_texts, doc_ids, args.data_folder, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
+        summaries = get_summary(doc_texts, doc_ids, args.data_folder, partition=args.partition, model_name=args.model_name, n=args.n_summaries, overwrite=args.overwrite_cache)
     
+    print('summaries:', summaries)
     sum1_mentions = parse_summaries(list(gold_summaries.values()))
     all_mentions = parse_summaries(list(summaries.values()))
-    #print('all mentions:',all_mentions, '\n','len of all mentions:', len(all_mentions[0])) 
+    print('all mentions:',all_mentions) 
     #folders_with_pred_tsv = [os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}') for i in range(1, args.n_summaries + 1) if glob.glob(os.path.join(pred_tsv_folder, f'tsv_pred_{args.partition}{i}', '*.tsv'))] 
     doc_sp_texts = extract_text_speaker_from_xml(args.data_folder + '/input/xml/'+ args.partition)
+    if args.max_docs is not None:
+        doc_sp_texts = doc_sp_texts[:args.max_docs]
     #print('doc_sp_texts:',doc_sp_texts, '\n','len of doc_sp_texts:', len(doc_sp_texts))
 
     alignments = align(
+        data_folder=args.data_folder,
         doc_mentions=all_entities_from_tsv,
         summary_text=list(summaries.values()),
         mention_text=all_mentions,
@@ -521,7 +525,5 @@ if __name__ == "__main__":
         print(f"LLM_hf Alignment Result:\n{alignments}")
     elif args.component == "string_match":
         print(f"String Match Alignment Result:\n{alignments}")
-    # elif args.component == "coref_system":
-    #     print(f"Coreference MTL Alignment Result:\n{alignments}")
     elif args.component == "stanza":
         print(f"Stanza Alignment Result:\n{alignments}")
