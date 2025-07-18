@@ -1,5 +1,9 @@
 # gum_sum_salience
 
+Data and code for ACL 2025 Findings paper: [GUM-SAGE: A Novel Dataset and Approach for Graded Entity Salience Prediction](https://arxiv.org/pdf/2504.10792)
+
+Data is also available from [GUM](https://github.com/amir-zeldes/gum)
+
 ### Prepare datasets
 - Download the GUM tsv and xml folders from [GUM](https://github.com/amir-zeldes/gum) and put them in `./data`. Place the `train`, `dev`, and `test` documents in their corresponding folders.
 <!-- - To run the `coref_system` align method, put the prediction tsv files from [coref-mtl](https://github.com/yilunzhu/coref-mtl) under `./data/pred_tsv`. Name the folders this way: `tsv_pred_{train/dev/test}{summary_n}`. For example, `tsv_pred_train1` contains prediction tsv files from the `train` partition in summary 1 (i.e. the gold summary).-->
